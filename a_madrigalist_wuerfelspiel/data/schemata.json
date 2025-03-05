@@ -1,0 +1,19 @@
+{
+	"schemata": [
+		{
+			"id": 0,
+			"label": "",
+			"framework": [
+				{"voice": "basso",
+				"sequence": []},
+				{"voice": "tenor",
+				"sequence": []},
+				{"voice": "alto",
+				"sequence": []},
+				{"voice": "canto",
+				"sequence": []},
+
+			]
+		}
+	]
+}

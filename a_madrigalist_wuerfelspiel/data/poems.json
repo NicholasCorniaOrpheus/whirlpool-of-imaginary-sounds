@@ -1,0 +1,13 @@
+{
+	"poems": [
+		{"id": 0,
+			"label": "",
+			"verses": [
+				{"number": 1,
+				"text": "",
+			"affects": []}
+			]
+		}
+
+	]
+}
