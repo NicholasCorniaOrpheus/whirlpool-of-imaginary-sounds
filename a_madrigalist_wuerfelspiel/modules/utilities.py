@@ -1,12 +1,10 @@
 """
-Utility functions for the algorithm
+Import utility functions
 """
-
 import json, csv
-import random
-import abjad
 
 
+# Import Functions
 def csv2dict(csv_filename):  # imports a CSV file as dictionary
     f = open(csv_filename, "r")
     reader = csv.DictReader(f)

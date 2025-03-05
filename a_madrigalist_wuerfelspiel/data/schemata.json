@@ -1,11 +1,16 @@
 {
 	"schemata": [
 		{
-			"id": 0,
-			"label": "",
+			"id": 1,
+			"label": "empio_tuo_strale_opening",
 			"framework": [
 				{"voice": "basso",
-				"sequence": []},
+				"sequence": [{"degree": 5, "octave": 0, "accidental": "", "duration": "1"},
+					{"degree": 3, "octave": 0, "accidental": "", "duration": "1"},
+					{"degree": 1, "octave": 0, "accidental": "", "duration": "1"},
+					{"degree": 1, "octave": 1, "accidental": "", "duration": "1"},
+				{"degree": 1, "octave": 1, "accidental": "", "duration": "1"},
+			{"degree": 5, "octave": 0, "accidental": "", "duration": "1"}]},
 				{"voice": "tenor",
 				"sequence": []},
 				{"voice": "alto",
