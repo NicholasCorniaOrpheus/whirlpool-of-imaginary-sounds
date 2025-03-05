@@ -2,13 +2,24 @@
 Main code of A Madrigalist Würfelspiel.
 """
 
+import os
 import json, csv
 from modules.utilities import *
 from modules.conversions import *
+from modules.model import *
 import sys
 
 sys.path.append("./modules")  # importing custom functions in modules
 
+# Loading data files
+
+data_dir = "./data"
+schemata_filename = os.path.join(data_dir, "schemata.json")
+poems_filename = os.path.join(data_dir, "poems.json")
+affects_filename = os.path.join(data_dir, "affects.json")
+schemata = json2dict(schemata_filename)
+poems = json2dict(poems_filename)
+affects = json2dict(affects_filename)
 
 # Testing
 
@@ -25,10 +36,17 @@ mode_test = "dorian"
 
 hexachord_test = "mollis"
 
-string_test = r"g,\breve g1. bf2. c4. bf8 d1 cs8. b16 d1 g'2 fs'2 g1"
+string_test = r"r\breve g'1 e1 c2 c'2 b'1 c'1"
+
 
 # print(degree_sequence2lilypond(seq_test, mode="dorian", hexachord="durum"))
 
 # print(hexachord_transposition(mode_test, hexachord_test))
 
-print(lilypond2degree_sequence(string_test, mode_test, hexachord_test))
+# print(lilypond2degree_sequence(string_test, mode_test, hexachord_test))
+
+s = add_new_schema(schemata["schemata"])
+
+schemata["schemata"].append(s)
+
+dict2json(schemata, schemata_filename)

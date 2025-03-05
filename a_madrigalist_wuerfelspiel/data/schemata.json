@@ -1,24 +1,204 @@
 {
-	"schemata": [
-		{
-			"id": 1,
-			"label": "empio_tuo_strale_opening",
-			"framework": [
-				{"voice": "basso",
-				"sequence": [{"degree": 5, "octave": 0, "accidental": "", "duration": "1"},
-					{"degree": 3, "octave": 0, "accidental": "", "duration": "1"},
-					{"degree": 1, "octave": 0, "accidental": "", "duration": "1"},
-					{"degree": 1, "octave": 1, "accidental": "", "duration": "1"},
-				{"degree": 1, "octave": 1, "accidental": "", "duration": "1"},
-			{"degree": 5, "octave": 0, "accidental": "", "duration": "1"}]},
-				{"voice": "tenor",
-				"sequence": []},
-				{"voice": "alto",
-				"sequence": []},
-				{"voice": "canto",
-				"sequence": []},
-
-			]
-		}
-	]
+  "schemata": [
+    {
+      "id": 0,
+      "label": "empio_tuo_strale_opening",
+      "framework": [
+        {
+          "name": "basso",
+          "sequence": [
+            {
+              "degree": 5,
+              "octave": 0,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 1,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 1,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 1,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            }
+          ]
+        },
+        {
+          "name": "tenor",
+          "sequence": [
+            {
+              "degree": 5,
+              "octave": 0,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 1,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 3,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 5,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 3,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 2,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 1,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            }
+          ]
+        },
+        {
+          "name": "alto",
+          "sequence": [
+            {
+              "degree": 0,
+              "octave": "",
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 0,
+              "octave": "",
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 5,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "ficta": "",
+              "duration": "2"
+            },
+            {
+              "degree": 1,
+              "octave": 1,
+              "ficta": "",
+              "duration": "2"
+            },
+            {
+              "degree": 7,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 1,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            }
+          ]
+        },
+        {
+          "name": "canto",
+          "sequence": [
+            {
+              "degree": 0,
+              "octave": "",
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 0,
+              "octave": "",
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 5,
+              "octave": 1,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 1,
+              "octave": 2,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 3,
+              "octave": 2,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 5,
+              "octave": 2,
+              "ficta": "",
+              "duration": "1"
+            },
+            {
+              "degree": 3,
+              "octave": 2,
+              "ficta": "",
+              "duration": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

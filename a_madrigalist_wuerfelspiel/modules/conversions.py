@@ -63,7 +63,7 @@ Dots are possibile
 
 def hexachord_transposition(mode, hexachord):
     if hexachord == "naturalis":
-        return mode
+        return mode_mapping[mode]
     else:
         transposed_mode = [0]
         if hexachord == "durum":
@@ -128,32 +128,39 @@ def lilypond2degree_sequence(string, mode, hexachord):
     sequence = []
     splitted_string = string.split(" ")
     current_mode = hexachord_transposition(mode, hexachord)
+    # print("Current mode:", current_mode)
     for element in splitted_string:
-        # order of instruction: pitch,accidental,octave signs,duration
-        note = abjad.Note(element)
-        pitch = abjad.NamedPitchClass(note)
         degree = 0
         ficta = ""
-        print("Current note:", note)
-        # search pitch in mode
-        for d in current_mode[1:]:
-            if d[0] == pitch.name[0]:
-                d_pitch = abjad.NamedPitchClass(d)
-                difference = d_pitch - pitch
-                direction = difference.direction_number
-                if direction == 1:
-                    ficta = "+"
-                if direction == -1:
-                    ficta = "-"
-                else:
-                    pass
+        octave = ""
+        if element[0] == "r":  # rest case
+            rest = abjad.Rest(element)
+            written_duration = str(rest.written_duration)
+            duration = duration_mapping[written_duration]
+        else:
+            # order of instruction: pitch,accidental,octave signs,duration
+            note = abjad.Note(element)
+            pitch = abjad.NamedPitchClass(note)
+            # print("Current note:", note)
+            # search pitch in mode
+            for d in current_mode[1:]:
+                if d[0] == pitch.name[0]:
+                    d_pitch = abjad.NamedPitchClass(d)
+                    difference = d_pitch - pitch
+                    direction = difference.direction_number
+                    if direction == 1:
+                        ficta = "+"
+                    if direction == -1:
+                        ficta = "-"
+                    else:
+                        pass
 
-                # print("Degree:", current_mode.index(d))
-                degree = current_mode.index(d)
+                    # print("Degree:", current_mode.index(d))
+                    degree = current_mode.index(d)
 
-        octave = abjad.NamedPitch(note).octave.number - 3
-        written_duration = str(note.written_duration)
-        duration = duration_mapping[written_duration]
+            octave = abjad.NamedPitch(note).octave.number - 3
+            written_duration = str(note.written_duration)
+            duration = duration_mapping[written_duration]
 
         sequence.append(
             {
@@ -163,4 +170,5 @@ def lilypond2degree_sequence(string, mode, hexachord):
                 "duration": duration,
             }
         )
+        # print(sequence[-1])
     return sequence
