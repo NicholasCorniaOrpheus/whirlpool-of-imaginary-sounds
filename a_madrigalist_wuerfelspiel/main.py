@@ -24,19 +24,25 @@ affects = json2dict(affects_filename)
 # Testing
 
 seq_test = [
-    {"degree": 1, "octave": 0, "accidental": "", "duration": r"\breve"},
-    {"degree": 5, "octave": 0, "accidental": "", "duration": "1"},
-    {"degree": 4, "octave": 0, "accidental": "+", "duration": "2"},
-    {"degree": 3, "octave": 0, "accidental": "+", "duration": "2"},
-    {"degree": 4, "octave": 0, "accidental": "+", "duration": "1"},
-    {"degree": 5, "octave": 0, "accidental": "", "duration": "1"},
+    {
+        "degree": 1,
+        "octave": 0,
+        "accidental": "",
+        "duration": "\\breve",
+        "quarterLength": 8,
+    },
+    {"degree": 5, "octave": 0, "accidental": "", "duration": "1", "quarterLength": 4},
+    {"degree": 4, "octave": 0, "accidental": "+", "duration": "2", "quarterLength": 2},
+    {"degree": 3, "octave": 0, "accidental": "+", "duration": "2", "quarterLength": 2},
+    {"degree": 4, "octave": 0, "accidental": "+", "duration": "1", "quarterLength": 4},
+    {"degree": 5, "octave": 0, "accidental": "", "duration": "1", "quarterLength": 4},
 ]
 
 mode_test = "dorian"
 
 hexachord_test = "mollis"
 
-string_test = r"r\breve g'1 e1 c2 c'2 b'1 c'1"
+string_test = "r\\breve g'1 e1 c2 c'2 b'1 c'1"
 
 
 # print(degree_sequence2lilypond(seq_test, mode="dorian", hexachord="durum"))
@@ -45,8 +51,16 @@ string_test = r"r\breve g'1 e1 c2 c'2 b'1 c'1"
 
 # print(lilypond2degree_sequence(string_test, mode_test, hexachord_test))
 
-s = add_new_schema(schemata["schemata"])
+# s = add_new_schema(schemata["schemata"])
 
-schemata["schemata"].append(s)
+# schemata["schemata"].append(s)
 
-dict2json(schemata, schemata_filename)
+# dict2json(schemata, schemata_filename)
+
+test_schema_dir = "empio_tuo_strale_opening"
+
+test_realization_dir = "empio_tuo_strale_opening_1"
+
+add_new_realization_from_folder(
+    os.path.join("data", "scores", "realizations", test_realization_dir)
+)

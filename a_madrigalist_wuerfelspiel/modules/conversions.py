@@ -3,6 +3,11 @@ Conversion functions
 """
 
 import abjad
+from .utilities import *
+from .model import *
+import sys
+
+sys.path.append("./modules")  # importing custom functions in modules
 
 # Metadata
 
@@ -16,18 +21,33 @@ mode_mapping = {
 }
 
 duration_mapping = {
-    "4": r"\longa",
-    "3": r"\breve.",
-    "2": r"\breve",
-    "3/2": r"1.",
+    "4": "\\longa",
+    "3": "\\breve.",
+    "2": "\\breve",
+    "3/2": "1.",
     "1": "1",
-    "3/4": r"2.",
+    "3/4": "2.",
     "1/2": "2",
-    "3/8": r"4.",
+    "3/8": "4.",
     "1/4": "4",
-    "3/16": r"8.",
+    "3/16": "8.",
     "1/8": "8",
     "1/16": "16",
+}
+
+duration_quarterLength = {
+    "4": 16,
+    "3": 12,
+    "2": 8,
+    "3/2": 6,
+    "1": 4,
+    "3/4": 3,
+    "1/2": 2,
+    "3/8": 1.5,
+    "1/4": 1,
+    "3/16": 0.75,
+    "1/8": 0.5,
+    "1/16": 0.25,
 }
 
 mode_intervals = {
@@ -50,7 +70,7 @@ hexachord_mapping = {
 """
 example of degree sequence
 
-seq = [{"degree": 1,"octave": 0, "ficta": "", "duration": "/breve"}]
+seq = [{"degree": 1,"octave": 0, "ficta": "", "duration": "/breve", "quarterLength": 8}]
 
 octave: 0 = central C in bass clef. positive numbers provides ' signs, negative ones , 
 
@@ -137,6 +157,7 @@ def lilypond2degree_sequence(string, mode, hexachord):
             rest = abjad.Rest(element)
             written_duration = str(rest.written_duration)
             duration = duration_mapping[written_duration]
+            quarter_length = duration_quarterLength[written_duration]
         else:
             # order of instruction: pitch,accidental,octave signs,duration
             note = abjad.Note(element)
@@ -161,6 +182,7 @@ def lilypond2degree_sequence(string, mode, hexachord):
             octave = abjad.NamedPitch(note).octave.number - 3
             written_duration = str(note.written_duration)
             duration = duration_mapping[written_duration]
+            quarter_length = duration_quarterLength[written_duration]
 
         sequence.append(
             {
@@ -168,7 +190,86 @@ def lilypond2degree_sequence(string, mode, hexachord):
                 "octave": octave,
                 "ficta": ficta,
                 "duration": duration,
+                "quarterLength": quarter_length,
             }
         )
         # print(sequence[-1])
     return sequence
+
+
+def get_lowest_note(
+    chord,
+):  # given a list of lilypond notes, returns the position of the lowest sounding note:
+    lowest_note = abjad.Note(chord[0])
+    for note in chord:
+        if abjad.Note(note) < lowest_note:
+            lowest_note = abjad.Note(note)
+
+    return chord.index(lowest_note.name)
+
+
+def get_length_sequence(
+    degree_voices, mode, hexachord
+):  # returns max quarterLength given lilypond sequences of voices
+    # total length (in quarter notes), assuming all voices are of same length:
+    total_length = 0
+    for note in degree_voices[0]:
+        total_length += note["quarterLength"]
+
+    return total_length
+
+
+def get_duration_window(
+    degree_voices, mode, hexachord
+):  # returns shortest length of lilypond sequences of voices
+    # shortest duration as reference
+    duration_window = 100
+    for degree_voice in degree_voices:
+        for note in degree_voice:
+            if note["quarterLength"] < duration_window:
+                duration_window = note["quarterLength"]
+
+    return duration_window
+
+
+def lilypond_voices2degree(
+    voices, mode, hexachord
+):  # convert the sequences to degree_sequences
+    degree_voices = []
+    for voice in voices:
+        degree_voices.append(
+            lilypond2degree_sequence(voice["sequence"], mode, hexachord)
+        )
+
+    return degree_voices
+
+
+def lilypond_voices2duration_windows(
+    voices, mode, hexachord
+):  # splits notes in homophonic sequence according to shortest value
+    # convert voices into degree_voices
+    degree_voices = lilypond_voices2degree(voices, mode, hexachord)
+    # print("Degree voices:", degree_voices)
+    # get shorter duration
+    duration_window = get_duration_window(degree_voices, mode, hexachord)
+    # print("Duration window:", duration_window)
+    # get total length
+    total_length = get_length_sequence(degree_voices, mode, hexachord)
+    # split lilypond strings into list
+    lilypond_sequences = []
+    for voice in voices:
+        # To use the next() method I need the lists to be iterable
+        lilypond_sequences.append(iter(voice["sequence"].split(" ")))
+    # print("Lilypond sequences:", lilypond_sequences)
+    # generate new homophonic sequence
+    homophonic_sequences = [[] for i in range(len(voices))]
+    print(homophonic_sequences)
+    exit_condition = False
+
+    for i in range(len(voices)):
+        voice = lilypond_sequences[i]
+        for j in range(degree_voices[i]):
+            quarter_length = degree_voices[i][j]["quarterLength"]
+            # this number should always be integer and ge 1
+            # not working for tuplets...
+            n = int(float(quarter_length) / duration_window)

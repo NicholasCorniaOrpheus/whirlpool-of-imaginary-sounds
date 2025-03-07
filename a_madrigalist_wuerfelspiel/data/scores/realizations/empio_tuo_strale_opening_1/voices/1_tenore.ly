@@ -1,0 +1,1 @@
+r2 d2 g2 a2 bf4 a4 bf4 c'4 d'2 d'2 bf2. a8 g8 a1 g1 

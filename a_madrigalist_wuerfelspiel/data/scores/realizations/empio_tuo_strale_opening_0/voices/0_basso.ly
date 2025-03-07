@@ -1,0 +1,1 @@
+g1 e2 d c4 c4 c'2. b4 b4 a8 b8 c'1 g1 c'1
