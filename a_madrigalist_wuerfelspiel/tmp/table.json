@@ -1,17 +1,333 @@
 [
   {
-    "id": 21,
-    "label": "ama_ben_dice_ma_lasso",
-    "composer": "Paolo Virchi",
-    "title": "Ama ben dice Amore",
+    "id": 0,
+    "label": "o_viver_mio_quel_che_agli_altri",
+    "composer": "Anonymous",
+    "title": "O viver mio noioso",
     "n_voices": 4,
-    "mode": "dorian",
+    "mode": "phrygian",
     "hexachord": "mollis",
+    "cadence": "phrygian",
+    "voices": [
+      {
+        "name": "basso",
+        "sequence": "g1 g1 f1 e1 e1 d1 c1 r1 r\\breve r\\breve",
+        "degree_sequence": [
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "tenore",
+        "sequence": "r1 d'1 d'1 c'1 b1 b1 c'1 c'1 a1 f1 e\\breve",
+        "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "alto",
+        "sequence": "r\\breve r\\breve r1 f'1 g'1 e'1 c'1 a1 b\\breve",
+        "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "canto",
+        "sequence": "r\\breve r1 g'1 g'1 f'1 e'1 a'1 f'1 d'1 e'\\breve",
+        "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "label": "empio_tuo_strale_amor",
+    "composer": "Giulio Renaldi",
+    "title": "L'Empio tuo strale Amore",
+    "n_voices": 4,
+    "mode": "ionian",
+    "hexachord": "naturalis",
     "cadence": "authentic",
     "voices": [
       {
         "name": "basso",
-        "sequence": "r\\breve r\\breve r1 f1  bf1 bf1 bf1 a1 g1 g1 f1 ef1 d1 r1 r\\breve  r1 g1 ef1 d1 g\\breve",
+        "sequence": "r\\breve r\\breve r1 d1 g1 c1 d1 g1 fs1 g1 b,1 c1 g1 f1 e1 g1 c\\breve",
         "degree_sequence": [
           {
             "degree": 0,
@@ -35,28 +351,21 @@
             "quarterLength": 4
           },
           {
-            "degree": 7,
+            "degree": 2,
             "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 3,
+            "degree": 5,
             "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
+            "degree": 1,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -70,28 +379,14 @@
             "quarterLength": 4
           },
           {
-            "degree": 1,
+            "degree": 5,
             "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
+            "degree": 4,
             "octave": 0,
             "ficta": "+",
             "duration": "1",
@@ -105,21 +400,7 @@
             "quarterLength": 4
           },
           {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 0,
+            "degree": 7,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -133,9 +414,23 @@
             "quarterLength": 4
           },
           {
-            "degree": 6,
+            "degree": 5,
             "octave": 0,
-            "ficta": "+",
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
@@ -157,520 +452,7 @@
       },
       {
         "name": "tenore",
-        "sequence": "r1 f'1 g'1 g'1 f'1 f'1 f'1 ef'1 d'1 c'1 c'1 bf1 a1 c'1 a1 bf1 f1 f1 c'1 bf1 c'1 d'1 d'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "alto",
-        "sequence": "r1 bf'1 bf'1 bf'1 bf'1 a'1 a'1 g'1 f'1 f'1 g'1 g'1 a'1 g'1 f'1 f'1 a'1 f'1 e'1 g'1 g'1 fs'1 g'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "canto",
-        "sequence": "d''1 f''1 f''1 ef''1 d''1 c''1 bf'1 bf'1 f''1 f''1 ef''1 d''1 c''1 bf'1 d''1 d''1  c''1 a'1 g'1 d''1 bf'1 a'1 b'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 2,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 2,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "label": "dicesti_anima_mia_opening",
-    "composer": "Vittoria Aleotti",
-    "title": "Dicesti anima mia",
-    "n_voices": 4,
-    "mode": "dorian",
-    "hexachord": "mollis",
-    "cadence": "plagal",
-    "voices": [
-      {
-        "name": "basso",
-        "sequence": "r\\breve r\\breve r\\breve g1 fs1 g1 a1 g1 fs1 g1 ef1 d1 c1 b,1 c1 g,\\breve",
+        "sequence": "r\\breve g1 d'1 b1 a1 b1 c'1 b1 g1 d'1 b1 g1 g1 d'1 f'1 c'1 b1 c'\\breve\n",
         "degree_sequence": [
           {
             "degree": 0,
@@ -680,35 +462,7 @@
             "quarterLength": 8
           },
           {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
+            "degree": 5,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -716,643 +470,6 @@
           },
           {
             "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 0,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": -1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "tenore",
-        "sequence": "r\\breve r\\breve r\\breve d'1 d'1 b1 c'1 bf1 a1 g1 g1 a1 c'1 d'1 ef'1 d'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "alto",
-        "sequence": "g'1 fs'1 g'1 a'1 g'1 fs'1 g'1 a'1 d'1 a'1 d'1 d'1 d'1 g'1 fs'1 g'1 g'1 g'1 g'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "canto",
-        "sequence": "d''1 d''1 b'1 c''1 bf'1 a'1 g'1 a'1 g'1 e'1 g'1 a'1 g'1 c''1 d''1 ef''1 d''1 c''1 b'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 2,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "label": "quanti_son_poi_hanno_per_un",
-    "composer": "Hoste da Reggio",
-    "title": "Quanti son poi che divenuti amanti",
-    "n_voices": 4,
-    "mode": "mixolydian",
-    "hexachord": "mollis",
-    "cadence": "authentic",
-    "voices": [
-      {
-        "name": "basso",
-        "sequence": "c1 bf,1 bf,1 c1 bf,1 ef1 f1 c1 c1 bf,1 bf,1 c1 f,1 bf,1 a,1 d1 c\\breve",
-        "degree_sequence": [
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "tenore",
-        "sequence": "c'1 d'1 bf1 g1 bf1 bf1 a1 g1 c'1 d'1 bf1 g1 f1 f1 a1 g1 g\\breve",
-        "degree_sequence": [
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -1373,7 +490,7 @@
             "quarterLength": 4
           },
           {
-            "degree": 5,
+            "degree": 7,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -1381,14 +498,28 @@
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -1408,372 +539,21 @@
             "quarterLength": 4
           },
           {
-            "degree": 4,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
             "degree": 5,
             "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "alto",
-        "sequence": "e'1 f'1 d'1 c'1 d'1 ef'1 c'1 c'1 e'1 f'1 d'1 c'1 a1 bf1 c'1 b1 c'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "canto",
-        "sequence": "g'1 bf'1 g'1 e'1 f'1 g'1 f'1 e'1 g'1 bf'1 g'1 e'1 c'1 d'1 e'1 f'1 e'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "label": "tosto_che_il_sol_tregua_al_mio",
-    "composer": "Giovanni Domenico da Nola",
-    "title": "Tosto ch'il sol si scopre in Oriente",
-    "n_voices": 4,
-    "mode": "dorian",
-    "hexachord": "mollis",
-    "cadence": "authentic",
-    "voices": [
-      {
-        "name": "basso",
-        "sequence": "bf,1 c1 d1 bf,1 ef1 c1 d1 g,\\breve",
-        "degree_sequence": [
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 0,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": -1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "tenore",
-        "sequence": "bf1 g1 f1 bf1 g1 g1 fs1 g\\breve",
-        "degree_sequence": [
-          {
-            "degree": 3,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -1790,34 +570,6 @@
             "degree": 7,
             "octave": 0,
             "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "+",
             "duration": "1",
             "quarterLength": 4
           },
@@ -1832,32 +584,18 @@
       },
       {
         "name": "alto",
-        "sequence": "d'1 c'1 a'1 d'1 bf1 c'1 a1 bf\\breve",
+        "sequence": "r1 d'1 e'1 fs'1 g'1 a'1 d'1 e'1 fs'1 g'1 d'1 d'1 d'1 e'1 g'1 a'1 g'1 d'1 e'\\breve",
         "degree_sequence": [
           {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
+            "degree": 0,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -1871,7 +609,98 @@
           },
           {
             "degree": 4,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -1894,60 +723,137 @@
       },
       {
         "name": "canto",
-        "sequence": "f'1 ef'1 d'1 f'1 ef'1 ef'1 d'1 d'\\breve",
+        "sequence": "g'1 d''1 b'1 a'1 b'1 fs'1 g'1 g'1 d''1 b'1 a'1 g'1 g'1 c''1 b'1 c''1 c''1 g'1 g'\\breve",
         "degree_sequence": [
           {
-            "degree": 7,
-            "octave": 1,
+            "degree": 5,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
+            "degree": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
-            "ficta": "+",
+            "octave": 0,
+            "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 6,
-            "octave": 1,
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
             "ficta": "+",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -1957,463 +863,7 @@
     ]
   },
   {
-    "id": 10,
-    "label": "cantava_in_riva_e_parea_mormorando",
-    "composer": "Ludovico Agostini",
-    "title": "Cantava in riva al fiume Tirsi",
-    "n_voices": 4,
-    "mode": "dorian",
-    "hexachord": "mollis",
-    "cadence": "authentic",
-    "voices": [
-      {
-        "name": "basso",
-        "sequence": "d1 g1 f1 bf,1 bf,1 bf,1 bf,1 bf,1 bf,1 bf,1 bf,1 c1 d1 d1 g,\\breve ",
-        "degree_sequence": [
-          {
-            "degree": 5,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": -1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "tenore",
-        "sequence": "fs1 g1 a1 d'1 f'1 d'1 bf1 d'1 f'1 d'1 d'1 c'1 bf1 a1 b\\breve",
-        "degree_sequence": [
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "+",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "alto",
-        "sequence": "a'1 bf'1 c''1  f'1 f'1 f'1 d'1 bf1 d'1 f'1 f'1 ef'1 d'1 d'1 d'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "canto",
-        "sequence": "d''1 d''1 f''1 f''1 d''1 bf'1 d''1 f''1 d''1 bf'1 bf'1 g'1 g'1 fs'1 g'\\breve",
-        "degree_sequence": [
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 19,
+    "id": 0,
     "label": "mentre_tu_canti_opening",
     "composer": "Marc'Antonio Ingegneri",
     "title": "Metre tu canti",
@@ -2540,43 +990,43 @@
           },
           {
             "degree": 4,
-            "octave": -1,
-            "ficta": "+",
+            "octave": 0,
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": -1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": -1,
-            "ficta": "+",
+            "octave": 0,
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": -1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": -1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": -1,
-            "ficta": "+",
+            "octave": 0,
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
@@ -2589,7 +1039,7 @@
           },
           {
             "degree": 1,
-            "octave": -1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -2644,14 +1094,14 @@
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -2665,21 +1115,21 @@
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -2700,42 +1150,42 @@
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -2743,7 +1193,7 @@
           {
             "degree": 4,
             "octave": 0,
-            "ficta": "+",
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
@@ -2776,70 +1226,70 @@
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -2853,84 +1303,84 @@
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -2943,28 +1393,28 @@
         "degree_sequence": [
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -2978,63 +1428,63 @@
           },
           {
             "degree": 5,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -3055,56 +1505,56 @@
           },
           {
             "degree": 6,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 1,
-            "ficta": "+",
+            "octave": 0,
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -3114,18 +1564,18 @@
     ]
   },
   {
-    "id": 16,
-    "label": "mentre_tu_canti_e_faccio",
-    "composer": "Marc'Antonio Ingegneri",
-    "title": "Metre tu canti",
+    "id": 0,
+    "label": "se_quando_per_adone_opening",
+    "composer": "Giulio Fiesco",
+    "title": "Se quando per Adone over per Marte",
     "n_voices": 4,
-    "mode": "phrygian",
+    "mode": "mixolydian",
     "hexachord": "mollis",
-    "cadence": "phrygian",
+    "cadence": "authentic",
     "voices": [
       {
         "name": "basso",
-        "sequence": "r\\breve r\\breve a,1 bf,1 a,1 g,1 a,1 d1 a,1 g,1 a,\\breve",
+        "sequence": "r\\breve r\\breve r\\breve c1 c1 d1 d1 d1 f1 f1 a1 d1 f1 g1 c\\breve",
         "degree_sequence": [
           {
             "degree": 0,
@@ -3142,36 +1592,175 @@
             "quarterLength": 8
           },
           {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
             "degree": 1,
-            "octave": -1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": -1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": -1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "tenore",
+        "sequence": "r\\breve r\\breve r\\breve c'1 a1 a1 a1 bf1 a1 c'1 e'1 f'1 c'1 bf1 g\\breve",
+        "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": -1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": -1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -3185,21 +1774,394 @@
           },
           {
             "degree": 1,
-            "octave": -1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": -1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "alto",
+        "sequence": "c'1 d'1 c'1 d'1 d'1 f'1 e'1 e'1 a'1 f'1 d'1 c'1 f'1 c'1 a1 a'1 d'1 c'\\breve ",
+        "degree_sequence": [
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": -1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "canto",
+        "sequence": "c''1 a'1 a'1 a'1 bf'1 a'1 g'1 c'1 f'1 a'1 g'1 a'1 a'1 e'1 d'1 f'1 d'1 e'\\breve",
+        "degree_sequence": [
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "label": "cantava_in_riva_e_rispondean",
+    "composer": "Ludovico Agostini",
+    "title": "Cantava in riva al fiume Tirsi",
+    "n_voices": 4,
+    "mode": "aeolian",
+    "hexachord": "mollis",
+    "cadence": "plagal",
+    "voices": [
+      {
+        "name": "basso",
+        "sequence": "r\\breve r\\breve r\\breve r\\breve c1 g1 f1 bf1 d'1 c'1 d'1 g1 d\\breve",
+        "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -3208,8 +2170,15 @@
       },
       {
         "name": "tenore",
-        "sequence": "r1 f1 a1 bf1 a1 f1 a1 bf1 a1 a1 a1 bf1 a\\breve",
+        "sequence": "r\\breve r1 f'1 e'1 g'1 d'1 c'1 c'1 bf1 a1 d'1 f'1 e'1 f'1 d'1 d'\\breve",
         "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
           {
             "degree": 0,
             "octave": 0,
@@ -3218,6 +2187,48 @@
             "quarterLength": 4
           },
           {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
             "degree": 6,
             "octave": 0,
             "ficta": "",
@@ -3225,7 +2236,21 @@
             "quarterLength": 4
           },
           {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
             "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -3239,14 +2264,7 @@
             "quarterLength": 4
           },
           {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
+            "degree": 3,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -3254,41 +2272,6 @@
           },
           {
             "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -3305,81 +2288,123 @@
       },
       {
         "name": "alto",
-        "sequence": "r\\breve r\\breve cs'1 d'1 cs'1 d'1 cs'1 d'1 cs'1 d'1 cs'\\breve",
+        "sequence": "f'1 e'1 g'1 c'1 g'1 d'1 f'1 e'1 g'1 bf'1 c''1 bf'1 a'1 a'1 a'1 g'1 fs'\\breve",
         "degree_sequence": [
           {
-            "degree": 0,
+            "degree": 3,
             "octave": 0,
             "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
+            "duration": "1",
+            "quarterLength": 4
           },
           {
-            "degree": 0,
+            "degree": 2,
             "octave": 0,
             "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "+",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
-            "ficta": "+",
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "+",
             "duration": "\\breve",
             "quarterLength": 8
@@ -3388,50 +2413,8 @@
       },
       {
         "name": "canto",
-        "sequence": "e'1 f'1 e'1 d'1 e'1 r1 r\\breve e'1 f'1 e'1 d'1 e'\\breve",
+        "sequence": "r\\breve bf'1 a'1 c''1 bf'1 a'1 c''1 ef''1 d''1 f''1 f''1 d''1 e''1 d''1 bf'1 a'\\breve",
         "degree_sequence": [
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
           {
             "degree": 0,
             "octave": 0,
@@ -3440,36 +2423,106 @@
             "quarterLength": 8
           },
           {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 4,
-            "octave": 1,
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -3479,7 +2532,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 0,
     "label": "dicesti_anima_mia_sian_testimoni",
     "composer": "Vittoria Aleotti",
     "title": "Dicesti anima mia",
@@ -3537,7 +2590,7 @@
           {
             "degree": 6,
             "octave": 0,
-            "ficta": "+",
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
@@ -3551,7 +2604,7 @@
           {
             "degree": 6,
             "octave": 0,
-            "ficta": "+",
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
@@ -3633,14 +2686,14 @@
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -3661,7 +2714,7 @@
           },
           {
             "degree": 4,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -3751,133 +2804,133 @@
         "degree_sequence": [
           {
             "degree": 5,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "+",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
-            "ficta": "+",
+            "octave": 0,
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 1,
-            "ficta": "+",
+            "octave": 0,
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -3897,56 +2950,56 @@
           },
           {
             "degree": 5,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -3974,63 +3027,63 @@
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "+",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -4040,25 +3093,39 @@
     ]
   },
   {
-    "id": 13,
-    "label": "o_viver_mio_alla_cagion",
-    "composer": "Anonymous",
-    "title": "O viver mio noioso",
+    "id": 0,
+    "label": "questa_chil_cielo_si_sorda",
+    "composer": "Paolo Isnardi",
+    "title": "Questa ch'il cielo onora",
     "n_voices": 4,
-    "mode": "phrygian",
-    "hexachord": "naturalis",
-    "cadence": "phrygian",
+    "mode": "lydian",
+    "hexachord": "mollis",
+    "cadence": "authentic",
     "voices": [
       {
         "name": "basso",
-        "sequence": "f1 d1 e1 f1 d1 a1 g1 f1 d1 c1 d1 b,1 a,1 d1 c1 f1 e\\breve",
+        "sequence": "r\\breve r\\breve r\\breve a1 bf1 g1 fs1 g1 c1 d1 g1 ef1 f1 bf,\\breve",
         "degree_sequence": [
           {
-            "degree": 2,
+            "degree": 0,
             "octave": 0,
             "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
           },
           {
             "degree": 7,
@@ -4075,21 +3142,28 @@
             "quarterLength": 4
           },
           {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
             "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4103,63 +3177,21 @@
             "quarterLength": 4
           },
           {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
             "degree": 6,
             "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": -1,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": -1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
             "octave": 0,
-            "ficta": "",
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 6,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
+            "degree": 5,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4176,22 +3208,8 @@
       },
       {
         "name": "tenore",
-        "sequence": "r\\breve r\\breve r1 c'1 b1 c'1 d'1 a1 a1 d1 e1 f1 a1 f1 g\\breve",
+        "sequence": "r1 g1 g'1 f'1 f'1 f'1 e'1 d'1 d'1 d'1 d'1 c'1 r1 d'1 ef'1 c'1 d'\\breve",
         "degree_sequence": [
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
           {
             "degree": 0,
             "octave": 0,
@@ -4201,7 +3219,14 @@
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -4214,21 +3239,14 @@
             "quarterLength": 4
           },
           {
-            "degree": 6,
-            "octave": 1,
+            "degree": 5,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
+            "degree": 5,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4242,14 +3260,28 @@
             "quarterLength": 4
           },
           {
-            "degree": 7,
+            "degree": 3,
             "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 1,
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4263,9 +3295,23 @@
             "quarterLength": 4
           },
           {
-            "degree": 4,
+            "degree": 0,
             "octave": 0,
             "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
@@ -4287,7 +3333,7 @@
       },
       {
         "name": "alto",
-        "sequence": "r1 r1 e'1 c'1 d'1 c'1 d'1 a1 a1 c'1 a1 b1 c'1 d'1 e'1 a1 b\\breve ",
+        "sequence": "r1 g'1 bf'1 a'1 a'1 a'1 a'1 f'1 g'1 a'1 bf'1 g'1 fs'1 g'1 g'1 f'1 f'\\breve",
         "degree_sequence": [
           {
             "degree": 0,
@@ -4297,7 +3343,7 @@
             "quarterLength": 4
           },
           {
-            "degree": 0,
+            "degree": 6,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4305,62 +3351,34 @@
           },
           {
             "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
             "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 4,
+            "degree": 7,
             "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 6,
-            "octave": 1,
+            "degree": 7,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 4,
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4375,27 +3393,55 @@
           },
           {
             "degree": 6,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 4,
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4412,95 +3458,123 @@
       },
       {
         "name": "canto",
-        "sequence": "r\\breve r\\breve r\\breve r\\breve f'1 e'1 f'1 g'1 a'1 a'1 e'1 d'1 e'\\breve",
+        "sequence": "d''1 ef''1 d''1 d''1 c''1 d''1 cs''1 d''1 bf'1 a'1 g'1 ef''1 d''1 bf'1 bf'1 a'1 bf'\\breve",
         "degree_sequence": [
           {
-            "degree": 0,
+            "degree": 3,
             "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          },
-          {
-            "degree": 2,
-            "octave": 1,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
+            "degree": 4,
+            "octave": 0,
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 2,
-            "octave": 1,
+            "degree": 3,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 4,
-            "octave": 1,
+            "degree": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 4,
-            "octave": 1,
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -4511,9 +3585,9 @@
   },
   {
     "id": 0,
-    "label": "mentre_laura_che_sotto",
-    "composer": "Luca Marenzio",
-    "title": "Mentre l'aura spir\u00f2 nel dolce lauro",
+    "label": "ama_ben_dice_ma_lasso",
+    "composer": "Paolo Virchi",
+    "title": "Ama ben dice Amore",
     "n_voices": 4,
     "mode": "dorian",
     "hexachord": "mollis",
@@ -4521,8 +3595,120 @@
     "voices": [
       {
         "name": "basso",
-        "sequence": "g1 ef1 bf,1 f1 f1 c1 g1 d1 g,\\breve",
+        "sequence": "r\\breve r\\breve r1 f1  bf1 bf1 bf1 a1 g1 g1 f1 ef1 d1 r1 r\\breve  r1 g1 ef1 d1 g\\breve",
         "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
           {
             "degree": 1,
             "octave": 0,
@@ -4533,13 +3719,138 @@
           {
             "degree": 6,
             "octave": 0,
-            "ficta": "+",
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "tenore",
+        "sequence": "r1 f'1 g'1 g'1 f'1 f'1 f'1 ef'1 d'1 c'1 c'1 bf1 a1 c'1 a1 bf1 f1 f1 c'1 bf1 c'1 d'1 d'\\breve",
+        "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": -1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
@@ -4566,7 +3877,14 @@
             "quarterLength": 4
           },
           {
-            "degree": 1,
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4580,76 +3898,7 @@
             "quarterLength": 4
           },
           {
-            "degree": 1,
-            "octave": -1,
-            "ficta": "",
-            "duration": "\\breve",
-            "quarterLength": 8
-          }
-        ]
-      },
-      {
-        "name": "tenore",
-        "sequence": "g1 bf1 bf1 a1 c'1 c'1 bf1 a1 g\\breve",
-        "degree_sequence": [
-          {
-            "degree": 1,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
+            "degree": 5,
             "octave": 0,
             "ficta": "",
             "duration": "\\breve",
@@ -4659,67 +3908,165 @@
       },
       {
         "name": "alto",
-        "sequence": "bf'1 g'1 f'1 f'1 a'1 g'1 g'1 fs'1 g'\\breve",
+        "sequence": "r1 bf'1 bf'1 bf'1 bf'1 a'1 a'1 g'1 f'1 f'1 g'1 g'1 a'1 g'1 f'1 f'1 a'1 f'1 e'1 g'1 g'1 fs'1 g'\\breve",
         "degree_sequence": [
           {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 1,
-            "octave": 1,
+            "degree": 3,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 7,
-            "octave": 1,
+            "degree": 3,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 7,
-            "octave": 1,
+            "degree": 3,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 2,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 7,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
             "ficta": "+",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -4728,67 +4075,165 @@
       },
       {
         "name": "canto",
-        "sequence": "d''1 ef''1 d''1 c''1 c''1 ef''1 d''1 d''1 b'\\breve",
+        "sequence": "d''1 f''1 f''1 ef''1 d''1 c''1 bf'1 bf'1 f''1 f''1 ef''1 d''1 c''1 bf'1 d''1 d''1  c''1 a'1 g'1 d''1 bf'1 a'1 b'\\breve",
         "degree_sequence": [
           {
             "degree": 5,
-            "octave": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 6,
-            "octave": 2,
-            "ficta": "+",
+            "octave": 0,
+            "ficta": "-",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 2,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
             "ficta": "+",
             "duration": "\\breve",
             "quarterLength": 8
@@ -4798,34 +4243,20 @@
     ]
   },
   {
-    "id": 11,
-    "label": "cantava_in_riva_hor_chi_fia",
-    "composer": "Ludovico Agostini",
-    "title": "Cantava in riva al fiume Tirsi",
+    "id": 0,
+    "label": "dolce_contrade_dove_son",
+    "composer": "Gasparo Patroneri",
+    "title": "Dolce contrade",
     "n_voices": 4,
-    "mode": "phrygian",
-    "hexachord": "mollis",
-    "cadence": "phrygian",
+    "mode": "dorian",
+    "hexachord": "naturalis",
+    "cadence": "authentic",
     "voices": [
       {
         "name": "basso",
-        "sequence": "g1 d1 a1 d1 g1 c1 g1 g1 c'1 a1 bf1 bf1 a\\breve",
+        "sequence": "d'1 g1 c'1 f1 f1 c'1 d'1 c'1 f1 bf1 g1 a1 d\\breve",
         "degree_sequence": [
           {
-            "degree": 7,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
             "degree": 1,
             "octave": 0,
             "ficta": "",
@@ -4854,7 +4285,21 @@
             "quarterLength": 4
           },
           {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
             "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4869,27 +4314,27 @@
           },
           {
             "degree": 3,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
             "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 2,
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
             "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 2,
+            "degree": 5,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -4906,96 +4351,96 @@
       },
       {
         "name": "tenore",
-        "sequence": "d'1 d'1 e'1 fs'1 g'1 ef'1 d'1 d'1 e'1 f'1 d'1 d'1 cs'\\breve",
+        "sequence": "f'1 g'1 e'1 f'1 f'1 e'1 f'1 e'1 f'1 d'1 d'1 cs'1 d'\\breve",
         "degree_sequence": [
           {
-            "degree": 4,
-            "octave": 1,
+            "degree": 3,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 4,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 5,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 6,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
+            "degree": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 3,
-            "octave": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
             "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
           }
@@ -5003,66 +4448,45 @@
       },
       {
         "name": "alto",
-        "sequence": "bf'1 a'1 a'1 a'1 d'1 g'1 g'1 r1 r1 c''1 a'1 g'1 a'\\breve",
+        "sequence": "a'1 bf'1 c''1 c''1 a'1 g'1 f'1 g'1 a'1 f'1 g'1 e'1 d'\\breve",
         "degree_sequence": [
           {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 0,
+            "degree": 5,
             "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 0,
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -5070,28 +4494,49 @@
           },
           {
             "degree": 3,
-            "octave": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 1,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 7,
-            "octave": 1,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "\\breve",
             "quarterLength": 8
@@ -5100,66 +4545,10 @@
       },
       {
         "name": "canto",
-        "sequence": "d''1 d''1 cs''1 d''1 b'1 c''1 b'1 r1 r1 a'1 d''1 d''1 e''\\breve",
+        "sequence": "d''1 d''1 e''1 a'1 c''1 c''1 a'1 c''1 c''1 bf'1 bf'1 a'1 a'\\breve",
         "degree_sequence": [
           {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 2,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 3,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 2,
-            "octave": 1,
-            "ficta": "+",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 0,
-            "octave": 0,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 0,
+            "degree": 1,
             "octave": 0,
             "ficta": "",
             "duration": "1",
@@ -5167,29 +4556,1067 @@
           },
           {
             "degree": 1,
-            "octave": 1,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
-            "degree": 4,
-            "octave": 2,
-            "ficta": "",
-            "duration": "1",
-            "quarterLength": 4
-          },
-          {
-            "degree": 4,
-            "octave": 2,
+            "degree": 2,
+            "octave": 0,
             "ficta": "",
             "duration": "1",
             "quarterLength": 4
           },
           {
             "degree": 5,
-            "octave": 2,
+            "octave": 0,
             "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "label": "o_dolorosi_amanti_chin_tanto_mal",
+    "composer": "Francesco Menta",
+    "title": "O dolorosi amanti",
+    "n_voices": 4,
+    "mode": "aeolian",
+    "hexachord": "naturalis",
+    "cadence": "authentic",
+    "voices": [
+      {
+        "name": "basso",
+        "sequence": "g1 g1 f1 g1 d1 g1 f g1 f1 c1 f1 a1 d1 e1 a\\breve",
+        "degree_sequence": [
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "4",
+            "quarterLength": 1
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "tenore",
+        "sequence": "d'1 d'1 f'1 d'1 d'1 d'1 f'1 d'1 f'1 e'1 d'1 c'1 f'1 e'1 e'\\breve",
+        "degree_sequence": [
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "alto",
+        "sequence": "g'1 g'1 a'1 g'1 f'1 g'1 a'1 g'1 a'1 g'1 f'1 e'1 a'1 g'1 a'\\breve",
+        "degree_sequence": [
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "canto",
+        "sequence": "b'1 b'1 c''1 b'1 a'1 b'1 c''1 b'1 c''1 c''1 a'1 a'1 d''1 b'1 c''\\breve",
+        "degree_sequence": [
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "label": "dicesti_anima_mia_opening",
+    "composer": "Vittoria Aleotti",
+    "title": "Dicesti anima mia",
+    "n_voices": 4,
+    "mode": "dorian",
+    "hexachord": "mollis",
+    "cadence": "plagal",
+    "voices": [
+      {
+        "name": "basso",
+        "sequence": "r\\breve r\\breve r\\breve g1 fs1 g1 a1 g1 fs1 g1 ef1 d1 c1 b,1 c1 g,\\breve",
+        "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "tenore",
+        "sequence": "r\\breve r\\breve r\\breve d'1 d'1 b1 c'1 bf1 a1 g1 g1 a1 c'1 d'1 ef'1 d'\\breve",
+        "degree_sequence": [
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 0,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "alto",
+        "sequence": "g'1 fs'1 g'1 a'1 g'1 fs'1 g'1 a'1 d'1 a'1 d'1 d'1 d'1 g'1 fs'1 g'1 g'1 g'1 g'\\breve",
+        "degree_sequence": [
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 7,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "\\breve",
+            "quarterLength": 8
+          }
+        ]
+      },
+      {
+        "name": "canto",
+        "sequence": "d''1 d''1 b'1 c''1 bf'1 a'1 g'1 a'1 g'1 e'1 g'1 a'1 g'1 c''1 d''1 ef''1 d''1 c''1 b'\\breve",
+        "degree_sequence": [
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "+",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 2,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 1,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 6,
+            "octave": 0,
+            "ficta": "-",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 5,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 4,
+            "octave": 0,
+            "ficta": "",
+            "duration": "1",
+            "quarterLength": 4
+          },
+          {
+            "degree": 3,
+            "octave": 0,
+            "ficta": "+",
             "duration": "\\breve",
             "quarterLength": 8
           }

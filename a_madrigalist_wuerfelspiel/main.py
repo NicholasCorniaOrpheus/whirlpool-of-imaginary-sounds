@@ -46,117 +46,23 @@ def update_schemata(schemata):
 
 table_next_schema(schemata["schemata"][0], schemata["schemata"])
 
-"""
-print(
-    get_transition_score_from_schemata(schemata["schemata"][0], schemata["schemata"][1])
-)
-"""
 
 # Testing
 
-"""test table_schemata"""
-# table_next_schema({}, schemata["schemata"])
 
-
-""" test tessitura voices
-for schema in schemata["schemata"]:
-    check = check_tessitura_voices(schema["voices"])
-    if check == False:
-        print("Problem in schema:", schema)
-"""
-
-test_realization = {
-    "id": "sequence_id" + "_idvalue",
-    "label": "sequence_label_+id",
-    "n_voices": 4,
-    "mode": "ionian",
-    "hexachord": "naturalis",
-    "voices": [
-        {"name": "basso", "sequence": r"g1 e2 d2 c4 c4 c'2. b4 b4 a8 b8 c'1 g1 c'1"},
-        {
-            "name": "tenor",
-            "sequence": r"r2 g2 c'2 d'2 e'2. f'4 g'2 g'2 e'2. d'8 c'8 d'1 c'1",
-        },
-        {
-            "name": "alto",
-            "sequence": r"r\breve g'1 e'2 d'2 c'4 c'4 c''2. b'4 b'4 a'8 b'8 c'2 g'2",
-        },
-        {
-            "name": "canto",
-            "sequence": r"r\breve r2 g'2 c''2 d''2 e''2. f''4 g''2 g''2 e''1",
-        },
-    ],
-    "density": 0,
-    "fugatic_value": 0,
-    "dissonance_value": 0,
-    "cadence": "authentic",
-}
-
+lilypond_seq_test = "d'1 d'1 e'1 fs'1 g'1 ef'1"
 
 degree_seq_test = [
-    {
-        "degree": 1,
-        "octave": 0,
-        "ficta": "",
-        "duration": "\\breve",
-        "quarterLength": 8,
-    },
-    {"degree": 1, "octave": 1, "ficta": "", "duration": "1", "quarterLength": 4},
-    {"degree": 7, "octave": 0, "ficta": "", "duration": "2", "quarterLength": 2},
-    {"degree": 5, "octave": 0, "ficta": "", "duration": "2", "quarterLength": 2},
-    {"degree": 6, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
-    {"degree": 1, "octave": 1, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 4, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 4, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 5, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 6, "octave": 0, "ficta": "+", "duration": "1", "quarterLength": 4},
+    {"degree": 7, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 5, "octave": 0, "ficta": "-", "duration": "1", "quarterLength": 4},
 ]
 
-lilypond_seq_test = "c\\breve c'1 b2 g2 a1 c'1"
-
 """
-print(
-    modal_transposition(
-        lilypond_seq_test, degree_seq_test, "ionian", "dorian", "naturalis", "durum"
-    )
+modal_transposition(
+    lilypond_seq_test, degree_seq_test, "phrygian", "aeolian", "mollis", "durum"
 )
-"""
-
-mode_test = "dorian"
-
-hexachord_test = "mollis"
-
-string_test = "r\\breve g1 e1 c2 c'2 b1 c'1"
-
-test_schema_dir = "empio_tuo_strale_opening"
-
-test_realization_dir = "empio_tuo_strale_opening_1"
-
-test_schema = {
-    "label": "empio_tuo_strale_opening",
-    "n_voices": 4,
-    "mode": "ionian",
-    "hexachord": "naturalis",
-    "voices": [
-        {"name": "basso", "sequence": r"g1 e1 c1 c'1 c'1 g1 c'1"},
-        {"name": "tenor", "sequence": r"g1 c'1 e'1 g'1 e'1 d'1 c'1"},
-        {"name": "alto", "sequence": r"r\breve g'1 e1 c2 c'2 b'1 c'1"},
-        {"name": "canto", "sequence": r"r\breve g'1 c''1 e''1 g''1 e''1"},
-    ],
-}
-
-
-"""
-test octave transposition: WORKS
-test_degree_voices = []
-for voice in test_schema["voices"]:
-    test_degree_voices.append(
-        lilypond2degree_sequence(
-            voice["sequence"], test_schema["mode"], test_schema["hexachord"]
-        )
-    )
-
-transposed_degree_voices = octave_transposition(test_degree_voices, "down")
-
-for voice in transposed_degree_voices:
-    print(
-        degree_sequence2lilypond(voice, test_schema["mode"], test_schema["hexachord"])
-    )
-
 """

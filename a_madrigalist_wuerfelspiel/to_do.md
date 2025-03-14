@@ -14,4 +14,5 @@
 # Assemblage
 
 - [ x] Create transitions constraints to keep consistency of modes.
+- [ ] Export assemblage to lilypond file using Abjad.
 

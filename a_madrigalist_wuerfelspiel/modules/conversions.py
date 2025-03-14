@@ -173,30 +173,28 @@ def degree_sequence2lilypond(seq, mode, hexachord):
             pitch = "r"
         else:
             pitch = hexachord_transposition(mode, hexachord)[element["degree"]]
-            print(pitch)
+            pitch = abjad.NamedPitch(pitch)
             if element["ficta"] == "":
                 pass
             else:
                 if element["ficta"] == "+":
-                    pitch = abjad.NamedPitch(pitch)
                     if pitch.accidental.name == "natural":
                         pitch = pitch._apply_accidental(accidental="sharp")
                     else:
                         if pitch.accidental.name == "flat":
                             pitch = pitch._apply_accidental(accidental="natural")
                         else:  # sharp case
-                            pitch += "m2"
-                    pitch = pitch.name
+                            pitch += abjad.NamedInterval("m2")
                 else:  # "-" case
-                    pitch = abjad.NamedPitch(pitch)
                     if pitch.accidental.name == "natural":
                         pitch = pitch._apply_accidental(accidental="flat")
                     else:
                         if pitch.accidental.name == "sharp":
                             pitch = pitch._apply_accidental(accidental="natural")
                         else:  # flat case
-                            pitch += "m2"
-                    pitch = pitch.name
+                            pitch += abjad.NamedInterval("m2")
+
+        pitch = pitch.name
 
         octave = ""
         if element["octave"] < 0:
@@ -233,14 +231,16 @@ def lilypond2degree_sequence(string, mode, hexachord):
             else:
                 # order of instruction: pitch,accidental,octave signs,duration
                 note = abjad.Note(element)
-                pitch = abjad.NamedPitchClass(note)
-                # print("Current note:", note)
+                pitch = abjad.NamedPitch(note)
+                pitch.octave.number = 3
                 # search pitch in mode
                 for d in current_mode[1:]:
                     if d[0] == pitch.name[0]:
-                        d_pitch = abjad.NamedPitchClass(d)
+                        d_pitch = abjad.NamedPitch(d)
                         difference = d_pitch - pitch
                         direction = difference.direction_number
+                        # print(f"pitch: {pitch}, degree: {d_pitch}")
+                        # print(f"direction: {direction}, difference: {difference}")
                         if direction == 1:
                             ficta = "+"
                         if direction == -1:
@@ -248,7 +248,6 @@ def lilypond2degree_sequence(string, mode, hexachord):
                         else:
                             pass
 
-                        # print("Degree:", current_mode.index(d))
                         degree = current_mode.index(d)
 
                 octave = int(abjad.NamedPitch(note).octave.number - 3)
@@ -290,12 +289,12 @@ def modal_transposition(
     old_root = copy.deepcopy([degree_sequence[0]])
     old_root[0]["degree"] = 1
 
-    print(old_root)
-
     old_root = degree_sequence2lilypond(old_root, input_mode, input_hexachord)
     old_root = abjad.Note(old_root)
     old_root = abjad.NamedPitch(old_root)
     old_root_octave = old_root.octave.number - 3
+
+    print(f"Old root: {old_root}")
 
     query = list(
         filter(
@@ -322,9 +321,9 @@ def modal_transposition(
 
     diff_octave = new_root_octave - old_root_octave
 
-    # print("Differential octave:", diff_octave)
+    print("Differential octave:", diff_octave)
 
-    print(f"Old root:{old_root}, new root: {new_root}")
+    print(f"New root: {new_root}")
 
     transposed_lilypond_sequence = ""
 
@@ -342,18 +341,25 @@ def modal_transposition(
                 ]
             )
             pitch.octave.number = element["octave"] + 3
+
+            print("pitch:", pitch)
             # adjust root to pitch
             new_root.octave.number = pitch.octave.number
-            # if new_root > pitch:
-            # new_root.octave.number -= 1
+            if new_root > pitch:
+                adjust = True
+                new_root.octave.number -= 1
+            print("new root:", new_root)
+
             degree = element["degree"]
             interval = abjad.NamedInterval("P1")
-            if degree == 1:
-                pass
-            else:
+            adjust = False
+            if degree != 1:
                 for i in range(degree - 1):
                     interval += abjad.NamedInterval(mode_intervals[output_mode][i])
-
+            elif adjust:
+                interval = abjad.NamedInterval("+P8")
+            else:
+                pass
             pitch = new_root + interval
 
             if element["ficta"] == "":
@@ -377,6 +383,8 @@ def modal_transposition(
                             pitch += "m2"
 
             pitch = pitch.name
+
+            print(pitch)
 
         duration = element["duration"]
 
