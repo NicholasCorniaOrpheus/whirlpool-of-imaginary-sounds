@@ -1,6 +1,9 @@
 {
     "label": "o_dolorosi_amanti_chin_tanto_mal",
+    "composer": "Francesco Menta",
+    "title": "O dolorosi amanti",
     "n_voices": 4,
-    "mode": "mixolydian",
-    "hexachord": "naturalis"
+    "mode": "aeolian",
+    "hexachord": "naturalis",
+    "cadence": "authentic"
 }

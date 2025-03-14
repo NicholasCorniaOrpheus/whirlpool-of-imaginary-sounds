@@ -3,87 +3,16 @@ Core functions of the model
 """
 
 import os
+import json
 import random
-from .conversions import *
+import numpy as np
 import sys
 
 sys.path.append("./modules")  # importing custom functions in modules
 
-test_schema = {
-    "label": "empio_tuo_strale_opening",
-    "n_voices": 4,
-    "mode": "ionian",
-    "hexachord": "naturalis",
-    "voices": [
-        {"name": "basso", "sequence": r"g1 e1 c1 c'1 c'1 g1 c'1"},
-        {"name": "tenor", "sequence": r"g1 c'1 e'1 g'1 e'1 d'1 c'1"},
-        {"name": "alto", "sequence": r"r\breve g'1 e1 c2 c'2 b'1 c'1"},
-        {"name": "canto", "sequence": r"r\breve g'1 c''1 e''1 g''1 e''1"},
-    ],
-}
+from modules.conversions import *
 
-test_realization = {
-    "id": "sequence_id" + "_idvalue",
-    "label": "sequence_label_+id",
-    "n_voices": 4,
-    "mode": "ionian",
-    "hexachord": "naturalis",
-    "voices": [
-        {"name": "basso", "sequence": r"g1 e2 d2 c4 c4 c'2. b4 b4 a8 b8 c'1 g1 c'1"},
-        {
-            "name": "tenor",
-            "sequence": r"r2 g2 c'2 d'2 e'2. f'4 g'2 g'2 e'2. d'8 c'8 d'1 c'1",
-        },
-        {
-            "name": "alto",
-            "sequence": r"r\breve g'1 e'2 d'2 c'4 c'4 c''2. b'4 b'4 a'8 b'8 c'2 g'2",
-        },
-        {
-            "name": "canto",
-            "sequence": r"r\breve r2 g'2 c''2 d''2 e''2. f''4 g''2 g''2 e''1",
-        },
-    ],
-    "density": 0,
-    "fugatic_value": 0,
-    "dissonance_value": 0,
-    "cadence": "authentic",
-}
-
-
-def add_new_schema(schemata_dict):  # adds a new schema to the schemata dictionary
-    s = {}
-
-    s["id"] = len(schemata_dict)
-    # print("Insert label:")
-    # s["label"] = input()
-    s["label"] = test_schema["label"]
-    # print("How many voices for framework?")
-    framework = []
-    # n_voices = int(input())
-    n_voices = test_schema["n_voices"]
-    # print("Insert reference mode:")
-    # mode = input()
-    mode = test_schema["mode"]
-    # print("Insert reference hexachord:")
-    # hexachord = input()
-    hexachord = test_schema["hexachord"]
-    for i in range(n_voices):
-        voice = {"name": "", "sequence": []}
-        # print("Insert voice name:")
-        # voice["voice"] = input()
-        voice["name"] = test_schema["voices"][i]["name"]
-        # print("Insert voice sequence in lilypond absolute notation:")
-        # voice["sequence"] = lilypond2degree_sequence(input(), mode, hexachord)
-        voice["sequence"] = lilypond2degree_sequence(
-            test_schema["voices"][i]["sequence"], mode, hexachord
-        )
-
-        framework.append(voice)
-        print(framework[-1])
-
-    s["framework"] = framework
-
-    return s
+# from modules.utitlities import *
 
 
 def add_new_schema_from_folder(schema_dir):
@@ -102,9 +31,34 @@ def add_new_schema_from_folder(schema_dir):
         f = open(os.path.join(schema_dir, "voices", lyfile.name), "r")
         sequence = str(f.read())
         name = lyfile.name[2:-3]
-        schema["voices"].append({"name": name, "sequence": sequence})
+        degree_sequence = lilypond2degree_sequence(
+            sequence, schema["mode"], schema["hexachord"]
+        )
+        schema["voices"].append(
+            {"name": name, "sequence": sequence, "degree_sequence": degree_sequence}
+        )
 
     return schema
+
+
+def update_schemata_from_folder(schemata_dir, schemata):
+    # check for duplicates
+    update = False
+    for d in os.scandir(schemata_dir):
+        query = list(filter(lambda x: x[1]["label"] == d.name, enumerate(schemata)))
+        if len(query) > 0:
+            # upload current schema
+            update = True
+            schemata[query[0][0]] = add_new_schema_from_folder(d.path)
+
+        else:
+            # append new schema
+            print("Appending new schemata:", d.name)
+            schemata.append(add_new_schema_from_folder(d.path))
+
+    if update:
+        print("Updating current schemata...")
+    return schemata
 
 
 def add_new_realization_from_folder(realization_dir):
@@ -128,9 +82,77 @@ def add_new_realization_from_folder(realization_dir):
     print(realization)
 
 
-def add_new_realization(schema_id, schemata_dict):
-    # to be continued...
-    pass
+def generate_transition_score():
+    # for now it just randomly picks a value between 0 and 3
+    # 0 = no common notes
+    # 1,2,3 = some common notes, 1 is for fugative opening.
+
+    transition_score_distribution = [0.1, 0.5, 0.8, 1.0]
+    random_value = np.random.uniform()
+    print("Random value:", random_value)
+    for i in range(len(transition_score_distribution)):
+        if random_value < transition_score_distribution[i]:
+            return i
+
+
+def table_next_schema(previous_schema, schemata):
+    table_size = 11  # for 2d6
+    table_schemata = []
+    if previous_schema == {}:  # first schema case
+        schemata_size = len(schemata)
+        for i in range(table_size):
+            duplicate = True
+            while duplicate:
+                random_value = np.random.randint(0, schemata_size - 1)
+                query = list(
+                    filter(
+                        lambda x: x["label"] == schemata[random_value]["label"],
+                        table_schemata,
+                    )
+                )
+                if len(query) > 0:
+                    pass
+                else:
+                    duplicate = False
+                    # append new schema
+                    table_schemata.append(schemata[random_value])
+                    previous_schema = schemata[random_value]
+                    # randomly change mode and hexachord
+                    tessitura_check = False
+                    while tessitura_check == False:
+                        table_schemata[-1]["mode"] = get_random_mode()
+                        table_schemata[-1]["hexachord"] = get_random_hexachord(
+                            table_schemata[-1]["hexachord"]
+                        )
+                        # change sequences values
+                        for voice in table_schemata[-1]["voices"]:
+                            """voice["sequence"] = degree_sequence2lilypond(
+                                voice["degree_sequence"],
+                                table_schemata[-1]["mode"],
+                                table_schemata[-1]["hexachord"],
+                            )"""
+                            print("Previous mode:", previous_schema["mode"])
+                            print("Current mode:", table_schemata[-1]["mode"])
+                            voice["sequence"] = mode_transposition(
+                                voice["degree_sequence"],
+                                previous_schema["mode"],
+                                table_schemata[-1]["mode"],
+                                table_schemata[-1]["hexachord"],
+                            )
+                            voice["degree_sequence"] = lilypond2degree_sequence(
+                                voice["sequence"],
+                                table_schemata[-1]["mode"],
+                                table_schemata[-1]["hexachord"],
+                            )
+                        tessitura_check = check_tessitura_voices(
+                            table_schemata[-1]["voices"]
+                        )
+
+                    print(table_schemata[-1])
+                    input()
+
+        for schema in table_schemata:
+            print(schema["label"])
 
 
 def dissonance_value(

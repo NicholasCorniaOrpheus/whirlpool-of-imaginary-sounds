@@ -1,6 +1,9 @@
 {
     "label": "empio_tuo_strale_opening",
+    "composer": "Giulio Renaldi",
+    "title": "L'Empio tuo strale Amore",
     "n_voices": 4,
     "mode": "ionian",
-    "hexachord": "naturalis"
+    "hexachord": "naturalis",
+    "cadence": "plagal"
 }

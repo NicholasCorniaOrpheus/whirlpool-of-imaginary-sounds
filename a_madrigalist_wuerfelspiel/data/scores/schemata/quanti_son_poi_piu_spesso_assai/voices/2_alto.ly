@@ -1,0 +1,1 @@
+e'1 f'1 d'1 d'1 c'1 d'1 bf1 c'1 c'1 bf1 a1 c'1 a1 d'1 c'1 bf1 c'1 c'\breve

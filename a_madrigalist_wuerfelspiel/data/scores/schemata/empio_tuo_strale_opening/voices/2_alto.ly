@@ -1,1 +1,1 @@
-r\breve g'1 e'1 c'2 c''2 b'1 c''1
+r\breve g'1 e'1 c''1 b'1 c''1 g'1 f'1 e'1 e'1 f'1 e'\breve

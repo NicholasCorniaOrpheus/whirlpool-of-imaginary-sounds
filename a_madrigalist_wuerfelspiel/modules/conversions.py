@@ -3,11 +3,9 @@ Conversion functions
 """
 
 import abjad
-from .utilities import *
-from .model import *
-import sys
+import numpy as np
+import random
 
-sys.path.append("./modules")  # importing custom functions in modules
 
 # Metadata
 
@@ -59,12 +57,35 @@ mode_intervals = {
     "aeolian": ["M2", "m2", "M2", "M2", "m2", "M2", "M2"],
 }
 
-hexachord_mapping = {
-    "durum": {"key": r"\key g\major", "root_note": "g"},
-    "naturalis": {"key": r"\key c\major", "root_note": "c"},
-    "mollis": {"key": r"\key f\major", "root_note": "f"},
+stay_hexachord = 0.6
+one_step_hexachord = 0.3
+two_step_hexachord = 0.1
+two_choices = (1 - stay_hexachord) / 2
+
+hexachord_transition = {
+    "durum": {
+        "durum": stay_hexachord,
+        "naturalis": stay_hexachord + one_step_hexachord,
+        "mollis": 1.0,
+    },
+    "naturalis": {
+        "durum": two_choices,
+        "naturalis": two_choices + stay_hexachord,
+        "mollis": 1.0,
+    },
+    "mollis": {
+        "durum": two_step_hexachord,
+        "naturalis": two_step_hexachord + one_step_hexachord,
+        "mollis": 1.0,
+    },
 }
 
+tessitura_voices = {
+    "basso": {"low": "d,", "high": "f'"},
+    "tenore": {"low": "bf,", "high": "c''"},
+    "alto": {"low": "f", "high": "f''"},
+    "canto": {"low": "a", "high": "a''"},
+}
 
 # Utility function
 """
@@ -79,6 +100,24 @@ ficta defines notes outside the mode: "" for natural, "+" for raised, "-" for lo
 duration: according to lilypond we have longa, breve and numbers for shorter durations.
 Dots are possibile
 """
+
+
+def get_random_hexachord(previous_hexachord):
+    random_value = np.random.uniform()
+    for key in hexachord_transition.keys():
+        if random_value < hexachord_transition[previous_hexachord][key]:
+            return key
+
+
+def get_random_mode():
+    random_value = np.random.uniform()
+    step = len(mode_mapping)
+    value = 1 / step
+    for key in mode_mapping.keys():
+        if random_value < value:
+            return key
+        else:
+            value += value
 
 
 def hexachord_transposition(mode, hexachord):
@@ -104,30 +143,33 @@ def hexachord_transposition(mode, hexachord):
 def degree_sequence2lilypond(seq, mode, hexachord):
     lilypond_string = ""
     for element in seq:
-        pitch = hexachord_transposition(mode, hexachord)[element["degree"]]
-        if element["accidental"] == "":
-            pass
+        if element["degree"] == 0:
+            pitch = "r"
         else:
-            if element["accidental"] == "+":
-                pitch = abjad.NamedPitch(pitch)
-                if pitch.accidental.name == "natural":
-                    pitch = pitch._apply_accidental(accidental="sharp")
-                else:
-                    if pitch.accidental.name == "flat":
-                        pitch = pitch._apply_accidental(accidental="natural")
-                    else:  # sharp case
-                        pitch += "m2"
-                pitch = pitch.name
-            else:  # "-" case
-                pitch = abjad.NamedPitch(pitch)
-                if pitch.accidental.name == "natural":
-                    pitch = pitch._apply_accidental(accidental="flat")
-                else:
-                    if pitch.accidental.name == "sharp":
-                        pitch = pitch._apply_accidental(accidental="natural")
-                    else:  # flat case
-                        pitch += "m2"
-                pitch = pitch.name
+            pitch = hexachord_transposition(mode, hexachord)[element["degree"]]
+            if element["ficta"] == "":
+                pass
+            else:
+                if element["ficta"] == "+":
+                    pitch = abjad.NamedPitch(pitch)
+                    if pitch.accidental.name == "natural":
+                        pitch = pitch._apply_accidental(accidental="sharp")
+                    else:
+                        if pitch.accidental.name == "flat":
+                            pitch = pitch._apply_accidental(accidental="natural")
+                        else:  # sharp case
+                            pitch += "m2"
+                    pitch = pitch.name
+                else:  # "-" case
+                    pitch = abjad.NamedPitch(pitch)
+                    if pitch.accidental.name == "natural":
+                        pitch = pitch._apply_accidental(accidental="flat")
+                    else:
+                        if pitch.accidental.name == "sharp":
+                            pitch = pitch._apply_accidental(accidental="natural")
+                        else:  # flat case
+                            pitch += "m2"
+                    pitch = pitch.name
 
         octave = ""
         if element["octave"] < 0:
@@ -138,13 +180,13 @@ def degree_sequence2lilypond(seq, mode, hexachord):
                 octave += "'"
         duration = element["duration"]
 
-        lilypond_string += pitch + octave + duration + " "
+        lilypond_string += str(pitch) + str(octave) + str(duration) + " "
 
     return lilypond_string
 
 
+# converts an input string to a degree sequence for a given voice
 def lilypond2degree_sequence(string, mode, hexachord):
-    # converts an input string to a degree sequence for a given voice
     sequence = []
     splitted_string = string.split(" ")
     current_mode = hexachord_transposition(mode, hexachord)
@@ -152,49 +194,173 @@ def lilypond2degree_sequence(string, mode, hexachord):
     for element in splitted_string:
         degree = 0
         ficta = ""
-        octave = ""
-        if element[0] == "r":  # rest case
-            rest = abjad.Rest(element)
-            written_duration = str(rest.written_duration)
-            duration = duration_mapping[written_duration]
-            quarter_length = duration_quarterLength[written_duration]
+        octave = 0
+        if element == "":  # empty case
+            pass
         else:
-            # order of instruction: pitch,accidental,octave signs,duration
-            note = abjad.Note(element)
-            pitch = abjad.NamedPitchClass(note)
-            # print("Current note:", note)
-            # search pitch in mode
-            for d in current_mode[1:]:
-                if d[0] == pitch.name[0]:
-                    d_pitch = abjad.NamedPitchClass(d)
-                    difference = d_pitch - pitch
-                    direction = difference.direction_number
-                    if direction == 1:
-                        ficta = "+"
-                    if direction == -1:
-                        ficta = "-"
-                    else:
-                        pass
+            if element[0] == "r":  # rest case
+                rest = abjad.Rest(element)
+                written_duration = str(rest.written_duration)
+                duration = duration_mapping[written_duration]
+                quarter_length = duration_quarterLength[written_duration]
+            else:
+                # order of instruction: pitch,accidental,octave signs,duration
+                note = abjad.Note(element)
+                pitch = abjad.NamedPitchClass(note)
+                # print("Current note:", note)
+                # search pitch in mode
+                for d in current_mode[1:]:
+                    if d[0] == pitch.name[0]:
+                        d_pitch = abjad.NamedPitchClass(d)
+                        difference = d_pitch - pitch
+                        direction = difference.direction_number
+                        if direction == 1:
+                            ficta = "+"
+                        if direction == -1:
+                            ficta = "-"
+                        else:
+                            pass
 
-                    # print("Degree:", current_mode.index(d))
-                    degree = current_mode.index(d)
+                        # print("Degree:", current_mode.index(d))
+                        degree = current_mode.index(d)
 
-            octave = abjad.NamedPitch(note).octave.number - 3
-            written_duration = str(note.written_duration)
-            duration = duration_mapping[written_duration]
-            quarter_length = duration_quarterLength[written_duration]
+                octave = int(abjad.NamedPitch(note).octave.number - 3)
+                written_duration = str(note.written_duration)
+                duration = duration_mapping[written_duration]
+                quarter_length = duration_quarterLength[written_duration]
 
-        sequence.append(
-            {
-                "degree": degree,
-                "octave": octave,
-                "ficta": ficta,
-                "duration": duration,
-                "quarterLength": quarter_length,
-            }
-        )
-        # print(sequence[-1])
+            sequence.append(
+                {
+                    "degree": degree,
+                    "octave": octave,
+                    "ficta": ficta,
+                    "duration": duration,
+                    "quarterLength": quarter_length,
+                }
+            )
+            # print(sequence[-1])
     return sequence
+
+
+# returns a lilypond string given an input degree sequence and output mode
+def mode_transposition(degree_sequence, mode, output_mode, hexachord):
+    lilypond_string = ""
+    for element in degree_sequence:
+        if element["degree"] == 0:
+            pitch = "r"
+        else:
+            # get the root
+            root = abjad.NamedPitch(hexachord_transposition(output_mode, hexachord)[1])
+            # get the
+            pitch = abjad.NamedPitch(
+                hexachord_transposition(output_mode, hexachord)[element["degree"]]
+            )
+            # adjust root to pitch
+            root.octave.number = pitch.octave.number
+            if root > pitch:
+                root.octave.number += -1
+
+            print("Root:", root)
+            degree = element["degree"]
+            interval = abjad.NamedInterval("P1")
+            if degree == 1:
+                pass
+            else:
+                for i in range(degree - 1):
+                    interval += abjad.NamedInterval(mode_intervals[output_mode][i])
+
+            print("Degree:", degree)
+
+            pitch = root + interval
+
+            print("Transposed pitch:", pitch)
+
+            pitch = pitch.name
+
+            if element["ficta"] == "":
+                pass
+            else:
+                if element["ficta"] == "+":
+                    pitch = abjad.NamedPitch(pitch)
+                    if pitch.accidental.name == "natural":
+                        pitch = pitch._apply_accidental(accidental="sharp")
+                    else:
+                        if pitch.accidental.name == "flat":
+                            pitch = pitch._apply_accidental(accidental="natural")
+                        else:  # sharp case
+                            pitch += "m2"
+                    pitch = pitch.name
+                else:  # "-" case
+                    pitch = abjad.NamedPitch(pitch)
+                    if pitch.accidental.name == "natural":
+                        pitch = pitch._apply_accidental(accidental="flat")
+                    else:
+                        if pitch.accidental.name == "sharp":
+                            pitch = pitch._apply_accidental(accidental="natural")
+                        else:  # flat case
+                            pitch += "m2"
+                    pitch = pitch.name
+
+        octave_number = pitch.octave.number - 3
+        octave = ""
+        if octave_number < 0:
+            for i in range(-octave_number):
+                octave += ","
+        else:
+            for i in range(octave_number):
+                octave += "'"
+        duration = element["duration"]
+
+        lilypond_string += str(pitch) + str(octave) + str(duration) + " "
+
+    return lilypond_string
+
+
+# converts a degree sequences of voices an octave lower or higher
+def octave_transposition(degree_voices, transposition):
+    transposed_voices = degree_voices
+    if transposition == "above":  # one octave higher
+        transposition = 1
+    else:  # one octave down
+        transposition = -1
+
+    for voice in transposed_voices:
+        for note in voice:
+            note["octave"] += transposition
+
+    return transposed_voices
+
+
+# returns True or False if sequence is conform to tessitura
+def check_tessitura_voice(seq, voice):
+    splitted_string = seq.split(" ")
+    check = True
+    for element in splitted_string:
+        if element == "":
+            pass
+        else:
+            if element[0] == "r":
+                pass
+            else:
+                note = abjad.Note(element)
+                pitch = abjad.NamedPitch(note)
+                if note < abjad.NamedPitch(tessitura_voices[voice]["low"]):
+                    return False
+                if note > abjad.NamedPitch(tessitura_voices[voice]["high"]):
+                    return False
+    return check
+
+
+# check the tessitura of a whole set of voices from a (transposed) schema
+def check_tessitura_voices(voices):
+    check = True
+    for voice in voices:
+        if check_tessitura_voice(voice["sequence"], voice["name"]):
+            pass
+        else:
+            return False
+
+    return check
 
 
 def get_lowest_note(
@@ -244,6 +410,7 @@ def lilypond_voices2degree(
     return degree_voices
 
 
+# TOO COMPLICATED!!!!
 def lilypond_voices2duration_windows(
     voices, mode, hexachord
 ):  # splits notes in homophonic sequence according to shortest value
@@ -273,3 +440,6 @@ def lilypond_voices2duration_windows(
             # this number should always be integer and ge 1
             # not working for tuplets...
             n = int(float(quarter_length) / duration_window)
+            for k in range(n):
+                note = abjad.NamedPitch(voice[j])
+                homophonic_sequences[i].append(note.name)
