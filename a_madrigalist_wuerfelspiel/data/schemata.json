@@ -1,6 +1,7 @@
 {
   "schemata": [
     {
+      "id": 0,
       "label": "mentre_laura_che_sotto",
       "composer": "Luca Marenzio",
       "title": "Mentre l'aura spir\u00f2 nel dolce lauro",
@@ -288,6 +289,7 @@
       ]
     },
     {
+      "id": 1,
       "label": "o_dolorosi_amanti_chin_tanto_mal",
       "composer": "Francesco Menta",
       "title": "O dolorosi amanti",
@@ -743,6 +745,7 @@
       ]
     },
     {
+      "id": 2,
       "label": "quanti_son_poi_piu_spesso_assai",
       "composer": "Hoste da Reggio",
       "title": "Quanti son poi che divenuti amanti",
@@ -1282,6 +1285,7 @@
       ]
     },
     {
+      "id": 3,
       "label": "tosto_che_il_sol_tregua_al_mio",
       "composer": "Giovanni Domenico da Nola",
       "title": "Tosto ch'il sol si scopre in Oriente",
@@ -1541,6 +1545,7 @@
       ]
     },
     {
+      "id": 4,
       "label": "quanti_son_poi_hanno_per_un",
       "composer": "Hoste da Reggio",
       "title": "Quanti son poi che divenuti amanti",
@@ -2052,6 +2057,7 @@
       ]
     },
     {
+      "id": 5,
       "label": "empio_tuo_strale_amor",
       "composer": "Giulio Renaldi",
       "title": "L'Empio tuo strale Amore",
@@ -2598,6 +2604,7 @@
       ]
     },
     {
+      "id": 6,
       "label": "cantava_in_riva_e_rispondean",
       "composer": "Ludovico Agostini",
       "title": "Cantava in riva al fiume Tirsi",
@@ -3067,6 +3074,7 @@
       ]
     },
     {
+      "id": 7,
       "label": "o_viver_mio_quel_che_agli_altri",
       "composer": "Anonymous",
       "title": "O viver mio noioso",
@@ -3382,6 +3390,7 @@
       ]
     },
     {
+      "id": 8,
       "label": "questa_chil_cielo_si_sorda",
       "composer": "Paolo Isnardi",
       "title": "Questa ch'il cielo onora",
@@ -3872,6 +3881,7 @@
       ]
     },
     {
+      "id": 9,
       "label": "se_quando_per_adone_opening",
       "composer": "Giulio Fiesco",
       "title": "Se quando per Adone over per Marte",
@@ -4369,6 +4379,7 @@
       ]
     },
     {
+      "id": 10,
       "label": "cantava_in_riva_e_parea_mormorando",
       "composer": "Ludovico Agostini",
       "title": "Cantava in riva al fiume Tirsi",
@@ -4824,6 +4835,7 @@
       ]
     },
     {
+      "id": 11,
       "label": "cantava_in_riva_hor_chi_fia",
       "composer": "Ludovico Agostini",
       "title": "Cantava in riva al fiume Tirsi",
@@ -5223,6 +5235,7 @@
       ]
     },
     {
+      "id": 12,
       "label": "dolce_contrade_dove_son",
       "composer": "Gasparo Patroneri",
       "title": "Dolce contrade",
@@ -5622,6 +5635,7 @@
       ]
     },
     {
+      "id": 13,
       "label": "o_viver_mio_alla_cagion",
       "composer": "Anonymous",
       "title": "O viver mio noioso",
@@ -6091,6 +6105,7 @@
       ]
     },
     {
+      "id": 14,
       "label": "questa_chil_cielo_abito_cangia",
       "composer": "Paolo Isnardi",
       "title": "Questa ch'il cielo onora",
@@ -6679,6 +6694,7 @@
       ]
     },
     {
+      "id": 15,
       "label": "se_quando_per_adone_sol_per_te",
       "composer": "Giulio Fiesco",
       "title": "Se quando per Adone over per Marte",
@@ -6994,6 +7010,7 @@
       ]
     },
     {
+      "id": 16,
       "label": "mentre_tu_canti_e_faccio",
       "composer": "Marc'Antonio Ingegneri",
       "title": "Metre tu canti",
@@ -7358,6 +7375,7 @@
       ]
     },
     {
+      "id": 17,
       "label": "empio_tuo_strale_opening",
       "composer": "Giulio Renaldi",
       "title": "L'Empio tuo strale Amore",
@@ -7743,6 +7761,7 @@
       ]
     },
     {
+      "id": 18,
       "label": "eran_le_vostre_lacrime_fra_le_fiamme",
       "composer": "Giovanni Pierluigi da Palestrina",
       "title": "Eran le vostre lagrime nel viso",
@@ -8198,6 +8217,7 @@
       ]
     },
     {
+      "id": 19,
       "label": "mentre_tu_canti_opening",
       "composer": "Marc'Antonio Ingegneri",
       "title": "Metre tu canti",
@@ -8898,6 +8918,7 @@
       ]
     },
     {
+      "id": 20,
       "label": "dicesti_anima_mia_opening",
       "composer": "Vittoria Aleotti",
       "title": "Dicesti anima mia",
@@ -9423,6 +9444,7 @@
       ]
     },
     {
+      "id": 21,
       "label": "ama_ben_dice_ma_lasso",
       "composer": "Paolo Virchi",
       "title": "Ama ben dice Amore",
@@ -10081,6 +10103,7 @@
       ]
     },
     {
+      "id": 22,
       "label": "dicesti_anima_mia_sian_testimoni",
       "composer": "Vittoria Aleotti",
       "title": "Dicesti anima mia",
@@ -10641,6 +10664,7 @@
       ]
     },
     {
+      "id": 23,
       "label": "questa_vita_mortale_opening",
       "composer": "Emilio de Cavalieri",
       "title": "Questa vita mortale",

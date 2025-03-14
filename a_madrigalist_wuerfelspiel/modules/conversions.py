@@ -5,6 +5,7 @@ Conversion functions
 import abjad
 import numpy as np
 import random
+import copy
 
 
 # Metadata
@@ -57,28 +58,72 @@ mode_intervals = {
     "aeolian": ["M2", "m2", "M2", "M2", "m2", "M2", "M2"],
 }
 
-stay_hexachord = 0.6
-one_step_hexachord = 0.3
-two_step_hexachord = 0.1
-two_choices = (1 - stay_hexachord) / 2
-
-hexachord_transition = {
-    "durum": {
-        "durum": stay_hexachord,
-        "naturalis": stay_hexachord + one_step_hexachord,
-        "mollis": 1.0,
-    },
-    "naturalis": {
-        "durum": two_choices,
-        "naturalis": two_choices + stay_hexachord,
-        "mollis": 1.0,
-    },
-    "mollis": {
-        "durum": two_step_hexachord,
-        "naturalis": two_step_hexachord + one_step_hexachord,
-        "mollis": 1.0,
-    },
+mode_transpositions = {
+    "ionian": abjad.NamedInterval("P1"),
+    "dorian": abjad.NamedInterval("M2"),
+    "phrygian": abjad.NamedInterval("M3"),
+    "lydian": abjad.NamedInterval("P4"),
+    "mixolydian": abjad.NamedInterval("P5"),
+    "aeolian": abjad.NamedInterval("M6"),
 }
+
+hexachord_transpositions = [
+    {
+        "start": "naturalis",
+        "end": "mollis",
+        "interval": abjad.NamedInterval("P4"),
+        "direction": "up",
+    },
+    {
+        "start": "naturalis",
+        "end": "durum",
+        "interval": abjad.NamedInterval("P4"),
+        "direction": "down",
+    },
+    {
+        "start": "naturalis",
+        "end": "naturalis",
+        "interval": abjad.NamedInterval("P1"),
+        "direction": "up",
+    },
+    {
+        "start": "mollis",
+        "end": "mollis",
+        "interval": abjad.NamedInterval("P1"),
+        "direction": "up",
+    },
+    {
+        "start": "mollis",
+        "end": "durum",
+        "interval": abjad.NamedInterval("M2"),
+        "direction": "up",
+    },
+    {
+        "start": "mollis",
+        "end": "naturalis",
+        "interval": abjad.NamedInterval("P4"),
+        "direction": "down",
+    },
+    {
+        "start": "durum",
+        "end": "mollis",
+        "interval": abjad.NamedInterval("M2"),
+        "direction": "down",
+    },
+    {
+        "start": "durum",
+        "end": "durum",
+        "interval": abjad.NamedInterval("P1"),
+        "direction": "down",
+    },
+    {
+        "start": "durum",
+        "end": "naturalis",
+        "interval": abjad.NamedInterval("P4"),
+        "direction": "up",
+    },
+]
+
 
 tessitura_voices = {
     "basso": {"low": "d,", "high": "f'"},
@@ -102,24 +147,6 @@ Dots are possibile
 """
 
 
-def get_random_hexachord(previous_hexachord):
-    random_value = np.random.uniform()
-    for key in hexachord_transition.keys():
-        if random_value < hexachord_transition[previous_hexachord][key]:
-            return key
-
-
-def get_random_mode():
-    random_value = np.random.uniform()
-    step = len(mode_mapping)
-    value = 1 / step
-    for key in mode_mapping.keys():
-        if random_value < value:
-            return key
-        else:
-            value += value
-
-
 def hexachord_transposition(mode, hexachord):
     if hexachord == "naturalis":
         return mode_mapping[mode]
@@ -136,7 +163,6 @@ def hexachord_transposition(mode, hexachord):
                 transposed_degree = abjad.NamedPitch(degree) + "P4"
                 transposed_degree = abjad.NamedPitchClass(transposed_degree)
                 transposed_mode.append(transposed_degree.name)
-
         return transposed_mode
 
 
@@ -147,6 +173,7 @@ def degree_sequence2lilypond(seq, mode, hexachord):
             pitch = "r"
         else:
             pitch = hexachord_transposition(mode, hexachord)[element["degree"]]
+            print(pitch)
             if element["ficta"] == "":
                 pass
             else:
@@ -182,7 +209,7 @@ def degree_sequence2lilypond(seq, mode, hexachord):
 
         lilypond_string += str(pitch) + str(octave) + str(duration) + " "
 
-    return lilypond_string
+    return lilypond_string[:-1]
 
 
 # converts an input string to a degree sequence for a given voice
@@ -242,25 +269,83 @@ def lilypond2degree_sequence(string, mode, hexachord):
     return sequence
 
 
-# returns a lilypond string given an input degree sequence and output mode
-def mode_transposition(degree_sequence, mode, output_mode, hexachord):
-    lilypond_string = ""
-    for element in degree_sequence:
+def modal_transposition(
+    lilypond_sequence,
+    degree_sequence,
+    input_mode,
+    output_mode,
+    input_hexachord,
+    output_hexachord,
+):
+    # get the new root and the right octave
+
+    print("Input lilypond sequence:", lilypond_sequence)
+
+    print(f"Modes:{input_mode} , {output_mode}")
+
+    print(f"Hexachords:{input_hexachord} , {output_hexachord}")
+
+    # print("Input degree sequence:", degree_sequence)
+
+    old_root = copy.deepcopy([degree_sequence[0]])
+    old_root[0]["degree"] = 1
+
+    print(old_root)
+
+    old_root = degree_sequence2lilypond(old_root, input_mode, input_hexachord)
+    old_root = abjad.Note(old_root)
+    old_root = abjad.NamedPitch(old_root)
+    old_root_octave = old_root.octave.number - 3
+
+    query = list(
+        filter(
+            lambda x: x["start"] == input_hexachord and x["end"] == output_hexachord,
+            hexachord_transpositions,
+        )
+    )
+    # print(query)
+    if query[0]["direction"] == "up":
+        old_root += query[0]["interval"]
+    else:
+        old_root -= query[0]["interval"]
+
+    # print("Transposed old_root:", old_root)
+
+    # modal transposition
+    new_root = (
+        old_root + mode_transpositions[output_mode] - mode_transpositions[input_mode]
+    )
+
+    # print("New root:", new_root)
+
+    new_root_octave = new_root.octave.number - 3
+
+    diff_octave = new_root_octave - old_root_octave
+
+    # print("Differential octave:", diff_octave)
+
+    print(f"Old root:{old_root}, new root: {new_root}")
+
+    transposed_lilypond_sequence = ""
+
+    transposed_degree_sequence = copy.deepcopy(degree_sequence)
+
+    for element in transposed_degree_sequence:
+        # adjust octaves in degree sequence
+        element["octave"] += diff_octave
         if element["degree"] == 0:
             pitch = "r"
         else:
-            # get the root
-            root = abjad.NamedPitch(hexachord_transposition(output_mode, hexachord)[1])
-            # get the
             pitch = abjad.NamedPitch(
-                hexachord_transposition(output_mode, hexachord)[element["degree"]]
+                hexachord_transposition(output_mode, output_hexachord)[
+                    element["degree"]
+                ]
             )
+            pitch.octave.number = element["octave"] + 3
             # adjust root to pitch
-            root.octave.number = pitch.octave.number
-            if root > pitch:
-                root.octave.number += -1
-
-            print("Root:", root)
+            new_root.octave.number = pitch.octave.number
+            # if new_root > pitch:
+            # new_root.octave.number -= 1
             degree = element["degree"]
             interval = abjad.NamedInterval("P1")
             if degree == 1:
@@ -269,19 +354,12 @@ def mode_transposition(degree_sequence, mode, output_mode, hexachord):
                 for i in range(degree - 1):
                     interval += abjad.NamedInterval(mode_intervals[output_mode][i])
 
-            print("Degree:", degree)
-
-            pitch = root + interval
-
-            print("Transposed pitch:", pitch)
-
-            pitch = pitch.name
+            pitch = new_root + interval
 
             if element["ficta"] == "":
                 pass
             else:
                 if element["ficta"] == "+":
-                    pitch = abjad.NamedPitch(pitch)
                     if pitch.accidental.name == "natural":
                         pitch = pitch._apply_accidental(accidental="sharp")
                     else:
@@ -289,9 +367,7 @@ def mode_transposition(degree_sequence, mode, output_mode, hexachord):
                             pitch = pitch._apply_accidental(accidental="natural")
                         else:  # sharp case
                             pitch += "m2"
-                    pitch = pitch.name
                 else:  # "-" case
-                    pitch = abjad.NamedPitch(pitch)
                     if pitch.accidental.name == "natural":
                         pitch = pitch._apply_accidental(accidental="flat")
                     else:
@@ -299,36 +375,66 @@ def mode_transposition(degree_sequence, mode, output_mode, hexachord):
                             pitch = pitch._apply_accidental(accidental="natural")
                         else:  # flat case
                             pitch += "m2"
-                    pitch = pitch.name
 
-        octave_number = pitch.octave.number - 3
-        octave = ""
-        if octave_number < 0:
-            for i in range(-octave_number):
-                octave += ","
-        else:
-            for i in range(octave_number):
-                octave += "'"
+            pitch = pitch.name
+
         duration = element["duration"]
 
-        lilypond_string += str(pitch) + str(octave) + str(duration) + " "
+        transposed_lilypond_sequence += str(pitch) + str(duration) + " "
 
-    return lilypond_string
+    print("transposed sequence:", transposed_lilypond_sequence)
+
+    print("transposed degree sequence:", transposed_degree_sequence)
+
+    input()
+
+    return transposed_lilypond_sequence[:-1], transposed_degree_sequence
 
 
-# converts a degree sequences of voices an octave lower or higher
-def octave_transposition(degree_voices, transposition):
-    transposed_voices = degree_voices
-    if transposition == "above":  # one octave higher
+def modal_transposition_voices(schema, output_mode, output_hexachord):
+    for voice in schema["voices"]:
+        voice["sequence"], voice["degree_sequence"] = modal_transposition(
+            voice["sequence"],
+            voice["degree_sequence"],
+            schema["mode"],
+            output_mode,
+            schema["hexachord"],
+            output_hexachord,
+        )
+
+    schema["mode"] = output_mode
+    schema["hexachord"] = output_hexachord
+
+    return schema
+
+
+# converts a degree sequences an octave lower or higher
+def octave_transposition(degree_voice, transposition):
+    transposed_degree_voice = degree_voice
+    if transposition == "up":  # one octave higher
         transposition = 1
     else:  # one octave down
         transposition = -1
 
-    for voice in transposed_voices:
-        for note in voice:
-            note["octave"] += transposition
+    for note in transposed_degree_voice:
+        note["octave"] += transposition
 
-    return transposed_voices
+    return transposed_degree_voice
+
+
+def octave_transposition_schema(schema, transposition):
+    transposed_schema = schema
+    for i in range(len(schema["voices"])):
+        transposed_schema["voices"][i]["degree_sequence"] = octave_transposition(
+            schema["voices"][i]["degree_sequence"], transposition
+        )
+        transposed_schema["voices"][i]["sequence"] = degree_sequence2lilypond(
+            transposed_schema["voices"][i]["degree_sequence"],
+            schema["mode"],
+            schema["hexachord"],
+        )
+
+    return transposed_schema
 
 
 # returns True or False if sequence is conform to tessitura

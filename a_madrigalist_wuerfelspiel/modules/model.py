@@ -16,7 +16,8 @@ from modules.conversions import *
 
 
 def add_new_schema_from_folder(schema_dir):
-    schema = {}
+    schema = {"id": 0}
+
     # load metadata.json
     with open(os.path.join(schema_dir, "metadata.json"), "r") as f:
         metadata = json.load(f)
@@ -55,6 +56,7 @@ def update_schemata_from_folder(schemata_dir, schemata):
             # append new schema
             print("Appending new schemata:", d.name)
             schemata.append(add_new_schema_from_folder(d.path))
+            schemata[-1]["id"] = len(schemata) - 1
 
     if update:
         print("Updating current schemata...")
@@ -95,6 +97,50 @@ def generate_transition_score():
             return i
 
 
+def get_transition_score_from_schemata(previous_schema, next_schema):
+    # get last cadential pitches from previous_schema
+    previous_pitches = set()
+
+    for voice in previous_schema["voices"]:
+        splitted_string = voice["sequence"].split(" ")
+        i = -1
+        if splitted_string[i][0] != "":
+            if splitted_string[i][0] == "r":
+                # skip voice
+                continue
+            if splitted_string[i] in previous_pitches:
+                pass
+            else:
+                note = abjad.Note(splitted_string[i])
+                pitch = abjad.NamedPitch(note)
+                previous_pitches.add(abjad.NamedPitchClass(pitch))
+        else:
+            i -= 1
+
+    # get first chord from next schema
+    next_pitches = set()
+
+    for voice in next_schema["voices"]:
+        splitted_string = voice["sequence"].split(" ")
+        if splitted_string[i][0] == "r":
+            # skip voice
+            continue
+        if splitted_string[i] in next_pitches:
+            pass
+        else:
+            note = abjad.Note(splitted_string[i])
+            pitch = abjad.NamedPitch(note)
+            next_pitches.add(abjad.NamedPitchClass(pitch))
+
+    # return transition score using set intersection method.
+
+    print("previous pitches:", previous_pitches)
+
+    print("next pitches:", next_pitches)
+
+    return len(previous_pitches.intersection(next_pitches))
+
+
 def table_next_schema(previous_schema, schemata):
     table_size = 11  # for 2d6
     table_schemata = []
@@ -133,15 +179,11 @@ def table_next_schema(previous_schema, schemata):
                             )"""
                             print("Previous mode:", previous_schema["mode"])
                             print("Current mode:", table_schemata[-1]["mode"])
-                            voice["sequence"] = mode_transposition(
+                            voice["sequence"] = modal_transposition(
                                 voice["degree_sequence"],
                                 previous_schema["mode"],
                                 table_schemata[-1]["mode"],
-                                table_schemata[-1]["hexachord"],
-                            )
-                            voice["degree_sequence"] = lilypond2degree_sequence(
-                                voice["sequence"],
-                                table_schemata[-1]["mode"],
+                                previous_schema["hexachord"],
                                 table_schemata[-1]["hexachord"],
                             )
                         tessitura_check = check_tessitura_voices(

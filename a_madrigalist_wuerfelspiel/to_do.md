@@ -4,7 +4,7 @@
 - [ ] Calculate base parameters for realization (percentual values)
 - [ ] Ingest poems
 - [ ] Visualizations: pyvis graph, export schema and realization to lilypond
-- [ ] Assemblage and algorithm based on parameters and chance (3d6 or 2d6)
+- [x ] Assemblage and algorithm based on parameters and chance (3d6 or 2d6)
 
 
 # Conversions
@@ -13,5 +13,5 @@
 
 # Assemblage
 
-- [ ] Create transitions constraints to keep consistency of modes.
+- [ x] Create transitions constraints to keep consistency of modes.
 

@@ -11,6 +11,7 @@ sys.path.append("./modules")  # importing custom functions in modules
 from modules.utilities import *
 from modules.conversions import *
 from modules.model import *
+from modules.assemblage_v1 import *
 
 
 # Loading data files
@@ -43,6 +44,13 @@ def update_schemata(schemata):
 
 # transition_score = generate_transition_score()
 
+table_next_schema(schemata["schemata"][0], schemata["schemata"])
+
+"""
+print(
+    get_transition_score_from_schemata(schemata["schemata"][0], schemata["schemata"][1])
+)
+"""
 
 # Testing
 
@@ -84,9 +92,8 @@ test_realization = {
     "cadence": "authentic",
 }
 
-print(mode_transposition(seq_test, "dorian", "lydian", "durum"))
 
-seq_test = [
+degree_seq_test = [
     {
         "degree": 1,
         "octave": 0,
@@ -94,13 +101,22 @@ seq_test = [
         "duration": "\\breve",
         "quarterLength": 8,
     },
-    {"degree": 5, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
-    {"degree": 4, "octave": 0, "ficta": "+", "duration": "2", "quarterLength": 2},
-    {"degree": 3, "octave": 0, "ficta": "+", "duration": "2", "quarterLength": 2},
-    {"degree": 4, "octave": 0, "ficta": "+", "duration": "1", "quarterLength": 4},
-    {"degree": 5, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 1, "octave": 1, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 7, "octave": 0, "ficta": "", "duration": "2", "quarterLength": 2},
+    {"degree": 5, "octave": 0, "ficta": "", "duration": "2", "quarterLength": 2},
+    {"degree": 6, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 1, "octave": 1, "ficta": "", "duration": "1", "quarterLength": 4},
 ]
 
+lilypond_seq_test = "c\\breve c'1 b2 g2 a1 c'1"
+
+"""
+print(
+    modal_transposition(
+        lilypond_seq_test, degree_seq_test, "ionian", "dorian", "naturalis", "durum"
+    )
+)
+"""
 
 mode_test = "dorian"
 
