@@ -15,10 +15,8 @@ from modules.utilities import *
 
 # VALUES
 
-stay_hexachord = 0.6
-one_step_hexachord = 0.3
-two_step_hexachord = 0.1
-two_choices = (1 - stay_hexachord) / 2
+stay_hexachord = 0.80
+one_step_hexachord = 0.1
 
 table_size = 11  # 2d6
 
@@ -29,14 +27,14 @@ hexachord_transition = {
         "mollis": 1.0,
     },
     "naturalis": {
-        "durum": two_choices,
-        "naturalis": two_choices + stay_hexachord,
+        "naturalis": stay_hexachord,
+        "durum": stay_hexachord + one_step_hexachord,
         "mollis": 1.0,
     },
     "mollis": {
-        "durum": two_step_hexachord,
-        "naturalis": two_step_hexachord + one_step_hexachord,
-        "mollis": 1.0,
+        "mollis": stay_hexachord,
+        "naturalis": stay_hexachord + one_step_hexachord,
+        "durum": 1.0,
     },
 }
 
@@ -99,15 +97,18 @@ def get_transition_score_from_schemata(previous_schema, next_schema):
 
     for voice in next_schema["voices"]:
         splitted_string = voice["sequence"].split(" ")
-        if splitted_string[i][0] == "r":
-            # skip voice
-            continue
-        if splitted_string[i] in next_pitches:
-            pass
-        else:
-            note = abjad.Note(splitted_string[i])
-            pitch = abjad.NamedPitch(note)
-            next_pitches.add(abjad.NamedPitchClass(pitch))
+        try:
+            if splitted_string[i][0] == "r":
+                # skip voice
+                continue
+            if splitted_string[i] in next_pitches:
+                pass
+            else:
+                note = abjad.Note(splitted_string[i])
+                pitch = abjad.NamedPitch(note)
+                next_pitches.add(abjad.NamedPitchClass(pitch))
+        except IndexError:
+            print(voice["sequence"])
 
     # return transition score using set intersection method.
 
@@ -123,7 +124,7 @@ def get_transition_score_from_schemata(previous_schema, next_schema):
 1. Get 11 random schemata from the corpus, uniformily distributed.
 2. generate a transition score, values between 0 and 3
 2. randomly transpose the 11 schema: modes are uniform, while hexachord is governated by hexachord_transition dictionary
-3. iterate the transposition 
+3. weight table_schemata probabilities according to transition score value.
 
 """
 
@@ -154,44 +155,93 @@ def table_next_schema(previous_schema, schemata, table_size=table_size):
 
     print("Transition score:", transition_score)
 
+    # get scores for each schema in table_schemata
+    table_schemata_scores = []
+    normalization = 0
+    for schema in table_schemata:
+        # print("Current schema:", schema["id"])
+        # input()
+        # export table in JSON format
+        temp_export = "./tmp/table.json"
+        dict2json(table_schemata, temp_export)
+
+        distance = (
+            10
+            - (
+                transition_score
+                - get_transition_score_from_schemata(previous_schema, schema)
+            )
+            ** 2
+        )
+        normalization += distance
+        table_schemata_scores.append(distance)
+
+    for i in range(len(table_schemata_scores)):
+        table_schemata_scores[i] = table_schemata_scores[i] / normalization
+
+    print("Probabilities:", table_schemata_scores)
+
+
+"""
+def table_next_schema(previous_schema, schemata, table_size=table_size):
+    # Generate table schemata
+    table_schemata = []
+    schemata_size = len(schemata)
+    for i in range(table_size):
+        duplicate = True
+        while duplicate:
+            random_value = np.random.randint(0, schemata_size - 1)
+            query = list(
+                filter(
+                    lambda x: x["label"] == schemata[random_value]["label"],
+                    table_schemata,
+                )
+            )
+            if len(query) > 0:
+                pass
+            else:
+                duplicate = False
+                # append new schema
+                table_schemata.append(schemata[random_value])
+
+    # Generate transition score
+    transition_score = generate_transition_score()
+
+    print("Transition score:", transition_score)
+
     # Random transposition of schemata in table to fit transition_score
 
     for schema in table_schemata:
-        print("Current schema:", schema["id"])
-        input()
+        # print("Current schema:", schema["id"])
+        # input()
         # export table in JSON format
         temp_export = "./tmp/table.json"
         dict2json(table_schemata, temp_export)
         condition = False
+        counter = 0
+        temp_transition_score = copy.deepcopy(transition_score)
         while condition == False:
+            counter += 1
             new_mode = get_random_mode()
             new_hexachord = get_random_hexachord(previous_schema["hexachord"])
             transposed_schema = modal_transposition_voices(
                 schema, new_mode, new_hexachord
             )
 
+            if counter > 20:
+                print("Adapting transition score...")
+                if temp_transition_score > 0:
+                    temp_transition_score = transition_score - 1
+
             # evaluate transition score:
             score = get_transition_score_from_schemata(
                 previous_schema, transposed_schema
             )
 
-            if score == transition_score:
-                print("Current score:", score)
-
-                print("Transposed mode:", new_mode)
-
-                print("transposed hexachord:", new_hexachord)
-
-                print("Schema id:", transposed_schema["id"])
-
-                print(
-                    "check tessitura:",
-                    check_tessitura_voices(transposed_schema["voices"]),
-                )
-
-                print(transposed_schema["voices"])
-
-                input()
+            if score == temp_transition_score:
+                print("Schema id:", schema["id"])
+                print(transposed_schema["voices"][0]["sequence"])
+                condition = True
                 # check for tessitura
                 if (
                     check_tessitura_voices(transposed_schema["voices"]) == False
@@ -215,43 +265,4 @@ def table_next_schema(previous_schema, schemata, table_size=table_size):
             else:
                 pass
 
-
-"""
-	if previous_schema == {}:  # first schema case
-		schemata_size = len(schemata)
-		
-					previous_schema = schemata[random_value]
-					# randomly change mode and hexachord
-					tessitura_check = False
-					while tessitura_check == False:
-						table_schemata[-1]["mode"] = get_random_mode()
-						table_schemata[-1]["hexachord"] = get_random_hexachord(
-							table_schemata[-1]["hexachord"]
-						)
-						# change sequences values
-						for voice in table_schemata[-1]["voices"]:
-							voice["sequence"] = degree_sequence2lilypond(
-								voice["degree_sequence"],
-								table_schemata[-1]["mode"],
-								table_schemata[-1]["hexachord"],
-							)
-							print("Previous mode:", previous_schema["mode"])
-							print("Current mode:", table_schemata[-1]["mode"])
-							voice["sequence"] = modal_transposition(
-								voice["degree_sequence"],
-								previous_schema["mode"],
-								table_schemata[-1]["mode"],
-								previous_schema["hexachord"],
-								table_schemata[-1]["hexachord"],
-							)
-						tessitura_check = check_tessitura_voices(
-							table_schemata[-1]["voices"]
-						)
-
-					print(table_schemata[-1])
-					input()
-
-		for schema in table_schemata:
-			print(schema["label"])
-
-"""
+ """

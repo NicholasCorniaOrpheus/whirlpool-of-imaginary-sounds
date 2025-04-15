@@ -15,8 +15,8 @@ from modules.conversions import *
 # from modules.utitlities import *
 
 
-def add_new_schema_from_folder(schema_dir):
-    schema = {"id": 0}
+def add_new_schema_from_folder(schema_dir, id_number):
+    schema = {"id": id_number}
 
     # load metadata.json
     with open(os.path.join(schema_dir, "metadata.json"), "r") as f:
@@ -31,6 +31,7 @@ def add_new_schema_from_folder(schema_dir):
     for lyfile in sorted_directory:
         f = open(os.path.join(schema_dir, "voices", lyfile.name), "r")
         sequence = str(f.read())
+        sequence = sequence.replace("  ", " ")
         name = lyfile.name[2:-3]
         degree_sequence = lilypond2degree_sequence(
             sequence, schema["mode"], schema["hexachord"]
@@ -50,13 +51,12 @@ def update_schemata_from_folder(schemata_dir, schemata):
         if len(query) > 0:
             # upload current schema
             update = True
-            schemata[query[0][0]] = add_new_schema_from_folder(d.path)
+            schemata[query[0][0]] = add_new_schema_from_folder(d.path, query[0][0])
 
         else:
             # append new schema
             print("Appending new schemata:", d.name)
-            schemata.append(add_new_schema_from_folder(d.path))
-            schemata[-1]["id"] = len(schemata) - 1
+            schemata.append(add_new_schema_from_folder(d.path, len(schemata) - 1))
 
     if update:
         print("Updating current schemata...")

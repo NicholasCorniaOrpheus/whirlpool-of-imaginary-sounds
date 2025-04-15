@@ -40,7 +40,7 @@ def update_schemata(schemata):
 # CODE
 
 # works
-# update_schemata(schemata)
+update_schemata(schemata)
 
 # transition_score = generate_transition_score()
 
@@ -50,19 +50,32 @@ table_next_schema(schemata["schemata"][0], schemata["schemata"])
 # Testing
 
 
-lilypond_seq_test = "d'1 d'1 e'1 fs'1 g'1 ef'1"
-
-degree_seq_test = [
-    {"degree": 4, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
-    {"degree": 4, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
-    {"degree": 5, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
-    {"degree": 6, "octave": 0, "ficta": "+", "duration": "1", "quarterLength": 4},
-    {"degree": 7, "octave": 0, "ficta": "", "duration": "1", "quarterLength": 4},
-    {"degree": 5, "octave": 0, "ficta": "-", "duration": "1", "quarterLength": 4},
-]
+lilypond_seq_test = "c'2 d'1 c'1 g'1 g2 a2 bf1 a2 a'2 gs'4 fs'4 gs'1"
 
 """
-modal_transposition(
-    lilypond_seq_test, degree_seq_test, "phrygian", "aeolian", "mollis", "durum"
+degree_seq_test = [
+    {"degree": 4, "octave": 1, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 4, "octave": 1, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 5, "octave": 1, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 6, "octave": 1, "ficta": "+", "duration": "1", "quarterLength": 4},
+    {"degree": 7, "octave": 1, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 1, "octave": 1, "ficta": "", "duration": "1", "quarterLength": 4},
+    {"degree": 5, "octave": 1, "ficta": "-", "duration": "1", "quarterLength": 4},
+]
+
+input_mode = "lydian"
+output_mode = "dorian"
+input_hexachord = "durum"
+output_hexachord = "mollis"
+
+print(
+    modal_transposition(
+        lilypond_seq_test,
+        lilypond2degree_sequence(lilypond_seq_test, input_mode, input_hexachord),
+        input_mode,
+        output_mode,
+        input_hexachord,
+        output_hexachord,
+    )
 )
 """
