@@ -511,6 +511,104 @@ def lilypond_voices2degree(
     return degree_voices
 
 
+# I assume an assemblage as a list of schemata
+def abjad_assemblage2lilypond_score(assemblage):
+    preamble = r"""
+
+    ficta = { \once \set suggestAccidentals = ##t }
+    mens ={ \override Staff.NoteHead.style = #'baroque }
+
+    endmens ={ \revert Staff.NoteHead.style }
+
+    %#(set-global-staff-size 15.5767485433)
+
+
+    \paper {
+     top-system-spacing.basic-distance = #10
+      system-system-spacing.basic-distance = #20
+      last-bottom-spacing.basic-distance = #10
+    horizontal-shift = #7
+    top-margin = 1.5 \cm
+    bottom-margin = 1 \cm
+    left-margin = 1.8 \cm
+    right-margin = 1.8 \cm
+    
+
+    }
+
+    #(set-global-staff-size 18)
+
+    \header{
+     title= \markup{
+       \override #'(font-name . "Hultog") 
+       "A Madrigalist Wuerfelspiel" } 
+     subtitle = \markup{ 
+       \override #'(font-name . "Hultog") 
+       "A Whirlpool of Imaginary Sounds project" }
+     composer = \markup{ \override #'(font-name . "Hultog") "?" }
+     poet = \markup{ \override #'(font-name . "Hultog") "" }
+     copyright = \markup{ \override #'(font-name . "Hultog") "Nicholas Cornia,2025" }
+     arranger =  \markup{ \override #'(font-name . "Hultog") "Nicholas Cornia" }
+     tagline = \markup{ \epsfile #X #35 #"wois.eps"}
+    }
+
+    \version "2.18.2"
+    \language "english"
+
+    \layout{
+  \context {
+    \Score
+    \override StaffGrouper.staff-staff-spacing.padding = #5
+    \override StaffGrouper.staff-staff-spacing.basic-distance = #5
+    \override StaffGrouper.staffgroup-staff-spacing.basic-distance = #5
+\override StaffGrouper.staffgroup-staff-spacing.padding = #5
+  \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/4)
+
+  }
+  \context { \Voice \override NoteHead.style = #'baroque }
+   \context {
+    \Staff
+    \RemoveEmptyStaves
+  }
+  \context{
+    \Voice
+    \RemoveEmptyStaves
+  }
+  \context {      \Dynamics
+    \override VerticalAxisGroup.nonstaff-relatedstaff-spacing.basic-distance = #10
+    }
+  
+  
+} """
+
+    n_voices = assemblage[0]["n_voices"]
+    length_assemblage = len(assemblage)
+    voices = []
+    for i in range(n_voices):
+        voice_name = assemblage[0]["voices"][n_voices - (i + 1)]["name"]
+        # build a voice in abjad (change call from lower to higher voice)
+        sequence = ""
+        for j in range(length_assemblage):
+            sequence += (
+                assemblage[j]["voices"][n_voices - (i + 1)]["sequence"]
+                + """ \\bar"||" """
+            )
+
+        voices.append(abjad.Voice(sequence[:-1], name=voice_name.capitalize()))
+        if voice_name == "basso":
+            abjad.attach(abjad.Clef("bass"), voices[-1][0])
+        elif voice_name == "tenore":
+            abjad.attach(abjad.Clef("treble_8"), voices[-1][0])
+
+        abjad.attach(abjad.TimeSignature((2, 1)), voices[-1][0])
+
+    score = abjad.Score(voices, name="Score")
+
+    lilypond_file = abjad.LilyPondFile([preamble, score])
+
+    return lilypond_file
+
+
 # TOO COMPLICATED!!!!
 def lilypond_voices2duration_windows(
     voices, mode, hexachord

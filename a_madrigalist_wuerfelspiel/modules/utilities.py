@@ -3,6 +3,7 @@ Import utility functions
 """
 import json, csv
 import abjad
+from time import strftime, gmtime
 
 
 # Import Functions
@@ -24,3 +25,7 @@ def json2dict(json_filename):  # imports a JSON file as dictionary
 def dict2json(d, json_filename):
     json_file = open(json_filename, "w")
     json.dump(d, json_file, indent=2)
+
+
+def get_current_date():
+    return strftime("%Y-%m-%d", gmtime())

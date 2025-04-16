@@ -4,6 +4,7 @@ Main code of A Madrigalist Würfelspiel.
 
 import os
 import json, csv
+import abjad
 import sys
 
 sys.path.append("./modules")  # importing custom functions in modules
@@ -11,7 +12,9 @@ sys.path.append("./modules")  # importing custom functions in modules
 from modules.utilities import *
 from modules.conversions import *
 from modules.model import *
-from modules.assemblage_v1 import *
+from modules.assemblage_tarots import *
+
+# from modules.assemblage_v1 import *
 
 
 # Loading data files
@@ -24,6 +27,7 @@ affects_filename = os.path.join(data_dir, "affects.json")
 schemata = json2dict(schemata_filename)
 poems = json2dict(poems_filename)
 affects = json2dict(affects_filename)
+
 
 # Functions
 
@@ -42,9 +46,36 @@ def update_schemata(schemata):
 # works
 update_schemata(schemata)
 
-# transition_score = generate_transition_score()
+# tarot cards
 
-table_next_schema(schemata["schemata"][0], schemata["schemata"])
+major_arcana = set(i + 1 for i in range(len(schemata["schemata"])))
+
+minor_arcana = set()
+
+for i in range(4):
+    for j in range(14):
+        minor_arcana.add((i + 1, j + 1))
+
+n_verses = 8
+
+assemblage = tarot_assemblage(schemata, major_arcana, minor_arcana, n_verses)
+
+lilypond_file = abjad_assemblage2lilypond_score(assemblage)
+
+abjad.show(lilypond_file, output_directory="./tmp/")
+
+# rename the file(s)
+source_dir = "./tmp/"
+target_dir = "./lilypond/"
+
+file_names = os.listdir(source_dir)
+
+for file_name in file_names:
+    # exclude .log files
+    if file_name[-3:] == ".ly":
+        os.rename(source_dir + file_name, target_dir + get_current_date() + ".ly")
+
+# print(f"Major Arcana: {major_arcana} \n Minor Arcana: {minor_arcana}")
 
 
 # Testing

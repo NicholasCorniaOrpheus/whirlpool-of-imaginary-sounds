@@ -123,7 +123,7 @@ def get_transition_score_from_schemata(previous_schema, next_schema):
 
 1. Get 11 random schemata from the corpus, uniformily distributed.
 2. generate a transition score, values between 0 and 3
-2. randomly transpose the 11 schema: modes are uniform, while hexachord is governated by hexachord_transition dictionary
+x. randomly transpose the 11 schema: modes are uniform, while hexachord is governated by hexachord_transition dictionary
 3. weight table_schemata probabilities according to transition score value.
 
 """
@@ -156,7 +156,7 @@ def table_next_schema(previous_schema, schemata, table_size=table_size):
     print("Transition score:", transition_score)
 
     # get scores for each schema in table_schemata
-    table_schemata_scores = []
+    table_schemata_probabilities = []
     normalization = 0
     for schema in table_schemata:
         # print("Current schema:", schema["id"])
@@ -164,6 +164,11 @@ def table_next_schema(previous_schema, schemata, table_size=table_size):
         # export table in JSON format
         temp_export = "./tmp/table.json"
         dict2json(table_schemata, temp_export)
+
+        """
+        possibile values for (transition_score - score)^2 = {0,1,4,9}
+        the closer the distance, the higher the probability.
+        """
 
         distance = (
             10
@@ -174,12 +179,14 @@ def table_next_schema(previous_schema, schemata, table_size=table_size):
             ** 2
         )
         normalization += distance
-        table_schemata_scores.append(distance)
+        table_schemata_probabilities.append(distance)
 
     for i in range(len(table_schemata_scores)):
-        table_schemata_scores[i] = table_schemata_scores[i] / normalization
+        table_schemata_probabilities[i] = (
+            table_schemata_probabilities[i] / normalization
+        )
 
-    print("Probabilities:", table_schemata_scores)
+    print("Probabilities:", table_schemata_probabilities)
 
 
 """
