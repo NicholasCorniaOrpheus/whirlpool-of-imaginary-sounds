@@ -17,7 +17,7 @@
    "A Madrigalist Wuerfelspiel" } 
  subtitle = \markup{ 
    \override #'(font-name . "Hultog") 
-   "A Whirlpool of Imaginary Sounds project" }
+   "A Whirlpool of Imaginary Sounds" }
  composer = \markup{ \override #'(font-name . "Hultog") "?" }
  poet = \markup{ \override #'(font-name . "Hultog") "" }
  copyright = \markup{ \override #'(font-name . "Hultog") "Nicholas Cornia,2025" }
