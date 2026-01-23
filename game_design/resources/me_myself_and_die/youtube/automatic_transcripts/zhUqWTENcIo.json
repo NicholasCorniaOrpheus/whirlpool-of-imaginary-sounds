@@ -1,0 +1,5175 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:05,990",
+      "end_time": "00:00:09,039",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:11,950",
+      "end_time": "00:00:15,120",
+      "text": "[Applause]"
+    },
+    {
+      "start_time": "00:00:13,280",
+      "end_time": "00:00:16,480",
+      "text": "hey guys welcome back to me myself and i"
+    },
+    {
+      "start_time": "00:00:15,120",
+      "end_time": "00:00:18,320",
+      "text": "am as always your intrepid game master"
+    },
+    {
+      "start_time": "00:00:16,480",
+      "end_time": "00:00:21,039",
+      "text": "host and player trevor deval this is a"
+    },
+    {
+      "start_time": "00:00:18,320",
+      "end_time": "00:00:23,279",
+      "text": "supplementary episode about iron sworn"
+    },
+    {
+      "start_time": "00:00:21,039",
+      "end_time": "00:00:24,160",
+      "text": "the rpg system that i'll be using in the"
+    },
+    {
+      "start_time": "00:00:23,279",
+      "end_time": "00:00:26,720",
+      "text": "upcoming"
+    },
+    {
+      "start_time": "00:00:24,160",
+      "end_time": "00:00:28,160",
+      "text": "very soon upcoming season two of me"
+    },
+    {
+      "start_time": "00:00:26,720",
+      "end_time": "00:00:29,679",
+      "text": "myself and i where we explore the"
+    },
+    {
+      "start_time": "00:00:28,160",
+      "end_time": "00:00:30,000",
+      "text": "adventures of aaron kalipuki as he"
+    },
+    {
+      "start_time": "00:00:29,679",
+      "end_time": "00:00:32,559",
+      "text": "returns"
+    },
+    {
+      "start_time": "00:00:30,000",
+      "end_time": "00:00:34,960",
+      "text": "home to the iron lands to fulfill a vow"
+    },
+    {
+      "start_time": "00:00:32,559",
+      "end_time": "00:00:36,880",
+      "text": "what is the vow i do not know we will"
+    },
+    {
+      "start_time": "00:00:34,960",
+      "end_time": "00:00:38,399",
+      "text": "find out when we go to play but before"
+    },
+    {
+      "start_time": "00:00:36,880",
+      "end_time": "00:00:39,440",
+      "text": "we do that we have this episode where"
+    },
+    {
+      "start_time": "00:00:38,399",
+      "end_time": "00:00:40,559",
+      "text": "we're going to talk a little bit about"
+    },
+    {
+      "start_time": "00:00:39,440",
+      "end_time": "00:00:43,600",
+      "text": "iron sworn"
+    },
+    {
+      "start_time": "00:00:40,559",
+      "end_time": "00:00:46,480",
+      "text": "iron sworn but we're going to do it with"
+    },
+    {
+      "start_time": "00:00:43,600",
+      "end_time": "00:00:48,160",
+      "text": "the creator himself sean tompkin who has"
+    },
+    {
+      "start_time": "00:00:46,480",
+      "end_time": "00:00:48,879",
+      "text": "joined me here today to talk about the"
+    },
+    {
+      "start_time": "00:00:48,160",
+      "end_time": "00:00:51,199",
+      "text": "game system"
+    },
+    {
+      "start_time": "00:00:48,879",
+      "end_time": "00:00:53,360",
+      "text": "which is super cool but also not just"
+    },
+    {
+      "start_time": "00:00:51,199",
+      "end_time": "00:00:56,559",
+      "text": "that he is going to help me stat"
+    },
+    {
+      "start_time": "00:00:53,360",
+      "end_time": "00:00:58,480",
+      "text": "up arne calipocky to transfer him from"
+    },
+    {
+      "start_time": "00:00:56,559",
+      "end_time": "00:00:59,039",
+      "text": "the savage world system to the iron"
+    },
+    {
+      "start_time": "00:00:58,480",
+      "end_time": "00:01:02,160",
+      "text": "sworn"
+    },
+    {
+      "start_time": "00:00:59,039",
+      "end_time": "00:01:03,039",
+      "text": "system so that'll be super cool um if"
+    },
+    {
+      "start_time": "00:01:02,160",
+      "end_time": "00:01:05,600",
+      "text": "you want to skip"
+    },
+    {
+      "start_time": "00:01:03,039",
+      "end_time": "00:01:06,240",
+      "text": "right to the uh uh character building"
+    },
+    {
+      "start_time": "00:01:05,600",
+      "end_time": "00:01:08,880",
+      "text": "for arn"
+    },
+    {
+      "start_time": "00:01:06,240",
+      "end_time": "00:01:09,760",
+      "text": "you can go down to this um time code"
+    },
+    {
+      "start_time": "00:01:08,880",
+      "end_time": "00:01:12,080",
+      "text": "right down here"
+    },
+    {
+      "start_time": "00:01:09,760",
+      "end_time": "00:01:13,439",
+      "text": "uh otherwise uh sit back and enjoy and"
+    },
+    {
+      "start_time": "00:01:12,080",
+      "end_time": "00:01:16,400",
+      "text": "uh yes"
+    },
+    {
+      "start_time": "00:01:13,439",
+      "end_time": "00:01:18,400",
+      "text": "uh welcome back to uh supplemental six i"
+    },
+    {
+      "start_time": "00:01:16,400",
+      "end_time": "00:01:19,920",
+      "text": "believe of me myself and i"
+    },
+    {
+      "start_time": "00:01:18,400",
+      "end_time": "00:01:21,920",
+      "text": "well guys i'm very honored to be sitting"
+    },
+    {
+      "start_time": "00:01:19,920",
+      "end_time": "00:01:22,640",
+      "text": "here with the creator of the iron sworn"
+    },
+    {
+      "start_time": "00:01:21,920",
+      "end_time": "00:01:24,640",
+      "text": "rpg"
+    },
+    {
+      "start_time": "00:01:22,640",
+      "end_time": "00:01:26,240",
+      "text": "sean tompkins sean how are you thanks"
+    },
+    {
+      "start_time": "00:01:24,640",
+      "end_time": "00:01:28,960",
+      "text": "for coming on board"
+    },
+    {
+      "start_time": "00:01:26,240",
+      "end_time": "00:01:29,920",
+      "text": "the little shoe i'm doing well thanks so"
+    },
+    {
+      "start_time": "00:01:28,960",
+      "end_time": "00:01:31,439",
+      "text": "much for having me"
+    },
+    {
+      "start_time": "00:01:29,920",
+      "end_time": "00:01:33,200",
+      "text": "yeah it's my pleasure man uh this is a"
+    },
+    {
+      "start_time": "00:01:31,439",
+      "end_time": "00:01:35,119",
+      "text": "first for me i don't normally do uh"
+    },
+    {
+      "start_time": "00:01:33,200",
+      "end_time": "00:01:36,479",
+      "text": "interviews because it's me myself and i"
+    },
+    {
+      "start_time": "00:01:35,119",
+      "end_time": "00:01:38,079",
+      "text": "it's all about me"
+    },
+    {
+      "start_time": "00:01:36,479",
+      "end_time": "00:01:39,840",
+      "text": "but now there's me and you which is kind"
+    },
+    {
+      "start_time": "00:01:38,079",
+      "end_time": "00:01:41,280",
+      "text": "of cool so obviously we're going to be"
+    },
+    {
+      "start_time": "00:01:39,840",
+      "end_time": "00:01:42,320",
+      "text": "talking about iron sworn today and we're"
+    },
+    {
+      "start_time": "00:01:41,280",
+      "end_time": "00:01:44,720",
+      "text": "going to get to"
+    },
+    {
+      "start_time": "00:01:42,320",
+      "end_time": "00:01:46,159",
+      "text": "uh standing up arne kalupunki uh who is"
+    },
+    {
+      "start_time": "00:01:44,720",
+      "end_time": "00:01:48,240",
+      "text": "of course our main character for"
+    },
+    {
+      "start_time": "00:01:46,159",
+      "end_time": "00:01:49,200",
+      "text": "season two of my show coming up very"
+    },
+    {
+      "start_time": "00:01:48,240",
+      "end_time": "00:01:50,720",
+      "text": "very soon"
+    },
+    {
+      "start_time": "00:01:49,200",
+      "end_time": "00:01:52,560",
+      "text": "but before we get to there i just want"
+    },
+    {
+      "start_time": "00:01:50,720",
+      "end_time": "00:01:54,079",
+      "text": "to talk a little bit um take this chance"
+    },
+    {
+      "start_time": "00:01:52,560",
+      "end_time": "00:01:56,799",
+      "text": "to talk to the creator of the show about"
+    },
+    {
+      "start_time": "00:01:54,079",
+      "end_time": "00:01:57,439",
+      "text": "or of the game rather about the game"
+    },
+    {
+      "start_time": "00:01:56,799",
+      "end_time": "00:01:59,920",
+      "text": "itself"
+    },
+    {
+      "start_time": "00:01:57,439",
+      "end_time": "00:02:01,439",
+      "text": "so first of all um if you had to give"
+    },
+    {
+      "start_time": "00:01:59,920",
+      "end_time": "00:02:03,200",
+      "text": "sort of the elevator pitch to people who"
+    },
+    {
+      "start_time": "00:02:01,439",
+      "end_time": "00:02:05,520",
+      "text": "are unfamiliar with iron sworn"
+    },
+    {
+      "start_time": "00:02:03,200",
+      "end_time": "00:02:07,040",
+      "text": "30 words or less baby what do you got"
+    },
+    {
+      "start_time": "00:02:05,520",
+      "end_time": "00:02:08,879",
+      "text": "how would you describe the game"
+    },
+    {
+      "start_time": "00:02:07,040",
+      "end_time": "00:02:10,160",
+      "text": "uh to someone who's never heard of it at"
+    },
+    {
+      "start_time": "00:02:08,879",
+      "end_time": "00:02:12,319",
+      "text": "all but is a"
+    },
+    {
+      "start_time": "00:02:10,160",
+      "end_time": "00:02:14,239",
+      "text": "a player of traditional role-playing"
+    },
+    {
+      "start_time": "00:02:12,319",
+      "end_time": "00:02:15,520",
+      "text": "games uh 30 words or less please don't"
+    },
+    {
+      "start_time": "00:02:14,239",
+      "end_time": "00:02:17,200",
+      "text": "count me because i'll probably buy it"
+    },
+    {
+      "start_time": "00:02:15,520",
+      "end_time": "00:02:19,360",
+      "text": "like that i think i already have"
+    },
+    {
+      "start_time": "00:02:17,200",
+      "end_time": "00:02:20,840",
+      "text": "uh so it's a table top role-playing game"
+    },
+    {
+      "start_time": "00:02:19,360",
+      "end_time": "00:02:24,000",
+      "text": "uh it's"
+    },
+    {
+      "start_time": "00:02:20,840",
+      "end_time": "00:02:27,680",
+      "text": "a uh fantasy game it's"
+    },
+    {
+      "start_time": "00:02:24,000",
+      "end_time": "00:02:30,720",
+      "text": "relatively gritty sort of low fantasy"
+    },
+    {
+      "start_time": "00:02:27,680",
+      "end_time": "00:02:33,440",
+      "text": "takes the default setting as a rugged"
+    },
+    {
+      "start_time": "00:02:30,720",
+      "end_time": "00:02:34,080",
+      "text": "perilous environment in the far north"
+    },
+    {
+      "start_time": "00:02:33,440",
+      "end_time": "00:02:36,959",
+      "text": "you play"
+    },
+    {
+      "start_time": "00:02:34,080",
+      "end_time": "00:02:38,879",
+      "text": "a character who is iron sworn who sort"
+    },
+    {
+      "start_time": "00:02:36,959",
+      "end_time": "00:02:41,760",
+      "text": "of lives by their vows"
+    },
+    {
+      "start_time": "00:02:38,879",
+      "end_time": "00:02:43,200",
+      "text": "and is driven to complete quests in this"
+    },
+    {
+      "start_time": "00:02:41,760",
+      "end_time": "00:02:45,840",
+      "text": "perilous place"
+    },
+    {
+      "start_time": "00:02:43,200",
+      "end_time": "00:02:46,319",
+      "text": "and that's how the mechanics of the game"
+    },
+    {
+      "start_time": "00:02:45,840",
+      "end_time": "00:02:48,239",
+      "text": "and"
+    },
+    {
+      "start_time": "00:02:46,319",
+      "end_time": "00:02:50,000",
+      "text": "the narrative of the game is driven is"
+    },
+    {
+      "start_time": "00:02:48,239",
+      "end_time": "00:02:54,080",
+      "text": "by"
+    },
+    {
+      "start_time": "00:02:50,000",
+      "end_time": "00:02:57,280",
+      "text": "swearing and then fulfilling those vows"
+    },
+    {
+      "start_time": "00:02:54,080",
+      "end_time": "00:02:59,680",
+      "text": "it's a relatively narrative game so not"
+    },
+    {
+      "start_time": "00:02:57,280",
+      "end_time": "00:03:01,760",
+      "text": "super heavy and mechanically and one of"
+    },
+    {
+      "start_time": "00:02:59,680",
+      "end_time": "00:03:04,879",
+      "text": "its sort of main differentiating"
+    },
+    {
+      "start_time": "00:03:01,760",
+      "end_time": "00:03:06,800",
+      "text": "components is that it supports guided"
+    },
+    {
+      "start_time": "00:03:04,879",
+      "end_time": "00:03:08,239",
+      "text": "play which is sort of traditional play"
+    },
+    {
+      "start_time": "00:03:06,800",
+      "end_time": "00:03:12,640",
+      "text": "of"
+    },
+    {
+      "start_time": "00:03:08,239",
+      "end_time": "00:03:15,280",
+      "text": "gm and players and co-op which is"
+    },
+    {
+      "start_time": "00:03:12,640",
+      "end_time": "00:03:17,120",
+      "text": "a you and one or more players and no gm"
+    },
+    {
+      "start_time": "00:03:15,280",
+      "end_time": "00:03:18,560",
+      "text": "and then solo mode which is probably of"
+    },
+    {
+      "start_time": "00:03:17,120",
+      "end_time": "00:03:21,599",
+      "text": "most interest to you"
+    },
+    {
+      "start_time": "00:03:18,560",
+      "end_time": "00:03:23,120",
+      "text": "which is just you know gm the system"
+    },
+    {
+      "start_time": "00:03:21,599",
+      "end_time": "00:03:24,959",
+      "text": "will help you"
+    },
+    {
+      "start_time": "00:03:23,120",
+      "end_time": "00:03:26,799",
+      "text": "sort of drive the narrative see what"
+    },
+    {
+      "start_time": "00:03:24,959",
+      "end_time": "00:03:27,680",
+      "text": "happens determine the outcome of your"
+    },
+    {
+      "start_time": "00:03:26,799",
+      "end_time": "00:03:30,400",
+      "text": "actions"
+    },
+    {
+      "start_time": "00:03:27,680",
+      "end_time": "00:03:32,000",
+      "text": "etc so did you were you aware of the"
+    },
+    {
+      "start_time": "00:03:30,400",
+      "end_time": "00:03:34,239",
+      "text": "solo rpg world"
+    },
+    {
+      "start_time": "00:03:32,000",
+      "end_time": "00:03:35,120",
+      "text": "when you created this uh when you"
+    },
+    {
+      "start_time": "00:03:34,239",
+      "end_time": "00:03:37,120",
+      "text": "embarked upon"
+    },
+    {
+      "start_time": "00:03:35,120",
+      "end_time": "00:03:38,720",
+      "text": "on the game or was it uh was it more of"
+    },
+    {
+      "start_time": "00:03:37,120",
+      "end_time": "00:03:41,040",
+      "text": "a traditional rpg with a gm"
+    },
+    {
+      "start_time": "00:03:38,720",
+      "end_time": "00:03:42,400",
+      "text": "and stuff and then you sort of uh turned"
+    },
+    {
+      "start_time": "00:03:41,040",
+      "end_time": "00:03:43,840",
+      "text": "it into a more"
+    },
+    {
+      "start_time": "00:03:42,400",
+      "end_time": "00:03:45,040",
+      "text": "cooperative or solo thing no i"
+    },
+    {
+      "start_time": "00:03:43,840",
+      "end_time": "00:03:46,400",
+      "text": "definitely was i think i was most"
+    },
+    {
+      "start_time": "00:03:45,040",
+      "end_time": "00:03:47,840",
+      "text": "familiar with things like the mythic"
+    },
+    {
+      "start_time": "00:03:46,400",
+      "end_time": "00:03:48,879",
+      "text": "engine which you're certainly familiar"
+    },
+    {
+      "start_time": "00:03:47,840",
+      "end_time": "00:03:50,720",
+      "text": "with"
+    },
+    {
+      "start_time": "00:03:48,879",
+      "end_time": "00:03:53,599",
+      "text": "use that a lot i think in your last"
+    },
+    {
+      "start_time": "00:03:50,720",
+      "end_time": "00:03:56,239",
+      "text": "season and some various tools and i"
+    },
+    {
+      "start_time": "00:03:53,599",
+      "end_time": "00:03:58,080",
+      "text": "had played around with a fair number of"
+    },
+    {
+      "start_time": "00:03:56,239",
+      "end_time": "00:04:00,879",
+      "text": "those same tools that you were using in"
+    },
+    {
+      "start_time": "00:03:58,080",
+      "end_time": "00:04:02,720",
+      "text": "in season one actually in my own uh"
+    },
+    {
+      "start_time": "00:04:00,879",
+      "end_time": "00:04:04,000",
+      "text": "gameplay and that was"
+    },
+    {
+      "start_time": "00:04:02,720",
+      "end_time": "00:04:06,000",
+      "text": "that was a foundational thing for"
+    },
+    {
+      "start_time": "00:04:04,000",
+      "end_time": "00:04:07,680",
+      "text": "ironsworn was it wasn't about"
+    },
+    {
+      "start_time": "00:04:06,000",
+      "end_time": "00:04:09,200",
+      "text": "retrofitting it for solo play it was"
+    },
+    {
+      "start_time": "00:04:07,680",
+      "end_time": "00:04:11,599",
+      "text": "about thinking about"
+    },
+    {
+      "start_time": "00:04:09,200",
+      "end_time": "00:04:12,560",
+      "text": "solo and co-op play from the ground up"
+    },
+    {
+      "start_time": "00:04:11,599",
+      "end_time": "00:04:14,480",
+      "text": "and that was just"
+    },
+    {
+      "start_time": "00:04:12,560",
+      "end_time": "00:04:17,040",
+      "text": "sort of the due to the reality of my"
+    },
+    {
+      "start_time": "00:04:14,480",
+      "end_time": "00:04:20,400",
+      "text": "gaming life which tended to be"
+    },
+    {
+      "start_time": "00:04:17,040",
+      "end_time": "00:04:23,840",
+      "text": "uh you know uh me myself and i"
+    },
+    {
+      "start_time": "00:04:20,400",
+      "end_time": "00:04:25,280",
+      "text": "so to speak or playing with my son or my"
+    },
+    {
+      "start_time": "00:04:23,840",
+      "end_time": "00:04:26,479",
+      "text": "wife or something like that so small"
+    },
+    {
+      "start_time": "00:04:25,280",
+      "end_time": "00:04:27,840",
+      "text": "group and solo play"
+    },
+    {
+      "start_time": "00:04:26,479",
+      "end_time": "00:04:30,000",
+      "text": "that's interesting because you know i"
+    },
+    {
+      "start_time": "00:04:27,840",
+      "end_time": "00:04:32,720",
+      "text": "will admit that when i started this show"
+    },
+    {
+      "start_time": "00:04:30,000",
+      "end_time": "00:04:33,919",
+      "text": "uh i had no idea there was a solo rpg"
+    },
+    {
+      "start_time": "00:04:32,720",
+      "end_time": "00:04:34,960",
+      "text": "community at all"
+    },
+    {
+      "start_time": "00:04:33,919",
+      "end_time": "00:04:36,960",
+      "text": "i didn't know that i don't know there"
+    },
+    {
+      "start_time": "00:04:34,960",
+      "end_time": "00:04:39,040",
+      "text": "was such thing as a community of solo"
+    },
+    {
+      "start_time": "00:04:36,960",
+      "end_time": "00:04:40,080",
+      "text": "people it seemed like an oxymoron uh i"
+    },
+    {
+      "start_time": "00:04:39,040",
+      "end_time": "00:04:40,960",
+      "text": "was doing it because i thought it would"
+    },
+    {
+      "start_time": "00:04:40,080",
+      "end_time": "00:04:42,960",
+      "text": "be kind of funny"
+    },
+    {
+      "start_time": "00:04:40,960",
+      "end_time": "00:04:45,040",
+      "text": "not funny well funny too i thought it'd"
+    },
+    {
+      "start_time": "00:04:42,960",
+      "end_time": "00:04:46,400",
+      "text": "be interesting to have just me doing all"
+    },
+    {
+      "start_time": "00:04:45,040",
+      "end_time": "00:04:47,680",
+      "text": "the characters"
+    },
+    {
+      "start_time": "00:04:46,400",
+      "end_time": "00:04:49,600",
+      "text": "and then i do the show and everyone's"
+    },
+    {
+      "start_time": "00:04:47,680",
+      "end_time": "00:04:52,160",
+      "text": "like yeah i've been doing that for years"
+    },
+    {
+      "start_time": "00:04:49,600",
+      "end_time": "00:04:52,639",
+      "text": "oh okay and so it was the community that"
+    },
+    {
+      "start_time": "00:04:52,160",
+      "end_time": "00:04:54,080",
+      "text": "brought"
+    },
+    {
+      "start_time": "00:04:52,639",
+      "end_time": "00:04:55,360",
+      "text": "iron sworn to my attention they were the"
+    },
+    {
+      "start_time": "00:04:54,080",
+      "end_time": "00:04:57,199",
+      "text": "ones who said oh yeah you should check"
+    },
+    {
+      "start_time": "00:04:55,360",
+      "end_time": "00:04:58,160",
+      "text": "this out so i did and of course i fell"
+    },
+    {
+      "start_time": "00:04:57,199",
+      "end_time": "00:04:59,440",
+      "text": "in love with it right away i thought it"
+    },
+    {
+      "start_time": "00:04:58,160",
+      "end_time": "00:05:01,360",
+      "text": "was great now it's interesting"
+    },
+    {
+      "start_time": "00:04:59,440",
+      "end_time": "00:05:02,880",
+      "text": "the rules are kind of based on the the"
+    },
+    {
+      "start_time": "00:05:01,360",
+      "end_time": "00:05:05,919",
+      "text": "powered by the apocalypse"
+    },
+    {
+      "start_time": "00:05:02,880",
+      "end_time": "00:05:07,600",
+      "text": "system largely i mean you've done a few"
+    },
+    {
+      "start_time": "00:05:05,919",
+      "end_time": "00:05:08,720",
+      "text": "modifications on that is uh"
+    },
+    {
+      "start_time": "00:05:07,600",
+      "end_time": "00:05:10,960",
+      "text": "what what made you go with that"
+    },
+    {
+      "start_time": "00:05:08,720",
+      "end_time": "00:05:13,440",
+      "text": "particular rule set"
+    },
+    {
+      "start_time": "00:05:10,960",
+      "end_time": "00:05:15,199",
+      "text": "uh i i was somewhat fascinated by that"
+    },
+    {
+      "start_time": "00:05:13,440",
+      "end_time": "00:05:16,800",
+      "text": "rule set to begin with so i had"
+    },
+    {
+      "start_time": "00:05:15,199",
+      "end_time": "00:05:18,800",
+      "text": "played around with a lot of sort of"
+    },
+    {
+      "start_time": "00:05:16,800",
+      "end_time": "00:05:19,360",
+      "text": "hacking at various permutations of the"
+    },
+    {
+      "start_time": "00:05:18,800",
+      "end_time": "00:05:21,520",
+      "text": "rule set"
+    },
+    {
+      "start_time": "00:05:19,360",
+      "end_time": "00:05:23,520",
+      "text": "like with apocalypse world and dungeon"
+    },
+    {
+      "start_time": "00:05:21,520",
+      "end_time": "00:05:26,320",
+      "text": "world and a few other things"
+    },
+    {
+      "start_time": "00:05:23,520",
+      "end_time": "00:05:27,360",
+      "text": "um i was interested in sort of a gritty"
+    },
+    {
+      "start_time": "00:05:26,320",
+      "end_time": "00:05:29,680",
+      "text": "low fantasy"
+    },
+    {
+      "start_time": "00:05:27,360",
+      "end_time": "00:05:31,600",
+      "text": "game for that system which didn't which"
+    },
+    {
+      "start_time": "00:05:29,680",
+      "end_time": "00:05:34,960",
+      "text": "sort of existed a little bit"
+    },
+    {
+      "start_time": "00:05:31,600",
+      "end_time": "00:05:36,400",
+      "text": "um there's a there's a"
+    },
+    {
+      "start_time": "00:05:34,960",
+      "end_time": "00:05:38,160",
+      "text": "version of that called city of judas"
+    },
+    {
+      "start_time": "00:05:36,400",
+      "end_time": "00:05:39,120",
+      "text": "which was a hack of apocalypse world"
+    },
+    {
+      "start_time": "00:05:38,160",
+      "end_time": "00:05:40,880",
+      "text": "which was"
+    },
+    {
+      "start_time": "00:05:39,120",
+      "end_time": "00:05:42,400",
+      "text": "sort of specifically gritty fantasy and"
+    },
+    {
+      "start_time": "00:05:40,880",
+      "end_time": "00:05:43,759",
+      "text": "that's where iron horn sort of started a"
+    },
+    {
+      "start_time": "00:05:42,400",
+      "end_time": "00:05:46,320",
+      "text": "little bit more of a"
+    },
+    {
+      "start_time": "00:05:43,759",
+      "end_time": "00:05:47,759",
+      "text": "hack of that and just as i was exploring"
+    },
+    {
+      "start_time": "00:05:46,320",
+      "end_time": "00:05:50,479",
+      "text": "those things"
+    },
+    {
+      "start_time": "00:05:47,759",
+      "end_time": "00:05:53,199",
+      "text": "uh something i found was how much the"
+    },
+    {
+      "start_time": "00:05:50,479",
+      "end_time": "00:05:55,280",
+      "text": "moves themselves sort of drove"
+    },
+    {
+      "start_time": "00:05:53,199",
+      "end_time": "00:05:57,360",
+      "text": "narrative and took on the role of a gm"
+    },
+    {
+      "start_time": "00:05:55,280",
+      "end_time": "00:06:00,080",
+      "text": "to some extent right they"
+    },
+    {
+      "start_time": "00:05:57,360",
+      "end_time": "00:06:01,280",
+      "text": "identify the triggers for your actions"
+    },
+    {
+      "start_time": "00:06:00,080",
+      "end_time": "00:06:04,479",
+      "text": "they identify"
+    },
+    {
+      "start_time": "00:06:01,280",
+      "end_time": "00:06:06,319",
+      "text": "what mechanically you need to do to"
+    },
+    {
+      "start_time": "00:06:04,479",
+      "end_time": "00:06:08,080",
+      "text": "determine resolve that action and then"
+    },
+    {
+      "start_time": "00:06:06,319",
+      "end_time": "00:06:09,360",
+      "text": "what the outcome is so all those things"
+    },
+    {
+      "start_time": "00:06:08,080",
+      "end_time": "00:06:12,080",
+      "text": "sort of like"
+    },
+    {
+      "start_time": "00:06:09,360",
+      "end_time": "00:06:13,280",
+      "text": "in terms of like switching hats between"
+    },
+    {
+      "start_time": "00:06:12,080",
+      "end_time": "00:06:16,880",
+      "text": "a player and a gm"
+    },
+    {
+      "start_time": "00:06:13,280",
+      "end_time": "00:06:19,039",
+      "text": "it felt pretty elegant pretty seamless"
+    },
+    {
+      "start_time": "00:06:16,880",
+      "end_time": "00:06:20,240",
+      "text": "um so that was the main driver there"
+    },
+    {
+      "start_time": "00:06:19,039",
+      "end_time": "00:06:21,600",
+      "text": "it's interesting because"
+    },
+    {
+      "start_time": "00:06:20,240",
+      "end_time": "00:06:23,840",
+      "text": "for those of you who are not familiar"
+    },
+    {
+      "start_time": "00:06:21,600",
+      "end_time": "00:06:26,880",
+      "text": "with the powered by the apocalypse rule"
+    },
+    {
+      "start_time": "00:06:23,840",
+      "end_time": "00:06:27,440",
+      "text": "rules basically you take a a static"
+    },
+    {
+      "start_time": "00:06:26,880",
+      "end_time": "00:06:29,280",
+      "text": "number"
+    },
+    {
+      "start_time": "00:06:27,440",
+      "end_time": "00:06:31,039",
+      "text": "you add it to 2d6 and you get like if"
+    },
+    {
+      "start_time": "00:06:29,280",
+      "end_time": "00:06:32,160",
+      "text": "you get 10 or more it's"
+    },
+    {
+      "start_time": "00:06:31,039",
+      "end_time": "00:06:33,680",
+      "text": "you get everything you want if you get"
+    },
+    {
+      "start_time": "00:06:32,160",
+      "end_time": "00:06:35,039",
+      "text": "seven to nine it's you get something but"
+    },
+    {
+      "start_time": "00:06:33,680",
+      "end_time": "00:06:36,400",
+      "text": "there's a complication if you get six or"
+    },
+    {
+      "start_time": "00:06:35,039",
+      "end_time": "00:06:37,360",
+      "text": "less there's a failure but i noticed"
+    },
+    {
+      "start_time": "00:06:36,400",
+      "end_time": "00:06:39,600",
+      "text": "with iron sworn"
+    },
+    {
+      "start_time": "00:06:37,360",
+      "end_time": "00:06:40,479",
+      "text": "yet you added an interesting concept in"
+    },
+    {
+      "start_time": "00:06:39,600",
+      "end_time": "00:06:42,319",
+      "text": "there which is"
+    },
+    {
+      "start_time": "00:06:40,479",
+      "end_time": "00:06:44,240",
+      "text": "there is no static target number"
+    },
+    {
+      "start_time": "00:06:42,319",
+      "end_time": "00:06:46,400",
+      "text": "everything every target number is"
+    },
+    {
+      "start_time": "00:06:44,240",
+      "end_time": "00:06:48,800",
+      "text": "randomly determined by a couple of d10s"
+    },
+    {
+      "start_time": "00:06:46,400",
+      "end_time": "00:06:49,919",
+      "text": "so uh what was the thinking behind that"
+    },
+    {
+      "start_time": "00:06:48,800",
+      "end_time": "00:06:51,520",
+      "text": "because i have a question about that"
+    },
+    {
+      "start_time": "00:06:49,919",
+      "end_time": "00:06:53,840",
+      "text": "actually in terms of how to set"
+    },
+    {
+      "start_time": "00:06:51,520",
+      "end_time": "00:06:54,800",
+      "text": "um task difficulties if you want to"
+    },
+    {
+      "start_time": "00:06:53,840",
+      "end_time": "00:06:57,039",
+      "text": "change up things but"
+    },
+    {
+      "start_time": "00:06:54,800",
+      "end_time": "00:06:58,639",
+      "text": "but now what made you uh do that instead"
+    },
+    {
+      "start_time": "00:06:57,039",
+      "end_time": "00:06:59,840",
+      "text": "of sort of the blog standard powered by"
+    },
+    {
+      "start_time": "00:06:58,639",
+      "end_time": "00:07:02,000",
+      "text": "the apocalypse"
+    },
+    {
+      "start_time": "00:06:59,840",
+      "end_time": "00:07:02,880",
+      "text": "uh there was a few reasons for that one"
+    },
+    {
+      "start_time": "00:07:02,000",
+      "end_time": "00:07:05,039",
+      "text": "was"
+    },
+    {
+      "start_time": "00:07:02,880",
+      "end_time": "00:07:05,919",
+      "text": "um i wanted a little bit more range in"
+    },
+    {
+      "start_time": "00:07:05,039",
+      "end_time": "00:07:09,520",
+      "text": "the math"
+    },
+    {
+      "start_time": "00:07:05,919",
+      "end_time": "00:07:12,319",
+      "text": "with a typical sort of 2d6 plus stat"
+    },
+    {
+      "start_time": "00:07:09,520",
+      "end_time": "00:07:14,319",
+      "text": "there's a fairly a plus one an"
+    },
+    {
+      "start_time": "00:07:12,319",
+      "end_time": "00:07:16,880",
+      "text": "additional plus one will have a fairly"
+    },
+    {
+      "start_time": "00:07:14,319",
+      "end_time": "00:07:18,240",
+      "text": "big impact once you get to like a plus"
+    },
+    {
+      "start_time": "00:07:16,880",
+      "end_time": "00:07:20,800",
+      "text": "three stat you're pretty much"
+    },
+    {
+      "start_time": "00:07:18,240",
+      "end_time": "00:07:21,520",
+      "text": "almost assured to get into that sort of"
+    },
+    {
+      "start_time": "00:07:20,800",
+      "end_time": "00:07:24,319",
+      "text": "success"
+    },
+    {
+      "start_time": "00:07:21,520",
+      "end_time": "00:07:25,680",
+      "text": "strong hit territory most the time um"
+    },
+    {
+      "start_time": "00:07:24,319",
+      "end_time": "00:07:27,919",
+      "text": "and i"
+    },
+    {
+      "start_time": "00:07:25,680",
+      "end_time": "00:07:29,039",
+      "text": "i like for solo play i like a little bit"
+    },
+    {
+      "start_time": "00:07:27,919",
+      "end_time": "00:07:33,360",
+      "text": "of sort of gamey"
+    },
+    {
+      "start_time": "00:07:29,039",
+      "end_time": "00:07:35,520",
+      "text": "sort of like trying to you know"
+    },
+    {
+      "start_time": "00:07:33,360",
+      "end_time": "00:07:37,440",
+      "text": "add some mechanical bonuses to your"
+    },
+    {
+      "start_time": "00:07:35,520",
+      "end_time": "00:07:39,520",
+      "text": "moves to get advantage"
+    },
+    {
+      "start_time": "00:07:37,440",
+      "end_time": "00:07:41,599",
+      "text": "um so i just found that sort of"
+    },
+    {
+      "start_time": "00:07:39,520",
+      "end_time": "00:07:43,039",
+      "text": "stretching that range a little bit more"
+    },
+    {
+      "start_time": "00:07:41,599",
+      "end_time": "00:07:45,199",
+      "text": "mathematically worked a little bit"
+    },
+    {
+      "start_time": "00:07:43,039",
+      "end_time": "00:07:47,680",
+      "text": "better another was the"
+    },
+    {
+      "start_time": "00:07:45,199",
+      "end_time": "00:07:49,360",
+      "text": "the 2d 10s gives me that match mechanic"
+    },
+    {
+      "start_time": "00:07:47,680",
+      "end_time": "00:07:51,360",
+      "text": "for solo play so whenever you see a"
+    },
+    {
+      "start_time": "00:07:49,360",
+      "end_time": "00:07:54,879",
+      "text": "match on those 2d10s"
+    },
+    {
+      "start_time": "00:07:51,360",
+      "end_time": "00:07:57,120",
+      "text": "the narrative is potentially sort of"
+    },
+    {
+      "start_time": "00:07:54,879",
+      "end_time": "00:07:58,639",
+      "text": "given a little bit of a twist whether"
+    },
+    {
+      "start_time": "00:07:57,120",
+      "end_time": "00:08:00,160",
+      "text": "it's positive or negative depending on"
+    },
+    {
+      "start_time": "00:07:58,639",
+      "end_time": "00:08:03,280",
+      "text": "the outcome the move"
+    },
+    {
+      "start_time": "00:08:00,160",
+      "end_time": "00:08:05,360",
+      "text": "uh and then i just it generates a little"
+    },
+    {
+      "start_time": "00:08:03,280",
+      "end_time": "00:08:07,520",
+      "text": "bit more chaos which i find to be a"
+    },
+    {
+      "start_time": "00:08:05,360",
+      "end_time": "00:08:09,759",
+      "text": "little bit more for better or worse"
+    },
+    {
+      "start_time": "00:08:07,520",
+      "end_time": "00:08:11,039",
+      "text": "uh entertaining there's always a little"
+    },
+    {
+      "start_time": "00:08:09,759",
+      "end_time": "00:08:14,080",
+      "text": "bit more"
+    },
+    {
+      "start_time": "00:08:11,039",
+      "end_time": "00:08:16,080",
+      "text": "of uh you know not having confidence in"
+    },
+    {
+      "start_time": "00:08:14,080",
+      "end_time": "00:08:18,479",
+      "text": "what the result is going to be of a"
+    },
+    {
+      "start_time": "00:08:16,080",
+      "end_time": "00:08:20,720",
+      "text": "of a particular move you know no matter"
+    },
+    {
+      "start_time": "00:08:18,479",
+      "end_time": "00:08:22,240",
+      "text": "what you're going in with there's always"
+    },
+    {
+      "start_time": "00:08:20,720",
+      "end_time": "00:08:24,479",
+      "text": "a potential sort of wrench in the works"
+    },
+    {
+      "start_time": "00:08:22,240",
+      "end_time": "00:08:27,280",
+      "text": "which i just find for solo play"
+    },
+    {
+      "start_time": "00:08:24,479",
+      "end_time": "00:08:28,000",
+      "text": "like that uncertainty i think helps sort"
+    },
+    {
+      "start_time": "00:08:27,280",
+      "end_time": "00:08:30,560",
+      "text": "of drive"
+    },
+    {
+      "start_time": "00:08:28,000",
+      "end_time": "00:08:33,599",
+      "text": "interesting fun chaotic narratives yeah"
+    },
+    {
+      "start_time": "00:08:30,560",
+      "end_time": "00:08:35,919",
+      "text": "i got 22 episodes out of it"
+    },
+    {
+      "start_time": "00:08:33,599",
+      "end_time": "00:08:37,120",
+      "text": "out of that idea of i have no idea"
+    },
+    {
+      "start_time": "00:08:35,919",
+      "end_time": "00:08:38,000",
+      "text": "what's going to happen when i saw the"
+    },
+    {
+      "start_time": "00:08:37,120",
+      "end_time": "00:08:39,680",
+      "text": "mechanic i"
+    },
+    {
+      "start_time": "00:08:38,000",
+      "end_time": "00:08:41,360",
+      "text": "i thought that's really cool because i"
+    },
+    {
+      "start_time": "00:08:39,680",
+      "end_time": "00:08:43,680",
+      "text": "i'm just like you i i love"
+    },
+    {
+      "start_time": "00:08:41,360",
+      "end_time": "00:08:45,440",
+      "text": "having no idea what's gonna happen and"
+    },
+    {
+      "start_time": "00:08:43,680",
+      "end_time": "00:08:46,320",
+      "text": "as you say with uh with the standard"
+    },
+    {
+      "start_time": "00:08:45,440",
+      "end_time": "00:08:48,640",
+      "text": "dice roll"
+    },
+    {
+      "start_time": "00:08:46,320",
+      "end_time": "00:08:50,160",
+      "text": "as you say plus one plus two you know"
+    },
+    {
+      "start_time": "00:08:48,640",
+      "end_time": "00:08:51,360",
+      "text": "you start to think okay i got a pretty"
+    },
+    {
+      "start_time": "00:08:50,160",
+      "end_time": "00:08:52,800",
+      "text": "good chance at this but with your"
+    },
+    {
+      "start_time": "00:08:51,360",
+      "end_time": "00:08:54,480",
+      "text": "version of 2d 10 it really throws off"
+    },
+    {
+      "start_time": "00:08:52,800",
+      "end_time": "00:08:56,080",
+      "text": "the curve but here's a question"
+    },
+    {
+      "start_time": "00:08:54,480",
+      "end_time": "00:08:58,240",
+      "text": "what if you're dealing in a situation"
+    },
+    {
+      "start_time": "00:08:56,080",
+      "end_time": "00:08:58,880",
+      "text": "where you have where you want to apply a"
+    },
+    {
+      "start_time": "00:08:58,240",
+      "end_time": "00:09:01,519",
+      "text": "specific"
+    },
+    {
+      "start_time": "00:08:58,880",
+      "end_time": "00:09:02,800",
+      "text": "task difficulty uh that's different so"
+    },
+    {
+      "start_time": "00:09:01,519",
+      "end_time": "00:09:04,720",
+      "text": "for example"
+    },
+    {
+      "start_time": "00:09:02,800",
+      "end_time": "00:09:06,800",
+      "text": "you have a character who is um being"
+    },
+    {
+      "start_time": "00:09:04,720",
+      "end_time": "00:09:09,440",
+      "text": "chased and they come to"
+    },
+    {
+      "start_time": "00:09:06,800",
+      "end_time": "00:09:11,839",
+      "text": "a cliff and they have to scale the cliff"
+    },
+    {
+      "start_time": "00:09:09,440",
+      "end_time": "00:09:14,880",
+      "text": "well in one version of that situation"
+    },
+    {
+      "start_time": "00:09:11,839",
+      "end_time": "00:09:16,000",
+      "text": "um it's a beautiful sunny day the rocks"
+    },
+    {
+      "start_time": "00:09:14,880",
+      "end_time": "00:09:17,760",
+      "text": "are all very dry"
+    },
+    {
+      "start_time": "00:09:16,000",
+      "end_time": "00:09:19,279",
+      "text": "but in the exact same situation now it's"
+    },
+    {
+      "start_time": "00:09:17,760",
+      "end_time": "00:09:20,480",
+      "text": "raining and the rocks are coated in"
+    },
+    {
+      "start_time": "00:09:19,279",
+      "end_time": "00:09:23,200",
+      "text": "slime"
+    },
+    {
+      "start_time": "00:09:20,480",
+      "end_time": "00:09:24,720",
+      "text": "in in iron sworn how do you model the"
+    },
+    {
+      "start_time": "00:09:23,200",
+      "end_time": "00:09:26,959",
+      "text": "difference between those two"
+    },
+    {
+      "start_time": "00:09:24,720",
+      "end_time": "00:09:27,839",
+      "text": "situations and this isn't uh a vowel"
+    },
+    {
+      "start_time": "00:09:26,959",
+      "end_time": "00:09:30,080",
+      "text": "this is just"
+    },
+    {
+      "start_time": "00:09:27,839",
+      "end_time": "00:09:31,360",
+      "text": "a single task uh there's a few things to"
+    },
+    {
+      "start_time": "00:09:30,080",
+      "end_time": "00:09:34,800",
+      "text": "think about and"
+    },
+    {
+      "start_time": "00:09:31,360",
+      "end_time": "00:09:36,959",
+      "text": "one is in terms of framing the action is"
+    },
+    {
+      "start_time": "00:09:34,800",
+      "end_time": "00:09:38,320",
+      "text": "is a die roll even really necessary"
+    },
+    {
+      "start_time": "00:09:36,959",
+      "end_time": "00:09:39,279",
+      "text": "right that may be the distinction"
+    },
+    {
+      "start_time": "00:09:38,320",
+      "end_time": "00:09:41,680",
+      "text": "between"
+    },
+    {
+      "start_time": "00:09:39,279",
+      "end_time": "00:09:43,519",
+      "text": "climbing a cliff if the character is"
+    },
+    {
+      "start_time": "00:09:41,680",
+      "end_time": "00:09:44,240",
+      "text": "assumed to be an adventurer and fairly"
+    },
+    {
+      "start_time": "00:09:43,519",
+      "end_time": "00:09:48,720",
+      "text": "proficient"
+    },
+    {
+      "start_time": "00:09:44,240",
+      "end_time": "00:09:51,680",
+      "text": "in athletic type activities and if the"
+    },
+    {
+      "start_time": "00:09:48,720",
+      "end_time": "00:09:53,519",
+      "text": "you know they may be assured that they"
+    },
+    {
+      "start_time": "00:09:51,680",
+      "end_time": "00:09:54,399",
+      "text": "can sort of get down that without danger"
+    },
+    {
+      "start_time": "00:09:53,519",
+      "end_time": "00:09:55,920",
+      "text": "that they"
+    },
+    {
+      "start_time": "00:09:54,399",
+      "end_time": "00:09:57,360",
+      "text": "there's other things that are presenting"
+    },
+    {
+      "start_time": "00:09:55,920",
+      "end_time": "00:09:58,959",
+      "text": "in greater danger than whether or not"
+    },
+    {
+      "start_time": "00:09:57,360",
+      "end_time": "00:10:00,000",
+      "text": "they can climb down these rocks whereas"
+    },
+    {
+      "start_time": "00:09:58,959",
+      "end_time": "00:10:02,959",
+      "text": "if it's"
+    },
+    {
+      "start_time": "00:10:00,000",
+      "end_time": "00:10:04,000",
+      "text": "you know rainy or they're under intense"
+    },
+    {
+      "start_time": "00:10:02,959",
+      "end_time": "00:10:05,839",
+      "text": "pressure because they're being"
+    },
+    {
+      "start_time": "00:10:04,000",
+      "end_time": "00:10:07,360",
+      "text": "chased or whatever then a die roll"
+    },
+    {
+      "start_time": "00:10:05,839",
+      "end_time": "00:10:09,920",
+      "text": "really is required the other is looking"
+    },
+    {
+      "start_time": "00:10:07,360",
+      "end_time": "00:10:11,440",
+      "text": "at the outcome of moves you sort of wrap"
+    },
+    {
+      "start_time": "00:10:09,920",
+      "end_time": "00:10:13,440",
+      "text": "the difficulty of things into what"
+    },
+    {
+      "start_time": "00:10:11,440",
+      "end_time": "00:10:17,839",
+      "text": "happens if you succeed or fail"
+    },
+    {
+      "start_time": "00:10:13,440",
+      "end_time": "00:10:20,000",
+      "text": "right uh failure"
+    },
+    {
+      "start_time": "00:10:17,839",
+      "end_time": "00:10:22,480",
+      "text": "uh you know something that's more"
+    },
+    {
+      "start_time": "00:10:20,000",
+      "end_time": "00:10:25,600",
+      "text": "dangerous means a more sort of dire"
+    },
+    {
+      "start_time": "00:10:22,480",
+      "end_time": "00:10:28,079",
+      "text": "outcome right you immediately sort of"
+    },
+    {
+      "start_time": "00:10:25,600",
+      "end_time": "00:10:28,880",
+      "text": "switch into more dramatic results"
+    },
+    {
+      "start_time": "00:10:28,079",
+      "end_time": "00:10:32,480",
+      "text": "whereas"
+    },
+    {
+      "start_time": "00:10:28,880",
+      "end_time": "00:10:34,399",
+      "text": "sort of a softer failure on a less"
+    },
+    {
+      "start_time": "00:10:32,480",
+      "end_time": "00:10:36,079",
+      "text": "difficult task might mean something"
+    },
+    {
+      "start_time": "00:10:34,399",
+      "end_time": "00:10:36,959",
+      "text": "might mean sort of you're easing into"
+    },
+    {
+      "start_time": "00:10:36,079",
+      "end_time": "00:10:40,160",
+      "text": "more of those"
+    },
+    {
+      "start_time": "00:10:36,959",
+      "end_time": "00:10:41,440",
+      "text": "dire outcomes so it really is you know"
+    },
+    {
+      "start_time": "00:10:40,160",
+      "end_time": "00:10:43,200",
+      "text": "difficulty gets a little bit more"
+    },
+    {
+      "start_time": "00:10:41,440",
+      "end_time": "00:10:45,600",
+      "text": "wrapped into"
+    },
+    {
+      "start_time": "00:10:43,200",
+      "end_time": "00:10:48,000",
+      "text": "are you how you frame up the move itself"
+    },
+    {
+      "start_time": "00:10:45,600",
+      "end_time": "00:10:49,279",
+      "text": "and then how you frame up the outcome"
+    },
+    {
+      "start_time": "00:10:48,000",
+      "end_time": "00:10:51,600",
+      "text": "rather than what sits in the middle"
+    },
+    {
+      "start_time": "00:10:49,279",
+      "end_time": "00:10:55,279",
+      "text": "there which is sort of the math right"
+    },
+    {
+      "start_time": "00:10:51,600",
+      "end_time": "00:10:56,000",
+      "text": "um so yeah it sort of issues the typical"
+    },
+    {
+      "start_time": "00:10:55,279",
+      "end_time": "00:10:58,399",
+      "text": "sort of like"
+    },
+    {
+      "start_time": "00:10:56,000",
+      "end_time": "00:10:59,839",
+      "text": "difficulty variables and sort of wraps"
+    },
+    {
+      "start_time": "00:10:58,399",
+      "end_time": "00:11:01,360",
+      "text": "that a little bit more into sort of the"
+    },
+    {
+      "start_time": "00:10:59,839",
+      "end_time": "00:11:02,959",
+      "text": "narrative framing of things"
+    },
+    {
+      "start_time": "00:11:01,360",
+      "end_time": "00:11:05,360",
+      "text": "it's going to be a little weird for me"
+    },
+    {
+      "start_time": "00:11:02,959",
+      "end_time": "00:11:08,320",
+      "text": "i'm not going to lie going into iron"
+    },
+    {
+      "start_time": "00:11:05,360",
+      "end_time": "00:11:09,360",
+      "text": "coming from way more traditional i mean"
+    },
+    {
+      "start_time": "00:11:08,320",
+      "end_time": "00:11:10,880",
+      "text": "you've seen the show"
+    },
+    {
+      "start_time": "00:11:09,360",
+      "end_time": "00:11:12,640",
+      "text": "savage world is about as traditional as"
+    },
+    {
+      "start_time": "00:11:10,880",
+      "end_time": "00:11:14,160",
+      "text": "you can get i mean it's very"
+    },
+    {
+      "start_time": "00:11:12,640",
+      "end_time": "00:11:15,360",
+      "text": "oh well you've got a minus two for this"
+    },
+    {
+      "start_time": "00:11:14,160",
+      "end_time": "00:11:15,839",
+      "text": "but a plus one for this and that's gonna"
+    },
+    {
+      "start_time": "00:11:15,360",
+      "end_time": "00:11:18,800",
+      "text": "change"
+    },
+    {
+      "start_time": "00:11:15,839",
+      "end_time": "00:11:19,680",
+      "text": "so um i'm excited for it because it's"
+    },
+    {
+      "start_time": "00:11:18,800",
+      "end_time": "00:11:22,079",
+      "text": "very different"
+    },
+    {
+      "start_time": "00:11:19,680",
+      "end_time": "00:11:22,720",
+      "text": "and it has a lot of potential that uh"
+    },
+    {
+      "start_time": "00:11:22,079",
+      "end_time": "00:11:24,800",
+      "text": "i'm very"
+    },
+    {
+      "start_time": "00:11:22,720",
+      "end_time": "00:11:26,240",
+      "text": "very excited about i'm nervous as as"
+    },
+    {
+      "start_time": "00:11:24,800",
+      "end_time": "00:11:27,680",
+      "text": "hell not gonna lie"
+    },
+    {
+      "start_time": "00:11:26,240",
+      "end_time": "00:11:29,600",
+      "text": "nervous that i'm gonna somehow screw it"
+    },
+    {
+      "start_time": "00:11:27,680",
+      "end_time": "00:11:31,200",
+      "text": "up"
+    },
+    {
+      "start_time": "00:11:29,600",
+      "end_time": "00:11:33,360",
+      "text": "but i'm just going to try and have fun"
+    },
+    {
+      "start_time": "00:11:31,200",
+      "end_time": "00:11:34,640",
+      "text": "so that said is there any advice that"
+    },
+    {
+      "start_time": "00:11:33,360",
+      "end_time": "00:11:36,480",
+      "text": "you had for me"
+    },
+    {
+      "start_time": "00:11:34,640",
+      "end_time": "00:11:38,720",
+      "text": "specific to iron sworn going into this"
+    },
+    {
+      "start_time": "00:11:36,480",
+      "end_time": "00:11:41,760",
+      "text": "campaign uh"
+    },
+    {
+      "start_time": "00:11:38,720",
+      "end_time": "00:11:42,399",
+      "text": "for season two of me myself and died uh"
+    },
+    {
+      "start_time": "00:11:41,760",
+      "end_time": "00:11:44,000",
+      "text": "definitely"
+    },
+    {
+      "start_time": "00:11:42,399",
+      "end_time": "00:11:46,320",
+      "text": "you know roll with those punches in"
+    },
+    {
+      "start_time": "00:11:44,000",
+      "end_time": "00:11:48,160",
+      "text": "terms of your narrative but"
+    },
+    {
+      "start_time": "00:11:46,320",
+      "end_time": "00:11:50,399",
+      "text": "watching your season one i think you're"
+    },
+    {
+      "start_time": "00:11:48,160",
+      "end_time": "00:11:52,639",
+      "text": "great at like"
+    },
+    {
+      "start_time": "00:11:50,399",
+      "end_time": "00:11:53,440",
+      "text": "uh letting things go off the rails and"
+    },
+    {
+      "start_time": "00:11:52,639",
+      "end_time": "00:11:55,760",
+      "text": "running with it"
+    },
+    {
+      "start_time": "00:11:53,440",
+      "end_time": "00:11:57,120",
+      "text": "like from the first episode onwards i"
+    },
+    {
+      "start_time": "00:11:55,760",
+      "end_time": "00:11:57,760",
+      "text": "think don't think things ever really"
+    },
+    {
+      "start_time": "00:11:57,120",
+      "end_time": "00:11:59,040",
+      "text": "went"
+    },
+    {
+      "start_time": "00:11:57,760",
+      "end_time": "00:12:01,440",
+      "text": "necessarily where you thought they were"
+    },
+    {
+      "start_time": "00:11:59,040",
+      "end_time": "00:12:03,120",
+      "text": "going to go uh ironsworn will tend to do"
+    },
+    {
+      "start_time": "00:12:01,440",
+      "end_time": "00:12:05,200",
+      "text": "that to you right it'll tend to"
+    },
+    {
+      "start_time": "00:12:03,120",
+      "end_time": "00:12:06,320",
+      "text": "throw wrenches in the works of your"
+    },
+    {
+      "start_time": "00:12:05,200",
+      "end_time": "00:12:08,800",
+      "text": "narrative"
+    },
+    {
+      "start_time": "00:12:06,320",
+      "end_time": "00:12:10,000",
+      "text": "of your quest it'll tend to introduce"
+    },
+    {
+      "start_time": "00:12:08,800",
+      "end_time": "00:12:11,760",
+      "text": "new quests when you were"
+    },
+    {
+      "start_time": "00:12:10,000",
+      "end_time": "00:12:14,880",
+      "text": "sort of focusing on this particular"
+    },
+    {
+      "start_time": "00:12:11,760",
+      "end_time": "00:12:17,120",
+      "text": "thing um"
+    },
+    {
+      "start_time": "00:12:14,880",
+      "end_time": "00:12:18,079",
+      "text": "so just being happy to sort of like take"
+    },
+    {
+      "start_time": "00:12:17,120",
+      "end_time": "00:12:21,360",
+      "text": "those results"
+    },
+    {
+      "start_time": "00:12:18,079",
+      "end_time": "00:12:21,680",
+      "text": "and uh interpret them and then roll with"
+    },
+    {
+      "start_time": "00:12:21,360",
+      "end_time": "00:12:24,399",
+      "text": "it"
+    },
+    {
+      "start_time": "00:12:21,680",
+      "end_time": "00:12:24,880",
+      "text": "is um pretty important the other is"
+    },
+    {
+      "start_time": "00:12:24,399",
+      "end_time": "00:12:26,240",
+      "text": "don't"
+    },
+    {
+      "start_time": "00:12:24,880",
+      "end_time": "00:12:27,600",
+      "text": "as a solo player there's an interesting"
+    },
+    {
+      "start_time": "00:12:26,240",
+      "end_time": "00:12:29,279",
+      "text": "thing with soul players that they tend"
+    },
+    {
+      "start_time": "00:12:27,600",
+      "end_time": "00:12:31,279",
+      "text": "to be pretty hard on themselves"
+    },
+    {
+      "start_time": "00:12:29,279",
+      "end_time": "00:12:32,880",
+      "text": "which is sort of the opposite of what"
+    },
+    {
+      "start_time": "00:12:31,279",
+      "end_time": "00:12:33,920",
+      "text": "you would think like i've seen this a"
+    },
+    {
+      "start_time": "00:12:32,880",
+      "end_time": "00:12:37,600",
+      "text": "lot in"
+    },
+    {
+      "start_time": "00:12:33,920",
+      "end_time": "00:12:39,200",
+      "text": "in play testing and play reports and um"
+    },
+    {
+      "start_time": "00:12:37,600",
+      "end_time": "00:12:40,880",
+      "text": "just in watching streams and stuff of"
+    },
+    {
+      "start_time": "00:12:39,200",
+      "end_time": "00:12:42,639",
+      "text": "people playing irons horn"
+    },
+    {
+      "start_time": "00:12:40,880",
+      "end_time": "00:12:44,959",
+      "text": "is they'll almost tend to be harder on"
+    },
+    {
+      "start_time": "00:12:42,639",
+      "end_time": "00:12:48,240",
+      "text": "their character than a gm would"
+    },
+    {
+      "start_time": "00:12:44,959",
+      "end_time": "00:12:48,800",
+      "text": "um so in solo play and the way the math"
+    },
+    {
+      "start_time": "00:12:48,240",
+      "end_time": "00:12:52,480",
+      "text": "works"
+    },
+    {
+      "start_time": "00:12:48,800",
+      "end_time": "00:12:55,120",
+      "text": "you really do want to sort of"
+    },
+    {
+      "start_time": "00:12:52,480",
+      "end_time": "00:12:56,720",
+      "text": "go from sort of softer failure into"
+    },
+    {
+      "start_time": "00:12:55,120",
+      "end_time": "00:12:58,959",
+      "text": "harder failure so you"
+    },
+    {
+      "start_time": "00:12:56,720",
+      "end_time": "00:13:01,360",
+      "text": "you don't immediately go to like"
+    },
+    {
+      "start_time": "00:12:58,959",
+      "end_time": "00:13:03,040",
+      "text": "dramatic hard failure the first time you"
+    },
+    {
+      "start_time": "00:13:01,360",
+      "end_time": "00:13:05,200",
+      "text": "roll a miss on a move right"
+    },
+    {
+      "start_time": "00:13:03,040",
+      "end_time": "00:13:07,760",
+      "text": "that's sort of like that's the car sort"
+    },
+    {
+      "start_time": "00:13:05,200",
+      "end_time": "00:13:09,920",
+      "text": "of drifting out of the lane a little bit"
+    },
+    {
+      "start_time": "00:13:07,760",
+      "end_time": "00:13:11,279",
+      "text": "and then from there if things compound"
+    },
+    {
+      "start_time": "00:13:09,920",
+      "end_time": "00:13:13,440",
+      "text": "that's when you sort of"
+    },
+    {
+      "start_time": "00:13:11,279",
+      "end_time": "00:13:15,279",
+      "text": "compound the more dramatic results you"
+    },
+    {
+      "start_time": "00:13:13,440",
+      "end_time": "00:13:16,000",
+      "text": "know hitting the more mechanical results"
+    },
+    {
+      "start_time": "00:13:15,279",
+      "end_time": "00:13:17,760",
+      "text": "of"
+    },
+    {
+      "start_time": "00:13:16,000",
+      "end_time": "00:13:20,399",
+      "text": "harm and spirit loss and things like"
+    },
+    {
+      "start_time": "00:13:17,760",
+      "end_time": "00:13:23,760",
+      "text": "that versus just setting up more"
+    },
+    {
+      "start_time": "00:13:20,399",
+      "end_time": "00:13:25,519",
+      "text": "danger the the advice that"
+    },
+    {
+      "start_time": "00:13:23,760",
+      "end_time": "00:13:27,040",
+      "text": "uh made sense to me when it comes to"
+    },
+    {
+      "start_time": "00:13:25,519",
+      "end_time": "00:13:28,639",
+      "text": "this type of rule set was"
+    },
+    {
+      "start_time": "00:13:27,040",
+      "end_time": "00:13:29,839",
+      "text": "i'm not sure if it was in the book or"
+    },
+    {
+      "start_time": "00:13:28,639",
+      "end_time": "00:13:30,800",
+      "text": "whether it was in a supplement but it"
+    },
+    {
+      "start_time": "00:13:29,839",
+      "end_time": "00:13:32,959",
+      "text": "was it was for uh"
+    },
+    {
+      "start_time": "00:13:30,800",
+      "end_time": "00:13:35,120",
+      "text": "dungeon world where they basically said"
+    },
+    {
+      "start_time": "00:13:32,959",
+      "end_time": "00:13:36,720",
+      "text": "that and this might have been from the"
+    },
+    {
+      "start_time": "00:13:35,120",
+      "end_time": "00:13:39,199",
+      "text": "the actual apocalypse world game too i"
+    },
+    {
+      "start_time": "00:13:36,720",
+      "end_time": "00:13:42,880",
+      "text": "forget but it was this idea that"
+    },
+    {
+      "start_time": "00:13:39,199",
+      "end_time": "00:13:44,639",
+      "text": "um if if the the players roll a seven to"
+    },
+    {
+      "start_time": "00:13:42,880",
+      "end_time": "00:13:45,920",
+      "text": "nine then that's an opportunity for the"
+    },
+    {
+      "start_time": "00:13:44,639",
+      "end_time": "00:13:48,560",
+      "text": "gm to make a soft"
+    },
+    {
+      "start_time": "00:13:45,920",
+      "end_time": "00:13:49,120",
+      "text": "move but a six or a low is a hard move"
+    },
+    {
+      "start_time": "00:13:48,560",
+      "end_time": "00:13:52,240",
+      "text": "so"
+    },
+    {
+      "start_time": "00:13:49,120",
+      "end_time": "00:13:53,680",
+      "text": "just as you say you know um you you want"
+    },
+    {
+      "start_time": "00:13:52,240",
+      "end_time": "00:13:55,040",
+      "text": "to kind of set things up"
+    },
+    {
+      "start_time": "00:13:53,680",
+      "end_time": "00:13:56,720",
+      "text": "for me it's always about and i think i"
+    },
+    {
+      "start_time": "00:13:55,040",
+      "end_time": "00:13:57,519",
+      "text": "did this in my show too with with the"
+    },
+    {
+      "start_time": "00:13:56,720",
+      "end_time": "00:13:59,680",
+      "text": "emulator"
+    },
+    {
+      "start_time": "00:13:57,519",
+      "end_time": "00:14:01,440",
+      "text": "is i always want to keep things rounded"
+    },
+    {
+      "start_time": "00:13:59,680",
+      "end_time": "00:14:02,240",
+      "text": "but i want to i want to create a sense"
+    },
+    {
+      "start_time": "00:14:01,440",
+      "end_time": "00:14:03,680",
+      "text": "of momentum"
+    },
+    {
+      "start_time": "00:14:02,240",
+      "end_time": "00:14:05,839",
+      "text": "and i always want to give my character a"
+    },
+    {
+      "start_time": "00:14:03,680",
+      "end_time": "00:14:06,720",
+      "text": "chance to react to whatever it is that"
+    },
+    {
+      "start_time": "00:14:05,839",
+      "end_time": "00:14:09,360",
+      "text": "just happened"
+    },
+    {
+      "start_time": "00:14:06,720",
+      "end_time": "00:14:11,519",
+      "text": "um you know i'm i was pretty hard on old"
+    },
+    {
+      "start_time": "00:14:09,360",
+      "end_time": "00:14:14,240",
+      "text": "simon of argus down on the show but"
+    },
+    {
+      "start_time": "00:14:11,519",
+      "end_time": "00:14:15,760",
+      "text": "but also he he had a system behind him"
+    },
+    {
+      "start_time": "00:14:14,240",
+      "end_time": "00:14:16,959",
+      "text": "that he could roll on things to see if"
+    },
+    {
+      "start_time": "00:14:15,760",
+      "end_time": "00:14:19,279",
+      "text": "he could get out of it and that"
+    },
+    {
+      "start_time": "00:14:16,959",
+      "end_time": "00:14:20,480",
+      "text": "you know so you know it's the exact same"
+    },
+    {
+      "start_time": "00:14:19,279",
+      "end_time": "00:14:22,399",
+      "text": "here"
+    },
+    {
+      "start_time": "00:14:20,480",
+      "end_time": "00:14:23,760",
+      "text": "with with iron swan it's just a slightly"
+    },
+    {
+      "start_time": "00:14:22,399",
+      "end_time": "00:14:24,399",
+      "text": "different take now here's another thing"
+    },
+    {
+      "start_time": "00:14:23,760",
+      "end_time": "00:14:26,880",
+      "text": "is"
+    },
+    {
+      "start_time": "00:14:24,399",
+      "end_time": "00:14:28,240",
+      "text": "my show is obviously very visual uh and"
+    },
+    {
+      "start_time": "00:14:26,880",
+      "end_time": "00:14:29,839",
+      "text": "i will be using"
+    },
+    {
+      "start_time": "00:14:28,240",
+      "end_time": "00:14:31,519",
+      "text": "miniatures and terrain not for any sort"
+    },
+    {
+      "start_time": "00:14:29,839",
+      "end_time": "00:14:32,320",
+      "text": "of tactical representation but just"
+    },
+    {
+      "start_time": "00:14:31,519",
+      "end_time": "00:14:34,320",
+      "text": "because"
+    },
+    {
+      "start_time": "00:14:32,320",
+      "end_time": "00:14:35,600",
+      "text": "you know i've made all this terrain and"
+    },
+    {
+      "start_time": "00:14:34,320",
+      "end_time": "00:14:39,519",
+      "text": "i want to use it sure"
+    },
+    {
+      "start_time": "00:14:35,600",
+      "end_time": "00:14:42,720",
+      "text": "you know um so it's interesting because"
+    },
+    {
+      "start_time": "00:14:39,519",
+      "end_time": "00:14:44,800",
+      "text": "there is no uh grid"
+    },
+    {
+      "start_time": "00:14:42,720",
+      "end_time": "00:14:47,120",
+      "text": "tactical element in iron sworn the the"
+    },
+    {
+      "start_time": "00:14:44,800",
+      "end_time": "00:14:48,160",
+      "text": "the combat the the the conflicts are all"
+    },
+    {
+      "start_time": "00:14:47,120",
+      "end_time": "00:14:49,199",
+      "text": "completely narrative"
+    },
+    {
+      "start_time": "00:14:48,160",
+      "end_time": "00:14:51,440",
+      "text": "but it's going to be an interesting"
+    },
+    {
+      "start_time": "00:14:49,199",
+      "end_time": "00:14:53,440",
+      "text": "challenge i think for me to to try and"
+    },
+    {
+      "start_time": "00:14:51,440",
+      "end_time": "00:14:54,720",
+      "text": "bridge those two things to show a visual"
+    },
+    {
+      "start_time": "00:14:53,440",
+      "end_time": "00:14:56,560",
+      "text": "representation of"
+    },
+    {
+      "start_time": "00:14:54,720",
+      "end_time": "00:14:58,639",
+      "text": "of something without without the"
+    },
+    {
+      "start_time": "00:14:56,560",
+      "end_time": "00:14:59,199",
+      "text": "narrative getting um straight jacketed"
+    },
+    {
+      "start_time": "00:14:58,639",
+      "end_time": "00:15:00,800",
+      "text": "by"
+    },
+    {
+      "start_time": "00:14:59,199",
+      "end_time": "00:15:02,240",
+      "text": "the visual representation of something"
+    },
+    {
+      "start_time": "00:15:00,800",
+      "end_time": "00:15:03,199",
+      "text": "you know what i mean yeah i mean there's"
+    },
+    {
+      "start_time": "00:15:02,240",
+      "end_time": "00:15:04,560",
+      "text": "something to be said"
+    },
+    {
+      "start_time": "00:15:03,199",
+      "end_time": "00:15:06,480",
+      "text": "you know there's there's sort of two"
+    },
+    {
+      "start_time": "00:15:04,560",
+      "end_time": "00:15:08,160",
+      "text": "ways to look at that one is the visual"
+    },
+    {
+      "start_time": "00:15:06,480",
+      "end_time": "00:15:10,079",
+      "text": "representation obviously for"
+    },
+    {
+      "start_time": "00:15:08,160",
+      "end_time": "00:15:11,600",
+      "text": "your presentation is good for an"
+    },
+    {
+      "start_time": "00:15:10,079",
+      "end_time": "00:15:13,279",
+      "text": "audience two"
+    },
+    {
+      "start_time": "00:15:11,600",
+      "end_time": "00:15:15,360",
+      "text": "is it does you know especially if"
+    },
+    {
+      "start_time": "00:15:13,279",
+      "end_time": "00:15:16,399",
+      "text": "there's a somewhat complicated scene"
+    },
+    {
+      "start_time": "00:15:15,360",
+      "end_time": "00:15:18,639",
+      "text": "like it"
+    },
+    {
+      "start_time": "00:15:16,399",
+      "end_time": "00:15:20,160",
+      "text": "it's helpful sometimes to have sort of"
+    },
+    {
+      "start_time": "00:15:18,639",
+      "end_time": "00:15:21,600",
+      "text": "visual reference points to sort of"
+    },
+    {
+      "start_time": "00:15:20,160",
+      "end_time": "00:15:22,639",
+      "text": "understand what's possible at any one"
+    },
+    {
+      "start_time": "00:15:21,600",
+      "end_time": "00:15:25,440",
+      "text": "moment like"
+    },
+    {
+      "start_time": "00:15:22,639",
+      "end_time": "00:15:26,000",
+      "text": "who's dealing with who um especially if"
+    },
+    {
+      "start_time": "00:15:25,440",
+      "end_time": "00:15:28,240",
+      "text": "you mix"
+    },
+    {
+      "start_time": "00:15:26,000",
+      "end_time": "00:15:29,440",
+      "text": "you know other characters other than"
+    },
+    {
+      "start_time": "00:15:28,240",
+      "end_time": "00:15:31,040",
+      "text": "yourself into"
+    },
+    {
+      "start_time": "00:15:29,440",
+      "end_time": "00:15:32,399",
+      "text": "the scene right if you happen to be"
+    },
+    {
+      "start_time": "00:15:31,040",
+      "end_time": "00:15:33,199",
+      "text": "traveling with someone else or something"
+    },
+    {
+      "start_time": "00:15:32,399",
+      "end_time": "00:15:34,880",
+      "text": "like that"
+    },
+    {
+      "start_time": "00:15:33,199",
+      "end_time": "00:15:36,880",
+      "text": "just to sort of understand the framing"
+    },
+    {
+      "start_time": "00:15:34,880",
+      "end_time": "00:15:38,560",
+      "text": "of the the fight so"
+    },
+    {
+      "start_time": "00:15:36,880",
+      "end_time": "00:15:40,880",
+      "text": "it's less about sort of counting grid"
+    },
+    {
+      "start_time": "00:15:38,560",
+      "end_time": "00:15:42,800",
+      "text": "spaces and more just about sort of"
+    },
+    {
+      "start_time": "00:15:40,880",
+      "end_time": "00:15:44,639",
+      "text": "framing up the actions and who can do"
+    },
+    {
+      "start_time": "00:15:42,800",
+      "end_time": "00:15:47,680",
+      "text": "what and and"
+    },
+    {
+      "start_time": "00:15:44,639",
+      "end_time": "00:15:50,000",
+      "text": "you want to worry less about g is"
+    },
+    {
+      "start_time": "00:15:47,680",
+      "end_time": "00:15:51,839",
+      "text": "is so and so far enough to get over to"
+    },
+    {
+      "start_time": "00:15:50,000",
+      "end_time": "00:15:53,600",
+      "text": "here in one action because"
+    },
+    {
+      "start_time": "00:15:51,839",
+      "end_time": "00:15:56,320",
+      "text": "time was somewhat fluid you can sort of"
+    },
+    {
+      "start_time": "00:15:53,600",
+      "end_time": "00:15:58,320",
+      "text": "zoom in and zoom out in terms of like"
+    },
+    {
+      "start_time": "00:15:56,320",
+      "end_time": "00:16:00,560",
+      "text": "the the time frame that a particular"
+    },
+    {
+      "start_time": "00:15:58,320",
+      "end_time": "00:16:02,160",
+      "text": "action is taking right it might be"
+    },
+    {
+      "start_time": "00:16:00,560",
+      "end_time": "00:16:04,240",
+      "text": "seconds it might be a minute and that's"
+    },
+    {
+      "start_time": "00:16:02,160",
+      "end_time": "00:16:07,759",
+      "text": "all fine a particular"
+    },
+    {
+      "start_time": "00:16:04,240",
+      "end_time": "00:16:08,240",
+      "text": "clash might be several blows a back and"
+    },
+    {
+      "start_time": "00:16:07,759",
+      "end_time": "00:16:10,880",
+      "text": "forth"
+    },
+    {
+      "start_time": "00:16:08,240",
+      "end_time": "00:16:12,639",
+      "text": "right or it may be some particular"
+    },
+    {
+      "start_time": "00:16:10,880",
+      "end_time": "00:16:13,279",
+      "text": "dramatic moment in time that's a"
+    },
+    {
+      "start_time": "00:16:12,639",
+      "end_time": "00:16:14,720",
+      "text": "heartbeat"
+    },
+    {
+      "start_time": "00:16:13,279",
+      "end_time": "00:16:16,399",
+      "text": "so you have control over that you're"
+    },
+    {
+      "start_time": "00:16:14,720",
+      "end_time": "00:16:18,000",
+      "text": "sort of the director of that and you"
+    },
+    {
+      "start_time": "00:16:16,399",
+      "end_time": "00:16:19,519",
+      "text": "could do the same with your"
+    },
+    {
+      "start_time": "00:16:18,000",
+      "end_time": "00:16:21,120",
+      "text": "pieces on the table in terms of how"
+    },
+    {
+      "start_time": "00:16:19,519",
+      "end_time": "00:16:22,240",
+      "text": "you're moving them around which brings"
+    },
+    {
+      "start_time": "00:16:21,120",
+      "end_time": "00:16:25,279",
+      "text": "me to another idea"
+    },
+    {
+      "start_time": "00:16:22,240",
+      "end_time": "00:16:26,880",
+      "text": "um in the first season we had simon be"
+    },
+    {
+      "start_time": "00:16:25,279",
+      "end_time": "00:16:28,800",
+      "text": "joined by a couple of uh other"
+    },
+    {
+      "start_time": "00:16:26,880",
+      "end_time": "00:16:30,240",
+      "text": "characters that were fully stated out"
+    },
+    {
+      "start_time": "00:16:28,800",
+      "end_time": "00:16:31,920",
+      "text": "player characters all of course"
+    },
+    {
+      "start_time": "00:16:30,240",
+      "end_time": "00:16:33,120",
+      "text": "controlled by me that's fairly easy to"
+    },
+    {
+      "start_time": "00:16:31,920",
+      "end_time": "00:16:34,480",
+      "text": "do in savage world but"
+    },
+    {
+      "start_time": "00:16:33,120",
+      "end_time": "00:16:36,480",
+      "text": "what if that happens again here in"
+    },
+    {
+      "start_time": "00:16:34,480",
+      "end_time": "00:16:38,160",
+      "text": "ireland what if arn comes across someone"
+    },
+    {
+      "start_time": "00:16:36,480",
+      "end_time": "00:16:41,360",
+      "text": "that joins his party that isn't"
+    },
+    {
+      "start_time": "00:16:38,160",
+      "end_time": "00:16:41,680",
+      "text": "the companion asset that is is you know"
+    },
+    {
+      "start_time": "00:16:41,360",
+      "end_time": "00:16:44,000",
+      "text": "for"
+    },
+    {
+      "start_time": "00:16:41,680",
+      "end_time": "00:16:45,040",
+      "text": "for narrative reasons a full-fledged you"
+    },
+    {
+      "start_time": "00:16:44,000",
+      "end_time": "00:16:48,160",
+      "text": "know character"
+    },
+    {
+      "start_time": "00:16:45,040",
+      "end_time": "00:16:49,519",
+      "text": "uh how does that work einstein"
+    },
+    {
+      "start_time": "00:16:48,160",
+      "end_time": "00:16:50,079",
+      "text": "definitely does lean on sort of the"
+    },
+    {
+      "start_time": "00:16:49,519",
+      "end_time": "00:16:51,920",
+      "text": "lonely"
+    },
+    {
+      "start_time": "00:16:50,079",
+      "end_time": "00:16:53,519",
+      "text": "protagonist trope right and that's how"
+    },
+    {
+      "start_time": "00:16:51,920",
+      "end_time": "00:16:56,399",
+      "text": "it's sort of like all"
+    },
+    {
+      "start_time": "00:16:53,519",
+      "end_time": "00:16:58,160",
+      "text": "uh framed up for solo play anyway"
+    },
+    {
+      "start_time": "00:16:56,399",
+      "end_time": "00:17:00,240",
+      "text": "there's not a lot of mechanical support"
+    },
+    {
+      "start_time": "00:16:58,160",
+      "end_time": "00:17:03,440",
+      "text": "for what happens if you"
+    },
+    {
+      "start_time": "00:17:00,240",
+      "end_time": "00:17:04,480",
+      "text": "are traveling with a mercenary or guide"
+    },
+    {
+      "start_time": "00:17:03,440",
+      "end_time": "00:17:06,079",
+      "text": "or something like that but what you can"
+    },
+    {
+      "start_time": "00:17:04,480",
+      "end_time": "00:17:07,520",
+      "text": "do is sort of think about"
+    },
+    {
+      "start_time": "00:17:06,079",
+      "end_time": "00:17:09,120",
+      "text": "how you're framing up particular"
+    },
+    {
+      "start_time": "00:17:07,520",
+      "end_time": "00:17:10,640",
+      "text": "challenges in terms of having the"
+    },
+    {
+      "start_time": "00:17:09,120",
+      "end_time": "00:17:12,079",
+      "text": "support of that person for example if"
+    },
+    {
+      "start_time": "00:17:10,640",
+      "end_time": "00:17:14,880",
+      "text": "you get into a fight"
+    },
+    {
+      "start_time": "00:17:12,079",
+      "end_time": "00:17:16,480",
+      "text": "if you're aided by a fellow in that"
+    },
+    {
+      "start_time": "00:17:14,880",
+      "end_time": "00:17:17,600",
+      "text": "fight who isn't stated up they aren't a"
+    },
+    {
+      "start_time": "00:17:16,480",
+      "end_time": "00:17:19,600",
+      "text": "full character"
+    },
+    {
+      "start_time": "00:17:17,600",
+      "end_time": "00:17:21,120",
+      "text": "you can say well i'm going to knock the"
+    },
+    {
+      "start_time": "00:17:19,600",
+      "end_time": "00:17:23,199",
+      "text": "i'm going to knock the challenge of this"
+    },
+    {
+      "start_time": "00:17:21,120",
+      "end_time": "00:17:25,919",
+      "text": "fight down a rank because i've got"
+    },
+    {
+      "start_time": "00:17:23,199",
+      "end_time": "00:17:28,480",
+      "text": "you know so and so with me or if you're"
+    },
+    {
+      "start_time": "00:17:25,919",
+      "end_time": "00:17:30,559",
+      "text": "traveling with an experienced guide"
+    },
+    {
+      "start_time": "00:17:28,480",
+      "end_time": "00:17:32,640",
+      "text": "who knows that area well i'm going to"
+    },
+    {
+      "start_time": "00:17:30,559",
+      "end_time": "00:17:34,640",
+      "text": "knock the challenge of this journey down"
+    },
+    {
+      "start_time": "00:17:32,640",
+      "end_time": "00:17:36,240",
+      "text": "or even ignore the journey moves all"
+    },
+    {
+      "start_time": "00:17:34,640",
+      "end_time": "00:17:37,520",
+      "text": "together because this person is really"
+    },
+    {
+      "start_time": "00:17:36,240",
+      "end_time": "00:17:39,200",
+      "text": "taking the lead here"
+    },
+    {
+      "start_time": "00:17:37,520",
+      "end_time": "00:17:41,360",
+      "text": "right and i can just sort of hand wave"
+    },
+    {
+      "start_time": "00:17:39,200",
+      "end_time": "00:17:42,480",
+      "text": "the journey and see what happens when i"
+    },
+    {
+      "start_time": "00:17:41,360",
+      "end_time": "00:17:45,120",
+      "text": "arrive"
+    },
+    {
+      "start_time": "00:17:42,480",
+      "end_time": "00:17:46,880",
+      "text": "so you sort of bring them into how you"
+    },
+    {
+      "start_time": "00:17:45,120",
+      "end_time": "00:17:48,480",
+      "text": "frame up the difficulty of a challenge"
+    },
+    {
+      "start_time": "00:17:46,880",
+      "end_time": "00:17:49,600",
+      "text": "whether or not you need to make a move"
+    },
+    {
+      "start_time": "00:17:48,480",
+      "end_time": "00:17:52,080",
+      "text": "at all"
+    },
+    {
+      "start_time": "00:17:49,600",
+      "end_time": "00:17:52,799",
+      "text": "um and then you just bring them into"
+    },
+    {
+      "start_time": "00:17:52,080",
+      "end_time": "00:17:54,799",
+      "text": "your"
+    },
+    {
+      "start_time": "00:17:52,799",
+      "end_time": "00:17:56,320",
+      "text": "narrative of what's sort of happening in"
+    },
+    {
+      "start_time": "00:17:54,799",
+      "end_time": "00:17:58,240",
+      "text": "the scene and sort of a"
+    },
+    {
+      "start_time": "00:17:56,320",
+      "end_time": "00:18:00,160",
+      "text": "directorial stance right are they"
+    },
+    {
+      "start_time": "00:17:58,240",
+      "end_time": "00:18:01,919",
+      "text": "dealing with these foes over here"
+    },
+    {
+      "start_time": "00:18:00,160",
+      "end_time": "00:18:03,919",
+      "text": "how's it going you can ask the oracle"
+    },
+    {
+      "start_time": "00:18:01,919",
+      "end_time": "00:18:05,840",
+      "text": "like you can resolve those"
+    },
+    {
+      "start_time": "00:18:03,919",
+      "end_time": "00:18:07,360",
+      "text": "that sort of stuff happening over there"
+    },
+    {
+      "start_time": "00:18:05,840",
+      "end_time": "00:18:08,799",
+      "text": "by asking the oracle"
+    },
+    {
+      "start_time": "00:18:07,360",
+      "end_time": "00:18:10,799",
+      "text": "how do they do so you can sort of give"
+    },
+    {
+      "start_time": "00:18:08,799",
+      "end_time": "00:18:12,480",
+      "text": "them a mechanic of saying that's 50 50"
+    },
+    {
+      "start_time": "00:18:10,799",
+      "end_time": "00:18:14,320",
+      "text": "chance they're doing okay"
+    },
+    {
+      "start_time": "00:18:12,480",
+      "end_time": "00:18:15,600",
+      "text": "or 50 50 chance or in trouble or"
+    },
+    {
+      "start_time": "00:18:14,320",
+      "end_time": "00:18:17,520",
+      "text": "whatever based on"
+    },
+    {
+      "start_time": "00:18:15,600",
+      "end_time": "00:18:18,880",
+      "text": "how you envision that character it's"
+    },
+    {
+      "start_time": "00:18:17,520",
+      "end_time": "00:18:20,400",
+      "text": "sort of like what the old school role"
+    },
+    {
+      "start_time": "00:18:18,880",
+      "end_time": "00:18:24,400",
+      "text": "players would call hand wavium"
+    },
+    {
+      "start_time": "00:18:20,400",
+      "end_time": "00:18:27,280",
+      "text": "you just can't wait pretty much yeah"
+    },
+    {
+      "start_time": "00:18:24,400",
+      "end_time": "00:18:29,039",
+      "text": "and you know you can you can let them be"
+    },
+    {
+      "start_time": "00:18:27,280",
+      "end_time": "00:18:31,039",
+      "text": "complications in your narrative too"
+    },
+    {
+      "start_time": "00:18:29,039",
+      "end_time": "00:18:32,640",
+      "text": "they can get into trouble based on a"
+    },
+    {
+      "start_time": "00:18:31,039",
+      "end_time": "00:18:34,720",
+      "text": "miss on your move it's not"
+    },
+    {
+      "start_time": "00:18:32,640",
+      "end_time": "00:18:36,240",
+      "text": "necessarily a miss is not necessarily"
+    },
+    {
+      "start_time": "00:18:34,720",
+      "end_time": "00:18:37,679",
+      "text": "something that impacts like let's say"
+    },
+    {
+      "start_time": "00:18:36,240",
+      "end_time": "00:18:39,760",
+      "text": "you're in a fight"
+    },
+    {
+      "start_time": "00:18:37,679",
+      "end_time": "00:18:42,320",
+      "text": "you do something you get a miss if"
+    },
+    {
+      "start_time": "00:18:39,760",
+      "end_time": "00:18:44,799",
+      "text": "you're there with a fellow character"
+    },
+    {
+      "start_time": "00:18:42,320",
+      "end_time": "00:18:46,480",
+      "text": "um you can lean on what is happening"
+    },
+    {
+      "start_time": "00:18:44,799",
+      "end_time": "00:18:48,080",
+      "text": "with them as a result of that mess and"
+    },
+    {
+      "start_time": "00:18:46,480",
+      "end_time": "00:18:49,039",
+      "text": "now you got to go deal with that trouble"
+    },
+    {
+      "start_time": "00:18:48,080",
+      "end_time": "00:18:50,640",
+      "text": "it's new"
+    },
+    {
+      "start_time": "00:18:49,039",
+      "end_time": "00:18:52,400",
+      "text": "trouble it's not necessarily a new"
+    },
+    {
+      "start_time": "00:18:50,640",
+      "end_time": "00:18:55,760",
+      "text": "mechanical uh"
+    },
+    {
+      "start_time": "00:18:52,400",
+      "end_time": "00:18:57,200",
+      "text": "you know impact on you right and um"
+    },
+    {
+      "start_time": "00:18:55,760",
+      "end_time": "00:18:57,760",
+      "text": "speaking of trouble and mechanical"
+    },
+    {
+      "start_time": "00:18:57,200",
+      "end_time": "00:18:59,760",
+      "text": "impacts"
+    },
+    {
+      "start_time": "00:18:57,760",
+      "end_time": "00:19:01,760",
+      "text": "why don't we get to uh standing up"
+    },
+    {
+      "start_time": "00:18:59,760",
+      "end_time": "00:19:04,960",
+      "text": "aren't galliponky for ironsworn so"
+    },
+    {
+      "start_time": "00:19:01,760",
+      "end_time": "00:19:07,840",
+      "text": "yeah um this is a big honor to have uh"
+    },
+    {
+      "start_time": "00:19:04,960",
+      "end_time": "00:19:09,360",
+      "text": "your help in doing this here so um here"
+    },
+    {
+      "start_time": "00:19:07,840",
+      "end_time": "00:19:10,559",
+      "text": "is the character sheet that you could"
+    },
+    {
+      "start_time": "00:19:09,360",
+      "end_time": "00:19:12,160",
+      "text": "all see this is the"
+    },
+    {
+      "start_time": "00:19:10,559",
+      "end_time": "00:19:14,240",
+      "text": "standard iron sworn character sheet that"
+    },
+    {
+      "start_time": "00:19:12,160",
+      "end_time": "00:19:14,720",
+      "text": "is of course available uh on the iron"
+    },
+    {
+      "start_time": "00:19:14,240",
+      "end_time": "00:19:16,080",
+      "text": "sworn"
+    },
+    {
+      "start_time": "00:19:14,720",
+      "end_time": "00:19:17,520",
+      "text": "website and there will of course be a"
+    },
+    {
+      "start_time": "00:19:16,080",
+      "end_time": "00:19:19,200",
+      "text": "link below if you guys want to check"
+    },
+    {
+      "start_time": "00:19:17,520",
+      "end_time": "00:19:20,720",
+      "text": "that out and i hardly uh hardly do"
+    },
+    {
+      "start_time": "00:19:19,200",
+      "end_time": "00:19:23,120",
+      "text": "encourage you all to check this game out"
+    },
+    {
+      "start_time": "00:19:20,720",
+      "end_time": "00:19:24,960",
+      "text": "not the least of which because it's free"
+    },
+    {
+      "start_time": "00:19:23,120",
+      "end_time": "00:19:26,320",
+      "text": "which boggles my mind sean"
+    },
+    {
+      "start_time": "00:19:24,960",
+      "end_time": "00:19:28,480",
+      "text": "that's amazing that you release this"
+    },
+    {
+      "start_time": "00:19:26,320",
+      "end_time": "00:19:28,960",
+      "text": "thing for free but uh it i would easily"
+    },
+    {
+      "start_time": "00:19:28,480",
+      "end_time": "00:19:30,640",
+      "text": "have paid"
+    },
+    {
+      "start_time": "00:19:28,960",
+      "end_time": "00:19:32,400",
+      "text": "many many many scores of dollars for"
+    },
+    {
+      "start_time": "00:19:30,640",
+      "end_time": "00:19:34,320",
+      "text": "this thing um"
+    },
+    {
+      "start_time": "00:19:32,400",
+      "end_time": "00:19:35,679",
+      "text": "anyway so here's the character sheet so"
+    },
+    {
+      "start_time": "00:19:34,320",
+      "end_time": "00:19:36,080",
+      "text": "again for those of you who are sort of"
+    },
+    {
+      "start_time": "00:19:35,679",
+      "end_time": "00:19:39,120",
+      "text": "uh"
+    },
+    {
+      "start_time": "00:19:36,080",
+      "end_time": "00:19:41,520",
+      "text": "unfamiliar with iron sworn uh there's"
+    },
+    {
+      "start_time": "00:19:39,120",
+      "end_time": "00:19:42,320",
+      "text": "five basic stats edge heart iron shadow"
+    },
+    {
+      "start_time": "00:19:41,520",
+      "end_time": "00:19:44,080",
+      "text": "and wits here"
+    },
+    {
+      "start_time": "00:19:42,320",
+      "end_time": "00:19:45,840",
+      "text": "uh and then you've got your momentum"
+    },
+    {
+      "start_time": "00:19:44,080",
+      "end_time": "00:19:47,120",
+      "text": "track and then you've got your you know"
+    },
+    {
+      "start_time": "00:19:45,840",
+      "end_time": "00:19:48,320",
+      "text": "health spirit and supply"
+    },
+    {
+      "start_time": "00:19:47,120",
+      "end_time": "00:19:50,000",
+      "text": "again for those of you who are going to"
+    },
+    {
+      "start_time": "00:19:48,320",
+      "end_time": "00:19:51,760",
+      "text": "watch the new season all of this will"
+    },
+    {
+      "start_time": "00:19:50,000",
+      "end_time": "00:19:53,600",
+      "text": "become very very familiar to you very"
+    },
+    {
+      "start_time": "00:19:51,760",
+      "end_time": "00:19:54,799",
+      "text": "quickly as we go into it but for now"
+    },
+    {
+      "start_time": "00:19:53,600",
+      "end_time": "00:19:56,720",
+      "text": "what i want to focus on"
+    },
+    {
+      "start_time": "00:19:54,799",
+      "end_time": "00:19:58,160",
+      "text": "is turning around calipocky from the"
+    },
+    {
+      "start_time": "00:19:56,720",
+      "end_time": "00:20:01,760",
+      "text": "savage world character"
+    },
+    {
+      "start_time": "00:19:58,160",
+      "end_time": "00:20:03,360",
+      "text": "into the um iron sworn character so"
+    },
+    {
+      "start_time": "00:20:01,760",
+      "end_time": "00:20:04,799",
+      "text": "first of all sean you've seen the show"
+    },
+    {
+      "start_time": "00:20:03,360",
+      "end_time": "00:20:05,520",
+      "text": "you're somewhat familiar with who the"
+    },
+    {
+      "start_time": "00:20:04,799",
+      "end_time": "00:20:07,200",
+      "text": "character was"
+    },
+    {
+      "start_time": "00:20:05,520",
+      "end_time": "00:20:09,440",
+      "text": "do you have any immediate thoughts on"
+    },
+    {
+      "start_time": "00:20:07,200",
+      "end_time": "00:20:11,280",
+      "text": "what that might look like"
+    },
+    {
+      "start_time": "00:20:09,440",
+      "end_time": "00:20:12,720",
+      "text": "i think that a good place to start is"
+    },
+    {
+      "start_time": "00:20:11,280",
+      "end_time": "00:20:13,760",
+      "text": "with assets and that's a little bit"
+    },
+    {
+      "start_time": "00:20:12,720",
+      "end_time": "00:20:15,039",
+      "text": "backwards from the"
+    },
+    {
+      "start_time": "00:20:13,760",
+      "end_time": "00:20:16,880",
+      "text": "like the walkthrough of character"
+    },
+    {
+      "start_time": "00:20:15,039",
+      "end_time": "00:20:19,120",
+      "text": "creation in the book but"
+    },
+    {
+      "start_time": "00:20:16,880",
+      "end_time": "00:20:20,400",
+      "text": "the reason to look at assets first is"
+    },
+    {
+      "start_time": "00:20:19,120",
+      "end_time": "00:20:22,000",
+      "text": "that can actually drive"
+    },
+    {
+      "start_time": "00:20:20,400",
+      "end_time": "00:20:24,000",
+      "text": "some of your choices around your stat"
+    },
+    {
+      "start_time": "00:20:22,000",
+      "end_time": "00:20:25,520",
+      "text": "selection depending on sort of what the"
+    },
+    {
+      "start_time": "00:20:24,000",
+      "end_time": "00:20:27,760",
+      "text": "asset is geared toward"
+    },
+    {
+      "start_time": "00:20:25,520",
+      "end_time": "00:20:29,200",
+      "text": "some of the assets are more beneficial"
+    },
+    {
+      "start_time": "00:20:27,760",
+      "end_time": "00:20:31,440",
+      "text": "with a particular stat"
+    },
+    {
+      "start_time": "00:20:29,200",
+      "end_time": "00:20:33,200",
+      "text": "and also i think it just helps like"
+    },
+    {
+      "start_time": "00:20:31,440",
+      "end_time": "00:20:34,640",
+      "text": "gives you a better sort of picture for"
+    },
+    {
+      "start_time": "00:20:33,200",
+      "end_time": "00:20:36,400",
+      "text": "the character in a better"
+    },
+    {
+      "start_time": "00:20:34,640",
+      "end_time": "00:20:38,159",
+      "text": "starting place where stats can be a"
+    },
+    {
+      "start_time": "00:20:36,400",
+      "end_time": "00:20:39,200",
+      "text": "little bit more abstract right assets"
+    },
+    {
+      "start_time": "00:20:38,159",
+      "end_time": "00:20:42,640",
+      "text": "can be a little bit more"
+    },
+    {
+      "start_time": "00:20:39,200",
+      "end_time": "00:20:43,840",
+      "text": "um uh give you a better foundation for"
+    },
+    {
+      "start_time": "00:20:42,640",
+      "end_time": "00:20:45,120",
+      "text": "sort of visualizing"
+    },
+    {
+      "start_time": "00:20:43,840",
+      "end_time": "00:20:46,320",
+      "text": "what the character is good at you"
+    },
+    {
+      "start_time": "00:20:45,120",
+      "end_time": "00:20:47,520",
+      "text": "already have a little bit of sense of"
+    },
+    {
+      "start_time": "00:20:46,320",
+      "end_time": "00:20:51,520",
+      "text": "that based on"
+    },
+    {
+      "start_time": "00:20:47,520",
+      "end_time": "00:20:53,679",
+      "text": "arn he was a bounty hunter uh"
+    },
+    {
+      "start_time": "00:20:51,520",
+      "end_time": "00:20:54,799",
+      "text": "i think he's i think he i think i had a"
+    },
+    {
+      "start_time": "00:20:53,679",
+      "end_time": "00:20:56,799",
+      "text": "good sense that he was a pretty good"
+    },
+    {
+      "start_time": "00:20:54,799",
+      "end_time": "00:20:57,600",
+      "text": "outdoorsman tracker things like that"
+    },
+    {
+      "start_time": "00:20:56,799",
+      "end_time": "00:21:00,159",
+      "text": "right"
+    },
+    {
+      "start_time": "00:20:57,600",
+      "end_time": "00:21:01,760",
+      "text": "uh he obviously had a strong sense of"
+    },
+    {
+      "start_time": "00:21:00,159",
+      "end_time": "00:21:02,159",
+      "text": "honor because a lot of the decisions he"
+    },
+    {
+      "start_time": "00:21:01,760",
+      "end_time": "00:21:04,720",
+      "text": "made"
+    },
+    {
+      "start_time": "00:21:02,159",
+      "end_time": "00:21:06,480",
+      "text": "in your story were based on sort of"
+    },
+    {
+      "start_time": "00:21:04,720",
+      "end_time": "00:21:08,799",
+      "text": "following a path based on"
+    },
+    {
+      "start_time": "00:21:06,480",
+      "end_time": "00:21:11,120",
+      "text": "vows he had made being an honorable"
+    },
+    {
+      "start_time": "00:21:08,799",
+      "end_time": "00:21:13,200",
+      "text": "person you know going against"
+    },
+    {
+      "start_time": "00:21:11,120",
+      "end_time": "00:21:15,120",
+      "text": "previous vows he had made in order you"
+    },
+    {
+      "start_time": "00:21:13,200",
+      "end_time": "00:21:16,240",
+      "text": "know and adjusting just based on what he"
+    },
+    {
+      "start_time": "00:21:15,120",
+      "end_time": "00:21:19,840",
+      "text": "had found"
+    },
+    {
+      "start_time": "00:21:16,240",
+      "end_time": "00:21:22,240",
+      "text": "um he was he was actually maimed like"
+    },
+    {
+      "start_time": "00:21:19,840",
+      "end_time": "00:21:24,000",
+      "text": "he's got a bum leg now which"
+    },
+    {
+      "start_time": "00:21:22,240",
+      "end_time": "00:21:25,919",
+      "text": "we can talk about whether or not that's"
+    },
+    {
+      "start_time": "00:21:24,000",
+      "end_time": "00:21:30,640",
+      "text": "a thing for this character"
+    },
+    {
+      "start_time": "00:21:25,919",
+      "end_time": "00:21:32,400",
+      "text": "um oh i think it's a thing"
+    },
+    {
+      "start_time": "00:21:30,640",
+      "end_time": "00:21:34,400",
+      "text": "he had a phobia of long-haired women but"
+    },
+    {
+      "start_time": "00:21:32,400",
+      "end_time": "00:21:36,000",
+      "text": "that's there's not a there's not obvious"
+    },
+    {
+      "start_time": "00:21:34,400",
+      "end_time": "00:21:37,679",
+      "text": "that's gonna be a little more narrative"
+    },
+    {
+      "start_time": "00:21:36,000",
+      "end_time": "00:21:41,200",
+      "text": "i think"
+    },
+    {
+      "start_time": "00:21:37,679",
+      "end_time": "00:21:43,200",
+      "text": "um uh i think he was"
+    },
+    {
+      "start_time": "00:21:41,200",
+      "end_time": "00:21:45,360",
+      "text": "he was a bowman if i remember correctly"
+    },
+    {
+      "start_time": "00:21:43,200",
+      "end_time": "00:21:46,000",
+      "text": "he was was that a sort of primary combat"
+    },
+    {
+      "start_time": "00:21:45,360",
+      "end_time": "00:21:48,000",
+      "text": "yeah he was"
+    },
+    {
+      "start_time": "00:21:46,000",
+      "end_time": "00:21:49,280",
+      "text": "he was a good shot that we did establish"
+    },
+    {
+      "start_time": "00:21:48,000",
+      "end_time": "00:21:49,679",
+      "text": "that from the first time we met him that"
+    },
+    {
+      "start_time": "00:21:49,280",
+      "end_time": "00:21:51,520",
+      "text": "he was"
+    },
+    {
+      "start_time": "00:21:49,679",
+      "end_time": "00:21:54,240",
+      "text": "yeah so that's all pretty good grist for"
+    },
+    {
+      "start_time": "00:21:51,520",
+      "end_time": "00:21:56,000",
+      "text": "the mill i think um in terms of"
+    },
+    {
+      "start_time": "00:21:54,240",
+      "end_time": "00:21:57,840",
+      "text": "um thinking about him we can sort of"
+    },
+    {
+      "start_time": "00:21:56,000",
+      "end_time": "00:21:59,039",
+      "text": "like go through the asset categories"
+    },
+    {
+      "start_time": "00:21:57,840",
+      "end_time": "00:22:01,840",
+      "text": "maybe"
+    },
+    {
+      "start_time": "00:21:59,039",
+      "end_time": "00:22:04,320",
+      "text": "broadly here the you know a lot of solo"
+    },
+    {
+      "start_time": "00:22:01,840",
+      "end_time": "00:22:06,000",
+      "text": "players love having a companion"
+    },
+    {
+      "start_time": "00:22:04,320",
+      "end_time": "00:22:07,280",
+      "text": "but whether or not you have a companion"
+    },
+    {
+      "start_time": "00:22:06,000",
+      "end_time": "00:22:09,360",
+      "text": "sort of at the start of your story is"
+    },
+    {
+      "start_time": "00:22:07,280",
+      "end_time": "00:22:12,720",
+      "text": "probably going to depend on sort of like"
+    },
+    {
+      "start_time": "00:22:09,360",
+      "end_time": "00:22:14,400",
+      "text": "what has happened between uh the end of"
+    },
+    {
+      "start_time": "00:22:12,720",
+      "end_time": "00:22:14,799",
+      "text": "season one and the beginning of season"
+    },
+    {
+      "start_time": "00:22:14,400",
+      "end_time": "00:22:16,159",
+      "text": "two"
+    },
+    {
+      "start_time": "00:22:14,799",
+      "end_time": "00:22:18,480",
+      "text": "well i don't want to give anything away"
+    },
+    {
+      "start_time": "00:22:16,159",
+      "end_time": "00:22:21,200",
+      "text": "but i do have uh i do have an opening"
+    },
+    {
+      "start_time": "00:22:18,480",
+      "end_time": "00:22:22,880",
+      "text": "uh in mind and he will be alone so he"
+    },
+    {
+      "start_time": "00:22:21,200",
+      "end_time": "00:22:25,760",
+      "text": "will not have okay"
+    },
+    {
+      "start_time": "00:22:22,880",
+      "end_time": "00:22:26,000",
+      "text": "okay great so that probably leaves that"
+    },
+    {
+      "start_time": "00:22:25,760",
+      "end_time": "00:22:29,760",
+      "text": "out"
+    },
+    {
+      "start_time": "00:22:26,000",
+      "end_time": "00:22:31,280",
+      "text": "entirely um and then the paths are kind"
+    },
+    {
+      "start_time": "00:22:29,760",
+      "end_time": "00:22:33,440",
+      "text": "of you know"
+    },
+    {
+      "start_time": "00:22:31,280",
+      "end_time": "00:22:34,960",
+      "text": "somewhat of an open book for us you know"
+    },
+    {
+      "start_time": "00:22:33,440",
+      "end_time": "00:22:36,720",
+      "text": "like i said honor bound might be"
+    },
+    {
+      "start_time": "00:22:34,960",
+      "end_time": "00:22:40,159",
+      "text": "something to consider for him"
+    },
+    {
+      "start_time": "00:22:36,720",
+      "end_time": "00:22:42,320",
+      "text": "just based on sort of his uh archetype"
+    },
+    {
+      "start_time": "00:22:40,159",
+      "end_time": "00:22:44,400",
+      "text": "fortune hunter might represent sort of"
+    },
+    {
+      "start_time": "00:22:42,320",
+      "end_time": "00:22:46,559",
+      "text": "the bounty hunter lifestyle but"
+    },
+    {
+      "start_time": "00:22:44,400",
+      "end_time": "00:22:48,080",
+      "text": "it almost felt a little too bit to me"
+    },
+    {
+      "start_time": "00:22:46,559",
+      "end_time": "00:22:49,919",
+      "text": "like arnold was somewhat"
+    },
+    {
+      "start_time": "00:22:48,080",
+      "end_time": "00:22:51,120",
+      "text": "leaving that behind so may or may not be"
+    },
+    {
+      "start_time": "00:22:49,919",
+      "end_time": "00:22:53,039",
+      "text": "appropriate in this new"
+    },
+    {
+      "start_time": "00:22:51,120",
+      "end_time": "00:22:56,320",
+      "text": "sort of setting and trying to fulfill"
+    },
+    {
+      "start_time": "00:22:53,039",
+      "end_time": "00:22:59,120",
+      "text": "this vow for him in the iron lands"
+    },
+    {
+      "start_time": "00:22:56,320",
+      "end_time": "00:23:00,559",
+      "text": "yeah um right so honor bound when you"
+    },
+    {
+      "start_time": "00:22:59,120",
+      "end_time": "00:23:01,679",
+      "text": "turn the tide and vision how your vows"
+    },
+    {
+      "start_time": "00:23:00,559",
+      "end_time": "00:23:02,960",
+      "text": "give you strength in this moment then"
+    },
+    {
+      "start_time": "00:23:01,679",
+      "end_time": "00:23:04,400",
+      "text": "when you make your move at plus two"
+    },
+    {
+      "start_time": "00:23:02,960",
+      "end_time": "00:23:05,919",
+      "text": "instead of plus one and take"
+    },
+    {
+      "start_time": "00:23:04,400",
+      "end_time": "00:23:07,520",
+      "text": "plus one momentum on a hit and turn the"
+    },
+    {
+      "start_time": "00:23:05,919",
+      "end_time": "00:23:09,200",
+      "text": "tide is when you are trying to you're in"
+    },
+    {
+      "start_time": "00:23:07,520",
+      "end_time": "00:23:11,200",
+      "text": "the middle of a conflict and you"
+    },
+    {
+      "start_time": "00:23:09,200",
+      "end_time": "00:23:12,480",
+      "text": "you sort of grit your teeth and give it"
+    },
+    {
+      "start_time": "00:23:11,200",
+      "end_time": "00:23:14,720",
+      "text": "your all to"
+    },
+    {
+      "start_time": "00:23:12,480",
+      "end_time": "00:23:16,159",
+      "text": "turn things around for you right yep yep"
+    },
+    {
+      "start_time": "00:23:14,720",
+      "end_time": "00:23:19,600",
+      "text": "cool i like that well let's let's call"
+    },
+    {
+      "start_time": "00:23:16,159",
+      "end_time": "00:23:23,600",
+      "text": "that i'm gonna put that down honor bound"
+    },
+    {
+      "start_time": "00:23:19,600",
+      "end_time": "00:23:25,440",
+      "text": "great asset one complete"
+    },
+    {
+      "start_time": "00:23:23,600",
+      "end_time": "00:23:26,799",
+      "text": "um if you do want to pick up a combat"
+    },
+    {
+      "start_time": "00:23:25,440",
+      "end_time": "00:23:29,520",
+      "text": "talent um"
+    },
+    {
+      "start_time": "00:23:26,799",
+      "end_time": "00:23:30,880",
+      "text": "you know i think uh archer's probably"
+    },
+    {
+      "start_time": "00:23:29,520",
+      "end_time": "00:23:33,280",
+      "text": "the obvious one for him"
+    },
+    {
+      "start_time": "00:23:30,880",
+      "end_time": "00:23:34,559",
+      "text": "unless there's something else in sort of"
+    },
+    {
+      "start_time": "00:23:33,280",
+      "end_time": "00:23:36,480",
+      "text": "his backstory or"
+    },
+    {
+      "start_time": "00:23:34,559",
+      "end_time": "00:23:38,080",
+      "text": "sort of combat styles or preferences"
+    },
+    {
+      "start_time": "00:23:36,480",
+      "end_time": "00:23:39,840",
+      "text": "that i i like it"
+    },
+    {
+      "start_time": "00:23:38,080",
+      "end_time": "00:23:41,520",
+      "text": "i mean it gives him when you it says"
+    },
+    {
+      "start_time": "00:23:39,840",
+      "end_time": "00:23:42,720",
+      "text": "here uh when you secure an advantage by"
+    },
+    {
+      "start_time": "00:23:41,520",
+      "end_time": "00:23:44,400",
+      "text": "taking a moment to aim choose your"
+    },
+    {
+      "start_time": "00:23:42,720",
+      "end_time": "00:23:47,840",
+      "text": "approach and add plus one"
+    },
+    {
+      "start_time": "00:23:44,400",
+      "end_time": "00:23:49,600",
+      "text": "um yeah so that's uh yeah i like that"
+    },
+    {
+      "start_time": "00:23:47,840",
+      "end_time": "00:23:51,600",
+      "text": "let's let's add that too so he'll also"
+    },
+    {
+      "start_time": "00:23:49,600",
+      "end_time": "00:23:53,760",
+      "text": "have the archer thing"
+    },
+    {
+      "start_time": "00:23:51,600",
+      "end_time": "00:23:54,960",
+      "text": "um in terms of like his um his"
+    },
+    {
+      "start_time": "00:23:53,760",
+      "end_time": "00:23:56,559",
+      "text": "background and stuff to tell you the"
+    },
+    {
+      "start_time": "00:23:54,960",
+      "end_time": "00:23:59,360",
+      "text": "truth i don't know a lot about it"
+    },
+    {
+      "start_time": "00:23:56,559",
+      "end_time": "00:24:00,960",
+      "text": "in fact his overall major vow i'm not"
+    },
+    {
+      "start_time": "00:23:59,360",
+      "end_time": "00:24:03,600",
+      "text": "even sure what that's going to be"
+    },
+    {
+      "start_time": "00:24:00,960",
+      "end_time": "00:24:05,200",
+      "text": "until he sort of gets to his home once"
+    },
+    {
+      "start_time": "00:24:03,600",
+      "end_time": "00:24:06,000",
+      "text": "again so the way i'm setting up the game"
+    },
+    {
+      "start_time": "00:24:05,200",
+      "end_time": "00:24:07,919",
+      "text": "is basically"
+    },
+    {
+      "start_time": "00:24:06,000",
+      "end_time": "00:24:09,760",
+      "text": "he has an initial thing his initial vow"
+    },
+    {
+      "start_time": "00:24:07,919",
+      "end_time": "00:24:12,159",
+      "text": "is go from his opening"
+    },
+    {
+      "start_time": "00:24:09,760",
+      "end_time": "00:24:12,960",
+      "text": "scene to his village get home that's his"
+    },
+    {
+      "start_time": "00:24:12,159",
+      "end_time": "00:24:14,400",
+      "text": "first thing"
+    },
+    {
+      "start_time": "00:24:12,960",
+      "end_time": "00:24:16,320",
+      "text": "and then once we're there then we're"
+    },
+    {
+      "start_time": "00:24:14,400",
+      "end_time": "00:24:18,000",
+      "text": "going to discover uh"
+    },
+    {
+      "start_time": "00:24:16,320",
+      "end_time": "00:24:19,360",
+      "text": "what his overarching vow is so i'm not"
+    },
+    {
+      "start_time": "00:24:18,000",
+      "end_time": "00:24:22,400",
+      "text": "sure what his background is yet"
+    },
+    {
+      "start_time": "00:24:19,360",
+      "end_time": "00:24:24,880",
+      "text": "that's great so there's a a path called"
+    },
+    {
+      "start_time": "00:24:22,400",
+      "end_time": "00:24:27,600",
+      "text": "battle scarred"
+    },
+    {
+      "start_time": "00:24:24,880",
+      "end_time": "00:24:29,120",
+      "text": "which is potentially interesting for you"
+    },
+    {
+      "start_time": "00:24:27,600",
+      "end_time": "00:24:30,840",
+      "text": "normally that's something you'd pick up"
+    },
+    {
+      "start_time": "00:24:29,120",
+      "end_time": "00:24:33,919",
+      "text": "through the course of your story"
+    },
+    {
+      "start_time": "00:24:30,840",
+      "end_time": "00:24:36,000",
+      "text": "um there's a thing in iron's horn called"
+    },
+    {
+      "start_time": "00:24:33,919",
+      "end_time": "00:24:38,480",
+      "text": "the abilities which are things you"
+    },
+    {
+      "start_time": "00:24:36,000",
+      "end_time": "00:24:40,960",
+      "text": "mark as an outcome a negative outcome"
+    },
+    {
+      "start_time": "00:24:38,480",
+      "end_time": "00:24:40,960",
+      "text": "typically"
+    },
+    {
+      "start_time": "00:24:41,360",
+      "end_time": "00:24:45,520",
+      "text": "things like shaken and"
+    },
+    {
+      "start_time": "00:24:44,260",
+      "end_time": "00:24:48,640",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:24:45,520",
+      "end_time": "00:24:50,400",
+      "text": "mained uh this case maimed might be"
+    },
+    {
+      "start_time": "00:24:48,640",
+      "end_time": "00:24:50,880",
+      "text": "relevant for you maimed as a permanent"
+    },
+    {
+      "start_time": "00:24:50,400",
+      "end_time": "00:24:52,720",
+      "text": "thing"
+    },
+    {
+      "start_time": "00:24:50,880",
+      "end_time": "00:24:54,320",
+      "text": "that you would mark through the course"
+    },
+    {
+      "start_time": "00:24:52,720",
+      "end_time": "00:24:56,320",
+      "text": "of play like it's typically you're"
+    },
+    {
+      "start_time": "00:24:54,320",
+      "end_time": "00:24:59,679",
+      "text": "making a pretty hard choice between"
+    },
+    {
+      "start_time": "00:24:56,320",
+      "end_time": "00:25:01,919",
+      "text": "having to face death and mark maine"
+    },
+    {
+      "start_time": "00:24:59,679",
+      "end_time": "00:25:02,960",
+      "text": "but it you know it wouldn't break"
+    },
+    {
+      "start_time": "00:25:01,919",
+      "end_time": "00:25:05,279",
+      "text": "anything if you"
+    },
+    {
+      "start_time": "00:25:02,960",
+      "end_time": "00:25:06,159",
+      "text": "picked up battle scarred right off the"
+    },
+    {
+      "start_time": "00:25:05,279",
+      "end_time": "00:25:07,520",
+      "text": "bat to better"
+    },
+    {
+      "start_time": "00:25:06,159",
+      "end_time": "00:25:09,760",
+      "text": "sort of represent the state of your"
+    },
+    {
+      "start_time": "00:25:07,520",
+      "end_time": "00:25:11,279",
+      "text": "character battle scarred yeah that looks"
+    },
+    {
+      "start_time": "00:25:09,760",
+      "end_time": "00:25:13,200",
+      "text": "good because it reduces"
+    },
+    {
+      "start_time": "00:25:11,279",
+      "end_time": "00:25:15,679",
+      "text": "his edge or iron by one and adds plus"
+    },
+    {
+      "start_time": "00:25:13,200",
+      "end_time": "00:25:18,240",
+      "text": "two to wits or heart or plus one to each"
+    },
+    {
+      "start_time": "00:25:15,679",
+      "end_time": "00:25:18,960",
+      "text": "um now that actually reminds me of"
+    },
+    {
+      "start_time": "00:25:18,240",
+      "end_time": "00:25:22,159",
+      "text": "something else"
+    },
+    {
+      "start_time": "00:25:18,960",
+      "end_time": "00:25:23,840",
+      "text": "um in lodestar the third one right here"
+    },
+    {
+      "start_time": "00:25:22,159",
+      "end_time": "00:25:24,559",
+      "text": "which you were very kind enough to send"
+    },
+    {
+      "start_time": "00:25:23,840",
+      "end_time": "00:25:26,559",
+      "text": "to me"
+    },
+    {
+      "start_time": "00:25:24,559",
+      "end_time": "00:25:28,480",
+      "text": "um it says if you wanted to create a"
+    },
+    {
+      "start_time": "00:25:26,559",
+      "end_time": "00:25:28,960",
+      "text": "slightly more experienced character that"
+    },
+    {
+      "start_time": "00:25:28,480",
+      "end_time": "00:25:32,400",
+      "text": "there was"
+    },
+    {
+      "start_time": "00:25:28,960",
+      "end_time": "00:25:33,760",
+      "text": "options for um changing up his his stat"
+    },
+    {
+      "start_time": "00:25:32,400",
+      "end_time": "00:25:35,600",
+      "text": "line basically"
+    },
+    {
+      "start_time": "00:25:33,760",
+      "end_time": "00:25:37,039",
+      "text": "yeah there's three different stat arrays"
+    },
+    {
+      "start_time": "00:25:35,600",
+      "end_time": "00:25:38,960",
+      "text": "basically and in"
+    },
+    {
+      "start_time": "00:25:37,039",
+      "end_time": "00:25:40,320",
+      "text": "lodestar which is sort of the iron sworn"
+    },
+    {
+      "start_time": "00:25:38,960",
+      "end_time": "00:25:43,520",
+      "text": "reference guide"
+    },
+    {
+      "start_time": "00:25:40,320",
+      "end_time": "00:25:46,320",
+      "text": "um there's a grim"
+    },
+    {
+      "start_time": "00:25:43,520",
+      "end_time": "00:25:49,200",
+      "text": "uh perilous which is the default and"
+    },
+    {
+      "start_time": "00:25:46,320",
+      "end_time": "00:25:52,240",
+      "text": "challenging which is a slightly"
+    },
+    {
+      "start_time": "00:25:49,200",
+      "end_time": "00:25:54,640",
+      "text": "uh elevated stat array which can take"
+    },
+    {
+      "start_time": "00:25:52,240",
+      "end_time": "00:25:55,840",
+      "text": "which is a good option for solo players"
+    },
+    {
+      "start_time": "00:25:54,640",
+      "end_time": "00:25:57,600",
+      "text": "especially because you don't have the"
+    },
+    {
+      "start_time": "00:25:55,840",
+      "end_time": "00:25:58,640",
+      "text": "backstop of other players in terms of"
+    },
+    {
+      "start_time": "00:25:57,600",
+      "end_time": "00:26:01,039",
+      "text": "like"
+    },
+    {
+      "start_time": "00:25:58,640",
+      "end_time": "00:26:02,240",
+      "text": "uh a better spread of abilities as well"
+    },
+    {
+      "start_time": "00:26:01,039",
+      "end_time": "00:26:04,480",
+      "text": "as"
+    },
+    {
+      "start_time": "00:26:02,240",
+      "end_time": "00:26:05,760",
+      "text": "you know to use the term soak like when"
+    },
+    {
+      "start_time": "00:26:04,480",
+      "end_time": "00:26:07,600",
+      "text": "you have more players you have"
+    },
+    {
+      "start_time": "00:26:05,760",
+      "end_time": "00:26:09,520",
+      "text": "more ability to sort of soak negative"
+    },
+    {
+      "start_time": "00:26:07,600",
+      "end_time": "00:26:11,440",
+      "text": "outcomes between everybody right so"
+    },
+    {
+      "start_time": "00:26:09,520",
+      "end_time": "00:26:12,640",
+      "text": "you're just tending to get hit a little"
+    },
+    {
+      "start_time": "00:26:11,440",
+      "end_time": "00:26:14,400",
+      "text": "bit harder so"
+    },
+    {
+      "start_time": "00:26:12,640",
+      "end_time": "00:26:16,080",
+      "text": "so what do you think do you i mean does"
+    },
+    {
+      "start_time": "00:26:14,400",
+      "end_time": "00:26:17,679",
+      "text": "it overpower him if he"
+    },
+    {
+      "start_time": "00:26:16,080",
+      "end_time": "00:26:19,919",
+      "text": "if he takes it's a pretty it's a pretty"
+    },
+    {
+      "start_time": "00:26:17,679",
+      "end_time": "00:26:21,919",
+      "text": "subtle improvement you know to be honest"
+    },
+    {
+      "start_time": "00:26:19,919",
+      "end_time": "00:26:23,679",
+      "text": "just the way math works it just"
+    },
+    {
+      "start_time": "00:26:21,919",
+      "end_time": "00:26:25,440",
+      "text": "it gives you a little bit of an edge but"
+    },
+    {
+      "start_time": "00:26:23,679",
+      "end_time": "00:26:28,559",
+      "text": "i think based on"
+    },
+    {
+      "start_time": "00:26:25,440",
+      "end_time": "00:26:29,120",
+      "text": "um uh having a fairly experienced"
+    },
+    {
+      "start_time": "00:26:28,559",
+      "end_time": "00:26:31,840",
+      "text": "character"
+    },
+    {
+      "start_time": "00:26:29,120",
+      "end_time": "00:26:32,799",
+      "text": "as well as you being a solo player as"
+    },
+    {
+      "start_time": "00:26:31,840",
+      "end_time": "00:26:35,840",
+      "text": "well as"
+    },
+    {
+      "start_time": "00:26:32,799",
+      "end_time": "00:26:38,960",
+      "text": "uh you know doing this for broadcast"
+    },
+    {
+      "start_time": "00:26:35,840",
+      "end_time": "00:26:41,279",
+      "text": "and wanting to you know"
+    },
+    {
+      "start_time": "00:26:38,960",
+      "end_time": "00:26:42,640",
+      "text": "edge into success a little bit more you"
+    },
+    {
+      "start_time": "00:26:41,279",
+      "end_time": "00:26:42,960",
+      "text": "know i think it's a good i think it's a"
+    },
+    {
+      "start_time": "00:26:42,640",
+      "end_time": "00:26:45,039",
+      "text": "good"
+    },
+    {
+      "start_time": "00:26:42,960",
+      "end_time": "00:26:46,640",
+      "text": "option to consider it's funny i'm torn"
+    },
+    {
+      "start_time": "00:26:45,039",
+      "end_time": "00:26:47,679",
+      "text": "on that because i do believe that he is"
+    },
+    {
+      "start_time": "00:26:46,640",
+      "end_time": "00:26:49,039",
+      "text": "an experienced"
+    },
+    {
+      "start_time": "00:26:47,679",
+      "end_time": "00:26:51,440",
+      "text": "you know character now after all that"
+    },
+    {
+      "start_time": "00:26:49,039",
+      "end_time": "00:26:52,559",
+      "text": "he's gone through with simon and edward"
+    },
+    {
+      "start_time": "00:26:51,440",
+      "end_time": "00:26:54,480",
+      "text": "but at the same time i don't want to"
+    },
+    {
+      "start_time": "00:26:52,559",
+      "end_time": "00:26:55,840",
+      "text": "make it too easy for him you know and i"
+    },
+    {
+      "start_time": "00:26:54,480",
+      "end_time": "00:26:57,120",
+      "text": "don't want to ever be accused of oh will"
+    },
+    {
+      "start_time": "00:26:55,840",
+      "end_time": "00:26:58,240",
+      "text": "you meet him so tough of course that's"
+    },
+    {
+      "start_time": "00:26:57,120",
+      "end_time": "00:26:59,600",
+      "text": "bad ever happened to him"
+    },
+    {
+      "start_time": "00:26:58,240",
+      "end_time": "00:27:00,880",
+      "text": "because that's you know i don't want"
+    },
+    {
+      "start_time": "00:26:59,600",
+      "end_time": "00:27:01,760",
+      "text": "that to happen here but i don't have to"
+    },
+    {
+      "start_time": "00:27:00,880",
+      "end_time": "00:27:05,600",
+      "text": "die in the first"
+    },
+    {
+      "start_time": "00:27:01,760",
+      "end_time": "00:27:06,000",
+      "text": "episode the battle scarred asset because"
+    },
+    {
+      "start_time": "00:27:05,600",
+      "end_time": "00:27:08,559",
+      "text": "it"
+    },
+    {
+      "start_time": "00:27:06,000",
+      "end_time": "00:27:09,919",
+      "text": "one of the and the battle scored asked"
+    },
+    {
+      "start_time": "00:27:08,559",
+      "end_time": "00:27:11,360",
+      "text": "that you're gonna pick from among"
+    },
+    {
+      "start_time": "00:27:09,919",
+      "end_time": "00:27:13,039",
+      "text": "if you do take a one you're gonna pick"
+    },
+    {
+      "start_time": "00:27:11,360",
+      "end_time": "00:27:14,240",
+      "text": "from among those three abilities to"
+    },
+    {
+      "start_time": "00:27:13,039",
+      "end_time": "00:27:15,360",
+      "text": "start you notice not one of them's"
+    },
+    {
+      "start_time": "00:27:14,240",
+      "end_time": "00:27:18,159",
+      "text": "marked by default"
+    },
+    {
+      "start_time": "00:27:15,360",
+      "end_time": "00:27:20,159",
+      "text": "right so there are some that that play"
+    },
+    {
+      "start_time": "00:27:18,159",
+      "end_time": "00:27:21,840",
+      "text": "with your stat values as well"
+    },
+    {
+      "start_time": "00:27:20,159",
+      "end_time": "00:27:23,679",
+      "text": "so well let's have a look at that if we"
+    },
+    {
+      "start_time": "00:27:21,840",
+      "end_time": "00:27:26,240",
+      "text": "went if we looked at the"
+    },
+    {
+      "start_time": "00:27:23,679",
+      "end_time": "00:27:27,120",
+      "text": "alternate stat arrays so we've got a"
+    },
+    {
+      "start_time": "00:27:26,240",
+      "end_time": "00:27:30,559",
+      "text": "spread of four"
+    },
+    {
+      "start_time": "00:27:27,120",
+      "end_time": "00:27:32,080",
+      "text": "three three two two so if we start with"
+    },
+    {
+      "start_time": "00:27:30,559",
+      "end_time": "00:27:35,440",
+      "text": "that so we'll assume this is this is"
+    },
+    {
+      "start_time": "00:27:32,080",
+      "end_time": "00:27:37,440",
+      "text": "right before he gets his leg maimed"
+    },
+    {
+      "start_time": "00:27:35,440",
+      "end_time": "00:27:38,880",
+      "text": "so out of these stats what do you think"
+    },
+    {
+      "start_time": "00:27:37,440",
+      "end_time": "00:27:40,240",
+      "text": "his sort of what do you think the four"
+    },
+    {
+      "start_time": "00:27:38,880",
+      "end_time": "00:27:43,360",
+      "text": "would be in would it be"
+    },
+    {
+      "start_time": "00:27:40,240",
+      "end_time": "00:27:44,960",
+      "text": "um heart or shadow because i mean he was"
+    },
+    {
+      "start_time": "00:27:43,360",
+      "end_time": "00:27:47,039",
+      "text": "a bounty hunter and he was sort of a"
+    },
+    {
+      "start_time": "00:27:44,960",
+      "end_time": "00:27:48,480",
+      "text": "sneaky guy but he was also a you know"
+    },
+    {
+      "start_time": "00:27:47,039",
+      "end_time": "00:27:51,440",
+      "text": "honorable fella"
+    },
+    {
+      "start_time": "00:27:48,480",
+      "end_time": "00:27:52,159",
+      "text": "yeah i would i would think heart shadow"
+    },
+    {
+      "start_time": "00:27:51,440",
+      "end_time": "00:27:54,159",
+      "text": "or edge"
+    },
+    {
+      "start_time": "00:27:52,159",
+      "end_time": "00:27:55,760",
+      "text": "uh any of those i think are viable for"
+    },
+    {
+      "start_time": "00:27:54,159",
+      "end_time": "00:27:58,000",
+      "text": "him just based on where he was at edge"
+    },
+    {
+      "start_time": "00:27:55,760",
+      "end_time": "00:28:00,480",
+      "text": "is a little bit more of like the"
+    },
+    {
+      "start_time": "00:27:58,000",
+      "end_time": "00:28:02,240",
+      "text": "precision speed movement firing of the"
+    },
+    {
+      "start_time": "00:28:00,480",
+      "end_time": "00:28:03,679",
+      "text": "bow sort of stat right it's going to be"
+    },
+    {
+      "start_time": "00:28:02,240",
+      "end_time": "00:28:06,559",
+      "text": "a little bit more useful for him than"
+    },
+    {
+      "start_time": "00:28:03,679",
+      "end_time": "00:28:07,840",
+      "text": "iron in a fight iron represents sort of"
+    },
+    {
+      "start_time": "00:28:06,559",
+      "end_time": "00:28:10,720",
+      "text": "toughness and resilience"
+    },
+    {
+      "start_time": "00:28:07,840",
+      "end_time": "00:28:11,279",
+      "text": "you know honestly this guy's you know i"
+    },
+    {
+      "start_time": "00:28:10,720",
+      "end_time": "00:28:15,600",
+      "text": "think"
+    },
+    {
+      "start_time": "00:28:11,279",
+      "end_time": "00:28:18,000",
+      "text": "uh you know can go any sort of direction"
+    },
+    {
+      "start_time": "00:28:15,600",
+      "end_time": "00:28:20,640",
+      "text": "just based on sort of his background but"
+    },
+    {
+      "start_time": "00:28:18,000",
+      "end_time": "00:28:22,399",
+      "text": "part to me feels like i don't know if he"
+    },
+    {
+      "start_time": "00:28:20,640",
+      "end_time": "00:28:23,200",
+      "text": "felt like he always led with heart in"
+    },
+    {
+      "start_time": "00:28:22,399",
+      "end_time": "00:28:25,440",
+      "text": "terms of his"
+    },
+    {
+      "start_time": "00:28:23,200",
+      "end_time": "00:28:26,720",
+      "text": "the choices he made so it seems like a"
+    },
+    {
+      "start_time": "00:28:25,440",
+      "end_time": "00:28:29,440",
+      "text": "pretty strong"
+    },
+    {
+      "start_time": "00:28:26,720",
+      "end_time": "00:28:30,799",
+      "text": "okay well let's make heart the four then"
+    },
+    {
+      "start_time": "00:28:29,440",
+      "end_time": "00:28:32,559",
+      "text": "and then i think edge"
+    },
+    {
+      "start_time": "00:28:30,799",
+      "end_time": "00:28:33,840",
+      "text": "sounds like a three i think shadow"
+    },
+    {
+      "start_time": "00:28:32,559",
+      "end_time": "00:28:36,000",
+      "text": "sounds like a three and then that would"
+    },
+    {
+      "start_time": "00:28:33,840",
+      "end_time": "00:28:37,919",
+      "text": "leave iron and wits to be two and two"
+    },
+    {
+      "start_time": "00:28:36,000",
+      "end_time": "00:28:39,600",
+      "text": "which sounds sounds about right right"
+    },
+    {
+      "start_time": "00:28:37,919",
+      "end_time": "00:28:41,120",
+      "text": "the second ability there on the ballast"
+    },
+    {
+      "start_time": "00:28:39,600",
+      "end_time": "00:28:43,279",
+      "text": "guard actually takes away"
+    },
+    {
+      "start_time": "00:28:41,120",
+      "end_time": "00:28:44,799",
+      "text": "uh mained as a as a debility is"
+    },
+    {
+      "start_time": "00:28:43,279",
+      "end_time": "00:28:46,960",
+      "text": "something you need to track"
+    },
+    {
+      "start_time": "00:28:44,799",
+      "end_time": "00:28:49,440",
+      "text": "but it reduces your overall health so"
+    },
+    {
+      "start_time": "00:28:46,960",
+      "end_time": "00:28:52,159",
+      "text": "your max health gets reduced from"
+    },
+    {
+      "start_time": "00:28:49,440",
+      "end_time": "00:28:52,880",
+      "text": "five to four right i think i i like the"
+    },
+    {
+      "start_time": "00:28:52,159",
+      "end_time": "00:28:56,159",
+      "text": "second one"
+    },
+    {
+      "start_time": "00:28:52,880",
+      "end_time": "00:28:57,279",
+      "text": "um yeah let's let's take the second one"
+    },
+    {
+      "start_time": "00:28:56,159",
+      "end_time": "00:28:58,960",
+      "text": "of battles guard"
+    },
+    {
+      "start_time": "00:28:57,279",
+      "end_time": "00:29:01,200",
+      "text": "yeah i think that's good too because it"
+    },
+    {
+      "start_time": "00:28:58,960",
+      "end_time": "00:29:03,279",
+      "text": "doesn't um especially take if you do"
+    },
+    {
+      "start_time": "00:29:01,200",
+      "end_time": "00:29:05,039",
+      "text": "take that challenging stat array"
+    },
+    {
+      "start_time": "00:29:03,279",
+      "end_time": "00:29:06,320",
+      "text": "it gets slightly wonky with the first"
+    },
+    {
+      "start_time": "00:29:05,039",
+      "end_time": "00:29:08,720",
+      "text": "one in terms of"
+    },
+    {
+      "start_time": "00:29:06,320",
+      "end_time": "00:29:09,760",
+      "text": "uh because you already got a max of plus"
+    },
+    {
+      "start_time": "00:29:08,720",
+      "end_time": "00:29:12,240",
+      "text": "four for"
+    },
+    {
+      "start_time": "00:29:09,760",
+      "end_time": "00:29:14,159",
+      "text": "what you're adjusting so his max health"
+    },
+    {
+      "start_time": "00:29:12,240",
+      "end_time": "00:29:15,760",
+      "text": "will now be four instead of five"
+    },
+    {
+      "start_time": "00:29:14,159",
+      "end_time": "00:29:17,600",
+      "text": "yeah but we ignore the max momentum"
+    },
+    {
+      "start_time": "00:29:15,760",
+      "end_time": "00:29:18,799",
+      "text": "penalty for being maimed so he is still"
+    },
+    {
+      "start_time": "00:29:17,600",
+      "end_time": "00:29:20,480",
+      "text": "technically maimed"
+    },
+    {
+      "start_time": "00:29:18,799",
+      "end_time": "00:29:22,640",
+      "text": "but he does not have the momentum"
+    },
+    {
+      "start_time": "00:29:20,480",
+      "end_time": "00:29:25,279",
+      "text": "penalty for that yeah"
+    },
+    {
+      "start_time": "00:29:22,640",
+      "end_time": "00:29:27,679",
+      "text": "so other than that i mean he's pretty"
+    },
+    {
+      "start_time": "00:29:25,279",
+      "end_time": "00:29:30,080",
+      "text": "much done as a character we've got"
+    },
+    {
+      "start_time": "00:29:27,679",
+      "end_time": "00:29:31,520",
+      "text": "we've got a stat line we've got his uh"
+    },
+    {
+      "start_time": "00:29:30,080",
+      "end_time": "00:29:33,760",
+      "text": "his assets"
+    },
+    {
+      "start_time": "00:29:31,520",
+      "end_time": "00:29:35,200",
+      "text": "we know the effect of those assets the"
+    },
+    {
+      "start_time": "00:29:33,760",
+      "end_time": "00:29:37,039",
+      "text": "battles guard on his"
+    },
+    {
+      "start_time": "00:29:35,200",
+      "end_time": "00:29:38,640",
+      "text": "health track his supply track is you"
+    },
+    {
+      "start_time": "00:29:37,039",
+      "end_time": "00:29:42,720",
+      "text": "know that's all normal everybody starts"
+    },
+    {
+      "start_time": "00:29:38,640",
+      "end_time": "00:29:44,640",
+      "text": "you know max his so his uh momentum"
+    },
+    {
+      "start_time": "00:29:42,720",
+      "end_time": "00:29:46,320",
+      "text": "what's the normal uh momentum for a"
+    },
+    {
+      "start_time": "00:29:44,640",
+      "end_time": "00:29:48,320",
+      "text": "character it starts at um"
+    },
+    {
+      "start_time": "00:29:46,320",
+      "end_time": "00:29:49,760",
+      "text": "plus two is where he'll start so he"
+    },
+    {
+      "start_time": "00:29:48,320",
+      "end_time": "00:29:50,880",
+      "text": "starts at plus two that that's and"
+    },
+    {
+      "start_time": "00:29:49,760",
+      "end_time": "00:29:53,279",
+      "text": "that's his reset"
+    },
+    {
+      "start_time": "00:29:50,880",
+      "end_time": "00:29:54,640",
+      "text": "currently as well right yep because he"
+    },
+    {
+      "start_time": "00:29:53,279",
+      "end_time": "00:29:56,080",
+      "text": "ignores the maximum amount of penalty"
+    },
+    {
+      "start_time": "00:29:54,640",
+      "end_time": "00:29:57,679",
+      "text": "for being named okay great so his news"
+    },
+    {
+      "start_time": "00:29:56,080",
+      "end_time": "00:29:59,919",
+      "text": "that is two is max is"
+    },
+    {
+      "start_time": "00:29:57,679",
+      "end_time": "00:30:01,120",
+      "text": "10 at this point right because there's"
+    },
+    {
+      "start_time": "00:29:59,919",
+      "end_time": "00:30:03,840",
+      "text": "no yep"
+    },
+    {
+      "start_time": "00:30:01,120",
+      "end_time": "00:30:05,520",
+      "text": "nope yeah you can pretty much ignore so"
+    },
+    {
+      "start_time": "00:30:03,840",
+      "end_time": "00:30:07,360",
+      "text": "you'll have"
+    },
+    {
+      "start_time": "00:30:05,520",
+      "end_time": "00:30:09,279",
+      "text": "you'll have battle scarred or maimed"
+    },
+    {
+      "start_time": "00:30:07,360",
+      "end_time": "00:30:11,039",
+      "text": "marked rather but you can ignore that as"
+    },
+    {
+      "start_time": "00:30:09,279",
+      "end_time": "00:30:13,039",
+      "text": "a debility when it comes to sort of"
+    },
+    {
+      "start_time": "00:30:11,039",
+      "end_time": "00:30:14,399",
+      "text": "figuring out your momentum okay that's"
+    },
+    {
+      "start_time": "00:30:13,039",
+      "end_time": "00:30:16,000",
+      "text": "good and then um"
+    },
+    {
+      "start_time": "00:30:14,399",
+      "end_time": "00:30:17,919",
+      "text": "obviously vowels and bonds that's all"
+    },
+    {
+      "start_time": "00:30:16,000",
+      "end_time": "00:30:20,799",
+      "text": "stuff that uh will happen"
+    },
+    {
+      "start_time": "00:30:17,919",
+      "end_time": "00:30:21,679",
+      "text": "uh you know based on the specifics of"
+    },
+    {
+      "start_time": "00:30:20,799",
+      "end_time": "00:30:23,360",
+      "text": "the setting"
+    },
+    {
+      "start_time": "00:30:21,679",
+      "end_time": "00:30:24,399",
+      "text": "yep um which is interesting i wanted to"
+    },
+    {
+      "start_time": "00:30:23,360",
+      "end_time": "00:30:26,320",
+      "text": "point something out because i have a"
+    },
+    {
+      "start_time": "00:30:24,399",
+      "end_time": "00:30:27,200",
+      "text": "particular idea about my version of the"
+    },
+    {
+      "start_time": "00:30:26,320",
+      "end_time": "00:30:28,720",
+      "text": "iron lands"
+    },
+    {
+      "start_time": "00:30:27,200",
+      "end_time": "00:30:30,220",
+      "text": "which is slightly different than yours"
+    },
+    {
+      "start_time": "00:30:28,720",
+      "end_time": "00:30:31,840",
+      "text": "but it's fine we're allowed"
+    },
+    {
+      "start_time": "00:30:30,220",
+      "end_time": "00:30:34,480",
+      "text": "[Laughter]"
+    },
+    {
+      "start_time": "00:30:31,840",
+      "end_time": "00:30:36,640",
+      "text": "what i had in mind was my iron lands are"
+    },
+    {
+      "start_time": "00:30:34,480",
+      "end_time": "00:30:40,640",
+      "text": "going to be kind of like a northern"
+    },
+    {
+      "start_time": "00:30:36,640",
+      "end_time": "00:30:42,960",
+      "text": "viking-ish fantasy australia in that"
+    },
+    {
+      "start_time": "00:30:40,640",
+      "end_time": "00:30:43,840",
+      "text": "this is a place where all of the other"
+    },
+    {
+      "start_time": "00:30:42,960",
+      "end_time": "00:30:45,679",
+      "text": "places in the world"
+    },
+    {
+      "start_time": "00:30:43,840",
+      "end_time": "00:30:48,480",
+      "text": "nations and states and all that stuff"
+    },
+    {
+      "start_time": "00:30:45,679",
+      "end_time": "00:30:51,200",
+      "text": "basically sent their criminal element"
+    },
+    {
+      "start_time": "00:30:48,480",
+      "end_time": "00:30:51,919",
+      "text": "like centuries ago so pretty much like"
+    },
+    {
+      "start_time": "00:30:51,200",
+      "end_time": "00:30:53,279",
+      "text": "australia"
+    },
+    {
+      "start_time": "00:30:51,919",
+      "end_time": "00:30:55,120",
+      "text": "except that then there was this sort of"
+    },
+    {
+      "start_time": "00:30:53,279",
+      "end_time": "00:30:57,039",
+      "text": "weird magical barrier that came up that"
+    },
+    {
+      "start_time": "00:30:55,120",
+      "end_time": "00:30:58,320",
+      "text": "literally removed it from the rest of"
+    },
+    {
+      "start_time": "00:30:57,039",
+      "end_time": "00:30:59,760",
+      "text": "the world and"
+    },
+    {
+      "start_time": "00:30:58,320",
+      "end_time": "00:31:01,360",
+      "text": "there's little holes in that barrier"
+    },
+    {
+      "start_time": "00:30:59,760",
+      "end_time": "00:31:02,559",
+      "text": "that some know that's how iron came"
+    },
+    {
+      "start_time": "00:31:01,360",
+      "end_time": "00:31:04,399",
+      "text": "south in the first place"
+    },
+    {
+      "start_time": "00:31:02,559",
+      "end_time": "00:31:06,159",
+      "text": "but basically nobody leaves unless you"
+    },
+    {
+      "start_time": "00:31:04,399",
+      "end_time": "00:31:09,279",
+      "text": "know how to get around that"
+    },
+    {
+      "start_time": "00:31:06,159",
+      "end_time": "00:31:10,559",
+      "text": "so my iron lands is kind of like a crazy"
+    },
+    {
+      "start_time": "00:31:09,279",
+      "end_time": "00:31:12,880",
+      "text": "hodgepodge of"
+    },
+    {
+      "start_time": "00:31:10,559",
+      "end_time": "00:31:14,240",
+      "text": "of all these different cultures and and"
+    },
+    {
+      "start_time": "00:31:12,880",
+      "end_time": "00:31:16,640",
+      "text": "you know accents"
+    },
+    {
+      "start_time": "00:31:14,240",
+      "end_time": "00:31:18,240",
+      "text": "naturally uh but i think that that's"
+    },
+    {
+      "start_time": "00:31:16,640",
+      "end_time": "00:31:19,760",
+      "text": "sort of an interesting take so when i go"
+    },
+    {
+      "start_time": "00:31:18,240",
+      "end_time": "00:31:20,320",
+      "text": "through the world building steps which i"
+    },
+    {
+      "start_time": "00:31:19,760",
+      "end_time": "00:31:21,840",
+      "text": "will"
+    },
+    {
+      "start_time": "00:31:20,320",
+      "end_time": "00:31:23,840",
+      "text": "using uh uh the stuff you have in your"
+    },
+    {
+      "start_time": "00:31:21,840",
+      "end_time": "00:31:25,279",
+      "text": "book my my opener is gonna be a little"
+    },
+    {
+      "start_time": "00:31:23,840",
+      "end_time": "00:31:26,640",
+      "text": "different because it takes a slightly"
+    },
+    {
+      "start_time": "00:31:25,279",
+      "end_time": "00:31:28,000",
+      "text": "different track but you know that's uh"
+    },
+    {
+      "start_time": "00:31:26,640",
+      "end_time": "00:31:29,440",
+      "text": "that's how we roll i mean that's"
+    },
+    {
+      "start_time": "00:31:28,000",
+      "end_time": "00:31:31,120",
+      "text": "that's totally encouraged that's one of"
+    },
+    {
+      "start_time": "00:31:29,440",
+      "end_time": "00:31:32,799",
+      "text": "the reasons that the setting is somewhat"
+    },
+    {
+      "start_time": "00:31:31,120",
+      "end_time": "00:31:35,919",
+      "text": "sort of sketchily defined"
+    },
+    {
+      "start_time": "00:31:32,799",
+      "end_time": "00:31:38,720",
+      "text": "and even the worlding exercise lets you"
+    },
+    {
+      "start_time": "00:31:35,919",
+      "end_time": "00:31:40,399",
+      "text": "uh you know uh twist that pretty"
+    },
+    {
+      "start_time": "00:31:38,720",
+      "end_time": "00:31:41,360",
+      "text": "significantly to your own preferences so"
+    },
+    {
+      "start_time": "00:31:40,399",
+      "end_time": "00:31:44,240",
+      "text": "yeah that's definitely"
+    },
+    {
+      "start_time": "00:31:41,360",
+      "end_time": "00:31:46,640",
+      "text": "encouraged okay well let's um we we're"
+    },
+    {
+      "start_time": "00:31:44,240",
+      "end_time": "00:31:48,799",
+      "text": "basically finished the character here"
+    },
+    {
+      "start_time": "00:31:46,640",
+      "end_time": "00:31:50,320",
+      "text": "uh which is uh i think all i need to"
+    },
+    {
+      "start_time": "00:31:48,799",
+      "end_time": "00:31:52,960",
+      "text": "know to get started so"
+    },
+    {
+      "start_time": "00:31:50,320",
+      "end_time": "00:31:54,880",
+      "text": "um yeah thanks uh thanks a million for"
+    },
+    {
+      "start_time": "00:31:52,960",
+      "end_time": "00:31:56,640",
+      "text": "this man this is the big help and i uh"
+    },
+    {
+      "start_time": "00:31:54,880",
+      "end_time": "00:31:58,000",
+      "text": "i can't wait to start this thing and i"
+    },
+    {
+      "start_time": "00:31:56,640",
+      "end_time": "00:32:00,960",
+      "text": "hope you enjoy it i"
+    },
+    {
+      "start_time": "00:31:58,000",
+      "end_time": "00:32:02,480",
+      "text": "wait you see how i horribly uh you know"
+    },
+    {
+      "start_time": "00:32:00,960",
+      "end_time": "00:32:04,159",
+      "text": "mangle your game system"
+    },
+    {
+      "start_time": "00:32:02,480",
+      "end_time": "00:32:06,000",
+      "text": "i'm really excited to watch i'm super"
+    },
+    {
+      "start_time": "00:32:04,159",
+      "end_time": "00:32:07,760",
+      "text": "excited and appreciative of you"
+    },
+    {
+      "start_time": "00:32:06,000",
+      "end_time": "00:32:09,600",
+      "text": "uh taking a crack at the system this"
+    },
+    {
+      "start_time": "00:32:07,760",
+      "end_time": "00:32:11,760",
+      "text": "season so thank you yeah well my"
+    },
+    {
+      "start_time": "00:32:09,600",
+      "end_time": "00:32:13,039",
+      "text": "pleasure and uh uh thanks again"
+    },
+    {
+      "start_time": "00:32:11,760",
+      "end_time": "00:32:14,640",
+      "text": "uh and that brings us to the end of our"
+    },
+    {
+      "start_time": "00:32:13,039",
+      "end_time": "00:32:15,519",
+      "text": "episode here guys thanks so much for uh"
+    },
+    {
+      "start_time": "00:32:14,640",
+      "end_time": "00:32:17,360",
+      "text": "checking it out and"
+    },
+    {
+      "start_time": "00:32:15,519",
+      "end_time": "00:32:21,440",
+      "text": "uh we will see you next time on me"
+    },
+    {
+      "start_time": "00:32:17,360",
+      "end_time": "00:32:21,440",
+      "text": "myself and die"
+    }
+  ],
+  "full_text": "[Music]\n[Applause]\nhey guys welcome back to me myself and i\nam as always your intrepid game master\nhost and player trevor deval this is a\nsupplementary episode about iron sworn\nthe rpg system that i'll be using in the\nupcoming\nvery soon upcoming season two of me\nmyself and i where we explore the\nadventures of aaron kalipuki as he\nreturns\nhome to the iron lands to fulfill a vow\nwhat is the vow i do not know we will\nfind out when we go to play but before\nwe do that we have this episode where\nwe're going to talk a little bit about\niron sworn\niron sworn but we're going to do it with\nthe creator himself sean tompkin who has\njoined me here today to talk about the\ngame system\nwhich is super cool but also not just\nthat he is going to help me stat\nup arne calipocky to transfer him from\nthe savage world system to the iron\nsworn\nsystem so that'll be super cool um if\nyou want to skip\nright to the uh uh character building\nfor arn\nyou can go down to this um time code\nright down here\nuh otherwise uh sit back and enjoy and\nuh yes\nuh welcome back to uh supplemental six i\nbelieve of me myself and i\nwell guys i'm very honored to be sitting\nhere with the creator of the iron sworn\nrpg\nsean tompkins sean how are you thanks\nfor coming on board\nthe little shoe i'm doing well thanks so\nmuch for having me\nyeah it's my pleasure man uh this is a\nfirst for me i don't normally do uh\ninterviews because it's me myself and i\nit's all about me\nbut now there's me and you which is kind\nof cool so obviously we're going to be\ntalking about iron sworn today and we're\ngoing to get to\nuh standing up arne kalupunki uh who is\nof course our main character for\nseason two of my show coming up very\nvery soon\nbut before we get to there i just want\nto talk a little bit um take this chance\nto talk to the creator of the show about\nor of the game rather about the game\nitself\nso first of all um if you had to give\nsort of the elevator pitch to people who\nare unfamiliar with iron sworn\n30 words or less baby what do you got\nhow would you describe the game\nuh to someone who's never heard of it at\nall but is a\na player of traditional role-playing\ngames uh 30 words or less please don't\ncount me because i'll probably buy it\nlike that i think i already have\nuh so it's a table top role-playing game\nuh it's\na uh fantasy game it's\nrelatively gritty sort of low fantasy\ntakes the default setting as a rugged\nperilous environment in the far north\nyou play\na character who is iron sworn who sort\nof lives by their vows\nand is driven to complete quests in this\nperilous place\nand that's how the mechanics of the game\nand\nthe narrative of the game is driven is\nby\nswearing and then fulfilling those vows\nit's a relatively narrative game so not\nsuper heavy and mechanically and one of\nits sort of main differentiating\ncomponents is that it supports guided\nplay which is sort of traditional play\nof\ngm and players and co-op which is\na you and one or more players and no gm\nand then solo mode which is probably of\nmost interest to you\nwhich is just you know gm the system\nwill help you\nsort of drive the narrative see what\nhappens determine the outcome of your\nactions\netc so did you were you aware of the\nsolo rpg world\nwhen you created this uh when you\nembarked upon\non the game or was it uh was it more of\na traditional rpg with a gm\nand stuff and then you sort of uh turned\nit into a more\ncooperative or solo thing no i\ndefinitely was i think i was most\nfamiliar with things like the mythic\nengine which you're certainly familiar\nwith\nuse that a lot i think in your last\nseason and some various tools and i\nhad played around with a fair number of\nthose same tools that you were using in\nin season one actually in my own uh\ngameplay and that was\nthat was a foundational thing for\nironsworn was it wasn't about\nretrofitting it for solo play it was\nabout thinking about\nsolo and co-op play from the ground up\nand that was just\nsort of the due to the reality of my\ngaming life which tended to be\nuh you know uh me myself and i\nso to speak or playing with my son or my\nwife or something like that so small\ngroup and solo play\nthat's interesting because you know i\nwill admit that when i started this show\nuh i had no idea there was a solo rpg\ncommunity at all\ni didn't know that i don't know there\nwas such thing as a community of solo\npeople it seemed like an oxymoron uh i\nwas doing it because i thought it would\nbe kind of funny\nnot funny well funny too i thought it'd\nbe interesting to have just me doing all\nthe characters\nand then i do the show and everyone's\nlike yeah i've been doing that for years\noh okay and so it was the community that\nbrought\niron sworn to my attention they were the\nones who said oh yeah you should check\nthis out so i did and of course i fell\nin love with it right away i thought it\nwas great now it's interesting\nthe rules are kind of based on the the\npowered by the apocalypse\nsystem largely i mean you've done a few\nmodifications on that is uh\nwhat what made you go with that\nparticular rule set\nuh i i was somewhat fascinated by that\nrule set to begin with so i had\nplayed around with a lot of sort of\nhacking at various permutations of the\nrule set\nlike with apocalypse world and dungeon\nworld and a few other things\num i was interested in sort of a gritty\nlow fantasy\ngame for that system which didn't which\nsort of existed a little bit\num there's a there's a\nversion of that called city of judas\nwhich was a hack of apocalypse world\nwhich was\nsort of specifically gritty fantasy and\nthat's where iron horn sort of started a\nlittle bit more of a\nhack of that and just as i was exploring\nthose things\nuh something i found was how much the\nmoves themselves sort of drove\nnarrative and took on the role of a gm\nto some extent right they\nidentify the triggers for your actions\nthey identify\nwhat mechanically you need to do to\ndetermine resolve that action and then\nwhat the outcome is so all those things\nsort of like\nin terms of like switching hats between\na player and a gm\nit felt pretty elegant pretty seamless\num so that was the main driver there\nit's interesting because\nfor those of you who are not familiar\nwith the powered by the apocalypse rule\nrules basically you take a a static\nnumber\nyou add it to 2d6 and you get like if\nyou get 10 or more it's\nyou get everything you want if you get\nseven to nine it's you get something but\nthere's a complication if you get six or\nless there's a failure but i noticed\nwith iron sworn\nyet you added an interesting concept in\nthere which is\nthere is no static target number\neverything every target number is\nrandomly determined by a couple of d10s\nso uh what was the thinking behind that\nbecause i have a question about that\nactually in terms of how to set\num task difficulties if you want to\nchange up things but\nbut now what made you uh do that instead\nof sort of the blog standard powered by\nthe apocalypse\nuh there was a few reasons for that one\nwas\num i wanted a little bit more range in\nthe math\nwith a typical sort of 2d6 plus stat\nthere's a fairly a plus one an\nadditional plus one will have a fairly\nbig impact once you get to like a plus\nthree stat you're pretty much\nalmost assured to get into that sort of\nsuccess\nstrong hit territory most the time um\nand i\ni like for solo play i like a little bit\nof sort of gamey\nsort of like trying to you know\nadd some mechanical bonuses to your\nmoves to get advantage\num so i just found that sort of\nstretching that range a little bit more\nmathematically worked a little bit\nbetter another was the\nthe 2d 10s gives me that match mechanic\nfor solo play so whenever you see a\nmatch on those 2d10s\nthe narrative is potentially sort of\ngiven a little bit of a twist whether\nit's positive or negative depending on\nthe outcome the move\nuh and then i just it generates a little\nbit more chaos which i find to be a\nlittle bit more for better or worse\nuh entertaining there's always a little\nbit more\nof uh you know not having confidence in\nwhat the result is going to be of a\nof a particular move you know no matter\nwhat you're going in with there's always\na potential sort of wrench in the works\nwhich i just find for solo play\nlike that uncertainty i think helps sort\nof drive\ninteresting fun chaotic narratives yeah\ni got 22 episodes out of it\nout of that idea of i have no idea\nwhat's going to happen when i saw the\nmechanic i\ni thought that's really cool because i\ni'm just like you i i love\nhaving no idea what's gonna happen and\nas you say with uh with the standard\ndice roll\nas you say plus one plus two you know\nyou start to think okay i got a pretty\ngood chance at this but with your\nversion of 2d 10 it really throws off\nthe curve but here's a question\nwhat if you're dealing in a situation\nwhere you have where you want to apply a\nspecific\ntask difficulty uh that's different so\nfor example\nyou have a character who is um being\nchased and they come to\na cliff and they have to scale the cliff\nwell in one version of that situation\num it's a beautiful sunny day the rocks\nare all very dry\nbut in the exact same situation now it's\nraining and the rocks are coated in\nslime\nin in iron sworn how do you model the\ndifference between those two\nsituations and this isn't uh a vowel\nthis is just\na single task uh there's a few things to\nthink about and\none is in terms of framing the action is\nis a die roll even really necessary\nright that may be the distinction\nbetween\nclimbing a cliff if the character is\nassumed to be an adventurer and fairly\nproficient\nin athletic type activities and if the\nyou know they may be assured that they\ncan sort of get down that without danger\nthat they\nthere's other things that are presenting\nin greater danger than whether or not\nthey can climb down these rocks whereas\nif it's\nyou know rainy or they're under intense\npressure because they're being\nchased or whatever then a die roll\nreally is required the other is looking\nat the outcome of moves you sort of wrap\nthe difficulty of things into what\nhappens if you succeed or fail\nright uh failure\nuh you know something that's more\ndangerous means a more sort of dire\noutcome right you immediately sort of\nswitch into more dramatic results\nwhereas\nsort of a softer failure on a less\ndifficult task might mean something\nmight mean sort of you're easing into\nmore of those\ndire outcomes so it really is you know\ndifficulty gets a little bit more\nwrapped into\nare you how you frame up the move itself\nand then how you frame up the outcome\nrather than what sits in the middle\nthere which is sort of the math right\num so yeah it sort of issues the typical\nsort of like\ndifficulty variables and sort of wraps\nthat a little bit more into sort of the\nnarrative framing of things\nit's going to be a little weird for me\ni'm not going to lie going into iron\ncoming from way more traditional i mean\nyou've seen the show\nsavage world is about as traditional as\nyou can get i mean it's very\noh well you've got a minus two for this\nbut a plus one for this and that's gonna\nchange\nso um i'm excited for it because it's\nvery different\nand it has a lot of potential that uh\ni'm very\nvery excited about i'm nervous as as\nhell not gonna lie\nnervous that i'm gonna somehow screw it\nup\nbut i'm just going to try and have fun\nso that said is there any advice that\nyou had for me\nspecific to iron sworn going into this\ncampaign uh\nfor season two of me myself and died uh\ndefinitely\nyou know roll with those punches in\nterms of your narrative but\nwatching your season one i think you're\ngreat at like\nuh letting things go off the rails and\nrunning with it\nlike from the first episode onwards i\nthink don't think things ever really\nwent\nnecessarily where you thought they were\ngoing to go uh ironsworn will tend to do\nthat to you right it'll tend to\nthrow wrenches in the works of your\nnarrative\nof your quest it'll tend to introduce\nnew quests when you were\nsort of focusing on this particular\nthing um\nso just being happy to sort of like take\nthose results\nand uh interpret them and then roll with\nit\nis um pretty important the other is\ndon't\nas a solo player there's an interesting\nthing with soul players that they tend\nto be pretty hard on themselves\nwhich is sort of the opposite of what\nyou would think like i've seen this a\nlot in\nin play testing and play reports and um\njust in watching streams and stuff of\npeople playing irons horn\nis they'll almost tend to be harder on\ntheir character than a gm would\num so in solo play and the way the math\nworks\nyou really do want to sort of\ngo from sort of softer failure into\nharder failure so you\nyou don't immediately go to like\ndramatic hard failure the first time you\nroll a miss on a move right\nthat's sort of like that's the car sort\nof drifting out of the lane a little bit\nand then from there if things compound\nthat's when you sort of\ncompound the more dramatic results you\nknow hitting the more mechanical results\nof\nharm and spirit loss and things like\nthat versus just setting up more\ndanger the the advice that\nuh made sense to me when it comes to\nthis type of rule set was\ni'm not sure if it was in the book or\nwhether it was in a supplement but it\nwas it was for uh\ndungeon world where they basically said\nthat and this might have been from the\nthe actual apocalypse world game too i\nforget but it was this idea that\num if if the the players roll a seven to\nnine then that's an opportunity for the\ngm to make a soft\nmove but a six or a low is a hard move\nso\njust as you say you know um you you want\nto kind of set things up\nfor me it's always about and i think i\ndid this in my show too with with the\nemulator\nis i always want to keep things rounded\nbut i want to i want to create a sense\nof momentum\nand i always want to give my character a\nchance to react to whatever it is that\njust happened\num you know i'm i was pretty hard on old\nsimon of argus down on the show but\nbut also he he had a system behind him\nthat he could roll on things to see if\nhe could get out of it and that\nyou know so you know it's the exact same\nhere\nwith with iron swan it's just a slightly\ndifferent take now here's another thing\nis\nmy show is obviously very visual uh and\ni will be using\nminiatures and terrain not for any sort\nof tactical representation but just\nbecause\nyou know i've made all this terrain and\ni want to use it sure\nyou know um so it's interesting because\nthere is no uh grid\ntactical element in iron sworn the the\nthe combat the the the conflicts are all\ncompletely narrative\nbut it's going to be an interesting\nchallenge i think for me to to try and\nbridge those two things to show a visual\nrepresentation of\nof something without without the\nnarrative getting um straight jacketed\nby\nthe visual representation of something\nyou know what i mean yeah i mean there's\nsomething to be said\nyou know there's there's sort of two\nways to look at that one is the visual\nrepresentation obviously for\nyour presentation is good for an\naudience two\nis it does you know especially if\nthere's a somewhat complicated scene\nlike it\nit's helpful sometimes to have sort of\nvisual reference points to sort of\nunderstand what's possible at any one\nmoment like\nwho's dealing with who um especially if\nyou mix\nyou know other characters other than\nyourself into\nthe scene right if you happen to be\ntraveling with someone else or something\nlike that\njust to sort of understand the framing\nof the the fight so\nit's less about sort of counting grid\nspaces and more just about sort of\nframing up the actions and who can do\nwhat and and\nyou want to worry less about g is\nis so and so far enough to get over to\nhere in one action because\ntime was somewhat fluid you can sort of\nzoom in and zoom out in terms of like\nthe the time frame that a particular\naction is taking right it might be\nseconds it might be a minute and that's\nall fine a particular\nclash might be several blows a back and\nforth\nright or it may be some particular\ndramatic moment in time that's a\nheartbeat\nso you have control over that you're\nsort of the director of that and you\ncould do the same with your\npieces on the table in terms of how\nyou're moving them around which brings\nme to another idea\num in the first season we had simon be\njoined by a couple of uh other\ncharacters that were fully stated out\nplayer characters all of course\ncontrolled by me that's fairly easy to\ndo in savage world but\nwhat if that happens again here in\nireland what if arn comes across someone\nthat joins his party that isn't\nthe companion asset that is is you know\nfor\nfor narrative reasons a full-fledged you\nknow character\nuh how does that work einstein\ndefinitely does lean on sort of the\nlonely\nprotagonist trope right and that's how\nit's sort of like all\nuh framed up for solo play anyway\nthere's not a lot of mechanical support\nfor what happens if you\nare traveling with a mercenary or guide\nor something like that but what you can\ndo is sort of think about\nhow you're framing up particular\nchallenges in terms of having the\nsupport of that person for example if\nyou get into a fight\nif you're aided by a fellow in that\nfight who isn't stated up they aren't a\nfull character\nyou can say well i'm going to knock the\ni'm going to knock the challenge of this\nfight down a rank because i've got\nyou know so and so with me or if you're\ntraveling with an experienced guide\nwho knows that area well i'm going to\nknock the challenge of this journey down\nor even ignore the journey moves all\ntogether because this person is really\ntaking the lead here\nright and i can just sort of hand wave\nthe journey and see what happens when i\narrive\nso you sort of bring them into how you\nframe up the difficulty of a challenge\nwhether or not you need to make a move\nat all\num and then you just bring them into\nyour\nnarrative of what's sort of happening in\nthe scene and sort of a\ndirectorial stance right are they\ndealing with these foes over here\nhow's it going you can ask the oracle\nlike you can resolve those\nthat sort of stuff happening over there\nby asking the oracle\nhow do they do so you can sort of give\nthem a mechanic of saying that's 50 50\nchance they're doing okay\nor 50 50 chance or in trouble or\nwhatever based on\nhow you envision that character it's\nsort of like what the old school role\nplayers would call hand wavium\nyou just can't wait pretty much yeah\nand you know you can you can let them be\ncomplications in your narrative too\nthey can get into trouble based on a\nmiss on your move it's not\nnecessarily a miss is not necessarily\nsomething that impacts like let's say\nyou're in a fight\nyou do something you get a miss if\nyou're there with a fellow character\num you can lean on what is happening\nwith them as a result of that mess and\nnow you got to go deal with that trouble\nit's new\ntrouble it's not necessarily a new\nmechanical uh\nyou know impact on you right and um\nspeaking of trouble and mechanical\nimpacts\nwhy don't we get to uh standing up\naren't galliponky for ironsworn so\nyeah um this is a big honor to have uh\nyour help in doing this here so um here\nis the character sheet that you could\nall see this is the\nstandard iron sworn character sheet that\nis of course available uh on the iron\nsworn\nwebsite and there will of course be a\nlink below if you guys want to check\nthat out and i hardly uh hardly do\nencourage you all to check this game out\nnot the least of which because it's free\nwhich boggles my mind sean\nthat's amazing that you release this\nthing for free but uh it i would easily\nhave paid\nmany many many scores of dollars for\nthis thing um\nanyway so here's the character sheet so\nagain for those of you who are sort of\nuh\nunfamiliar with iron sworn uh there's\nfive basic stats edge heart iron shadow\nand wits here\nuh and then you've got your momentum\ntrack and then you've got your you know\nhealth spirit and supply\nagain for those of you who are going to\nwatch the new season all of this will\nbecome very very familiar to you very\nquickly as we go into it but for now\nwhat i want to focus on\nis turning around calipocky from the\nsavage world character\ninto the um iron sworn character so\nfirst of all sean you've seen the show\nyou're somewhat familiar with who the\ncharacter was\ndo you have any immediate thoughts on\nwhat that might look like\ni think that a good place to start is\nwith assets and that's a little bit\nbackwards from the\nlike the walkthrough of character\ncreation in the book but\nthe reason to look at assets first is\nthat can actually drive\nsome of your choices around your stat\nselection depending on sort of what the\nasset is geared toward\nsome of the assets are more beneficial\nwith a particular stat\nand also i think it just helps like\ngives you a better sort of picture for\nthe character in a better\nstarting place where stats can be a\nlittle bit more abstract right assets\ncan be a little bit more\num uh give you a better foundation for\nsort of visualizing\nwhat the character is good at you\nalready have a little bit of sense of\nthat based on\narn he was a bounty hunter uh\ni think he's i think he i think i had a\ngood sense that he was a pretty good\noutdoorsman tracker things like that\nright\nuh he obviously had a strong sense of\nhonor because a lot of the decisions he\nmade\nin your story were based on sort of\nfollowing a path based on\nvows he had made being an honorable\nperson you know going against\nprevious vows he had made in order you\nknow and adjusting just based on what he\nhad found\num he was he was actually maimed like\nhe's got a bum leg now which\nwe can talk about whether or not that's\na thing for this character\num oh i think it's a thing\nhe had a phobia of long-haired women but\nthat's there's not a there's not obvious\nthat's gonna be a little more narrative\ni think\num uh i think he was\nhe was a bowman if i remember correctly\nhe was was that a sort of primary combat\nyeah he was\nhe was a good shot that we did establish\nthat from the first time we met him that\nhe was\nyeah so that's all pretty good grist for\nthe mill i think um in terms of\num thinking about him we can sort of\nlike go through the asset categories\nmaybe\nbroadly here the you know a lot of solo\nplayers love having a companion\nbut whether or not you have a companion\nsort of at the start of your story is\nprobably going to depend on sort of like\nwhat has happened between uh the end of\nseason one and the beginning of season\ntwo\nwell i don't want to give anything away\nbut i do have uh i do have an opening\nuh in mind and he will be alone so he\nwill not have okay\nokay great so that probably leaves that\nout\nentirely um and then the paths are kind\nof you know\nsomewhat of an open book for us you know\nlike i said honor bound might be\nsomething to consider for him\njust based on sort of his uh archetype\nfortune hunter might represent sort of\nthe bounty hunter lifestyle but\nit almost felt a little too bit to me\nlike arnold was somewhat\nleaving that behind so may or may not be\nappropriate in this new\nsort of setting and trying to fulfill\nthis vow for him in the iron lands\nyeah um right so honor bound when you\nturn the tide and vision how your vows\ngive you strength in this moment then\nwhen you make your move at plus two\ninstead of plus one and take\nplus one momentum on a hit and turn the\ntide is when you are trying to you're in\nthe middle of a conflict and you\nyou sort of grit your teeth and give it\nyour all to\nturn things around for you right yep yep\ncool i like that well let's let's call\nthat i'm gonna put that down honor bound\ngreat asset one complete\num if you do want to pick up a combat\ntalent um\nyou know i think uh archer's probably\nthe obvious one for him\nunless there's something else in sort of\nhis backstory or\nsort of combat styles or preferences\nthat i i like it\ni mean it gives him when you it says\nhere uh when you secure an advantage by\ntaking a moment to aim choose your\napproach and add plus one\num yeah so that's uh yeah i like that\nlet's let's add that too so he'll also\nhave the archer thing\num in terms of like his um his\nbackground and stuff to tell you the\ntruth i don't know a lot about it\nin fact his overall major vow i'm not\neven sure what that's going to be\nuntil he sort of gets to his home once\nagain so the way i'm setting up the game\nis basically\nhe has an initial thing his initial vow\nis go from his opening\nscene to his village get home that's his\nfirst thing\nand then once we're there then we're\ngoing to discover uh\nwhat his overarching vow is so i'm not\nsure what his background is yet\nthat's great so there's a a path called\nbattle scarred\nwhich is potentially interesting for you\nnormally that's something you'd pick up\nthrough the course of your story\num there's a thing in iron's horn called\nthe abilities which are things you\nmark as an outcome a negative outcome\ntypically\nthings like shaken and\n[Music]\nmained uh this case maimed might be\nrelevant for you maimed as a permanent\nthing\nthat you would mark through the course\nof play like it's typically you're\nmaking a pretty hard choice between\nhaving to face death and mark maine\nbut it you know it wouldn't break\nanything if you\npicked up battle scarred right off the\nbat to better\nsort of represent the state of your\ncharacter battle scarred yeah that looks\ngood because it reduces\nhis edge or iron by one and adds plus\ntwo to wits or heart or plus one to each\num now that actually reminds me of\nsomething else\num in lodestar the third one right here\nwhich you were very kind enough to send\nto me\num it says if you wanted to create a\nslightly more experienced character that\nthere was\noptions for um changing up his his stat\nline basically\nyeah there's three different stat arrays\nbasically and in\nlodestar which is sort of the iron sworn\nreference guide\num there's a grim\nuh perilous which is the default and\nchallenging which is a slightly\nuh elevated stat array which can take\nwhich is a good option for solo players\nespecially because you don't have the\nbackstop of other players in terms of\nlike\nuh a better spread of abilities as well\nas\nyou know to use the term soak like when\nyou have more players you have\nmore ability to sort of soak negative\noutcomes between everybody right so\nyou're just tending to get hit a little\nbit harder so\nso what do you think do you i mean does\nit overpower him if he\nif he takes it's a pretty it's a pretty\nsubtle improvement you know to be honest\njust the way math works it just\nit gives you a little bit of an edge but\ni think based on\num uh having a fairly experienced\ncharacter\nas well as you being a solo player as\nwell as\nuh you know doing this for broadcast\nand wanting to you know\nedge into success a little bit more you\nknow i think it's a good i think it's a\ngood\noption to consider it's funny i'm torn\non that because i do believe that he is\nan experienced\nyou know character now after all that\nhe's gone through with simon and edward\nbut at the same time i don't want to\nmake it too easy for him you know and i\ndon't want to ever be accused of oh will\nyou meet him so tough of course that's\nbad ever happened to him\nbecause that's you know i don't want\nthat to happen here but i don't have to\ndie in the first\nepisode the battle scarred asset because\nit\none of the and the battle scored asked\nthat you're gonna pick from among\nif you do take a one you're gonna pick\nfrom among those three abilities to\nstart you notice not one of them's\nmarked by default\nright so there are some that that play\nwith your stat values as well\nso well let's have a look at that if we\nwent if we looked at the\nalternate stat arrays so we've got a\nspread of four\nthree three two two so if we start with\nthat so we'll assume this is this is\nright before he gets his leg maimed\nso out of these stats what do you think\nhis sort of what do you think the four\nwould be in would it be\num heart or shadow because i mean he was\na bounty hunter and he was sort of a\nsneaky guy but he was also a you know\nhonorable fella\nyeah i would i would think heart shadow\nor edge\nuh any of those i think are viable for\nhim just based on where he was at edge\nis a little bit more of like the\nprecision speed movement firing of the\nbow sort of stat right it's going to be\na little bit more useful for him than\niron in a fight iron represents sort of\ntoughness and resilience\nyou know honestly this guy's you know i\nthink\nuh you know can go any sort of direction\njust based on sort of his background but\npart to me feels like i don't know if he\nfelt like he always led with heart in\nterms of his\nthe choices he made so it seems like a\npretty strong\nokay well let's make heart the four then\nand then i think edge\nsounds like a three i think shadow\nsounds like a three and then that would\nleave iron and wits to be two and two\nwhich sounds sounds about right right\nthe second ability there on the ballast\nguard actually takes away\nuh mained as a as a debility is\nsomething you need to track\nbut it reduces your overall health so\nyour max health gets reduced from\nfive to four right i think i i like the\nsecond one\num yeah let's let's take the second one\nof battles guard\nyeah i think that's good too because it\ndoesn't um especially take if you do\ntake that challenging stat array\nit gets slightly wonky with the first\none in terms of\nuh because you already got a max of plus\nfour for\nwhat you're adjusting so his max health\nwill now be four instead of five\nyeah but we ignore the max momentum\npenalty for being maimed so he is still\ntechnically maimed\nbut he does not have the momentum\npenalty for that yeah\nso other than that i mean he's pretty\nmuch done as a character we've got\nwe've got a stat line we've got his uh\nhis assets\nwe know the effect of those assets the\nbattles guard on his\nhealth track his supply track is you\nknow that's all normal everybody starts\nyou know max his so his uh momentum\nwhat's the normal uh momentum for a\ncharacter it starts at um\nplus two is where he'll start so he\nstarts at plus two that that's and\nthat's his reset\ncurrently as well right yep because he\nignores the maximum amount of penalty\nfor being named okay great so his news\nthat is two is max is\n10 at this point right because there's\nno yep\nnope yeah you can pretty much ignore so\nyou'll have\nyou'll have battle scarred or maimed\nmarked rather but you can ignore that as\na debility when it comes to sort of\nfiguring out your momentum okay that's\ngood and then um\nobviously vowels and bonds that's all\nstuff that uh will happen\nuh you know based on the specifics of\nthe setting\nyep um which is interesting i wanted to\npoint something out because i have a\nparticular idea about my version of the\niron lands\nwhich is slightly different than yours\nbut it's fine we're allowed\n[Laughter]\nwhat i had in mind was my iron lands are\ngoing to be kind of like a northern\nviking-ish fantasy australia in that\nthis is a place where all of the other\nplaces in the world\nnations and states and all that stuff\nbasically sent their criminal element\nlike centuries ago so pretty much like\naustralia\nexcept that then there was this sort of\nweird magical barrier that came up that\nliterally removed it from the rest of\nthe world and\nthere's little holes in that barrier\nthat some know that's how iron came\nsouth in the first place\nbut basically nobody leaves unless you\nknow how to get around that\nso my iron lands is kind of like a crazy\nhodgepodge of\nof all these different cultures and and\nyou know accents\nnaturally uh but i think that that's\nsort of an interesting take so when i go\nthrough the world building steps which i\nwill\nusing uh uh the stuff you have in your\nbook my my opener is gonna be a little\ndifferent because it takes a slightly\ndifferent track but you know that's uh\nthat's how we roll i mean that's\nthat's totally encouraged that's one of\nthe reasons that the setting is somewhat\nsort of sketchily defined\nand even the worlding exercise lets you\nuh you know uh twist that pretty\nsignificantly to your own preferences so\nyeah that's definitely\nencouraged okay well let's um we we're\nbasically finished the character here\nuh which is uh i think all i need to\nknow to get started so\num yeah thanks uh thanks a million for\nthis man this is the big help and i uh\ni can't wait to start this thing and i\nhope you enjoy it i\nwait you see how i horribly uh you know\nmangle your game system\ni'm really excited to watch i'm super\nexcited and appreciative of you\nuh taking a crack at the system this\nseason so thank you yeah well my\npleasure and uh uh thanks again\nuh and that brings us to the end of our\nepisode here guys thanks so much for uh\nchecking it out and\nuh we will see you next time on me\nmyself and die\n"
+}

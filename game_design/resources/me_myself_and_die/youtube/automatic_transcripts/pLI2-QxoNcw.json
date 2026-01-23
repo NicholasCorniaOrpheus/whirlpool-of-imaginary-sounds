@@ -1,0 +1,1475 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,320",
+      "end_time": "00:00:03,600",
+      "text": "if you're looking for a fantasy RPG that"
+    },
+    {
+      "start_time": "00:00:02,080",
+      "end_time": "00:00:05,160",
+      "text": "gives you really detailed outcomes"
+    },
+    {
+      "start_time": "00:00:03,600",
+      "end_time": "00:00:07,640",
+      "text": "without slowing your game down to a"
+    },
+    {
+      "start_time": "00:00:05,160",
+      "end_time": "00:00:09,760",
+      "text": "crawl creates grounded and skill focused"
+    },
+    {
+      "start_time": "00:00:07,640",
+      "end_time": "00:00:12,400",
+      "text": "characters who pursue meaningful goals"
+    },
+    {
+      "start_time": "00:00:09,760",
+      "end_time": "00:00:14,639",
+      "text": "features gritty tactical and decisive"
+    },
+    {
+      "start_time": "00:00:12,400",
+      "end_time": "00:00:16,520",
+      "text": "combats present Social Challenges as"
+    },
+    {
+      "start_time": "00:00:14,639",
+      "end_time": "00:00:19,039",
+      "text": "dangerous as any sword fight makes"
+    },
+    {
+      "start_time": "00:00:16,520",
+      "end_time": "00:00:21,760",
+      "text": "travel feel epic and immersive puts the"
+    },
+    {
+      "start_time": "00:00:19,039",
+      "end_time": "00:00:23,560",
+      "text": "mystery back in Magic and synthesizes"
+    },
+    {
+      "start_time": "00:00:21,760",
+      "end_time": "00:00:25,960",
+      "text": "the coolest features of dozens of"
+    },
+    {
+      "start_time": "00:00:23,560",
+      "end_time": "00:00:27,640",
+      "text": "systems both old school and new then"
+    },
+    {
+      "start_time": "00:00:25,960",
+      "end_time": "00:00:29,240",
+      "text": "this is the role playing game for you"
+    },
+    {
+      "start_time": "00:00:27,640",
+      "end_time": "00:00:30,640",
+      "text": "greetings friends I'm Trevor Deval the"
+    },
+    {
+      "start_time": "00:00:29,240",
+      "end_time": "00:00:32,800",
+      "text": "creator of the broken Empires role"
+    },
+    {
+      "start_time": "00:00:30,640",
+      "end_time": "00:00:34,760",
+      "text": "playing game longtime player and GM of"
+    },
+    {
+      "start_time": "00:00:32,800",
+      "end_time": "00:00:37,360",
+      "text": "over 40 years experience and host of the"
+    },
+    {
+      "start_time": "00:00:34,760",
+      "end_time": "00:00:39,160",
+      "text": "me myself and I RPG YouTube channel I"
+    },
+    {
+      "start_time": "00:00:37,360",
+      "end_time": "00:00:40,920",
+      "text": "started running games over four decades"
+    },
+    {
+      "start_time": "00:00:39,160",
+      "end_time": "00:00:43,480",
+      "text": "ago and in that time I've run easily"
+    },
+    {
+      "start_time": "00:00:40,920",
+      "end_time": "00:00:45,200",
+      "text": "over 50 different systems there were so"
+    },
+    {
+      "start_time": "00:00:43,480",
+      "end_time": "00:00:47,399",
+      "text": "many things about all those games that I"
+    },
+    {
+      "start_time": "00:00:45,200",
+      "end_time": "00:00:49,160",
+      "text": "just loved the broken Empires is my"
+    },
+    {
+      "start_time": "00:00:47,399",
+      "end_time": "00:00:50,920",
+      "text": "opportunity to take all those things and"
+    },
+    {
+      "start_time": "00:00:49,160",
+      "end_time": "00:00:53,039",
+      "text": "make them all work together in one"
+    },
+    {
+      "start_time": "00:00:50,920",
+      "end_time": "00:00:54,680",
+      "text": "cohesive rule set pretty excited about"
+    },
+    {
+      "start_time": "00:00:53,039",
+      "end_time": "00:00:56,199",
+      "text": "it so settle in and let's talk about"
+    },
+    {
+      "start_time": "00:00:54,680",
+      "end_time": "00:00:58,440",
+      "text": "some details together let's start with a"
+    },
+    {
+      "start_time": "00:00:56,199",
+      "end_time": "00:01:01,320",
+      "text": "core engine it's called the success"
+    },
+    {
+      "start_time": "00:00:58,440",
+      "end_time": "00:01:03,480",
+      "text": "level system this is a cental dice game"
+    },
+    {
+      "start_time": "00:01:01,320",
+      "end_time": "00:01:06,360",
+      "text": "where you roll your skill or under on a"
+    },
+    {
+      "start_time": "00:01:03,480",
+      "end_time": "00:01:08,840",
+      "text": "D100 to succeed but it's also a"
+    },
+    {
+      "start_time": "00:01:06,360",
+      "end_time": "00:01:12,000",
+      "text": "blackjack system you want to roll under"
+    },
+    {
+      "start_time": "00:01:08,840",
+      "end_time": "00:01:14,200",
+      "text": "but high now why because the T die of"
+    },
+    {
+      "start_time": "00:01:12,000",
+      "end_time": "00:01:16,320",
+      "text": "your role counts as your success level"
+    },
+    {
+      "start_time": "00:01:14,200",
+      "end_time": "00:01:18,080",
+      "text": "in this game the idea is to get as many"
+    },
+    {
+      "start_time": "00:01:16,320",
+      "end_time": "00:01:20,720",
+      "text": "success levels as possible the more you"
+    },
+    {
+      "start_time": "00:01:18,080",
+      "end_time": "00:01:23,240",
+      "text": "get the better you do success levels are"
+    },
+    {
+      "start_time": "00:01:20,720",
+      "end_time": "00:01:25,439",
+      "text": "attained by Rolling skills the building"
+    },
+    {
+      "start_time": "00:01:23,240",
+      "end_time": "00:01:28,119",
+      "text": "blocks of every character there are no"
+    },
+    {
+      "start_time": "00:01:25,439",
+      "end_time": "00:01:30,119",
+      "text": "stats or classes or levels everything in"
+    },
+    {
+      "start_time": "00:01:28,119",
+      "end_time": "00:01:32,799",
+      "text": "this game is skill-based and your free"
+    },
+    {
+      "start_time": "00:01:30,119",
+      "end_time": "00:01:34,000",
+      "text": "to develop those skills however you want"
+    },
+    {
+      "start_time": "00:01:32,799",
+      "end_time": "00:01:35,520",
+      "text": "but of course your character is made up"
+    },
+    {
+      "start_time": "00:01:34,000",
+      "end_time": "00:01:38,520",
+      "text": "of more than just skills there's"
+    },
+    {
+      "start_time": "00:01:35,520",
+      "end_time": "00:01:40,920",
+      "text": "personality traits talents expertise"
+    },
+    {
+      "start_time": "00:01:38,520",
+      "end_time": "00:01:43,399",
+      "text": "weapons peace armor Supply dice"
+    },
+    {
+      "start_time": "00:01:40,920",
+      "end_time": "00:01:45,960",
+      "text": "lethality levels toughness resolve and"
+    },
+    {
+      "start_time": "00:01:43,399",
+      "end_time": "00:01:48,439",
+      "text": "more and we've made character generation"
+    },
+    {
+      "start_time": "00:01:45,960",
+      "end_time": "00:01:50,680",
+      "text": "fun and collaborative one of the things"
+    },
+    {
+      "start_time": "00:01:48,439",
+      "end_time": "00:01:52,920",
+      "text": "my players love the most is rolling your"
+    },
+    {
+      "start_time": "00:01:50,680",
+      "end_time": "00:01:54,960",
+      "text": "life events where you get to tailor your"
+    },
+    {
+      "start_time": "00:01:52,920",
+      "end_time": "00:01:56,479",
+      "text": "origin link it to the other player"
+    },
+    {
+      "start_time": "00:01:54,960",
+      "end_time": "00:01:59,000",
+      "text": "characters and set your character's"
+    },
+    {
+      "start_time": "00:01:56,479",
+      "end_time": "00:02:00,880",
+      "text": "goals and speaking of goals goals are"
+    },
+    {
+      "start_time": "00:01:59,000",
+      "end_time": "00:02:02,439",
+      "text": "huge in this game the only way to attain"
+    },
+    {
+      "start_time": "00:02:00,880",
+      "end_time": "00:02:05,000",
+      "text": "experience points and improve your"
+    },
+    {
+      "start_time": "00:02:02,439",
+      "end_time": "00:02:06,840",
+      "text": "character is by pursuing their goals the"
+    },
+    {
+      "start_time": "00:02:05,000",
+      "end_time": "00:02:08,759",
+      "text": "intention is that goals are about"
+    },
+    {
+      "start_time": "00:02:06,840",
+      "end_time": "00:02:10,800",
+      "text": "something meaningful to the character"
+    },
+    {
+      "start_time": "00:02:08,759",
+      "end_time": "00:02:13,440",
+      "text": "now whatever that is is of course up to"
+    },
+    {
+      "start_time": "00:02:10,800",
+      "end_time": "00:02:15,080",
+      "text": "you and to your GM so how does the game"
+    },
+    {
+      "start_time": "00:02:13,440",
+      "end_time": "00:02:16,680",
+      "text": "play exactly well adventurers in the"
+    },
+    {
+      "start_time": "00:02:15,080",
+      "end_time": "00:02:18,879",
+      "text": "broken Empires will face challenges"
+    },
+    {
+      "start_time": "00:02:16,680",
+      "end_time": "00:02:20,680",
+      "text": "across four different conflict Arenas as"
+    },
+    {
+      "start_time": "00:02:18,879",
+      "end_time": "00:02:22,680",
+      "text": "they call them where their skills will"
+    },
+    {
+      "start_time": "00:02:20,680",
+      "end_time": "00:02:25,440",
+      "text": "literally be put to the test the first"
+    },
+    {
+      "start_time": "00:02:22,680",
+      "end_time": "00:02:27,680",
+      "text": "one is travel now I love travel in a"
+    },
+    {
+      "start_time": "00:02:25,440",
+      "end_time": "00:02:29,280",
+      "text": "game getting there is literally half the"
+    },
+    {
+      "start_time": "00:02:27,680",
+      "end_time": "00:02:31,519",
+      "text": "fun travel in the broken Empires is all"
+    },
+    {
+      "start_time": "00:02:29,280",
+      "end_time": "00:02:33,560",
+      "text": "about experience ing dangers and or"
+    },
+    {
+      "start_time": "00:02:31,519",
+      "end_time": "00:02:36,120",
+      "text": "opportunities along the way to your"
+    },
+    {
+      "start_time": "00:02:33,560",
+      "end_time": "00:02:38,879",
+      "text": "destination a traveling group will have"
+    },
+    {
+      "start_time": "00:02:36,120",
+      "end_time": "00:02:40,879",
+      "text": "a guide a quartermaster and a scout each"
+    },
+    {
+      "start_time": "00:02:38,879",
+      "end_time": "00:02:43,280",
+      "text": "rolling skills vital to the journey"
+    },
+    {
+      "start_time": "00:02:40,879",
+      "end_time": "00:02:45,599",
+      "text": "success like track survival and"
+    },
+    {
+      "start_time": "00:02:43,280",
+      "end_time": "00:02:48,280",
+      "text": "perception now travel requires tough"
+    },
+    {
+      "start_time": "00:02:45,599",
+      "end_time": "00:02:50,760",
+      "text": "choices and skill roles to match what"
+    },
+    {
+      "start_time": "00:02:48,280",
+      "end_time": "00:02:52,200",
+      "text": "route do you take what dangerous areas"
+    },
+    {
+      "start_time": "00:02:50,760",
+      "end_time": "00:02:54,440",
+      "text": "are you willing to Brave in order to"
+    },
+    {
+      "start_time": "00:02:52,200",
+      "end_time": "00:02:56,720",
+      "text": "save time how will you spend precious"
+    },
+    {
+      "start_time": "00:02:54,440",
+      "end_time": "00:02:58,920",
+      "text": "common lore favor to increase your skill"
+    },
+    {
+      "start_time": "00:02:56,720",
+      "end_time": "00:03:01,040",
+      "text": "roll chances and will your endurance"
+    },
+    {
+      "start_time": "00:02:58,920",
+      "end_time": "00:03:03,480",
+      "text": "roles overcome the the imminent fatigue"
+    },
+    {
+      "start_time": "00:03:01,040",
+      "end_time": "00:03:05,159",
+      "text": "of the road but there's also"
+    },
+    {
+      "start_time": "00:03:03,480",
+      "end_time": "00:03:07,519",
+      "text": "opportunities on the road as well as"
+    },
+    {
+      "start_time": "00:03:05,159",
+      "end_time": "00:03:09,959",
+      "text": "dangers will you gain information about"
+    },
+    {
+      "start_time": "00:03:07,519",
+      "end_time": "00:03:12,120",
+      "text": "the destination along the way will you"
+    },
+    {
+      "start_time": "00:03:09,959",
+      "end_time": "00:03:14,599",
+      "text": "discover Hidden Treasures or wealth will"
+    },
+    {
+      "start_time": "00:03:12,120",
+      "end_time": "00:03:17,400",
+      "text": "you gain entry to a place of RIT to"
+    },
+    {
+      "start_time": "00:03:14,599",
+      "end_time": "00:03:19,680",
+      "text": "recover from wounds or fatigue working"
+    },
+    {
+      "start_time": "00:03:17,400",
+      "end_time": "00:03:21,599",
+      "text": "together the group can gain all kinds of"
+    },
+    {
+      "start_time": "00:03:19,680",
+      "end_time": "00:03:23,560",
+      "text": "advantages if they play their cards"
+    },
+    {
+      "start_time": "00:03:21,599",
+      "end_time": "00:03:25,680",
+      "text": "right and gain enough success levels in"
+    },
+    {
+      "start_time": "00:03:23,560",
+      "end_time": "00:03:28,720",
+      "text": "the encounter well what would a game be"
+    },
+    {
+      "start_time": "00:03:25,680",
+      "end_time": "00:03:30,319",
+      "text": "without combat combat is dangerous now"
+    },
+    {
+      "start_time": "00:03:28,720",
+      "end_time": "00:03:31,959",
+      "text": "it's not always lethal"
+    },
+    {
+      "start_time": "00:03:30,319",
+      "end_time": "00:03:33,480",
+      "text": "but fights do tend to end quickly"
+    },
+    {
+      "start_time": "00:03:31,959",
+      "end_time": "00:03:36,040",
+      "text": "killing your foe isn't the only way to"
+    },
+    {
+      "start_time": "00:03:33,480",
+      "end_time": "00:03:38,280",
+      "text": "win incapacitating your foe which is"
+    },
+    {
+      "start_time": "00:03:36,040",
+      "end_time": "00:03:40,280",
+      "text": "actually the most common result or even"
+    },
+    {
+      "start_time": "00:03:38,280",
+      "end_time": "00:03:42,439",
+      "text": "compelling their surrender works just as"
+    },
+    {
+      "start_time": "00:03:40,280",
+      "end_time": "00:03:44,920",
+      "text": "well now it's a round by round"
+    },
+    {
+      "start_time": "00:03:42,439",
+      "end_time": "00:03:47,360",
+      "text": "initiative system there's attack and"
+    },
+    {
+      "start_time": "00:03:44,920",
+      "end_time": "00:03:49,080",
+      "text": "defense roles the quality of the attack"
+    },
+    {
+      "start_time": "00:03:47,360",
+      "end_time": "00:03:51,680",
+      "text": "is mitigated by the quality of the"
+    },
+    {
+      "start_time": "00:03:49,080",
+      "end_time": "00:03:53,879",
+      "text": "defense each attack roll packs a lot of"
+    },
+    {
+      "start_time": "00:03:51,680",
+      "end_time": "00:03:56,280",
+      "text": "information into it it tells you if you"
+    },
+    {
+      "start_time": "00:03:53,879",
+      "end_time": "00:03:58,480",
+      "text": "hit where you hit how much damage your"
+    },
+    {
+      "start_time": "00:03:56,280",
+      "end_time": "00:04:00,920",
+      "text": "hit does and what kind of maneuvers you"
+    },
+    {
+      "start_time": "00:03:58,480",
+      "end_time": "00:04:02,519",
+      "text": "can perform because because of the hit"
+    },
+    {
+      "start_time": "00:04:00,920",
+      "end_time": "00:04:05,319",
+      "text": "your attack roll success levels can be"
+    },
+    {
+      "start_time": "00:04:02,519",
+      "end_time": "00:04:08,040",
+      "text": "used to perform special combat Maneuvers"
+    },
+    {
+      "start_time": "00:04:05,319",
+      "end_time": "00:04:10,280",
+      "text": "but they're chosen after the role a"
+    },
+    {
+      "start_time": "00:04:08,040",
+      "end_time": "00:04:12,720",
+      "text": "better role gives more opportunities to"
+    },
+    {
+      "start_time": "00:04:10,280",
+      "end_time": "00:04:14,519",
+      "text": "knock your enemy prone disarm them"
+    },
+    {
+      "start_time": "00:04:12,720",
+      "end_time": "00:04:17,519",
+      "text": "circumvent their Shield Sunder their"
+    },
+    {
+      "start_time": "00:04:14,519",
+      "end_time": "00:04:20,079",
+      "text": "armor and many more combat in this game"
+    },
+    {
+      "start_time": "00:04:17,519",
+      "end_time": "00:04:22,800",
+      "text": "doesn't rely on a grid or hex map"
+    },
+    {
+      "start_time": "00:04:20,079",
+      "end_time": "00:04:24,360",
+      "text": "instead zones differentiate combat areas"
+    },
+    {
+      "start_time": "00:04:22,800",
+      "end_time": "00:04:27,560",
+      "text": "and each Zone might have descriptors"
+    },
+    {
+      "start_time": "00:04:24,360",
+      "end_time": "00:04:29,560",
+      "text": "like ruined walls sucking mud pits or"
+    },
+    {
+      "start_time": "00:04:27,560",
+      "end_time": "00:04:31,479",
+      "text": "raging fires that can let the players"
+    },
+    {
+      "start_time": "00:04:29,560",
+      "end_time": "00:04:33,919",
+      "text": "get get a tactical bonus over their"
+    },
+    {
+      "start_time": "00:04:31,479",
+      "end_time": "00:04:36,639",
+      "text": "enemy armor protects individual hit"
+    },
+    {
+      "start_time": "00:04:33,919",
+      "end_time": "00:04:38,639",
+      "text": "locations and reduces incoming damage"
+    },
+    {
+      "start_time": "00:04:36,639",
+      "end_time": "00:04:40,520",
+      "text": "crucially there's no hit points each"
+    },
+    {
+      "start_time": "00:04:38,639",
+      "end_time": "00:04:43,000",
+      "text": "wound has a decisive and immediate"
+    },
+    {
+      "start_time": "00:04:40,520",
+      "end_time": "00:04:45,240",
+      "text": "effect and can be subject to"
+    },
+    {
+      "start_time": "00:04:43,000",
+      "end_time": "00:04:47,000",
+      "text": "infection when you're wounded you're all"
+    },
+    {
+      "start_time": "00:04:45,240",
+      "end_time": "00:04:49,080",
+      "text": "a wound die against the value of your"
+    },
+    {
+      "start_time": "00:04:47,000",
+      "end_time": "00:04:52,120",
+      "text": "current wounds failure could mean"
+    },
+    {
+      "start_time": "00:04:49,080",
+      "end_time": "00:04:53,919",
+      "text": "incapacitation of that body part and if"
+    },
+    {
+      "start_time": "00:04:52,120",
+      "end_time": "00:04:56,000",
+      "text": "the wounds are bad enough you might have"
+    },
+    {
+      "start_time": "00:04:53,919",
+      "end_time": "00:04:58,320",
+      "text": "to roll the death die to avoid lethal"
+    },
+    {
+      "start_time": "00:04:56,000",
+      "end_time": "00:05:00,479",
+      "text": "consequences in short combat moves"
+    },
+    {
+      "start_time": "00:04:58,320",
+      "end_time": "00:05:02,440",
+      "text": "quickly but gives you that precious"
+    },
+    {
+      "start_time": "00:05:00,479",
+      "end_time": "00:05:04,280",
+      "text": "detail that really Paints the picture"
+    },
+    {
+      "start_time": "00:05:02,440",
+      "end_time": "00:05:05,960",
+      "text": "you didn't just hit the orc for five hit"
+    },
+    {
+      "start_time": "00:05:04,280",
+      "end_time": "00:05:07,840",
+      "text": "points no no no no you you got around"
+    },
+    {
+      "start_time": "00:05:05,960",
+      "end_time": "00:05:10,199",
+      "text": "his shield and slashed his left knee"
+    },
+    {
+      "start_time": "00:05:07,840",
+      "end_time": "00:05:12,360",
+      "text": "knocking him prone Brute Force isn't the"
+    },
+    {
+      "start_time": "00:05:10,199",
+      "end_time": "00:05:14,039",
+      "text": "only way to win a conflict the social"
+    },
+    {
+      "start_time": "00:05:12,360",
+      "end_time": "00:05:15,680",
+      "text": "encounter system works best when dealing"
+    },
+    {
+      "start_time": "00:05:14,039",
+      "end_time": "00:05:17,160",
+      "text": "with NPCs that are important to the"
+    },
+    {
+      "start_time": "00:05:15,680",
+      "end_time": "00:05:19,000",
+      "text": "character's goals I mean you don't need"
+    },
+    {
+      "start_time": "00:05:17,160",
+      "end_time": "00:05:20,960",
+      "text": "to use this kind of system when ordering"
+    },
+    {
+      "start_time": "00:05:19,000",
+      "end_time": "00:05:22,400",
+      "text": "a drink from the inkeeper but uh you"
+    },
+    {
+      "start_time": "00:05:20,960",
+      "end_time": "00:05:24,080",
+      "text": "should definitely use it when you're on"
+    },
+    {
+      "start_time": "00:05:22,400",
+      "end_time": "00:05:26,800",
+      "text": "trial for a murder you didn't commit the"
+    },
+    {
+      "start_time": "00:05:24,080",
+      "end_time": "00:05:29,080",
+      "text": "rules use a mix of player choice and"
+    },
+    {
+      "start_time": "00:05:26,800",
+      "end_time": "00:05:31,199",
+      "text": "character skill the player role plays"
+    },
+    {
+      "start_time": "00:05:29,080",
+      "end_time": "00:05:33,280",
+      "text": "the moment which triggers a specific"
+    },
+    {
+      "start_time": "00:05:31,199",
+      "end_time": "00:05:35,800",
+      "text": "skill role if the player is trying to"
+    },
+    {
+      "start_time": "00:05:33,280",
+      "end_time": "00:05:37,400",
+      "text": "get past a gate guard and he says uh hey"
+    },
+    {
+      "start_time": "00:05:35,800",
+      "end_time": "00:05:39,120",
+      "text": "buddy uh we're all friends here maybe"
+    },
+    {
+      "start_time": "00:05:37,400",
+      "end_time": "00:05:41,440",
+      "text": "just let us have a little peek inside"
+    },
+    {
+      "start_time": "00:05:39,120",
+      "end_time": "00:05:43,759",
+      "text": "yeah well that might trigger persuade"
+    },
+    {
+      "start_time": "00:05:41,440",
+      "end_time": "00:05:46,360",
+      "text": "skill test whereas if he says H walk"
+    },
+    {
+      "start_time": "00:05:43,759",
+      "end_time": "00:05:48,120",
+      "text": "away worm before we pulverize you well"
+    },
+    {
+      "start_time": "00:05:46,360",
+      "end_time": "00:05:51,120",
+      "text": "that would trigger the intimidate skill"
+    },
+    {
+      "start_time": "00:05:48,120",
+      "end_time": "00:05:52,840",
+      "text": "and probably a fight on a failure each"
+    },
+    {
+      "start_time": "00:05:51,120",
+      "end_time": "00:05:54,880",
+      "text": "successful skill roll will generate"
+    },
+    {
+      "start_time": "00:05:52,840",
+      "end_time": "00:05:56,919",
+      "text": "success levels and the player's goal is"
+    },
+    {
+      "start_time": "00:05:54,880",
+      "end_time": "00:05:59,680",
+      "text": "to accumulate as many success levels as"
+    },
+    {
+      "start_time": "00:05:56,919",
+      "end_time": "00:06:01,240",
+      "text": "they can before the tolerance Runs Out"
+    },
+    {
+      "start_time": "00:05:59,680",
+      "end_time": "00:06:04,199",
+      "text": "more success levels they get the better"
+    },
+    {
+      "start_time": "00:06:01,240",
+      "end_time": "00:06:05,960",
+      "text": "the outcome NPCs have a tolerance value"
+    },
+    {
+      "start_time": "00:06:04,199",
+      "end_time": "00:06:08,560",
+      "text": "this is the number of times the PCS can"
+    },
+    {
+      "start_time": "00:06:05,960",
+      "end_time": "00:06:10,280",
+      "text": "fail before a timer die starts rolling"
+    },
+    {
+      "start_time": "00:06:08,560",
+      "end_time": "00:06:12,400",
+      "text": "which is a ticking clock that creates a"
+    },
+    {
+      "start_time": "00:06:10,280",
+      "end_time": "00:06:14,039",
+      "text": "sense of urgency do we continue to press"
+    },
+    {
+      "start_time": "00:06:12,400",
+      "end_time": "00:06:15,720",
+      "text": "our luck looking for more successes"
+    },
+    {
+      "start_time": "00:06:14,039",
+      "end_time": "00:06:18,000",
+      "text": "knowing that the clock is running and"
+    },
+    {
+      "start_time": "00:06:15,720",
+      "end_time": "00:06:20,319",
+      "text": "every new attempt could be our last I"
+    },
+    {
+      "start_time": "00:06:18,000",
+      "end_time": "00:06:22,400",
+      "text": "got to tell you this system has created"
+    },
+    {
+      "start_time": "00:06:20,319",
+      "end_time": "00:06:24,240",
+      "text": "some of the most satisfying and tense"
+    },
+    {
+      "start_time": "00:06:22,400",
+      "end_time": "00:06:26,680",
+      "text": "role playing moments in my whole 40y"
+    },
+    {
+      "start_time": "00:06:24,240",
+      "end_time": "00:06:30,199",
+      "text": "year history of running games I love it"
+    },
+    {
+      "start_time": "00:06:26,680",
+      "end_time": "00:06:32,280",
+      "text": "and I think you will do magic well magic"
+    },
+    {
+      "start_time": "00:06:30,199",
+      "end_time": "00:06:34,639",
+      "text": "isn't just shooting fire from your"
+    },
+    {
+      "start_time": "00:06:32,280",
+      "end_time": "00:06:37,160",
+      "text": "fingertips reality is woven into a great"
+    },
+    {
+      "start_time": "00:06:34,639",
+      "end_time": "00:06:39,199",
+      "text": "tapestry the weave and Magic users or"
+    },
+    {
+      "start_time": "00:06:37,160",
+      "end_time": "00:06:41,240",
+      "text": "spell Weavers as they're known grasp"
+    },
+    {
+      "start_time": "00:06:39,199",
+      "end_time": "00:06:43,720",
+      "text": "threads of that tapestry and bind them"
+    },
+    {
+      "start_time": "00:06:41,240",
+      "end_time": "00:06:46,080",
+      "text": "into patterns favorable to themselves"
+    },
+    {
+      "start_time": "00:06:43,720",
+      "end_time": "00:06:48,639",
+      "text": "but reality fights back against such"
+    },
+    {
+      "start_time": "00:06:46,080",
+      "end_time": "00:06:50,280",
+      "text": "intrusions and causes weave reactions"
+    },
+    {
+      "start_time": "00:06:48,639",
+      "end_time": "00:06:52,759",
+      "text": "dangerous magical side effects from"
+    },
+    {
+      "start_time": "00:06:50,280",
+      "end_time": "00:06:54,680",
+      "text": "uncontrolled magic the ideal spell"
+    },
+    {
+      "start_time": "00:06:52,759",
+      "end_time": "00:06:57,479",
+      "text": "doesn't attract the weave's attention at"
+    },
+    {
+      "start_time": "00:06:54,680",
+      "end_time": "00:07:00,120",
+      "text": "all uh but that's easier said than done"
+    },
+    {
+      "start_time": "00:06:57,479",
+      "end_time": "00:07:02,479",
+      "text": "and invariably a spell Weaver will have"
+    },
+    {
+      "start_time": "00:07:00,120",
+      "end_time": "00:07:04,960",
+      "text": "to spend precious resolve points to"
+    },
+    {
+      "start_time": "00:07:02,479",
+      "end_time": "00:07:07,199",
+      "text": "ensure that the spell works as intended"
+    },
+    {
+      "start_time": "00:07:04,960",
+      "end_time": "00:07:09,280",
+      "text": "this all encourages and rewards the"
+    },
+    {
+      "start_time": "00:07:07,199",
+      "end_time": "00:07:11,120",
+      "text": "subtle use of Magic the more"
+    },
+    {
+      "start_time": "00:07:09,280",
+      "end_time": "00:07:13,400",
+      "text": "ostentatious the spell effect the more"
+    },
+    {
+      "start_time": "00:07:11,120",
+      "end_time": "00:07:15,599",
+      "text": "dangerous it is to cast every magical"
+    },
+    {
+      "start_time": "00:07:13,400",
+      "end_time": "00:07:17,400",
+      "text": "effect is crafted in the moment whose"
+    },
+    {
+      "start_time": "00:07:15,599",
+      "end_time": "00:07:19,879",
+      "text": "effects are negotiated between player"
+    },
+    {
+      "start_time": "00:07:17,400",
+      "end_time": "00:07:21,800",
+      "text": "and GM using these rules as a guide"
+    },
+    {
+      "start_time": "00:07:19,879",
+      "end_time": "00:07:24,639",
+      "text": "magic skills are represented by binds"
+    },
+    {
+      "start_time": "00:07:21,800",
+      "end_time": "00:07:27,319",
+      "text": "and strands ways to manipulate reality"
+    },
+    {
+      "start_time": "00:07:24,639",
+      "end_time": "00:07:28,919",
+      "text": "binds are verbs strands or nouns so for"
+    },
+    {
+      "start_time": "00:07:27,319",
+      "end_time": "00:07:31,360",
+      "text": "example if I want to magically charm"
+    },
+    {
+      "start_time": "00:07:28,919",
+      "end_time": "00:07:33,280",
+      "text": "someone in it might be uh control and"
+    },
+    {
+      "start_time": "00:07:31,360",
+      "end_time": "00:07:36,280",
+      "text": "thought if I want to hurl a fireball"
+    },
+    {
+      "start_time": "00:07:33,280",
+      "end_time": "00:07:38,520",
+      "text": "that might be conjure and fire magnitude"
+    },
+    {
+      "start_time": "00:07:36,280",
+      "end_time": "00:07:40,759",
+      "text": "on a scale of 0 to four is how offensive"
+    },
+    {
+      "start_time": "00:07:38,520",
+      "end_time": "00:07:42,639",
+      "text": "to reality the spell is and determines"
+    },
+    {
+      "start_time": "00:07:40,759",
+      "end_time": "00:07:44,759",
+      "text": "the severity of the weave reaction"
+    },
+    {
+      "start_time": "00:07:42,639",
+      "end_time": "00:07:46,720",
+      "text": "magnitude zero would be in effect almost"
+    },
+    {
+      "start_time": "00:07:44,759",
+      "end_time": "00:07:48,720",
+      "text": "indistinguishable from happen stance"
+    },
+    {
+      "start_time": "00:07:46,720",
+      "end_time": "00:07:51,000",
+      "text": "whereas magnitude 4 would be something"
+    },
+    {
+      "start_time": "00:07:48,720",
+      "end_time": "00:07:53,560",
+      "text": "completely impossible in nature and what"
+    },
+    {
+      "start_time": "00:07:51,000",
+      "end_time": "00:07:55,800",
+      "text": "are the weave reactions well they could"
+    },
+    {
+      "start_time": "00:07:53,560",
+      "end_time": "00:07:58,720",
+      "text": "cause your spell to affect unintended"
+    },
+    {
+      "start_time": "00:07:55,800",
+      "end_time": "00:08:01,080",
+      "text": "targets or to make you weary uh to have"
+    },
+    {
+      "start_time": "00:07:58,720",
+      "end_time": "00:08:03,360",
+      "text": "the magic fly wildly out of control or"
+    },
+    {
+      "start_time": "00:08:01,080",
+      "end_time": "00:08:05,680",
+      "text": "make you suffer other perilous effects"
+    },
+    {
+      "start_time": "00:08:03,360",
+      "end_time": "00:08:08,039",
+      "text": "now priests or the godbound as they're"
+    },
+    {
+      "start_time": "00:08:05,680",
+      "end_time": "00:08:09,680",
+      "text": "known in the broken Empires use Divine"
+    },
+    {
+      "start_time": "00:08:08,039",
+      "end_time": "00:08:11,840",
+      "text": "magic which is similar to The Weave but"
+    },
+    {
+      "start_time": "00:08:09,680",
+      "end_time": "00:08:13,960",
+      "text": "the rules encourage clerics to really"
+    },
+    {
+      "start_time": "00:08:11,840",
+      "end_time": "00:08:16,759",
+      "text": "role playay as religious representatives"
+    },
+    {
+      "start_time": "00:08:13,960",
+      "end_time": "00:08:18,879",
+      "text": "of their God their piety fuels their"
+    },
+    {
+      "start_time": "00:08:16,759",
+      "end_time": "00:08:20,800",
+      "text": "powers and it goes up and down based on"
+    },
+    {
+      "start_time": "00:08:18,879",
+      "end_time": "00:08:23,280",
+      "text": "how devoted the cleric is to their God's"
+    },
+    {
+      "start_time": "00:08:20,800",
+      "end_time": "00:08:25,440",
+      "text": "tenants but their piety score is hidden"
+    },
+    {
+      "start_time": "00:08:23,280",
+      "end_time": "00:08:27,720",
+      "text": "from them so they're always unsure of"
+    },
+    {
+      "start_time": "00:08:25,440",
+      "end_time": "00:08:29,680",
+      "text": "where exactly they stand with their God"
+    },
+    {
+      "start_time": "00:08:27,720",
+      "end_time": "00:08:31,560",
+      "text": "performing and role playing Act of"
+    },
+    {
+      "start_time": "00:08:29,680",
+      "end_time": "00:08:34,240",
+      "text": "religious service is the best way to"
+    },
+    {
+      "start_time": "00:08:31,560",
+      "end_time": "00:08:36,640",
+      "text": "ensure High piety and that your clerics"
+    },
+    {
+      "start_time": "00:08:34,240",
+      "end_time": "00:08:38,680",
+      "text": "actually act like clerics in addition"
+    },
+    {
+      "start_time": "00:08:36,640",
+      "end_time": "00:08:40,919",
+      "text": "There are rules for rituals they really"
+    },
+    {
+      "start_time": "00:08:38,680",
+      "end_time": "00:08:43,080",
+      "text": "powerful and costly magic rules for"
+    },
+    {
+      "start_time": "00:08:40,919",
+      "end_time": "00:08:44,959",
+      "text": "Alchemy blood magic summoning"
+    },
+    {
+      "start_time": "00:08:43,080",
+      "end_time": "00:08:46,640",
+      "text": "enchantments and more this game is a"
+    },
+    {
+      "start_time": "00:08:44,959",
+      "end_time": "00:08:48,720",
+      "text": "boutique product that I want all of us"
+    },
+    {
+      "start_time": "00:08:46,640",
+      "end_time": "00:08:50,440",
+      "text": "to be proud to own to that end I'm"
+    },
+    {
+      "start_time": "00:08:48,720",
+      "end_time": "00:08:52,760",
+      "text": "insisting on the highest quality"
+    },
+    {
+      "start_time": "00:08:50,440",
+      "end_time": "00:08:55,279",
+      "text": "materials and craftsmanship to make this"
+    },
+    {
+      "start_time": "00:08:52,760",
+      "end_time": "00:08:57,560",
+      "text": "thing we're using real human artists"
+    },
+    {
+      "start_time": "00:08:55,279",
+      "end_time": "00:08:59,440",
+      "text": "talented map makers painters and"
+    },
+    {
+      "start_time": "00:08:57,560",
+      "end_time": "00:09:02,120",
+      "text": "illustrators from all over the world"
+    },
+    {
+      "start_time": "00:08:59,440",
+      "end_time": "00:09:04,120",
+      "text": "including Spain Portugal Canada and"
+    },
+    {
+      "start_time": "00:09:02,120",
+      "end_time": "00:09:06,519",
+      "text": "Scotland to bring the broken Empires to"
+    },
+    {
+      "start_time": "00:09:04,120",
+      "end_time": "00:09:08,320",
+      "text": "life in full Vivid color now I love a"
+    },
+    {
+      "start_time": "00:09:06,519",
+      "end_time": "00:09:10,279",
+      "text": "good hardback game book and so that is"
+    },
+    {
+      "start_time": "00:09:08,320",
+      "end_time": "00:09:12,760",
+      "text": "what I'm going to give to you I've got"
+    },
+    {
+      "start_time": "00:09:10,279",
+      "end_time": "00:09:14,480",
+      "text": "great designers editors and rules"
+    },
+    {
+      "start_time": "00:09:12,760",
+      "end_time": "00:09:16,800",
+      "text": "Consultants to make sure we bring you"
+    },
+    {
+      "start_time": "00:09:14,480",
+      "end_time": "00:09:18,959",
+      "text": "the very best version of the game we can"
+    },
+    {
+      "start_time": "00:09:16,800",
+      "end_time": "00:09:21,360",
+      "text": "and we're working with the largest most"
+    },
+    {
+      "start_time": "00:09:18,959",
+      "end_time": "00:09:23,399",
+      "text": "established printers manufacturers and"
+    },
+    {
+      "start_time": "00:09:21,360",
+      "end_time": "00:09:25,000",
+      "text": "fulfillment shops in the industry to"
+    },
+    {
+      "start_time": "00:09:23,399",
+      "end_time": "00:09:27,120",
+      "text": "make sure the game arrives in your hands"
+    },
+    {
+      "start_time": "00:09:25,000",
+      "end_time": "00:09:28,920",
+      "text": "on time and in pristine condition all"
+    },
+    {
+      "start_time": "00:09:27,120",
+      "end_time": "00:09:30,760",
+      "text": "the things in the kickstarter are simply"
+    },
+    {
+      "start_time": "00:09:28,920",
+      "end_time": "00:09:32,399",
+      "text": "top number and designed to last for"
+    },
+    {
+      "start_time": "00:09:30,760",
+      "end_time": "00:09:34,519",
+      "text": "years and of course to look great on"
+    },
+    {
+      "start_time": "00:09:32,399",
+      "end_time": "00:09:37,399",
+      "text": "your gaming team there's the core rule"
+    },
+    {
+      "start_time": "00:09:34,519",
+      "end_time": "00:09:39,360",
+      "text": "book The leatherbound iridescent foil"
+    },
+    {
+      "start_time": "00:09:37,399",
+      "end_time": "00:09:40,920",
+      "text": "stamped premium rule book the starter"
+    },
+    {
+      "start_time": "00:09:39,360",
+      "end_time": "00:09:44,160",
+      "text": "set with the starter Adventure The"
+    },
+    {
+      "start_time": "00:09:40,920",
+      "end_time": "00:09:47,079",
+      "text": "Witches of grim preg characters terrain"
+    },
+    {
+      "start_time": "00:09:44,160",
+      "end_time": "00:09:49,519",
+      "text": "Maps condition tokens custom Dice and a"
+    },
+    {
+      "start_time": "00:09:47,079",
+      "end_time": "00:09:52,320",
+      "text": "fullscale map of the world of the broken"
+    },
+    {
+      "start_time": "00:09:49,519",
+      "end_time": "00:09:54,079",
+      "text": "Empires and for the Die Hard Me Myself"
+    },
+    {
+      "start_time": "00:09:52,320",
+      "end_time": "00:09:56,000",
+      "text": "and die fans the products are filled"
+    },
+    {
+      "start_time": "00:09:54,079",
+      "end_time": "00:09:58,160",
+      "text": "with Easter eggs that you will be sure"
+    },
+    {
+      "start_time": "00:09:56,000",
+      "end_time": "00:10:00,240",
+      "text": "to recognize we've planned all kinds of"
+    },
+    {
+      "start_time": "00:09:58,160",
+      "end_time": "00:10:02,480",
+      "text": "amazing stretch goals including"
+    },
+    {
+      "start_time": "00:10:00,240",
+      "end_time": "00:10:04,240",
+      "text": "expansion Adventures more beasts and"
+    },
+    {
+      "start_time": "00:10:02,480",
+      "end_time": "00:10:06,320",
+      "text": "monsters to supplement the Beast are in"
+    },
+    {
+      "start_time": "00:10:04,240",
+      "end_time": "00:10:07,880",
+      "text": "the book A spell Weaver's compendium and"
+    },
+    {
+      "start_time": "00:10:06,320",
+      "end_time": "00:10:11,160",
+      "text": "other books and tools to flesh out the"
+    },
+    {
+      "start_time": "00:10:07,880",
+      "end_time": "00:10:14,240",
+      "text": "world new races new villains upgraded"
+    },
+    {
+      "start_time": "00:10:11,160",
+      "end_time": "00:10:16,680",
+      "text": "metal dice a naval combat supplement a"
+    },
+    {
+      "start_time": "00:10:14,240",
+      "end_time": "00:10:18,200",
+      "text": "broken Empire's dice tray and some"
+    },
+    {
+      "start_time": "00:10:16,680",
+      "end_time": "00:10:19,800",
+      "text": "surprises that you'll just have to back"
+    },
+    {
+      "start_time": "00:10:18,200",
+      "end_time": "00:10:21,120",
+      "text": "the product to see I couldn't be more"
+    },
+    {
+      "start_time": "00:10:19,800",
+      "end_time": "00:10:23,079",
+      "text": "excited to bring the broken Empires to"
+    },
+    {
+      "start_time": "00:10:21,120",
+      "end_time": "00:10:25,079",
+      "text": "you it has been a lifelong dream of mine"
+    },
+    {
+      "start_time": "00:10:23,079",
+      "end_time": "00:10:26,880",
+      "text": "to create this game over 40 years in the"
+    },
+    {
+      "start_time": "00:10:25,079",
+      "end_time": "00:10:28,760",
+      "text": "making and I couldn't do it without you"
+    },
+    {
+      "start_time": "00:10:26,880",
+      "end_time": "00:10:30,760",
+      "text": "so join us in the kickstarter today and"
+    },
+    {
+      "start_time": "00:10:28,760",
+      "end_time": "00:10:33,040",
+      "text": "come experience what SIM light is all"
+    },
+    {
+      "start_time": "00:10:30,760",
+      "end_time": "00:10:34,880",
+      "text": "about as always thanks for watching and"
+    },
+    {
+      "start_time": "00:10:33,040",
+      "end_time": "00:10:37,279",
+      "text": "thank you for your support and I will"
+    },
+    {
+      "start_time": "00:10:34,880",
+      "end_time": "00:10:41,880",
+      "text": "see you in the broken Empires where the"
+    },
+    {
+      "start_time": "00:10:37,279",
+      "end_time": "00:10:41,880",
+      "text": "dice always tell the story"
+    }
+  ],
+  "full_text": "if you're looking for a fantasy RPG that\ngives you really detailed outcomes\nwithout slowing your game down to a\ncrawl creates grounded and skill focused\ncharacters who pursue meaningful goals\nfeatures gritty tactical and decisive\ncombats present Social Challenges as\ndangerous as any sword fight makes\ntravel feel epic and immersive puts the\nmystery back in Magic and synthesizes\nthe coolest features of dozens of\nsystems both old school and new then\nthis is the role playing game for you\ngreetings friends I'm Trevor Deval the\ncreator of the broken Empires role\nplaying game longtime player and GM of\nover 40 years experience and host of the\nme myself and I RPG YouTube channel I\nstarted running games over four decades\nago and in that time I've run easily\nover 50 different systems there were so\nmany things about all those games that I\njust loved the broken Empires is my\nopportunity to take all those things and\nmake them all work together in one\ncohesive rule set pretty excited about\nit so settle in and let's talk about\nsome details together let's start with a\ncore engine it's called the success\nlevel system this is a cental dice game\nwhere you roll your skill or under on a\nD100 to succeed but it's also a\nblackjack system you want to roll under\nbut high now why because the T die of\nyour role counts as your success level\nin this game the idea is to get as many\nsuccess levels as possible the more you\nget the better you do success levels are\nattained by Rolling skills the building\nblocks of every character there are no\nstats or classes or levels everything in\nthis game is skill-based and your free\nto develop those skills however you want\nbut of course your character is made up\nof more than just skills there's\npersonality traits talents expertise\nweapons peace armor Supply dice\nlethality levels toughness resolve and\nmore and we've made character generation\nfun and collaborative one of the things\nmy players love the most is rolling your\nlife events where you get to tailor your\norigin link it to the other player\ncharacters and set your character's\ngoals and speaking of goals goals are\nhuge in this game the only way to attain\nexperience points and improve your\ncharacter is by pursuing their goals the\nintention is that goals are about\nsomething meaningful to the character\nnow whatever that is is of course up to\nyou and to your GM so how does the game\nplay exactly well adventurers in the\nbroken Empires will face challenges\nacross four different conflict Arenas as\nthey call them where their skills will\nliterally be put to the test the first\none is travel now I love travel in a\ngame getting there is literally half the\nfun travel in the broken Empires is all\nabout experience ing dangers and or\nopportunities along the way to your\ndestination a traveling group will have\na guide a quartermaster and a scout each\nrolling skills vital to the journey\nsuccess like track survival and\nperception now travel requires tough\nchoices and skill roles to match what\nroute do you take what dangerous areas\nare you willing to Brave in order to\nsave time how will you spend precious\ncommon lore favor to increase your skill\nroll chances and will your endurance\nroles overcome the the imminent fatigue\nof the road but there's also\nopportunities on the road as well as\ndangers will you gain information about\nthe destination along the way will you\ndiscover Hidden Treasures or wealth will\nyou gain entry to a place of RIT to\nrecover from wounds or fatigue working\ntogether the group can gain all kinds of\nadvantages if they play their cards\nright and gain enough success levels in\nthe encounter well what would a game be\nwithout combat combat is dangerous now\nit's not always lethal\nbut fights do tend to end quickly\nkilling your foe isn't the only way to\nwin incapacitating your foe which is\nactually the most common result or even\ncompelling their surrender works just as\nwell now it's a round by round\ninitiative system there's attack and\ndefense roles the quality of the attack\nis mitigated by the quality of the\ndefense each attack roll packs a lot of\ninformation into it it tells you if you\nhit where you hit how much damage your\nhit does and what kind of maneuvers you\ncan perform because because of the hit\nyour attack roll success levels can be\nused to perform special combat Maneuvers\nbut they're chosen after the role a\nbetter role gives more opportunities to\nknock your enemy prone disarm them\ncircumvent their Shield Sunder their\narmor and many more combat in this game\ndoesn't rely on a grid or hex map\ninstead zones differentiate combat areas\nand each Zone might have descriptors\nlike ruined walls sucking mud pits or\nraging fires that can let the players\nget get a tactical bonus over their\nenemy armor protects individual hit\nlocations and reduces incoming damage\ncrucially there's no hit points each\nwound has a decisive and immediate\neffect and can be subject to\ninfection when you're wounded you're all\na wound die against the value of your\ncurrent wounds failure could mean\nincapacitation of that body part and if\nthe wounds are bad enough you might have\nto roll the death die to avoid lethal\nconsequences in short combat moves\nquickly but gives you that precious\ndetail that really Paints the picture\nyou didn't just hit the orc for five hit\npoints no no no no you you got around\nhis shield and slashed his left knee\nknocking him prone Brute Force isn't the\nonly way to win a conflict the social\nencounter system works best when dealing\nwith NPCs that are important to the\ncharacter's goals I mean you don't need\nto use this kind of system when ordering\na drink from the inkeeper but uh you\nshould definitely use it when you're on\ntrial for a murder you didn't commit the\nrules use a mix of player choice and\ncharacter skill the player role plays\nthe moment which triggers a specific\nskill role if the player is trying to\nget past a gate guard and he says uh hey\nbuddy uh we're all friends here maybe\njust let us have a little peek inside\nyeah well that might trigger persuade\nskill test whereas if he says H walk\naway worm before we pulverize you well\nthat would trigger the intimidate skill\nand probably a fight on a failure each\nsuccessful skill roll will generate\nsuccess levels and the player's goal is\nto accumulate as many success levels as\nthey can before the tolerance Runs Out\nmore success levels they get the better\nthe outcome NPCs have a tolerance value\nthis is the number of times the PCS can\nfail before a timer die starts rolling\nwhich is a ticking clock that creates a\nsense of urgency do we continue to press\nour luck looking for more successes\nknowing that the clock is running and\nevery new attempt could be our last I\ngot to tell you this system has created\nsome of the most satisfying and tense\nrole playing moments in my whole 40y\nyear history of running games I love it\nand I think you will do magic well magic\nisn't just shooting fire from your\nfingertips reality is woven into a great\ntapestry the weave and Magic users or\nspell Weavers as they're known grasp\nthreads of that tapestry and bind them\ninto patterns favorable to themselves\nbut reality fights back against such\nintrusions and causes weave reactions\ndangerous magical side effects from\nuncontrolled magic the ideal spell\ndoesn't attract the weave's attention at\nall uh but that's easier said than done\nand invariably a spell Weaver will have\nto spend precious resolve points to\nensure that the spell works as intended\nthis all encourages and rewards the\nsubtle use of Magic the more\nostentatious the spell effect the more\ndangerous it is to cast every magical\neffect is crafted in the moment whose\neffects are negotiated between player\nand GM using these rules as a guide\nmagic skills are represented by binds\nand strands ways to manipulate reality\nbinds are verbs strands or nouns so for\nexample if I want to magically charm\nsomeone in it might be uh control and\nthought if I want to hurl a fireball\nthat might be conjure and fire magnitude\non a scale of 0 to four is how offensive\nto reality the spell is and determines\nthe severity of the weave reaction\nmagnitude zero would be in effect almost\nindistinguishable from happen stance\nwhereas magnitude 4 would be something\ncompletely impossible in nature and what\nare the weave reactions well they could\ncause your spell to affect unintended\ntargets or to make you weary uh to have\nthe magic fly wildly out of control or\nmake you suffer other perilous effects\nnow priests or the godbound as they're\nknown in the broken Empires use Divine\nmagic which is similar to The Weave but\nthe rules encourage clerics to really\nrole playay as religious representatives\nof their God their piety fuels their\npowers and it goes up and down based on\nhow devoted the cleric is to their God's\ntenants but their piety score is hidden\nfrom them so they're always unsure of\nwhere exactly they stand with their God\nperforming and role playing Act of\nreligious service is the best way to\nensure High piety and that your clerics\nactually act like clerics in addition\nThere are rules for rituals they really\npowerful and costly magic rules for\nAlchemy blood magic summoning\nenchantments and more this game is a\nboutique product that I want all of us\nto be proud to own to that end I'm\ninsisting on the highest quality\nmaterials and craftsmanship to make this\nthing we're using real human artists\ntalented map makers painters and\nillustrators from all over the world\nincluding Spain Portugal Canada and\nScotland to bring the broken Empires to\nlife in full Vivid color now I love a\ngood hardback game book and so that is\nwhat I'm going to give to you I've got\ngreat designers editors and rules\nConsultants to make sure we bring you\nthe very best version of the game we can\nand we're working with the largest most\nestablished printers manufacturers and\nfulfillment shops in the industry to\nmake sure the game arrives in your hands\non time and in pristine condition all\nthe things in the kickstarter are simply\ntop number and designed to last for\nyears and of course to look great on\nyour gaming team there's the core rule\nbook The leatherbound iridescent foil\nstamped premium rule book the starter\nset with the starter Adventure The\nWitches of grim preg characters terrain\nMaps condition tokens custom Dice and a\nfullscale map of the world of the broken\nEmpires and for the Die Hard Me Myself\nand die fans the products are filled\nwith Easter eggs that you will be sure\nto recognize we've planned all kinds of\namazing stretch goals including\nexpansion Adventures more beasts and\nmonsters to supplement the Beast are in\nthe book A spell Weaver's compendium and\nother books and tools to flesh out the\nworld new races new villains upgraded\nmetal dice a naval combat supplement a\nbroken Empire's dice tray and some\nsurprises that you'll just have to back\nthe product to see I couldn't be more\nexcited to bring the broken Empires to\nyou it has been a lifelong dream of mine\nto create this game over 40 years in the\nmaking and I couldn't do it without you\nso join us in the kickstarter today and\ncome experience what SIM light is all\nabout as always thanks for watching and\nthank you for your support and I will\nsee you in the broken Empires where the\ndice always tell the story\n"
+}

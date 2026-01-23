@@ -1,0 +1,2890 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,030",
+      "end_time": "00:00:07,020",
+      "text": "it's a bit of a hellish red glow that"
+    },
+    {
+      "start_time": "00:00:04,279",
+      "end_time": "00:00:10,639",
+      "text": "pulses up and fades behind them as they"
+    },
+    {
+      "start_time": "00:00:07,020",
+      "end_time": "00:00:10,639",
+      "text": "leave ooh that can't be good"
+    },
+    {
+      "start_time": "00:00:21,180",
+      "end_time": "00:00:26,050",
+      "text": "hello again and welcome back to me"
+    },
+    {
+      "start_time": "00:00:23,560",
+      "end_time": "00:00:28,750",
+      "text": "myself and die I am your intrepid host"
+    },
+    {
+      "start_time": "00:00:26,050",
+      "end_time": "00:00:30,340",
+      "text": "game master and player traveler Val just"
+    },
+    {
+      "start_time": "00:00:28,750",
+      "end_time": "00:00:32,140",
+      "text": "reminder if you like the show today"
+    },
+    {
+      "start_time": "00:00:30,340",
+      "end_time": "00:00:33,760",
+      "text": "don't forget to subscribe and leave a"
+    },
+    {
+      "start_time": "00:00:32,140",
+      "end_time": "00:00:35,739",
+      "text": "comment I do read them believe it or not"
+    },
+    {
+      "start_time": "00:00:33,760",
+      "end_time": "00:00:37,269",
+      "text": "I do read them also if you want to talk"
+    },
+    {
+      "start_time": "00:00:35,739",
+      "end_time": "00:00:39,489",
+      "text": "about the show on the Twitter's the"
+    },
+    {
+      "start_time": "00:00:37,269",
+      "end_time": "00:00:41,530",
+      "text": "Facebook CDs the grams or all that stuff"
+    },
+    {
+      "start_time": "00:00:39,489",
+      "end_time": "00:00:43,780",
+      "text": "every little bit helps to get the news"
+    },
+    {
+      "start_time": "00:00:41,530",
+      "end_time": "00:00:45,850",
+      "text": "out so thanks for watching by the way I"
+    },
+    {
+      "start_time": "00:00:43,780",
+      "end_time": "00:00:47,739",
+      "text": "really appreciate you guys keep keep"
+    },
+    {
+      "start_time": "00:00:45,850",
+      "end_time": "00:00:49,900",
+      "text": "tuning in and subscribing it it's pretty"
+    },
+    {
+      "start_time": "00:00:47,739",
+      "end_time": "00:00:51,519",
+      "text": "cool to see those numbers go up so just"
+    },
+    {
+      "start_time": "00:00:49,900",
+      "end_time": "00:00:53,530",
+      "text": "know that I'm enjoying this as much as"
+    },
+    {
+      "start_time": "00:00:51,519",
+      "end_time": "00:00:55,900",
+      "text": "hopefully you are so when we last left"
+    },
+    {
+      "start_time": "00:00:53,530",
+      "end_time": "00:00:57,460",
+      "text": "off with simon of august and he had just"
+    },
+    {
+      "start_time": "00:00:55,900",
+      "end_time": "00:00:59,530",
+      "text": "left the town of hood in datura the"
+    },
+    {
+      "start_time": "00:00:57,460",
+      "end_time": "00:01:01,900",
+      "text": "walled seaside town of hoon datura the"
+    },
+    {
+      "start_time": "00:00:59,530",
+      "end_time": "00:01:03,549",
+      "text": "walled booming seaside town of hoon"
+    },
+    {
+      "start_time": "00:01:01,900",
+      "end_time": "00:01:04,720",
+      "text": "datura and we discovered a few things"
+    },
+    {
+      "start_time": "00:01:03,549",
+      "end_time": "00:01:06,159",
+      "text": "about the world we discovered that"
+    },
+    {
+      "start_time": "00:01:04,720",
+      "end_time": "00:01:08,590",
+      "text": "there's a large ocean we discovered that"
+    },
+    {
+      "start_time": "00:01:06,159",
+      "end_time": "00:01:10,750",
+      "text": "there are a couple of temples to a sea"
+    },
+    {
+      "start_time": "00:01:08,590",
+      "end_time": "00:01:12,790",
+      "text": "god and a trade god and we discovered"
+    },
+    {
+      "start_time": "00:01:10,750",
+      "end_time": "00:01:15,250",
+      "text": "that there's a friendly merchant in in"
+    },
+    {
+      "start_time": "00:01:12,790",
+      "end_time": "00:01:17,560",
+      "text": "town at the sailors mess who is now an"
+    },
+    {
+      "start_time": "00:01:15,250",
+      "end_time": "00:01:19,210",
+      "text": "npc by the name of north who may or may"
+    },
+    {
+      "start_time": "00:01:17,560",
+      "end_time": "00:01:21,340",
+      "text": "not be a help for simon again in the"
+    },
+    {
+      "start_time": "00:01:19,210",
+      "end_time": "00:01:23,229",
+      "text": "future also interestingly enough simon"
+    },
+    {
+      "start_time": "00:01:21,340",
+      "end_time": "00:01:24,780",
+      "text": "did manage to find a hireling someone"
+    },
+    {
+      "start_time": "00:01:23,229",
+      "end_time": "00:01:28,359",
+      "text": "who's mad enough to go back to the"
+    },
+    {
+      "start_time": "00:01:24,780",
+      "end_time": "00:01:30,280",
+      "text": "necromantic temple with him a soldier an"
+    },
+    {
+      "start_time": "00:01:28,359",
+      "end_time": "00:01:32,560",
+      "text": "ex-soldier by the name of ed Burt who"
+    },
+    {
+      "start_time": "00:01:30,280",
+      "end_time": "00:01:34,420",
+      "text": "was haunted by the ghost of someone who"
+    },
+    {
+      "start_time": "00:01:32,560",
+      "end_time": "00:01:36,100",
+      "text": "he slew so these two have left hun"
+    },
+    {
+      "start_time": "00:01:34,420",
+      "end_time": "00:01:38,890",
+      "text": "datura behind and are now making their"
+    },
+    {
+      "start_time": "00:01:36,100",
+      "end_time": "00:01:40,960",
+      "text": "way back up the mountain to find the"
+    },
+    {
+      "start_time": "00:01:38,890",
+      "end_time": "00:01:44,439",
+      "text": "necromantic temple go inside and"
+    },
+    {
+      "start_time": "00:01:40,960",
+      "end_time": "00:01:46,990",
+      "text": "discover what secrets it holds besides a"
+    },
+    {
+      "start_time": "00:01:44,439",
+      "end_time": "00:01:49,030",
+      "text": "quick and horrible death let's hope"
+    },
+    {
+      "start_time": "00:01:46,990",
+      "end_time": "00:01:51,520",
+      "text": "that's not the case so the first thing"
+    },
+    {
+      "start_time": "00:01:49,030",
+      "end_time": "00:01:52,749",
+      "text": "we do is determine the next morning it's"
+    },
+    {
+      "start_time": "00:01:51,520",
+      "end_time": "00:01:53,799",
+      "text": "gonna take them a full day to get there"
+    },
+    {
+      "start_time": "00:01:52,749",
+      "end_time": "00:01:55,359",
+      "text": "we know what happens there let's just"
+    },
+    {
+      "start_time": "00:01:53,799",
+      "end_time": "00:01:56,710",
+      "text": "determine the weather let's just see"
+    },
+    {
+      "start_time": "00:01:55,359",
+      "end_time": "00:01:58,929",
+      "text": "what the weather's doing just that we"
+    },
+    {
+      "start_time": "00:01:56,710",
+      "end_time": "00:02:00,609",
+      "text": "know 17 is beautiful day beautiful"
+    },
+    {
+      "start_time": "00:01:58,929",
+      "end_time": "00:02:01,659",
+      "text": "summer's day leading into a beautiful"
+    },
+    {
+      "start_time": "00:02:00,609",
+      "end_time": "00:02:03,549",
+      "text": "summer's evening by the time they get"
+    },
+    {
+      "start_time": "00:02:01,659",
+      "end_time": "00:02:05,709",
+      "text": "there or do they get there maybe there's"
+    },
+    {
+      "start_time": "00:02:03,549",
+      "end_time": "00:02:07,689",
+      "text": "something that interrupts or amends"
+    },
+    {
+      "start_time": "00:02:05,709",
+      "end_time": "00:02:11,770",
+      "text": "their scene in some way the chaos factor"
+    },
+    {
+      "start_time": "00:02:07,689",
+      "end_time": "00:02:14,470",
+      "text": "is 6:10 so no it does not get"
+    },
+    {
+      "start_time": "00:02:11,770",
+      "end_time": "00:02:17,050",
+      "text": "interrupted or altered so they arrive at"
+    },
+    {
+      "start_time": "00:02:14,470",
+      "end_time": "00:02:19,180",
+      "text": "the temple at the end of the day just as"
+    },
+    {
+      "start_time": "00:02:17,050",
+      "end_time": "00:02:20,590",
+      "text": "the Sun is setting and they move up to"
+    },
+    {
+      "start_time": "00:02:19,180",
+      "end_time": "00:02:22,569",
+      "text": "the temple and they can see that the"
+    },
+    {
+      "start_time": "00:02:20,590",
+      "end_time": "00:02:24,910",
+      "text": "shattered remains of those skeletons out"
+    },
+    {
+      "start_time": "00:02:22,569",
+      "end_time": "00:02:27,850",
+      "text": "here now I don't know what's in this"
+    },
+    {
+      "start_time": "00:02:24,910",
+      "end_time": "00:02:29,650",
+      "text": "room I'm gonna ask the perilous wilds so"
+    },
+    {
+      "start_time": "00:02:27,850",
+      "end_time": "00:02:31,940",
+      "text": "in keeping with thee forbidden knowledge"
+    },
+    {
+      "start_time": "00:02:29,650",
+      "end_time": "00:02:33,830",
+      "text": "theme of this discovery that we made or"
+    },
+    {
+      "start_time": "00:02:31,940",
+      "end_time": "00:02:35,360",
+      "text": "this room that we made last time so what"
+    },
+    {
+      "start_time": "00:02:33,830",
+      "end_time": "00:02:36,530",
+      "text": "is forbidden a knowledge about this I"
+    },
+    {
+      "start_time": "00:02:35,360",
+      "end_time": "00:02:37,190",
+      "text": "think that it has something to do with"
+    },
+    {
+      "start_time": "00:02:36,530",
+      "end_time": "00:02:41,800",
+      "text": "the altar"
+    },
+    {
+      "start_time": "00:02:37,190",
+      "end_time": "00:02:46,130",
+      "text": "I think the altar here has like"
+    },
+    {
+      "start_time": "00:02:41,800",
+      "end_time": "00:02:49,580",
+      "text": "necromantic rooms inscribed on it simon"
+    },
+    {
+      "start_time": "00:02:46,130",
+      "end_time": "00:02:51,980",
+      "text": "and edward make their way up to the"
+    },
+    {
+      "start_time": "00:02:49,580",
+      "end_time": "00:02:53,090",
+      "text": "altar okay what are we what do we know"
+    },
+    {
+      "start_time": "00:02:51,980",
+      "end_time": "00:02:54,740",
+      "text": "about this place from last time we know"
+    },
+    {
+      "start_time": "00:02:53,090",
+      "end_time": "00:02:56,390",
+      "text": "the place has been abandoned for a"
+    },
+    {
+      "start_time": "00:02:54,740",
+      "end_time": "00:02:57,650",
+      "text": "couple hundred years we know it was"
+    },
+    {
+      "start_time": "00:02:56,390",
+      "end_time": "00:03:00,620",
+      "text": "overrun by monsters we know he was"
+    },
+    {
+      "start_time": "00:02:57,650",
+      "end_time": "00:03:02,840",
+      "text": "overrun by the undead so the question is"
+    },
+    {
+      "start_time": "00:03:00,620",
+      "end_time": "00:03:04,130",
+      "text": "is this altar has this altar been used"
+    },
+    {
+      "start_time": "00:03:02,840",
+      "end_time": "00:03:06,320",
+      "text": "at all recently I think that's probably"
+    },
+    {
+      "start_time": "00:03:04,130",
+      "end_time": "00:03:08,540",
+      "text": "unlikely but it's I'm gonna say very"
+    },
+    {
+      "start_time": "00:03:06,320",
+      "end_time": "00:03:11,450",
+      "text": "unlikely has this altar been used"
+    },
+    {
+      "start_time": "00:03:08,540",
+      "end_time": "00:03:14,870",
+      "text": "recently zero nine that is an extreme"
+    },
+    {
+      "start_time": "00:03:11,450",
+      "end_time": "00:03:17,000",
+      "text": "yes whoo so they get up to that altar"
+    },
+    {
+      "start_time": "00:03:14,870",
+      "end_time": "00:03:18,590",
+      "text": "and Simon hasn't had a chance to to"
+    },
+    {
+      "start_time": "00:03:17,000",
+      "end_time": "00:03:19,970",
+      "text": "examine the else's first giant the first"
+    },
+    {
+      "start_time": "00:03:18,590",
+      "end_time": "00:03:22,760",
+      "text": "chance he's got to examine the altar and"
+    },
+    {
+      "start_time": "00:03:19,970",
+      "end_time": "00:03:25,070",
+      "text": "they spread out and they see that the"
+    },
+    {
+      "start_time": "00:03:22,760",
+      "end_time": "00:03:26,510",
+      "text": "runes the strange necromantic wounds"
+    },
+    {
+      "start_time": "00:03:25,070",
+      "end_time": "00:03:30,830",
+      "text": "they're carved in the side of the stone"
+    },
+    {
+      "start_time": "00:03:26,510",
+      "end_time": "00:03:32,990",
+      "text": "altar are covered in blood Simon reaches"
+    },
+    {
+      "start_time": "00:03:30,830",
+      "end_time": "00:03:36,470",
+      "text": "out and he touches his finger to the"
+    },
+    {
+      "start_time": "00:03:32,990",
+      "end_time": "00:03:39,890",
+      "text": "altar it's fresh blood something has"
+    },
+    {
+      "start_time": "00:03:36,470",
+      "end_time": "00:03:41,630",
+      "text": "recently used this altar well has the"
+    },
+    {
+      "start_time": "00:03:39,890",
+      "end_time": "00:03:44,450",
+      "text": "altar been used by one of the denizens"
+    },
+    {
+      "start_time": "00:03:41,630",
+      "end_time": "00:03:48,130",
+      "text": "of the temple I think that's pretty"
+    },
+    {
+      "start_time": "00:03:44,450",
+      "end_time": "00:03:50,239",
+      "text": "likely I'm gonna call that likely after"
+    },
+    {
+      "start_time": "00:03:48,130",
+      "end_time": "00:03:52,610",
+      "text": "676 yes correct"
+    },
+    {
+      "start_time": "00:03:50,239",
+      "end_time": "00:03:56,239",
+      "text": "so the the altar has been recently used"
+    },
+    {
+      "start_time": "00:03:52,610",
+      "end_time": "00:04:00,530",
+      "text": "and it is covered in blood mmm Simon"
+    },
+    {
+      "start_time": "00:03:56,239",
+      "end_time": "00:04:03,040",
+      "text": "looks to edwart well it seems that the"
+    },
+    {
+      "start_time": "00:04:00,530",
+      "end_time": "00:04:06,230",
+      "text": "dead do not rest quietly in this place"
+    },
+    {
+      "start_time": "00:04:03,040",
+      "end_time": "00:04:08,750",
+      "text": "we think we should press on there's"
+    },
+    {
+      "start_time": "00:04:06,230",
+      "end_time": "00:04:10,100",
+      "text": "nothing to find errors there Simon can't"
+    },
+    {
+      "start_time": "00:04:08,750",
+      "end_time": "00:04:11,630",
+      "text": "read these rooms he has no idea what"
+    },
+    {
+      "start_time": "00:04:10,100",
+      "end_time": "00:04:15,620",
+      "text": "this means he has no knowledge of any"
+    },
+    {
+      "start_time": "00:04:11,630",
+      "end_time": "00:04:17,060",
+      "text": "kind of like magical rituals anything"
+    },
+    {
+      "start_time": "00:04:15,620",
+      "end_time": "00:04:19,430",
+      "text": "like this this is a total mystery to him"
+    },
+    {
+      "start_time": "00:04:17,060",
+      "end_time": "00:04:21,500",
+      "text": "I suppose there's a tiny chance that"
+    },
+    {
+      "start_time": "00:04:19,430",
+      "end_time": "00:04:23,210",
+      "text": "maybe Ed Burt knows something about this"
+    },
+    {
+      "start_time": "00:04:21,500",
+      "end_time": "00:04:25,430",
+      "text": "he was a soldier maybe he fought in some"
+    },
+    {
+      "start_time": "00:04:23,210",
+      "end_time": "00:04:26,840",
+      "text": "weird places you know maybe we fought"
+    },
+    {
+      "start_time": "00:04:25,430",
+      "end_time": "00:04:29,060",
+      "text": "against the undead at one place I had a"
+    },
+    {
+      "start_time": "00:04:26,840",
+      "end_time": "00:04:31,730",
+      "text": "call that it's no way there's no way he"
+    },
+    {
+      "start_time": "00:04:29,060",
+      "end_time": "00:04:33,560",
+      "text": "knows anything about this zero nine he"
+    },
+    {
+      "start_time": "00:04:31,730",
+      "end_time": "00:04:35,270",
+      "text": "does he actually knows something about"
+    },
+    {
+      "start_time": "00:04:33,560",
+      "end_time": "00:04:37,280",
+      "text": "this ed Burt goes up to the rooms carved"
+    },
+    {
+      "start_time": "00:04:35,270",
+      "end_time": "00:04:37,889",
+      "text": "in the altar and he looks at them and"
+    },
+    {
+      "start_time": "00:04:37,280",
+      "end_time": "00:04:42,270",
+      "text": "he's"
+    },
+    {
+      "start_time": "00:04:37,889",
+      "end_time": "00:04:43,229",
+      "text": "I can read this Simon's incredulous you"
+    },
+    {
+      "start_time": "00:04:42,270",
+      "end_time": "00:04:47,400",
+      "text": "know what this means"
+    },
+    {
+      "start_time": "00:04:43,229",
+      "end_time": "00:04:51,090",
+      "text": "oh I'm no necromancer but I know what"
+    },
+    {
+      "start_time": "00:04:47,400",
+      "end_time": "00:04:52,530",
+      "text": "this ritual is well I don't I don't know"
+    },
+    {
+      "start_time": "00:04:51,090",
+      "end_time": "00:04:54,510",
+      "text": "what the ritual is so I'm just going to"
+    },
+    {
+      "start_time": "00:04:52,530",
+      "end_time": "00:04:57,720",
+      "text": "randomly determine what the ritual is by"
+    },
+    {
+      "start_time": "00:04:54,510",
+      "end_time": "00:04:59,820",
+      "text": "rolling on the Fate chart rolling an act"
+    },
+    {
+      "start_time": "00:04:57,720",
+      "end_time": "00:05:01,500",
+      "text": "and invent action and subject so what is"
+    },
+    {
+      "start_time": "00:04:59,820",
+      "end_time": "00:05:07,199",
+      "text": "this ritual all about this ritual is"
+    },
+    {
+      "start_time": "00:05:01,500",
+      "end_time": "00:05:09,900",
+      "text": "about oppress thirteen war a press war"
+    },
+    {
+      "start_time": "00:05:07,199",
+      "end_time": "00:05:12,240",
+      "text": "so against war to stop war from"
+    },
+    {
+      "start_time": "00:05:09,900",
+      "end_time": "00:05:13,830",
+      "text": "happening that's how I interpret that so"
+    },
+    {
+      "start_time": "00:05:12,240",
+      "end_time": "00:05:15,449",
+      "text": "the creature that is responsible"
+    },
+    {
+      "start_time": "00:05:13,830",
+      "end_time": "00:05:18,750",
+      "text": "presumably the undead creature that's"
+    },
+    {
+      "start_time": "00:05:15,449",
+      "end_time": "00:05:22,080",
+      "text": "using this temple he's using it to stop"
+    },
+    {
+      "start_time": "00:05:18,750",
+      "end_time": "00:05:23,820",
+      "text": "a war well that's really odd the the"
+    },
+    {
+      "start_time": "00:05:22,080",
+      "end_time": "00:05:28,169",
+      "text": "master of this temple whoever that is"
+    },
+    {
+      "start_time": "00:05:23,820",
+      "end_time": "00:05:30,389",
+      "text": "has recently awakened and is using the"
+    },
+    {
+      "start_time": "00:05:28,169",
+      "end_time": "00:05:32,100",
+      "text": "power of this temple to call upon their"
+    },
+    {
+      "start_time": "00:05:30,389",
+      "end_time": "00:05:34,500",
+      "text": "God their dark God whatever that is"
+    },
+    {
+      "start_time": "00:05:32,100",
+      "end_time": "00:05:37,410",
+      "text": "whoever that is to stop a war from"
+    },
+    {
+      "start_time": "00:05:34,500",
+      "end_time": "00:05:39,360",
+      "text": "happening a war on this place yeah I"
+    },
+    {
+      "start_time": "00:05:37,410",
+      "end_time": "00:05:40,770",
+      "text": "think that's probably good bet that"
+    },
+    {
+      "start_time": "00:05:39,360",
+      "end_time": "00:05:43,349",
+      "text": "there's some other group that's trying"
+    },
+    {
+      "start_time": "00:05:40,770",
+      "end_time": "00:05:47,360",
+      "text": "to wipe out this group of undead maybe"
+    },
+    {
+      "start_time": "00:05:43,349",
+      "end_time": "00:05:49,770",
+      "text": "sure let's find out fifty-fifty on that"
+    },
+    {
+      "start_time": "00:05:47,360",
+      "end_time": "00:05:51,479",
+      "text": "eighteen the answer is yes you know what"
+    },
+    {
+      "start_time": "00:05:49,770",
+      "end_time": "00:05:53,430",
+      "text": "I think it is I think it's a group of"
+    },
+    {
+      "start_time": "00:05:51,479",
+      "end_time": "00:05:55,139",
+      "text": "undead hunters I think it's a group of"
+    },
+    {
+      "start_time": "00:05:53,430",
+      "end_time": "00:05:56,729",
+      "text": "like paladin's clerics this kind of"
+    },
+    {
+      "start_time": "00:05:55,139",
+      "end_time": "00:05:58,229",
+      "text": "thing I think it's a holy group of"
+    },
+    {
+      "start_time": "00:05:56,729",
+      "end_time": "00:06:00,780",
+      "text": "people that are trying that are on their"
+    },
+    {
+      "start_time": "00:05:58,229",
+      "end_time": "00:06:02,400",
+      "text": "way even now to wipe this place out now"
+    },
+    {
+      "start_time": "00:06:00,780",
+      "end_time": "00:06:03,900",
+      "text": "Simon knows nothing about this at the"
+    },
+    {
+      "start_time": "00:06:02,400",
+      "end_time": "00:06:07,410",
+      "text": "temple of thorzain is about to be"
+    },
+    {
+      "start_time": "00:06:03,900",
+      "end_time": "00:06:11,699",
+      "text": "cleansed by the order of the purifying"
+    },
+    {
+      "start_time": "00:06:07,410",
+      "end_time": "00:06:13,860",
+      "text": "flame so it's it's some sort of clerical"
+    },
+    {
+      "start_time": "00:06:11,699",
+      "end_time": "00:06:16,710",
+      "text": "order that's coming to destroy this"
+    },
+    {
+      "start_time": "00:06:13,860",
+      "end_time": "00:06:18,419",
+      "text": "place and the the the creature whatever"
+    },
+    {
+      "start_time": "00:06:16,710",
+      "end_time": "00:06:19,740",
+      "text": "I keep wanting to call it a little it's"
+    },
+    {
+      "start_time": "00:06:18,419",
+      "end_time": "00:06:21,419",
+      "text": "alleged I hope it's been alleged cuz if"
+    },
+    {
+      "start_time": "00:06:19,740",
+      "end_time": "00:06:23,340",
+      "text": "it's allege these guys are probably dead"
+    },
+    {
+      "start_time": "00:06:21,419",
+      "end_time": "00:06:25,500",
+      "text": "well let's let's find out let's just get"
+    },
+    {
+      "start_time": "00:06:23,340",
+      "end_time": "00:06:28,139",
+      "text": "this out of the way is it some sort of"
+    },
+    {
+      "start_time": "00:06:25,500",
+      "end_time": "00:06:29,430",
+      "text": "powerful Lich that is actually at the"
+    },
+    {
+      "start_time": "00:06:28,139",
+      "end_time": "00:06:32,220",
+      "text": "heart of this temple that's doing this"
+    },
+    {
+      "start_time": "00:06:29,430",
+      "end_time": "00:06:33,419",
+      "text": "I'm gonna say there's no way there's no"
+    },
+    {
+      "start_time": "00:06:32,220",
+      "end_time": "00:06:35,669",
+      "text": "way no in fact I'm gonna say it's"
+    },
+    {
+      "start_time": "00:06:33,419",
+      "end_time": "00:06:38,130",
+      "text": "impossible that that's the case I'm"
+    },
+    {
+      "start_time": "00:06:35,669",
+      "end_time": "00:06:40,380",
+      "text": "gonna give myself a break here 41 no it"
+    },
+    {
+      "start_time": "00:06:38,130",
+      "end_time": "00:06:42,210",
+      "text": "is not a spell-casting Lich that's gonna"
+    },
+    {
+      "start_time": "00:06:40,380",
+      "end_time": "00:06:44,490",
+      "text": "kill Simon and advert immediately like"
+    },
+    {
+      "start_time": "00:06:42,210",
+      "end_time": "00:06:46,110",
+      "text": "that like that like that which is good"
+    },
+    {
+      "start_time": "00:06:44,490",
+      "end_time": "00:06:48,300",
+      "text": "gives us a fighting chance but whatever"
+    },
+    {
+      "start_time": "00:06:46,110",
+      "end_time": "00:06:50,010",
+      "text": "is the master of this place is currently"
+    },
+    {
+      "start_time": "00:06:48,300",
+      "end_time": "00:06:51,020",
+      "text": "trying to bolster the defenses because"
+    },
+    {
+      "start_time": "00:06:50,010",
+      "end_time": "00:06:53,720",
+      "text": "it knows"
+    },
+    {
+      "start_time": "00:06:51,020",
+      "end_time": "00:06:56,150",
+      "text": "now perhaps through some miraculous that"
+    },
+    {
+      "start_time": "00:06:53,720",
+      "end_time": "00:06:58,370",
+      "text": "this order of the purifying flame is"
+    },
+    {
+      "start_time": "00:06:56,150",
+      "end_time": "00:06:59,720",
+      "text": "enroute now I don't know if they're"
+    },
+    {
+      "start_time": "00:06:58,370",
+      "end_time": "00:07:01,789",
+      "text": "gonna get here while Simon is still here"
+    },
+    {
+      "start_time": "00:06:59,720",
+      "end_time": "00:07:03,409",
+      "text": "but I need to keep that in mind so ed"
+    },
+    {
+      "start_time": "00:07:01,789",
+      "end_time": "00:07:07,580",
+      "text": "Burton looks at these necromantic rooms"
+    },
+    {
+      "start_time": "00:07:03,409",
+      "end_time": "00:07:10,400",
+      "text": "and he says to Simon this is a warning"
+    },
+    {
+      "start_time": "00:07:07,580",
+      "end_time": "00:07:13,099",
+      "text": "spell of some sort I've seen this before"
+    },
+    {
+      "start_time": "00:07:10,400",
+      "end_time": "00:07:16,669",
+      "text": "someone here is trying to create a"
+    },
+    {
+      "start_time": "00:07:13,099",
+      "end_time": "00:07:19,940",
+      "text": "protective shell around this place so"
+    },
+    {
+      "start_time": "00:07:16,669",
+      "end_time": "00:07:21,620",
+      "text": "that cannot be entered I don't know who"
+    },
+    {
+      "start_time": "00:07:19,940",
+      "end_time": "00:07:24,740",
+      "text": "that you're thinking of protecting this"
+    },
+    {
+      "start_time": "00:07:21,620",
+      "end_time": "00:07:30,080",
+      "text": "place from but it's recent as you can"
+    },
+    {
+      "start_time": "00:07:24,740",
+      "end_time": "00:07:34,580",
+      "text": "see yes we must press on they decide to"
+    },
+    {
+      "start_time": "00:07:30,080",
+      "end_time": "00:07:36,979",
+      "text": "leave through the centre chamber what do"
+    },
+    {
+      "start_time": "00:07:34,580",
+      "end_time": "00:07:38,479",
+      "text": "they find in the center chamber we're"
+    },
+    {
+      "start_time": "00:07:36,979",
+      "end_time": "00:07:40,759",
+      "text": "gonna go to our book and we're gonna see"
+    },
+    {
+      "start_time": "00:07:38,479",
+      "end_time": "00:07:44,120",
+      "text": "so they walk down a corridor for some"
+    },
+    {
+      "start_time": "00:07:40,759",
+      "end_time": "00:07:46,699",
+      "text": "time Simon lights a torch because it's"
+    },
+    {
+      "start_time": "00:07:44,120",
+      "end_time": "00:07:48,979",
+      "text": "pitch black in here there's a terrible"
+    },
+    {
+      "start_time": "00:07:46,699",
+      "end_time": "00:07:52,069",
+      "text": "smell of rot and decay coming through"
+    },
+    {
+      "start_time": "00:07:48,979",
+      "end_time": "00:07:54,979",
+      "text": "this whole area we were all our d12 to"
+    },
+    {
+      "start_time": "00:07:52,069",
+      "end_time": "00:07:58,969",
+      "text": "see what do they find they leave the"
+    },
+    {
+      "start_time": "00:07:54,979",
+      "end_time": "00:08:01,789",
+      "text": "area 11 unique discovery and a danger"
+    },
+    {
+      "start_time": "00:07:58,969",
+      "end_time": "00:08:05,180",
+      "text": "and it is also a themed area well like"
+    },
+    {
+      "start_time": "00:08:01,789",
+      "end_time": "00:08:06,590",
+      "text": "to keep things interesting forbidden"
+    },
+    {
+      "start_time": "00:08:05,180",
+      "end_time": "00:08:09,380",
+      "text": "knowledge once again it's one of the"
+    },
+    {
+      "start_time": "00:08:06,590",
+      "end_time": "00:08:11,270",
+      "text": "unique areas the kitchens what's"
+    },
+    {
+      "start_time": "00:08:09,380",
+      "end_time": "00:08:13,880",
+      "text": "forbidden about the necromancy kitchens"
+    },
+    {
+      "start_time": "00:08:11,270",
+      "end_time": "00:08:15,139",
+      "text": "the discovery is going to be and this is"
+    },
+    {
+      "start_time": "00:08:13,880",
+      "end_time": "00:08:16,639",
+      "text": "all stuff you can find right here in the"
+    },
+    {
+      "start_time": "00:08:15,139",
+      "end_time": "00:08:17,930",
+      "text": "perilous walls again this this"
+    },
+    {
+      "start_time": "00:08:16,639",
+      "end_time": "00:08:19,639",
+      "text": "supplement is designed for dungeon world"
+    },
+    {
+      "start_time": "00:08:17,930",
+      "end_time": "00:08:22,279",
+      "text": "but I use it for this because it works"
+    },
+    {
+      "start_time": "00:08:19,639",
+      "end_time": "00:08:25,370",
+      "text": "just as well all right the discovery is"
+    },
+    {
+      "start_time": "00:08:22,279",
+      "end_time": "00:08:27,349",
+      "text": "going to be a feature an altar a diester"
+    },
+    {
+      "start_time": "00:08:25,370",
+      "end_time": "00:08:29,810",
+      "text": "platform so there's another altar in the"
+    },
+    {
+      "start_time": "00:08:27,349",
+      "end_time": "00:08:32,180",
+      "text": "kitchens interesting maybe there's"
+    },
+    {
+      "start_time": "00:08:29,810",
+      "end_time": "00:08:34,669",
+      "text": "little altars all throughout this area"
+    },
+    {
+      "start_time": "00:08:32,180",
+      "end_time": "00:08:36,229",
+      "text": "what is the danger though it's a"
+    },
+    {
+      "start_time": "00:08:34,669",
+      "end_time": "00:08:39,169",
+      "text": "creature of course and what is the"
+    },
+    {
+      "start_time": "00:08:36,229",
+      "end_time": "00:08:41,050",
+      "text": "creature doing the creature is sleeping"
+    },
+    {
+      "start_time": "00:08:39,169",
+      "end_time": "00:08:44,600",
+      "text": "is this an undead creature"
+    },
+    {
+      "start_time": "00:08:41,050",
+      "end_time": "00:08:47,720",
+      "text": "it says sleeping but undead don't sleep"
+    },
+    {
+      "start_time": "00:08:44,600",
+      "end_time": "00:08:49,399",
+      "text": "so I don't think it is undead let's say"
+    },
+    {
+      "start_time": "00:08:47,720",
+      "end_time": "00:08:51,649",
+      "text": "there's no way it's Undead how could an"
+    },
+    {
+      "start_time": "00:08:49,399",
+      "end_time": "00:08:52,670",
+      "text": "undead be asleep right 48 no so it's"
+    },
+    {
+      "start_time": "00:08:51,649",
+      "end_time": "00:08:54,589",
+      "text": "definitely under dead so this is"
+    },
+    {
+      "start_time": "00:08:52,670",
+      "end_time": "00:08:58,370",
+      "text": "something else that's gone into the"
+    },
+    {
+      "start_time": "00:08:54,589",
+      "end_time": "00:08:59,649",
+      "text": "temple and is sleeping humanoid what are"
+    },
+    {
+      "start_time": "00:08:58,370",
+      "end_time": "00:09:03,980",
+      "text": "they they are"
+    },
+    {
+      "start_time": "00:08:59,649",
+      "end_time": "00:09:06,760",
+      "text": "Hobgoblin what's a Hobgoblin doing in an"
+    },
+    {
+      "start_time": "00:09:03,980",
+      "end_time": "00:09:10,880",
+      "text": "undead temple that is clearly active and"
+    },
+    {
+      "start_time": "00:09:06,760",
+      "end_time": "00:09:12,620",
+      "text": "sleeping oh is it is it as it'd been put"
+    },
+    {
+      "start_time": "00:09:10,880",
+      "end_time": "00:09:15,589",
+      "text": "to sleep has it been in sore saled is it"
+    },
+    {
+      "start_time": "00:09:12,620",
+      "end_time": "00:09:18,079",
+      "text": "a sorcerer asleep yes so how many"
+    },
+    {
+      "start_time": "00:09:15,589",
+      "end_time": "00:09:20,839",
+      "text": "hobgoblins are there by the way how many"
+    },
+    {
+      "start_time": "00:09:18,079",
+      "end_time": "00:09:24,170",
+      "text": "Hobgoblin seriously there are six"
+    },
+    {
+      "start_time": "00:09:20,839",
+      "end_time": "00:09:28,970",
+      "text": "sleeping hobgoblins in this area in the"
+    },
+    {
+      "start_time": "00:09:24,170",
+      "end_time": "00:09:31,040",
+      "text": "kitchens so Simon and Ed Bert creep into"
+    },
+    {
+      "start_time": "00:09:28,970",
+      "end_time": "00:09:34,279",
+      "text": "what is obviously an old run-down"
+    },
+    {
+      "start_time": "00:09:31,040",
+      "end_time": "00:09:36,560",
+      "text": "kitchen weirdly in the center of the"
+    },
+    {
+      "start_time": "00:09:34,279",
+      "end_time": "00:09:38,089",
+      "text": "kitchen there is also another altar very"
+    },
+    {
+      "start_time": "00:09:36,560",
+      "end_time": "00:09:40,339",
+      "text": "much like the altar that they found in"
+    },
+    {
+      "start_time": "00:09:38,089",
+      "end_time": "00:09:42,320",
+      "text": "the main temple smaller this time but"
+    },
+    {
+      "start_time": "00:09:40,339",
+      "end_time": "00:09:43,640",
+      "text": "still the same construction and ed Bert"
+    },
+    {
+      "start_time": "00:09:42,320",
+      "end_time": "00:09:46,490",
+      "text": "even points out the exact same"
+    },
+    {
+      "start_time": "00:09:43,640",
+      "end_time": "00:09:47,089",
+      "text": "necromantic runes around it but in the"
+    },
+    {
+      "start_time": "00:09:46,490",
+      "end_time": "00:09:50,120",
+      "text": "kitchen"
+    },
+    {
+      "start_time": "00:09:47,089",
+      "end_time": "00:09:53,270",
+      "text": "clearly slumped over tables slumped over"
+    },
+    {
+      "start_time": "00:09:50,120",
+      "end_time": "00:09:56,240",
+      "text": "countertops are a group of hobgoblins"
+    },
+    {
+      "start_time": "00:09:53,270",
+      "end_time": "00:09:56,810",
+      "text": "big burly regular goblins like bigger"
+    },
+    {
+      "start_time": "00:09:56,240",
+      "end_time": "00:09:59,779",
+      "text": "tougher"
+    },
+    {
+      "start_time": "00:09:56,810",
+      "end_time": "00:10:04,550",
+      "text": "duskier cousin and there's six of them"
+    },
+    {
+      "start_time": "00:09:59,779",
+      "end_time": "00:10:04,910",
+      "text": "and they're all there clearly down for"
+    },
+    {
+      "start_time": "00:10:04,550",
+      "end_time": "00:10:07,010",
+      "text": "the count"
+    },
+    {
+      "start_time": "00:10:04,910",
+      "end_time": "00:10:11,440",
+      "text": "was it a trap that put them asleep I"
+    },
+    {
+      "start_time": "00:10:07,010",
+      "end_time": "00:10:14,000",
+      "text": "have no idea fifty fifty zero nine yes"
+    },
+    {
+      "start_time": "00:10:11,440",
+      "end_time": "00:10:17,480",
+      "text": "exceptional yes which means the trap is"
+    },
+    {
+      "start_time": "00:10:14,000",
+      "end_time": "00:10:20,390",
+      "text": "still active so ed Bert and Simon creep"
+    },
+    {
+      "start_time": "00:10:17,480",
+      "end_time": "00:10:22,730",
+      "text": "into the room into the kitchen a fairly"
+    },
+    {
+      "start_time": "00:10:20,390",
+      "end_time": "00:10:24,529",
+      "text": "large area but again old lever things"
+    },
+    {
+      "start_time": "00:10:22,730",
+      "end_time": "00:10:26,209",
+      "text": "covered in cobwebs there's a layer of"
+    },
+    {
+      "start_time": "00:10:24,529",
+      "end_time": "00:10:28,040",
+      "text": "thick dust on everything I think there's"
+    },
+    {
+      "start_time": "00:10:26,209",
+      "end_time": "00:10:29,569",
+      "text": "basically skeletons everywhere in this"
+    },
+    {
+      "start_time": "00:10:28,040",
+      "end_time": "00:10:31,399",
+      "text": "place because it was overrun by monsters"
+    },
+    {
+      "start_time": "00:10:29,569",
+      "end_time": "00:10:33,470",
+      "text": "so the undead creations did sort of"
+    },
+    {
+      "start_time": "00:10:31,399",
+      "end_time": "00:10:36,230",
+      "text": "break free and kill their priestly"
+    },
+    {
+      "start_time": "00:10:33,470",
+      "end_time": "00:10:38,750",
+      "text": "masters so there's the remains of a"
+    },
+    {
+      "start_time": "00:10:36,230",
+      "end_time": "00:10:40,510",
+      "text": "bunch of priests who look like they were"
+    },
+    {
+      "start_time": "00:10:38,750",
+      "end_time": "00:10:43,220",
+      "text": "slaughtered while they were at that"
+    },
+    {
+      "start_time": "00:10:40,510",
+      "end_time": "00:10:45,199",
+      "text": "supper basically but among them are"
+    },
+    {
+      "start_time": "00:10:43,220",
+      "end_time": "00:10:46,670",
+      "text": "these sleeping goblins one of them is"
+    },
+    {
+      "start_time": "00:10:45,199",
+      "end_time": "00:10:48,290",
+      "text": "slumped over a table and other ones"
+    },
+    {
+      "start_time": "00:10:46,670",
+      "end_time": "00:10:51,050",
+      "text": "right in front of them by the doorway"
+    },
+    {
+      "start_time": "00:10:48,290",
+      "end_time": "00:10:52,550",
+      "text": "what kind of trap is it like a pressure"
+    },
+    {
+      "start_time": "00:10:51,050",
+      "end_time": "00:10:54,500",
+      "text": "plate I don't think it's a pressure"
+    },
+    {
+      "start_time": "00:10:52,550",
+      "end_time": "00:10:58,699",
+      "text": "plate but it might be I'm gonna call"
+    },
+    {
+      "start_time": "00:10:54,500",
+      "end_time": "00:11:00,890",
+      "text": "that very unlikely xxx yes it is it is a"
+    },
+    {
+      "start_time": "00:10:58,699",
+      "end_time": "00:11:02,990",
+      "text": "pressure plate okay so as they walk in"
+    },
+    {
+      "start_time": "00:11:00,890",
+      "end_time": "00:11:07,100",
+      "text": "again the the floor of the kitchen"
+    },
+    {
+      "start_time": "00:11:02,990",
+      "end_time": "00:11:09,770",
+      "text": "covered in grime mildew the whole place"
+    },
+    {
+      "start_time": "00:11:07,100",
+      "end_time": "00:11:12,110",
+      "text": "this this decaying scent and now the"
+    },
+    {
+      "start_time": "00:11:09,770",
+      "end_time": "00:11:13,940",
+      "text": "smell of hobgoblins as well but as simon"
+    },
+    {
+      "start_time": "00:11:12,110",
+      "end_time": "00:11:16,580",
+      "text": "and a dead bird walk in the question now"
+    },
+    {
+      "start_time": "00:11:13,940",
+      "end_time": "00:11:19,190",
+      "text": "is do they see the pressure plate before"
+    },
+    {
+      "start_time": "00:11:16,580",
+      "end_time": "00:11:22,940",
+      "text": "they this is gonna be notice rolls yeah"
+    },
+    {
+      "start_time": "00:11:19,190",
+      "end_time": "00:11:24,230",
+      "text": "he sucks I say that a lot in this show"
+    },
+    {
+      "start_time": "00:11:22,940",
+      "end_time": "00:11:26,240",
+      "text": "Simon sucks"
+    },
+    {
+      "start_time": "00:11:24,230",
+      "end_time": "00:11:28,730",
+      "text": "I think it's noticing he's gonna notice"
+    },
+    {
+      "start_time": "00:11:26,240",
+      "end_time": "00:11:31,520",
+      "text": "if d4 does he see it for you will"
+    },
+    {
+      "start_time": "00:11:28,730",
+      "end_time": "00:11:35,240",
+      "text": "succeed so yes he does see adverts"
+    },
+    {
+      "start_time": "00:11:31,520",
+      "end_time": "00:11:36,800",
+      "text": "notices d6 he explodes of course 9 so he"
+    },
+    {
+      "start_time": "00:11:35,240",
+      "end_time": "00:11:38,090",
+      "text": "succeeds with a raise ed Burt suddenly"
+    },
+    {
+      "start_time": "00:11:36,800",
+      "end_time": "00:11:40,970",
+      "text": "puts his hand over time in front of"
+    },
+    {
+      "start_time": "00:11:38,090",
+      "end_time": "00:11:42,770",
+      "text": "Simon and Simon stops and looks down and"
+    },
+    {
+      "start_time": "00:11:40,970",
+      "end_time": "00:11:45,440",
+      "text": "Ed Burke kind of very quietly points out"
+    },
+    {
+      "start_time": "00:11:42,770",
+      "end_time": "00:11:47,780",
+      "text": "on the floor and there's a section of"
+    },
+    {
+      "start_time": "00:11:45,440",
+      "end_time": "00:11:49,790",
+      "text": "the floor there's a a big flagstone in"
+    },
+    {
+      "start_time": "00:11:47,780",
+      "end_time": "00:11:51,320",
+      "text": "the floor that's just higher than the"
+    },
+    {
+      "start_time": "00:11:49,790",
+      "end_time": "00:11:53,270",
+      "text": "rest of the flagstones almost like it's"
+    },
+    {
+      "start_time": "00:11:51,320",
+      "end_time": "00:11:55,570",
+      "text": "some sort of well pressure plate ed bird"
+    },
+    {
+      "start_time": "00:11:53,270",
+      "end_time": "00:11:58,250",
+      "text": "looks at that and he whispers to Simon"
+    },
+    {
+      "start_time": "00:11:55,570",
+      "end_time": "00:12:01,220",
+      "text": "I've seen things like this before I"
+    },
+    {
+      "start_time": "00:11:58,250",
+      "end_time": "00:12:02,630",
+      "text": "think this is some sort of trap it may"
+    },
+    {
+      "start_time": "00:12:01,220",
+      "end_time": "00:12:05,810",
+      "text": "be the trap to put these creatures"
+    },
+    {
+      "start_time": "00:12:02,630",
+      "end_time": "00:12:08,270",
+      "text": "asleep they gingerly step around at the"
+    },
+    {
+      "start_time": "00:12:05,810",
+      "end_time": "00:12:11,870",
+      "text": "pressure plate now the question is do"
+    },
+    {
+      "start_time": "00:12:08,270",
+      "end_time": "00:12:13,280",
+      "text": "they dispatch these hobgoblins I think"
+    },
+    {
+      "start_time": "00:12:11,870",
+      "end_time": "00:12:14,570",
+      "text": "there's a good chance that adverts"
+    },
+    {
+      "start_time": "00:12:13,280",
+      "end_time": "00:12:16,070",
+      "text": "definitely gonna want to do that he's"
+    },
+    {
+      "start_time": "00:12:14,570",
+      "end_time": "00:12:17,270",
+      "text": "encountered these creatures before as a"
+    },
+    {
+      "start_time": "00:12:16,070",
+      "end_time": "00:12:19,130",
+      "text": "soldier and he knows that if these"
+    },
+    {
+      "start_time": "00:12:17,270",
+      "end_time": "00:12:21,530",
+      "text": "things come running up running up behind"
+    },
+    {
+      "start_time": "00:12:19,130",
+      "end_time": "00:12:22,910",
+      "text": "him it's gonna be bad news I think it's"
+    },
+    {
+      "start_time": "00:12:21,530",
+      "end_time": "00:12:26,570",
+      "text": "very likely he wants to do that chaos"
+    },
+    {
+      "start_time": "00:12:22,910",
+      "end_time": "00:12:29,510",
+      "text": "factor 6:08 absolutely yes in fact he"
+    },
+    {
+      "start_time": "00:12:26,570",
+      "end_time": "00:12:33,080",
+      "text": "doesn't even wait to tell Simon he just"
+    },
+    {
+      "start_time": "00:12:29,510",
+      "end_time": "00:12:34,790",
+      "text": "pulls out his knife and goes up and cuts"
+    },
+    {
+      "start_time": "00:12:33,080",
+      "end_time": "00:12:37,070",
+      "text": "one's throat Simon looks here's the"
+    },
+    {
+      "start_time": "00:12:34,790",
+      "end_time": "00:12:39,680",
+      "text": "thing if they blow it and wake one of"
+    },
+    {
+      "start_time": "00:12:37,070",
+      "end_time": "00:12:41,360",
+      "text": "them up before the job is done so here's"
+    },
+    {
+      "start_time": "00:12:39,680",
+      "end_time": "00:12:43,700",
+      "text": "we're gonna do these things are asleep"
+    },
+    {
+      "start_time": "00:12:41,360",
+      "end_time": "00:12:46,280",
+      "text": "but sleep and savage worlds means that"
+    },
+    {
+      "start_time": "00:12:43,700",
+      "end_time": "00:12:48,140",
+      "text": "if you make any kind of noise normal"
+    },
+    {
+      "start_time": "00:12:46,280",
+      "end_time": "00:12:50,450",
+      "text": "noise that could rouse them from their"
+    },
+    {
+      "start_time": "00:12:48,140",
+      "end_time": "00:12:53,810",
+      "text": "slumbers so can they murder these"
+    },
+    {
+      "start_time": "00:12:50,450",
+      "end_time": "00:12:56,270",
+      "text": "creatures in their sleep yeah they're"
+    },
+    {
+      "start_time": "00:12:53,810",
+      "end_time": "00:12:59,000",
+      "text": "monsters they have goblins very well"
+    },
+    {
+      "start_time": "00:12:56,270",
+      "end_time": "00:13:00,620",
+      "text": "they gotta go can they do it quietly if"
+    },
+    {
+      "start_time": "00:12:59,000",
+      "end_time": "00:13:02,930",
+      "text": "we're gonna do a stealth roll Simon's"
+    },
+    {
+      "start_time": "00:13:00,620",
+      "end_time": "00:13:05,900",
+      "text": "really good at this he's gonna roll d8"
+    },
+    {
+      "start_time": "00:13:02,930",
+      "end_time": "00:13:07,280",
+      "text": "and a d6 if he fails on this one or more"
+    },
+    {
+      "start_time": "00:13:05,900",
+      "end_time": "00:13:10,010",
+      "text": "of those hobgoblins are gonna wake up"
+    },
+    {
+      "start_time": "00:13:07,280",
+      "end_time": "00:13:12,680",
+      "text": "boom he rolls a success with the 7 ed"
+    },
+    {
+      "start_time": "00:13:10,010",
+      "end_time": "00:13:14,270",
+      "text": "Burt has a d6 him he's an X ray doesn't"
+    },
+    {
+      "start_time": "00:13:12,680",
+      "end_time": "00:13:19,620",
+      "text": "roll a while that he also succeeds so"
+    },
+    {
+      "start_time": "00:13:14,270",
+      "end_time": "00:13:22,529",
+      "text": "they are able to dispatch all 6 hog"
+    },
+    {
+      "start_time": "00:13:19,620",
+      "end_time": "00:13:24,199",
+      "text": "adding their blood to the altar that"
+    },
+    {
+      "start_time": "00:13:22,529",
+      "end_time": "00:13:26,190",
+      "text": "can't be good"
+    },
+    {
+      "start_time": "00:13:24,199",
+      "end_time": "00:13:29,519",
+      "text": "here's the thing actually that's a good"
+    },
+    {
+      "start_time": "00:13:26,190",
+      "end_time": "00:13:31,199",
+      "text": "question does taking a life in this"
+    },
+    {
+      "start_time": "00:13:29,519",
+      "end_time": "00:13:33,329",
+      "text": "necromantic temple especially around an"
+    },
+    {
+      "start_time": "00:13:31,199",
+      "end_time": "00:13:35,190",
+      "text": "altar does taking a life in this"
+    },
+    {
+      "start_time": "00:13:33,329",
+      "end_time": "00:13:37,860",
+      "text": "necromantic temple does that somehow"
+    },
+    {
+      "start_time": "00:13:35,190",
+      "end_time": "00:13:40,079",
+      "text": "feed the the fell magics that are here"
+    },
+    {
+      "start_time": "00:13:37,860",
+      "end_time": "00:13:42,089",
+      "text": "does this somehow increase the power of"
+    },
+    {
+      "start_time": "00:13:40,079",
+      "end_time": "00:13:44,069",
+      "text": "the ritual I think that's I think that's"
+    },
+    {
+      "start_time": "00:13:42,089",
+      "end_time": "00:13:46,769",
+      "text": "probably pretty likely I'm gonna say"
+    },
+    {
+      "start_time": "00:13:44,069",
+      "end_time": "00:13:49,079",
+      "text": "that's very likely on chaos factor six"
+    },
+    {
+      "start_time": "00:13:46,769",
+      "end_time": "00:13:51,240",
+      "text": "and we roll a seven yes so okay so"
+    },
+    {
+      "start_time": "00:13:49,079",
+      "end_time": "00:13:53,160",
+      "text": "little do they know that they're active"
+    },
+    {
+      "start_time": "00:13:51,240",
+      "end_time": "00:13:55,980",
+      "text": "dispatching these sleeping hobgoblins as"
+    },
+    {
+      "start_time": "00:13:53,160",
+      "end_time": "00:13:58,980",
+      "text": "the blood pours really from the the"
+    },
+    {
+      "start_time": "00:13:55,980",
+      "end_time": "00:14:00,180",
+      "text": "dispatched creatures the blood mingles"
+    },
+    {
+      "start_time": "00:13:58,980",
+      "end_time": "00:14:02,430",
+      "text": "with the other blood that was on the"
+    },
+    {
+      "start_time": "00:14:00,180",
+      "end_time": "00:14:04,259",
+      "text": "altar and as Simon and Ed Burt are"
+    },
+    {
+      "start_time": "00:14:02,430",
+      "end_time": "00:14:06,870",
+      "text": "walking out of the room out of the"
+    },
+    {
+      "start_time": "00:14:04,259",
+      "end_time": "00:14:09,600",
+      "text": "kitchens to the north will say they see"
+    },
+    {
+      "start_time": "00:14:06,870",
+      "end_time": "00:14:12,600",
+      "text": "what they don't see only we see only the"
+    },
+    {
+      "start_time": "00:14:09,600",
+      "end_time": "00:14:16,230",
+      "text": "viewer the viewers all of you get to see"
+    },
+    {
+      "start_time": "00:14:12,600",
+      "end_time": "00:14:19,110",
+      "text": "the blood sort of like dribbled down and"
+    },
+    {
+      "start_time": "00:14:16,230",
+      "end_time": "00:14:21,600",
+      "text": "sort of make its way into the grooves of"
+    },
+    {
+      "start_time": "00:14:19,110",
+      "end_time": "00:14:24,510",
+      "text": "those necromantic Roux runes that are"
+    },
+    {
+      "start_time": "00:14:21,600",
+      "end_time": "00:14:29,279",
+      "text": "carved in the altar and there's a bit of"
+    },
+    {
+      "start_time": "00:14:24,510",
+      "end_time": "00:14:31,740",
+      "text": "a hellish red glow that pulses up and"
+    },
+    {
+      "start_time": "00:14:29,279",
+      "end_time": "00:14:33,750",
+      "text": "fades behind them as they leave that"
+    },
+    {
+      "start_time": "00:14:31,740",
+      "end_time": "00:14:35,639",
+      "text": "can't be good all right what do they"
+    },
+    {
+      "start_time": "00:14:33,750",
+      "end_time": "00:14:38,880",
+      "text": "find as they continue their exploration"
+    },
+    {
+      "start_time": "00:14:35,639",
+      "end_time": "00:14:41,670",
+      "text": "through the north door so they find a"
+    },
+    {
+      "start_time": "00:14:38,880",
+      "end_time": "00:14:44,310",
+      "text": "common area one of the common areas on"
+    },
+    {
+      "start_time": "00:14:41,670",
+      "end_time": "00:14:45,870",
+      "text": "our list is going to be 11 which is"
+    },
+    {
+      "start_time": "00:14:44,310",
+      "end_time": "00:14:49,410",
+      "text": "equipment storage but there's a"
+    },
+    {
+      "start_time": "00:14:45,870",
+      "end_time": "00:14:51,870",
+      "text": "discovery and a danger there's gonna be"
+    },
+    {
+      "start_time": "00:14:49,410",
+      "end_time": "00:14:53,670",
+      "text": "1.d4 discoveries as a matter of fact"
+    },
+    {
+      "start_time": "00:14:51,870",
+      "end_time": "00:14:56,160",
+      "text": "there's gonna be four the first one a"
+    },
+    {
+      "start_time": "00:14:53,670",
+      "end_time": "00:14:58,079",
+      "text": "pit shaft chasm I think that there's"
+    },
+    {
+      "start_time": "00:14:56,160",
+      "end_time": "00:15:00,029",
+      "text": "been some sort of earthquake or some"
+    },
+    {
+      "start_time": "00:14:58,079",
+      "end_time": "00:15:03,389",
+      "text": "sort of rent in the earth that has split"
+    },
+    {
+      "start_time": "00:15:00,029",
+      "end_time": "00:15:05,519",
+      "text": "the wall asunder and created a a rent in"
+    },
+    {
+      "start_time": "00:15:03,389",
+      "end_time": "00:15:08,490",
+      "text": "this room maybe like splitting it into"
+    },
+    {
+      "start_time": "00:15:05,519",
+      "end_time": "00:15:10,230",
+      "text": "the next thing is bridge stairs and a"
+    },
+    {
+      "start_time": "00:15:08,490",
+      "end_time": "00:15:12,089",
+      "text": "ramp I I think that there's actually"
+    },
+    {
+      "start_time": "00:15:10,230",
+      "end_time": "00:15:13,709",
+      "text": "like makeshift bridge like it got a"
+    },
+    {
+      "start_time": "00:15:12,089",
+      "end_time": "00:15:16,230",
+      "text": "couple of planks maybe an old table from"
+    },
+    {
+      "start_time": "00:15:13,709",
+      "end_time": "00:15:19,139",
+      "text": "the kitchens acting as a bridge across"
+    },
+    {
+      "start_time": "00:15:16,230",
+      "end_time": "00:15:22,620",
+      "text": "the chasm and the other discovery in"
+    },
+    {
+      "start_time": "00:15:19,139",
+      "end_time": "00:15:25,079",
+      "text": "this room is a find coins gems jewelry"
+    },
+    {
+      "start_time": "00:15:22,620",
+      "end_time": "00:15:28,199",
+      "text": "well it's about time other discovery is"
+    },
+    {
+      "start_time": "00:15:25,079",
+      "end_time": "00:15:30,269",
+      "text": "going to be magic Poole statue or Idol"
+    },
+    {
+      "start_time": "00:15:28,199",
+      "end_time": "00:15:32,110",
+      "text": "so this is an equipment storage room"
+    },
+    {
+      "start_time": "00:15:30,269",
+      "end_time": "00:15:34,300",
+      "text": "that has been"
+    },
+    {
+      "start_time": "00:15:32,110",
+      "end_time": "00:15:35,890",
+      "text": "asunder by some Cataclysm in the"
+    },
+    {
+      "start_time": "00:15:34,300",
+      "end_time": "00:15:38,680",
+      "text": "mountains which is split the room into"
+    },
+    {
+      "start_time": "00:15:35,890",
+      "end_time": "00:15:42,220",
+      "text": "someone has put down a temporary bridge"
+    },
+    {
+      "start_time": "00:15:38,680",
+      "end_time": "00:15:44,530",
+      "text": "a wooden bridge there is an idol amongst"
+    },
+    {
+      "start_time": "00:15:42,220",
+      "end_time": "00:15:46,570",
+      "text": "the equipment storage there's gonna be"
+    },
+    {
+      "start_time": "00:15:44,530",
+      "end_time": "00:15:47,590",
+      "text": "some type of gear here I don't know"
+    },
+    {
+      "start_time": "00:15:46,570",
+      "end_time": "00:15:49,300",
+      "text": "whether it's gonna be useful or not"
+    },
+    {
+      "start_time": "00:15:47,590",
+      "end_time": "00:15:50,500",
+      "text": "we'll find that out in a second but"
+    },
+    {
+      "start_time": "00:15:49,300",
+      "end_time": "00:15:51,940",
+      "text": "there's some sort of Idol and this was a"
+    },
+    {
+      "start_time": "00:15:50,500",
+      "end_time": "00:15:54,850",
+      "text": "temple after all so it makes sense that"
+    },
+    {
+      "start_time": "00:15:51,940",
+      "end_time": "00:15:56,920",
+      "text": "in little depressions in the wall and"
+    },
+    {
+      "start_time": "00:15:54,850",
+      "end_time": "00:15:58,900",
+      "text": "little like alcoves and such then maybe"
+    },
+    {
+      "start_time": "00:15:56,920",
+      "end_time": "00:16:00,850",
+      "text": "there's this little you know skeleton"
+    },
+    {
+      "start_time": "00:15:58,900",
+      "end_time": "00:16:02,320",
+      "text": "headed statues or skulls or something"
+    },
+    {
+      "start_time": "00:16:00,850",
+      "end_time": "00:16:05,200",
+      "text": "like that's some sort of some sort of"
+    },
+    {
+      "start_time": "00:16:02,320",
+      "end_time": "00:16:07,780",
+      "text": "magic Idol but what's the danger a"
+    },
+    {
+      "start_time": "00:16:05,200",
+      "end_time": "00:16:11,470",
+      "text": "creature what does the creature doing"
+    },
+    {
+      "start_time": "00:16:07,780",
+      "end_time": "00:16:13,660",
+      "text": "dying oh well I know what this is this"
+    },
+    {
+      "start_time": "00:16:11,470",
+      "end_time": "00:16:18,040",
+      "text": "is the creature whose blood has been"
+    },
+    {
+      "start_time": "00:16:13,660",
+      "end_time": "00:16:20,590",
+      "text": "smeared on all of the other the other"
+    },
+    {
+      "start_time": "00:16:18,040",
+      "end_time": "00:16:22,150",
+      "text": "altars but what is the creature is a"
+    },
+    {
+      "start_time": "00:16:20,590",
+      "end_time": "00:16:24,820",
+      "text": "human hmm"
+    },
+    {
+      "start_time": "00:16:22,150",
+      "end_time": "00:16:27,010",
+      "text": "so it's going to be a hunter of some"
+    },
+    {
+      "start_time": "00:16:24,820",
+      "end_time": "00:16:29,890",
+      "text": "sort Oh wouldn't it be interesting if"
+    },
+    {
+      "start_time": "00:16:27,010",
+      "end_time": "00:16:33,190",
+      "text": "that was the hunter that that owned the"
+    },
+    {
+      "start_time": "00:16:29,890",
+      "end_time": "00:16:34,960",
+      "text": "cabin the reason why the the cabin that"
+    },
+    {
+      "start_time": "00:16:33,190",
+      "end_time": "00:16:38,160",
+      "text": "Simon stayed in was unoccupied is"
+    },
+    {
+      "start_time": "00:16:34,960",
+      "end_time": "00:16:40,300",
+      "text": "because the hunter who used it had"
+    },
+    {
+      "start_time": "00:16:38,160",
+      "end_time": "00:16:42,100",
+      "text": "accidentally wandered into this temple"
+    },
+    {
+      "start_time": "00:16:40,300",
+      "end_time": "00:16:44,680",
+      "text": "some time ago but not that long ago"
+    },
+    {
+      "start_time": "00:16:42,100",
+      "end_time": "00:16:46,870",
+      "text": "because he's lying here dying so he is"
+    },
+    {
+      "start_time": "00:16:44,680",
+      "end_time": "00:16:49,180",
+      "text": "still alive but that's a danger though"
+    },
+    {
+      "start_time": "00:16:46,870",
+      "end_time": "00:16:52,090",
+      "text": "oh I know why I know why this hunter"
+    },
+    {
+      "start_time": "00:16:49,180",
+      "end_time": "00:16:52,750",
+      "text": "represents a danger ah we're about to"
+    },
+    {
+      "start_time": "00:16:52,090",
+      "end_time": "00:16:56,380",
+      "text": "find out"
+    },
+    {
+      "start_time": "00:16:52,750",
+      "end_time": "00:16:57,880",
+      "text": "so Simon and edwart well it's a egg but"
+    },
+    {
+      "start_time": "00:16:56,380",
+      "end_time": "00:17:01,440",
+      "text": "but that's silly name isn't it"
+    },
+    {
+      "start_time": "00:16:57,880",
+      "end_time": "00:17:04,209",
+      "text": "Simon and edwart make their way down the"
+    },
+    {
+      "start_time": "00:17:01,440",
+      "end_time": "00:17:06,550",
+      "text": "hideous smelling a hallway again the"
+    },
+    {
+      "start_time": "00:17:04,209",
+      "end_time": "00:17:08,650",
+      "text": "stench of rotten decay everywhere and"
+    },
+    {
+      "start_time": "00:17:06,550",
+      "end_time": "00:17:10,270",
+      "text": "they come across to a room which is"
+    },
+    {
+      "start_time": "00:17:08,650",
+      "end_time": "00:17:11,980",
+      "text": "basically a dead end it's a rather large"
+    },
+    {
+      "start_time": "00:17:10,270",
+      "end_time": "00:17:14,199",
+      "text": "room and they can see all kinds of"
+    },
+    {
+      "start_time": "00:17:11,980",
+      "end_time": "00:17:16,480",
+      "text": "storage racks everywhere all kinds of"
+    },
+    {
+      "start_time": "00:17:14,199",
+      "end_time": "00:17:18,100",
+      "text": "gear devices you know mostly for the"
+    },
+    {
+      "start_time": "00:17:16,480",
+      "end_time": "00:17:20,560",
+      "text": "running of a temple so there's gonna be"
+    },
+    {
+      "start_time": "00:17:18,100",
+      "end_time": "00:17:23,199",
+      "text": "lots of like urns and vials and like"
+    },
+    {
+      "start_time": "00:17:20,560",
+      "end_time": "00:17:25,510",
+      "text": "robes and things like this the room"
+    },
+    {
+      "start_time": "00:17:23,199",
+      "end_time": "00:17:29,430",
+      "text": "itself has been rent in half and is this"
+    },
+    {
+      "start_time": "00:17:25,510",
+      "end_time": "00:17:32,470",
+      "text": "chasm but someone has slammed this old"
+    },
+    {
+      "start_time": "00:17:29,430",
+      "end_time": "00:17:34,090",
+      "text": "table from the kitchens presumably or"
+    },
+    {
+      "start_time": "00:17:32,470",
+      "end_time": "00:17:36,310",
+      "text": "the remains the table across the chasm"
+    },
+    {
+      "start_time": "00:17:34,090",
+      "end_time": "00:17:37,990",
+      "text": "and at the far end of the room are a"
+    },
+    {
+      "start_time": "00:17:36,310",
+      "end_time": "00:17:42,300",
+      "text": "series of little alcoves and in the"
+    },
+    {
+      "start_time": "00:17:37,990",
+      "end_time": "00:17:45,220",
+      "text": "centre of in the middle alcove is a Idol"
+    },
+    {
+      "start_time": "00:17:42,300",
+      "end_time": "00:17:47,409",
+      "text": "which is sitting there with a death head"
+    },
+    {
+      "start_time": "00:17:45,220",
+      "end_time": "00:17:51,280",
+      "text": "skull on it at the base of the idol"
+    },
+    {
+      "start_time": "00:17:47,409",
+      "end_time": "00:17:53,950",
+      "text": "blood still trailing across that bridge"
+    },
+    {
+      "start_time": "00:17:51,280",
+      "end_time": "00:17:55,330",
+      "text": "across that table leading up to the"
+    },
+    {
+      "start_time": "00:17:53,950",
+      "end_time": "00:17:58,600",
+      "text": "entrance of the room where Simon and"
+    },
+    {
+      "start_time": "00:17:55,330",
+      "end_time": "00:17:59,950",
+      "text": "edwart now stand is a man is a human one"
+    },
+    {
+      "start_time": "00:17:58,600",
+      "end_time": "00:18:01,630",
+      "text": "I'll be the man actually one two three"
+    },
+    {
+      "start_time": "00:17:59,950",
+      "end_time": "00:18:03,280",
+      "text": "I'm a man yes he's a man clearly a"
+    },
+    {
+      "start_time": "00:18:01,630",
+      "end_time": "00:18:04,840",
+      "text": "hunter of some sort he has all the"
+    },
+    {
+      "start_time": "00:18:03,280",
+      "end_time": "00:18:06,250",
+      "text": "trappings one would expect on a typical"
+    },
+    {
+      "start_time": "00:18:04,840",
+      "end_time": "00:18:08,500",
+      "text": "hunter so he's got like an empty air a"
+    },
+    {
+      "start_time": "00:18:06,250",
+      "end_time": "00:18:10,570",
+      "text": "quiver and his side he's wearing you"
+    },
+    {
+      "start_time": "00:18:08,500",
+      "end_time": "00:18:13,559",
+      "text": "know some some animal skins things like"
+    },
+    {
+      "start_time": "00:18:10,570",
+      "end_time": "00:18:16,559",
+      "text": "this but they walk in they can see"
+    },
+    {
+      "start_time": "00:18:13,559",
+      "end_time": "00:18:20,590",
+      "text": "across this chasm there he is he's lying"
+    },
+    {
+      "start_time": "00:18:16,559",
+      "end_time": "00:18:22,929",
+      "text": "now he's he has several cuts he is dying"
+    },
+    {
+      "start_time": "00:18:20,590",
+      "end_time": "00:18:25,179",
+      "text": "so I think he's got like he's got big"
+    },
+    {
+      "start_time": "00:18:22,929",
+      "end_time": "00:18:27,070",
+      "text": "slashes on his forearms like this and I"
+    },
+    {
+      "start_time": "00:18:25,179",
+      "end_time": "00:18:29,890",
+      "text": "think that he's got a big cut any I"
+    },
+    {
+      "start_time": "00:18:27,070",
+      "end_time": "00:18:31,929",
+      "text": "think he's like sitting there this is"
+    },
+    {
+      "start_time": "00:18:29,890",
+      "end_time": "00:18:33,820",
+      "text": "blood is pouring out of his wounds no he"
+    },
+    {
+      "start_time": "00:18:31,929",
+      "end_time": "00:18:35,289",
+      "text": "doesn't represent a danger but I'll show"
+    },
+    {
+      "start_time": "00:18:33,820",
+      "end_time": "00:18:36,190",
+      "text": "you why in a second right away Simon's"
+    },
+    {
+      "start_time": "00:18:35,289",
+      "end_time": "00:18:39,010",
+      "text": "like we have to help him"
+    },
+    {
+      "start_time": "00:18:36,190",
+      "end_time": "00:18:41,500",
+      "text": "ed Bert puts his hand no I think it's a"
+    },
+    {
+      "start_time": "00:18:39,010",
+      "end_time": "00:18:43,210",
+      "text": "trap I think it's a trap mate no we have"
+    },
+    {
+      "start_time": "00:18:41,500",
+      "end_time": "00:18:47,110",
+      "text": "to help him Simon"
+    },
+    {
+      "start_time": "00:18:43,210",
+      "end_time": "00:18:48,640",
+      "text": "moves across the the planks Simon gets"
+    },
+    {
+      "start_time": "00:18:47,110",
+      "end_time": "00:18:50,530",
+      "text": "up to him and attempts to heal him he"
+    },
+    {
+      "start_time": "00:18:48,640",
+      "end_time": "00:18:52,659",
+      "text": "attempts to stabilize him the guy's"
+    },
+    {
+      "start_time": "00:18:50,530",
+      "end_time": "00:18:54,250",
+      "text": "dying it's bad news Simon is going to do"
+    },
+    {
+      "start_time": "00:18:52,659",
+      "end_time": "00:18:56,590",
+      "text": "a healing he's not very good at this but"
+    },
+    {
+      "start_time": "00:18:54,250",
+      "end_time": "00:18:58,240",
+      "text": "he does have a d6 the guy is dying he's"
+    },
+    {
+      "start_time": "00:18:56,590",
+      "end_time": "00:18:59,350",
+      "text": "an extra so there's no wound penalties"
+    },
+    {
+      "start_time": "00:18:58,240",
+      "end_time": "00:19:02,950",
+      "text": "if he was a wild card there would be"
+    },
+    {
+      "start_time": "00:18:59,350",
+      "end_time": "00:19:07,360",
+      "text": "he's going to roll he succeeds so he"
+    },
+    {
+      "start_time": "00:19:02,950",
+      "end_time": "00:19:10,120",
+      "text": "stabilizes the man oh the man is in"
+    },
+    {
+      "start_time": "00:19:07,360",
+      "end_time": "00:19:11,559",
+      "text": "terrible shape he's dying so I don't"
+    },
+    {
+      "start_time": "00:19:10,120",
+      "end_time": "00:19:13,510",
+      "text": "think he's gonna get up and ha ha I'm"
+    },
+    {
+      "start_time": "00:19:11,559",
+      "end_time": "00:19:16,179",
+      "text": "ready to help your siren like I thought"
+    },
+    {
+      "start_time": "00:19:13,510",
+      "end_time": "00:19:18,520",
+      "text": "no I think he's like lying there dying"
+    },
+    {
+      "start_time": "00:19:16,179",
+      "end_time": "00:19:19,659",
+      "text": "but as Simon is doing this ed Bert comes"
+    },
+    {
+      "start_time": "00:19:18,520",
+      "end_time": "00:19:23,380",
+      "text": "in and that bird sort of looking around"
+    },
+    {
+      "start_time": "00:19:19,659",
+      "end_time": "00:19:26,500",
+      "text": "and right away he starts to flexion"
+    },
+    {
+      "start_time": "00:19:23,380",
+      "end_time": "00:19:29,080",
+      "text": "twitch and he starts to realize that his"
+    },
+    {
+      "start_time": "00:19:26,500",
+      "end_time": "00:19:32,049",
+      "text": "ghost that is haunting him is becoming"
+    },
+    {
+      "start_time": "00:19:29,080",
+      "end_time": "00:19:33,730",
+      "text": "very agitated very very agitated at all"
+    },
+    {
+      "start_time": "00:19:32,049",
+      "end_time": "00:19:35,950",
+      "text": "it's almost like what ed Bert sees is is"
+    },
+    {
+      "start_time": "00:19:33,730",
+      "end_time": "00:19:37,330",
+      "text": "the the spirit of this person we know"
+    },
+    {
+      "start_time": "00:19:35,950",
+      "end_time": "00:19:39,100",
+      "text": "nothing about yet but you know with that"
+    },
+    {
+      "start_time": "00:19:37,330",
+      "end_time": "00:19:40,720",
+      "text": "may become relevant later the spirit of"
+    },
+    {
+      "start_time": "00:19:39,100",
+      "end_time": "00:19:44,140",
+      "text": "this person is like swirling around"
+    },
+    {
+      "start_time": "00:19:40,720",
+      "end_time": "00:19:46,910",
+      "text": "whispering chittering in his ear"
+    },
+    {
+      "start_time": "00:19:44,140",
+      "end_time": "00:19:49,220",
+      "text": "Annetta Brits like cough stop it stop it"
+    },
+    {
+      "start_time": "00:19:46,910",
+      "end_time": "00:19:53,380",
+      "text": "stop a keg to my head stop it is the"
+    },
+    {
+      "start_time": "00:19:49,220",
+      "end_time": "00:19:57,620",
+      "text": "ghost responding to the idol it is"
+    },
+    {
+      "start_time": "00:19:53,380",
+      "end_time": "00:19:59,390",
+      "text": "somewhat likely we'll say 78 yes"
+    },
+    {
+      "start_time": "00:19:57,620",
+      "end_time": "00:20:03,770",
+      "text": "so the ghost is whispering and"
+    },
+    {
+      "start_time": "00:19:59,390",
+      "end_time": "00:20:06,530",
+      "text": "chittering a Ted burped like it wants it"
+    },
+    {
+      "start_time": "00:20:03,770",
+      "end_time": "00:20:07,940",
+      "text": "keeps like screaming and crying and"
+    },
+    {
+      "start_time": "00:20:06,530",
+      "end_time": "00:20:08,990",
+      "text": "pointing at the idol and that bird looks"
+    },
+    {
+      "start_time": "00:20:07,940",
+      "end_time": "00:20:11,330",
+      "text": "at the eyelid Simon"
+    },
+    {
+      "start_time": "00:20:08,990",
+      "end_time": "00:20:13,310",
+      "text": "in the mean time Simon's you know still"
+    },
+    {
+      "start_time": "00:20:11,330",
+      "end_time": "00:20:17,240",
+      "text": "tending the wound and then he starts to"
+    },
+    {
+      "start_time": "00:20:13,310",
+      "end_time": "00:20:20,360",
+      "text": "hear this sound this hideous wailing"
+    },
+    {
+      "start_time": "00:20:17,240",
+      "end_time": "00:20:23,510",
+      "text": "almost like like like the sound of"
+    },
+    {
+      "start_time": "00:20:20,360",
+      "end_time": "00:20:26,240",
+      "text": "ultimate sorrow coming from this skull"
+    },
+    {
+      "start_time": "00:20:23,510",
+      "end_time": "00:20:29,630",
+      "text": "headed idle in the alcove and it begins"
+    },
+    {
+      "start_time": "00:20:26,240",
+      "end_time": "00:20:31,880",
+      "text": "does it begin to glow 35 yes it's about"
+    },
+    {
+      "start_time": "00:20:29,630",
+      "end_time": "00:20:33,650",
+      "text": "to cast some horrible spell on them or"
+    },
+    {
+      "start_time": "00:20:31,880",
+      "end_time": "00:20:37,280",
+      "text": "some some terrible fell necromantic"
+    },
+    {
+      "start_time": "00:20:33,650",
+      "end_time": "00:20:38,510",
+      "text": "magic is about to come out of this Idol"
+    },
+    {
+      "start_time": "00:20:37,280",
+      "end_time": "00:20:40,460",
+      "text": "well we already know that there is a"
+    },
+    {
+      "start_time": "00:20:38,510",
+      "end_time": "00:20:42,860",
+      "text": "sleep trap in this place so I think"
+    },
+    {
+      "start_time": "00:20:40,460",
+      "end_time": "00:20:44,900",
+      "text": "sleep sleep is associated with this God"
+    },
+    {
+      "start_time": "00:20:42,860",
+      "end_time": "00:20:46,940",
+      "text": "like the eternal sleep the ultimate"
+    },
+    {
+      "start_time": "00:20:44,900",
+      "end_time": "00:20:48,650",
+      "text": "sleep this is this is the final sleep"
+    },
+    {
+      "start_time": "00:20:46,940",
+      "end_time": "00:20:50,510",
+      "text": "right this is what this whole temple is"
+    },
+    {
+      "start_time": "00:20:48,650",
+      "end_time": "00:20:52,250",
+      "text": "dedicated to his death this is yet"
+    },
+    {
+      "start_time": "00:20:50,510",
+      "end_time": "00:20:54,260",
+      "text": "another kind of sleep spell kind of"
+    },
+    {
+      "start_time": "00:20:52,250",
+      "end_time": "00:20:57,590",
+      "text": "thing it's going to do a spirit roll I"
+    },
+    {
+      "start_time": "00:20:54,260",
+      "end_time": "00:20:59,450",
+      "text": "think what is the power level of this"
+    },
+    {
+      "start_time": "00:20:57,590",
+      "end_time": "00:21:02,000",
+      "text": "Idol is it equal power to them"
+    },
+    {
+      "start_time": "00:20:59,450",
+      "end_time": "00:21:03,920",
+      "text": "I don't know 5050 is it equal power to"
+    },
+    {
+      "start_time": "00:21:02,000",
+      "end_time": "00:21:05,630",
+      "text": "them 80 yes so what is equal part of"
+    },
+    {
+      "start_time": "00:21:03,920",
+      "end_time": "00:21:07,700",
+      "text": "them so I'm gonna say that it's a d8"
+    },
+    {
+      "start_time": "00:21:05,630",
+      "end_time": "00:21:09,650",
+      "text": "this King this wailing starts coming"
+    },
+    {
+      "start_time": "00:21:07,700",
+      "end_time": "00:21:11,810",
+      "text": "from the idol and it begins to chant"
+    },
+    {
+      "start_time": "00:21:09,650",
+      "end_time": "00:21:14,360",
+      "text": "these words it's not a very effective"
+    },
+    {
+      "start_time": "00:21:11,810",
+      "end_time": "00:21:16,970",
+      "text": "spell though so that means that both"
+    },
+    {
+      "start_time": "00:21:14,360",
+      "end_time": "00:21:18,140",
+      "text": "Simon and Ed Burt and the hunter all"
+    },
+    {
+      "start_time": "00:21:16,970",
+      "end_time": "00:21:20,030",
+      "text": "have to do spirit rolls"
+    },
+    {
+      "start_time": "00:21:18,140",
+      "end_time": "00:21:23,120",
+      "text": "let's do ed Burt first does he fall"
+    },
+    {
+      "start_time": "00:21:20,030",
+      "end_time": "00:21:25,070",
+      "text": "asleep he does ed Burt dropped to the"
+    },
+    {
+      "start_time": "00:21:23,120",
+      "end_time": "00:21:27,110",
+      "text": "ground on the far side of the chasm"
+    },
+    {
+      "start_time": "00:21:25,070",
+      "end_time": "00:21:29,330",
+      "text": "Kukulkan not into the chasm luckily but"
+    },
+    {
+      "start_time": "00:21:27,110",
+      "end_time": "00:21:31,880",
+      "text": "on the far side of the chasm and Simon"
+    },
+    {
+      "start_time": "00:21:29,330",
+      "end_time": "00:21:34,280",
+      "text": "he steals himself as best he can against"
+    },
+    {
+      "start_time": "00:21:31,880",
+      "end_time": "00:21:37,490",
+      "text": "this keening wail coming from this Idol"
+    },
+    {
+      "start_time": "00:21:34,280",
+      "end_time": "00:21:40,580",
+      "text": "does he succeed he does succeed he does"
+    },
+    {
+      "start_time": "00:21:37,490",
+      "end_time": "00:21:42,410",
+      "text": "not fall asleep oh and the the dying"
+    },
+    {
+      "start_time": "00:21:40,580",
+      "end_time": "00:21:43,160",
+      "text": "hunter succeeds as well so ed Burt just"
+    },
+    {
+      "start_time": "00:21:42,410",
+      "end_time": "00:21:47,030",
+      "text": "kind of drops"
+    },
+    {
+      "start_time": "00:21:43,160",
+      "end_time": "00:21:49,280",
+      "text": "but as this keening wail sound starts to"
+    },
+    {
+      "start_time": "00:21:47,030",
+      "end_time": "00:21:49,870",
+      "text": "echo through the corridors behind and"
+    },
+    {
+      "start_time": "00:21:49,280",
+      "end_time": "00:21:52,660",
+      "text": "this"
+    },
+    {
+      "start_time": "00:21:49,870",
+      "end_time": "00:21:54,670",
+      "text": "hideous pull the pull to the eternal"
+    },
+    {
+      "start_time": "00:21:52,660",
+      "end_time": "00:21:57,700",
+      "text": "sleep pulls on Simon but he's able to"
+    },
+    {
+      "start_time": "00:21:54,670",
+      "end_time": "00:22:03,370",
+      "text": "shake it off I think that the thing that"
+    },
+    {
+      "start_time": "00:21:57,700",
+      "end_time": "00:22:06,580",
+      "text": "has been using the altars is coming"
+    },
+    {
+      "start_time": "00:22:03,370",
+      "end_time": "00:22:08,740",
+      "text": "because this hunter is clearly the"
+    },
+    {
+      "start_time": "00:22:06,580",
+      "end_time": "00:22:11,800",
+      "text": "sacrificial victim who somehow broke"
+    },
+    {
+      "start_time": "00:22:08,740",
+      "end_time": "00:22:13,780",
+      "text": "free from the thing that is that is"
+    },
+    {
+      "start_time": "00:22:11,800",
+      "end_time": "00:22:18,550",
+      "text": "using the altars to cast a spell and I"
+    },
+    {
+      "start_time": "00:22:13,780",
+      "end_time": "00:22:22,059",
+      "text": "think this thing is about to find all of"
+    },
+    {
+      "start_time": "00:22:18,550",
+      "end_time": "00:22:25,570",
+      "text": "our group in this room is that the case"
+    },
+    {
+      "start_time": "00:22:22,059",
+      "end_time": "00:22:27,670",
+      "text": "is the thing whatever it is bearing down"
+    },
+    {
+      "start_time": "00:22:25,570",
+      "end_time": "00:22:29,500",
+      "text": "upon them I'm gonna call us fifty-fifty"
+    },
+    {
+      "start_time": "00:22:27,670",
+      "end_time": "00:22:33,220",
+      "text": "here we go is it bearing down upon them"
+    },
+    {
+      "start_time": "00:22:29,500",
+      "end_time": "00:22:35,110",
+      "text": "yes it is what is the thing coming for"
+    },
+    {
+      "start_time": "00:22:33,220",
+      "end_time": "00:22:37,600",
+      "text": "Simon and Ed Burt and this dying man in"
+    },
+    {
+      "start_time": "00:22:35,110",
+      "end_time": "00:22:38,380",
+      "text": "this temple what will happen once it"
+    },
+    {
+      "start_time": "00:22:37,600",
+      "end_time": "00:22:40,480",
+      "text": "arrives"
+    },
+    {
+      "start_time": "00:22:38,380",
+      "end_time": "00:22:42,820",
+      "text": "is it a lich no it's not we know it's"
+    },
+    {
+      "start_time": "00:22:40,480",
+      "end_time": "00:22:44,980",
+      "text": "not but I don't know what it is but if"
+    },
+    {
+      "start_time": "00:22:42,820",
+      "end_time": "00:22:46,900",
+      "text": "you tune in next time we will find out"
+    },
+    {
+      "start_time": "00:22:44,980",
+      "end_time": "00:22:49,390",
+      "text": "what it is together remember to hit like"
+    },
+    {
+      "start_time": "00:22:46,900",
+      "end_time": "00:22:53,010",
+      "text": "and subscribe and I will see you next"
+    },
+    {
+      "start_time": "00:22:49,390",
+      "end_time": "00:22:54,230",
+      "text": "time on me myself and die"
+    },
+    {
+      "start_time": "00:22:53,010",
+      "end_time": "00:22:55,490",
+      "text": "[Applause]"
+    },
+    {
+      "start_time": "00:22:54,230",
+      "end_time": "00:22:56,400",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:22:55,490",
+      "end_time": "00:23:05,970",
+      "text": "[Applause]"
+    },
+    {
+      "start_time": "00:22:56,400",
+      "end_time": "00:23:05,970",
+      "text": "[Music]"
+    }
+  ],
+  "full_text": "it's a bit of a hellish red glow that\npulses up and fades behind them as they\nleave ooh that can't be good\nhello again and welcome back to me\nmyself and die I am your intrepid host\ngame master and player traveler Val just\nreminder if you like the show today\ndon't forget to subscribe and leave a\ncomment I do read them believe it or not\nI do read them also if you want to talk\nabout the show on the Twitter's the\nFacebook CDs the grams or all that stuff\nevery little bit helps to get the news\nout so thanks for watching by the way I\nreally appreciate you guys keep keep\ntuning in and subscribing it it's pretty\ncool to see those numbers go up so just\nknow that I'm enjoying this as much as\nhopefully you are so when we last left\noff with simon of august and he had just\nleft the town of hood in datura the\nwalled seaside town of hoon datura the\nwalled booming seaside town of hoon\ndatura and we discovered a few things\nabout the world we discovered that\nthere's a large ocean we discovered that\nthere are a couple of temples to a sea\ngod and a trade god and we discovered\nthat there's a friendly merchant in in\ntown at the sailors mess who is now an\nnpc by the name of north who may or may\nnot be a help for simon again in the\nfuture also interestingly enough simon\ndid manage to find a hireling someone\nwho's mad enough to go back to the\nnecromantic temple with him a soldier an\nex-soldier by the name of ed Burt who\nwas haunted by the ghost of someone who\nhe slew so these two have left hun\ndatura behind and are now making their\nway back up the mountain to find the\nnecromantic temple go inside and\ndiscover what secrets it holds besides a\nquick and horrible death let's hope\nthat's not the case so the first thing\nwe do is determine the next morning it's\ngonna take them a full day to get there\nwe know what happens there let's just\ndetermine the weather let's just see\nwhat the weather's doing just that we\nknow 17 is beautiful day beautiful\nsummer's day leading into a beautiful\nsummer's evening by the time they get\nthere or do they get there maybe there's\nsomething that interrupts or amends\ntheir scene in some way the chaos factor\nis 6:10 so no it does not get\ninterrupted or altered so they arrive at\nthe temple at the end of the day just as\nthe Sun is setting and they move up to\nthe temple and they can see that the\nshattered remains of those skeletons out\nhere now I don't know what's in this\nroom I'm gonna ask the perilous wilds so\nin keeping with thee forbidden knowledge\ntheme of this discovery that we made or\nthis room that we made last time so what\nis forbidden a knowledge about this I\nthink that it has something to do with\nthe altar\nI think the altar here has like\nnecromantic rooms inscribed on it simon\nand edward make their way up to the\naltar okay what are we what do we know\nabout this place from last time we know\nthe place has been abandoned for a\ncouple hundred years we know it was\noverrun by monsters we know he was\noverrun by the undead so the question is\nis this altar has this altar been used\nat all recently I think that's probably\nunlikely but it's I'm gonna say very\nunlikely has this altar been used\nrecently zero nine that is an extreme\nyes whoo so they get up to that altar\nand Simon hasn't had a chance to to\nexamine the else's first giant the first\nchance he's got to examine the altar and\nthey spread out and they see that the\nrunes the strange necromantic wounds\nthey're carved in the side of the stone\naltar are covered in blood Simon reaches\nout and he touches his finger to the\naltar it's fresh blood something has\nrecently used this altar well has the\naltar been used by one of the denizens\nof the temple I think that's pretty\nlikely I'm gonna call that likely after\n676 yes correct\nso the the altar has been recently used\nand it is covered in blood mmm Simon\nlooks to edwart well it seems that the\ndead do not rest quietly in this place\nwe think we should press on there's\nnothing to find errors there Simon can't\nread these rooms he has no idea what\nthis means he has no knowledge of any\nkind of like magical rituals anything\nlike this this is a total mystery to him\nI suppose there's a tiny chance that\nmaybe Ed Burt knows something about this\nhe was a soldier maybe he fought in some\nweird places you know maybe we fought\nagainst the undead at one place I had a\ncall that it's no way there's no way he\nknows anything about this zero nine he\ndoes he actually knows something about\nthis ed Burt goes up to the rooms carved\nin the altar and he looks at them and\nhe's\nI can read this Simon's incredulous you\nknow what this means\noh I'm no necromancer but I know what\nthis ritual is well I don't I don't know\nwhat the ritual is so I'm just going to\nrandomly determine what the ritual is by\nrolling on the Fate chart rolling an act\nand invent action and subject so what is\nthis ritual all about this ritual is\nabout oppress thirteen war a press war\nso against war to stop war from\nhappening that's how I interpret that so\nthe creature that is responsible\npresumably the undead creature that's\nusing this temple he's using it to stop\na war well that's really odd the the\nmaster of this temple whoever that is\nhas recently awakened and is using the\npower of this temple to call upon their\nGod their dark God whatever that is\nwhoever that is to stop a war from\nhappening a war on this place yeah I\nthink that's probably good bet that\nthere's some other group that's trying\nto wipe out this group of undead maybe\nsure let's find out fifty-fifty on that\neighteen the answer is yes you know what\nI think it is I think it's a group of\nundead hunters I think it's a group of\nlike paladin's clerics this kind of\nthing I think it's a holy group of\npeople that are trying that are on their\nway even now to wipe this place out now\nSimon knows nothing about this at the\ntemple of thorzain is about to be\ncleansed by the order of the purifying\nflame so it's it's some sort of clerical\norder that's coming to destroy this\nplace and the the the creature whatever\nI keep wanting to call it a little it's\nalleged I hope it's been alleged cuz if\nit's allege these guys are probably dead\nwell let's let's find out let's just get\nthis out of the way is it some sort of\npowerful Lich that is actually at the\nheart of this temple that's doing this\nI'm gonna say there's no way there's no\nway no in fact I'm gonna say it's\nimpossible that that's the case I'm\ngonna give myself a break here 41 no it\nis not a spell-casting Lich that's gonna\nkill Simon and advert immediately like\nthat like that like that which is good\ngives us a fighting chance but whatever\nis the master of this place is currently\ntrying to bolster the defenses because\nit knows\nnow perhaps through some miraculous that\nthis order of the purifying flame is\nenroute now I don't know if they're\ngonna get here while Simon is still here\nbut I need to keep that in mind so ed\nBurton looks at these necromantic rooms\nand he says to Simon this is a warning\nspell of some sort I've seen this before\nsomeone here is trying to create a\nprotective shell around this place so\nthat cannot be entered I don't know who\nthat you're thinking of protecting this\nplace from but it's recent as you can\nsee yes we must press on they decide to\nleave through the centre chamber what do\nthey find in the center chamber we're\ngonna go to our book and we're gonna see\nso they walk down a corridor for some\ntime Simon lights a torch because it's\npitch black in here there's a terrible\nsmell of rot and decay coming through\nthis whole area we were all our d12 to\nsee what do they find they leave the\narea 11 unique discovery and a danger\nand it is also a themed area well like\nto keep things interesting forbidden\nknowledge once again it's one of the\nunique areas the kitchens what's\nforbidden about the necromancy kitchens\nthe discovery is going to be and this is\nall stuff you can find right here in the\nperilous walls again this this\nsupplement is designed for dungeon world\nbut I use it for this because it works\njust as well all right the discovery is\ngoing to be a feature an altar a diester\nplatform so there's another altar in the\nkitchens interesting maybe there's\nlittle altars all throughout this area\nwhat is the danger though it's a\ncreature of course and what is the\ncreature doing the creature is sleeping\nis this an undead creature\nit says sleeping but undead don't sleep\nso I don't think it is undead let's say\nthere's no way it's Undead how could an\nundead be asleep right 48 no so it's\ndefinitely under dead so this is\nsomething else that's gone into the\ntemple and is sleeping humanoid what are\nthey they are\nHobgoblin what's a Hobgoblin doing in an\nundead temple that is clearly active and\nsleeping oh is it is it as it'd been put\nto sleep has it been in sore saled is it\na sorcerer asleep yes so how many\nhobgoblins are there by the way how many\nHobgoblin seriously there are six\nsleeping hobgoblins in this area in the\nkitchens so Simon and Ed Bert creep into\nwhat is obviously an old run-down\nkitchen weirdly in the center of the\nkitchen there is also another altar very\nmuch like the altar that they found in\nthe main temple smaller this time but\nstill the same construction and ed Bert\neven points out the exact same\nnecromantic runes around it but in the\nkitchen\nclearly slumped over tables slumped over\ncountertops are a group of hobgoblins\nbig burly regular goblins like bigger\ntougher\nduskier cousin and there's six of them\nand they're all there clearly down for\nthe count\nwas it a trap that put them asleep I\nhave no idea fifty fifty zero nine yes\nexceptional yes which means the trap is\nstill active so ed Bert and Simon creep\ninto the room into the kitchen a fairly\nlarge area but again old lever things\ncovered in cobwebs there's a layer of\nthick dust on everything I think there's\nbasically skeletons everywhere in this\nplace because it was overrun by monsters\nso the undead creations did sort of\nbreak free and kill their priestly\nmasters so there's the remains of a\nbunch of priests who look like they were\nslaughtered while they were at that\nsupper basically but among them are\nthese sleeping goblins one of them is\nslumped over a table and other ones\nright in front of them by the doorway\nwhat kind of trap is it like a pressure\nplate I don't think it's a pressure\nplate but it might be I'm gonna call\nthat very unlikely xxx yes it is it is a\npressure plate okay so as they walk in\nagain the the floor of the kitchen\ncovered in grime mildew the whole place\nthis this decaying scent and now the\nsmell of hobgoblins as well but as simon\nand a dead bird walk in the question now\nis do they see the pressure plate before\nthey this is gonna be notice rolls yeah\nhe sucks I say that a lot in this show\nSimon sucks\nI think it's noticing he's gonna notice\nif d4 does he see it for you will\nsucceed so yes he does see adverts\nnotices d6 he explodes of course 9 so he\nsucceeds with a raise ed Burt suddenly\nputs his hand over time in front of\nSimon and Simon stops and looks down and\nEd Burke kind of very quietly points out\non the floor and there's a section of\nthe floor there's a a big flagstone in\nthe floor that's just higher than the\nrest of the flagstones almost like it's\nsome sort of well pressure plate ed bird\nlooks at that and he whispers to Simon\nI've seen things like this before I\nthink this is some sort of trap it may\nbe the trap to put these creatures\nasleep they gingerly step around at the\npressure plate now the question is do\nthey dispatch these hobgoblins I think\nthere's a good chance that adverts\ndefinitely gonna want to do that he's\nencountered these creatures before as a\nsoldier and he knows that if these\nthings come running up running up behind\nhim it's gonna be bad news I think it's\nvery likely he wants to do that chaos\nfactor 6:08 absolutely yes in fact he\ndoesn't even wait to tell Simon he just\npulls out his knife and goes up and cuts\none's throat Simon looks here's the\nthing if they blow it and wake one of\nthem up before the job is done so here's\nwe're gonna do these things are asleep\nbut sleep and savage worlds means that\nif you make any kind of noise normal\nnoise that could rouse them from their\nslumbers so can they murder these\ncreatures in their sleep yeah they're\nmonsters they have goblins very well\nthey gotta go can they do it quietly if\nwe're gonna do a stealth roll Simon's\nreally good at this he's gonna roll d8\nand a d6 if he fails on this one or more\nof those hobgoblins are gonna wake up\nboom he rolls a success with the 7 ed\nBurt has a d6 him he's an X ray doesn't\nroll a while that he also succeeds so\nthey are able to dispatch all 6 hog\nadding their blood to the altar that\ncan't be good\nhere's the thing actually that's a good\nquestion does taking a life in this\nnecromantic temple especially around an\naltar does taking a life in this\nnecromantic temple does that somehow\nfeed the the fell magics that are here\ndoes this somehow increase the power of\nthe ritual I think that's I think that's\nprobably pretty likely I'm gonna say\nthat's very likely on chaos factor six\nand we roll a seven yes so okay so\nlittle do they know that they're active\ndispatching these sleeping hobgoblins as\nthe blood pours really from the the\ndispatched creatures the blood mingles\nwith the other blood that was on the\naltar and as Simon and Ed Burt are\nwalking out of the room out of the\nkitchens to the north will say they see\nwhat they don't see only we see only the\nviewer the viewers all of you get to see\nthe blood sort of like dribbled down and\nsort of make its way into the grooves of\nthose necromantic Roux runes that are\ncarved in the altar and there's a bit of\na hellish red glow that pulses up and\nfades behind them as they leave that\ncan't be good all right what do they\nfind as they continue their exploration\nthrough the north door so they find a\ncommon area one of the common areas on\nour list is going to be 11 which is\nequipment storage but there's a\ndiscovery and a danger there's gonna be\n1.d4 discoveries as a matter of fact\nthere's gonna be four the first one a\npit shaft chasm I think that there's\nbeen some sort of earthquake or some\nsort of rent in the earth that has split\nthe wall asunder and created a a rent in\nthis room maybe like splitting it into\nthe next thing is bridge stairs and a\nramp I I think that there's actually\nlike makeshift bridge like it got a\ncouple of planks maybe an old table from\nthe kitchens acting as a bridge across\nthe chasm and the other discovery in\nthis room is a find coins gems jewelry\nwell it's about time other discovery is\ngoing to be magic Poole statue or Idol\nso this is an equipment storage room\nthat has been\nasunder by some Cataclysm in the\nmountains which is split the room into\nsomeone has put down a temporary bridge\na wooden bridge there is an idol amongst\nthe equipment storage there's gonna be\nsome type of gear here I don't know\nwhether it's gonna be useful or not\nwe'll find that out in a second but\nthere's some sort of Idol and this was a\ntemple after all so it makes sense that\nin little depressions in the wall and\nlittle like alcoves and such then maybe\nthere's this little you know skeleton\nheaded statues or skulls or something\nlike that's some sort of some sort of\nmagic Idol but what's the danger a\ncreature what does the creature doing\ndying oh well I know what this is this\nis the creature whose blood has been\nsmeared on all of the other the other\naltars but what is the creature is a\nhuman hmm\nso it's going to be a hunter of some\nsort Oh wouldn't it be interesting if\nthat was the hunter that that owned the\ncabin the reason why the the cabin that\nSimon stayed in was unoccupied is\nbecause the hunter who used it had\naccidentally wandered into this temple\nsome time ago but not that long ago\nbecause he's lying here dying so he is\nstill alive but that's a danger though\noh I know why I know why this hunter\nrepresents a danger ah we're about to\nfind out\nso Simon and edwart well it's a egg but\nbut that's silly name isn't it\nSimon and edwart make their way down the\nhideous smelling a hallway again the\nstench of rotten decay everywhere and\nthey come across to a room which is\nbasically a dead end it's a rather large\nroom and they can see all kinds of\nstorage racks everywhere all kinds of\ngear devices you know mostly for the\nrunning of a temple so there's gonna be\nlots of like urns and vials and like\nrobes and things like this the room\nitself has been rent in half and is this\nchasm but someone has slammed this old\ntable from the kitchens presumably or\nthe remains the table across the chasm\nand at the far end of the room are a\nseries of little alcoves and in the\ncentre of in the middle alcove is a Idol\nwhich is sitting there with a death head\nskull on it at the base of the idol\nblood still trailing across that bridge\nacross that table leading up to the\nentrance of the room where Simon and\nedwart now stand is a man is a human one\nI'll be the man actually one two three\nI'm a man yes he's a man clearly a\nhunter of some sort he has all the\ntrappings one would expect on a typical\nhunter so he's got like an empty air a\nquiver and his side he's wearing you\nknow some some animal skins things like\nthis but they walk in they can see\nacross this chasm there he is he's lying\nnow he's he has several cuts he is dying\nso I think he's got like he's got big\nslashes on his forearms like this and I\nthink that he's got a big cut any I\nthink he's like sitting there this is\nblood is pouring out of his wounds no he\ndoesn't represent a danger but I'll show\nyou why in a second right away Simon's\nlike we have to help him\ned Bert puts his hand no I think it's a\ntrap I think it's a trap mate no we have\nto help him Simon\nmoves across the the planks Simon gets\nup to him and attempts to heal him he\nattempts to stabilize him the guy's\ndying it's bad news Simon is going to do\na healing he's not very good at this but\nhe does have a d6 the guy is dying he's\nan extra so there's no wound penalties\nif he was a wild card there would be\nhe's going to roll he succeeds so he\nstabilizes the man oh the man is in\nterrible shape he's dying so I don't\nthink he's gonna get up and ha ha I'm\nready to help your siren like I thought\nno I think he's like lying there dying\nbut as Simon is doing this ed Bert comes\nin and that bird sort of looking around\nand right away he starts to flexion\ntwitch and he starts to realize that his\nghost that is haunting him is becoming\nvery agitated very very agitated at all\nit's almost like what ed Bert sees is is\nthe the spirit of this person we know\nnothing about yet but you know with that\nmay become relevant later the spirit of\nthis person is like swirling around\nwhispering chittering in his ear\nAnnetta Brits like cough stop it stop it\nstop a keg to my head stop it is the\nghost responding to the idol it is\nsomewhat likely we'll say 78 yes\nso the ghost is whispering and\nchittering a Ted burped like it wants it\nkeeps like screaming and crying and\npointing at the idol and that bird looks\nat the eyelid Simon\nin the mean time Simon's you know still\ntending the wound and then he starts to\nhear this sound this hideous wailing\nalmost like like like the sound of\nultimate sorrow coming from this skull\nheaded idle in the alcove and it begins\ndoes it begin to glow 35 yes it's about\nto cast some horrible spell on them or\nsome some terrible fell necromantic\nmagic is about to come out of this Idol\nwell we already know that there is a\nsleep trap in this place so I think\nsleep sleep is associated with this God\nlike the eternal sleep the ultimate\nsleep this is this is the final sleep\nright this is what this whole temple is\ndedicated to his death this is yet\nanother kind of sleep spell kind of\nthing it's going to do a spirit roll I\nthink what is the power level of this\nIdol is it equal power to them\nI don't know 5050 is it equal power to\nthem 80 yes so what is equal part of\nthem so I'm gonna say that it's a d8\nthis King this wailing starts coming\nfrom the idol and it begins to chant\nthese words it's not a very effective\nspell though so that means that both\nSimon and Ed Burt and the hunter all\nhave to do spirit rolls\nlet's do ed Burt first does he fall\nasleep he does ed Burt dropped to the\nground on the far side of the chasm\nKukulkan not into the chasm luckily but\non the far side of the chasm and Simon\nhe steals himself as best he can against\nthis keening wail coming from this Idol\ndoes he succeed he does succeed he does\nnot fall asleep oh and the the dying\nhunter succeeds as well so ed Burt just\nkind of drops\nbut as this keening wail sound starts to\necho through the corridors behind and\nthis\nhideous pull the pull to the eternal\nsleep pulls on Simon but he's able to\nshake it off I think that the thing that\nhas been using the altars is coming\nbecause this hunter is clearly the\nsacrificial victim who somehow broke\nfree from the thing that is that is\nusing the altars to cast a spell and I\nthink this thing is about to find all of\nour group in this room is that the case\nis the thing whatever it is bearing down\nupon them I'm gonna call us fifty-fifty\nhere we go is it bearing down upon them\nyes it is what is the thing coming for\nSimon and Ed Burt and this dying man in\nthis temple what will happen once it\narrives\nis it a lich no it's not we know it's\nnot but I don't know what it is but if\nyou tune in next time we will find out\nwhat it is together remember to hit like\nand subscribe and I will see you next\ntime on me myself and die\n[Applause]\n[Music]\n[Applause]\n[Music]\n"
+}

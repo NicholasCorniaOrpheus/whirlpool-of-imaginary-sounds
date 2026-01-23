@@ -1,0 +1,1900 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,799",
+      "end_time": "00:00:05,040",
+      "text": "hey guys how you doing trevor davao here"
+    },
+    {
+      "start_time": "00:00:03,040",
+      "end_time": "00:00:06,560",
+      "text": "i wanted to give you a little sneak peek"
+    },
+    {
+      "start_time": "00:00:05,040",
+      "end_time": "00:00:09,280",
+      "text": "behind the scenes a little bit to show"
+    },
+    {
+      "start_time": "00:00:06,560",
+      "end_time": "00:00:12,080",
+      "text": "you my process of how i turned edbert"
+    },
+    {
+      "start_time": "00:00:09,280",
+      "end_time": "00:00:14,639",
+      "text": "from a savage worlds character into a"
+    },
+    {
+      "start_time": "00:00:12,080",
+      "end_time": "00:00:16,240",
+      "text": "dominion rules character so that's what"
+    },
+    {
+      "start_time": "00:00:14,639",
+      "end_time": "00:00:19,920",
+      "text": "we're going to be doing today on this"
+    },
+    {
+      "start_time": "00:00:16,240",
+      "end_time": "00:00:21,359",
+      "text": "little a bonus episode so edbert from"
+    },
+    {
+      "start_time": "00:00:19,920",
+      "end_time": "00:00:23,119",
+      "text": "season one was a savage world's"
+    },
+    {
+      "start_time": "00:00:21,359",
+      "end_time": "00:00:25,840",
+      "text": "character the thing about making a"
+    },
+    {
+      "start_time": "00:00:23,119",
+      "end_time": "00:00:27,599",
+      "text": "comparison between dominion rules and"
+    },
+    {
+      "start_time": "00:00:25,840",
+      "end_time": "00:00:29,119",
+      "text": "savage worlds is that"
+    },
+    {
+      "start_time": "00:00:27,599",
+      "end_time": "00:00:30,960",
+      "text": "there is no comparison"
+    },
+    {
+      "start_time": "00:00:29,119",
+      "end_time": "00:00:32,239",
+      "text": "there's no there's no direct one to one"
+    },
+    {
+      "start_time": "00:00:30,960",
+      "end_time": "00:00:34,239",
+      "text": "conversion there's no straightaway"
+    },
+    {
+      "start_time": "00:00:32,239",
+      "end_time": "00:00:35,600",
+      "text": "conversion so i kind of have to eyeball"
+    },
+    {
+      "start_time": "00:00:34,239",
+      "end_time": "00:00:37,120",
+      "text": "a few things so i'm going to have to"
+    },
+    {
+      "start_time": "00:00:35,600",
+      "end_time": "00:00:38,960",
+      "text": "take some things into consideration"
+    },
+    {
+      "start_time": "00:00:37,120",
+      "end_time": "00:00:41,040",
+      "text": "because i want to accurately reflect"
+    },
+    {
+      "start_time": "00:00:38,960",
+      "end_time": "00:00:43,200",
+      "text": "what edbert is based on what he was"
+    },
+    {
+      "start_time": "00:00:41,040",
+      "end_time": "00:00:45,440",
+      "text": "created to be in savage worlds um i want"
+    },
+    {
+      "start_time": "00:00:43,200",
+      "end_time": "00:00:46,719",
+      "text": "to accurately reflect him in dominion"
+    },
+    {
+      "start_time": "00:00:45,440",
+      "end_time": "00:00:48,239",
+      "text": "rules as well"
+    },
+    {
+      "start_time": "00:00:46,719",
+      "end_time": "00:00:51,120",
+      "text": "it's not going to be exact it's never"
+    },
+    {
+      "start_time": "00:00:48,239",
+      "end_time": "00:00:53,120",
+      "text": "exact but we want to get it as close you"
+    },
+    {
+      "start_time": "00:00:51,120",
+      "end_time": "00:00:54,559",
+      "text": "know to preserve the very similitude so"
+    },
+    {
+      "start_time": "00:00:53,120",
+      "end_time": "00:00:56,719",
+      "text": "to speak when we look at edbert's"
+    },
+    {
+      "start_time": "00:00:54,559",
+      "end_time": "00:00:59,359",
+      "text": "character sheet in savage worlds you can"
+    },
+    {
+      "start_time": "00:00:56,719",
+      "end_time": "00:01:02,800",
+      "text": "see here savage worlds of course has the"
+    },
+    {
+      "start_time": "00:00:59,359",
+      "end_time": "00:01:04,159",
+      "text": "five uh stats of agility smart spirit"
+    },
+    {
+      "start_time": "00:01:02,800",
+      "end_time": "00:01:06,720",
+      "text": "strength and vigor"
+    },
+    {
+      "start_time": "00:01:04,159",
+      "end_time": "00:01:08,720",
+      "text": "all ranging from a d4 value to d12 value"
+    },
+    {
+      "start_time": "00:01:06,720",
+      "end_time": "00:01:09,760",
+      "text": "in dominion rules on the other hand we"
+    },
+    {
+      "start_time": "00:01:08,720",
+      "end_time": "00:01:12,640",
+      "text": "have"
+    },
+    {
+      "start_time": "00:01:09,760",
+      "end_time": "00:01:15,040",
+      "text": "uh here we have vigor agility stamina"
+    },
+    {
+      "start_time": "00:01:12,640",
+      "end_time": "00:01:17,280",
+      "text": "intuition intellect and luck so there's"
+    },
+    {
+      "start_time": "00:01:15,040",
+      "end_time": "00:01:19,680",
+      "text": "a lot of um similarity here the first"
+    },
+    {
+      "start_time": "00:01:17,280",
+      "end_time": "00:01:22,080",
+      "text": "thing we need to know is"
+    },
+    {
+      "start_time": "00:01:19,680",
+      "end_time": "00:01:23,920",
+      "text": "what is an average stat in dominion"
+    },
+    {
+      "start_time": "00:01:22,080",
+      "end_time": "00:01:25,920",
+      "text": "rules well according to the book average"
+    },
+    {
+      "start_time": "00:01:23,920",
+      "end_time": "00:01:27,840",
+      "text": "humanoid stat is probably gonna be about"
+    },
+    {
+      "start_time": "00:01:25,920",
+      "end_time": "00:01:32,159",
+      "text": "three because it goes from zero to four"
+    },
+    {
+      "start_time": "00:01:27,840",
+      "end_time": "00:01:33,840",
+      "text": "so we know that a d6 in savage worlds"
+    },
+    {
+      "start_time": "00:01:32,159",
+      "end_time": "00:01:36,400",
+      "text": "is going to be"
+    },
+    {
+      "start_time": "00:01:33,840",
+      "end_time": "00:01:38,880",
+      "text": "an average stat so if we look at agility"
+    },
+    {
+      "start_time": "00:01:36,400",
+      "end_time": "00:01:41,520",
+      "text": "here in savage worlds edward had a d6"
+    },
+    {
+      "start_time": "00:01:38,880",
+      "end_time": "00:01:43,759",
+      "text": "agility so agility here in dominion"
+    },
+    {
+      "start_time": "00:01:41,520",
+      "end_time": "00:01:45,040",
+      "text": "rules translates to roughly three so"
+    },
+    {
+      "start_time": "00:01:43,759",
+      "end_time": "00:01:47,439",
+      "text": "we'll just go ahead and give him that"
+    },
+    {
+      "start_time": "00:01:45,040",
+      "end_time": "00:01:49,119",
+      "text": "three agility there his smarts would be"
+    },
+    {
+      "start_time": "00:01:47,439",
+      "end_time": "00:01:50,960",
+      "text": "equal to his intellect so as smart is"
+    },
+    {
+      "start_time": "00:01:49,119",
+      "end_time": "00:01:52,960",
+      "text": "not very good it's d4 so it's definitely"
+    },
+    {
+      "start_time": "00:01:50,960",
+      "end_time": "00:01:55,360",
+      "text": "less than average there is of course the"
+    },
+    {
+      "start_time": "00:01:52,960",
+      "end_time": "00:01:57,040",
+      "text": "intellect stat here in dominion rules as"
+    },
+    {
+      "start_time": "00:01:55,360",
+      "end_time": "00:01:57,840",
+      "text": "well i think his intellect is gonna be"
+    },
+    {
+      "start_time": "00:01:57,040",
+      "end_time": "00:02:01,840",
+      "text": "two"
+    },
+    {
+      "start_time": "00:01:57,840",
+      "end_time": "00:02:03,920",
+      "text": "his spirit uh i don't think there's"
+    },
+    {
+      "start_time": "00:02:01,840",
+      "end_time": "00:02:06,320",
+      "text": "there's really a direct crossover or"
+    },
+    {
+      "start_time": "00:02:03,920",
+      "end_time": "00:02:08,319",
+      "text": "correlation to spirit from savage worlds"
+    },
+    {
+      "start_time": "00:02:06,320",
+      "end_time": "00:02:10,479",
+      "text": "to dominion worlds if anything i'd call"
+    },
+    {
+      "start_time": "00:02:08,319",
+      "end_time": "00:02:12,800",
+      "text": "it intuition it's probably the closest"
+    },
+    {
+      "start_time": "00:02:10,479",
+      "end_time": "00:02:14,800",
+      "text": "thing to it so his spirit is at e6 which"
+    },
+    {
+      "start_time": "00:02:12,800",
+      "end_time": "00:02:16,480",
+      "text": "is average so i'm gonna go ahead and"
+    },
+    {
+      "start_time": "00:02:14,800",
+      "end_time": "00:02:18,239",
+      "text": "give him an average intuition of three"
+    },
+    {
+      "start_time": "00:02:16,480",
+      "end_time": "00:02:19,840",
+      "text": "then we've got strength now he was quite"
+    },
+    {
+      "start_time": "00:02:18,239",
+      "end_time": "00:02:23,200",
+      "text": "strong his strength and his vigor were"
+    },
+    {
+      "start_time": "00:02:19,840",
+      "end_time": "00:02:24,959",
+      "text": "both d8s d8 is above average"
+    },
+    {
+      "start_time": "00:02:23,200",
+      "end_time": "00:02:27,120",
+      "text": "in dominion rules terms i would probably"
+    },
+    {
+      "start_time": "00:02:24,959",
+      "end_time": "00:02:28,720",
+      "text": "say that's a four or five so his vigor's"
+    },
+    {
+      "start_time": "00:02:27,120",
+      "end_time": "00:02:29,760",
+      "text": "gonna be four his stamina is gonna be"
+    },
+    {
+      "start_time": "00:02:28,720",
+      "end_time": "00:02:31,920",
+      "text": "four"
+    },
+    {
+      "start_time": "00:02:29,760",
+      "end_time": "00:02:34,000",
+      "text": "as for his luck that's a good question"
+    },
+    {
+      "start_time": "00:02:31,920",
+      "end_time": "00:02:35,680",
+      "text": "how lucky was edbert"
+    },
+    {
+      "start_time": "00:02:34,000",
+      "end_time": "00:02:38,959",
+      "text": "generally i think i'm just gonna go"
+    },
+    {
+      "start_time": "00:02:35,680",
+      "end_time": "00:02:41,360",
+      "text": "ahead and give him a three in luck"
+    },
+    {
+      "start_time": "00:02:38,959",
+      "end_time": "00:02:43,599",
+      "text": "now here's the other thing about"
+    },
+    {
+      "start_time": "00:02:41,360",
+      "end_time": "00:02:47,200",
+      "text": "savage worlds is that savage worlds of"
+    },
+    {
+      "start_time": "00:02:43,599",
+      "end_time": "00:02:49,760",
+      "text": "course has hindrances and edges these"
+    },
+    {
+      "start_time": "00:02:47,200",
+      "end_time": "00:02:53,680",
+      "text": "are very important uh to savage worlds"
+    },
+    {
+      "start_time": "00:02:49,760",
+      "end_time": "00:02:55,599",
+      "text": "it's kind of like feats in um d d d"
+    },
+    {
+      "start_time": "00:02:53,680",
+      "end_time": "00:02:57,519",
+      "text": "third edition to fifth edition there are"
+    },
+    {
+      "start_time": "00:02:55,599",
+      "end_time": "00:02:58,800",
+      "text": "no feats in dominion rules everything"
+    },
+    {
+      "start_time": "00:02:57,519",
+      "end_time": "00:03:01,760",
+      "text": "gets"
+    },
+    {
+      "start_time": "00:02:58,800",
+      "end_time": "00:03:03,920",
+      "text": "kind of loaded up into skills"
+    },
+    {
+      "start_time": "00:03:01,760",
+      "end_time": "00:03:06,640",
+      "text": "and stuff basically so how i'm going to"
+    },
+    {
+      "start_time": "00:03:03,920",
+      "end_time": "00:03:08,879",
+      "text": "do this we're just going to look at"
+    },
+    {
+      "start_time": "00:03:06,640",
+      "end_time": "00:03:10,239",
+      "text": "the hindrances and the edges and we're"
+    },
+    {
+      "start_time": "00:03:08,879",
+      "end_time": "00:03:12,319",
+      "text": "going to see if we can roll that into"
+    },
+    {
+      "start_time": "00:03:10,239",
+      "end_time": "00:03:14,319",
+      "text": "dominion rules using"
+    },
+    {
+      "start_time": "00:03:12,319",
+      "end_time": "00:03:16,959",
+      "text": "using skills basically so first of all"
+    },
+    {
+      "start_time": "00:03:14,319",
+      "end_time": "00:03:18,560",
+      "text": "the hindrance is he's got haunted"
+    },
+    {
+      "start_time": "00:03:16,959",
+      "end_time": "00:03:19,920",
+      "text": "well he's definitely haunted i don't"
+    },
+    {
+      "start_time": "00:03:18,560",
+      "end_time": "00:03:21,760",
+      "text": "think that has any effect on his stats"
+    },
+    {
+      "start_time": "00:03:19,920",
+      "end_time": "00:03:24,319",
+      "text": "or his skills he's also got blood"
+    },
+    {
+      "start_time": "00:03:21,760",
+      "end_time": "00:03:26,560",
+      "text": "thirsty again this isn't this isn't"
+    },
+    {
+      "start_time": "00:03:24,319",
+      "end_time": "00:03:28,159",
+      "text": "something that's reflected in his stats"
+    },
+    {
+      "start_time": "00:03:26,560",
+      "end_time": "00:03:30,480",
+      "text": "uh this is just the way he has to sort"
+    },
+    {
+      "start_time": "00:03:28,159",
+      "end_time": "00:03:33,200",
+      "text": "of be played now he's got edges so the"
+    },
+    {
+      "start_time": "00:03:30,480",
+      "end_time": "00:03:35,040",
+      "text": "first edge he has is brave"
+    },
+    {
+      "start_time": "00:03:33,200",
+      "end_time": "00:03:38,080",
+      "text": "plus two to fear checks while in"
+    },
+    {
+      "start_time": "00:03:35,040",
+      "end_time": "00:03:39,599",
+      "text": "dominion rules there is no actual fear"
+    },
+    {
+      "start_time": "00:03:38,080",
+      "end_time": "00:03:42,879",
+      "text": "check per se"
+    },
+    {
+      "start_time": "00:03:39,599",
+      "end_time": "00:03:45,519",
+      "text": "um but there is withstand magic"
+    },
+    {
+      "start_time": "00:03:42,879",
+      "end_time": "00:03:48,400",
+      "text": "withstand magic is a stamina skill with"
+    },
+    {
+      "start_time": "00:03:45,519",
+      "end_time": "00:03:49,200",
+      "text": "mag it's uh abbreviated to"
+    },
+    {
+      "start_time": "00:03:48,400",
+      "end_time": "00:03:51,120",
+      "text": "um"
+    },
+    {
+      "start_time": "00:03:49,200",
+      "end_time": "00:03:54,480",
+      "text": "that's normally like saving throws"
+    },
+    {
+      "start_time": "00:03:51,120",
+      "end_time": "00:03:57,200",
+      "text": "versus magic but i think"
+    },
+    {
+      "start_time": "00:03:54,480",
+      "end_time": "00:03:59,040",
+      "text": "also you know due to his long exposure"
+    },
+    {
+      "start_time": "00:03:57,200",
+      "end_time": "00:04:00,799",
+      "text": "to cheryl and things of that sort of"
+    },
+    {
+      "start_time": "00:03:59,040",
+      "end_time": "00:04:02,720",
+      "text": "mystical nature i think his withstand"
+    },
+    {
+      "start_time": "00:04:00,799",
+      "end_time": "00:04:04,319",
+      "text": "magic is gonna be significantly higher"
+    },
+    {
+      "start_time": "00:04:02,720",
+      "end_time": "00:04:05,680",
+      "text": "so i'm gonna give him a plus two in"
+    },
+    {
+      "start_time": "00:04:04,319",
+      "end_time": "00:04:06,879",
+      "text": "savage worlds he would have a plus two"
+    },
+    {
+      "start_time": "00:04:05,680",
+      "end_time": "00:04:09,519",
+      "text": "to his fear check i'm just gonna give"
+    },
+    {
+      "start_time": "00:04:06,879",
+      "end_time": "00:04:12,159",
+      "text": "him a plus two to his skill of with mag"
+    },
+    {
+      "start_time": "00:04:09,519",
+      "end_time": "00:04:13,840",
+      "text": "here so his skill always starts at the"
+    },
+    {
+      "start_time": "00:04:12,159",
+      "end_time": "00:04:15,439",
+      "text": "same level as the stats would start at"
+    },
+    {
+      "start_time": "00:04:13,840",
+      "end_time": "00:04:16,560",
+      "text": "four but plus two is going to be six"
+    },
+    {
+      "start_time": "00:04:15,439",
+      "end_time": "00:04:18,880",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:04:16,560",
+      "end_time": "00:04:21,040",
+      "text": "then he's got a couple of combat uh"
+    },
+    {
+      "start_time": "00:04:18,880",
+      "end_time": "00:04:23,440",
+      "text": "edges here he's got sweep and first"
+    },
+    {
+      "start_time": "00:04:21,040",
+      "end_time": "00:04:26,080",
+      "text": "strike and brawny and block so let's"
+    },
+    {
+      "start_time": "00:04:23,440",
+      "end_time": "00:04:27,680",
+      "text": "take this one at a time sweep is a thing"
+    },
+    {
+      "start_time": "00:04:26,080",
+      "end_time": "00:04:30,000",
+      "text": "that's specific to savage worlds it"
+    },
+    {
+      "start_time": "00:04:27,680",
+      "end_time": "00:04:33,280",
+      "text": "allows him to do a basically a big"
+    },
+    {
+      "start_time": "00:04:30,000",
+      "end_time": "00:04:35,280",
+      "text": "multiple attack against adjacent foes"
+    },
+    {
+      "start_time": "00:04:33,280",
+      "end_time": "00:04:38,000",
+      "text": "how to"
+    },
+    {
+      "start_time": "00:04:35,280",
+      "end_time": "00:04:40,400",
+      "text": "model that in dominion rules i think"
+    },
+    {
+      "start_time": "00:04:38,000",
+      "end_time": "00:04:43,120",
+      "text": "under his combat skills here"
+    },
+    {
+      "start_time": "00:04:40,400",
+      "end_time": "00:04:44,560",
+      "text": "there is no sweep skill i mean i could"
+    },
+    {
+      "start_time": "00:04:43,120",
+      "end_time": "00:04:48,240",
+      "text": "great one but i don't really want to get"
+    },
+    {
+      "start_time": "00:04:44,560",
+      "end_time": "00:04:50,479",
+      "text": "into that i think that sweep is probably"
+    },
+    {
+      "start_time": "00:04:48,240",
+      "end_time": "00:04:52,160",
+      "text": "a faint skill because"
+    },
+    {
+      "start_time": "00:04:50,479",
+      "end_time": "00:04:53,600",
+      "text": "if you successfully faint it basically"
+    },
+    {
+      "start_time": "00:04:52,160",
+      "end_time": "00:04:54,880",
+      "text": "allows you to get a really good hit on"
+    },
+    {
+      "start_time": "00:04:53,600",
+      "end_time": "00:04:56,720",
+      "text": "your enemy"
+    },
+    {
+      "start_time": "00:04:54,880",
+      "end_time": "00:04:58,400",
+      "text": "um it's not a direct correlation it's"
+    },
+    {
+      "start_time": "00:04:56,720",
+      "end_time": "00:04:59,520",
+      "text": "not one to one but that's what i'm going"
+    },
+    {
+      "start_time": "00:04:58,400",
+      "end_time": "00:05:02,000",
+      "text": "to go with i'm just going to do that"
+    },
+    {
+      "start_time": "00:04:59,520",
+      "end_time": "00:05:03,120",
+      "text": "conversion there so basically his faint"
+    },
+    {
+      "start_time": "00:05:02,000",
+      "end_time": "00:05:04,720",
+      "text": "i'm just going to make a little note"
+    },
+    {
+      "start_time": "00:05:03,120",
+      "end_time": "00:05:06,160",
+      "text": "here it's going to be plus 2 to his"
+    },
+    {
+      "start_time": "00:05:04,720",
+      "end_time": "00:05:07,759",
+      "text": "feint then he's got first strike well"
+    },
+    {
+      "start_time": "00:05:06,160",
+      "end_time": "00:05:09,520",
+      "text": "first strike is pretty easy that's going"
+    },
+    {
+      "start_time": "00:05:07,759",
+      "end_time": "00:05:11,360",
+      "text": "to go with timing first strike in savage"
+    },
+    {
+      "start_time": "00:05:09,520",
+      "end_time": "00:05:12,800",
+      "text": "worlds means that he gets bang he gets a"
+    },
+    {
+      "start_time": "00:05:11,360",
+      "end_time": "00:05:14,240",
+      "text": "hidden before his opponent so that's a"
+    },
+    {
+      "start_time": "00:05:12,800",
+      "end_time": "00:05:17,199",
+      "text": "pretty direct correlation to timing his"
+    },
+    {
+      "start_time": "00:05:14,240",
+      "end_time": "00:05:19,440",
+      "text": "timing score is also going to have um a"
+    },
+    {
+      "start_time": "00:05:17,199",
+      "end_time": "00:05:20,960",
+      "text": "plus two to it as well"
+    },
+    {
+      "start_time": "00:05:19,440",
+      "end_time": "00:05:22,720",
+      "text": "uh so i'm just gonna go ahead actually"
+    },
+    {
+      "start_time": "00:05:20,960",
+      "end_time": "00:05:25,120",
+      "text": "and make that a five"
+    },
+    {
+      "start_time": "00:05:22,720",
+      "end_time": "00:05:26,960",
+      "text": "so i still have to spend points on on"
+    },
+    {
+      "start_time": "00:05:25,120",
+      "end_time": "00:05:28,720",
+      "text": "skills as well so he's gonna you know"
+    },
+    {
+      "start_time": "00:05:26,960",
+      "end_time": "00:05:31,360",
+      "text": "have points to spend"
+    },
+    {
+      "start_time": "00:05:28,720",
+      "end_time": "00:05:34,080",
+      "text": "then over here his other edge he's got"
+    },
+    {
+      "start_time": "00:05:31,360",
+      "end_time": "00:05:36,800",
+      "text": "brawny which is plus one toughness well"
+    },
+    {
+      "start_time": "00:05:34,080",
+      "end_time": "00:05:38,080",
+      "text": "luckily we have withstand injury which"
+    },
+    {
+      "start_time": "00:05:36,800",
+      "end_time": "00:05:39,360",
+      "text": "is basically your toughness so i'm gonna"
+    },
+    {
+      "start_time": "00:05:38,080",
+      "end_time": "00:05:41,919",
+      "text": "give him a plus two to that as well so"
+    },
+    {
+      "start_time": "00:05:39,360",
+      "end_time": "00:05:44,400",
+      "text": "he's gonna have a six uh starting with"
+    },
+    {
+      "start_time": "00:05:41,919",
+      "end_time": "00:05:46,000",
+      "text": "injury as well and then he's got block"
+    },
+    {
+      "start_time": "00:05:44,400",
+      "end_time": "00:05:48,639",
+      "text": "which is a plus one to parry now luckily"
+    },
+    {
+      "start_time": "00:05:46,000",
+      "end_time": "00:05:50,240",
+      "text": "block is actually a defensive skill here"
+    },
+    {
+      "start_time": "00:05:48,639",
+      "end_time": "00:05:54,160",
+      "text": "so again i'm gonna give him a plus two"
+    },
+    {
+      "start_time": "00:05:50,240",
+      "end_time": "00:05:56,960",
+      "text": "to that block uh skill once we get there"
+    },
+    {
+      "start_time": "00:05:54,160",
+      "end_time": "00:05:58,880",
+      "text": "and then the other edges here uh"
+    },
+    {
+      "start_time": "00:05:56,960",
+      "end_time": "00:06:00,080",
+      "text": "were just skills that he took he was"
+    },
+    {
+      "start_time": "00:05:58,880",
+      "end_time": "00:06:01,280",
+      "text": "really good at fighting and he took"
+    },
+    {
+      "start_time": "00:06:00,080",
+      "end_time": "00:06:02,400",
+      "text": "persuade at the very end if you guys"
+    },
+    {
+      "start_time": "00:06:01,280",
+      "end_time": "00:06:03,840",
+      "text": "remember the end of season one we're"
+    },
+    {
+      "start_time": "00:06:02,400",
+      "end_time": "00:06:05,600",
+      "text": "gonna give him just a plus one to"
+    },
+    {
+      "start_time": "00:06:03,840",
+      "end_time": "00:06:07,919",
+      "text": "persuade"
+    },
+    {
+      "start_time": "00:06:05,600",
+      "end_time": "00:06:09,520",
+      "text": "well he is bloodthirsty so i think"
+    },
+    {
+      "start_time": "00:06:07,919",
+      "end_time": "00:06:10,720",
+      "text": "actually that's going to"
+    },
+    {
+      "start_time": "00:06:09,520",
+      "end_time": "00:06:12,160",
+      "text": "that's going to give him a plus one to"
+    },
+    {
+      "start_time": "00:06:10,720",
+      "end_time": "00:06:14,160",
+      "text": "intimidate as well i'm going to give him"
+    },
+    {
+      "start_time": "00:06:12,160",
+      "end_time": "00:06:15,600",
+      "text": "that there as well"
+    },
+    {
+      "start_time": "00:06:14,160",
+      "end_time": "00:06:17,520",
+      "text": "he had a really good fighting it was d10"
+    },
+    {
+      "start_time": "00:06:15,600",
+      "end_time": "00:06:19,039",
+      "text": "which in savage world terms is very good"
+    },
+    {
+      "start_time": "00:06:17,520",
+      "end_time": "00:06:21,039",
+      "text": "so"
+    },
+    {
+      "start_time": "00:06:19,039",
+      "end_time": "00:06:23,120",
+      "text": "his combat"
+    },
+    {
+      "start_time": "00:06:21,039",
+      "end_time": "00:06:26,240",
+      "text": "composite is not going to go up because"
+    },
+    {
+      "start_time": "00:06:23,120",
+      "end_time": "00:06:28,000",
+      "text": "that's that's way too powerful but"
+    },
+    {
+      "start_time": "00:06:26,240",
+      "end_time": "00:06:29,680",
+      "text": "his fighting is basically going to be"
+    },
+    {
+      "start_time": "00:06:28,000",
+      "end_time": "00:06:31,840",
+      "text": "his hand-hand skill which in this case"
+    },
+    {
+      "start_time": "00:06:29,680",
+      "end_time": "00:06:33,360",
+      "text": "is going to be strike so again i'm going"
+    },
+    {
+      "start_time": "00:06:31,840",
+      "end_time": "00:06:35,680",
+      "text": "to give he was really good i'm gonna"
+    },
+    {
+      "start_time": "00:06:33,360",
+      "end_time": "00:06:37,680",
+      "text": "give him a plus three to his strike"
+    },
+    {
+      "start_time": "00:06:35,680",
+      "end_time": "00:06:39,199",
+      "text": "score now in dominion rules"
+    },
+    {
+      "start_time": "00:06:37,680",
+      "end_time": "00:06:41,039",
+      "text": "you can also specialize in certain"
+    },
+    {
+      "start_time": "00:06:39,199",
+      "end_time": "00:06:42,319",
+      "text": "weapons and he's gonna do that as well"
+    },
+    {
+      "start_time": "00:06:41,039",
+      "end_time": "00:06:44,240",
+      "text": "we're gonna get to that the second he's"
+    },
+    {
+      "start_time": "00:06:42,319",
+      "end_time": "00:06:45,680",
+      "text": "gonna be very good with a long sword and"
+    },
+    {
+      "start_time": "00:06:44,240",
+      "end_time": "00:06:47,360",
+      "text": "he does know how to use a long bow as"
+    },
+    {
+      "start_time": "00:06:45,680",
+      "end_time": "00:06:50,479",
+      "text": "well in terms of everything else he he"
+    },
+    {
+      "start_time": "00:06:47,360",
+      "end_time": "00:06:52,639",
+      "text": "has his skills here so he's got fighting"
+    },
+    {
+      "start_time": "00:06:50,479",
+      "end_time": "00:06:54,720",
+      "text": "of d10 which we've already accounted for"
+    },
+    {
+      "start_time": "00:06:52,639",
+      "end_time": "00:06:57,919",
+      "text": "with the strike skill he did have an"
+    },
+    {
+      "start_time": "00:06:54,720",
+      "end_time": "00:07:00,639",
+      "text": "average stealth so his stealth here"
+    },
+    {
+      "start_time": "00:06:57,919",
+      "end_time": "00:07:02,240",
+      "text": "stealth is a an agility skill i'm just"
+    },
+    {
+      "start_time": "00:07:00,639",
+      "end_time": "00:07:04,000",
+      "text": "gonna bump that up by one so that's"
+    },
+    {
+      "start_time": "00:07:02,240",
+      "end_time": "00:07:06,319",
+      "text": "gonna be four"
+    },
+    {
+      "start_time": "00:07:04,000",
+      "end_time": "00:07:08,400",
+      "text": "he had a persuade skill so we we bumped"
+    },
+    {
+      "start_time": "00:07:06,319",
+      "end_time": "00:07:11,520",
+      "text": "that one up as well intimidation we have"
+    },
+    {
+      "start_time": "00:07:08,400",
+      "end_time": "00:07:12,960",
+      "text": "that here uh notices his alertness so"
+    },
+    {
+      "start_time": "00:07:11,520",
+      "end_time": "00:07:14,800",
+      "text": "i'm just gonna give him a plus one"
+    },
+    {
+      "start_time": "00:07:12,960",
+      "end_time": "00:07:17,199",
+      "text": "alertness because he did have the skill"
+    },
+    {
+      "start_time": "00:07:14,800",
+      "end_time": "00:07:20,479",
+      "text": "so his alertness is going to be four"
+    },
+    {
+      "start_time": "00:07:17,199",
+      "end_time": "00:07:22,000",
+      "text": "shooting shooting is uh missile strike"
+    },
+    {
+      "start_time": "00:07:20,479",
+      "end_time": "00:07:24,080",
+      "text": "in this case so his missile strike is"
+    },
+    {
+      "start_time": "00:07:22,000",
+      "end_time": "00:07:26,080",
+      "text": "going to be plus two because his"
+    },
+    {
+      "start_time": "00:07:24,080",
+      "end_time": "00:07:28,720",
+      "text": "shooting is at six"
+    },
+    {
+      "start_time": "00:07:26,080",
+      "end_time": "00:07:30,160",
+      "text": "street wise i'm gonna he had an average"
+    },
+    {
+      "start_time": "00:07:28,720",
+      "end_time": "00:07:31,680",
+      "text": "uh he had a basic three wise i'm just"
+    },
+    {
+      "start_time": "00:07:30,160",
+      "end_time": "00:07:34,240",
+      "text": "going to give him a plus one to deceive"
+    },
+    {
+      "start_time": "00:07:31,680",
+      "end_time": "00:07:34,240",
+      "text": "because of that"
+    },
+    {
+      "start_time": "00:07:34,560",
+      "end_time": "00:07:38,720",
+      "text": "and then survival is things like you"
+    },
+    {
+      "start_time": "00:07:37,120",
+      "end_time": "00:07:40,960",
+      "text": "know surviving the wilderness obviously"
+    },
+    {
+      "start_time": "00:07:38,720",
+      "end_time": "00:07:42,720",
+      "text": "he he had a very basic survival we could"
+    },
+    {
+      "start_time": "00:07:40,960",
+      "end_time": "00:07:44,879",
+      "text": "just create a new skill we could create"
+    },
+    {
+      "start_time": "00:07:42,720",
+      "end_time": "00:07:47,759",
+      "text": "the survival skill based on"
+    },
+    {
+      "start_time": "00:07:44,879",
+      "end_time": "00:07:51,120",
+      "text": "intuition or intellect or something"
+    },
+    {
+      "start_time": "00:07:47,759",
+      "end_time": "00:07:54,960",
+      "text": "at uh plus one so it'll also be at four"
+    },
+    {
+      "start_time": "00:07:51,120",
+      "end_time": "00:07:57,039",
+      "text": "okay now in terms of his gear"
+    },
+    {
+      "start_time": "00:07:54,960",
+      "end_time": "00:07:58,960",
+      "text": "armor he had chain mail which uh in"
+    },
+    {
+      "start_time": "00:07:57,039",
+      "end_time": "00:08:02,080",
+      "text": "savage worlds covers the torso arms and"
+    },
+    {
+      "start_time": "00:07:58,960",
+      "end_time": "00:08:04,479",
+      "text": "legs male partial male is probably what"
+    },
+    {
+      "start_time": "00:08:02,080",
+      "end_time": "00:08:04,479",
+      "text": "that is"
+    },
+    {
+      "start_time": "00:08:05,039",
+      "end_time": "00:08:09,199",
+      "text": "uh plus five"
+    },
+    {
+      "start_time": "00:08:06,720",
+      "end_time": "00:08:12,319",
+      "text": "which is to his withstand injury"
+    },
+    {
+      "start_time": "00:08:09,199",
+      "end_time": "00:08:14,160",
+      "text": "uh score the agility penalty is minus"
+    },
+    {
+      "start_time": "00:08:12,319",
+      "end_time": "00:08:15,840",
+      "text": "one unfortunately"
+    },
+    {
+      "start_time": "00:08:14,160",
+      "end_time": "00:08:18,000",
+      "text": "everything he does is gonna suffer from"
+    },
+    {
+      "start_time": "00:08:15,840",
+      "end_time": "00:08:20,319",
+      "text": "a minus one so we'll just put minus one"
+    },
+    {
+      "start_time": "00:08:18,000",
+      "end_time": "00:08:20,319",
+      "text": "armor"
+    },
+    {
+      "start_time": "00:08:21,199",
+      "end_time": "00:08:24,879",
+      "text": "movement penalty to partial male is"
+    },
+    {
+      "start_time": "00:08:23,520",
+      "end_time": "00:08:27,039",
+      "text": "minus two"
+    },
+    {
+      "start_time": "00:08:24,879",
+      "end_time": "00:08:29,680",
+      "text": "so he's a little slower"
+    },
+    {
+      "start_time": "00:08:27,039",
+      "end_time": "00:08:32,640",
+      "text": "perry penalty is minus one because it's"
+    },
+    {
+      "start_time": "00:08:29,680",
+      "end_time": "00:08:35,680",
+      "text": "pretty bulky stuff and the dodge penalty"
+    },
+    {
+      "start_time": "00:08:32,640",
+      "end_time": "00:08:35,680",
+      "text": "is minus two"
+    },
+    {
+      "start_time": "00:08:36,000",
+      "end_time": "00:08:43,039",
+      "text": "okay weapons he has a long sword"
+    },
+    {
+      "start_time": "00:08:40,959",
+      "end_time": "00:08:45,360",
+      "text": "the strike bonus of a long sword is plus"
+    },
+    {
+      "start_time": "00:08:43,039",
+      "end_time": "00:08:47,440",
+      "text": "two"
+    },
+    {
+      "start_time": "00:08:45,360",
+      "end_time": "00:08:51,440",
+      "text": "the parry modifier for the long sword is"
+    },
+    {
+      "start_time": "00:08:47,440",
+      "end_time": "00:08:55,200",
+      "text": "zero the disarm modifier is zero timing"
+    },
+    {
+      "start_time": "00:08:51,440",
+      "end_time": "00:08:57,680",
+      "text": "modifier is minus six it's quite"
+    },
+    {
+      "start_time": "00:08:55,200",
+      "end_time": "00:08:59,120",
+      "text": "slow and then he's got the long bow i'll"
+    },
+    {
+      "start_time": "00:08:57,680",
+      "end_time": "00:09:02,720",
+      "text": "put that down here"
+    },
+    {
+      "start_time": "00:08:59,120",
+      "end_time": "00:09:02,720",
+      "text": "missile strike bonuses plus one"
+    },
+    {
+      "start_time": "00:09:03,120",
+      "end_time": "00:09:06,959",
+      "text": "timing modifier is minus three"
+    },
+    {
+      "start_time": "00:09:05,440",
+      "end_time": "00:09:08,000",
+      "text": "that's basically it for the savage"
+    },
+    {
+      "start_time": "00:09:06,959",
+      "end_time": "00:09:09,760",
+      "text": "worlds"
+    },
+    {
+      "start_time": "00:09:08,000",
+      "end_time": "00:09:12,080",
+      "text": "portion of"
+    },
+    {
+      "start_time": "00:09:09,760",
+      "end_time": "00:09:14,240",
+      "text": "uh him so if you look at character"
+    },
+    {
+      "start_time": "00:09:12,080",
+      "end_time": "00:09:16,000",
+      "text": "creation he's an experienced character"
+    },
+    {
+      "start_time": "00:09:14,240",
+      "end_time": "00:09:18,480",
+      "text": "so i'm just going to give him 60 points"
+    },
+    {
+      "start_time": "00:09:16,000",
+      "end_time": "00:09:20,560",
+      "text": "okay advancement in this game is done on"
+    },
+    {
+      "start_time": "00:09:18,480",
+      "end_time": "00:09:22,000",
+      "text": "a table here it's done on this table"
+    },
+    {
+      "start_time": "00:09:20,560",
+      "end_time": "00:09:23,440",
+      "text": "here the skill improvement table"
+    },
+    {
+      "start_time": "00:09:22,000",
+      "end_time": "00:09:24,959",
+      "text": "basically he's got 60 points so i'm"
+    },
+    {
+      "start_time": "00:09:23,440",
+      "end_time": "00:09:27,440",
+      "text": "going to go ahead and spend those points"
+    },
+    {
+      "start_time": "00:09:24,959",
+      "end_time": "00:09:28,240",
+      "text": "and see where we wind up again trying to"
+    },
+    {
+      "start_time": "00:09:27,440",
+      "end_time": "00:09:29,839",
+      "text": "keep"
+    },
+    {
+      "start_time": "00:09:28,240",
+      "end_time": "00:09:32,399",
+      "text": "close to the original"
+    },
+    {
+      "start_time": "00:09:29,839",
+      "end_time": "00:09:33,680",
+      "text": "vision of what edward is probably going"
+    },
+    {
+      "start_time": "00:09:32,399",
+      "end_time": "00:09:36,399",
+      "text": "to wind up cutting all this out because"
+    },
+    {
+      "start_time": "00:09:33,680",
+      "end_time": "00:09:38,800",
+      "text": "it's math who wants to watch math okay"
+    },
+    {
+      "start_time": "00:09:36,399",
+      "end_time": "00:09:41,519",
+      "text": "so what we've got here then"
+    },
+    {
+      "start_time": "00:09:38,800",
+      "end_time": "00:09:43,839",
+      "text": "is his social skills they're not great"
+    },
+    {
+      "start_time": "00:09:41,519",
+      "end_time": "00:09:45,839",
+      "text": "but that actually makes sense because he"
+    },
+    {
+      "start_time": "00:09:43,839",
+      "end_time": "00:09:48,480",
+      "text": "was not great in that department anyway"
+    },
+    {
+      "start_time": "00:09:45,839",
+      "end_time": "00:09:50,640",
+      "text": "his persuade is gonna be three his"
+    },
+    {
+      "start_time": "00:09:48,480",
+      "end_time": "00:09:52,240",
+      "text": "command is gonna be two his inspire is"
+    },
+    {
+      "start_time": "00:09:50,640",
+      "end_time": "00:09:54,540",
+      "text": "gonna be two his intimidate is five and"
+    },
+    {
+      "start_time": "00:09:52,240",
+      "end_time": "00:09:57,519",
+      "text": "a deceive is three"
+    },
+    {
+      "start_time": "00:09:54,540",
+      "end_time": "00:09:59,360",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:09:57,519",
+      "end_time": "00:10:02,240",
+      "text": "over here"
+    },
+    {
+      "start_time": "00:09:59,360",
+      "end_time": "00:10:04,160",
+      "text": "uh his grip is four his muscle is six is"
+    },
+    {
+      "start_time": "00:10:02,240",
+      "end_time": "00:10:07,519",
+      "text": "climbing is four and his swimming is"
+    },
+    {
+      "start_time": "00:10:04,160",
+      "end_time": "00:10:09,360",
+      "text": "also four his timing is seven"
+    },
+    {
+      "start_time": "00:10:07,519",
+      "end_time": "00:10:11,120",
+      "text": "but it's actually six when he uses his"
+    },
+    {
+      "start_time": "00:10:09,360",
+      "end_time": "00:10:12,399",
+      "text": "long sword because it's minus six"
+    },
+    {
+      "start_time": "00:10:11,120",
+      "end_time": "00:10:14,720",
+      "text": "penalty to that"
+    },
+    {
+      "start_time": "00:10:12,399",
+      "end_time": "00:10:18,240",
+      "text": "his stealth is four his horsemanship is"
+    },
+    {
+      "start_time": "00:10:14,720",
+      "end_time": "00:10:20,560",
+      "text": "three but all of these are at minus one"
+    },
+    {
+      "start_time": "00:10:18,240",
+      "end_time": "00:10:23,040",
+      "text": "because of his armor penalty over here"
+    },
+    {
+      "start_time": "00:10:20,560",
+      "end_time": "00:10:25,120",
+      "text": "stamina his withstand injury is six"
+    },
+    {
+      "start_time": "00:10:23,040",
+      "end_time": "00:10:27,200",
+      "text": "but it's actually a lot more because of"
+    },
+    {
+      "start_time": "00:10:25,120",
+      "end_time": "00:10:29,600",
+      "text": "his armor his withstand magic is six"
+    },
+    {
+      "start_time": "00:10:27,200",
+      "end_time": "00:10:31,519",
+      "text": "holding his breath is four"
+    },
+    {
+      "start_time": "00:10:29,600",
+      "end_time": "00:10:33,360",
+      "text": "alertness is four survival is for and"
+    },
+    {
+      "start_time": "00:10:31,519",
+      "end_time": "00:10:35,120",
+      "text": "then his intellect skills medical"
+    },
+    {
+      "start_time": "00:10:33,360",
+      "end_time": "00:10:36,720",
+      "text": "literacy and heraldry are all at two so"
+    },
+    {
+      "start_time": "00:10:35,120",
+      "end_time": "00:10:38,000",
+      "text": "he kind of sucks"
+    },
+    {
+      "start_time": "00:10:36,720",
+      "end_time": "00:10:40,240",
+      "text": "at those"
+    },
+    {
+      "start_time": "00:10:38,000",
+      "end_time": "00:10:42,240",
+      "text": "over here his base strike with all"
+    },
+    {
+      "start_time": "00:10:40,240",
+      "end_time": "00:10:43,839",
+      "text": "weapons is eight but with a long sword"
+    },
+    {
+      "start_time": "00:10:42,240",
+      "end_time": "00:10:46,880",
+      "text": "it is 11."
+    },
+    {
+      "start_time": "00:10:43,839",
+      "end_time": "00:10:48,959",
+      "text": "missile strike is uh is going to be five"
+    },
+    {
+      "start_time": "00:10:46,880",
+      "end_time": "00:10:51,519",
+      "text": "again he's not great with that his"
+    },
+    {
+      "start_time": "00:10:48,959",
+      "end_time": "00:10:53,600",
+      "text": "brawling is five his faint is also five"
+    },
+    {
+      "start_time": "00:10:51,519",
+      "end_time": "00:10:54,880",
+      "text": "and his disarm is only three he's not"
+    },
+    {
+      "start_time": "00:10:53,600",
+      "end_time": "00:10:56,320",
+      "text": "great at disarming which makes sense"
+    },
+    {
+      "start_time": "00:10:54,880",
+      "end_time": "00:10:57,680",
+      "text": "because he's bloodthirsty he doesn't"
+    },
+    {
+      "start_time": "00:10:56,320",
+      "end_time": "00:10:58,640",
+      "text": "spend a lot of time disarming people to"
+    },
+    {
+      "start_time": "00:10:57,680",
+      "end_time": "00:11:01,040",
+      "text": "take the prisoners because he doesn't"
+    },
+    {
+      "start_time": "00:10:58,640",
+      "end_time": "00:11:06,240",
+      "text": "take prisoners he just kills him"
+    },
+    {
+      "start_time": "00:11:01,040",
+      "end_time": "00:11:09,360",
+      "text": "over here the dodge skill is three"
+    },
+    {
+      "start_time": "00:11:06,240",
+      "end_time": "00:11:10,720",
+      "text": "the modified skill is actually one his"
+    },
+    {
+      "start_time": "00:11:09,360",
+      "end_time": "00:11:13,440",
+      "text": "dodge is terrible because that armor"
+    },
+    {
+      "start_time": "00:11:10,720",
+      "end_time": "00:11:16,079",
+      "text": "weighs him down his parry"
+    },
+    {
+      "start_time": "00:11:13,440",
+      "end_time": "00:11:18,480",
+      "text": "is normally six"
+    },
+    {
+      "start_time": "00:11:16,079",
+      "end_time": "00:11:21,600",
+      "text": "with his sword but his perry penalty is"
+    },
+    {
+      "start_time": "00:11:18,480",
+      "end_time": "00:11:24,720",
+      "text": "one so his parry is five with the sword"
+    },
+    {
+      "start_time": "00:11:21,600",
+      "end_time": "00:11:27,040",
+      "text": "his block with the target shield is nine"
+    },
+    {
+      "start_time": "00:11:24,720",
+      "end_time": "00:11:29,040",
+      "text": "uh and regular block"
+    },
+    {
+      "start_time": "00:11:27,040",
+      "end_time": "00:11:30,959",
+      "text": "with any other kind of shield is seven"
+    },
+    {
+      "start_time": "00:11:29,040",
+      "end_time": "00:11:33,839",
+      "text": "his movement is four but it's actually"
+    },
+    {
+      "start_time": "00:11:30,959",
+      "end_time": "00:11:35,760",
+      "text": "down to two because of his armor his"
+    },
+    {
+      "start_time": "00:11:33,839",
+      "end_time": "00:11:39,279",
+      "text": "modified withstand injury stats is"
+    },
+    {
+      "start_time": "00:11:35,760",
+      "end_time": "00:11:40,640",
+      "text": "modified within stats his injury stat in"
+    },
+    {
+      "start_time": "00:11:39,279",
+      "end_time": "00:11:42,800",
+      "text": "other words how many hit points he has"
+    },
+    {
+      "start_time": "00:11:40,640",
+      "end_time": "00:11:44,880",
+      "text": "is six because that's his withstand"
+    },
+    {
+      "start_time": "00:11:42,800",
+      "end_time": "00:11:46,800",
+      "text": "injury score"
+    },
+    {
+      "start_time": "00:11:44,880",
+      "end_time": "00:11:48,320",
+      "text": "his torso and limbs"
+    },
+    {
+      "start_time": "00:11:46,800",
+      "end_time": "00:11:49,440",
+      "text": "for the armor"
+    },
+    {
+      "start_time": "00:11:48,320",
+      "end_time": "00:11:50,560",
+      "text": "is"
+    },
+    {
+      "start_time": "00:11:49,440",
+      "end_time": "00:11:54,639",
+      "text": "five"
+    },
+    {
+      "start_time": "00:11:50,560",
+      "end_time": "00:11:54,639",
+      "text": "plus his withstand injury so it's 11."
+    },
+    {
+      "start_time": "00:11:54,720",
+      "end_time": "00:11:59,279",
+      "text": "head eyes and neck are just his regular"
+    },
+    {
+      "start_time": "00:11:58,000",
+      "end_time": "00:12:02,560",
+      "text": "wisdom energy because he doesn't have a"
+    },
+    {
+      "start_time": "00:11:59,279",
+      "end_time": "00:12:03,600",
+      "text": "helmet on so that's going to be six"
+    },
+    {
+      "start_time": "00:12:02,560",
+      "end_time": "00:12:04,959",
+      "text": "head"
+    },
+    {
+      "start_time": "00:12:03,600",
+      "end_time": "00:12:06,880",
+      "text": "eyes on the neck he might want to get"
+    },
+    {
+      "start_time": "00:12:04,959",
+      "end_time": "00:12:09,760",
+      "text": "himself a helmet hands and feet same"
+    },
+    {
+      "start_time": "00:12:06,880",
+      "end_time": "00:12:11,360",
+      "text": "thing six and six now when blocking he"
+    },
+    {
+      "start_time": "00:12:09,760",
+      "end_time": "00:12:12,399",
+      "text": "gets the advantage of that target shield"
+    },
+    {
+      "start_time": "00:12:11,360",
+      "end_time": "00:12:14,240",
+      "text": "which is"
+    },
+    {
+      "start_time": "00:12:12,399",
+      "end_time": "00:12:16,560",
+      "text": "uh one so"
+    },
+    {
+      "start_time": "00:12:14,240",
+      "end_time": "00:12:18,800",
+      "text": "that would mean that his withstand"
+    },
+    {
+      "start_time": "00:12:16,560",
+      "end_time": "00:12:20,800",
+      "text": "injury when blocking"
+    },
+    {
+      "start_time": "00:12:18,800",
+      "end_time": "00:12:23,519",
+      "text": "is gonna be a plus one"
+    },
+    {
+      "start_time": "00:12:20,800",
+      "end_time": "00:12:25,839",
+      "text": "to whatever that is"
+    },
+    {
+      "start_time": "00:12:23,519",
+      "end_time": "00:12:27,680",
+      "text": "so if he gets hit in the torso it's a"
+    },
+    {
+      "start_time": "00:12:25,839",
+      "end_time": "00:12:30,240",
+      "text": "and he's successfully blocked he rolls"
+    },
+    {
+      "start_time": "00:12:27,680",
+      "end_time": "00:12:32,320",
+      "text": "12 or less if he's hit anywhere else and"
+    },
+    {
+      "start_time": "00:12:30,240",
+      "end_time": "00:12:34,639",
+      "text": "he successfully blocks then it's seven"
+    },
+    {
+      "start_time": "00:12:32,320",
+      "end_time": "00:12:36,240",
+      "text": "okay i think that's it i think that is"
+    },
+    {
+      "start_time": "00:12:34,639",
+      "end_time": "00:12:40,320",
+      "text": "edbert i think"
+    },
+    {
+      "start_time": "00:12:36,240",
+      "end_time": "00:12:43,360",
+      "text": "we're ready to start with him and um"
+    },
+    {
+      "start_time": "00:12:40,320",
+      "end_time": "00:12:43,360",
+      "text": "hope that he doesn't die"
+    },
+    {
+      "start_time": "00:12:44,399",
+      "end_time": "00:12:47,200",
+      "text": "yeah because he doesn't have a whole lot"
+    },
+    {
+      "start_time": "00:12:45,519",
+      "end_time": "00:12:48,720",
+      "text": "of aps to spend on luck if anything goes"
+    },
+    {
+      "start_time": "00:12:47,200",
+      "end_time": "00:12:50,639",
+      "text": "wrong so anyway that that gives you sort"
+    },
+    {
+      "start_time": "00:12:48,720",
+      "end_time": "00:12:52,000",
+      "text": "of a sense of how i did the conversion i"
+    },
+    {
+      "start_time": "00:12:50,639",
+      "end_time": "00:12:53,279",
+      "text": "just wanted to give you a little glimpse"
+    },
+    {
+      "start_time": "00:12:52,000",
+      "end_time": "00:12:54,399",
+      "text": "into what that was like some of you had"
+    },
+    {
+      "start_time": "00:12:53,279",
+      "end_time": "00:12:55,519",
+      "text": "asked about that you wanted to see the"
+    },
+    {
+      "start_time": "00:12:54,399",
+      "end_time": "00:12:57,600",
+      "text": "character shoot you wanted to see how"
+    },
+    {
+      "start_time": "00:12:55,519",
+      "end_time": "00:12:59,519",
+      "text": "this all works i'm i'm kind of making"
+    },
+    {
+      "start_time": "00:12:57,600",
+      "end_time": "00:13:00,959",
+      "text": "this up as i go because i don't really"
+    },
+    {
+      "start_time": "00:12:59,519",
+      "end_time": "00:13:02,959",
+      "text": "as i said there's no direct conversion"
+    },
+    {
+      "start_time": "00:13:00,959",
+      "end_time": "00:13:04,800",
+      "text": "so i'm just kind of winging it here but"
+    },
+    {
+      "start_time": "00:13:02,959",
+      "end_time": "00:13:06,959",
+      "text": "uh that's that's what my instinct tells"
+    },
+    {
+      "start_time": "00:13:04,800",
+      "end_time": "00:13:09,200",
+      "text": "me to do so we'll um we'll see how that"
+    },
+    {
+      "start_time": "00:13:06,959",
+      "end_time": "00:13:10,560",
+      "text": "turns out and uh yeah"
+    },
+    {
+      "start_time": "00:13:09,200",
+      "end_time": "00:13:11,760",
+      "text": "thanks for watching uh if you want to"
+    },
+    {
+      "start_time": "00:13:10,560",
+      "end_time": "00:13:13,519",
+      "text": "help support the show of course there's"
+    },
+    {
+      "start_time": "00:13:11,760",
+      "end_time": "00:13:15,040",
+      "text": "the patreon link below and you can buy"
+    },
+    {
+      "start_time": "00:13:13,519",
+      "end_time": "00:13:16,639",
+      "text": "the merchandise to drive through rpg"
+    },
+    {
+      "start_time": "00:13:15,040",
+      "end_time": "00:13:18,320",
+      "text": "through the links below as well and i"
+    },
+    {
+      "start_time": "00:13:16,639",
+      "end_time": "00:13:21,040",
+      "text": "have my own merchandise here and blah"
+    },
+    {
+      "start_time": "00:13:18,320",
+      "end_time": "00:13:22,880",
+      "text": "blah blah blah blah like and subscribe"
+    },
+    {
+      "start_time": "00:13:21,040",
+      "end_time": "00:13:25,090",
+      "text": "and stay tuned for the next episode of"
+    },
+    {
+      "start_time": "00:13:22,880",
+      "end_time": "00:13:29,359",
+      "text": "me myself"
+    },
+    {
+      "start_time": "00:13:25,090",
+      "end_time": "00:13:29,359",
+      "text": "[Music]"
+    }
+  ],
+  "full_text": "hey guys how you doing trevor davao here\ni wanted to give you a little sneak peek\nbehind the scenes a little bit to show\nyou my process of how i turned edbert\nfrom a savage worlds character into a\ndominion rules character so that's what\nwe're going to be doing today on this\nlittle a bonus episode so edbert from\nseason one was a savage world's\ncharacter the thing about making a\ncomparison between dominion rules and\nsavage worlds is that\nthere is no comparison\nthere's no there's no direct one to one\nconversion there's no straightaway\nconversion so i kind of have to eyeball\na few things so i'm going to have to\ntake some things into consideration\nbecause i want to accurately reflect\nwhat edbert is based on what he was\ncreated to be in savage worlds um i want\nto accurately reflect him in dominion\nrules as well\nit's not going to be exact it's never\nexact but we want to get it as close you\nknow to preserve the very similitude so\nto speak when we look at edbert's\ncharacter sheet in savage worlds you can\nsee here savage worlds of course has the\nfive uh stats of agility smart spirit\nstrength and vigor\nall ranging from a d4 value to d12 value\nin dominion rules on the other hand we\nhave\nuh here we have vigor agility stamina\nintuition intellect and luck so there's\na lot of um similarity here the first\nthing we need to know is\nwhat is an average stat in dominion\nrules well according to the book average\nhumanoid stat is probably gonna be about\nthree because it goes from zero to four\nso we know that a d6 in savage worlds\nis going to be\nan average stat so if we look at agility\nhere in savage worlds edward had a d6\nagility so agility here in dominion\nrules translates to roughly three so\nwe'll just go ahead and give him that\nthree agility there his smarts would be\nequal to his intellect so as smart is\nnot very good it's d4 so it's definitely\nless than average there is of course the\nintellect stat here in dominion rules as\nwell i think his intellect is gonna be\ntwo\nhis spirit uh i don't think there's\nthere's really a direct crossover or\ncorrelation to spirit from savage worlds\nto dominion worlds if anything i'd call\nit intuition it's probably the closest\nthing to it so his spirit is at e6 which\nis average so i'm gonna go ahead and\ngive him an average intuition of three\nthen we've got strength now he was quite\nstrong his strength and his vigor were\nboth d8s d8 is above average\nin dominion rules terms i would probably\nsay that's a four or five so his vigor's\ngonna be four his stamina is gonna be\nfour\nas for his luck that's a good question\nhow lucky was edbert\ngenerally i think i'm just gonna go\nahead and give him a three in luck\nnow here's the other thing about\nsavage worlds is that savage worlds of\ncourse has hindrances and edges these\nare very important uh to savage worlds\nit's kind of like feats in um d d d\nthird edition to fifth edition there are\nno feats in dominion rules everything\ngets\nkind of loaded up into skills\nand stuff basically so how i'm going to\ndo this we're just going to look at\nthe hindrances and the edges and we're\ngoing to see if we can roll that into\ndominion rules using\nusing skills basically so first of all\nthe hindrance is he's got haunted\nwell he's definitely haunted i don't\nthink that has any effect on his stats\nor his skills he's also got blood\nthirsty again this isn't this isn't\nsomething that's reflected in his stats\nuh this is just the way he has to sort\nof be played now he's got edges so the\nfirst edge he has is brave\nplus two to fear checks while in\ndominion rules there is no actual fear\ncheck per se\num but there is withstand magic\nwithstand magic is a stamina skill with\nmag it's uh abbreviated to\num\nthat's normally like saving throws\nversus magic but i think\nalso you know due to his long exposure\nto cheryl and things of that sort of\nmystical nature i think his withstand\nmagic is gonna be significantly higher\nso i'm gonna give him a plus two in\nsavage worlds he would have a plus two\nto his fear check i'm just gonna give\nhim a plus two to his skill of with mag\nhere so his skill always starts at the\nsame level as the stats would start at\nfour but plus two is going to be six\nokay\nthen he's got a couple of combat uh\nedges here he's got sweep and first\nstrike and brawny and block so let's\ntake this one at a time sweep is a thing\nthat's specific to savage worlds it\nallows him to do a basically a big\nmultiple attack against adjacent foes\nhow to\nmodel that in dominion rules i think\nunder his combat skills here\nthere is no sweep skill i mean i could\ngreat one but i don't really want to get\ninto that i think that sweep is probably\na faint skill because\nif you successfully faint it basically\nallows you to get a really good hit on\nyour enemy\num it's not a direct correlation it's\nnot one to one but that's what i'm going\nto go with i'm just going to do that\nconversion there so basically his faint\ni'm just going to make a little note\nhere it's going to be plus 2 to his\nfeint then he's got first strike well\nfirst strike is pretty easy that's going\nto go with timing first strike in savage\nworlds means that he gets bang he gets a\nhidden before his opponent so that's a\npretty direct correlation to timing his\ntiming score is also going to have um a\nplus two to it as well\nuh so i'm just gonna go ahead actually\nand make that a five\nso i still have to spend points on on\nskills as well so he's gonna you know\nhave points to spend\nthen over here his other edge he's got\nbrawny which is plus one toughness well\nluckily we have withstand injury which\nis basically your toughness so i'm gonna\ngive him a plus two to that as well so\nhe's gonna have a six uh starting with\ninjury as well and then he's got block\nwhich is a plus one to parry now luckily\nblock is actually a defensive skill here\nso again i'm gonna give him a plus two\nto that block uh skill once we get there\nand then the other edges here uh\nwere just skills that he took he was\nreally good at fighting and he took\npersuade at the very end if you guys\nremember the end of season one we're\ngonna give him just a plus one to\npersuade\nwell he is bloodthirsty so i think\nactually that's going to\nthat's going to give him a plus one to\nintimidate as well i'm going to give him\nthat there as well\nhe had a really good fighting it was d10\nwhich in savage world terms is very good\nso\nhis combat\ncomposite is not going to go up because\nthat's that's way too powerful but\nhis fighting is basically going to be\nhis hand-hand skill which in this case\nis going to be strike so again i'm going\nto give he was really good i'm gonna\ngive him a plus three to his strike\nscore now in dominion rules\nyou can also specialize in certain\nweapons and he's gonna do that as well\nwe're gonna get to that the second he's\ngonna be very good with a long sword and\nhe does know how to use a long bow as\nwell in terms of everything else he he\nhas his skills here so he's got fighting\nof d10 which we've already accounted for\nwith the strike skill he did have an\naverage stealth so his stealth here\nstealth is a an agility skill i'm just\ngonna bump that up by one so that's\ngonna be four\nhe had a persuade skill so we we bumped\nthat one up as well intimidation we have\nthat here uh notices his alertness so\ni'm just gonna give him a plus one\nalertness because he did have the skill\nso his alertness is going to be four\nshooting shooting is uh missile strike\nin this case so his missile strike is\ngoing to be plus two because his\nshooting is at six\nstreet wise i'm gonna he had an average\nuh he had a basic three wise i'm just\ngoing to give him a plus one to deceive\nbecause of that\nand then survival is things like you\nknow surviving the wilderness obviously\nhe he had a very basic survival we could\njust create a new skill we could create\nthe survival skill based on\nintuition or intellect or something\nat uh plus one so it'll also be at four\nokay now in terms of his gear\narmor he had chain mail which uh in\nsavage worlds covers the torso arms and\nlegs male partial male is probably what\nthat is\nuh plus five\nwhich is to his withstand injury\nuh score the agility penalty is minus\none unfortunately\neverything he does is gonna suffer from\na minus one so we'll just put minus one\narmor\nmovement penalty to partial male is\nminus two\nso he's a little slower\nperry penalty is minus one because it's\npretty bulky stuff and the dodge penalty\nis minus two\nokay weapons he has a long sword\nthe strike bonus of a long sword is plus\ntwo\nthe parry modifier for the long sword is\nzero the disarm modifier is zero timing\nmodifier is minus six it's quite\nslow and then he's got the long bow i'll\nput that down here\nmissile strike bonuses plus one\ntiming modifier is minus three\nthat's basically it for the savage\nworlds\nportion of\nuh him so if you look at character\ncreation he's an experienced character\nso i'm just going to give him 60 points\nokay advancement in this game is done on\na table here it's done on this table\nhere the skill improvement table\nbasically he's got 60 points so i'm\ngoing to go ahead and spend those points\nand see where we wind up again trying to\nkeep\nclose to the original\nvision of what edward is probably going\nto wind up cutting all this out because\nit's math who wants to watch math okay\nso what we've got here then\nis his social skills they're not great\nbut that actually makes sense because he\nwas not great in that department anyway\nhis persuade is gonna be three his\ncommand is gonna be two his inspire is\ngonna be two his intimidate is five and\na deceive is three\n[Music]\nover here\nuh his grip is four his muscle is six is\nclimbing is four and his swimming is\nalso four his timing is seven\nbut it's actually six when he uses his\nlong sword because it's minus six\npenalty to that\nhis stealth is four his horsemanship is\nthree but all of these are at minus one\nbecause of his armor penalty over here\nstamina his withstand injury is six\nbut it's actually a lot more because of\nhis armor his withstand magic is six\nholding his breath is four\nalertness is four survival is for and\nthen his intellect skills medical\nliteracy and heraldry are all at two so\nhe kind of sucks\nat those\nover here his base strike with all\nweapons is eight but with a long sword\nit is 11.\nmissile strike is uh is going to be five\nagain he's not great with that his\nbrawling is five his faint is also five\nand his disarm is only three he's not\ngreat at disarming which makes sense\nbecause he's bloodthirsty he doesn't\nspend a lot of time disarming people to\ntake the prisoners because he doesn't\ntake prisoners he just kills him\nover here the dodge skill is three\nthe modified skill is actually one his\ndodge is terrible because that armor\nweighs him down his parry\nis normally six\nwith his sword but his perry penalty is\none so his parry is five with the sword\nhis block with the target shield is nine\nuh and regular block\nwith any other kind of shield is seven\nhis movement is four but it's actually\ndown to two because of his armor his\nmodified withstand injury stats is\nmodified within stats his injury stat in\nother words how many hit points he has\nis six because that's his withstand\ninjury score\nhis torso and limbs\nfor the armor\nis\nfive\nplus his withstand injury so it's 11.\nhead eyes and neck are just his regular\nwisdom energy because he doesn't have a\nhelmet on so that's going to be six\nhead\neyes on the neck he might want to get\nhimself a helmet hands and feet same\nthing six and six now when blocking he\ngets the advantage of that target shield\nwhich is\nuh one so\nthat would mean that his withstand\ninjury when blocking\nis gonna be a plus one\nto whatever that is\nso if he gets hit in the torso it's a\nand he's successfully blocked he rolls\n12 or less if he's hit anywhere else and\nhe successfully blocks then it's seven\nokay i think that's it i think that is\nedbert i think\nwe're ready to start with him and um\nhope that he doesn't die\nyeah because he doesn't have a whole lot\nof aps to spend on luck if anything goes\nwrong so anyway that that gives you sort\nof a sense of how i did the conversion i\njust wanted to give you a little glimpse\ninto what that was like some of you had\nasked about that you wanted to see the\ncharacter shoot you wanted to see how\nthis all works i'm i'm kind of making\nthis up as i go because i don't really\nas i said there's no direct conversion\nso i'm just kind of winging it here but\nuh that's that's what my instinct tells\nme to do so we'll um we'll see how that\nturns out and uh yeah\nthanks for watching uh if you want to\nhelp support the show of course there's\nthe patreon link below and you can buy\nthe merchandise to drive through rpg\nthrough the links below as well and i\nhave my own merchandise here and blah\nblah blah blah blah like and subscribe\nand stay tuned for the next episode of\nme myself\n[Music]\n"
+}

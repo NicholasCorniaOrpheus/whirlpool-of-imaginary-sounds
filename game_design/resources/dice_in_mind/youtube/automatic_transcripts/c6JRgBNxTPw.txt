@@ -1,0 +1,1935 @@
+[Music]
+Welcome to Dyson Mind, a podcast hosted
+by Brad Brown and Jason Kaufman to
+explore the intersection of life, games,
+science, science, music, philosophy, and
+creativity through interviews with
+leading creatives. All are welcome in
+this
+[Music]
+space. I'm going to sound a little
+raspier than normal. I don't know what
+it is if it's if it's the spring or
+what, but um I have
+um I've been run the running joke is
+that at this weekend I was dangerously
+close to sounding like Bobcat Goldweight
+from Police Academy any day really but
+go hug.
+Um our our guest, our friend Erin Pier
+joins us today and
+um love talking about tech and games and
+our our oversight that he hasn't been
+back since episode 72. Yeah. And that's
+and that's absolutely crazy because the
+stuff that we talk about, we could like
+make multiple episodes on this. This
+should be like this should be like an
+eight episode arc with what we would
+talk about like starships alone.
+The idea of him when we originally
+talked with him about the idea of
+thinking of starships as player
+characters. Yeah. in the original
+episode when we talked about him that
+was so profound that um you know and
+especially because within weeks then we
+spoke with Thomas [ __ ] and so between
+the two of them it was like so much Star
+Trek online ships I mean unbelievable so
+but but this now I full disclosure we
+end up talking a lot about the tech in
+the brand new upand cominging Star Trek
+Adventures technical manual but that's
+not really our point. No, but it's a
+it's a it's good content, but good
+context, right? Yes. Yes. But but but
+there's a
+broader it was part of a broader
+intended discussion and and discussion
+that occurred. Yeah. And and and and we
+went there and beyond which again, Erin,
+thank you. But you know, Brad, one of
+the things that always has drawn and
+continues to draw me into sci-fi role
+playing
+games is the tech. Now, no surprise, not
+unique, but with different genres or
+subg genres, it it looks and feels
+differently and you get to play with the
+tech differently. So, for example, um
+you have Star Trek, which is, you know,
+very much supposed to be a history of
+the future. And so, don't get me wrong,
+like Star Trek has taken as many
+liberties as is possible with
+technology. Don't even get me on to
+biotech and how apparently one can mate
+anywhere in the galaxy and still have
+viable offspring. But that said, it has
+that tech has a very different shiny but
+futurereal feel than like Star Wars
+where it's this very much sort of
+retro used dingy tech but super
+high-tech
+versus something like whenever whenever
+Mongoose releases it, please may it be
+soon. uh the pioneer game which is right
+immediate or near future like perhaps
+over the next century and then again you
+have tech but if you look I know you
+haven't dug deep into those but even
+games we we've talked we've talked with
+folks at freely going to like those dark
+places and death in space those are
+really heavy gritty spacebased
+yes rpgs where the tech is like you said
+gritty
+functional but or pseudo functional.
+It's it's, you know, it's push buttony.
+You know what I mean? It's not it's not
+shiny hologram type of it's not what do
+you I I'm I'm neglecting my verb. It's
+but it's it's it's realistic isn't quite
+the right word, but I think that's where
+we're going, right? And that's the
+that's the beauty of tech in sci-fi
+tabletop. But you're going to say tech
+in space. Space. Space. Space. Space.
+Very good. That's where I thought you
+were going. No, but I should have in
+retrospect. Well done. Yeah. Um Yeah.
+Yeah. I just I I was I was really glad
+that that Aaron was able to join us and
+talk through this and and obviously talk
+through the tech manual um because he
+had a he had a big role to play in that.
+Big role to play. But yeah, the idea as
+well too cuz he had roles to play in um
+in obviously the other star in other
+Star Trek books like my favorite my
+other one of my other favorites you know
+Shackleton Expanse never heard of it. No
+kidding. Um, yeah, he's had his he's had
+his Utopia Planatia, which is I mean,
+just imagine still my absolute if if I
+had not heard of STA and I had gotten my
+hands on Utopia Planation. That would
+have been the hook book for me. That
+would have been the conversion moment.
+Oh god. Yeah. Same same here. Take my
+money, please. Yes. But we should we
+should get over to the interview because
+there's so much that Aaron covered. Uh,
+and rest assured everybody, we will be
+having him back in approximately 70
+episodes or or hopefully fewer in about
+70 minutes. There you go.
+[Music]
+Aaron Paulier has a background in
+astronomy and physics, but currently has
+a day job dealing with climate change
+and its intersection with agriculture.
+He has been a lifelong Star Trek fan and
+has been working as a freelance writer
+for Star Trek Adventures since it began.
+In his free time, Aaron may be found
+gazing through his telescope, reading a
+good book, or doing historical
+reenacting with his wife.
+[Music]
+So, as we just said before we hit
+record, we're just jumping in um because
+we probably would have started talking
+and ultimately lost Yeah. lost probably
+about 30 minutes of good conversation.
+So, Aaron, thanks again for joining us.
+Yeah, big time. It's good to have you
+back. Yeah. Um we're going to talk Glad
+to be here. Yeah. We're going to talk
+tech manual and more.
+Yes. We'll go we'll go where the
+conversation takes us, but but if it's
+okay, let's start let's start with with
+the tech manual and and if you don't
+mind, how did how did you end up Okay,
+sorry. I'm going to interrupt you right
+away. Oh, come on. Yeah. I was just
+looking at our notes. No, no, no. This
+is important before we get into it.
+Okay, Erin, you haven't been back. I
+somehow I thought you had been. I
+thought we'd had you on in the interim.
+You haven't been back since the first
+time you wasted your time with us in
+October of 22.
+Oh, really? Okay. What What did we talk
+about then?
+Probably the same thing. No, no, we
+didn't. We got into I remember the
+discussion. We got We talked about STTO
+and we got into STTO. We got into STA.
+We talked about starships. We talked
+about design. you I mean you kind of
+your ST your ST games that you talked
+and your designs and stuff and Okay. And
+that was years ago. So we were still
+like we were still being introduced to
+to Star Trek Adventures at that point.
+Like we did No, no, no, no. We were not.
+You were Oh, sorry. I was being
+introduced. So So I just I just wanted
+to put that out there that this
+conversation is probably three years
+overdue. That's on us. So just Yeah. No,
+that's okay. I'm sure there's a lot to
+talk about then. Good. No, there's that
+that was a that was very important to
+bring up. But but so yeah, so by going
+to the tech manual, we're jumping three
+years ahead. There's a lot of material
+we have probably have to go back and
+talk about. So that's okay. But how did
+you how did you get involved in the in
+the tech manual itself? And well, I'm
+I'm kind of one of those people that for
+Star Trek Adventures that I have a lot
+of the science and engineering and
+technology stuff just rattling around in
+my head anyway. So Jim approached me
+pretty early on in the planning stages
+saying, "Hey, Aaron, do you want to
+write Starship technologies?" and try to
+condense down a lot of the information
+that you tried to put into uh the utopia
+penicia. Uh because I did a lot of stuff
+describing technologies there. Um but
+you know trying to condense it down
+especially towards um a readership that
+could be very new to Star Trek or not
+really understand what the technology
+really was. Um that I think to me that
+was a bit of a challenge.
+Um and and so I wanted to approach this
+as a fun way to introduce people that
+that really hadn't found their way into
+Star Trek yet. Yeah,
+it I I think it works. Like it's
+certainly accessible given the massive
+amount of tech and tech ideas and the
+depth that you all went into. But you
+know, you that that this is your stick,
+right? I mean, you're you're like one of
+the tech gurus when it comes to this
+game and others. This is this is your
+headsp space. Yeah. I mean, since I was
+a little kid, you know, I grew up
+watching Star Trek. Even what my
+earliest memory, and I've said this in
+other interviews, my my absolute first
+memory is watching Star Trek the motion
+picture, sitting on my mom's lap in a in
+a theater. I cuz I I I very vividly
+remember the wormhole scene and and her
+just like holding me and uh yeah it it's
+it's broken up by other you know very
+early memories but that's definitely the
+earliest one and so I mean I've kind of
+like lived in in Star Trek seeing that
+kind of hopeful future and really
+wanting to understand all this really
+cool stuff that I saw on screen. And so
+yeah, I I spent far too much time as a
+kid uh analyzing bridge stations or or
+like you know cross-sections of things
+and and then figuring out all these
+things. But now you figured out a way
+well now like not recently but for some
+time you figured out a way to get paid
+to do that as an adult. I I have to I
+have to say though because you know
+what's funny is that it's funny how you
+said you're sitting on mom's lap
+watching the motion picture. My mom's
+the one that introduced me to Trek 2. I
+just love to hear that that you know
+moms who introduced us to sci-fi and
+moms who introduced us to Trek. I just
+you know I just love hearing that. That
+is just I I that resonates with me in in
+an emotional way. So that's just that's
+very cool. It's funny because we talked
+to we we were talking to someone else
+recently and the idea you know we've
+talked about lit RPG a lot. Lit is RPG.
+RPG is lit. And um the idea the term
+came up um coffee table book and the
+tech manual is a coffee table book and
+it can be set there and used and read
+whether you use it as a gaming book or
+just a book to read. The other one that
+came up in the conversation was Utopia
+Planenia
+just because of that. And those are my
+those are the two that are up on next to
+my old man chair in the family room. I
+knock on the window and tell the kids to
+get off my lawn. Um because I next to
+captain's log in the core rule book
+because those are my absolute two
+favorites. If I have tre on Yeah. If a
+starship shows up, I'll go and look in
+the book. Oh, thanks. I I appreciate it.
+We
+we we all put a lot of work into Utopia
+Planenicia specifically, but like
+I really loved looking at Starship
+classes and breaking down like, hey, we
+might have only seen them on screen
+maybe as a wreck in the Wolf 359 battle,
+right? Okay. How how why is this ship
+designed this way? Why does it look this
+way? What what are what are the purposes
+of having these nay cells in this
+position? Why is there a difference
+between all these different starships
+and in how they look? Or why
+communicators look this way? Why does
+the technology on the bridge in toos
+when you pull the panels off, why does
+it look all chunky and weird even though
+it's supposed to be the mid 23rd
+century? Um, all that stuff. Yeah, I I
+love just kind of like sinking my teeth
+into and coming up with like rational,
+reasonable reasonable ideas of why. And
+you see that in Utopia Planenicia and
+you see that in in the technical manual.
+And I I I wish I could have written
+more. I I definitely could have. Um I
+Oh, you still can. You still can. It may
+not make that We wouldn't hear Yeah, we
+wouldn't be against that if there's like
+a second. Yeah, I I know that. Um I'm
+I'm guilty. I'm very guilty of
+overwriting. I I I and I'm sure that
+that Jim gets upset at me and I'm I
+always apologize to Jim whenever I send
+uh sections in. I go, you know what, I
+know I'm over. Yeah. Um unless he he's
+said like right at the beginning, hey,
+you know, you really need to get this in
+at x amount of words. Um I always have
+more and I know it gets cut, but that
+means there's just stuff to mind for
+later. Right. Well, and doesn't that
+help doesn't that help you think through
+what you're working on. You know, the
+notion of writing helping to guide
+thought, almost being experimental. If
+you've got to get into a tech and you
+write more, aren't you doing a more
+robust analysis, a more robust
+interrogation?
+For me, I think I think it does work for
+me. Um, but for your average reader,
+probably not. Or like at least for for
+like the audience that was intended for
+technical manual here as like a a a a
+like I said, a lay person that is just
+coming into track, you probably don't
+need all of that analysis or detail of
+of how subspace radiation works or, you
+know, how how how an actual like warp
+coil functions and generates a subspace
+field. Like you don't need that. It's
+It's not really necessary. You just need
+to I mean, you're not the average
+person, Jason. So true. I need that,
+too. But, you know,
+I I have to ask. I'm going to digress
+here because we didn't get a chance to
+talk to you while it was on, but Bard
+season 3.
+Um, the the starships, we saw stuff
+coming from STTO became Canon,
+Enterprise F, and all that. What was
+your reaction? How did how did that, you
+know, being a starship guy and
+everything for you? What was it like
+seeing some of that stuff that was, you
+know, book and STTO and everything,
+seeing that come to life and become
+canon? I love seeing new starships
+regardless of where they come from.
+Like, hey, it fit it in. Fit it in. I
+want to see it.
+Um, and all the way through season 3 of
+Peicard, I was like with my notebooks, I
+take notes on all of all of these shows,
+believe it or not. Like I just sit there
+and scribble down notes like there's
+this many decks on the side of the
+saucer. I see this many lifeboat
+hatches, you know, that that sort of
+thing. And then then you can start
+estimating crew numbers and and and
+going from there. Um, I love doing that.
+And you know, some of the ships were a
+little harder to see. than others. But,
+you know, you have Titan that was fairly
+easy to see. Um, but yeah, I I love
+seeing stuff pop off uh a book or or or
+come off a computer game and and
+suddenly show up. I love that. I
+absolutely love it. Yeah. You know, I
+was Go ahead. Sorry. No, go ahead, J. Go
+ahead. I was just going to say in terms
+of like I think of our first
+conversation, I think of what we're
+talking about now and and the notion
+again of writing for the tech manual in
+a way that was more accessible for a
+broader not necessarily as nerdy
+audience as the three of us. So with
+Picard season 3 and you've got the
+Titan, which I thought I I think is a
+gorgeous ship. I I mean I really was
+impressed with what they did with that.
+And you know online through Star
+Trek.com and some of the other stuff uh
+other venues there were these
+suggestions that you know the the
+construction the layout of the Titan
+like with the four impulse engines
+things like that that that these are all
+very intentional these were intentional
+design choices as they were right doing
+design and production for the for the
+series but then in the story itself and
+don't get me wrong because I I'm very
+biased I think Picard season 3 is some
+of the best track that has ever been
+created. Recognizing it's it could only
+be based on what came before. I think
+it's absolutely some of the best that's
+been created. And when it came to some
+of the tech, like they did a nice job in
+a scene or two with Jordy explaining how
+the D was brought back. They could have
+done more. I could have listened to that
+for an hour, but they they they had a a
+slick justification. But then they spent
+so much time and effort on the design
+and conceptualization of the Titan for
+Yeah. The NLS and the engines came from
+the USS Syracuse, right? Um on on Yeah.
+for Enterprise. Yeah. Okay. Yeah. Okay.
+So, but they didn't really work it into
+the story. They did all right. They did
+all of this and then who knows what was
+cut just like with the manual. Who knows
+what was cut? But so I want to pivot
+with that of we look at your work on the
+tech manual for STA and I'm curious you
+all and we you know we talked with with
+Jim and Michael and Al not too long ago
+about this but you but they kept
+referencing you because of the tech and
+and the starships especially you all you
+especially wrote this thing as a tech
+manual but so that was also like you
+said truly readable.
+Mhm. Like it's like Picard season 3 when
+it came to the Titan they kind of failed
+on that. It was left to the imagination.
+I'm curious as a as a writer, as a
+designer, as a thinker, as a scientist,
+like what's that like? You know, like
+clearly that was in Plinition Utopia,
+but this was different, right? The tech
+manual reads very differently.
+How do you do that? It's I'm not going
+to say it's easy um because it it isn't.
+It's just trying to put yourself into a
+really different mind space where uh I
+have to go Aaron don't don't start
+talking about numbers all the time or
+don't start talking about you know don't
+have a sentence that's half technobabble
+even though to me it doesn't really seem
+like technobabble because the best Star
+Trek technobabble
+uh can be broken down into little chunks
+that totally make sense you know what's
+subspace well we don't really know what
+subspace is but we know what how
+subspace face functions when you get
+into right X Y or Z but anyway don't
+have sentences that are half
+technobabble be descriptive rather than
+um uh using big words you know try try
+to describe what it feels like or or or
+what it exactly does rather than trying
+to explain how it does something
+babbling I know I'm not maybe not no
+you're not this is exactly what we want
+to talk Um, but yeah, it's it's just
+being in a very different headsp space
+and then making sure uh Jim or you know
+Mike or or Al comes back and says,
+"Aaron, man, that that still is a little
+uh a little arcane. Um, you might need
+to change this, this, or this." And I'll
+be like, "Oh, you know, you're right.
+There is a better way of saying that."
+Mhm. Um, and I found the one one of the
+ways that helped me with uh and
+especially like I I look at chapter 8
+because chapter 8's like my little
+domain in intact manual was um I in in
+Michael's online game we uh we've been
+playing for many years and I I did not
+start in his game. I kind of came
+halfway through and we're we're just
+starting to wrap up now. I don't know
+how much he's talked about it, but I
+ended up jumping in, and I know this is
+kind of a digression. Um, I ended up
+jumping in playing a very non-standard
+character. I I started playing a
+Telerite ships counselor who had a
+really long long um service in Starfleet
+already. So, he was kind of like the old
+guy that had seen everything and was
+grumpy and whatever. but coming
+at role playinging in a Starfleet
+setting as this kind of old grumpy guy
+that
+is approaching things more from a
+perspective of yeah, I've seen this
+before. Yeah, it it it's weird to you
+guys, but how many temporal incidents
+have you been in? I've been in 10. You
+know, like uh let's just get over it. it
+that also helped and applied to this.
+And I I'm making I'm making all these
+comments because when you look at the
+little character blurs that are in
+chapter 8, it's coming from a Telerite
+engineer who is a little grumpy and
+isn't my character that I played, but
+he's he's explaining things in a way
+that isn't it's more talking down to
+himself. Like I'm not going to sit here
+and explain to you how a warp drive
+works. I don't need to. I just need to
+explain to you why it's important.
+Yeah. The first thing new engineers get
+wrong is and then it just goes on. Yeah.
+That's awesome. Did you write all of
+those sidebars for the chapter? That's
+cool.
+So that's and fashioned after your PC in
+a in a sense sort of. Yeah. It's only
+because I've like really tried to like
+dive into Telerite culture and and why
+they're argumentative and grumpy and and
+Yeah. insulting. Yeah,
+that's okay. So, obviously, I mean, you
+have written so much in the RPG space
+over the years. You know, you've got
+your own adventures. I What like this is
+I don't know, maybe this is a dumb
+question, but like of recent memory, and
+this isn't limited by any means to Star
+Trek adventures.
+Um, what are examples that stand out to
+you that really stick in your memory
+when it comes to you really had to focus
+on the tech? You had to focus on making
+that meaningful. I mean, obviously
+there's Utopia Plania and then certainly
+there's a tech manual, but do other
+things stand out? Um, or they were like
+maybe particularly challenging or
+interesting?
+Yeah, I would say one of my first things
+that I did writing for an RPG was for
+Battletech. Uh it was Eerror Report 2750
+and I had to come up with a Well, I
+didn't have to, but I thought it would
+be really neat to come up with an idea
+for an organization that did a ton of
+terraforming. Um I don't know how much
+you know about the setting, but it I've
+got my mech warrior over there. Okay, so
+the Star League had uh terraformed a ton
+of worlds to be like Earth and they did
+it in a very very short amount of time
+where normally it would take centuries.
+They did it in decades or less. Okay, so
+I had to come up with reasonable
+explanations of of how the Star League
+was able to do this with basically an
+unlimited energy budget and money uh and
+came up with a department of mega
+engineering. So, dome was the
+abbreviation. And you know, they they
+appear every now and then in some of the
+other Battletech books, um, either
+through references by me that have
+popped up or or other writers, but like
+yeah, having to come up with h how do
+you how do you get a whole bunch of
+water to a planet really fast? Well, you
+go through the outer solar system of
+whatever star you're at, gathering up or
+cloud material, deorbiting it, and
+letting it ram into a planet at speed.
+Amazing. You know, how how do you spin
+up a planet to actually have a day that
+isn't, you know, let's say 20 days long
+or something like that? You know, how do
+you do that? Well, you know, X, Y, and
+Z. And Superman kind of figured that out
+a while ago, but Yeah. Yeah. Yeah. Well,
+I mean that's that's how you when you
+start flying at close to the speed of
+light, your mass increases. And Nice.
+Well done. Frame dragging. Frame
+dragging. We'll we'll ignore any
+deformation of the planet surface. Yeah.
+Yeah. Yeah. For sure. Him tearing away
+people from the surface. Like it's uh
+not What is that movie? The
+Oh, the disaster movie with the moon.
+Moonfall. Moonfall. That drove me nuts.
+That drove me nuts
+because I I have a actually this is one
+of my pet peeves. I mean obvious I I I
+clearly I love Star Trek have since I
+was just memories right at at least
+elementary school.
+But in so many of the series the
+pervasive lack of a basic knowledge of
+physics. Oh yeah right. It's so what the
+one that stands sticks in my craw more
+than any other because most of them I
+can work around. Right. Like you said,
+we don't really know what subspace is,
+but when the
+Enterprise rams into the scimitar in
+Nexus, great scene. Yeah. But then
+they put on their reverse thrusters and
+pull out of the scimitar. And I remember
+sitting in the theater. I think I went
+to see that one alone. My my my relative
+newish wife at the time. You and I saw
+it three times in the theater. Did we
+really? Wow. Yeah. I didn't I don't
+remember. We saw No, no. We saw First
+Contact three times. We saw Nemesis
+twice. Okay. I I did not remember that.
+Oh my god. I remember Nemesis. I think
+the first time I saw it alone here. I
+might be wrong. I think so. Cuz I I
+swear to God, I almost shed a tear when
+when Data died. It was spoiler alert,
+but um I was I remember being in the
+theater and under my breath, no, no,
+that's not how it works. And I just it's
+like, you know, it's a little morally
+offensive, but so I I hear you. Yeah.
+Yeah. No, I I get you. I I love uh The
+Expanse does really well with physics
+all the way through it. If you've never
+watched that, um another show that I
+absolutely adore is uh for all mankind.
+See, I knew you were going to I I have
+to subscribe to Apple TV so I can watch
+that. Um I I absolutely adore it. Um,
+yeah, it especially the first season, it
+presses every single one of my buttons
+for like this is good television, good
+writing, um, good attention to detail
+cuz the accudas are are like Wait, the
+accudas are on for all my time. Yeah,
+they're they're on the production stage.
+How am I just catching up to this now?
+It's been out for so long. I kept
+telling you I didn't mention the Auda
+thing, but I just kept telling Thank
+you. It's It's your fault when my wife
+asked me why we have a new subscription.
+Thank you. Um, yeah. No, I mean Apple TV
+is worth worth it for for All Mankind
+and Silo. I mean, that's that's another
+great show, but that that's very little
+physics. Um Okay. We we we um I we've
+done it when um when uh uh Foundation
+was on. Foundation. Okay. And so we do
+it for like the month, a couple months.
+Yeah. Yeah. For All Mankind is worth it.
+Um, season one is really stunning for
+depictions of Apollo program um, plans
+in general for if the space program
+really wasn't cut at at the end of the
+Apollo program, what could have
+happened. Amazing. Um, okay. And it's
+it's fun because there's a lot of real
+life real life uh historical people that
+are portrayed in it. Uh, that does go on
+for a while. Uh, I think through season
+three there's still a number of
+historical people that are still
+characters, but Summer Break is not that
+far away. The alt I'm an alt history guy
+and that's what caught me. That's what
+kind of drew me in originally to it.
+Joel Kinnman's a good actor, too. He was
+good. Yeah. Um, you know, everybody's
+really good on that. Yeah. Yeah. Okay.
+So, going back to to you, though, and
+and your work. So, no, no, that this is
+great. So, the Battletech dome. That's
+so good. other other projects that stand
+out like that for you over the years?
+Um, I haven't really done a ton of RPG
+writing, believe it or not. It's been
+Battletech. Yep. Um, I I did a lot of
+play testing for um a couple a couple
+other games, but not really writing and
+then Star Trek Adventures. Yeah. And it
+was generally getting into Star Trek
+Adventures through uh trying to write my
+own Star Trek game. Um and and and
+sending all that in. But yeah, I'm I'm
+I'm working on other things in the
+background that are tangental like they
+they've stemmed from a lot of my ideas
+and in in science and technology. Um but
+those are coming up. Those are coming
+up. Nice. Don't know how much we want to
+get into that, but anywhere you want to
+go. This is your time. Anything that
+you're willing to talk about, but
+nothing will we want to hear. Okay.
+Well, I I have a game that is depending
+on when this interview might might be
+released. Uh May 19, let's say a couple
+months. Okay. Couple months. Y it's
+called Saucer Squadron. Uh, it's a
+concept that that I came up with and
+wrote the rules for and it's
+1950s bem movie science fiction, but
+uh, it is what if the Roswell crash
+really happened and the US started
+reverse engineering captured alien
+technology and then but you make it
+sound like that's not true. I mean, I'm
+kidding. And then and then and then the
+grays pop up and go, "Oh, you did that,
+did you?" Well, I guess we're going to
+have to level the playing field so the
+US doesn't just kind of take over the
+world with our technology and let's give
+it to the Soviets, too. Reverse Prime
+Directive. Yeah, exactly. And so there's
+a setting where basically everyone that
+has the nuclear bomb also has flying
+saucers.
+And every every weird UFO conspiracy
+theory might be true.
+That's kind of the setting like and and
+that many 1950s be movies were made by
+the US agencies to try to cover up real
+incidents that might have happened to
+try to discredit people that might
+report them. Hey, you know, you saw you
+saw giant uh termites eating through
+Hoover Dam. Yeah. No, you just saw them.
+You know, if if it weren't if it weren't
+2025 in the real world, this would be
+hilarious.
+Yeah. Yeah. Yeah. Wow. Because that
+could that because the way things are
+going, that could actually happen.
+Because if our if our audience were not
+our audience, half of them would be
+like, I knew it. Yeah. Yeah. Yeah. Yeah.
+So, but but like the other the other
+stick is is that it is exactly like our
+world. like real history has to happen.
+So, everyone's trying to like hide the
+fact that there really are aliens and
+everyone has flying saucers and things
+like that. That's clever. Um, but
+there's a lot of tech in it and I have
+to go into I I want to go into
+explaining how like, hey, why are flying
+saucers round like that? Why is that the
+case? How do they go faster than light?
+How do they have these weird abilities
+to actually just stop on a dime and
+change directions?
+uh without like tearing themselves apart
+from acceleration and deceleration, you
+know, and yet doing it with 1950s tech
+in a lot of ways. So you said this is a
+couple months away. Yeah. So what and
+again within the confines of what's
+appropriate and comfortable for us to
+ask. Um so what's a couple months away?
+Like what what kind of announcement like
+are you talking like a Kickstarter or a
+books are going to be published and we
+can drop our money right away? We're
+looking at publishing in a couple
+months. Wow. Uh the rules are written um
+it's going to be a miniatures game and
+then we're actually looking at doing a
+couple months after that, let's say
+later on this year, um an RPG that is
+that is tenatively called
+Redacted because you play agents that
+are on adventures trying to cover up
+alien involvement on Earth in the 1950s.
+You finally get to be a man in black,
+Red. Yes, but you're not really the men
+in black. The men in black are people
+that have been seen, but the agents
+really don't know who they're working
+for.
+Um, may we ask about the dice mechanic
+of the eventual RPG?
+Uh, I'll leave that for another day.
+Fair. Yeah, for another day. Absolutely.
+Yeah, this sounds fascinating. Yeah,
+we're still trying to like tweak Oh,
+sure. tweak things in the background.
+Now you're partnering with you're
+partnering with person or people to to
+with yellow with yellow. Oh, cool. With
+group with the group working. Very good.
+Nice. Okay. Because I've worked I've
+worked with Al on on some of his his
+things like Sens. Right. Right. Yep.
+Yeah. Um Yeah. So I mean I have done
+tech for Sensience. I did a lot of the
+background for like the star system that
+it takes place in. Okay. Yeah. Yeah.
+Wanted to make it somewhat realistic.
+Yeah. Yeah. Yeah. I 667 is the star
+system. Yeah. I apparently have to read
+my Kickstarter emails more carefully.
+Yes, you do. Yes, I do. Yeah. Yes, you
+do. Look, they come in the morning. I'm
+usually making coffee for Amy, tea for
+for Mera, and I'm like, "Oh, update for
+Mel." And I skim it to find out, are
+there any dates or anything, whatever.
+Then I'm like, "Okay, good." But
+apparently I need to be more Oh, you got
+to read it because because he's
+mentioned Aaron and I think Erin, you've
+posted some you've he's g E A E A E A E
+A E A E A E A E A E A E A you've given
+some stuff to Al to post within some of
+the updates. Oh yeah, I seriously have
+to start paying attention. I have been a
+lot of the background like history, the
+deep history. Yeah. Uh the star system
+that they're in. Neat. Um and I did I
+there's going to be an adventure
+published nice uh for sentience by me as
+well that's called Isotopes.
+Yeah,
+I know you've been wanting to you you
+and I Jason and I have been talking like
+like Android um you know kind of the
+cyber punky type of stuff and Sensience
+is that I think Sat Sensience is going
+to be the one I think that that
+scratches that itch. Yeah, I'm really
+looking forward to that. Yeah, it's an
+interesting system that deals with
+emotions a lot that you're like using
+emotions as part of your dice roll. Um,
+and at least the adventure that I wrote,
+I I like kind of challenging ideas or or
+getting a big idea and then like
+challenging the concept of characters.
+Uh, that sounds vague until I say like
+the adventure that I wrote is here are
+all these androids. You you
+are you're self-aware. You're sensient.
+Yep. You have life in your own way. Mhm.
+But it's not biological life. The
+biggest difference is is that you're in
+really rugged bodies and technically you
+could buy with through energy credits
+and all of that a backup for yourself.
+But what happens when it's very possible
+you could end yourself through means in
+which you could not be recovered? Yep.
+Your mind would just be gone. And that's
+that's the adventure. like how do you
+deal with that kind of uncertainty and
+fear and terror in the same way that
+humans likely had to deal with the same
+situation, right?
+It feels like Yellow is Yellow Hand is
+another one of those companies that's
+just going to kind of kind of just
+blossom blossom into that new space.
+Yeah. Yeah. Just with the way gaming the
+way gaming is is blossoming with now
+with with Zoom. I have to ask just more,
+this is kind of a a far-left field
+question. It's something that Jason and
+I were talking about in conjunction with
+our our fourth anniversary show. Have
+you seen or experienced or have any
+thoughts on how like, you know, because
+we're talking about Sensience, um how AI
+has kind of played into the RPG world or
+how it's kind of played into what you've
+experienced in writing or anything like
+that? Um, I've had mixed experiences
+with it. Um, I've seen people use it for
+um really quick art or art ideas to to
+go from. Yeah. Um, and I think that's
+acceptable on like a personal level,
+like as a player, but I also see that
+being incredibly destructive for artists
+in the long run, right? Um, and and it's
+the same thing with with writing. Like,
+I can see it as a tool. We all have our
+normal word programs that that
+automatically say, "Hey, look, you
+screwed up grammar." That that's I mean
+very very very limited AI in in a way.
+But then there's the bad like, "Hey,
+write me a story." And we've all run
+across television shows where we're
+like, "Wow, that was written by AI." I
+guarantee you we've all like watched an
+episode of something in general and
+went, "Oh, that is really badly
+written." What? What?
+AI. And that's that's the challenge.
+Like you can you can use it as a
+tool, you can misuse it as a tool just
+like any tool around. That's right.
+That's right. Which is something you
+actually address a number of times, you
+and the others in the tech manual. Mhm.
+I mean, I noticed that there were
+numerous instances where it's this is
+good, this is bad. It's about the
+person, not the tech. Yes. And I mean
+that's that's that is literally true
+with any tool. A hammer can pound a nail
+or it can kill. Yeah. And any piece of
+technology is that way. And at least in
+Star Trek when you have technology that
+can do these amazing wondrous things,
+they do it through bending spaceime or
+or something just like deconstructing
+matter and reconstructing it. How
+horrific can all of that be to the human
+body when not properly controlled or
+slightly out of alignment? Yeah. Um and
+and yeah, all all of my like little
+complications. Some of them are pretty
+pretty mundane, you know, like oh, you
+know, there's a static charge on the
+walls or something like that. But then
+it can be, hey, the gravity field uh you
+know, the the the grav plating
+malfunctions and suddenly there's 20 G's
+in the corridor. you know, not not
+exactly conducive to to life as we know
+it. Yep. Um but hey, at least in normal
+usage, it allows you to walk around the
+ship and not get like bone loss.
+Yeah. So, so let me ask a question. This
+is a little out there, but um so
+obviously like with Star Trek
+Adventures, like I mean we we know we
+know well I mean Jim Johnson always has
+like a half dozen projects in the
+pipeline. I mean, I we we know there's
+always stuff being worked on and and
+you know, certainly I'm aware of one or
+two of those things coming up. Staying
+away from all of that, staying away from
+any other line. If if there were no word
+limits and and and someone, you know,
+whether it was Jim or someone from
+another game, doesn't matter. If if if a
+if a project manager came to you and
+said, "Okay, Aaron, what do you want to
+write and how do you want to do it?"
+What would scratch that itch? Like if if
+if no one was going to limit your words,
+if no one was going to say, you know,
+that's probably too geeky or too broad
+or whatever for our audience if you just
+had total total
+cartlunch, where would you go?
+I mean, I'd love doing space related
+anything with that because you can deep
+dive spaceships, star uh star systems,
+alien cultures. You can just deep dive
+it and go, "Okay, awesome. I I really
+want to go into this." Yeah.
+Um, I mean, I would I would
+probably w without exaggeration, I could
+probably fill a 70,000word book with
+Telerite culture right now, just from
+everything that I've had to write and
+develop for the the the the character
+that I played or or doing background for
+Star Trek Adventures. Easily could do
+something like that. And Way of the
+Clans for the old uh lug Star Trek game.
+Yeah. Yeah. Easily could do that. Um
+that would be fun because I could I
+could have a lot of fun just being
+grumpy for a little bit and argument.
+Yeah, I hear that. But yeah, I mean just
+you detailing out beautiful settings. I
+love
+that. And you know, starships are a
+setting in Star Trek and that's why I I
+love it. I love I I've ships are people
+to me again like they're characters.
+Yep. I remember this. I remember this
+talking about this briefly and I came
+away that when we talked about this the
+first time and we like we could do this
+again because I remember remember we
+came out of this conversation. We both
+It was such a It was It was not a huge
+chunk of our convo, but it was such a
+profound piece of the convo that we both
+I don't think we recorded the intro
+outro that same day. We had to That was
+the start of us not doing it the same
+day because we needed time to like
+digest the conversation because it was
+like so deep for us. Well, and the
+kicker because I I checked this while I
+checked this earlier while we were
+talking. So the first time we talked
+about this stuff with you Aaron. So we
+we had this crash course and it was kind
+of blown our minds in a wonderful way.
+And then about a month and a half later
+Thomas [ __ ] was on talking about and
+this was right this was before like he
+was this was when he was just like
+assistant art director right and was had
+the time to waste with us like before
+like things just exploded with his with
+everything with him and STTO. I mean,
+it's so amazing. But like I remember him
+talking about the Ross class and it was
+I know I know you love it but and I
+might be wrong but I think it's the Ross
+class and and I remember our chat with
+you like Brian was saying was so fresh
+in mind. So when he was talking about it
+from an artistic standpoint and you know
+he I mean you you probably know and we
+don't but he like he was geeking out
+about like his mental machinations to
+justify the art and the look and it was
+like we just talked to Aaron about this
+but from the other angle. Mhm. It was
+super cool and and and you guys are
+doing that I think like with Utopia
+Planicia I honestly don't know how you
+guys did that. It is just a sheer thing
+of beauty. And then again with with the
+tech manual, right? But it's super
+readable and it's also I think deep like
+you're talking about tech babble, but
+but there's a whole page in there
+dedicated to technobabble, right? And
+how to use it. It's like, well, that's
+that's got to be a tough balance to
+find. Yeah, it is. Again, you just have
+to like get yourself into the proper
+mind space where Yeah. Technobabble is
+bad when it's not understandable. Sure.
+Right. Um there's a really funny video
+online of it. It It's fairly famous of
+like uh I think it's a car manufacturer
+and they have like this fake piece of
+equipment and it's the encabulator or
+something like that. The retro
+encabulator. I don't know this. Um, look
+it look it up. It's amazing. Um, but the
+thing is is that the entire video is
+basically this guy giving
+technobabble and it is total nonsense.
+But now and then like maybe let's say
+10% of the words you're like, "Oh no, I
+actually get what he's trying to say."
+So in my opinion, while that is really
+funny to me, it isn't good technobabel.
+Good Technobabel is short and
+understandable. You know what like you
+know what a self-sealing stem bolt is
+even though if you never see it being
+used or not exactly what you you don't
+really know what it is. You know it
+self-seals. That means it must like when
+you put it into something it connects
+automatically. And a stem bolt. Well,
+it's a bolt. All right. And that a stem,
+you know, it's got a long piece. Okay. I
+kind of see in my mind exactly what it
+does and what it's supposed to do. Yep.
+There. Boom. Good technique. And you
+don't even need to know what it looks
+like, right? Yeah. Or or or bionural gel
+packs. Yep. Oh, perfect. Yes. Don't even
+need to see it, right? Like, but it's a
+neural gel and it's going to link into
+the computer with the way they're
+talking about it. It's all you need to
+know. You never even need to see it. It
+just there's goo in the computer. I was
+sitting I was watching Voyager a month
+or two ago with my 17-year-old daughter
+and and and there was something about
+you know damage to one of the packs or
+the panels or something and I'm like you
+know Voyager was unique because it was
+the first Starfleet ship with bionurogel
+packs. She was like what's that and it
+was to your point like in a sentence
+I could explain it and it made sense
+because all the pieces are there in the
+in the babble. Exactly. Exactly. And
+it's the same like the bas ram scoops.
+Like that's a real piece of technology.
+It's a real thing. So you you is it even
+technobabble trying to describe the fact
+that it uses magnetic fields to scoop up
+ionized hydrogen from interstellar
+space. None of that is I mean it is
+technobabble, but all of that is real,
+right? So boom. Um I I don't know. As
+long as it's explainable, it's good
+technobabo, right?
+And having it
+understandable means doing it in little
+bite-sized chunks. Yeah. Let me ask you
+then on what your thought is. You have
+seen Prodigy. Yes. Yeah. Okay. What do
+you think about the Protoar drive?
+Okay. I have I I know you guys address
+it, but what do you think? I I like it.
+It's just a different form of energy
+generation, right? Really. And you know
+what? It It's probably just reinforced
+warp coils that allow a a a stronger
+warp field like a slipstream. That's how
+I would explain it without Yeah. Yeah.
+Without doing any like just watching the
+show if I was like a lay person. Okay.
+It's just like warp drive, but it has a
+a a star compressed down into its into
+its core. Right. Oh yeah. Now, if I
+wanted to be like the the semi- lay
+person, I'm a a sort of Star Trek fan.
+Oh, wait. It it has a it has a protoar
+in it. So, it's compressed. So, is it
+like the the Romulan Singularity Drive
+and it's getting all its power like
+that? It's just not as big because a
+singularity theoretically would be a
+lot, you know, more massive. But maybe
+maybe it's something like that. I don't
+know. But yeah, I'm I'm okay with it. I
+think it it's fine. I I really liked
+Prodigy. Yeah. I I I didn't expect to at
+all and by the end uh honestly
+especially like Braden talk about this
+so many times the whole the Will Weeden
+arc I just the whole thing I absolutely
+loved in fact on the way home today I
+was thinking about space time and
+thought and how to your point
+like a I mean philosophically that that
+wasn't unique like this has been and is
+currently akin to right you know
+information and whatnot but and quantum
+theory and what fine but like I was
+thinking about that thinking you know
+man that that's salient like you could
+actually get into that just from that
+one scene and really riff in real life
+or in game and and it would be pretty
+safe play like like conceptually. Mhm.
+Yeah. I'm with you. I'm with you. No, I
+I really liked Prodigy. Obviously, I'm
+I'm I'm partial to the fact that it it
+shows other founding members of the
+Federation and like larger roles. So,
+you have Telerites and Andorans. I was
+very happy with that. And, you know, Pog
+obviously made me made me uh laugh quite
+often, especially when he went out onto
+the class M planet in a space suit
+because you don't know. How do you know
+it's
+safe? That just that just brought joy to
+me. Um I don't know.
+That's fair. Everyone else, you're dumb.
+Yeah, that's fair. Yeah. Yeah. I love
+that. Anyway, yeah, this percussive
+maintenance. Yeah, we've all been there.
+Yeah.
+Anything else that you have that um
+you're working on besides the the
+miniatures RPG thing that you'd be
+willing to talk about? Uh I mean,
+there's other Star Trek projects that
+are going to be coming out that that
+I've had a hand in. Yeah. But I I can't
+really talk about them. No, no. There
+there is stuff there's there's stuff
+that will be coming out. Uh, you know,
+Star Trek Adventures is still around.
+That should be enough to be able to say
+that there that there is things coming.
+And I I've I've had a hand in everything
+except one book. Okay. That I was going
+to I was going to ask that because it's
+been my impression based on like what we
+see online, what Jim has said, what I've
+seen on some emails. It really looks
+like you have been involved in just
+about everything SDA for quite some
+time. Since the beginning. Yeah. Since
+the beginning. Oh, it is since the
+beginning. Okay. Yeah. Yeah. out. I was
+I I was like right there uh before while
+the core book was being um put together
+and the conceptual stuff for the fans.
+Yeah, that's right. That's incredible.
+Just that that's got to feel just so
+cool. It it is it's it's a real honor
+and it's amazing to have been able to
+work with such an amazing team. Yeah,
+but if I would have gone back and told
+like my, you know, 10-year-old self,
+hey, you're going to be doing Star Trek
+role playing game stuff and and writing
+and working with all these people that
+have worked on the show, you know, I' I'
+I'd be jumping around with, you know,
+10-year-old self would be, "Oh my god, I
+can't believe it." Much like 50-year-old
+self, to be honest. Yeah. Basically,
+yeah. Hey. Hey. Every day I get an email
+uh from from Jim about about something,
+you know, over these many years. It has
+been like, man, I I I really am lucky.
+Yeah. I'm really lucky to be doing this.
+So cool. But you're also really good at
+what you do. I I don't know. I I I'll
+say I have like, you know, imposttor
+syndrome with it. I I I try my best.
+Yeah. Yeah. Well, your best is pretty
+darn good. Yeah. as long as people like
+it and uh are getting some some sort of
+joy out of it, I I think I I'm
+succeeding in some way, shape, or form.
+Clearly, I mean, you look at you look at
+how many products you've been involved
+with. You look at the products you're
+you are or what's the future that you
+are or will be involved with as they
+release like I mean we know people are
+people are buying Star Trek Adventures.
+We we you know it is for the time being
+hopefully for a long time being a really
+successful line. People are willing to
+put good money into that like other game
+systems and that that that's because of
+what you're all doing and the thirst for
+it. Mhm. There there is a desire for a
+positive hopeful future. That's right.
+Absolutely. At the table, not just on
+the screen. Yeah. I'm Yeah. Everywhere.
+and and any any place that you can find
+that hope I it's even in good times
+finding hope somewhere that you can
+smile at each other across the table or
+you know regardless of what that table
+is when you can smile at each other and
+go yeah you know what we're doing
+something good here um I tend to smile
+before a TPK but that's my but that's
+another conversation yeah yeah yeah but
+I mean like that that hope it really
+does bring a positive energy and then
+and when when you walk away from the
+table saying, "Yeah, I had this great
+time telling this amazing story where we
+saved this group of people or we we had
+this philosophical debate about the the
+the rights or wrong about interfering in
+this society and trying to change
+something about it or you know anything
+like Star Trek's about thought. It's
+about thought experiments." Yes. Yes.
+Yes. 100%. When it's when it's positive,
+when it when you bring that positivity
+out of it, that's what matters. I I
+don't know. That's always gotten me
+about Star Trek. I love people just
+being able to debate a a a problem
+and still walk away even if they have a
+disagreement, just saying, "Okay, well,
+we did what we could and we did what was
+right." This is actually much of what
+hooked me about Prodigy against my
+expectation. Exactly what you just said.
+All the characters were in a pretty dark
+place and they they kind of built their
+way out. They build momentum.
+Be cognizant of your time, but I wanna
+not really more of a question, just more
+of a a comment because you had mentioned
+early on that you had you obviously had
+written a lot, Jim, and and Jim had
+mentioned this when we talked about the
+tech manual that they had to do a lot of
+pairing down of material. There's a lot
+of material that didn't make it. um as
+well. Don't forget those of us out there
+that you know if that material is out
+there. I know it it can be put to good
+use perhaps in future books or whatever
+the case may be. But um I know they use
+a blog. Um I know the blog is out there.
+They can put the stuff out there. Uh
+don't let that stuff
+languish. Um I know there's I know that
+that's gold for those of us inquiring
+readers players want to know. Yeah.
+Yeah. And I guarantee you that Jim has a
+folder from me with hundreds of
+thousands of words. I think I think Jim
+has actually said as much to us before.
+That's a hard one though, too, because
+once you've submitted that material,
+it's no longer yours. It's not
+technically even his. And so, it's a
+matter of of just waiting for it to see
+daylight in the appropriate project.
+Yes. Yes. Absolutely. Yeah. I can't I
+can't put it out there.
+You can't just willy-nilly do that. It
+has to be in a product. Yeah. Yeah. I
+wish I could, but yeah. Well, let me ask
+in how I think. So, especially like with
+the Telerite ideas. So, and recognizing
+like publication license. I I know those
+are all things, but if if if that could
+be addressed, would you ever consider
+someday, maybe not now, but someday,
+just writing this stuff without the
+notion of it going for a game? But like
+if if if um you know, if if CBS of
+Paramount said, "Yeah, go ahead. We've
+got our permission." Would would you
+would you ever consider putting stuff
+like that into a book? Maybe it's a
+novel. Maybe it's right narrative
+fiction. Whatever. I guess that's But
+you know what I mean. Like like a
+history of the future. Like if you have
+that much, it would be a different
+animal. But then you could just riff and
+develop it. Yeah. I mean, I wouldn't
+have a problem with that. I'd have to
+see what my uh you know, what time I
+have to work on whatever project. You
+know, there's there's paying projects
+and there's non-paying project. Well,
+I'm assuming they would pay you for
+this. I mean, okay. Absolutely. you know
+that then
+yeah pay if there's if there's like yeah
+payment involved sure absolutely it's
+it's at the top because I mean oh yeah I
+mean would I love to like add to a very
+un unutilized unexplored part of tlor
+and just really deep dive it absolutely
+and you know
+I could I could with at least the
+teleres I could probably with the
+endorans a bit too um just not as much.
+Uh Mhm. there's already been books on
+them anyway. It's just that the
+Telerites haven't really been widely
+ignored. Yeah. Yeah. Yeah. Yeah. I I'm
+still I'm still pining that that's a bit
+of a strong word, but I'm holding out
+for the Remember the Simon and
+Schustster Worlds of the Federation.
+Yes. ignore
+right and we've talked about this with
+the others but but that's still like
+near the top of my list that someday I
+hope there is something equivalent to
+that for STA where it's because like
+like what you're talking about like
+getting into the weeds where whether it
+was like whether it was a source book
+whether it was like I would almost
+prefer like a sort of traveler's guide
+that even would have the format of like
+the GM and players handbooks right where
+it literally was. I mean, I would read
+that sucker front to back. We tried
+again and again and again. Yeah. Yeah.
+We tried to do a little bit of that with
+the Shackleton Expanse guide. Yeah. Um
+because I mean, we went in I went in and
+actually did a lot of like planet
+details, just like the random planets or
+like how the Shackleton expands, what
+stellar phenomenon there were. Here's
+here's how it looks. And it's more of a
+a travel guideish sort of approach to
+it. Yeah. Back in the day, Kelly
+Fitzpatrick shared her excitement about
+getting to invent a species. Oh, yeah.
+Right. A really cool species. Yeah.
+Yeah. I would love I mean I probably a
+lot of us would love some type of book
+on that cuz you guys would just go nuts
+with it, I think. Yeah. And I mean just
+look at the Shackle and Expanse guide,
+the the guide book, the campaign book.
+There's that's a huge book and that's
+just it is a huge book from our minds,
+right? like from all of our minds from
+the team and you could just take that
+book and play for years. Yeah.
+Games. That's like one of the best
+sandbox books I've ever seen for a game
+just because of to what you said and I
+don't I don't know if it's if if people
+realize how much like you said that was
+you
+know this is not the best way of putting
+it. So, I apologize, but invented, you
+know. No. Yeah. You know, that's really
+what it was. And and the detail that
+came out of it and like you said, it's a
+traveler's guide. That's almost a coffee
+table book unto itself. Um, and when
+I've when we did some when we did some
+playing around with captain's log in the
+past and things like that, I had
+referenced that
+um just because of how it was written
+from a you know, just from a design
+perspective, you know, it's just one of
+those it's just one of those books and
+that book is, you know, prime example
+where, you know, we're now in second
+edition. the material. This is where
+first edition books can still be used in
+second edition very easily. Shackleton
+is a prime example of when you you talk
+about Shackleton like offline all the
+time. All the time. I love that book and
+but I'm I'm also kind of a fan of I love
+large tones, you know, I like to look at
+a large tone book and that is one of
+those books where um you know you know
+Jason and I are big fans of not
+necessarily when we play in the STA
+universe, we don't like to mess with
+with canon. Yeah. Um and we don't like
+to necessarily to the point that it
+holds back my creativity because it's
+like I'm not breaking anything. We don't
+like to break We don't like to break and
+mess with canon. just our own personal
+preference. So, so you know, being able
+to work in the work in Shackleton that
+allows so smart about it. Yeah. Yeah. I
+I don't have to necessarily completely
+stretch my own relatively limited
+creative abilities. Um, you guys have
+given me a sandbox that I can use that I
+can branch off of. And I think that what
+what works between first edition and
+second edition and why Shackleton still
+can apply into second edition is so much
+of what we write isn't necessarily
+uh really hard into the rules. Like it's
+not like there are specific numbers and
+very specific dice rolls and very
+specific trait combinations that need to
+be used with everything that is written.
+Um, even in in in Utopia Plenicia, the
+starships there, it's mostly story that
+I wrote. I wrote them like here's a
+story and then here's a character. I
+actually I I read through lots and lots
+of the backstories of the ships. I
+didn't even pay attention to the stats
+when I got it because of just what you
+said because it was all there. Yeah.
+Yeah. It that was Yeah, that's
+fascinating to me. We don't need to
+worry about first or second edition with
+that. No, that's right. That's why
+that's why that one that one especially
+is a is what I call a coffee table book.
+You could put that out on the table and
+if you're if you're watching the TV
+series if you're wa wa wa wa wa wa wa wa
+wa wa even if you're watching like DS9
+where you're not necessarily seeing tons
+of starships on any given basis, you can
+pull up and just read the stories of
+these these starship classes. Well, in
+the beta quadrant, I mean, come on,
+we've got almost 60 years and the beta
+quadrant is essentially ignored. Even
+even during the Dominion War, it was all
+about, you know, the Dominion's going to
+take over the the Alpha Quadrant. And
+it's like, you guys need to pay
+attention to your own borders. This is
+so much bigger than this. Yeah. The beta
+is the redheaded stepchild,
+unfortunately, of the quadrants, really.
+Even the, you know, the, you know, the
+gamma and the delta so far away, but
+they're more impressive than the poor
+poor old beta quadrant. So, well,
+Federation splits between it. So, yeah.
+Yep. Yep. Erin, you know, we thank you
+so much for for taking the time with us.
+We promise, well, maybe this maybe this
+is a promise that you may not want us to
+keep, but we promise that we we will
+have you
+on sooner than three years between this
+and the next. Hopefully. I mean,
+hopefully more like in the next few
+months or couple months whenever um
+whenever your games start to drop. We
+would love to have you on just to talk
+about those if you like them. I mean,
+don't don't don't have me on if you
+don't, you know, really want to talk
+about them. That's for sure. I mean, you
+had us at Flying Saucers and it's good.
+Oh, yeah. Flying saucers, too. The
+science behind the Flying Saucers.
+Absolutely. We got to talk about that.
+Oh, sure. Yes. I When you were talking
+about that, what I had in the back of my
+mind is Flight of the Flight of the
+Navigator. No, not Mars Attacks,
+but Flight of the Navigator. you know
+how it would it would you know the the
+morphing of the ship. I don't know if
+Jason you ever watched that but I'm not
+going to right now. Yeah, good movie. So
+go back and look at it later. It's a
+Disney movie but and you know it's got
+like the the cutesy kind of kids Disney
+movie stuff that's in it as well. But
+they actually even deal with um uh twin
+paradox kind of stuff like relativistic
+oh uh time differentials like hey kid
+goes off in a in a spaceship traveling
+at near the speed of light and then
+comes back and it's only been like a few
+weeks to him but it's been many years on
+Earth years and now his little brother
+is his big brother and so next time
+we've got to talk about interstellar
+too. Yeah,
+we can. Yeah. No, but yeah, we we would
+very much if you got the time, we would
+very much like to have you back to talk
+about the new game. Sure. That that
+would be Yeah. When you're ready, when
+you give us give us the word when you
+want to talk more about the miniatures
+and everything invitation. Yeah. And
+we'd love to we'd love to have you on to
+talk through it more. Yeah, we will be
+watching for that, too. Sure. Sounds
+good. Thanks, Aaron. Thank you for
+having me. I appreciate it.
+[Music]
+It's always good to have returning
+guests and and for Aaron again, we said
+it before, it was way overdue and having
+you along. So, thank you again for
+joining
+[Applause]
+us. Ah, yes, the sound of the
+loons. That tells us it's time to go to
+the Lon Cafe. Why not? Sounds courtesy
+of Jason Kaufman recorded up on the
+Gunfl Trail on the edge of the Boundary
+Waters Canoe Area Wilderness. I I we'll
+be using that obviously. That is like
+better than any sound we've been able to
+find online in all honesty. That is
+really well done. Thank you. I that one
+was taken actually from a cabin deck
+last summer. Was it in the evening?
+Nope. No.
+Uh I think it was a morning. So, was it
+a morning? I tend to go out with coffee.
+I used to do it with Amy's dad. Uh, and
+I'll spend an hour or two out there
+having coffee, thinking, looking,
+listening, eventually reading. And so,
+those are the evenings and mornings are
+the best time. It's very difficult for
+us to like be sitting there not talking
+about something. But if I had heard
+that, you and I would be sitting there
+not talking. And that's and and and this
+is this is a little silly and I
+shouldn't even say it while we're on
+air, but the loon calls are an almost
+sacred thing for me at this point. So I
+just think that's what I'm saying is
+that would be an occasion where if that
+was what I would be hearing, we would be
+sitting there not talking and I think
+anyone who know anyone who would be
+around us would be shocked by that.
+Okay. So while you're busy not talking,
+what's on your desk? Yeah. Um, you know,
+I have I have been in um for the past
+two weeks, I'm going to admit it, I've
+been in a bit of an RPG rut. Um, I
+really
+haven't opened an RPG book.
+Um, there's been um
+some, you know, I'm a fan of cycling. I
+like watching cycling as a sport. You
+and I know this. We watch, we talk about
+the tour. Mhm. Yep. When it comes on,
+the tour to France that comes on in July
+every year. Um but um I've been able to
+get some of the other races that are
+going on over in Europe. And so I've
+been kind of watching, not like watching
+it on TV, but um keeping up with some of
+the news and all that and doing some
+other project stuff related to writing.
+And um I just
+haven't opened up my writing related to
+it for the well, not two weeks, but for
+like probably the past week and a half.
+Yeah. And as I sit here tonight,
+um, I'm I'm working on a I'm I'm working
+on a kind of like a productivity
+project. I just it's too boring to
+discuss here, but ultimately I've
+already lost interest. Yeah, I know.
+Ultimately for me, I just it it I've
+been I've been doing some kind of dice
+I've been doing some dice rolling, but
+it's related to like my sports game.
+Yeah. Solo play stuff. Um, and I don't
+know what it is. I just at the moment I
+don't know if it's because it's spring
+out and the seasons change and you you
+know because you've had the weather too.
+Y um we've had some nice weather out
+here.
+Um yeah, as we are recording in very
+very late April, spring is in full swing
+here. Yeah, we've I mean it was 80
+degrees here yesterday. Oh wow. So I
+literally and you
+know lately lately because I've had some
+weight loss it I just don't wear shorts.
+I'm I'm like cold. Yep. I've never been
+a shorts person. Temper. You know
+temperature for me you know what could
+what could keep me warm temperature
+wise. Totally different now. Totally
+different. Yeah. But yesterday I was
+able to actually put a pair of shorts on
+and not feel like I was going to freeze
+to death. Biking shorts. No. Thank you.
+No. still have not attempted those in
+the new slimmer look. I'm just fearful
+of what that might look like. As are we.
+So, yes. And I and I'm and you can be
+rest assured that when I try them on,
+they will be in the security of a of a
+bathroom fully locked or not with the
+lights turned off. Yes. Exactly. So, so
+now that now that we have assured
+everyone that they should have nothing
+to fear, what's been on your desk? What?
+So, um it's actually what's been on my
+screen. What's been on my TV? So, to
+think about that, but since we recorded
+with Aaron not long ago, yes. Uh, you
+and I don't know what finally clicked
+for me, but but that chat with you and
+Aaron finally convinced me to give For
+All Mankind a try.
+And also, uh, Apple TV Plus is having,
+um, a 3.99 per month deal for three
+months. Yes, it's okay. Perfect time for
+you to binge, right? So, um I thought
+I'm going to give it a shot. Worst
+cases, I'm out four bucks. I watched the
+first episode and yes, everybody, I know
+I'm coming to this almost 6 years late.
+I know. Uh cuz it's it debuted in 2019,
+believe it or not. But this is alt
+history and that's traditionally not an
+area that's interesting at all. But but
+I started watching and then one of your
+comments was think of it like
+sci-fi and that really clicked for me.
+So thank you for that. So I I got hooked
+on the first episode which really
+surprised me. It's really good material
+but I didn't I thought it would take
+maybe two to three episodes before it
+would hook you. I did too. So I am
+almost through season one.
+Wow. Um I I've been I haven't been able
+to watch daily, but I like every few
+days I get one in and over the weekend I
+got one or two in. It's you know I'm
+only eight episodes in. There are 40 so
+far. Uh the plan well the plan is to be
+done within my three-month trial uh with
+Apple TV Plus. But, um, as this episode
+drops,
+uh, I will have finished spring
+semester, had, uh, a handful, not even a
+week off, and summer term will have
+started up, but I only have one class
+this summer. So, my plan, I actually
+hadn't planned to start it until like
+after this drops, but my plan is to use
+my time when I'm home. home. Dina will
+be home from college, but use my time
+when I have a lot of time at home,
+relatively unencumbered. And I just I
+just want to slowly between now and what
+is it? May June. Between now and like
+June,
+if if it lasts through the through the
+summer, I don't care. I'll pay. But my
+plan is over the course of the summer, I
+want to watch all four seasons. So, I
+basically have three more seasons. And I
+am like I go to bed and I think about
+it. I am it's so well and I don't even
+like human interest stories but because
+it's really telling you stories about
+what are the lives of these people like
+in this world with these roles. Um I
+like I'm down the rabbit hole so hard on
+this I haven't even started watching
+andor season 2 yet.
+Okay. Now that you haven't told me that
+you haven't told me that. Well, we it's
+been a busy couple days. Yeah, it's been
+a busy day. But but that really
+surprises. But then again, if you're
+it's you know, you're not necessarily a
+person that's going to give up time for
+tons of shows. No, no. To have two at
+the same time is is pretty rare these
+days for me. But like this coming
+weekend, my plan my plan is to stay on
+pace. So, this coming weekend, my plan
+is to to watch Andor the First Batch uh
+over the weekend. What I always find
+what I still find a bit funny is that I
+am more reticent to pick up television
+shows than you.
+Um the reasoning not so much. It's just
+I am more um hesitant on television
+shows. Um, and maybe it's maybe it's
+mostly Star Wars stuff. Um, although you
+you know, my son who's got a very
+similar taste and and critique of Star
+Wars that I have has given me um
+good reviews of Andor. So, I'm just
+still of I've said it once. I've said it
+multiple times and I'll say it again.
+I want new history. I I'm tired of us
+telling a story with that with in these
+same interiors. The Andor was so well
+done. I know. Otherwise, I am I am with
+you all. Like I really want the Ray
+trilogy or whatever to come out to move
+the story forward. Even I know there I
+know there what is the new movie that
+Ryan Gosling Starfighter
+I'm reserving. Yes. Star Wars Starf
+Fighter. I'm reserving judgment. I know.
+But it's coming out after episode 9. Do
+we know the story? Yeah, they said it's
+it's coming. It's people correct me if
+I'm wrong, but I remember being told
+it's after episode 9. So, I am going to
+go and see it because it's coming out.
+It's going to be new timeline.
+So, I'm going to give it the benefit of
+the doubt because that's what I've been
+asking for. Yes. and he did okay for me
+in
+um in Bladeunner in Bladeunner. I've
+still not seen Bladeunner 2049. I don't
+know how that's possible
+given how much I love the original. Mine
+you got to put that on your on your on
+your sticky note for the future. I can I
+got two shows to watch right now it's
+already flowing over. Yeah. And that's
+not one you need to really like
+go bending over backwards for in all
+honesty. Um you're a big fan of the
+original. The 2049's fine, but it's it's
+not going to,
+you know. Yeah. So, but so yeah. So, and
+and I bring that up because I bring up
+For All Mankind because to me it's so
+relevant to RPGs, right? And like like
+it just makes me want to play in a next
+century world, a next century solar
+system. Like bring me Pioneer from from
+Mongoose. Bring me bring me some version
+of Welcome to Moonbase from Ben Bova,
+right? Like that is the that is the
+uh that is a
+setting on in just in within the past
+six months. Maybe we should have we
+should have him back and have him
+talking about cuz they've been a lot of
+stuff. I keep watching though. No
+updates on No update on that. And that's
+okay because when there isn't that
+traditionally means hopefully means
+something going on. Yeah, I hope so. And
+and they've been doing a lot of content
+updates and stuff on Traveler and
+everything and even on paranoia. Oh,
+speaking of which, I texted you a couple
+things this morning. Are you I was
+surprised you didn't respond though. You
+You're even busier right now in the
+office than I am. Oh. Um the Shannon
+Apple. Yeah. Uh uh his new book. No, no,
+no. This is the one that's just coming
+out. This is his history of the Traveler
+RPG. Brad's checking his texts right
+now. Box him. No, no, no, no, no. This
+is already out. This is just a reprint.
+I think
+I Oh, I thought I thought this was maybe
+I think this is a I think I don't think
+do some research. I don't think so cuz
+I've read about I'm sure that they've
+been talking about him writing this uh
+cuz this was like the passion project
+cuz this goes right up to today. I think
+maybe it's an update of it and because
+there's a Humble Bundle deal where the
+PDF is $7.99 instead of 30
+cuz the printed is 50 and it looks like
+a coffee table book. Yeah, I've got
+Could be fun to read. Well, before you
+You know what? I'll I'll look this up
+because I think I have read this. Check
+it out. Maybe maybe I'm wrong. It's just
+a reprint. I just I I still That's one
+of those where we are eventually going
+to play travel. Yeah, we will. I'll tell
+you this summer. Maybe maybe this summer
+we'll dabble. I still have it on my SK.
+I still have that schedule. I still want
+to do I, you know, when I when I started
+getting using AI with with dice
+mechanics and it and I had it talking
+about the different dice mechanics, the
+Gersps mechanics still. I've got an I've
+got an untouched GERP source book over
+there on the shelf waiting for you.
+Don't you get rid of that book. We're
+I'm not. You told me we're going to use
+it. We're going to use it. And you have
+the shelf space now, so that can't be an
+excuse either. I have a plethora of
+glorious shelf space now. Yes. And you
+still you still have midnight, right?
+Yep. Okay, good. I still think we should
+try Midnight.
+That would be that would be fun and dark
+to play in. I think that would be an
+interesting one if we ever like It's
+great lit. Yeah, maybe even if we all
+get together, maybe Brian would join us
+for Yeah, cuz they've released quite a
+bit for it late. I think that there are
+I have the DM screen for it and there
+are um what a number of campaign guides
+or s not source campaign guides maybe.
+there there's stuff that's recently come
+out for it. So, it's an active line. I
+don't know if I'm if I'm up todate on
+their mailing list. I don't get much. I
+I don't know how much I've seen on email
+and how much I Is that FFG or is that
+Edge? Edge. And I don't know how I most
+of Edge I see on social media. They they
+post updates. Yeah. Regularly on social
+media. Okay. Yeah. We need to we need to
+find I know that nobody from Edge
+listens to us, but if someone does and
+knows someone from Edge, we so badly
+want to have you on and and just to talk
+about what it's like working with some
+of the Edge Yeah. IP, it's just there's
+so much good stuff there and we just we
+and it has such history, too. Yeah. And
+for me, it's local. I mean, Edge, not so
+much. Just But for me, I mean, like I
+can like I was able to drive up to FFG
+like it's 50 it was 50 minutes from the
+house, right? I can now I can still get
+up to Game Center. Um, so well with that
+wishful thinking to be continued. In the
+meantime, you all know the deal. Be
+well, stay well. We'll see you in a
+couple of weeks.
+[Music]

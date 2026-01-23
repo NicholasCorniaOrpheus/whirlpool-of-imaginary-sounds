@@ -1,0 +1,3425 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,240",
+      "end_time": "00:00:04,319",
+      "text": "This video is sponsored by Dark Descent"
+    },
+    {
+      "start_time": "00:00:02,320",
+      "end_time": "00:00:05,920",
+      "text": "from Mammoth Factory. More on their"
+    },
+    {
+      "start_time": "00:00:04,319",
+      "end_time": "00:00:08,480",
+      "text": "exciting Kickstarter for a tome of"
+    },
+    {
+      "start_time": "00:00:05,920",
+      "end_time": "00:00:11,519",
+      "text": "forbidden lore later in the video."
+    },
+    {
+      "start_time": "00:00:08,480",
+      "end_time": "00:00:13,360",
+      "text": "Picture a D&D campaign. There's a GM,"
+    },
+    {
+      "start_time": "00:00:11,519",
+      "end_time": "00:00:14,960",
+      "text": "four or five players. You create"
+    },
+    {
+      "start_time": "00:00:13,360",
+      "end_time": "00:00:17,199",
+      "text": "characters. You go on your first"
+    },
+    {
+      "start_time": "00:00:14,960",
+      "end_time": "00:00:19,359",
+      "text": "adventure. Every week, this same group"
+    },
+    {
+      "start_time": "00:00:17,199",
+      "end_time": "00:00:21,199",
+      "text": "gets together, plays a session, hits the"
+    },
+    {
+      "start_time": "00:00:19,359",
+      "end_time": "00:00:23,359",
+      "text": "pause button, and comes back the next"
+    },
+    {
+      "start_time": "00:00:21,199",
+      "end_time": "00:00:26,240",
+      "text": "week to pick up where you left off. And"
+    },
+    {
+      "start_time": "00:00:23,359",
+      "end_time": "00:00:28,560",
+      "text": "you'll do this for 10 or 20 or or 100"
+    },
+    {
+      "start_time": "00:00:26,240",
+      "end_time": "00:00:30,000",
+      "text": "sessions until the campaign comes to an"
+    },
+    {
+      "start_time": "00:00:28,560",
+      "end_time": "00:00:32,640",
+      "text": "end. But this is what we call a"
+    },
+    {
+      "start_time": "00:00:30,000",
+      "end_time": "00:00:34,559",
+      "text": "dedicated single group campaign. And"
+    },
+    {
+      "start_time": "00:00:32,640",
+      "end_time": "00:00:37,200",
+      "text": "even though we think of it as the the"
+    },
+    {
+      "start_time": "00:00:34,559",
+      "end_time": "00:00:39,360",
+      "text": "one true way to play an RPG, the truth"
+    },
+    {
+      "start_time": "00:00:37,200",
+      "end_time": "00:00:41,920",
+      "text": "is that it's not the only way. In fact,"
+    },
+    {
+      "start_time": "00:00:39,360",
+      "end_time": "00:00:44,559",
+      "text": "it's not even Arnison and Gyak ran the"
+    },
+    {
+      "start_time": "00:00:41,920",
+      "end_time": "00:00:45,920",
+      "text": "original D&D campaigns. And now Critical"
+    },
+    {
+      "start_time": "00:00:44,559",
+      "end_time": "00:00:47,600",
+      "text": "Role says that it's not how they're"
+    },
+    {
+      "start_time": "00:00:45,920",
+      "end_time": "00:00:50,559",
+      "text": "going to run the new campaign for"
+    },
+    {
+      "start_time": "00:00:47,600",
+      "end_time": "00:00:52,960",
+      "text": "either. So what do they know that you"
+    },
+    {
+      "start_time": "00:00:50,559",
+      "end_time": "00:00:55,120",
+      "text": "don't? And what are the five key things"
+    },
+    {
+      "start_time": "00:00:52,960",
+      "end_time": "00:00:57,280",
+      "text": "you need to know to run a campaign just"
+    },
+    {
+      "start_time": "00:00:55,120",
+      "end_time": "00:00:59,900",
+      "text": "like Arnison Gyax, Brennan Lee,"
+    },
+    {
+      "start_time": "00:00:57,280",
+      "end_time": "00:01:03,650",
+      "text": "Mulligan, and me?"
+    },
+    {
+      "start_time": "00:00:59,900",
+      "end_time": "00:01:03,650",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:01:05,840",
+      "end_time": "00:01:09,600",
+      "text": "What we're talking about is a shared"
+    },
+    {
+      "start_time": "00:01:07,600",
+      "end_time": "00:01:11,680",
+      "text": "campaign world. Instead of having a"
+    },
+    {
+      "start_time": "00:01:09,600",
+      "end_time": "00:01:13,200",
+      "text": "single dedicated group experiencing"
+    },
+    {
+      "start_time": "00:01:11,680",
+      "end_time": "00:01:15,119",
+      "text": "everything that happens in the world,"
+    },
+    {
+      "start_time": "00:01:13,200",
+      "end_time": "00:01:17,600",
+      "text": "you can instead run multiple groups"
+    },
+    {
+      "start_time": "00:01:15,119",
+      "end_time": "00:01:19,280",
+      "text": "simultaneously in the same setting."
+    },
+    {
+      "start_time": "00:01:17,600",
+      "end_time": "00:01:21,040",
+      "text": "which also means that the game world"
+    },
+    {
+      "start_time": "00:01:19,280",
+      "end_time": "00:01:22,799",
+      "text": "doesn't wait around for the players when"
+    },
+    {
+      "start_time": "00:01:21,040",
+      "end_time": "00:01:25,040",
+      "text": "they're not playing. Stuff keeps"
+    },
+    {
+      "start_time": "00:01:22,799",
+      "end_time": "00:01:27,119",
+      "text": "happening there. A shared campaign world"
+    },
+    {
+      "start_time": "00:01:25,040",
+      "end_time": "00:01:28,640",
+      "text": "lets a single GM support a lot more"
+    },
+    {
+      "start_time": "00:01:27,119",
+      "end_time": "00:01:30,560",
+      "text": "players than they could at a single"
+    },
+    {
+      "start_time": "00:01:28,640",
+      "end_time": "00:01:32,799",
+      "text": "table. I mean, you could of course also"
+    },
+    {
+      "start_time": "00:01:30,560",
+      "end_time": "00:01:35,119",
+      "text": "do that by running multiple single group"
+    },
+    {
+      "start_time": "00:01:32,799",
+      "end_time": "00:01:37,439",
+      "text": "campaigns at the same time. But a shared"
+    },
+    {
+      "start_time": "00:01:35,119",
+      "end_time": "00:01:39,759",
+      "text": "campaign world can also mean a lot less"
+    },
+    {
+      "start_time": "00:01:37,439",
+      "end_time": "00:01:42,000",
+      "text": "prep for the GM. And on the player side"
+    },
+    {
+      "start_time": "00:01:39,759",
+      "end_time": "00:01:43,600",
+      "text": "of things, a shared campaign is exciting"
+    },
+    {
+      "start_time": "00:01:42,000",
+      "end_time": "00:01:45,680",
+      "text": "because you're suddenly in a living"
+    },
+    {
+      "start_time": "00:01:43,600",
+      "end_time": "00:01:47,200",
+      "text": "world. Your your actions aren't just"
+    },
+    {
+      "start_time": "00:01:45,680",
+      "end_time": "00:01:48,720",
+      "text": "affecting the people sitting at the"
+    },
+    {
+      "start_time": "00:01:47,200",
+      "end_time": "00:01:51,040",
+      "text": "table with you. They're affecting people"
+    },
+    {
+      "start_time": "00:01:48,720",
+      "end_time": "00:01:53,600",
+      "text": "at at other tables, people you may never"
+    },
+    {
+      "start_time": "00:01:51,040",
+      "end_time": "00:01:55,520",
+      "text": "meet. If if group A blows up a church,"
+    },
+    {
+      "start_time": "00:01:53,600",
+      "end_time": "00:01:57,759",
+      "text": "then when group B gets together to play,"
+    },
+    {
+      "start_time": "00:01:55,520",
+      "end_time": "00:02:00,000",
+      "text": "they'll see the smoldering ruins as they"
+    },
+    {
+      "start_time": "00:01:57,759",
+      "end_time": "00:02:02,159",
+      "text": "as they ride into town. At my shared"
+    },
+    {
+      "start_time": "00:02:00,000",
+      "end_time": "00:02:04,159",
+      "text": "tables, I've seen alchemists create"
+    },
+    {
+      "start_time": "00:02:02,159",
+      "end_time": "00:02:06,240",
+      "text": "create new concoctions that have saved"
+    },
+    {
+      "start_time": "00:02:04,159",
+      "end_time": "00:02:07,840",
+      "text": "the lives of people they've never played"
+    },
+    {
+      "start_time": "00:02:06,240",
+      "end_time": "00:02:10,160",
+      "text": "with. I've seen people start"
+    },
+    {
+      "start_time": "00:02:07,840",
+      "end_time": "00:02:13,760",
+      "text": "organizations joined by by real people"
+    },
+    {
+      "start_time": "00:02:10,160",
+      "end_time": "00:02:15,840",
+      "text": "they've never even met. Our goal is"
+    },
+    {
+      "start_time": "00:02:13,760",
+      "end_time": "00:02:17,599",
+      "text": "always to make the campaign world feel"
+    },
+    {
+      "start_time": "00:02:15,840",
+      "end_time": "00:02:20,400",
+      "text": "like a real place where the where the"
+    },
+    {
+      "start_time": "00:02:17,599",
+      "end_time": "00:02:22,000",
+      "text": "actions of the PCs truly matter. And the"
+    },
+    {
+      "start_time": "00:02:20,400",
+      "end_time": "00:02:24,560",
+      "text": "cool thing about a shared setting is"
+    },
+    {
+      "start_time": "00:02:22,000",
+      "end_time": "00:02:26,720",
+      "text": "that is that this is kind of true. There"
+    },
+    {
+      "start_time": "00:02:24,560",
+      "end_time": "00:02:29,200",
+      "text": "are real people out there being affected"
+    },
+    {
+      "start_time": "00:02:26,720",
+      "end_time": "00:02:31,040",
+      "text": "by what your character is doing and the"
+    },
+    {
+      "start_time": "00:02:29,200",
+      "end_time": "00:02:34,080",
+      "text": "stuff they're doing is affecting you and"
+    },
+    {
+      "start_time": "00:02:31,040",
+      "end_time": "00:02:37,360",
+      "text": "your character. A shared world campaign"
+    },
+    {
+      "start_time": "00:02:34,080",
+      "end_time": "00:02:39,760",
+      "text": "just just hits different. But how do you"
+    },
+    {
+      "start_time": "00:02:37,360",
+      "end_time": "00:02:41,840",
+      "text": "actually run a shared world? What does"
+    },
+    {
+      "start_time": "00:02:39,760",
+      "end_time": "00:02:43,519",
+      "text": "it look like? Well, sometimes a shared"
+    },
+    {
+      "start_time": "00:02:41,840",
+      "end_time": "00:02:46,080",
+      "text": "world campaign will evolve out of a"
+    },
+    {
+      "start_time": "00:02:43,519",
+      "end_time": "00:02:47,360",
+      "text": "single dedicated table. Maybe you and a"
+    },
+    {
+      "start_time": "00:02:46,080",
+      "end_time": "00:02:49,280",
+      "text": "couple of buddies get together on"
+    },
+    {
+      "start_time": "00:02:47,360",
+      "end_time": "00:02:51,200",
+      "text": "Tuesday night. They they roll up a"
+    },
+    {
+      "start_time": "00:02:49,280",
+      "end_time": "00:02:53,360",
+      "text": "halfling rogue and a halfling paladin"
+    },
+    {
+      "start_time": "00:02:51,200",
+      "end_time": "00:02:55,120",
+      "text": "and start going on adventures together."
+    },
+    {
+      "start_time": "00:02:53,360",
+      "end_time": "00:02:56,800",
+      "text": "They're having a great time. In fact,"
+    },
+    {
+      "start_time": "00:02:55,120",
+      "end_time": "00:02:58,640",
+      "text": "they're having so much fun that Shawn"
+    },
+    {
+      "start_time": "00:02:56,800",
+      "end_time": "00:03:00,160",
+      "text": "tells a couple of his friends about how"
+    },
+    {
+      "start_time": "00:02:58,640",
+      "end_time": "00:03:02,080",
+      "text": "cool the game is and now they want to"
+    },
+    {
+      "start_time": "00:03:00,160",
+      "end_time": "00:03:03,280",
+      "text": "play, too. So, so you invite them and"
+    },
+    {
+      "start_time": "00:03:02,080",
+      "end_time": "00:03:04,560",
+      "text": "they want to play halflings, too,"
+    },
+    {
+      "start_time": "00:03:03,280",
+      "end_time": "00:03:06,720",
+      "text": "because well, because they think it's"
+    },
+    {
+      "start_time": "00:03:04,560",
+      "end_time": "00:03:08,959",
+      "text": "funny. A few weeks later, your brother"
+    },
+    {
+      "start_time": "00:03:06,720",
+      "end_time": "00:03:10,319",
+      "text": "crashes the party. The all halfling"
+    },
+    {
+      "start_time": "00:03:08,959",
+      "end_time": "00:03:12,560",
+      "text": "stick is running a bit thin, so you"
+    },
+    {
+      "start_time": "00:03:10,319",
+      "end_time": "00:03:14,319",
+      "text": "convince him to roll up a human ranger."
+    },
+    {
+      "start_time": "00:03:12,560",
+      "end_time": "00:03:16,080",
+      "text": "His girlfriend shows up for a few"
+    },
+    {
+      "start_time": "00:03:14,319",
+      "end_time": "00:03:18,080",
+      "text": "sessions, but then has to drop out when"
+    },
+    {
+      "start_time": "00:03:16,080",
+      "end_time": "00:03:20,080",
+      "text": "a new college semester starts, and she"
+    },
+    {
+      "start_time": "00:03:18,080",
+      "end_time": "00:03:21,760",
+      "text": "ends up with a class on Tuesday night."
+    },
+    {
+      "start_time": "00:03:20,080",
+      "end_time": "00:03:23,360",
+      "text": "But apparently, everyone is having a"
+    },
+    {
+      "start_time": "00:03:21,760",
+      "end_time": "00:03:25,599",
+      "text": "great time because they keep inviting"
+    },
+    {
+      "start_time": "00:03:23,360",
+      "end_time": "00:03:28,080",
+      "text": "more and more of their friends to play."
+    },
+    {
+      "start_time": "00:03:25,599",
+      "end_time": "00:03:29,760",
+      "text": "And that's when you realize you have too"
+    },
+    {
+      "start_time": "00:03:28,080",
+      "end_time": "00:03:31,440",
+      "text": "many players. Now, you could start"
+    },
+    {
+      "start_time": "00:03:29,760",
+      "end_time": "00:03:32,480",
+      "text": "kicking players out, but it's not like"
+    },
+    {
+      "start_time": "00:03:31,440",
+      "end_time": "00:03:33,920",
+      "text": "you don't like playing with your"
+    },
+    {
+      "start_time": "00:03:32,480",
+      "end_time": "00:03:36,080",
+      "text": "friends. You just don't want to play"
+    },
+    {
+      "start_time": "00:03:33,920",
+      "end_time": "00:03:38,159",
+      "text": "with all of them at once. So instead,"
+    },
+    {
+      "start_time": "00:03:36,080",
+      "end_time": "00:03:39,920",
+      "text": "you split the group. Some of the players"
+    },
+    {
+      "start_time": "00:03:38,159",
+      "end_time": "00:03:42,000",
+      "text": "are free Thursday night, so you start a"
+    },
+    {
+      "start_time": "00:03:39,920",
+      "end_time": "00:03:43,760",
+      "text": "second table. The Tuesday night group"
+    },
+    {
+      "start_time": "00:03:42,000",
+      "end_time": "00:03:46,319",
+      "text": "heads west and the Thursday night group"
+    },
+    {
+      "start_time": "00:03:43,760",
+      "end_time": "00:03:48,159",
+      "text": "heads east. And this this is great. Both"
+    },
+    {
+      "start_time": "00:03:46,319",
+      "end_time": "00:03:50,959",
+      "text": "groups are still pursuing the same"
+    },
+    {
+      "start_time": "00:03:48,159",
+      "end_time": "00:03:52,879",
+      "text": "quest, just in different ways. One group"
+    },
+    {
+      "start_time": "00:03:50,959",
+      "end_time": "00:03:55,519",
+      "text": "sees armies on the march that are later"
+    },
+    {
+      "start_time": "00:03:52,879",
+      "end_time": "00:03:57,599",
+      "text": "fought by the other. NPCs cross over"
+    },
+    {
+      "start_time": "00:03:55,519",
+      "end_time": "00:03:59,360",
+      "text": "between the two tables. Now, now Liv is"
+    },
+    {
+      "start_time": "00:03:57,599",
+      "end_time": "00:04:00,959",
+      "text": "able to play on Thursday, so she comes"
+    },
+    {
+      "start_time": "00:03:59,360",
+      "end_time": "00:04:02,959",
+      "text": "back, but decides to play a different"
+    },
+    {
+      "start_time": "00:04:00,959",
+      "end_time": "00:04:04,720",
+      "text": "character this time. Later though, she"
+    },
+    {
+      "start_time": "00:04:02,959",
+      "end_time": "00:04:07,200",
+      "text": "drops in on the Tuesday night table. the"
+    },
+    {
+      "start_time": "00:04:04,720",
+      "end_time": "00:04:09,120",
+      "text": "guest stars or old PC. And in the big"
+    },
+    {
+      "start_time": "00:04:07,200",
+      "end_time": "00:04:11,360",
+      "text": "finale, the actions of one group are"
+    },
+    {
+      "start_time": "00:04:09,120",
+      "end_time": "00:04:14,760",
+      "text": "able to help the other group succeed and"
+    },
+    {
+      "start_time": "00:04:11,360",
+      "end_time": "00:04:14,760",
+      "text": "vice versa."
+    },
+    {
+      "start_time": "00:04:17,640",
+      "end_time": "00:04:22,320",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:04:19,840",
+      "end_time": "00:04:25,120",
+      "text": "This is a shared world being played by"
+    },
+    {
+      "start_time": "00:04:22,320",
+      "end_time": "00:04:26,960",
+      "text": "multiple dedicated tables. The events at"
+    },
+    {
+      "start_time": "00:04:25,120",
+      "end_time": "00:04:29,520",
+      "text": "one table cross over with the events at"
+    },
+    {
+      "start_time": "00:04:26,960",
+      "end_time": "00:04:31,759",
+      "text": "the other table and vice versa, but it's"
+    },
+    {
+      "start_time": "00:04:29,520",
+      "end_time": "00:04:33,919",
+      "text": "generally the same group of PCs getting"
+    },
+    {
+      "start_time": "00:04:31,759",
+      "end_time": "00:04:35,919",
+      "text": "together at each table and continuing"
+    },
+    {
+      "start_time": "00:04:33,919",
+      "end_time": "00:04:37,520",
+      "text": "their adventures together. A West"
+    },
+    {
+      "start_time": "00:04:35,919",
+      "end_time": "00:04:39,520",
+      "text": "Marchers campaign, on the other hand,"
+    },
+    {
+      "start_time": "00:04:37,520",
+      "end_time": "00:04:41,840",
+      "text": "looks a little different. A West March"
+    },
+    {
+      "start_time": "00:04:39,520",
+      "end_time": "00:04:44,000",
+      "text": "is a specific type of open table created"
+    },
+    {
+      "start_time": "00:04:41,840",
+      "end_time": "00:04:45,919",
+      "text": "by Ben Robbins in which the campaign"
+    },
+    {
+      "start_time": "00:04:44,000",
+      "end_time": "00:04:48,639",
+      "text": "takes place on the on the edge of"
+    },
+    {
+      "start_time": "00:04:45,919",
+      "end_time": "00:04:50,560",
+      "text": "civilization. In Ben's case, the western"
+    },
+    {
+      "start_time": "00:04:48,639",
+      "end_time": "00:04:52,400",
+      "text": "edge. There's a small community or"
+    },
+    {
+      "start_time": "00:04:50,560",
+      "end_time": "00:04:54,240",
+      "text": "military fort or something of the like"
+    },
+    {
+      "start_time": "00:04:52,400",
+      "end_time": "00:04:56,479",
+      "text": "located out there. And from this base of"
+    },
+    {
+      "start_time": "00:04:54,240",
+      "end_time": "00:04:58,880",
+      "text": "operations, the PCs venture forth into"
+    },
+    {
+      "start_time": "00:04:56,479",
+      "end_time": "00:05:01,199",
+      "text": "the unknown. Always to the west, never"
+    },
+    {
+      "start_time": "00:04:58,880",
+      "end_time": "00:05:03,280",
+      "text": "to the east. Each expedition reveals"
+    },
+    {
+      "start_time": "00:05:01,199",
+      "end_time": "00:05:05,360",
+      "text": "more and more of the secrets beyond the"
+    },
+    {
+      "start_time": "00:05:03,280",
+      "end_time": "00:05:07,600",
+      "text": "horizon, with the PCs facing incredible"
+    },
+    {
+      "start_time": "00:05:05,360",
+      "end_time": "00:05:09,680",
+      "text": "dangers and being rewarded with wondrous"
+    },
+    {
+      "start_time": "00:05:07,600",
+      "end_time": "00:05:12,320",
+      "text": "treasures. Here's the trick, though."
+    },
+    {
+      "start_time": "00:05:09,680",
+      "end_time": "00:05:13,919",
+      "text": "It's not the same PCs each time."
+    },
+    {
+      "start_time": "00:05:12,320",
+      "end_time": "00:05:16,240",
+      "text": "Instead, the players arrange and"
+    },
+    {
+      "start_time": "00:05:13,919",
+      "end_time": "00:05:18,320",
+      "text": "schedule each expedition into the wild"
+    },
+    {
+      "start_time": "00:05:16,240",
+      "end_time": "00:05:20,479",
+      "text": "individually. The first expedition might"
+    },
+    {
+      "start_time": "00:05:18,320",
+      "end_time": "00:05:22,639",
+      "text": "be Christina, Peter, Eric, and Allan"
+    },
+    {
+      "start_time": "00:05:20,479",
+      "end_time": "00:05:24,400",
+      "text": "heading to the Temple of the Artificers."
+    },
+    {
+      "start_time": "00:05:22,639",
+      "end_time": "00:05:25,840",
+      "text": "Uh Christina and Peter might come back"
+    },
+    {
+      "start_time": "00:05:24,400",
+      "end_time": "00:05:27,840",
+      "text": "for the next session, but are joined"
+    },
+    {
+      "start_time": "00:05:25,840",
+      "end_time": "00:05:29,680",
+      "text": "this time by Sarah and Paul while they"
+    },
+    {
+      "start_time": "00:05:27,840",
+      "end_time": "00:05:31,919",
+      "text": "check out why the farmers at Carowind"
+    },
+    {
+      "start_time": "00:05:29,680",
+      "end_time": "00:05:34,080",
+      "text": "haven't been seen in town lately. After"
+    },
+    {
+      "start_time": "00:05:31,919",
+      "end_time": "00:05:36,160",
+      "text": "Allan gets infected with Lyanthopia at"
+    },
+    {
+      "start_time": "00:05:34,080",
+      "end_time": "00:05:38,400",
+      "text": "Carowwin, that group might play together"
+    },
+    {
+      "start_time": "00:05:36,160",
+      "end_time": "00:05:40,320",
+      "text": "two or three more times while seeking a"
+    },
+    {
+      "start_time": "00:05:38,400",
+      "end_time": "00:05:42,639",
+      "text": "cure. But but in between those sessions,"
+    },
+    {
+      "start_time": "00:05:40,320",
+      "end_time": "00:05:44,720",
+      "text": "Eric might recruit Hunter and Gracie Lou"
+    },
+    {
+      "start_time": "00:05:42,639",
+      "end_time": "00:05:46,639",
+      "text": "to follow a treasure map he found in the"
+    },
+    {
+      "start_time": "00:05:44,720",
+      "end_time": "00:05:48,479",
+      "text": "Temple of the Artificers. When they come"
+    },
+    {
+      "start_time": "00:05:46,639",
+      "end_time": "00:05:50,560",
+      "text": "back to town, their eyes are glowing"
+    },
+    {
+      "start_time": "00:05:48,479",
+      "end_time": "00:05:52,960",
+      "text": "with a strange color which which they"
+    },
+    {
+      "start_time": "00:05:50,560",
+      "end_time": "00:05:54,479",
+      "text": "refuse to explain to anybody else. And"
+    },
+    {
+      "start_time": "00:05:52,960",
+      "end_time": "00:05:56,400",
+      "text": "meanwhile, Jacob has joined team"
+    },
+    {
+      "start_time": "00:05:54,479",
+      "end_time": "00:05:58,160",
+      "text": "Lyanthropy and help them track down a"
+    },
+    {
+      "start_time": "00:05:56,400",
+      "end_time": "00:06:00,320",
+      "text": "cure in the form of moon thistles"
+    },
+    {
+      "start_time": "00:05:58,160",
+      "end_time": "00:06:02,720",
+      "text": "growing up by the ancient dam. In an"
+    },
+    {
+      "start_time": "00:06:00,320",
+      "end_time": "00:06:05,120",
+      "text": "open table like this, every character"
+    },
+    {
+      "start_time": "00:06:02,720",
+      "end_time": "00:06:07,199",
+      "text": "has their own story line. All of those"
+    },
+    {
+      "start_time": "00:06:05,120",
+      "end_time": "00:06:09,520",
+      "text": "story lines coexist with each other. And"
+    },
+    {
+      "start_time": "00:06:07,199",
+      "end_time": "00:06:11,360",
+      "text": "the totality of all these stories all"
+    },
+    {
+      "start_time": "00:06:09,520",
+      "end_time": "00:06:13,280",
+      "text": "all existing in the same world and"
+    },
+    {
+      "start_time": "00:06:11,360",
+      "end_time": "00:06:15,520",
+      "text": "interacting with each other and weaving"
+    },
+    {
+      "start_time": "00:06:13,280",
+      "end_time": "00:06:18,400",
+      "text": "together is greater than the sum of"
+    },
+    {
+      "start_time": "00:06:15,520",
+      "end_time": "00:06:20,400",
+      "text": "their parts. A West March style campaign"
+    },
+    {
+      "start_time": "00:06:18,400",
+      "end_time": "00:06:24,080",
+      "text": "isn't the only way to achieve this"
+    },
+    {
+      "start_time": "00:06:20,400",
+      "end_time": "00:06:26,560",
+      "text": "dynamic though. For example, this is"
+    },
+    {
+      "start_time": "00:06:24,080",
+      "end_time": "00:06:28,479",
+      "text": "Castle Blackmore. It's the same model"
+    },
+    {
+      "start_time": "00:06:26,560",
+      "end_time": "00:06:30,240",
+      "text": "kit that Dave Arnison built when he was"
+    },
+    {
+      "start_time": "00:06:28,479",
+      "end_time": "00:06:32,319",
+      "text": "creating the modern role playing game"
+    },
+    {
+      "start_time": "00:06:30,240",
+      "end_time": "00:06:35,280",
+      "text": "and launching that campaign that would"
+    },
+    {
+      "start_time": "00:06:32,319",
+      "end_time": "00:06:38,000",
+      "text": "become Dungeons and Dragons. Beneath"
+    },
+    {
+      "start_time": "00:06:35,280",
+      "end_time": "00:06:40,000",
+      "text": "this castle, Arnison placed a vast"
+    },
+    {
+      "start_time": "00:06:38,000",
+      "end_time": "00:06:42,000",
+      "text": "labyrinthine dungeon. It was so large"
+    },
+    {
+      "start_time": "00:06:40,000",
+      "end_time": "00:06:44,160",
+      "text": "that today we call dungeons like this a"
+    },
+    {
+      "start_time": "00:06:42,000",
+      "end_time": "00:06:45,840",
+      "text": "mega dungeon. A dungeon so large that"
+    },
+    {
+      "start_time": "00:06:44,160",
+      "end_time": "00:06:48,000",
+      "text": "you could play an entire campaign in"
+    },
+    {
+      "start_time": "00:06:45,840",
+      "end_time": "00:06:49,759",
+      "text": "them and never run out of adventures. In"
+    },
+    {
+      "start_time": "00:06:48,000",
+      "end_time": "00:06:51,759",
+      "text": "the Arnisonian mega dungeon, the"
+    },
+    {
+      "start_time": "00:06:49,759",
+      "end_time": "00:06:53,600",
+      "text": "player's home base was Blackmore Village"
+    },
+    {
+      "start_time": "00:06:51,759",
+      "end_time": "00:06:55,919",
+      "text": "at the the foot of the hill on which"
+    },
+    {
+      "start_time": "00:06:53,600",
+      "end_time": "00:06:57,680",
+      "text": "Blackmore Castle was built. During each"
+    },
+    {
+      "start_time": "00:06:55,919",
+      "end_time": "00:06:59,360",
+      "text": "session, just like the West Marchers"
+    },
+    {
+      "start_time": "00:06:57,680",
+      "end_time": "00:07:01,039",
+      "text": "would later do, the adventurers in"
+    },
+    {
+      "start_time": "00:06:59,360",
+      "end_time": "00:07:02,880",
+      "text": "Blackmore that day would form up an"
+    },
+    {
+      "start_time": "00:07:01,039",
+      "end_time": "00:07:04,960",
+      "text": "expedition and journey down into the"
+    },
+    {
+      "start_time": "00:07:02,880",
+      "end_time": "00:07:06,639",
+      "text": "depths of the dungeon, exploring its"
+    },
+    {
+      "start_time": "00:07:04,960",
+      "end_time": "00:07:09,199",
+      "text": "strange secrets and then choosing to"
+    },
+    {
+      "start_time": "00:07:06,639",
+      "end_time": "00:07:11,120",
+      "text": "share those secrets or not with the rest"
+    },
+    {
+      "start_time": "00:07:09,199",
+      "end_time": "00:07:13,919",
+      "text": "of the adventuring community. In the"
+    },
+    {
+      "start_time": "00:07:11,120",
+      "end_time": "00:07:16,160",
+      "text": "earliest days of Dn D, everyone ran an"
+    },
+    {
+      "start_time": "00:07:13,919",
+      "end_time": "00:07:18,000",
+      "text": "mega dungeon. Everyone put a castle on a"
+    },
+    {
+      "start_time": "00:07:16,160",
+      "end_time": "00:07:20,080",
+      "text": "hill and carved out a mega dungeon"
+    },
+    {
+      "start_time": "00:07:18,000",
+      "end_time": "00:07:22,880",
+      "text": "beneath it. Greg Spencson, a player in"
+    },
+    {
+      "start_time": "00:07:20,080",
+      "end_time": "00:07:24,960",
+      "text": "Arnison's group, created Tonixborg. Gary"
+    },
+    {
+      "start_time": "00:07:22,880",
+      "end_time": "00:07:27,039",
+      "text": "Gyax copied the formula for his own"
+    },
+    {
+      "start_time": "00:07:24,960",
+      "end_time": "00:07:29,680",
+      "text": "Castle Greyhawk. When Ed Greenwood"
+    },
+    {
+      "start_time": "00:07:27,039",
+      "end_time": "00:07:31,680",
+      "text": "created Under Mountain in 1975, it was a"
+    },
+    {
+      "start_time": "00:07:29,680",
+      "end_time": "00:07:33,440",
+      "text": "variation on the same theme. Following"
+    },
+    {
+      "start_time": "00:07:31,680",
+      "end_time": "00:07:35,520",
+      "text": "in their footsteps, I ran my own version"
+    },
+    {
+      "start_time": "00:07:33,440",
+      "end_time": "00:07:37,120",
+      "text": "of Arnison's Blackmore as an open table"
+    },
+    {
+      "start_time": "00:07:35,520",
+      "end_time": "00:07:39,440",
+      "text": "for several years. Now, if you're"
+    },
+    {
+      "start_time": "00:07:37,120",
+      "end_time": "00:07:41,360",
+      "text": "looking for your own D&D world to share,"
+    },
+    {
+      "start_time": "00:07:39,440",
+      "end_time": "00:07:43,520",
+      "text": "you should check out Dark Descent from"
+    },
+    {
+      "start_time": "00:07:41,360",
+      "end_time": "00:07:46,080",
+      "text": "Mammoth Factory Games, the sponsor of"
+    },
+    {
+      "start_time": "00:07:43,520",
+      "end_time": "00:07:49,120",
+      "text": "today's video. Take the wagon down to"
+    },
+    {
+      "start_time": "00:07:46,080",
+      "end_time": "00:07:50,800",
+      "text": "Deepold, a terrifying subterranean realm"
+    },
+    {
+      "start_time": "00:07:49,120",
+      "end_time": "00:07:52,880",
+      "text": "where the surface has banished its"
+    },
+    {
+      "start_time": "00:07:50,800",
+      "end_time": "00:07:55,440",
+      "text": "criminals. Here among the ruins of the"
+    },
+    {
+      "start_time": "00:07:52,880",
+      "end_time": "00:07:57,599",
+      "text": "Anac Empire, the surface are trying to"
+    },
+    {
+      "start_time": "00:07:55,440",
+      "end_time": "00:08:01,759",
+      "text": "make the best of their new lives. But"
+    },
+    {
+      "start_time": "00:07:57,599",
+      "end_time": "00:08:04,000",
+      "text": "out there in the dark, the void crawl,"
+    },
+    {
+      "start_time": "00:08:01,759",
+      "end_time": "00:08:06,879",
+      "text": "strange mage hunters from beyond time"
+    },
+    {
+      "start_time": "00:08:04,000",
+      "end_time": "00:08:09,680",
+      "text": "and space, drawn to the arcane arts."
+    },
+    {
+      "start_time": "00:08:06,879",
+      "end_time": "00:08:11,440",
+      "text": "Beware and cast with care to avoid"
+    },
+    {
+      "start_time": "00:08:09,680",
+      "end_time": "00:08:14,639",
+      "text": "becoming the target of something beyond"
+    },
+    {
+      "start_time": "00:08:11,440",
+      "end_time": "00:08:17,039",
+      "text": "the ken of mortal minds. What dark"
+    },
+    {
+      "start_time": "00:08:14,639",
+      "end_time": "00:08:19,520",
+      "text": "powers will you master to survive and"
+    },
+    {
+      "start_time": "00:08:17,039",
+      "end_time": "00:08:21,440",
+      "text": "thrive in these terrible deaths? Dark"
+    },
+    {
+      "start_time": "00:08:19,520",
+      "end_time": "00:08:24,080",
+      "text": "Descent will tempt you with forbidden"
+    },
+    {
+      "start_time": "00:08:21,440",
+      "end_time": "00:08:27,039",
+      "text": "subclasses, infernal spells, and the"
+    },
+    {
+      "start_time": "00:08:24,080",
+      "end_time": "00:08:29,039",
+      "text": "gruesome rights of blood alchemy. It"
+    },
+    {
+      "start_time": "00:08:27,039",
+      "end_time": "00:08:31,680",
+      "text": "also includes the exiles of Deepold"
+    },
+    {
+      "start_time": "00:08:29,039",
+      "end_time": "00:08:33,599",
+      "text": "Adventure Path, a six-part campaign of"
+    },
+    {
+      "start_time": "00:08:31,680",
+      "end_time": "00:08:35,279",
+      "text": "corruption. Although freed from their"
+    },
+    {
+      "start_time": "00:08:33,599",
+      "end_time": "00:08:37,279",
+      "text": "chains after being banished for their"
+    },
+    {
+      "start_time": "00:08:35,279",
+      "end_time": "00:08:39,360",
+      "text": "crimes, the fate of the PCs becomes"
+    },
+    {
+      "start_time": "00:08:37,279",
+      "end_time": "00:08:41,760",
+      "text": "inextricably bound to the lightless"
+    },
+    {
+      "start_time": "00:08:39,360",
+      "end_time": "00:08:44,159",
+      "text": "depth due to the Eldrich infection known"
+    },
+    {
+      "start_time": "00:08:41,760",
+      "end_time": "00:08:46,320",
+      "text": "as void stone sickness. I'm excited"
+    },
+    {
+      "start_time": "00:08:44,159",
+      "end_time": "00:08:48,480",
+      "text": "about the dark fantasy survival horror"
+    },
+    {
+      "start_time": "00:08:46,320",
+      "end_time": "00:08:50,000",
+      "text": "of the exiles of Deepold. There are"
+    },
+    {
+      "start_time": "00:08:48,480",
+      "end_time": "00:08:52,160",
+      "text": "spoilers I'm not even allowed to talk"
+    },
+    {
+      "start_time": "00:08:50,000",
+      "end_time": "00:08:54,640",
+      "text": "about that are that are blowing my mind,"
+    },
+    {
+      "start_time": "00:08:52,160",
+      "end_time": "00:08:56,320",
+      "text": "but I'm enthralled by the setting. Uh,"
+    },
+    {
+      "start_time": "00:08:54,640",
+      "end_time": "00:08:58,160",
+      "text": "we talked about the role a home base"
+    },
+    {
+      "start_time": "00:08:56,320",
+      "end_time": "00:09:00,640",
+      "text": "like Blackmore can play in a shared"
+    },
+    {
+      "start_time": "00:08:58,160",
+      "end_time": "00:09:03,040",
+      "text": "campaign world. In Dark Descent, Low"
+    },
+    {
+      "start_time": "00:09:00,640",
+      "end_time": "00:09:04,880",
+      "text": "Town, the botany bay of the Underdark,"
+    },
+    {
+      "start_time": "00:09:03,040",
+      "end_time": "00:09:07,279",
+      "text": "built into the ruins of an inverted"
+    },
+    {
+      "start_time": "00:09:04,880",
+      "end_time": "00:09:09,920",
+      "text": "ziggurat from the Anoch Empire, is"
+    },
+    {
+      "start_time": "00:09:07,279",
+      "end_time": "00:09:12,240",
+      "text": "absolutely perfect for this. populated"
+    },
+    {
+      "start_time": "00:09:09,920",
+      "end_time": "00:09:14,240",
+      "text": "by the criminals and discarded exiles of"
+    },
+    {
+      "start_time": "00:09:12,240",
+      "end_time": "00:09:16,880",
+      "text": "the surface world. It's a dim light of"
+    },
+    {
+      "start_time": "00:09:14,240",
+      "end_time": "00:09:19,920",
+      "text": "civilization in a sea of darkness. A"
+    },
+    {
+      "start_time": "00:09:16,880",
+      "end_time": "00:09:22,160",
+      "text": "tangled nest of factions, sins, and"
+    },
+    {
+      "start_time": "00:09:19,920",
+      "end_time": "00:09:24,880",
+      "text": "halfbroken dreams, perched in the middle"
+    },
+    {
+      "start_time": "00:09:22,160",
+      "end_time": "00:09:27,040",
+      "text": "of vast ruins and strange realms."
+    },
+    {
+      "start_time": "00:09:24,880",
+      "end_time": "00:09:29,360",
+      "text": "Countless expeditions can be sent out"
+    },
+    {
+      "start_time": "00:09:27,040",
+      "end_time": "00:09:31,839",
+      "text": "into those stigian expanses, unlocking"
+    },
+    {
+      "start_time": "00:09:29,360",
+      "end_time": "00:09:34,399",
+      "text": "secrets, both thrilling and terrifying."
+    },
+    {
+      "start_time": "00:09:31,839",
+      "end_time": "00:09:36,560",
+      "text": "And who can say what fate your players"
+    },
+    {
+      "start_time": "00:09:34,399",
+      "end_time": "00:09:38,959",
+      "text": "will carve out for themselves down here,"
+    },
+    {
+      "start_time": "00:09:36,560",
+      "end_time": "00:09:42,080",
+      "text": "shaping the destiny of what Low Town and"
+    },
+    {
+      "start_time": "00:09:38,959",
+      "end_time": "00:09:43,680",
+      "text": "all of Deepold may become. So, let's say"
+    },
+    {
+      "start_time": "00:09:42,080",
+      "end_time": "00:09:45,680",
+      "text": "that you hit the Kickstarter link in the"
+    },
+    {
+      "start_time": "00:09:43,680",
+      "end_time": "00:09:47,760",
+      "text": "font of all knowledge down below. You"
+    },
+    {
+      "start_time": "00:09:45,680",
+      "end_time": "00:09:49,600",
+      "text": "grab your own copy of Dark Descent and"
+    },
+    {
+      "start_time": "00:09:47,760",
+      "end_time": "00:09:52,080",
+      "text": "you want to launch a shared campaign"
+    },
+    {
+      "start_time": "00:09:49,600",
+      "end_time": "00:09:54,160",
+      "text": "world based out of Lowtown. There are"
+    },
+    {
+      "start_time": "00:09:52,080",
+      "end_time": "00:09:57,360",
+      "text": "five key things you need to know to run"
+    },
+    {
+      "start_time": "00:09:54,160",
+      "end_time": "00:09:59,279",
+      "text": "a successful shared campaign. First, is"
+    },
+    {
+      "start_time": "00:09:57,360",
+      "end_time": "00:10:01,519",
+      "text": "this going to be an open table or a"
+    },
+    {
+      "start_time": "00:09:59,279",
+      "end_time": "00:10:03,200",
+      "text": "multi-table campaign? For season 4 of"
+    },
+    {
+      "start_time": "00:10:01,519",
+      "end_time": "00:10:05,760",
+      "text": "Critical Role, Brennan Lee Mulligan is"
+    },
+    {
+      "start_time": "00:10:03,200",
+      "end_time": "00:10:07,760",
+      "text": "running multiple tables. The 13 players"
+    },
+    {
+      "start_time": "00:10:05,760",
+      "end_time": "00:10:10,000",
+      "text": "have been split up into three dedicated"
+    },
+    {
+      "start_time": "00:10:07,760",
+      "end_time": "00:10:12,560",
+      "text": "groups based on their style of play. The"
+    },
+    {
+      "start_time": "00:10:10,000",
+      "end_time": "00:10:14,000",
+      "text": "soldiers, the seekers, and the schemers."
+    },
+    {
+      "start_time": "00:10:12,560",
+      "end_time": "00:10:15,440",
+      "text": "If you've got players who enjoy"
+    },
+    {
+      "start_time": "00:10:14,000",
+      "end_time": "00:10:17,360",
+      "text": "different ways of playing the game, this"
+    },
+    {
+      "start_time": "00:10:15,440",
+      "end_time": "00:10:19,360",
+      "text": "can be a great way to give everyone more"
+    },
+    {
+      "start_time": "00:10:17,360",
+      "end_time": "00:10:20,880",
+      "text": "of what they love best. But there are"
+    },
+    {
+      "start_time": "00:10:19,360",
+      "end_time": "00:10:22,880",
+      "text": "other ways to think about the focus of"
+    },
+    {
+      "start_time": "00:10:20,880",
+      "end_time": "00:10:24,720",
+      "text": "each table, too. In our lowtown"
+    },
+    {
+      "start_time": "00:10:22,880",
+      "end_time": "00:10:26,640",
+      "text": "campaign, for example, we might have one"
+    },
+    {
+      "start_time": "00:10:24,720",
+      "end_time": "00:10:28,640",
+      "text": "group going out to explore the unknown"
+    },
+    {
+      "start_time": "00:10:26,640",
+      "end_time": "00:10:30,880",
+      "text": "reaches of the deepold, while another"
+    },
+    {
+      "start_time": "00:10:28,640",
+      "end_time": "00:10:33,360",
+      "text": "stays in town, enshed in the political"
+    },
+    {
+      "start_time": "00:10:30,880",
+      "end_time": "00:10:36,160",
+      "text": "machinations of House Talona, the red"
+    },
+    {
+      "start_time": "00:10:33,360",
+      "end_time": "00:10:38,079",
+      "text": "ladies, and Vzano, the bandit king. Now,"
+    },
+    {
+      "start_time": "00:10:36,160",
+      "end_time": "00:10:40,079",
+      "text": "the other option, though, is an open"
+    },
+    {
+      "start_time": "00:10:38,079",
+      "end_time": "00:10:41,680",
+      "text": "table. Instead of the soldiers always"
+    },
+    {
+      "start_time": "00:10:40,079",
+      "end_time": "00:10:43,279",
+      "text": "playing at the soldiers table and the"
+    },
+    {
+      "start_time": "00:10:41,680",
+      "end_time": "00:10:45,680",
+      "text": "seekers always playing with the other"
+    },
+    {
+      "start_time": "00:10:43,279",
+      "end_time": "00:10:48,320",
+      "text": "seekers in an open table the players"
+    },
+    {
+      "start_time": "00:10:45,680",
+      "end_time": "00:10:50,160",
+      "text": "freely mix and match and importantly can"
+    },
+    {
+      "start_time": "00:10:48,320",
+      "end_time": "00:10:51,519",
+      "text": "play when they're available and skip the"
+    },
+    {
+      "start_time": "00:10:50,160",
+      "end_time": "00:10:53,440",
+      "text": "sessions when they're not without"
+    },
+    {
+      "start_time": "00:10:51,519",
+      "end_time": "00:10:56,160",
+      "text": "affecting everyone else's ability to"
+    },
+    {
+      "start_time": "00:10:53,440",
+      "end_time": "00:10:58,160",
+      "text": "play. This gives open tables an immense"
+    },
+    {
+      "start_time": "00:10:56,160",
+      "end_time": "00:11:00,560",
+      "text": "scheduling flexibility and also the"
+    },
+    {
+      "start_time": "00:10:58,160",
+      "end_time": "00:11:02,959",
+      "text": "ability to support truly huge numbers of"
+    },
+    {
+      "start_time": "00:11:00,560",
+      "end_time": "00:11:04,640",
+      "text": "players. This is how Onison and Gyax"
+    },
+    {
+      "start_time": "00:11:02,959",
+      "end_time": "00:11:06,880",
+      "text": "played, and it's why the original D&D"
+    },
+    {
+      "start_time": "00:11:04,640",
+      "end_time": "00:11:09,440",
+      "text": "rulebook talked about a campaign having"
+    },
+    {
+      "start_time": "00:11:06,880",
+      "end_time": "00:11:11,519",
+      "text": "50 or more players. When I ran my first"
+    },
+    {
+      "start_time": "00:11:09,440",
+      "end_time": "00:11:13,440",
+      "text": "open table, it grew to have more than 60"
+    },
+    {
+      "start_time": "00:11:11,519",
+      "end_time": "00:11:16,000",
+      "text": "active players. And my new Mothership"
+    },
+    {
+      "start_time": "00:11:13,440",
+      "end_time": "00:11:17,760",
+      "text": "Open Table has 20 players participating."
+    },
+    {
+      "start_time": "00:11:16,000",
+      "end_time": "00:11:19,519",
+      "text": "Running an Open Table has a number of"
+    },
+    {
+      "start_time": "00:11:17,760",
+      "end_time": "00:11:21,279",
+      "text": "unique challenges and opportunities. And"
+    },
+    {
+      "start_time": "00:11:19,519",
+      "end_time": "00:11:23,360",
+      "text": "I'm going to be doing a video deep dive"
+    },
+    {
+      "start_time": "00:11:21,279",
+      "end_time": "00:11:25,440",
+      "text": "on the topic next month. So, if you want"
+    },
+    {
+      "start_time": "00:11:23,360",
+      "end_time": "00:11:27,360",
+      "text": "to learn how to run your own Open Table,"
+    },
+    {
+      "start_time": "00:11:25,440",
+      "end_time": "00:11:29,040",
+      "text": "subscribe. And in the meantime, when"
+    },
+    {
+      "start_time": "00:11:27,360",
+      "end_time": "00:11:31,440",
+      "text": "this video is done, you can also check"
+    },
+    {
+      "start_time": "00:11:29,040",
+      "end_time": "00:11:33,600",
+      "text": "out the open table manifesto in the font"
+    },
+    {
+      "start_time": "00:11:31,440",
+      "end_time": "00:11:35,120",
+      "text": "of all knowledge. But for right now, the"
+    },
+    {
+      "start_time": "00:11:33,600",
+      "end_time": "00:11:36,800",
+      "text": "next thing to consider is whether your"
+    },
+    {
+      "start_time": "00:11:35,120",
+      "end_time": "00:11:39,920",
+      "text": "shared campaign world is going to have"
+    },
+    {
+      "start_time": "00:11:36,800",
+      "end_time": "00:11:41,680",
+      "text": "one GM or multiple GMs. The advantage of"
+    },
+    {
+      "start_time": "00:11:39,920",
+      "end_time": "00:11:44,240",
+      "text": "multiple GMs is that you can split up"
+    },
+    {
+      "start_time": "00:11:41,680",
+      "end_time": "00:11:46,720",
+      "text": "the load. Multiple GMs can prep more and"
+    },
+    {
+      "start_time": "00:11:44,240",
+      "end_time": "00:11:48,160",
+      "text": "run more sessions than a single GM can."
+    },
+    {
+      "start_time": "00:11:46,720",
+      "end_time": "00:11:50,000",
+      "text": "The drawback, of course, is that it"
+    },
+    {
+      "start_time": "00:11:48,160",
+      "end_time": "00:11:51,839",
+      "text": "takes extra effort to coordinate with"
+    },
+    {
+      "start_time": "00:11:50,000",
+      "end_time": "00:11:53,839",
+      "text": "the other GMs and and make sure all the"
+    },
+    {
+      "start_time": "00:11:51,839",
+      "end_time": "00:11:55,440",
+      "text": "continuity between groups and sessions"
+    },
+    {
+      "start_time": "00:11:53,839",
+      "end_time": "00:11:57,200",
+      "text": "matches up. There are some tricks you"
+    },
+    {
+      "start_time": "00:11:55,440",
+      "end_time": "00:11:59,040",
+      "text": "can use to simplify this though. Uh, for"
+    },
+    {
+      "start_time": "00:11:57,200",
+      "end_time": "00:12:00,800",
+      "text": "example, if you divide the campaign"
+    },
+    {
+      "start_time": "00:11:59,040",
+      "end_time": "00:12:03,120",
+      "text": "world up into separate sections and give"
+    },
+    {
+      "start_time": "00:12:00,800",
+      "end_time": "00:12:05,360",
+      "text": "each GM exclusive dominion over their"
+    },
+    {
+      "start_time": "00:12:03,120",
+      "end_time": "00:12:07,040",
+      "text": "own section, you can dramatically reduce"
+    },
+    {
+      "start_time": "00:12:05,360",
+      "end_time": "00:12:09,200",
+      "text": "the amount of information they need to"
+    },
+    {
+      "start_time": "00:12:07,040",
+      "end_time": "00:12:10,959",
+      "text": "swap back and forth between them. For"
+    },
+    {
+      "start_time": "00:12:09,200",
+      "end_time": "00:12:13,360",
+      "text": "example, although designed for a"
+    },
+    {
+      "start_time": "00:12:10,959",
+      "end_time": "00:12:15,760",
+      "text": "dedicated table, the new D&D starter"
+    },
+    {
+      "start_time": "00:12:13,360",
+      "end_time": "00:12:18,079",
+      "text": "set, Heroes of the Borderlands, divides"
+    },
+    {
+      "start_time": "00:12:15,760",
+      "end_time": "00:12:20,399",
+      "text": "the Borderlands into three sections, the"
+    },
+    {
+      "start_time": "00:12:18,079",
+      "end_time": "00:12:23,120",
+      "text": "keep on the borderlands, the wilderness,"
+    },
+    {
+      "start_time": "00:12:20,399",
+      "end_time": "00:12:25,519",
+      "text": "and the caves of chaos. Now, instead of"
+    },
+    {
+      "start_time": "00:12:23,120",
+      "end_time": "00:12:27,120",
+      "text": "having a single DM, you can give each of"
+    },
+    {
+      "start_time": "00:12:25,519",
+      "end_time": "00:12:29,760",
+      "text": "these adventure books to a different"
+    },
+    {
+      "start_time": "00:12:27,120",
+      "end_time": "00:12:32,160",
+      "text": "dungeon master. When the players go to"
+    },
+    {
+      "start_time": "00:12:29,760",
+      "end_time": "00:12:33,760",
+      "text": "the keep, Julia runs those adventures."
+    },
+    {
+      "start_time": "00:12:32,160",
+      "end_time": "00:12:35,120",
+      "text": "And when they leave the keep and want to"
+    },
+    {
+      "start_time": "00:12:33,760",
+      "end_time": "00:12:36,560",
+      "text": "check out the strange ruins they've"
+    },
+    {
+      "start_time": "00:12:35,120",
+      "end_time": "00:12:38,399",
+      "text": "heard about in the woods, that's when"
+    },
+    {
+      "start_time": "00:12:36,560",
+      "end_time": "00:12:40,800",
+      "text": "Asante can take over and run the"
+    },
+    {
+      "start_time": "00:12:38,399",
+      "end_time": "00:12:42,480",
+      "text": "adventures in his book. Now, this also"
+    },
+    {
+      "start_time": "00:12:40,800",
+      "end_time": "00:12:44,160",
+      "text": "means that Julia could jump in and play"
+    },
+    {
+      "start_time": "00:12:42,480",
+      "end_time": "00:12:46,320",
+      "text": "her character when the group moves into"
+    },
+    {
+      "start_time": "00:12:44,160",
+      "end_time": "00:12:49,120",
+      "text": "the wilderness and and vice versa for"
+    },
+    {
+      "start_time": "00:12:46,320",
+      "end_time": "00:12:50,800",
+      "text": "Asante. Similarly, Dave Arnes eventually"
+    },
+    {
+      "start_time": "00:12:49,120",
+      "end_time": "00:12:52,720",
+      "text": "added more dungeon masters to the"
+    },
+    {
+      "start_time": "00:12:50,800",
+      "end_time": "00:12:54,240",
+      "text": "original Blackmore campaign, but at"
+    },
+    {
+      "start_time": "00:12:52,720",
+      "end_time": "00:12:56,399",
+      "text": "least at first, they were running their"
+    },
+    {
+      "start_time": "00:12:54,240",
+      "end_time": "00:12:58,240",
+      "text": "own dungeons. Players characters would"
+    },
+    {
+      "start_time": "00:12:56,399",
+      "end_time": "00:12:59,680",
+      "text": "literally travel from Arnison's"
+    },
+    {
+      "start_time": "00:12:58,240",
+      "end_time": "00:13:01,680",
+      "text": "Blackmore to Greg Spencenson's"
+    },
+    {
+      "start_time": "00:12:59,680",
+      "end_time": "00:13:03,040",
+      "text": "Tonixborg, for example, at which point"
+    },
+    {
+      "start_time": "00:13:01,680",
+      "end_time": "00:13:05,279",
+      "text": "Greg would be able to run them through"
+    },
+    {
+      "start_time": "00:13:03,040",
+      "end_time": "00:13:07,519",
+      "text": "the adventures he had created there. For"
+    },
+    {
+      "start_time": "00:13:05,279",
+      "end_time": "00:13:09,279",
+      "text": "our Dark Descent campaign, we might have"
+    },
+    {
+      "start_time": "00:13:07,519",
+      "end_time": "00:13:11,519",
+      "text": "one game master who runs adventures in"
+    },
+    {
+      "start_time": "00:13:09,279",
+      "end_time": "00:13:13,920",
+      "text": "Lowtown and another game master who runs"
+    },
+    {
+      "start_time": "00:13:11,519",
+      "end_time": "00:13:15,519",
+      "text": "expeditions out into the deepold. I"
+    },
+    {
+      "start_time": "00:13:13,920",
+      "end_time": "00:13:17,600",
+      "text": "mean, alternatively, we could slice the"
+    },
+    {
+      "start_time": "00:13:15,519",
+      "end_time": "00:13:19,440",
+      "text": "Deep Hold up into quadrants and assign"
+    },
+    {
+      "start_time": "00:13:17,600",
+      "end_time": "00:13:21,360",
+      "text": "each quadrant to a different game"
+    },
+    {
+      "start_time": "00:13:19,440",
+      "end_time": "00:13:22,959",
+      "text": "master. Players might decide ahead of"
+    },
+    {
+      "start_time": "00:13:21,360",
+      "end_time": "00:13:24,880",
+      "text": "time what type of adventure they want to"
+    },
+    {
+      "start_time": "00:13:22,959",
+      "end_time": "00:13:26,880",
+      "text": "run. Okay, we want to head back out and"
+    },
+    {
+      "start_time": "00:13:24,880",
+      "end_time": "00:13:28,639",
+      "text": "explore those fleshcraft laboratories,"
+    },
+    {
+      "start_time": "00:13:26,880",
+      "end_time": "00:13:31,279",
+      "text": "right? So, we'll need to schedule a"
+    },
+    {
+      "start_time": "00:13:28,639",
+      "end_time": "00:13:33,680",
+      "text": "session with Julia next time. Or if both"
+    },
+    {
+      "start_time": "00:13:31,279",
+      "end_time": "00:13:35,519",
+      "text": "GMs are available, they might swap out"
+    },
+    {
+      "start_time": "00:13:33,680",
+      "end_time": "00:13:37,120",
+      "text": "in the middle of a session depending on"
+    },
+    {
+      "start_time": "00:13:35,519",
+      "end_time": "00:13:38,800",
+      "text": "where the PCs are going at any"
+    },
+    {
+      "start_time": "00:13:37,120",
+      "end_time": "00:13:40,639",
+      "text": "particular moment. Now, with all this"
+    },
+    {
+      "start_time": "00:13:38,800",
+      "end_time": "00:13:42,880",
+      "text": "table swapping and session swapping"
+    },
+    {
+      "start_time": "00:13:40,639",
+      "end_time": "00:13:45,279",
+      "text": "going on, we come to another important"
+    },
+    {
+      "start_time": "00:13:42,880",
+      "end_time": "00:13:47,680",
+      "text": "question. How many characters should one"
+    },
+    {
+      "start_time": "00:13:45,279",
+      "end_time": "00:13:49,920",
+      "text": "player play? In most dedicated single"
+    },
+    {
+      "start_time": "00:13:47,680",
+      "end_time": "00:13:52,399",
+      "text": "group campaigns, the expectation is that"
+    },
+    {
+      "start_time": "00:13:49,920",
+      "end_time": "00:13:54,079",
+      "text": "each player has one character, their"
+    },
+    {
+      "start_time": "00:13:52,399",
+      "end_time": "00:13:55,680",
+      "text": "character. And maybe they'll create a"
+    },
+    {
+      "start_time": "00:13:54,079",
+      "end_time": "00:13:57,440",
+      "text": "new character if that one dies or"
+    },
+    {
+      "start_time": "00:13:55,680",
+      "end_time": "00:13:59,839",
+      "text": "retires for some reason, but they'll"
+    },
+    {
+      "start_time": "00:13:57,440",
+      "end_time": "00:14:02,000",
+      "text": "still only have one character at a time."
+    },
+    {
+      "start_time": "00:13:59,839",
+      "end_time": "00:14:04,959",
+      "text": "Chris is playing Kora. Heather's playing"
+    },
+    {
+      "start_time": "00:14:02,000",
+      "end_time": "00:14:06,639",
+      "text": "Kitty Soth. That's it. Even in a"
+    },
+    {
+      "start_time": "00:14:04,959",
+      "end_time": "00:14:08,480",
+      "text": "dedicated campaign, though, there can be"
+    },
+    {
+      "start_time": "00:14:06,639",
+      "end_time": "00:14:10,000",
+      "text": "exceptions to this. For example, I have"
+    },
+    {
+      "start_time": "00:14:08,480",
+      "end_time": "00:14:11,920",
+      "text": "a video about how players can run"
+    },
+    {
+      "start_time": "00:14:10,000",
+      "end_time": "00:14:14,000",
+      "text": "spectacular sidekicks by running"
+    },
+    {
+      "start_time": "00:14:11,920",
+      "end_time": "00:14:16,160",
+      "text": "multiple characters at the same time."
+    },
+    {
+      "start_time": "00:14:14,000",
+      "end_time": "00:14:18,000",
+      "text": "And games like RS Magica feature troop"
+    },
+    {
+      "start_time": "00:14:16,160",
+      "end_time": "00:14:20,399",
+      "text": "style play, which will be the topic of"
+    },
+    {
+      "start_time": "00:14:18,000",
+      "end_time": "00:14:22,399",
+      "text": "another upcoming video. In troop play,"
+    },
+    {
+      "start_time": "00:14:20,399",
+      "end_time": "00:14:24,560",
+      "text": "each player has multiple characters and"
+    },
+    {
+      "start_time": "00:14:22,399",
+      "end_time": "00:14:26,320",
+      "text": "chooses which character to play for each"
+    },
+    {
+      "start_time": "00:14:24,560",
+      "end_time": "00:14:28,720",
+      "text": "adventure. But these are obviously the"
+    },
+    {
+      "start_time": "00:14:26,320",
+      "end_time": "00:14:31,360",
+      "text": "exception, not the rule in dedicated"
+    },
+    {
+      "start_time": "00:14:28,720",
+      "end_time": "00:14:33,199",
+      "text": "single table campaigns. In a multi-table"
+    },
+    {
+      "start_time": "00:14:31,360",
+      "end_time": "00:14:35,040",
+      "text": "campaign though, some players might play"
+    },
+    {
+      "start_time": "00:14:33,199",
+      "end_time": "00:14:36,959",
+      "text": "a multiple tables running different"
+    },
+    {
+      "start_time": "00:14:35,040",
+      "end_time": "00:14:38,720",
+      "text": "characters at each one. And in an open"
+    },
+    {
+      "start_time": "00:14:36,959",
+      "end_time": "00:14:41,279",
+      "text": "table, we often talk about players"
+    },
+    {
+      "start_time": "00:14:38,720",
+      "end_time": "00:14:42,639",
+      "text": "having a stable of characters. Since the"
+    },
+    {
+      "start_time": "00:14:41,279",
+      "end_time": "00:14:44,320",
+      "text": "structure of the campaign is already"
+    },
+    {
+      "start_time": "00:14:42,639",
+      "end_time": "00:14:46,320",
+      "text": "flexible about who's playing in each"
+    },
+    {
+      "start_time": "00:14:44,320",
+      "end_time": "00:14:48,240",
+      "text": "session, it's just as easy for one"
+    },
+    {
+      "start_time": "00:14:46,320",
+      "end_time": "00:14:50,079",
+      "text": "person to pick any one of their five"
+    },
+    {
+      "start_time": "00:14:48,240",
+      "end_time": "00:14:52,000",
+      "text": "different characters to play as it is"
+    },
+    {
+      "start_time": "00:14:50,079",
+      "end_time": "00:14:53,839",
+      "text": "for any one of five different players to"
+    },
+    {
+      "start_time": "00:14:52,000",
+      "end_time": "00:14:55,760",
+      "text": "show up for a particular night."
+    },
+    {
+      "start_time": "00:14:53,839",
+      "end_time": "00:14:57,600",
+      "text": "Depending on the exact form your shared"
+    },
+    {
+      "start_time": "00:14:55,760",
+      "end_time": "00:14:59,839",
+      "text": "world takes, you may discover strong"
+    },
+    {
+      "start_time": "00:14:57,600",
+      "end_time": "00:15:02,720",
+      "text": "reasons for preferring single PCs or"
+    },
+    {
+      "start_time": "00:14:59,839",
+      "end_time": "00:15:04,639",
+      "text": "multiple PCs, but often either will work"
+    },
+    {
+      "start_time": "00:15:02,720",
+      "end_time": "00:15:06,639",
+      "text": "depending on the preferences of the GM,"
+    },
+    {
+      "start_time": "00:15:04,639",
+      "end_time": "00:15:07,839",
+      "text": "the group, and the individual player."
+    },
+    {
+      "start_time": "00:15:06,639",
+      "end_time": "00:15:10,320",
+      "text": "So, the next thing you need to think"
+    },
+    {
+      "start_time": "00:15:07,839",
+      "end_time": "00:15:12,000",
+      "text": "about in a shared world is continuity. I"
+    },
+    {
+      "start_time": "00:15:10,320",
+      "end_time": "00:15:13,839",
+      "text": "mean, group A is doing stuff at the same"
+    },
+    {
+      "start_time": "00:15:12,000",
+      "end_time": "00:15:15,440",
+      "text": "time stuff is happening with group B,"
+    },
+    {
+      "start_time": "00:15:13,839",
+      "end_time": "00:15:17,680",
+      "text": "and you need to make sure it all, you"
+    },
+    {
+      "start_time": "00:15:15,440",
+      "end_time": "00:15:19,440",
+      "text": "know, fits together and and makes sense."
+    },
+    {
+      "start_time": "00:15:17,680",
+      "end_time": "00:15:21,440",
+      "text": "I mean, otherwise, what's the point of"
+    },
+    {
+      "start_time": "00:15:19,440",
+      "end_time": "00:15:22,959",
+      "text": "all this? If group A burns down a"
+    },
+    {
+      "start_time": "00:15:21,440",
+      "end_time": "00:15:24,800",
+      "text": "building in one session, group B"
+    },
+    {
+      "start_time": "00:15:22,959",
+      "end_time": "00:15:26,880",
+      "text": "shouldn't find it completely unharmed"
+    },
+    {
+      "start_time": "00:15:24,800",
+      "end_time": "00:15:28,320",
+      "text": "the next day. If Christina and Heather"
+    },
+    {
+      "start_time": "00:15:26,880",
+      "end_time": "00:15:29,839",
+      "text": "are chatting about the campaign, they"
+    },
+    {
+      "start_time": "00:15:28,320",
+      "end_time": "00:15:31,519",
+      "text": "they shouldn't discover that both of"
+    },
+    {
+      "start_time": "00:15:29,839",
+      "end_time": "00:15:33,440",
+      "text": "their characters pulled the same sword"
+    },
+    {
+      "start_time": "00:15:31,519",
+      "end_time": "00:15:34,959",
+      "text": "from the stone. There are sort of three"
+    },
+    {
+      "start_time": "00:15:33,440",
+      "end_time": "00:15:37,680",
+      "text": "main things to think about when it comes"
+    },
+    {
+      "start_time": "00:15:34,959",
+      "end_time": "00:15:39,519",
+      "text": "to continuity like this. First, keeping"
+    },
+    {
+      "start_time": "00:15:37,680",
+      "end_time": "00:15:41,440",
+      "text": "time synced. You don't have to keep"
+    },
+    {
+      "start_time": "00:15:39,519",
+      "end_time": "00:15:42,560",
+      "text": "multiple tables in perfect lock step"
+    },
+    {
+      "start_time": "00:15:41,440",
+      "end_time": "00:15:44,480",
+      "text": "with each other, but you do"
+    },
+    {
+      "start_time": "00:15:42,560",
+      "end_time": "00:15:46,880",
+      "text": "fundamentally need to know whether event"
+    },
+    {
+      "start_time": "00:15:44,480",
+      "end_time": "00:15:48,720",
+      "text": "A from table one happened before or"
+    },
+    {
+      "start_time": "00:15:46,880",
+      "end_time": "00:15:51,440",
+      "text": "after what's currently happening at"
+    },
+    {
+      "start_time": "00:15:48,720",
+      "end_time": "00:15:52,959",
+      "text": "table two. Gary Gyax infamously wrote"
+    },
+    {
+      "start_time": "00:15:51,440",
+      "end_time": "00:15:55,040",
+      "text": "that you cannot have a meaningful"
+    },
+    {
+      "start_time": "00:15:52,959",
+      "end_time": "00:15:56,880",
+      "text": "campaign if strict time records are not"
+    },
+    {
+      "start_time": "00:15:55,040",
+      "end_time": "00:15:59,120",
+      "text": "kept. And the fact he was running open"
+    },
+    {
+      "start_time": "00:15:56,880",
+      "end_time": "00:16:00,720",
+      "text": "tables is one of the reasons why he said"
+    },
+    {
+      "start_time": "00:15:59,120",
+      "end_time": "00:16:03,040",
+      "text": "it. Now, the other thing to keep in mind"
+    },
+    {
+      "start_time": "00:16:00,720",
+      "end_time": "00:16:05,279",
+      "text": "about cross table continuity is that you"
+    },
+    {
+      "start_time": "00:16:03,040",
+      "end_time": "00:16:07,279",
+      "text": "want to show the effect. If group A"
+    },
+    {
+      "start_time": "00:16:05,279",
+      "end_time": "00:16:09,199",
+      "text": "actually does blow up a building, or I"
+    },
+    {
+      "start_time": "00:16:07,279",
+      "end_time": "00:16:11,440",
+      "text": "guess you know, more likely when they"
+    },
+    {
+      "start_time": "00:16:09,199",
+      "end_time": "00:16:13,600",
+      "text": "blow up a building, then you want group"
+    },
+    {
+      "start_time": "00:16:11,440",
+      "end_time": "00:16:15,120",
+      "text": "B to see the smoking ruins. In fact,"
+    },
+    {
+      "start_time": "00:16:13,600",
+      "end_time": "00:16:17,120",
+      "text": "depending on the strict time records"
+    },
+    {
+      "start_time": "00:16:15,120",
+      "end_time": "00:16:18,560",
+      "text": "you're keeping, they might even hear the"
+    },
+    {
+      "start_time": "00:16:17,120",
+      "end_time": "00:16:21,120",
+      "text": "explosion in the middle of their next"
+    },
+    {
+      "start_time": "00:16:18,560",
+      "end_time": "00:16:23,199",
+      "text": "session. These shared events will become"
+    },
+    {
+      "start_time": "00:16:21,120",
+      "end_time": "00:16:24,639",
+      "text": "more common the closer the groups are to"
+    },
+    {
+      "start_time": "00:16:23,199",
+      "end_time": "00:16:26,800",
+      "text": "each other in the setting. But the"
+    },
+    {
+      "start_time": "00:16:24,639",
+      "end_time": "00:16:29,040",
+      "text": "larger the event, the the farther away"
+    },
+    {
+      "start_time": "00:16:26,800",
+      "end_time": "00:16:30,800",
+      "text": "its effects will be felt. And a truly"
+    },
+    {
+      "start_time": "00:16:29,040",
+      "end_time": "00:16:32,639",
+      "text": "cataclysmic event might be felt"
+    },
+    {
+      "start_time": "00:16:30,800",
+      "end_time": "00:16:34,639",
+      "text": "throughout the multiverse. Now,"
+    },
+    {
+      "start_time": "00:16:32,639",
+      "end_time": "00:16:36,639",
+      "text": "conversely, this means that continuity"
+    },
+    {
+      "start_time": "00:16:34,639",
+      "end_time": "00:16:39,120",
+      "text": "becomes easier to juggle the farther"
+    },
+    {
+      "start_time": "00:16:36,639",
+      "end_time": "00:16:41,279",
+      "text": "apart the PCs are. It also becomes"
+    },
+    {
+      "start_time": "00:16:39,120",
+      "end_time": "00:16:43,519",
+      "text": "easier the more closely synced their"
+    },
+    {
+      "start_time": "00:16:41,279",
+      "end_time": "00:16:45,600",
+      "text": "timelines are. This is because if our"
+    },
+    {
+      "start_time": "00:16:43,519",
+      "end_time": "00:16:47,759",
+      "text": "lowtown group gets 3 months ahead of our"
+    },
+    {
+      "start_time": "00:16:45,600",
+      "end_time": "00:16:50,160",
+      "text": "deep hold explorers, for example, then"
+    },
+    {
+      "start_time": "00:16:47,759",
+      "end_time": "00:16:51,920",
+      "text": "when the explorers return to town, we"
+    },
+    {
+      "start_time": "00:16:50,160",
+      "end_time": "00:16:54,480",
+      "text": "can end up with a ton of established"
+    },
+    {
+      "start_time": "00:16:51,920",
+      "end_time": "00:16:56,480",
+      "text": "continuity the next 3 months of events"
+    },
+    {
+      "start_time": "00:16:54,480",
+      "end_time": "00:16:58,800",
+      "text": "that the deep hold explorers aren't"
+    },
+    {
+      "start_time": "00:16:56,480",
+      "end_time": "00:17:00,399",
+      "text": "allowed to interfere with. It becomes a"
+    },
+    {
+      "start_time": "00:16:58,800",
+      "end_time": "00:17:02,800",
+      "text": "straight jacket and it can be difficult"
+    },
+    {
+      "start_time": "00:17:00,399",
+      "end_time": "00:17:04,559",
+      "text": "to navigate. On the other hand, if the"
+    },
+    {
+      "start_time": "00:17:02,800",
+      "end_time": "00:17:07,280",
+      "text": "Deepold group gets three months ahead"
+    },
+    {
+      "start_time": "00:17:04,559",
+      "end_time": "00:17:09,199",
+      "text": "and comes back to town, well, what"
+    },
+    {
+      "start_time": "00:17:07,280",
+      "end_time": "00:17:12,400",
+      "text": "should town even look like? At this"
+    },
+    {
+      "start_time": "00:17:09,199",
+      "end_time": "00:17:14,079",
+      "text": "point, our Lowtown group is slash was in"
+    },
+    {
+      "start_time": "00:17:12,400",
+      "end_time": "00:17:16,400",
+      "text": "the middle of working with an undead"
+    },
+    {
+      "start_time": "00:17:14,079",
+      "end_time": "00:17:19,120",
+      "text": "Anac noble to assassinate the bandit"
+    },
+    {
+      "start_time": "00:17:16,400",
+      "end_time": "00:17:21,280",
+      "text": "king with the help of a dark maiden."
+    },
+    {
+      "start_time": "00:17:19,120",
+      "end_time": "00:17:23,520",
+      "text": "Will they succeed? I mean, if so, Low"
+    },
+    {
+      "start_time": "00:17:21,280",
+      "end_time": "00:17:25,360",
+      "text": "Town is going to look very different 3"
+    },
+    {
+      "start_time": "00:17:23,520",
+      "end_time": "00:17:27,120",
+      "text": "months later when those explorers get"
+    },
+    {
+      "start_time": "00:17:25,360",
+      "end_time": "00:17:28,799",
+      "text": "back, which they're doing right now at"
+    },
+    {
+      "start_time": "00:17:27,120",
+      "end_time": "00:17:31,280",
+      "text": "their table. You can see how confusing"
+    },
+    {
+      "start_time": "00:17:28,799",
+      "end_time": "00:17:32,880",
+      "text": "this gets. So, the closer the PCs get to"
+    },
+    {
+      "start_time": "00:17:31,280",
+      "end_time": "00:17:34,640",
+      "text": "each other in a shared world, the more"
+    },
+    {
+      "start_time": "00:17:32,880",
+      "end_time": "00:17:36,400",
+      "text": "tightly you'll want their timelines to"
+    },
+    {
+      "start_time": "00:17:34,640",
+      "end_time": "00:17:38,320",
+      "text": "align. Things can desync, though, for"
+    },
+    {
+      "start_time": "00:17:36,400",
+      "end_time": "00:17:39,840",
+      "text": "any number of reasons. The the deepold"
+    },
+    {
+      "start_time": "00:17:38,320",
+      "end_time": "00:17:41,600",
+      "text": "group might have scheduling issues,"
+    },
+    {
+      "start_time": "00:17:39,840",
+      "end_time": "00:17:43,039",
+      "text": "allowing the lowtown group to surge"
+    },
+    {
+      "start_time": "00:17:41,600",
+      "end_time": "00:17:44,799",
+      "text": "ahead of them. On the other hand, the"
+    },
+    {
+      "start_time": "00:17:43,039",
+      "end_time": "00:17:46,640",
+      "text": "deepold group does a lot more traveling"
+    },
+    {
+      "start_time": "00:17:44,799",
+      "end_time": "00:17:48,400",
+      "text": "than the lowtown group, which can chew"
+    },
+    {
+      "start_time": "00:17:46,640",
+      "end_time": "00:17:50,320",
+      "text": "up a lot more of game world time in a"
+    },
+    {
+      "start_time": "00:17:48,400",
+      "end_time": "00:17:52,559",
+      "text": "single session. Travel times, though,"
+    },
+    {
+      "start_time": "00:17:50,320",
+      "end_time": "00:17:54,480",
+      "text": "can also work to your advantage. With"
+    },
+    {
+      "start_time": "00:17:52,559",
+      "end_time": "00:17:56,720",
+      "text": "very little effort, you can fudge travel"
+    },
+    {
+      "start_time": "00:17:54,480",
+      "end_time": "00:17:58,480",
+      "text": "times around to help reync your groups."
+    },
+    {
+      "start_time": "00:17:56,720",
+      "end_time": "00:18:00,400",
+      "text": "Or you can give a group that's falling"
+    },
+    {
+      "start_time": "00:17:58,480",
+      "end_time": "00:18:02,799",
+      "text": "behind a scenario hook that requires"
+    },
+    {
+      "start_time": "00:18:00,400",
+      "end_time": "00:18:04,720",
+      "text": "some some uneventful but time-consuming"
+    },
+    {
+      "start_time": "00:18:02,799",
+      "end_time": "00:18:06,559",
+      "text": "travel so that they can catch up to a"
+    },
+    {
+      "start_time": "00:18:04,720",
+      "end_time": "00:18:08,080",
+      "text": "group that's gotten ahead of them. For"
+    },
+    {
+      "start_time": "00:18:06,559",
+      "end_time": "00:18:09,760",
+      "text": "similar reasons, the time between"
+    },
+    {
+      "start_time": "00:18:08,080",
+      "end_time": "00:18:11,360",
+      "text": "adventures can really be your friend"
+    },
+    {
+      "start_time": "00:18:09,760",
+      "end_time": "00:18:13,120",
+      "text": "here. When it comes to helping a group"
+    },
+    {
+      "start_time": "00:18:11,360",
+      "end_time": "00:18:15,280",
+      "text": "catch up, there's nothing faster than"
+    },
+    {
+      "start_time": "00:18:13,120",
+      "end_time": "00:18:17,280",
+      "text": "saying, \"It's been 3 months since you"
+    },
+    {
+      "start_time": "00:18:15,280",
+      "end_time": "00:18:19,600",
+      "text": "slayed the voidworm.\" Some games use"
+    },
+    {
+      "start_time": "00:18:17,280",
+      "end_time": "00:18:22,000",
+      "text": "adventure terms. For example, Ars Magica"
+    },
+    {
+      "start_time": "00:18:19,600",
+      "end_time": "00:18:23,919",
+      "text": "uses seasonbased play in which PCs can"
+    },
+    {
+      "start_time": "00:18:22,000",
+      "end_time": "00:18:25,679",
+      "text": "only go on a single adventure each"
+    },
+    {
+      "start_time": "00:18:23,919",
+      "end_time": "00:18:27,760",
+      "text": "season. These can actually greatly"
+    },
+    {
+      "start_time": "00:18:25,679",
+      "end_time": "00:18:30,080",
+      "text": "exacerbate desynchronization between"
+    },
+    {
+      "start_time": "00:18:27,760",
+      "end_time": "00:18:32,400",
+      "text": "tables since it forces everyone into the"
+    },
+    {
+      "start_time": "00:18:30,080",
+      "end_time": "00:18:34,320",
+      "text": "same cadence of adventures. But if the"
+    },
+    {
+      "start_time": "00:18:32,400",
+      "end_time": "00:18:36,320",
+      "text": "game also offers alternatives to"
+    },
+    {
+      "start_time": "00:18:34,320",
+      "end_time": "00:18:38,559",
+      "text": "adventure, which Ars Magicka does in the"
+    },
+    {
+      "start_time": "00:18:36,320",
+      "end_time": "00:18:40,080",
+      "text": "form of magical research, for example,"
+    },
+    {
+      "start_time": "00:18:38,559",
+      "end_time": "00:18:41,919",
+      "text": "then they can also provide a structure"
+    },
+    {
+      "start_time": "00:18:40,080",
+      "end_time": "00:18:43,679",
+      "text": "where characters that are falling behind"
+    },
+    {
+      "start_time": "00:18:41,919",
+      "end_time": "00:18:46,480",
+      "text": "can quickly speed through multiple"
+    },
+    {
+      "start_time": "00:18:43,679",
+      "end_time": "00:18:48,480",
+      "text": "seasons of play and catch up. Another"
+    },
+    {
+      "start_time": "00:18:46,480",
+      "end_time": "00:18:51,280",
+      "text": "method is to sync the game world to"
+    },
+    {
+      "start_time": "00:18:48,480",
+      "end_time": "00:18:52,799",
+      "text": "realworld time. If you go on a 3-month"
+    },
+    {
+      "start_time": "00:18:51,280",
+      "end_time": "00:18:54,720",
+      "text": "journey in a single session, that's"
+    },
+    {
+      "start_time": "00:18:52,799",
+      "end_time": "00:18:56,720",
+      "text": "fine, but your character will be locked"
+    },
+    {
+      "start_time": "00:18:54,720",
+      "end_time": "00:18:59,039",
+      "text": "down until the rest of the world catches"
+    },
+    {
+      "start_time": "00:18:56,720",
+      "end_time": "00:19:00,880",
+      "text": "up to them. This method is particularly"
+    },
+    {
+      "start_time": "00:18:59,039",
+      "end_time": "00:19:03,280",
+      "text": "useful for open tables, and I'll discuss"
+    },
+    {
+      "start_time": "00:19:00,880",
+      "end_time": "00:19:04,960",
+      "text": "that in more detail in that video. But"
+    },
+    {
+      "start_time": "00:19:03,280",
+      "end_time": "00:19:06,799",
+      "text": "whether you're syncing to the real world"
+    },
+    {
+      "start_time": "00:19:04,960",
+      "end_time": "00:19:09,440",
+      "text": "time or not, this is where having a"
+    },
+    {
+      "start_time": "00:19:06,799",
+      "end_time": "00:19:11,120",
+      "text": "stable of PCs can also be very useful."
+    },
+    {
+      "start_time": "00:19:09,440",
+      "end_time": "00:19:13,280",
+      "text": "Players who end up with a massively"
+    },
+    {
+      "start_time": "00:19:11,120",
+      "end_time": "00:19:15,120",
+      "text": "desynced character don't have to stop"
+    },
+    {
+      "start_time": "00:19:13,280",
+      "end_time": "00:19:16,880",
+      "text": "playing. they can just swap to a"
+    },
+    {
+      "start_time": "00:19:15,120",
+      "end_time": "00:19:19,840",
+      "text": "different character that's still in sync"
+    },
+    {
+      "start_time": "00:19:16,880",
+      "end_time": "00:19:21,919",
+      "text": "and help everyone else catch up. Which"
+    },
+    {
+      "start_time": "00:19:19,840",
+      "end_time": "00:19:24,480",
+      "text": "brings us to the final key for running"
+    },
+    {
+      "start_time": "00:19:21,919",
+      "end_time": "00:19:26,400",
+      "text": "shared worlds. How the PCs at the"
+    },
+    {
+      "start_time": "00:19:24,480",
+      "end_time": "00:19:28,559",
+      "text": "different tables interact with each"
+    },
+    {
+      "start_time": "00:19:26,400",
+      "end_time": "00:19:30,559",
+      "text": "other. Now, the simplest method is to"
+    },
+    {
+      "start_time": "00:19:28,559",
+      "end_time": "00:19:32,559",
+      "text": "simply leave the groups divided. The"
+    },
+    {
+      "start_time": "00:19:30,559",
+      "end_time": "00:19:34,559",
+      "text": "lowtown group plays their game. The"
+    },
+    {
+      "start_time": "00:19:32,559",
+      "end_time": "00:19:36,480",
+      "text": "deepold group plays theirs. They"
+    },
+    {
+      "start_time": "00:19:34,559",
+      "end_time": "00:19:38,320",
+      "text": "occasionally experience shared events"
+    },
+    {
+      "start_time": "00:19:36,480",
+      "end_time": "00:19:40,480",
+      "text": "and see evidence of what the other group"
+    },
+    {
+      "start_time": "00:19:38,320",
+      "end_time": "00:19:43,200",
+      "text": "is doing, but they're ultimately each"
+    },
+    {
+      "start_time": "00:19:40,480",
+      "end_time": "00:19:44,880",
+      "text": "playing their own game. You can spice"
+    },
+    {
+      "start_time": "00:19:43,200",
+      "end_time": "00:19:47,200",
+      "text": "things up though by adding special"
+    },
+    {
+      "start_time": "00:19:44,880",
+      "end_time": "00:19:48,880",
+      "text": "crossover sessions. These crossover"
+    },
+    {
+      "start_time": "00:19:47,200",
+      "end_time": "00:19:51,039",
+      "text": "sessions might feature just a couple of"
+    },
+    {
+      "start_time": "00:19:48,880",
+      "end_time": "00:19:53,360",
+      "text": "PCs jumping from one table to another"
+    },
+    {
+      "start_time": "00:19:51,039",
+      "end_time": "00:19:55,440",
+      "text": "and back. But it could also be an epic"
+    },
+    {
+      "start_time": "00:19:53,360",
+      "end_time": "00:19:57,280",
+      "text": "session with everyone playing at the"
+    },
+    {
+      "start_time": "00:19:55,440",
+      "end_time": "00:19:58,720",
+      "text": "same time. Crossover sessions are often"
+    },
+    {
+      "start_time": "00:19:57,280",
+      "end_time": "00:20:00,799",
+      "text": "something that a multi-table will build"
+    },
+    {
+      "start_time": "00:19:58,720",
+      "end_time": "00:20:02,640",
+      "text": "up to over time. But Critical Role"
+    },
+    {
+      "start_time": "00:20:00,799",
+      "end_time": "00:20:04,400",
+      "text": "launched their multi-table campaign with"
+    },
+    {
+      "start_time": "00:20:02,640",
+      "end_time": "00:20:06,240",
+      "text": "several overture sessions in which"
+    },
+    {
+      "start_time": "00:20:04,400",
+      "end_time": "00:20:07,919",
+      "text": "everyone played together before"
+    },
+    {
+      "start_time": "00:20:06,240",
+      "end_time": "00:20:09,840",
+      "text": "splitting up into the soldiers, the"
+    },
+    {
+      "start_time": "00:20:07,919",
+      "end_time": "00:20:11,520",
+      "text": "seekers, and the schemers. Of course,"
+    },
+    {
+      "start_time": "00:20:09,840",
+      "end_time": "00:20:13,200",
+      "text": "running a session for a dozen different"
+    },
+    {
+      "start_time": "00:20:11,520",
+      "end_time": "00:20:15,360",
+      "text": "players at the same time can be"
+    },
+    {
+      "start_time": "00:20:13,200",
+      "end_time": "00:20:17,200",
+      "text": "extremely challenging. The excitement of"
+    },
+    {
+      "start_time": "00:20:15,360",
+      "end_time": "00:20:18,880",
+      "text": "the crossover can make it worthwhile,"
+    },
+    {
+      "start_time": "00:20:17,200",
+      "end_time": "00:20:20,480",
+      "text": "but if your multi-table features"
+    },
+    {
+      "start_time": "00:20:18,880",
+      "end_time": "00:20:22,160",
+      "text": "multiple GMs and you're looking for"
+    },
+    {
+      "start_time": "00:20:20,480",
+      "end_time": "00:20:23,760",
+      "text": "something, you know, maybe a little more"
+    },
+    {
+      "start_time": "00:20:22,160",
+      "end_time": "00:20:26,480",
+      "text": "manageable, consider running a"
+    },
+    {
+      "start_time": "00:20:23,760",
+      "end_time": "00:20:28,640",
+      "text": "multi-prong scenario. These scenarios"
+    },
+    {
+      "start_time": "00:20:26,480",
+      "end_time": "00:20:30,559",
+      "text": "look like the end of the Phantom Menace."
+    },
+    {
+      "start_time": "00:20:28,640",
+      "end_time": "00:20:32,400",
+      "text": "One group is fighting the droid army,"
+    },
+    {
+      "start_time": "00:20:30,559",
+      "end_time": "00:20:34,159",
+      "text": "another is infiltrating the palace,"
+    },
+    {
+      "start_time": "00:20:32,400",
+      "end_time": "00:20:36,400",
+      "text": "another is trying to destroy the Trade"
+    },
+    {
+      "start_time": "00:20:34,159",
+      "end_time": "00:20:38,080",
+      "text": "Federation flagship, and a fourth ends"
+    },
+    {
+      "start_time": "00:20:36,400",
+      "end_time": "00:20:39,840",
+      "text": "up splitting off to deal with a Sith"
+    },
+    {
+      "start_time": "00:20:38,080",
+      "end_time": "00:20:41,200",
+      "text": "apprentice. For a scenario like this,"
+    },
+    {
+      "start_time": "00:20:39,840",
+      "end_time": "00:20:43,200",
+      "text": "you're basically running multiple"
+    },
+    {
+      "start_time": "00:20:41,200",
+      "end_time": "00:20:45,360",
+      "text": "adventures simultaneously, quite"
+    },
+    {
+      "start_time": "00:20:43,200",
+      "end_time": "00:20:47,360",
+      "text": "possibly in the same room, but certainly"
+    },
+    {
+      "start_time": "00:20:45,360",
+      "end_time": "00:20:49,919",
+      "text": "at the same location or maybe the same"
+    },
+    {
+      "start_time": "00:20:47,360",
+      "end_time": "00:20:52,000",
+      "text": "Discord server. Each table is pursuing a"
+    },
+    {
+      "start_time": "00:20:49,919",
+      "end_time": "00:20:54,000",
+      "text": "separate objective, all of which combine"
+    },
+    {
+      "start_time": "00:20:52,000",
+      "end_time": "00:20:56,640",
+      "text": "together to achieve their collective"
+    },
+    {
+      "start_time": "00:20:54,000",
+      "end_time": "00:20:58,880",
+      "text": "goal. Importantly, multiprong scenarios"
+    },
+    {
+      "start_time": "00:20:56,640",
+      "end_time": "00:21:00,480",
+      "text": "can also feature crossovers, shared"
+    },
+    {
+      "start_time": "00:20:58,880",
+      "end_time": "00:21:02,559",
+      "text": "events, and all the other stuff that"
+    },
+    {
+      "start_time": "00:21:00,480",
+      "end_time": "00:21:04,400",
+      "text": "makes shared world campaigns so cool. It"
+    },
+    {
+      "start_time": "00:21:02,559",
+      "end_time": "00:21:06,720",
+      "text": "it just happens at a at a hyperco"
+    },
+    {
+      "start_time": "00:21:04,400",
+      "end_time": "00:21:08,559",
+      "text": "compressed scale. For example, you might"
+    },
+    {
+      "start_time": "00:21:06,720",
+      "end_time": "00:21:10,240",
+      "text": "have two of the tables join together for"
+    },
+    {
+      "start_time": "00:21:08,559",
+      "end_time": "00:21:12,480",
+      "text": "a big fight to liberate the space"
+    },
+    {
+      "start_time": "00:21:10,240",
+      "end_time": "00:21:14,320",
+      "text": "fighters before one team flies up into"
+    },
+    {
+      "start_time": "00:21:12,480",
+      "end_time": "00:21:16,080",
+      "text": "space while the other heads deeper into"
+    },
+    {
+      "start_time": "00:21:14,320",
+      "end_time": "00:21:17,520",
+      "text": "the pallets. And of course, you might"
+    },
+    {
+      "start_time": "00:21:16,080",
+      "end_time": "00:21:19,360",
+      "text": "have a team create a distraction,"
+    },
+    {
+      "start_time": "00:21:17,520",
+      "end_time": "00:21:21,280",
+      "text": "provide cover fire, remotely unlock"
+    },
+    {
+      "start_time": "00:21:19,360",
+      "end_time": "00:21:23,600",
+      "text": "doors, or or otherwise assist each other"
+    },
+    {
+      "start_time": "00:21:21,280",
+      "end_time": "00:21:25,360",
+      "text": "in any way they might imagine. Some PCs"
+    },
+    {
+      "start_time": "00:21:23,600",
+      "end_time": "00:21:26,880",
+      "text": "might also shift from one table to"
+    },
+    {
+      "start_time": "00:21:25,360",
+      "end_time": "00:21:28,640",
+      "text": "another over the course of the"
+    },
+    {
+      "start_time": "00:21:26,880",
+      "end_time": "00:21:30,799",
+      "text": "adventure. Now, if you don't have"
+    },
+    {
+      "start_time": "00:21:28,640",
+      "end_time": "00:21:32,320",
+      "text": "multiple GMs or if your gaming schedules"
+    },
+    {
+      "start_time": "00:21:30,799",
+      "end_time": "00:21:34,559",
+      "text": "just can't align so that you can bring"
+    },
+    {
+      "start_time": "00:21:32,320",
+      "end_time": "00:21:36,559",
+      "text": "everyone together at the same time, you"
+    },
+    {
+      "start_time": "00:21:34,559",
+      "end_time": "00:21:39,120",
+      "text": "can get a similar effect at a larger"
+    },
+    {
+      "start_time": "00:21:36,559",
+      "end_time": "00:21:41,200",
+      "text": "scale with a multi-prong quest. This can"
+    },
+    {
+      "start_time": "00:21:39,120",
+      "end_time": "00:21:42,559",
+      "text": "be the structure of an entire campaign."
+    },
+    {
+      "start_time": "00:21:41,200",
+      "end_time": "00:21:44,159",
+      "text": "This is what we see in the Lord of the"
+    },
+    {
+      "start_time": "00:21:42,559",
+      "end_time": "00:21:45,840",
+      "text": "Rings, where all of the heroes are"
+    },
+    {
+      "start_time": "00:21:44,159",
+      "end_time": "00:21:47,120",
+      "text": "pursuing the destruction of Sauron,"
+    },
+    {
+      "start_time": "00:21:45,840",
+      "end_time": "00:21:49,039",
+      "text": "whether they're trying to reach Mount"
+    },
+    {
+      "start_time": "00:21:47,120",
+      "end_time": "00:21:51,039",
+      "text": "Doom to destroy the one ring, rousing"
+    },
+    {
+      "start_time": "00:21:49,039",
+      "end_time": "00:21:53,280",
+      "text": "the ends, or fighting in the wars of"
+    },
+    {
+      "start_time": "00:21:51,039",
+      "end_time": "00:21:54,960",
+      "text": "Rohan and Gondor. It's also how the new"
+    },
+    {
+      "start_time": "00:21:53,280",
+      "end_time": "00:21:57,120",
+      "text": "season of Critical Role is going to be"
+    },
+    {
+      "start_time": "00:21:54,960",
+      "end_time": "00:21:59,280",
+      "text": "organized after the overture with the"
+    },
+    {
+      "start_time": "00:21:57,120",
+      "end_time": "00:22:01,200",
+      "text": "seekers, soldiers, and schemers all"
+    },
+    {
+      "start_time": "00:21:59,280",
+      "end_time": "00:22:03,919",
+      "text": "pursuing different paths as they try to"
+    },
+    {
+      "start_time": "00:22:01,200",
+      "end_time": "00:22:06,159",
+      "text": "discover the truth behind the f of the"
+    },
+    {
+      "start_time": "00:22:03,919",
+      "end_time": "00:22:08,000",
+      "text": "fang. For something even more"
+    },
+    {
+      "start_time": "00:22:06,159",
+      "end_time": "00:22:10,080",
+      "text": "challenging, though, rather than having"
+    },
+    {
+      "start_time": "00:22:08,000",
+      "end_time": "00:22:11,600",
+      "text": "the groups allied with each other, they"
+    },
+    {
+      "start_time": "00:22:10,080",
+      "end_time": "00:22:13,919",
+      "text": "can instead play each other's"
+    },
+    {
+      "start_time": "00:22:11,600",
+      "end_time": "00:22:16,080",
+      "text": "antagonists. Returning to Dark Descent,"
+    },
+    {
+      "start_time": "00:22:13,919",
+      "end_time": "00:22:18,000",
+      "text": "for example, we could imagine one group"
+    },
+    {
+      "start_time": "00:22:16,080",
+      "end_time": "00:22:19,679",
+      "text": "working as agents of House Talona,"
+    },
+    {
+      "start_time": "00:22:18,000",
+      "end_time": "00:22:21,200",
+      "text": "trying to build Lowtown into a"
+    },
+    {
+      "start_time": "00:22:19,679",
+      "end_time": "00:22:23,600",
+      "text": "prosperous trading hub between the"
+    },
+    {
+      "start_time": "00:22:21,200",
+      "end_time": "00:22:25,440",
+      "text": "surface world and the riches of Deepold."
+    },
+    {
+      "start_time": "00:22:23,600",
+      "end_time": "00:22:27,600",
+      "text": "And we could imagine the other group"
+    },
+    {
+      "start_time": "00:22:25,440",
+      "end_time": "00:22:29,520",
+      "text": "working as agents for the bandit king,"
+    },
+    {
+      "start_time": "00:22:27,600",
+      "end_time": "00:22:31,840",
+      "text": "secretly working to undermine House"
+    },
+    {
+      "start_time": "00:22:29,520",
+      "end_time": "00:22:34,320",
+      "text": "Talona's control and liberate the city."
+    },
+    {
+      "start_time": "00:22:31,840",
+      "end_time": "00:22:36,480",
+      "text": "Such campaigns require a great deal of"
+    },
+    {
+      "start_time": "00:22:34,320",
+      "end_time": "00:22:38,799",
+      "text": "care and flexibility when it comes to"
+    },
+    {
+      "start_time": "00:22:36,480",
+      "end_time": "00:22:42,159",
+      "text": "managing continuity between the two"
+    },
+    {
+      "start_time": "00:22:38,799",
+      "end_time": "00:22:44,240",
+      "text": "antagonistic groups, but the results,"
+    },
+    {
+      "start_time": "00:22:42,159",
+      "end_time": "00:22:45,679",
+      "text": "they can be thrilling. The players get"
+    },
+    {
+      "start_time": "00:22:44,240",
+      "end_time": "00:22:48,000",
+      "text": "to set themselves against equal"
+    },
+    {
+      "start_time": "00:22:45,679",
+      "end_time": "00:22:51,760",
+      "text": "opponents in an epic battle of wits. And"
+    },
+    {
+      "start_time": "00:22:48,000",
+      "end_time": "00:22:54,000",
+      "text": "as the GM, you have ringside seats. The"
+    },
+    {
+      "start_time": "00:22:51,760",
+      "end_time": "00:22:56,240",
+      "text": "possibilities of a shared world are"
+    },
+    {
+      "start_time": "00:22:54,000",
+      "end_time": "00:22:59,600",
+      "text": "truly only limited by the imaginations"
+    },
+    {
+      "start_time": "00:22:56,240",
+      "end_time": "00:23:01,440",
+      "text": "of you and your players. I'd like to"
+    },
+    {
+      "start_time": "00:22:59,600",
+      "end_time": "00:23:03,679",
+      "text": "thank Mammoth Factory for sponsoring"
+    },
+    {
+      "start_time": "00:23:01,440",
+      "end_time": "00:23:06,080",
+      "text": "this video. Their Kickstarter campaign"
+    },
+    {
+      "start_time": "00:23:03,679",
+      "end_time": "00:23:08,240",
+      "text": "for Dark Descent featuring 400 plus"
+    },
+    {
+      "start_time": "00:23:06,080",
+      "end_time": "00:23:10,159",
+      "text": "pages of setting and adventure material,"
+    },
+    {
+      "start_time": "00:23:08,240",
+      "end_time": "00:23:12,880",
+      "text": "eight forbidden subclasses, eight"
+    },
+    {
+      "start_time": "00:23:10,159",
+      "end_time": "00:23:15,840",
+      "text": "subterranean races, 40 Underdark battle"
+    },
+    {
+      "start_time": "00:23:12,880",
+      "end_time": "00:23:18,320",
+      "text": "maps, 50 infernal spells, 70 unholy"
+    },
+    {
+      "start_time": "00:23:15,840",
+      "end_time": "00:23:21,200",
+      "text": "monsters, 50 profane magic items, and"
+    },
+    {
+      "start_time": "00:23:18,320",
+      "end_time": "00:23:24,080",
+      "text": "more than 200 highly detailed STL"
+    },
+    {
+      "start_time": "00:23:21,200",
+      "end_time": "00:23:25,520",
+      "text": "miniature models is happening right now."
+    },
+    {
+      "start_time": "00:23:24,080",
+      "end_time": "00:23:27,440",
+      "text": "Click the link in the font of all"
+    },
+    {
+      "start_time": "00:23:25,520",
+      "end_time": "00:23:29,919",
+      "text": "knowledge down below to back it and let"
+    },
+    {
+      "start_time": "00:23:27,440",
+      "end_time": "00:23:31,760",
+      "text": "them know the Alexandrian sent you. Now,"
+    },
+    {
+      "start_time": "00:23:29,919",
+      "end_time": "00:23:33,760",
+      "text": "if you decide to run your own shared"
+    },
+    {
+      "start_time": "00:23:31,760",
+      "end_time": "00:23:36,159",
+      "text": "world campaign out of Low Town and into"
+    },
+    {
+      "start_time": "00:23:33,760",
+      "end_time": "00:23:38,559",
+      "text": "the depths of the Deep Hold, come back"
+    },
+    {
+      "start_time": "00:23:36,159",
+      "end_time": "00:23:41,760",
+      "text": "and let us know how it goes. Good"
+    },
+    {
+      "start_time": "00:23:38,559",
+      "end_time": "00:23:43,919",
+      "text": "gaming. This is Justin Alexander and"
+    },
+    {
+      "start_time": "00:23:41,760",
+      "end_time": "00:23:46,320",
+      "text": "I'll see you"
+    },
+    {
+      "start_time": "00:23:43,919",
+      "end_time": "00:23:46,320",
+      "text": "at the"
+    }
+  ],
+  "full_text": "This video is sponsored by Dark Descent\nfrom Mammoth Factory. More on their\nexciting Kickstarter for a tome of\nforbidden lore later in the video.\nPicture a D&D campaign. There's a GM,\nfour or five players. You create\ncharacters. You go on your first\nadventure. Every week, this same group\ngets together, plays a session, hits the\npause button, and comes back the next\nweek to pick up where you left off. And\nyou'll do this for 10 or 20 or or 100\nsessions until the campaign comes to an\nend. But this is what we call a\ndedicated single group campaign. And\neven though we think of it as the the\none true way to play an RPG, the truth\nis that it's not the only way. In fact,\nit's not even Arnison and Gyak ran the\noriginal D&D campaigns. And now Critical\nRole says that it's not how they're\ngoing to run the new campaign for\neither. So what do they know that you\ndon't? And what are the five key things\nyou need to know to run a campaign just\nlike Arnison Gyax, Brennan Lee,\nMulligan, and me?\n[Music]\nWhat we're talking about is a shared\ncampaign world. Instead of having a\nsingle dedicated group experiencing\neverything that happens in the world,\nyou can instead run multiple groups\nsimultaneously in the same setting.\nwhich also means that the game world\ndoesn't wait around for the players when\nthey're not playing. Stuff keeps\nhappening there. A shared campaign world\nlets a single GM support a lot more\nplayers than they could at a single\ntable. I mean, you could of course also\ndo that by running multiple single group\ncampaigns at the same time. But a shared\ncampaign world can also mean a lot less\nprep for the GM. And on the player side\nof things, a shared campaign is exciting\nbecause you're suddenly in a living\nworld. Your your actions aren't just\naffecting the people sitting at the\ntable with you. They're affecting people\nat at other tables, people you may never\nmeet. If if group A blows up a church,\nthen when group B gets together to play,\nthey'll see the smoldering ruins as they\nas they ride into town. At my shared\ntables, I've seen alchemists create\ncreate new concoctions that have saved\nthe lives of people they've never played\nwith. I've seen people start\norganizations joined by by real people\nthey've never even met. Our goal is\nalways to make the campaign world feel\nlike a real place where the where the\nactions of the PCs truly matter. And the\ncool thing about a shared setting is\nthat is that this is kind of true. There\nare real people out there being affected\nby what your character is doing and the\nstuff they're doing is affecting you and\nyour character. A shared world campaign\njust just hits different. But how do you\nactually run a shared world? What does\nit look like? Well, sometimes a shared\nworld campaign will evolve out of a\nsingle dedicated table. Maybe you and a\ncouple of buddies get together on\nTuesday night. They they roll up a\nhalfling rogue and a halfling paladin\nand start going on adventures together.\nThey're having a great time. In fact,\nthey're having so much fun that Shawn\ntells a couple of his friends about how\ncool the game is and now they want to\nplay, too. So, so you invite them and\nthey want to play halflings, too,\nbecause well, because they think it's\nfunny. A few weeks later, your brother\ncrashes the party. The all halfling\nstick is running a bit thin, so you\nconvince him to roll up a human ranger.\nHis girlfriend shows up for a few\nsessions, but then has to drop out when\na new college semester starts, and she\nends up with a class on Tuesday night.\nBut apparently, everyone is having a\ngreat time because they keep inviting\nmore and more of their friends to play.\nAnd that's when you realize you have too\nmany players. Now, you could start\nkicking players out, but it's not like\nyou don't like playing with your\nfriends. You just don't want to play\nwith all of them at once. So instead,\nyou split the group. Some of the players\nare free Thursday night, so you start a\nsecond table. The Tuesday night group\nheads west and the Thursday night group\nheads east. And this this is great. Both\ngroups are still pursuing the same\nquest, just in different ways. One group\nsees armies on the march that are later\nfought by the other. NPCs cross over\nbetween the two tables. Now, now Liv is\nable to play on Thursday, so she comes\nback, but decides to play a different\ncharacter this time. Later though, she\ndrops in on the Tuesday night table. the\nguest stars or old PC. And in the big\nfinale, the actions of one group are\nable to help the other group succeed and\nvice versa.\n[Music]\nThis is a shared world being played by\nmultiple dedicated tables. The events at\none table cross over with the events at\nthe other table and vice versa, but it's\ngenerally the same group of PCs getting\ntogether at each table and continuing\ntheir adventures together. A West\nMarchers campaign, on the other hand,\nlooks a little different. A West March\nis a specific type of open table created\nby Ben Robbins in which the campaign\ntakes place on the on the edge of\ncivilization. In Ben's case, the western\nedge. There's a small community or\nmilitary fort or something of the like\nlocated out there. And from this base of\noperations, the PCs venture forth into\nthe unknown. Always to the west, never\nto the east. Each expedition reveals\nmore and more of the secrets beyond the\nhorizon, with the PCs facing incredible\ndangers and being rewarded with wondrous\ntreasures. Here's the trick, though.\nIt's not the same PCs each time.\nInstead, the players arrange and\nschedule each expedition into the wild\nindividually. The first expedition might\nbe Christina, Peter, Eric, and Allan\nheading to the Temple of the Artificers.\nUh Christina and Peter might come back\nfor the next session, but are joined\nthis time by Sarah and Paul while they\ncheck out why the farmers at Carowind\nhaven't been seen in town lately. After\nAllan gets infected with Lyanthopia at\nCarowwin, that group might play together\ntwo or three more times while seeking a\ncure. But but in between those sessions,\nEric might recruit Hunter and Gracie Lou\nto follow a treasure map he found in the\nTemple of the Artificers. When they come\nback to town, their eyes are glowing\nwith a strange color which which they\nrefuse to explain to anybody else. And\nmeanwhile, Jacob has joined team\nLyanthropy and help them track down a\ncure in the form of moon thistles\ngrowing up by the ancient dam. In an\nopen table like this, every character\nhas their own story line. All of those\nstory lines coexist with each other. And\nthe totality of all these stories all\nall existing in the same world and\ninteracting with each other and weaving\ntogether is greater than the sum of\ntheir parts. A West March style campaign\nisn't the only way to achieve this\ndynamic though. For example, this is\nCastle Blackmore. It's the same model\nkit that Dave Arnison built when he was\ncreating the modern role playing game\nand launching that campaign that would\nbecome Dungeons and Dragons. Beneath\nthis castle, Arnison placed a vast\nlabyrinthine dungeon. It was so large\nthat today we call dungeons like this a\nmega dungeon. A dungeon so large that\nyou could play an entire campaign in\nthem and never run out of adventures. In\nthe Arnisonian mega dungeon, the\nplayer's home base was Blackmore Village\nat the the foot of the hill on which\nBlackmore Castle was built. During each\nsession, just like the West Marchers\nwould later do, the adventurers in\nBlackmore that day would form up an\nexpedition and journey down into the\ndepths of the dungeon, exploring its\nstrange secrets and then choosing to\nshare those secrets or not with the rest\nof the adventuring community. In the\nearliest days of Dn D, everyone ran an\nmega dungeon. Everyone put a castle on a\nhill and carved out a mega dungeon\nbeneath it. Greg Spencson, a player in\nArnison's group, created Tonixborg. Gary\nGyax copied the formula for his own\nCastle Greyhawk. When Ed Greenwood\ncreated Under Mountain in 1975, it was a\nvariation on the same theme. Following\nin their footsteps, I ran my own version\nof Arnison's Blackmore as an open table\nfor several years. Now, if you're\nlooking for your own D&D world to share,\nyou should check out Dark Descent from\nMammoth Factory Games, the sponsor of\ntoday's video. Take the wagon down to\nDeepold, a terrifying subterranean realm\nwhere the surface has banished its\ncriminals. Here among the ruins of the\nAnac Empire, the surface are trying to\nmake the best of their new lives. But\nout there in the dark, the void crawl,\nstrange mage hunters from beyond time\nand space, drawn to the arcane arts.\nBeware and cast with care to avoid\nbecoming the target of something beyond\nthe ken of mortal minds. What dark\npowers will you master to survive and\nthrive in these terrible deaths? Dark\nDescent will tempt you with forbidden\nsubclasses, infernal spells, and the\ngruesome rights of blood alchemy. It\nalso includes the exiles of Deepold\nAdventure Path, a six-part campaign of\ncorruption. Although freed from their\nchains after being banished for their\ncrimes, the fate of the PCs becomes\ninextricably bound to the lightless\ndepth due to the Eldrich infection known\nas void stone sickness. I'm excited\nabout the dark fantasy survival horror\nof the exiles of Deepold. There are\nspoilers I'm not even allowed to talk\nabout that are that are blowing my mind,\nbut I'm enthralled by the setting. Uh,\nwe talked about the role a home base\nlike Blackmore can play in a shared\ncampaign world. In Dark Descent, Low\nTown, the botany bay of the Underdark,\nbuilt into the ruins of an inverted\nziggurat from the Anoch Empire, is\nabsolutely perfect for this. populated\nby the criminals and discarded exiles of\nthe surface world. It's a dim light of\ncivilization in a sea of darkness. A\ntangled nest of factions, sins, and\nhalfbroken dreams, perched in the middle\nof vast ruins and strange realms.\nCountless expeditions can be sent out\ninto those stigian expanses, unlocking\nsecrets, both thrilling and terrifying.\nAnd who can say what fate your players\nwill carve out for themselves down here,\nshaping the destiny of what Low Town and\nall of Deepold may become. So, let's say\nthat you hit the Kickstarter link in the\nfont of all knowledge down below. You\ngrab your own copy of Dark Descent and\nyou want to launch a shared campaign\nworld based out of Lowtown. There are\nfive key things you need to know to run\na successful shared campaign. First, is\nthis going to be an open table or a\nmulti-table campaign? For season 4 of\nCritical Role, Brennan Lee Mulligan is\nrunning multiple tables. The 13 players\nhave been split up into three dedicated\ngroups based on their style of play. The\nsoldiers, the seekers, and the schemers.\nIf you've got players who enjoy\ndifferent ways of playing the game, this\ncan be a great way to give everyone more\nof what they love best. But there are\nother ways to think about the focus of\neach table, too. In our lowtown\ncampaign, for example, we might have one\ngroup going out to explore the unknown\nreaches of the deepold, while another\nstays in town, enshed in the political\nmachinations of House Talona, the red\nladies, and Vzano, the bandit king. Now,\nthe other option, though, is an open\ntable. Instead of the soldiers always\nplaying at the soldiers table and the\nseekers always playing with the other\nseekers in an open table the players\nfreely mix and match and importantly can\nplay when they're available and skip the\nsessions when they're not without\naffecting everyone else's ability to\nplay. This gives open tables an immense\nscheduling flexibility and also the\nability to support truly huge numbers of\nplayers. This is how Onison and Gyax\nplayed, and it's why the original D&D\nrulebook talked about a campaign having\n50 or more players. When I ran my first\nopen table, it grew to have more than 60\nactive players. And my new Mothership\nOpen Table has 20 players participating.\nRunning an Open Table has a number of\nunique challenges and opportunities. And\nI'm going to be doing a video deep dive\non the topic next month. So, if you want\nto learn how to run your own Open Table,\nsubscribe. And in the meantime, when\nthis video is done, you can also check\nout the open table manifesto in the font\nof all knowledge. But for right now, the\nnext thing to consider is whether your\nshared campaign world is going to have\none GM or multiple GMs. The advantage of\nmultiple GMs is that you can split up\nthe load. Multiple GMs can prep more and\nrun more sessions than a single GM can.\nThe drawback, of course, is that it\ntakes extra effort to coordinate with\nthe other GMs and and make sure all the\ncontinuity between groups and sessions\nmatches up. There are some tricks you\ncan use to simplify this though. Uh, for\nexample, if you divide the campaign\nworld up into separate sections and give\neach GM exclusive dominion over their\nown section, you can dramatically reduce\nthe amount of information they need to\nswap back and forth between them. For\nexample, although designed for a\ndedicated table, the new D&D starter\nset, Heroes of the Borderlands, divides\nthe Borderlands into three sections, the\nkeep on the borderlands, the wilderness,\nand the caves of chaos. Now, instead of\nhaving a single DM, you can give each of\nthese adventure books to a different\ndungeon master. When the players go to\nthe keep, Julia runs those adventures.\nAnd when they leave the keep and want to\ncheck out the strange ruins they've\nheard about in the woods, that's when\nAsante can take over and run the\nadventures in his book. Now, this also\nmeans that Julia could jump in and play\nher character when the group moves into\nthe wilderness and and vice versa for\nAsante. Similarly, Dave Arnes eventually\nadded more dungeon masters to the\noriginal Blackmore campaign, but at\nleast at first, they were running their\nown dungeons. Players characters would\nliterally travel from Arnison's\nBlackmore to Greg Spencenson's\nTonixborg, for example, at which point\nGreg would be able to run them through\nthe adventures he had created there. For\nour Dark Descent campaign, we might have\none game master who runs adventures in\nLowtown and another game master who runs\nexpeditions out into the deepold. I\nmean, alternatively, we could slice the\nDeep Hold up into quadrants and assign\neach quadrant to a different game\nmaster. Players might decide ahead of\ntime what type of adventure they want to\nrun. Okay, we want to head back out and\nexplore those fleshcraft laboratories,\nright? So, we'll need to schedule a\nsession with Julia next time. Or if both\nGMs are available, they might swap out\nin the middle of a session depending on\nwhere the PCs are going at any\nparticular moment. Now, with all this\ntable swapping and session swapping\ngoing on, we come to another important\nquestion. How many characters should one\nplayer play? In most dedicated single\ngroup campaigns, the expectation is that\neach player has one character, their\ncharacter. And maybe they'll create a\nnew character if that one dies or\nretires for some reason, but they'll\nstill only have one character at a time.\nChris is playing Kora. Heather's playing\nKitty Soth. That's it. Even in a\ndedicated campaign, though, there can be\nexceptions to this. For example, I have\na video about how players can run\nspectacular sidekicks by running\nmultiple characters at the same time.\nAnd games like RS Magica feature troop\nstyle play, which will be the topic of\nanother upcoming video. In troop play,\neach player has multiple characters and\nchooses which character to play for each\nadventure. But these are obviously the\nexception, not the rule in dedicated\nsingle table campaigns. In a multi-table\ncampaign though, some players might play\na multiple tables running different\ncharacters at each one. And in an open\ntable, we often talk about players\nhaving a stable of characters. Since the\nstructure of the campaign is already\nflexible about who's playing in each\nsession, it's just as easy for one\nperson to pick any one of their five\ndifferent characters to play as it is\nfor any one of five different players to\nshow up for a particular night.\nDepending on the exact form your shared\nworld takes, you may discover strong\nreasons for preferring single PCs or\nmultiple PCs, but often either will work\ndepending on the preferences of the GM,\nthe group, and the individual player.\nSo, the next thing you need to think\nabout in a shared world is continuity. I\nmean, group A is doing stuff at the same\ntime stuff is happening with group B,\nand you need to make sure it all, you\nknow, fits together and and makes sense.\nI mean, otherwise, what's the point of\nall this? If group A burns down a\nbuilding in one session, group B\nshouldn't find it completely unharmed\nthe next day. If Christina and Heather\nare chatting about the campaign, they\nthey shouldn't discover that both of\ntheir characters pulled the same sword\nfrom the stone. There are sort of three\nmain things to think about when it comes\nto continuity like this. First, keeping\ntime synced. You don't have to keep\nmultiple tables in perfect lock step\nwith each other, but you do\nfundamentally need to know whether event\nA from table one happened before or\nafter what's currently happening at\ntable two. Gary Gyax infamously wrote\nthat you cannot have a meaningful\ncampaign if strict time records are not\nkept. And the fact he was running open\ntables is one of the reasons why he said\nit. Now, the other thing to keep in mind\nabout cross table continuity is that you\nwant to show the effect. If group A\nactually does blow up a building, or I\nguess you know, more likely when they\nblow up a building, then you want group\nB to see the smoking ruins. In fact,\ndepending on the strict time records\nyou're keeping, they might even hear the\nexplosion in the middle of their next\nsession. These shared events will become\nmore common the closer the groups are to\neach other in the setting. But the\nlarger the event, the the farther away\nits effects will be felt. And a truly\ncataclysmic event might be felt\nthroughout the multiverse. Now,\nconversely, this means that continuity\nbecomes easier to juggle the farther\napart the PCs are. It also becomes\neasier the more closely synced their\ntimelines are. This is because if our\nlowtown group gets 3 months ahead of our\ndeep hold explorers, for example, then\nwhen the explorers return to town, we\ncan end up with a ton of established\ncontinuity the next 3 months of events\nthat the deep hold explorers aren't\nallowed to interfere with. It becomes a\nstraight jacket and it can be difficult\nto navigate. On the other hand, if the\nDeepold group gets three months ahead\nand comes back to town, well, what\nshould town even look like? At this\npoint, our Lowtown group is slash was in\nthe middle of working with an undead\nAnac noble to assassinate the bandit\nking with the help of a dark maiden.\nWill they succeed? I mean, if so, Low\nTown is going to look very different 3\nmonths later when those explorers get\nback, which they're doing right now at\ntheir table. You can see how confusing\nthis gets. So, the closer the PCs get to\neach other in a shared world, the more\ntightly you'll want their timelines to\nalign. Things can desync, though, for\nany number of reasons. The the deepold\ngroup might have scheduling issues,\nallowing the lowtown group to surge\nahead of them. On the other hand, the\ndeepold group does a lot more traveling\nthan the lowtown group, which can chew\nup a lot more of game world time in a\nsingle session. Travel times, though,\ncan also work to your advantage. With\nvery little effort, you can fudge travel\ntimes around to help reync your groups.\nOr you can give a group that's falling\nbehind a scenario hook that requires\nsome some uneventful but time-consuming\ntravel so that they can catch up to a\ngroup that's gotten ahead of them. For\nsimilar reasons, the time between\nadventures can really be your friend\nhere. When it comes to helping a group\ncatch up, there's nothing faster than\nsaying, \"It's been 3 months since you\nslayed the voidworm.\" Some games use\nadventure terms. For example, Ars Magica\nuses seasonbased play in which PCs can\nonly go on a single adventure each\nseason. These can actually greatly\nexacerbate desynchronization between\ntables since it forces everyone into the\nsame cadence of adventures. But if the\ngame also offers alternatives to\nadventure, which Ars Magicka does in the\nform of magical research, for example,\nthen they can also provide a structure\nwhere characters that are falling behind\ncan quickly speed through multiple\nseasons of play and catch up. Another\nmethod is to sync the game world to\nrealworld time. If you go on a 3-month\njourney in a single session, that's\nfine, but your character will be locked\ndown until the rest of the world catches\nup to them. This method is particularly\nuseful for open tables, and I'll discuss\nthat in more detail in that video. But\nwhether you're syncing to the real world\ntime or not, this is where having a\nstable of PCs can also be very useful.\nPlayers who end up with a massively\ndesynced character don't have to stop\nplaying. they can just swap to a\ndifferent character that's still in sync\nand help everyone else catch up. Which\nbrings us to the final key for running\nshared worlds. How the PCs at the\ndifferent tables interact with each\nother. Now, the simplest method is to\nsimply leave the groups divided. The\nlowtown group plays their game. The\ndeepold group plays theirs. They\noccasionally experience shared events\nand see evidence of what the other group\nis doing, but they're ultimately each\nplaying their own game. You can spice\nthings up though by adding special\ncrossover sessions. These crossover\nsessions might feature just a couple of\nPCs jumping from one table to another\nand back. But it could also be an epic\nsession with everyone playing at the\nsame time. Crossover sessions are often\nsomething that a multi-table will build\nup to over time. But Critical Role\nlaunched their multi-table campaign with\nseveral overture sessions in which\neveryone played together before\nsplitting up into the soldiers, the\nseekers, and the schemers. Of course,\nrunning a session for a dozen different\nplayers at the same time can be\nextremely challenging. The excitement of\nthe crossover can make it worthwhile,\nbut if your multi-table features\nmultiple GMs and you're looking for\nsomething, you know, maybe a little more\nmanageable, consider running a\nmulti-prong scenario. These scenarios\nlook like the end of the Phantom Menace.\nOne group is fighting the droid army,\nanother is infiltrating the palace,\nanother is trying to destroy the Trade\nFederation flagship, and a fourth ends\nup splitting off to deal with a Sith\napprentice. For a scenario like this,\nyou're basically running multiple\nadventures simultaneously, quite\npossibly in the same room, but certainly\nat the same location or maybe the same\nDiscord server. Each table is pursuing a\nseparate objective, all of which combine\ntogether to achieve their collective\ngoal. Importantly, multiprong scenarios\ncan also feature crossovers, shared\nevents, and all the other stuff that\nmakes shared world campaigns so cool. It\nit just happens at a at a hyperco\ncompressed scale. For example, you might\nhave two of the tables join together for\na big fight to liberate the space\nfighters before one team flies up into\nspace while the other heads deeper into\nthe pallets. And of course, you might\nhave a team create a distraction,\nprovide cover fire, remotely unlock\ndoors, or or otherwise assist each other\nin any way they might imagine. Some PCs\nmight also shift from one table to\nanother over the course of the\nadventure. Now, if you don't have\nmultiple GMs or if your gaming schedules\njust can't align so that you can bring\neveryone together at the same time, you\ncan get a similar effect at a larger\nscale with a multi-prong quest. This can\nbe the structure of an entire campaign.\nThis is what we see in the Lord of the\nRings, where all of the heroes are\npursuing the destruction of Sauron,\nwhether they're trying to reach Mount\nDoom to destroy the one ring, rousing\nthe ends, or fighting in the wars of\nRohan and Gondor. It's also how the new\nseason of Critical Role is going to be\norganized after the overture with the\nseekers, soldiers, and schemers all\npursuing different paths as they try to\ndiscover the truth behind the f of the\nfang. For something even more\nchallenging, though, rather than having\nthe groups allied with each other, they\ncan instead play each other's\nantagonists. Returning to Dark Descent,\nfor example, we could imagine one group\nworking as agents of House Talona,\ntrying to build Lowtown into a\nprosperous trading hub between the\nsurface world and the riches of Deepold.\nAnd we could imagine the other group\nworking as agents for the bandit king,\nsecretly working to undermine House\nTalona's control and liberate the city.\nSuch campaigns require a great deal of\ncare and flexibility when it comes to\nmanaging continuity between the two\nantagonistic groups, but the results,\nthey can be thrilling. The players get\nto set themselves against equal\nopponents in an epic battle of wits. And\nas the GM, you have ringside seats. The\npossibilities of a shared world are\ntruly only limited by the imaginations\nof you and your players. I'd like to\nthank Mammoth Factory for sponsoring\nthis video. Their Kickstarter campaign\nfor Dark Descent featuring 400 plus\npages of setting and adventure material,\neight forbidden subclasses, eight\nsubterranean races, 40 Underdark battle\nmaps, 50 infernal spells, 70 unholy\nmonsters, 50 profane magic items, and\nmore than 200 highly detailed STL\nminiature models is happening right now.\nClick the link in the font of all\nknowledge down below to back it and let\nthem know the Alexandrian sent you. Now,\nif you decide to run your own shared\nworld campaign out of Low Town and into\nthe depths of the Deep Hold, come back\nand let us know how it goes. Good\ngaming. This is Justin Alexander and\nI'll see you\nat the\n"
+}

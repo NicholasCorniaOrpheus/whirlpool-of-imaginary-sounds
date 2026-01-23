@@ -1,0 +1,5390 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,800",
+      "end_time": "00:00:06,720",
+      "text": "Very well, I will arrange it. Do you"
+    },
+    {
+      "start_time": "00:00:03,919",
+      "end_time": "00:00:08,720",
+      "text": "need a place to stay and rest? You seem"
+    },
+    {
+      "start_time": "00:00:06,720",
+      "end_time": "00:00:10,639",
+      "text": "to be extremely"
+    },
+    {
+      "start_time": "00:00:08,720",
+      "end_time": "00:00:11,920",
+      "text": "worn out and exhausted from your many,"
+    },
+    {
+      "start_time": "00:00:10,639",
+      "end_time": "00:00:14,920",
+      "text": "many fatigue points you took on the"
+    },
+    {
+      "start_time": "00:00:11,920",
+      "end_time": "00:00:14,920",
+      "text": "road."
+    },
+    {
+      "start_time": "00:00:39,520",
+      "end_time": "00:00:42,640",
+      "text": "Hello and welcome back once again to Me,"
+    },
+    {
+      "start_time": "00:00:41,040",
+      "end_time": "00:00:44,800",
+      "text": "myself, and I. I am, as always, your"
+    },
+    {
+      "start_time": "00:00:42,640",
+      "end_time": "00:00:46,480",
+      "text": "player, game master, and host, Trevor"
+    },
+    {
+      "start_time": "00:00:44,800",
+      "end_time": "00:00:48,320",
+      "text": "Deval. Thank you so much for joining me"
+    },
+    {
+      "start_time": "00:00:46,480",
+      "end_time": "00:00:50,960",
+      "text": "here today. It's been a while since we"
+    },
+    {
+      "start_time": "00:00:48,320",
+      "end_time": "00:00:52,239",
+      "text": "have looked at Veil and Thra and their"
+    },
+    {
+      "start_time": "00:00:50,960",
+      "end_time": "00:00:54,879",
+      "text": "adventures in the desert trying to stop"
+    },
+    {
+      "start_time": "00:00:52,239",
+      "end_time": "00:00:57,039",
+      "text": "the Lich Matzaroth, but we are back and"
+    },
+    {
+      "start_time": "00:00:54,879",
+      "end_time": "00:00:59,120",
+      "text": "we're going to continue on now."
+    },
+    {
+      "start_time": "00:00:57,039",
+      "end_time": "00:01:01,199",
+      "text": "Hopefully finish up very soon. Maybe"
+    },
+    {
+      "start_time": "00:00:59,120",
+      "end_time": "00:01:04,000",
+      "text": "even today. Who can say? The dice will"
+    },
+    {
+      "start_time": "00:01:01,199",
+      "end_time": "00:01:05,439",
+      "text": "always uh tell. I'm not going to tell"
+    },
+    {
+      "start_time": "00:01:04,000",
+      "end_time": "00:01:07,119",
+      "text": "you all the changes that the system has"
+    },
+    {
+      "start_time": "00:01:05,439",
+      "end_time": "00:01:09,280",
+      "text": "gone through because they have been many"
+    },
+    {
+      "start_time": "00:01:07,119",
+      "end_time": "00:01:10,880",
+      "text": "and legion. But if you're interested in"
+    },
+    {
+      "start_time": "00:01:09,280",
+      "end_time": "00:01:13,280",
+      "text": "how the game works, you can always uh"
+    },
+    {
+      "start_time": "00:01:10,880",
+      "end_time": "00:01:16,720",
+      "text": "purchase it below at the link there. So,"
+    },
+    {
+      "start_time": "00:01:13,280",
+      "end_time": "00:01:19,280",
+      "text": "when last we left off, Veil Anthrag had"
+    },
+    {
+      "start_time": "00:01:16,720",
+      "end_time": "00:01:22,240",
+      "text": "gone to the burial spot of the Lich"
+    },
+    {
+      "start_time": "00:01:19,280",
+      "end_time": "00:01:24,159",
+      "text": "Matzaroth and discovered a few kind of"
+    },
+    {
+      "start_time": "00:01:22,240",
+      "end_time": "00:01:26,240",
+      "text": "fascinating things. Maybe they're lies,"
+    },
+    {
+      "start_time": "00:01:24,159",
+      "end_time": "00:01:28,720",
+      "text": "maybe they're not. Who can say? She"
+    },
+    {
+      "start_time": "00:01:26,240",
+      "end_time": "00:01:32,079",
+      "text": "doesn't know. But she has hope in her"
+    },
+    {
+      "start_time": "00:01:28,720",
+      "end_time": "00:01:34,960",
+      "text": "heart that perhaps by taking the power"
+    },
+    {
+      "start_time": "00:01:32,079",
+      "end_time": "00:01:37,280",
+      "text": "of the spirit mantle as she has done and"
+    },
+    {
+      "start_time": "00:01:34,960",
+      "end_time": "00:01:38,960",
+      "text": "wrapping the lich's felactory in it and"
+    },
+    {
+      "start_time": "00:01:37,280",
+      "end_time": "00:01:41,280",
+      "text": "transferring the power to the flactory"
+    },
+    {
+      "start_time": "00:01:38,960",
+      "end_time": "00:01:43,600",
+      "text": "it will heal Mozaroth so that when she"
+    },
+    {
+      "start_time": "00:01:41,280",
+      "end_time": "00:01:45,920",
+      "text": "reunites the felactory with the lich's"
+    },
+    {
+      "start_time": "00:01:43,600",
+      "end_time": "00:01:47,920",
+      "text": "body which is currently in Anir or on"
+    },
+    {
+      "start_time": "00:01:45,920",
+      "end_time": "00:01:49,680",
+      "text": "the way to the city of Anchir to the"
+    },
+    {
+      "start_time": "00:01:47,920",
+      "end_time": "00:01:51,680",
+      "text": "spot where the great portal will be"
+    },
+    {
+      "start_time": "00:01:49,680",
+      "end_time": "00:01:53,759",
+      "text": "opened at the conjunction of the SARS"
+    },
+    {
+      "start_time": "00:01:51,680",
+      "end_time": "00:01:56,399",
+      "text": "thereby allowing Matzaroth access to"
+    },
+    {
+      "start_time": "00:01:53,759",
+      "end_time": "00:01:58,799",
+      "text": "Norcarth the eternal city where he hopes"
+    },
+    {
+      "start_time": "00:01:56,399",
+      "end_time": "00:02:00,960",
+      "text": "to find the secret to his own death"
+    },
+    {
+      "start_time": "00:01:58,799",
+      "end_time": "00:02:02,640",
+      "text": "because what he told her was that he was"
+    },
+    {
+      "start_time": "00:02:00,960",
+      "end_time": "00:02:05,520",
+      "text": "exhausted from all these thousands of"
+    },
+    {
+      "start_time": "00:02:02,640",
+      "end_time": "00:02:07,759",
+      "text": "years of not life, not unlife, not"
+    },
+    {
+      "start_time": "00:02:05,520",
+      "end_time": "00:02:10,560",
+      "text": "death. Whatever reason, he doesn't like"
+    },
+    {
+      "start_time": "00:02:07,759",
+      "end_time": "00:02:11,840",
+      "text": "it. So, she is hoping that is he is in"
+    },
+    {
+      "start_time": "00:02:10,560",
+      "end_time": "00:02:14,560",
+      "text": "fact telling the truth. Is he telling"
+    },
+    {
+      "start_time": "00:02:11,840",
+      "end_time": "00:02:17,040",
+      "text": "the truth? I don't know. Um I suspect"
+    },
+    {
+      "start_time": "00:02:14,560",
+      "end_time": "00:02:19,120",
+      "text": "not. And so does Vale. But in the"
+    },
+    {
+      "start_time": "00:02:17,040",
+      "end_time": "00:02:20,720",
+      "text": "meantime, she is going to proceed as"
+    },
+    {
+      "start_time": "00:02:19,120",
+      "end_time": "00:02:22,160",
+      "text": "though he is. Now, Archaos factor is"
+    },
+    {
+      "start_time": "00:02:20,720",
+      "end_time": "00:02:24,239",
+      "text": "going to remain at 8. I don't actually"
+    },
+    {
+      "start_time": "00:02:22,160",
+      "end_time": "00:02:26,160",
+      "text": "remember where it was from last time. Uh"
+    },
+    {
+      "start_time": "00:02:24,239",
+      "end_time": "00:02:27,680",
+      "text": "it's been a long time since I ran a"
+    },
+    {
+      "start_time": "00:02:26,160",
+      "end_time": "00:02:29,680",
+      "text": "session. So I'm just going to kind of"
+    },
+    {
+      "start_time": "00:02:27,680",
+      "end_time": "00:02:31,360",
+      "text": "start freshish. I'm going to start with"
+    },
+    {
+      "start_time": "00:02:29,680",
+      "end_time": "00:02:32,319",
+      "text": "the notes that I have currently. But uh"
+    },
+    {
+      "start_time": "00:02:31,360",
+      "end_time": "00:02:34,560",
+      "text": "we're going to close the thread,"
+    },
+    {
+      "start_time": "00:02:32,319",
+      "end_time": "00:02:36,080",
+      "text": "investigate the lich's dream because we"
+    },
+    {
+      "start_time": "00:02:34,560",
+      "end_time": "00:02:38,080",
+      "text": "successfully did that. We're going to"
+    },
+    {
+      "start_time": "00:02:36,080",
+      "end_time": "00:02:40,560",
+      "text": "have a new thread. Get the felactory to"
+    },
+    {
+      "start_time": "00:02:38,080",
+      "end_time": "00:02:43,920",
+      "text": "aner before the great conjunction of the"
+    },
+    {
+      "start_time": "00:02:40,560",
+      "end_time": "00:02:45,760",
+      "text": "stars. Okay, so they have a long way to"
+    },
+    {
+      "start_time": "00:02:43,920",
+      "end_time": "00:02:47,760",
+      "text": "go and they're no longer mounted because"
+    },
+    {
+      "start_time": "00:02:45,760",
+      "end_time": "00:02:49,360",
+      "text": "they lost a couple of their camels in"
+    },
+    {
+      "start_time": "00:02:47,760",
+      "end_time": "00:02:51,120",
+      "text": "the scorpion attack in the desert. So"
+    },
+    {
+      "start_time": "00:02:49,360",
+      "end_time": "00:02:52,400",
+      "text": "now they are on foot, but they've got a"
+    },
+    {
+      "start_time": "00:02:51,120",
+      "end_time": "00:02:54,959",
+      "text": "long way to go and they've got to move"
+    },
+    {
+      "start_time": "00:02:52,400",
+      "end_time": "00:02:57,680",
+      "text": "fast because remember, not only does"
+    },
+    {
+      "start_time": "00:02:54,959",
+      "end_time": "00:02:59,440",
+      "text": "Veil have to get back to Aner before the"
+    },
+    {
+      "start_time": "00:02:57,680",
+      "end_time": "00:03:01,760",
+      "text": "conjunction of the stars, but she has to"
+    },
+    {
+      "start_time": "00:02:59,440",
+      "end_time": "00:03:04,239",
+      "text": "deal with the Lich before the portal"
+    },
+    {
+      "start_time": "00:03:01,760",
+      "end_time": "00:03:06,319",
+      "text": "back to Angavar closes. That is where"
+    },
+    {
+      "start_time": "00:03:04,239",
+      "end_time": "00:03:08,080",
+      "text": "she originally came from at the fortress"
+    },
+    {
+      "start_time": "00:03:06,319",
+      "end_time": "00:03:09,920",
+      "text": "of the Order of the Purifying Flame. So"
+    },
+    {
+      "start_time": "00:03:08,080",
+      "end_time": "00:03:11,760",
+      "text": "she is running out of time. So they have"
+    },
+    {
+      "start_time": "00:03:09,920",
+      "end_time": "00:03:14,000",
+      "text": "got to move. So what this means is we're"
+    },
+    {
+      "start_time": "00:03:11,760",
+      "end_time": "00:03:15,280",
+      "text": "going to go into our travel rules."
+    },
+    {
+      "start_time": "00:03:14,000",
+      "end_time": "00:03:17,040",
+      "text": "They're going to plan the route. Now,"
+    },
+    {
+      "start_time": "00:03:15,280",
+      "end_time": "00:03:19,200",
+      "text": "they could go south along the river"
+    },
+    {
+      "start_time": "00:03:17,040",
+      "end_time": "00:03:21,519",
+      "text": "again, but that's going to take too much"
+    },
+    {
+      "start_time": "00:03:19,200",
+      "end_time": "00:03:23,519",
+      "text": "time. In fact, I think Veil says to"
+    },
+    {
+      "start_time": "00:03:21,519",
+      "end_time": "00:03:26,080",
+      "text": "Watik, who is their guide, I need you to"
+    },
+    {
+      "start_time": "00:03:23,519",
+      "end_time": "00:03:27,840",
+      "text": "chart the quickest route back to Anuria,"
+    },
+    {
+      "start_time": "00:03:26,080",
+      "end_time": "00:03:30,319",
+      "text": "even if that takes us directly across"
+    },
+    {
+      "start_time": "00:03:27,840",
+      "end_time": "00:03:31,599",
+      "text": "the desert sands. And in fact, that's"
+    },
+    {
+      "start_time": "00:03:30,319",
+      "end_time": "00:03:33,360",
+      "text": "what it's going to be. It's going to be"
+    },
+    {
+      "start_time": "00:03:31,599",
+      "end_time": "00:03:35,280",
+      "text": "basically a straight shot across the"
+    },
+    {
+      "start_time": "00:03:33,360",
+      "end_time": "00:03:36,959",
+      "text": "desert. That's going to be tough."
+    },
+    {
+      "start_time": "00:03:35,280",
+      "end_time": "00:03:39,760",
+      "text": "They're going to be pushing it. They're"
+    },
+    {
+      "start_time": "00:03:36,959",
+      "end_time": "00:03:42,000",
+      "text": "going to be doing force marches and it's"
+    },
+    {
+      "start_time": "00:03:39,760",
+      "end_time": "00:03:44,400",
+      "text": "all rough terrain because it is the"
+    },
+    {
+      "start_time": "00:03:42,000",
+      "end_time": "00:03:45,840",
+      "text": "sweeping dunes and sands of the red"
+    },
+    {
+      "start_time": "00:03:44,400",
+      "end_time": "00:03:48,319",
+      "text": "waists. So that's what they're going to"
+    },
+    {
+      "start_time": "00:03:45,840",
+      "end_time": "00:03:50,080",
+      "text": "do there. Their route is planned. They"
+    },
+    {
+      "start_time": "00:03:48,319",
+      "end_time": "00:03:51,440",
+      "text": "can't make any travel or rolls because"
+    },
+    {
+      "start_time": "00:03:50,080",
+      "end_time": "00:03:52,959",
+      "text": "they're in the middle of nowhere and"
+    },
+    {
+      "start_time": "00:03:51,440",
+      "end_time": "00:03:55,040",
+      "text": "nothing really applies here. Now this"
+    },
+    {
+      "start_time": "00:03:52,959",
+      "end_time": "00:03:56,879",
+      "text": "place does count as a safe area. So they"
+    },
+    {
+      "start_time": "00:03:55,040",
+      "end_time": "00:03:58,319",
+      "text": "were able to rest and recover all of"
+    },
+    {
+      "start_time": "00:03:56,879",
+      "end_time": "00:04:00,560",
+      "text": "their resolve and and knock off three"
+    },
+    {
+      "start_time": "00:03:58,319",
+      "end_time": "00:04:01,840",
+      "text": "fatigue. So they are fresh now, which is"
+    },
+    {
+      "start_time": "00:04:00,560",
+      "end_time": "00:04:03,280",
+      "text": "very important cuz they're not going to"
+    },
+    {
+      "start_time": "00:04:01,840",
+      "end_time": "00:04:06,000",
+      "text": "be fresh by the time they get back to"
+    },
+    {
+      "start_time": "00:04:03,280",
+      "end_time": "00:04:08,799",
+      "text": "Anaria. As they set off the next morning"
+    },
+    {
+      "start_time": "00:04:06,000",
+      "end_time": "00:04:12,319",
+      "text": "through the receding waters of the"
+    },
+    {
+      "start_time": "00:04:08,799",
+      "end_time": "00:04:14,319",
+      "text": "flooded Tomb Valley, they come up out of"
+    },
+    {
+      "start_time": "00:04:12,319",
+      "end_time": "00:04:16,560",
+      "text": "the rocks and begin to make their way"
+    },
+    {
+      "start_time": "00:04:14,319",
+      "end_time": "00:04:18,400",
+      "text": "back down towards the desert floor."
+    },
+    {
+      "start_time": "00:04:16,560",
+      "end_time": "00:04:20,160",
+      "text": "Watique is going to do his track. Well,"
+    },
+    {
+      "start_time": "00:04:18,400",
+      "end_time": "00:04:22,639",
+      "text": "this is going to tell us how far they"
+    },
+    {
+      "start_time": "00:04:20,160",
+      "end_time": "00:04:23,759",
+      "text": "can go before an event befalls them and"
+    },
+    {
+      "start_time": "00:04:22,639",
+      "end_time": "00:04:25,280",
+      "text": "before they have to deal with a bunch of"
+    },
+    {
+      "start_time": "00:04:23,759",
+      "end_time": "00:04:28,560",
+      "text": "other stuff. All right, Watique, let us"
+    },
+    {
+      "start_time": "00:04:25,280",
+      "end_time": "00:04:31,360",
+      "text": "see as he guides us through the desert"
+    },
+    {
+      "start_time": "00:04:28,560",
+      "end_time": "00:04:33,600",
+      "text": "wastess with their soul camel. Here he"
+    },
+    {
+      "start_time": "00:04:31,360",
+      "end_time": "00:04:35,919",
+      "text": "goes, rolling on 80, which is a 23."
+    },
+    {
+      "start_time": "00:04:33,600",
+      "end_time": "00:04:38,720",
+      "text": "Well, okay, that's 2 SL. So, what this"
+    },
+    {
+      "start_time": "00:04:35,919",
+      "end_time": "00:04:40,960",
+      "text": "means is they are going to go uh well,"
+    },
+    {
+      "start_time": "00:04:38,720",
+      "end_time": "00:04:44,240",
+      "text": "not the B basically his score, which is"
+    },
+    {
+      "start_time": "00:04:40,960",
+      "end_time": "00:04:46,080",
+      "text": "the 10 digit of his skill in uh hex's."
+    },
+    {
+      "start_time": "00:04:44,240",
+      "end_time": "00:04:48,400",
+      "text": "So, they're going to go eight hex's"
+    },
+    {
+      "start_time": "00:04:46,080",
+      "end_time": "00:04:50,160",
+      "text": "across the desert, but they are pushing"
+    },
+    {
+      "start_time": "00:04:48,400",
+      "end_time": "00:04:52,720",
+      "text": "it, which means they are going three"
+    },
+    {
+      "start_time": "00:04:50,160",
+      "end_time": "00:04:54,960",
+      "text": "hex's per day. So, because we round up,"
+    },
+    {
+      "start_time": "00:04:52,720",
+      "end_time": "00:04:58,320",
+      "text": "it's going to be 3 days by the time they"
+    },
+    {
+      "start_time": "00:04:54,960",
+      "end_time": "00:05:01,600",
+      "text": "get to the area of the next event. There"
+    },
+    {
+      "start_time": "00:04:58,320",
+      "end_time": "00:05:04,160",
+      "text": "is not much to see over the next 3 days."
+    },
+    {
+      "start_time": "00:05:01,600",
+      "end_time": "00:05:06,320",
+      "text": "sweeping Lords of Arabia type desert."
+    },
+    {
+      "start_time": "00:05:04,160",
+      "end_time": "00:05:08,720",
+      "text": "We're talking massive giant dunes that"
+    },
+    {
+      "start_time": "00:05:06,320",
+      "end_time": "00:05:11,840",
+      "text": "stretch on for as far as the eye can see"
+    },
+    {
+      "start_time": "00:05:08,720",
+      "end_time": "00:05:14,720",
+      "text": "until the the the golden uh red shimmer"
+    },
+    {
+      "start_time": "00:05:11,840",
+      "end_time": "00:05:16,800",
+      "text": "of the sand meets the the blue blue sky"
+    },
+    {
+      "start_time": "00:05:14,720",
+      "end_time": "00:05:20,160",
+      "text": "in the in the far horizon. There is"
+    },
+    {
+      "start_time": "00:05:16,800",
+      "end_time": "00:05:22,160",
+      "text": "nothing but heat and wind and sand that"
+    },
+    {
+      "start_time": "00:05:20,160",
+      "end_time": "00:05:23,680",
+      "text": "blows in their face and gets in every"
+    },
+    {
+      "start_time": "00:05:22,160",
+      "end_time": "00:05:25,199",
+      "text": "crevice of their clothing. Nobody is"
+    },
+    {
+      "start_time": "00:05:23,680",
+      "end_time": "00:05:27,120",
+      "text": "wounded, so we don't have to worry about"
+    },
+    {
+      "start_time": "00:05:25,199",
+      "end_time": "00:05:28,960",
+      "text": "infection or anything like that. But now"
+    },
+    {
+      "start_time": "00:05:27,120",
+      "end_time": "00:05:31,440",
+      "text": "the quartermaster is going to step up."
+    },
+    {
+      "start_time": "00:05:28,960",
+      "end_time": "00:05:33,360",
+      "text": "And our quartermaster I believe is Thrag"
+    },
+    {
+      "start_time": "00:05:31,440",
+      "end_time": "00:05:35,360",
+      "text": "with his survival. He's pretty good at"
+    },
+    {
+      "start_time": "00:05:33,360",
+      "end_time": "00:05:37,120",
+      "text": "this. 70 with an expertise of two, which"
+    },
+    {
+      "start_time": "00:05:35,360",
+      "end_time": "00:05:38,960",
+      "text": "means that the floor is two, which means"
+    },
+    {
+      "start_time": "00:05:37,120",
+      "end_time": "00:05:41,199",
+      "text": "he gets a minimum of two SLS if he"
+    },
+    {
+      "start_time": "00:05:38,960",
+      "end_time": "00:05:43,600",
+      "text": "succeeds at all. Let's see how he does."
+    },
+    {
+      "start_time": "00:05:41,199",
+      "end_time": "00:05:45,440",
+      "text": "This will help us out on the fatigue"
+    },
+    {
+      "start_time": "00:05:43,600",
+      "end_time": "00:05:46,960",
+      "text": "table roll if he succeeds, which he does"
+    },
+    {
+      "start_time": "00:05:45,440",
+      "end_time": "00:05:49,280",
+      "text": "with 35. So that's going to be plus"
+    },
+    {
+      "start_time": "00:05:46,960",
+      "end_time": "00:05:51,680",
+      "text": "three to that table. But it's minus two"
+    },
+    {
+      "start_time": "00:05:49,280",
+      "end_time": "00:05:54,080",
+      "text": "because every hex was desert. So that's"
+    },
+    {
+      "start_time": "00:05:51,680",
+      "end_time": "00:05:57,759",
+      "text": "rough terrain. But they did force march."
+    },
+    {
+      "start_time": "00:05:54,080",
+      "end_time": "00:05:59,199",
+      "text": "So total is going to be uh minus4 to"
+    },
+    {
+      "start_time": "00:05:57,759",
+      "end_time": "00:06:02,800",
+      "text": "this roll because of the numbers"
+    },
+    {
+      "start_time": "00:05:59,199",
+      "end_time": "00:06:05,600",
+      "text": "involved. So we take our d10 minus4."
+    },
+    {
+      "start_time": "00:06:02,800",
+      "end_time": "00:06:07,600",
+      "text": "This could get ugly. Oh yeah, that's"
+    },
+    {
+      "start_time": "00:06:05,600",
+      "end_time": "00:06:09,680",
+      "text": "about as ugly as you can get. So if it's"
+    },
+    {
+      "start_time": "00:06:07,600",
+      "end_time": "00:06:12,000",
+      "text": "one or less, what that means is"
+    },
+    {
+      "start_time": "00:06:09,680",
+      "end_time": "00:06:13,759",
+      "text": "everybody takes four fatigue, but"
+    },
+    {
+      "start_time": "00:06:12,000",
+      "end_time": "00:06:16,160",
+      "text": "luckily they have the camel. So how it"
+    },
+    {
+      "start_time": "00:06:13,759",
+      "end_time": "00:06:17,759",
+      "text": "works is if they have food and water,"
+    },
+    {
+      "start_time": "00:06:16,160",
+      "end_time": "00:06:20,240",
+      "text": "mostly water in this case, they can"
+    },
+    {
+      "start_time": "00:06:17,759",
+      "end_time": "00:06:21,680",
+      "text": "actually reduce their rations diet by a"
+    },
+    {
+      "start_time": "00:06:20,240",
+      "end_time": "00:06:22,960",
+      "text": "step to avoid taking one of those"
+    },
+    {
+      "start_time": "00:06:21,680",
+      "end_time": "00:06:25,440",
+      "text": "fatigue. So that's what they're going to"
+    },
+    {
+      "start_time": "00:06:22,960",
+      "end_time": "00:06:28,240",
+      "text": "do. But they take three fatigue from"
+    },
+    {
+      "start_time": "00:06:25,440",
+      "end_time": "00:06:30,080",
+      "text": "that. Oh boy, that's pretty bad. The"
+    },
+    {
+      "start_time": "00:06:28,240",
+      "end_time": "00:06:32,960",
+      "text": "heat of the sun beating down on them. In"
+    },
+    {
+      "start_time": "00:06:30,080",
+      "end_time": "00:06:34,639",
+      "text": "fact, the only reason the only uh solos"
+    },
+    {
+      "start_time": "00:06:32,960",
+      "end_time": "00:06:35,840",
+      "text": "and respit that they get from this whole"
+    },
+    {
+      "start_time": "00:06:34,639",
+      "end_time": "00:06:39,919",
+      "text": "thing is the fact that they're able to"
+    },
+    {
+      "start_time": "00:06:35,840",
+      "end_time": "00:06:42,000",
+      "text": "consume great portions of water, which"
+    },
+    {
+      "start_time": "00:06:39,919",
+      "end_time": "00:06:44,639",
+      "text": "you know reduces the the fatigue"
+    },
+    {
+      "start_time": "00:06:42,000",
+      "end_time": "00:06:46,880",
+      "text": "somewhat. But now it is time for the"
+    },
+    {
+      "start_time": "00:06:44,639",
+      "end_time": "00:06:49,039",
+      "text": "event. Now events don't have to be bad"
+    },
+    {
+      "start_time": "00:06:46,880",
+      "end_time": "00:06:50,639",
+      "text": "necessarily. It's going to depend on a"
+    },
+    {
+      "start_time": "00:06:49,039",
+      "end_time": "00:06:53,840",
+      "text": "few things. The very first thing I'm"
+    },
+    {
+      "start_time": "00:06:50,639",
+      "end_time": "00:06:56,560",
+      "text": "going to do is see if the scout sees"
+    },
+    {
+      "start_time": "00:06:53,840",
+      "end_time": "00:06:59,120",
+      "text": "anything up ahead. And our scout is"
+    },
+    {
+      "start_time": "00:06:56,560",
+      "end_time": "00:07:00,800",
+      "text": "Veil. She is also rolling on 70. No"
+    },
+    {
+      "start_time": "00:06:59,120",
+      "end_time": "00:07:02,479",
+      "text": "expertise, so she's, you know, she's"
+    },
+    {
+      "start_time": "00:07:00,800",
+      "end_time": "00:07:04,240",
+      "text": "pretty good at this. Uh, and she"
+    },
+    {
+      "start_time": "00:07:02,479",
+      "end_time": "00:07:06,639",
+      "text": "unfortunately will fail. Uh, obviously"
+    },
+    {
+      "start_time": "00:07:04,240",
+      "end_time": "00:07:09,440",
+      "text": "the the the blowing wind has blown sand"
+    },
+    {
+      "start_time": "00:07:06,639",
+      "end_time": "00:07:13,199",
+      "text": "in her eyes and affected her perception."
+    },
+    {
+      "start_time": "00:07:09,440",
+      "end_time": "00:07:14,800",
+      "text": "They will get no bonus favor um for this"
+    },
+    {
+      "start_time": "00:07:13,199",
+      "end_time": "00:07:15,840",
+      "text": "event. But let us see what the event is."
+    },
+    {
+      "start_time": "00:07:14,800",
+      "end_time": "00:07:18,080",
+      "text": "The first thing I want to do is"
+    },
+    {
+      "start_time": "00:07:15,840",
+      "end_time": "00:07:20,080",
+      "text": "determine what the danger level is of"
+    },
+    {
+      "start_time": "00:07:18,080",
+      "end_time": "00:07:21,520",
+      "text": "the hex that they're in. Uh there's many"
+    },
+    {
+      "start_time": "00:07:20,080",
+      "end_time": "00:07:23,919",
+      "text": "ways to do this, but I'm just going to"
+    },
+    {
+      "start_time": "00:07:21,520",
+      "end_time": "00:07:27,680",
+      "text": "determine it randomly, and it's going to"
+    },
+    {
+      "start_time": "00:07:23,919",
+      "end_time": "00:07:29,599",
+      "text": "be perilous. So, there's a number of"
+    },
+    {
+      "start_time": "00:07:27,680",
+      "end_time": "00:07:33,280",
+      "text": "ways to generate events in the Broken"
+    },
+    {
+      "start_time": "00:07:29,599",
+      "end_time": "00:07:36,800",
+      "text": "Empires RPG. I'm going to jump down to"
+    },
+    {
+      "start_time": "00:07:33,280",
+      "end_time": "00:07:40,080",
+      "text": "our specific event types by hex danger"
+    },
+    {
+      "start_time": "00:07:36,800",
+      "end_time": "00:07:43,199",
+      "text": "table. The precarious event that Veil"
+    },
+    {
+      "start_time": "00:07:40,080",
+      "end_time": "00:07:45,120",
+      "text": "did not see coming is going to be Oh,"
+    },
+    {
+      "start_time": "00:07:43,199",
+      "end_time": "00:07:49,440",
+      "text": "this is pretty good. This is pretty good"
+    },
+    {
+      "start_time": "00:07:45,120",
+      "end_time": "00:07:51,919",
+      "text": "actually. Scenic moment."
+    },
+    {
+      "start_time": "00:07:49,440",
+      "end_time": "00:07:54,960",
+      "text": "Type detail and possible effect. The"
+    },
+    {
+      "start_time": "00:07:51,919",
+      "end_time": "00:07:57,039",
+      "text": "type 24. Celestial. Oh, that makes a lot"
+    },
+    {
+      "start_time": "00:07:54,960",
+      "end_time": "00:07:58,879",
+      "text": "of sense. Ah, yeah. I I know what this"
+    },
+    {
+      "start_time": "00:07:57,039",
+      "end_time": "00:08:00,479",
+      "text": "is before I even complete the roll. Uh,"
+    },
+    {
+      "start_time": "00:07:58,879",
+      "end_time": "00:08:03,840",
+      "text": "but let's see if there's anything else"
+    },
+    {
+      "start_time": "00:08:00,479",
+      "end_time": "00:08:05,680",
+      "text": "here. Sign of the past is the detail."
+    },
+    {
+      "start_time": "00:08:03,840",
+      "end_time": "00:08:07,759",
+      "text": "Yeah, that makes perfect sense. And the"
+    },
+    {
+      "start_time": "00:08:05,680",
+      "end_time": "00:08:09,520",
+      "text": "possible effect of this offers a safe"
+    },
+    {
+      "start_time": "00:08:07,759",
+      "end_time": "00:08:12,000",
+      "text": "place to rest. Okay, this is really"
+    },
+    {
+      "start_time": "00:08:09,520",
+      "end_time": "00:08:13,199",
+      "text": "good. So, as they are making their way"
+    },
+    {
+      "start_time": "00:08:12,000",
+      "end_time": "00:08:14,879",
+      "text": "through the desert, they would be"
+    },
+    {
+      "start_time": "00:08:13,199",
+      "end_time": "00:08:16,080",
+      "text": "traveling by night. That's the smarter"
+    },
+    {
+      "start_time": "00:08:14,879",
+      "end_time": "00:08:18,080",
+      "text": "thing to do. I think I established that"
+    },
+    {
+      "start_time": "00:08:16,080",
+      "end_time": "00:08:18,960",
+      "text": "right in like episode one. They're"
+    },
+    {
+      "start_time": "00:08:18,080",
+      "end_time": "00:08:20,479",
+      "text": "traveling through the desert. They're"
+    },
+    {
+      "start_time": "00:08:18,960",
+      "end_time": "00:08:21,759",
+      "text": "they're traveling by night. So, as"
+    },
+    {
+      "start_time": "00:08:20,479",
+      "end_time": "00:08:23,199",
+      "text": "they're about to hunker down for the"
+    },
+    {
+      "start_time": "00:08:21,759",
+      "end_time": "00:08:24,960",
+      "text": "day, as they're setting their tents and"
+    },
+    {
+      "start_time": "00:08:23,199",
+      "end_time": "00:08:26,720",
+      "text": "everything to ward off the heat of the"
+    },
+    {
+      "start_time": "00:08:24,960",
+      "end_time": "00:08:28,319",
+      "text": "day, the moon stars are still in the"
+    },
+    {
+      "start_time": "00:08:26,720",
+      "end_time": "00:08:30,000",
+      "text": "sky. But what they have noticed every"
+    },
+    {
+      "start_time": "00:08:28,319",
+      "end_time": "00:08:33,039",
+      "text": "night leading up to this point is that"
+    },
+    {
+      "start_time": "00:08:30,000",
+      "end_time": "00:08:34,800",
+      "text": "the stars in the sky are slowly"
+    },
+    {
+      "start_time": "00:08:33,039",
+      "end_time": "00:08:36,880",
+      "text": "converging into one spot. This is a"
+    },
+    {
+      "start_time": "00:08:34,800",
+      "end_time": "00:08:39,200",
+      "text": "celestial phenomenon known, of course,"
+    },
+    {
+      "start_time": "00:08:36,880",
+      "end_time": "00:08:42,240",
+      "text": "as the great conjunction. So, the time"
+    },
+    {
+      "start_time": "00:08:39,200",
+      "end_time": "00:08:44,959",
+      "text": "is drawing near. Now, as Veil is looking"
+    },
+    {
+      "start_time": "00:08:42,240",
+      "end_time": "00:08:47,440",
+      "text": "up at those stars, can she derive some"
+    },
+    {
+      "start_time": "00:08:44,959",
+      "end_time": "00:08:49,279",
+      "text": "sense of hope from this? We know that"
+    },
+    {
+      "start_time": "00:08:47,440",
+      "end_time": "00:08:50,720",
+      "text": "she's on her way to Aner because she"
+    },
+    {
+      "start_time": "00:08:49,279",
+      "end_time": "00:08:53,200",
+      "text": "believes that there's a chance she might"
+    },
+    {
+      "start_time": "00:08:50,720",
+      "end_time": "00:08:56,240",
+      "text": "be able to save Cherylyn by being able"
+    },
+    {
+      "start_time": "00:08:53,200",
+      "end_time": "00:08:59,200",
+      "text": "to extract the last shard of her living"
+    },
+    {
+      "start_time": "00:08:56,240",
+      "end_time": "00:09:00,880",
+      "text": "soul from Matzaroth uh once he dies."
+    },
+    {
+      "start_time": "00:08:59,200",
+      "end_time": "00:09:02,880",
+      "text": "That that is her hope. I'm going to give"
+    },
+    {
+      "start_time": "00:09:00,880",
+      "end_time": "00:09:04,959",
+      "text": "her a role on ancient lore. Now, she's"
+    },
+    {
+      "start_time": "00:09:02,880",
+      "end_time": "00:09:07,519",
+      "text": "not particularly good at this, but she"
+    },
+    {
+      "start_time": "00:09:04,959",
+      "end_time": "00:09:10,480",
+      "text": "does talk to Thrag about this. Thrag, do"
+    },
+    {
+      "start_time": "00:09:07,519",
+      "end_time": "00:09:13,360",
+      "text": "you see the stars? They are aligning"
+    },
+    {
+      "start_time": "00:09:10,480",
+      "end_time": "00:09:15,839",
+      "text": "even now. What Mozart said is correct."
+    },
+    {
+      "start_time": "00:09:13,360",
+      "end_time": "00:09:18,880",
+      "text": "The great conjunction is nearly upon us."
+    },
+    {
+      "start_time": "00:09:15,839",
+      "end_time": "00:09:21,760",
+      "text": "It is possible that he was not lying to"
+    },
+    {
+      "start_time": "00:09:18,880",
+      "end_time": "00:09:23,519",
+      "text": "us. Thrag just kind of like folds his"
+    },
+    {
+      "start_time": "00:09:21,760",
+      "end_time": "00:09:25,040",
+      "text": "arms. He's clearly skeptical and he"
+    },
+    {
+      "start_time": "00:09:23,519",
+      "end_time": "00:09:27,360",
+      "text": "signs to her because of course he's a"
+    },
+    {
+      "start_time": "00:09:25,040",
+      "end_time": "00:09:30,640",
+      "text": "mute. It is a fool who believes the"
+    },
+    {
+      "start_time": "00:09:27,360",
+      "end_time": "00:09:34,160",
+      "text": "words of a lich veil. I do not believe"
+    },
+    {
+      "start_time": "00:09:30,640",
+      "end_time": "00:09:37,760",
+      "text": "that you are a fool. What's more, my old"
+    },
+    {
+      "start_time": "00:09:34,160",
+      "end_time": "00:09:41,040",
+      "text": "friend, I believe that you are allowing"
+    },
+    {
+      "start_time": "00:09:37,760",
+      "end_time": "00:09:44,000",
+      "text": "your own emotions over your loss of"
+    },
+    {
+      "start_time": "00:09:41,040",
+      "end_time": "00:09:48,320",
+      "text": "Sherillin to cloud your judgment. And I"
+    },
+    {
+      "start_time": "00:09:44,000",
+      "end_time": "00:09:51,680",
+      "text": "believe that it could spell our doom."
+    },
+    {
+      "start_time": "00:09:48,320",
+      "end_time": "00:09:53,519",
+      "text": "I understand, Thrag. I will not walk"
+    },
+    {
+      "start_time": "00:09:51,680",
+      "end_time": "00:09:55,680",
+      "text": "blindly into the clutches of that"
+    },
+    {
+      "start_time": "00:09:53,519",
+      "end_time": "00:09:58,320",
+      "text": "villain."
+    },
+    {
+      "start_time": "00:09:55,680",
+      "end_time": "00:10:00,160",
+      "text": "If he is right,"
+    },
+    {
+      "start_time": "00:09:58,320",
+      "end_time": "00:10:02,880",
+      "text": "then we might take some sorrows from"
+    },
+    {
+      "start_time": "00:10:00,160",
+      "end_time": "00:10:04,800",
+      "text": "this, don't you think? So, I think she's"
+    },
+    {
+      "start_time": "00:10:02,880",
+      "end_time": "00:10:06,640",
+      "text": "going to do an ancient lore roll with"
+    },
+    {
+      "start_time": "00:10:04,800",
+      "end_time": "00:10:08,560",
+      "text": "his help. She's going to roll with a"
+    },
+    {
+      "start_time": "00:10:06,640",
+      "end_time": "00:10:12,240",
+      "text": "slight bonus. Not very good. This is not"
+    },
+    {
+      "start_time": "00:10:08,560",
+      "end_time": "00:10:14,320",
+      "text": "a great chance. Um, but oh, and they"
+    },
+    {
+      "start_time": "00:10:12,240",
+      "end_time": "00:10:16,240",
+      "text": "actually she succeeded. Okay, great. So,"
+    },
+    {
+      "start_time": "00:10:14,320",
+      "end_time": "00:10:18,079",
+      "text": "what I'm going to do is that knight"
+    },
+    {
+      "start_time": "00:10:16,240",
+      "end_time": "00:10:20,720",
+      "text": "because she's able to sort of convince"
+    },
+    {
+      "start_time": "00:10:18,079",
+      "end_time": "00:10:23,040",
+      "text": "Thrag that that maybe maybe there is"
+    },
+    {
+      "start_time": "00:10:20,720",
+      "end_time": "00:10:25,680",
+      "text": "hope after all for the the entire"
+    },
+    {
+      "start_time": "00:10:23,040",
+      "end_time": "00:10:27,680",
+      "text": "purpose of the order, which is to to get"
+    },
+    {
+      "start_time": "00:10:25,680",
+      "end_time": "00:10:29,600",
+      "text": "rid of the scourge of undeath. Even"
+    },
+    {
+      "start_time": "00:10:27,680",
+      "end_time": "00:10:32,560",
+      "text": "though Thrag doesn't 100% believe this,"
+    },
+    {
+      "start_time": "00:10:29,600",
+      "end_time": "00:10:34,000",
+      "text": "he is moved by her dedication. And I"
+    },
+    {
+      "start_time": "00:10:32,560",
+      "end_time": "00:10:36,240",
+      "text": "think that the both of them are able to"
+    },
+    {
+      "start_time": "00:10:34,000",
+      "end_time": "00:10:38,320",
+      "text": "recover uh one fatigue from that. All"
+    },
+    {
+      "start_time": "00:10:36,240",
+      "end_time": "00:10:40,880",
+      "text": "right, they will continue on. They are"
+    },
+    {
+      "start_time": "00:10:38,320",
+      "end_time": "00:10:42,880",
+      "text": "in the middle of nowhere. There is no"
+    },
+    {
+      "start_time": "00:10:40,880",
+      "end_time": "00:10:45,760",
+      "text": "possible way to get Travalor here. So"
+    },
+    {
+      "start_time": "00:10:42,880",
+      "end_time": "00:10:47,839",
+      "text": "instead, Watik, the guide is going to"
+    },
+    {
+      "start_time": "00:10:45,760",
+      "end_time": "00:10:50,240",
+      "text": "give us another roll. And he's It's not"
+    },
+    {
+      "start_time": "00:10:47,839",
+      "end_time": "00:10:51,680",
+      "text": "great. It's not great, but it's okay. He"
+    },
+    {
+      "start_time": "00:10:50,240",
+      "end_time": "00:10:53,760",
+      "text": "didn't fail, and that's what counts. So"
+    },
+    {
+      "start_time": "00:10:51,680",
+      "end_time": "00:10:56,560",
+      "text": "they're able to go another eight hex's"
+    },
+    {
+      "start_time": "00:10:53,760",
+      "end_time": "00:10:59,120",
+      "text": "before the event. Oh, they're so close."
+    },
+    {
+      "start_time": "00:10:56,560",
+      "end_time": "00:11:01,760",
+      "text": "They're basically just a few miles north"
+    },
+    {
+      "start_time": "00:10:59,120",
+      "end_time": "00:11:03,440",
+      "text": "of the Jeweled River now. So, Watique"
+    },
+    {
+      "start_time": "00:11:01,760",
+      "end_time": "00:11:06,399",
+      "text": "knows exactly where he's going. This is"
+    },
+    {
+      "start_time": "00:11:03,440",
+      "end_time": "00:11:10,160",
+      "text": "good. But the question is, how tiring"
+    },
+    {
+      "start_time": "00:11:06,399",
+      "end_time": "00:11:12,320",
+      "text": "was the journey? This is going to be on"
+    },
+    {
+      "start_time": "00:11:10,160",
+      "end_time": "00:11:15,200",
+      "text": "Thrag now. His endurance roll as the"
+    },
+    {
+      "start_time": "00:11:12,320",
+      "end_time": "00:11:18,640",
+      "text": "quartermaster. And he does pretty good"
+    },
+    {
+      "start_time": "00:11:15,200",
+      "end_time": "00:11:21,279",
+      "text": "again. This is featureless red waste."
+    },
+    {
+      "start_time": "00:11:18,640",
+      "end_time": "00:11:23,279",
+      "text": "This is nothing but endless miles of"
+    },
+    {
+      "start_time": "00:11:21,279",
+      "end_time": "00:11:26,880",
+      "text": "sand dunes. On our fatigue table, he's"
+    },
+    {
+      "start_time": "00:11:23,279",
+      "end_time": "00:11:28,959",
+      "text": "rolling d10 minus 4 again. And okay,"
+    },
+    {
+      "start_time": "00:11:26,880",
+      "end_time": "00:11:30,880",
+      "text": "that's a little better cuz they were"
+    },
+    {
+      "start_time": "00:11:28,959",
+      "end_time": "00:11:32,320",
+      "text": "pushing it. They were force marching"
+    },
+    {
+      "start_time": "00:11:30,880",
+      "end_time": "00:11:35,600",
+      "text": "this whole way. So, everyone takes two"
+    },
+    {
+      "start_time": "00:11:32,320",
+      "end_time": "00:11:37,920",
+      "text": "fatigue again. I think they have to they"
+    },
+    {
+      "start_time": "00:11:35,600",
+      "end_time": "00:11:39,519",
+      "text": "have to consume uh copious amounts of"
+    },
+    {
+      "start_time": "00:11:37,920",
+      "end_time": "00:11:41,200",
+      "text": "their supplies in order to reduce that"
+    },
+    {
+      "start_time": "00:11:39,519",
+      "end_time": "00:11:43,839",
+      "text": "to one fatigue, which they're going to"
+    },
+    {
+      "start_time": "00:11:41,200",
+      "end_time": "00:11:45,600",
+      "text": "do. We are going to roll for Veil now to"
+    },
+    {
+      "start_time": "00:11:43,839",
+      "end_time": "00:11:47,519",
+      "text": "see if she makes her perception. And"
+    },
+    {
+      "start_time": "00:11:45,600",
+      "end_time": "00:11:49,519",
+      "text": "this time she does with five cells,"
+    },
+    {
+      "start_time": "00:11:47,519",
+      "end_time": "00:11:51,920",
+      "text": "which is really good. Again, because we"
+    },
+    {
+      "start_time": "00:11:49,519",
+      "end_time": "00:11:54,399",
+      "text": "don't know what this hex is, I'm just"
+    },
+    {
+      "start_time": "00:11:51,920",
+      "end_time": "00:11:56,320",
+      "text": "going to randomly determine it. Oh, it's"
+    },
+    {
+      "start_time": "00:11:54,399",
+      "end_time": "00:11:58,399",
+      "text": "neutral. Okay, so it it's it's a neutral"
+    },
+    {
+      "start_time": "00:11:56,320",
+      "end_time": "00:12:00,800",
+      "text": "hex. I'm going to go back down to the"
+    },
+    {
+      "start_time": "00:11:58,399",
+      "end_time": "00:12:03,440",
+      "text": "normal table here and see what the"
+    },
+    {
+      "start_time": "00:12:00,800",
+      "end_time": "00:12:04,959",
+      "text": "nature of the event is. Oh well, this is"
+    },
+    {
+      "start_time": "00:12:03,440",
+      "end_time": "00:12:07,600",
+      "text": "good for them again, I think."
+    },
+    {
+      "start_time": "00:12:04,959",
+      "end_time": "00:12:09,360",
+      "text": "Environmental boon. This is very good so"
+    },
+    {
+      "start_time": "00:12:07,600",
+      "end_time": "00:12:12,079",
+      "text": "far. They're getting extraordinarily"
+    },
+    {
+      "start_time": "00:12:09,360",
+      "end_time": "00:12:13,839",
+      "text": "lucky. The type"
+    },
+    {
+      "start_time": "00:12:12,079",
+      "end_time": "00:12:16,320",
+      "text": "edible plants or fruits? They come"
+    },
+    {
+      "start_time": "00:12:13,839",
+      "end_time": "00:12:20,160",
+      "text": "across probably edible cacti in the"
+    },
+    {
+      "start_time": "00:12:16,320",
+      "end_time": "00:12:21,760",
+      "text": "desert, but to what end? The source. Oh,"
+    },
+    {
+      "start_time": "00:12:20,160",
+      "end_time": "00:12:23,120",
+      "text": "intelligent influence or interference."
+    },
+    {
+      "start_time": "00:12:21,760",
+      "end_time": "00:12:25,040",
+      "text": "Somebody planted this. This is like"
+    },
+    {
+      "start_time": "00:12:23,120",
+      "end_time": "00:12:26,639",
+      "text": "somebody's desert garden. Oh,"
+    },
+    {
+      "start_time": "00:12:25,040",
+      "end_time": "00:12:28,720",
+      "text": "interesting. So, somebody's out here."
+    },
+    {
+      "start_time": "00:12:26,639",
+      "end_time": "00:12:30,160",
+      "text": "Could it be nomads, desert barbarians?"
+    },
+    {
+      "start_time": "00:12:28,720",
+      "end_time": "00:12:32,240",
+      "text": "Could it be something else? I don't"
+    },
+    {
+      "start_time": "00:12:30,160",
+      "end_time": "00:12:34,880",
+      "text": "know. But let's see what the potential"
+    },
+    {
+      "start_time": "00:12:32,240",
+      "end_time": "00:12:36,560",
+      "text": "results of this are. Efficient travel."
+    },
+    {
+      "start_time": "00:12:34,880",
+      "end_time": "00:12:38,800",
+      "text": "Oh, this is that's exactly what I think"
+    },
+    {
+      "start_time": "00:12:36,560",
+      "end_time": "00:12:41,440",
+      "text": "it is. I think it is a small desert"
+    },
+    {
+      "start_time": "00:12:38,800",
+      "end_time": "00:12:43,680",
+      "text": "orchard with a tiny little oasis. And I"
+    },
+    {
+      "start_time": "00:12:41,440",
+      "end_time": "00:12:45,360",
+      "text": "think it's like a way station. Yeah."
+    },
+    {
+      "start_time": "00:12:43,680",
+      "end_time": "00:12:47,519",
+      "text": "Yeah. For travel. So, it's a way station"
+    },
+    {
+      "start_time": "00:12:45,360",
+      "end_time": "00:12:49,680",
+      "text": "that local desert nomads use. Everybody"
+    },
+    {
+      "start_time": "00:12:47,519",
+      "end_time": "00:12:51,440",
+      "text": "can can do a nature-wise role. And if"
+    },
+    {
+      "start_time": "00:12:49,680",
+      "end_time": "00:12:52,639",
+      "text": "they succeed overall, they don't have to"
+    },
+    {
+      "start_time": "00:12:51,440",
+      "end_time": "00:12:54,320",
+      "text": "do very well. Well, they've only got to"
+    },
+    {
+      "start_time": "00:12:52,639",
+      "end_time": "00:12:56,000",
+      "text": "get a number of SLS, we'll say three."
+    },
+    {
+      "start_time": "00:12:54,320",
+      "end_time": "00:12:57,920",
+      "text": "And if they succeed, then they'll be"
+    },
+    {
+      "start_time": "00:12:56,000",
+      "end_time": "00:12:59,760",
+      "text": "able to uh harvest some of those those"
+    },
+    {
+      "start_time": "00:12:57,920",
+      "end_time": "00:13:01,760",
+      "text": "fruits successfully cuz it's it's this"
+    },
+    {
+      "start_time": "00:12:59,760",
+      "end_time": "00:13:03,760",
+      "text": "weird kind of desert fruit where if you"
+    },
+    {
+      "start_time": "00:13:01,760",
+      "end_time": "00:13:05,279",
+      "text": "if you cut it at the wrong, you know,"
+    },
+    {
+      "start_time": "00:13:03,760",
+      "end_time": "00:13:07,279",
+      "text": "angle or something like that, it"
+    },
+    {
+      "start_time": "00:13:05,279",
+      "end_time": "00:13:09,600",
+      "text": "basically like uh emits some sort of"
+    },
+    {
+      "start_time": "00:13:07,279",
+      "end_time": "00:13:11,279",
+      "text": "toxin cuz it's the desert. It's, you"
+    },
+    {
+      "start_time": "00:13:09,600",
+      "end_time": "00:13:13,440",
+      "text": "know, it's like Australia. Everything's"
+    },
+    {
+      "start_time": "00:13:11,279",
+      "end_time": "00:13:16,320",
+      "text": "trying to kill you."
+    },
+    {
+      "start_time": "00:13:13,440",
+      "end_time": "00:13:18,800",
+      "text": "Veil is going to do an HY. She's really"
+    },
+    {
+      "start_time": "00:13:16,320",
+      "end_time": "00:13:20,720",
+      "text": "not good at this. Uh, no. She will"
+    },
+    {
+      "start_time": "00:13:18,800",
+      "end_time": "00:13:21,920",
+      "text": "definitely not have any idea of how to"
+    },
+    {
+      "start_time": "00:13:20,720",
+      "end_time": "00:13:25,200",
+      "text": "harvest this thing as they're looking at"
+    },
+    {
+      "start_time": "00:13:21,920",
+      "end_time": "00:13:27,680",
+      "text": "this thrag. Is it 40? He will also not"
+    },
+    {
+      "start_time": "00:13:25,200",
+      "end_time": "00:13:29,200",
+      "text": "be able to do it. Um, Watik will be able"
+    },
+    {
+      "start_time": "00:13:27,680",
+      "end_time": "00:13:32,720",
+      "text": "to do it as well. I'm going to give him"
+    },
+    {
+      "start_time": "00:13:29,200",
+      "end_time": "00:13:35,279",
+      "text": "a 50 on nature wise. Okay. Well, he is"
+    },
+    {
+      "start_time": "00:13:32,720",
+      "end_time": "00:13:37,279",
+      "text": "able to actually harvest some of these"
+    },
+    {
+      "start_time": "00:13:35,279",
+      "end_time": "00:13:38,560",
+      "text": "fruits, which again, I think what it's"
+    },
+    {
+      "start_time": "00:13:37,279",
+      "end_time": "00:13:40,959",
+      "text": "going to do, it's going to provide them"
+    },
+    {
+      "start_time": "00:13:38,560",
+      "end_time": "00:13:42,320",
+      "text": "a bonus on their next fatigue roll, but"
+    },
+    {
+      "start_time": "00:13:40,959",
+      "end_time": "00:13:43,680",
+      "text": "they're able to harvest a couple that"
+    },
+    {
+      "start_time": "00:13:42,320",
+      "end_time": "00:13:45,120",
+      "text": "they can sort of feast on, and that's"
+    },
+    {
+      "start_time": "00:13:43,680",
+      "end_time": "00:13:46,480",
+      "text": "going to that's going to ease their"
+    },
+    {
+      "start_time": "00:13:45,120",
+      "end_time": "00:13:48,480",
+      "text": "passage a little bit. They're pretty"
+    },
+    {
+      "start_time": "00:13:46,480",
+      "end_time": "00:13:50,079",
+      "text": "much guaranteed to get into anir on this"
+    },
+    {
+      "start_time": "00:13:48,480",
+      "end_time": "00:13:51,600",
+      "text": "next roll. Unless something goes"
+    },
+    {
+      "start_time": "00:13:50,079",
+      "end_time": "00:13:54,160",
+      "text": "catastrophically wrong, but I can't"
+    },
+    {
+      "start_time": "00:13:51,600",
+      "end_time": "00:13:55,760",
+      "text": "really see what that would be. As long"
+    },
+    {
+      "start_time": "00:13:54,160",
+      "end_time": "00:13:57,120",
+      "text": "as Watik makes this roll, they're going"
+    },
+    {
+      "start_time": "00:13:55,760",
+      "end_time": "00:13:59,440",
+      "text": "to get into anir. They'll still have to"
+    },
+    {
+      "start_time": "00:13:57,120",
+      "end_time": "00:14:02,160",
+      "text": "do a fatigue roll. But let us see what's"
+    },
+    {
+      "start_time": "00:13:59,440",
+      "end_time": "00:14:04,000",
+      "text": "going on here with Watique. Uh he is"
+    },
+    {
+      "start_time": "00:14:02,160",
+      "end_time": "00:14:05,760",
+      "text": "able to do it. And so they're going to"
+    },
+    {
+      "start_time": "00:14:04,000",
+      "end_time": "00:14:07,360",
+      "text": "be able to get in no problem. However,"
+    },
+    {
+      "start_time": "00:14:05,760",
+      "end_time": "00:14:08,959",
+      "text": "we still do have to do the fatigue roll."
+    },
+    {
+      "start_time": "00:14:07,360",
+      "end_time": "00:14:11,680",
+      "text": "They were still pushing. It's going to"
+    },
+    {
+      "start_time": "00:14:08,959",
+      "end_time": "00:14:14,560",
+      "text": "be another 2 days before they get to an"
+    },
+    {
+      "start_time": "00:14:11,680",
+      "end_time": "00:14:16,320",
+      "text": "Sharer. Thra gets to do his and Okay."
+    },
+    {
+      "start_time": "00:14:14,560",
+      "end_time": "00:14:18,320",
+      "text": "Well, that's plus one. They're going to"
+    },
+    {
+      "start_time": "00:14:16,320",
+      "end_time": "00:14:20,320",
+      "text": "have plus two on that. It's five, so"
+    },
+    {
+      "start_time": "00:14:18,320",
+      "end_time": "00:14:23,360",
+      "text": "it's going to be minus two all in on the"
+    },
+    {
+      "start_time": "00:14:20,320",
+      "end_time": "00:14:25,519",
+      "text": "fatigue roll. Oh my god. And of course,"
+    },
+    {
+      "start_time": "00:14:23,360",
+      "end_time": "00:14:28,399",
+      "text": "it's exhausting."
+    },
+    {
+      "start_time": "00:14:25,519",
+      "end_time": "00:14:31,680",
+      "text": "Four fatigue all around. But again, they"
+    },
+    {
+      "start_time": "00:14:28,399",
+      "end_time": "00:14:34,000",
+      "text": "just burn through their rations. This is"
+    },
+    {
+      "start_time": "00:14:31,680",
+      "end_time": "00:14:36,079",
+      "text": "It was really bad. They're down to D6s"
+    },
+    {
+      "start_time": "00:14:34,000",
+      "end_time": "00:14:38,480",
+      "text": "now. That means they only take three."
+    },
+    {
+      "start_time": "00:14:36,079",
+      "end_time": "00:14:40,639",
+      "text": "Oh, this is really bad. Three fatigue"
+    },
+    {
+      "start_time": "00:14:38,480",
+      "end_time": "00:14:42,480",
+      "text": "each. They've taken six in total. But"
+    },
+    {
+      "start_time": "00:14:40,639",
+      "end_time": "00:14:44,000",
+      "text": "there is no event when they get to the"
+    },
+    {
+      "start_time": "00:14:42,480",
+      "end_time": "00:14:46,000",
+      "text": "city. That's an option the GM has. And"
+    },
+    {
+      "start_time": "00:14:44,000",
+      "end_time": "00:14:49,040",
+      "text": "I'm going to exercise that option now."
+    },
+    {
+      "start_time": "00:14:46,000",
+      "end_time": "00:14:50,560",
+      "text": "So they get there three nights later cuz"
+    },
+    {
+      "start_time": "00:14:49,040",
+      "end_time": "00:14:52,480",
+      "text": "they are traveling by night. So I'm"
+    },
+    {
+      "start_time": "00:14:50,560",
+      "end_time": "00:14:53,920",
+      "text": "going to say that it's like the middle"
+    },
+    {
+      "start_time": "00:14:52,480",
+      "end_time": "00:14:55,279",
+      "text": "of the night on their third day from"
+    },
+    {
+      "start_time": "00:14:53,920",
+      "end_time": "00:14:56,399",
+      "text": "that last stop. Yeah, it's it's the"
+    },
+    {
+      "start_time": "00:14:55,279",
+      "end_time": "00:14:57,839",
+      "text": "middle of the night. So when they come"
+    },
+    {
+      "start_time": "00:14:56,399",
+      "end_time": "00:14:59,839",
+      "text": "to the gates of the city, the gates of"
+    },
+    {
+      "start_time": "00:14:57,839",
+      "end_time": "00:15:02,160",
+      "text": "the city are probably shut. So they'll"
+    },
+    {
+      "start_time": "00:14:59,839",
+      "end_time": "00:15:03,680",
+      "text": "have to wait until dawn in order to get"
+    },
+    {
+      "start_time": "00:15:02,160",
+      "end_time": "00:15:05,360",
+      "text": "into the city unless they want to kind"
+    },
+    {
+      "start_time": "00:15:03,680",
+      "end_time": "00:15:07,680",
+      "text": "of unless Veil wants to sort of steal"
+    },
+    {
+      "start_time": "00:15:05,360",
+      "end_time": "00:15:10,240",
+      "text": "over the walls. I think she's going to"
+    },
+    {
+      "start_time": "00:15:07,680",
+      "end_time": "00:15:14,079",
+      "text": "want to do that because she wants to get"
+    },
+    {
+      "start_time": "00:15:10,240",
+      "end_time": "00:15:15,680",
+      "text": "in touch with General Bengara."
+    },
+    {
+      "start_time": "00:15:14,079",
+      "end_time": "00:15:17,600",
+      "text": "remember that she had sort of befriended"
+    },
+    {
+      "start_time": "00:15:15,680",
+      "end_time": "00:15:19,680",
+      "text": "him and convinced him of the worthiness"
+    },
+    {
+      "start_time": "00:15:17,600",
+      "end_time": "00:15:21,600",
+      "text": "of her cause. And he also now believes"
+    },
+    {
+      "start_time": "00:15:19,680",
+      "end_time": "00:15:23,760",
+      "text": "that that this creature or something is"
+    },
+    {
+      "start_time": "00:15:21,600",
+      "end_time": "00:15:25,600",
+      "text": "possessing the vazier and he wants his"
+    },
+    {
+      "start_time": "00:15:23,760",
+      "end_time": "00:15:27,360",
+      "text": "city back. She basically says to Thrag"
+    },
+    {
+      "start_time": "00:15:25,600",
+      "end_time": "00:15:30,480",
+      "text": "and Watik, \"Stay here and wait until"
+    },
+    {
+      "start_time": "00:15:27,360",
+      "end_time": "00:15:31,920",
+      "text": "dawn. I'm going to enter the city myself"
+    },
+    {
+      "start_time": "00:15:30,480",
+      "end_time": "00:15:34,399",
+      "text": "and try and make contact with General"
+    },
+    {
+      "start_time": "00:15:31,920",
+      "end_time": "00:15:35,519",
+      "text": "Bengara. Meet me at the inn.\" Whatever"
+    },
+    {
+      "start_time": "00:15:34,399",
+      "end_time": "00:15:37,040",
+      "text": "inn they were staying at. It was like"
+    },
+    {
+      "start_time": "00:15:35,519",
+      "end_time": "00:15:38,240",
+      "text": "the grinning scorpion or something. I"
+    },
+    {
+      "start_time": "00:15:37,040",
+      "end_time": "00:15:39,440",
+      "text": "can't remember and I don't look it up,"
+    },
+    {
+      "start_time": "00:15:38,240",
+      "end_time": "00:15:41,519",
+      "text": "but we'll assume that's what it was. All"
+    },
+    {
+      "start_time": "00:15:39,440",
+      "end_time": "00:15:42,800",
+      "text": "right. So, she makes her way to a"
+    },
+    {
+      "start_time": "00:15:41,519",
+      "end_time": "00:15:43,839",
+      "text": "secluded part of the city wall. Well,"
+    },
+    {
+      "start_time": "00:15:42,800",
+      "end_time": "00:15:46,240",
+      "text": "this is going to be tough to get over,"
+    },
+    {
+      "start_time": "00:15:43,839",
+      "end_time": "00:15:47,360",
+      "text": "but um going to going to ask a few"
+    },
+    {
+      "start_time": "00:15:46,240",
+      "end_time": "00:15:48,560",
+      "text": "things about the fake charge. But before"
+    },
+    {
+      "start_time": "00:15:47,360",
+      "end_time": "00:15:50,959",
+      "text": "we actually do that, they have"
+    },
+    {
+      "start_time": "00:15:48,560",
+      "end_time": "00:15:52,720",
+      "text": "technically arrived now. So, let us end"
+    },
+    {
+      "start_time": "00:15:50,959",
+      "end_time": "00:15:56,000",
+      "text": "that scene. So, we update there's no new"
+    },
+    {
+      "start_time": "00:15:52,720",
+      "end_time": "00:15:57,519",
+      "text": "characters. Uh the new threads, well, we"
+    },
+    {
+      "start_time": "00:15:56,000",
+      "end_time": "00:16:00,720",
+      "text": "did we did get to the city, but we"
+    },
+    {
+      "start_time": "00:15:57,519",
+      "end_time": "00:16:03,360",
+      "text": "haven't got the felactory uh to the lich"
+    },
+    {
+      "start_time": "00:16:00,720",
+      "end_time": "00:16:05,279",
+      "text": "yet. I am going to add the thread find"
+    },
+    {
+      "start_time": "00:16:03,360",
+      "end_time": "00:16:06,720",
+      "text": "General Bengara and the chaos factor, I"
+    },
+    {
+      "start_time": "00:16:05,279",
+      "end_time": "00:16:09,040",
+      "text": "think, is going to go down to seven"
+    },
+    {
+      "start_time": "00:16:06,720",
+      "end_time": "00:16:11,120",
+      "text": "because they were surprisingly largely"
+    },
+    {
+      "start_time": "00:16:09,040",
+      "end_time": "00:16:13,279",
+      "text": "in control in that whole scene, which is"
+    },
+    {
+      "start_time": "00:16:11,120",
+      "end_time": "00:16:16,240",
+      "text": "uh amazing. All right. So, she is going"
+    },
+    {
+      "start_time": "00:16:13,279",
+      "end_time": "00:16:17,759",
+      "text": "to try and find a way across the wall."
+    },
+    {
+      "start_time": "00:16:16,240",
+      "end_time": "00:16:19,680",
+      "text": "So, I'm going to go to our our fate"
+    },
+    {
+      "start_time": "00:16:17,759",
+      "end_time": "00:16:22,399",
+      "text": "chart now and ask a question. What are"
+    },
+    {
+      "start_time": "00:16:19,680",
+      "end_time": "00:16:24,000",
+      "text": "the odds that she's able to find uh a"
+    },
+    {
+      "start_time": "00:16:22,399",
+      "end_time": "00:16:26,160",
+      "text": "relatively unguarded part of the wall"
+    },
+    {
+      "start_time": "00:16:24,000",
+      "end_time": "00:16:28,720",
+      "text": "that is going to allow access? Uh, this"
+    },
+    {
+      "start_time": "00:16:26,160",
+      "end_time": "00:16:30,959",
+      "text": "is a pretty well-defended city, mostly"
+    },
+    {
+      "start_time": "00:16:28,720",
+      "end_time": "00:16:32,639",
+      "text": "because of the size and construction of"
+    },
+    {
+      "start_time": "00:16:30,959",
+      "end_time": "00:16:34,000",
+      "text": "the walls rather than like a whole bunch"
+    },
+    {
+      "start_time": "00:16:32,639",
+      "end_time": "00:16:36,959",
+      "text": "of guards everywhere. Now, remember"
+    },
+    {
+      "start_time": "00:16:34,000",
+      "end_time": "00:16:39,519",
+      "text": "though, the one of the threads is is to"
+    },
+    {
+      "start_time": "00:16:36,959",
+      "end_time": "00:16:42,160",
+      "text": "evade the Vazier's patrols. Technically"
+    },
+    {
+      "start_time": "00:16:39,519",
+      "end_time": "00:16:44,480",
+      "text": "speaking, the vazier is still, as far as"
+    },
+    {
+      "start_time": "00:16:42,160",
+      "end_time": "00:16:46,480",
+      "text": "she knows, the vazier's patrols are"
+    },
+    {
+      "start_time": "00:16:44,480",
+      "end_time": "00:16:48,160",
+      "text": "still out looking for her. But now she"
+    },
+    {
+      "start_time": "00:16:46,480",
+      "end_time": "00:16:49,600",
+      "text": "has reason to question that because if"
+    },
+    {
+      "start_time": "00:16:48,160",
+      "end_time": "00:16:51,839",
+      "text": "in fact the vazier is in the control of"
+    },
+    {
+      "start_time": "00:16:49,600",
+      "end_time": "00:16:53,680",
+      "text": "the Lynch Matzaroth, then perhaps"
+    },
+    {
+      "start_time": "00:16:51,839",
+      "end_time": "00:16:55,120",
+      "text": "Matzaroth has called off the guards. But"
+    },
+    {
+      "start_time": "00:16:53,680",
+      "end_time": "00:16:56,800",
+      "text": "that would mean trusting Matzaroth to"
+    },
+    {
+      "start_time": "00:16:55,120",
+      "end_time": "00:17:00,079",
+      "text": "his word and she's not quite ready to do"
+    },
+    {
+      "start_time": "00:16:56,800",
+      "end_time": "00:17:01,920",
+      "text": "that yet. So I think it is 50/50 that"
+    },
+    {
+      "start_time": "00:17:00,079",
+      "end_time": "00:17:03,360",
+      "text": "she is able to find a relatively"
+    },
+    {
+      "start_time": "00:17:01,920",
+      "end_time": "00:17:05,280",
+      "text": "undefended part of the wall that she"
+    },
+    {
+      "start_time": "00:17:03,360",
+      "end_time": "00:17:07,199",
+      "text": "might be able to get up and over without"
+    },
+    {
+      "start_time": "00:17:05,280",
+      "end_time": "00:17:09,919",
+      "text": "consequence. Here we go. This is Chaos"
+    },
+    {
+      "start_time": "00:17:07,199",
+      "end_time": "00:17:11,520",
+      "text": "Factor 7. And the answer is yes, she is"
+    },
+    {
+      "start_time": "00:17:09,919",
+      "end_time": "00:17:12,959",
+      "text": "able to do that, but it's not an extreme"
+    },
+    {
+      "start_time": "00:17:11,520",
+      "end_time": "00:17:14,400",
+      "text": "yes. So, it's not an automatic success"
+    },
+    {
+      "start_time": "00:17:12,959",
+      "end_time": "00:17:17,039",
+      "text": "or anything like that. She's able to"
+    },
+    {
+      "start_time": "00:17:14,400",
+      "end_time": "00:17:19,360",
+      "text": "skirt the southern wall for quite a"
+    },
+    {
+      "start_time": "00:17:17,039",
+      "end_time": "00:17:22,640",
+      "text": "while, several hundred yards, I think,"
+    },
+    {
+      "start_time": "00:17:19,360",
+      "end_time": "00:17:24,400",
+      "text": "until finally she maybe she finds like a"
+    },
+    {
+      "start_time": "00:17:22,640",
+      "end_time": "00:17:26,559",
+      "text": "uh there's there's a series of rocks and"
+    },
+    {
+      "start_time": "00:17:24,400",
+      "end_time": "00:17:28,400",
+      "text": "like a broken down palm tree that she's"
+    },
+    {
+      "start_time": "00:17:26,559",
+      "end_time": "00:17:30,160",
+      "text": "able to scurry up and give her a little"
+    },
+    {
+      "start_time": "00:17:28,400",
+      "end_time": "00:17:31,840",
+      "text": "bit of uh height advantage to be able to"
+    },
+    {
+      "start_time": "00:17:30,160",
+      "end_time": "00:17:34,000",
+      "text": "get onto that wall and, you know,"
+    },
+    {
+      "start_time": "00:17:31,840",
+      "end_time": "00:17:35,600",
+      "text": "clamber over the the upper uh"
+    },
+    {
+      "start_time": "00:17:34,000",
+      "end_time": "00:17:36,640",
+      "text": "credellations of the the top part of the"
+    },
+    {
+      "start_time": "00:17:35,600",
+      "end_time": "00:17:37,840",
+      "text": "wall. This is going to be an athletics"
+    },
+    {
+      "start_time": "00:17:36,640",
+      "end_time": "00:17:39,760",
+      "text": "role and it's the middle of the night"
+    },
+    {
+      "start_time": "00:17:37,840",
+      "end_time": "00:17:40,720",
+      "text": "and there is no it is relatively"
+    },
+    {
+      "start_time": "00:17:39,760",
+      "end_time": "00:17:42,720",
+      "text": "undefended so she doesn't have to do"
+    },
+    {
+      "start_time": "00:17:40,720",
+      "end_time": "00:17:44,320",
+      "text": "stealth at this point. Let's just see if"
+    },
+    {
+      "start_time": "00:17:42,720",
+      "end_time": "00:17:47,679",
+      "text": "she can actually get over it without"
+    },
+    {
+      "start_time": "00:17:44,320",
+      "end_time": "00:17:51,039",
+      "text": "incident. Unfortunately, she is unable"
+    },
+    {
+      "start_time": "00:17:47,679",
+      "end_time": "00:17:52,320",
+      "text": "to get over the wall here. So, here's"
+    },
+    {
+      "start_time": "00:17:51,039",
+      "end_time": "00:17:54,799",
+      "text": "what's going to happen. I'm actually"
+    },
+    {
+      "start_time": "00:17:52,320",
+      "end_time": "00:17:56,720",
+      "text": "going to invoke the um success with a"
+    },
+    {
+      "start_time": "00:17:54,799",
+      "end_time": "00:17:57,840",
+      "text": "cost rule. Uh cuz it makes sense that"
+    },
+    {
+      "start_time": "00:17:56,720",
+      "end_time": "00:17:59,600",
+      "text": "she would, you know, she's got all the"
+    },
+    {
+      "start_time": "00:17:57,840",
+      "end_time": "00:18:01,679",
+      "text": "time in the world. Well, she has a lot"
+    },
+    {
+      "start_time": "00:17:59,600",
+      "end_time": "00:18:03,440",
+      "text": "of time to deal with this. She is going"
+    },
+    {
+      "start_time": "00:18:01,679",
+      "end_time": "00:18:05,840",
+      "text": "to get over the roll over the wall, but"
+    },
+    {
+      "start_time": "00:18:03,440",
+      "end_time": "00:18:07,360",
+      "text": "I think that the cost is when she gets"
+    },
+    {
+      "start_time": "00:18:05,840",
+      "end_time": "00:18:09,120",
+      "text": "over the wall. I said this was a"
+    },
+    {
+      "start_time": "00:18:07,360",
+      "end_time": "00:18:11,679",
+      "text": "relatively undefended section of wall,"
+    },
+    {
+      "start_time": "00:18:09,120",
+      "end_time": "00:18:13,760",
+      "text": "but it not is not entirely undefended."
+    },
+    {
+      "start_time": "00:18:11,679",
+      "end_time": "00:18:17,360",
+      "text": "So when she climbers over the wall, I"
+    },
+    {
+      "start_time": "00:18:13,760",
+      "end_time": "00:18:21,039",
+      "text": "think coming down the walkway of the"
+    },
+    {
+      "start_time": "00:18:17,360",
+      "end_time": "00:18:22,480",
+      "text": "upper walkway area of the wall is a city"
+    },
+    {
+      "start_time": "00:18:21,039",
+      "end_time": "00:18:24,480",
+      "text": "guard. Now, I don't know if this is one"
+    },
+    {
+      "start_time": "00:18:22,480",
+      "end_time": "00:18:26,720",
+      "text": "of the uh patrols of the vazier or just"
+    },
+    {
+      "start_time": "00:18:24,480",
+      "end_time": "00:18:29,039",
+      "text": "a city guard, but she sees him and"
+    },
+    {
+      "start_time": "00:18:26,720",
+      "end_time": "00:18:30,880",
+      "text": "immediately she has to do uh an opposed"
+    },
+    {
+      "start_time": "00:18:29,039",
+      "end_time": "00:18:33,280",
+      "text": "stealth against his perception to see if"
+    },
+    {
+      "start_time": "00:18:30,880",
+      "end_time": "00:18:35,760",
+      "text": "she is spotted by this guy. So, her"
+    },
+    {
+      "start_time": "00:18:33,280",
+      "end_time": "00:18:37,280",
+      "text": "stealth is really good. 80 with an"
+    },
+    {
+      "start_time": "00:18:35,760",
+      "end_time": "00:18:38,799",
+      "text": "expertise of three, which mean which"
+    },
+    {
+      "start_time": "00:18:37,280",
+      "end_time": "00:18:40,559",
+      "text": "means that she has a minimum of three"
+    },
+    {
+      "start_time": "00:18:38,799",
+      "end_time": "00:18:41,679",
+      "text": "SLS, which is good, which she's going to"
+    },
+    {
+      "start_time": "00:18:40,559",
+      "end_time": "00:18:43,760",
+      "text": "well, actually, no, that's a critical"
+    },
+    {
+      "start_time": "00:18:41,679",
+      "end_time": "00:18:46,720",
+      "text": "success. So, she succeeded with four"
+    },
+    {
+      "start_time": "00:18:43,760",
+      "end_time": "00:18:49,840",
+      "text": "SLS, and he's rolling on 50, and he"
+    },
+    {
+      "start_time": "00:18:46,720",
+      "end_time": "00:18:53,520",
+      "text": "fails. So, she is able to immediately uh"
+    },
+    {
+      "start_time": "00:18:49,840",
+      "end_time": "00:18:55,520",
+      "text": "leap to a shadowy uh guard uh building"
+    },
+    {
+      "start_time": "00:18:53,520",
+      "end_time": "00:18:57,840",
+      "text": "on top of the wall and hunker down"
+    },
+    {
+      "start_time": "00:18:55,520",
+      "end_time": "00:18:59,760",
+      "text": "behind a bunch of like uh uh barrels"
+    },
+    {
+      "start_time": "00:18:57,840",
+      "end_time": "00:19:02,320",
+      "text": "filled with pitch for them to be able to"
+    },
+    {
+      "start_time": "00:18:59,760",
+      "end_time": "00:19:04,160",
+      "text": "dip their oil arrows into for flaming"
+    },
+    {
+      "start_time": "00:19:02,320",
+      "end_time": "00:19:05,679",
+      "text": "arrows against invaders or something"
+    },
+    {
+      "start_time": "00:19:04,160",
+      "end_time": "00:19:07,760",
+      "text": "like that. So, she's able to sort of"
+    },
+    {
+      "start_time": "00:19:05,679",
+      "end_time": "00:19:09,280",
+      "text": "hide behind that as the the guard walks"
+    },
+    {
+      "start_time": "00:19:07,760",
+      "end_time": "00:19:10,720",
+      "text": "by. I think at one point the guard kind"
+    },
+    {
+      "start_time": "00:19:09,280",
+      "end_time": "00:19:12,960",
+      "text": "of, you know, he thought he saw"
+    },
+    {
+      "start_time": "00:19:10,720",
+      "end_time": "00:19:14,960",
+      "text": "something in the shadows, but uh he he"
+    },
+    {
+      "start_time": "00:19:12,960",
+      "end_time": "00:19:17,360",
+      "text": "pokes his head into the little guard"
+    },
+    {
+      "start_time": "00:19:14,960",
+      "end_time": "00:19:19,440",
+      "text": "outpost sort of building on top of the"
+    },
+    {
+      "start_time": "00:19:17,360",
+      "end_time": "00:19:21,760",
+      "text": "wall and looks around and uh nothing"
+    },
+    {
+      "start_time": "00:19:19,440",
+      "end_time": "00:19:24,160",
+      "text": "here and goes back on his merry way. So,"
+    },
+    {
+      "start_time": "00:19:21,760",
+      "end_time": "00:19:26,880",
+      "text": "she is able to clamber down the ladders"
+    },
+    {
+      "start_time": "00:19:24,160",
+      "end_time": "00:19:29,200",
+      "text": "into the city itself and make her way to"
+    },
+    {
+      "start_time": "00:19:26,880",
+      "end_time": "00:19:31,840",
+      "text": "the general's residence. Does she get"
+    },
+    {
+      "start_time": "00:19:29,200",
+      "end_time": "00:19:35,520",
+      "text": "there without anything further accosting"
+    },
+    {
+      "start_time": "00:19:31,840",
+      "end_time": "00:19:38,480",
+      "text": "her? I think that's very likely in fact."
+    },
+    {
+      "start_time": "00:19:35,520",
+      "end_time": "00:19:41,360",
+      "text": "Going to ask the fake chart. Uh 23 is uh"
+    },
+    {
+      "start_time": "00:19:38,480",
+      "end_time": "00:19:43,520",
+      "text": "a regular success. So yes, after"
+    },
+    {
+      "start_time": "00:19:41,360",
+      "end_time": "00:19:45,520",
+      "text": "probably takes about half an hour to uh"
+    },
+    {
+      "start_time": "00:19:43,520",
+      "end_time": "00:19:47,760",
+      "text": "stealth her way through the the darkened"
+    },
+    {
+      "start_time": "00:19:45,520",
+      "end_time": "00:19:50,160",
+      "text": "night streets of Anir until she arrives"
+    },
+    {
+      "start_time": "00:19:47,760",
+      "end_time": "00:19:51,440",
+      "text": "at the general's meds. Now he obviously"
+    },
+    {
+      "start_time": "00:19:50,160",
+      "end_time": "00:19:53,280",
+      "text": "is going to have guards, but those"
+    },
+    {
+      "start_time": "00:19:51,440",
+      "end_time": "00:19:56,400",
+      "text": "guards are aware of her. She has been"
+    },
+    {
+      "start_time": "00:19:53,280",
+      "end_time": "00:19:58,320",
+      "text": "here before and they know who she is. So"
+    },
+    {
+      "start_time": "00:19:56,400",
+      "end_time": "00:20:00,160",
+      "text": "she goes up to the guards and reveals"
+    },
+    {
+      "start_time": "00:19:58,320",
+      "end_time": "00:20:02,400",
+      "text": "herself to them. I'm here to see the"
+    },
+    {
+      "start_time": "00:20:00,160",
+      "end_time": "00:20:03,919",
+      "text": "general leaders most urgent. You know"
+    },
+    {
+      "start_time": "00:20:02,400",
+      "end_time": "00:20:06,080",
+      "text": "me, don't you? And the guard kind of"
+    },
+    {
+      "start_time": "00:20:03,919",
+      "end_time": "00:20:08,080",
+      "text": "looks at her and recognizes her and yes,"
+    },
+    {
+      "start_time": "00:20:06,080",
+      "end_time": "00:20:10,559",
+      "text": "of course, this way. And uh they lead"
+    },
+    {
+      "start_time": "00:20:08,080",
+      "end_time": "00:20:12,960",
+      "text": "her into the mansion. Now he is asleep,"
+    },
+    {
+      "start_time": "00:20:10,559",
+      "end_time": "00:20:14,559",
+      "text": "but the guards go up and they they rouse"
+    },
+    {
+      "start_time": "00:20:12,960",
+      "end_time": "00:20:16,799",
+      "text": "him. And a few moments later, he comes"
+    },
+    {
+      "start_time": "00:20:14,559",
+      "end_time": "00:20:18,880",
+      "text": "down sort of in his richly decorated"
+    },
+    {
+      "start_time": "00:20:16,799",
+      "end_time": "00:20:21,760",
+      "text": "night gown basically. He he comes down"
+    },
+    {
+      "start_time": "00:20:18,880",
+      "end_time": "00:20:24,080",
+      "text": "the large stone steps, I think, he to a"
+    },
+    {
+      "start_time": "00:20:21,760",
+      "end_time": "00:20:26,000",
+      "text": "little uh courtyard outside of his um"
+    },
+    {
+      "start_time": "00:20:24,080",
+      "end_time": "00:20:27,840",
+      "text": "main building structure, and I think"
+    },
+    {
+      "start_time": "00:20:26,000",
+      "end_time": "00:20:29,840",
+      "text": "there's like a burbling fountain there"
+    },
+    {
+      "start_time": "00:20:27,840",
+      "end_time": "00:20:31,600",
+      "text": "as well. It's very pleasant as the the"
+    },
+    {
+      "start_time": "00:20:29,840",
+      "end_time": "00:20:34,240",
+      "text": "night birds are singing and the stars"
+    },
+    {
+      "start_time": "00:20:31,600",
+      "end_time": "00:20:36,080",
+      "text": "are swirling in the sky above getting"
+    },
+    {
+      "start_time": "00:20:34,240",
+      "end_time": "00:20:38,080",
+      "text": "even closer as that great conjunction is"
+    },
+    {
+      "start_time": "00:20:36,080",
+      "end_time": "00:20:39,360",
+      "text": "is imminent. In fact, I think that the"
+    },
+    {
+      "start_time": "00:20:38,080",
+      "end_time": "00:20:41,600",
+      "text": "great conjunction is going to happen"
+    },
+    {
+      "start_time": "00:20:39,360",
+      "end_time": "00:20:44,400",
+      "text": "tomorrow night because we are here"
+    },
+    {
+      "start_time": "00:20:41,600",
+      "end_time": "00:20:46,559",
+      "text": "racing towards the climax. So, Veil, you"
+    },
+    {
+      "start_time": "00:20:44,400",
+      "end_time": "00:20:48,480",
+      "text": "have returned. Oh, thank the gods. Tell"
+    },
+    {
+      "start_time": "00:20:46,559",
+      "end_time": "00:20:50,320",
+      "text": "me, what have you learned about the"
+    },
+    {
+      "start_time": "00:20:48,480",
+      "end_time": "00:20:51,919",
+      "text": "Vizier and this creature that you have"
+    },
+    {
+      "start_time": "00:20:50,320",
+      "end_time": "00:20:54,320",
+      "text": "been hunting? I have reason to believe"
+    },
+    {
+      "start_time": "00:20:51,919",
+      "end_time": "00:20:57,360",
+      "text": "that the creature known as Mozaroth is"
+    },
+    {
+      "start_time": "00:20:54,320",
+      "end_time": "00:20:59,760",
+      "text": "here in the city now. His servants have"
+    },
+    {
+      "start_time": "00:20:57,360",
+      "end_time": "00:21:04,080",
+      "text": "brought him in from the outer deserts."
+    },
+    {
+      "start_time": "00:20:59,760",
+      "end_time": "00:21:07,520",
+      "text": "He intends to open a portal to a place"
+    },
+    {
+      "start_time": "00:21:04,080",
+      "end_time": "00:21:10,159",
+      "text": "called Norc. It does not exist in our"
+    },
+    {
+      "start_time": "00:21:07,520",
+      "end_time": "00:21:13,120",
+      "text": "world. But the entrance to that portal"
+    },
+    {
+      "start_time": "00:21:10,159",
+      "end_time": "00:21:16,559",
+      "text": "is the entrance to the Vizier's palace."
+    },
+    {
+      "start_time": "00:21:13,120",
+      "end_time": "00:21:18,080",
+      "text": "That explains why the Vizier had strange"
+    },
+    {
+      "start_time": "00:21:16,559",
+      "end_time": "00:21:21,360",
+      "text": "sigils"
+    },
+    {
+      "start_time": "00:21:18,080",
+      "end_time": "00:21:24,400",
+      "text": "crafted and carved into the stone arches"
+    },
+    {
+      "start_time": "00:21:21,360",
+      "end_time": "00:21:27,360",
+      "text": "over the main entrance way. It was some"
+    },
+    {
+      "start_time": "00:21:24,400",
+      "end_time": "00:21:30,400",
+      "text": "sort of sorcery. As far as I can tell,"
+    },
+    {
+      "start_time": "00:21:27,360",
+      "end_time": "00:21:32,400",
+      "text": "yes. Tomorrow night, the stars will"
+    },
+    {
+      "start_time": "00:21:30,400",
+      "end_time": "00:21:35,520",
+      "text": "align in such a way as to cause what the"
+    },
+    {
+      "start_time": "00:21:32,400",
+      "end_time": "00:21:38,720",
+      "text": "astronomers call a great conjunction. It"
+    },
+    {
+      "start_time": "00:21:35,520",
+      "end_time": "00:21:42,480",
+      "text": "is at this time that Mozart wishes to be"
+    },
+    {
+      "start_time": "00:21:38,720",
+      "end_time": "00:21:45,360",
+      "text": "reunited with his felactory, his uh"
+    },
+    {
+      "start_time": "00:21:42,480",
+      "end_time": "00:21:47,440",
+      "text": "container of his soul stuff. I have it"
+    },
+    {
+      "start_time": "00:21:45,360",
+      "end_time": "00:21:48,960",
+      "text": "with me. Ah, so this is how you will"
+    },
+    {
+      "start_time": "00:21:47,440",
+      "end_time": "00:21:50,880",
+      "text": "destroy the creature. If you have the"
+    },
+    {
+      "start_time": "00:21:48,960",
+      "end_time": "00:21:52,559",
+      "text": "felactory, then you could shatter it now"
+    },
+    {
+      "start_time": "00:21:50,880",
+      "end_time": "00:21:54,960",
+      "text": "and and end the scourge once and for"
+    },
+    {
+      "start_time": "00:21:52,559",
+      "end_time": "00:21:58,159",
+      "text": "all. I'm afraid it is not quite as easy"
+    },
+    {
+      "start_time": "00:21:54,960",
+      "end_time": "00:22:00,720",
+      "text": "as that, General. There are other things"
+    },
+    {
+      "start_time": "00:21:58,159",
+      "end_time": "00:22:03,520",
+      "text": "in play. Things that I will not waste"
+    },
+    {
+      "start_time": "00:22:00,720",
+      "end_time": "00:22:07,120",
+      "text": "your time trying to explain."
+    },
+    {
+      "start_time": "00:22:03,520",
+      "end_time": "00:22:10,400",
+      "text": "I do not trust the creature entirely, of"
+    },
+    {
+      "start_time": "00:22:07,120",
+      "end_time": "00:22:13,679",
+      "text": "course, but there may be a way for me to"
+    },
+    {
+      "start_time": "00:22:10,400",
+      "end_time": "00:22:17,039",
+      "text": "benefit from his"
+    },
+    {
+      "start_time": "00:22:13,679",
+      "end_time": "00:22:20,080",
+      "text": "actions tomorrow night. I need your"
+    },
+    {
+      "start_time": "00:22:17,039",
+      "end_time": "00:22:22,799",
+      "text": "help. Of course. Of course. Although I"
+    },
+    {
+      "start_time": "00:22:20,080",
+      "end_time": "00:22:24,799",
+      "text": "confess I am uneasy with you allowing"
+    },
+    {
+      "start_time": "00:22:22,799",
+      "end_time": "00:22:26,799",
+      "text": "this creature to continue existing if"
+    },
+    {
+      "start_time": "00:22:24,799",
+      "end_time": "00:22:28,080",
+      "text": "you even now have the means to destroy"
+    },
+    {
+      "start_time": "00:22:26,799",
+      "end_time": "00:22:30,080",
+      "text": "it. She needs to actually convince him"
+    },
+    {
+      "start_time": "00:22:28,080",
+      "end_time": "00:22:33,039",
+      "text": "that her plan has merit. General, I know"
+    },
+    {
+      "start_time": "00:22:30,080",
+      "end_time": "00:22:35,919",
+      "text": "that this sounds mad."
+    },
+    {
+      "start_time": "00:22:33,039",
+      "end_time": "00:22:38,720",
+      "text": "But if I do not see this through to the"
+    },
+    {
+      "start_time": "00:22:35,919",
+      "end_time": "00:22:40,320",
+      "text": "end with this creature, Mozeroth,"
+    },
+    {
+      "start_time": "00:22:38,720",
+      "end_time": "00:22:44,159",
+      "text": "there might be even greater dangers"
+    },
+    {
+      "start_time": "00:22:40,320",
+      "end_time": "00:22:47,679",
+      "text": "posed to you and your city. But if I am"
+    },
+    {
+      "start_time": "00:22:44,159",
+      "end_time": "00:22:50,640",
+      "text": "allowed to enact my plan, we could not"
+    },
+    {
+      "start_time": "00:22:47,679",
+      "end_time": "00:22:52,960",
+      "text": "only rid this world of the scourge of"
+    },
+    {
+      "start_time": "00:22:50,640",
+      "end_time": "00:22:55,919",
+      "text": "Mozeroth, but we will most assuredly"
+    },
+    {
+      "start_time": "00:22:52,960",
+      "end_time": "00:22:57,919",
+      "text": "break the vizier free of his domination."
+    },
+    {
+      "start_time": "00:22:55,919",
+      "end_time": "00:22:59,440",
+      "text": "I think that's probably a protocol role"
+    },
+    {
+      "start_time": "00:22:57,919",
+      "end_time": "00:23:01,440",
+      "text": "in this case, which she's not great at,"
+    },
+    {
+      "start_time": "00:22:59,440",
+      "end_time": "00:23:03,679",
+      "text": "but she is going to give it a shot. Oh,"
+    },
+    {
+      "start_time": "00:23:01,440",
+      "end_time": "00:23:05,520",
+      "text": "and she succeeded with one SL, but she"
+    },
+    {
+      "start_time": "00:23:03,679",
+      "end_time": "00:23:08,400",
+      "text": "did succeed. Well, I admit I am"
+    },
+    {
+      "start_time": "00:23:05,520",
+      "end_time": "00:23:11,039",
+      "text": "uncomfortable with this, but you know"
+    },
+    {
+      "start_time": "00:23:08,400",
+      "end_time": "00:23:12,880",
+      "text": "more about this situation than I do."
+    },
+    {
+      "start_time": "00:23:11,039",
+      "end_time": "00:23:15,600",
+      "text": "What can I do to help? I need you to"
+    },
+    {
+      "start_time": "00:23:12,880",
+      "end_time": "00:23:17,520",
+      "text": "assemble your men. I do not think that"
+    },
+    {
+      "start_time": "00:23:15,600",
+      "end_time": "00:23:19,919",
+      "text": "it will come to violence, but I need you"
+    },
+    {
+      "start_time": "00:23:17,520",
+      "end_time": "00:23:21,760",
+      "text": "to be ready. Tomorrow night, the great"
+    },
+    {
+      "start_time": "00:23:19,919",
+      "end_time": "00:23:25,440",
+      "text": "conjunction, the Lich will no doubt have"
+    },
+    {
+      "start_time": "00:23:21,760",
+      "end_time": "00:23:28,320",
+      "text": "himself delivered to the gates. I intend"
+    },
+    {
+      "start_time": "00:23:25,440",
+      "end_time": "00:23:29,840",
+      "text": "to be there as well. But I cannot"
+    },
+    {
+      "start_time": "00:23:28,320",
+      "end_time": "00:23:31,360",
+      "text": "approach the gates openly, not while"
+    },
+    {
+      "start_time": "00:23:29,840",
+      "end_time": "00:23:33,679",
+      "text": "Vizier's men are still looking for me."
+    },
+    {
+      "start_time": "00:23:31,360",
+      "end_time": "00:23:35,039",
+      "text": "And I do not know if they are still"
+    },
+    {
+      "start_time": "00:23:33,679",
+      "end_time": "00:23:37,840",
+      "text": "looking for me, but I can't take the"
+    },
+    {
+      "start_time": "00:23:35,039",
+      "end_time": "00:23:40,720",
+      "text": "chance that they are. I need you and"
+    },
+    {
+      "start_time": "00:23:37,840",
+      "end_time": "00:23:43,760",
+      "text": "your men to be nearby waiting for a"
+    },
+    {
+      "start_time": "00:23:40,720",
+      "end_time": "00:23:45,840",
+      "text": "signal just in case something goes"
+    },
+    {
+      "start_time": "00:23:43,760",
+      "end_time": "00:23:48,720",
+      "text": "decidedly wrong. Of course. And what"
+    },
+    {
+      "start_time": "00:23:45,840",
+      "end_time": "00:23:52,799",
+      "text": "would the signal be? You'll know it when"
+    },
+    {
+      "start_time": "00:23:48,720",
+      "end_time": "00:23:54,400",
+      "text": "you see it. Is she going to do this?"
+    },
+    {
+      "start_time": "00:23:52,799",
+      "end_time": "00:23:55,919",
+      "text": "Maybe."
+    },
+    {
+      "start_time": "00:23:54,400",
+      "end_time": "00:23:57,919",
+      "text": "Have your men standing by in the shadows"
+    },
+    {
+      "start_time": "00:23:55,919",
+      "end_time": "00:24:00,799",
+      "text": "of the nearby alleys. And when it is"
+    },
+    {
+      "start_time": "00:23:57,919",
+      "end_time": "00:24:03,360",
+      "text": "time to act, if there is a time to act,"
+    },
+    {
+      "start_time": "00:24:00,799",
+      "end_time": "00:24:06,480",
+      "text": "you will know it. Very well. I will"
+    },
+    {
+      "start_time": "00:24:03,360",
+      "end_time": "00:24:09,840",
+      "text": "arrange it. Do you need a place to stay"
+    },
+    {
+      "start_time": "00:24:06,480",
+      "end_time": "00:24:11,760",
+      "text": "and rest? You seem to be extremely"
+    },
+    {
+      "start_time": "00:24:09,840",
+      "end_time": "00:24:13,679",
+      "text": "worn out and exhausted from your many,"
+    },
+    {
+      "start_time": "00:24:11,760",
+      "end_time": "00:24:16,080",
+      "text": "many fatigue boats you took on the road."
+    },
+    {
+      "start_time": "00:24:13,679",
+      "end_time": "00:24:18,240",
+      "text": ">> Yes. Uh, when the dawn comes, I will"
+    },
+    {
+      "start_time": "00:24:16,080",
+      "end_time": "00:24:20,159",
+      "text": "have Thrag and Watik, your bearer, who"
+    },
+    {
+      "start_time": "00:24:18,240",
+      "end_time": "00:24:21,760",
+      "text": "by the way was the difference between"
+    },
+    {
+      "start_time": "00:24:20,159",
+      "end_time": "00:24:23,440",
+      "text": "life and death. Thank you so much for"
+    },
+    {
+      "start_time": "00:24:21,760",
+      "end_time": "00:24:25,039",
+      "text": "him. I will have the two of them report"
+    },
+    {
+      "start_time": "00:24:23,440",
+      "end_time": "00:24:26,400",
+      "text": "here to the mansion if that's all right."
+    },
+    {
+      "start_time": "00:24:25,039",
+      "end_time": "00:24:29,200",
+      "text": "Yes. Yes, of course. There is a guest"
+    },
+    {
+      "start_time": "00:24:26,400",
+      "end_time": "00:24:30,960",
+      "text": "house uh near the the back entrance that"
+    },
+    {
+      "start_time": "00:24:29,200",
+      "end_time": "00:24:32,720",
+      "text": "you can use to rest during the day and"
+    },
+    {
+      "start_time": "00:24:30,960",
+      "end_time": "00:24:35,760",
+      "text": "make what preparations you need. So that"
+    },
+    {
+      "start_time": "00:24:32,720",
+      "end_time": "00:24:38,080",
+      "text": "is in fact what they do when the dawn"
+    },
+    {
+      "start_time": "00:24:35,760",
+      "end_time": "00:24:40,880",
+      "text": "comes. Uh she steals her way back to the"
+    },
+    {
+      "start_time": "00:24:38,080",
+      "end_time": "00:24:43,200",
+      "text": "main gates. Thrag and Watik enter the"
+    },
+    {
+      "start_time": "00:24:40,880",
+      "end_time": "00:24:45,039",
+      "text": "city. So they're able to get all the way"
+    },
+    {
+      "start_time": "00:24:43,200",
+      "end_time": "00:24:47,440",
+      "text": "through the city the next morning back"
+    },
+    {
+      "start_time": "00:24:45,039",
+      "end_time": "00:24:49,200",
+      "text": "to the general's uh sort of guest house"
+    },
+    {
+      "start_time": "00:24:47,440",
+      "end_time": "00:24:50,960",
+      "text": "in the back and they're able to rest"
+    },
+    {
+      "start_time": "00:24:49,200",
+      "end_time": "00:24:54,080",
+      "text": "through that day. Great. So that's the"
+    },
+    {
+      "start_time": "00:24:50,960",
+      "end_time": "00:24:57,279",
+      "text": "end of that scene. There is no uh"
+    },
+    {
+      "start_time": "00:24:54,080",
+      "end_time": "00:24:58,720",
+      "text": "updating character lists. We will uh get"
+    },
+    {
+      "start_time": "00:24:57,279",
+      "end_time": "00:25:00,320",
+      "text": "rid of consult the general. I think"
+    },
+    {
+      "start_time": "00:24:58,720",
+      "end_time": "00:25:02,720",
+      "text": "going into the next scene, I think that"
+    },
+    {
+      "start_time": "00:25:00,320",
+      "end_time": "00:25:04,159",
+      "text": "the way this new scene starts is they"
+    },
+    {
+      "start_time": "00:25:02,720",
+      "end_time": "00:25:05,840",
+      "text": "have rested and this is definitely a"
+    },
+    {
+      "start_time": "00:25:04,159",
+      "end_time": "00:25:08,240",
+      "text": "safe place. And the good news is because"
+    },
+    {
+      "start_time": "00:25:05,840",
+      "end_time": "00:25:11,360",
+      "text": "of that, they're able to uh rid"
+    },
+    {
+      "start_time": "00:25:08,240",
+      "end_time": "00:25:13,679",
+      "text": "themselves of three fatigue. Thrag and"
+    },
+    {
+      "start_time": "00:25:11,360",
+      "end_time": "00:25:18,880",
+      "text": "Veil are going to make their way before"
+    },
+    {
+      "start_time": "00:25:13,679",
+      "end_time": "00:25:21,360",
+      "text": "sunset to the central square outside the"
+    },
+    {
+      "start_time": "00:25:18,880",
+      "end_time": "00:25:22,799",
+      "text": "Vizier's palace where we have seen this"
+    },
+    {
+      "start_time": "00:25:21,360",
+      "end_time": "00:25:25,360",
+      "text": "before. We've been here before. This is"
+    },
+    {
+      "start_time": "00:25:22,799",
+      "end_time": "00:25:26,880",
+      "text": "where the silent death assassins"
+    },
+    {
+      "start_time": "00:25:25,360",
+      "end_time": "00:25:29,120",
+      "text": "attacked her in the street all those"
+    },
+    {
+      "start_time": "00:25:26,880",
+      "end_time": "00:25:32,320",
+      "text": "episodes ago. and she's going to wait"
+    },
+    {
+      "start_time": "00:25:29,120",
+      "end_time": "00:25:34,240",
+      "text": "and see what transpires. So, I guess"
+    },
+    {
+      "start_time": "00:25:32,320",
+      "end_time": "00:25:35,760",
+      "text": "what we have to ask now is well, first"
+    },
+    {
+      "start_time": "00:25:34,240",
+      "end_time": "00:25:37,440",
+      "text": "of all, the chaos factor. Um, I'm going"
+    },
+    {
+      "start_time": "00:25:35,760",
+      "end_time": "00:25:39,520",
+      "text": "to leave it at seven for now because I"
+    },
+    {
+      "start_time": "00:25:37,440",
+      "end_time": "00:25:41,120",
+      "text": "don't really think the last scene counts"
+    },
+    {
+      "start_time": "00:25:39,520",
+      "end_time": "00:25:42,159",
+      "text": "as a complete scene for the purposes of"
+    },
+    {
+      "start_time": "00:25:41,120",
+      "end_time": "00:25:44,159",
+      "text": "chaos. So, I'm going to leave it at"
+    },
+    {
+      "start_time": "00:25:42,159",
+      "end_time": "00:25:46,400",
+      "text": "seven because I'm playing fast and loose"
+    },
+    {
+      "start_time": "00:25:44,159",
+      "end_time": "00:25:48,799",
+      "text": "with these mythic rules."
+    },
+    {
+      "start_time": "00:25:46,400",
+      "end_time": "00:25:51,120",
+      "text": "H but I am going to see if the the scene"
+    },
+    {
+      "start_time": "00:25:48,799",
+      "end_time": "00:25:53,600",
+      "text": "is altered or interrupted as they make"
+    },
+    {
+      "start_time": "00:25:51,120",
+      "end_time": "00:25:55,440",
+      "text": "their way the next evening having uh"
+    },
+    {
+      "start_time": "00:25:53,600",
+      "end_time": "00:25:57,200",
+      "text": "refreshed themselves and sharpened their"
+    },
+    {
+      "start_time": "00:25:55,440",
+      "end_time": "00:26:00,080",
+      "text": "blades and made what preparations they"
+    },
+    {
+      "start_time": "00:25:57,200",
+      "end_time": "00:26:02,320",
+      "text": "needed to rolling against the chaos. And"
+    },
+    {
+      "start_time": "00:26:00,080",
+      "end_time": "00:26:04,640",
+      "text": "of course there is an interrupt scene."
+    },
+    {
+      "start_time": "00:26:02,320",
+      "end_time": "00:26:08,559",
+      "text": "There is an interrupt scene on the way"
+    },
+    {
+      "start_time": "00:26:04,640",
+      "end_time": "00:26:10,880",
+      "text": "presumably. What is that interrupt"
+    },
+    {
+      "start_time": "00:26:08,559",
+      "end_time": "00:26:16,799",
+      "text": "scene?"
+    },
+    {
+      "start_time": "00:26:10,880",
+      "end_time": "00:26:19,360",
+      "text": "36 NPC action. Okay. Who is the NPC?"
+    },
+    {
+      "start_time": "00:26:16,799",
+      "end_time": "00:26:23,840",
+      "text": "Seven. It's going to be two."
+    },
+    {
+      "start_time": "00:26:19,360",
+      "end_time": "00:26:25,840",
+      "text": "Mozzaroth. The lich. Okay. What's the"
+    },
+    {
+      "start_time": "00:26:23,840",
+      "end_time": "00:26:27,679",
+      "text": "lich going to do? This is an interrupt"
+    },
+    {
+      "start_time": "00:26:25,840",
+      "end_time": "00:26:32,080",
+      "text": "scene."
+    },
+    {
+      "start_time": "00:26:27,679",
+      "end_time": "00:26:35,600",
+      "text": "This is NPC action. NPC takes action."
+    },
+    {
+      "start_time": "00:26:32,080",
+      "end_time": "00:26:39,440",
+      "text": "94. Travel. So far, that makes sense"
+    },
+    {
+      "start_time": "00:26:35,600",
+      "end_time": "00:26:43,039",
+      "text": "based on what I have in mind. 09."
+    },
+    {
+      "start_time": "00:26:39,440",
+      "end_time": "00:26:45,200",
+      "text": "Building. Travel. Building. Okay. So,"
+    },
+    {
+      "start_time": "00:26:43,039",
+      "end_time": "00:26:46,400",
+      "text": "all right. I got it. So her and Thrag"
+    },
+    {
+      "start_time": "00:26:45,200",
+      "end_time": "00:26:48,559",
+      "text": "are stealing their way through the"
+    },
+    {
+      "start_time": "00:26:46,400",
+      "end_time": "00:26:51,600",
+      "text": "streets. They are just about to get to"
+    },
+    {
+      "start_time": "00:26:48,559",
+      "end_time": "00:26:54,880",
+      "text": "the outer square when they see it seems"
+    },
+    {
+      "start_time": "00:26:51,600",
+      "end_time": "00:26:57,440",
+      "text": "that the lich and his cohort has arrived"
+    },
+    {
+      "start_time": "00:26:54,880",
+      "end_time": "00:26:59,200",
+      "text": "before them. Travel building. Travel to"
+    },
+    {
+      "start_time": "00:26:57,440",
+      "end_time": "00:27:01,360",
+      "text": "the building that he was going to. This"
+    },
+    {
+      "start_time": "00:26:59,200",
+      "end_time": "00:27:02,720",
+      "text": "is in fact the interrupt scene. Let's uh"
+    },
+    {
+      "start_time": "00:27:01,360",
+      "end_time": "00:27:04,000",
+      "text": "get some meaning tables descriptors to"
+    },
+    {
+      "start_time": "00:27:02,720",
+      "end_time": "00:27:08,480",
+      "text": "get a little more information about this"
+    },
+    {
+      "start_time": "00:27:04,000",
+      "end_time": "00:27:10,159",
+      "text": "interrupt scene. 82 description politely"
+    },
+    {
+      "start_time": "00:27:08,480",
+      "end_time": "00:27:12,799",
+      "text": "and"
+    },
+    {
+      "start_time": "00:27:10,159",
+      "end_time": "00:27:14,480",
+      "text": "old. Politely and old. Is this a"
+    },
+    {
+      "start_time": "00:27:12,799",
+      "end_time": "00:27:16,320",
+      "text": "descript? Oh, okay. I want to I want to"
+    },
+    {
+      "start_time": "00:27:14,480",
+      "end_time": "00:27:19,360",
+      "text": "envision what this is. So, they're"
+    },
+    {
+      "start_time": "00:27:16,320",
+      "end_time": "00:27:20,960",
+      "text": "almost at the square when they look and"
+    },
+    {
+      "start_time": "00:27:19,360",
+      "end_time": "00:27:23,200",
+      "text": "they can see in front of the great stone"
+    },
+    {
+      "start_time": "00:27:20,960",
+      "end_time": "00:27:25,200",
+      "text": "arch of the entrance to the vazier's"
+    },
+    {
+      "start_time": "00:27:23,200",
+      "end_time": "00:27:28,480",
+      "text": "palace, they can see that there's been"
+    },
+    {
+      "start_time": "00:27:25,200",
+      "end_time": "00:27:31,039",
+      "text": "like this cart that's been drawn up,"
+    },
+    {
+      "start_time": "00:27:28,480",
+      "end_time": "00:27:33,440",
+      "text": "there's this large wooden, it looks like"
+    },
+    {
+      "start_time": "00:27:31,039",
+      "end_time": "00:27:35,440",
+      "text": "a coffin almost, but much bigger than a"
+    },
+    {
+      "start_time": "00:27:33,440",
+      "end_time": "00:27:38,159",
+      "text": "coffin. Almost like a a crate you would"
+    },
+    {
+      "start_time": "00:27:35,440",
+      "end_time": "00:27:40,880",
+      "text": "put a oh, say sarcophagus in. And it's"
+    },
+    {
+      "start_time": "00:27:38,159",
+      "end_time": "00:27:44,400",
+      "text": "been it's been propped up in this cart."
+    },
+    {
+      "start_time": "00:27:40,880",
+      "end_time": "00:27:46,960",
+      "text": "And there's a number of desert nomads."
+    },
+    {
+      "start_time": "00:27:44,400",
+      "end_time": "00:27:48,559",
+      "text": "It looks like desert barbarians. Maybe"
+    },
+    {
+      "start_time": "00:27:46,960",
+      "end_time": "00:27:49,679",
+      "text": "these are the servants of Matzaroth."
+    },
+    {
+      "start_time": "00:27:48,559",
+      "end_time": "00:27:51,200",
+      "text": "It's hard to see, but there's kind of"
+    },
+    {
+      "start_time": "00:27:49,679",
+      "end_time": "00:27:53,039",
+      "text": "like I don't know, there's like 20 of"
+    },
+    {
+      "start_time": "00:27:51,200",
+      "end_time": "00:27:54,480",
+      "text": "them. And they're sort of, you know, uh"
+    },
+    {
+      "start_time": "00:27:53,039",
+      "end_time": "00:27:56,159",
+      "text": "they're they're kind of crawling around"
+    },
+    {
+      "start_time": "00:27:54,480",
+      "end_time": "00:27:58,080",
+      "text": "the cart doing various things. One of"
+    },
+    {
+      "start_time": "00:27:56,159",
+      "end_time": "00:28:00,000",
+      "text": "them is going up to the cart and he's"
+    },
+    {
+      "start_time": "00:27:58,080",
+      "end_time": "00:28:02,799",
+      "text": "anointing the crate with some sort of"
+    },
+    {
+      "start_time": "00:28:00,000",
+      "end_time": "00:28:04,640",
+      "text": "oils and another one is sort of like on"
+    },
+    {
+      "start_time": "00:28:02,799",
+      "end_time": "00:28:06,480",
+      "text": "his knees like in sort of a worshipful"
+    },
+    {
+      "start_time": "00:28:04,640",
+      "end_time": "00:28:08,960",
+      "text": "prayer, chanting strange words. It's all"
+    },
+    {
+      "start_time": "00:28:06,480",
+      "end_time": "00:28:12,240",
+      "text": "quite strange. But here's the thing. The"
+    },
+    {
+      "start_time": "00:28:08,960",
+      "end_time": "00:28:14,080",
+      "text": "vazier's guards are also there and these"
+    },
+    {
+      "start_time": "00:28:12,240",
+      "end_time": "00:28:15,840",
+      "text": "vizier's guards are in fact waiting"
+    },
+    {
+      "start_time": "00:28:14,080",
+      "end_time": "00:28:17,600",
+      "text": "politely"
+    },
+    {
+      "start_time": "00:28:15,840",
+      "end_time": "00:28:21,039",
+      "text": "as though they do not want to interfere"
+    },
+    {
+      "start_time": "00:28:17,600",
+      "end_time": "00:28:23,679",
+      "text": "with this situation whatsoever. So this"
+    },
+    {
+      "start_time": "00:28:21,039",
+      "end_time": "00:28:26,640",
+      "text": "is not entirely"
+    },
+    {
+      "start_time": "00:28:23,679",
+      "end_time": "00:28:28,559",
+      "text": "unexpected because she did kind of think"
+    },
+    {
+      "start_time": "00:28:26,640",
+      "end_time": "00:28:29,840",
+      "text": "that she she did know that the the lich"
+    },
+    {
+      "start_time": "00:28:28,559",
+      "end_time": "00:28:32,080",
+      "text": "was on his way but she doesn't see him."
+    },
+    {
+      "start_time": "00:28:29,840",
+      "end_time": "00:28:35,360",
+      "text": "She sees this crate. She has to assume"
+    },
+    {
+      "start_time": "00:28:32,080",
+      "end_time": "00:28:37,840",
+      "text": "that this uh crate is in fact containing"
+    },
+    {
+      "start_time": "00:28:35,360",
+      "end_time": "00:28:39,440",
+      "text": "Matzaroth. I think that in fact the lich"
+    },
+    {
+      "start_time": "00:28:37,840",
+      "end_time": "00:28:40,640",
+      "text": "is here and I think that these servants"
+    },
+    {
+      "start_time": "00:28:39,440",
+      "end_time": "00:28:42,240",
+      "text": "have brought the lich here on the"
+    },
+    {
+      "start_time": "00:28:40,640",
+      "end_time": "00:28:44,080",
+      "text": "evening of the great conjunction just as"
+    },
+    {
+      "start_time": "00:28:42,240",
+      "end_time": "00:28:46,399",
+      "text": "he said and I think they are going to"
+    },
+    {
+      "start_time": "00:28:44,080",
+      "end_time": "00:28:48,880",
+      "text": "pry open that crate and reveal the"
+    },
+    {
+      "start_time": "00:28:46,399",
+      "end_time": "00:28:50,559",
+      "text": "sarcophagus so that we could take the"
+    },
+    {
+      "start_time": "00:28:48,880",
+      "end_time": "00:28:51,840",
+      "text": "next steps but you know what you never"
+    },
+    {
+      "start_time": "00:28:50,559",
+      "end_time": "00:28:55,279",
+      "text": "know if that's going to be the case so"
+    },
+    {
+      "start_time": "00:28:51,840",
+      "end_time": "00:28:57,919",
+      "text": "let's ask the fake chart shall we think"
+    },
+    {
+      "start_time": "00:28:55,279",
+      "end_time": "00:29:02,399",
+      "text": "that this is likely in fact the"
+    },
+    {
+      "start_time": "00:28:57,919",
+      "end_time": "00:29:04,720",
+      "text": "situation and it is 100 extreme"
+    },
+    {
+      "start_time": "00:29:02,399",
+      "end_time": "00:29:06,080",
+      "text": "no that is not what they're going to do"
+    },
+    {
+      "start_time": "00:29:04,720",
+      "end_time": "00:29:08,480",
+      "text": "whatsoever"
+    },
+    {
+      "start_time": "00:29:06,080",
+      "end_time": "00:29:11,120",
+      "text": "So, this is not going to play out the"
+    },
+    {
+      "start_time": "00:29:08,480",
+      "end_time": "00:29:14,320",
+      "text": "way that she thought or perhaps cuz that"
+    },
+    {
+      "start_time": "00:29:11,120",
+      "end_time": "00:29:15,840",
+      "text": "is a 100. It's extreme. No, I think this"
+    },
+    {
+      "start_time": "00:29:14,320",
+      "end_time": "00:29:19,520",
+      "text": "is not going to play out the way that"
+    },
+    {
+      "start_time": "00:29:15,840",
+      "end_time": "00:29:23,520",
+      "text": "she hoped. That is very, very bad news"
+    },
+    {
+      "start_time": "00:29:19,520",
+      "end_time": "00:29:25,520",
+      "text": "for her. Because what this means is"
+    },
+    {
+      "start_time": "00:29:23,520",
+      "end_time": "00:29:26,799",
+      "text": "what she had hoped to happen is not"
+    },
+    {
+      "start_time": "00:29:25,520",
+      "end_time": "00:29:28,799",
+      "text": "going to happen because of course we"
+    },
+    {
+      "start_time": "00:29:26,799",
+      "end_time": "00:29:30,240",
+      "text": "rolled a 100. What she hoped to happen"
+    },
+    {
+      "start_time": "00:29:28,799",
+      "end_time": "00:29:32,159",
+      "text": "is that this was going to play out the"
+    },
+    {
+      "start_time": "00:29:30,240",
+      "end_time": "00:29:34,159",
+      "text": "way that the lich said. But it's not. It"
+    },
+    {
+      "start_time": "00:29:32,159",
+      "end_time": "00:29:37,039",
+      "text": "is not going to play out that way. The"
+    },
+    {
+      "start_time": "00:29:34,159",
+      "end_time": "00:29:40,399",
+      "text": "servants begin to pry open that crate,"
+    },
+    {
+      "start_time": "00:29:37,039",
+      "end_time": "00:29:43,440",
+      "text": "revealing this golden and bluepainted"
+    },
+    {
+      "start_time": "00:29:40,399",
+      "end_time": "00:29:45,679",
+      "text": "sarcophagus within this regal looking"
+    },
+    {
+      "start_time": "00:29:43,440",
+      "end_time": "00:29:49,679",
+      "text": "thing. It's like it's clearly of ancient"
+    },
+    {
+      "start_time": "00:29:45,679",
+      "end_time": "00:29:52,080",
+      "text": "ancient uh construction, but it is still"
+    },
+    {
+      "start_time": "00:29:49,679",
+      "end_time": "00:29:53,919",
+      "text": "gleaming and golden as brightly as the"
+    },
+    {
+      "start_time": "00:29:52,080",
+      "end_time": "00:29:56,480",
+      "text": "day it was crafted. So, it was almost"
+    },
+    {
+      "start_time": "00:29:53,919",
+      "end_time": "00:29:58,559",
+      "text": "like this thing has has some sort of"
+    },
+    {
+      "start_time": "00:29:56,480",
+      "end_time": "00:30:00,559",
+      "text": "protective barrier around it or"
+    },
+    {
+      "start_time": "00:29:58,559",
+      "end_time": "00:30:03,120",
+      "text": "something that prevents it from aging"
+    },
+    {
+      "start_time": "00:30:00,559",
+      "end_time": "00:30:06,000",
+      "text": "and uh decomposing over the course of"
+    },
+    {
+      "start_time": "00:30:03,120",
+      "end_time": "00:30:07,679",
+      "text": "time. Much as its supposed inhabitant,"
+    },
+    {
+      "start_time": "00:30:06,000",
+      "end_time": "00:30:09,279",
+      "text": "it's not what she hoped. So, what does"
+    },
+    {
+      "start_time": "00:30:07,679",
+      "end_time": "00:30:11,600",
+      "text": "that mean to me? What does that mean to"
+    },
+    {
+      "start_time": "00:30:09,279",
+      "end_time": "00:30:13,360",
+      "text": "me? I was going to ask the fate chart"
+    },
+    {
+      "start_time": "00:30:11,600",
+      "end_time": "00:30:15,039",
+      "text": "all kinds of things about whether the"
+    },
+    {
+      "start_time": "00:30:13,360",
+      "end_time": "00:30:16,480",
+      "text": "lich was telling the truth. if so, how"
+    },
+    {
+      "start_time": "00:30:15,039",
+      "end_time": "00:30:19,200",
+      "text": "much of it was true, and all that good"
+    },
+    {
+      "start_time": "00:30:16,480",
+      "end_time": "00:30:21,200",
+      "text": "stuff. But this role"
+    },
+    {
+      "start_time": "00:30:19,200",
+      "end_time": "00:30:23,200",
+      "text": "tells me everything I need to know, or"
+    },
+    {
+      "start_time": "00:30:21,200",
+      "end_time": "00:30:26,480",
+      "text": "at least it sets me off on a particular"
+    },
+    {
+      "start_time": "00:30:23,200",
+      "end_time": "00:30:29,520",
+      "text": "track, which it's not good for veil. All"
+    },
+    {
+      "start_time": "00:30:26,480",
+      "end_time": "00:30:33,600",
+      "text": "right, they see this happening and one"
+    },
+    {
+      "start_time": "00:30:29,520",
+      "end_time": "00:30:36,480",
+      "text": "of the nomads who is participating in"
+    },
+    {
+      "start_time": "00:30:33,600",
+      "end_time": "00:30:39,200",
+      "text": "this apparent ritual of some sort,"
+    },
+    {
+      "start_time": "00:30:36,480",
+      "end_time": "00:30:40,640",
+      "text": "again, the guards doing nothing. Just in"
+    },
+    {
+      "start_time": "00:30:39,200",
+      "end_time": "00:30:42,240",
+      "text": "fact, they're just standing there"
+    },
+    {
+      "start_time": "00:30:40,640",
+      "end_time": "00:30:44,640",
+      "text": "staring straight ahead. They they're not"
+    },
+    {
+      "start_time": "00:30:42,240",
+      "end_time": "00:30:46,960",
+      "text": "even showing any interest at all into"
+    },
+    {
+      "start_time": "00:30:44,640",
+      "end_time": "00:30:48,799",
+      "text": "what's going on down here. So clearly"
+    },
+    {
+      "start_time": "00:30:46,960",
+      "end_time": "00:30:50,399",
+      "text": "there's something going on where perhaps"
+    },
+    {
+      "start_time": "00:30:48,799",
+      "end_time": "00:30:53,520",
+      "text": "they're under the control of somebody"
+    },
+    {
+      "start_time": "00:30:50,399",
+      "end_time": "00:30:55,840",
+      "text": "who knows what. But this dude here uh is"
+    },
+    {
+      "start_time": "00:30:53,520",
+      "end_time": "00:30:58,480",
+      "text": "is continuing to chant and his voice"
+    },
+    {
+      "start_time": "00:30:55,840",
+      "end_time": "00:31:01,440",
+      "text": "rises until it reaches this crescendo of"
+    },
+    {
+      "start_time": "00:30:58,480",
+      "end_time": "00:31:04,240",
+      "text": "almost like like like religious ecstasy"
+    },
+    {
+      "start_time": "00:31:01,440",
+      "end_time": "00:31:09,279",
+      "text": "and fervor. And at that moment the"
+    },
+    {
+      "start_time": "00:31:04,240",
+      "end_time": "00:31:12,559",
+      "text": "sarcophagus lid opens. It swings open,"
+    },
+    {
+      "start_time": "00:31:09,279",
+      "end_time": "00:31:15,200",
+      "text": "revealing a figure inside. And that"
+    },
+    {
+      "start_time": "00:31:12,559",
+      "end_time": "00:31:18,000",
+      "text": "figure looks to Vale's eyes immediately"
+    },
+    {
+      "start_time": "00:31:15,200",
+      "end_time": "00:31:21,279",
+      "text": "as she sees this like some sort of"
+    },
+    {
+      "start_time": "00:31:18,000",
+      "end_time": "00:31:23,200",
+      "text": "desiccated prince is what she sees. And"
+    },
+    {
+      "start_time": "00:31:21,279",
+      "end_time": "00:31:25,200",
+      "text": "as she sees this, remember this is just"
+    },
+    {
+      "start_time": "00:31:23,200",
+      "end_time": "00:31:26,640",
+      "text": "as the sun is setting now and the stars,"
+    },
+    {
+      "start_time": "00:31:25,200",
+      "end_time": "00:31:28,720",
+      "text": "the great conjunction of the stars are"
+    },
+    {
+      "start_time": "00:31:26,640",
+      "end_time": "00:31:32,720",
+      "text": "about to come out overhead. She sees"
+    },
+    {
+      "start_time": "00:31:28,720",
+      "end_time": "00:31:34,960",
+      "text": "this and yes, she recognizes yes that is"
+    },
+    {
+      "start_time": "00:31:32,720",
+      "end_time": "00:31:37,440",
+      "text": "the face. It is a mummified face, but"
+    },
+    {
+      "start_time": "00:31:34,960",
+      "end_time": "00:31:40,000",
+      "text": "that is the face of a young, attractive"
+    },
+    {
+      "start_time": "00:31:37,440",
+      "end_time": "00:31:41,919",
+      "text": "man who she saw in the lich's dream. And"
+    },
+    {
+      "start_time": "00:31:40,000",
+      "end_time": "00:31:44,240",
+      "text": "now she knows beyond a shadow of a doubt"
+    },
+    {
+      "start_time": "00:31:41,919",
+      "end_time": "00:31:48,240",
+      "text": "that this is in fact the body of"
+    },
+    {
+      "start_time": "00:31:44,240",
+      "end_time": "00:31:53,760",
+      "text": "Matzaroth. And as the the sarcophagus"
+    },
+    {
+      "start_time": "00:31:48,240",
+      "end_time": "00:31:57,120",
+      "text": "lid opens, the eyes flare up all solid,"
+    },
+    {
+      "start_time": "00:31:53,760",
+      "end_time": "00:32:00,320",
+      "text": "sickly green, and the body begins to"
+    },
+    {
+      "start_time": "00:31:57,120",
+      "end_time": "00:32:03,679",
+      "text": "stir. And as it does, it begins to take"
+    },
+    {
+      "start_time": "00:32:00,320",
+      "end_time": "00:32:05,840",
+      "text": "on this grandeur. There's almost like"
+    },
+    {
+      "start_time": "00:32:03,679",
+      "end_time": "00:32:08,399",
+      "text": "this glamour surrounding the body that"
+    },
+    {
+      "start_time": "00:32:05,840",
+      "end_time": "00:32:10,320",
+      "text": "seems to spread out and emanate in waves"
+    },
+    {
+      "start_time": "00:32:08,399",
+      "end_time": "00:32:12,880",
+      "text": "from the sarcophagus"
+    },
+    {
+      "start_time": "00:32:10,320",
+      "end_time": "00:32:14,799",
+      "text": "affecting well per seemingly everybody"
+    },
+    {
+      "start_time": "00:32:12,880",
+      "end_time": "00:32:17,279",
+      "text": "but certainly affecting Veil and Thrag."
+    },
+    {
+      "start_time": "00:32:14,799",
+      "end_time": "00:32:18,640",
+      "text": "And what they see now whether this is"
+    },
+    {
+      "start_time": "00:32:17,279",
+      "end_time": "00:32:20,399",
+      "text": "real, whether this is an actual"
+    },
+    {
+      "start_time": "00:32:18,640",
+      "end_time": "00:32:22,960",
+      "text": "transformation or whether this is some"
+    },
+    {
+      "start_time": "00:32:20,399",
+      "end_time": "00:32:27,200",
+      "text": "sort of magical glamour, what they see"
+    },
+    {
+      "start_time": "00:32:22,960",
+      "end_time": "00:32:30,640",
+      "text": "is this regal figure rise out of the"
+    },
+    {
+      "start_time": "00:32:27,200",
+      "end_time": "00:32:33,600",
+      "text": "sarcophagus and stand towering over the"
+    },
+    {
+      "start_time": "00:32:30,640",
+      "end_time": "00:32:39,120",
+      "text": "congregation. This figure has the"
+    },
+    {
+      "start_time": "00:32:33,600",
+      "end_time": "00:32:43,600",
+      "text": "bearing of some ancient prince. There is"
+    },
+    {
+      "start_time": "00:32:39,120",
+      "end_time": "00:32:48,240",
+      "text": "the earthly body, the not quite undead"
+    },
+    {
+      "start_time": "00:32:43,600",
+      "end_time": "00:32:51,120",
+      "text": "body of Mat Sarath, the lich or the"
+    },
+    {
+      "start_time": "00:32:48,240",
+      "end_time": "00:32:53,519",
+      "text": "quasi lich. At that moment, I think"
+    },
+    {
+      "start_time": "00:32:51,120",
+      "end_time": "00:32:56,000",
+      "text": "because she has the spirit mantle with"
+    },
+    {
+      "start_time": "00:32:53,519",
+      "end_time": "00:32:58,240",
+      "text": "her and she has the felactory with her,"
+    },
+    {
+      "start_time": "00:32:56,000",
+      "end_time": "00:33:00,720",
+      "text": "I think it is extraordinarily likely,"
+    },
+    {
+      "start_time": "00:32:58,240",
+      "end_time": "00:33:03,600",
+      "text": "near certain that Matzaroth is aware of"
+    },
+    {
+      "start_time": "00:33:00,720",
+      "end_time": "00:33:07,039",
+      "text": "her presence. I'm going to roll it now."
+    },
+    {
+      "start_time": "00:33:03,600",
+      "end_time": "00:33:09,440",
+      "text": "94 and 95. It is still a yes, but"
+    },
+    {
+      "start_time": "00:33:07,039",
+      "end_time": "00:33:12,240",
+      "text": "almost. She almost got away with not"
+    },
+    {
+      "start_time": "00:33:09,440",
+      "end_time": "00:33:14,799",
+      "text": "being noticed, but he turns his his"
+    },
+    {
+      "start_time": "00:33:12,240",
+      "end_time": "00:33:18,480",
+      "text": "princely and regal yet obviously"
+    },
+    {
+      "start_time": "00:33:14,799",
+      "end_time": "00:33:22,159",
+      "text": "somewhat undead head towards her and the"
+    },
+    {
+      "start_time": "00:33:18,480",
+      "end_time": "00:33:25,200",
+      "text": "eyes glow even brighter. And he extends"
+    },
+    {
+      "start_time": "00:33:22,159",
+      "end_time": "00:33:27,760",
+      "text": "his hand and he says with a voice that"
+    },
+    {
+      "start_time": "00:33:25,200",
+      "end_time": "00:33:30,720",
+      "text": "seems like it's it's part the the sound"
+    },
+    {
+      "start_time": "00:33:27,760",
+      "end_time": "00:33:32,640",
+      "text": "of bones being ground into dust and and"
+    },
+    {
+      "start_time": "00:33:30,720",
+      "end_time": "00:33:34,880",
+      "text": "ancient leaves being crushed into"
+    },
+    {
+      "start_time": "00:33:32,640",
+      "end_time": "00:33:37,360",
+      "text": "powder. And yet it still carries this"
+    },
+    {
+      "start_time": "00:33:34,880",
+      "end_time": "00:33:40,159",
+      "text": "this unearly authority with it."
+    },
+    {
+      "start_time": "00:33:37,360",
+      "end_time": "00:33:44,080",
+      "text": ">> You have arrived."
+    },
+    {
+      "start_time": "00:33:40,159",
+      "end_time": "00:33:47,519",
+      "text": "Come forward and reunite my body with"
+    },
+    {
+      "start_time": "00:33:44,080",
+      "end_time": "00:33:51,519",
+      "text": "the felactory and I will open the portal"
+    },
+    {
+      "start_time": "00:33:47,519",
+      "end_time": "00:33:53,440",
+      "text": "to Norcath and together you and I will"
+    },
+    {
+      "start_time": "00:33:51,519",
+      "end_time": "00:33:57,120",
+      "text": "step through."
+    },
+    {
+      "start_time": "00:33:53,440",
+      "end_time": "00:34:02,080",
+      "text": "Come. Come."
+    },
+    {
+      "start_time": "00:33:57,120",
+      "end_time": "00:34:05,679",
+      "text": "Now we know because of that role that"
+    },
+    {
+      "start_time": "00:34:02,080",
+      "end_time": "00:34:08,960",
+      "text": "something ain't right. But she is so"
+    },
+    {
+      "start_time": "00:34:05,679",
+      "end_time": "00:34:11,919",
+      "text": "consumed with this hope. She is going to"
+    },
+    {
+      "start_time": "00:34:08,960",
+      "end_time": "00:34:14,320",
+      "text": "get an insight. And in fact, as she is"
+    },
+    {
+      "start_time": "00:34:11,919",
+      "end_time": "00:34:17,119",
+      "text": "about to step forward, Thrag puts his"
+    },
+    {
+      "start_time": "00:34:14,320",
+      "end_time": "00:34:19,040",
+      "text": "arm out and looks at her and shakes his"
+    },
+    {
+      "start_time": "00:34:17,119",
+      "end_time": "00:34:20,960",
+      "text": "head. So she is going to get the benefit"
+    },
+    {
+      "start_time": "00:34:19,040",
+      "end_time": "00:34:23,520",
+      "text": "of his insight on this. You know what?"
+    },
+    {
+      "start_time": "00:34:20,960",
+      "end_time": "00:34:24,639",
+      "text": "She's going to actually spend resolve."
+    },
+    {
+      "start_time": "00:34:23,520",
+      "end_time": "00:34:27,359",
+      "text": "She's not very good at this. She's going"
+    },
+    {
+      "start_time": "00:34:24,639",
+      "end_time": "00:34:28,720",
+      "text": "to spend oh two points of resolve. So"
+    },
+    {
+      "start_time": "00:34:27,359",
+      "end_time": "00:34:30,960",
+      "text": "she's going to get plus 20 to this. So"
+    },
+    {
+      "start_time": "00:34:28,720",
+      "end_time": "00:34:33,760",
+      "text": "she thought this is on 60. Is she able"
+    },
+    {
+      "start_time": "00:34:30,960",
+      "end_time": "00:34:35,679",
+      "text": "to do it on 60? She is with five SLS. So"
+    },
+    {
+      "start_time": "00:34:33,760",
+      "end_time": "00:34:37,599",
+      "text": "she's able only because she exerted her"
+    },
+    {
+      "start_time": "00:34:35,679",
+      "end_time": "00:34:39,839",
+      "text": "resolve on this and with the help of"
+    },
+    {
+      "start_time": "00:34:37,599",
+      "end_time": "00:34:42,159",
+      "text": "Thrag who as I said looks at her and"
+    },
+    {
+      "start_time": "00:34:39,839",
+      "end_time": "00:34:44,000",
+      "text": "shakes his head as if to say do not do"
+    },
+    {
+      "start_time": "00:34:42,159",
+      "end_time": "00:34:45,440",
+      "text": "this. And she looks and she's about to"
+    },
+    {
+      "start_time": "00:34:44,000",
+      "end_time": "00:34:47,520",
+      "text": "step forward. She looks at Thrag and she"
+    },
+    {
+      "start_time": "00:34:45,440",
+      "end_time": "00:34:49,520",
+      "text": "looks down at him and she kind of steals"
+    },
+    {
+      "start_time": "00:34:47,520",
+      "end_time": "00:34:51,679",
+      "text": "her face and gives him just the tiniest"
+    },
+    {
+      "start_time": "00:34:49,520",
+      "end_time": "00:34:54,879",
+      "text": "nod as if to say that you know message"
+    },
+    {
+      "start_time": "00:34:51,679",
+      "end_time": "00:34:57,119",
+      "text": "received. Not so fast, Mozart."
+    },
+    {
+      "start_time": "00:34:54,879",
+      "end_time": "00:35:01,920",
+      "text": "Before you take one more step towards"
+    },
+    {
+      "start_time": "00:34:57,119",
+      "end_time": "00:35:04,560",
+      "text": "opening this portal, I need collateral."
+    },
+    {
+      "start_time": "00:35:01,920",
+      "end_time": "00:35:08,000",
+      "text": "To prove that you will not betray me"
+    },
+    {
+      "start_time": "00:35:04,560",
+      "end_time": "00:35:12,079",
+      "text": "once you open this thing. Betray you?"
+    },
+    {
+      "start_time": "00:35:08,000",
+      "end_time": "00:35:16,000",
+      "text": "Why would I do that? Sweet Veil?"
+    },
+    {
+      "start_time": "00:35:12,079",
+      "end_time": "00:35:19,040",
+      "text": "I need you. And the power of Cherylyn"
+    },
+    {
+      "start_time": "00:35:16,000",
+      "end_time": "00:35:22,160",
+      "text": "spirit bane, which I remind you still"
+    },
+    {
+      "start_time": "00:35:19,040",
+      "end_time": "00:35:26,560",
+      "text": "lives within this body."
+    },
+    {
+      "start_time": "00:35:22,160",
+      "end_time": "00:35:29,520",
+      "text": "Help me free her veil. Give me the"
+    },
+    {
+      "start_time": "00:35:26,560",
+      "end_time": "00:35:32,079",
+      "text": "felactory. She pulls out the spirit"
+    },
+    {
+      "start_time": "00:35:29,520",
+      "end_time": "00:35:33,680",
+      "text": "mantle. The spirit mantle which is"
+    },
+    {
+      "start_time": "00:35:32,079",
+      "end_time": "00:35:37,119",
+      "text": "drained."
+    },
+    {
+      "start_time": "00:35:33,680",
+      "end_time": "00:35:39,599",
+      "text": "She did transfer the power of Cherylyn's"
+    },
+    {
+      "start_time": "00:35:37,119",
+      "end_time": "00:35:40,800",
+      "text": "spirit bane from the spirit mantle. The"
+    },
+    {
+      "start_time": "00:35:39,599",
+      "end_time": "00:35:42,720",
+      "text": "thing she was going to use to put the"
+    },
+    {
+      "start_time": "00:35:40,800",
+      "end_time": "00:35:44,960",
+      "text": "lich back to sleep or destroy him if she"
+    },
+    {
+      "start_time": "00:35:42,720",
+      "end_time": "00:35:47,359",
+      "text": "could. She transferred that power into"
+    },
+    {
+      "start_time": "00:35:44,960",
+      "end_time": "00:35:49,440",
+      "text": "this lamp."
+    },
+    {
+      "start_time": "00:35:47,359",
+      "end_time": "00:35:51,920",
+      "text": "But"
+    },
+    {
+      "start_time": "00:35:49,440",
+      "end_time": "00:35:55,280",
+      "text": "did she hold something back? Does she"
+    },
+    {
+      "start_time": "00:35:51,920",
+      "end_time": "00:35:57,040",
+      "text": "have some sort of ace up her sleeve?"
+    },
+    {
+      "start_time": "00:35:55,280",
+      "end_time": "00:35:58,880",
+      "text": "She's pretty smart. She wouldn't be"
+    },
+    {
+      "start_time": "00:35:57,040",
+      "end_time": "00:36:00,960",
+      "text": "trusting this guy entirely. She's got to"
+    },
+    {
+      "start_time": "00:35:58,880",
+      "end_time": "00:36:04,320",
+      "text": "have something. I just don't know what"
+    },
+    {
+      "start_time": "00:36:00,960",
+      "end_time": "00:36:06,720",
+      "text": "that is. So,"
+    },
+    {
+      "start_time": "00:36:04,320",
+      "end_time": "00:36:08,720",
+      "text": "if in fact he is this villain that the"
+    },
+    {
+      "start_time": "00:36:06,720",
+      "end_time": "00:36:10,800",
+      "text": "100 rule seems to indicate that he is,"
+    },
+    {
+      "start_time": "00:36:08,720",
+      "end_time": "00:36:13,440",
+      "text": "is he going to do the classic thing now"
+    },
+    {
+      "start_time": "00:36:10,800",
+      "end_time": "00:36:16,240",
+      "text": "of allowing his own ego and pride to get"
+    },
+    {
+      "start_time": "00:36:13,440",
+      "end_time": "00:36:18,480",
+      "text": "in the way of his own plans? is in fact"
+    },
+    {
+      "start_time": "00:36:16,240",
+      "end_time": "00:36:20,880",
+      "text": "Matzaroth in this very moment going to"
+    },
+    {
+      "start_time": "00:36:18,480",
+      "end_time": "00:36:24,960",
+      "text": "succumb to the classic villainous"
+    },
+    {
+      "start_time": "00:36:20,880",
+      "end_time": "00:36:26,880",
+      "text": "mistake by revealing his plans to his"
+    },
+    {
+      "start_time": "00:36:24,960",
+      "end_time": "00:36:28,400",
+      "text": "intended prey. Oo, that's a good"
+    },
+    {
+      "start_time": "00:36:26,880",
+      "end_time": "00:36:30,240",
+      "text": "question."
+    },
+    {
+      "start_time": "00:36:28,400",
+      "end_time": "00:36:32,640",
+      "text": "I don't know. I'm going to ask the chart"
+    },
+    {
+      "start_time": "00:36:30,240",
+      "end_time": "00:36:36,760",
+      "text": "and I'm going to call it 50/50. We are"
+    },
+    {
+      "start_time": "00:36:32,640",
+      "end_time": "00:36:36,760",
+      "text": "on K chaos factor 73."
+    },
+    {
+      "start_time": "00:36:37,599",
+      "end_time": "00:36:42,000",
+      "text": "Extreme."
+    },
+    {
+      "start_time": "00:36:39,359",
+      "end_time": "00:36:45,599",
+      "text": "Yes, extreme. Yes. As Veil stands there"
+    },
+    {
+      "start_time": "00:36:42,000",
+      "end_time": "00:36:48,400",
+      "text": "holding the spirit mantle in one hand"
+    },
+    {
+      "start_time": "00:36:45,599",
+      "end_time": "00:36:53,359",
+      "text": "and the felactory the lamp in the other."
+    },
+    {
+      "start_time": "00:36:48,400",
+      "end_time": "00:36:55,440",
+      "text": "Give me something, Mozeroth, to prove"
+    },
+    {
+      "start_time": "00:36:53,359",
+      "end_time": "00:37:00,160",
+      "text": "that you are not the villain that I"
+    },
+    {
+      "start_time": "00:36:55,440",
+      "end_time": "00:37:03,520",
+      "text": "think you are. He looks at her."
+    },
+    {
+      "start_time": "00:37:00,160",
+      "end_time": "00:37:07,520",
+      "text": "A look of disappointment coming over his"
+    },
+    {
+      "start_time": "00:37:03,520",
+      "end_time": "00:37:11,839",
+      "text": "withered, desiccated face, and then he"
+    },
+    {
+      "start_time": "00:37:07,520",
+      "end_time": "00:37:11,839",
+      "text": "begins to laugh."
+    },
+    {
+      "start_time": "00:37:15,440",
+      "end_time": "00:37:22,240",
+      "text": "Foolish girl,"
+    },
+    {
+      "start_time": "00:37:18,000",
+      "end_time": "00:37:24,800",
+      "text": "you have stepped into your own doom and"
+    },
+    {
+      "start_time": "00:37:22,240",
+      "end_time": "00:37:27,359",
+      "text": "you don't even know it yet. And at this"
+    },
+    {
+      "start_time": "00:37:24,800",
+      "end_time": "00:37:30,240",
+      "text": "point, Thrag tenses. He completely"
+    },
+    {
+      "start_time": "00:37:27,359",
+      "end_time": "00:37:32,640",
+      "text": "tenses. He knew it."
+    },
+    {
+      "start_time": "00:37:30,240",
+      "end_time": "00:37:37,440",
+      "text": "Did you really think that I would"
+    },
+    {
+      "start_time": "00:37:32,640",
+      "end_time": "00:37:40,320",
+      "text": "entrust my felactory to you?"
+    },
+    {
+      "start_time": "00:37:37,440",
+      "end_time": "00:37:43,680",
+      "text": "Oh, fail."
+    },
+    {
+      "start_time": "00:37:40,320",
+      "end_time": "00:37:47,920",
+      "text": "What you hold in your hand, that lamp,"
+    },
+    {
+      "start_time": "00:37:43,680",
+      "end_time": "00:37:50,960",
+      "text": "is nothing more than a bobble. And now"
+    },
+    {
+      "start_time": "00:37:47,920",
+      "end_time": "00:37:54,800",
+      "text": "you have wasted the power of the spirit"
+    },
+    {
+      "start_time": "00:37:50,960",
+      "end_time": "00:37:58,000",
+      "text": "mantle and drained it of the last of"
+    },
+    {
+      "start_time": "00:37:54,800",
+      "end_time": "00:38:02,000",
+      "text": "Cheryl's spirit Bane's essence."
+    },
+    {
+      "start_time": "00:37:58,000",
+      "end_time": "00:38:05,760",
+      "text": "You have squandered your last chance of"
+    },
+    {
+      "start_time": "00:38:02,000",
+      "end_time": "00:38:08,880",
+      "text": "defeating me."
+    },
+    {
+      "start_time": "00:38:05,760",
+      "end_time": "00:38:11,440",
+      "text": "Now, Veil in this moment is not entirely"
+    },
+    {
+      "start_time": "00:38:08,880",
+      "end_time": "00:38:15,440",
+      "text": "shocked. There is a part of her that was"
+    },
+    {
+      "start_time": "00:38:11,440",
+      "end_time": "00:38:19,040",
+      "text": "blinded by her need, her desperation to"
+    },
+    {
+      "start_time": "00:38:15,440",
+      "end_time": "00:38:21,040",
+      "text": "try and grasp at any flimsy straw of"
+    },
+    {
+      "start_time": "00:38:19,040",
+      "end_time": "00:38:24,160",
+      "text": "hope that might bring Cherylyn back."
+    },
+    {
+      "start_time": "00:38:21,040",
+      "end_time": "00:38:25,920",
+      "text": "This is her her flaw. This has always"
+    },
+    {
+      "start_time": "00:38:24,160",
+      "end_time": "00:38:28,880",
+      "text": "been her flaw. It fueled her through all"
+    },
+    {
+      "start_time": "00:38:25,920",
+      "end_time": "00:38:31,280",
+      "text": "of season 3, and now it continues up to"
+    },
+    {
+      "start_time": "00:38:28,880",
+      "end_time": "00:38:33,760",
+      "text": "this very moment to be the one thing"
+    },
+    {
+      "start_time": "00:38:31,280",
+      "end_time": "00:38:36,079",
+      "text": "that clouded her judgment. And now the"
+    },
+    {
+      "start_time": "00:38:33,760",
+      "end_time": "00:38:38,800",
+      "text": "spirit mantle is no longer the weapon"
+    },
+    {
+      "start_time": "00:38:36,079",
+      "end_time": "00:38:40,240",
+      "text": "that she thought it was. It is drained"
+    },
+    {
+      "start_time": "00:38:38,800",
+      "end_time": "00:38:42,320",
+      "text": "of her power. And as she looks at it,"
+    },
+    {
+      "start_time": "00:38:40,240",
+      "end_time": "00:38:46,240",
+      "text": "she can see the shimmer is utterly"
+    },
+    {
+      "start_time": "00:38:42,320",
+      "end_time": "00:38:50,960",
+      "text": "spent. And now she holds this useless"
+    },
+    {
+      "start_time": "00:38:46,240",
+      "end_time": "00:38:53,680",
+      "text": "lamp in her hand. You lying monster."
+    },
+    {
+      "start_time": "00:38:50,960",
+      "end_time": "00:38:58,079",
+      "text": "Tell me then if you have any truth in"
+    },
+    {
+      "start_time": "00:38:53,680",
+      "end_time": "00:39:02,480",
+      "text": "you. Was any part of your story true?"
+    },
+    {
+      "start_time": "00:38:58,079",
+      "end_time": "00:39:05,200",
+      "text": "Any of it? Of course it was, my child."
+    },
+    {
+      "start_time": "00:39:02,480",
+      "end_time": "00:39:08,560",
+      "text": "The shard of Cheryl's spirit bane soul"
+    },
+    {
+      "start_time": "00:39:05,200",
+      "end_time": "00:39:12,000",
+      "text": "does exist within me. What you saw in"
+    },
+    {
+      "start_time": "00:39:08,560",
+      "end_time": "00:39:14,960",
+      "text": "the vision is true. The last existing"
+    },
+    {
+      "start_time": "00:39:12,000",
+      "end_time": "00:39:17,680",
+      "text": "fragment of Cheryl spiritbane's soul is"
+    },
+    {
+      "start_time": "00:39:14,960",
+      "end_time": "00:39:22,480",
+      "text": "lodged within me. It was the very thing"
+    },
+    {
+      "start_time": "00:39:17,680",
+      "end_time": "00:39:24,480",
+      "text": "that she used to put me into a slumber."
+    },
+    {
+      "start_time": "00:39:22,480",
+      "end_time": "00:39:27,520",
+      "text": "She knew she could not destroy me in"
+    },
+    {
+      "start_time": "00:39:24,480",
+      "end_time": "00:39:31,599",
+      "text": "this world. So the best she could do is"
+    },
+    {
+      "start_time": "00:39:27,520",
+      "end_time": "00:39:35,359",
+      "text": "sacrifice a tiny part of her own soul to"
+    },
+    {
+      "start_time": "00:39:31,599",
+      "end_time": "00:39:39,520",
+      "text": "keep me asleep. But now"
+    },
+    {
+      "start_time": "00:39:35,359",
+      "end_time": "00:39:42,320",
+      "text": "her spirit is gone and the hold that she"
+    },
+    {
+      "start_time": "00:39:39,520",
+      "end_time": "00:39:44,800",
+      "text": "had on me crumbles."
+    },
+    {
+      "start_time": "00:39:42,320",
+      "end_time": "00:39:47,200",
+      "text": "And now Mozeroth,"
+    },
+    {
+      "start_time": "00:39:44,800",
+      "end_time": "00:39:52,000",
+      "text": "greatest lich in the history of the"
+    },
+    {
+      "start_time": "00:39:47,200",
+      "end_time": "00:39:55,920",
+      "text": "broken empires, is awake. and he turns"
+    },
+    {
+      "start_time": "00:39:52,000",
+      "end_time": "00:39:58,800",
+      "text": "and begins to chant the words that begin"
+    },
+    {
+      "start_time": "00:39:55,920",
+      "end_time": "00:40:00,800",
+      "text": "to cause the the strange sigils etched"
+    },
+    {
+      "start_time": "00:39:58,800",
+      "end_time": "00:40:03,520",
+      "text": "into the stone around the entrance to"
+    },
+    {
+      "start_time": "00:40:00,800",
+      "end_time": "00:40:06,240",
+      "text": "glow with this sickly green radiance."
+    },
+    {
+      "start_time": "00:40:03,520",
+      "end_time": "00:40:09,119",
+      "text": "And at this moment, Veil and Thra are"
+    },
+    {
+      "start_time": "00:40:06,240",
+      "end_time": "00:40:11,200",
+      "text": "about to leap towards him as they go to"
+    },
+    {
+      "start_time": "00:40:09,119",
+      "end_time": "00:40:12,960",
+      "text": "grab their weapons. But I think it is"
+    },
+    {
+      "start_time": "00:40:11,200",
+      "end_time": "00:40:14,880",
+      "text": "extremely likely that he is prepared for"
+    },
+    {
+      "start_time": "00:40:12,960",
+      "end_time": "00:40:16,800",
+      "text": "this. Is there some sort of magic that"
+    },
+    {
+      "start_time": "00:40:14,880",
+      "end_time": "00:40:18,800",
+      "text": "immobilizes them that that that roots"
+    },
+    {
+      "start_time": "00:40:16,800",
+      "end_time": "00:40:21,040",
+      "text": "them in place? I'm going to ask the fate"
+    },
+    {
+      "start_time": "00:40:18,800",
+      "end_time": "00:40:23,440",
+      "text": "chart. Yes, I think it is likely. And we"
+    },
+    {
+      "start_time": "00:40:21,040",
+      "end_time": "00:40:25,520",
+      "text": "roll with an 85. And we roll. Yes, the"
+    },
+    {
+      "start_time": "00:40:23,440",
+      "end_time": "00:40:27,680",
+      "text": "39 is a yes. As they're about to move,"
+    },
+    {
+      "start_time": "00:40:25,520",
+      "end_time": "00:40:29,920",
+      "text": "he doesn't even turn. He just flicks his"
+    },
+    {
+      "start_time": "00:40:27,680",
+      "end_time": "00:40:31,920",
+      "text": "hand back like this and then just just"
+    },
+    {
+      "start_time": "00:40:29,920",
+      "end_time": "00:40:34,720",
+      "text": "ever so slightly squeezes his fingers"
+    },
+    {
+      "start_time": "00:40:31,920",
+      "end_time": "00:40:37,200",
+      "text": "together. And the two of them are rooted"
+    },
+    {
+      "start_time": "00:40:34,720",
+      "end_time": "00:40:39,119",
+      "text": "to the spot. Unless they can make a"
+    },
+    {
+      "start_time": "00:40:37,200",
+      "end_time": "00:40:40,480",
+      "text": "resistance roll against this. Ooh, this"
+    },
+    {
+      "start_time": "00:40:39,119",
+      "end_time": "00:40:42,240",
+      "text": "is going to be tough. So, how is this"
+    },
+    {
+      "start_time": "00:40:40,480",
+      "end_time": "00:40:44,800",
+      "text": "going to work is I'm going to roll his"
+    },
+    {
+      "start_time": "00:40:42,240",
+      "end_time": "00:40:46,240",
+      "text": "skill. He is unbelievably skilled. He's"
+    },
+    {
+      "start_time": "00:40:44,800",
+      "end_time": "00:40:48,560",
+      "text": "unbelievably skilled. He's going to be"
+    },
+    {
+      "start_time": "00:40:46,240",
+      "end_time": "00:40:50,960",
+      "text": "rolling on a skill of essentially 100."
+    },
+    {
+      "start_time": "00:40:48,560",
+      "end_time": "00:40:52,800",
+      "text": "He can't fail unless he rolls 99 or 100."
+    },
+    {
+      "start_time": "00:40:50,960",
+      "end_time": "00:40:54,960",
+      "text": "And he has an expertise of four, which"
+    },
+    {
+      "start_time": "00:40:52,800",
+      "end_time": "00:40:58,160",
+      "text": "means he rolls at least four cells. This"
+    },
+    {
+      "start_time": "00:40:54,960",
+      "end_time": "00:41:00,480",
+      "text": "is going to be ugly, no doubt. 48 is the"
+    },
+    {
+      "start_time": "00:40:58,160",
+      "end_time": "00:41:03,280",
+      "text": "roll they must use to resist against."
+    },
+    {
+      "start_time": "00:41:00,480",
+      "end_time": "00:41:05,200",
+      "text": "This is going to be a willpower roll."
+    },
+    {
+      "start_time": "00:41:03,280",
+      "end_time": "00:41:09,440",
+      "text": "Veil is quite good at this. She's"
+    },
+    {
+      "start_time": "00:41:05,200",
+      "end_time": "00:41:11,119",
+      "text": "rolling on 70. 71. SHE FAILS. SHE FAILS."
+    },
+    {
+      "start_time": "00:41:09,440",
+      "end_time": "00:41:14,240",
+      "text": "What about Thrag? What about Thrag? What"
+    },
+    {
+      "start_time": "00:41:11,119",
+      "end_time": "00:41:18,319",
+      "text": "about Thrag? He did only 35. And it's"
+    },
+    {
+      "start_time": "00:41:14,240",
+      "end_time": "00:41:20,400",
+      "text": "46. They both fail as they're about to"
+    },
+    {
+      "start_time": "00:41:18,319",
+      "end_time": "00:41:21,839",
+      "text": "filled with rage. SHE'S STILL GOT SHE'S"
+    },
+    {
+      "start_time": "00:41:20,400",
+      "end_time": "00:41:24,000",
+      "text": "got still got the spirit mantle and this"
+    },
+    {
+      "start_time": "00:41:21,839",
+      "end_time": "00:41:26,480",
+      "text": "lamp in her hand. She's about to to drop"
+    },
+    {
+      "start_time": "00:41:24,000",
+      "end_time": "00:41:28,319",
+      "text": "one of them and and pull a weapon. Thrag"
+    },
+    {
+      "start_time": "00:41:26,480",
+      "end_time": "00:41:29,839",
+      "text": "definitely, you know, grabs his ax, but"
+    },
+    {
+      "start_time": "00:41:28,319",
+      "end_time": "00:41:31,440",
+      "text": "as they're about to move forward, as I"
+    },
+    {
+      "start_time": "00:41:29,839",
+      "end_time": "00:41:33,280",
+      "text": "said, he puts his hand up, his"
+    },
+    {
+      "start_time": "00:41:31,440",
+      "end_time": "00:41:35,359",
+      "text": "desiccated withered claw of a hand and"
+    },
+    {
+      "start_time": "00:41:33,280",
+      "end_time": "00:41:37,599",
+      "text": "just does this. And they're stopped."
+    },
+    {
+      "start_time": "00:41:35,359",
+      "end_time": "00:41:40,319",
+      "text": "They're rooted in place. They cannot"
+    },
+    {
+      "start_time": "00:41:37,599",
+      "end_time": "00:41:42,400",
+      "text": "move from where they are. Now bear"
+    },
+    {
+      "start_time": "00:41:40,319",
+      "end_time": "00:41:45,760",
+      "text": "witness to the opening of the portal to"
+    },
+    {
+      "start_time": "00:41:42,400",
+      "end_time": "00:41:49,839",
+      "text": "Norcarth, where I will claim what is"
+    },
+    {
+      "start_time": "00:41:45,760",
+      "end_time": "00:41:54,160",
+      "text": "rightfully mine, my licham."
+    },
+    {
+      "start_time": "00:41:49,839",
+      "end_time": "00:41:56,800",
+      "text": "But worry not, dear girl, because you"
+    },
+    {
+      "start_time": "00:41:54,160",
+      "end_time": "00:41:59,520",
+      "text": "will be coming with me. At this moment,"
+    },
+    {
+      "start_time": "00:41:56,800",
+      "end_time": "00:42:02,160",
+      "text": "these servants all kind of turn around"
+    },
+    {
+      "start_time": "00:41:59,520",
+      "end_time": "00:42:06,400",
+      "text": "and some of the guards begin to slowly"
+    },
+    {
+      "start_time": "00:42:02,160",
+      "end_time": "00:42:09,680",
+      "text": "zombie like move towards her. After all,"
+    },
+    {
+      "start_time": "00:42:06,400",
+      "end_time": "00:42:14,240",
+      "text": "who better to replace my bodyguard than"
+    },
+    {
+      "start_time": "00:42:09,680",
+      "end_time": "00:42:17,839",
+      "text": "the one who slew him? You will become my"
+    },
+    {
+      "start_time": "00:42:14,240",
+      "end_time": "00:42:20,319",
+      "text": "new death knight.\""
+    },
+    {
+      "start_time": "00:42:17,839",
+      "end_time": "00:42:22,800",
+      "text": "And he turns and again begins to chant"
+    },
+    {
+      "start_time": "00:42:20,319",
+      "end_time": "00:42:24,800",
+      "text": "as these two are struggling, STRUGGLING"
+    },
+    {
+      "start_time": "00:42:22,800",
+      "end_time": "00:42:26,640",
+      "text": "AGAINST THEIR IMMOBILIZATION AS THESE"
+    },
+    {
+      "start_time": "00:42:24,800",
+      "end_time": "00:42:28,079",
+      "text": "GUARDS begin to move forward. Will they"
+    },
+    {
+      "start_time": "00:42:26,640",
+      "end_time": "00:42:30,000",
+      "text": "be able to break free of their bonds"
+    },
+    {
+      "start_time": "00:42:28,079",
+      "end_time": "00:42:32,000",
+      "text": "before they're dragged before the lich"
+    },
+    {
+      "start_time": "00:42:30,000",
+      "end_time": "00:42:33,200",
+      "text": "as the portal begins to open? We'll have"
+    },
+    {
+      "start_time": "00:42:32,000",
+      "end_time": "00:42:34,400",
+      "text": "to find out next time on the next"
+    },
+    {
+      "start_time": "00:42:33,200",
+      "end_time": "00:42:35,599",
+      "text": "episode of Me, Myself, and I. Thank you"
+    },
+    {
+      "start_time": "00:42:34,400",
+      "end_time": "00:42:36,800",
+      "text": "so much for joining me and if you do"
+    },
+    {
+      "start_time": "00:42:35,599",
+      "end_time": "00:42:38,240",
+      "text": "enjoy what I do, please considering"
+    },
+    {
+      "start_time": "00:42:36,800",
+      "end_time": "00:42:39,920",
+      "text": "hitting like and subscribe and even"
+    },
+    {
+      "start_time": "00:42:38,240",
+      "end_time": "00:42:41,119",
+      "text": "supporting us on Patreon or on the"
+    },
+    {
+      "start_time": "00:42:39,920",
+      "end_time": "00:42:43,280",
+      "text": "YouTube channel memberships. All the"
+    },
+    {
+      "start_time": "00:42:41,119",
+      "end_time": "00:42:45,280",
+      "text": "good stuff is below. Thank you and we"
+    },
+    {
+      "start_time": "00:42:43,280",
+      "end_time": "00:42:48,880",
+      "text": "will see you next time for what I"
+    },
+    {
+      "start_time": "00:42:45,280",
+      "end_time": "00:42:51,880",
+      "text": "presume will be the finale of season 4"
+    },
+    {
+      "start_time": "00:42:48,880",
+      "end_time": "00:42:51,880",
+      "text": "Legacy."
+    },
+    {
+      "start_time": "00:43:01,359",
+      "end_time": "00:43:04,359",
+      "text": "Heat. Heat."
+    }
+  ],
+  "full_text": "Very well, I will arrange it. Do you\nneed a place to stay and rest? You seem\nto be extremely\nworn out and exhausted from your many,\nmany fatigue points you took on the\nroad.\nHello and welcome back once again to Me,\nmyself, and I. I am, as always, your\nplayer, game master, and host, Trevor\nDeval. Thank you so much for joining me\nhere today. It's been a while since we\nhave looked at Veil and Thra and their\nadventures in the desert trying to stop\nthe Lich Matzaroth, but we are back and\nwe're going to continue on now.\nHopefully finish up very soon. Maybe\neven today. Who can say? The dice will\nalways uh tell. I'm not going to tell\nyou all the changes that the system has\ngone through because they have been many\nand legion. But if you're interested in\nhow the game works, you can always uh\npurchase it below at the link there. So,\nwhen last we left off, Veil Anthrag had\ngone to the burial spot of the Lich\nMatzaroth and discovered a few kind of\nfascinating things. Maybe they're lies,\nmaybe they're not. Who can say? She\ndoesn't know. But she has hope in her\nheart that perhaps by taking the power\nof the spirit mantle as she has done and\nwrapping the lich's felactory in it and\ntransferring the power to the flactory\nit will heal Mozaroth so that when she\nreunites the felactory with the lich's\nbody which is currently in Anir or on\nthe way to the city of Anchir to the\nspot where the great portal will be\nopened at the conjunction of the SARS\nthereby allowing Matzaroth access to\nNorcarth the eternal city where he hopes\nto find the secret to his own death\nbecause what he told her was that he was\nexhausted from all these thousands of\nyears of not life, not unlife, not\ndeath. Whatever reason, he doesn't like\nit. So, she is hoping that is he is in\nfact telling the truth. Is he telling\nthe truth? I don't know. Um I suspect\nnot. And so does Vale. But in the\nmeantime, she is going to proceed as\nthough he is. Now, Archaos factor is\ngoing to remain at 8. I don't actually\nremember where it was from last time. Uh\nit's been a long time since I ran a\nsession. So I'm just going to kind of\nstart freshish. I'm going to start with\nthe notes that I have currently. But uh\nwe're going to close the thread,\ninvestigate the lich's dream because we\nsuccessfully did that. We're going to\nhave a new thread. Get the felactory to\naner before the great conjunction of the\nstars. Okay, so they have a long way to\ngo and they're no longer mounted because\nthey lost a couple of their camels in\nthe scorpion attack in the desert. So\nnow they are on foot, but they've got a\nlong way to go and they've got to move\nfast because remember, not only does\nVeil have to get back to Aner before the\nconjunction of the stars, but she has to\ndeal with the Lich before the portal\nback to Angavar closes. That is where\nshe originally came from at the fortress\nof the Order of the Purifying Flame. So\nshe is running out of time. So they have\ngot to move. So what this means is we're\ngoing to go into our travel rules.\nThey're going to plan the route. Now,\nthey could go south along the river\nagain, but that's going to take too much\ntime. In fact, I think Veil says to\nWatik, who is their guide, I need you to\nchart the quickest route back to Anuria,\neven if that takes us directly across\nthe desert sands. And in fact, that's\nwhat it's going to be. It's going to be\nbasically a straight shot across the\ndesert. That's going to be tough.\nThey're going to be pushing it. They're\ngoing to be doing force marches and it's\nall rough terrain because it is the\nsweeping dunes and sands of the red\nwaists. So that's what they're going to\ndo there. Their route is planned. They\ncan't make any travel or rolls because\nthey're in the middle of nowhere and\nnothing really applies here. Now this\nplace does count as a safe area. So they\nwere able to rest and recover all of\ntheir resolve and and knock off three\nfatigue. So they are fresh now, which is\nvery important cuz they're not going to\nbe fresh by the time they get back to\nAnaria. As they set off the next morning\nthrough the receding waters of the\nflooded Tomb Valley, they come up out of\nthe rocks and begin to make their way\nback down towards the desert floor.\nWatique is going to do his track. Well,\nthis is going to tell us how far they\ncan go before an event befalls them and\nbefore they have to deal with a bunch of\nother stuff. All right, Watique, let us\nsee as he guides us through the desert\nwastess with their soul camel. Here he\ngoes, rolling on 80, which is a 23.\nWell, okay, that's 2 SL. So, what this\nmeans is they are going to go uh well,\nnot the B basically his score, which is\nthe 10 digit of his skill in uh hex's.\nSo, they're going to go eight hex's\nacross the desert, but they are pushing\nit, which means they are going three\nhex's per day. So, because we round up,\nit's going to be 3 days by the time they\nget to the area of the next event. There\nis not much to see over the next 3 days.\nsweeping Lords of Arabia type desert.\nWe're talking massive giant dunes that\nstretch on for as far as the eye can see\nuntil the the the golden uh red shimmer\nof the sand meets the the blue blue sky\nin the in the far horizon. There is\nnothing but heat and wind and sand that\nblows in their face and gets in every\ncrevice of their clothing. Nobody is\nwounded, so we don't have to worry about\ninfection or anything like that. But now\nthe quartermaster is going to step up.\nAnd our quartermaster I believe is Thrag\nwith his survival. He's pretty good at\nthis. 70 with an expertise of two, which\nmeans that the floor is two, which means\nhe gets a minimum of two SLS if he\nsucceeds at all. Let's see how he does.\nThis will help us out on the fatigue\ntable roll if he succeeds, which he does\nwith 35. So that's going to be plus\nthree to that table. But it's minus two\nbecause every hex was desert. So that's\nrough terrain. But they did force march.\nSo total is going to be uh minus4 to\nthis roll because of the numbers\ninvolved. So we take our d10 minus4.\nThis could get ugly. Oh yeah, that's\nabout as ugly as you can get. So if it's\none or less, what that means is\neverybody takes four fatigue, but\nluckily they have the camel. So how it\nworks is if they have food and water,\nmostly water in this case, they can\nactually reduce their rations diet by a\nstep to avoid taking one of those\nfatigue. So that's what they're going to\ndo. But they take three fatigue from\nthat. Oh boy, that's pretty bad. The\nheat of the sun beating down on them. In\nfact, the only reason the only uh solos\nand respit that they get from this whole\nthing is the fact that they're able to\nconsume great portions of water, which\nyou know reduces the the fatigue\nsomewhat. But now it is time for the\nevent. Now events don't have to be bad\nnecessarily. It's going to depend on a\nfew things. The very first thing I'm\ngoing to do is see if the scout sees\nanything up ahead. And our scout is\nVeil. She is also rolling on 70. No\nexpertise, so she's, you know, she's\npretty good at this. Uh, and she\nunfortunately will fail. Uh, obviously\nthe the the blowing wind has blown sand\nin her eyes and affected her perception.\nThey will get no bonus favor um for this\nevent. But let us see what the event is.\nThe first thing I want to do is\ndetermine what the danger level is of\nthe hex that they're in. Uh there's many\nways to do this, but I'm just going to\ndetermine it randomly, and it's going to\nbe perilous. So, there's a number of\nways to generate events in the Broken\nEmpires RPG. I'm going to jump down to\nour specific event types by hex danger\ntable. The precarious event that Veil\ndid not see coming is going to be Oh,\nthis is pretty good. This is pretty good\nactually. Scenic moment.\nType detail and possible effect. The\ntype 24. Celestial. Oh, that makes a lot\nof sense. Ah, yeah. I I know what this\nis before I even complete the roll. Uh,\nbut let's see if there's anything else\nhere. Sign of the past is the detail.\nYeah, that makes perfect sense. And the\npossible effect of this offers a safe\nplace to rest. Okay, this is really\ngood. So, as they are making their way\nthrough the desert, they would be\ntraveling by night. That's the smarter\nthing to do. I think I established that\nright in like episode one. They're\ntraveling through the desert. They're\nthey're traveling by night. So, as\nthey're about to hunker down for the\nday, as they're setting their tents and\neverything to ward off the heat of the\nday, the moon stars are still in the\nsky. But what they have noticed every\nnight leading up to this point is that\nthe stars in the sky are slowly\nconverging into one spot. This is a\ncelestial phenomenon known, of course,\nas the great conjunction. So, the time\nis drawing near. Now, as Veil is looking\nup at those stars, can she derive some\nsense of hope from this? We know that\nshe's on her way to Aner because she\nbelieves that there's a chance she might\nbe able to save Cherylyn by being able\nto extract the last shard of her living\nsoul from Matzaroth uh once he dies.\nThat that is her hope. I'm going to give\nher a role on ancient lore. Now, she's\nnot particularly good at this, but she\ndoes talk to Thrag about this. Thrag, do\nyou see the stars? They are aligning\neven now. What Mozart said is correct.\nThe great conjunction is nearly upon us.\nIt is possible that he was not lying to\nus. Thrag just kind of like folds his\narms. He's clearly skeptical and he\nsigns to her because of course he's a\nmute. It is a fool who believes the\nwords of a lich veil. I do not believe\nthat you are a fool. What's more, my old\nfriend, I believe that you are allowing\nyour own emotions over your loss of\nSherillin to cloud your judgment. And I\nbelieve that it could spell our doom.\nI understand, Thrag. I will not walk\nblindly into the clutches of that\nvillain.\nIf he is right,\nthen we might take some sorrows from\nthis, don't you think? So, I think she's\ngoing to do an ancient lore roll with\nhis help. She's going to roll with a\nslight bonus. Not very good. This is not\na great chance. Um, but oh, and they\nactually she succeeded. Okay, great. So,\nwhat I'm going to do is that knight\nbecause she's able to sort of convince\nThrag that that maybe maybe there is\nhope after all for the the entire\npurpose of the order, which is to to get\nrid of the scourge of undeath. Even\nthough Thrag doesn't 100% believe this,\nhe is moved by her dedication. And I\nthink that the both of them are able to\nrecover uh one fatigue from that. All\nright, they will continue on. They are\nin the middle of nowhere. There is no\npossible way to get Travalor here. So\ninstead, Watik, the guide is going to\ngive us another roll. And he's It's not\ngreat. It's not great, but it's okay. He\ndidn't fail, and that's what counts. So\nthey're able to go another eight hex's\nbefore the event. Oh, they're so close.\nThey're basically just a few miles north\nof the Jeweled River now. So, Watique\nknows exactly where he's going. This is\ngood. But the question is, how tiring\nwas the journey? This is going to be on\nThrag now. His endurance roll as the\nquartermaster. And he does pretty good\nagain. This is featureless red waste.\nThis is nothing but endless miles of\nsand dunes. On our fatigue table, he's\nrolling d10 minus 4 again. And okay,\nthat's a little better cuz they were\npushing it. They were force marching\nthis whole way. So, everyone takes two\nfatigue again. I think they have to they\nhave to consume uh copious amounts of\ntheir supplies in order to reduce that\nto one fatigue, which they're going to\ndo. We are going to roll for Veil now to\nsee if she makes her perception. And\nthis time she does with five cells,\nwhich is really good. Again, because we\ndon't know what this hex is, I'm just\ngoing to randomly determine it. Oh, it's\nneutral. Okay, so it it's it's a neutral\nhex. I'm going to go back down to the\nnormal table here and see what the\nnature of the event is. Oh well, this is\ngood for them again, I think.\nEnvironmental boon. This is very good so\nfar. They're getting extraordinarily\nlucky. The type\nedible plants or fruits? They come\nacross probably edible cacti in the\ndesert, but to what end? The source. Oh,\nintelligent influence or interference.\nSomebody planted this. This is like\nsomebody's desert garden. Oh,\ninteresting. So, somebody's out here.\nCould it be nomads, desert barbarians?\nCould it be something else? I don't\nknow. But let's see what the potential\nresults of this are. Efficient travel.\nOh, this is that's exactly what I think\nit is. I think it is a small desert\norchard with a tiny little oasis. And I\nthink it's like a way station. Yeah.\nYeah. For travel. So, it's a way station\nthat local desert nomads use. Everybody\ncan can do a nature-wise role. And if\nthey succeed overall, they don't have to\ndo very well. Well, they've only got to\nget a number of SLS, we'll say three.\nAnd if they succeed, then they'll be\nable to uh harvest some of those those\nfruits successfully cuz it's it's this\nweird kind of desert fruit where if you\nif you cut it at the wrong, you know,\nangle or something like that, it\nbasically like uh emits some sort of\ntoxin cuz it's the desert. It's, you\nknow, it's like Australia. Everything's\ntrying to kill you.\nVeil is going to do an HY. She's really\nnot good at this. Uh, no. She will\ndefinitely not have any idea of how to\nharvest this thing as they're looking at\nthis thrag. Is it 40? He will also not\nbe able to do it. Um, Watik will be able\nto do it as well. I'm going to give him\na 50 on nature wise. Okay. Well, he is\nable to actually harvest some of these\nfruits, which again, I think what it's\ngoing to do, it's going to provide them\na bonus on their next fatigue roll, but\nthey're able to harvest a couple that\nthey can sort of feast on, and that's\ngoing to that's going to ease their\npassage a little bit. They're pretty\nmuch guaranteed to get into anir on this\nnext roll. Unless something goes\ncatastrophically wrong, but I can't\nreally see what that would be. As long\nas Watik makes this roll, they're going\nto get into anir. They'll still have to\ndo a fatigue roll. But let us see what's\ngoing on here with Watique. Uh he is\nable to do it. And so they're going to\nbe able to get in no problem. However,\nwe still do have to do the fatigue roll.\nThey were still pushing. It's going to\nbe another 2 days before they get to an\nSharer. Thra gets to do his and Okay.\nWell, that's plus one. They're going to\nhave plus two on that. It's five, so\nit's going to be minus two all in on the\nfatigue roll. Oh my god. And of course,\nit's exhausting.\nFour fatigue all around. But again, they\njust burn through their rations. This is\nIt was really bad. They're down to D6s\nnow. That means they only take three.\nOh, this is really bad. Three fatigue\neach. They've taken six in total. But\nthere is no event when they get to the\ncity. That's an option the GM has. And\nI'm going to exercise that option now.\nSo they get there three nights later cuz\nthey are traveling by night. So I'm\ngoing to say that it's like the middle\nof the night on their third day from\nthat last stop. Yeah, it's it's the\nmiddle of the night. So when they come\nto the gates of the city, the gates of\nthe city are probably shut. So they'll\nhave to wait until dawn in order to get\ninto the city unless they want to kind\nof unless Veil wants to sort of steal\nover the walls. I think she's going to\nwant to do that because she wants to get\nin touch with General Bengara.\nremember that she had sort of befriended\nhim and convinced him of the worthiness\nof her cause. And he also now believes\nthat that this creature or something is\npossessing the vazier and he wants his\ncity back. She basically says to Thrag\nand Watik, \"Stay here and wait until\ndawn. I'm going to enter the city myself\nand try and make contact with General\nBengara. Meet me at the inn.\" Whatever\ninn they were staying at. It was like\nthe grinning scorpion or something. I\ncan't remember and I don't look it up,\nbut we'll assume that's what it was. All\nright. So, she makes her way to a\nsecluded part of the city wall. Well,\nthis is going to be tough to get over,\nbut um going to going to ask a few\nthings about the fake charge. But before\nwe actually do that, they have\ntechnically arrived now. So, let us end\nthat scene. So, we update there's no new\ncharacters. Uh the new threads, well, we\ndid we did get to the city, but we\nhaven't got the felactory uh to the lich\nyet. I am going to add the thread find\nGeneral Bengara and the chaos factor, I\nthink, is going to go down to seven\nbecause they were surprisingly largely\nin control in that whole scene, which is\nuh amazing. All right. So, she is going\nto try and find a way across the wall.\nSo, I'm going to go to our our fate\nchart now and ask a question. What are\nthe odds that she's able to find uh a\nrelatively unguarded part of the wall\nthat is going to allow access? Uh, this\nis a pretty well-defended city, mostly\nbecause of the size and construction of\nthe walls rather than like a whole bunch\nof guards everywhere. Now, remember\nthough, the one of the threads is is to\nevade the Vazier's patrols. Technically\nspeaking, the vazier is still, as far as\nshe knows, the vazier's patrols are\nstill out looking for her. But now she\nhas reason to question that because if\nin fact the vazier is in the control of\nthe Lynch Matzaroth, then perhaps\nMatzaroth has called off the guards. But\nthat would mean trusting Matzaroth to\nhis word and she's not quite ready to do\nthat yet. So I think it is 50/50 that\nshe is able to find a relatively\nundefended part of the wall that she\nmight be able to get up and over without\nconsequence. Here we go. This is Chaos\nFactor 7. And the answer is yes, she is\nable to do that, but it's not an extreme\nyes. So, it's not an automatic success\nor anything like that. She's able to\nskirt the southern wall for quite a\nwhile, several hundred yards, I think,\nuntil finally she maybe she finds like a\nuh there's there's a series of rocks and\nlike a broken down palm tree that she's\nable to scurry up and give her a little\nbit of uh height advantage to be able to\nget onto that wall and, you know,\nclamber over the the upper uh\ncredellations of the the top part of the\nwall. This is going to be an athletics\nrole and it's the middle of the night\nand there is no it is relatively\nundefended so she doesn't have to do\nstealth at this point. Let's just see if\nshe can actually get over it without\nincident. Unfortunately, she is unable\nto get over the wall here. So, here's\nwhat's going to happen. I'm actually\ngoing to invoke the um success with a\ncost rule. Uh cuz it makes sense that\nshe would, you know, she's got all the\ntime in the world. Well, she has a lot\nof time to deal with this. She is going\nto get over the roll over the wall, but\nI think that the cost is when she gets\nover the wall. I said this was a\nrelatively undefended section of wall,\nbut it not is not entirely undefended.\nSo when she climbers over the wall, I\nthink coming down the walkway of the\nupper walkway area of the wall is a city\nguard. Now, I don't know if this is one\nof the uh patrols of the vazier or just\na city guard, but she sees him and\nimmediately she has to do uh an opposed\nstealth against his perception to see if\nshe is spotted by this guy. So, her\nstealth is really good. 80 with an\nexpertise of three, which mean which\nmeans that she has a minimum of three\nSLS, which is good, which she's going to\nwell, actually, no, that's a critical\nsuccess. So, she succeeded with four\nSLS, and he's rolling on 50, and he\nfails. So, she is able to immediately uh\nleap to a shadowy uh guard uh building\non top of the wall and hunker down\nbehind a bunch of like uh uh barrels\nfilled with pitch for them to be able to\ndip their oil arrows into for flaming\narrows against invaders or something\nlike that. So, she's able to sort of\nhide behind that as the the guard walks\nby. I think at one point the guard kind\nof, you know, he thought he saw\nsomething in the shadows, but uh he he\npokes his head into the little guard\noutpost sort of building on top of the\nwall and looks around and uh nothing\nhere and goes back on his merry way. So,\nshe is able to clamber down the ladders\ninto the city itself and make her way to\nthe general's residence. Does she get\nthere without anything further accosting\nher? I think that's very likely in fact.\nGoing to ask the fake chart. Uh 23 is uh\na regular success. So yes, after\nprobably takes about half an hour to uh\nstealth her way through the the darkened\nnight streets of Anir until she arrives\nat the general's meds. Now he obviously\nis going to have guards, but those\nguards are aware of her. She has been\nhere before and they know who she is. So\nshe goes up to the guards and reveals\nherself to them. I'm here to see the\ngeneral leaders most urgent. You know\nme, don't you? And the guard kind of\nlooks at her and recognizes her and yes,\nof course, this way. And uh they lead\nher into the mansion. Now he is asleep,\nbut the guards go up and they they rouse\nhim. And a few moments later, he comes\ndown sort of in his richly decorated\nnight gown basically. He he comes down\nthe large stone steps, I think, he to a\nlittle uh courtyard outside of his um\nmain building structure, and I think\nthere's like a burbling fountain there\nas well. It's very pleasant as the the\nnight birds are singing and the stars\nare swirling in the sky above getting\neven closer as that great conjunction is\nis imminent. In fact, I think that the\ngreat conjunction is going to happen\ntomorrow night because we are here\nracing towards the climax. So, Veil, you\nhave returned. Oh, thank the gods. Tell\nme, what have you learned about the\nVizier and this creature that you have\nbeen hunting? I have reason to believe\nthat the creature known as Mozaroth is\nhere in the city now. His servants have\nbrought him in from the outer deserts.\nHe intends to open a portal to a place\ncalled Norc. It does not exist in our\nworld. But the entrance to that portal\nis the entrance to the Vizier's palace.\nThat explains why the Vizier had strange\nsigils\ncrafted and carved into the stone arches\nover the main entrance way. It was some\nsort of sorcery. As far as I can tell,\nyes. Tomorrow night, the stars will\nalign in such a way as to cause what the\nastronomers call a great conjunction. It\nis at this time that Mozart wishes to be\nreunited with his felactory, his uh\ncontainer of his soul stuff. I have it\nwith me. Ah, so this is how you will\ndestroy the creature. If you have the\nfelactory, then you could shatter it now\nand and end the scourge once and for\nall. I'm afraid it is not quite as easy\nas that, General. There are other things\nin play. Things that I will not waste\nyour time trying to explain.\nI do not trust the creature entirely, of\ncourse, but there may be a way for me to\nbenefit from his\nactions tomorrow night. I need your\nhelp. Of course. Of course. Although I\nconfess I am uneasy with you allowing\nthis creature to continue existing if\nyou even now have the means to destroy\nit. She needs to actually convince him\nthat her plan has merit. General, I know\nthat this sounds mad.\nBut if I do not see this through to the\nend with this creature, Mozeroth,\nthere might be even greater dangers\nposed to you and your city. But if I am\nallowed to enact my plan, we could not\nonly rid this world of the scourge of\nMozeroth, but we will most assuredly\nbreak the vizier free of his domination.\nI think that's probably a protocol role\nin this case, which she's not great at,\nbut she is going to give it a shot. Oh,\nand she succeeded with one SL, but she\ndid succeed. Well, I admit I am\nuncomfortable with this, but you know\nmore about this situation than I do.\nWhat can I do to help? I need you to\nassemble your men. I do not think that\nit will come to violence, but I need you\nto be ready. Tomorrow night, the great\nconjunction, the Lich will no doubt have\nhimself delivered to the gates. I intend\nto be there as well. But I cannot\napproach the gates openly, not while\nVizier's men are still looking for me.\nAnd I do not know if they are still\nlooking for me, but I can't take the\nchance that they are. I need you and\nyour men to be nearby waiting for a\nsignal just in case something goes\ndecidedly wrong. Of course. And what\nwould the signal be? You'll know it when\nyou see it. Is she going to do this?\nMaybe.\nHave your men standing by in the shadows\nof the nearby alleys. And when it is\ntime to act, if there is a time to act,\nyou will know it. Very well. I will\narrange it. Do you need a place to stay\nand rest? You seem to be extremely\nworn out and exhausted from your many,\nmany fatigue boats you took on the road.\n>> Yes. Uh, when the dawn comes, I will\nhave Thrag and Watik, your bearer, who\nby the way was the difference between\nlife and death. Thank you so much for\nhim. I will have the two of them report\nhere to the mansion if that's all right.\nYes. Yes, of course. There is a guest\nhouse uh near the the back entrance that\nyou can use to rest during the day and\nmake what preparations you need. So that\nis in fact what they do when the dawn\ncomes. Uh she steals her way back to the\nmain gates. Thrag and Watik enter the\ncity. So they're able to get all the way\nthrough the city the next morning back\nto the general's uh sort of guest house\nin the back and they're able to rest\nthrough that day. Great. So that's the\nend of that scene. There is no uh\nupdating character lists. We will uh get\nrid of consult the general. I think\ngoing into the next scene, I think that\nthe way this new scene starts is they\nhave rested and this is definitely a\nsafe place. And the good news is because\nof that, they're able to uh rid\nthemselves of three fatigue. Thrag and\nVeil are going to make their way before\nsunset to the central square outside the\nVizier's palace where we have seen this\nbefore. We've been here before. This is\nwhere the silent death assassins\nattacked her in the street all those\nepisodes ago. and she's going to wait\nand see what transpires. So, I guess\nwhat we have to ask now is well, first\nof all, the chaos factor. Um, I'm going\nto leave it at seven for now because I\ndon't really think the last scene counts\nas a complete scene for the purposes of\nchaos. So, I'm going to leave it at\nseven because I'm playing fast and loose\nwith these mythic rules.\nH but I am going to see if the the scene\nis altered or interrupted as they make\ntheir way the next evening having uh\nrefreshed themselves and sharpened their\nblades and made what preparations they\nneeded to rolling against the chaos. And\nof course there is an interrupt scene.\nThere is an interrupt scene on the way\npresumably. What is that interrupt\nscene?\n36 NPC action. Okay. Who is the NPC?\nSeven. It's going to be two.\nMozzaroth. The lich. Okay. What's the\nlich going to do? This is an interrupt\nscene.\nThis is NPC action. NPC takes action.\n94. Travel. So far, that makes sense\nbased on what I have in mind. 09.\nBuilding. Travel. Building. Okay. So,\nall right. I got it. So her and Thrag\nare stealing their way through the\nstreets. They are just about to get to\nthe outer square when they see it seems\nthat the lich and his cohort has arrived\nbefore them. Travel building. Travel to\nthe building that he was going to. This\nis in fact the interrupt scene. Let's uh\nget some meaning tables descriptors to\nget a little more information about this\ninterrupt scene. 82 description politely\nand\nold. Politely and old. Is this a\ndescript? Oh, okay. I want to I want to\nenvision what this is. So, they're\nalmost at the square when they look and\nthey can see in front of the great stone\narch of the entrance to the vazier's\npalace, they can see that there's been\nlike this cart that's been drawn up,\nthere's this large wooden, it looks like\na coffin almost, but much bigger than a\ncoffin. Almost like a a crate you would\nput a oh, say sarcophagus in. And it's\nbeen it's been propped up in this cart.\nAnd there's a number of desert nomads.\nIt looks like desert barbarians. Maybe\nthese are the servants of Matzaroth.\nIt's hard to see, but there's kind of\nlike I don't know, there's like 20 of\nthem. And they're sort of, you know, uh\nthey're they're kind of crawling around\nthe cart doing various things. One of\nthem is going up to the cart and he's\nanointing the crate with some sort of\noils and another one is sort of like on\nhis knees like in sort of a worshipful\nprayer, chanting strange words. It's all\nquite strange. But here's the thing. The\nvazier's guards are also there and these\nvizier's guards are in fact waiting\npolitely\nas though they do not want to interfere\nwith this situation whatsoever. So this\nis not entirely\nunexpected because she did kind of think\nthat she she did know that the the lich\nwas on his way but she doesn't see him.\nShe sees this crate. She has to assume\nthat this uh crate is in fact containing\nMatzaroth. I think that in fact the lich\nis here and I think that these servants\nhave brought the lich here on the\nevening of the great conjunction just as\nhe said and I think they are going to\npry open that crate and reveal the\nsarcophagus so that we could take the\nnext steps but you know what you never\nknow if that's going to be the case so\nlet's ask the fake chart shall we think\nthat this is likely in fact the\nsituation and it is 100 extreme\nno that is not what they're going to do\nwhatsoever\nSo, this is not going to play out the\nway that she thought or perhaps cuz that\nis a 100. It's extreme. No, I think this\nis not going to play out the way that\nshe hoped. That is very, very bad news\nfor her. Because what this means is\nwhat she had hoped to happen is not\ngoing to happen because of course we\nrolled a 100. What she hoped to happen\nis that this was going to play out the\nway that the lich said. But it's not. It\nis not going to play out that way. The\nservants begin to pry open that crate,\nrevealing this golden and bluepainted\nsarcophagus within this regal looking\nthing. It's like it's clearly of ancient\nancient uh construction, but it is still\ngleaming and golden as brightly as the\nday it was crafted. So, it was almost\nlike this thing has has some sort of\nprotective barrier around it or\nsomething that prevents it from aging\nand uh decomposing over the course of\ntime. Much as its supposed inhabitant,\nit's not what she hoped. So, what does\nthat mean to me? What does that mean to\nme? I was going to ask the fate chart\nall kinds of things about whether the\nlich was telling the truth. if so, how\nmuch of it was true, and all that good\nstuff. But this role\ntells me everything I need to know, or\nat least it sets me off on a particular\ntrack, which it's not good for veil. All\nright, they see this happening and one\nof the nomads who is participating in\nthis apparent ritual of some sort,\nagain, the guards doing nothing. Just in\nfact, they're just standing there\nstaring straight ahead. They they're not\neven showing any interest at all into\nwhat's going on down here. So clearly\nthere's something going on where perhaps\nthey're under the control of somebody\nwho knows what. But this dude here uh is\nis continuing to chant and his voice\nrises until it reaches this crescendo of\nalmost like like like religious ecstasy\nand fervor. And at that moment the\nsarcophagus lid opens. It swings open,\nrevealing a figure inside. And that\nfigure looks to Vale's eyes immediately\nas she sees this like some sort of\ndesiccated prince is what she sees. And\nas she sees this, remember this is just\nas the sun is setting now and the stars,\nthe great conjunction of the stars are\nabout to come out overhead. She sees\nthis and yes, she recognizes yes that is\nthe face. It is a mummified face, but\nthat is the face of a young, attractive\nman who she saw in the lich's dream. And\nnow she knows beyond a shadow of a doubt\nthat this is in fact the body of\nMatzaroth. And as the the sarcophagus\nlid opens, the eyes flare up all solid,\nsickly green, and the body begins to\nstir. And as it does, it begins to take\non this grandeur. There's almost like\nthis glamour surrounding the body that\nseems to spread out and emanate in waves\nfrom the sarcophagus\naffecting well per seemingly everybody\nbut certainly affecting Veil and Thrag.\nAnd what they see now whether this is\nreal, whether this is an actual\ntransformation or whether this is some\nsort of magical glamour, what they see\nis this regal figure rise out of the\nsarcophagus and stand towering over the\ncongregation. This figure has the\nbearing of some ancient prince. There is\nthe earthly body, the not quite undead\nbody of Mat Sarath, the lich or the\nquasi lich. At that moment, I think\nbecause she has the spirit mantle with\nher and she has the felactory with her,\nI think it is extraordinarily likely,\nnear certain that Matzaroth is aware of\nher presence. I'm going to roll it now.\n94 and 95. It is still a yes, but\nalmost. She almost got away with not\nbeing noticed, but he turns his his\nprincely and regal yet obviously\nsomewhat undead head towards her and the\neyes glow even brighter. And he extends\nhis hand and he says with a voice that\nseems like it's it's part the the sound\nof bones being ground into dust and and\nancient leaves being crushed into\npowder. And yet it still carries this\nthis unearly authority with it.\n>> You have arrived.\nCome forward and reunite my body with\nthe felactory and I will open the portal\nto Norcath and together you and I will\nstep through.\nCome. Come.\nNow we know because of that role that\nsomething ain't right. But she is so\nconsumed with this hope. She is going to\nget an insight. And in fact, as she is\nabout to step forward, Thrag puts his\narm out and looks at her and shakes his\nhead. So she is going to get the benefit\nof his insight on this. You know what?\nShe's going to actually spend resolve.\nShe's not very good at this. She's going\nto spend oh two points of resolve. So\nshe's going to get plus 20 to this. So\nshe thought this is on 60. Is she able\nto do it on 60? She is with five SLS. So\nshe's able only because she exerted her\nresolve on this and with the help of\nThrag who as I said looks at her and\nshakes his head as if to say do not do\nthis. And she looks and she's about to\nstep forward. She looks at Thrag and she\nlooks down at him and she kind of steals\nher face and gives him just the tiniest\nnod as if to say that you know message\nreceived. Not so fast, Mozart.\nBefore you take one more step towards\nopening this portal, I need collateral.\nTo prove that you will not betray me\nonce you open this thing. Betray you?\nWhy would I do that? Sweet Veil?\nI need you. And the power of Cherylyn\nspirit bane, which I remind you still\nlives within this body.\nHelp me free her veil. Give me the\nfelactory. She pulls out the spirit\nmantle. The spirit mantle which is\ndrained.\nShe did transfer the power of Cherylyn's\nspirit bane from the spirit mantle. The\nthing she was going to use to put the\nlich back to sleep or destroy him if she\ncould. She transferred that power into\nthis lamp.\nBut\ndid she hold something back? Does she\nhave some sort of ace up her sleeve?\nShe's pretty smart. She wouldn't be\ntrusting this guy entirely. She's got to\nhave something. I just don't know what\nthat is. So,\nif in fact he is this villain that the\n100 rule seems to indicate that he is,\nis he going to do the classic thing now\nof allowing his own ego and pride to get\nin the way of his own plans? is in fact\nMatzaroth in this very moment going to\nsuccumb to the classic villainous\nmistake by revealing his plans to his\nintended prey. Oo, that's a good\nquestion.\nI don't know. I'm going to ask the chart\nand I'm going to call it 50/50. We are\non K chaos factor 73.\nExtreme.\nYes, extreme. Yes. As Veil stands there\nholding the spirit mantle in one hand\nand the felactory the lamp in the other.\nGive me something, Mozeroth, to prove\nthat you are not the villain that I\nthink you are. He looks at her.\nA look of disappointment coming over his\nwithered, desiccated face, and then he\nbegins to laugh.\nFoolish girl,\nyou have stepped into your own doom and\nyou don't even know it yet. And at this\npoint, Thrag tenses. He completely\ntenses. He knew it.\nDid you really think that I would\nentrust my felactory to you?\nOh, fail.\nWhat you hold in your hand, that lamp,\nis nothing more than a bobble. And now\nyou have wasted the power of the spirit\nmantle and drained it of the last of\nCheryl's spirit Bane's essence.\nYou have squandered your last chance of\ndefeating me.\nNow, Veil in this moment is not entirely\nshocked. There is a part of her that was\nblinded by her need, her desperation to\ntry and grasp at any flimsy straw of\nhope that might bring Cherylyn back.\nThis is her her flaw. This has always\nbeen her flaw. It fueled her through all\nof season 3, and now it continues up to\nthis very moment to be the one thing\nthat clouded her judgment. And now the\nspirit mantle is no longer the weapon\nthat she thought it was. It is drained\nof her power. And as she looks at it,\nshe can see the shimmer is utterly\nspent. And now she holds this useless\nlamp in her hand. You lying monster.\nTell me then if you have any truth in\nyou. Was any part of your story true?\nAny of it? Of course it was, my child.\nThe shard of Cheryl's spirit bane soul\ndoes exist within me. What you saw in\nthe vision is true. The last existing\nfragment of Cheryl spiritbane's soul is\nlodged within me. It was the very thing\nthat she used to put me into a slumber.\nShe knew she could not destroy me in\nthis world. So the best she could do is\nsacrifice a tiny part of her own soul to\nkeep me asleep. But now\nher spirit is gone and the hold that she\nhad on me crumbles.\nAnd now Mozeroth,\ngreatest lich in the history of the\nbroken empires, is awake. and he turns\nand begins to chant the words that begin\nto cause the the strange sigils etched\ninto the stone around the entrance to\nglow with this sickly green radiance.\nAnd at this moment, Veil and Thra are\nabout to leap towards him as they go to\ngrab their weapons. But I think it is\nextremely likely that he is prepared for\nthis. Is there some sort of magic that\nimmobilizes them that that that roots\nthem in place? I'm going to ask the fate\nchart. Yes, I think it is likely. And we\nroll with an 85. And we roll. Yes, the\n39 is a yes. As they're about to move,\nhe doesn't even turn. He just flicks his\nhand back like this and then just just\never so slightly squeezes his fingers\ntogether. And the two of them are rooted\nto the spot. Unless they can make a\nresistance roll against this. Ooh, this\nis going to be tough. So, how is this\ngoing to work is I'm going to roll his\nskill. He is unbelievably skilled. He's\nunbelievably skilled. He's going to be\nrolling on a skill of essentially 100.\nHe can't fail unless he rolls 99 or 100.\nAnd he has an expertise of four, which\nmeans he rolls at least four cells. This\nis going to be ugly, no doubt. 48 is the\nroll they must use to resist against.\nThis is going to be a willpower roll.\nVeil is quite good at this. She's\nrolling on 70. 71. SHE FAILS. SHE FAILS.\nWhat about Thrag? What about Thrag? What\nabout Thrag? He did only 35. And it's\n46. They both fail as they're about to\nfilled with rage. SHE'S STILL GOT SHE'S\ngot still got the spirit mantle and this\nlamp in her hand. She's about to to drop\none of them and and pull a weapon. Thrag\ndefinitely, you know, grabs his ax, but\nas they're about to move forward, as I\nsaid, he puts his hand up, his\ndesiccated withered claw of a hand and\njust does this. And they're stopped.\nThey're rooted in place. They cannot\nmove from where they are. Now bear\nwitness to the opening of the portal to\nNorcarth, where I will claim what is\nrightfully mine, my licham.\nBut worry not, dear girl, because you\nwill be coming with me. At this moment,\nthese servants all kind of turn around\nand some of the guards begin to slowly\nzombie like move towards her. After all,\nwho better to replace my bodyguard than\nthe one who slew him? You will become my\nnew death knight.\"\nAnd he turns and again begins to chant\nas these two are struggling, STRUGGLING\nAGAINST THEIR IMMOBILIZATION AS THESE\nGUARDS begin to move forward. Will they\nbe able to break free of their bonds\nbefore they're dragged before the lich\nas the portal begins to open? We'll have\nto find out next time on the next\nepisode of Me, Myself, and I. Thank you\nso much for joining me and if you do\nenjoy what I do, please considering\nhitting like and subscribe and even\nsupporting us on Patreon or on the\nYouTube channel memberships. All the\ngood stuff is below. Thank you and we\nwill see you next time for what I\npresume will be the finale of season 4\nLegacy.\nHeat. Heat.\n"
+}

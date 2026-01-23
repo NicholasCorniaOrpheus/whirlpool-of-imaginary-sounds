@@ -1,0 +1,169 @@
+[
+	{
+	"lemma": "GM",
+	"related_to": ["gm", "game master", "gamemaster", "dm", "DM", "dungeon master"],
+	"url": []
+	},
+
+	{
+	"lemma": "game",
+	"related_to": [],
+	"url": []
+	},
+
+	{
+	"lemma": "point",
+	"related_to": [],
+	"url": []
+	},
+
+	{
+	"lemma": "hit",
+	"related_to": [],
+	"url": []
+	},
+
+	{
+	"lemma": "roll",
+	"related_to": [],
+	"url": []
+	},
+
+	{
+	"lemma": "check",
+	"related_to": ["skill check"],
+	"url": []
+	},
+
+	{
+	"lemma": "level",
+	"related_to": [],
+	"url": []
+	},
+
+	{
+	"lemma": "playing character",
+	"related_to": ["pc","party","player","table"],
+	"url": []
+	},
+
+	{
+	"lemma": "turn",
+	"related_to": [],
+	"url": []
+	},
+
+	{
+	"lemma": "play",
+	"related_to": ["player"],
+	"url": []
+	},
+
+	{
+	"lemma": "party",
+	"related_to": [],
+	"url": []
+	},
+	
+	{
+	"lemma": "dungeon",
+	"related_to": [],
+	"url": []
+	},
+
+	{
+	"lemma": "die",
+	"related_to": ["dice"],
+	"url": []
+	},
+
+	{
+	"lemma": "monster",
+	"related_to": ["orc","goblin","ogre","zombie","scheleton","undead","dragon"],
+	"url": []
+	},
+
+	{
+	"lemma": "conflict resolution",
+	"related_to": ["fail forward","miss","success","conflict","success","degrees of success","succes at a cost","success with consequence","critical hit","critical success","crit"],
+	"url": []
+	},
+
+	{
+	"lemma": "skill",
+	"related_to": ["skill","skill check"],
+	"url": []
+	},
+
+	{
+	"lemma": "d20 system",
+	"related_to": ["ac","stats","dc"],
+	"url": []
+	},
+
+	{
+	"lemma": "gear",
+	"related_to": ["sword","bow","axe","hammer","spear","weapon","armour","torch",],
+	"url": []
+	},
+
+
+
+	{
+	"lemma": "rule",
+	"related_to": ["game-mechanic", "game mechanics", "game mechanic", "rules"],
+	"url": []
+	},
+
+	{
+	"lemma": "gaming session",
+	"related_to": ["gaming session","session 0","adventure","campaing","encounter","fight"],
+	"url": []
+	},
+
+	{
+	"lemma": "exploration",
+	"related_to": ["map","discover","disovery",],
+	"url": []
+	},
+
+	{
+	"lemma": "ancestry",
+	"related_to": ["human","elf","dwarf"],
+	"url": []
+	},
+
+
+	{
+	"lemma": "knights of last call",
+	"related_to": ["Bob","Tim","Derek","Melenda","Melinda","Smith","Matt","George"],
+	"url": []
+	},
+
+	{
+	"lemma": "patreon",
+	"related_to": ["question","tip","super chat","patreons","discord"],
+	"url": []
+	},
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+
+]

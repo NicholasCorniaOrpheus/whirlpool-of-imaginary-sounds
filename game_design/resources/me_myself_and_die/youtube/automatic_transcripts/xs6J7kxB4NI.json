@@ -1,0 +1,4350 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,240",
+      "end_time": "00:00:03,810",
+      "text": "all right fine Simon we'll do it your"
+    },
+    {
+      "start_time": "00:00:02,100",
+      "end_time": "00:00:06,150",
+      "text": "way since you are sort of the principal"
+    },
+    {
+      "start_time": "00:00:03,810",
+      "end_time": "00:00:07,710",
+      "text": "main character here after all and I'm"
+    },
+    {
+      "start_time": "00:00:06,150",
+      "end_time": "00:00:10,340",
+      "text": "just sort of a jumped-up NPC so yes"
+    },
+    {
+      "start_time": "00:00:07,710",
+      "end_time": "00:00:10,340",
+      "text": "we'll do it your way"
+    },
+    {
+      "start_time": "00:00:20,710",
+      "end_time": "00:00:25,190",
+      "text": "hello again and welcome back to me"
+    },
+    {
+      "start_time": "00:00:22,910",
+      "end_time": "00:00:26,960",
+      "text": "myself and die I am your intrepid host a"
+    },
+    {
+      "start_time": "00:00:25,190",
+      "end_time": "00:00:28,520",
+      "text": "game master and player Trevor Duvall as"
+    },
+    {
+      "start_time": "00:00:26,960",
+      "end_time": "00:00:31,640",
+      "text": "always remember to hit like and"
+    },
+    {
+      "start_time": "00:00:28,520",
+      "end_time": "00:00:33,800",
+      "text": "subscribe and share on Facebook sand and"
+    },
+    {
+      "start_time": "00:00:31,640",
+      "end_time": "00:00:35,270",
+      "text": "all the various social medias cuz really"
+    },
+    {
+      "start_time": "00:00:33,800",
+      "end_time": "00:00:37,430",
+      "text": "helps get the show out there first of"
+    },
+    {
+      "start_time": "00:00:35,270",
+      "end_time": "00:00:39,680",
+      "text": "all I want to thank you all for your"
+    },
+    {
+      "start_time": "00:00:37,430",
+      "end_time": "00:00:41,059",
+      "text": "suggestions for the name of the crossbow"
+    },
+    {
+      "start_time": "00:00:39,680",
+      "end_time": "00:00:42,230",
+      "text": "the magic crossbow that was found last"
+    },
+    {
+      "start_time": "00:00:41,059",
+      "end_time": "00:00:43,670",
+      "text": "episode there was some really really"
+    },
+    {
+      "start_time": "00:00:42,230",
+      "end_time": "00:00:45,020",
+      "text": "killer ones out there I love them all"
+    },
+    {
+      "start_time": "00:00:43,670",
+      "end_time": "00:00:46,430",
+      "text": "and I was so excited to see all of you"
+    },
+    {
+      "start_time": "00:00:45,020",
+      "end_time": "00:00:48,290",
+      "text": "taking part in that that was hey just"
+    },
+    {
+      "start_time": "00:00:46,430",
+      "end_time": "00:00:50,300",
+      "text": "warms the cockles of my heart to say"
+    },
+    {
+      "start_time": "00:00:48,290",
+      "end_time": "00:00:51,949",
+      "text": "that but nonetheless we did have to pick"
+    },
+    {
+      "start_time": "00:00:50,300",
+      "end_time": "00:00:55,129",
+      "text": "one and so the one we're going with is"
+    },
+    {
+      "start_time": "00:00:51,949",
+      "end_time": "00:00:57,229",
+      "text": "in fact stone bolt stone bolt the"
+    },
+    {
+      "start_time": "00:00:55,129",
+      "end_time": "00:00:58,699",
+      "text": "crossbow so thanks kideth for that one"
+    },
+    {
+      "start_time": "00:00:57,229",
+      "end_time": "00:01:00,680",
+      "text": "couple little housekeeping things before"
+    },
+    {
+      "start_time": "00:00:58,699",
+      "end_time": "00:01:05,720",
+      "text": "we begin this episode this very special"
+    },
+    {
+      "start_time": "00:01:00,680",
+      "end_time": "00:01:07,220",
+      "text": "episode this Halloween episode couple"
+    },
+    {
+      "start_time": "00:01:05,720",
+      "end_time": "00:01:09,350",
+      "text": "things Simon has levelled up he has"
+    },
+    {
+      "start_time": "00:01:07,220",
+      "end_time": "00:01:11,240",
+      "text": "basically got himself a new edge which"
+    },
+    {
+      "start_time": "00:01:09,350",
+      "end_time": "00:01:13,159",
+      "text": "is fleet-footed which means that now his"
+    },
+    {
+      "start_time": "00:01:11,240",
+      "end_time": "00:01:15,380",
+      "text": "basic pace is eight instead of six and"
+    },
+    {
+      "start_time": "00:01:13,159",
+      "end_time": "00:01:17,630",
+      "text": "he rolls a d-10 running die instead of a"
+    },
+    {
+      "start_time": "00:01:15,380",
+      "end_time": "00:01:19,040",
+      "text": "d6 so that's gonna make him a lot faster"
+    },
+    {
+      "start_time": "00:01:17,630",
+      "end_time": "00:01:22,460",
+      "text": "and it's also gonna give him a chance to"
+    },
+    {
+      "start_time": "00:01:19,040",
+      "end_time": "00:01:25,310",
+      "text": "get get the heck out of a fight if he"
+    },
+    {
+      "start_time": "00:01:22,460",
+      "end_time": "00:01:28,310",
+      "text": "has to because now he has a much more"
+    },
+    {
+      "start_time": "00:01:25,310",
+      "end_time": "00:01:29,030",
+      "text": "valuable and reliable wildcard Ally"
+    },
+    {
+      "start_time": "00:01:28,310",
+      "end_time": "00:01:31,610",
+      "text": "that's right"
+    },
+    {
+      "start_time": "00:01:29,030",
+      "end_time": "00:01:33,289",
+      "text": "ed Bert ed Bert has been graduated to"
+    },
+    {
+      "start_time": "00:01:31,610",
+      "end_time": "00:01:35,420",
+      "text": "wild card status I said that if he"
+    },
+    {
+      "start_time": "00:01:33,289",
+      "end_time": "00:01:36,890",
+      "text": "survived last time he would be and so in"
+    },
+    {
+      "start_time": "00:01:35,420",
+      "end_time": "00:01:38,479",
+      "text": "fact he is so I've gone and made him a"
+    },
+    {
+      "start_time": "00:01:36,890",
+      "end_time": "00:01:40,189",
+      "text": "full character now a full wild card"
+    },
+    {
+      "start_time": "00:01:38,479",
+      "end_time": "00:01:42,409",
+      "text": "basically he's got you know the skills"
+    },
+    {
+      "start_time": "00:01:40,189",
+      "end_time": "00:01:44,030",
+      "text": "and and hedges and stuff just like a"
+    },
+    {
+      "start_time": "00:01:42,409",
+      "end_time": "00:01:47,030",
+      "text": "wild card but most importantly of all"
+    },
+    {
+      "start_time": "00:01:44,030",
+      "end_time": "00:01:48,560",
+      "text": "most importantly of all he now also Wild"
+    },
+    {
+      "start_time": "00:01:47,030",
+      "end_time": "00:01:50,270",
+      "text": "Eye with everything he does which is"
+    },
+    {
+      "start_time": "00:01:48,560",
+      "end_time": "00:01:52,609",
+      "text": "pretty cool that should make things a"
+    },
+    {
+      "start_time": "00:01:50,270",
+      "end_time": "00:01:54,770",
+      "text": "lot easier for for Simon who was knocked"
+    },
+    {
+      "start_time": "00:01:52,609",
+      "end_time": "00:01:56,600",
+      "text": "on the head at the end of last session"
+    },
+    {
+      "start_time": "00:01:54,770",
+      "end_time": "00:01:57,950",
+      "text": "as ed Bert was dragging him out of the"
+    },
+    {
+      "start_time": "00:01:56,600",
+      "end_time": "00:01:59,600",
+      "text": "temple where they discovered that his"
+    },
+    {
+      "start_time": "00:01:57,950",
+      "end_time": "00:02:02,149",
+      "text": "mother was an undead creature in"
+    },
+    {
+      "start_time": "00:01:59,600",
+      "end_time": "00:02:04,850",
+      "text": "otamatone a mummy of sorts if you will"
+    },
+    {
+      "start_time": "00:02:02,149",
+      "end_time": "00:02:06,590",
+      "text": "that was tasked with completing a ritual"
+    },
+    {
+      "start_time": "00:02:04,850",
+      "end_time": "00:02:09,890",
+      "text": "that would seal off the temple from the"
+    },
+    {
+      "start_time": "00:02:06,590",
+      "end_time": "00:02:12,680",
+      "text": "outside the ritual was completed and the"
+    },
+    {
+      "start_time": "00:02:09,890",
+      "end_time": "00:02:15,440",
+      "text": "mummy was destroyed so Simon's undead"
+    },
+    {
+      "start_time": "00:02:12,680",
+      "end_time": "00:02:17,840",
+      "text": "mother was killed if you will by none"
+    },
+    {
+      "start_time": "00:02:15,440",
+      "end_time": "00:02:19,880",
+      "text": "other than Ed birds ghost which managed"
+    },
+    {
+      "start_time": "00:02:17,840",
+      "end_time": "00:02:22,040",
+      "text": "to rip off a mummified head from a dead"
+    },
+    {
+      "start_time": "00:02:19,880",
+      "end_time": "00:02:24,080",
+      "text": "priest and hurl at the mummy knocking"
+    },
+    {
+      "start_time": "00:02:22,040",
+      "end_time": "00:02:26,420",
+      "text": "its head off it was pretty cool but then"
+    },
+    {
+      "start_time": "00:02:24,080",
+      "end_time": "00:02:27,980",
+      "text": "Simon totally devastated who he thought"
+    },
+    {
+      "start_time": "00:02:26,420",
+      "end_time": "00:02:29,120",
+      "text": "that his father might still be in the"
+    },
+    {
+      "start_time": "00:02:27,980",
+      "end_time": "00:02:31,100",
+      "text": "temple somewhere and he wanted to go"
+    },
+    {
+      "start_time": "00:02:29,120",
+      "end_time": "00:02:32,210",
+      "text": "explore but ed Bert being an experienced"
+    },
+    {
+      "start_time": "00:02:31,100",
+      "end_time": "00:02:33,320",
+      "text": "soldier knew that there was no"
+    },
+    {
+      "start_time": "00:02:32,210",
+      "end_time": "00:02:35,090",
+      "text": "just the two of them could do this they"
+    },
+    {
+      "start_time": "00:02:33,320",
+      "end_time": "00:02:36,440",
+      "text": "were going to die if they kept going so"
+    },
+    {
+      "start_time": "00:02:35,090",
+      "end_time": "00:02:37,780",
+      "text": "he cracked Simon on the back of the head"
+    },
+    {
+      "start_time": "00:02:36,440",
+      "end_time": "00:02:40,970",
+      "text": "after failing to persuade him and"
+    },
+    {
+      "start_time": "00:02:37,780",
+      "end_time": "00:02:44,540",
+      "text": "drugged him drugged dragged dragged him"
+    },
+    {
+      "start_time": "00:02:40,970",
+      "end_time": "00:02:46,070",
+      "text": "out of the temple just as the the ritual"
+    },
+    {
+      "start_time": "00:02:44,540",
+      "end_time": "00:02:47,360",
+      "text": "had gone up and the temple itself was"
+    },
+    {
+      "start_time": "00:02:46,070",
+      "end_time": "00:02:49,580",
+      "text": "sealed from the outside so they were"
+    },
+    {
+      "start_time": "00:02:47,360",
+      "end_time": "00:02:52,340",
+      "text": "able to leave but they might not be able"
+    },
+    {
+      "start_time": "00:02:49,580",
+      "end_time": "00:02:54,560",
+      "text": "to get back in so in the meantime they"
+    },
+    {
+      "start_time": "00:02:52,340",
+      "end_time": "00:02:56,720",
+      "text": "are currently on their way back to the"
+    },
+    {
+      "start_time": "00:02:54,560",
+      "end_time": "00:02:59,090",
+      "text": "town of Linda torrent now a couple"
+    },
+    {
+      "start_time": "00:02:56,720",
+      "end_time": "00:03:00,590",
+      "text": "things one chaos factors at 8:00 so I'm"
+    },
+    {
+      "start_time": "00:02:59,090",
+      "end_time": "00:03:02,600",
+      "text": "gonna roll to see if anything is"
+    },
+    {
+      "start_time": "00:03:00,590",
+      "end_time": "00:03:05,260",
+      "text": "interrupted or altered in the scene"
+    },
+    {
+      "start_time": "00:03:02,600",
+      "end_time": "00:03:09,530",
+      "text": "chances are it will be 2 because this is"
+    },
+    {
+      "start_time": "00:03:05,260",
+      "end_time": "00:03:12,410",
+      "text": "Halloween this is our special Halloween"
+    },
+    {
+      "start_time": "00:03:09,530",
+      "end_time": "00:03:13,670",
+      "text": "episode yeah it might be I'm assuming"
+    },
+    {
+      "start_time": "00:03:12,410",
+      "end_time": "00:03:14,720",
+      "text": "it's a special Halloween episode you"
+    },
+    {
+      "start_time": "00:03:13,670",
+      "end_time": "00:03:16,850",
+      "text": "never know what the guys are gonna say"
+    },
+    {
+      "start_time": "00:03:14,720",
+      "end_time": "00:03:19,070",
+      "text": "but seeing as this is supposedly our"
+    },
+    {
+      "start_time": "00:03:16,850",
+      "end_time": "00:03:21,620",
+      "text": "Halloween episode I want to start off"
+    },
+    {
+      "start_time": "00:03:19,070",
+      "end_time": "00:03:24,020",
+      "text": "first of all by finding out some more"
+    },
+    {
+      "start_time": "00:03:21,620",
+      "end_time": "00:03:26,060",
+      "text": "information about this ghost of Ed"
+    },
+    {
+      "start_time": "00:03:24,020",
+      "end_time": "00:03:29,030",
+      "text": "Burt's considering that this ghost was"
+    },
+    {
+      "start_time": "00:03:26,060",
+      "end_time": "00:03:30,650",
+      "text": "instrumental in safer bacon last time I"
+    },
+    {
+      "start_time": "00:03:29,030",
+      "end_time": "00:03:32,930",
+      "text": "think it's important to understand now"
+    },
+    {
+      "start_time": "00:03:30,650",
+      "end_time": "00:03:35,510",
+      "text": "the nature of ed Burt's hauntings so in"
+    },
+    {
+      "start_time": "00:03:32,930",
+      "end_time": "00:03:36,650",
+      "text": "order to do that we are going to go to"
+    },
+    {
+      "start_time": "00:03:35,510",
+      "end_time": "00:03:39,770",
+      "text": "our handy-dandy"
+    },
+    {
+      "start_time": "00:03:36,650",
+      "end_time": "00:03:42,230",
+      "text": "oonh a and PC emulator we take our"
+    },
+    {
+      "start_time": "00:03:39,770",
+      "end_time": "00:03:46,460",
+      "text": "personal rules here and we do our role"
+    },
+    {
+      "start_time": "00:03:42,230",
+      "end_time": "00:03:52,010",
+      "text": "and we get a 92 which means despondent"
+    },
+    {
+      "start_time": "00:03:46,460",
+      "end_time": "00:03:55,430",
+      "text": "okay ooh come on Umi city little props"
+    },
+    {
+      "start_time": "00:03:52,010",
+      "end_time": "00:03:59,050",
+      "text": "here to make it spooky despondent what"
+    },
+    {
+      "start_time": "00:03:55,430",
+      "end_time": "00:04:03,050",
+      "text": "despondent 42 Oh"
+    },
+    {
+      "start_time": "00:03:59,050",
+      "end_time": "00:04:04,730",
+      "text": "mages so despondent wizard basically now"
+    },
+    {
+      "start_time": "00:04:03,050",
+      "end_time": "00:04:07,520",
+      "text": "we find the power level so slightly"
+    },
+    {
+      "start_time": "00:04:04,730",
+      "end_time": "00:04:09,620",
+      "text": "stronger than than Ed Berta's we know"
+    },
+    {
+      "start_time": "00:04:07,520",
+      "end_time": "00:04:14,150",
+      "text": "one motivations are of this ghosts"
+    },
+    {
+      "start_time": "00:04:09,620",
+      "end_time": "00:04:17,750",
+      "text": "already which is keep ed Bert alive so"
+    },
+    {
+      "start_time": "00:04:14,150",
+      "end_time": "00:04:19,420",
+      "text": "he can atone but what else what else do"
+    },
+    {
+      "start_time": "00:04:17,750",
+      "end_time": "00:04:27,290",
+      "text": "we know about this motivation so this"
+    },
+    {
+      "start_time": "00:04:19,420",
+      "end_time": "00:04:28,580",
+      "text": "motivation is 97 Rob 10 distress I feel"
+    },
+    {
+      "start_time": "00:04:27,290",
+      "end_time": "00:04:31,040",
+      "text": "like this is this ghosts motivation"
+    },
+    {
+      "start_time": "00:04:28,580",
+      "end_time": "00:04:34,580",
+      "text": "perhaps in life to take away distress so"
+    },
+    {
+      "start_time": "00:04:31,040",
+      "end_time": "00:04:37,430",
+      "text": "to calm down to provide healing perhaps"
+    },
+    {
+      "start_time": "00:04:34,580",
+      "end_time": "00:04:39,350",
+      "text": "to provide calmness Rob the stress that"
+    },
+    {
+      "start_time": "00:04:37,430",
+      "end_time": "00:04:42,760",
+      "text": "I need a little more to go on"
+    },
+    {
+      "start_time": "00:04:39,350",
+      "end_time": "00:04:48,550",
+      "text": "so another motivation we've got 45 damn"
+    },
+    {
+      "start_time": "00:04:42,760",
+      "end_time": "00:04:51,010",
+      "text": "Shh damage 100 damage spirits oh you"
+    },
+    {
+      "start_time": "00:04:48,550",
+      "end_time": "00:04:55,570",
+      "text": "know what damaged spirits makes me think"
+    },
+    {
+      "start_time": "00:04:51,010",
+      "end_time": "00:04:57,730",
+      "text": "that this mage was in fact some kind of"
+    },
+    {
+      "start_time": "00:04:55,570",
+      "end_time": "00:04:59,950",
+      "text": "necromancer someone who specialized in"
+    },
+    {
+      "start_time": "00:04:57,730",
+      "end_time": "00:05:01,720",
+      "text": "destroying Undead that makes sense"
+    },
+    {
+      "start_time": "00:04:59,950",
+      "end_time": "00:05:03,910",
+      "text": "considering it actually just wound up"
+    },
+    {
+      "start_time": "00:05:01,720",
+      "end_time": "00:05:05,590",
+      "text": "doing that so yeah so I think in this"
+    },
+    {
+      "start_time": "00:05:03,910",
+      "end_time": "00:05:09,700",
+      "text": "case that to rob distress to take away"
+    },
+    {
+      "start_time": "00:05:05,590",
+      "end_time": "00:05:11,080",
+      "text": "distress is to put the dead to rest so"
+    },
+    {
+      "start_time": "00:05:09,700",
+      "end_time": "00:05:13,060",
+      "text": "this is definitely some kind of"
+    },
+    {
+      "start_time": "00:05:11,080",
+      "end_time": "00:05:14,950",
+      "text": "necromancer or maybe like an anti"
+    },
+    {
+      "start_time": "00:05:13,060",
+      "end_time": "00:05:16,870",
+      "text": "necromancer oh you know what I wonder if"
+    },
+    {
+      "start_time": "00:05:14,950",
+      "end_time": "00:05:18,820",
+      "text": "the magic user was actually part of this"
+    },
+    {
+      "start_time": "00:05:16,870",
+      "end_time": "00:05:20,470",
+      "text": "order of the purifying flame let's ask"
+    },
+    {
+      "start_time": "00:05:18,820",
+      "end_time": "00:05:24,810",
+      "text": "the fake chart I'm gonna say 50/50"
+    },
+    {
+      "start_time": "00:05:20,470",
+      "end_time": "00:05:27,280",
+      "text": "because I don't know extreme yes so"
+    },
+    {
+      "start_time": "00:05:24,810",
+      "end_time": "00:05:29,320",
+      "text": "extreme yes was the wizard part of the"
+    },
+    {
+      "start_time": "00:05:27,280",
+      "end_time": "00:05:32,380",
+      "text": "order the wizard was the leader of the"
+    },
+    {
+      "start_time": "00:05:29,320",
+      "end_time": "00:05:34,630",
+      "text": "order obviously this ghost had real"
+    },
+    {
+      "start_time": "00:05:32,380",
+      "end_time": "00:05:36,370",
+      "text": "reason to go in that temple and destroy"
+    },
+    {
+      "start_time": "00:05:34,630",
+      "end_time": "00:05:38,110",
+      "text": "all those Undead and the ghost would"
+    },
+    {
+      "start_time": "00:05:36,370",
+      "end_time": "00:05:40,390",
+      "text": "also have real reason to bring down that"
+    },
+    {
+      "start_time": "00:05:38,110",
+      "end_time": "00:05:41,860",
+      "text": "barrier because the ghost may know that"
+    },
+    {
+      "start_time": "00:05:40,390",
+      "end_time": "00:05:44,230",
+      "text": "the order of the purifying flame is on"
+    },
+    {
+      "start_time": "00:05:41,860",
+      "end_time": "00:05:45,700",
+      "text": "the way to destroy this temple a task we"
+    },
+    {
+      "start_time": "00:05:44,230",
+      "end_time": "00:05:48,310",
+      "text": "will find infinitely more hard now"
+    },
+    {
+      "start_time": "00:05:45,700",
+      "end_time": "00:05:49,960",
+      "text": "because the barrier is up was this male"
+    },
+    {
+      "start_time": "00:05:48,310",
+      "end_time": "00:05:52,060",
+      "text": "or female one two three male there we go"
+    },
+    {
+      "start_time": "00:05:49,960",
+      "end_time": "00:05:53,830",
+      "text": "five female so yes the ghost is female"
+    },
+    {
+      "start_time": "00:05:52,060",
+      "end_time": "00:05:56,170",
+      "text": "and we're gonna go to female names there"
+    },
+    {
+      "start_time": "00:05:53,830",
+      "end_time": "00:05:58,750",
+      "text": "are three tables the ghosts name this"
+    },
+    {
+      "start_time": "00:05:56,170",
+      "end_time": "00:06:00,760",
+      "text": "wizard deaths who was the leader of the"
+    },
+    {
+      "start_time": "00:05:58,750",
+      "end_time": "00:06:05,890",
+      "text": "order of the purifying flame the name"
+    },
+    {
+      "start_time": "00:06:00,760",
+      "end_time": "00:06:07,150",
+      "text": "was 37 sherilyn great I think she would"
+    },
+    {
+      "start_time": "00:06:05,890",
+      "end_time": "00:06:08,440",
+      "text": "have had a title if she was the leader"
+    },
+    {
+      "start_time": "00:06:07,150",
+      "end_time": "00:06:11,920",
+      "text": "of this order of the purifying flame"
+    },
+    {
+      "start_time": "00:06:08,440",
+      "end_time": "00:06:14,590",
+      "text": "something like cherylin the geralyn's"
+    },
+    {
+      "start_time": "00:06:11,920",
+      "end_time": "00:06:17,680",
+      "text": "spirit Bane or something like that let's"
+    },
+    {
+      "start_time": "00:06:14,590",
+      "end_time": "00:06:19,390",
+      "text": "call that cherylin spirit Bane now what"
+    },
+    {
+      "start_time": "00:06:17,680",
+      "end_time": "00:06:21,490",
+      "text": "I want to know is what is the nature of"
+    },
+    {
+      "start_time": "00:06:19,390",
+      "end_time": "00:06:24,730",
+      "text": "the haunting of Ed Burt how did ed Burt"
+    },
+    {
+      "start_time": "00:06:21,490",
+      "end_time": "00:06:26,440",
+      "text": "come across well if this ghost is"
+    },
+    {
+      "start_time": "00:06:24,730",
+      "end_time": "00:06:29,080",
+      "text": "haunting ed Burt it's a pretty good"
+    },
+    {
+      "start_time": "00:06:26,440",
+      "end_time": "00:06:33,160",
+      "text": "chance that Edward killed her right it's"
+    },
+    {
+      "start_time": "00:06:29,080",
+      "end_time": "00:06:37,270",
+      "text": "an ear sure thing on Cass factor 866 is"
+    },
+    {
+      "start_time": "00:06:33,160",
+      "end_time": "00:06:38,950",
+      "text": "in fact yes so ed Burt did kill her was"
+    },
+    {
+      "start_time": "00:06:37,270",
+      "end_time": "00:06:40,570",
+      "text": "it a mistake or did he do it on purpose"
+    },
+    {
+      "start_time": "00:06:38,950",
+      "end_time": "00:06:43,180",
+      "text": "I have no idea"
+    },
+    {
+      "start_time": "00:06:40,570",
+      "end_time": "00:06:46,450",
+      "text": "5050 was it a wrongful death the answer"
+    },
+    {
+      "start_time": "00:06:43,180",
+      "end_time": "00:06:48,460",
+      "text": "is yes so he didn't go out of his way to"
+    },
+    {
+      "start_time": "00:06:46,450",
+      "end_time": "00:06:49,990",
+      "text": "murder her anything I had and I don't"
+    },
+    {
+      "start_time": "00:06:48,460",
+      "end_time": "00:06:51,190",
+      "text": "think he didn't meet her in battle and"
+    },
+    {
+      "start_time": "00:06:49,990",
+      "end_time": "00:06:53,080",
+      "text": "slew or anything like that something"
+    },
+    {
+      "start_time": "00:06:51,190",
+      "end_time": "00:06:55,569",
+      "text": "happened in which ed Bert wound up"
+    },
+    {
+      "start_time": "00:06:53,080",
+      "end_time": "00:06:57,849",
+      "text": "killing this woman"
+    },
+    {
+      "start_time": "00:06:55,569",
+      "end_time": "00:07:00,369",
+      "text": "well obviously he has some connection to"
+    },
+    {
+      "start_time": "00:06:57,849",
+      "end_time": "00:07:03,249",
+      "text": "the order of the purifying flame was Ed"
+    },
+    {
+      "start_time": "00:07:00,369",
+      "end_time": "00:07:04,779",
+      "text": "Burt a member of that I don't think"
+    },
+    {
+      "start_time": "00:07:03,249",
+      "end_time": "00:07:06,159",
+      "text": "that's likely I think it's like it's"
+    },
+    {
+      "start_time": "00:07:04,779",
+      "end_time": "00:07:07,809",
+      "text": "possible he may have been working for"
+    },
+    {
+      "start_time": "00:07:06,159",
+      "end_time": "00:07:09,789",
+      "text": "them at some point but let's acephate"
+    },
+    {
+      "start_time": "00:07:07,809",
+      "end_time": "00:07:12,159",
+      "text": "chart was ed Burt in fact a member of"
+    },
+    {
+      "start_time": "00:07:09,789",
+      "end_time": "00:07:14,169",
+      "text": "purifying flame purifying Frank the"
+    },
+    {
+      "start_time": "00:07:12,159",
+      "end_time": "00:07:18,069",
+      "text": "terrifying fact I'm gonna say no way"
+    },
+    {
+      "start_time": "00:07:14,169",
+      "end_time": "00:07:21,879",
+      "text": "I can't Spectre 875 no he was not a"
+    },
+    {
+      "start_time": "00:07:18,069",
+      "end_time": "00:07:23,499",
+      "text": "member was he employed by I think that's"
+    },
+    {
+      "start_time": "00:07:21,879",
+      "end_time": "00:07:25,839",
+      "text": "very likely yeah I think it's very"
+    },
+    {
+      "start_time": "00:07:23,499",
+      "end_time": "00:07:30,639",
+      "text": "likely that he was 47 he was so he was"
+    },
+    {
+      "start_time": "00:07:25,839",
+      "end_time": "00:07:33,550",
+      "text": "employed by a cherylin spirit Bane to go"
+    },
+    {
+      "start_time": "00:07:30,639",
+      "end_time": "00:07:36,339",
+      "text": "and do some tasks he did kill her"
+    },
+    {
+      "start_time": "00:07:33,550",
+      "end_time": "00:07:37,330",
+      "text": "accidentally and she is haunting him"
+    },
+    {
+      "start_time": "00:07:36,339",
+      "end_time": "00:07:39,789",
+      "text": "because of that"
+    },
+    {
+      "start_time": "00:07:37,330",
+      "end_time": "00:07:43,749",
+      "text": "so she's keeping him alive until he can"
+    },
+    {
+      "start_time": "00:07:39,789",
+      "end_time": "00:07:45,430",
+      "text": "atone for the accidental death of her of"
+    },
+    {
+      "start_time": "00:07:43,749",
+      "end_time": "00:07:47,379",
+      "text": "herself actually here's an interesting"
+    },
+    {
+      "start_time": "00:07:45,430",
+      "end_time": "00:07:49,899",
+      "text": "question does the order the purifying"
+    },
+    {
+      "start_time": "00:07:47,379",
+      "end_time": "00:07:51,779",
+      "text": "flame know that Ed Burt was responsible"
+    },
+    {
+      "start_time": "00:07:49,899",
+      "end_time": "00:07:54,209",
+      "text": "for the death of their leader"
+    },
+    {
+      "start_time": "00:07:51,779",
+      "end_time": "00:07:58,689",
+      "text": "fifty-fifty"
+    },
+    {
+      "start_time": "00:07:54,209",
+      "end_time": "00:08:00,189",
+      "text": "what is that 0-7 is an extreme yes not"
+    },
+    {
+      "start_time": "00:07:58,689",
+      "end_time": "00:08:02,709",
+      "text": "only does the order of the purifying"
+    },
+    {
+      "start_time": "00:08:00,189",
+      "end_time": "00:08:05,379",
+      "text": "flame know that Ed Burt was responsible"
+    },
+    {
+      "start_time": "00:08:02,709",
+      "end_time": "00:08:07,539",
+      "text": "they blame him and they are after him"
+    },
+    {
+      "start_time": "00:08:05,379",
+      "end_time": "00:08:09,969",
+      "text": "that certainly complicates things if"
+    },
+    {
+      "start_time": "00:08:07,539",
+      "end_time": "00:08:11,709",
+      "text": "they run into the order that's gonna be"
+    },
+    {
+      "start_time": "00:08:09,969",
+      "end_time": "00:08:15,219",
+      "text": "a problem"
+    },
+    {
+      "start_time": "00:08:11,709",
+      "end_time": "00:08:17,289",
+      "text": "what a twisted web we do spin here on me"
+    },
+    {
+      "start_time": "00:08:15,219",
+      "end_time": "00:08:18,759",
+      "text": "myself and die yeah I think that's all"
+    },
+    {
+      "start_time": "00:08:17,289",
+      "end_time": "00:08:20,439",
+      "text": "we need to know for now so because this"
+    },
+    {
+      "start_time": "00:08:18,759",
+      "end_time": "00:08:23,800",
+      "text": "is our Halloween episode we are going to"
+    },
+    {
+      "start_time": "00:08:20,439",
+      "end_time": "00:08:25,869",
+      "text": "go to mythic variations right here what"
+    },
+    {
+      "start_time": "00:08:23,800",
+      "end_time": "00:08:28,449",
+      "text": "mythic variations does is basically give"
+    },
+    {
+      "start_time": "00:08:25,869",
+      "end_time": "00:08:30,490",
+      "text": "us different types of random encounter"
+    },
+    {
+      "start_time": "00:08:28,449",
+      "end_time": "00:08:36,099",
+      "text": "tables based on the genre so we're going"
+    },
+    {
+      "start_time": "00:08:30,490",
+      "end_time": "00:08:37,630",
+      "text": "to go to mythic variations horror a"
+    },
+    {
+      "start_time": "00:08:36,099",
+      "end_time": "00:08:39,339",
+      "text": "couple of special rules variations when"
+    },
+    {
+      "start_time": "00:08:37,630",
+      "end_time": "00:08:41,139",
+      "text": "it comes to horror in mythic variations"
+    },
+    {
+      "start_time": "00:08:39,339",
+      "end_time": "00:08:42,819",
+      "text": "first of all the chaos factor if you're"
+    },
+    {
+      "start_time": "00:08:41,139",
+      "end_time": "00:08:44,529",
+      "text": "starting would normally be at four but"
+    },
+    {
+      "start_time": "00:08:42,819",
+      "end_time": "00:08:46,000",
+      "text": "ours is already at eight and then we"
+    },
+    {
+      "start_time": "00:08:44,529",
+      "end_time": "00:08:48,279",
+      "text": "have a different horror focused table"
+    },
+    {
+      "start_time": "00:08:46,000",
+      "end_time": "00:08:50,019",
+      "text": "right here which you know will come up"
+    },
+    {
+      "start_time": "00:08:48,279",
+      "end_time": "00:08:51,639",
+      "text": "in a second also because they're chaos"
+    },
+    {
+      "start_time": "00:08:50,019",
+      "end_time": "00:08:54,130",
+      "text": "fact that our chaos factor is so high"
+    },
+    {
+      "start_time": "00:08:51,639",
+      "end_time": "00:08:55,810",
+      "text": "it's eight if we do roll under it"
+    },
+    {
+      "start_time": "00:08:54,130",
+      "end_time": "00:08:57,040",
+      "text": "they're all going to be interrupt scenes"
+    },
+    {
+      "start_time": "00:08:55,810",
+      "end_time": "00:08:59,470",
+      "text": "it's not gonna be altered scenes that's"
+    },
+    {
+      "start_time": "00:08:57,040",
+      "end_time": "00:09:02,680",
+      "text": "just a factor of the mythic horror scene"
+    },
+    {
+      "start_time": "00:08:59,470",
+      "end_time": "00:09:04,510",
+      "text": "let's do that as Simon is unconscious"
+    },
+    {
+      "start_time": "00:09:02,680",
+      "end_time": "00:09:06,370",
+      "text": "and being dragged by Ed Burt through the"
+    },
+    {
+      "start_time": "00:09:04,510",
+      "end_time": "00:09:08,350",
+      "text": "force it is late afternoon early evening"
+    },
+    {
+      "start_time": "00:09:06,370",
+      "end_time": "00:09:08,860",
+      "text": "they've been traveling now for some time"
+    },
+    {
+      "start_time": "00:09:08,350",
+      "end_time": "00:09:10,960",
+      "text": "having"
+    },
+    {
+      "start_time": "00:09:08,860",
+      "end_time": "00:09:12,550",
+      "text": "just escaped the temple they are making"
+    },
+    {
+      "start_time": "00:09:10,960",
+      "end_time": "00:09:13,330",
+      "text": "their way back to hunt a Torah hopefully"
+    },
+    {
+      "start_time": "00:09:12,550",
+      "end_time": "00:09:16,240",
+      "text": "they're going to get there without"
+    },
+    {
+      "start_time": "00:09:13,330",
+      "end_time": "00:09:17,950",
+      "text": "incident however this is me myself and I"
+    },
+    {
+      "start_time": "00:09:16,240",
+      "end_time": "00:09:19,750",
+      "text": "and using the mythical emulator with a"
+    },
+    {
+      "start_time": "00:09:17,950",
+      "end_time": "00:09:22,180",
+      "text": "cash factor of eight I highly doubt it"
+    },
+    {
+      "start_time": "00:09:19,750",
+      "end_time": "00:09:24,730",
+      "text": "so let us determine whether or not the"
+    },
+    {
+      "start_time": "00:09:22,180",
+      "end_time": "00:09:26,920",
+      "text": "scene is interrupted is it interrupted"
+    },
+    {
+      "start_time": "00:09:24,730",
+      "end_time": "00:09:30,070",
+      "text": "yeah seven odd cast factor eight means"
+    },
+    {
+      "start_time": "00:09:26,920",
+      "end_time": "00:09:32,650",
+      "text": "yes what is the focus so if we look over"
+    },
+    {
+      "start_time": "00:09:30,070",
+      "end_time": "00:09:34,270",
+      "text": "here we have this horror focus table"
+    },
+    {
+      "start_time": "00:09:32,650",
+      "end_time": "00:09:38,260",
+      "text": "okay it's slightly different than the"
+    },
+    {
+      "start_time": "00:09:34,270",
+      "end_time": "00:09:40,030",
+      "text": "normal table that that mythic has so"
+    },
+    {
+      "start_time": "00:09:38,260",
+      "end_time": "00:09:42,460",
+      "text": "we're gonna see what we have here okay"
+    },
+    {
+      "start_time": "00:09:40,030",
+      "end_time": "00:09:44,410",
+      "text": "on the horror focus table we are rolling"
+    },
+    {
+      "start_time": "00:09:42,460",
+      "end_time": "00:09:47,560",
+      "text": "what is the interrupt scene what is the"
+    },
+    {
+      "start_time": "00:09:44,410",
+      "end_time": "00:09:49,900",
+      "text": "focus of this event twenty-seven remote"
+    },
+    {
+      "start_time": "00:09:47,560",
+      "end_time": "00:09:53,320",
+      "text": "event so this is an event that happens"
+    },
+    {
+      "start_time": "00:09:49,900",
+      "end_time": "00:09:56,940",
+      "text": "somewhere else and what is it about the"
+    },
+    {
+      "start_time": "00:09:53,320",
+      "end_time": "00:10:01,360",
+      "text": "action is seventeen antagonize"
+    },
+    {
+      "start_time": "00:09:56,940",
+      "end_time": "00:10:04,780",
+      "text": "eighty-four status quo antagonize the"
+    },
+    {
+      "start_time": "00:10:01,360",
+      "end_time": "00:10:05,890",
+      "text": "status quo they're on the way to town so"
+    },
+    {
+      "start_time": "00:10:04,780",
+      "end_time": "00:10:08,230",
+      "text": "they're gonna have an interrupt scene"
+    },
+    {
+      "start_time": "00:10:05,890",
+      "end_time": "00:10:09,820",
+      "text": "but it's a remote event so it doesn't"
+    },
+    {
+      "start_time": "00:10:08,230",
+      "end_time": "00:10:11,470",
+      "text": "directly affect them something has"
+    },
+    {
+      "start_time": "00:10:09,820",
+      "end_time": "00:10:13,570",
+      "text": "happened in the town of hoon datura to"
+    },
+    {
+      "start_time": "00:10:11,470",
+      "end_time": "00:10:16,480",
+      "text": "shake things up so is it possible that"
+    },
+    {
+      "start_time": "00:10:13,570",
+      "end_time": "00:10:18,010",
+      "text": "they were attacked antagonize the status"
+    },
+    {
+      "start_time": "00:10:16,480",
+      "end_time": "00:10:20,010",
+      "text": "quo I don't think that they were at I"
+    },
+    {
+      "start_time": "00:10:18,010",
+      "end_time": "00:10:23,500",
+      "text": "think that this really is more about"
+    },
+    {
+      "start_time": "00:10:20,010",
+      "end_time": "00:10:25,600",
+      "text": "this is more an internal incursion this"
+    },
+    {
+      "start_time": "00:10:23,500",
+      "end_time": "00:10:27,850",
+      "text": "is some group on the inside of the town"
+    },
+    {
+      "start_time": "00:10:25,600",
+      "end_time": "00:10:29,710",
+      "text": "that has basically risen up and like"
+    },
+    {
+      "start_time": "00:10:27,850",
+      "end_time": "00:10:31,420",
+      "text": "overthrowing the government oh well okay"
+    },
+    {
+      "start_time": "00:10:29,710",
+      "end_time": "00:10:33,910",
+      "text": "this is oh this is a horror episode"
+    },
+    {
+      "start_time": "00:10:31,420",
+      "end_time": "00:10:36,790",
+      "text": "after all so I think there was some cult"
+    },
+    {
+      "start_time": "00:10:33,910",
+      "end_time": "00:10:38,080",
+      "text": "some cult perhaps even associated with"
+    },
+    {
+      "start_time": "00:10:36,790",
+      "end_time": "00:10:40,630",
+      "text": "the necromancers in the old temple"
+    },
+    {
+      "start_time": "00:10:38,080",
+      "end_time": "00:10:44,020",
+      "text": "perhaps there is a cult that has been"
+    },
+    {
+      "start_time": "00:10:40,630",
+      "end_time": "00:10:47,320",
+      "text": "long hiding in the underbelly of society"
+    },
+    {
+      "start_time": "00:10:44,020",
+      "end_time": "00:10:50,440",
+      "text": "and they have seen their opportunity and"
+    },
+    {
+      "start_time": "00:10:47,320",
+      "end_time": "00:10:52,750",
+      "text": "seized it they've risen up and they have"
+    },
+    {
+      "start_time": "00:10:50,440",
+      "end_time": "00:10:55,140",
+      "text": "murdered some of the most influential"
+    },
+    {
+      "start_time": "00:10:52,750",
+      "end_time": "00:10:58,630",
+      "text": "people in the town they've killed off"
+    },
+    {
+      "start_time": "00:10:55,140",
+      "end_time": "00:11:01,030",
+      "text": "several key members of the town and"
+    },
+    {
+      "start_time": "00:10:58,630",
+      "end_time": "00:11:03,970",
+      "text": "basically the town is in chaos"
+    },
+    {
+      "start_time": "00:11:01,030",
+      "end_time": "00:11:06,400",
+      "text": "how do at Bert and Simon find out about"
+    },
+    {
+      "start_time": "00:11:03,970",
+      "end_time": "00:11:08,830",
+      "text": "this now I think what they come across"
+    },
+    {
+      "start_time": "00:11:06,400",
+      "end_time": "00:11:11,140",
+      "text": "as they come across a rider who's who's"
+    },
+    {
+      "start_time": "00:11:08,830",
+      "end_time": "00:11:13,060",
+      "text": "galloping as fast as he can but maybe"
+    },
+    {
+      "start_time": "00:11:11,140",
+      "end_time": "00:11:15,220",
+      "text": "he's been wounded he's got like a couple"
+    },
+    {
+      "start_time": "00:11:13,060",
+      "end_time": "00:11:17,960",
+      "text": "of arrows in his back he's coming into"
+    },
+    {
+      "start_time": "00:11:15,220",
+      "end_time": "00:11:20,450",
+      "text": "life he basically rides up to them"
+    },
+    {
+      "start_time": "00:11:17,960",
+      "end_time": "00:11:22,460",
+      "text": "he's just on his last legs ed Bert sees"
+    },
+    {
+      "start_time": "00:11:20,450",
+      "end_time": "00:11:23,060",
+      "text": "him and basically oh you know but Flags"
+    },
+    {
+      "start_time": "00:11:22,460",
+      "end_time": "00:11:24,950",
+      "text": "him down"
+    },
+    {
+      "start_time": "00:11:23,060",
+      "end_time": "00:11:26,899",
+      "text": "the horse is lathering the horse rains"
+    },
+    {
+      "start_time": "00:11:24,950",
+      "end_time": "00:11:29,540",
+      "text": "up in front of him but he wounded as he"
+    },
+    {
+      "start_time": "00:11:26,899",
+      "end_time": "00:11:31,310",
+      "text": "is this rider he falls off clunk oh"
+    },
+    {
+      "start_time": "00:11:29,540",
+      "end_time": "00:11:32,720",
+      "text": "right in front of ed Bert the the man is"
+    },
+    {
+      "start_time": "00:11:31,310",
+      "end_time": "00:11:35,390",
+      "text": "on the ground he's he's lighted his"
+    },
+    {
+      "start_time": "00:11:32,720",
+      "end_time": "00:11:36,800",
+      "text": "blood like flaking his lip you know from"
+    },
+    {
+      "start_time": "00:11:35,390",
+      "end_time": "00:11:38,540",
+      "text": "from the many wounds that he's taken"
+    },
+    {
+      "start_time": "00:11:36,800",
+      "end_time": "00:11:41,120",
+      "text": "he's almost delirious from the pain"
+    },
+    {
+      "start_time": "00:11:38,540",
+      "end_time": "00:11:42,890",
+      "text": "Edward comes up to him he slumps Simon"
+    },
+    {
+      "start_time": "00:11:41,120",
+      "end_time": "00:11:44,660",
+      "text": "down like a sack of potatoes pumpkin on"
+    },
+    {
+      "start_time": "00:11:42,890",
+      "end_time": "00:11:46,339",
+      "text": "the on the ground what happened man"
+    },
+    {
+      "start_time": "00:11:44,660",
+      "end_time": "00:11:50,660",
+      "text": "where you coming from town you come from"
+    },
+    {
+      "start_time": "00:11:46,339",
+      "end_time": "00:11:54,230",
+      "text": "home to Tora it was terrible"
+    },
+    {
+      "start_time": "00:11:50,660",
+      "end_time": "00:11:56,860",
+      "text": "uprisings in the street I got some"
+    },
+    {
+      "start_time": "00:11:54,230",
+      "end_time": "00:12:00,110",
+      "text": "terrible conflict began murdering"
+    },
+    {
+      "start_time": "00:11:56,860",
+      "end_time": "00:12:05,330",
+      "text": "murdering the priests and murdering the"
+    },
+    {
+      "start_time": "00:12:00,110",
+      "end_time": "00:12:05,750",
+      "text": "town masters I I was on my way to the"
+    },
+    {
+      "start_time": "00:12:05,330",
+      "end_time": "00:12:08,510",
+      "text": "city"
+    },
+    {
+      "start_time": "00:12:05,750",
+      "end_time": "00:12:10,880",
+      "text": "to tell the Lord's there but they shot"
+    },
+    {
+      "start_time": "00:12:08,510",
+      "end_time": "00:12:13,100",
+      "text": "me is the guy about to die I don't know"
+    },
+    {
+      "start_time": "00:12:10,880",
+      "end_time": "00:12:15,230",
+      "text": "find out he's been shot I'm gonna say"
+    },
+    {
+      "start_time": "00:12:13,100",
+      "end_time": "00:12:18,740",
+      "text": "it's somewhat likely is he about to die"
+    },
+    {
+      "start_time": "00:12:15,230",
+      "end_time": "00:12:20,690",
+      "text": "these wounds 10 extreme yes so he is the"
+    },
+    {
+      "start_time": "00:12:18,740",
+      "end_time": "00:12:23,120",
+      "text": "ease there's there's nothing that ed"
+    },
+    {
+      "start_time": "00:12:20,690",
+      "end_time": "00:12:26,450",
+      "text": "Bert can do for him this guy's uh they"
+    },
+    {
+      "start_time": "00:12:23,120",
+      "end_time": "00:12:28,400",
+      "text": "sorry you must get word to the city I"
+    },
+    {
+      "start_time": "00:12:26,450",
+      "end_time": "00:12:30,110",
+      "text": "never did know the name of the cities"
+    },
+    {
+      "start_time": "00:12:28,400",
+      "end_time": "00:12:32,120",
+      "text": "I'm gonna presume that the city he's"
+    },
+    {
+      "start_time": "00:12:30,110",
+      "end_time": "00:12:35,270",
+      "text": "talking about is the one to the north"
+    },
+    {
+      "start_time": "00:12:32,120",
+      "end_time": "00:12:37,550",
+      "text": "the one that Simon comes from we're"
+    },
+    {
+      "start_time": "00:12:35,270",
+      "end_time": "00:12:41,150",
+      "text": "going to random tables to here what is"
+    },
+    {
+      "start_time": "00:12:37,550",
+      "end_time": "00:12:45,170",
+      "text": "the name of the city that Simon is from"
+    },
+    {
+      "start_time": "00:12:41,150",
+      "end_time": "00:12:47,750",
+      "text": "44 chiton the city of chitin I like that"
+    },
+    {
+      "start_time": "00:12:45,170",
+      "end_time": "00:12:50,150",
+      "text": "please I have to get word to chitin city"
+    },
+    {
+      "start_time": "00:12:47,750",
+      "end_time": "00:12:51,860",
+      "text": "I have to get word that we need help"
+    },
+    {
+      "start_time": "00:12:50,150",
+      "end_time": "00:12:53,930",
+      "text": "dealing with this cope"
+    },
+    {
+      "start_time": "00:12:51,860",
+      "end_time": "00:12:55,670",
+      "text": "hang on I'll see if I can help you Simon"
+    },
+    {
+      "start_time": "00:12:53,930",
+      "end_time": "00:12:57,470",
+      "text": "Simon get off we need your help but by"
+    },
+    {
+      "start_time": "00:12:55,670",
+      "end_time": "00:12:59,300",
+      "text": "the time he turns back to Simon this"
+    },
+    {
+      "start_time": "00:12:57,470",
+      "end_time": "00:13:02,480",
+      "text": "rider is dead he succumb to his will"
+    },
+    {
+      "start_time": "00:12:59,300",
+      "end_time": "00:13:06,050",
+      "text": "so Simon groggy I think he comes to his"
+    },
+    {
+      "start_time": "00:13:02,480",
+      "end_time": "00:13:08,720",
+      "text": "his senses now what why does my head"
+    },
+    {
+      "start_time": "00:13:06,050",
+      "end_time": "00:13:12,350",
+      "text": "stuff so you were out to the temple now"
+    },
+    {
+      "start_time": "00:13:08,720",
+      "end_time": "00:13:13,040",
+      "text": "Simon what we have to go back in and"
+    },
+    {
+      "start_time": "00:13:12,350",
+      "end_time": "00:13:15,470",
+      "text": "find my father"
+    },
+    {
+      "start_time": "00:13:13,040",
+      "end_time": "00:13:17,060",
+      "text": "you were raving that you were about to"
+    },
+    {
+      "start_time": "00:13:15,470",
+      "end_time": "00:13:20,870",
+      "text": "do something really stupid that to drag"
+    },
+    {
+      "start_time": "00:13:17,060",
+      "end_time": "00:13:22,680",
+      "text": "me witches so I got us out of there just"
+    },
+    {
+      "start_time": "00:13:20,870",
+      "end_time": "00:13:26,460",
+      "text": "as you turned I think something"
+    },
+    {
+      "start_time": "00:13:22,680",
+      "end_time": "00:13:28,860",
+      "text": "on your head Eggbert you have taken me"
+    },
+    {
+      "start_time": "00:13:26,460",
+      "end_time": "00:13:31,620",
+      "text": "away from the one trail that could lead"
+    },
+    {
+      "start_time": "00:13:28,860",
+      "end_time": "00:13:35,040",
+      "text": "me to answers how could you do that I"
+    },
+    {
+      "start_time": "00:13:31,620",
+      "end_time": "00:13:37,560",
+      "text": "told you before Simon if we didn't get"
+    },
+    {
+      "start_time": "00:13:35,040",
+      "end_time": "00:13:40,589",
+      "text": "out of there we were dead I had to do it"
+    },
+    {
+      "start_time": "00:13:37,560",
+      "end_time": "00:13:43,290",
+      "text": "you were out of your mind you just lost"
+    },
+    {
+      "start_time": "00:13:40,589",
+      "end_time": "00:13:46,410",
+      "text": "your mother twice over you'll thank me"
+    },
+    {
+      "start_time": "00:13:43,290",
+      "end_time": "00:13:48,690",
+      "text": "for this later maybe not now we'll see"
+    },
+    {
+      "start_time": "00:13:46,410",
+      "end_time": "00:13:51,570",
+      "text": "about that input we shall see"
+    },
+    {
+      "start_time": "00:13:48,690",
+      "end_time": "00:13:53,910",
+      "text": "wait who who is that he points to the"
+    },
+    {
+      "start_time": "00:13:51,570",
+      "end_time": "00:13:55,589",
+      "text": "dead rider on the ground some rider out"
+    },
+    {
+      "start_time": "00:13:53,910",
+      "end_time": "00:13:59,730",
+      "text": "of whom the Torah he said he was on his"
+    },
+    {
+      "start_time": "00:13:55,589",
+      "end_time": "00:14:02,160",
+      "text": "way to Titan Titan why apparently"
+    },
+    {
+      "start_time": "00:13:59,730",
+      "end_time": "00:14:04,290",
+      "text": "there's some cult that's risen up from"
+    },
+    {
+      "start_time": "00:14:02,160",
+      "end_time": "00:14:06,930",
+      "text": "the underbelly of the town and murdered"
+    },
+    {
+      "start_time": "00:14:04,290",
+      "end_time": "00:14:09,149",
+      "text": "a bunch of influence of people places of"
+    },
+    {
+      "start_time": "00:14:06,930",
+      "end_time": "00:14:10,860",
+      "text": "chaos I was hoping we might be able to"
+    },
+    {
+      "start_time": "00:14:09,149",
+      "end_time": "00:14:12,870",
+      "text": "find someone in town to help us with the"
+    },
+    {
+      "start_time": "00:14:10,860",
+      "end_time": "00:14:14,910",
+      "text": "rest of the exploration the temple was"
+    },
+    {
+      "start_time": "00:14:12,870",
+      "end_time": "00:14:17,580",
+      "text": "there I don't know if it's a good idea"
+    },
+    {
+      "start_time": "00:14:14,910",
+      "end_time": "00:14:20,370",
+      "text": "for us to go back well one thing's for"
+    },
+    {
+      "start_time": "00:14:17,580",
+      "end_time": "00:14:24,420",
+      "text": "sure we can't go back to chiton why not"
+    },
+    {
+      "start_time": "00:14:20,370",
+      "end_time": "00:14:27,089",
+      "text": "I would rather not return there I am"
+    },
+    {
+      "start_time": "00:14:24,420",
+      "end_time": "00:14:31,830",
+      "text": "hunter dead but hunted by an enemy of"
+    },
+    {
+      "start_time": "00:14:27,089",
+      "end_time": "00:14:33,480",
+      "text": "mine manfred of dov Dane no I cannot"
+    },
+    {
+      "start_time": "00:14:31,830",
+      "end_time": "00:14:35,730",
+      "text": "return there we can't just walk into"
+    },
+    {
+      "start_time": "00:14:33,480",
+      "end_time": "00:14:38,040",
+      "text": "whom the Torah from what this poor chap"
+    },
+    {
+      "start_time": "00:14:35,730",
+      "end_time": "00:14:40,470",
+      "text": "was saying it's a madhouse well what do"
+    },
+    {
+      "start_time": "00:14:38,040",
+      "end_time": "00:14:42,330",
+      "text": "you suggest we do then ed but this guy"
+    },
+    {
+      "start_time": "00:14:40,470",
+      "end_time": "00:14:44,220",
+      "text": "was going to call the try and tell them"
+    },
+    {
+      "start_time": "00:14:42,330",
+      "end_time": "00:14:45,990",
+      "text": "what's going on maybe get some help we"
+    },
+    {
+      "start_time": "00:14:44,220",
+      "end_time": "00:14:47,279",
+      "text": "could do that we could search his body"
+    },
+    {
+      "start_time": "00:14:45,990",
+      "end_time": "00:14:49,410",
+      "text": "see if you've got any sort of official"
+    },
+    {
+      "start_time": "00:14:47,279",
+      "end_time": "00:14:51,270",
+      "text": "writ on him maybe he had some official"
+    },
+    {
+      "start_time": "00:14:49,410",
+      "end_time": "00:14:54,330",
+      "text": "request for help or something from the"
+    },
+    {
+      "start_time": "00:14:51,270",
+      "end_time": "00:14:56,160",
+      "text": "town masters did he know no shut up I"
+    },
+    {
+      "start_time": "00:14:54,330",
+      "end_time": "00:14:57,660",
+      "text": "think it's very likely that he does have"
+    },
+    {
+      "start_time": "00:14:56,160",
+      "end_time": "00:14:57,990",
+      "text": "something like that seventy-eight yes he"
+    },
+    {
+      "start_time": "00:14:57,660",
+      "end_time": "00:15:00,390",
+      "text": "does"
+    },
+    {
+      "start_time": "00:14:57,990",
+      "end_time": "00:15:01,800",
+      "text": "ed Bert quickly searches his belt pouch"
+    },
+    {
+      "start_time": "00:15:00,390",
+      "end_time": "00:15:04,170",
+      "text": "and he comes out with this rolled-up"
+    },
+    {
+      "start_time": "00:15:01,800",
+      "end_time": "00:15:07,980",
+      "text": "piece of parchment that has a seal on it"
+    },
+    {
+      "start_time": "00:15:04,170",
+      "end_time": "00:15:10,320",
+      "text": "the seal of Linda Tora see right here we"
+    },
+    {
+      "start_time": "00:15:07,980",
+      "end_time": "00:15:12,839",
+      "text": "could do this man's job for him we can"
+    },
+    {
+      "start_time": "00:15:10,320",
+      "end_time": "00:15:14,430",
+      "text": "go back to chitin city and get help did"
+    },
+    {
+      "start_time": "00:15:12,839",
+      "end_time": "00:15:16,079",
+      "text": "he tell you any details about what's"
+    },
+    {
+      "start_time": "00:15:14,430",
+      "end_time": "00:15:18,450",
+      "text": "going on there he made it sound like"
+    },
+    {
+      "start_time": "00:15:16,079",
+      "end_time": "00:15:21,990",
+      "text": "everything was total chaos there what do"
+    },
+    {
+      "start_time": "00:15:18,450",
+      "end_time": "00:15:24,060",
+      "text": "they do do they go on.200 Tora knowing"
+    },
+    {
+      "start_time": "00:15:21,990",
+      "end_time": "00:15:26,370",
+      "text": "that it is suddenly very dangerous"
+    },
+    {
+      "start_time": "00:15:24,060",
+      "end_time": "00:15:28,829",
+      "text": "because this strange cult that suddenly"
+    },
+    {
+      "start_time": "00:15:26,370",
+      "end_time": "00:15:32,250",
+      "text": "come up out of nowhere or do they take"
+    },
+    {
+      "start_time": "00:15:28,829",
+      "end_time": "00:15:34,590",
+      "text": "the missive from the town masters and go"
+    },
+    {
+      "start_time": "00:15:32,250",
+      "end_time": "00:15:37,650",
+      "text": "back to the city of chitin"
+    },
+    {
+      "start_time": "00:15:34,590",
+      "end_time": "00:15:38,820",
+      "text": "to try and get some help Simon"
+    },
+    {
+      "start_time": "00:15:37,650",
+      "end_time": "00:15:40,950",
+      "text": "definitely does not want to go back to"
+    },
+    {
+      "start_time": "00:15:38,820",
+      "end_time": "00:15:43,140",
+      "text": "kiting too dangerous for him he already"
+    },
+    {
+      "start_time": "00:15:40,950",
+      "end_time": "00:15:45,450",
+      "text": "knows that arne the Bounty Hunter is"
+    },
+    {
+      "start_time": "00:15:43,140",
+      "end_time": "00:15:48,090",
+      "text": "after him he knows that man fred is out"
+    },
+    {
+      "start_time": "00:15:45,450",
+      "end_time": "00:15:49,440",
+      "text": "to to get him so going back to the"
+    },
+    {
+      "start_time": "00:15:48,090",
+      "end_time": "00:15:51,870",
+      "text": "lion's den is probably not a very good"
+    },
+    {
+      "start_time": "00:15:49,440",
+      "end_time": "00:15:53,940",
+      "text": "idea but does ed Burt care about hoon"
+    },
+    {
+      "start_time": "00:15:51,870",
+      "end_time": "00:15:56,850",
+      "text": "datura does he have any vested interest"
+    },
+    {
+      "start_time": "00:15:53,940",
+      "end_time": "00:15:58,410",
+      "text": "in helping hoon datura does ed Burt have"
+    },
+    {
+      "start_time": "00:15:56,850",
+      "end_time": "00:16:00,360",
+      "text": "a vested interest in helping her datura"
+    },
+    {
+      "start_time": "00:15:58,410",
+      "end_time": "00:16:02,670",
+      "text": "21 yes he does"
+    },
+    {
+      "start_time": "00:16:00,360",
+      "end_time": "00:16:04,470",
+      "text": "Simon I think we should help or think we"
+    },
+    {
+      "start_time": "00:16:02,670",
+      "end_time": "00:16:07,230",
+      "text": "should carry this to the city leaders of"
+    },
+    {
+      "start_time": "00:16:04,470",
+      "end_time": "00:16:10,050",
+      "text": "whom Manfred of Dane certainly is one"
+    },
+    {
+      "start_time": "00:16:07,230",
+      "end_time": "00:16:12,270",
+      "text": "and see if we can bring help I do not"
+    },
+    {
+      "start_time": "00:16:10,050",
+      "end_time": "00:16:14,010",
+      "text": "like this one bit Edward and another"
+    },
+    {
+      "start_time": "00:16:12,270",
+      "end_time": "00:16:17,070",
+      "text": "thing we do not even know what the"
+    },
+    {
+      "start_time": "00:16:14,010",
+      "end_time": "00:16:18,660",
+      "text": "nature of this uprising is this one man"
+    },
+    {
+      "start_time": "00:16:17,070",
+      "end_time": "00:16:20,790",
+      "text": "told us as a cult in the streets that"
+    },
+    {
+      "start_time": "00:16:18,660",
+      "end_time": "00:16:21,960",
+      "text": "people have been killed if we are going"
+    },
+    {
+      "start_time": "00:16:20,790",
+      "end_time": "00:16:23,520",
+      "text": "to go and ask for help don't you think"
+    },
+    {
+      "start_time": "00:16:21,960",
+      "end_time": "00:16:25,170",
+      "text": "that we need to get some more"
+    },
+    {
+      "start_time": "00:16:23,520",
+      "end_time": "00:16:27,210",
+      "text": "information it'll be in dismissive"
+    },
+    {
+      "start_time": "00:16:25,170",
+      "end_time": "00:16:29,130",
+      "text": "everything we need to know he breaks the"
+    },
+    {
+      "start_time": "00:16:27,210",
+      "end_time": "00:16:30,360",
+      "text": "seal opens the missive and reads it I"
+    },
+    {
+      "start_time": "00:16:29,130",
+      "end_time": "00:16:31,890",
+      "text": "don't think there's a huge chance that"
+    },
+    {
+      "start_time": "00:16:30,360",
+      "end_time": "00:16:33,089",
+      "text": "there's a lot of like really explicit"
+    },
+    {
+      "start_time": "00:16:31,890",
+      "end_time": "00:16:35,250",
+      "text": "details about what's happening I think"
+    },
+    {
+      "start_time": "00:16:33,089",
+      "end_time": "00:16:36,720",
+      "text": "it's basically we're under attack crazy"
+    },
+    {
+      "start_time": "00:16:35,250",
+      "end_time": "00:16:40,620",
+      "text": "people who streets send help"
+    },
+    {
+      "start_time": "00:16:36,720",
+      "end_time": "00:16:44,010",
+      "text": "so is there enough detail in the missive"
+    },
+    {
+      "start_time": "00:16:40,620",
+      "end_time": "00:16:46,470",
+      "text": "to explain a lot about what's happening"
+    },
+    {
+      "start_time": "00:16:44,010",
+      "end_time": "00:16:50,070",
+      "text": "in datura I don't think so I think of no"
+    },
+    {
+      "start_time": "00:16:46,470",
+      "end_time": "00:16:51,900",
+      "text": "way no way is there 56 the answer is no"
+    },
+    {
+      "start_time": "00:16:50,070",
+      "end_time": "00:16:54,600",
+      "text": "the missive is super hastily written a"
+    },
+    {
+      "start_time": "00:16:51,900",
+      "end_time": "00:16:56,760",
+      "text": "scrawled hand like the letters trailing"
+    },
+    {
+      "start_time": "00:16:54,600",
+      "end_time": "00:16:59,070",
+      "text": "off and what kind of things and help"
+    },
+    {
+      "start_time": "00:16:56,760",
+      "end_time": "00:17:01,500",
+      "text": "crack so Simon has a look at this you"
+    },
+    {
+      "start_time": "00:16:59,070",
+      "end_time": "00:17:03,120",
+      "text": "see this tells us nothing I can tell you"
+    },
+    {
+      "start_time": "00:17:01,500",
+      "end_time": "00:17:04,620",
+      "text": "this the first thing that the Masters of"
+    },
+    {
+      "start_time": "00:17:03,120",
+      "end_time": "00:17:06,449",
+      "text": "chiton will want to know is what's"
+    },
+    {
+      "start_time": "00:17:04,620",
+      "end_time": "00:17:09,270",
+      "text": "happening this missive tells them"
+    },
+    {
+      "start_time": "00:17:06,449",
+      "end_time": "00:17:11,550",
+      "text": "nothing if you want to help the folk of"
+    },
+    {
+      "start_time": "00:17:09,270",
+      "end_time": "00:17:14,189",
+      "text": "hoon datura we need to know what's going"
+    },
+    {
+      "start_time": "00:17:11,550",
+      "end_time": "00:17:15,209",
+      "text": "on we need to go into that town and find"
+    },
+    {
+      "start_time": "00:17:14,189",
+      "end_time": "00:17:17,280",
+      "text": "out for ourselves"
+    },
+    {
+      "start_time": "00:17:15,209",
+      "end_time": "00:17:19,020",
+      "text": "all right fine Simon we'll do it your"
+    },
+    {
+      "start_time": "00:17:17,280",
+      "end_time": "00:17:21,270",
+      "text": "way since you are sort of the principal"
+    },
+    {
+      "start_time": "00:17:19,020",
+      "end_time": "00:17:22,920",
+      "text": "main character here after arlynn well"
+    },
+    {
+      "start_time": "00:17:21,270",
+      "end_time": "00:17:23,850",
+      "text": "I'm just sort of a jumped-up NPC so yes"
+    },
+    {
+      "start_time": "00:17:22,920",
+      "end_time": "00:17:27,750",
+      "text": "we'll do it your way"
+    },
+    {
+      "start_time": "00:17:23,850",
+      "end_time": "00:17:31,160",
+      "text": "so they make their way back south to the"
+    },
+    {
+      "start_time": "00:17:27,750",
+      "end_time": "00:17:33,810",
+      "text": "town of Hoonah Torah as night is falling"
+    },
+    {
+      "start_time": "00:17:31,160",
+      "end_time": "00:17:36,330",
+      "text": "they will get there after dark there's a"
+    },
+    {
+      "start_time": "00:17:33,810",
+      "end_time": "00:17:38,670",
+      "text": "full moon next let's find out what the"
+    },
+    {
+      "start_time": "00:17:36,330",
+      "end_time": "00:17:41,880",
+      "text": "weather's doing either all the better it"
+    },
+    {
+      "start_time": "00:17:38,670",
+      "end_time": "00:17:44,220",
+      "text": "is o-5 as they make their way towards"
+    },
+    {
+      "start_time": "00:17:41,880",
+      "end_time": "00:17:46,350",
+      "text": "the town of unda torah there is a storm"
+    },
+    {
+      "start_time": "00:17:44,220",
+      "end_time": "00:17:47,600",
+      "text": "that begins to boil on the horizon"
+    },
+    {
+      "start_time": "00:17:46,350",
+      "end_time": "00:17:49,580",
+      "text": "lightning flash"
+    },
+    {
+      "start_time": "00:17:47,600",
+      "end_time": "00:17:52,070",
+      "text": "in the clouds over the ocean off to"
+    },
+    {
+      "start_time": "00:17:49,580",
+      "end_time": "00:17:55,309",
+      "text": "their right Thunder begins to roll in"
+    },
+    {
+      "start_time": "00:17:52,070",
+      "end_time": "00:17:56,510",
+      "text": "off the sea towards the land and there"
+    },
+    {
+      "start_time": "00:17:55,309",
+      "end_time": "00:17:57,799",
+      "text": "in front of them as they come down out"
+    },
+    {
+      "start_time": "00:17:56,510",
+      "end_time": "00:17:59,059",
+      "text": "of the mountains and other foothills"
+    },
+    {
+      "start_time": "00:17:57,799",
+      "end_time": "00:18:00,890",
+      "text": "they can see the town of one datura"
+    },
+    {
+      "start_time": "00:17:59,059",
+      "end_time": "00:18:03,500",
+      "text": "right where they left it but this time I"
+    },
+    {
+      "start_time": "00:18:00,890",
+      "end_time": "00:18:05,419",
+      "text": "think there are a number of fires in the"
+    },
+    {
+      "start_time": "00:18:03,500",
+      "end_time": "00:18:07,039",
+      "text": "town I think that these cultists have"
+    },
+    {
+      "start_time": "00:18:05,419",
+      "end_time": "00:18:09,169",
+      "text": "been busy I think they're sowing the"
+    },
+    {
+      "start_time": "00:18:07,039",
+      "end_time": "00:18:13,100",
+      "text": "seeds of chaos everywhere they are going"
+    },
+    {
+      "start_time": "00:18:09,169",
+      "end_time": "00:18:14,870",
+      "text": "I'm gonna say it's likely 60 yes it is"
+    },
+    {
+      "start_time": "00:18:13,100",
+      "end_time": "00:18:16,789",
+      "text": "so as they make their way down to the"
+    },
+    {
+      "start_time": "00:18:14,870",
+      "end_time": "00:18:18,950",
+      "text": "walled town of who datura they can see"
+    },
+    {
+      "start_time": "00:18:16,789",
+      "end_time": "00:18:20,510",
+      "text": "the flames erupting against the night"
+    },
+    {
+      "start_time": "00:18:18,950",
+      "end_time": "00:18:22,490",
+      "text": "sky they can hear the sound of screaming"
+    },
+    {
+      "start_time": "00:18:20,510",
+      "end_time": "00:18:24,140",
+      "text": "and and this fighting in the streets"
+    },
+    {
+      "start_time": "00:18:22,490",
+      "end_time": "00:18:24,470",
+      "text": "there's all kinds of chaos going on down"
+    },
+    {
+      "start_time": "00:18:24,140",
+      "end_time": "00:18:26,929",
+      "text": "there"
+    },
+    {
+      "start_time": "00:18:24,470",
+      "end_time": "00:18:29,570",
+      "text": "as they get to the gate is is the gate"
+    },
+    {
+      "start_time": "00:18:26,929",
+      "end_time": "00:18:34,190",
+      "text": "closed I think it's very unlikely is the"
+    },
+    {
+      "start_time": "00:18:29,570",
+      "end_time": "00:18:35,600",
+      "text": "gate closed in this case yes the gate is"
+    },
+    {
+      "start_time": "00:18:34,190",
+      "end_time": "00:18:37,370",
+      "text": "closed so they get there"
+    },
+    {
+      "start_time": "00:18:35,600",
+      "end_time": "00:18:39,110",
+      "text": "I think the guards at the gate are way"
+    },
+    {
+      "start_time": "00:18:37,370",
+      "end_time": "00:18:40,460",
+      "text": "too busy dealing with the chaos being"
+    },
+    {
+      "start_time": "00:18:39,110",
+      "end_time": "00:18:41,600",
+      "text": "sewn by the Colt on the inside the"
+    },
+    {
+      "start_time": "00:18:40,460",
+      "end_time": "00:18:44,030",
+      "text": "guards are clearly trying to quell"
+    },
+    {
+      "start_time": "00:18:41,600",
+      "end_time": "00:18:45,860",
+      "text": "whatever ridings going on it's it's a"
+    },
+    {
+      "start_time": "00:18:44,030",
+      "end_time": "00:18:47,600",
+      "text": "bad scene in there Simon and Ed Burt"
+    },
+    {
+      "start_time": "00:18:45,860",
+      "end_time": "00:18:49,549",
+      "text": "come up to the gate you know Simon"
+    },
+    {
+      "start_time": "00:18:47,600",
+      "end_time": "00:18:51,200",
+      "text": "pounds on the gate let us say let us say"
+    },
+    {
+      "start_time": "00:18:49,549",
+      "end_time": "00:18:52,400",
+      "text": "bang bang bang bang is there any guards"
+    },
+    {
+      "start_time": "00:18:51,200",
+      "end_time": "00:18:54,559",
+      "text": "the station at the gate that have"
+    },
+    {
+      "start_time": "00:18:52,400",
+      "end_time": "00:18:56,570",
+      "text": "actually kept their posts I think no way"
+    },
+    {
+      "start_time": "00:18:54,559",
+      "end_time": "00:18:58,580",
+      "text": "there's no way that there have been 24"
+    },
+    {
+      "start_time": "00:18:56,570",
+      "end_time": "00:19:00,890",
+      "text": "the answer is yes there is a guard the"
+    },
+    {
+      "start_time": "00:18:58,580",
+      "end_time": "00:19:03,380",
+      "text": "guard looks over the wall and sees them"
+    },
+    {
+      "start_time": "00:19:00,890",
+      "end_time": "00:19:05,299",
+      "text": "both the tour is in flames traveller you"
+    },
+    {
+      "start_time": "00:19:03,380",
+      "end_time": "00:19:08,390",
+      "text": "should go it's too dangerous no for the"
+    },
+    {
+      "start_time": "00:19:05,299",
+      "end_time": "00:19:11,120",
+      "text": "gate now we can help let us in actually"
+    },
+    {
+      "start_time": "00:19:08,390",
+      "end_time": "00:19:13,280",
+      "text": "let's find out exactly what the initial"
+    },
+    {
+      "start_time": "00:19:11,120",
+      "end_time": "00:19:15,049",
+      "text": "initial reaction is of the guard okay so"
+    },
+    {
+      "start_time": "00:19:13,280",
+      "end_time": "00:19:17,450",
+      "text": "we're gonna use the old savage or the"
+    },
+    {
+      "start_time": "00:19:15,049",
+      "end_time": "00:19:19,159",
+      "text": "reaction table here it's the initial"
+    },
+    {
+      "start_time": "00:19:17,450",
+      "end_time": "00:19:21,799",
+      "text": "reaction for the guard is going to be 7"
+    },
+    {
+      "start_time": "00:19:19,159",
+      "end_time": "00:19:23,270",
+      "text": "which is neutral okay so he's neutral"
+    },
+    {
+      "start_time": "00:19:21,799",
+      "end_time": "00:19:24,320",
+      "text": "he's not really he clearly doesn't want"
+    },
+    {
+      "start_time": "00:19:23,270",
+      "end_time": "00:19:26,090",
+      "text": "to open the gate because there's all"
+    },
+    {
+      "start_time": "00:19:24,320",
+      "end_time": "00:19:28,280",
+      "text": "this chaos going on behind him Simon's"
+    },
+    {
+      "start_time": "00:19:26,090",
+      "end_time": "00:19:29,870",
+      "text": "shouting let us in man let us in the"
+    },
+    {
+      "start_time": "00:19:28,280",
+      "end_time": "00:19:32,390",
+      "text": "guard shuts down the guy just goes"
+    },
+    {
+      "start_time": "00:19:29,870",
+      "end_time": "00:19:34,490",
+      "text": "traveller I cannot do it I think ed Bert"
+    },
+    {
+      "start_time": "00:19:32,390",
+      "end_time": "00:19:36,260",
+      "text": "step step up and he's got intimidation"
+    },
+    {
+      "start_time": "00:19:34,490",
+      "end_time": "00:19:38,419",
+      "text": "so he's gonna use intimidation it's one"
+    },
+    {
+      "start_time": "00:19:36,260",
+      "end_time": "00:19:41,360",
+      "text": "of the skills he has a wild card he"
+    },
+    {
+      "start_time": "00:19:38,419",
+      "end_time": "00:19:42,950",
+      "text": "shouts up to the gate now listen we are"
+    },
+    {
+      "start_time": "00:19:41,360",
+      "end_time": "00:19:46,400",
+      "text": "here to help you you understand"
+    },
+    {
+      "start_time": "00:19:42,950",
+      "end_time": "00:19:48,830",
+      "text": "tape now don't be stupid arse open this"
+    },
+    {
+      "start_time": "00:19:46,400",
+      "end_time": "00:19:50,270",
+      "text": "gate now or I will scare that wall and"
+    },
+    {
+      "start_time": "00:19:48,830",
+      "end_time": "00:19:52,039",
+      "text": "use your head to pass this gate open"
+    },
+    {
+      "start_time": "00:19:50,270",
+      "end_time": "00:19:53,929",
+      "text": "myself see if it works"
+    },
+    {
+      "start_time": "00:19:52,039",
+      "end_time": "00:19:56,780",
+      "text": "he's a wild card so he's rolling it he's"
+    },
+    {
+      "start_time": "00:19:53,929",
+      "end_time": "00:19:58,549",
+      "text": "got a d6 intimidate and he's got a d6"
+    },
+    {
+      "start_time": "00:19:56,780",
+      "end_time": "00:20:01,250",
+      "text": "for his wild card and he's gonna roll a"
+    },
+    {
+      "start_time": "00:19:58,549",
+      "end_time": "00:20:01,639",
+      "text": "four which is a success so the guard"
+    },
+    {
+      "start_time": "00:20:01,250",
+      "end_time": "00:20:04,159",
+      "text": "kind of"
+    },
+    {
+      "start_time": "00:20:01,639",
+      "end_time": "00:20:05,450",
+      "text": "looks gulps and/or he scampers down the"
+    },
+    {
+      "start_time": "00:20:04,159",
+      "end_time": "00:20:07,129",
+      "text": "wooden rickety stairs on the other side"
+    },
+    {
+      "start_time": "00:20:05,450",
+      "end_time": "00:20:08,690",
+      "text": "and opens the man he doesn't open like"
+    },
+    {
+      "start_time": "00:20:07,129",
+      "end_time": "00:20:10,639",
+      "text": "the main gate but he basically opens the"
+    },
+    {
+      "start_time": "00:20:08,690",
+      "end_time": "00:20:13,039",
+      "text": "man gate right beside it's okay the"
+    },
+    {
+      "start_time": "00:20:10,639",
+      "end_time": "00:20:15,409",
+      "text": "single door opens and Simon and Ed Burt"
+    },
+    {
+      "start_time": "00:20:13,039",
+      "end_time": "00:20:17,719",
+      "text": "steal inside right away they can see"
+    },
+    {
+      "start_time": "00:20:15,409",
+      "end_time": "00:20:19,969",
+      "text": "that the bustling peaceful town of"
+    },
+    {
+      "start_time": "00:20:17,719",
+      "end_time": "00:20:22,159",
+      "text": "Hoonah Torah is in chaos there are shops"
+    },
+    {
+      "start_time": "00:20:19,969",
+      "end_time": "00:20:23,299",
+      "text": "on fire there are people criss cross"
+    },
+    {
+      "start_time": "00:20:22,159",
+      "end_time": "00:20:25,129",
+      "text": "from the roads running back and forth"
+    },
+    {
+      "start_time": "00:20:23,299",
+      "end_time": "00:20:26,869",
+      "text": "there's the sound of screaming there's"
+    },
+    {
+      "start_time": "00:20:25,129",
+      "end_time": "00:20:28,309",
+      "text": "the sound of crying children there's the"
+    },
+    {
+      "start_time": "00:20:26,869",
+      "end_time": "00:20:30,200",
+      "text": "sound of wailing women there's a sound"
+    },
+    {
+      "start_time": "00:20:28,309",
+      "end_time": "00:20:32,149",
+      "text": "of combat you know obviously some people"
+    },
+    {
+      "start_time": "00:20:30,200",
+      "end_time": "00:20:32,509",
+      "text": "are fighting these cultists it's total"
+    },
+    {
+      "start_time": "00:20:32,149",
+      "end_time": "00:20:34,070",
+      "text": "chaos"
+    },
+    {
+      "start_time": "00:20:32,509",
+      "end_time": "00:20:35,779",
+      "text": "Simon Says the guard when is the"
+    },
+    {
+      "start_time": "00:20:34,070",
+      "end_time": "00:20:37,099",
+      "text": "fighting most heavily concentrated where"
+    },
+    {
+      "start_time": "00:20:35,779",
+      "end_time": "00:20:38,419",
+      "text": "did what did the cultists come from I"
+    },
+    {
+      "start_time": "00:20:37,099",
+      "end_time": "00:20:39,919",
+      "text": "don't think this guard has any idea"
+    },
+    {
+      "start_time": "00:20:38,419",
+      "end_time": "00:20:42,529",
+      "text": "about like what's going on I think maybe"
+    },
+    {
+      "start_time": "00:20:39,919",
+      "end_time": "00:20:45,769",
+      "text": "he was I think he was on duty and chaos"
+    },
+    {
+      "start_time": "00:20:42,529",
+      "end_time": "00:20:47,359",
+      "text": "erupted and that's that so I think it's"
+    },
+    {
+      "start_time": "00:20:45,769",
+      "end_time": "00:20:48,919",
+      "text": "very unlikely this guard does this guard"
+    },
+    {
+      "start_time": "00:20:47,359",
+      "end_time": "00:20:50,629",
+      "text": "know anything about where these cultists"
+    },
+    {
+      "start_time": "00:20:48,919",
+      "end_time": "00:20:52,459",
+      "text": "came from the answer is 8:00 at night he"
+    },
+    {
+      "start_time": "00:20:50,629",
+      "end_time": "00:20:55,849",
+      "text": "does not he kind of shrugs it Simon Says"
+    },
+    {
+      "start_time": "00:20:52,459",
+      "end_time": "00:20:58,309",
+      "text": "but I don't know I have no idea I was"
+    },
+    {
+      "start_time": "00:20:55,849",
+      "end_time": "00:21:00,079",
+      "text": "just done on duty in about an hour ago"
+    },
+    {
+      "start_time": "00:20:58,309",
+      "end_time": "00:21:02,329",
+      "text": "they started up but I know that they"
+    },
+    {
+      "start_time": "00:21:00,079",
+      "end_time": "00:21:03,969",
+      "text": "they attack the Lord Mayor's house right"
+    },
+    {
+      "start_time": "00:21:02,329",
+      "end_time": "00:21:06,979",
+      "text": "they make their way through the streets"
+    },
+    {
+      "start_time": "00:21:03,969",
+      "end_time": "00:21:08,809",
+      "text": "going towards the large manor house in"
+    },
+    {
+      "start_time": "00:21:06,979",
+      "end_time": "00:21:10,339",
+      "text": "the center of the town it would be it"
+    },
+    {
+      "start_time": "00:21:08,809",
+      "end_time": "00:21:12,499",
+      "text": "would have a small sort of retaining"
+    },
+    {
+      "start_time": "00:21:10,339",
+      "end_time": "00:21:13,969",
+      "text": "wall around it it's set on a simple Hill"
+    },
+    {
+      "start_time": "00:21:12,499",
+      "end_time": "00:21:15,889",
+      "text": "in the centre of the town that commands"
+    },
+    {
+      "start_time": "00:21:13,969",
+      "end_time": "00:21:17,450",
+      "text": "a nice view not only of the harbor but"
+    },
+    {
+      "start_time": "00:21:15,889",
+      "end_time": "00:21:19,399",
+      "text": "of the the surrounding countryside as"
+    },
+    {
+      "start_time": "00:21:17,450",
+      "end_time": "00:21:21,379",
+      "text": "well they make their way through the"
+    },
+    {
+      "start_time": "00:21:19,399",
+      "end_time": "00:21:23,959",
+      "text": "streets of hoon datura try not to engage"
+    },
+    {
+      "start_time": "00:21:21,379",
+      "end_time": "00:21:26,539",
+      "text": "in any strange cultists do they engage"
+    },
+    {
+      "start_time": "00:21:23,959",
+      "end_time": "00:21:29,029",
+      "text": "do they come across any cultists that"
+    },
+    {
+      "start_time": "00:21:26,539",
+      "end_time": "00:21:31,969",
+      "text": "might attack them well it's it's I'd say"
+    },
+    {
+      "start_time": "00:21:29,029",
+      "end_time": "00:21:35,509",
+      "text": "it's somewhat likely I mean it's pretty"
+    },
+    {
+      "start_time": "00:21:31,969",
+      "end_time": "00:21:40,639",
+      "text": "crazy right now 99 is actually an"
+    },
+    {
+      "start_time": "00:21:35,509",
+      "end_time": "00:21:43,969",
+      "text": "extreme no so they do not see any cult"
+    },
+    {
+      "start_time": "00:21:40,639",
+      "end_time": "00:21:45,379",
+      "text": "as what they do see is the product of"
+    },
+    {
+      "start_time": "00:21:43,969",
+      "end_time": "00:21:47,779",
+      "text": "the cultists work so they see a lot of"
+    },
+    {
+      "start_time": "00:21:45,379",
+      "end_time": "00:21:50,509",
+      "text": "dead town's folk they see a lot of like"
+    },
+    {
+      "start_time": "00:21:47,779",
+      "end_time": "00:21:52,849",
+      "text": "as I said burning shops carts overturned"
+    },
+    {
+      "start_time": "00:21:50,509",
+      "end_time": "00:21:54,499",
+      "text": "screaming horses attached to burning"
+    },
+    {
+      "start_time": "00:21:52,849",
+      "end_time": "00:21:55,940",
+      "text": "cars as they trample through the streets"
+    },
+    {
+      "start_time": "00:21:54,499",
+      "end_time": "00:21:57,709",
+      "text": "but they don't see any cultists"
+    },
+    {
+      "start_time": "00:21:55,940",
+      "end_time": "00:22:00,589",
+      "text": "themselves so they make their way all"
+    },
+    {
+      "start_time": "00:21:57,709",
+      "end_time": "00:22:02,119",
+      "text": "the way to the manor house in the center"
+    },
+    {
+      "start_time": "00:22:00,589",
+      "end_time": "00:22:04,519",
+      "text": "of town I think I need to know something"
+    },
+    {
+      "start_time": "00:22:02,119",
+      "end_time": "00:22:07,429",
+      "text": "about this cult now what is this cult"
+    },
+    {
+      "start_time": "00:22:04,519",
+      "end_time": "00:22:09,349",
+      "text": "all about I suggested that perhaps it is"
+    },
+    {
+      "start_time": "00:22:07,429",
+      "end_time": "00:22:10,849",
+      "text": "connected to the necromancers in the"
+    },
+    {
+      "start_time": "00:22:09,349",
+      "end_time": "00:22:12,379",
+      "text": "temple but I don't know if that's the"
+    },
+    {
+      "start_time": "00:22:10,849",
+      "end_time": "00:22:13,579",
+      "text": "case it might not be it might be"
+    },
+    {
+      "start_time": "00:22:12,379",
+      "end_time": "00:22:15,130",
+      "text": "something totally different this might"
+    },
+    {
+      "start_time": "00:22:13,579",
+      "end_time": "00:22:17,970",
+      "text": "be a political thing this"
+    },
+    {
+      "start_time": "00:22:15,130",
+      "end_time": "00:22:24,010",
+      "text": "who can say this cult is all about 22b"
+    },
+    {
+      "start_time": "00:22:17,970",
+      "end_time": "00:22:26,260",
+      "text": "friend 93 befriend whether I think that"
+    },
+    {
+      "start_time": "00:22:24,010",
+      "end_time": "00:22:28,450",
+      "text": "these guys are like basically they"
+    },
+    {
+      "start_time": "00:22:26,260",
+      "end_time": "00:22:30,400",
+      "text": "worship the storm itself and they're"
+    },
+    {
+      "start_time": "00:22:28,450",
+      "end_time": "00:22:32,770",
+      "text": "calling upon the storm I think that"
+    },
+    {
+      "start_time": "00:22:30,400",
+      "end_time": "00:22:34,630",
+      "text": "maybe they are worshipping some dark"
+    },
+    {
+      "start_time": "00:22:32,770",
+      "end_time": "00:22:37,390",
+      "text": "aspect of morges to see God or even"
+    },
+    {
+      "start_time": "00:22:34,630",
+      "end_time": "00:22:40,300",
+      "text": "better they are worshipping more gases"
+    },
+    {
+      "start_time": "00:22:37,390",
+      "end_time": "00:22:42,520",
+      "text": "opposite in the pantheon so if morges is"
+    },
+    {
+      "start_time": "00:22:40,300",
+      "end_time": "00:22:44,710",
+      "text": "the god of sailors and the god of"
+    },
+    {
+      "start_time": "00:22:42,520",
+      "end_time": "00:22:47,470",
+      "text": "weather I think that these cultists are"
+    },
+    {
+      "start_time": "00:22:44,710",
+      "end_time": "00:22:49,900",
+      "text": "worshipping a god or goddess that"
+    },
+    {
+      "start_time": "00:22:47,470",
+      "end_time": "00:22:51,790",
+      "text": "represents the destructive force of"
+    },
+    {
+      "start_time": "00:22:49,900",
+      "end_time": "00:22:54,010",
+      "text": "nature that's kind of cool actually"
+    },
+    {
+      "start_time": "00:22:51,790",
+      "end_time": "00:22:57,100",
+      "text": "it is a female it is a goddess the"
+    },
+    {
+      "start_time": "00:22:54,010",
+      "end_time": "00:22:58,840",
+      "text": "goddess of the storm the destructive"
+    },
+    {
+      "start_time": "00:22:57,100",
+      "end_time": "00:23:01,360",
+      "text": "power of the sea and I think these"
+    },
+    {
+      "start_time": "00:22:58,840",
+      "end_time": "00:23:03,610",
+      "text": "cultists have been secretly worshipping"
+    },
+    {
+      "start_time": "00:23:01,360",
+      "end_time": "00:23:05,950",
+      "text": "this goddess hoping to bring her wrath"
+    },
+    {
+      "start_time": "00:23:03,610",
+      "end_time": "00:23:07,540",
+      "text": "upon this town and and specifically upon"
+    },
+    {
+      "start_time": "00:23:05,950",
+      "end_time": "00:23:09,460",
+      "text": "the harbor in the ships and the temple"
+    },
+    {
+      "start_time": "00:23:07,540",
+      "end_time": "00:23:12,100",
+      "text": "of morges as well because morges and"
+    },
+    {
+      "start_time": "00:23:09,460",
+      "end_time": "00:23:14,200",
+      "text": "discuss our diametric opposite their"
+    },
+    {
+      "start_time": "00:23:12,100",
+      "end_time": "00:23:16,990",
+      "text": "their enemies so what is the name of"
+    },
+    {
+      "start_time": "00:23:14,200",
+      "end_time": "00:23:18,520",
+      "text": "this goddess something cool davana"
+    },
+    {
+      "start_time": "00:23:16,990",
+      "end_time": "00:23:22,210",
+      "text": "ah that's kind of cool actually the"
+    },
+    {
+      "start_time": "00:23:18,520",
+      "end_time": "00:23:24,580",
+      "text": "sailors scourge Simon and edwart appear"
+    },
+    {
+      "start_time": "00:23:22,210",
+      "end_time": "00:23:28,150",
+      "text": "on the very steps of the town masters"
+    },
+    {
+      "start_time": "00:23:24,580",
+      "end_time": "00:23:29,680",
+      "text": "Hall I think what they see there is the"
+    },
+    {
+      "start_time": "00:23:28,150",
+      "end_time": "00:23:32,620",
+      "text": "guard the guards in front of in slang"
+    },
+    {
+      "start_time": "00:23:29,680",
+      "end_time": "00:23:34,690",
+      "text": "did the cultists actually originate"
+    },
+    {
+      "start_time": "00:23:32,620",
+      "end_time": "00:23:36,610",
+      "text": "their attack from the town masters Hall"
+    },
+    {
+      "start_time": "00:23:34,690",
+      "end_time": "00:23:38,860",
+      "text": "did they like dig their way through"
+    },
+    {
+      "start_time": "00:23:36,610",
+      "end_time": "00:23:40,570",
+      "text": "basically from some sea cave on the"
+    },
+    {
+      "start_time": "00:23:38,860",
+      "end_time": "00:23:41,980",
+      "text": "outskirts of town that's kind of cool"
+    },
+    {
+      "start_time": "00:23:40,570",
+      "end_time": "00:23:44,080",
+      "text": "actually yeah let's go out somewhat"
+    },
+    {
+      "start_time": "00:23:41,980",
+      "end_time": "00:23:47,890",
+      "text": "likely did they do that in fact 98 they"
+    },
+    {
+      "start_time": "00:23:44,080",
+      "end_time": "00:23:50,620",
+      "text": "did not so they didn't do that so this"
+    },
+    {
+      "start_time": "00:23:47,890",
+      "end_time": "00:23:52,390",
+      "text": "is in fact not then the center of where"
+    },
+    {
+      "start_time": "00:23:50,620",
+      "end_time": "00:23:54,850",
+      "text": "they came but this is certainly a place"
+    },
+    {
+      "start_time": "00:23:52,390",
+      "end_time": "00:23:57,640",
+      "text": "where they struck is there anybody left"
+    },
+    {
+      "start_time": "00:23:54,850",
+      "end_time": "00:23:59,710",
+      "text": "alive inside I'm gonna say it's very"
+    },
+    {
+      "start_time": "00:23:57,640",
+      "end_time": "00:24:04,360",
+      "text": "unlikely that there's anybody left alive"
+    },
+    {
+      "start_time": "00:23:59,710",
+      "end_time": "00:24:05,890",
+      "text": "inside 66 is a no and it is also under"
+    },
+    {
+      "start_time": "00:24:04,360",
+      "end_time": "00:24:08,530",
+      "text": "our chaos factor which means we have an"
+    },
+    {
+      "start_time": "00:24:05,890",
+      "end_time": "00:24:13,030",
+      "text": "interrupt scene so everybody in that"
+    },
+    {
+      "start_time": "00:24:08,530",
+      "end_time": "00:24:16,020",
+      "text": "whole town masters Manor are dead"
+    },
+    {
+      "start_time": "00:24:13,030",
+      "end_time": "00:24:17,850",
+      "text": "they've been slain servants"
+    },
+    {
+      "start_time": "00:24:16,020",
+      "end_time": "00:24:19,950",
+      "text": "the town masters themselves their"
+    },
+    {
+      "start_time": "00:24:17,850",
+      "end_time": "00:24:22,020",
+      "text": "families it's a brutal brutal brutal"
+    },
+    {
+      "start_time": "00:24:19,950",
+      "end_time": "00:24:23,670",
+      "text": "slaughterhouse however we have an inter"
+    },
+    {
+      "start_time": "00:24:22,020",
+      "end_time": "00:24:25,980",
+      "text": "up scene as Simon and edwart are"
+    },
+    {
+      "start_time": "00:24:23,670",
+      "end_time": "00:24:34,650",
+      "text": "approaching now the interrupt scene on"
+    },
+    {
+      "start_time": "00:24:25,980",
+      "end_time": "00:24:36,360",
+      "text": "the horror chart focus horror NPC this"
+    },
+    {
+      "start_time": "00:24:34,650",
+      "end_time": "00:24:38,820",
+      "text": "is a special focus event on the horror"
+    },
+    {
+      "start_time": "00:24:36,360",
+      "end_time": "00:24:41,310",
+      "text": "chart so this means something horrific"
+    },
+    {
+      "start_time": "00:24:38,820",
+      "end_time": "00:24:43,530",
+      "text": "happens to one of our NPCs so we have"
+    },
+    {
+      "start_time": "00:24:41,310",
+      "end_time": "00:24:45,270",
+      "text": "seven possibilities here out of all the"
+    },
+    {
+      "start_time": "00:24:43,530",
+      "end_time": "00:24:48,930",
+      "text": "characters so I'm gonna roll the d8 a"
+    },
+    {
+      "start_time": "00:24:45,270",
+      "end_time": "00:24:52,110",
+      "text": "six Oh interesting they steal their way"
+    },
+    {
+      "start_time": "00:24:48,930",
+      "end_time": "00:24:53,910",
+      "text": "into this manor house dead bodies are"
+    },
+    {
+      "start_time": "00:24:52,110",
+      "end_time": "00:24:56,910",
+      "text": "everywhere these people have been"
+    },
+    {
+      "start_time": "00:24:53,910",
+      "end_time": "00:24:59,790",
+      "text": "butchered it is a charnel house it is is"
+    },
+    {
+      "start_time": "00:24:56,910",
+      "end_time": "00:25:01,830",
+      "text": "a Gore charnel carnal car I always said"
+    },
+    {
+      "start_time": "00:24:59,790",
+      "end_time": "00:25:03,300",
+      "text": "carnal but I think it's charnel I've got"
+    },
+    {
+      "start_time": "00:25:01,830",
+      "end_time": "00:25:05,400",
+      "text": "ever damming the sections of the yard"
+    },
+    {
+      "start_time": "00:25:03,300",
+      "end_time": "00:25:06,780",
+      "text": "are on fire as they kind of go and they"
+    },
+    {
+      "start_time": "00:25:05,400",
+      "end_time": "00:25:09,210",
+      "text": "make their way through the burning yard"
+    },
+    {
+      "start_time": "00:25:06,780",
+      "end_time": "00:25:11,430",
+      "text": "and they get to that the doubled or is"
+    },
+    {
+      "start_time": "00:25:09,210",
+      "end_time": "00:25:13,020",
+      "text": "it a swinging opening look in the breeze"
+    },
+    {
+      "start_time": "00:25:11,430",
+      "end_time": "00:25:15,900",
+      "text": "it's the night breeze that's blowing in"
+    },
+    {
+      "start_time": "00:25:13,020",
+      "end_time": "00:25:18,390",
+      "text": "off the sea whipping up the fires in"
+    },
+    {
+      "start_time": "00:25:15,900",
+      "end_time": "00:25:20,250",
+      "text": "other parts of the town still the sounds"
+    },
+    {
+      "start_time": "00:25:18,390",
+      "end_time": "00:25:23,160",
+      "text": "of chaos behind them but inside the"
+    },
+    {
+      "start_time": "00:25:20,250",
+      "end_time": "00:25:25,350",
+      "text": "house total silence they go inside the"
+    },
+    {
+      "start_time": "00:25:23,160",
+      "end_time": "00:25:28,380",
+      "text": "step insides of the main foyer area the"
+    },
+    {
+      "start_time": "00:25:25,350",
+      "end_time": "00:25:30,990",
+      "text": "main entrance chamber large chamber with"
+    },
+    {
+      "start_time": "00:25:28,380",
+      "end_time": "00:25:32,520",
+      "text": "a double sort of colonnaded staircase"
+    },
+    {
+      "start_time": "00:25:30,990",
+      "end_time": "00:25:34,380",
+      "text": "going up to a massive landing in front"
+    },
+    {
+      "start_time": "00:25:32,520",
+      "end_time": "00:25:36,780",
+      "text": "of them exits off to the right and left"
+    },
+    {
+      "start_time": "00:25:34,380",
+      "end_time": "00:25:38,070",
+      "text": "there they can see some of the serving"
+    },
+    {
+      "start_time": "00:25:36,780",
+      "end_time": "00:25:40,380",
+      "text": "staff slumped over"
+    },
+    {
+      "start_time": "00:25:38,070",
+      "end_time": "00:25:42,900",
+      "text": "SETI's and chairs and things their"
+    },
+    {
+      "start_time": "00:25:40,380",
+      "end_time": "00:25:47,340",
+      "text": "throats cut blood everywhere it's just a"
+    },
+    {
+      "start_time": "00:25:42,900",
+      "end_time": "00:25:49,800",
+      "text": "scene of total well horror what is the"
+    },
+    {
+      "start_time": "00:25:47,340",
+      "end_time": "00:25:58,110",
+      "text": "nature of the horror the nature of the"
+    },
+    {
+      "start_time": "00:25:49,800",
+      "end_time": "00:26:00,420",
+      "text": "horror is 67 open 65 open intrigues oh"
+    },
+    {
+      "start_time": "00:25:58,110",
+      "end_time": "00:26:03,090",
+      "text": "that's it they slowly make their way up"
+    },
+    {
+      "start_time": "00:26:00,420",
+      "end_time": "00:26:04,830",
+      "text": "these the two staircases to the balcony"
+    },
+    {
+      "start_time": "00:26:03,090",
+      "end_time": "00:26:06,360",
+      "text": "overlooking the foyer and behind them"
+    },
+    {
+      "start_time": "00:26:04,830",
+      "end_time": "00:26:08,370",
+      "text": "they can see another chamber that's"
+    },
+    {
+      "start_time": "00:26:06,360",
+      "end_time": "00:26:10,800",
+      "text": "going off and they can see as soon as"
+    },
+    {
+      "start_time": "00:26:08,370",
+      "end_time": "00:26:14,250",
+      "text": "they get up to that top level their feet"
+    },
+    {
+      "start_time": "00:26:10,800",
+      "end_time": "00:26:16,620",
+      "text": "start splashing on water and they look"
+    },
+    {
+      "start_time": "00:26:14,250",
+      "end_time": "00:26:18,870",
+      "text": "down and they see that there's like a"
+    },
+    {
+      "start_time": "00:26:16,620",
+      "end_time": "00:26:22,110",
+      "text": "river of water like a like a giant"
+    },
+    {
+      "start_time": "00:26:18,870",
+      "end_time": "00:26:24,930",
+      "text": "puddle that seems to be flowing from the"
+    },
+    {
+      "start_time": "00:26:22,110",
+      "end_time": "00:26:27,270",
+      "text": "corridor behind them on the second level"
+    },
+    {
+      "start_time": "00:26:24,930",
+      "end_time": "00:26:27,480",
+      "text": "flowing out of one particular room and"
+    },
+    {
+      "start_time": "00:26:27,270",
+      "end_time": "00:26:31,470",
+      "text": "it's"
+    },
+    {
+      "start_time": "00:26:27,480",
+      "end_time": "00:26:35,880",
+      "text": "flowing out and over the the overhang"
+    },
+    {
+      "start_time": "00:26:31,470",
+      "end_time": "00:26:36,840",
+      "text": "dripping dripping get down into the"
+    },
+    {
+      "start_time": "00:26:35,880",
+      "end_time": "00:26:39,419",
+      "text": "foyer entrance"
+    },
+    {
+      "start_time": "00:26:36,840",
+      "end_time": "00:26:42,059",
+      "text": "we may be dripping down onto the head of"
+    },
+    {
+      "start_time": "00:26:39,419",
+      "end_time": "00:26:44,159",
+      "text": "a of a dead servant to the water hits"
+    },
+    {
+      "start_time": "00:26:42,059",
+      "end_time": "00:26:47,549",
+      "text": "the disservice head mixing with his"
+    },
+    {
+      "start_time": "00:26:44,159",
+      "end_time": "00:26:48,870",
+      "text": "blood and running down to faith they"
+    },
+    {
+      "start_time": "00:26:47,549",
+      "end_time": "00:26:52,139",
+      "text": "turned on the hallway"
+    },
+    {
+      "start_time": "00:26:48,870",
+      "end_time": "00:26:54,240",
+      "text": "and they slowly make their way down the"
+    },
+    {
+      "start_time": "00:26:52,139",
+      "end_time": "00:26:56,159",
+      "text": "hallway weapons drawn of course actually"
+    },
+    {
+      "start_time": "00:26:54,240",
+      "end_time": "00:26:59,789",
+      "text": "at this point ed Burt kind of pulls out"
+    },
+    {
+      "start_time": "00:26:56,159",
+      "end_time": "00:27:01,850",
+      "text": "the crossbow stone bolt and presses it"
+    },
+    {
+      "start_time": "00:26:59,789",
+      "end_time": "00:27:04,019",
+      "text": "into Simon's hands Simon what is this I"
+    },
+    {
+      "start_time": "00:27:01,850",
+      "end_time": "00:27:06,260",
+      "text": "found this in the temple I think you"
+    },
+    {
+      "start_time": "00:27:04,019",
+      "end_time": "00:27:10,169",
+      "text": "might find some use out of it"
+    },
+    {
+      "start_time": "00:27:06,260",
+      "end_time": "00:27:11,190",
+      "text": "alrighty loads it up with a bolt he"
+    },
+    {
+      "start_time": "00:27:10,169",
+      "end_time": "00:27:12,330",
+      "text": "doesn't have a lot of bolts right now he"
+    },
+    {
+      "start_time": "00:27:11,190",
+      "end_time": "00:27:13,740",
+      "text": "hasn't had a chance to by the boob will"
+    },
+    {
+      "start_time": "00:27:12,330",
+      "end_time": "00:27:15,539",
+      "text": "say he's got a couple it's got a handful"
+    },
+    {
+      "start_time": "00:27:13,740",
+      "end_time": "00:27:18,840",
+      "text": "so loaded crossbow he begins to move"
+    },
+    {
+      "start_time": "00:27:15,539",
+      "end_time": "00:27:21,809",
+      "text": "down the corridor and as they come"
+    },
+    {
+      "start_time": "00:27:18,840",
+      "end_time": "00:27:23,130",
+      "text": "around the corner of where the water is"
+    },
+    {
+      "start_time": "00:27:21,809",
+      "end_time": "00:27:25,919",
+      "text": "coming they look and there's like a"
+    },
+    {
+      "start_time": "00:27:23,130",
+      "end_time": "00:27:28,200",
+      "text": "large like a large bathroom and there's"
+    },
+    {
+      "start_time": "00:27:25,919",
+      "end_time": "00:27:30,659",
+      "text": "a large stone bath and in the bath the"
+    },
+    {
+      "start_time": "00:27:28,200",
+      "end_time": "00:27:34,080",
+      "text": "water is sloshing out over and there"
+    },
+    {
+      "start_time": "00:27:30,659",
+      "end_time": "00:27:37,019",
+      "text": "they can see an arm draped over the side"
+    },
+    {
+      "start_time": "00:27:34,080",
+      "end_time": "00:27:40,380",
+      "text": "and they come up and again water"
+    },
+    {
+      "start_time": "00:27:37,019",
+      "end_time": "00:27:43,350",
+      "text": "spilling over and you know pouring down"
+    },
+    {
+      "start_time": "00:27:40,380",
+      "end_time": "00:27:46,169",
+      "text": "the hallway and they go up and they look"
+    },
+    {
+      "start_time": "00:27:43,350",
+      "end_time": "00:27:48,690",
+      "text": "inside and the arm attached to a body"
+    },
+    {
+      "start_time": "00:27:46,169",
+      "end_time": "00:27:50,909",
+      "text": "and the body underneath the water drown"
+    },
+    {
+      "start_time": "00:27:48,690",
+      "end_time": "00:27:54,690",
+      "text": "bloated with water and they can see"
+    },
+    {
+      "start_time": "00:27:50,909",
+      "end_time": "00:27:56,700",
+      "text": "there is North the friendly merchant"
+    },
+    {
+      "start_time": "00:27:54,690",
+      "end_time": "00:27:59,730",
+      "text": "because that's who I rolled on the"
+    },
+    {
+      "start_time": "00:27:56,700",
+      "end_time": "00:28:01,529",
+      "text": "target of the NPC horror North the"
+    },
+    {
+      "start_time": "00:27:59,730",
+      "end_time": "00:28:04,710",
+      "text": "friendly merchants bloated his carcass"
+    },
+    {
+      "start_time": "00:28:01,529",
+      "end_time": "00:28:06,539",
+      "text": "lying there blood pooling in the water"
+    },
+    {
+      "start_time": "00:28:04,710",
+      "end_time": "00:28:10,740",
+      "text": "all of his internal organs they're sort"
+    },
+    {
+      "start_time": "00:28:06,539",
+      "end_time": "00:28:13,639",
+      "text": "of have been exposed by a large cut and"
+    },
+    {
+      "start_time": "00:28:10,740",
+      "end_time": "00:28:15,990",
+      "text": "it's it's this horrifying thing and"
+    },
+    {
+      "start_time": "00:28:13,639",
+      "end_time": "00:28:18,110",
+      "text": "Simon looks and he kind of has to look"
+    },
+    {
+      "start_time": "00:28:15,990",
+      "end_time": "00:28:22,679",
+      "text": "away immediately North has been"
+    },
+    {
+      "start_time": "00:28:18,110",
+      "end_time": "00:28:25,799",
+      "text": "butchered he's been sacrificed to Davone"
+    },
+    {
+      "start_time": "00:28:22,679",
+      "end_time": "00:28:27,779",
+      "text": "ax why is he here maybe he had some"
+    },
+    {
+      "start_time": "00:28:25,799",
+      "end_time": "00:28:29,519",
+      "text": "business with the the town masters when"
+    },
+    {
+      "start_time": "00:28:27,779",
+      "end_time": "00:28:31,740",
+      "text": "the attack happened that's probably the"
+    },
+    {
+      "start_time": "00:28:29,519",
+      "end_time": "00:28:34,409",
+      "text": "case now they have sacrificed him and"
+    },
+    {
+      "start_time": "00:28:31,740",
+      "end_time": "00:28:36,059",
+      "text": "several other members influential"
+    },
+    {
+      "start_time": "00:28:34,409",
+      "end_time": "00:28:38,630",
+      "text": "members of the town to their dark"
+    },
+    {
+      "start_time": "00:28:36,059",
+      "end_time": "00:28:41,480",
+      "text": "goddess here's a question"
+    },
+    {
+      "start_time": "00:28:38,630",
+      "end_time": "00:28:42,650",
+      "text": "did they sacrifice these influential"
+    },
+    {
+      "start_time": "00:28:41,480",
+      "end_time": "00:28:44,570",
+      "text": "members of town"
+    },
+    {
+      "start_time": "00:28:42,650",
+      "end_time": "00:28:46,700",
+      "text": "- maybe summon this storm that's even"
+    },
+    {
+      "start_time": "00:28:44,570",
+      "end_time": "00:28:48,799",
+      "text": "now rolling off the sea and if that's"
+    },
+    {
+      "start_time": "00:28:46,700",
+      "end_time": "00:28:50,890",
+      "text": "the case which I think it is is the"
+    },
+    {
+      "start_time": "00:28:48,799",
+      "end_time": "00:28:53,510",
+      "text": "sacrifice of North sort of like a a"
+    },
+    {
+      "start_time": "00:28:50,890",
+      "end_time": "00:28:56,809",
+      "text": "pivotal moment in the sacrifice to bring"
+    },
+    {
+      "start_time": "00:28:53,510",
+      "end_time": "00:28:58,370",
+      "text": "the storm crashing down on the town I'm"
+    },
+    {
+      "start_time": "00:28:56,809",
+      "end_time": "00:29:00,770",
+      "text": "gonna say it's somewhat likely but it is"
+    },
+    {
+      "start_time": "00:28:58,370",
+      "end_time": "00:29:03,860",
+      "text": "somewhat likely the answer is zero one"
+    },
+    {
+      "start_time": "00:29:00,770",
+      "end_time": "00:29:06,890",
+      "text": "extreme yes extreme yes"
+    },
+    {
+      "start_time": "00:29:03,860",
+      "end_time": "00:29:09,049",
+      "text": "so unfortunately Simon and Ed Burt have"
+    },
+    {
+      "start_time": "00:29:06,890",
+      "end_time": "00:29:12,919",
+      "text": "got here too late as they look and they"
+    },
+    {
+      "start_time": "00:29:09,049",
+      "end_time": "00:29:15,549",
+      "text": "see the body of North floating his chest"
+    },
+    {
+      "start_time": "00:29:12,919",
+      "end_time": "00:29:18,770",
+      "text": "cut open in like like barn doors"
+    },
+    {
+      "start_time": "00:29:15,549",
+      "end_time": "00:29:21,650",
+      "text": "exposing all of the internal organs even"
+    },
+    {
+      "start_time": "00:29:18,770",
+      "end_time": "00:29:22,730",
+      "text": "now becoming choked and bloated and they"
+    },
+    {
+      "start_time": "00:29:21,650",
+      "end_time": "00:29:25,370",
+      "text": "sort of look at each other at that"
+    },
+    {
+      "start_time": "00:29:22,730",
+      "end_time": "00:29:28,850",
+      "text": "moment from outside there is a massive"
+    },
+    {
+      "start_time": "00:29:25,370",
+      "end_time": "00:29:30,049",
+      "text": "crash of of thunder and the flash of"
+    },
+    {
+      "start_time": "00:29:28,850",
+      "end_time": "00:29:31,820",
+      "text": "lightning and they kind of look out a"
+    },
+    {
+      "start_time": "00:29:30,049",
+      "end_time": "00:29:33,110",
+      "text": "window that looks as I said the the"
+    },
+    {
+      "start_time": "00:29:31,820",
+      "end_time": "00:29:34,549",
+      "text": "manor house has a commanding view of the"
+    },
+    {
+      "start_time": "00:29:33,110",
+      "end_time": "00:29:35,750",
+      "text": "town as well as the harbor and as they"
+    },
+    {
+      "start_time": "00:29:34,549",
+      "end_time": "00:29:39,260",
+      "text": "look out the window they can see the"
+    },
+    {
+      "start_time": "00:29:35,750",
+      "end_time": "00:29:42,200",
+      "text": "harbor and they're approaching in the"
+    },
+    {
+      "start_time": "00:29:39,260",
+      "end_time": "00:29:43,669",
+      "text": "darkness they hear at first they hear"
+    },
+    {
+      "start_time": "00:29:42,200",
+      "end_time": "00:29:46,799",
+      "text": "the rumble"
+    },
+    {
+      "start_time": "00:29:43,669",
+      "end_time": "00:29:48,360",
+      "text": "and as they turn and they look at they"
+    },
+    {
+      "start_time": "00:29:46,799",
+      "end_time": "00:29:50,880",
+      "text": "strain their eyes in the darkness to try"
+    },
+    {
+      "start_time": "00:29:48,360",
+      "end_time": "00:29:56,429",
+      "text": "and see over the burning town they can"
+    },
+    {
+      "start_time": "00:29:50,880",
+      "end_time": "00:30:00,179",
+      "text": "see it is a huge wave that is coming to"
+    },
+    {
+      "start_time": "00:29:56,429",
+      "end_time": "00:30:02,309",
+      "text": "engulf the town or is it containing"
+    },
+    {
+      "start_time": "00:30:00,179",
+      "end_time": "00:30:04,650",
+      "text": "monstrosity that are gonna burst out of"
+    },
+    {
+      "start_time": "00:30:02,309",
+      "end_time": "00:30:06,480",
+      "text": "the town very HP Lovecraft styled the"
+    },
+    {
+      "start_time": "00:30:04,650",
+      "end_time": "00:30:08,909",
+      "text": "creatures from underneath the sea coming"
+    },
+    {
+      "start_time": "00:30:06,480",
+      "end_time": "00:30:10,890",
+      "text": "to attack is it that is it just a"
+    },
+    {
+      "start_time": "00:30:08,909",
+      "end_time": "00:30:13,950",
+      "text": "regular tidal wave I think it's unlikely"
+    },
+    {
+      "start_time": "00:30:10,890",
+      "end_time": "00:30:17,970",
+      "text": "it's just a title it is it a tidal wave"
+    },
+    {
+      "start_time": "00:30:13,950",
+      "end_time": "00:30:20,090",
+      "text": "the answer is 22 ah ha ha so we have"
+    },
+    {
+      "start_time": "00:30:17,970",
+      "end_time": "00:30:22,770",
+      "text": "once again we have an event that"
+    },
+    {
+      "start_time": "00:30:20,090",
+      "end_time": "00:30:25,770",
+      "text": "interrupts the scene the answer is yes"
+    },
+    {
+      "start_time": "00:30:22,770",
+      "end_time": "00:30:27,779",
+      "text": "it is a massive tidal wave Simon Simon"
+    },
+    {
+      "start_time": "00:30:25,770",
+      "end_time": "00:30:31,080",
+      "text": "looks at Edward we've got to get out of"
+    },
+    {
+      "start_time": "00:30:27,779",
+      "end_time": "00:30:34,169",
+      "text": "here yeah I think you're right as this"
+    },
+    {
+      "start_time": "00:30:31,080",
+      "end_time": "00:30:36,539",
+      "text": "wave comes crashing in but before it"
+    },
+    {
+      "start_time": "00:30:34,169",
+      "end_time": "00:30:38,070",
+      "text": "does there is an interrupt event what is"
+    },
+    {
+      "start_time": "00:30:36,539",
+      "end_time": "00:30:41,820",
+      "text": "the nature of it we go back to our"
+    },
+    {
+      "start_time": "00:30:38,070",
+      "end_time": "00:30:43,470",
+      "text": "horror focus table and we're all 88"
+    },
+    {
+      "start_time": "00:30:41,820",
+      "end_time": "00:30:46,230",
+      "text": "which is doubles but that doesn't count"
+    },
+    {
+      "start_time": "00:30:43,470",
+      "end_time": "00:30:49,230",
+      "text": "for the purpose of this which is NPC"
+    },
+    {
+      "start_time": "00:30:46,230",
+      "end_time": "00:30:51,929",
+      "text": "negative so something bad happens to"
+    },
+    {
+      "start_time": "00:30:49,230",
+      "end_time": "00:30:54,270",
+      "text": "another NPC let's find out who that NPC"
+    },
+    {
+      "start_time": "00:30:51,929",
+      "end_time": "00:30:58,049",
+      "text": "is we're gonna roll our d6 to see which"
+    },
+    {
+      "start_time": "00:30:54,270",
+      "end_time": "00:30:59,700",
+      "text": "NPC it is 3 1 2 oh ok"
+    },
+    {
+      "start_time": "00:30:58,049",
+      "end_time": "00:31:01,080",
+      "text": "NPC Nick if something bad happens to"
+    },
+    {
+      "start_time": "00:30:59,700",
+      "end_time": "00:31:03,960",
+      "text": "this person that I just rolled what is"
+    },
+    {
+      "start_time": "00:31:01,080",
+      "end_time": "00:31:07,549",
+      "text": "the nature of that thing that happens as"
+    },
+    {
+      "start_time": "00:31:03,960",
+      "end_time": "00:31:09,779",
+      "text": "this ginormous tidal wave is coming"
+    },
+    {
+      "start_time": "00:31:07,549",
+      "end_time": "00:31:11,520",
+      "text": "crashing in over the town potentially"
+    },
+    {
+      "start_time": "00:31:09,779",
+      "end_time": "00:31:14,539",
+      "text": "about to wipe it out what is the nature"
+    },
+    {
+      "start_time": "00:31:11,520",
+      "end_time": "00:31:20,700",
+      "text": "of the bad thing that happens divide"
+    },
+    {
+      "start_time": "00:31:14,539",
+      "end_time": "00:31:24,210",
+      "text": "allies NPC negative divided a lies oh"
+    },
+    {
+      "start_time": "00:31:20,700",
+      "end_time": "00:31:26,250",
+      "text": "yeah yeah so what happens is Simon and"
+    },
+    {
+      "start_time": "00:31:24,210",
+      "end_time": "00:31:27,990",
+      "text": "edwart are standing in the window of"
+    },
+    {
+      "start_time": "00:31:26,250",
+      "end_time": "00:31:29,309",
+      "text": "this bathroom on the second floor of"
+    },
+    {
+      "start_time": "00:31:27,990",
+      "end_time": "00:31:30,960",
+      "text": "this manor house looking out they see"
+    },
+    {
+      "start_time": "00:31:29,309",
+      "end_time": "00:31:32,190",
+      "text": "this massive tidal wave coming in they"
+    },
+    {
+      "start_time": "00:31:30,960",
+      "end_time": "00:31:33,750",
+      "text": "look to each other we gotta get out of"
+    },
+    {
+      "start_time": "00:31:32,190",
+      "end_time": "00:31:34,559",
+      "text": "here you know yeah I take it right but"
+    },
+    {
+      "start_time": "00:31:33,750",
+      "end_time": "00:31:37,950",
+      "text": "at that moment"
+    },
+    {
+      "start_time": "00:31:34,559",
+      "end_time": "00:31:40,230",
+      "text": "Simon looks down and he sees the in the"
+    },
+    {
+      "start_time": "00:31:37,950",
+      "end_time": "00:31:42,000",
+      "text": "in at the edge of the water and people"
+    },
+    {
+      "start_time": "00:31:40,230",
+      "end_time": "00:31:44,130",
+      "text": "are streaming out of it but he also sees"
+    },
+    {
+      "start_time": "00:31:42,000",
+      "end_time": "00:31:46,500",
+      "text": "cultists coming in cult is beginning to"
+    },
+    {
+      "start_time": "00:31:44,130",
+      "end_time": "00:31:47,640",
+      "text": "set fire to it there's several staff of"
+    },
+    {
+      "start_time": "00:31:46,500",
+      "end_time": "00:31:48,899",
+      "text": "the end that are fighting off these"
+    },
+    {
+      "start_time": "00:31:47,640",
+      "end_time": "00:31:50,399",
+      "text": "cultists are trying to they're getting"
+    },
+    {
+      "start_time": "00:31:48,899",
+      "end_time": "00:31:52,470",
+      "text": "killed these cultists I think are in"
+    },
+    {
+      "start_time": "00:31:50,399",
+      "end_time": "00:31:53,610",
+      "text": "some like some dark blue robes they've"
+    },
+    {
+      "start_time": "00:31:52,470",
+      "end_time": "00:31:55,200",
+      "text": "got these long"
+    },
+    {
+      "start_time": "00:31:53,610",
+      "end_time": "00:31:58,500",
+      "text": "and there you know it's just it's just"
+    },
+    {
+      "start_time": "00:31:55,200",
+      "end_time": "00:32:03,120",
+      "text": "butchery but coming out of that in he"
+    },
+    {
+      "start_time": "00:31:58,500",
+      "end_time": "00:32:06,600",
+      "text": "can see Arn the Bounty Hunter but as he"
+    },
+    {
+      "start_time": "00:32:03,120",
+      "end_time": "00:32:09,060",
+      "text": "does self divided allies ed Bert points"
+    },
+    {
+      "start_time": "00:32:06,600",
+      "end_time": "00:32:10,800",
+      "text": "down to him I know that man I met him in"
+    },
+    {
+      "start_time": "00:32:09,060",
+      "end_time": "00:32:12,840",
+      "text": "the in the end the other night yes I"
+    },
+    {
+      "start_time": "00:32:10,800",
+      "end_time": "00:32:14,310",
+      "text": "know that man to it but and I say we let"
+    },
+    {
+      "start_time": "00:32:12,840",
+      "end_time": "00:32:16,800",
+      "text": "him drown we need to get out of here"
+    },
+    {
+      "start_time": "00:32:14,310",
+      "end_time": "00:32:18,840",
+      "text": "no no that man I think that man could be"
+    },
+    {
+      "start_time": "00:32:16,800",
+      "end_time": "00:32:20,340",
+      "text": "a great help to us in fact I was"
+    },
+    {
+      "start_time": "00:32:18,840",
+      "end_time": "00:32:22,080",
+      "text": "thinking about coming back and trying to"
+    },
+    {
+      "start_time": "00:32:20,340",
+      "end_time": "00:32:24,150",
+      "text": "find him actually I think he could be"
+    },
+    {
+      "start_time": "00:32:22,080",
+      "end_time": "00:32:26,640",
+      "text": "just the person we need to get in that"
+    },
+    {
+      "start_time": "00:32:24,150",
+      "end_time": "00:32:28,190",
+      "text": "temple again what art is a bounty hunter"
+    },
+    {
+      "start_time": "00:32:26,640",
+      "end_time": "00:32:30,510",
+      "text": "he knows nothing at all about the"
+    },
+    {
+      "start_time": "00:32:28,190",
+      "end_time": "00:32:33,030",
+      "text": "magical barriers world necromantic"
+    },
+    {
+      "start_time": "00:32:30,510",
+      "end_time": "00:32:34,830",
+      "text": "temples believe me Simon he said a few"
+    },
+    {
+      "start_time": "00:32:33,030",
+      "end_time": "00:32:36,300",
+      "text": "things to me in a common room that makes"
+    },
+    {
+      "start_time": "00:32:34,830",
+      "end_time": "00:32:37,950",
+      "text": "me think that he might in fact be the"
+    },
+    {
+      "start_time": "00:32:36,300",
+      "end_time": "00:32:39,600",
+      "text": "man to do this stuff at this moment this"
+    },
+    {
+      "start_time": "00:32:37,950",
+      "end_time": "00:32:41,220",
+      "text": "is a tidal wave is coming closer and"
+    },
+    {
+      "start_time": "00:32:39,600",
+      "end_time": "00:32:43,050",
+      "text": "closer it's getting a louder and louder"
+    },
+    {
+      "start_time": "00:32:41,220",
+      "end_time": "00:32:44,610",
+      "text": "Simon since there's no time for this man"
+    },
+    {
+      "start_time": "00:32:43,050",
+      "end_time": "00:32:46,470",
+      "text": "we have to get out of here I didn't come"
+    },
+    {
+      "start_time": "00:32:44,610",
+      "end_time": "00:32:47,670",
+      "text": "all this way just to have our best shot"
+    },
+    {
+      "start_time": "00:32:46,470",
+      "end_time": "00:32:49,440",
+      "text": "I came back at that temple be washed"
+    },
+    {
+      "start_time": "00:32:47,670",
+      "end_time": "00:32:51,960",
+      "text": "away to see now I'm going after him and"
+    },
+    {
+      "start_time": "00:32:49,440",
+      "end_time": "00:32:54,540",
+      "text": "he leaps out the window his invisible"
+    },
+    {
+      "start_time": "00:32:51,960",
+      "end_time": "00:32:57,030",
+      "text": "ghost following him and leaps onto the"
+    },
+    {
+      "start_time": "00:32:54,540",
+      "end_time": "00:32:58,740",
+      "text": "roof slates and skids down into the"
+    },
+    {
+      "start_time": "00:32:57,030",
+      "end_time": "00:33:00,720",
+      "text": "courtyard tumbling down through the"
+    },
+    {
+      "start_time": "00:32:58,740",
+      "end_time": "00:33:03,780",
+      "text": "streets to wards aren't to rescue him"
+    },
+    {
+      "start_time": "00:33:00,720",
+      "end_time": "00:33:06,240",
+      "text": "Simon's like odd but what are you doing"
+    },
+    {
+      "start_time": "00:33:03,780",
+      "end_time": "00:33:10,200",
+      "text": "as this tidal wave is getting closer and"
+    },
+    {
+      "start_time": "00:33:06,240",
+      "end_time": "00:33:13,080",
+      "text": "closer and closer and Simon knows that"
+    },
+    {
+      "start_time": "00:33:10,200",
+      "end_time": "00:33:15,360",
+      "text": "he has just a handful of moments to"
+    },
+    {
+      "start_time": "00:33:13,080",
+      "end_time": "00:33:17,640",
+      "text": "decide what to do does he go after ed"
+    },
+    {
+      "start_time": "00:33:15,360",
+      "end_time": "00:33:20,220",
+      "text": "Burt to try and help him rescue Arne his"
+    },
+    {
+      "start_time": "00:33:17,640",
+      "end_time": "00:33:22,710",
+      "text": "nemesis or does he turn tail and flee"
+    },
+    {
+      "start_time": "00:33:20,220",
+      "end_time": "00:33:24,300",
+      "text": "knowing that this gigantic tidal wave is"
+    },
+    {
+      "start_time": "00:33:22,710",
+      "end_time": "00:33:27,600",
+      "text": "bearing down on the town about to"
+    },
+    {
+      "start_time": "00:33:24,300",
+      "end_time": "00:33:29,100",
+      "text": "destroy it what does he do I wish I"
+    },
+    {
+      "start_time": "00:33:27,600",
+      "end_time": "00:33:31,710",
+      "text": "could tell you but that would be the"
+    },
+    {
+      "start_time": "00:33:29,100",
+      "end_time": "00:33:34,050",
+      "text": "subject of the next episode of our show"
+    },
+    {
+      "start_time": "00:33:31,710",
+      "end_time": "00:33:36,060",
+      "text": "so if you like the show don't forget to"
+    },
+    {
+      "start_time": "00:33:34,050",
+      "end_time": "00:33:37,950",
+      "text": "hit like and subscribe and come on back"
+    },
+    {
+      "start_time": "00:33:36,060",
+      "end_time": "00:33:39,630",
+      "text": "next time when we find out what happens"
+    },
+    {
+      "start_time": "00:33:37,950",
+      "end_time": "00:33:41,910",
+      "text": "to Simon of August an and whether or not"
+    },
+    {
+      "start_time": "00:33:39,630",
+      "end_time": "00:33:45,000",
+      "text": "he gets washed away like the rest of the"
+    },
+    {
+      "start_time": "00:33:41,910",
+      "end_time": "00:33:48,090",
+      "text": "town of whom the Torah we'll see you"
+    },
+    {
+      "start_time": "00:33:45,000",
+      "end_time": "00:33:56,870",
+      "text": "next time on me myself and die"
+    },
+    {
+      "start_time": "00:33:48,090",
+      "end_time": "00:33:58,450",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:33:56,870",
+      "end_time": "00:34:02,029",
+      "text": "[Applause]"
+    },
+    {
+      "start_time": "00:33:58,450",
+      "end_time": "00:34:02,029",
+      "text": "[Music]"
+    }
+  ],
+  "full_text": "all right fine Simon we'll do it your\nway since you are sort of the principal\nmain character here after all and I'm\njust sort of a jumped-up NPC so yes\nwe'll do it your way\nhello again and welcome back to me\nmyself and die I am your intrepid host a\ngame master and player Trevor Duvall as\nalways remember to hit like and\nsubscribe and share on Facebook sand and\nall the various social medias cuz really\nhelps get the show out there first of\nall I want to thank you all for your\nsuggestions for the name of the crossbow\nthe magic crossbow that was found last\nepisode there was some really really\nkiller ones out there I love them all\nand I was so excited to see all of you\ntaking part in that that was hey just\nwarms the cockles of my heart to say\nthat but nonetheless we did have to pick\none and so the one we're going with is\nin fact stone bolt stone bolt the\ncrossbow so thanks kideth for that one\ncouple little housekeeping things before\nwe begin this episode this very special\nepisode this Halloween episode couple\nthings Simon has levelled up he has\nbasically got himself a new edge which\nis fleet-footed which means that now his\nbasic pace is eight instead of six and\nhe rolls a d-10 running die instead of a\nd6 so that's gonna make him a lot faster\nand it's also gonna give him a chance to\nget get the heck out of a fight if he\nhas to because now he has a much more\nvaluable and reliable wildcard Ally\nthat's right\ned Bert ed Bert has been graduated to\nwild card status I said that if he\nsurvived last time he would be and so in\nfact he is so I've gone and made him a\nfull character now a full wild card\nbasically he's got you know the skills\nand and hedges and stuff just like a\nwild card but most importantly of all\nmost importantly of all he now also Wild\nEye with everything he does which is\npretty cool that should make things a\nlot easier for for Simon who was knocked\non the head at the end of last session\nas ed Bert was dragging him out of the\ntemple where they discovered that his\nmother was an undead creature in\notamatone a mummy of sorts if you will\nthat was tasked with completing a ritual\nthat would seal off the temple from the\noutside the ritual was completed and the\nmummy was destroyed so Simon's undead\nmother was killed if you will by none\nother than Ed birds ghost which managed\nto rip off a mummified head from a dead\npriest and hurl at the mummy knocking\nits head off it was pretty cool but then\nSimon totally devastated who he thought\nthat his father might still be in the\ntemple somewhere and he wanted to go\nexplore but ed Bert being an experienced\nsoldier knew that there was no\njust the two of them could do this they\nwere going to die if they kept going so\nhe cracked Simon on the back of the head\nafter failing to persuade him and\ndrugged him drugged dragged dragged him\nout of the temple just as the the ritual\nhad gone up and the temple itself was\nsealed from the outside so they were\nable to leave but they might not be able\nto get back in so in the meantime they\nare currently on their way back to the\ntown of Linda torrent now a couple\nthings one chaos factors at 8:00 so I'm\ngonna roll to see if anything is\ninterrupted or altered in the scene\nchances are it will be 2 because this is\nHalloween this is our special Halloween\nepisode yeah it might be I'm assuming\nit's a special Halloween episode you\nnever know what the guys are gonna say\nbut seeing as this is supposedly our\nHalloween episode I want to start off\nfirst of all by finding out some more\ninformation about this ghost of Ed\nBurt's considering that this ghost was\ninstrumental in safer bacon last time I\nthink it's important to understand now\nthe nature of ed Burt's hauntings so in\norder to do that we are going to go to\nour handy-dandy\noonh a and PC emulator we take our\npersonal rules here and we do our role\nand we get a 92 which means despondent\nokay ooh come on Umi city little props\nhere to make it spooky despondent what\ndespondent 42 Oh\nmages so despondent wizard basically now\nwe find the power level so slightly\nstronger than than Ed Berta's we know\none motivations are of this ghosts\nalready which is keep ed Bert alive so\nhe can atone but what else what else do\nwe know about this motivation so this\nmotivation is 97 Rob 10 distress I feel\nlike this is this ghosts motivation\nperhaps in life to take away distress so\nto calm down to provide healing perhaps\nto provide calmness Rob the stress that\nI need a little more to go on\nso another motivation we've got 45 damn\nShh damage 100 damage spirits oh you\nknow what damaged spirits makes me think\nthat this mage was in fact some kind of\nnecromancer someone who specialized in\ndestroying Undead that makes sense\nconsidering it actually just wound up\ndoing that so yeah so I think in this\ncase that to rob distress to take away\ndistress is to put the dead to rest so\nthis is definitely some kind of\nnecromancer or maybe like an anti\nnecromancer oh you know what I wonder if\nthe magic user was actually part of this\norder of the purifying flame let's ask\nthe fake chart I'm gonna say 50/50\nbecause I don't know extreme yes so\nextreme yes was the wizard part of the\norder the wizard was the leader of the\norder obviously this ghost had real\nreason to go in that temple and destroy\nall those Undead and the ghost would\nalso have real reason to bring down that\nbarrier because the ghost may know that\nthe order of the purifying flame is on\nthe way to destroy this temple a task we\nwill find infinitely more hard now\nbecause the barrier is up was this male\nor female one two three male there we go\nfive female so yes the ghost is female\nand we're gonna go to female names there\nare three tables the ghosts name this\nwizard deaths who was the leader of the\norder of the purifying flame the name\nwas 37 sherilyn great I think she would\nhave had a title if she was the leader\nof this order of the purifying flame\nsomething like cherylin the geralyn's\nspirit Bane or something like that let's\ncall that cherylin spirit Bane now what\nI want to know is what is the nature of\nthe haunting of Ed Burt how did ed Burt\ncome across well if this ghost is\nhaunting ed Burt it's a pretty good\nchance that Edward killed her right it's\nan ear sure thing on Cass factor 866 is\nin fact yes so ed Burt did kill her was\nit a mistake or did he do it on purpose\nI have no idea\n5050 was it a wrongful death the answer\nis yes so he didn't go out of his way to\nmurder her anything I had and I don't\nthink he didn't meet her in battle and\nslew or anything like that something\nhappened in which ed Bert wound up\nkilling this woman\nwell obviously he has some connection to\nthe order of the purifying flame was Ed\nBurt a member of that I don't think\nthat's likely I think it's like it's\npossible he may have been working for\nthem at some point but let's acephate\nchart was ed Burt in fact a member of\npurifying flame purifying Frank the\nterrifying fact I'm gonna say no way\nI can't Spectre 875 no he was not a\nmember was he employed by I think that's\nvery likely yeah I think it's very\nlikely that he was 47 he was so he was\nemployed by a cherylin spirit Bane to go\nand do some tasks he did kill her\naccidentally and she is haunting him\nbecause of that\nso she's keeping him alive until he can\natone for the accidental death of her of\nherself actually here's an interesting\nquestion does the order the purifying\nflame know that Ed Burt was responsible\nfor the death of their leader\nfifty-fifty\nwhat is that 0-7 is an extreme yes not\nonly does the order of the purifying\nflame know that Ed Burt was responsible\nthey blame him and they are after him\nthat certainly complicates things if\nthey run into the order that's gonna be\na problem\nwhat a twisted web we do spin here on me\nmyself and die yeah I think that's all\nwe need to know for now so because this\nis our Halloween episode we are going to\ngo to mythic variations right here what\nmythic variations does is basically give\nus different types of random encounter\ntables based on the genre so we're going\nto go to mythic variations horror a\ncouple of special rules variations when\nit comes to horror in mythic variations\nfirst of all the chaos factor if you're\nstarting would normally be at four but\nours is already at eight and then we\nhave a different horror focused table\nright here which you know will come up\nin a second also because they're chaos\nfact that our chaos factor is so high\nit's eight if we do roll under it\nthey're all going to be interrupt scenes\nit's not gonna be altered scenes that's\njust a factor of the mythic horror scene\nlet's do that as Simon is unconscious\nand being dragged by Ed Burt through the\nforce it is late afternoon early evening\nthey've been traveling now for some time\nhaving\njust escaped the temple they are making\ntheir way back to hunt a Torah hopefully\nthey're going to get there without\nincident however this is me myself and I\nand using the mythical emulator with a\ncash factor of eight I highly doubt it\nso let us determine whether or not the\nscene is interrupted is it interrupted\nyeah seven odd cast factor eight means\nyes what is the focus so if we look over\nhere we have this horror focus table\nokay it's slightly different than the\nnormal table that that mythic has so\nwe're gonna see what we have here okay\non the horror focus table we are rolling\nwhat is the interrupt scene what is the\nfocus of this event twenty-seven remote\nevent so this is an event that happens\nsomewhere else and what is it about the\naction is seventeen antagonize\neighty-four status quo antagonize the\nstatus quo they're on the way to town so\nthey're gonna have an interrupt scene\nbut it's a remote event so it doesn't\ndirectly affect them something has\nhappened in the town of hoon datura to\nshake things up so is it possible that\nthey were attacked antagonize the status\nquo I don't think that they were at I\nthink that this really is more about\nthis is more an internal incursion this\nis some group on the inside of the town\nthat has basically risen up and like\noverthrowing the government oh well okay\nthis is oh this is a horror episode\nafter all so I think there was some cult\nsome cult perhaps even associated with\nthe necromancers in the old temple\nperhaps there is a cult that has been\nlong hiding in the underbelly of society\nand they have seen their opportunity and\nseized it they've risen up and they have\nmurdered some of the most influential\npeople in the town they've killed off\nseveral key members of the town and\nbasically the town is in chaos\nhow do at Bert and Simon find out about\nthis now I think what they come across\nas they come across a rider who's who's\ngalloping as fast as he can but maybe\nhe's been wounded he's got like a couple\nof arrows in his back he's coming into\nlife he basically rides up to them\nhe's just on his last legs ed Bert sees\nhim and basically oh you know but Flags\nhim down\nthe horse is lathering the horse rains\nup in front of him but he wounded as he\nis this rider he falls off clunk oh\nright in front of ed Bert the the man is\non the ground he's he's lighted his\nblood like flaking his lip you know from\nfrom the many wounds that he's taken\nhe's almost delirious from the pain\nEdward comes up to him he slumps Simon\ndown like a sack of potatoes pumpkin on\nthe on the ground what happened man\nwhere you coming from town you come from\nhome to Tora it was terrible\nuprisings in the street I got some\nterrible conflict began murdering\nmurdering the priests and murdering the\ntown masters I I was on my way to the\ncity\nto tell the Lord's there but they shot\nme is the guy about to die I don't know\nfind out he's been shot I'm gonna say\nit's somewhat likely is he about to die\nthese wounds 10 extreme yes so he is the\nease there's there's nothing that ed\nBert can do for him this guy's uh they\nsorry you must get word to the city I\nnever did know the name of the cities\nI'm gonna presume that the city he's\ntalking about is the one to the north\nthe one that Simon comes from we're\ngoing to random tables to here what is\nthe name of the city that Simon is from\n44 chiton the city of chitin I like that\nplease I have to get word to chitin city\nI have to get word that we need help\ndealing with this cope\nhang on I'll see if I can help you Simon\nSimon get off we need your help but by\nthe time he turns back to Simon this\nrider is dead he succumb to his will\nso Simon groggy I think he comes to his\nhis senses now what why does my head\nstuff so you were out to the temple now\nSimon what we have to go back in and\nfind my father\nyou were raving that you were about to\ndo something really stupid that to drag\nme witches so I got us out of there just\nas you turned I think something\non your head Eggbert you have taken me\naway from the one trail that could lead\nme to answers how could you do that I\ntold you before Simon if we didn't get\nout of there we were dead I had to do it\nyou were out of your mind you just lost\nyour mother twice over you'll thank me\nfor this later maybe not now we'll see\nabout that input we shall see\nwait who who is that he points to the\ndead rider on the ground some rider out\nof whom the Torah he said he was on his\nway to Titan Titan why apparently\nthere's some cult that's risen up from\nthe underbelly of the town and murdered\na bunch of influence of people places of\nchaos I was hoping we might be able to\nfind someone in town to help us with the\nrest of the exploration the temple was\nthere I don't know if it's a good idea\nfor us to go back well one thing's for\nsure we can't go back to chiton why not\nI would rather not return there I am\nhunter dead but hunted by an enemy of\nmine manfred of dov Dane no I cannot\nreturn there we can't just walk into\nwhom the Torah from what this poor chap\nwas saying it's a madhouse well what do\nyou suggest we do then ed but this guy\nwas going to call the try and tell them\nwhat's going on maybe get some help we\ncould do that we could search his body\nsee if you've got any sort of official\nwrit on him maybe he had some official\nrequest for help or something from the\ntown masters did he know no shut up I\nthink it's very likely that he does have\nsomething like that seventy-eight yes he\ndoes\ned Bert quickly searches his belt pouch\nand he comes out with this rolled-up\npiece of parchment that has a seal on it\nthe seal of Linda Tora see right here we\ncould do this man's job for him we can\ngo back to chitin city and get help did\nhe tell you any details about what's\ngoing on there he made it sound like\neverything was total chaos there what do\nthey do do they go on.200 Tora knowing\nthat it is suddenly very dangerous\nbecause this strange cult that suddenly\ncome up out of nowhere or do they take\nthe missive from the town masters and go\nback to the city of chitin\nto try and get some help Simon\ndefinitely does not want to go back to\nkiting too dangerous for him he already\nknows that arne the Bounty Hunter is\nafter him he knows that man fred is out\nto to get him so going back to the\nlion's den is probably not a very good\nidea but does ed Burt care about hoon\ndatura does he have any vested interest\nin helping hoon datura does ed Burt have\na vested interest in helping her datura\n21 yes he does\nSimon I think we should help or think we\nshould carry this to the city leaders of\nwhom Manfred of Dane certainly is one\nand see if we can bring help I do not\nlike this one bit Edward and another\nthing we do not even know what the\nnature of this uprising is this one man\ntold us as a cult in the streets that\npeople have been killed if we are going\nto go and ask for help don't you think\nthat we need to get some more\ninformation it'll be in dismissive\neverything we need to know he breaks the\nseal opens the missive and reads it I\ndon't think there's a huge chance that\nthere's a lot of like really explicit\ndetails about what's happening I think\nit's basically we're under attack crazy\npeople who streets send help\nso is there enough detail in the missive\nto explain a lot about what's happening\nin datura I don't think so I think of no\nway no way is there 56 the answer is no\nthe missive is super hastily written a\nscrawled hand like the letters trailing\noff and what kind of things and help\ncrack so Simon has a look at this you\nsee this tells us nothing I can tell you\nthis the first thing that the Masters of\nchiton will want to know is what's\nhappening this missive tells them\nnothing if you want to help the folk of\nhoon datura we need to know what's going\non we need to go into that town and find\nout for ourselves\nall right fine Simon we'll do it your\nway since you are sort of the principal\nmain character here after arlynn well\nI'm just sort of a jumped-up NPC so yes\nwe'll do it your way\nso they make their way back south to the\ntown of Hoonah Torah as night is falling\nthey will get there after dark there's a\nfull moon next let's find out what the\nweather's doing either all the better it\nis o-5 as they make their way towards\nthe town of unda torah there is a storm\nthat begins to boil on the horizon\nlightning flash\nin the clouds over the ocean off to\ntheir right Thunder begins to roll in\noff the sea towards the land and there\nin front of them as they come down out\nof the mountains and other foothills\nthey can see the town of one datura\nright where they left it but this time I\nthink there are a number of fires in the\ntown I think that these cultists have\nbeen busy I think they're sowing the\nseeds of chaos everywhere they are going\nI'm gonna say it's likely 60 yes it is\nso as they make their way down to the\nwalled town of who datura they can see\nthe flames erupting against the night\nsky they can hear the sound of screaming\nand and this fighting in the streets\nthere's all kinds of chaos going on down\nthere\nas they get to the gate is is the gate\nclosed I think it's very unlikely is the\ngate closed in this case yes the gate is\nclosed so they get there\nI think the guards at the gate are way\ntoo busy dealing with the chaos being\nsewn by the Colt on the inside the\nguards are clearly trying to quell\nwhatever ridings going on it's it's a\nbad scene in there Simon and Ed Burt\ncome up to the gate you know Simon\npounds on the gate let us say let us say\nbang bang bang bang is there any guards\nthe station at the gate that have\nactually kept their posts I think no way\nthere's no way that there have been 24\nthe answer is yes there is a guard the\nguard looks over the wall and sees them\nboth the tour is in flames traveller you\nshould go it's too dangerous no for the\ngate now we can help let us in actually\nlet's find out exactly what the initial\ninitial reaction is of the guard okay so\nwe're gonna use the old savage or the\nreaction table here it's the initial\nreaction for the guard is going to be 7\nwhich is neutral okay so he's neutral\nhe's not really he clearly doesn't want\nto open the gate because there's all\nthis chaos going on behind him Simon's\nshouting let us in man let us in the\nguard shuts down the guy just goes\ntraveller I cannot do it I think ed Bert\nstep step up and he's got intimidation\nso he's gonna use intimidation it's one\nof the skills he has a wild card he\nshouts up to the gate now listen we are\nhere to help you you understand\ntape now don't be stupid arse open this\ngate now or I will scare that wall and\nuse your head to pass this gate open\nmyself see if it works\nhe's a wild card so he's rolling it he's\ngot a d6 intimidate and he's got a d6\nfor his wild card and he's gonna roll a\nfour which is a success so the guard\nkind of\nlooks gulps and/or he scampers down the\nwooden rickety stairs on the other side\nand opens the man he doesn't open like\nthe main gate but he basically opens the\nman gate right beside it's okay the\nsingle door opens and Simon and Ed Burt\nsteal inside right away they can see\nthat the bustling peaceful town of\nHoonah Torah is in chaos there are shops\non fire there are people criss cross\nfrom the roads running back and forth\nthere's the sound of screaming there's\nthe sound of crying children there's the\nsound of wailing women there's a sound\nof combat you know obviously some people\nare fighting these cultists it's total\nchaos\nSimon Says the guard when is the\nfighting most heavily concentrated where\ndid what did the cultists come from I\ndon't think this guard has any idea\nabout like what's going on I think maybe\nhe was I think he was on duty and chaos\nerupted and that's that so I think it's\nvery unlikely this guard does this guard\nknow anything about where these cultists\ncame from the answer is 8:00 at night he\ndoes not he kind of shrugs it Simon Says\nbut I don't know I have no idea I was\njust done on duty in about an hour ago\nthey started up but I know that they\nthey attack the Lord Mayor's house right\nthey make their way through the streets\ngoing towards the large manor house in\nthe center of the town it would be it\nwould have a small sort of retaining\nwall around it it's set on a simple Hill\nin the centre of the town that commands\na nice view not only of the harbor but\nof the the surrounding countryside as\nwell they make their way through the\nstreets of hoon datura try not to engage\nin any strange cultists do they engage\ndo they come across any cultists that\nmight attack them well it's it's I'd say\nit's somewhat likely I mean it's pretty\ncrazy right now 99 is actually an\nextreme no so they do not see any cult\nas what they do see is the product of\nthe cultists work so they see a lot of\ndead town's folk they see a lot of like\nas I said burning shops carts overturned\nscreaming horses attached to burning\ncars as they trample through the streets\nbut they don't see any cultists\nthemselves so they make their way all\nthe way to the manor house in the center\nof town I think I need to know something\nabout this cult now what is this cult\nall about I suggested that perhaps it is\nconnected to the necromancers in the\ntemple but I don't know if that's the\ncase it might not be it might be\nsomething totally different this might\nbe a political thing this\nwho can say this cult is all about 22b\nfriend 93 befriend whether I think that\nthese guys are like basically they\nworship the storm itself and they're\ncalling upon the storm I think that\nmaybe they are worshipping some dark\naspect of morges to see God or even\nbetter they are worshipping more gases\nopposite in the pantheon so if morges is\nthe god of sailors and the god of\nweather I think that these cultists are\nworshipping a god or goddess that\nrepresents the destructive force of\nnature that's kind of cool actually\nit is a female it is a goddess the\ngoddess of the storm the destructive\npower of the sea and I think these\ncultists have been secretly worshipping\nthis goddess hoping to bring her wrath\nupon this town and and specifically upon\nthe harbor in the ships and the temple\nof morges as well because morges and\ndiscuss our diametric opposite their\ntheir enemies so what is the name of\nthis goddess something cool davana\nah that's kind of cool actually the\nsailors scourge Simon and edwart appear\non the very steps of the town masters\nHall I think what they see there is the\nguard the guards in front of in slang\ndid the cultists actually originate\ntheir attack from the town masters Hall\ndid they like dig their way through\nbasically from some sea cave on the\noutskirts of town that's kind of cool\nactually yeah let's go out somewhat\nlikely did they do that in fact 98 they\ndid not so they didn't do that so this\nis in fact not then the center of where\nthey came but this is certainly a place\nwhere they struck is there anybody left\nalive inside I'm gonna say it's very\nunlikely that there's anybody left alive\ninside 66 is a no and it is also under\nour chaos factor which means we have an\ninterrupt scene so everybody in that\nwhole town masters Manor are dead\nthey've been slain servants\nthe town masters themselves their\nfamilies it's a brutal brutal brutal\nslaughterhouse however we have an inter\nup scene as Simon and edwart are\napproaching now the interrupt scene on\nthe horror chart focus horror NPC this\nis a special focus event on the horror\nchart so this means something horrific\nhappens to one of our NPCs so we have\nseven possibilities here out of all the\ncharacters so I'm gonna roll the d8 a\nsix Oh interesting they steal their way\ninto this manor house dead bodies are\neverywhere these people have been\nbutchered it is a charnel house it is is\na Gore charnel carnal car I always said\ncarnal but I think it's charnel I've got\never damming the sections of the yard\nare on fire as they kind of go and they\nmake their way through the burning yard\nand they get to that the doubled or is\nit a swinging opening look in the breeze\nit's the night breeze that's blowing in\noff the sea whipping up the fires in\nother parts of the town still the sounds\nof chaos behind them but inside the\nhouse total silence they go inside the\nstep insides of the main foyer area the\nmain entrance chamber large chamber with\na double sort of colonnaded staircase\ngoing up to a massive landing in front\nof them exits off to the right and left\nthere they can see some of the serving\nstaff slumped over\nSETI's and chairs and things their\nthroats cut blood everywhere it's just a\nscene of total well horror what is the\nnature of the horror the nature of the\nhorror is 67 open 65 open intrigues oh\nthat's it they slowly make their way up\nthese the two staircases to the balcony\noverlooking the foyer and behind them\nthey can see another chamber that's\ngoing off and they can see as soon as\nthey get up to that top level their feet\nstart splashing on water and they look\ndown and they see that there's like a\nriver of water like a like a giant\npuddle that seems to be flowing from the\ncorridor behind them on the second level\nflowing out of one particular room and\nit's\nflowing out and over the the overhang\ndripping dripping get down into the\nfoyer entrance\nwe may be dripping down onto the head of\na of a dead servant to the water hits\nthe disservice head mixing with his\nblood and running down to faith they\nturned on the hallway\nand they slowly make their way down the\nhallway weapons drawn of course actually\nat this point ed Burt kind of pulls out\nthe crossbow stone bolt and presses it\ninto Simon's hands Simon what is this I\nfound this in the temple I think you\nmight find some use out of it\nalrighty loads it up with a bolt he\ndoesn't have a lot of bolts right now he\nhasn't had a chance to by the boob will\nsay he's got a couple it's got a handful\nso loaded crossbow he begins to move\ndown the corridor and as they come\naround the corner of where the water is\ncoming they look and there's like a\nlarge like a large bathroom and there's\na large stone bath and in the bath the\nwater is sloshing out over and there\nthey can see an arm draped over the side\nand they come up and again water\nspilling over and you know pouring down\nthe hallway and they go up and they look\ninside and the arm attached to a body\nand the body underneath the water drown\nbloated with water and they can see\nthere is North the friendly merchant\nbecause that's who I rolled on the\ntarget of the NPC horror North the\nfriendly merchants bloated his carcass\nlying there blood pooling in the water\nall of his internal organs they're sort\nof have been exposed by a large cut and\nit's it's this horrifying thing and\nSimon looks and he kind of has to look\naway immediately North has been\nbutchered he's been sacrificed to Davone\nax why is he here maybe he had some\nbusiness with the the town masters when\nthe attack happened that's probably the\ncase now they have sacrificed him and\nseveral other members influential\nmembers of the town to their dark\ngoddess here's a question\ndid they sacrifice these influential\nmembers of town\n- maybe summon this storm that's even\nnow rolling off the sea and if that's\nthe case which I think it is is the\nsacrifice of North sort of like a a\npivotal moment in the sacrifice to bring\nthe storm crashing down on the town I'm\ngonna say it's somewhat likely but it is\nsomewhat likely the answer is zero one\nextreme yes extreme yes\nso unfortunately Simon and Ed Burt have\ngot here too late as they look and they\nsee the body of North floating his chest\ncut open in like like barn doors\nexposing all of the internal organs even\nnow becoming choked and bloated and they\nsort of look at each other at that\nmoment from outside there is a massive\ncrash of of thunder and the flash of\nlightning and they kind of look out a\nwindow that looks as I said the the\nmanor house has a commanding view of the\ntown as well as the harbor and as they\nlook out the window they can see the\nharbor and they're approaching in the\ndarkness they hear at first they hear\nthe rumble\nand as they turn and they look at they\nstrain their eyes in the darkness to try\nand see over the burning town they can\nsee it is a huge wave that is coming to\nengulf the town or is it containing\nmonstrosity that are gonna burst out of\nthe town very HP Lovecraft styled the\ncreatures from underneath the sea coming\nto attack is it that is it just a\nregular tidal wave I think it's unlikely\nit's just a title it is it a tidal wave\nthe answer is 22 ah ha ha so we have\nonce again we have an event that\ninterrupts the scene the answer is yes\nit is a massive tidal wave Simon Simon\nlooks at Edward we've got to get out of\nhere yeah I think you're right as this\nwave comes crashing in but before it\ndoes there is an interrupt event what is\nthe nature of it we go back to our\nhorror focus table and we're all 88\nwhich is doubles but that doesn't count\nfor the purpose of this which is NPC\nnegative so something bad happens to\nanother NPC let's find out who that NPC\nis we're gonna roll our d6 to see which\nNPC it is 3 1 2 oh ok\nNPC Nick if something bad happens to\nthis person that I just rolled what is\nthe nature of that thing that happens as\nthis ginormous tidal wave is coming\ncrashing in over the town potentially\nabout to wipe it out what is the nature\nof the bad thing that happens divide\nallies NPC negative divided a lies oh\nyeah yeah so what happens is Simon and\nedwart are standing in the window of\nthis bathroom on the second floor of\nthis manor house looking out they see\nthis massive tidal wave coming in they\nlook to each other we gotta get out of\nhere you know yeah I take it right but\nat that moment\nSimon looks down and he sees the in the\nin at the edge of the water and people\nare streaming out of it but he also sees\ncultists coming in cult is beginning to\nset fire to it there's several staff of\nthe end that are fighting off these\ncultists are trying to they're getting\nkilled these cultists I think are in\nsome like some dark blue robes they've\ngot these long\nand there you know it's just it's just\nbutchery but coming out of that in he\ncan see Arn the Bounty Hunter but as he\ndoes self divided allies ed Bert points\ndown to him I know that man I met him in\nthe in the end the other night yes I\nknow that man to it but and I say we let\nhim drown we need to get out of here\nno no that man I think that man could be\na great help to us in fact I was\nthinking about coming back and trying to\nfind him actually I think he could be\njust the person we need to get in that\ntemple again what art is a bounty hunter\nhe knows nothing at all about the\nmagical barriers world necromantic\ntemples believe me Simon he said a few\nthings to me in a common room that makes\nme think that he might in fact be the\nman to do this stuff at this moment this\nis a tidal wave is coming closer and\ncloser it's getting a louder and louder\nSimon since there's no time for this man\nwe have to get out of here I didn't come\nall this way just to have our best shot\nI came back at that temple be washed\naway to see now I'm going after him and\nhe leaps out the window his invisible\nghost following him and leaps onto the\nroof slates and skids down into the\ncourtyard tumbling down through the\nstreets to wards aren't to rescue him\nSimon's like odd but what are you doing\nas this tidal wave is getting closer and\ncloser and closer and Simon knows that\nhe has just a handful of moments to\ndecide what to do does he go after ed\nBurt to try and help him rescue Arne his\nnemesis or does he turn tail and flee\nknowing that this gigantic tidal wave is\nbearing down on the town about to\ndestroy it what does he do I wish I\ncould tell you but that would be the\nsubject of the next episode of our show\nso if you like the show don't forget to\nhit like and subscribe and come on back\nnext time when we find out what happens\nto Simon of August an and whether or not\nhe gets washed away like the rest of the\ntown of whom the Torah we'll see you\nnext time on me myself and die\n[Music]\n[Applause]\n[Music]\n"
+}

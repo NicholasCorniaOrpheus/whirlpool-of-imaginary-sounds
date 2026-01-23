@@ -1,0 +1,2640 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,000",
+      "end_time": "00:00:05,120",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:03,040",
+      "end_time": "00:00:07,040",
+      "text": "welcome back to another episode of"
+    },
+    {
+      "start_time": "00:00:05,120",
+      "end_time": "00:00:09,440",
+      "text": "combat and tactics brought to you by the"
+    },
+    {
+      "start_time": "00:00:07,040",
+      "end_time": "00:00:10,880",
+      "text": "knights of last call i'm derek melenda"
+    },
+    {
+      "start_time": "00:00:09,440",
+      "end_time": "00:00:14,160",
+      "text": "the game master for the knights of last"
+    },
+    {
+      "start_time": "00:00:10,880",
+      "end_time": "00:00:17,039",
+      "text": "call and today i am joined by the two"
+    },
+    {
+      "start_time": "00:00:14,160",
+      "end_time": "00:00:18,560",
+      "text": "big bad marshall melee masters of"
+    },
+    {
+      "start_time": "00:00:17,039",
+      "end_time": "00:00:19,760",
+      "text": "knights of last call"
+    },
+    {
+      "start_time": "00:00:18,560",
+      "end_time": "00:00:21,990",
+      "text": "bob"
+    },
+    {
+      "start_time": "00:00:19,760",
+      "end_time": "00:00:23,119",
+      "text": "chainmail bob that can't sneak"
+    },
+    {
+      "start_time": "00:00:21,990",
+      "end_time": "00:00:25,359",
+      "text": "[Laughter]"
+    },
+    {
+      "start_time": "00:00:23,119",
+      "end_time": "00:00:27,760",
+      "text": "and nick how you doing"
+    },
+    {
+      "start_time": "00:00:25,359",
+      "end_time": "00:00:31,920",
+      "text": "uh bob and nick of course play asias and"
+    },
+    {
+      "start_time": "00:00:27,760",
+      "end_time": "00:00:34,160",
+      "text": "eskenore our paladin and dwarf um"
+    },
+    {
+      "start_time": "00:00:31,920",
+      "end_time": "00:00:35,840",
+      "text": "paladin dwarf paladin and barbarian yes"
+    },
+    {
+      "start_time": "00:00:34,160",
+      "end_time": "00:00:37,440",
+      "text": "i don't even think he's a dwarf he is a"
+    },
+    {
+      "start_time": "00:00:35,840",
+      "end_time": "00:00:38,960",
+      "text": "dwarf but it's funny i just think it's"
+    },
+    {
+      "start_time": "00:00:37,440",
+      "end_time": "00:00:42,160",
+      "text": "like oh he's not a barbarian he's just a"
+    },
+    {
+      "start_time": "00:00:38,960",
+      "end_time": "00:00:45,920",
+      "text": "dwarf and just dwarfs just just a dwarf"
+    },
+    {
+      "start_time": "00:00:42,160",
+      "end_time": "00:00:47,360",
+      "text": "so today in our ongoing series uh about"
+    },
+    {
+      "start_time": "00:00:45,920",
+      "end_time": "00:00:49,520",
+      "text": "combat and tactics for the pathfinder"
+    },
+    {
+      "start_time": "00:00:47,360",
+      "end_time": "00:00:51,920",
+      "text": "two game um we are going to continue to"
+    },
+    {
+      "start_time": "00:00:49,520",
+      "end_time": "00:00:54,000",
+      "text": "talk a little bit about skills"
+    },
+    {
+      "start_time": "00:00:51,920",
+      "end_time": "00:00:56,160",
+      "text": "skills in combat"
+    },
+    {
+      "start_time": "00:00:54,000",
+      "end_time": "00:00:57,680",
+      "text": "and the last two volumes we've talked"
+    },
+    {
+      "start_time": "00:00:56,160",
+      "end_time": "00:01:00,719",
+      "text": "about athletics"
+    },
+    {
+      "start_time": "00:00:57,680",
+      "end_time": "00:01:02,160",
+      "text": "so today we want to focus on stealth"
+    },
+    {
+      "start_time": "00:01:00,719",
+      "end_time": "00:01:03,680",
+      "text": "absolutely and i know that if you've"
+    },
+    {
+      "start_time": "00:01:02,160",
+      "end_time": "00:01:05,519",
+      "text": "watched some of our other videos and"
+    },
+    {
+      "start_time": "00:01:03,680",
+      "end_time": "00:01:08,479",
+      "text": "maybe some of our other friends shout"
+    },
+    {
+      "start_time": "00:01:05,519",
+      "end_time": "00:01:11,119",
+      "text": "out to deadly d8 our our friend eli over"
+    },
+    {
+      "start_time": "00:01:08,479",
+      "end_time": "00:01:13,520",
+      "text": "there at daily28 he did a"
+    },
+    {
+      "start_time": "00:01:11,119",
+      "end_time": "00:01:15,520",
+      "text": "video uh where he took our three action"
+    },
+    {
+      "start_time": "00:01:13,520",
+      "end_time": "00:01:17,119",
+      "text": "economy video and with his editors"
+    },
+    {
+      "start_time": "00:01:15,520",
+      "end_time": "00:01:18,880",
+      "text": "animators and and kind of did that up"
+    },
+    {
+      "start_time": "00:01:17,119",
+      "end_time": "00:01:20,400",
+      "text": "real nice um"
+    },
+    {
+      "start_time": "00:01:18,880",
+      "end_time": "00:01:22,880",
+      "text": "and it's actually pretty pretty dang"
+    },
+    {
+      "start_time": "00:01:20,400",
+      "end_time": "00:01:24,640",
+      "text": "cool if i do say so myself so uh if"
+    },
+    {
+      "start_time": "00:01:22,880",
+      "end_time": "00:01:26,640",
+      "text": "you're listening or you want to shout"
+    },
+    {
+      "start_time": "00:01:24,640",
+      "end_time": "00:01:28,799",
+      "text": "out to check out dailydh's channel as"
+    },
+    {
+      "start_time": "00:01:26,640",
+      "end_time": "00:01:30,320",
+      "text": "well and uh let them know what do you"
+    },
+    {
+      "start_time": "00:01:28,799",
+      "end_time": "00:01:31,520",
+      "text": "think of it and let you know if uh if"
+    },
+    {
+      "start_time": "00:01:30,320",
+      "end_time": "00:01:33,360",
+      "text": "they should keep going with that kind of"
+    },
+    {
+      "start_time": "00:01:31,520",
+      "end_time": "00:01:35,600",
+      "text": "stuff yeah we'll put a link to deadly"
+    },
+    {
+      "start_time": "00:01:33,360",
+      "end_time": "00:01:37,200",
+      "text": "d8's uh video below again it was a"
+    },
+    {
+      "start_time": "00:01:35,600",
+      "end_time": "00:01:38,320",
+      "text": "collab with us was pretty fun and he"
+    },
+    {
+      "start_time": "00:01:37,200",
+      "end_time": "00:01:41,040",
+      "text": "took one of the videos that he really"
+    },
+    {
+      "start_time": "00:01:38,320",
+      "end_time": "00:01:42,640",
+      "text": "liked uh our three action economy video"
+    },
+    {
+      "start_time": "00:01:41,040",
+      "end_time": "00:01:44,320",
+      "text": "edited it down added a bunch of fun"
+    },
+    {
+      "start_time": "00:01:42,640",
+      "end_time": "00:01:45,840",
+      "text": "animations so if you like the night"
+    },
+    {
+      "start_time": "00:01:44,320",
+      "end_time": "00:01:47,040",
+      "text": "stuff you like deadly d8 stuff i"
+    },
+    {
+      "start_time": "00:01:45,840",
+      "end_time": "00:01:49,680",
+      "text": "recommend you to go check it out"
+    },
+    {
+      "start_time": "00:01:47,040",
+      "end_time": "00:01:51,040",
+      "text": "absolutely um so yeah so we're gonna"
+    },
+    {
+      "start_time": "00:01:49,680",
+      "end_time": "00:01:52,720",
+      "text": "talk about stealth now of course we're"
+    },
+    {
+      "start_time": "00:01:51,040",
+      "end_time": "00:01:54,960",
+      "text": "talking about this with two melee"
+    },
+    {
+      "start_time": "00:01:52,720",
+      "end_time": "00:01:56,799",
+      "text": "characters yeah cannot be stealthy"
+    },
+    {
+      "start_time": "00:01:54,960",
+      "end_time": "00:01:58,000",
+      "text": "whatsoever yeah who have no ranks and"
+    },
+    {
+      "start_time": "00:01:56,799",
+      "end_time": "00:01:59,439",
+      "text": "stuff well no no"
+    },
+    {
+      "start_time": "00:01:58,000",
+      "end_time": "00:02:00,719",
+      "text": "i have a lot of rankings i just wear"
+    },
+    {
+      "start_time": "00:01:59,439",
+      "end_time": "00:02:02,719",
+      "text": "chain mail well that's what i mean"
+    },
+    {
+      "start_time": "00:02:00,719",
+      "end_time": "00:02:04,320",
+      "text": "though no but that that's important okay"
+    },
+    {
+      "start_time": "00:02:02,719",
+      "end_time": "00:02:06,640",
+      "text": "these are so look we are going to start"
+    },
+    {
+      "start_time": "00:02:04,320",
+      "end_time": "00:02:08,720",
+      "text": "the learning early absolutely folks"
+    },
+    {
+      "start_time": "00:02:06,640",
+      "end_time": "00:02:11,200",
+      "text": "straight out the gate so"
+    },
+    {
+      "start_time": "00:02:08,720",
+      "end_time": "00:02:13,040",
+      "text": "uh that's a great place to start because"
+    },
+    {
+      "start_time": "00:02:11,200",
+      "end_time": "00:02:14,480",
+      "text": "um the one of the cool things about"
+    },
+    {
+      "start_time": "00:02:13,040",
+      "end_time": "00:02:16,640",
+      "text": "pathfinder second edition which has"
+    },
+    {
+      "start_time": "00:02:14,480",
+      "end_time": "00:02:19,680",
+      "text": "changed significantly uh especially from"
+    },
+    {
+      "start_time": "00:02:16,640",
+      "end_time": "00:02:21,120",
+      "text": "pathfinder one uh in is"
+    },
+    {
+      "start_time": "00:02:19,680",
+      "end_time": "00:02:23,200",
+      "text": "for starters there's really no such"
+    },
+    {
+      "start_time": "00:02:21,120",
+      "end_time": "00:02:25,280",
+      "text": "thing as class skills or cross-class"
+    },
+    {
+      "start_time": "00:02:23,200",
+      "end_time": "00:02:27,360",
+      "text": "skills you could take training in"
+    },
+    {
+      "start_time": "00:02:25,280",
+      "end_time": "00:02:29,599",
+      "text": "stealth no matter who you are yep um you"
+    },
+    {
+      "start_time": "00:02:27,360",
+      "end_time": "00:02:31,840",
+      "text": "can everyone has free stealth or free"
+    },
+    {
+      "start_time": "00:02:29,599",
+      "end_time": "00:02:33,120",
+      "text": "skill proficiencies everyone gets skill"
+    },
+    {
+      "start_time": "00:02:31,840",
+      "end_time": "00:02:34,959",
+      "text": "increases that you can put into any"
+    },
+    {
+      "start_time": "00:02:33,120",
+      "end_time": "00:02:37,040",
+      "text": "skill you wish you could put them into"
+    },
+    {
+      "start_time": "00:02:34,959",
+      "end_time": "00:02:38,720",
+      "text": "stealth if you want to right"
+    },
+    {
+      "start_time": "00:02:37,040",
+      "end_time": "00:02:40,720",
+      "text": "so that's the first thing the second"
+    },
+    {
+      "start_time": "00:02:38,720",
+      "end_time": "00:02:42,640",
+      "text": "thing is uh in older editions of the"
+    },
+    {
+      "start_time": "00:02:40,720",
+      "end_time": "00:02:44,400",
+      "text": "game used to have armor check penalty it"
+    },
+    {
+      "start_time": "00:02:42,640",
+      "end_time": "00:02:47,360",
+      "text": "still exists in pathfinder two but it's"
+    },
+    {
+      "start_time": "00:02:44,400",
+      "end_time": "00:02:48,879",
+      "text": "mostly irrelevant armor check penalty"
+    },
+    {
+      "start_time": "00:02:47,360",
+      "end_time": "00:02:51,360",
+      "text": "prevents uh used to prevent you"
+    },
+    {
+      "start_time": "00:02:48,879",
+      "end_time": "00:02:53,360",
+      "text": "basically from being able to even try to"
+    },
+    {
+      "start_time": "00:02:51,360",
+      "end_time": "00:02:55,440",
+      "text": "make uh stealth check or hijack if you"
+    },
+    {
+      "start_time": "00:02:53,360",
+      "end_time": "00:02:58,080",
+      "text": "were in any sort of real heavy armor oh"
+    },
+    {
+      "start_time": "00:02:55,440",
+      "end_time": "00:02:59,040",
+      "text": "okay now that still exists in pathfinder"
+    },
+    {
+      "start_time": "00:02:58,080",
+      "end_time": "00:02:59,840",
+      "text": "two"
+    },
+    {
+      "start_time": "00:02:59,040",
+      "end_time": "00:03:01,760",
+      "text": "but"
+    },
+    {
+      "start_time": "00:02:59,840",
+      "end_time": "00:03:04,720",
+      "text": "it's very small it's only like a minus"
+    },
+    {
+      "start_time": "00:03:01,760",
+      "end_time": "00:03:06,879",
+      "text": "one or a minus two and most importantly"
+    },
+    {
+      "start_time": "00:03:04,720",
+      "end_time": "00:03:09,840",
+      "text": "if your strength is pretty much if your"
+    },
+    {
+      "start_time": "00:03:06,879",
+      "end_time": "00:03:11,840",
+      "text": "strength is higher than 14 or 16 you"
+    },
+    {
+      "start_time": "00:03:09,840",
+      "end_time": "00:03:13,280",
+      "text": "ignore all the penalties i i was great"
+    },
+    {
+      "start_time": "00:03:11,840",
+      "end_time": "00:03:14,879",
+      "text": "in that so it's only if you're putting"
+    },
+    {
+      "start_time": "00:03:13,280",
+      "end_time": "00:03:16,400",
+      "text": "in armor that you shouldn't be wearing"
+    },
+    {
+      "start_time": "00:03:14,879",
+      "end_time": "00:03:18,480",
+      "text": "basically okay and so it never really"
+    },
+    {
+      "start_time": "00:03:16,400",
+      "end_time": "00:03:20,959",
+      "text": "comes up okay because nine times out of"
+    },
+    {
+      "start_time": "00:03:18,480",
+      "end_time": "00:03:22,159",
+      "text": "ten if you're wearing full plate you're"
+    },
+    {
+      "start_time": "00:03:20,959",
+      "end_time": "00:03:24,400",
+      "text": "some sort of"
+    },
+    {
+      "start_time": "00:03:22,159",
+      "end_time": "00:03:26,000",
+      "text": "fighter or barbarian or palette and"
+    },
+    {
+      "start_time": "00:03:24,400",
+      "end_time": "00:03:27,920",
+      "text": "that's wearing full paint you have 18"
+    },
+    {
+      "start_time": "00:03:26,000",
+      "end_time": "00:03:30,000",
+      "text": "strengths so you don't take any penalty"
+    },
+    {
+      "start_time": "00:03:27,920",
+      "end_time": "00:03:32,080",
+      "text": "for it i mean your case"
+    },
+    {
+      "start_time": "00:03:30,000",
+      "end_time": "00:03:34,000",
+      "text": "basis probably needs to strength 14 to"
+    },
+    {
+      "start_time": "00:03:32,080",
+      "end_time": "00:03:35,920",
+      "text": "ignore the armor check penalty so you"
+    },
+    {
+      "start_time": "00:03:34,000",
+      "end_time": "00:03:37,200",
+      "text": "basically get no penalty from your armor"
+    },
+    {
+      "start_time": "00:03:35,920",
+      "end_time": "00:03:38,959",
+      "text": "and you can take the skill you could"
+    },
+    {
+      "start_time": "00:03:37,200",
+      "end_time": "00:03:40,560",
+      "text": "become trained you could become expert"
+    },
+    {
+      "start_time": "00:03:38,959",
+      "end_time": "00:03:42,080",
+      "text": "you can go as high as you want and"
+    },
+    {
+      "start_time": "00:03:40,560",
+      "end_time": "00:03:44,400",
+      "text": "obviously if you have a good dex that"
+    },
+    {
+      "start_time": "00:03:42,080",
+      "end_time": "00:03:45,440",
+      "text": "helps but you don't necessarily need it"
+    },
+    {
+      "start_time": "00:03:44,400",
+      "end_time": "00:03:46,879",
+      "text": "and one thing that you'll learn in"
+    },
+    {
+      "start_time": "00:03:45,440",
+      "end_time": "00:03:48,480",
+      "text": "pathfinder too is that you as you get"
+    },
+    {
+      "start_time": "00:03:46,879",
+      "end_time": "00:03:51,680",
+      "text": "higher in level you're going to get all"
+    },
+    {
+      "start_time": "00:03:48,480",
+      "end_time": "00:03:53,280",
+      "text": "these ability boosts at 5 and 10 and 15."
+    },
+    {
+      "start_time": "00:03:51,680",
+      "end_time": "00:03:55,280",
+      "text": "and as you know you only have one"
+    },
+    {
+      "start_time": "00:03:53,280",
+      "end_time": "00:03:57,040",
+      "text": "primary stat you only get plus one if"
+    },
+    {
+      "start_time": "00:03:55,280",
+      "end_time": "00:03:58,560",
+      "text": "you put it into a stat higher than 18"
+    },
+    {
+      "start_time": "00:03:57,040",
+      "end_time": "00:04:00,640",
+      "text": "right you get plus two if you put into a"
+    },
+    {
+      "start_time": "00:03:58,560",
+      "end_time": "00:04:02,239",
+      "text": "stat that's lower and so like you might"
+    },
+    {
+      "start_time": "00:04:00,640",
+      "end_time": "00:04:04,720",
+      "text": "have started the game off with like a 12"
+    },
+    {
+      "start_time": "00:04:02,239",
+      "end_time": "00:04:07,200",
+      "text": "decks but you go i put it into decks at"
+    },
+    {
+      "start_time": "00:04:04,720",
+      "end_time": "00:04:08,959",
+      "text": "five i put it into decks at uh 10 i put"
+    },
+    {
+      "start_time": "00:04:07,200",
+      "end_time": "00:04:09,920",
+      "text": "in suddenly you end the game with an 18"
+    },
+    {
+      "start_time": "00:04:08,959",
+      "end_time": "00:04:11,519",
+      "text": "decks"
+    },
+    {
+      "start_time": "00:04:09,920",
+      "end_time": "00:04:12,959",
+      "text": "so your dex actually isn't that bad"
+    },
+    {
+      "start_time": "00:04:11,519",
+      "end_time": "00:04:15,280",
+      "text": "right compared to even the people who"
+    },
+    {
+      "start_time": "00:04:12,959",
+      "end_time": "00:04:16,160",
+      "text": "have really good decks so that's number"
+    },
+    {
+      "start_time": "00:04:15,280",
+      "end_time": "00:04:18,000",
+      "text": "two"
+    },
+    {
+      "start_time": "00:04:16,160",
+      "end_time": "00:04:19,359",
+      "text": "so you can have the training and you can"
+    },
+    {
+      "start_time": "00:04:18,000",
+      "end_time": "00:04:21,759",
+      "text": "ignore the penalties and you actually"
+    },
+    {
+      "start_time": "00:04:19,359",
+      "end_time": "00:04:23,120",
+      "text": "have a reasonable a bonus okay second"
+    },
+    {
+      "start_time": "00:04:21,759",
+      "end_time": "00:04:24,560",
+      "text": "thing you mention your chain mail"
+    },
+    {
+      "start_time": "00:04:23,120",
+      "end_time": "00:04:27,199",
+      "text": "because it has the noisy trait it has a"
+    },
+    {
+      "start_time": "00:04:24,560",
+      "end_time": "00:04:30,960",
+      "text": "noisy trait the noisy trait prevents you"
+    },
+    {
+      "start_time": "00:04:27,199",
+      "end_time": "00:04:33,440",
+      "text": "from using the avoid notice exploration"
+    },
+    {
+      "start_time": "00:04:30,960",
+      "end_time": "00:04:35,919",
+      "text": "activity got it hey everyone editor"
+    },
+    {
+      "start_time": "00:04:33,440",
+      "end_time": "00:04:37,919",
+      "text": "derek here and i just wanted to quickly"
+    },
+    {
+      "start_time": "00:04:35,919",
+      "end_time": "00:04:40,400",
+      "text": "clarify something"
+    },
+    {
+      "start_time": "00:04:37,919",
+      "end_time": "00:04:43,120",
+      "text": "when i made that statement about the"
+    },
+    {
+      "start_time": "00:04:40,400",
+      "end_time": "00:04:44,639",
+      "text": "noisy trait i was going based off of the"
+    },
+    {
+      "start_time": "00:04:43,120",
+      "end_time": "00:04:46,960",
+      "text": "core rule book"
+    },
+    {
+      "start_time": "00:04:44,639",
+      "end_time": "00:04:49,199",
+      "text": "which describes that the noisy trait"
+    },
+    {
+      "start_time": "00:04:46,960",
+      "end_time": "00:04:52,240",
+      "text": "makes it difficult and"
+    },
+    {
+      "start_time": "00:04:49,199",
+      "end_time": "00:04:54,400",
+      "text": "to use the avoid notice activity however"
+    },
+    {
+      "start_time": "00:04:52,240",
+      "end_time": "00:04:56,639",
+      "text": "upon doing some additional follow-ups"
+    },
+    {
+      "start_time": "00:04:54,400",
+      "end_time": "00:04:59,199",
+      "text": "for this video i discovered that this"
+    },
+    {
+      "start_time": "00:04:56,639",
+      "end_time": "00:05:02,720",
+      "text": "was in fact a part of the core rule book"
+    },
+    {
+      "start_time": "00:04:59,199",
+      "end_time": "00:05:04,880",
+      "text": "errata which i was not aware of and you"
+    },
+    {
+      "start_time": "00:05:02,720",
+      "end_time": "00:05:08,479",
+      "text": "can see that the actual effect of the"
+    },
+    {
+      "start_time": "00:05:04,880",
+      "end_time": "00:05:10,560",
+      "text": "noisy trait is right here which it gives"
+    },
+    {
+      "start_time": "00:05:08,479",
+      "end_time": "00:05:12,960",
+      "text": "you the stealth penalty even if your"
+    },
+    {
+      "start_time": "00:05:10,560",
+      "end_time": "00:05:15,840",
+      "text": "strength is good enough which means"
+    },
+    {
+      "start_time": "00:05:12,960",
+      "end_time": "00:05:18,080",
+      "text": "that you can use the avoid notice"
+    },
+    {
+      "start_time": "00:05:15,840",
+      "end_time": "00:05:19,840",
+      "text": "activity while you are in"
+    },
+    {
+      "start_time": "00:05:18,080",
+      "end_time": "00:05:22,479",
+      "text": "exploration mode even if you are wearing"
+    },
+    {
+      "start_time": "00:05:19,840",
+      "end_time": "00:05:24,320",
+      "text": "chain mail or a chain shirt however the"
+    },
+    {
+      "start_time": "00:05:22,479",
+      "end_time": "00:05:26,960",
+      "text": "armor check penalty from chainmail or"
+    },
+    {
+      "start_time": "00:05:24,320",
+      "end_time": "00:05:29,120",
+      "text": "change shirt applies no matter what your"
+    },
+    {
+      "start_time": "00:05:26,960",
+      "end_time": "00:05:32,800",
+      "text": "strength score is because it's a bunch"
+    },
+    {
+      "start_time": "00:05:29,120",
+      "end_time": "00:05:34,000",
+      "text": "of you know chain mail why uh i didn't"
+    },
+    {
+      "start_time": "00:05:32,800",
+      "end_time": "00:05:35,680",
+      "text": "know that well"
+    },
+    {
+      "start_time": "00:05:34,000",
+      "end_time": "00:05:37,120",
+      "text": "i guess i just missed that part of the"
+    },
+    {
+      "start_time": "00:05:35,680",
+      "end_time": "00:05:39,199",
+      "text": "errata so"
+    },
+    {
+      "start_time": "00:05:37,120",
+      "end_time": "00:05:42,479",
+      "text": "just keeping you informed and back to"
+    },
+    {
+      "start_time": "00:05:39,199",
+      "end_time": "00:05:43,360",
+      "text": "the video that means being quiet outside"
+    },
+    {
+      "start_time": "00:05:42,479",
+      "end_time": "00:05:45,759",
+      "text": "of"
+    },
+    {
+      "start_time": "00:05:43,360",
+      "end_time": "00:05:47,360",
+      "text": "combat so i could still hide or well you"
+    },
+    {
+      "start_time": "00:05:45,759",
+      "end_time": "00:05:50,720",
+      "text": "could sneak you could still hide or"
+    },
+    {
+      "start_time": "00:05:47,360",
+      "end_time": "00:05:51,759",
+      "text": "sneak inside of a combat absolutely yeah"
+    },
+    {
+      "start_time": "00:05:50,720",
+      "end_time": "00:05:54,080",
+      "text": "so just because you're wearing chain"
+    },
+    {
+      "start_time": "00:05:51,759",
+      "end_time": "00:05:55,840",
+      "text": "mail or even full plate doesn't actually"
+    },
+    {
+      "start_time": "00:05:54,080",
+      "end_time": "00:05:57,919",
+      "text": "give you any penalty right to your"
+    },
+    {
+      "start_time": "00:05:55,840",
+      "end_time": "00:05:59,680",
+      "text": "attempt to hide um you're just as good"
+    },
+    {
+      "start_time": "00:05:57,919",
+      "end_time": "00:06:01,280",
+      "text": "as someone who isn't wearing any like"
+    },
+    {
+      "start_time": "00:05:59,680",
+      "end_time": "00:06:02,880",
+      "text": "wearing cloth like doesn't really matter"
+    },
+    {
+      "start_time": "00:06:01,280",
+      "end_time": "00:06:04,560",
+      "text": "yeah like burlington yeah yeah and i"
+    },
+    {
+      "start_time": "00:06:02,880",
+      "end_time": "00:06:07,520",
+      "text": "mean and also too remember like your"
+    },
+    {
+      "start_time": "00:06:04,560",
+      "end_time": "00:06:09,840",
+      "text": "armor right has a plus one potency rune"
+    },
+    {
+      "start_time": "00:06:07,520",
+      "end_time": "00:06:11,360",
+      "text": "on it yes which means it could have a"
+    },
+    {
+      "start_time": "00:06:09,840",
+      "end_time": "00:06:12,800",
+      "text": "property rune"
+    },
+    {
+      "start_time": "00:06:11,360",
+      "end_time": "00:06:14,720",
+      "text": "i could put something on there and no"
+    },
+    {
+      "start_time": "00:06:12,800",
+      "end_time": "00:06:17,039",
+      "text": "and no one's armor has a property rune"
+    },
+    {
+      "start_time": "00:06:14,720",
+      "end_time": "00:06:18,960",
+      "text": "there is a there's like a shadow rune"
+    },
+    {
+      "start_time": "00:06:17,039",
+      "end_time": "00:06:20,800",
+      "text": "which gives you a bunch of stealth yep"
+    },
+    {
+      "start_time": "00:06:18,960",
+      "end_time": "00:06:23,039",
+      "text": "so there are definitely ways to get your"
+    },
+    {
+      "start_time": "00:06:20,800",
+      "end_time": "00:06:25,199",
+      "text": "stealth up there so why might someone"
+    },
+    {
+      "start_time": "00:06:23,039",
+      "end_time": "00:06:26,400",
+      "text": "use stealth well in our conversation"
+    },
+    {
+      "start_time": "00:06:25,199",
+      "end_time": "00:06:27,759",
+      "text": "about stealth i think we're gonna be"
+    },
+    {
+      "start_time": "00:06:26,400",
+      "end_time": "00:06:30,400",
+      "text": "touching on a couple different skills"
+    },
+    {
+      "start_time": "00:06:27,759",
+      "end_time": "00:06:32,560",
+      "text": "which sort of surround stealth uh most"
+    },
+    {
+      "start_time": "00:06:30,400",
+      "end_time": "00:06:33,759",
+      "text": "notably uh sneak"
+    },
+    {
+      "start_time": "00:06:32,560",
+      "end_time": "00:06:35,039",
+      "text": "well that's uh"
+    },
+    {
+      "start_time": "00:06:33,759",
+      "end_time": "00:06:37,039",
+      "text": "that's something that uses stealth"
+    },
+    {
+      "start_time": "00:06:35,039",
+      "end_time": "00:06:38,080",
+      "text": "mostly deception okay"
+    },
+    {
+      "start_time": "00:06:37,039",
+      "end_time": "00:06:40,240",
+      "text": "but we're also going to talk a little"
+    },
+    {
+      "start_time": "00:06:38,080",
+      "end_time": "00:06:41,759",
+      "text": "bit about cover and concealment yeah"
+    },
+    {
+      "start_time": "00:06:40,240",
+      "end_time": "00:06:43,280",
+      "text": "line of sight and how all that"
+    },
+    {
+      "start_time": "00:06:41,759",
+      "end_time": "00:06:44,720",
+      "text": "calculates disability and everything"
+    },
+    {
+      "start_time": "00:06:43,280",
+      "end_time": "00:06:47,360",
+      "text": "because again we're really focused here"
+    },
+    {
+      "start_time": "00:06:44,720",
+      "end_time": "00:06:50,319",
+      "text": "on the combat and tactics part right so"
+    },
+    {
+      "start_time": "00:06:47,360",
+      "end_time": "00:06:53,919",
+      "text": "let's focus first on what is essentially"
+    },
+    {
+      "start_time": "00:06:50,319",
+      "end_time": "00:06:56,319",
+      "text": "what is the the main benefit of being"
+    },
+    {
+      "start_time": "00:06:53,919",
+      "end_time": "00:06:57,440",
+      "text": "st of using stealth uh making the enemy"
+    },
+    {
+      "start_time": "00:06:56,319",
+      "end_time": "00:06:59,759",
+      "text": "flat-footed"
+    },
+    {
+      "start_time": "00:06:57,440",
+      "end_time": "00:07:02,319",
+      "text": "yes and no it's to become hidden oh okay"
+    },
+    {
+      "start_time": "00:06:59,759",
+      "end_time": "00:07:04,960",
+      "text": "talk about like cover and yeah so there"
+    },
+    {
+      "start_time": "00:07:02,319",
+      "end_time": "00:07:08,080",
+      "text": "are three different levels of"
+    },
+    {
+      "start_time": "00:07:04,960",
+      "end_time": "00:07:10,400",
+      "text": "observation there's observed"
+    },
+    {
+      "start_time": "00:07:08,080",
+      "end_time": "00:07:13,520",
+      "text": "there's hidden and then there is"
+    },
+    {
+      "start_time": "00:07:10,400",
+      "end_time": "00:07:14,400",
+      "text": "unnoticed undetected undetected"
+    },
+    {
+      "start_time": "00:07:13,520",
+      "end_time": "00:07:16,560",
+      "text": "yes"
+    },
+    {
+      "start_time": "00:07:14,400",
+      "end_time": "00:07:18,319",
+      "text": "unnoticed is technically part of that"
+    },
+    {
+      "start_time": "00:07:16,560",
+      "end_time": "00:07:20,880",
+      "text": "but it's outside of a different tier"
+    },
+    {
+      "start_time": "00:07:18,319",
+      "end_time": "00:07:22,400",
+      "text": "okay so yeah so unnoticed means you"
+    },
+    {
+      "start_time": "00:07:20,880",
+      "end_time": "00:07:24,560",
+      "text": "literally don't even know that they're"
+    },
+    {
+      "start_time": "00:07:22,400",
+      "end_time": "00:07:26,479",
+      "text": "even there you're not even an initiative"
+    },
+    {
+      "start_time": "00:07:24,560",
+      "end_time": "00:07:28,319",
+      "text": "order because they don't even like"
+    },
+    {
+      "start_time": "00:07:26,479",
+      "end_time": "00:07:29,599",
+      "text": "you're just completely unknown that"
+    },
+    {
+      "start_time": "00:07:28,319",
+      "end_time": "00:07:32,080",
+      "text": "you're even there"
+    },
+    {
+      "start_time": "00:07:29,599",
+      "end_time": "00:07:32,880",
+      "text": "so undetected is in initiative order you"
+    },
+    {
+      "start_time": "00:07:32,080",
+      "end_time": "00:07:34,400",
+      "text": "just don't know where they are"
+    },
+    {
+      "start_time": "00:07:32,880",
+      "end_time": "00:07:36,400",
+      "text": "undetected means"
+    },
+    {
+      "start_time": "00:07:34,400",
+      "end_time": "00:07:39,039",
+      "text": "you know that there is an enemy or"
+    },
+    {
+      "start_time": "00:07:36,400",
+      "end_time": "00:07:40,800",
+      "text": "something nearby but you cannot see them"
+    },
+    {
+      "start_time": "00:07:39,039",
+      "end_time": "00:07:41,840",
+      "text": "and you do not know what square they are"
+    },
+    {
+      "start_time": "00:07:40,800",
+      "end_time": "00:07:43,680",
+      "text": "in mm-hmm"
+    },
+    {
+      "start_time": "00:07:41,840",
+      "end_time": "00:07:45,599",
+      "text": "you just have the you know that their"
+    },
+    {
+      "start_time": "00:07:43,680",
+      "end_time": "00:07:46,800",
+      "text": "presence is there basically exactly"
+    },
+    {
+      "start_time": "00:07:45,599",
+      "end_time": "00:07:48,960",
+      "text": "there's someone in this room with me"
+    },
+    {
+      "start_time": "00:07:46,800",
+      "end_time": "00:07:51,120",
+      "text": "okay i don't know where they are"
+    },
+    {
+      "start_time": "00:07:48,960",
+      "end_time": "00:07:53,759",
+      "text": "that's undetected"
+    },
+    {
+      "start_time": "00:07:51,120",
+      "end_time": "00:07:55,440",
+      "text": "hidden means i know which square on the"
+    },
+    {
+      "start_time": "00:07:53,759",
+      "end_time": "00:07:57,360",
+      "text": "battlefield they're in"
+    },
+    {
+      "start_time": "00:07:55,440",
+      "end_time": "00:07:59,680",
+      "text": "but i can't get a good look at them you"
+    },
+    {
+      "start_time": "00:07:57,360",
+      "end_time": "00:08:01,360",
+      "text": "can't see them directly and that means"
+    },
+    {
+      "start_time": "00:07:59,680",
+      "end_time": "00:08:03,520",
+      "text": "that if i attack them"
+    },
+    {
+      "start_time": "00:08:01,360",
+      "end_time": "00:08:06,560",
+      "text": "i have to succeed at a flat"
+    },
+    {
+      "start_time": "00:08:03,520",
+      "end_time": "00:08:08,960",
+      "text": "dc 11 check which basically means you"
+    },
+    {
+      "start_time": "00:08:06,560",
+      "end_time": "00:08:11,360",
+      "text": "have a 50 chance of missing"
+    },
+    {
+      "start_time": "00:08:08,960",
+      "end_time": "00:08:13,520",
+      "text": "and you do that first before you even"
+    },
+    {
+      "start_time": "00:08:11,360",
+      "end_time": "00:08:15,840",
+      "text": "yeah now yeah your attack is used your"
+    },
+    {
+      "start_time": "00:08:13,520",
+      "end_time": "00:08:18,000",
+      "text": "spell to hit yes if you succeed with"
+    },
+    {
+      "start_time": "00:08:15,840",
+      "end_time": "00:08:19,120",
+      "text": "that uh flat dc 11 check then you can"
+    },
+    {
+      "start_time": "00:08:18,000",
+      "end_time": "00:08:20,720",
+      "text": "make your normal attack you can still"
+    },
+    {
+      "start_time": "00:08:19,120",
+      "end_time": "00:08:22,319",
+      "text": "just miss normally yeah exactly that's"
+    },
+    {
+      "start_time": "00:08:20,720",
+      "end_time": "00:08:24,160",
+      "text": "kind of my point no and then the last"
+    },
+    {
+      "start_time": "00:08:22,319",
+      "end_time": "00:08:25,680",
+      "text": "status is observed which is just the"
+    },
+    {
+      "start_time": "00:08:24,160",
+      "end_time": "00:08:26,720",
+      "text": "normal status means you can see them"
+    },
+    {
+      "start_time": "00:08:25,680",
+      "end_time": "00:08:29,199",
+      "text": "yeah"
+    },
+    {
+      "start_time": "00:08:26,720",
+      "end_time": "00:08:31,680",
+      "text": "now if you do the the dc flat check for"
+    },
+    {
+      "start_time": "00:08:29,199",
+      "end_time": "00:08:34,240",
+      "text": "11 yeah and let's say you're a spell"
+    },
+    {
+      "start_time": "00:08:31,680",
+      "end_time": "00:08:35,839",
+      "text": "caster because you know distance yep you"
+    },
+    {
+      "start_time": "00:08:34,240",
+      "end_time": "00:08:37,120",
+      "text": "use two actions to cast that spell and"
+    },
+    {
+      "start_time": "00:08:35,839",
+      "end_time": "00:08:38,399",
+      "text": "you have to do that check if you fail"
+    },
+    {
+      "start_time": "00:08:37,120",
+      "end_time": "00:08:39,760",
+      "text": "that check do you still get to keep"
+    },
+    {
+      "start_time": "00:08:38,399",
+      "end_time": "00:08:41,760",
+      "text": "those two actions no no they're gone"
+    },
+    {
+      "start_time": "00:08:39,760",
+      "end_time": "00:08:44,399",
+      "text": "right the actions are gone and the spell"
+    },
+    {
+      "start_time": "00:08:41,760",
+      "end_time": "00:08:46,000",
+      "text": "slot is gone right you you like you cast"
+    },
+    {
+      "start_time": "00:08:44,399",
+      "end_time": "00:08:47,600",
+      "text": "it basically you just aimed at the wrong"
+    },
+    {
+      "start_time": "00:08:46,000",
+      "end_time": "00:08:48,560",
+      "text": "spot so that that's something to know"
+    },
+    {
+      "start_time": "00:08:47,600",
+      "end_time": "00:08:51,200",
+      "text": "that"
+    },
+    {
+      "start_time": "00:08:48,560",
+      "end_time": "00:08:52,800",
+      "text": "that's why cover and hidden is so potent"
+    },
+    {
+      "start_time": "00:08:51,200",
+      "end_time": "00:08:55,040",
+      "text": "because in the three three action"
+    },
+    {
+      "start_time": "00:08:52,800",
+      "end_time": "00:08:56,240",
+      "text": "economy it burns some of their actions"
+    },
+    {
+      "start_time": "00:08:55,040",
+      "end_time": "00:08:58,480",
+      "text": "potentially you have a family you're not"
+    },
+    {
+      "start_time": "00:08:56,240",
+      "end_time": "00:08:59,519",
+      "text": "the shot of burning they could miss yeah"
+    },
+    {
+      "start_time": "00:08:58,480",
+      "end_time": "00:09:02,000",
+      "text": "but then there's the chance that they"
+    },
+    {
+      "start_time": "00:08:59,519",
+      "end_time": "00:09:04,000",
+      "text": "don't even get to well it's it's a huge"
+    },
+    {
+      "start_time": "00:09:02,000",
+      "end_time": "00:09:06,959",
+      "text": "defensive bonus yes right if you can"
+    },
+    {
+      "start_time": "00:09:04,000",
+      "end_time": "00:09:08,800",
+      "text": "hide then if they want to attack you you"
+    },
+    {
+      "start_time": "00:09:06,959",
+      "end_time": "00:09:11,040",
+      "text": "know outside of whatever normal chance"
+    },
+    {
+      "start_time": "00:09:08,800",
+      "end_time": "00:09:12,640",
+      "text": "they have of hitting you right i mean"
+    },
+    {
+      "start_time": "00:09:11,040",
+      "end_time": "00:09:14,560",
+      "text": "let's just say they have a 50 chance of"
+    },
+    {
+      "start_time": "00:09:12,640",
+      "end_time": "00:09:16,640",
+      "text": "hitting you normally using their attack"
+    },
+    {
+      "start_time": "00:09:14,560",
+      "end_time": "00:09:18,240",
+      "text": "roll well now they have to make a 50"
+    },
+    {
+      "start_time": "00:09:16,640",
+      "end_time": "00:09:20,240",
+      "text": "chance roll to hit you"
+    },
+    {
+      "start_time": "00:09:18,240",
+      "end_time": "00:09:21,440",
+      "text": "and they have to make a 50 chance roll"
+    },
+    {
+      "start_time": "00:09:20,240",
+      "end_time": "00:09:24,160",
+      "text": "to see if they can hit you through your"
+    },
+    {
+      "start_time": "00:09:21,440",
+      "end_time": "00:09:25,760",
+      "text": "hidden that is essentially like if you"
+    },
+    {
+      "start_time": "00:09:24,160",
+      "end_time": "00:09:28,000",
+      "text": "do the math on it it means they now only"
+    },
+    {
+      "start_time": "00:09:25,760",
+      "end_time": "00:09:29,519",
+      "text": "have a 25 percent chance to hit you"
+    },
+    {
+      "start_time": "00:09:28,000",
+      "end_time": "00:09:31,440",
+      "text": "right which means that before if you"
+    },
+    {
+      "start_time": "00:09:29,519",
+      "end_time": "00:09:34,399",
+      "text": "want to put it into one roll they would"
+    },
+    {
+      "start_time": "00:09:31,440",
+      "end_time": "00:09:36,240",
+      "text": "now need a 15 a 16 or higher to hit you"
+    },
+    {
+      "start_time": "00:09:34,399",
+      "end_time": "00:09:38,399",
+      "text": "as opposed to an 11 or higher so it's"
+    },
+    {
+      "start_time": "00:09:36,240",
+      "end_time": "00:09:41,440",
+      "text": "very very strong defensively"
+    },
+    {
+      "start_time": "00:09:38,399",
+      "end_time": "00:09:43,440",
+      "text": "so how do you become hidden well"
+    },
+    {
+      "start_time": "00:09:41,440",
+      "end_time": "00:09:45,440",
+      "text": "in our game here we've got"
+    },
+    {
+      "start_time": "00:09:43,440",
+      "end_time": "00:09:47,760",
+      "text": "got eskenor"
+    },
+    {
+      "start_time": "00:09:45,440",
+      "end_time": "00:09:51,279",
+      "text": "we've got azias we've got burl"
+    },
+    {
+      "start_time": "00:09:47,760",
+      "end_time": "00:09:53,680",
+      "text": "and conveniently enough we got a pillar"
+    },
+    {
+      "start_time": "00:09:51,279",
+      "end_time": "00:09:55,920",
+      "text": "in the middle of the room"
+    },
+    {
+      "start_time": "00:09:53,680",
+      "end_time": "00:09:58,160",
+      "text": "and we've got"
+    },
+    {
+      "start_time": "00:09:55,920",
+      "end_time": "00:10:00,000",
+      "text": "a lizard man oh no"
+    },
+    {
+      "start_time": "00:09:58,160",
+      "end_time": "00:10:01,440",
+      "text": "all right now"
+    },
+    {
+      "start_time": "00:10:00,000",
+      "end_time": "00:10:02,560",
+      "text": "i will put him here"
+    },
+    {
+      "start_time": "00:10:01,440",
+      "end_time": "00:10:06,480",
+      "text": "for maybe"
+    },
+    {
+      "start_time": "00:10:02,560",
+      "end_time": "00:10:06,480",
+      "text": "for the people at home there we go"
+    },
+    {
+      "start_time": "00:10:06,640",
+      "end_time": "00:10:09,760",
+      "text": "all right"
+    },
+    {
+      "start_time": "00:10:08,160",
+      "end_time": "00:10:10,640",
+      "text": "this lizard man"
+    },
+    {
+      "start_time": "00:10:09,760",
+      "end_time": "00:10:13,839",
+      "text": "has"
+    },
+    {
+      "start_time": "00:10:10,640",
+      "end_time": "00:10:14,640",
+      "text": "cover yep from our party yeah correct"
+    },
+    {
+      "start_time": "00:10:13,839",
+      "end_time": "00:10:16,480",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:10:14,640",
+      "end_time": "00:10:17,920",
+      "text": "in order to make a hide check you have"
+    },
+    {
+      "start_time": "00:10:16,480",
+      "end_time": "00:10:20,800",
+      "text": "to use so stealth has a couple different"
+    },
+    {
+      "start_time": "00:10:17,920",
+      "end_time": "00:10:23,120",
+      "text": "uses one of them is hide if you make a"
+    },
+    {
+      "start_time": "00:10:20,800",
+      "end_time": "00:10:25,360",
+      "text": "hide check you roll a stealth check"
+    },
+    {
+      "start_time": "00:10:23,120",
+      "end_time": "00:10:29,360",
+      "text": "and then you compare it to the"
+    },
+    {
+      "start_time": "00:10:25,360",
+      "end_time": "00:10:31,600",
+      "text": "perception dc's of the other people in"
+    },
+    {
+      "start_time": "00:10:29,360",
+      "end_time": "00:10:33,200",
+      "text": "the room yep okay remember to create a"
+    },
+    {
+      "start_time": "00:10:31,600",
+      "end_time": "00:10:36,240",
+      "text": "dc out of something you just take the"
+    },
+    {
+      "start_time": "00:10:33,200",
+      "end_time": "00:10:37,200",
+      "text": "bonus and add 10. there are no opposed"
+    },
+    {
+      "start_time": "00:10:36,240",
+      "end_time": "00:10:39,360",
+      "text": "roles"
+    },
+    {
+      "start_time": "00:10:37,200",
+      "end_time": "00:10:40,800",
+      "text": "in pathfinder two you know i don't make"
+    },
+    {
+      "start_time": "00:10:39,360",
+      "end_time": "00:10:43,440",
+      "text": "a perception check and then you make a"
+    },
+    {
+      "start_time": "00:10:40,800",
+      "end_time": "00:10:46,720",
+      "text": "stealth check and we see who got higher"
+    },
+    {
+      "start_time": "00:10:43,440",
+      "end_time": "00:10:48,560",
+      "text": "it's always a check versus a dc so in my"
+    },
+    {
+      "start_time": "00:10:46,720",
+      "end_time": "00:10:50,720",
+      "text": "case i'm the active character i'm the"
+    },
+    {
+      "start_time": "00:10:48,560",
+      "end_time": "00:10:52,320",
+      "text": "the lizard man i'm trying to hide i'm"
+    },
+    {
+      "start_time": "00:10:50,720",
+      "end_time": "00:10:54,800",
+      "text": "gonna make a self check i'm gonna roll"
+    },
+    {
+      "start_time": "00:10:52,320",
+      "end_time": "00:10:57,519",
+      "text": "it i'm gonna add my bonuses i gotta you"
+    },
+    {
+      "start_time": "00:10:54,800",
+      "end_time": "00:11:00,240",
+      "text": "know i got a 25. okay does that beat the"
+    },
+    {
+      "start_time": "00:10:57,519",
+      "end_time": "00:11:02,240",
+      "text": "people's perception dc if it does i'm"
+    },
+    {
+      "start_time": "00:11:00,240",
+      "end_time": "00:11:05,120",
+      "text": "hidden to them"
+    },
+    {
+      "start_time": "00:11:02,240",
+      "end_time": "00:11:07,279",
+      "text": "hiding is a lot like flanking"
+    },
+    {
+      "start_time": "00:11:05,120",
+      "end_time": "00:11:10,000",
+      "text": "okay it's subjective"
+    },
+    {
+      "start_time": "00:11:07,279",
+      "end_time": "00:11:12,399",
+      "text": "meaning you might be hidden to some"
+    },
+    {
+      "start_time": "00:11:10,000",
+      "end_time": "00:11:13,600",
+      "text": "characters but not others and not hidden"
+    },
+    {
+      "start_time": "00:11:12,399",
+      "end_time": "00:11:16,560",
+      "text": "to others"
+    },
+    {
+      "start_time": "00:11:13,600",
+      "end_time": "00:11:18,800",
+      "text": "right yeah so you gotta kind of"
+    },
+    {
+      "start_time": "00:11:16,560",
+      "end_time": "00:11:20,959",
+      "text": "get keep kind of keep track right of who"
+    },
+    {
+      "start_time": "00:11:18,800",
+      "end_time": "00:11:22,560",
+      "text": "you're hitting against so if my lizard"
+    },
+    {
+      "start_time": "00:11:20,959",
+      "end_time": "00:11:25,120",
+      "text": "man rolled and he rolled high enough"
+    },
+    {
+      "start_time": "00:11:22,560",
+      "end_time": "00:11:27,360",
+      "text": "that he is hidden to escondor and he's"
+    },
+    {
+      "start_time": "00:11:25,120",
+      "end_time": "00:11:29,040",
+      "text": "hidden to asia but not hidden to burl"
+    },
+    {
+      "start_time": "00:11:27,360",
+      "end_time": "00:11:31,440",
+      "text": "well then he's not hit into burl yeah"
+    },
+    {
+      "start_time": "00:11:29,040",
+      "end_time": "00:11:33,600",
+      "text": "and berl doesn't have that dc 11 flat"
+    },
+    {
+      "start_time": "00:11:31,440",
+      "end_time": "00:11:36,480",
+      "text": "check that 50 missed chance but if he"
+    },
+    {
+      "start_time": "00:11:33,600",
+      "end_time": "00:11:38,000",
+      "text": "has cover he still gets well sure okay"
+    },
+    {
+      "start_time": "00:11:36,480",
+      "end_time": "00:11:40,000",
+      "text": "so we'll talk about this in a second so"
+    },
+    {
+      "start_time": "00:11:38,000",
+      "end_time": "00:11:43,760",
+      "text": "in order to make a high check you need"
+    },
+    {
+      "start_time": "00:11:40,000",
+      "end_time": "00:11:44,720",
+      "text": "one of two things okay you either need"
+    },
+    {
+      "start_time": "00:11:43,760",
+      "end_time": "00:11:47,440",
+      "text": "cover"
+    },
+    {
+      "start_time": "00:11:44,720",
+      "end_time": "00:11:49,440",
+      "text": "or you need concealments right okay and"
+    },
+    {
+      "start_time": "00:11:47,440",
+      "end_time": "00:11:50,800",
+      "text": "that's like fog and mist it's like fog"
+    },
+    {
+      "start_time": "00:11:49,440",
+      "end_time": "00:11:52,240",
+      "text": "and mist and stuff we can get to that in"
+    },
+    {
+      "start_time": "00:11:50,800",
+      "end_time": "00:11:53,040",
+      "text": "a second but"
+    },
+    {
+      "start_time": "00:11:52,240",
+      "end_time": "00:11:54,320",
+      "text": "the"
+    },
+    {
+      "start_time": "00:11:53,040",
+      "end_time": "00:11:56,800",
+      "text": "standard way you're gonna do it is with"
+    },
+    {
+      "start_time": "00:11:54,320",
+      "end_time": "00:11:58,160",
+      "text": "cover okay now there are three types of"
+    },
+    {
+      "start_time": "00:11:56,800",
+      "end_time": "00:12:00,160",
+      "text": "cover in the game"
+    },
+    {
+      "start_time": "00:11:58,160",
+      "end_time": "00:12:02,720",
+      "text": "there's lesser cover"
+    },
+    {
+      "start_time": "00:12:00,160",
+      "end_time": "00:12:04,160",
+      "text": "cover and greater cover"
+    },
+    {
+      "start_time": "00:12:02,720",
+      "end_time": "00:12:06,000",
+      "text": "now these give you"
+    },
+    {
+      "start_time": "00:12:04,160",
+      "end_time": "00:12:08,079",
+      "text": "ever increasing bonuses to your armor"
+    },
+    {
+      "start_time": "00:12:06,000",
+      "end_time": "00:12:09,600",
+      "text": "class they also give you a bonus to your"
+    },
+    {
+      "start_time": "00:12:08,079",
+      "end_time": "00:12:12,800",
+      "text": "reflex saves"
+    },
+    {
+      "start_time": "00:12:09,600",
+      "end_time": "00:12:14,639",
+      "text": "and they give you a bonus to"
+    },
+    {
+      "start_time": "00:12:12,800",
+      "end_time": "00:12:16,320",
+      "text": "your hide checks"
+    },
+    {
+      "start_time": "00:12:14,639",
+      "end_time": "00:12:18,959",
+      "text": "oh to make the check to actually make"
+    },
+    {
+      "start_time": "00:12:16,320",
+      "end_time": "00:12:21,680",
+      "text": "the check that makes sense okay so"
+    },
+    {
+      "start_time": "00:12:18,959",
+      "end_time": "00:12:23,519",
+      "text": "uh in the case of lesser cover what is"
+    },
+    {
+      "start_time": "00:12:21,680",
+      "end_time": "00:12:25,680",
+      "text": "lesser cover well the easiest way to"
+    },
+    {
+      "start_time": "00:12:23,519",
+      "end_time": "00:12:28,000",
+      "text": "understand lesser cover is lesser cover"
+    },
+    {
+      "start_time": "00:12:25,680",
+      "end_time": "00:12:29,600",
+      "text": "is is there something between you and"
+    },
+    {
+      "start_time": "00:12:28,000",
+      "end_time": "00:12:31,519",
+      "text": "your target"
+    },
+    {
+      "start_time": "00:12:29,600",
+      "end_time": "00:12:33,519",
+      "text": "which is more or less"
+    },
+    {
+      "start_time": "00:12:31,519",
+      "end_time": "00:12:35,760",
+      "text": "uh the shape of a person i was thinking"
+    },
+    {
+      "start_time": "00:12:33,519",
+      "end_time": "00:12:39,200",
+      "text": "is it a person like a person so the"
+    },
+    {
+      "start_time": "00:12:35,760",
+      "end_time": "00:12:41,120",
+      "text": "classic example would be if we had uh"
+    },
+    {
+      "start_time": "00:12:39,200",
+      "end_time": "00:12:42,399",
+      "text": "you know if we had this uh"
+    },
+    {
+      "start_time": "00:12:41,120",
+      "end_time": "00:12:44,160",
+      "text": "or here's"
+    },
+    {
+      "start_time": "00:12:42,399",
+      "end_time": "00:12:45,680",
+      "text": "our well cool there's a bad example"
+    },
+    {
+      "start_time": "00:12:44,160",
+      "end_time": "00:12:48,000",
+      "text": "let's say we have this uh"
+    },
+    {
+      "start_time": "00:12:45,680",
+      "end_time": "00:12:50,000",
+      "text": "we have this dire badger here"
+    },
+    {
+      "start_time": "00:12:48,000",
+      "end_time": "00:12:51,200",
+      "text": "if escudor was trying to shoot the"
+    },
+    {
+      "start_time": "00:12:50,000",
+      "end_time": "00:12:53,519",
+      "text": "lizard man"
+    },
+    {
+      "start_time": "00:12:51,200",
+      "end_time": "00:12:55,360",
+      "text": "well there's a creature in them that's"
+    },
+    {
+      "start_time": "00:12:53,519",
+      "end_time": "00:12:57,040",
+      "text": "lesser cover right they'd have to shoot"
+    },
+    {
+      "start_time": "00:12:55,360",
+      "end_time": "00:12:59,360",
+      "text": "around something to shoot around"
+    },
+    {
+      "start_time": "00:12:57,040",
+      "end_time": "00:13:00,800",
+      "text": "something but i still could do it yeah"
+    },
+    {
+      "start_time": "00:12:59,360",
+      "end_time": "00:13:02,480",
+      "text": "and that character will get a plus one"
+    },
+    {
+      "start_time": "00:13:00,800",
+      "end_time": "00:13:04,160",
+      "text": "bonus to their armor class it should be"
+    },
+    {
+      "start_time": "00:13:02,480",
+      "end_time": "00:13:06,480",
+      "text": "noted and this is important for our"
+    },
+    {
+      "start_time": "00:13:04,160",
+      "end_time": "00:13:10,079",
+      "text": "discussion is that"
+    },
+    {
+      "start_time": "00:13:06,480",
+      "end_time": "00:13:11,519",
+      "text": "you cannot hide if you have lesser cover"
+    },
+    {
+      "start_time": "00:13:10,079",
+      "end_time": "00:13:12,800",
+      "text": "because it's not basically you don't get"
+    },
+    {
+      "start_time": "00:13:11,519",
+      "end_time": "00:13:13,920",
+      "text": "it enough because it's not good enough"
+    },
+    {
+      "start_time": "00:13:12,800",
+      "end_time": "00:13:15,279",
+      "text": "it's not good enough not consume i"
+    },
+    {
+      "start_time": "00:13:13,920",
+      "end_time": "00:13:17,040",
+      "text": "shouldn't use that phrase you should not"
+    },
+    {
+      "start_time": "00:13:15,279",
+      "end_time": "00:13:17,839",
+      "text": "i i caught myself but you don't have"
+    },
+    {
+      "start_time": "00:13:17,040",
+      "end_time": "00:13:20,320",
+      "text": "enough"
+    },
+    {
+      "start_time": "00:13:17,839",
+      "end_time": "00:13:21,519",
+      "text": "area to technically hide behind you got"
+    },
+    {
+      "start_time": "00:13:20,320",
+      "end_time": "00:13:23,519",
+      "text": "it okay"
+    },
+    {
+      "start_time": "00:13:21,519",
+      "end_time": "00:13:25,120",
+      "text": "now there are some feats in the game of"
+    },
+    {
+      "start_time": "00:13:23,519",
+      "end_time": "00:13:27,040",
+      "text": "course this is pathfinder two wouldn't"
+    },
+    {
+      "start_time": "00:13:25,120",
+      "end_time": "00:13:30,240",
+      "text": "be pathfinder two if it wasn't you know"
+    },
+    {
+      "start_time": "00:13:27,040",
+      "end_time": "00:13:33,040",
+      "text": "some sort of crazy thing uh halflings"
+    },
+    {
+      "start_time": "00:13:30,240",
+      "end_time": "00:13:34,560",
+      "text": "for example can get a feat that lets"
+    },
+    {
+      "start_time": "00:13:33,040",
+      "end_time": "00:13:36,800",
+      "text": "them hide"
+    },
+    {
+      "start_time": "00:13:34,560",
+      "end_time": "00:13:38,720",
+      "text": "with lesser cover okay so basically"
+    },
+    {
+      "start_time": "00:13:36,800",
+      "end_time": "00:13:40,880",
+      "text": "smaller yeah they're sneaky little"
+    },
+    {
+      "start_time": "00:13:38,720",
+      "end_time": "00:13:43,279",
+      "text": "hobbit people so they can you know go"
+    },
+    {
+      "start_time": "00:13:40,880",
+      "end_time": "00:13:46,160",
+      "text": "ahead and get hidden okay so yes so"
+    },
+    {
+      "start_time": "00:13:43,279",
+      "end_time": "00:13:48,240",
+      "text": "lesser cover is usually given by an ally"
+    },
+    {
+      "start_time": "00:13:46,160",
+      "end_time": "00:13:49,839",
+      "text": "um between or and i should say a"
+    },
+    {
+      "start_time": "00:13:48,240",
+      "end_time": "00:13:51,600",
+      "text": "creature between you it also could be"
+    },
+    {
+      "start_time": "00:13:49,839",
+      "end_time": "00:13:53,040",
+      "text": "the case that like let's say there was i"
+    },
+    {
+      "start_time": "00:13:51,600",
+      "end_time": "00:13:54,880",
+      "text": "don't know you know"
+    },
+    {
+      "start_time": "00:13:53,040",
+      "end_time": "00:13:56,320",
+      "text": "just dinky little barrel"
+    },
+    {
+      "start_time": "00:13:54,880",
+      "end_time": "00:13:58,320",
+      "text": "you know between the lizardmen and"
+    },
+    {
+      "start_time": "00:13:56,320",
+      "end_time": "00:14:00,240",
+      "text": "everybody else you go well"
+    },
+    {
+      "start_time": "00:13:58,320",
+      "end_time": "00:14:01,920",
+      "text": "this is gm ruling yeah this is you know"
+    },
+    {
+      "start_time": "00:14:00,240",
+      "end_time": "00:14:03,360",
+      "text": "a lot of it is it's subjective and i"
+    },
+    {
+      "start_time": "00:14:01,920",
+      "end_time": "00:14:04,639",
+      "text": "think it's fine to ask your gm and say"
+    },
+    {
+      "start_time": "00:14:03,360",
+      "end_time": "00:14:05,519",
+      "text": "what kind of cover does this provide"
+    },
+    {
+      "start_time": "00:14:04,639",
+      "end_time": "00:14:07,600",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:14:05,519",
+      "end_time": "00:14:09,760",
+      "text": "and in this case this little barrel here"
+    },
+    {
+      "start_time": "00:14:07,600",
+      "end_time": "00:14:11,360",
+      "text": "uh provides uh lesser cover because it"
+    },
+    {
+      "start_time": "00:14:09,760",
+      "end_time": "00:14:13,279",
+      "text": "you know it's not that big right it's"
+    },
+    {
+      "start_time": "00:14:11,360",
+      "end_time": "00:14:16,000",
+      "text": "not something substantial on the other"
+    },
+    {
+      "start_time": "00:14:13,279",
+      "end_time": "00:14:17,680",
+      "text": "hand something real meaty like a big"
+    },
+    {
+      "start_time": "00:14:16,000",
+      "end_time": "00:14:18,959",
+      "text": "thick pillar that takes up the entire"
+    },
+    {
+      "start_time": "00:14:17,680",
+      "end_time": "00:14:21,199",
+      "text": "square"
+    },
+    {
+      "start_time": "00:14:18,959",
+      "end_time": "00:14:23,839",
+      "text": "that provides cover"
+    },
+    {
+      "start_time": "00:14:21,199",
+      "end_time": "00:14:26,880",
+      "text": "standard cover or regular cover now this"
+    },
+    {
+      "start_time": "00:14:23,839",
+      "end_time": "00:14:29,120",
+      "text": "gives you a plus two bonus to your armor"
+    },
+    {
+      "start_time": "00:14:26,880",
+      "end_time": "00:14:31,600",
+      "text": "class i should note this is important"
+    },
+    {
+      "start_time": "00:14:29,120",
+      "end_time": "00:14:34,959",
+      "text": "this is a night's notice"
+    },
+    {
+      "start_time": "00:14:31,600",
+      "end_time": "00:14:36,639",
+      "text": "cover provides a circumstance bonus"
+    },
+    {
+      "start_time": "00:14:34,959",
+      "end_time": "00:14:39,120",
+      "text": "to your armor class because the"
+    },
+    {
+      "start_time": "00:14:36,639",
+      "end_time": "00:14:41,199",
+      "text": "circumstances is that i'm hiding by or"
+    },
+    {
+      "start_time": "00:14:39,120",
+      "end_time": "00:14:43,040",
+      "text": "i'm taking cover behind this you know"
+    },
+    {
+      "start_time": "00:14:41,199",
+      "end_time": "00:14:44,800",
+      "text": "pillar yep shields provide a"
+    },
+    {
+      "start_time": "00:14:43,040",
+      "end_time": "00:14:46,959",
+      "text": "circumstance bonus to cover or to your"
+    },
+    {
+      "start_time": "00:14:44,800",
+      "end_time": "00:14:48,399",
+      "text": "armor class yep that means shields and"
+    },
+    {
+      "start_time": "00:14:46,959",
+      "end_time": "00:14:50,639",
+      "text": "cover"
+    },
+    {
+      "start_time": "00:14:48,399",
+      "end_time": "00:14:52,079",
+      "text": "don't stack oh yeah it's good"
+    },
+    {
+      "start_time": "00:14:50,639",
+      "end_time": "00:14:53,519",
+      "text": "no okay well i mean it makes sense i"
+    },
+    {
+      "start_time": "00:14:52,079",
+      "end_time": "00:14:55,040",
+      "text": "mean if you're if you're hiding behind a"
+    },
+    {
+      "start_time": "00:14:53,519",
+      "end_time": "00:14:56,560",
+      "text": "pillar and you have your shield up it's"
+    },
+    {
+      "start_time": "00:14:55,040",
+      "end_time": "00:15:00,000",
+      "text": "just a shield yeah like it's the same"
+    },
+    {
+      "start_time": "00:14:56,560",
+      "end_time": "00:15:01,279",
+      "text": "thing exactly so in this case"
+    },
+    {
+      "start_time": "00:15:00,000",
+      "end_time": "00:15:03,600",
+      "text": "cover"
+    },
+    {
+      "start_time": "00:15:01,279",
+      "end_time": "00:15:05,519",
+      "text": "does allow you"
+    },
+    {
+      "start_time": "00:15:03,600",
+      "end_time": "00:15:06,880",
+      "text": "to hide okay"
+    },
+    {
+      "start_time": "00:15:05,519",
+      "end_time": "00:15:09,760",
+      "text": "but that plus two bonus to your armor"
+    },
+    {
+      "start_time": "00:15:06,880",
+      "end_time": "00:15:12,079",
+      "text": "class also applies to reflex saves and"
+    },
+    {
+      "start_time": "00:15:09,760",
+      "end_time": "00:15:14,240",
+      "text": "it applies to that stealth check got it"
+    },
+    {
+      "start_time": "00:15:12,079",
+      "end_time": "00:15:15,920",
+      "text": "so that allows you to hide it allows you"
+    },
+    {
+      "start_time": "00:15:14,240",
+      "end_time": "00:15:18,800",
+      "text": "to hide but with the bonus well with a"
+    },
+    {
+      "start_time": "00:15:15,920",
+      "end_time": "00:15:20,480",
+      "text": "bonus yeah so again if you"
+    },
+    {
+      "start_time": "00:15:18,800",
+      "end_time": "00:15:21,760",
+      "text": "aren't is that a plus it's plus two plus"
+    },
+    {
+      "start_time": "00:15:20,480",
+      "end_time": "00:15:23,519",
+      "text": "two everything's plus two plus two bonds"
+    },
+    {
+      "start_time": "00:15:21,760",
+      "end_time": "00:15:24,959",
+      "text": "to reflect circumstance bonus to reflex"
+    },
+    {
+      "start_time": "00:15:23,519",
+      "end_time": "00:15:26,959",
+      "text": "circumstance bonus armor class"
+    },
+    {
+      "start_time": "00:15:24,959",
+      "end_time": "00:15:28,639",
+      "text": "circumstance bonus to stealth"
+    },
+    {
+      "start_time": "00:15:26,959",
+      "end_time": "00:15:30,800",
+      "text": "so again you might not be particularly"
+    },
+    {
+      "start_time": "00:15:28,639",
+      "end_time": "00:15:35,279",
+      "text": "well trained but if you can get some"
+    },
+    {
+      "start_time": "00:15:30,800",
+      "end_time": "00:15:37,440",
+      "text": "card cover like being behind a pillar or"
+    },
+    {
+      "start_time": "00:15:35,279",
+      "end_time": "00:15:38,320",
+      "text": "being around a corner"
+    },
+    {
+      "start_time": "00:15:37,440",
+      "end_time": "00:15:41,040",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:15:38,320",
+      "end_time": "00:15:42,320",
+      "text": "then you can get a plus two bonus"
+    },
+    {
+      "start_time": "00:15:41,040",
+      "end_time": "00:15:43,759",
+      "text": "now we should note that the way that you"
+    },
+    {
+      "start_time": "00:15:42,320",
+      "end_time": "00:15:45,199",
+      "text": "determine whether or not you have cover"
+    },
+    {
+      "start_time": "00:15:43,759",
+      "end_time": "00:15:47,920",
+      "text": "from an enemy"
+    },
+    {
+      "start_time": "00:15:45,199",
+      "end_time": "00:15:50,320",
+      "text": "is you draw a line between the center of"
+    },
+    {
+      "start_time": "00:15:47,920",
+      "end_time": "00:15:52,639",
+      "text": "their square"
+    },
+    {
+      "start_time": "00:15:50,320",
+      "end_time": "00:15:55,680",
+      "text": "and the center of your square"
+    },
+    {
+      "start_time": "00:15:52,639",
+      "end_time": "00:15:58,639",
+      "text": "if that line passes through something"
+    },
+    {
+      "start_time": "00:15:55,680",
+      "end_time": "00:16:01,199",
+      "text": "solid and and you know and uh meaty"
+    },
+    {
+      "start_time": "00:15:58,639",
+      "end_time": "00:16:03,440",
+      "text": "meaty then that creature has cover okay"
+    },
+    {
+      "start_time": "00:16:01,199",
+      "end_time": "00:16:04,880",
+      "text": "the type of cover well that depends on"
+    },
+    {
+      "start_time": "00:16:03,440",
+      "end_time": "00:16:07,279",
+      "text": "what you and your gm feel is most"
+    },
+    {
+      "start_time": "00:16:04,880",
+      "end_time": "00:16:09,519",
+      "text": "appropriate again if it's a solid stone"
+    },
+    {
+      "start_time": "00:16:07,279",
+      "end_time": "00:16:11,199",
+      "text": "wall it's probably cover if it's"
+    },
+    {
+      "start_time": "00:16:09,519",
+      "end_time": "00:16:13,360",
+      "text": "something like a barrel or something"
+    },
+    {
+      "start_time": "00:16:11,199",
+      "end_time": "00:16:15,360",
+      "text": "lesser that might be lesser cover and"
+    },
+    {
+      "start_time": "00:16:13,360",
+      "end_time": "00:16:17,519",
+      "text": "lastly you might have something really"
+    },
+    {
+      "start_time": "00:16:15,360",
+      "end_time": "00:16:20,079",
+      "text": "really you know robust like i don't know"
+    },
+    {
+      "start_time": "00:16:17,519",
+      "end_time": "00:16:22,720",
+      "text": "you might have like a full barricade of"
+    },
+    {
+      "start_time": "00:16:20,079",
+      "end_time": "00:16:24,880",
+      "text": "boxes and you know and there's a barrel"
+    },
+    {
+      "start_time": "00:16:22,720",
+      "end_time": "00:16:26,959",
+      "text": "on top of it right you know something"
+    },
+    {
+      "start_time": "00:16:24,880",
+      "end_time": "00:16:28,480",
+      "text": "really really substantial that i can't"
+    },
+    {
+      "start_time": "00:16:26,959",
+      "end_time": "00:16:30,800",
+      "text": "actually do because this is too far out"
+    },
+    {
+      "start_time": "00:16:28,480",
+      "end_time": "00:16:32,880",
+      "text": "of my grasp"
+    },
+    {
+      "start_time": "00:16:30,800",
+      "end_time": "00:16:35,279",
+      "text": "in this case"
+    },
+    {
+      "start_time": "00:16:32,880",
+      "end_time": "00:16:36,560",
+      "text": "your gm might rule that that is greater"
+    },
+    {
+      "start_time": "00:16:35,279",
+      "end_time": "00:16:38,959",
+      "text": "cover"
+    },
+    {
+      "start_time": "00:16:36,560",
+      "end_time": "00:16:40,560",
+      "text": "now greater cover gives you a plus four"
+    },
+    {
+      "start_time": "00:16:38,959",
+      "end_time": "00:16:42,800",
+      "text": "circumstance bonus"
+    },
+    {
+      "start_time": "00:16:40,560",
+      "end_time": "00:16:44,240",
+      "text": "to your armor class to your reflexes and"
+    },
+    {
+      "start_time": "00:16:42,800",
+      "end_time": "00:16:45,839",
+      "text": "to your stealth checks okay and it"
+    },
+    {
+      "start_time": "00:16:44,240",
+      "end_time": "00:16:48,079",
+      "text": "allows you to make that high check now"
+    },
+    {
+      "start_time": "00:16:45,839",
+      "end_time": "00:16:49,759",
+      "text": "if you were um if you were behind"
+    },
+    {
+      "start_time": "00:16:48,079",
+      "end_time": "00:16:52,320",
+      "text": "something covered can you can you can"
+    },
+    {
+      "start_time": "00:16:49,759",
+      "end_time": "00:16:53,360",
+      "text": "you get any greater cover yes is it or"
+    },
+    {
+      "start_time": "00:16:52,320",
+      "end_time": "00:16:54,720",
+      "text": "is it only with you have something"
+    },
+    {
+      "start_time": "00:16:53,360",
+      "end_time": "00:16:57,199",
+      "text": "substantial well you need something"
+    },
+    {
+      "start_time": "00:16:54,720",
+      "end_time": "00:16:58,639",
+      "text": "substantial but there is a way that you"
+    },
+    {
+      "start_time": "00:16:57,199",
+      "end_time": "00:17:00,639",
+      "text": "can take"
+    },
+    {
+      "start_time": "00:16:58,639",
+      "end_time": "00:17:02,399",
+      "text": "other forms of cover and make them"
+    },
+    {
+      "start_time": "00:17:00,639",
+      "end_time": "00:17:04,640",
+      "text": "better okay and we're going to cover"
+    },
+    {
+      "start_time": "00:17:02,399",
+      "end_time": "00:17:07,039",
+      "text": "that next time oh okay okay"
+    },
+    {
+      "start_time": "00:17:04,640",
+      "end_time": "00:17:09,760",
+      "text": "because stealth is a pretty complex set"
+    },
+    {
+      "start_time": "00:17:07,039",
+      "end_time": "00:17:12,160",
+      "text": "of rules but it's a very very cool way"
+    },
+    {
+      "start_time": "00:17:09,760",
+      "end_time": "00:17:14,959",
+      "text": "to manipulate the combat and really get"
+    },
+    {
+      "start_time": "00:17:12,160",
+      "end_time": "00:17:17,439",
+      "text": "some good offensive and some defensive"
+    },
+    {
+      "start_time": "00:17:14,959",
+      "end_time": "00:17:19,199",
+      "text": "advantages and we are going to break it"
+    },
+    {
+      "start_time": "00:17:17,439",
+      "end_time": "00:17:21,439",
+      "text": "up into a couple different uh segments"
+    },
+    {
+      "start_time": "00:17:19,199",
+      "end_time": "00:17:23,039",
+      "text": "just like we did with athletics so next"
+    },
+    {
+      "start_time": "00:17:21,439",
+      "end_time": "00:17:24,959",
+      "text": "time we're going to talk about"
+    },
+    {
+      "start_time": "00:17:23,039",
+      "end_time": "00:17:27,520",
+      "text": "concealment yep we're going to talk"
+    },
+    {
+      "start_time": "00:17:24,959",
+      "end_time": "00:17:28,799",
+      "text": "about take cover action"
+    },
+    {
+      "start_time": "00:17:27,520",
+      "end_time": "00:17:30,640",
+      "text": "and we're also going to get into some of"
+    },
+    {
+      "start_time": "00:17:28,799",
+      "end_time": "00:17:33,440",
+      "text": "the ways that you can use stealth to"
+    },
+    {
+      "start_time": "00:17:30,640",
+      "end_time": "00:17:35,520",
+      "text": "give yourself some offensive firepower"
+    },
+    {
+      "start_time": "00:17:33,440",
+      "end_time": "00:17:37,600",
+      "text": "uh in your next con right up my alley"
+    },
+    {
+      "start_time": "00:17:35,520",
+      "end_time": "00:17:39,919",
+      "text": "yeah awesome well thanks a lot for"
+    },
+    {
+      "start_time": "00:17:37,600",
+      "end_time": "00:17:40,880",
+      "text": "joining us and join us next time on"
+    },
+    {
+      "start_time": "00:17:39,919",
+      "end_time": "00:17:44,100",
+      "text": "knights"
+    },
+    {
+      "start_time": "00:17:40,880",
+      "end_time": "00:17:58,519",
+      "text": "of last call"
+    },
+    {
+      "start_time": "00:17:44,100",
+      "end_time": "00:17:58,519",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:17:59,840",
+      "end_time": "00:18:01,919",
+      "text": "you"
+    }
+  ],
+  "full_text": "[Music]\nwelcome back to another episode of\ncombat and tactics brought to you by the\nknights of last call i'm derek melenda\nthe game master for the knights of last\ncall and today i am joined by the two\nbig bad marshall melee masters of\nknights of last call\nbob\nchainmail bob that can't sneak\n[Laughter]\nand nick how you doing\nuh bob and nick of course play asias and\neskenore our paladin and dwarf um\npaladin dwarf paladin and barbarian yes\ni don't even think he's a dwarf he is a\ndwarf but it's funny i just think it's\nlike oh he's not a barbarian he's just a\ndwarf and just dwarfs just just a dwarf\nso today in our ongoing series uh about\ncombat and tactics for the pathfinder\ntwo game um we are going to continue to\ntalk a little bit about skills\nskills in combat\nand the last two volumes we've talked\nabout athletics\nso today we want to focus on stealth\nabsolutely and i know that if you've\nwatched some of our other videos and\nmaybe some of our other friends shout\nout to deadly d8 our our friend eli over\nthere at daily28 he did a\nvideo uh where he took our three action\neconomy video and with his editors\nanimators and and kind of did that up\nreal nice um\nand it's actually pretty pretty dang\ncool if i do say so myself so uh if\nyou're listening or you want to shout\nout to check out dailydh's channel as\nwell and uh let them know what do you\nthink of it and let you know if uh if\nthey should keep going with that kind of\nstuff yeah we'll put a link to deadly\nd8's uh video below again it was a\ncollab with us was pretty fun and he\ntook one of the videos that he really\nliked uh our three action economy video\nedited it down added a bunch of fun\nanimations so if you like the night\nstuff you like deadly d8 stuff i\nrecommend you to go check it out\nabsolutely um so yeah so we're gonna\ntalk about stealth now of course we're\ntalking about this with two melee\ncharacters yeah cannot be stealthy\nwhatsoever yeah who have no ranks and\nstuff well no no\ni have a lot of rankings i just wear\nchain mail well that's what i mean\nthough no but that that's important okay\nthese are so look we are going to start\nthe learning early absolutely folks\nstraight out the gate so\nuh that's a great place to start because\num the one of the cool things about\npathfinder second edition which has\nchanged significantly uh especially from\npathfinder one uh in is\nfor starters there's really no such\nthing as class skills or cross-class\nskills you could take training in\nstealth no matter who you are yep um you\ncan everyone has free stealth or free\nskill proficiencies everyone gets skill\nincreases that you can put into any\nskill you wish you could put them into\nstealth if you want to right\nso that's the first thing the second\nthing is uh in older editions of the\ngame used to have armor check penalty it\nstill exists in pathfinder two but it's\nmostly irrelevant armor check penalty\nprevents uh used to prevent you\nbasically from being able to even try to\nmake uh stealth check or hijack if you\nwere in any sort of real heavy armor oh\nokay now that still exists in pathfinder\ntwo\nbut\nit's very small it's only like a minus\none or a minus two and most importantly\nif your strength is pretty much if your\nstrength is higher than 14 or 16 you\nignore all the penalties i i was great\nin that so it's only if you're putting\nin armor that you shouldn't be wearing\nbasically okay and so it never really\ncomes up okay because nine times out of\nten if you're wearing full plate you're\nsome sort of\nfighter or barbarian or palette and\nthat's wearing full paint you have 18\nstrengths so you don't take any penalty\nfor it i mean your case\nbasis probably needs to strength 14 to\nignore the armor check penalty so you\nbasically get no penalty from your armor\nand you can take the skill you could\nbecome trained you could become expert\nyou can go as high as you want and\nobviously if you have a good dex that\nhelps but you don't necessarily need it\nand one thing that you'll learn in\npathfinder too is that you as you get\nhigher in level you're going to get all\nthese ability boosts at 5 and 10 and 15.\nand as you know you only have one\nprimary stat you only get plus one if\nyou put it into a stat higher than 18\nright you get plus two if you put into a\nstat that's lower and so like you might\nhave started the game off with like a 12\ndecks but you go i put it into decks at\nfive i put it into decks at uh 10 i put\nin suddenly you end the game with an 18\ndecks\nso your dex actually isn't that bad\nright compared to even the people who\nhave really good decks so that's number\ntwo\nso you can have the training and you can\nignore the penalties and you actually\nhave a reasonable a bonus okay second\nthing you mention your chain mail\nbecause it has the noisy trait it has a\nnoisy trait the noisy trait prevents you\nfrom using the avoid notice exploration\nactivity got it hey everyone editor\nderek here and i just wanted to quickly\nclarify something\nwhen i made that statement about the\nnoisy trait i was going based off of the\ncore rule book\nwhich describes that the noisy trait\nmakes it difficult and\nto use the avoid notice activity however\nupon doing some additional follow-ups\nfor this video i discovered that this\nwas in fact a part of the core rule book\nerrata which i was not aware of and you\ncan see that the actual effect of the\nnoisy trait is right here which it gives\nyou the stealth penalty even if your\nstrength is good enough which means\nthat you can use the avoid notice\nactivity while you are in\nexploration mode even if you are wearing\nchain mail or a chain shirt however the\narmor check penalty from chainmail or\nchange shirt applies no matter what your\nstrength score is because it's a bunch\nof you know chain mail why uh i didn't\nknow that well\ni guess i just missed that part of the\nerrata so\njust keeping you informed and back to\nthe video that means being quiet outside\nof\ncombat so i could still hide or well you\ncould sneak you could still hide or\nsneak inside of a combat absolutely yeah\nso just because you're wearing chain\nmail or even full plate doesn't actually\ngive you any penalty right to your\nattempt to hide um you're just as good\nas someone who isn't wearing any like\nwearing cloth like doesn't really matter\nyeah like burlington yeah yeah and i\nmean and also too remember like your\narmor right has a plus one potency rune\non it yes which means it could have a\nproperty rune\ni could put something on there and no\nand no one's armor has a property rune\nthere is a there's like a shadow rune\nwhich gives you a bunch of stealth yep\nso there are definitely ways to get your\nstealth up there so why might someone\nuse stealth well in our conversation\nabout stealth i think we're gonna be\ntouching on a couple different skills\nwhich sort of surround stealth uh most\nnotably uh sneak\nwell that's uh\nthat's something that uses stealth\nmostly deception okay\nbut we're also going to talk a little\nbit about cover and concealment yeah\nline of sight and how all that\ncalculates disability and everything\nbecause again we're really focused here\non the combat and tactics part right so\nlet's focus first on what is essentially\nwhat is the the main benefit of being\nst of using stealth uh making the enemy\nflat-footed\nyes and no it's to become hidden oh okay\ntalk about like cover and yeah so there\nare three different levels of\nobservation there's observed\nthere's hidden and then there is\nunnoticed undetected undetected\nyes\nunnoticed is technically part of that\nbut it's outside of a different tier\nokay so yeah so unnoticed means you\nliterally don't even know that they're\neven there you're not even an initiative\norder because they don't even like\nyou're just completely unknown that\nyou're even there\nso undetected is in initiative order you\njust don't know where they are\nundetected means\nyou know that there is an enemy or\nsomething nearby but you cannot see them\nand you do not know what square they are\nin mm-hmm\nyou just have the you know that their\npresence is there basically exactly\nthere's someone in this room with me\nokay i don't know where they are\nthat's undetected\nhidden means i know which square on the\nbattlefield they're in\nbut i can't get a good look at them you\ncan't see them directly and that means\nthat if i attack them\ni have to succeed at a flat\ndc 11 check which basically means you\nhave a 50 chance of missing\nand you do that first before you even\nyeah now yeah your attack is used your\nspell to hit yes if you succeed with\nthat uh flat dc 11 check then you can\nmake your normal attack you can still\njust miss normally yeah exactly that's\nkind of my point no and then the last\nstatus is observed which is just the\nnormal status means you can see them\nyeah\nnow if you do the the dc flat check for\n11 yeah and let's say you're a spell\ncaster because you know distance yep you\nuse two actions to cast that spell and\nyou have to do that check if you fail\nthat check do you still get to keep\nthose two actions no no they're gone\nright the actions are gone and the spell\nslot is gone right you you like you cast\nit basically you just aimed at the wrong\nspot so that that's something to know\nthat\nthat's why cover and hidden is so potent\nbecause in the three three action\neconomy it burns some of their actions\npotentially you have a family you're not\nthe shot of burning they could miss yeah\nbut then there's the chance that they\ndon't even get to well it's it's a huge\ndefensive bonus yes right if you can\nhide then if they want to attack you you\nknow outside of whatever normal chance\nthey have of hitting you right i mean\nlet's just say they have a 50 chance of\nhitting you normally using their attack\nroll well now they have to make a 50\nchance roll to hit you\nand they have to make a 50 chance roll\nto see if they can hit you through your\nhidden that is essentially like if you\ndo the math on it it means they now only\nhave a 25 percent chance to hit you\nright which means that before if you\nwant to put it into one roll they would\nnow need a 15 a 16 or higher to hit you\nas opposed to an 11 or higher so it's\nvery very strong defensively\nso how do you become hidden well\nin our game here we've got\ngot eskenor\nwe've got azias we've got burl\nand conveniently enough we got a pillar\nin the middle of the room\nand we've got\na lizard man oh no\nall right now\ni will put him here\nfor maybe\nfor the people at home there we go\nall right\nthis lizard man\nhas\ncover yep from our party yeah correct\nokay\nin order to make a hide check you have\nto use so stealth has a couple different\nuses one of them is hide if you make a\nhide check you roll a stealth check\nand then you compare it to the\nperception dc's of the other people in\nthe room yep okay remember to create a\ndc out of something you just take the\nbonus and add 10. there are no opposed\nroles\nin pathfinder two you know i don't make\na perception check and then you make a\nstealth check and we see who got higher\nit's always a check versus a dc so in my\ncase i'm the active character i'm the\nthe lizard man i'm trying to hide i'm\ngonna make a self check i'm gonna roll\nit i'm gonna add my bonuses i gotta you\nknow i got a 25. okay does that beat the\npeople's perception dc if it does i'm\nhidden to them\nhiding is a lot like flanking\nokay it's subjective\nmeaning you might be hidden to some\ncharacters but not others and not hidden\nto others\nright yeah so you gotta kind of\nget keep kind of keep track right of who\nyou're hitting against so if my lizard\nman rolled and he rolled high enough\nthat he is hidden to escondor and he's\nhidden to asia but not hidden to burl\nwell then he's not hit into burl yeah\nand berl doesn't have that dc 11 flat\ncheck that 50 missed chance but if he\nhas cover he still gets well sure okay\nso we'll talk about this in a second so\nin order to make a high check you need\none of two things okay you either need\ncover\nor you need concealments right okay and\nthat's like fog and mist it's like fog\nand mist and stuff we can get to that in\na second but\nthe\nstandard way you're gonna do it is with\ncover okay now there are three types of\ncover in the game\nthere's lesser cover\ncover and greater cover\nnow these give you\never increasing bonuses to your armor\nclass they also give you a bonus to your\nreflex saves\nand they give you a bonus to\nyour hide checks\noh to make the check to actually make\nthe check that makes sense okay so\nuh in the case of lesser cover what is\nlesser cover well the easiest way to\nunderstand lesser cover is lesser cover\nis is there something between you and\nyour target\nwhich is more or less\nuh the shape of a person i was thinking\nis it a person like a person so the\nclassic example would be if we had uh\nyou know if we had this uh\nor here's\nour well cool there's a bad example\nlet's say we have this uh\nwe have this dire badger here\nif escudor was trying to shoot the\nlizard man\nwell there's a creature in them that's\nlesser cover right they'd have to shoot\naround something to shoot around\nsomething but i still could do it yeah\nand that character will get a plus one\nbonus to their armor class it should be\nnoted and this is important for our\ndiscussion is that\nyou cannot hide if you have lesser cover\nbecause it's not basically you don't get\nit enough because it's not good enough\nit's not good enough not consume i\nshouldn't use that phrase you should not\ni i caught myself but you don't have\nenough\narea to technically hide behind you got\nit okay\nnow there are some feats in the game of\ncourse this is pathfinder two wouldn't\nbe pathfinder two if it wasn't you know\nsome sort of crazy thing uh halflings\nfor example can get a feat that lets\nthem hide\nwith lesser cover okay so basically\nsmaller yeah they're sneaky little\nhobbit people so they can you know go\nahead and get hidden okay so yes so\nlesser cover is usually given by an ally\num between or and i should say a\ncreature between you it also could be\nthe case that like let's say there was i\ndon't know you know\njust dinky little barrel\nyou know between the lizardmen and\neverybody else you go well\nthis is gm ruling yeah this is you know\na lot of it is it's subjective and i\nthink it's fine to ask your gm and say\nwhat kind of cover does this provide\nokay\nand in this case this little barrel here\nuh provides uh lesser cover because it\nyou know it's not that big right it's\nnot something substantial on the other\nhand something real meaty like a big\nthick pillar that takes up the entire\nsquare\nthat provides cover\nstandard cover or regular cover now this\ngives you a plus two bonus to your armor\nclass i should note this is important\nthis is a night's notice\ncover provides a circumstance bonus\nto your armor class because the\ncircumstances is that i'm hiding by or\ni'm taking cover behind this you know\npillar yep shields provide a\ncircumstance bonus to cover or to your\narmor class yep that means shields and\ncover\ndon't stack oh yeah it's good\nno okay well i mean it makes sense i\nmean if you're if you're hiding behind a\npillar and you have your shield up it's\njust a shield yeah like it's the same\nthing exactly so in this case\ncover\ndoes allow you\nto hide okay\nbut that plus two bonus to your armor\nclass also applies to reflex saves and\nit applies to that stealth check got it\nso that allows you to hide it allows you\nto hide but with the bonus well with a\nbonus yeah so again if you\naren't is that a plus it's plus two plus\ntwo everything's plus two plus two bonds\nto reflect circumstance bonus to reflex\ncircumstance bonus armor class\ncircumstance bonus to stealth\nso again you might not be particularly\nwell trained but if you can get some\ncard cover like being behind a pillar or\nbeing around a corner\nokay\nthen you can get a plus two bonus\nnow we should note that the way that you\ndetermine whether or not you have cover\nfrom an enemy\nis you draw a line between the center of\ntheir square\nand the center of your square\nif that line passes through something\nsolid and and you know and uh meaty\nmeaty then that creature has cover okay\nthe type of cover well that depends on\nwhat you and your gm feel is most\nappropriate again if it's a solid stone\nwall it's probably cover if it's\nsomething like a barrel or something\nlesser that might be lesser cover and\nlastly you might have something really\nreally you know robust like i don't know\nyou might have like a full barricade of\nboxes and you know and there's a barrel\non top of it right you know something\nreally really substantial that i can't\nactually do because this is too far out\nof my grasp\nin this case\nyour gm might rule that that is greater\ncover\nnow greater cover gives you a plus four\ncircumstance bonus\nto your armor class to your reflexes and\nto your stealth checks okay and it\nallows you to make that high check now\nif you were um if you were behind\nsomething covered can you can you can\nyou get any greater cover yes is it or\nis it only with you have something\nsubstantial well you need something\nsubstantial but there is a way that you\ncan take\nother forms of cover and make them\nbetter okay and we're going to cover\nthat next time oh okay okay\nbecause stealth is a pretty complex set\nof rules but it's a very very cool way\nto manipulate the combat and really get\nsome good offensive and some defensive\nadvantages and we are going to break it\nup into a couple different uh segments\njust like we did with athletics so next\ntime we're going to talk about\nconcealment yep we're going to talk\nabout take cover action\nand we're also going to get into some of\nthe ways that you can use stealth to\ngive yourself some offensive firepower\nuh in your next con right up my alley\nyeah awesome well thanks a lot for\njoining us and join us next time on\nknights\nof last call\n[Music]\nyou\n"
+}

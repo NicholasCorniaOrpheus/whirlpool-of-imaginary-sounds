@@ -1,0 +1,1998 @@
+welcome back everybody to another
+episode uh it's been a while of combat
+and tactics uh we're back although in uh
+kind of a of a somewhat different uh
+situation uh and i am joined by you know
+him bob and smith what's up guys
+what's up happy sunday yeah happy sunday
+so you know if you
+if you're not familiar with our combat
+and tactics series this is a uh series
+that we used to do in person with
+miniatures
+back
+at our studio but of course nowadays so
+many people are using foundry we use
+foundry for our quest for the frozen
+flame game um in fact we're actually
+using some of our quests for the frozen
+flame characters for today's examples um
+and so we just decided to sort of use
+foundry and we can talk about it uh
+about the game this way make some make
+it a little bit easier to see exactly
+what we're talking about so
+uh today we're gonna talk about
+flying if we're gonna talk about combat
+and tactics of flying mostly as it
+relates to foes of flying um so i think
+the first thing we have to kind of cover
+uh i guess the first thoughts are
+uh
+bob you've been running a lot of games
+aaron
+you just ran a 20th level campaign uh
+generally speaking
+what are your thoughts on flying in
+pathfinder second edition
+it's it's fine as long as the party can
+handle it
+you know playing at low level it's super
+annoying
+and and i remember playing it in
+multiple things even back in the rise of
+the rune lords not even flying so much
+as even uh creatures above grade above
+above the plane of the surface uh i
+back then i was sort of realizing like i
+need a little bit more experience with
+how to handle foes that aren't on my my
+flat plane um so yeah they're cool i
+think flying creatures are dynamic and
+they can all do a lot of fun
+i don't know it's i think it's cool for
+like the big baddies i don't know if it
+needs to be everything yeah yeah i mean
+it definitely adds an extra level of
+complication uh smith what do you think
+i think uh flying is interesting how
+it's handled in pathfinder 2 previous
+editions of the game
+uh i think it was a little unchecked but
+in pathfinder 2 it is a little bit more
+in line that being said it's still an
+outlier because it doesn't factor in as
+well as it could into things like combat
+balance and it really requires
+both a gm and a party to be aware of
+what is going on that being said i think
+a prepared party even a low-level party
+can take down a level appropriate flyer
+it's just requires additional knowledge
+that is not as obvious that
+as a normal encounter might be yeah and
+i i think that's actually probably uh i
+think the most important uh what i would
+say is the most important component
+there which is
+a flying creature especially at low
+levels and when i say low levels i mean
+like maybe before seven before ten
+uh like level like level three or two
+wherever we were yeah like level three
+or four we'll talk about that first
+second flyer i believe significant
+flyers level three so
+green drake i believe uh is that the
+four strike river drake four straight
+something like that oh was it a river
+drake um it was it was a it's some sort
+of jerk
+it was rough yeah and so like one of the
+things yeah so one of the things that i
+think that you have to be aware of is
+that at low levels the monster math when
+you're balancing an encounter may not
+really be accurate like you could see
+you could look at the party of level two
+characters and say okay a uh level plus
+two so that's a level four monster uh
+that's 80 xp that's a moderate fight a
+single level 4 monster but if that
+monster is a griffin
+and that griffin can fly and you have a
+party that really doesn't have a lot of
+ranged options
+doesn't have a lot isn't prepared for
+that that
+encounter could almo maybe be a tpk um
+and we bob bob you and i bob you and i
+learned this the hard way
+yep because i think the even more
+important than that is uh is a flyer
+with a with a breath weapon or a ranged
+attack and smith uh that's quite
+devastating uh smith alluded to uh we
+were playing a campaign we were level
+two and he used a uh
+some sort of drake low-level flyer
+and it just it just annihilated us right
+so but overall i think before we get
+into it i think we should kind of cover
+a couple of things and and again i'll
+i'll be putting these here down here on
+the lower left-hand side so you guys can
+follow along at home um there's a couple
+of important caveats to fly that aaron
+alluded to um in terms of it being a
+little bit more balanced in pathfinder
+too and the first and most importantly
+is the fly move itself note that fly
+is its own action right you can see it
+right here on the screen
+fly is different from stride i know a
+lot of people complain about this and
+have
+some umbrage with this because they say
+oh you can't fly with your haste move or
+whatever but the the fly action is
+different than the stride action so that
+is something important to note and that
+means that there's a lot of things that
+say oh you can stride that doesn't mean
+you could fly um so if something allows
+you to stride that's not the same as
+allowing you to fly but the most
+important thing about the fly move
+is that it lets you move through the air
+if you are moving upwards whether it's
+straight up or at a diagonal
+you move at half speed you essentially
+treat the air as if it's difficult
+terrain
+but conversely if you go straight down
+you get you get to move double speed
+so that means that you can you know drop
+down at a very very very fast pace so
+only straight down or straight down in
+an angle the rules per the action say
+that if you move upward whether straight
+or diagonally it goes at difficult
+terrain but if you only if you move
+straight down do you get double movement
+so per the real ruling of the game you
+only move double speed if you're moving
+absolutely straight down um and
+you can use a fly action to you don't
+have to move uh you can basically use
+fly move zero and you can hover in place
+the if you're familiar with some of
+prior editions of the game like
+pathfinder one there's no such thing in
+this game as like maneuverability
+classes uh which you know you had to be
+a certain level like a like a
+hummingbird could hover but like an
+eagle could not right but in pathfinder
+two
+everything can basically hover but the
+most important rule for flying is this
+last part of course it's pathfinder two
+it's hidden at the end it's buried at
+the end um if you are airborne
+at the end of your turn and you did not
+use a fly action this round
+you fall
+so that is it now listen this can create
+some really wonky situations in the game
+rules uh you know technically something
+like an air elemental
+uh which has a fly speed it doesn't even
+have a land speed
+uh it has to it has to spend a fly
+action each turn where it falls out of
+the sky
+that's super goofy
+there there are a very few examples in
+the game which are specifically called
+out where a creature is essentially able
+to hover um and uh like for example one
+of these is the air walk spell a spell
+which we rated fairly highly uh i know
+we got a lot of use out of it in aaron
+stark of winter campaign at higher
+levels specifically because airwalk
+uh allows you to you're basically you're
+not flying anymore you're walking on the
+air and so you're not using the fly
+action you're basically using the stride
+action but in the air and so you don't
+have to spend an action each turn in
+order to avoid falling but outside of
+that most of the time people are going
+to be using fly and that means you have
+to move
+or you fall
+okay
+so that's that's sort of step one in
+terms of the rules okay now
+these are important understand because
+when we start talking about the combat
+and tactics of how to deal with flying
+uh part of the way that we deal with
+flying is by attacking these specific uh
+components uh i would say flying's major
+weaknesses due to its action economy yes
+exactly if you can hit the action
+economy that is kind of a definite way
+of attacking it um the second thing is
+now this isn't if you look in the fly
+rules you won't see anything about this
+but if you look up the prone condition
+okay
+if you look up the prone condition it
+says and again of course where else the
+last sentence
+if you would be knocked prone while you
+are flying or climbing
+you fall
+this means that if you can knock
+something prone while it is in the air
+it falls no well couple things one it
+becomes prone and then two it falls
+so uh you know that could be a huge
+advantage to you now
+the game understands because this is
+pathfinder two that there is a problem
+which is you're knocking things out of
+the sky and of course if you're familiar
+with the falling damage of pathfinder 2
+it's half the damage that you took
+uh falling so if it falls 200 feet it
+takes 100 damage no save and so of
+course the game has a defense against
+this and that is uh a rest a fall okay
+arrest to fall is a reaction
+um and the requirement is that you have
+to have a fly speed and the trigger is
+you fall
+this is very similar to um
+no
+grab a ledge oh grab a little uh yeah
+grab a edge or whatever when you're have
+an edge yeah if you're gonna like fall
+off a cliff or something this is the
+same equivalent version for uh flyers
+and it basically says if you fall
+you have to make a dc 15
+acrobatics check and that 15 kind of
+like aid is flat
+like it doesn't scale now it does say
+the gm might make that dc higher okay
+due to air turbulence or other
+circumstances but the long story short
+is if you succeed at that dc 15 check
+you fall gently you still fall just as
+far
+but you don't take any damage from the
+fall okay
+so
+well so that that still works with
+getting it prone though at least well
+correct so i most of the time the
+following scenario is going to happen a
+creature's flying let's say it's at a
+hundred foot elevation you somehow knock
+it prone the creature now prone falls
+and the following rules state that a
+creature falls 500 feet in the first
+round that it falls so for all intents
+and purposes it is going to fall and hit
+the ground in in the same round that it
+falls but the creature can make a dc-15
+acrobatics check if it succeeds the
+creature will now fall the same amount
+of distance it'll fall to the ground it
+won't take any falling damage but when
+it lands on the ground it will be prone
+so
+you know you've accomplished the the
+the goal of getting the creature back
+down the sky you know down on the ground
+i will say
+that if you could somehow remove the
+creature's reaction
+or make it use its reaction
+now you've set yourself up for a nice
+little combo wombo there you go
+because now the creature can't even make
+that uh reflex safe or sorry the
+acrobatics check and then the creature
+it's going to take
+50 damage 100 damage 200 damage
+automatically and that could be pretty
+brutal i should also note uh as sort of
+a combat and tactic for players
+um
+if you expect to be falling a lot i mean
+dc 15 isn't that high but if you're if
+your dex isn't very good and you're not
+trained in acrobatics a dc 15 check can
+still be pretty
+tough to make right um it's not unusual
+let's say you're a high level fighter
+what might your dexterity be
+12 14 you're untrained in acrobatics
+you're making that with plus one
+right you don't get any bonus that's
+that's rough and so if you if you plan
+on flying a lot uh it might be
+worthwhile to invest in acrobatics and i
+would also say to gm's look at your
+monster uh if that monster doesn't have
+acrobatics and its trained uh skills in
+its monster list and it's a flyer be
+aware it might fail that check and you
+might end up just having the creature
+fall out of the sky and splat on the
+ground
+i actually think acrobats might be one
+of the ones that are always trained is
+it always trained i think athletics and
+acrobatics if they're not i don't know
+they're always trained common ones they
+are usually trained because between
+grappling and flying otherwise you would
+you couldn't play the game
+you but if you customize your own
+monster it's one thing to like remember
+to add that's a good point that's a
+really good point um but again so now
+the dream scenario is the creature's
+like 150 feet up you somehow suck out
+its reaction it could be that you took
+it away with an ability or it used its
+reaction doing something else then you
+not get prone boom it's gonna fall it's
+gonna be on the ground it's already
+prone but now it's on the prone it's
+prone because it fell and now it also
+took you know 75 auto damage it probably
+just died so um those are not office
+space
+stomp them
+so those are the basic rules um of
+flying from those we can sort of start
+to think about tactics to deal with them
+and i think really we have to break this
+down and again you know aaron talked
+about the story earlier but there's in
+my mind there's sort of
+two types of flying opponents right uh
+if we go to founder here
+um we have something like a gargoyle
+okay
+now a gargoyle has a flight speed uh of
+40 feet
+but
+other than that it's just clawing at you
+with its feet right it fundamentally
+does not have a ranged attack in order
+to make an attack this creature has to
+come in
+this creature has to come in and get
+into melee with you right it only has
+five foot reach and it's just going to
+come in and it's going to make it to
+tack and in fact if we bring up the
+gargoyle's character sheet here
+we can see that you know assa it it has
+basically a jaws attack and a claw
+attack it does have clawed feet which is
+basically an attack of opportunity that
+could only use
+if it is flying above a creature
+um but other than that it doesn't have
+any sort of extra special uh bit of
+mobility and so that means that the
+creature like this is gonna have to
+close in
+make an attack
+and then either stand there in range of
+your you and your allies you know if if
+this creature flew in 40 feet uh to
+attack joran it it flew for the turn
+it's successful and even though the
+creature might be at an elevation of
+five feet
+you know if you think about it from
+terms of five foot cubes right joran is
+here on the ground the gargoyle is here
+diagonally or it could even be above him
+but jordan can reach him with his spears
+uh and the gargoyle can reach him with
+his spear uh you know with his attacks
+but the gargoyle flew it's not gonna
+fall and now it can make an attack and
+now it could make a second attack and
+still stand there or it could use its
+40-foot movement and then fly all the
+way over here
+now these creatures though are a good
+one to come across if you have to deal
+with flyers because what derek just did
+here exposes a big vulnerability
+and that is normally using a reaction to
+trade for an attack is a bad trade but
+because flyers already have a diminished
+uh
+action economy this is something where
+jordan here could set up and ready for a
+trip and when that creature moves in
+jordan could execute hit the creature if
+it's athletics bring it down to the
+ground
+and now that creature is going to be
+stuck there because they had to come in
+and then jordan's buddies are going to
+come in
+and
+yeah just ratify it exactly and so i
+think i think i have thronified yeah and
+so i think here we can we can add thrawn
+back yeah for people that don't know
+that's the character from our quest of
+the frozen flames thrawn and breck are
+hiding the bushes waiting for us to get
+the the flyers down right right um and
+i think i think smith got it exactly
+right here um because you know
+uh in this case this creature is coming
+in it's going to make an attack and it's
+going to move away 40 feet now obviously
+this creature doesn't have uh a ton of
+speed it's you know 40 feet's pretty
+good though it's faster than the party
+um and in this case you know my creature
+you know could come into here
+and attack
+uh smith
+for uh you know with its one attack of
+its claws or its jaws and then it could
+fly uh you know 20 feet to here but then
+it could fly straight up
+and that means that yes it has 20 feet
+of movement left but obviously it moves
+at half speed because moving up is
+difficult terrain but that means that
+its elevation changes to 15 feet
+right so the creature came in swooped in
+attacked and then
+skirted out and then went up and now in
+melee no one could attack this creature
+and you know if we look at the typical
+party here if we look at our quest for
+the frozen flame party which to be fair
+i don't think is uh probably too
+dissimilar to a lot of parties out there
+i'll i'll add brecken here too our big
+big bad fighter he's a he's a fighter
+yeah he's he's in every party he's he's
+in every party every good one but uh
+but in this but in this case you know
+breck is wheel dual wielding axes uh
+thrawn is a animal instinct barbarian
+who uses fists by the way both breck and
+thrawn neither of them have a
+particularly good dexterity uh joran has
+spears which do have the throne trait
+but
+don't he doesn't have a great dexterity
+either not not to mention that throne
+has pretty short ranges um and so it
+doesn't take a lot for before you start
+getting a minus two penalty because of
+range and a minus four penalty range now
+droga is particularly well equipped to
+this because remember we just showed
+that that's the only thing i can do with
+that character
+we just showed how this gargoyle spent
+three actions right it took its first
+action to move in down attack joran it
+that's the second action and then it
+took its third action to move over here
+and then you know gain some out
+elevation so you know from a from a
+perspective of of efficiency you know
+the gargoyle really wasn't being that
+efficient but
+drogo on the other hand is able to just
+shoot shoot shoot shoot or bob as you
+would say uh
+so if you have a party which is really
+well equipped for ranged this could
+actually almost benefit you because
+you're gonna be making two or three
+attacks a turn and you're just gonna be
+just not even you're gonna be like a
+sentry gun you're just gonna be standing
+there shooting at these things but what
+if you don't have that or what if you
+only have one person in the party who
+has that ability now this is where what
+smith was talking about comes in
+this is where the ready action comes in
+now the temptation
+is
+already an attack
+that's not the worst option right if you
+want to i should also point out that for
+creatures like the gargoyle no surprise
+here if the gargoyle tried to do a
+diving bomb run on uh you know thrawn it
+could it could zip in on the thrawn
+attack him and then skirt away and gain
+some elevation safely out of the reach
+of the powerful barbarian it could also
+skirt in androga claw droga and then
+skirt away safe from his reprisals
+although not from his bow but if he did
+try to skirt in on breck and then skirt
+away
+breck would still get an attack of
+opportunity that's right because
+fighters are broken and fighters are
+gonna fight um
+and so in that respective the fighter is
+at least trading one for one
+right like the guard that flying
+creature should not be attacking the
+fighter i mean nothing should ever be
+attacking
+but i mean it is something to be
+considered of that that attack of
+opportunity can be very powerful but
+what if you don't have attack of
+opportunity or what if you really want
+to bring this creature down and because
+remember attack of opportunity in the
+case of the fighter or a lot of other
+things only allows you to make a strike
+that means boom boom damage but
+you can take two actions to ready and
+that already lets you ready any single
+action activity which includes
+an athletic action to trip
+and so or
+grapple
+i think both of us is another great
+option right both of these work really
+well oh yeah because you could restrain
+them yeah so
+yeah so we're i we're going to get to
+you know sort of the the hallmark of
+this the trinity of dealing with a
+flying creature we've been talking about
+knocking them prone so we'll we'll
+continue sort of on that that space but
+now if the gargoyle comes in okay let's
+we'll use thrawn because he's so
+absolutely ridiculous um the gargoyle
+comes in to attack thrawn and then move
+away but thrawn
+used two actions on his turn to ready
+and he said when that gargoyle comes in
+i'm gonna trip him now what the hell
+does that even mean nobody knows okay uh
+he's a wrestler i'm sure it means some
+kind of wrestling move
+okay drop and just die bomb on it okay
+but if we if we if we open up thrawn's
+character sheet here okay we could see
+uh that thrawn has a in insane um
+athletics check of uh this shows you how
+often i play foundry i don't even with a
+character i don't even know where the uh
+skills are i think it's under
+proficiency yeah a plus 10 athletics
+check right and that's going to be
+against the gargoyle's reflex dc which
+is 10 so dc20 so thrawn has a 50 chance
+of uh actually a little bit better than
+50 a 55 chance of tripping the gargoyle
+so the gargoyle comes in
+okay and now thron right before the dark
+girl is about to attack
+thrawn's ready to action goes off so
+what does thrawn do he trips the
+creature all right great so the creature
+uh if he's tripped he's gonna fall he's
+gonna fall from whatever distance he is
+and he's going to land on the ground
+prone
+now he has to make a dc 15 acrobatics
+check or he'll actually fall and take
+damage in this case
+not a ton because you know he's not uh
+you know uh very high up and our
+gargoyle by the way aaron does have plus
+10 uh plus 10 to
+acrobatics although that might be
+appropriate for him um but either way
+the the gargoyle's big turn is utterly
+ruined
+he doesn't get to attack at all oh he
+would but he's prone now so attacking
+from prone he's attacking from prone
+which is a minus two so instead the
+gargoyle will still hit thrawn yeah
+that's true but consider the following
+though as a player tactic if you really
+want to bait them because here's the
+thing the gargoyle flies in and you
+ready when he moved in to trip him
+so the gargoyle flies in you trip him
+and the gargoyle says screw that instead
+of attacking he stands up
+and then with his third action he flies
+away
+now you haven't accomplished what you
+wanted to accomplish sure the gargoyle
+didn't make an attack on thrawn this
+turn but the gargoyle moved in tron uh
+thrawn tripped him he fell prone and
+then the gargoyle stood up and then flew
+away up we can't get to him what if
+instead thrawn waits until after the
+gargoyle attacks him because now the
+gargoyle has already used two actions so
+so if thrawn waits for the gargoyle to
+move in lower down his elevation so that
+he's within range okay
+then thrawn takes the attack ah the
+creature grabs at him now the creature
+has used the gargoyle has used up two of
+its actions
+now thrawn trips it and let's say he
+succeeds great now the creature falls
+prone and lands on the ground but he
+only has one action left the best he can
+do is stand up and now his turn's over
+and he's on the ground ready for jordan
+to move in and set up a flank and deal
+with these creatures now in a perfect
+world we would assume that if the gods
+were kind that somehow pathfinder two
+math i can't confirm or deny this that a
+creature at this level with say
+flight
+has to pay
+sacrifice something somewhere like in
+its hit points or in a lower armor class
+right you would hope
+that this creature is somehow not just
+oh it's just level four and it flies as
+opposed to
+and you see this in other creatures
+right creatures that have resistances
+will have lower head points right so
+game masters making your own flying
+creatures consider giving this creature
+a weaker defense or less hit points
+because flying is powerful particularly
+at low level
+absolutely absolutely and i think you
+know and i think that when you do
+encounter flying creatures the first
+time you know it it's tempting to say
+like so for example this is a gargoyle
+we double click on it we can see this
+creature is level four this is a party
+of level you know uh you know four
+people this would be a moderate fight
+this is the best way to do it like one
+creature that's a moderate fight and
+that way your party can sort of become
+introduced to it don't throw a severe
+you know you're so bitter
+do you think that gm is going to like
+so what's going to happen is you know
+thrawn goes i ready to trip yep and the
+gm's like all right well i ain't going
+that way well
+that's i mean this is where we get into
+this situation everyone has to start
+writing like thinking about that kind of
+stuff i mean i think there is a certain
+amount of play to that right like i
+guess part of it is how much information
+uh is made available you know the gm is
+on is aware of what everyone's doing
+right because they're the gm like
+another way to look at it is like if you
+wrote down your moves in secret right
+like what would that do right
+i just think we could have another
+episode about jamming yeah gm it's not
+meta gaming yeah is that the gm meta
+gaming too hard and it sounds like it no
+i will say bob you are bringing up
+accidentally a relevant point
+in that a smart creature might recognize
+that only droga is truly the threat
+because drogo is going to be pelting
+this creature right and maybe not so
+much the gargoyle who's asked to close
+anyway but if you introduced a second
+class of flyers that derek was going to
+get to which is the ranged attack flyers
+the flyers that don't have to get close
+the flyers that thrawn cannot trip or
+immobilize
+they might look at a droga and go i'm
+going to take droga out because the rest
+these guys have no shot if i take out
+drogo i'm talking about like an
+intelligent creature exactly but you
+would know that if you're an intelligent
+party and we go okay we gotta keep
+joking alive so let's make sure that
+he's not left on his own or we're out of
+distance because if that creature comes
+in or gets nearby maybe we can help and
+support in other ways right exactly
+that's a good call yeah now um so so the
+first point is figure out a way to knock
+them prone now in this instance we're
+talking about using trip while they are
+you know on the ground but the second
+type of monster it requires a lot more
+finesse okay and yes this creature would
+probably pretty much completely
+annihilate them anyways but in this case
+you have a large reg dragon and uh this
+is obviously level 10.
+but so sweet um you know a large red
+dragon if we open up here on his
+character sheet we gotta we see a couple
+of things here one his speed is a
+massive fly
+120 feet
+okay so this creature is going to be
+able not only to be able to like do its
+thing and then it's going to be able to
+get the hell out of dodge like it's just
+going to be so far away that a lot of
+range attacks are going to have a lot of
+range attacks are going to have a
+massive penalty to miss uh uh to their
+attack but the second thing is it has a
+breath weapon and the breath weapon's
+two actions which is perfect because it
+means that the creature could be really
+effect this creature okay has a breath
+weapon that is a 40-foot cone now
+remember a 40-foot cone a cone is just
+as wide as it is long so that means that
+if this creature is 40 feet above the
+battlefield it will essentially create a
+40 foot diameter blast
+on the ground below it
+well that means this creature
+could be
+280 feet in the air
+and then in one action with its fly 120
+feet dive bomb
+240 feet straight down in one action
+stop
+and breath weapon the entire party
+then while it waits for the breath
+weapon to recharge over the next d4
+rounds
+it could just regain altitude to make
+sure it's out of range of any close
+range attacks you know we're thinking
+about long bows
+but what who are the other main raged
+attackers in pathfinder too casual
+spellcaster bob bob just says sorcerer
+sorcerer that's technically bob you're
+more correct
+um we know what the range on those are
+30 60 maybe 120
+right and i mean for the most
+aside from like fireball and chain
+lightning if you can get above 120 feet
+you're basically immune to almost every
+spell in the game and you cannot ready
+and cast most of those spells that you
+would throw at this creature because
+they're two actions and you can only
+ready something that's one action so
+consider this the dragon high up dive
+bombs stops 40 feet above the
+battlefield boom drops a massive i mean
+i mean 40-foot template is a that's a
+big
+right that's a that's a big that's
+everything that's at least uh three ap
+maps put together so right that's that's
+a that's a big that's a big blast right
+like that's hitting it that's hitting
+everybody okay geez so boom it rolls it
+gm rolls a d4 for how many rounds before
+he breathes again obviously if he gets
+one well you're in trouble but
+uh if he gets three so the dragon knows
+he's got to kill a couple rounds but
+right now he's in range he's in range of
+spells he's in range of thrown weapons
+so the next round he's got three rounds
+to kill he just goes straight up sure he
+moves at half speed but the first action
+with 120 foot movement is still 60 feet
+he's now at 100 feet
+the second action is another 60 feet now
+he's at 160 feet out of range of almost
+every spell hell he could use the third
+action just to flex on you it doesn't
+even matter
+um and then he just hangs out up there
+waiting for his breath weapon to
+recharge and then when he's ready boom
+drops down like an an eagle out of the
+sky
+and
+toast you and fly but to be fair this is
+what a dragon would actually do so i'll
+just say this is like
+what we should expect but probably don't
+ever see i know that i'm by the way i
+apologize in advance because obviously
+this is designed the series is designed
+to help players i might be giving gm
+some really horrible uh nasty uh
+thoughts about what they could be doing
+with their spells but um yeah i mean
+like this is how this creature would
+react and so this creature is never
+gonna get in range with you
+ever so we need to start thinking about
+other ways that we can bring that we can
+bring the fight to this creature okay so
+this is where we kind of get into our
+third step which is like how do you deal
+with a flyer like this okay this applies
+to all players but it really applies to
+flyers like our dragon example by the
+way this dragon's level 10 but and i
+didn't bring a token in for him but if
+you want to look one up another great
+example of a more lower range character
+that could do this manticore is a
+classic monster right it's a flying
+lizard lion with bat wings that has a
+spiked tail that can hurl spikes um from
+a pretty good distance that creature
+could just
+you know float above the battlefield
+raining down spikes onto the party
+trying to get some easy kills it never
+it never has to close into melee range
+with you it's never going to give you
+that opportunity to bat it out of the
+sky or anything like that or to you know
+swing an attack of opportunity against
+it the only person in that situation
+who's fighting it is droga
+and uh that
+i don't need to tell you that if that
+fight is a media if that fight is a um
+a moderate or a severe fight that's
+assuming that the whole party is
+participating and so if they're not you
+know you're in a lot of trouble
+that's a good point because yeah once
+once you decide that it's now a
+one-on-one fight well then it's the x
+the encounter is not balanced well and
+that's where what uh smith was saying
+about depending on you know there's a
+role-playing element to this depending
+on how intelligent the creature is if it
+sees oh like a dragon clearly uh but you
+know something that's a little bit more
+devious and intelligent is gonna go oh
+the guy with the bow is the one who i'm
+gonna kill first because then i'm just
+immune to this party and i could just
+you know rain down upon them with unholy
+glee
+and keep in mind you know because drogo
+went at the longbow option even though
+that dragon's now 160 feet up or higher
+because he's flexing druka's still
+landing shots on him right right droka
+is still the threat yeah let's assume
+drogo isn't level two at this point that
+this fight's actually relevant sure yeah
+he's doing damage otherwise we died with
+the breath weapon um very much like drug
+is still gonna melt this dragon
+and so that dragon can afford to spend
+three rounds ignoring droga so it's
+gonna have to make a decision run away
+like really far away come in kill droga
+then burn the party down circling around
+well and that's what that's what can
+make these kind of fights you know you
+know bob you were talking earlier about
+like the dynamicism of these fights and
+that's what can make an counter versus a
+flying creature so interesting because
+let's use our dragon example
+aaron's right you know if i roll four on
+my breath weapon what am i gonna do just
+hang out for four rounds while you shoot
+me for four turns that's still not
+really great for me so i might be
+tempted as the dragon to land next to
+you and draconic fury and bite claw claw
+you which would be great for me so that
+means that the party might say well we
+need to get near droga so that if the
+dragon lands we can deal with it but
+wait now for bunching up oh we're
+bunching up
+we know this creature has we know this
+creature has a cone breath weapon that
+could be bad for us right and so this
+might even be where clever use of
+recalled knowledge could come in hey i
+just saw him breathe how long do i think
+i have you know if the gm hasn't told
+you or doesn't roll in public if you
+don't know like maybe that's a great way
+you go oh no we do have a couple of
+rounds let's let's defend our ranger and
+then before it's about to breathe we can
+you know break and scatter um you know
+or something like that or you can even
+really you know if if you have no
+options everybody's gathered together
+everybody readies that when the dragon
+breathes everyone is going to stride 30
+feet away from droga so the dragon comes
+down on droga and then everybody goes
+break and moves out 30 30 30 30. now one
+person got hit with the breath weapon
+and yeah it's droga but if that's all
+the dragon did for three or four rounds
+while droga was plugging it each turn
+with arrows this could be sudden now
+you're starting to you're starting to
+turn the tide you're starting to gain
+the advantage what if you don't want to
+just rely on your ranger like how do you
+deal with a creature like this okay well
+option number one seems kind of stupid
+but you fly yourself um yeah and that
+should be the first option yeah
+if you find this dragon you can cast fly
+correct what's uh what's that level
+eight uh fly is a level four spell so
+that means it is uh you castable at
+level seven and seven and the item is
+potion of flying is level eight that
+sounds about right and fly is a spell
+that has a five minute duration um it's
+one of those weird ones in the game so
+potentially it's the kind of spell that
+if you know or think or plan that you're
+going to be going to a flying creature
+it is reasonable even if your gm's a
+hard ass
+that you would have it cast before the
+fight starts um now you don't move very
+fast
+um it's it does it against the creature
+like i mean dragons are just broken but
+like um you know but uh against the
+creature like a gargoyle
+which only has like a 20 or 30 foot or
+30 foot or 40 foot fly speed
+fly spell is much more reasonable
+because you're going to be able to keep
+pace with it with flying um and be able
+to just engage it and and charge it in a
+melee that doesn't mean that the fight
+is game over right there's still
+elevation changes to consider and you
+know and if you're and if by the way you
+might have noticed me doing this earlier
+but if you're new to flying in foundry
+specifically um when you click on a
+token uh you get these uh if you right
+click on a token you get this little uh
+window next to them with a little up
+arrow on it and that's how you can
+change what their elevation is
+and so when you put that it'll it'll
+highlight that this creature is 40 feet
+above the ground and that way everybody
+knows kind of relatively where things
+are in terms of three-dimensional space
+so that is very helpful to sort of to
+track that but um remember though that
+when once you start flying everything
+that we talked about applies to you if
+you get too high up that creature might
+come in and knock you prone right and
+you might forget
+at least all four of you are flying at
+least
+you might not have the acrobatics skill
+trained in which case you're you're in
+for a you're in for a rude amount or you
+know the creature might bait you and you
+use your reaction on like a a you know
+like a rogue's gamble like you're rogue
+you're expert you're you're legendary or
+whatever master in acrobatics and the
+creature comes in and attacks you and
+you go i'm going to use my uh rogue
+what's it called nimble dodge
+uh to you know and you're like ha ha and
+the dragon's like cool trip you
+and you're like oh
+i don't have i don't have a reaction if
+it if i get knocked prone here i am
+falling to the earth and i'm gonna take
+a lot of damage i'm not gonna be able to
+rest my fall um so that is that is
+definitely one uh one thing to do flying
+uh is probably the quickest and easiest
+way but we mentioned before also the
+spell air walk which lets you use your
+lan speed um and that lets you
+uh uh maybe in some cases moving even
+faster uh but that can be nice because
+then you don't have to spend the actions
+to move as well because that is
+something to consider once you start
+flying you have to spend an action each
+turn and you know that's going to really
+start eating up uh into your actions as
+well so that is something to consider as
+well
+i i always just cast earth bind
+right so well if you're gonna get
+offensive with spells
+at this level
+make sure that you pick up uh reach meta
+magic because
+uh otherwise that a spellcaster range of
+30 feet will kill you now you get 60
+feet
+that's a tough choice for the dragon
+because the dragon is going to head
+shoot that blast weapon he really he
+really wants to come in with that breath
+but
+you know now he's got a deal for caster
+who's going to be able to nail him right
+um and the good news is casters get
+terrible feats so by this level you
+should be able to pick this up right so
+uh you know we uh
+uh
+that's that's kind of later in the in
+the list bob but uh oh sorry
+when you talk talking spells i'm like
+the only thing i want to do is cast
+earthbind binding well obviously that is
+a very specific thing and in fact if you
+know if you go to our spells uh all
+spells ranked uh i believe earthbind got
+an s or an a as a scroll
+right i love grabbing as a scroll right
+it's a great spell to get a scroll we'll
+get to that in a second okay sorry no
+that's okay um but yeah so obviously
+you're gonna be uh you know maybe flying
+up to deal with this creature in melee
+uh the second option is again ranged
+attacks um obviously you know your
+rangers and your things have range text
+at lower levels it's not as crazy for
+people to use ranged attacks um because
+the the disparity between say your
+strength and your dexterity isn't
+completely out of you know you know out
+of line yet um and so it makes it a
+little bit more appealing to you um but
+for the most part
+if you're using range attacks you're
+probably already using range attacks so
+like you know the the option of i'll
+fall back to my bow
+i honestly think you can you can chime
+in here smith or bob i think that's
+actually kind of a bad one i think a lot
+of people see a flying creature and they
+start pulling i drop my weapons i pull
+out my bow and i'm like you know that's
+what i would have done i was like i take
+my throwing axe and throw it at it yeah
+below below level five it's a
+it's a desperate action
+maybe if there's a caster that has a
+magic weapon in a party it might be
+worth a shot if you don't have any
+better ideas after level five it's just
+don't even don't even do it right
+because i mean you're just wasting time
+at that point your magical weapon is
+going to probably not be as powerful so
+it's going to be behind in terms of
+potency runes it's going to be behind in
+terms of striking runes there might be a
+three or four point disparity between
+your dexterity and your strength yeah
+you're looking at potentially being five
+or six points of accuracy lower and a
+lot of times bob i think you're right i
+think a lot of people look at creatures
+like this and they tend to use them as
+sort of the one monster which usually
+means he's going to be higher level than
+you so that means that being three or
+four or five points behind that's a
+difference it's a big difference um so a
+lot of times if if like droga is just if
+you if you have let's say two ranged
+attackers and they you know maybe of a
+ranger and
+i don't know what else can shoot in
+pathfinder
+gunslinger
+range on a gunslinger
+if they have like a rifle i think it
+could be pretty long okay um uh but okay
+but let's say you have those characters
+and then you're like uh you know
+barbarian and you don't really have
+anything else well a fighter if a bow
+would be effective actually uh maybe
+you're just running around uh you know
+because uh you're you're if you have
+battle medicine maybe you're just
+administering potions maybe you're just
+using battle medicine checks like you
+might just be a support character in
+this fight you know part of the you know
+i'm gonna quote dungeon world here but
+like one of the things that dungeon
+world says is to uh uh you know use
+monsters use encounters to show a
+class's strength but also to show a
+class's weakness if you only ever throw
+creatures that want to just i want to
+close the melee in smash then that melee
+barbarian is never going to see the
+downside of their class and i think a
+lot of people just
+default to that
+even to the point where they i don't
+want to call it a soft fudge
+but it's a soft fudge like they'll have
+a flying creature who is more than
+capable of being in the air and what is
+the first thing to do dive bombs the
+barbarian lands in melee with it uh
+preferably in a it lands in between two
+characters into the flank
+um and it's just like and then it and
+then it's dead and you're like how
+convenient that's the skyrim experience
+because in skyrim you have dragons but
+not everyone has a ranged attack just
+like in pathfinder so the dragon ai will
+randomly go i've decided to land and
+face you and hand-to-hand
+and so if you're like the guy with the
+200 sword you're just kind of standing
+there waiting and then you're like all
+right cool whack
+because a lot well because a lot of
+times gm's and this gets back to what we
+talked about before this isn't
+necessarily a combat or tactic it's more
+of just an idea and i know a lot of gm's
+watch this show as well
+you might be in a situation where you
+throw a low-level drag like it's not
+this level 10 monstrosity maybe it's a
+level 7 dragon or something like a white
+i think a white dragon adult white
+dragon might be level six actually um it
+has a co it's the lowest one i
+understand what it is it has a cone
+um and you might be sitting there going
+wait a second i'm just gonna fly this
+thing around and kill these people
+they're completely unequipped to handle
+with this and then you start to feel bad
+and you're like uh it gets it it gets
+enraged and it closes down and it closes
+into melee don't feel bad james see this
+this is a rare opportunity to teach your
+players a lesson that they don't get to
+learn very often in modern rpgs and
+players here's the advice if you're in
+this situation and you don't have a good
+strategy you don't have good terrain you
+have good ideas you can't bring it down
+you can't shoot it you don't push it to
+fly run away run away find cover take
+cover that's an action you can do you
+can hide if the creature can't find you
+you have to spend time seeking finding
+you so even a terrain like this where
+there's no caves or shelter to hide in
+from this dragon there's bushes to break
+line of sight that you can use to hide
+in right just go run and live another
+day yeah and and i'll give you a great
+example that was many years ago this was
+not pathfinder two but i was playing in
+a campaign with aaron i was playing a
+wizard who ended up becoming an evoker
+but started off as an illusionist and a
+i think it was like a zombie wyvern or
+something uh we saw it a point
+it was a zombie wyvern um was was
+swooping low in on the horizon and i
+said oh man this thing's like we're like
+level two or one or three this thing's
+like a level seven monster that we gotta
+you know but it's like far away right
+like 600 700 feet it's coming in i go
+i'm gonna make an illusion we're in an
+area with a lot of boulders and like
+rocky terrain i'm gonna make an illusion
+of a boulder and we'll all just like
+hide inside of the fake boulder it's a
+dumb quivering uh maybe it'll just pass
+us by
+like gm's don't like like that's pretty
+sweet actually well yeah
+and like but like a lot of gm's like if
+a play like aaron was saying if that
+dragon you know swoops up ahead and he's
+describing how he's gaining all this
+elevation if your party goes hey we're
+gonna cover the rocks we're gonna get
+low we're gonna hide from the creature
+i don't know don't don't try to screw
+them over like they're they're trying to
+participate in the game in a reasonable
+way um i'm not exact you know
+in pathfinder two technically speaking
+there is no penalty
+to perception checks for distance um in
+pathfinder one there was you had a you
+had a minus one penalty to your
+perception check for each 10 foot of
+distance between you and the target so
+if you were 300 feet away even a fighter
+hiding
+right essentially had a plus 30 to his
+check
+uh we don't have that in pathfinder 2
+but
+be reasonable about it right like don't
+be afraid to say hey these players are
+making a conservative effort to run away
+to you know don't punish them but show
+when you do that you're just showing
+them hey everybody fight to the death
+every single time because it doesn't
+matter anyways right
+yeah
+um and if you are worried about making
+it exciting bust out the chase rolls
+from the gmj
+sure you could use an alternative system
+now it's them running through the canyon
+while the dragon is swooping in
+occasionally strafing them with fire and
+stuff like that you could turn into a
+whole cool thing even if it isn't
+actually the fight versus the dragon um
+okay so
+you can fly yourself go fight them you
+can use range attacks uh we've talked
+about how before you can ready your
+actions to to try to one at the simplest
+level you're just ready to beat them you
+know if it's the kind of creature like a
+griffin or a hippogriff or a gargoyle
+right that is
+fairly unintelligent mostly beast you'll
+like could be a giant bat if it has to
+fly in
+next to you to attack you you can just
+ready to beat it yourself uh you could
+ready to strike it you could ready to
+trip it
+i should also point out not like we
+needed more for this but uh you know a
+lot of flying creatures
+tend to be large large creatures have
+reach
+so this means now we're kind of in a
+weird situation where a melee creature
+can dive bomb you attack you in melee
+but be outside of your reach by just
+five feet
+and yes this is where the gnomish flick
+mace uh but also you know pole arms uh
+or having a large spell cast on you can
+be a big difference and there's a level
+range in the game i would say it starts
+about level
+five
+four to five and maybe goes up to like
+seven to nine where like the creatures
+start getting large but the players are
+still maybe dealing with the difficulty
+of not being able to be large themselves
+or not having yeah you don't get
+enlarged sweat
+spell three so five fifth level it's
+second level but it's second level okay
+so so you could have it at three and if
+a player has a scroll of it that could
+be very useful but um and i know it's
+not always easy to just have an extra
+pole arm stuck to you which is also why
+the gnomish flick mace is so damn good
+because the nomad flick mace or polearm
+is gonna essentially allow you to
+function as a large creature and if that
+creature comes into you know like for
+example we have one here in our foundry
+um you know the griffin
+is basically like the um
+uh the griffin is basically like the
+gargoyle but on on crack uh because the
+the griffin is large giving it a 10 foot
+reach which means it can come down into
+melee with breck or with thrawn and
+attack it from 10 feet up and they can't
+attack back
+the griffin also has a speed of 60
+and the griffin also has a special move
+the flying strafe which is for two
+actions it could fly at speed and make
+two talon strikes against two different
+opponents as it sort of strikes by them
+right so um you know that i can just
+envision that like the griffin's just
+hovering and attacking them it's like oh
+no i can't get you right so like kind of
+funny and super annoying at the same
+time right so like the griffin could
+have started all the way up here it
+takes its first action to fly here and
+then it takes its next two actions to do
+a flying strafe allowing it to make a
+60-foot fly move and then as it passes
+over droga and joran
+claw claw all while maintaining a
+10-foot elevation meaning that anyone
+who doesn't have reach or isn't large
+isn't going to be able to attack it no
+matter what they've readied so again and
+the fighter can't attack our opportunity
+yet yeah the fighter can attack that's
+huge unless unless he has enormous flick
+mace um okay well
+smart fighter would be raised by gnomes
+or a pole arm i should note that olap
+again don't get me wrong pole arms are
+great the downside of the pole arm is
+supposed to be that you are giving up
+your extra hand in order to wield the
+pole arm um
+but the normal flick mace doesn't have
+that disorder um but anyways i'm dead
+chris my point is
+readying in melee
+as you get higher in level becomes less
+and less of a viable option the
+creatures are going to be faster they're
+going to have higher speeds they are
+going to have more reach they might have
+ranged attacks you're going to need to
+be more creative
+but you'll also have more options as you
+gain higher levels precisely especially
+if you're a spell caster
+correct and that brings us to sort of uh
+we talked before about the the flaws the
+flaws or the downside of the fly action
+and as a reminder and smith said this at
+the beginning of the video
+the fly action if you're knocked prone
+you fall and we've talked about ways
+that you can deal with that but keep in
+mind there are other ways to not
+creatures prone other than with a trip
+attempt there are some spells for
+example which can knock a creature prone
+if you knock a creature prone
+even if it's from a spell effect or from
+a critical specialization effect
+maybe you do have a fly spell cast in
+you bob and you know they maybe we may
+go back in time to azias
+and uh and azius flies up to engage the
+creature lands a crit with his maul well
+in addition to doing probably a lot of
+damage the creature is now prone
+in fact that's even better right because
+there's no check at all uh and then the
+creature is going to beautiful the
+creature is going to uh plummet to the
+ground and and then either uh arrest its
+fall and take no damage but still be
+prone on the ground or it's going to
+splat on the ground either way it's a
+it's a good win for you um
+and not just things like tryptophan keep
+in mind again going back to action
+economy is devastating with these things
+so slow which is already the most broken
+spell in the game is even more broken
+flying creatures you cast a slow on a
+creature it has it loses an action it
+has to spend an action flying it gets
+one action lift you just shut down that
+dragon right because now the creature
+can't fly in do its attack fly away
+now if it's slowed the creature can only
+or stunned uh the creature can only fly
+in make an attack and then it's still
+there right you know and and on the
+other side of the coin right we talked
+about fly has two potential downsides
+the first is that if you're not prone
+you fall to the ground but the second is
+if you don't take a fly action right you
+fall
+that means if you can immobilize a
+creature
+if you can eat up all of a creature's
+actions if you can uh you know uh
+hell you if you grapple a creature
+uh it'll fall prone right because it
+can't if it can't escape it can't fly
+if you uh by the way you could be prone
+and still in the air and you the fly
+action has the move trait you cannot use
+actions with the move trait while you're
+from stand up before you can resume
+flying you have to stand up in the air
+before you
+before you can move away um and so if
+you can somehow make it so that that
+creature cannot take the fly action
+either because you don't allow it to
+make a move action right another example
+maybe a monk flies up and then the
+creature tries to fly but he does his uh
+stand still yeah and and disrupts it
+that move action never occurred
+and now he'll fall to the ground
+it's kind of funny so there's all these
+really cool interesting ways and when
+you're looking and we've been talking
+about spells but there are a lot of
+spells that immobilize there are a lot
+of spells that knock prone um and i
+think you could talk you can use these
+spells um and you can use these
+abilities to really gain that kind of
+advantage um
+so i think that that is a huge win um
+so
+i kind of have two more things that we
+want to talk about finally getting back
+to what you were talking about bob
+but there is one thing that i i would be
+remiss if i did not mention it and it's
+more of a um a high level option
+but
+obviously
+a lot of people in pathfinder 2 make
+melee characters it's very attractive
+strength adds to both attack and damage
+um you know and a lot of the the the fun
+the fun characters in the game use uh
+use this um there is
+a rune
+that you could put onto your weapon now
+you probably don't want to put this onto
+your main weapon but because of the
+price differential in pathfinder 2 once
+something is uh you know a couple levels
+below you it's almost trivially cheap so
+if you have something like a plus
+three
+you know major striking
+warhammer or like maul
+maybe you just have a plus two striking
+weapon
+and you put an extending rune on this
+this came out in secrets of magic yep
+extending rune lets you for two actions
+make a strike with a melee strike at a
+range of 60 feet
+now it's not perfect it's not going to
+solve every issue
+but it gives you a lot it basically
+allows you to melee attack with that
+option now obviously extending runes are
+level nine this is not going to be an
+option until you're in your teens and
+you're going to have a lot of other
+options at that level as well but if you
+really want to just beat people
+and keep in mind that for example if you
+put an extending rune on a mall well now
+from 60 feet away i hit him if i crit
+him it's prone and now it falls to the
+ground and now it's just better for
+everybody so that extending rune can
+really give you a nice option and then
+at level 13 you can get a greater
+extending rune and that reaches it out
+to 120 feet and that rune is usable
+infinite times per day it just turns it
+just makes it a two action strike
+instead of a one action strike so you
+can't
+attack a bunch of that work this is
+gonna be a side tangent but does that
+work like if you put on the magical hand
+wraps does your do you like become the
+guy from street fighter your arms extend
+out well it has to be it has to be put
+placed on a melee weapon so as long as
+hand wraps of mighty blows count as a
+melee weapon which i think they do
+i know you could put runes on them
+that's why i just didn't know
+uh that could be a time for a different
+day i don't i don't actually know i mean
+it says specifically a melee weapon i
+don't know if hand wraps count as a
+melee weapon but uh you're thinking of
+dolph sim from street fighter yeah i was
+just thinking anyway continue i don't
+want to take it too off if you're if you
+know the answer in the in the comments
+section you guys can put it in yeah it
+wouldn't be it wouldn't be a combat
+tactic without bob going into some sorry
+sorry sir fanboy tangent um
+but
+the creators of pathfinder 2
+understand that flying is potentially a
+challenge it's something you have to
+deal with in the game and so there are a
+couple of specific spells and feats
+which deal exactly with flying and bob
+you were mentioning
+earthbind earthbind uh it's a level
+three spell so your casters are gonna
+get at level five probably around the
+time where you're really gonna start
+fighting more flying creatures it has a
+range of 120 feet it's a fort save and
+even if they pass the fort safe
+they still fall 120 feet
+so now granted they can fly they can
+just fly up again but if the creature's
+100 feet in the air and then you delay
+your party so they all go after you and
+you earth bind it and it passes its fort
+save it is now still on the ground um it
+falls safely but it's on the ground and
+your party can then use that opportunity
+to just you know destroy it um if the
+creature fly uh fails to save it still
+falls 120 feet safely but then it can't
+fly levitate or do anything otherwise it
+can't leave the ground at all for an
+entire round
+which is probably all the time that you
+need and then if it critically fails it
+can't leave the ground for an entire
+minute so that is an example of a very
+very
+direct exact and specific you know
+assault on flying
+um but there's also feats uh monks get a
+flying kick that lets them it's for two
+actions they basically to make like a
+high jump and they can make a strike
+while in the air um i think barbarians
+and fighters get something similar
+called sudden leap
+ropes get another feat that does
+something similar to take out a flyer
+right right so rogues and fighters each
+get a felling
+yes yeah that's what it is yeah so
+rogues get a thing called felling shot
+you make a strike if it deals damage
+they have to make a reflex save if they
+fail the reflex save it they kind of
+almost get earthbound um fighters get
+something similar
+but it's only for melee attacks
+so the rogue one there is probably a lot
+better um but even still if you have
+that one fighter who can get up into the
+air maybe through flying or whatever
+filing strike is a level eight feet
+they're gonna hit them they're gonna
+fall now is this that's just part of
+your strategy right like if you know
+that you can take that feat and then
+someone else in your group can cast fly
+on you yeah this is like sort of what
+you guys plan out beforehand if we come
+in the situation i'm gonna cast fly
+you're gonna go up and knock them down
+you know that's right well and i'm gonna
+go find a little bit of a rant here but
+i mean part of the thing is someone
+might look at this feat this felling
+strike feat or the felling shot feat
+that smith was talking about and say
+but that doesn't fit my build i'm not
+going to put that in my class and that's
+fine that's true you're like i only want
+to take the feats that are me dual
+attacking i don't want to take any of
+these feats that might not come up a lot
+or might not use it you know come up a
+lot and that's fine
+and if your gm or the adventure path
+that you're on
+never
+challenges any of your assumptions then
+yeah you're just going to stomp
+everything and never be challenged at
+all in the game um
+these these feats are designed so that
+when you're
+you are sacrificing probably some
+high-end power
+as a fighter you get so many feats
+anyways i don't know that matters but
+but what you're gaining is a lot of
+versatility and i think what bob was
+talking about too it's in the context of
+a party of a plan hey do we have a plan
+for dealing with invisible creatures do
+we have a plan for dealing with flying
+creatures or or you know highly
+maneuverable creatures and then you say
+okay yeah what is the plan i'll take
+this feat you take that spell you'll
+have that ability and if we encounter a
+flying creature this is our plan this is
+our tactic um and it is a team game it
+is a team game and i think flying
+creatures really drive that home if
+every encounter that you basically fight
+for the entire game is melee creatures
+in a 30 foot by 30 foot room
+okay you could just oh those rooms are
+huge what aps are you playing
+you could just roll your face across
+your character sheet and you'll probably
+beat every encounter
+i don't think that works quite the same
+but i appreciate the hustle
+i can't i can't face roll my my everyone
+plays on foundry anyway you can face
+draw your keys yeah you can face you can
+face roll your keyboard um
+so again um you know a great option to
+find these by the way go into archives
+of netflix
+uh select feats and type in words like
+flying
+or uh you know uh to the ground uh you
+know and and
+and it'll bring up feats and options
+that talk about these things uh we
+mentioned i'll put a kind of a quick
+list here but you know there's things
+like flying kick felling strike felling
+shot steal the sky
+um yeah or anything like drop pro and if
+you get them to drop prone things like
+those are good keywords to search for
+exactly anything like um uh the
+knockdown feat might be a good option if
+you could think about that um we
+mentioned sudden leap uh that at least
+like a flamboyant leap is one for the
+the
+swashbuckler uh fantastic leap is one
+for the rogue all of these essentially
+allow you to kind of like get up there
+and make that attack and that attack uh
+might be at least you're doing damage at
+least you're you know maybe helping out
+droga who's otherwise on his own
+um and we kind of talked about this a
+little bit you know aaron was talking
+about running away
+i think the third option or the last
+option i should say
+is
+we've been talking about how do we deal
+with the the flyer on its terms right
+which is it's in the air
+but this is a role-playing game it's not
+a board game contrary to bringing
+people's popular beliefs and that means
+that there's a lot of options for you
+out there
+aaron was talking about you could run
+away
+but maybe you
+with treat to uh underneath thick cover
+like trees and the suddenly the flying
+creature's advantages is taken up maybe
+you know that there's a flyer in the
+area so you uh you rig a trap a net or
+some ropes or something to try to bring
+the creature down um think of all the
+ways in movies where people try to deal
+with flying creatures and say hey how
+can i apply this to my role-playing game
+withdraw to a cave try to bring it to
+the ground so that it has to attack you
+there um there's a lot of spells that
+create things like concealment clouds
+and you know high winds and you might
+say why would i ever use this well if
+the creature can't see you because you
+created a dense fog cloud but it still
+wants to kill you it's going to have to
+come down there and deal with you
+directly in melee so all of these
+options ways to sort of
+you know there's an interesting spell
+called ash cloud that like does
+something like that where like they
+can't detect the smell and then also the
+creature is in diff the flying creatures
+in difficult terrain which is really
+interesting
+yeah this is cool stuff like that
+there's some spells in the game that
+specifically deal with flying creatures
+yeah
+you know i would scroll them if if i
+need to if you need to
+i think one that probably comes up a
+little bit maybe it's like wind wall
+um well
+a great first level spell to deal with
+flyers is gust of wind oh yeah
+yeah
+gusto wins good command's not bad if you
+can get him to drop prone oh
+oh nice one bob that's actually really
+good yeah wow that's actually a really
+really good one yeah i was looking at
+things that like you could do before you
+learned the fly spell because that's
+really after that you should just be
+flying right
+but yeah well at least you know how to
+deal with it even if you're not ready to
+fly
+command is great gust of wind is really
+great gust of wind is great because it
+specifically has that additional bonus
+effect against flyers right which
+downgrades them to a critical failure
+right which knocks the prone but it's
+also 60 feet which is really nice it's
+ultimate it's only 30 commands only 30.
+right and you do have to plan a little
+bit because you know
+you can't ready spells
+because spells are two actions so yep
+yep
+and i'm sure there are other instances
+focus spells feats magical items which
+also kind of get around this you know
+but i think if you know them you know
+put them in the comments below because
+other people watching this video will
+then look to those comments for other
+options that they can deal with at their
+party yeah absolutely um and i think if
+you do this you know one of the things
+that i think more people should do is
+create exciting dynamic combats that you
+know use a variety of challenge if
+you've watched our night school episodes
+you know that i think
+creating fights that require you know
+you to think up here and not just on
+your character sheet i think are good
+good things for the game um and so i i
+would
+i would think that using a good mix of
+flying creatures introduce them early as
+a relatively simple encounter so the
+group can sort of you know
+get their feet wet
+early
+not too early
+well level one
+well not as a severe encounter
+and not as and not as a dragon that has
+a rechargeable breath weapon
+while also including a final fantasy
+style raid mechanic of acid globes
+falling from the sky that was pretty
+cool though that then exploded gmg said
+it was balanced so that was us talking
+about flying combat and tactics is back
+um so i want to thank bob i want to
+thank aaron for for joining me today and
+again we're going to be using foundry
+we're going to be digging into the nitty
+gritty um and that means that we're
+going to be bringing this uh series back
+we know that many of you have been
+asking for it so you know look forward
+to more uh episodes of combat and
+tactics from the night's the last call
+so post topics below if you have certain
+ones that you specifically want to know
+about and very important if you like
+this video subscribe like consider
+becoming an adventurer that lets us know
+that you like these videos and that we
+shouldn't just go do other things that
+you're also not gonna like correct and
+also by the way
+if you like if you like one hour long
+discussions about one
+one element 20 minutes
+i thought this is a 15-minute video it
+was supposed to be a 15-minute video but
+it just can't be done i mean pathfinder
+2 is a very deep game and you either
+like that or you don't um if you don't
+want very deep rich mechanical you know
+thinking and processing in your game
+which is fine if you don't want this
+kind of very complex tactical game
+videos like this maybe pathfinder two
+aren't for you but if you do enjoy them
+and you do like considering and talking
+about them consider joining our patreon
+patreon.comcall where you will be
+joining an entire community of people
+who also like these kind of games but
+also like other games too we talk about
+pathfinder 2 scratches that tactical
+mini's inch i played warhammer for many
+many years
+pathfinder 2 is very good very good
+replica you know substitute for that but
+i also like powered by the apocalypse
+legend of the five rings and uh and
+blades in the dark so uh you know the
+nights of last call discord and patreon
+allow me to sort of
+kind of scratch all those itches so if
+you're interested in role-playing games
+as a hobby as a lifestyle i encourage
+you to check it out
+uh well uh bob any final thoughts
+no i i love these videos because uh it
+makes me think a lot as well um for
+things that i should be doing and
+looking for
+and things now from the gm side that i
+need to be looking at and looking for
+maybe even help my newer p newer players
+that are just learning pathfinder uh
+things that i could tell them as you
+teach me i then teach them so i think
+that's really cool that's a great
+example i was doing research for this
+and i somehow missed both command
+and gust of wind so
+which is really funny because you just
+finished your
+80 hour long spell review to be fair
+that was that was level one so that was
+like it's been a minute
+and the great thing about gust of wind
+by the way is because uh spell dc scale
+and pathfinder two irrelevant of the the
+sea you could get a level one scroll of
+gus to win and it's going to be just as
+useful at level 13 as it would be at
+level three which is really really great
+uh smith any final thoughts
+you know i i we play a lot of d20 and uh
+you can't play d20 games without combat
+so uh whether you're a combat sport
+combat is war these conversations can be
+interesting and i think uh healthy for
+the the game so yeah let's let's have a
+couple more of them and i i think that's
+a great point to end on too which is you
+know when we talk about combat and
+tactics that doesn't just necessarily
+mean oh here's this you know mechanical
+feat that you could take as you know and
+interact with that way it also comes
+down to strategies and tactics and
+having a plan and you know approaching
+these fights like a battlefield
+commander would or like a a you know a
+soldier would where you're trying to
+gain advantages in the game and setting
+up the situation to be advantageous to
+you if an encounter with a flying
+creature isn't to your advantage uh
+don't just stand there and die you know
+cha either get out or change the
+circumstances learn from your mistakes
+adapt get new items new potions new
+feats and then the next time
+you know
+you'll be ready have a plan is sort of
+what you're getting at there's like you
+got you as a party if you guys aren't
+thinking about flying creatures
+invisible creatures stuff like that it
+might be time to at least bring that
+conversation up and make sure you guys
+have a plan well that's an important
+point too i'll scope for this video but
+have a plan for when you don't have a
+plan that's right
+there you go
+right because no plan survives contact
+with a nat one on your d20 rule correct
+um which is what which is what makes the
+game interesting and keeps it you know
+fun and fresh and exciting all right
+well uh if you enjoyed this like
+subscribe check us out patreon.comcall
+and uh we'll see you next time on
+knights of last call
+[Music]
+you

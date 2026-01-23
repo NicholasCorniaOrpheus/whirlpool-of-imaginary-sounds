@@ -1,0 +1,3620 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,080",
+      "end_time": "00:00:05,040",
+      "text": "hello welcome to the knights of last"
+    },
+    {
+      "start_time": "00:00:02,480",
+      "end_time": "00:00:07,040",
+      "text": "call my name is derek melinda the game"
+    },
+    {
+      "start_time": "00:00:05,040",
+      "end_time": "00:00:08,720",
+      "text": "master for the knights"
+    },
+    {
+      "start_time": "00:00:07,040",
+      "end_time": "00:00:11,679",
+      "text": "this week we've been taking a closer"
+    },
+    {
+      "start_time": "00:00:08,720",
+      "end_time": "00:00:14,719",
+      "text": "look at the dark archive class playtest"
+    },
+    {
+      "start_time": "00:00:11,679",
+      "end_time": "00:00:16,800",
+      "text": "release from paizo yesterday we covered"
+    },
+    {
+      "start_time": "00:00:14,719",
+      "end_time": "00:00:18,960",
+      "text": "the psychic and we went over the class"
+    },
+    {
+      "start_time": "00:00:16,800",
+      "end_time": "00:00:20,160",
+      "text": "features and my thoughts on some of"
+    },
+    {
+      "start_time": "00:00:18,960",
+      "end_time": "00:00:22,720",
+      "text": "those features"
+    },
+    {
+      "start_time": "00:00:20,160",
+      "end_time": "00:00:24,560",
+      "text": "some of you had some pretty interesting"
+    },
+    {
+      "start_time": "00:00:22,720",
+      "end_time": "00:00:26,800",
+      "text": "reactions to what i had to say and i"
+    },
+    {
+      "start_time": "00:00:24,560",
+      "end_time": "00:00:29,439",
+      "text": "will admit that overall my opinion of"
+    },
+    {
+      "start_time": "00:00:26,800",
+      "end_time": "00:00:30,800",
+      "text": "the class was fairly negative and so i"
+    },
+    {
+      "start_time": "00:00:29,439",
+      "end_time": "00:00:33,280",
+      "text": "should have"
+    },
+    {
+      "start_time": "00:00:30,800",
+      "end_time": "00:00:35,600",
+      "text": "caveated everything by saying these are"
+    },
+    {
+      "start_time": "00:00:33,280",
+      "end_time": "00:00:37,760",
+      "text": "just first looks now i've been playing"
+    },
+    {
+      "start_time": "00:00:35,600",
+      "end_time": "00:00:39,680",
+      "text": "the game for a long time i think i can"
+    },
+    {
+      "start_time": "00:00:37,760",
+      "end_time": "00:00:41,840",
+      "text": "pretty much suss out how mechanics are"
+    },
+    {
+      "start_time": "00:00:39,680",
+      "end_time": "00:00:43,600",
+      "text": "going to work once they're on paper but"
+    },
+    {
+      "start_time": "00:00:41,840",
+      "end_time": "00:00:45,520",
+      "text": "i will say that until we actually get a"
+    },
+    {
+      "start_time": "00:00:43,600",
+      "end_time": "00:00:47,760",
+      "text": "chance to play with this class on the"
+    },
+    {
+      "start_time": "00:00:45,520",
+      "end_time": "00:00:49,680",
+      "text": "tabletop i am going to withhold any"
+    },
+    {
+      "start_time": "00:00:47,760",
+      "end_time": "00:00:52,640",
+      "text": "judgment about whether the class is good"
+    },
+    {
+      "start_time": "00:00:49,680",
+      "end_time": "00:00:55,280",
+      "text": "or not so consider these to be more hot"
+    },
+    {
+      "start_time": "00:00:52,640",
+      "end_time": "00:00:57,039",
+      "text": "takes than uh you know well-informed"
+    },
+    {
+      "start_time": "00:00:55,280",
+      "end_time": "00:00:58,559",
+      "text": "takes because again no one has had a"
+    },
+    {
+      "start_time": "00:00:57,039",
+      "end_time": "00:01:01,120",
+      "text": "chance to play with these classes yet"
+    },
+    {
+      "start_time": "00:00:58,559",
+      "end_time": "00:01:03,039",
+      "text": "and so you know we're just taking this"
+    },
+    {
+      "start_time": "00:01:01,120",
+      "end_time": "00:01:05,119",
+      "text": "as quickly as we can the goal with these"
+    },
+    {
+      "start_time": "00:01:03,039",
+      "end_time": "00:01:06,560",
+      "text": "videos is to simply inform people who"
+    },
+    {
+      "start_time": "00:01:05,119",
+      "end_time": "00:01:08,240",
+      "text": "may not have had a chance yet to read"
+    },
+    {
+      "start_time": "00:01:06,560",
+      "end_time": "00:01:10,640",
+      "text": "through the entire document as well as"
+    },
+    {
+      "start_time": "00:01:08,240",
+      "end_time": "00:01:12,400",
+      "text": "to give some first thoughts about what i"
+    },
+    {
+      "start_time": "00:01:10,640",
+      "end_time": "00:01:14,240",
+      "text": "feel about these classes and it'll be"
+    },
+    {
+      "start_time": "00:01:12,400",
+      "end_time": "00:01:16,000",
+      "text": "interesting to see how as play testing"
+    },
+    {
+      "start_time": "00:01:14,240",
+      "end_time": "00:01:18,880",
+      "text": "goes on and eventually the final"
+    },
+    {
+      "start_time": "00:01:16,000",
+      "end_time": "00:01:21,040",
+      "text": "releases is released that we see how"
+    },
+    {
+      "start_time": "00:01:18,880",
+      "end_time": "00:01:23,280",
+      "text": "things have maybe changed and hopefully"
+    },
+    {
+      "start_time": "00:01:21,040",
+      "end_time": "00:01:25,119",
+      "text": "possibly paizo here's some of these"
+    },
+    {
+      "start_time": "00:01:23,280",
+      "end_time": "00:01:27,200",
+      "text": "concerns and maybe make some changes to"
+    },
+    {
+      "start_time": "00:01:25,119",
+      "end_time": "00:01:29,600",
+      "text": "make these classes better"
+    },
+    {
+      "start_time": "00:01:27,200",
+      "end_time": "00:01:31,360",
+      "text": "so yesterday we dealt with the psychic"
+    },
+    {
+      "start_time": "00:01:29,600",
+      "end_time": "00:01:33,439",
+      "text": "today we are going to deal with the"
+    },
+    {
+      "start_time": "00:01:31,360",
+      "end_time": "00:01:36,640",
+      "text": "thematurge so the first thing you might"
+    },
+    {
+      "start_time": "00:01:33,439",
+      "end_time": "00:01:39,360",
+      "text": "ask is what is a thomaturge well"
+    },
+    {
+      "start_time": "00:01:36,640",
+      "end_time": "00:01:41,439",
+      "text": "thomaturge or thomaturgy is sort of an"
+    },
+    {
+      "start_time": "00:01:39,360",
+      "end_time": "00:01:44,240",
+      "text": "old-fashioned word to just kind of"
+    },
+    {
+      "start_time": "00:01:41,439",
+      "end_time": "00:01:47,119",
+      "text": "describe someone who works miracles is a"
+    },
+    {
+      "start_time": "00:01:44,240",
+      "end_time": "00:01:48,159",
+      "text": "miracle worker does weird things with"
+    },
+    {
+      "start_time": "00:01:47,119",
+      "end_time": "00:01:51,119",
+      "text": "magic"
+    },
+    {
+      "start_time": "00:01:48,159",
+      "end_time": "00:01:53,840",
+      "text": "um in the context of pathfinder a"
+    },
+    {
+      "start_time": "00:01:51,119",
+      "end_time": "00:01:56,560",
+      "text": "thomaturge is someone who has"
+    },
+    {
+      "start_time": "00:01:53,840",
+      "end_time": "00:01:59,280",
+      "text": "accumulated a bunch of different scraps"
+    },
+    {
+      "start_time": "00:01:56,560",
+      "end_time": "00:02:01,520",
+      "text": "of of magical lore of forbidden"
+    },
+    {
+      "start_time": "00:01:59,280",
+      "end_time": "00:02:04,079",
+      "text": "knowledge and sort of gathered them all"
+    },
+    {
+      "start_time": "00:02:01,520",
+      "end_time": "00:02:06,079",
+      "text": "up figuring that something should work"
+    },
+    {
+      "start_time": "00:02:04,079",
+      "end_time": "00:02:07,520",
+      "text": "and when i first read this class when i"
+    },
+    {
+      "start_time": "00:02:06,079",
+      "end_time": "00:02:09,679",
+      "text": "first heard about this class the first"
+    },
+    {
+      "start_time": "00:02:07,520",
+      "end_time": "00:02:12,319",
+      "text": "thing i thought of was"
+    },
+    {
+      "start_time": "00:02:09,679",
+      "end_time": "00:02:14,239",
+      "text": "uh this scene from the mummy the one"
+    },
+    {
+      "start_time": "00:02:12,319",
+      "end_time": "00:02:16,959",
+      "text": "with brendan fraser and rachel weiss"
+    },
+    {
+      "start_time": "00:02:14,239",
+      "end_time": "00:02:19,280",
+      "text": "when the character benny um"
+    },
+    {
+      "start_time": "00:02:16,959",
+      "end_time": "00:02:21,120",
+      "text": "is just pulling out various holy symbols"
+    },
+    {
+      "start_time": "00:02:19,280",
+      "end_time": "00:02:22,720",
+      "text": "hoping that something is going to work"
+    },
+    {
+      "start_time": "00:02:21,120",
+      "end_time": "00:02:24,560",
+      "text": "and something is going to save him so"
+    },
+    {
+      "start_time": "00:02:22,720",
+      "end_time": "00:02:27,280",
+      "text": "that is very much the feel i got from"
+    },
+    {
+      "start_time": "00:02:24,560",
+      "end_time": "00:02:29,440",
+      "text": "this class and i would also go so far as"
+    },
+    {
+      "start_time": "00:02:27,280",
+      "end_time": "00:02:32,239",
+      "text": "to say this class just feels like an"
+    },
+    {
+      "start_time": "00:02:29,440",
+      "end_time": "00:02:35,280",
+      "text": "adventurer they are a character that is"
+    },
+    {
+      "start_time": "00:02:32,239",
+      "end_time": "00:02:38,160",
+      "text": "built to handle a variety of situations"
+    },
+    {
+      "start_time": "00:02:35,280",
+      "end_time": "00:02:41,280",
+      "text": "and i gotta say my first overall take of"
+    },
+    {
+      "start_time": "00:02:38,160",
+      "end_time": "00:02:43,840",
+      "text": "it is i really like this class it has a"
+    },
+    {
+      "start_time": "00:02:41,280",
+      "end_time": "00:02:45,599",
+      "text": "great looking core chassis and when i"
+    },
+    {
+      "start_time": "00:02:43,840",
+      "end_time": "00:02:47,360",
+      "text": "say core chassis i mean your"
+    },
+    {
+      "start_time": "00:02:45,599",
+      "end_time": "00:02:50,480",
+      "text": "proficiencies what you gain through the"
+    },
+    {
+      "start_time": "00:02:47,360",
+      "end_time": "00:02:51,680",
+      "text": "levels it's very similar to the bar dare"
+    },
+    {
+      "start_time": "00:02:50,480",
+      "end_time": "00:02:53,200",
+      "text": "i say"
+    },
+    {
+      "start_time": "00:02:51,680",
+      "end_time": "00:02:54,000",
+      "text": "even better"
+    },
+    {
+      "start_time": "00:02:53,200",
+      "end_time": "00:02:55,599",
+      "text": "and"
+    },
+    {
+      "start_time": "00:02:54,000",
+      "end_time": "00:02:57,599",
+      "text": "that doesn't surprise me because the"
+    },
+    {
+      "start_time": "00:02:55,599",
+      "end_time": "00:02:59,599",
+      "text": "bard is a caster class but this"
+    },
+    {
+      "start_time": "00:02:57,599",
+      "end_time": "00:03:02,000",
+      "text": "character has a lot going for it it's"
+    },
+    {
+      "start_time": "00:02:59,599",
+      "end_time": "00:03:05,360",
+      "text": "charisma based it has eight hit points"
+    },
+    {
+      "start_time": "00:03:02,000",
+      "end_time": "00:03:08,080",
+      "text": "per level it gets six plus intelligence"
+    },
+    {
+      "start_time": "00:03:05,360",
+      "end_time": "00:03:10,000",
+      "text": "skills four of the skills are chosen and"
+    },
+    {
+      "start_time": "00:03:08,080",
+      "end_time": "00:03:12,800",
+      "text": "two more are freebies plus your"
+    },
+    {
+      "start_time": "00:03:10,000",
+      "end_time": "00:03:14,879",
+      "text": "intelligence so a huge number of skills"
+    },
+    {
+      "start_time": "00:03:12,800",
+      "end_time": "00:03:16,959",
+      "text": "uh that's the same number as the ranger"
+    },
+    {
+      "start_time": "00:03:14,879",
+      "end_time": "00:03:19,680",
+      "text": "gets that's the same number as the bard"
+    },
+    {
+      "start_time": "00:03:16,959",
+      "end_time": "00:03:21,680",
+      "text": "gets so this character is not wanting"
+    },
+    {
+      "start_time": "00:03:19,680",
+      "end_time": "00:03:24,000",
+      "text": "for skills the only person who has more"
+    },
+    {
+      "start_time": "00:03:21,680",
+      "end_time": "00:03:26,720",
+      "text": "is the rogue they start the game as an"
+    },
+    {
+      "start_time": "00:03:24,000",
+      "end_time": "00:03:29,519",
+      "text": "expert in will and trained in the others"
+    },
+    {
+      "start_time": "00:03:26,720",
+      "end_time": "00:03:31,360",
+      "text": "and an expert in perception so already"
+    },
+    {
+      "start_time": "00:03:29,519",
+      "end_time": "00:03:34,159",
+      "text": "off the bat they have some really nice"
+    },
+    {
+      "start_time": "00:03:31,360",
+      "end_time": "00:03:37,200",
+      "text": "proficiencies they are trained in light"
+    },
+    {
+      "start_time": "00:03:34,159",
+      "end_time": "00:03:39,840",
+      "text": "and medium armor which is a nice step up"
+    },
+    {
+      "start_time": "00:03:37,200",
+      "end_time": "00:03:41,840",
+      "text": "over the bard hitting expert and master"
+    },
+    {
+      "start_time": "00:03:39,840",
+      "end_time": "00:03:44,720",
+      "text": "later on in the progression"
+    },
+    {
+      "start_time": "00:03:41,840",
+      "end_time": "00:03:47,760",
+      "text": "they gain all weapon proficiencies"
+    },
+    {
+      "start_time": "00:03:44,720",
+      "end_time": "00:03:49,840",
+      "text": "martial simple and unarmed and they go"
+    },
+    {
+      "start_time": "00:03:47,760",
+      "end_time": "00:03:52,239",
+      "text": "to expert proficiency at level 5 and"
+    },
+    {
+      "start_time": "00:03:49,840",
+      "end_time": "00:03:54,400",
+      "text": "master proficiency at level 13 just like"
+    },
+    {
+      "start_time": "00:03:52,239",
+      "end_time": "00:03:55,760",
+      "text": "every other martial class"
+    },
+    {
+      "start_time": "00:03:54,400",
+      "end_time": "00:03:57,920",
+      "text": "the other notable thing about their"
+    },
+    {
+      "start_time": "00:03:55,760",
+      "end_time": "00:04:00,400",
+      "text": "progression is at level 13 they gain a"
+    },
+    {
+      "start_time": "00:03:57,920",
+      "end_time": "00:04:02,400",
+      "text": "legendary will save with the typical"
+    },
+    {
+      "start_time": "00:04:00,400",
+      "end_time": "00:04:04,799",
+      "text": "result plus plus that we've come to see"
+    },
+    {
+      "start_time": "00:04:02,400",
+      "end_time": "00:04:06,319",
+      "text": "from other mechanics where a success"
+    },
+    {
+      "start_time": "00:04:04,799",
+      "end_time": "00:04:07,760",
+      "text": "becomes a critical success and a"
+    },
+    {
+      "start_time": "00:04:06,319",
+      "end_time": "00:04:09,920",
+      "text": "critical failure is upgraded to a"
+    },
+    {
+      "start_time": "00:04:07,760",
+      "end_time": "00:04:12,239",
+      "text": "regular failure their fortitude and"
+    },
+    {
+      "start_time": "00:04:09,920",
+      "end_time": "00:04:14,239",
+      "text": "reflex cap out at just expert which"
+    },
+    {
+      "start_time": "00:04:12,239",
+      "end_time": "00:04:17,199",
+      "text": "isn't the strongest and his perception"
+    },
+    {
+      "start_time": "00:04:14,239",
+      "end_time": "00:04:19,519",
+      "text": "hits master so overall this is a very"
+    },
+    {
+      "start_time": "00:04:17,199",
+      "end_time": "00:04:21,440",
+      "text": "solid chassis with marshall level weapon"
+    },
+    {
+      "start_time": "00:04:19,519",
+      "end_time": "00:04:24,080",
+      "text": "proficiencies marshall level armor"
+    },
+    {
+      "start_time": "00:04:21,440",
+      "end_time": "00:04:26,000",
+      "text": "proficiencies and a super high will save"
+    },
+    {
+      "start_time": "00:04:24,080",
+      "end_time": "00:04:29,120",
+      "text": "which tends to be marshall characters"
+    },
+    {
+      "start_time": "00:04:26,000",
+      "end_time": "00:04:31,040",
+      "text": "weak spot so just on the core spine of"
+    },
+    {
+      "start_time": "00:04:29,120",
+      "end_time": "00:04:33,440",
+      "text": "this character alone i think it's really"
+    },
+    {
+      "start_time": "00:04:31,040",
+      "end_time": "00:04:35,840",
+      "text": "exciting that's the core chassis what"
+    },
+    {
+      "start_time": "00:04:33,440",
+      "end_time": "00:04:38,400",
+      "text": "about its unique abilities well for"
+    },
+    {
+      "start_time": "00:04:35,840",
+      "end_time": "00:04:40,960",
+      "text": "starters they begin play at first level"
+    },
+    {
+      "start_time": "00:04:38,400",
+      "end_time": "00:04:42,960",
+      "text": "with the dubious knowledge feat which i"
+    },
+    {
+      "start_time": "00:04:40,960",
+      "end_time": "00:04:44,240",
+      "text": "don't care about this is mostly flavor"
+    },
+    {
+      "start_time": "00:04:42,960",
+      "end_time": "00:04:45,840",
+      "text": "and i don't even like the dubious"
+    },
+    {
+      "start_time": "00:04:44,240",
+      "end_time": "00:04:47,280",
+      "text": "knowledge feat because it feeds into the"
+    },
+    {
+      "start_time": "00:04:45,840",
+      "end_time": "00:04:48,720",
+      "text": "whole lying to your players when they"
+    },
+    {
+      "start_time": "00:04:47,280",
+      "end_time": "00:04:50,800",
+      "text": "critical fail on a recall knowledge"
+    },
+    {
+      "start_time": "00:04:48,720",
+      "end_time": "00:04:52,800",
+      "text": "except now you have to come up with two"
+    },
+    {
+      "start_time": "00:04:50,800",
+      "end_time": "00:04:54,400",
+      "text": "things to tell them one which is true"
+    },
+    {
+      "start_time": "00:04:52,800",
+      "end_time": "00:04:56,000",
+      "text": "and one which is a lie and if you're"
+    },
+    {
+      "start_time": "00:04:54,400",
+      "end_time": "00:04:57,520",
+      "text": "anything like me your players will"
+    },
+    {
+      "start_time": "00:04:56,000",
+      "end_time": "00:04:59,360",
+      "text": "immediately know which one is the lie"
+    },
+    {
+      "start_time": "00:04:57,520",
+      "end_time": "00:05:02,000",
+      "text": "because you're gonna sit there and go uh"
+    },
+    {
+      "start_time": "00:04:59,360",
+      "end_time": "00:05:04,960",
+      "text": "uh you've heard tale that the ogres like"
+    },
+    {
+      "start_time": "00:05:02,000",
+      "end_time": "00:05:06,560",
+      "text": "to have people uh over to view their"
+    },
+    {
+      "start_time": "00:05:04,960",
+      "end_time": "00:05:08,400",
+      "text": "window treatments and you won't know"
+    },
+    {
+      "start_time": "00:05:06,560",
+      "end_time": "00:05:10,000",
+      "text": "what to say so dubious knowledge is"
+    },
+    {
+      "start_time": "00:05:08,400",
+      "end_time": "00:05:12,240",
+      "text": "whatever i mean it fits the theme and"
+    },
+    {
+      "start_time": "00:05:10,000",
+      "end_time": "00:05:14,479",
+      "text": "flavor of this character but i i just"
+    },
+    {
+      "start_time": "00:05:12,240",
+      "end_time": "00:05:17,440",
+      "text": "don't really like it the other ability"
+    },
+    {
+      "start_time": "00:05:14,479",
+      "end_time": "00:05:19,680",
+      "text": "that you get is esoterica now what is"
+    },
+    {
+      "start_time": "00:05:17,440",
+      "end_time": "00:05:21,919",
+      "text": "esoterica it's a it's a weird collection"
+    },
+    {
+      "start_time": "00:05:19,680",
+      "end_time": "00:05:24,400",
+      "text": "of random bits of religious lore and"
+    },
+    {
+      "start_time": "00:05:21,919",
+      "end_time": "00:05:25,840",
+      "text": "anathemas think like i have a bit a"
+    },
+    {
+      "start_time": "00:05:24,400",
+      "end_time": "00:05:28,800",
+      "text": "little bit of silver and a little bit of"
+    },
+    {
+      "start_time": "00:05:25,840",
+      "end_time": "00:05:32,080",
+      "text": "cold iron a scrap of parchment that was"
+    },
+    {
+      "start_time": "00:05:28,800",
+      "end_time": "00:05:34,160",
+      "text": "once touched by a saint it's again a lot"
+    },
+    {
+      "start_time": "00:05:32,080",
+      "end_time": "00:05:36,400",
+      "text": "like benny from the mummy movie"
+    },
+    {
+      "start_time": "00:05:34,160",
+      "end_time": "00:05:38,560",
+      "text": "something is bound to work if you try it"
+    },
+    {
+      "start_time": "00:05:36,400",
+      "end_time": "00:05:41,840",
+      "text": "hard enough this esoterica ability gives"
+    },
+    {
+      "start_time": "00:05:38,560",
+      "end_time": "00:05:45,199",
+      "text": "you two new actions find flaw and"
+    },
+    {
+      "start_time": "00:05:41,840",
+      "end_time": "00:05:46,880",
+      "text": "esoteric antithesis that's a mouthful so"
+    },
+    {
+      "start_time": "00:05:45,199",
+      "end_time": "00:05:49,360",
+      "text": "let's take a look and break those down"
+    },
+    {
+      "start_time": "00:05:46,880",
+      "end_time": "00:05:51,039",
+      "text": "so find flaws is one action you can only"
+    },
+    {
+      "start_time": "00:05:49,360",
+      "end_time": "00:05:53,520",
+      "text": "do it once per round and it lets you"
+    },
+    {
+      "start_time": "00:05:51,039",
+      "end_time": "00:05:55,600",
+      "text": "recall knowledge with your charisma and"
+    },
+    {
+      "start_time": "00:05:53,520",
+      "end_time": "00:05:57,440",
+      "text": "if you get a critical success it gives"
+    },
+    {
+      "start_time": "00:05:55,600",
+      "end_time": "00:06:00,080",
+      "text": "you all of a creature's weaknesses"
+    },
+    {
+      "start_time": "00:05:57,440",
+      "end_time": "00:06:00,880",
+      "text": "resistances and immunities"
+    },
+    {
+      "start_time": "00:06:00,080",
+      "end_time": "00:06:02,800",
+      "text": "now"
+    },
+    {
+      "start_time": "00:06:00,880",
+      "end_time": "00:06:04,319",
+      "text": "i kind of already was doing this with"
+    },
+    {
+      "start_time": "00:06:02,800",
+      "end_time": "00:06:05,280",
+      "text": "recall knowledge when you get a critical"
+    },
+    {
+      "start_time": "00:06:04,319",
+      "end_time": "00:06:07,520",
+      "text": "success"
+    },
+    {
+      "start_time": "00:06:05,280",
+      "end_time": "00:06:09,600",
+      "text": "and if this is a special ability of this"
+    },
+    {
+      "start_time": "00:06:07,520",
+      "end_time": "00:06:11,360",
+      "text": "class i really don't know what"
+    },
+    {
+      "start_time": "00:06:09,600",
+      "end_time": "00:06:13,039",
+      "text": "information you're supposed to be giving"
+    },
+    {
+      "start_time": "00:06:11,360",
+      "end_time": "00:06:14,960",
+      "text": "out with a critical success for recall"
+    },
+    {
+      "start_time": "00:06:13,039",
+      "end_time": "00:06:16,960",
+      "text": "knowledge but i do think it's cool that"
+    },
+    {
+      "start_time": "00:06:14,960",
+      "end_time": "00:06:19,360",
+      "text": "they're actually specifying exactly what"
+    },
+    {
+      "start_time": "00:06:16,960",
+      "end_time": "00:06:21,039",
+      "text": "you get from this and given the classes"
+    },
+    {
+      "start_time": "00:06:19,360",
+      "end_time": "00:06:22,960",
+      "text": "focus on exploiting a creature's"
+    },
+    {
+      "start_time": "00:06:21,039",
+      "end_time": "00:06:25,440",
+      "text": "weaknesses i do think that this is a"
+    },
+    {
+      "start_time": "00:06:22,960",
+      "end_time": "00:06:26,800",
+      "text": "pretty cool ability it also should you"
+    },
+    {
+      "start_time": "00:06:25,440",
+      "end_time": "00:06:28,800",
+      "text": "critical success"
+    },
+    {
+      "start_time": "00:06:26,800",
+      "end_time": "00:06:31,520",
+      "text": "or succeed uh"
+    },
+    {
+      "start_time": "00:06:28,800",
+      "end_time": "00:06:33,360",
+      "text": "you can follow that up with the esoteric"
+    },
+    {
+      "start_time": "00:06:31,520",
+      "end_time": "00:06:34,720",
+      "text": "antithesis action and you get to do it"
+    },
+    {
+      "start_time": "00:06:33,360",
+      "end_time": "00:06:35,919",
+      "text": "as a free action so you don't need to"
+    },
+    {
+      "start_time": "00:06:34,720",
+      "end_time": "00:06:38,000",
+      "text": "use an action for it but we'll get to"
+    },
+    {
+      "start_time": "00:06:35,919",
+      "end_time": "00:06:40,319",
+      "text": "that in a sec if you succeed at this"
+    },
+    {
+      "start_time": "00:06:38,000",
+      "end_time": "00:06:42,720",
+      "text": "special recall knowledge uh this fine"
+    },
+    {
+      "start_time": "00:06:40,319",
+      "end_time": "00:06:44,240",
+      "text": "flaws you learn their highest weakness"
+    },
+    {
+      "start_time": "00:06:42,720",
+      "end_time": "00:06:47,280",
+      "text": "and again it lets you do the esoteric"
+    },
+    {
+      "start_time": "00:06:44,240",
+      "end_time": "00:06:48,960",
+      "text": "antithesis for free if you fail you"
+    },
+    {
+      "start_time": "00:06:47,280",
+      "end_time": "00:06:51,199",
+      "text": "don't learn anything but you still get"
+    },
+    {
+      "start_time": "00:06:48,960",
+      "end_time": "00:06:54,080",
+      "text": "to use the esoteric antithesis and if"
+    },
+    {
+      "start_time": "00:06:51,199",
+      "end_time": "00:06:56,639",
+      "text": "you critical fail you are so shocked by"
+    },
+    {
+      "start_time": "00:06:54,080",
+      "end_time": "00:06:57,840",
+      "text": "how wrong you were and how much you"
+    },
+    {
+      "start_time": "00:06:56,639",
+      "end_time": "00:07:00,000",
+      "text": "could have screwed things up that you"
+    },
+    {
+      "start_time": "00:06:57,840",
+      "end_time": "00:07:02,400",
+      "text": "become flat-footed so"
+    },
+    {
+      "start_time": "00:07:00,000",
+      "end_time": "00:07:04,479",
+      "text": "overall i think this is a really really"
+    },
+    {
+      "start_time": "00:07:02,400",
+      "end_time": "00:07:07,440",
+      "text": "cool feat it it really reminds me of"
+    },
+    {
+      "start_time": "00:07:04,479",
+      "end_time": "00:07:09,759",
+      "text": "sort of the um hunt prey monster hunter"
+    },
+    {
+      "start_time": "00:07:07,440",
+      "end_time": "00:07:11,360",
+      "text": "build of the ranger except uh it's a"
+    },
+    {
+      "start_time": "00:07:09,759",
+      "end_time": "00:07:13,919",
+      "text": "little bit cooler and a little bit more"
+    },
+    {
+      "start_time": "00:07:11,360",
+      "end_time": "00:07:16,800",
+      "text": "focused so i really like that and then"
+    },
+    {
+      "start_time": "00:07:13,919",
+      "end_time": "00:07:18,000",
+      "text": "for esoteric antithesis when you trigger"
+    },
+    {
+      "start_time": "00:07:16,800",
+      "end_time": "00:07:21,039",
+      "text": "this against a creature who you've"
+    },
+    {
+      "start_time": "00:07:18,000",
+      "end_time": "00:07:22,639",
+      "text": "already discovered and found their flaw"
+    },
+    {
+      "start_time": "00:07:21,039",
+      "end_time": "00:07:25,360",
+      "text": "this thing just gives you everything"
+    },
+    {
+      "start_time": "00:07:22,639",
+      "end_time": "00:07:27,759",
+      "text": "your attacks become magical and they"
+    },
+    {
+      "start_time": "00:07:25,360",
+      "end_time": "00:07:29,759",
+      "text": "automatically shift the damage type so"
+    },
+    {
+      "start_time": "00:07:27,759",
+      "end_time": "00:07:32,080",
+      "text": "that you are hitting your opponent's"
+    },
+    {
+      "start_time": "00:07:29,759",
+      "end_time": "00:07:34,160",
+      "text": "highest weakness so if their weakness to"
+    },
+    {
+      "start_time": "00:07:32,080",
+      "end_time": "00:07:36,960",
+      "text": "fire is 15 guess what you are going to"
+    },
+    {
+      "start_time": "00:07:34,160",
+      "end_time": "00:07:38,960",
+      "text": "do 15 points of bonus damage are they"
+    },
+    {
+      "start_time": "00:07:36,960",
+      "end_time": "00:07:40,639",
+      "text": "weak to cold 10 you're going to do 10"
+    },
+    {
+      "start_time": "00:07:38,960",
+      "end_time": "00:07:42,479",
+      "text": "points of bonus damage but here's the"
+    },
+    {
+      "start_time": "00:07:40,639",
+      "end_time": "00:07:43,759",
+      "text": "great part if they don't have a weakness"
+    },
+    {
+      "start_time": "00:07:42,479",
+      "end_time": "00:07:46,319",
+      "text": "or if their weakness isn't really that"
+    },
+    {
+      "start_time": "00:07:43,759",
+      "end_time": "00:07:48,400",
+      "text": "much then you basically give them one a"
+    },
+    {
+      "start_time": "00:07:46,319",
+      "end_time": "00:07:50,479",
+      "text": "custom one that only you can use but"
+    },
+    {
+      "start_time": "00:07:48,400",
+      "end_time": "00:07:53,599",
+      "text": "it's equal to two plus half your level"
+    },
+    {
+      "start_time": "00:07:50,479",
+      "end_time": "00:07:55,280",
+      "text": "so a level 20 thermaturge will pretty"
+    },
+    {
+      "start_time": "00:07:53,599",
+      "end_time": "00:07:57,919",
+      "text": "much always be hitting people for at"
+    },
+    {
+      "start_time": "00:07:55,280",
+      "end_time": "00:07:59,520",
+      "text": "least 12 extra points of damage or more"
+    },
+    {
+      "start_time": "00:07:57,919",
+      "end_time": "00:08:02,479",
+      "text": "depending on what their weakness is and"
+    },
+    {
+      "start_time": "00:07:59,520",
+      "end_time": "00:08:04,639",
+      "text": "again this is any weakness and it lasts"
+    },
+    {
+      "start_time": "00:08:02,479",
+      "end_time": "00:08:06,080",
+      "text": "until you find flaw again so what that"
+    },
+    {
+      "start_time": "00:08:04,639",
+      "end_time": "00:08:07,759",
+      "text": "means is this isn't just a one-round"
+    },
+    {
+      "start_time": "00:08:06,080",
+      "end_time": "00:08:10,240",
+      "text": "ability no you can keep hitting them"
+    },
+    {
+      "start_time": "00:08:07,759",
+      "end_time": "00:08:12,800",
+      "text": "with multiple strikes each turn with"
+    },
+    {
+      "start_time": "00:08:10,240",
+      "end_time": "00:08:14,960",
+      "text": "your again remember high marshal level"
+    },
+    {
+      "start_time": "00:08:12,800",
+      "end_time": "00:08:17,199",
+      "text": "weapon proficiency to just keep dealing"
+    },
+    {
+      "start_time": "00:08:14,960",
+      "end_time": "00:08:19,280",
+      "text": "the damage again this is a very cool"
+    },
+    {
+      "start_time": "00:08:17,199",
+      "end_time": "00:08:21,199",
+      "text": "take on a ranger-like ability much more"
+    },
+    {
+      "start_time": "00:08:19,280",
+      "end_time": "00:08:23,680",
+      "text": "like the hunt prey monster hunter build"
+    },
+    {
+      "start_time": "00:08:21,199",
+      "end_time": "00:08:25,919",
+      "text": "and i i've game mastered for a monster"
+    },
+    {
+      "start_time": "00:08:23,680",
+      "end_time": "00:08:28,720",
+      "text": "hunter ranger and it always felt like it"
+    },
+    {
+      "start_time": "00:08:25,919",
+      "end_time": "00:08:30,800",
+      "text": "was missing something this this is a"
+    },
+    {
+      "start_time": "00:08:28,720",
+      "end_time": "00:08:33,680",
+      "text": "much better monster hunter than even the"
+    },
+    {
+      "start_time": "00:08:30,800",
+      "end_time": "00:08:36,159",
+      "text": "ranger the second unique class feature"
+    },
+    {
+      "start_time": "00:08:33,680",
+      "end_time": "00:08:39,039",
+      "text": "that the therma church gains is their"
+    },
+    {
+      "start_time": "00:08:36,159",
+      "end_time": "00:08:42,080",
+      "text": "implement this is a strange magical"
+    },
+    {
+      "start_time": "00:08:39,039",
+      "end_time": "00:08:44,000",
+      "text": "talisman or doodad that you can use to"
+    },
+    {
+      "start_time": "00:08:42,080",
+      "end_time": "00:08:46,320",
+      "text": "focus your power maybe it was something"
+    },
+    {
+      "start_time": "00:08:44,000",
+      "end_time": "00:08:48,800",
+      "text": "you found in an ancient crypt or maybe"
+    },
+    {
+      "start_time": "00:08:46,320",
+      "end_time": "00:08:51,200",
+      "text": "it's the bone of a lost saint either way"
+    },
+    {
+      "start_time": "00:08:48,800",
+      "end_time": "00:08:53,279",
+      "text": "it's a sort of an item that you can use"
+    },
+    {
+      "start_time": "00:08:51,200",
+      "end_time": "00:08:54,880",
+      "text": "to trigger additional powers now you"
+    },
+    {
+      "start_time": "00:08:53,279",
+      "end_time": "00:08:56,880",
+      "text": "start with just one of these magical"
+    },
+    {
+      "start_time": "00:08:54,880",
+      "end_time": "00:09:00,080",
+      "text": "talismans but you can gain up to"
+    },
+    {
+      "start_time": "00:08:56,880",
+      "end_time": "00:09:02,080",
+      "text": "eventually three each which has a unique"
+    },
+    {
+      "start_time": "00:09:00,080",
+      "end_time": "00:09:03,680",
+      "text": "set of powers now we're going to go over"
+    },
+    {
+      "start_time": "00:09:02,080",
+      "end_time": "00:09:05,600",
+      "text": "them in a minute but i did want to"
+    },
+    {
+      "start_time": "00:09:03,680",
+      "end_time": "00:09:07,519",
+      "text": "highlight one additional point"
+    },
+    {
+      "start_time": "00:09:05,600",
+      "end_time": "00:09:09,680",
+      "text": "as you go up through the levels you can"
+    },
+    {
+      "start_time": "00:09:07,519",
+      "end_time": "00:09:11,760",
+      "text": "use your implement to empower your"
+    },
+    {
+      "start_time": "00:09:09,680",
+      "end_time": "00:09:13,519",
+      "text": "attacks now"
+    },
+    {
+      "start_time": "00:09:11,760",
+      "end_time": "00:09:15,920",
+      "text": "this is so cool this character is going"
+    },
+    {
+      "start_time": "00:09:13,519",
+      "end_time": "00:09:17,519",
+      "text": "to be a damage dealing monster not only"
+    },
+    {
+      "start_time": "00:09:15,920",
+      "end_time": "00:09:20,160",
+      "text": "do they get martial weapon proficiencies"
+    },
+    {
+      "start_time": "00:09:17,519",
+      "end_time": "00:09:21,839",
+      "text": "and they get weapon specialization this"
+    },
+    {
+      "start_time": "00:09:20,160",
+      "end_time": "00:09:23,760",
+      "text": "implement empowerment means that as long"
+    },
+    {
+      "start_time": "00:09:21,839",
+      "end_time": "00:09:25,519",
+      "text": "as you have a free hand or your"
+    },
+    {
+      "start_time": "00:09:23,760",
+      "end_time": "00:09:27,680",
+      "text": "implement is being wielded in one of"
+    },
+    {
+      "start_time": "00:09:25,519",
+      "end_time": "00:09:29,920",
+      "text": "your hands then you can basically"
+    },
+    {
+      "start_time": "00:09:27,680",
+      "end_time": "00:09:32,160",
+      "text": "supercharge your attack it starts off at"
+    },
+    {
+      "start_time": "00:09:29,920",
+      "end_time": "00:09:34,320",
+      "text": "two bonus damage but it scales all the"
+    },
+    {
+      "start_time": "00:09:32,160",
+      "end_time": "00:09:35,920",
+      "text": "way up to eight points of bonus damage"
+    },
+    {
+      "start_time": "00:09:34,320",
+      "end_time": "00:09:37,279",
+      "text": "now you need to have your implement in"
+    },
+    {
+      "start_time": "00:09:35,920",
+      "end_time": "00:09:39,040",
+      "text": "your hand or you need to have an offhand"
+    },
+    {
+      "start_time": "00:09:37,279",
+      "end_time": "00:09:41,760",
+      "text": "so basically this character really can't"
+    },
+    {
+      "start_time": "00:09:39,040",
+      "end_time": "00:09:43,680",
+      "text": "be using shields except maybe a buckler"
+    },
+    {
+      "start_time": "00:09:41,760",
+      "end_time": "00:09:45,680",
+      "text": "i suppose you could get away with but"
+    },
+    {
+      "start_time": "00:09:43,680",
+      "end_time": "00:09:47,760",
+      "text": "more importantly it means that on top of"
+    },
+    {
+      "start_time": "00:09:45,680",
+      "end_time": "00:09:50,399",
+      "text": "finding the flaws gaining the weakness"
+    },
+    {
+      "start_time": "00:09:47,760",
+      "end_time": "00:09:51,200",
+      "text": "exploitation implementing the"
+    },
+    {
+      "start_time": "00:09:50,399",
+      "end_time": "00:09:52,800",
+      "text": "uh"
+    },
+    {
+      "start_time": "00:09:51,200",
+      "end_time": "00:09:54,480",
+      "text": "implement power empowerment so that you"
+    },
+    {
+      "start_time": "00:09:52,800",
+      "end_time": "00:09:56,959",
+      "text": "add two four six or eight points of"
+    },
+    {
+      "start_time": "00:09:54,480",
+      "end_time": "00:09:59,040",
+      "text": "damage on top of"
+    },
+    {
+      "start_time": "00:09:56,959",
+      "end_time": "00:10:00,720",
+      "text": "this character's weapon specialization"
+    },
+    {
+      "start_time": "00:09:59,040",
+      "end_time": "00:10:02,640",
+      "text": "the fact that your character is not"
+    },
+    {
+      "start_time": "00:10:00,720",
+      "end_time": "00:10:04,079",
+      "text": "strength based really won't be much of a"
+    },
+    {
+      "start_time": "00:10:02,640",
+      "end_time": "00:10:06,399",
+      "text": "problem at all you're going to have a"
+    },
+    {
+      "start_time": "00:10:04,079",
+      "end_time": "00:10:08,560",
+      "text": "huge static bonus to damage and i think"
+    },
+    {
+      "start_time": "00:10:06,399",
+      "end_time": "00:10:10,800",
+      "text": "this is going to be a lot of fun so what"
+    },
+    {
+      "start_time": "00:10:08,560",
+      "end_time": "00:10:13,279",
+      "text": "about the implements themselves well the"
+    },
+    {
+      "start_time": "00:10:10,800",
+      "end_time": "00:10:15,279",
+      "text": "play test has five and the final version"
+    },
+    {
+      "start_time": "00:10:13,279",
+      "end_time": "00:10:18,320",
+      "text": "they say is going to have nine tying"
+    },
+    {
+      "start_time": "00:10:15,279",
+      "end_time": "00:10:20,240",
+      "text": "into the theme of three sets of three i"
+    },
+    {
+      "start_time": "00:10:18,320",
+      "end_time": "00:10:22,880",
+      "text": "think these are incredible they are"
+    },
+    {
+      "start_time": "00:10:20,240",
+      "end_time": "00:10:25,120",
+      "text": "awesome it the the powers are are very"
+    },
+    {
+      "start_time": "00:10:22,880",
+      "end_time": "00:10:26,800",
+      "text": "powerful they're fun they're exciting"
+    },
+    {
+      "start_time": "00:10:25,120",
+      "end_time": "00:10:28,399",
+      "text": "they let you focus on different elements"
+    },
+    {
+      "start_time": "00:10:26,800",
+      "end_time": "00:10:29,839",
+      "text": "of the game they let you build your"
+    },
+    {
+      "start_time": "00:10:28,399",
+      "end_time": "00:10:31,440",
+      "text": "character in a different way depending"
+    },
+    {
+      "start_time": "00:10:29,839",
+      "end_time": "00:10:33,440",
+      "text": "on which way you want to go different"
+    },
+    {
+      "start_time": "00:10:31,440",
+      "end_time": "00:10:34,959",
+      "text": "thermaturges with different implements"
+    },
+    {
+      "start_time": "00:10:33,440",
+      "end_time": "00:10:37,120",
+      "text": "are going to play very differently at"
+    },
+    {
+      "start_time": "00:10:34,959",
+      "end_time": "00:10:38,480",
+      "text": "the table and i think this is a market"
+    },
+    {
+      "start_time": "00:10:37,120",
+      "end_time": "00:10:40,880",
+      "text": "difference from the psychic that we"
+    },
+    {
+      "start_time": "00:10:38,480",
+      "end_time": "00:10:42,720",
+      "text": "reviewed yesterday additionally you gain"
+    },
+    {
+      "start_time": "00:10:40,880",
+      "end_time": "00:10:44,399",
+      "text": "a power pretty soon i think around level"
+    },
+    {
+      "start_time": "00:10:42,720",
+      "end_time": "00:10:46,480",
+      "text": "seven which lets you switch your"
+    },
+    {
+      "start_time": "00:10:44,399",
+      "end_time": "00:10:48,560",
+      "text": "implements very quickly essentially it's"
+    },
+    {
+      "start_time": "00:10:46,480",
+      "end_time": "00:10:50,320",
+      "text": "like quick draw but for your implements"
+    },
+    {
+      "start_time": "00:10:48,560",
+      "end_time": "00:10:51,360",
+      "text": "so they've even thought of the fact that"
+    },
+    {
+      "start_time": "00:10:50,320",
+      "end_time": "00:10:53,120",
+      "text": "your character is going to want to"
+    },
+    {
+      "start_time": "00:10:51,360",
+      "end_time": "00:10:54,399",
+      "text": "switch these implements in and out and"
+    },
+    {
+      "start_time": "00:10:53,120",
+      "end_time": "00:10:56,399",
+      "text": "so they've given you an ability to"
+    },
+    {
+      "start_time": "00:10:54,399",
+      "end_time": "00:10:57,920",
+      "text": "essentially switch modes"
+    },
+    {
+      "start_time": "00:10:56,399",
+      "end_time": "00:10:59,680",
+      "text": "you might start the fight with your"
+    },
+    {
+      "start_time": "00:10:57,920",
+      "end_time": "00:11:02,079",
+      "text": "amulet which will make you very you know"
+    },
+    {
+      "start_time": "00:10:59,680",
+      "end_time": "00:11:04,160",
+      "text": "powerful in protection but then later on"
+    },
+    {
+      "start_time": "00:11:02,079",
+      "end_time": "00:11:06,000",
+      "text": "you might switch over to say your wand"
+    },
+    {
+      "start_time": "00:11:04,160",
+      "end_time": "00:11:09,600",
+      "text": "if you want to do some range damage i"
+    },
+    {
+      "start_time": "00:11:06,000",
+      "end_time": "00:11:11,760",
+      "text": "think this is very very cool now each of"
+    },
+    {
+      "start_time": "00:11:09,600",
+      "end_time": "00:11:13,680",
+      "text": "the implements comes in three tiers of"
+    },
+    {
+      "start_time": "00:11:11,760",
+      "end_time": "00:11:16,079",
+      "text": "power initiate"
+    },
+    {
+      "start_time": "00:11:13,680",
+      "end_time": "00:11:18,320",
+      "text": "adept and paragon"
+    },
+    {
+      "start_time": "00:11:16,079",
+      "end_time": "00:11:20,959",
+      "text": "as you go up the levels you can increase"
+    },
+    {
+      "start_time": "00:11:18,320",
+      "end_time": "00:11:22,720",
+      "text": "your rank or skill in a certain number"
+    },
+    {
+      "start_time": "00:11:20,959",
+      "end_time": "00:11:25,200",
+      "text": "of implements you can either become a"
+    },
+    {
+      "start_time": "00:11:22,720",
+      "end_time": "00:11:28,000",
+      "text": "paragon in one implement with the other"
+    },
+    {
+      "start_time": "00:11:25,200",
+      "end_time": "00:11:30,480",
+      "text": "two staying at initiate level or you can"
+    },
+    {
+      "start_time": "00:11:28,000",
+      "end_time": "00:11:31,920",
+      "text": "become adept in two of the implements"
+    },
+    {
+      "start_time": "00:11:30,480",
+      "end_time": "00:11:33,920",
+      "text": "and then the other one will still stay"
+    },
+    {
+      "start_time": "00:11:31,920",
+      "end_time": "00:11:36,399",
+      "text": "at initiate level so again a lot of"
+    },
+    {
+      "start_time": "00:11:33,920",
+      "end_time": "00:11:37,680",
+      "text": "customization a lot of choice and as you"
+    },
+    {
+      "start_time": "00:11:36,399",
+      "end_time": "00:11:40,000",
+      "text": "go up the level you're going to gain new"
+    },
+    {
+      "start_time": "00:11:37,680",
+      "end_time": "00:11:42,640",
+      "text": "abilities and new ways to use existing"
+    },
+    {
+      "start_time": "00:11:40,000",
+      "end_time": "00:11:45,040",
+      "text": "abilities i think this is very awesome"
+    },
+    {
+      "start_time": "00:11:42,640",
+      "end_time": "00:11:46,800",
+      "text": "the first implement is the amulet and"
+    },
+    {
+      "start_time": "00:11:45,040",
+      "end_time": "00:11:49,519",
+      "text": "again this is more of a thematic choice"
+    },
+    {
+      "start_time": "00:11:46,800",
+      "end_time": "00:11:52,240",
+      "text": "it can really be anything but the amulet"
+    },
+    {
+      "start_time": "00:11:49,519",
+      "end_time": "00:11:53,760",
+      "text": "implement is focused on protection"
+    },
+    {
+      "start_time": "00:11:52,240",
+      "end_time": "00:11:55,200",
+      "text": "now the initial ability which you gain"
+    },
+    {
+      "start_time": "00:11:53,760",
+      "end_time": "00:11:58,000",
+      "text": "as an initiate you just get this"
+    },
+    {
+      "start_time": "00:11:55,200",
+      "end_time": "00:12:00,320",
+      "text": "straight off is you get a reaction and"
+    },
+    {
+      "start_time": "00:11:58,000",
+      "end_time": "00:12:01,839",
+      "text": "it triggers when you or an ally within"
+    },
+    {
+      "start_time": "00:12:00,320",
+      "end_time": "00:12:03,839",
+      "text": "15 feet"
+    },
+    {
+      "start_time": "00:12:01,839",
+      "end_time": "00:12:06,160",
+      "text": "gets hit with first source of damage and"
+    },
+    {
+      "start_time": "00:12:03,839",
+      "end_time": "00:12:08,720",
+      "text": "you give them resistance equal to two"
+    },
+    {
+      "start_time": "00:12:06,160",
+      "end_time": "00:12:10,880",
+      "text": "plus your level does this sound familiar"
+    },
+    {
+      "start_time": "00:12:08,720",
+      "end_time": "00:12:13,040",
+      "text": "sure it does it sounds a lot like the"
+    },
+    {
+      "start_time": "00:12:10,880",
+      "end_time": "00:12:15,360",
+      "text": "lawful good champion's ability to"
+    },
+    {
+      "start_time": "00:12:13,040",
+      "end_time": "00:12:16,560",
+      "text": "retributive strike now of course"
+    },
+    {
+      "start_time": "00:12:15,360",
+      "end_time": "00:12:19,200",
+      "text": "obviously they don't get to make an"
+    },
+    {
+      "start_time": "00:12:16,560",
+      "end_time": "00:12:21,360",
+      "text": "attack of opportunity but this is really"
+    },
+    {
+      "start_time": "00:12:19,200",
+      "end_time": "00:12:24,399",
+      "text": "really cool because number one it could"
+    },
+    {
+      "start_time": "00:12:21,360",
+      "end_time": "00:12:26,320",
+      "text": "be you or an ally and number two it"
+    },
+    {
+      "start_time": "00:12:24,399",
+      "end_time": "00:12:28,560",
+      "text": "could be any source of damage it could"
+    },
+    {
+      "start_time": "00:12:26,320",
+      "end_time": "00:12:30,160",
+      "text": "be a fireball it could be a cone of coal"
+    },
+    {
+      "start_time": "00:12:28,560",
+      "end_time": "00:12:31,760",
+      "text": "it could be a lightning bolt so"
+    },
+    {
+      "start_time": "00:12:30,160",
+      "end_time": "00:12:33,440",
+      "text": "basically you will give them resistance"
+    },
+    {
+      "start_time": "00:12:31,760",
+      "end_time": "00:12:35,279",
+      "text": "to whatever damage type they need"
+    },
+    {
+      "start_time": "00:12:33,440",
+      "end_time": "00:12:37,680",
+      "text": "against all the damage that is"
+    },
+    {
+      "start_time": "00:12:35,279",
+      "end_time": "00:12:39,760",
+      "text": "incredible and that is awesome so a very"
+    },
+    {
+      "start_time": "00:12:37,680",
+      "end_time": "00:12:41,600",
+      "text": "very powerful ability with huge play"
+    },
+    {
+      "start_time": "00:12:39,760",
+      "end_time": "00:12:43,360",
+      "text": "potential and i think it's a lot of fun"
+    },
+    {
+      "start_time": "00:12:41,600",
+      "end_time": "00:12:46,320",
+      "text": "now again you can improve these as you"
+    },
+    {
+      "start_time": "00:12:43,360",
+      "end_time": "00:12:47,920",
+      "text": "go up the levels by increasing your"
+    },
+    {
+      "start_time": "00:12:46,320",
+      "end_time": "00:12:50,880",
+      "text": "level of proficiency in amulet from"
+    },
+    {
+      "start_time": "00:12:47,920",
+      "end_time": "00:12:53,440",
+      "text": "initiate to adept or paragon if you"
+    },
+    {
+      "start_time": "00:12:50,880",
+      "end_time": "00:12:55,200",
+      "text": "raise it to adept then the target which"
+    },
+    {
+      "start_time": "00:12:53,440",
+      "end_time": "00:12:58,160",
+      "text": "you've given that damage reduction will"
+    },
+    {
+      "start_time": "00:12:55,200",
+      "end_time": "00:13:00,560",
+      "text": "continue to have damage reduction five"
+    },
+    {
+      "start_time": "00:12:58,160",
+      "end_time": "00:13:02,480",
+      "text": "eventually goes up to ten until the next"
+    },
+    {
+      "start_time": "00:13:00,560",
+      "end_time": "00:13:04,800",
+      "text": "turn so you hit them with one very"
+    },
+    {
+      "start_time": "00:13:02,480",
+      "end_time": "00:13:06,800",
+      "text": "powerful damage absorbing resistance but"
+    },
+    {
+      "start_time": "00:13:04,800",
+      "end_time": "00:13:08,720",
+      "text": "then give them some ongoing resistance"
+    },
+    {
+      "start_time": "00:13:06,800",
+      "end_time": "00:13:10,399",
+      "text": "for the entire round if you get it all"
+    },
+    {
+      "start_time": "00:13:08,720",
+      "end_time": "00:13:13,200",
+      "text": "the way to paragon"
+    },
+    {
+      "start_time": "00:13:10,399",
+      "end_time": "00:13:15,200",
+      "text": "then everybody all your allies within 15"
+    },
+    {
+      "start_time": "00:13:13,200",
+      "end_time": "00:13:17,440",
+      "text": "feet gain both the initial damage"
+    },
+    {
+      "start_time": "00:13:15,200",
+      "end_time": "00:13:19,920",
+      "text": "reduction and the lingering damage"
+    },
+    {
+      "start_time": "00:13:17,440",
+      "end_time": "00:13:22,800",
+      "text": "resistance that is so cool and so"
+    },
+    {
+      "start_time": "00:13:19,920",
+      "end_time": "00:13:24,959",
+      "text": "powerful a a massive red dragon comes in"
+    },
+    {
+      "start_time": "00:13:22,800",
+      "end_time": "00:13:25,839",
+      "text": "and breathes fire down on your party but"
+    },
+    {
+      "start_time": "00:13:24,959",
+      "end_time": "00:13:28,160",
+      "text": "your"
+    },
+    {
+      "start_time": "00:13:25,839",
+      "end_time": "00:13:30,320",
+      "text": "thermaturge with your powerful amulet"
+    },
+    {
+      "start_time": "00:13:28,160",
+      "end_time": "00:13:33,040",
+      "text": "gives everyone a massive bonus to fire"
+    },
+    {
+      "start_time": "00:13:30,320",
+      "end_time": "00:13:34,480",
+      "text": "resistance and then gains lingering fire"
+    },
+    {
+      "start_time": "00:13:33,040",
+      "end_time": "00:13:36,000",
+      "text": "resistance so that any other fire"
+    },
+    {
+      "start_time": "00:13:34,480",
+      "end_time": "00:13:37,920",
+      "text": "attacks for the entire rest of the round"
+    },
+    {
+      "start_time": "00:13:36,000",
+      "end_time": "00:13:40,079",
+      "text": "get mitigated and this is just a"
+    },
+    {
+      "start_time": "00:13:37,920",
+      "end_time": "00:13:43,120",
+      "text": "reaction so you could just keep doing"
+    },
+    {
+      "start_time": "00:13:40,079",
+      "end_time": "00:13:45,519",
+      "text": "this turn after turn after turn changing"
+    },
+    {
+      "start_time": "00:13:43,120",
+      "end_time": "00:13:47,760",
+      "text": "the resistance from turn to turn this is"
+    },
+    {
+      "start_time": "00:13:45,519",
+      "end_time": "00:13:49,360",
+      "text": "a huge protective ability with a lot of"
+    },
+    {
+      "start_time": "00:13:47,760",
+      "end_time": "00:13:51,440",
+      "text": "fun upside"
+    },
+    {
+      "start_time": "00:13:49,360",
+      "end_time": "00:13:54,240",
+      "text": "the second implement is the chalice"
+    },
+    {
+      "start_time": "00:13:51,440",
+      "end_time": "00:13:56,480",
+      "text": "implement and this is focused on healing"
+    },
+    {
+      "start_time": "00:13:54,240",
+      "end_time": "00:13:59,040",
+      "text": "so as an initiate you give your players"
+    },
+    {
+      "start_time": "00:13:56,480",
+      "end_time": "00:14:00,160",
+      "text": "two options one is you can take a sip"
+    },
+    {
+      "start_time": "00:13:59,040",
+      "end_time": "00:14:02,000",
+      "text": "from the chalice you can only do this"
+    },
+    {
+      "start_time": "00:14:00,160",
+      "end_time": "00:14:04,399",
+      "text": "once per round and it's you or an"
+    },
+    {
+      "start_time": "00:14:02,000",
+      "end_time": "00:14:06,320",
+      "text": "adjacent ally gains two plus half your"
+    },
+    {
+      "start_time": "00:14:04,399",
+      "end_time": "00:14:08,720",
+      "text": "level temporary hit points until end of"
+    },
+    {
+      "start_time": "00:14:06,320",
+      "end_time": "00:14:10,639",
+      "text": "next turn i mean this is this is okay"
+    },
+    {
+      "start_time": "00:14:08,720",
+      "end_time": "00:14:12,399",
+      "text": "it's only one action which is nice it's"
+    },
+    {
+      "start_time": "00:14:10,639",
+      "end_time": "00:14:14,399",
+      "text": "a little bit of a temporary hit point"
+    },
+    {
+      "start_time": "00:14:12,399",
+      "end_time": "00:14:16,320",
+      "text": "bubble which you can probably use pretty"
+    },
+    {
+      "start_time": "00:14:14,399",
+      "end_time": "00:14:19,760",
+      "text": "well but it's not the most powerful"
+    },
+    {
+      "start_time": "00:14:16,320",
+      "end_time": "00:14:21,040",
+      "text": "ability but you can drain the chalice"
+    },
+    {
+      "start_time": "00:14:19,760",
+      "end_time": "00:14:22,959",
+      "text": "and that's going to heal three hit"
+    },
+    {
+      "start_time": "00:14:21,040",
+      "end_time": "00:14:24,480",
+      "text": "points per level now you can only use"
+    },
+    {
+      "start_time": "00:14:22,959",
+      "end_time": "00:14:26,320",
+      "text": "this once every 10 minutes so it"
+    },
+    {
+      "start_time": "00:14:24,480",
+      "end_time": "00:14:28,800",
+      "text": "functions a lot like a paladin's lay on"
+    },
+    {
+      "start_time": "00:14:26,320",
+      "end_time": "00:14:30,880",
+      "text": "hands but once you've drained it you can"
+    },
+    {
+      "start_time": "00:14:28,800",
+      "end_time": "00:14:33,600",
+      "text": "still continue to offer people sips so"
+    },
+    {
+      "start_time": "00:14:30,880",
+      "end_time": "00:14:35,920",
+      "text": "again this is a huge awesome ability to"
+    },
+    {
+      "start_time": "00:14:33,600",
+      "end_time": "00:14:38,079",
+      "text": "just heal people both in combat and out"
+    },
+    {
+      "start_time": "00:14:35,920",
+      "end_time": "00:14:39,760",
+      "text": "of combat and then the ongoing temporary"
+    },
+    {
+      "start_time": "00:14:38,079",
+      "end_time": "00:14:41,279",
+      "text": "hit points is a great way to sustain"
+    },
+    {
+      "start_time": "00:14:39,760",
+      "end_time": "00:14:43,920",
+      "text": "yourself if you wanted to be a more"
+    },
+    {
+      "start_time": "00:14:41,279",
+      "end_time": "00:14:45,600",
+      "text": "martially oriented thematurge just spend"
+    },
+    {
+      "start_time": "00:14:43,920",
+      "end_time": "00:14:47,360",
+      "text": "an action each turn that that sort of"
+    },
+    {
+      "start_time": "00:14:45,600",
+      "end_time": "00:14:49,199",
+      "text": "that elusive third action to take a"
+    },
+    {
+      "start_time": "00:14:47,360",
+      "end_time": "00:14:51,120",
+      "text": "quick sip of your chalice and pop"
+    },
+    {
+      "start_time": "00:14:49,199",
+      "end_time": "00:14:53,360",
+      "text": "yourself up for five or six or seven"
+    },
+    {
+      "start_time": "00:14:51,120",
+      "end_time": "00:14:55,279",
+      "text": "different points of temp that's awesome"
+    },
+    {
+      "start_time": "00:14:53,360",
+      "end_time": "00:14:56,720",
+      "text": "that's cool if you become an adept in"
+    },
+    {
+      "start_time": "00:14:55,279",
+      "end_time": "00:14:58,560",
+      "text": "the chalice implement then if you're"
+    },
+    {
+      "start_time": "00:14:56,720",
+      "end_time": "00:15:01,760",
+      "text": "critically hit by a piercing or slashing"
+    },
+    {
+      "start_time": "00:14:58,560",
+      "end_time": "00:15:04,240",
+      "text": "weapon or ongoing bleeding damage then"
+    },
+    {
+      "start_time": "00:15:01,760",
+      "end_time": "00:15:05,680",
+      "text": "you can heal for more i i don't know"
+    },
+    {
+      "start_time": "00:15:04,240",
+      "end_time": "00:15:07,760",
+      "text": "what the theme here is i think there"
+    },
+    {
+      "start_time": "00:15:05,680",
+      "end_time": "00:15:09,839",
+      "text": "might be some sort of uh jesus metaphor"
+    },
+    {
+      "start_time": "00:15:07,760",
+      "end_time": "00:15:11,440",
+      "text": "here with the the cup"
+    },
+    {
+      "start_time": "00:15:09,839",
+      "end_time": "00:15:13,279",
+      "text": "i'm not sure but"
+    },
+    {
+      "start_time": "00:15:11,440",
+      "end_time": "00:15:15,839",
+      "text": "if you are hit by that very strange set"
+    },
+    {
+      "start_time": "00:15:13,279",
+      "end_time": "00:15:17,600",
+      "text": "of circumstances then your sip instead"
+    },
+    {
+      "start_time": "00:15:15,839",
+      "end_time": "00:15:19,519",
+      "text": "of giving uh just a few points of"
+    },
+    {
+      "start_time": "00:15:17,600",
+      "end_time": "00:15:21,839",
+      "text": "temporary hit points gives your level"
+    },
+    {
+      "start_time": "00:15:19,519",
+      "end_time": "00:15:24,000",
+      "text": "plus your charisma temporary hit points"
+    },
+    {
+      "start_time": "00:15:21,839",
+      "end_time": "00:15:25,760",
+      "text": "that's a lot of temporary hit points and"
+    },
+    {
+      "start_time": "00:15:24,000",
+      "end_time": "00:15:27,760",
+      "text": "if they drain the chalice to heal they"
+    },
+    {
+      "start_time": "00:15:25,760",
+      "end_time": "00:15:29,360",
+      "text": "get four hit points per level instead of"
+    },
+    {
+      "start_time": "00:15:27,760",
+      "end_time": "00:15:31,600",
+      "text": "three hit points per level"
+    },
+    {
+      "start_time": "00:15:29,360",
+      "end_time": "00:15:34,399",
+      "text": "lastly if you get your chalice to"
+    },
+    {
+      "start_time": "00:15:31,600",
+      "end_time": "00:15:36,240",
+      "text": "paragon when you or an ally drains the"
+    },
+    {
+      "start_time": "00:15:34,399",
+      "end_time": "00:15:37,839",
+      "text": "chalice in addition to healing wounds"
+    },
+    {
+      "start_time": "00:15:36,240",
+      "end_time": "00:15:39,839",
+      "text": "and restoring a lot of hit points"
+    },
+    {
+      "start_time": "00:15:37,839",
+      "end_time": "00:15:41,839",
+      "text": "basically the chalice just completely"
+    },
+    {
+      "start_time": "00:15:39,839",
+      "end_time": "00:15:43,440",
+      "text": "heals you it'll get rid of a lot of your"
+    },
+    {
+      "start_time": "00:15:41,839",
+      "end_time": "00:15:45,360",
+      "text": "negative conditions it will reduce your"
+    },
+    {
+      "start_time": "00:15:43,440",
+      "end_time": "00:15:47,680",
+      "text": "clumsy you're enfeebled you're"
+    },
+    {
+      "start_time": "00:15:45,360",
+      "end_time": "00:15:50,959",
+      "text": "frightened you're stupefied and your"
+    },
+    {
+      "start_time": "00:15:47,680",
+      "end_time": "00:15:52,720",
+      "text": "stun conditions all by one"
+    },
+    {
+      "start_time": "00:15:50,959",
+      "end_time": "00:15:54,800",
+      "text": "the first time each day that you drink"
+    },
+    {
+      "start_time": "00:15:52,720",
+      "end_time": "00:15:58,160",
+      "text": "from it it'll also reduce your drained"
+    },
+    {
+      "start_time": "00:15:54,800",
+      "end_time": "00:16:00,480",
+      "text": "condition by one and finally the chalice"
+    },
+    {
+      "start_time": "00:15:58,160",
+      "end_time": "00:16:04,959",
+      "text": "will try to counteract any poisons"
+    },
+    {
+      "start_time": "00:16:00,480",
+      "end_time": "00:16:06,880",
+      "text": "diseases or curses affecting the drinker"
+    },
+    {
+      "start_time": "00:16:04,959",
+      "end_time": "00:16:08,800",
+      "text": "that's incredible and you can do this"
+    },
+    {
+      "start_time": "00:16:06,880",
+      "end_time": "00:16:11,279",
+      "text": "every 10 minutes this thing is like a"
+    },
+    {
+      "start_time": "00:16:08,800",
+      "end_time": "00:16:12,639",
+      "text": "heel spell it's awesome if you wanted to"
+    },
+    {
+      "start_time": "00:16:11,279",
+      "end_time": "00:16:14,720",
+      "text": "be a healer"
+    },
+    {
+      "start_time": "00:16:12,639",
+      "end_time": "00:16:17,120",
+      "text": "take the chalice implement and you're"
+    },
+    {
+      "start_time": "00:16:14,720",
+      "end_time": "00:16:18,959",
+      "text": "basically well on your way in addition"
+    },
+    {
+      "start_time": "00:16:17,120",
+      "end_time": "00:16:20,639",
+      "text": "remember you eventually get three of"
+    },
+    {
+      "start_time": "00:16:18,959",
+      "end_time": "00:16:22,480",
+      "text": "these implements so if you want to"
+    },
+    {
+      "start_time": "00:16:20,639",
+      "end_time": "00:16:24,880",
+      "text": "become a protective healing support"
+    },
+    {
+      "start_time": "00:16:22,480",
+      "end_time": "00:16:26,800",
+      "text": "character you might take the chalice and"
+    },
+    {
+      "start_time": "00:16:24,880",
+      "end_time": "00:16:28,160",
+      "text": "you might take the amulet but as you'll"
+    },
+    {
+      "start_time": "00:16:26,800",
+      "end_time": "00:16:29,839",
+      "text": "see with some of the later ones you"
+    },
+    {
+      "start_time": "00:16:28,160",
+      "end_time": "00:16:32,320",
+      "text": "could take them and be a very different"
+    },
+    {
+      "start_time": "00:16:29,839",
+      "end_time": "00:16:34,160",
+      "text": "thomaturg i think this class is super"
+    },
+    {
+      "start_time": "00:16:32,320",
+      "end_time": "00:16:36,800",
+      "text": "exciting all right"
+    },
+    {
+      "start_time": "00:16:34,160",
+      "end_time": "00:16:38,800",
+      "text": "on to the third implement the lantern"
+    },
+    {
+      "start_time": "00:16:36,800",
+      "end_time": "00:16:41,120",
+      "text": "this is sort of uh for sort of a"
+    },
+    {
+      "start_time": "00:16:38,800",
+      "end_time": "00:16:43,120",
+      "text": "exploration mode being more of a search"
+    },
+    {
+      "start_time": "00:16:41,120",
+      "end_time": "00:16:46,560",
+      "text": "kind of a little bit of a of a rogue"
+    },
+    {
+      "start_time": "00:16:43,120",
+      "end_time": "00:16:48,079",
+      "text": "ranger feel to it so the lantern well"
+    },
+    {
+      "start_time": "00:16:46,560",
+      "end_time": "00:16:50,320",
+      "text": "the implement lantern shines as a"
+    },
+    {
+      "start_time": "00:16:48,079",
+      "end_time": "00:16:52,480",
+      "text": "lantern you and your allies get a plus"
+    },
+    {
+      "start_time": "00:16:50,320",
+      "end_time": "00:16:54,639",
+      "text": "one status bonus to perception checks"
+    },
+    {
+      "start_time": "00:16:52,480",
+      "end_time": "00:16:56,399",
+      "text": "made to search and to recall knowledge"
+    },
+    {
+      "start_time": "00:16:54,639",
+      "end_time": "00:16:58,320",
+      "text": "checks made within the light of the"
+    },
+    {
+      "start_time": "00:16:56,399",
+      "end_time": "00:17:00,399",
+      "text": "lantern additionally if you have your"
+    },
+    {
+      "start_time": "00:16:58,320",
+      "end_time": "00:17:02,480",
+      "text": "lantern implement out you count as"
+    },
+    {
+      "start_time": "00:17:00,399",
+      "end_time": "00:17:04,079",
+      "text": "searching in exploration mode"
+    },
+    {
+      "start_time": "00:17:02,480",
+      "end_time": "00:17:06,079",
+      "text": "automatically so you could do something"
+    },
+    {
+      "start_time": "00:17:04,079",
+      "end_time": "00:17:07,600",
+      "text": "else with your exploration action but"
+    },
+    {
+      "start_time": "00:17:06,079",
+      "end_time": "00:17:11,760",
+      "text": "while the lantern is out you are counted"
+    },
+    {
+      "start_time": "00:17:07,600",
+      "end_time": "00:17:13,919",
+      "text": "as searching or for traps hazards haunts"
+    },
+    {
+      "start_time": "00:17:11,760",
+      "end_time": "00:17:16,000",
+      "text": "and secrets like secret doors or secret"
+    },
+    {
+      "start_time": "00:17:13,919",
+      "end_time": "00:17:17,439",
+      "text": "treasure chests so that is a really cool"
+    },
+    {
+      "start_time": "00:17:16,000",
+      "end_time": "00:17:19,039",
+      "text": "and really powerful ability i really"
+    },
+    {
+      "start_time": "00:17:17,439",
+      "end_time": "00:17:20,720",
+      "text": "really like that"
+    },
+    {
+      "start_time": "00:17:19,039",
+      "end_time": "00:17:23,039",
+      "text": "if your lantern implement becomes a"
+    },
+    {
+      "start_time": "00:17:20,720",
+      "end_time": "00:17:24,880",
+      "text": "depth level well guess what your lantern"
+    },
+    {
+      "start_time": "00:17:23,039",
+      "end_time": "00:17:27,760",
+      "text": "light now automatically reveals"
+    },
+    {
+      "start_time": "00:17:24,880",
+      "end_time": "00:17:29,360",
+      "text": "invisible and ethereal creatures they"
+    },
+    {
+      "start_time": "00:17:27,760",
+      "end_time": "00:17:31,360",
+      "text": "still count as concealed as if a c"
+    },
+    {
+      "start_time": "00:17:29,360",
+      "end_time": "00:17:32,480",
+      "text": "invisibility spell was cast but this is"
+    },
+    {
+      "start_time": "00:17:31,360",
+      "end_time": "00:17:34,080",
+      "text": "for free"
+    },
+    {
+      "start_time": "00:17:32,480",
+      "end_time": "00:17:35,919",
+      "text": "and then lastly if you take your lantern"
+    },
+    {
+      "start_time": "00:17:34,080",
+      "end_time": "00:17:37,440",
+      "text": "all the way to paragon then your the"
+    },
+    {
+      "start_time": "00:17:35,919",
+      "end_time": "00:17:39,120",
+      "text": "light of your lantern has a free"
+    },
+    {
+      "start_time": "00:17:37,440",
+      "end_time": "00:17:41,760",
+      "text": "counteract check to see through"
+    },
+    {
+      "start_time": "00:17:39,120",
+      "end_time": "00:17:43,679",
+      "text": "illusions disguises and transmutation"
+    },
+    {
+      "start_time": "00:17:41,760",
+      "end_time": "00:17:46,240",
+      "text": "effects so while i don't think the"
+    },
+    {
+      "start_time": "00:17:43,679",
+      "end_time": "00:17:48,400",
+      "text": "lantern is as powerful as the first two"
+    },
+    {
+      "start_time": "00:17:46,240",
+      "end_time": "00:17:50,400",
+      "text": "implements we covered it is very cool"
+    },
+    {
+      "start_time": "00:17:48,400",
+      "end_time": "00:17:52,720",
+      "text": "and remember you do end up getting three"
+    },
+    {
+      "start_time": "00:17:50,400",
+      "end_time": "00:17:54,640",
+      "text": "of these implements so"
+    },
+    {
+      "start_time": "00:17:52,720",
+      "end_time": "00:17:56,400",
+      "text": "it's totally a valid choice and it might"
+    },
+    {
+      "start_time": "00:17:54,640",
+      "end_time": "00:17:58,160",
+      "text": "not be my first one but i could see"
+    },
+    {
+      "start_time": "00:17:56,400",
+      "end_time": "00:18:00,640",
+      "text": "picking it up as a second or a third one"
+    },
+    {
+      "start_time": "00:17:58,160",
+      "end_time": "00:18:03,120",
+      "text": "especially if my game is focused on"
+    },
+    {
+      "start_time": "00:18:00,640",
+      "end_time": "00:18:04,559",
+      "text": "let's say dungeon exploring and being"
+    },
+    {
+      "start_time": "00:18:03,120",
+      "end_time": "00:18:06,640",
+      "text": "able to make those free search checks"
+    },
+    {
+      "start_time": "00:18:04,559",
+      "end_time": "00:18:08,960",
+      "text": "could be very very powerful"
+    },
+    {
+      "start_time": "00:18:06,640",
+      "end_time": "00:18:10,880",
+      "text": "the fourth implement is the wand and"
+    },
+    {
+      "start_time": "00:18:08,960",
+      "end_time": "00:18:14,160",
+      "text": "this turns your thomaturge into sort of"
+    },
+    {
+      "start_time": "00:18:10,880",
+      "end_time": "00:18:16,880",
+      "text": "a quasi-spell caster as an initiate"
+    },
+    {
+      "start_time": "00:18:14,160",
+      "end_time": "00:18:19,840",
+      "text": "you'll choose fire electricity or cold"
+    },
+    {
+      "start_time": "00:18:16,880",
+      "end_time": "00:18:22,240",
+      "text": "and then you gain the fling magic action"
+    },
+    {
+      "start_time": "00:18:19,840",
+      "end_time": "00:18:24,559",
+      "text": "so it's two actions and you basically"
+    },
+    {
+      "start_time": "00:18:22,240",
+      "end_time": "00:18:27,600",
+      "text": "kind of shoot off a little bit of fire"
+    },
+    {
+      "start_time": "00:18:24,559",
+      "end_time": "00:18:30,240",
+      "text": "or a little bit of electricity or cold"
+    },
+    {
+      "start_time": "00:18:27,600",
+      "end_time": "00:18:32,559",
+      "text": "within 80 feet dealing one d4 plus your"
+    },
+    {
+      "start_time": "00:18:30,240",
+      "end_time": "00:18:34,400",
+      "text": "charisma bonus modifier to the damage"
+    },
+    {
+      "start_time": "00:18:32,559",
+      "end_time": "00:18:36,320",
+      "text": "and they get to make a basic reflex save"
+    },
+    {
+      "start_time": "00:18:34,400",
+      "end_time": "00:18:38,240",
+      "text": "so it's not a spell touch attack which"
+    },
+    {
+      "start_time": "00:18:36,320",
+      "end_time": "00:18:39,440",
+      "text": "is better because it means that instead"
+    },
+    {
+      "start_time": "00:18:38,240",
+      "end_time": "00:18:42,000",
+      "text": "of missing and doing nothing it's a"
+    },
+    {
+      "start_time": "00:18:39,440",
+      "end_time": "00:18:43,760",
+      "text": "basic reflex save so they can fail and"
+    },
+    {
+      "start_time": "00:18:42,000",
+      "end_time": "00:18:45,760",
+      "text": "still take half or sorry they could fail"
+    },
+    {
+      "start_time": "00:18:43,760",
+      "end_time": "00:18:47,760",
+      "text": "and take full damage or they can pass"
+    },
+    {
+      "start_time": "00:18:45,760",
+      "end_time": "00:18:49,360",
+      "text": "the save and still take half and then"
+    },
+    {
+      "start_time": "00:18:47,760",
+      "end_time": "00:18:50,880",
+      "text": "the damage type is whatever type you"
+    },
+    {
+      "start_time": "00:18:49,360",
+      "end_time": "00:18:53,280",
+      "text": "chose and then of course every two"
+    },
+    {
+      "start_time": "00:18:50,880",
+      "end_time": "00:18:54,880",
+      "text": "levels this increases by 1d4"
+    },
+    {
+      "start_time": "00:18:53,280",
+      "end_time": "00:18:57,440",
+      "text": "if you become an adept the range"
+    },
+    {
+      "start_time": "00:18:54,880",
+      "end_time": "00:18:59,120",
+      "text": "increases to 120 feet you get to choose"
+    },
+    {
+      "start_time": "00:18:57,440",
+      "end_time": "00:19:00,720",
+      "text": "a second damage type from the list and"
+    },
+    {
+      "start_time": "00:18:59,120",
+      "end_time": "00:19:02,400",
+      "text": "then you get to choose between them as"
+    },
+    {
+      "start_time": "00:19:00,720",
+      "end_time": "00:19:03,840",
+      "text": "you fling them again remember your"
+    },
+    {
+      "start_time": "00:19:02,400",
+      "end_time": "00:19:05,600",
+      "text": "character's really good at sussing out"
+    },
+    {
+      "start_time": "00:19:03,840",
+      "end_time": "00:19:08,080",
+      "text": "creatures weaknesses so this is a great"
+    },
+    {
+      "start_time": "00:19:05,600",
+      "end_time": "00:19:10,240",
+      "text": "way to tag those and then the fling"
+    },
+    {
+      "start_time": "00:19:08,080",
+      "end_time": "00:19:12,320",
+      "text": "magic also has an additional effect"
+    },
+    {
+      "start_time": "00:19:10,240",
+      "end_time": "00:19:14,480",
+      "text": "should the target fail that reflex save"
+    },
+    {
+      "start_time": "00:19:12,320",
+      "end_time": "00:19:16,720",
+      "text": "and take damage if you have the fire"
+    },
+    {
+      "start_time": "00:19:14,480",
+      "end_time": "00:19:19,360",
+      "text": "wand or the fire fling the target"
+    },
+    {
+      "start_time": "00:19:16,720",
+      "end_time": "00:19:21,919",
+      "text": "catches on fire taking 1d10 persistent"
+    },
+    {
+      "start_time": "00:19:19,360",
+      "end_time": "00:19:23,840",
+      "text": "fire damage if you're flinging cold well"
+    },
+    {
+      "start_time": "00:19:21,919",
+      "end_time": "00:19:25,919",
+      "text": "then the takaria becomes frozen and"
+    },
+    {
+      "start_time": "00:19:23,840",
+      "end_time": "00:19:27,840",
+      "text": "chilled taking a minus tense penalty to"
+    },
+    {
+      "start_time": "00:19:25,919",
+      "end_time": "00:19:29,840",
+      "text": "its speeds and lastly if you hit them"
+    },
+    {
+      "start_time": "00:19:27,840",
+      "end_time": "00:19:31,919",
+      "text": "with the electricity they become shocked"
+    },
+    {
+      "start_time": "00:19:29,840",
+      "end_time": "00:19:34,000",
+      "text": "and shook up and they become flat-footed"
+    },
+    {
+      "start_time": "00:19:31,919",
+      "end_time": "00:19:36,320",
+      "text": "until the start of your next turn all"
+    },
+    {
+      "start_time": "00:19:34,000",
+      "end_time": "00:19:38,960",
+      "text": "three of these are powerful all three of"
+    },
+    {
+      "start_time": "00:19:36,320",
+      "end_time": "00:19:40,799",
+      "text": "these are great lastly if you become a"
+    },
+    {
+      "start_time": "00:19:38,960",
+      "end_time": "00:19:42,720",
+      "text": "paragon you become a master of the wand"
+    },
+    {
+      "start_time": "00:19:40,799",
+      "end_time": "00:19:44,240",
+      "text": "the range goes all the way out to 180"
+    },
+    {
+      "start_time": "00:19:42,720",
+      "end_time": "00:19:46,000",
+      "text": "feet pretty much nothing you won't be"
+    },
+    {
+      "start_time": "00:19:44,240",
+      "end_time": "00:19:47,919",
+      "text": "able to hit you get to choose between"
+    },
+    {
+      "start_time": "00:19:46,000",
+      "end_time": "00:19:49,840",
+      "text": "all three of the damage types really"
+    },
+    {
+      "start_time": "00:19:47,919",
+      "end_time": "00:19:51,600",
+      "text": "allowing you to suss in on a creature's"
+    },
+    {
+      "start_time": "00:19:49,840",
+      "end_time": "00:19:52,880",
+      "text": "weakness and make sure you hit them way"
+    },
+    {
+      "start_time": "00:19:51,600",
+      "end_time": "00:19:55,360",
+      "text": "where they were going to take the most"
+    },
+    {
+      "start_time": "00:19:52,880",
+      "end_time": "00:19:57,200",
+      "text": "damage and addition now when you fling"
+    },
+    {
+      "start_time": "00:19:55,360",
+      "end_time": "00:19:59,919",
+      "text": "your magic instead of a single creature"
+    },
+    {
+      "start_time": "00:19:57,200",
+      "end_time": "00:20:02,960",
+      "text": "you can make it a 10 foot burst this is"
+    },
+    {
+      "start_time": "00:19:59,919",
+      "end_time": "00:20:05,600",
+      "text": "a 10 foot burst 2 action can trip that"
+    },
+    {
+      "start_time": "00:20:02,960",
+      "end_time": "00:20:08,000",
+      "text": "has variable damage types"
+    },
+    {
+      "start_time": "00:20:05,600",
+      "end_time": "00:20:10,320",
+      "text": "this is one of the best can trips"
+    },
+    {
+      "start_time": "00:20:08,000",
+      "end_time": "00:20:13,120",
+      "text": "in the game this is a very cool very"
+    },
+    {
+      "start_time": "00:20:10,320",
+      "end_time": "00:20:14,720",
+      "text": "flavorful ability and"
+    },
+    {
+      "start_time": "00:20:13,120",
+      "end_time": "00:20:17,600",
+      "text": "i just love it"
+    },
+    {
+      "start_time": "00:20:14,720",
+      "end_time": "00:20:19,200",
+      "text": "lastly the weapon implement this is"
+    },
+    {
+      "start_time": "00:20:17,600",
+      "end_time": "00:20:21,280",
+      "text": "you're basically saying your character"
+    },
+    {
+      "start_time": "00:20:19,200",
+      "end_time": "00:20:22,559",
+      "text": "is focused on battle now this can be any"
+    },
+    {
+      "start_time": "00:20:21,280",
+      "end_time": "00:20:24,080",
+      "text": "type of weapon it could be a dagger it"
+    },
+    {
+      "start_time": "00:20:22,559",
+      "end_time": "00:20:25,840",
+      "text": "could be a sword it's probably not going"
+    },
+    {
+      "start_time": "00:20:24,080",
+      "end_time": "00:20:26,960",
+      "text": "to be a two-handed weapon because you do"
+    },
+    {
+      "start_time": "00:20:25,840",
+      "end_time": "00:20:28,720",
+      "text": "need to be able to hold another"
+    },
+    {
+      "start_time": "00:20:26,960",
+      "end_time": "00:20:30,400",
+      "text": "implement in your other hand these are"
+    },
+    {
+      "start_time": "00:20:28,720",
+      "end_time": "00:20:32,240",
+      "text": "really great and they really basically"
+    },
+    {
+      "start_time": "00:20:30,400",
+      "end_time": "00:20:35,600",
+      "text": "say i want my character to be really"
+    },
+    {
+      "start_time": "00:20:32,240",
+      "end_time": "00:20:37,120",
+      "text": "good at being a fighter and in fact they"
+    },
+    {
+      "start_time": "00:20:35,600",
+      "end_time": "00:20:39,679",
+      "text": "kind of give you some fighter-like"
+    },
+    {
+      "start_time": "00:20:37,120",
+      "end_time": "00:20:41,600",
+      "text": "abilities so if you choose the weapon"
+    },
+    {
+      "start_time": "00:20:39,679",
+      "end_time": "00:20:43,840",
+      "text": "implement then you gain the implements"
+    },
+    {
+      "start_time": "00:20:41,600",
+      "end_time": "00:20:45,600",
+      "text": "interruption reaction so"
+    },
+    {
+      "start_time": "00:20:43,840",
+      "end_time": "00:20:48,640",
+      "text": "if the target of your esoteric"
+    },
+    {
+      "start_time": "00:20:45,600",
+      "end_time": "00:20:50,880",
+      "text": "antithesis uses a concentrate manipulate"
+    },
+    {
+      "start_time": "00:20:48,640",
+      "end_time": "00:20:52,960",
+      "text": "or move action or leaves a square so"
+    },
+    {
+      "start_time": "00:20:50,880",
+      "end_time": "00:20:54,720",
+      "text": "basically if they cast a spell or if"
+    },
+    {
+      "start_time": "00:20:52,960",
+      "end_time": "00:20:56,480",
+      "text": "they try to move away"
+    },
+    {
+      "start_time": "00:20:54,720",
+      "end_time": "00:20:58,960",
+      "text": "if that creature is within reach of your"
+    },
+    {
+      "start_time": "00:20:56,480",
+      "end_time": "00:21:00,799",
+      "text": "melee weapon or if they're within 10"
+    },
+    {
+      "start_time": "00:20:58,960",
+      "end_time": "00:21:02,799",
+      "text": "feet if you're using a ranged weapon"
+    },
+    {
+      "start_time": "00:21:00,799",
+      "end_time": "00:21:04,880",
+      "text": "which is kind of a cool new ability"
+    },
+    {
+      "start_time": "00:21:02,799",
+      "end_time": "00:21:06,080",
+      "text": "then boom you get to make a strike"
+    },
+    {
+      "start_time": "00:21:04,880",
+      "end_time": "00:21:08,400",
+      "text": "against the creature with your weapon"
+    },
+    {
+      "start_time": "00:21:06,080",
+      "end_time": "00:21:10,240",
+      "text": "implement and if you critical hit you"
+    },
+    {
+      "start_time": "00:21:08,400",
+      "end_time": "00:21:12,559",
+      "text": "disrupt that action so they try to move"
+    },
+    {
+      "start_time": "00:21:10,240",
+      "end_time": "00:21:13,760",
+      "text": "away you hit them it's a critical hit"
+    },
+    {
+      "start_time": "00:21:12,559",
+      "end_time": "00:21:15,760",
+      "text": "boom"
+    },
+    {
+      "start_time": "00:21:13,760",
+      "end_time": "00:21:16,960",
+      "text": "they they don't get to move away and of"
+    },
+    {
+      "start_time": "00:21:15,760",
+      "end_time": "00:21:18,559",
+      "text": "course the strike doesn't count towards"
+    },
+    {
+      "start_time": "00:21:16,960",
+      "end_time": "00:21:19,919",
+      "text": "your multiple attack penalty and your"
+    },
+    {
+      "start_time": "00:21:18,559",
+      "end_time": "00:21:22,159",
+      "text": "multiple attack penalty doesn't apply to"
+    },
+    {
+      "start_time": "00:21:19,919",
+      "end_time": "00:21:24,000",
+      "text": "this strike so very cool it's very much"
+    },
+    {
+      "start_time": "00:21:22,159",
+      "end_time": "00:21:26,159",
+      "text": "like a a barbarians attack of"
+    },
+    {
+      "start_time": "00:21:24,000",
+      "end_time": "00:21:27,600",
+      "text": "opportunity a paladin's retributive"
+    },
+    {
+      "start_time": "00:21:26,159",
+      "end_time": "00:21:28,559",
+      "text": "strike a"
+    },
+    {
+      "start_time": "00:21:27,600",
+      "end_time": "00:21:32,000",
+      "text": "monks"
+    },
+    {
+      "start_time": "00:21:28,559",
+      "end_time": "00:21:34,799",
+      "text": "stand still a rangers disrupt pray all"
+    },
+    {
+      "start_time": "00:21:32,000",
+      "end_time": "00:21:37,760",
+      "text": "very cool also if you choose the weapon"
+    },
+    {
+      "start_time": "00:21:34,799",
+      "end_time": "00:21:39,440",
+      "text": "implement at fifth level you get the"
+    },
+    {
+      "start_time": "00:21:37,760",
+      "end_time": "00:21:41,520",
+      "text": "critical specialization effect of your"
+    },
+    {
+      "start_time": "00:21:39,440",
+      "end_time": "00:21:43,760",
+      "text": "weapon whenever you are using your"
+    },
+    {
+      "start_time": "00:21:41,520",
+      "end_time": "00:21:45,280",
+      "text": "thumaturgic weapon again this is"
+    },
+    {
+      "start_time": "00:21:43,760",
+      "end_time": "00:21:47,120",
+      "text": "basically turning your character into a"
+    },
+    {
+      "start_time": "00:21:45,280",
+      "end_time": "00:21:48,720",
+      "text": "martial character they're gonna have the"
+    },
+    {
+      "start_time": "00:21:47,120",
+      "end_time": "00:21:50,559",
+      "text": "normal weapon proficiencies they have"
+    },
+    {
+      "start_time": "00:21:48,720",
+      "end_time": "00:21:51,919",
+      "text": "great armor proficiencies"
+    },
+    {
+      "start_time": "00:21:50,559",
+      "end_time": "00:21:53,520",
+      "text": "if you choose the weapon implement on"
+    },
+    {
+      "start_time": "00:21:51,919",
+      "end_time": "00:21:56,000",
+      "text": "top of everything else you'll be one of"
+    },
+    {
+      "start_time": "00:21:53,520",
+      "end_time": "00:21:57,520",
+      "text": "the best damage dealing fighting types"
+    },
+    {
+      "start_time": "00:21:56,000",
+      "end_time": "00:22:00,159",
+      "text": "at the table"
+    },
+    {
+      "start_time": "00:21:57,520",
+      "end_time": "00:22:02,880",
+      "text": "okay so the weapon can also go from"
+    },
+    {
+      "start_time": "00:22:00,159",
+      "end_time": "00:22:04,720",
+      "text": "initiate to adept if you go to adept if"
+    },
+    {
+      "start_time": "00:22:02,880",
+      "end_time": "00:22:06,960",
+      "text": "you use the implement interruption the"
+    },
+    {
+      "start_time": "00:22:04,720",
+      "end_time": "00:22:08,559",
+      "text": "attack of opportunity basically and you"
+    },
+    {
+      "start_time": "00:22:06,960",
+      "end_time": "00:22:11,440",
+      "text": "fail"
+    },
+    {
+      "start_time": "00:22:08,559",
+      "end_time": "00:22:13,120",
+      "text": "okay you still deal one point of damage"
+    },
+    {
+      "start_time": "00:22:11,440",
+      "end_time": "00:22:14,960",
+      "text": "which can trigger the target's"
+    },
+    {
+      "start_time": "00:22:13,120",
+      "end_time": "00:22:18,400",
+      "text": "weaknesses as normal which as we said"
+    },
+    {
+      "start_time": "00:22:14,960",
+      "end_time": "00:22:20,000",
+      "text": "before could possibly be like 12 or 13"
+    },
+    {
+      "start_time": "00:22:18,400",
+      "end_time": "00:22:21,200",
+      "text": "points of damage this means that even"
+    },
+    {
+      "start_time": "00:22:20,000",
+      "end_time": "00:22:24,240",
+      "text": "when you miss with your attack of"
+    },
+    {
+      "start_time": "00:22:21,200",
+      "end_time": "00:22:25,520",
+      "text": "opportunity you're still dealing 13 14"
+    },
+    {
+      "start_time": "00:22:24,240",
+      "end_time": "00:22:27,600",
+      "text": "points of damage"
+    },
+    {
+      "start_time": "00:22:25,520",
+      "end_time": "00:22:29,360",
+      "text": "no other class gets this this is"
+    },
+    {
+      "start_time": "00:22:27,600",
+      "end_time": "00:22:32,000",
+      "text": "fantastic lastly you can take your"
+    },
+    {
+      "start_time": "00:22:29,360",
+      "end_time": "00:22:33,919",
+      "text": "weapon implement to paragon and this way"
+    },
+    {
+      "start_time": "00:22:32,000",
+      "end_time": "00:22:35,760",
+      "text": "you incorporate your foe's weakness"
+    },
+    {
+      "start_time": "00:22:33,919",
+      "end_time": "00:22:38,320",
+      "text": "making your interruptions extremely"
+    },
+    {
+      "start_time": "00:22:35,760",
+      "end_time": "00:22:41,200",
+      "text": "disruptive now"
+    },
+    {
+      "start_time": "00:22:38,320",
+      "end_time": "00:22:42,960",
+      "text": "now if an opponent triggers your action"
+    },
+    {
+      "start_time": "00:22:41,200",
+      "end_time": "00:22:44,400",
+      "text": "and you hit them with your implements"
+    },
+    {
+      "start_time": "00:22:42,960",
+      "end_time": "00:22:47,039",
+      "text": "interruption ability"
+    },
+    {
+      "start_time": "00:22:44,400",
+      "end_time": "00:22:49,360",
+      "text": "they are disrupted not on a critical hit"
+    },
+    {
+      "start_time": "00:22:47,039",
+      "end_time": "00:22:50,640",
+      "text": "but on a regular hit and a critical hit"
+    },
+    {
+      "start_time": "00:22:49,360",
+      "end_time": "00:22:52,559",
+      "text": "this means that if someone tries to move"
+    },
+    {
+      "start_time": "00:22:50,640",
+      "end_time": "00:22:55,360",
+      "text": "away from you all you need to do is hit"
+    },
+    {
+      "start_time": "00:22:52,559",
+      "end_time": "00:22:56,799",
+      "text": "them it is incredibly powerful very"
+    },
+    {
+      "start_time": "00:22:55,360",
+      "end_time": "00:22:58,720",
+      "text": "flavorful and if you choose this"
+    },
+    {
+      "start_time": "00:22:56,799",
+      "end_time": "00:23:00,080",
+      "text": "implement you are going to be one heck"
+    },
+    {
+      "start_time": "00:22:58,720",
+      "end_time": "00:23:01,520",
+      "text": "of a battler"
+    },
+    {
+      "start_time": "00:23:00,080",
+      "end_time": "00:23:04,000",
+      "text": "now i'm not going to go over all the"
+    },
+    {
+      "start_time": "00:23:01,520",
+      "end_time": "00:23:05,919",
+      "text": "class feats but they are awesome they"
+    },
+    {
+      "start_time": "00:23:04,000",
+      "end_time": "00:23:07,760",
+      "text": "get the ability to create temporary"
+    },
+    {
+      "start_time": "00:23:05,919",
+      "end_time": "00:23:09,280",
+      "text": "talismans which no one else was really"
+    },
+    {
+      "start_time": "00:23:07,760",
+      "end_time": "00:23:10,799",
+      "text": "using because it's kind of pricey just"
+    },
+    {
+      "start_time": "00:23:09,280",
+      "end_time": "00:23:12,559",
+      "text": "like potions so in this way they're like"
+    },
+    {
+      "start_time": "00:23:10,799",
+      "end_time": "00:23:14,240",
+      "text": "the alchemist but you're creating"
+    },
+    {
+      "start_time": "00:23:12,559",
+      "end_time": "00:23:16,000",
+      "text": "temporary talismans that you can attach"
+    },
+    {
+      "start_time": "00:23:14,240",
+      "end_time": "00:23:17,600",
+      "text": "to you or your other party members"
+    },
+    {
+      "start_time": "00:23:16,000",
+      "end_time": "00:23:19,840",
+      "text": "that's awesome you can create warding"
+    },
+    {
+      "start_time": "00:23:17,600",
+      "end_time": "00:23:22,240",
+      "text": "circles they get ritual books they can"
+    },
+    {
+      "start_time": "00:23:19,840",
+      "end_time": "00:23:23,840",
+      "text": "use scrolls they can even gain familiars"
+    },
+    {
+      "start_time": "00:23:22,240",
+      "end_time": "00:23:25,360",
+      "text": "and get all the familiar feeds and they"
+    },
+    {
+      "start_time": "00:23:23,840",
+      "end_time": "00:23:27,600",
+      "text": "get tons of abilities that allow them to"
+    },
+    {
+      "start_time": "00:23:25,360",
+      "end_time": "00:23:29,760",
+      "text": "use extra magical items i think this"
+    },
+    {
+      "start_time": "00:23:27,600",
+      "end_time": "00:23:30,799",
+      "text": "class is incredible i think this class"
+    },
+    {
+      "start_time": "00:23:29,760",
+      "end_time": "00:23:32,480",
+      "text": "is"
+    },
+    {
+      "start_time": "00:23:30,799",
+      "end_time": "00:23:34,080",
+      "text": "way better than the alchemist i think"
+    },
+    {
+      "start_time": "00:23:32,480",
+      "end_time": "00:23:36,559",
+      "text": "this class is"
+    },
+    {
+      "start_time": "00:23:34,080",
+      "end_time": "00:23:37,840",
+      "text": "very versatile very fun i think there's"
+    },
+    {
+      "start_time": "00:23:36,559",
+      "end_time": "00:23:39,520",
+      "text": "a lot of things going on here that"
+    },
+    {
+      "start_time": "00:23:37,840",
+      "end_time": "00:23:41,120",
+      "text": "excite me mechanically i think there's a"
+    },
+    {
+      "start_time": "00:23:39,520",
+      "end_time": "00:23:43,600",
+      "text": "lot of things going on here that excite"
+    },
+    {
+      "start_time": "00:23:41,120",
+      "end_time": "00:23:46,080",
+      "text": "me narratively i think this class might"
+    },
+    {
+      "start_time": "00:23:43,600",
+      "end_time": "00:23:47,600",
+      "text": "be too good um i think they're doing a"
+    },
+    {
+      "start_time": "00:23:46,080",
+      "end_time": "00:23:49,600",
+      "text": "lot of things they might be stepping on"
+    },
+    {
+      "start_time": "00:23:47,600",
+      "end_time": "00:23:51,360",
+      "text": "some of the bard's toes because of how"
+    },
+    {
+      "start_time": "00:23:49,600",
+      "end_time": "00:23:53,039",
+      "text": "versatile they are with their skills and"
+    },
+    {
+      "start_time": "00:23:51,360",
+      "end_time": "00:23:55,360",
+      "text": "their skill abilities now yes they do"
+    },
+    {
+      "start_time": "00:23:53,039",
+      "end_time": "00:23:57,279",
+      "text": "not get full spell casting but boy they"
+    },
+    {
+      "start_time": "00:23:55,360",
+      "end_time": "00:23:59,679",
+      "text": "make up for that in a lot of different"
+    },
+    {
+      "start_time": "00:23:57,279",
+      "end_time": "00:24:01,200",
+      "text": "ways and just being able to have nine of"
+    },
+    {
+      "start_time": "00:23:59,679",
+      "end_time": "00:24:03,200",
+      "text": "these implement options means that"
+    },
+    {
+      "start_time": "00:24:01,200",
+      "end_time": "00:24:04,720",
+      "text": "you're going to have so much"
+    },
+    {
+      "start_time": "00:24:03,200",
+      "end_time": "00:24:06,320",
+      "text": "customization about the way you build"
+    },
+    {
+      "start_time": "00:24:04,720",
+      "end_time": "00:24:08,000",
+      "text": "this character i think people are going"
+    },
+    {
+      "start_time": "00:24:06,320",
+      "end_time": "00:24:09,760",
+      "text": "to be really excited about the"
+    },
+    {
+      "start_time": "00:24:08,000",
+      "end_time": "00:24:12,159",
+      "text": "thermaturg that's what we have for the"
+    },
+    {
+      "start_time": "00:24:09,760",
+      "end_time": "00:24:14,159",
+      "text": "dark archive play test so far the"
+    },
+    {
+      "start_time": "00:24:12,159",
+      "end_time": "00:24:16,400",
+      "text": "psychic"
+    },
+    {
+      "start_time": "00:24:14,159",
+      "end_time": "00:24:18,559",
+      "text": "and the thermaturge"
+    },
+    {
+      "start_time": "00:24:16,400",
+      "end_time": "00:24:19,760",
+      "text": "i really really like this class and i"
+    },
+    {
+      "start_time": "00:24:18,559",
+      "end_time": "00:24:22,000",
+      "text": "think it's going to play really really"
+    },
+    {
+      "start_time": "00:24:19,760",
+      "end_time": "00:24:24,240",
+      "text": "fun i know that if i had the opportunity"
+    },
+    {
+      "start_time": "00:24:22,000",
+      "end_time": "00:24:25,600",
+      "text": "to get into a game that i wasn't running"
+    },
+    {
+      "start_time": "00:24:24,240",
+      "end_time": "00:24:26,960",
+      "text": "and be as a player i would definitely"
+    },
+    {
+      "start_time": "00:24:25,600",
+      "end_time": "00:24:28,720",
+      "text": "want to roll one of these up just to see"
+    },
+    {
+      "start_time": "00:24:26,960",
+      "end_time": "00:24:30,480",
+      "text": "how well it works in action again the"
+    },
+    {
+      "start_time": "00:24:28,720",
+      "end_time": "00:24:32,400",
+      "text": "class feats are very exciting they take"
+    },
+    {
+      "start_time": "00:24:30,480",
+      "end_time": "00:24:33,679",
+      "text": "the class in even more ways and i think"
+    },
+    {
+      "start_time": "00:24:32,400",
+      "end_time": "00:24:36,320",
+      "text": "it'd be really fun to see how it plays"
+    },
+    {
+      "start_time": "00:24:33,679",
+      "end_time": "00:24:39,600",
+      "text": "out at the table so let me know leave a"
+    },
+    {
+      "start_time": "00:24:36,320",
+      "end_time": "00:24:41,520",
+      "text": "comment below or join our patreon and"
+    },
+    {
+      "start_time": "00:24:39,600",
+      "end_time": "00:24:43,600",
+      "text": "hit us up in the discord we want to talk"
+    },
+    {
+      "start_time": "00:24:41,520",
+      "end_time": "00:24:45,600",
+      "text": "about these classes as we go through the"
+    },
+    {
+      "start_time": "00:24:43,600",
+      "end_time": "00:24:47,200",
+      "text": "next couple of weeks for these play"
+    },
+    {
+      "start_time": "00:24:45,600",
+      "end_time": "00:24:48,480",
+      "text": "tests and i promise you there's going to"
+    },
+    {
+      "start_time": "00:24:47,200",
+      "end_time": "00:24:50,720",
+      "text": "be a lot of really really really"
+    },
+    {
+      "start_time": "00:24:48,480",
+      "end_time": "00:24:52,799",
+      "text": "in-depth conversations or if you think"
+    },
+    {
+      "start_time": "00:24:50,720",
+      "end_time": "00:24:54,880",
+      "text": "i'm completely wrong and you want to"
+    },
+    {
+      "start_time": "00:24:52,799",
+      "end_time": "00:24:56,480",
+      "text": "yell at me personally also join our"
+    },
+    {
+      "start_time": "00:24:54,880",
+      "end_time": "00:24:58,799",
+      "text": "patreon and then you can yell at me in"
+    },
+    {
+      "start_time": "00:24:56,480",
+      "end_time": "00:24:59,760",
+      "text": "the discord either way i'd like to see"
+    },
+    {
+      "start_time": "00:24:58,799",
+      "end_time": "00:25:01,840",
+      "text": "you there because i want to have a"
+    },
+    {
+      "start_time": "00:24:59,760",
+      "end_time": "00:25:03,679",
+      "text": "conversation with you like and subscribe"
+    },
+    {
+      "start_time": "00:25:01,840",
+      "end_time": "00:25:05,600",
+      "text": "if you found this video useful and i"
+    },
+    {
+      "start_time": "00:25:03,679",
+      "end_time": "00:25:09,940",
+      "text": "want to say thank you for watching and"
+    },
+    {
+      "start_time": "00:25:05,600",
+      "end_time": "00:25:23,809",
+      "text": "welcome to the knights of last"
+    },
+    {
+      "start_time": "00:25:09,940",
+      "end_time": "00:25:23,809",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:25:25,520",
+      "end_time": "00:25:27,600",
+      "text": "foreign"
+    }
+  ],
+  "full_text": "hello welcome to the knights of last\ncall my name is derek melinda the game\nmaster for the knights\nthis week we've been taking a closer\nlook at the dark archive class playtest\nrelease from paizo yesterday we covered\nthe psychic and we went over the class\nfeatures and my thoughts on some of\nthose features\nsome of you had some pretty interesting\nreactions to what i had to say and i\nwill admit that overall my opinion of\nthe class was fairly negative and so i\nshould have\ncaveated everything by saying these are\njust first looks now i've been playing\nthe game for a long time i think i can\npretty much suss out how mechanics are\ngoing to work once they're on paper but\ni will say that until we actually get a\nchance to play with this class on the\ntabletop i am going to withhold any\njudgment about whether the class is good\nor not so consider these to be more hot\ntakes than uh you know well-informed\ntakes because again no one has had a\nchance to play with these classes yet\nand so you know we're just taking this\nas quickly as we can the goal with these\nvideos is to simply inform people who\nmay not have had a chance yet to read\nthrough the entire document as well as\nto give some first thoughts about what i\nfeel about these classes and it'll be\ninteresting to see how as play testing\ngoes on and eventually the final\nreleases is released that we see how\nthings have maybe changed and hopefully\npossibly paizo here's some of these\nconcerns and maybe make some changes to\nmake these classes better\nso yesterday we dealt with the psychic\ntoday we are going to deal with the\nthematurge so the first thing you might\nask is what is a thomaturge well\nthomaturge or thomaturgy is sort of an\nold-fashioned word to just kind of\ndescribe someone who works miracles is a\nmiracle worker does weird things with\nmagic\num in the context of pathfinder a\nthomaturge is someone who has\naccumulated a bunch of different scraps\nof of magical lore of forbidden\nknowledge and sort of gathered them all\nup figuring that something should work\nand when i first read this class when i\nfirst heard about this class the first\nthing i thought of was\nuh this scene from the mummy the one\nwith brendan fraser and rachel weiss\nwhen the character benny um\nis just pulling out various holy symbols\nhoping that something is going to work\nand something is going to save him so\nthat is very much the feel i got from\nthis class and i would also go so far as\nto say this class just feels like an\nadventurer they are a character that is\nbuilt to handle a variety of situations\nand i gotta say my first overall take of\nit is i really like this class it has a\ngreat looking core chassis and when i\nsay core chassis i mean your\nproficiencies what you gain through the\nlevels it's very similar to the bar dare\ni say\neven better\nand\nthat doesn't surprise me because the\nbard is a caster class but this\ncharacter has a lot going for it it's\ncharisma based it has eight hit points\nper level it gets six plus intelligence\nskills four of the skills are chosen and\ntwo more are freebies plus your\nintelligence so a huge number of skills\nuh that's the same number as the ranger\ngets that's the same number as the bard\ngets so this character is not wanting\nfor skills the only person who has more\nis the rogue they start the game as an\nexpert in will and trained in the others\nand an expert in perception so already\noff the bat they have some really nice\nproficiencies they are trained in light\nand medium armor which is a nice step up\nover the bard hitting expert and master\nlater on in the progression\nthey gain all weapon proficiencies\nmartial simple and unarmed and they go\nto expert proficiency at level 5 and\nmaster proficiency at level 13 just like\nevery other martial class\nthe other notable thing about their\nprogression is at level 13 they gain a\nlegendary will save with the typical\nresult plus plus that we've come to see\nfrom other mechanics where a success\nbecomes a critical success and a\ncritical failure is upgraded to a\nregular failure their fortitude and\nreflex cap out at just expert which\nisn't the strongest and his perception\nhits master so overall this is a very\nsolid chassis with marshall level weapon\nproficiencies marshall level armor\nproficiencies and a super high will save\nwhich tends to be marshall characters\nweak spot so just on the core spine of\nthis character alone i think it's really\nexciting that's the core chassis what\nabout its unique abilities well for\nstarters they begin play at first level\nwith the dubious knowledge feat which i\ndon't care about this is mostly flavor\nand i don't even like the dubious\nknowledge feat because it feeds into the\nwhole lying to your players when they\ncritical fail on a recall knowledge\nexcept now you have to come up with two\nthings to tell them one which is true\nand one which is a lie and if you're\nanything like me your players will\nimmediately know which one is the lie\nbecause you're gonna sit there and go uh\nuh you've heard tale that the ogres like\nto have people uh over to view their\nwindow treatments and you won't know\nwhat to say so dubious knowledge is\nwhatever i mean it fits the theme and\nflavor of this character but i i just\ndon't really like it the other ability\nthat you get is esoterica now what is\nesoterica it's a it's a weird collection\nof random bits of religious lore and\nanathemas think like i have a bit a\nlittle bit of silver and a little bit of\ncold iron a scrap of parchment that was\nonce touched by a saint it's again a lot\nlike benny from the mummy movie\nsomething is bound to work if you try it\nhard enough this esoterica ability gives\nyou two new actions find flaw and\nesoteric antithesis that's a mouthful so\nlet's take a look and break those down\nso find flaws is one action you can only\ndo it once per round and it lets you\nrecall knowledge with your charisma and\nif you get a critical success it gives\nyou all of a creature's weaknesses\nresistances and immunities\nnow\ni kind of already was doing this with\nrecall knowledge when you get a critical\nsuccess\nand if this is a special ability of this\nclass i really don't know what\ninformation you're supposed to be giving\nout with a critical success for recall\nknowledge but i do think it's cool that\nthey're actually specifying exactly what\nyou get from this and given the classes\nfocus on exploiting a creature's\nweaknesses i do think that this is a\npretty cool ability it also should you\ncritical success\nor succeed uh\nyou can follow that up with the esoteric\nantithesis action and you get to do it\nas a free action so you don't need to\nuse an action for it but we'll get to\nthat in a sec if you succeed at this\nspecial recall knowledge uh this fine\nflaws you learn their highest weakness\nand again it lets you do the esoteric\nantithesis for free if you fail you\ndon't learn anything but you still get\nto use the esoteric antithesis and if\nyou critical fail you are so shocked by\nhow wrong you were and how much you\ncould have screwed things up that you\nbecome flat-footed so\noverall i think this is a really really\ncool feat it it really reminds me of\nsort of the um hunt prey monster hunter\nbuild of the ranger except uh it's a\nlittle bit cooler and a little bit more\nfocused so i really like that and then\nfor esoteric antithesis when you trigger\nthis against a creature who you've\nalready discovered and found their flaw\nthis thing just gives you everything\nyour attacks become magical and they\nautomatically shift the damage type so\nthat you are hitting your opponent's\nhighest weakness so if their weakness to\nfire is 15 guess what you are going to\ndo 15 points of bonus damage are they\nweak to cold 10 you're going to do 10\npoints of bonus damage but here's the\ngreat part if they don't have a weakness\nor if their weakness isn't really that\nmuch then you basically give them one a\ncustom one that only you can use but\nit's equal to two plus half your level\nso a level 20 thermaturge will pretty\nmuch always be hitting people for at\nleast 12 extra points of damage or more\ndepending on what their weakness is and\nagain this is any weakness and it lasts\nuntil you find flaw again so what that\nmeans is this isn't just a one-round\nability no you can keep hitting them\nwith multiple strikes each turn with\nyour again remember high marshal level\nweapon proficiency to just keep dealing\nthe damage again this is a very cool\ntake on a ranger-like ability much more\nlike the hunt prey monster hunter build\nand i i've game mastered for a monster\nhunter ranger and it always felt like it\nwas missing something this this is a\nmuch better monster hunter than even the\nranger the second unique class feature\nthat the therma church gains is their\nimplement this is a strange magical\ntalisman or doodad that you can use to\nfocus your power maybe it was something\nyou found in an ancient crypt or maybe\nit's the bone of a lost saint either way\nit's a sort of an item that you can use\nto trigger additional powers now you\nstart with just one of these magical\ntalismans but you can gain up to\neventually three each which has a unique\nset of powers now we're going to go over\nthem in a minute but i did want to\nhighlight one additional point\nas you go up through the levels you can\nuse your implement to empower your\nattacks now\nthis is so cool this character is going\nto be a damage dealing monster not only\ndo they get martial weapon proficiencies\nand they get weapon specialization this\nimplement empowerment means that as long\nas you have a free hand or your\nimplement is being wielded in one of\nyour hands then you can basically\nsupercharge your attack it starts off at\ntwo bonus damage but it scales all the\nway up to eight points of bonus damage\nnow you need to have your implement in\nyour hand or you need to have an offhand\nso basically this character really can't\nbe using shields except maybe a buckler\ni suppose you could get away with but\nmore importantly it means that on top of\nfinding the flaws gaining the weakness\nexploitation implementing the\nuh\nimplement power empowerment so that you\nadd two four six or eight points of\ndamage on top of\nthis character's weapon specialization\nthe fact that your character is not\nstrength based really won't be much of a\nproblem at all you're going to have a\nhuge static bonus to damage and i think\nthis is going to be a lot of fun so what\nabout the implements themselves well the\nplay test has five and the final version\nthey say is going to have nine tying\ninto the theme of three sets of three i\nthink these are incredible they are\nawesome it the the powers are are very\npowerful they're fun they're exciting\nthey let you focus on different elements\nof the game they let you build your\ncharacter in a different way depending\non which way you want to go different\nthermaturges with different implements\nare going to play very differently at\nthe table and i think this is a market\ndifference from the psychic that we\nreviewed yesterday additionally you gain\na power pretty soon i think around level\nseven which lets you switch your\nimplements very quickly essentially it's\nlike quick draw but for your implements\nso they've even thought of the fact that\nyour character is going to want to\nswitch these implements in and out and\nso they've given you an ability to\nessentially switch modes\nyou might start the fight with your\namulet which will make you very you know\npowerful in protection but then later on\nyou might switch over to say your wand\nif you want to do some range damage i\nthink this is very very cool now each of\nthe implements comes in three tiers of\npower initiate\nadept and paragon\nas you go up the levels you can increase\nyour rank or skill in a certain number\nof implements you can either become a\nparagon in one implement with the other\ntwo staying at initiate level or you can\nbecome adept in two of the implements\nand then the other one will still stay\nat initiate level so again a lot of\ncustomization a lot of choice and as you\ngo up the level you're going to gain new\nabilities and new ways to use existing\nabilities i think this is very awesome\nthe first implement is the amulet and\nagain this is more of a thematic choice\nit can really be anything but the amulet\nimplement is focused on protection\nnow the initial ability which you gain\nas an initiate you just get this\nstraight off is you get a reaction and\nit triggers when you or an ally within\n15 feet\ngets hit with first source of damage and\nyou give them resistance equal to two\nplus your level does this sound familiar\nsure it does it sounds a lot like the\nlawful good champion's ability to\nretributive strike now of course\nobviously they don't get to make an\nattack of opportunity but this is really\nreally cool because number one it could\nbe you or an ally and number two it\ncould be any source of damage it could\nbe a fireball it could be a cone of coal\nit could be a lightning bolt so\nbasically you will give them resistance\nto whatever damage type they need\nagainst all the damage that is\nincredible and that is awesome so a very\nvery powerful ability with huge play\npotential and i think it's a lot of fun\nnow again you can improve these as you\ngo up the levels by increasing your\nlevel of proficiency in amulet from\ninitiate to adept or paragon if you\nraise it to adept then the target which\nyou've given that damage reduction will\ncontinue to have damage reduction five\neventually goes up to ten until the next\nturn so you hit them with one very\npowerful damage absorbing resistance but\nthen give them some ongoing resistance\nfor the entire round if you get it all\nthe way to paragon\nthen everybody all your allies within 15\nfeet gain both the initial damage\nreduction and the lingering damage\nresistance that is so cool and so\npowerful a a massive red dragon comes in\nand breathes fire down on your party but\nyour\nthermaturge with your powerful amulet\ngives everyone a massive bonus to fire\nresistance and then gains lingering fire\nresistance so that any other fire\nattacks for the entire rest of the round\nget mitigated and this is just a\nreaction so you could just keep doing\nthis turn after turn after turn changing\nthe resistance from turn to turn this is\na huge protective ability with a lot of\nfun upside\nthe second implement is the chalice\nimplement and this is focused on healing\nso as an initiate you give your players\ntwo options one is you can take a sip\nfrom the chalice you can only do this\nonce per round and it's you or an\nadjacent ally gains two plus half your\nlevel temporary hit points until end of\nnext turn i mean this is this is okay\nit's only one action which is nice it's\na little bit of a temporary hit point\nbubble which you can probably use pretty\nwell but it's not the most powerful\nability but you can drain the chalice\nand that's going to heal three hit\npoints per level now you can only use\nthis once every 10 minutes so it\nfunctions a lot like a paladin's lay on\nhands but once you've drained it you can\nstill continue to offer people sips so\nagain this is a huge awesome ability to\njust heal people both in combat and out\nof combat and then the ongoing temporary\nhit points is a great way to sustain\nyourself if you wanted to be a more\nmartially oriented thematurge just spend\nan action each turn that that sort of\nthat elusive third action to take a\nquick sip of your chalice and pop\nyourself up for five or six or seven\ndifferent points of temp that's awesome\nthat's cool if you become an adept in\nthe chalice implement then if you're\ncritically hit by a piercing or slashing\nweapon or ongoing bleeding damage then\nyou can heal for more i i don't know\nwhat the theme here is i think there\nmight be some sort of uh jesus metaphor\nhere with the the cup\ni'm not sure but\nif you are hit by that very strange set\nof circumstances then your sip instead\nof giving uh just a few points of\ntemporary hit points gives your level\nplus your charisma temporary hit points\nthat's a lot of temporary hit points and\nif they drain the chalice to heal they\nget four hit points per level instead of\nthree hit points per level\nlastly if you get your chalice to\nparagon when you or an ally drains the\nchalice in addition to healing wounds\nand restoring a lot of hit points\nbasically the chalice just completely\nheals you it'll get rid of a lot of your\nnegative conditions it will reduce your\nclumsy you're enfeebled you're\nfrightened you're stupefied and your\nstun conditions all by one\nthe first time each day that you drink\nfrom it it'll also reduce your drained\ncondition by one and finally the chalice\nwill try to counteract any poisons\ndiseases or curses affecting the drinker\nthat's incredible and you can do this\nevery 10 minutes this thing is like a\nheel spell it's awesome if you wanted to\nbe a healer\ntake the chalice implement and you're\nbasically well on your way in addition\nremember you eventually get three of\nthese implements so if you want to\nbecome a protective healing support\ncharacter you might take the chalice and\nyou might take the amulet but as you'll\nsee with some of the later ones you\ncould take them and be a very different\nthomaturg i think this class is super\nexciting all right\non to the third implement the lantern\nthis is sort of uh for sort of a\nexploration mode being more of a search\nkind of a little bit of a of a rogue\nranger feel to it so the lantern well\nthe implement lantern shines as a\nlantern you and your allies get a plus\none status bonus to perception checks\nmade to search and to recall knowledge\nchecks made within the light of the\nlantern additionally if you have your\nlantern implement out you count as\nsearching in exploration mode\nautomatically so you could do something\nelse with your exploration action but\nwhile the lantern is out you are counted\nas searching or for traps hazards haunts\nand secrets like secret doors or secret\ntreasure chests so that is a really cool\nand really powerful ability i really\nreally like that\nif your lantern implement becomes a\ndepth level well guess what your lantern\nlight now automatically reveals\ninvisible and ethereal creatures they\nstill count as concealed as if a c\ninvisibility spell was cast but this is\nfor free\nand then lastly if you take your lantern\nall the way to paragon then your the\nlight of your lantern has a free\ncounteract check to see through\nillusions disguises and transmutation\neffects so while i don't think the\nlantern is as powerful as the first two\nimplements we covered it is very cool\nand remember you do end up getting three\nof these implements so\nit's totally a valid choice and it might\nnot be my first one but i could see\npicking it up as a second or a third one\nespecially if my game is focused on\nlet's say dungeon exploring and being\nable to make those free search checks\ncould be very very powerful\nthe fourth implement is the wand and\nthis turns your thomaturge into sort of\na quasi-spell caster as an initiate\nyou'll choose fire electricity or cold\nand then you gain the fling magic action\nso it's two actions and you basically\nkind of shoot off a little bit of fire\nor a little bit of electricity or cold\nwithin 80 feet dealing one d4 plus your\ncharisma bonus modifier to the damage\nand they get to make a basic reflex save\nso it's not a spell touch attack which\nis better because it means that instead\nof missing and doing nothing it's a\nbasic reflex save so they can fail and\nstill take half or sorry they could fail\nand take full damage or they can pass\nthe save and still take half and then\nthe damage type is whatever type you\nchose and then of course every two\nlevels this increases by 1d4\nif you become an adept the range\nincreases to 120 feet you get to choose\na second damage type from the list and\nthen you get to choose between them as\nyou fling them again remember your\ncharacter's really good at sussing out\ncreatures weaknesses so this is a great\nway to tag those and then the fling\nmagic also has an additional effect\nshould the target fail that reflex save\nand take damage if you have the fire\nwand or the fire fling the target\ncatches on fire taking 1d10 persistent\nfire damage if you're flinging cold well\nthen the takaria becomes frozen and\nchilled taking a minus tense penalty to\nits speeds and lastly if you hit them\nwith the electricity they become shocked\nand shook up and they become flat-footed\nuntil the start of your next turn all\nthree of these are powerful all three of\nthese are great lastly if you become a\nparagon you become a master of the wand\nthe range goes all the way out to 180\nfeet pretty much nothing you won't be\nable to hit you get to choose between\nall three of the damage types really\nallowing you to suss in on a creature's\nweakness and make sure you hit them way\nwhere they were going to take the most\ndamage and addition now when you fling\nyour magic instead of a single creature\nyou can make it a 10 foot burst this is\na 10 foot burst 2 action can trip that\nhas variable damage types\nthis is one of the best can trips\nin the game this is a very cool very\nflavorful ability and\ni just love it\nlastly the weapon implement this is\nyou're basically saying your character\nis focused on battle now this can be any\ntype of weapon it could be a dagger it\ncould be a sword it's probably not going\nto be a two-handed weapon because you do\nneed to be able to hold another\nimplement in your other hand these are\nreally great and they really basically\nsay i want my character to be really\ngood at being a fighter and in fact they\nkind of give you some fighter-like\nabilities so if you choose the weapon\nimplement then you gain the implements\ninterruption reaction so\nif the target of your esoteric\nantithesis uses a concentrate manipulate\nor move action or leaves a square so\nbasically if they cast a spell or if\nthey try to move away\nif that creature is within reach of your\nmelee weapon or if they're within 10\nfeet if you're using a ranged weapon\nwhich is kind of a cool new ability\nthen boom you get to make a strike\nagainst the creature with your weapon\nimplement and if you critical hit you\ndisrupt that action so they try to move\naway you hit them it's a critical hit\nboom\nthey they don't get to move away and of\ncourse the strike doesn't count towards\nyour multiple attack penalty and your\nmultiple attack penalty doesn't apply to\nthis strike so very cool it's very much\nlike a a barbarians attack of\nopportunity a paladin's retributive\nstrike a\nmonks\nstand still a rangers disrupt pray all\nvery cool also if you choose the weapon\nimplement at fifth level you get the\ncritical specialization effect of your\nweapon whenever you are using your\nthumaturgic weapon again this is\nbasically turning your character into a\nmartial character they're gonna have the\nnormal weapon proficiencies they have\ngreat armor proficiencies\nif you choose the weapon implement on\ntop of everything else you'll be one of\nthe best damage dealing fighting types\nat the table\nokay so the weapon can also go from\ninitiate to adept if you go to adept if\nyou use the implement interruption the\nattack of opportunity basically and you\nfail\nokay you still deal one point of damage\nwhich can trigger the target's\nweaknesses as normal which as we said\nbefore could possibly be like 12 or 13\npoints of damage this means that even\nwhen you miss with your attack of\nopportunity you're still dealing 13 14\npoints of damage\nno other class gets this this is\nfantastic lastly you can take your\nweapon implement to paragon and this way\nyou incorporate your foe's weakness\nmaking your interruptions extremely\ndisruptive now\nnow if an opponent triggers your action\nand you hit them with your implements\ninterruption ability\nthey are disrupted not on a critical hit\nbut on a regular hit and a critical hit\nthis means that if someone tries to move\naway from you all you need to do is hit\nthem it is incredibly powerful very\nflavorful and if you choose this\nimplement you are going to be one heck\nof a battler\nnow i'm not going to go over all the\nclass feats but they are awesome they\nget the ability to create temporary\ntalismans which no one else was really\nusing because it's kind of pricey just\nlike potions so in this way they're like\nthe alchemist but you're creating\ntemporary talismans that you can attach\nto you or your other party members\nthat's awesome you can create warding\ncircles they get ritual books they can\nuse scrolls they can even gain familiars\nand get all the familiar feeds and they\nget tons of abilities that allow them to\nuse extra magical items i think this\nclass is incredible i think this class\nis\nway better than the alchemist i think\nthis class is\nvery versatile very fun i think there's\na lot of things going on here that\nexcite me mechanically i think there's a\nlot of things going on here that excite\nme narratively i think this class might\nbe too good um i think they're doing a\nlot of things they might be stepping on\nsome of the bard's toes because of how\nversatile they are with their skills and\ntheir skill abilities now yes they do\nnot get full spell casting but boy they\nmake up for that in a lot of different\nways and just being able to have nine of\nthese implement options means that\nyou're going to have so much\ncustomization about the way you build\nthis character i think people are going\nto be really excited about the\nthermaturg that's what we have for the\ndark archive play test so far the\npsychic\nand the thermaturge\ni really really like this class and i\nthink it's going to play really really\nfun i know that if i had the opportunity\nto get into a game that i wasn't running\nand be as a player i would definitely\nwant to roll one of these up just to see\nhow well it works in action again the\nclass feats are very exciting they take\nthe class in even more ways and i think\nit'd be really fun to see how it plays\nout at the table so let me know leave a\ncomment below or join our patreon and\nhit us up in the discord we want to talk\nabout these classes as we go through the\nnext couple of weeks for these play\ntests and i promise you there's going to\nbe a lot of really really really\nin-depth conversations or if you think\ni'm completely wrong and you want to\nyell at me personally also join our\npatreon and then you can yell at me in\nthe discord either way i'd like to see\nyou there because i want to have a\nconversation with you like and subscribe\nif you found this video useful and i\nwant to say thank you for watching and\nwelcome to the knights of last\n[Music]\nforeign\n"
+}

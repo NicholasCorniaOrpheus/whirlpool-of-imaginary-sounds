@@ -1,0 +1,1679 @@
+[Music]
+welcome to our second episode of night
+school i'm joined by bob i'm here ready
+to learn yeah so we got a lot of good
+positive feedback about our first video
+which was why dungeons sort of kind of
+making a pitch to you
+and for people who haven't joined us
+before
+my goal with this or i should say your
+goal yeah i'm the one that's really
+excited right is to uh learn how to run
+a campaign yes and last time in our
+first episode i basically made a pitch
+that i thought that before you start
+creating
+worlds and universes and campaigns you
+should start with something simple yeah
+because i want to do all that yeah of
+course but bob's dungeon also sounds
+cool yeah so we're going to start with a
+dungeon and this is a time-honored
+tradition that goes back to the very
+beginning of the game it's in the name
+of the game
+and i think it it it teaches you the
+training wheels it's the training wheels
+for you it's a training wheel for your
+player as well that's good so when
+you're going to go and create a dungeon
+i like to think of it in two stages a
+design stage and a development stage
+so the design stage is where you're
+going to sort of think of the high
+concepts of the dungeon okay what are
+some of the themes that you're trying to
+you know feel out with this dungeon what
+are some of the ideas that you want to
+express in the dungeon what are some of
+the
+you know
+basic concepts that you want to really
+lay out development is more of the
+number crunching part that's where
+you're going to go in and you're going
+to for example in
+5th edition okay you could design a
+dungeon okay um it's a prison it's a
+nice prison
+okay that's maybe like my concept
+well that could be a level one dungeon
+it could be a level 10 dungeon it could
+be a little okay
+that's the that's development that's
+development developments where you're
+going to go and say okay what creatures
+are appropriate for a dungeon of this
+level okay what what treasure is
+appropriate for a dungeon of this level
+what traps are appropriate for a dungeon
+in this level right so
+the concept the design you could almost
+think of these as like
+blueprints that could be used for
+anything
+right from you could this concept you
+could design a dungeon and you could use
+it for pathfinder two and you could use
+it for fifth edition it's not really a
+fifth edition dungeon or a pathfinder
+two dungeon until you put in the
+development work and actually put in
+pathfinder two monsters okay put in
+fifth edition monsters so that's how you
+can like almost do conversions it is a
+good way to do a conversion to take a
+step back and say what's the what's the
+rough outline of this
+of this dungeon and so today i thought
+we could start with the design phase
+and we are going to start now going back
+to the design phase
+there is sort of two ways to approach
+this which is sort of a bottom-up or
+top-down design so what does that mean
+well it means you can and sometimes
+you're you're working both sides
+simultaneously sometimes you need a
+dungeon to fulfill a specific role in
+your game in like your world or
+something exactly okay like you already
+know i need a dungeon
+that is the prison of some npc because
+that's where our game is headed so you
+have this idea and so now you go okay i
+know from the beginning it's going to be
+a prison and so i need to put things in
+it that would be in a prison it needs to
+have a jail cell and so we don't need to
+do that exactly but
+that is something that you think about
+if you're if you have the world sort of
+already going correct i mean the only
+thing i would say that we the only uh
+top-down constraint that we have is we
+know that this is going to be the
+introduction
+to a new group of players okay and it's
+gonna be level one players yes so there
+might be certain considerations that we
+would make for this dungeon that lend it
+towards that end yeah so a bottom-up
+design on the other hand is sort of like
+thinking about like nope i am just
+thinking like what are ideas that i
+think would be cool and we'll build
+we'll figure out the story later so
+top down design would be
+i have a jail cell okay what go what
+would be in a jail or sorry i have a
+prison what would be in a prison i don't
+know a torture chamber a jail cell you
+know you're building you already have
+the idea now you're going you're filling
+in the details
+bottom up is like you know it'd be so
+cool
+if the final boss was a dragon
+so now you're talking my language right
+and now we don't know what the concept
+is but we we've we're you know what else
+i have this idea about a room with like
+a a
+pool full of blood that like comes alive
+right okay these are all cool ideas okay
+now what we're gonna do is that's
+starting at the bottom we're gonna build
+up to okay what is this place that has a
+dragon and a pool full of blood and
+we'll figure out the details as we go up
+and we'll come up and we'll end with a
+concept that ties it all together okay
+but we started with the details
+instead of the high level now could you
+do part of the you can go back because
+i mean well i to put create a point case
+in point it's a little bit more you know
+it's a little bit your dungeon will feel
+more cohesive if the thematic elements
+all tie together that's more top down
+well that's anything
+one of the big mistakes we talked about
+this before one of the big mistakes of
+dungeon design is the kitchen sink
+approach
+people draw a map first that's almost
+always wrong to draw a map first
+um they draw a map and then they just
+start populating it with monsters and
+traps and there's no theme there's no
+cohesive interesting tying it together
+you're just putting in stuff that you
+think is cool
+and that's a horrible way to design
+that's that's actually what i thought i
+was going to do correct
+i was like i could draw and i got my
+best yuris and monster manuals that's
+the worst way to design that's how
+you're going to end up with a bad
+dungeon what you're going to end up with
+then is when people think of bad
+dungeons they think of
+underground rooms with no sense of
+cohesiveness where we're just wandering
+from place to place fighting a variety
+of different monsters that really don't
+do anything or interact in any way all
+right well bob's dungeon's gonna be
+different bob's is gonna be sweet well
+we hope it is right that's so that so
+one of the things if it isn't then we
+need to figure that out so and so when
+with bottom now there's nothing wrong
+with bottom-up design because you're
+like i have this idea for a cool concept
+the the the the challenge there is
+figuring out elements that tie it
+together so that it isn't just a random
+pile of nonsense but it's a more
+structured and coherent might take
+it sounds easier but actually could be
+harder it depends on how you think yeah
+it depends on what kind of creativity
+mode you're going for and it also
+depends like if you know that your
+dungeon needs to be a prison well then
+that's easy because you're already
+thinking in that respect but if you also
+know that your dungeon really you really
+want to have it you want it to have
+these elements then that's you know much
+much different and it also starts
+informing your decision right like if
+it's a prison and it's an active prison
+well that's going to be a very different
+type of dungeon than one that is an
+ancient ruin that nothing and no one
+lives in right like it might have
+different types of traps it might have
+different types of monsters right
+if you're in some old abandoned ruin it
+might be littered with you know giant
+rats and giant centipedes and you know
+all sorts of vermin but if it's like a
+prison well it's probably not going to
+have just random vermin running around
+right there's people here they probably
+try to keep it somewhat clean so again
+that can really inform your decisions
+so today
+i thought we could maybe kind of think
+about
+the high level concept okay
+now before we get into that though this
+is
+this is one of the most important rules
+oh this is the first give me a little
+pencil out here this is the first rule
+of dungeon craft okay so
+uh during the 90s uh dragon magazine for
+about two and a half years published a
+series of articles
+and it was called a dungeon craft
+and it it was a is this where professor
+dungeon master gets his name from i
+don't know
+maybe
+maybe i don't know but if you watch this
+let us know yeah um and it was written
+by a man named ray winninger who was a
+sort of an industry mvp at the time and
+then he kind of went away and now he
+actually like heads up fifth edition d's
+r d group so he wrote this really great
+article and in this
+series of articles and it was very
+impactful to me on how i think of
+designing dungeons
+obviously i have a lot of other input
+sources but i think it's a worthwhile
+thing to share with you and what the
+dungeoncraft articles identified is that
+the books the dungeon master guides and
+the monster manuals and the bestiaries
+and whatever
+are very good at teaching you the rules
+of the game but they are very poor at
+teaching you what you're supposed to do
+with all these okay okay and i still
+feel like to this day that a lot of
+these rule books especially the
+pathfinder two rule books
+are very bad
+very bad path under two is very bad at
+teaching you actually how to
+make a cool adventure or dungeon if i
+was being cynical if i was being tin hat
+uh tinfoil hat i would say it's because
+they want you to go buy their adventures
+in their adventure paths i mean it is a
+business it is a business
+so if they teach you how to make an
+adventure then you don't need to go out
+and buy their adventure pads correct
+correct that actually makes sense so
+i don't know if that's
+technically true but you know i mean
+either way everything would be cool to
+learn i like their aps and i would like
+to learn yeah so
+so anyways so what ray's first rule of
+dungeoncraft was
+was this
+never
+force yourself to create more
+than you must
+and he actually went on to say this rule
+is so important you should write it on
+the inside cover of your dungeon
+master's guide and if you go back all
+right hold on a second if you've ever
+never force yourself to create more than
+you must
+and if you go back to my second edition
+dungeon master's guide and my third
+edition dungeon masters guide this is
+actually you listened this is actually
+written in sharpie big big bold sharpie
+on the inside of your head
+now why well it's because
+there's a temptation to want to start
+off and build everything
+right to create an entire world with i
+was i didn't know how far
+you must meant right what i mean to say
+is you
+have this resource which is the time
+that you are going to spend preparing
+for the next session okay
+you never need to be
+more than one session ahead of your
+player i've learned that from you right
+so now that being said i think that
+having
+options and being well prepped
+especially before a campaign begins when
+you don't have the pressure of a weekly
+schedule
+um or you know whatever rate of play
+you're playing at i think that can be
+very beneficial
+to have a bunch of stuff prepped that
+way you kind of have it you know why not
+take advantage before you start playing
+yeah but once you get into it don't feel
+like you need to detail everything
+out you know completely
+just hey i'm gonna make a dungeon i
+think it's gonna have about three levels
+cool well they're not gonna go to level
+three right away yeah that makes sense
+they're not gonna go to level two
+probably right away focus your time and
+attention on what you feel they are
+going to
+reach right never force yourself to
+create more than you must can i
+interrupt you yeah dungeons
+do you like them to go up or down
+done what do you mean up or down uh
+levels
+start it you start well level one is
+always level one but then do you
+submerge or do you go up okay well all
+right i'm just asking a personal opinion
+uh i like mine to go up it doesn't make
+well one is a tower yeah and one so
+here's the thing we got just both first
+things first that's pretty cool people
+may not know what a dungeon is uh
+so a dungeon historically right was the
+like prison cells beneath a castle okay
+and if you look back to 1974 when they
+first started doing it that was exactly
+what it was it was uh castle blackmore
+and it was going into the dungeons
+underneath the castle except they were
+you know a little bit
+bigger than the normal more than more
+than a castle would be and so that
+became the thing was to go under the
+ruins now that that term dungeon though
+now basically means
+anything a dungeon could be the burnt
+out husk of a dead god floating through
+the endless stars right it could be a
+a living elemental beast and you're
+exploring its innards as it travels
+through the elemental plane of earth it
+could be an ancient underground ruin it
+could be a
+cav a series of caverns it could be a
+tower it could be a cliffside rune i
+mean it could be anything
+um
+traditionally historically
+you go down okay i'm just asking um it's
+a little bit more claustrophobic it's a
+little bit more you know
+dark and scary to go into the earth than
+it is to go up okay um so any case
+uh yeah so the ideal concept behind this
+rule is you do not want to be forced
+into making more because you might get
+burned out
+you might uh lose some
+you know passion because you feel like
+it's work and more importantly i think
+it's okay
+to a certain extent to leave your
+options open i feel like it's just also
+a waste of time
+yeah possibly i mean i don't like
+wasting time i don't have much time i
+don't even wasting it building a world
+that no one's going to play in or
+they're not going to go that way correct
+that's also a good point now one of the
+one of the beautiful things about
+dungeons dragons is it's not a video
+game you know if the players want to go
+west and you haven't written wets yet
+don't think of it as like an oh i need
+to railroad them to go east you know my
+number one you can be honest with them
+guys that sounds awesome i haven't
+developed that area yet so
+give me some time yeah
+uh or second you can just wing it that's
+that's a little higher level than me
+right sure sure so
+to that end never create more than you
+must so what we want to do here today is
+just think of some ideas about
+what might this first level dungeon look
+like for our new players okay right yeah
+and what are some of the unique
+challenges and things that we need from
+this dungeon all right
+now i said last time that i was going to
+introduce what i consider to be one of
+the greatest resources for this of all
+time
+now i'm a big fan
+of
+inspirational
+randomness
+okay right which is to say this
+i love
+tables
+and charts oh i love that stuff too i
+didn't know where you're going with that
+that
+you don't have to go with it
+it just inspires you to go down a
+different route okay i love tables okay
+now
+i'll be honest with you
+um
+pathfinder books don't have anything
+they're horrible
+okay the fifth edition dungeon master
+guide is actually pretty good oh i
+actually own that okay it's actually
+pretty good they have a pretty good
+section here
+uh about you know random dungeons and
+different rou uh different types of
+chambers and rooms to put into it it's
+pretty good
+the first come from the same guy
+did he help develop that then no i don't
+he did not okay i was like maybe that's
+why um
+the first edition dungeon master's guide
+is a classic okay
+um
+it uh it could also contains a bunch of
+information but the problem with both of
+these are
+they
+give you ideas about things to put in
+your dungeon but they don't really talk
+about like what is that's what we want
+your dungeon what is your dungeon so
+what is the high concept and so
+for this we need to come up with two
+things okay one is
+what was our dungeon originally
+what is our dungeon
+now
+okay okay
+so
+what was its original purpose
+why was it built
+why was it originally put there
+now it's the present yeah what is it now
+no it's possible that's like well they
+built it last year it's the same thing
+as it was but chances are
+if it was built a long time ago it isn't
+that now
+maybe it's a ruin or a rubble and
+already we're gonna start to answer
+questions well why is it like that what
+happened right and for this
+that that
+why
+there is no better resource
+than this
+the tome of adventure design geez it's
+something it's writing the title the
+tome of adventure design or the toad
+okay
+now this book is a little bit people
+call it
+i mean it's what i call it
+now this is this is not a this is this
+was originally produced by frog god
+games
+uh i think that even makes funnier sense
+than it was um i think why because you
+call it toad and says by frog oh yeah
+sure i don't i don't
+bob back with the cough i swear to you
+he wasn't coughing before we even
+film i think it's a it's a nighttime
+talking thing yeah okay
+um
+if you can get a hand on this i think
+the pdf is available on drivethrough rpg
+um i know they did a second printing of
+it i love it in
+hardback uh on the back it says don't
+panic
+um it's because i'm panicking right now
+yeah so
+this book when this come out
+i don't know this is the original yeah
+uh 2009. oh actually pretty recent well
+i mean that's 12 years ago yeah but
+dungeon dragons is oh yeah you know yeah
+this came out um this came out
+pathfinder one era oh wow yeah so it's
+not even that old of a book okay but
+this this is one of the best i've ever
+seen so what they made this book just
+for this purpose or was this part of a
+bigger thing they were trying to do nope
+just for this purpose it is nothing but
+random tart tables and charts
+to inspire you wow so we'll we'll give
+an example here
+all right geez it's really looking like
+an excel spreadsheet yeah so here we'll
+we'll try this now it's got a
+bunch of different same dice yeah you're
+gonna need some percentage dice yeah all
+right
+now there's a couple different ways that
+you could use this
+um
+so one for example is its purpose
+uh what was the structure's original
+purpose dwarven stronghold okay so here
+we'll roll roll percentage
+so 87 or 78 sorry 78
+dyslexic what do you want from me all
+right
+it is sacrificial okay
+all right sacrificial you don't have to
+write this down because we don't have to
+that's the beautiful thing okay
+sometimes it's just about getting
+inspired exactly official now roll again
+okay
+52.
+uh sacrificial machine
+whoa so okay see your mind already
+starts clicking there maybe i'm thinking
+some like ancient
+cog thing all right maybe like why what
+was this dungeon originally built like
+13 ghosts i don't know what that is
+you've never seen 13 ghosts it's a giant
+machine okay it needs the spirits of all
+these people okay to create this
+dimensional portal for this like evil
+demon thing see there you go yeah and it
+travels people with all these
+chiroglyphic symbols and stuff and all
+these different ghosts right it's creepy
+scary that might have been what this
+dungeon originally was
+right i mean you could go anywhere with
+this it could be when you when you hear
+sacrificial machine it doesn't have to
+be a machine like you might start with
+that and then you end up with um it was
+a place where
+you know they just
+they brought people in to sacrifice them
+to turn them into undead you know kind
+of like an undead factory right like
+the idea here is to start with
+inspiration and to start thinking of
+ideas
+for
+what it might be so just as an example
+uh maybe roll again oh okay now for this
+one
+92
+um now for this one they have a
+different table here which is sort of
+like the overview okay what what is this
+uh what is this place or what is this
+place like or what is this place it is
+the toxic
+roll again toxic yep
+94.
+sanctum
+keep going of the
+76. okay toxic
+sanctum
+of the
+ooze of the ooze
+haters okay so you're like okay i hate
+oozes right but again it's causing so
+much trouble so the first one sort of
+more of like the purpose
+this random table is more of like kind
+of an idea of like okay well what what
+is this place like what's the toxic
+sanctum of the ooze
+already my mind is like what if there
+was a dungeon
+where ooh an ooze became self-aware
+and it became intelligent
+right and it created this environment
+that's super toxic and it's trying to
+breed
+a new type of ooze right he just needs
+to sacrifices and it well no no this
+might just be a good idea okay right
+it's just about coming up with
+interesting ideas and
+kind of deriving this high level concept
+right what is your dungeon why was it
+there or
+what is going on there now
+right
+yeah so
+to that end now this is also where
+now i'm talking about these as from a
+random book yeah i love doing that it's
+fun it's a fun mental exercise you can
+also take one of your favorite books one
+of your favorite movies one of your
+favorite tv shows put a twist on it your
+players will never know
+they'll watch the same animes as me
+except for except for using the same
+anime and again like a lot of times you
+get a lot of mileage by filing the
+serial numbers off of something right
+that you really enjoy or that you really
+like you know yeah i mean that makes
+sense and
+tropes or something you see on a movie
+or a tv show you'll be like that sounds
+cool if i took it and twisted a bit
+correct and so taking a basic idea like
+that and twisting it can be very very
+very effective so
+let's think about what was your dungeon
+mm-hmm
+what what any there were thoughts
+okay so it's a dwarven i love dwarves
+okay you love dwarves okay so it was
+built as a dwarven stronghold yeah all
+right now already now that's where it
+was originally built yeah i just got to
+be worried if i don't go down lord of
+the rings trails here
+or hobbit trails i mean that could be
+where you're like then what happened a
+dragon took over because i love dragons
+too it's like okay
+but i actually like the what's now there
+is the
+there's the problem of being very
+unoriginal which you know you can which
+is fine because again
+this is your game and i promise you it's
+not going to run out the same as the
+hobbit correct what's the one in the
+habit that are uh
+no no uh
+lord of the rings what's the one that
+they have to go through moria maurya
+where the dem about a balrog
+that's concept's cooler where there's
+like a dwarven
+stronghold that they went too far deep
+sure and awoken something right i like
+that overarching concept now when we
+talk about design we also have to keep
+in mind right all these things are
+you're juggling a lot of
+you know uh balls here
+development purposes that's cool it's a
+great concept not great for a level one
+adventure i know
+right so cool right that that's another
+thing that you have to consider when i
+start running before i learn to walk
+well right okay well but then you're
+making a level 15 advantage i know and
+that's that's my point i know that's
+i'm thinking like i want them to fight a
+dragon and it's like
+bob
+well okay and that already by the way is
+a bad attitude to have i know i want
+them to fight a dragon no well what if
+you put a dragon in your your dungeon
+and they go [ __ ] that i'm never fighting
+this thing ever
+yeah i don't know that i've
+right like you can't have
+the whole point of this exercise
+is for you to create an environment
+that's just interesting and whether or
+not the players ever go there it's still
+cool so how do you make it interesting
+then if you like saying if it was a
+dwarven stronghold yeah
+they would i think hoard gold okay
+treasure's interesting treasure okay so
+it makes people want to come there we'll
+we'll follow this line of reasoning okay
+now this isn't a dwarven city right
+because remember we're this is a dungeon
+yes
+so this is a dwarven stronghold okay why
+did the dwarves build a stronghold here
+so when i'm thinking stronghold i'm
+thinking like a like a fortress yep or
+like a bunker you know the outskirts
+it's on the outskirts why is there a
+dwarven fortress here oh sorry for the
+stronghold here we're having stronghold
+here is is my thought is something was
+something is
+uh
+trying to come this way the ogres or the
+giants or something okay so this was a
+defensive position yes now the dwarves
+would store a lot of gold in one of
+their defensive positions hmm
+that's a good point
+hmm
+yeah it was offensive position they
+would go out and get stuff
+maybe come back because this is the
+closest spot they have until they can
+get it back to the city so the doors are
+attacking that doesn't sound right i
+feel like they're defensive okay
+i don't know about that but i don't know
+sure i don't know
+no but i think you've hit a key reason
+again you're thinking about this this is
+not just an idea this is going to be a
+play space and that means it's going to
+be a place where you want to be playing
+dungeons and dragons and so ultimately
+it means you need an excuse for there to
+be monsters and treasure and things like
+that in this time so it could be
+offensive and defensive though because
+you're trying to think about if you've
+got a city well you're trying to expand
+your territory sure we'll take a step
+back though
+what kind of you know don't get so
+caught up on that initial concept you
+said dwarven stronghold yeah okay well
+let's go with dwarves what kind of dwarf
+in place would have a lot of money
+or would have treasure and gold the main
+city okay but where you said it before
+it's not a main city not this place is
+not the meeting yeah so ignore that so
+what would have dwarven what would have
+money and wealth and baby matters
+okay mine but
+that's you know maybe not what we're
+going for and that's just raw orb we're
+thinking treasure we're thinking gold so
+what might have that
+um
+a
+a dwarven mine that mine's gold okay
+all right
+so
+maybe
+they were mining gold they could be okay
+they need to protect it maybe they
+needed to protect it that's but then
+you're getting close to
+mines maurya yeah so what if you take it
+a different route
+what if this was a place
+where the dwarves traded
+yeah that that's something more of like
+an outskirt thing they needed to hold
+the position though because
+something is wanting this
+area sure so who are they trading with
+not the elves
+why not the elves i don't know
+[Laughter]
+not going there
+one of the things that you have to think
+about when you're designing a dungeon is
+what's going to make this because
+remember what we talked about this
+before in the last episode ideally you
+are going to build a series of layers
+like an onion
+of the history and some of the cool
+facts about your dungeon and you're not
+going to just tell that to your players
+they're going to learn it as they go
+through it what's a lot more interesting
+and a lot more fun when some of those
+things are surprises
+okay
+and
+we're kind of touching here on the on
+the second part rule of dungeon craft
+but
+the second rule dungeon craft is
+whenever you create
+some element in your campaign if you can
+create or attach a secret to it okay
+right
+so
+that means that the players start to
+uncover it they are going to feel like
+they are
+uncovering something they are learning
+something so what if they're this is
+this is just a trade post they trade
+with whoever okay is in the region but
+they don't trade with the elves okay
+but
+this one did okay
+that could be interesting that's what
+that was kind of getting it's like they
+weren't they shouldn't be because the
+main city is like that's a no-no all
+right but
+it's like sort of like prison life you
+know you gotta
+you know they got they got the goods and
+okay they're offering something i don't
+know what they're offering but yet but
+they've offered something and it makes
+it makes it worth it to trade with the
+elves okay so this dwarven post this
+dwarven trading outpost
+traded with the elves which made them
+extremely wealthy yes right and probably
+items that probably shouldn't have maybe
+right getting lots of stuff and so this
+dwarven outpost was doing all sorts of
+business and trade okay
+uh in this sort of remote frontier
+location right doing
+trading dwarven goods for for elven
+riches right
+cool now that's what that dungeon was
+yes right it's uh trading with the elves
+yep
+great wealth is being gathered here okay
+what happened
+and more importantly what is it now
+so my first thought was
+and maybe it's not even else maybe
+they're trading with like the ogres or
+something
+something even more something something
+actually evil like uh aligned evil okay
+okay as i'm trying to think about this
+because i'm thinking either
+something went bad okay something like
+they were betrayed that drug deal you
+know i mean like
+they did something they weren't supposed
+to they were doing this on the down low
+okay
+and
+they betrayed maybe a separate clan
+was like what are you doing you
+shouldn't be doing that with them and
+you're saying you're saying a dwarven
+clan maybe could be
+no the thing that sounds a little rough
+possibly though
+being being overrun by
+ogre sounds a little bit more realistic
+again
+we're talking about level one dungeon
+yeah so it probably wasn't ogres now
+granted it could have been overrun by
+ogres and then they left goblins
+right i'm thinking evil aligned you
+shouldn't be trading with these people
+okay um so elves not evil line just
+dorsies you do not like them um but you
+know this is a trade post maybe maybe
+that's not a big deal but you probably
+should be trading with the goblins or
+the kobolds or something along these
+lines oh right or you know or the orcs
+or anything or orcs yeah yeah okay
+now
+what happened
+because now this dungeon is a it's a
+ruin right the dwarves aren't living
+here anymore doing trading otherwise the
+adventurers wouldn't be coming here to
+do adventure they're coming here because
+they've heard that the great wealth of
+the dwarves
+still lies up in that old dwarven
+stronghold yup waiting
+to be taken yup but now it is
+a dangerous place yeah right with lots
+of baddies and only a stout adventurer
+with ready sword and spell is gonna be
+able to brave the dangers to bring back
+that dwarven booty and loot yeah and
+bring it back to the lands of
+civilization and you know spend it like
+a boss so
+we need to think about that's what the
+dungeon was what is the dungeon now
+right what is it what is it going on
+there now
+well it doesn't have to be in ruins
+right like define ruin i mean i don't
+mean literally a pile of rubble that's
+why i thought you meant i don't know
+it's strong this place is i just mean
+like no one's sweeping it
+correct yeah no one's there anymore well
+someone might be there
+we can get to talk about that later but
+so i think
+i think it's sort of like a
+i don't know i don't know enough
+i don't know
+what happened but i think it got overran
+okay so that's a good thing to go with
+yeah and i think something happened and
+it got overran right now again now we
+have to create more than we want but
+remember i said before i think answering
+these questions is tremendously valuable
+because it's really going to help you
+when you're building the treasure and
+you're building because now when you're
+going to get to a point
+um when you go into this dungeon when
+you build it yourself you're going to
+see
+two incredible things happen okay okay
+one is
+you won't you know a lot of people go
+well you know aps and adventures and i
+gotta flip through it and i gotta read
+it and then my players go into a room
+and i gotta read it you're gonna find
+you don't even have to do that oh
+because it's just you're like i know
+that's like the back of my hand have you
+have you do you do you find that when
+you did that in the past oh absolutely
+yes i know you know the dungeons by the
+back your hand when you've run it like
+two times correct correct well you know
+if you
+nothing nothing makes you remember a
+dungeon more than playing it very true
+but but when you've built it yourself
+you almost don't need your notes okay
+because you're just no yeah exactly but
+the most important thing i think that's
+and it would also make logical sense
+like if you built it correctly like a
+good dungeon you're saying you would be
+like yeah they enter here because this
+is where you enter and this is i know
+that room is the
+correct workshop i know that room is the
+whatever you already know what
+everything basically makes sense too
+exactly but the most important thing is
+random random random not random random
+random the other thing that makes the
+this is even better
+you don't understand you don't un you
+don't just understand the what of the
+dungeon
+but you understand the why which means
+if the players do something that you
+weren't expecting
+or they
+create or do something that you know
+wasn't really in your original plan
+when you have to improvise
+it's going to feel very consistent
+because you understand you hold the
+flavor you know the flavor of this
+dungeon you understand like you're like
+oh the players go well we're going to go
+down the well and you know like you're
+like oh i never thought they would go
+down the well but then you start
+thinking about like well i know where
+this dungeon is and i know how this
+operates maybe the well goes down into a
+shaft that they use to smuggle in the
+goods from the goblins you know like you
+can just fill in the details and it's
+gonna feel like you did have it prepared
+because it's gonna feel because you're
+just gonna basically take all that
+creative preparing work that you've been
+doing over the last few weeks and you're
+just gonna pick it right back up again
+and start doing it extemporaneously
+right on the spot that makes me think
+maybe they were dealing with the goblins
+or
+some of the dwarfs were dealing with the
+goblins not the whole
+whole place
+that got found out
+okay they said we got to cut it off that
+didn't make the goblins the orcs happy
+we we've established this trade sure you
+need to
+be here okay and you're cutting us off i
+don't think that's how this works all
+right maybe that is what happened yeah
+all right something like that and they
+got
+invaded yeah they were like no then
+we're just gonna take your whole fort
+yeah so now and so now we're gonna go to
+a series of questions right okay but why
+all right well it's a dwarven stronghold
+designed specifically probably to
+prevent this yeah how did they get
+overrun
+somebody's trader what's that trader
+oh it could be a traitor i like the
+traitor concept that's not what i was
+thinking oh well i'd like to hear you
+because i was thinking like
+more like okay well you promised me well
+you take the four i get x amount of gold
+and that i think it's actually an
+awesome angle yeah and maybe we should
+totally maybe go in the back door yeah
+maybe we should go do it so yeah so
+maybe a dwarven person or a hammer or a
+a group of the dwarves were mad that the
+trade got cut off and they're like and
+they wanted to cut yep and so they
+betrayed the dwarves and they let him in
+through the secret backed entrance or
+something like that and the dwarves got
+wiped out that way yeah i think that's
+awesome but but the people might not
+know any of this they just know it got
+overran
+i don't know but they all died correct
+now what was right you're thinking we're
+getting ahead of ourselves okay but okay
+well i was thinking that maybe the
+goblins brought a dragon
+i love a dragon
+you know and that would have the
+firepower literally maybe dragon eating
+the goblins he's allied with them
+they're they're like his servants so
+he's going to get the gold yeah
+basically the goblins are like oh this
+whole time they've been working for the
+dragon
+i do love a dragon i do do but that's
+okay
+dragons are pretty high level but yeah
+okay what's what's the lowest level
+looks like a little worm wing well
+wormlink's not a very impressive final
+boss okay
+okay i guess it depends on the size of
+your dungeon because it's like what
+level are you when you get to the
+quote-unquote and near the quote-unquote
+and again we're just talking high-level
+today like i said it is an elaborate
+process and you know i mean i i do think
+that this is probably gonna be like
+eight hours of video look if i can just
+get a dragon in there somewhere i mean
+maybe that's a possibility now you know
+sometimes things go in stages it does go
+in stages right like depending on how
+long ago this happened you know
+you might have had the dwarven
+stronghold 100 years ago and then it got
+overran and then it was abandoned and
+then
+a dragon has moved in and claimed it as
+his layer but then i'm almost back to
+hobbit you correct
+and as much as i love that right whereas
+whereas the traitor angle is a little
+bit more unique that's not something
+straight out of the lord of the rings
+yeah right well i'm just trying to think
+you're right how does a stronghold get
+overrun usually it's because if there's
+a weak point somewhere right you know oh
+i knew that if i shot the blast right
+here i'd built the whole death star
+right or it's
+someone
+let them in right and that's usually how
+you get overran right so
+that's kind of strong so i think that's
+a really cool idea and i think we should
+go with that all right so the dwarves
+were betrayed by one of their own
+and then these evil humanoids goblins
+orcs we haven't really decided yeah they
+came in they killed the dwarves and you
+know now presumably at the time there
+was
+untold wealth here right but they took
+most of it they took what they could
+find they could take what they could
+find right because the dwarfs have great
+that's right
+and that's right
+exactly exactly and now that stuff is
+still waiting for our ventures today
+yeah so the
+the goblins or the orcs came in they
+killed the dwarves they took what
+treasure they could take and find and
+they they fled leaving this place ruined
+and abandoned yeah now it's our first
+dungeon that alone might just be enough
+okay right but if the dungeon was old
+enough or if you got want to add
+remember it's like why did they build
+the stronghold here why did they build a
+stronghold here or maybe it that
+happened and then did something else
+happen after that right if it maybe it
+was 200 years ago and then that happened
+and now it's abandoned well maybe in
+between now and then
+something else happened you know like uh
+a group of
+you know creatures moved into the
+dungeon because they wanted a place to
+conduct their secret experiments you
+know and what you start doing is you
+start creating
+these layers
+these sort of plans within plans within
+plans within plans and you end up
+developing all these different factions
+that are within your dungeon right and
+we might end up doing this anyways right
+because now you suddenly have this
+remote really really durable dwarven
+stronghold that's kind of out in the
+middle of the wilderness seemingly
+abandoned but it's a great place
+to do your evil deeds or to set up camp
+or yeah if you could hold it
+it's yours if you can hold it it's yours
+but sometimes if the dungeon's big
+enough maybe you can't hold all of it
+that's right if there's multi-levels you
+might only be able to hold part of it so
+you might have a dungeon where part of
+the dungeon is controlled by
+cobalt part of the dungeon is controlled
+by goblins maybe they don't like each
+other
+you know maybe they have a greater enemy
+maybe there's three different factions
+you know and so you can start
+brainstorming about these different
+components about what they want what
+they need and this is how that sort of
+emergent storytelling of a drunk dungeon
+can occur and why it doesn't i always
+have to just be fight fight fight kill
+kill kill you know because like my enemy
+of my enemy is my is my friend yeah you
+know so
+now
+my suggest my suggestion though is we've
+got this dwarven stronghold yes it's
+betrayed yes
+dwarves enter the kill
+and then evil people enter that's right
+evil sorry the evil
+goblins evil something enter they kill
+everybody that's cool but this is sort
+of a
+my take
+uh
+as a sort of another rule of dungeon
+craft
+whenever you do something in d whenever
+you make a detail if you can
+try to add something
+fantastical
+okay right because aside from the fact
+that we just talked about dwarves
+everything that we just described could
+have happened in medieval europe yes
+right there was a trading post in the
+alps and the germans invade you know
+were trading with the italians and then
+the italians cut off the trade and then
+the one guy in the italians betrayed
+them and the germans entered and killed
+everybody and took the loot and left yep
+right so everything we just said there
+could happen in the real world okay so
+that's good being grounded one foot
+grounded in reality will make your thing
+feel like it's not just some like
+you know like some silly kid
+you know like the kind of rpg you would
+run for your dog it feels real now let's
+put it in now see let's take another
+that's the left foot the left foot is
+grounded in reality now for our concept
+let's take that right foot and stick it
+into something fantastical okay right
+what are some things or what is one
+thing that we can add to this
+dungeon that will
+increase the fantasy level of it
+the undead that's a great one and be
+honest with you that's where i was going
+to i i could easily think that one this
+stronghold was here a long time ago like
+we said it got overran there's multiple
+trying to fight for this something that
+can create undead yeah has found a way
+to kind of lock get himself in there
+pretty good yeah and he's not easily
+taken out well so i you know and again
+remember it's all about the secrets now
+this is this is me wearing my dm hat
+right
+the dwarves that died there that day
+right
+their spirits did not rest easy mm-hmm
+right they're betrayed vengeance
+betrayed by their own
+right i think that those dwarven undead
+you know because when you think about
+zombies
+and you think about skeletons what do
+you think of you think of human zombies
+right yes actually you're right that's
+the first thing i thought of right human
+science human size skeleton human size
+zombie what about a dungeon where a good
+chunk of them are dwarven
+zombies i do love dwaris you do love
+dwarves right undead dwarfs so and this
+also starts to sort of build into this
+idea of
+like i'm again we're getting ahead of
+ourselves right
+hold on that's a great right that's a
+great concept right now i don't by the
+way i don't disagree with what you're
+saying
+because now we can start adding in
+layers
+because maybe there is some evil
+necromancer
+and they've come to the dungeon because
+maybe they want to um
+they want to
+learn from this
+power yeah maybe they want to try to
+control the undead
+and use them as like a dwarven undead
+army and they're trying to like control
+that maybe i was thinking more um
+the dwarfs didn't really know where they
+were
+what do you mean
+this
+wizard yeah manser dude he knows
+that in the stronghold or within this
+area
+there's more
+underneath
+more to meet the more that meets the eye
+okay
+dwarfs never tap that down that far okay
+they just built a strong goal because
+they needed position gotcha but he knows
+that if he can hold this
+he's able to like a ley line okay or
+something along those lines okay i know
+this area is important before so your
+dark energy okay so you're saying that
+the reason the dwarves came back to
+unlife is because there's this
+secret ley line or something secret ley
+line of evil energy and that's
+necromancer's trying to tap into it but
+it also gives that that's also very
+awesome okay that's right but now you
+know i know you love missions what did
+you say mission right missions but
+another thing that makes a dungeon
+interesting is to have all these
+different angles okay because now it's
+like well okay we go to this dungeon we
+came here for treasure yeah right oh but
+now there's a necromancer and we can
+stop him but wait if we stop him
+maybe when you go to stop him
+you learn about the ley line yeah and
+then then that's like a whole separate
+quest because you wouldn't even know
+like why are the dwarfs why are the
+dwarfs not not alive i'll give you
+examples they should be dead they should
+be when you go there and you fight the
+dwarven zombies you might think why are
+there so many dwarven zombies here and
+then you see the necromancer you think
+oh it's the necromancer and you kill the
+necromancer and then the dwarven zombies
+are still around and that's when you
+realize oh there's something deeper and
+then the party goes deeper and now maybe
+when they take out deal with that energy
+source maybe the dwarves finally are at
+rest yeah and these are all great like
+heroic quests that the heroes and you
+know all the dwarven spirits you know
+the zombies crumble the dust and the
+dwarven spirits go to the you know the
+party and they thank them in the dwarven
+way and they give them the blessing of
+the dwarven ancestors and depart to the
+next life right to go get some kind of
+cool feat that you can't only get if you
+beat the dungeon that's correct that's
+correct but so now you're starting to
+tell these different stories with your
+dungeon and you're starting to build
+this sort of depth to it yeah and i
+think that's a great fantastic idea so
+we have this dwarven stronghold this
+sort of trading post
+okay and it's built over a secret source
+yeah some kind of ley line a secret
+source of
+of energy yes and
+the dwarves were trading with
+potentially some unsavory characters yep
+they got cut a little bit corrected by
+that layla and they didn't even know oh
+so that's even better they didn't know
+why did those drawers go bad they don't
+they didn't know they didn't know right
+they became corrupted by greed right you
+know tap into some of the tropes i don't
+think that's a bad thing
+oh evil dwarf greedy you know just like
+thorin you know because you can even
+tell that you're running this for
+mostly new players yes so when you can
+go they've got the the gold sickness you
+know just like thorin from the hobbit
+movie you know how he got yeah they
+start to relate they start to relate and
+now they can connect to it and so it
+makes it easier for you to have those
+touchstones and they can just take those
+touchstones and immediately start
+role-playing it that makes them
+appropriate that makes sense instead of
+you having to like explain to them what
+something is they go oh i get it yep
+when a player okay i got it cool right
+you want to say
+like
+they might have been corrected by green
+you're like
+they have the gold sickness this guy
+knows this guy knows yeah right he knows
+exactly what's going on so you get this
+dark energy it corrupts some of the
+dwarves they start trading with the
+goblins yep
+the other dwarves you know
+banished them and and and and cut it off
+those dwarves filled with that evil
+betray the dwarves they know the secret
+entrance they open it up for their
+goblin allies who come in and slaughter
+the gold you know the dwarves those
+dwarves die but betrayed filled with
+vengeance over this evil source of
+energy now they come back as undead yep
+for many years people stay away it's
+another reason why is the treasure still
+there oh because it's still dwarfing
+undead yeah people don't [ __ ] with that
+yeah maybe
+maybe the first couple rooms is goblins
+you got it exactly because well now they
+can only go so far in you you you got it
+perfectly right because now you can
+start to create different uh sort of
+like themed areas of the dungeon well it
+makes sense like yeah if you go any
+farther that's where the big stuff is
+and that can't go that far and you go
+why don't the goblins go any further
+than that because they'll get killed by
+dwarven's zombies yeah and that's like
+in
+moria i never know the names sure what
+they don't when they they don't go below
+and that the balrog shows up they're
+like uh we're out of here correct yeah
+right so they know one of the coolest
+things that you can do in a dungeon is
+to avoid monolithic evil okay monolithic
+evil is like we're team evil yeah you're
+evil i'm evil we're evil we'll all just
+work together we're all evil no
+right like i could imagine a situation
+where maybe the dwarven skeletons and
+the dwarven undead and the dwarven
+zombies they hate
+the goblins more than they hate the
+party they're in their stronghold right
+right so you could see a situation where
+like imagine where the players like
+lure goblins
+there's too many of them you know like
+there's 20.
+like the like in our our near tpk on
+friday night you and i we were a lot of
+goblins yeah where we fought 20 goblins
+right which was too many and we i well
+you survived i ran away i ran away the
+first time i've ever run away
+on purpose yes um i died and everyone
+else died but if you fought a room with
+20 goblins and you go guys i got an idea
+what if we lure these goblins into that
+room with all the dwarven skeletons
+let them fight each other makes sense
+right that is the kind of emergent
+you're like i never thought that i you
+know we're talking about it now but you
+might be like i never thought that that
+would happen
+but i've got my dungeon yeah i know this
+place like the back of my hand
+goblins those skeletons and i hate the
+goblins that's what killed them
+now though
+you've got this really cool story and
+you've created these sort of different
+areas and the dungeons will feel
+different but as the players realize
+that there's dwarven undead here they're
+going to go okay well why and that's
+when they start to learn about this
+necromancer and then they might go oh
+and we want to go take him out or maybe
+they won't and that's my point is maybe
+they just want to get to the gold yeah
+like the necromancer not our nomination
+yep and that's okay because you're not
+writing an adventure
+you're not writing a plot you're just
+building a place you're building a place
+you're putting some different uh
+factions some different individuals some
+different monsters in there it also adds
+they have a treasure because if if the
+skeletons have their old armor exactly
+they're old weapons this poor dwarven
+stronghold weapons exactly this could be
+good stuff right it could be good stuff
+could be
+treasures magical armor magical weapons
+right and you know there's i think it's
+also okay to have some themes like right
+maybe not maybe not a lot of wands maybe
+not a lot of scrolls right that's not a
+that's not a dwarf you want that you
+better go take on the necromancer right
+exactly and you might have a party
+member go guys we got all these cool
+magical swords
+i kind of wanna i kind of want a magical
+staff and even better is like when you
+start to foreshadow that like maybe a
+goblin they've tangled with the
+necromancer they're not they're not
+they're not on the same team
+and maybe the party
+allies with the goblins or maybe they
+get one in prisoner and he's well he
+wants to talk for his freedom and he
+goes you know beware the necromancer's
+staff yeah you know it's very powerful
+full of magic little goblin bob made it
+too close
+you know
+right he's at them and then the wizard
+goes oh i kind of want that staff
+right guys powerful guys maybe we should
+go maybe we should go take maybe we
+should go take this necromancer out i
+just want the treasure but now you're
+doing the same things you'd be doing in
+a dnd game or pathfinder game anyways
+right
+fighting things exploring things you
+know doing all this stuff but it has
+context correct and the players i think
+will become
+nine times out of ten interested
+and you're gonna end up with this cool
+little story and it's all condensed in
+this one interesting place it's full of
+all these different areas and i think
+that that is what you do with a concept
+is you start with an idea of what was
+this place
+originally
+what is this place now yes and once you
+have that sort of high level concept
+look we've already we already we we
+already know what monsters we might need
+to start looking at in our bestiary yep
+all right we already know what kind of
+magical items might be present here yes
+right do you think that there might be a
+magical axe here uh a dwarven war x i
+think there could be a magical tour from
+warx here or a warhammer or a mall a
+warhammer [ __ ] right probably
+not a magic longbow
+probably not right because that doesn't
+feel appropriate with the dungeon right
+it might be in the traded loot possibly
+and even that could be very kelvin bow
+right even though
+and that's also still part of that
+storytelling of the dungeon you're like
+oh yeah well they did trade with a lot
+of like this was like the elven quarter
+the elven section and there's some
+different type of loot here the player
+goes oh that's that's cool like that
+makes it resonates it makes sense when
+the players go
+yep
+that makes sense then you're doing it
+right okay you know because that makes
+sense to me like
+if they're trading there's
+that's how they would get the bows but
+again they're maybe they're not they're
+still the bose them is like more like
+just stuff that they're going to trade
+for
+something else correct but they're
+probably still like accumulating wands
+because they're just l they're getting
+l's and humans maybe yeah and so once
+you have this sort of high level concept
+you can start doing the rest of your
+design process okay you know and we can
+start touching that now we'll cover that
+next time okay you know for our next
+video okay where we're going to sort of
+start delving into sort of the more
+specific elements that need to be
+designed right like
+when we sort of start touching on them
+here the factions and all that other
+stuff okay you know and we can kind of
+get into that next time i think that's a
+really cool design and i think that
+that's a really cool high level concept
+and i definitely think that we should go
+with that i'm
+i like it it it made more sense
+and like i said if we just add a dragon
+somewhere then then my tongue is perfect
+right now you know sometimes sometimes
+you gotta you know you can force it but
+now now here's the thing that's what i
+i don't want to force it even though i
+want to force it sure like me bob this
+is so cool right wants to force it me
+bob the gm that's learning and
+developing and
+i want to actually make it yeah make
+sense reasonable yeah well so here i'll
+tell you what so for folks at home um if
+you are interested in hearing about a
+design concept that does definitely
+include a dragon at the end uh we're
+going to put some extra footage together
+and we're going to drop that as part of
+our patreon for our patron exclusively
+so if you're interested in learning some
+more concepts that we may have kind of
+spitballed around that we didn't have
+time to show on this already very long
+youtube video uh please take a look at
+our patreon decide if you want to
+support us there and if you do we're
+going to have some extra bonus content
+that we're going to put onto patreon
+that didn't quite make the cut and
+didn't quite make the edit to youtube
+and if not continue to like subscribe
+follow us because we're going to
+continue this series as i continue to
+develop this dungeon yeah absolutely and
+i think i think that's a really cool
+concept and i'm interested you know
+excited to go through it and again
+especially for these design concepts you
+know this applies for fifth edition and
+this applies for pathfinder too and i
+know that most of our audience is
+pathfinder to base but if you're here
+and you're predominantly a fifth edition
+player let us know in the comments
+because you know that's another thing
+that we might want to consider doing is
+making sure that we really include some
+fifth edition level statistics as well
+okay and i should also note that for
+people who make to decide to make the
+patreon we are going to be putting this
+dungeon onto the patreon as we build it
+step by step by step so if you really
+want to get the actual you know content
+as as bob builds it um that's going to
+be on the patreon yeah it's gonna be
+sweet yeah at least hope so yeah well
+thanks again for joining us for night
+school on behalf of bob my name is derek
+melinda saying welcome to the knights of
+last call
+[Music]
+[Music]
+you

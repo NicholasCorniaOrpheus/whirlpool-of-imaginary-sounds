@@ -1,0 +1,1110 @@
+hey guys I want to talk to you today
+about the character sheet so what I'm
+going to show you today is the current
+prototype of the character sheet not
+everything is on there but a lot of it
+most of it's on there um there's a
+couple things I'm working on to sort of
+reflect stats sort of because stats
+don't exist in this game they sort of
+became largely Superfluous because
+everything's skill-based but I wanted to
+kind of give a nod to Stats and make
+them both uh descriptive aspects as well
+as mechanically uh important with
+without actually having stats uh it's a
+thing it's a design it's a design Choice
+um anyway it doesn't matter I want to
+show you where we're at right now this
+is the first time I've ever shown
+anybody outside of our little team this
+character sheet so it's kind of a big
+deal uh again this is just a prototype
+this is not the final but it's you know
+it's it's looking very similar to what
+the final one's going to look like I'm
+going to guess cuz it's pretty useful so
+let's have a look here first of all up
+here you've got the broken Empires logo
+huzzah look at that and the name of the
+game we have name race sex culture
+career XP these are all very very
+standard any game out of the 80s is
+going to have this stuff and that's kind
+of what this is tailored to look like as
+well so what isn't here is these new
+areas
+for descriptions uh which I'm I'm
+working on right now so it's not a
+game-changing thing at all uh it's just
+something I'm playing with to sort of
+add a little bit more stuff to the
+general description of the character
+more to come on that later if it
+actually goes anywhere I'm not sure if
+it will uh portrait there's a little
+spot for the portrait for the character
+if you wanted to put an image in there
+if not then we have personality traits
+so these are based on the personality
+traits from pen dragon and they work
+kind of similarly except it uses D100
+instead of D20 and also you're never
+forced to use these These are always um
+as the rules exist right now uh these
+are always options so it's all it's all
+carrot and no stick with personality
+traits essentially how it works is
+actually before I get into this these
+are temp these are temp terms I'm still
+testing this I'm still working out what
+exact terms are going to be in here like
+I said these were cribed largely from
+pend Dragon uh but not all of the
+Pendragon stats are really applicable in
+this and there's some that I want that
+wouldn't be applicable in pen Dragon Etc
+so it's not just a complete ripoff it's
+taking the idea of the personality stat
+so how it works is you've got a number
+here and you you either choose the
+numbered character creation or you can
+randomize it there's ways to do that but
+uh each of these is a pairing so let's
+look at trusting and suspicious so this
+is a pairing of opposites right you
+either trusting or
+suspicious how it works is you have a
+number in here and let's say it's 60
+okay what that means is there is a 60%
+chance if you want to use these
+mechanics of rolling trusting so if you
+roll one to 60 if you just decide I'm in
+a situation I don't know what the
+character's going to do and I want to
+see I want I want to let the dice tell
+the story and you decide okay I'm not
+sure if I want to believe this NPC who's
+saying things to me or
+not is my character more trusting or
+suspicious well if you have a 60 here
+that means that if I roll 1 to 60 it's
+going to be trusting and if I roll 61 to
+100 it's going to fall in suspicious so
+the bigger the number here the more
+likely the left side trait is to
+activate Okay uh you can get critical
+results and critical results
+automatically increase the trait towards
+the area that it critical so if I roll a
+33 which is a critical result under 60
+for
+trusting this would increase that number
+by 1 D4 so it would go from 60 to either
+61 to 64 but if I rolled over it let's
+say I roll to 77 now it's going to
+essentially decrease that number in
+other words it's going to make it more
+likely that the right side is going to
+happen next time so if I critical on
+suspicious by Rolling 77 on a 60 here
+that would mean that I minus 1 D4 from
+that number see what I mean uh there's
+also things uh what we don't have in the
+sheet yet is Little Boxes little check
+boxes here because right now there's a
+mechanic where we're still we're still
+playing with the idea that if at any
+time use the as the character uh or the
+player rather want to roll a personality
+trait and be bound by its outcome in
+other words I don't know what I'm going
+to do I don't know what the character's
+going to do but let's see I'm going to
+let the dice tell the story you can roll
+and whatever that personality trait that
+you you pick whatever is applicable in
+that moment whatever that comes up with
+if you agree to be bound by that then
+your next action will take a plus 10
+right so it's again it's a little carrot
+thing we're still working this out uh
+it's pretty fun so far it's pretty cool
+it gives people it gives people a feel
+like they're really playing this
+character rather themselves it's kind of
+there's a bit of a feeling of wild
+abandon with it which is which kind of
+great it's it's been fun in the test but
+we're still working out the details so
+that's where we're that that's where
+we're at with that right now um as I
+said these these traits may change uh
+we're we're still working that up now
+let's get to the core of the game which
+of course is the the or the uh skills so
+the skills are divided up into
+categories combat adventuring social
+lore and then the magic skills which are
+bind strands and py so most characters
+are going to have to worry only about
+combat adventuring social and lore the
+only time you worry about B binds and
+strands is if you are a spell Weaver and
+the only time you worry about py is if
+you're a
+godbound so there's not a ton but
+there's enough that cover virtually
+everything you can do in the game there
+is nothing you can do with a stat that
+you can't do with a skill that's another
+reason why stats are gone from the game
+let me talk a little bit about that
+before we go on so a big inspiration for
+character uh design uh and creation uh
+is mithis and Rune quest in general and
+in mithis how it works is you have um
+you've got stats and you roll stats and
+those stats are important important to
+help really what they do is they help
+they they start every skill with a base
+percentage So like um I don't know the
+the the Braun skill in mithis which is
+basically all of your like just raw
+strength that comes from I think
+strength and size you take your strength
+and size attribute you put those
+together and that becomes your starting
+percentage chance in that and then later
+you go on to all of these processes kind
+of like I do with culture and previous
+career and life events and things like
+this and that will increase those skills
+at your direction
+so all the stats do is give you the base
+value and then after that after
+character creation the stats kind of are
+Superfluous they don't really do
+anything it's it's a nice snapshot to
+look at the character and say oh yeah
+okay strength 15 intelligence 18 wisdom
+2 you know you get a nice snapshot
+effect that's true but honestly in this
+game you are more defined by your skills
+and your personality and also your your
+uh talents and stuff which we'll get to
+in a second then you are by stats but
+that said I do intend to put in sort of
+this little nod to Stats which is a
+little character creation aspect that
+I'm working on right now um but that's
+the reason why stats don't exist because
+I realized after character creation
+stats are kind of useless again if you
+need to do a strength roll to see if you
+can I don't know lift a boulder you
+would use might for that or possibly
+even endurance it depends on the context
+let me let me show you that again uh so
+you yeah to lift a boulder or to like
+Smash down down a door or something you
+might use you might use might or you
+might use endurance right uh again all
+context based but that's why there are
+no stats everything um everything is um
+determined by skills but that doesn't
+mean that your descriptions of the
+character don't actually matter
+mechanically it does matter if you're a
+big hulking brute or if you're a very
+very smart person but that's that's
+expressed as skills and it's expressed
+as you go through your culture and your
+career your previous career
+and life events and things like this
+anyway so that's that's a deal with that
+so in combat we have detailed but
+General is is what I'm going for here so
+Dodge and then the three melee skills
+fast medium slow and then might missile
+and Throne so Dodge is any time you want
+to throw yourself out of the weight of
+an attack you do not throw yourself to
+the ground on Dodge this is an A type of
+Defense you can do in combat that allows
+you to literally Dodge out of the way
+the disadvantage of Dodge is that um you
+have no chance of getting a repost right
+like with some of your melee skills
+there's a combat maneuver called repost
+and if you get five or more SLS than
+your opponent in other words if you if
+your net sl's in the combat exchange is
+five or more one of the combat maneuvers
+you can choose is repost which is an
+immediate free attack against them so
+that's kind of cool you can't do that
+with Dodge however the advantage to
+dodge is that you can dodge missile
+weapons whereas the only way to defend
+against missile weapons with a melee
+skill is if you have a shield right so
+there's that then then fast medium and
+slow this just means essentially light
+medium and heavy is what it means but um
+the way that the game is implemented
+fast and slow seem to work better than
+than light and heavy um so yeah uh so
+fast is your things like daggers and
+short swords and rapers and things
+medium is you know broadswords and
+morning stars and meses uh slow is your
+big two-handed weapons your you know
+your big battle axes and your two-handed
+Spears and things like this missile is
+bows crossbows that sort of thing and
+then Throne is Spears or bottles or
+whatever you want to do then under the
+adventuring skills we've got Athletics
+which is you know your swim your climb
+all that kind of stuff endurance is
+anything that re re uh requires raw
+Constitution to to it's it's often used
+as a resistance skill but not always
+locks and traps fairly self-explanatory
+you want to deal with locks or traps uh
+perception is being able to you know
+perceive things ride is riding any Mount
+typically horses sailboat if you are on
+the water this is a skill you'd use for
+that slight of hand is anything to do
+with uh Leisure domain or palming things
+or doing anything uh uh deceptive with
+your hands physically survival is very
+useful on the road it basically it's
+kind of your your Ranger skill it's
+finding food and shelter in the
+wilderness all that kind of stuff
+stealth is being very quiet right uh
+track again in the wilderness to be able
+to follow tracks this is really useful
+in Journeys as well willpower is exactly
+what it sounds like it's often used as a
+resistance spell against magic and
+certain other effects then we've we've
+got our social skills so we've got
+deceive Insight Inspire intimidate
+perform persuade protocol seduce and wit
+these are all useful in different ways
+depending on the context of the
+situation but they are kind of your
+tactics for use in a social encounter um
+excuse me so deceive is obviously lying
+being
+deceptive uh passing yourself off as
+someone you're not disguise Insight is
+uh your ability to detect LI or your
+ability to just get a sense or a read on
+someone to to get a sense of what their
+what their um uh liked or disliked
+skills are right these are skills that
+um that are are better or worse to use
+on a particular opponent because of
+their demeanor and who they are Inspire
+is you know rousing speeches and pulling
+at the heart Springs intimidate isn't
+just I I'm going to bust your chops it
+it could also be command it could also
+be um uh shaming like reducing someone
+to tears uh there's there's many
+different ways to intimidate people uh
+perform is anything to do with acting or
+dancing or singing or anything like that
+all of this is a really valid thing to
+do especially in a social situation
+right if you're in the court of some
+King and he asks for a song from your
+Homeland perform is the skill you would
+use to do that persuade is obviously
+pretty pretty self-explanatory protocol
+um was once known as manners and it was
+once known as courtesy which is what
+it's modeled from from the one ring uh
+the skill is courtesy but protocol just
+basically means your knowledge of uh uh
+the how to how to cross the teas and Dot
+the eyes how to how to do the correct
+thing in the in the correct circumstance
+so that has kind of a wide range too and
+it's different from persuade or Inspire
+anything because it's about using very
+um uh it's about using very uh specific
+ways of handling things to to different
+people seduce is any sort of sexual
+innuendo or romantic innuendo to someone
+who would be attracted to you and wit is
+anything to do with like witty reparte
+or uh Mak a joke or you know all that
+kind of stuff and I've got I've got
+detailed descriptions of each of these
+skills in in the game so you'll know
+what they are because it is very
+important for everybody to understand
+what these skills do because it's
+possible that someone might think that
+they're doing a persuade when the GM
+might think it's actually an Inspire or
+something so that's why it's important
+that everybody's on the same page about
+these but that's easily done that that's
+like a it's like a session zero thing
+where you basically go through and you
+explain what the game uh means right
+what the terms in the game mean
+uh then we get into the lore skills
+these are anything you know ancient lore
+is anything like history or myth Arcana
+is anything to do specifically with
+magic and and the weave in particular
+Commerce is your knowledge of how to
+turn a profit how to run a business how
+to make your money go further common LS
+is very useful this is just what do I
+know about the general stuff around
+here um craft practical and craft
+artistic these are your crafting skills
+obviously but it's divide it up into
+practical things like smithing or uh
+repairing armor or making arrows or
+stuff like that and then craft artistic
+is anything like uh poetry making a
+sculpture um anything to do with the
+artistic side of things there are many
+ways to break down skills in any game
+this is how I've done it I wanted
+something that is as I said both
+detailed but General at the same time
+because the last thing I wanted was a
+huge giant list of like 150 skills to
+choose from cuz that's just overwhelming
+uh but these they all fit on the a third
+of a page so you can see exactly what
+they are and they handle virtually
+anything you can do in the game Divinity
+is knowledge of the Gods churches
+religions heel is very useful heel is uh
+not just um first aid and treating
+wounds but also uh helping people
+recover from incapacitation and it it
+can also deal with um uh dealing with
+infection so heal is is again
+self-explanatory but it's it's very
+useful naturewise and Street wise these
+are specific knowledges so nature wise
+has anything to do with when you're in
+the wilderness now how does this differ
+from survival uh because naturewise is
+about the lore and specific knowledge
+whereas survival is about the the
+physical activity and the the Practical
+things you need to do so naturewise for
+example would be very useful when you're
+trying to find the right berries to
+concoct a potion that might heal you
+right or prevent disease or something
+like that street wise is similar Street
+wise is knowledge of the street but
+knowledge of like the underworld you
+know getting but it's also like you
+could do Street rise role to sort of
+like get a sense of the word on the
+street with a particular group right uh
+so it's kind of social sometimes but you
+can't really use it in a social you
+can't use it as a social tactic and a
+social encounter but it's more it's more
+for like gathering information right and
+then just there's one here for wise you
+can also add wises as you go this this
+is inspired by The Burning Wheel just
+the idea that if if any point you come
+across a situation where you think oh I
+think I think we really need to have a
+specific knowledge set well that's what
+the wise would be you would say okay
+well in our game dragons are really
+really important okay well then you
+could have dragon wise here right so
+that's it allows you to expand as you
+will then we get into the magic skills
+so binds and strands are what the spell
+Weavers use I've talked about this in
+the magic video before but essentially
+it's a noun and a verb you put them
+together and that'll give you a chance
+uh and along with your description
+that'll set a magnitude which is how
+offensive to reality the spell is and
+you fuel the spell with uh uh
+enhancements like range and Target and
+potency and whm which is uh the
+difficulty to resist the spell and all
+of these things and then you roll and
+you might have to spend resolve in order
+to mitigate the weave uh so it's complex
+but not complicated at all um but what
+they are is verbs and nouns so the binds
+are Change conjur Control destroy and
+witness so change is to literally change
+something change the the nature of
+something or change the appearance of
+something conjure is to create to bring
+into being uh control is to literally
+control but control could also mean
+defensive any kind of defensive spells
+like if you're putting up a magical
+Shield or something like that which
+would be a fairly High magnitude spell
+actually that would be a control spell
+uh destroy is to to cause damage to to
+destroy witness is perception I perceive
+I see I know I divine right that's what
+witness is then we get into the strands
+air is anything to do with well you know
+the air it also has to do with uh I
+forget exactly what I said and I don't
+have my book open now but uh Beast is
+animals body is anything to do with a
+human body typically the humanoid body
+the player character body typically uh
+and then you've got Earth um and fire
+fire also deals with light and it also
+can deal with strong emotions as well uh
+plants has anything to do in the natural
+world plants trees herbs all that kind
+of stuff spheres is raw magic spheres is
+is is the dimensions The Plains of
+existence raw magic uh spheres is what
+you use if you're summoning something
+from a different world like summoning a
+demon which you can do and really bad
+idea but you could do it through spheres
+you could also use spheres to create a
+magic Missile if you wanted but again
+that's a very high magnitude spell so
+you're inviting a lot of weave backlash
+when you do that but you can do it
+spirit is the soul the undead uh
+anything to do with that thought is
+anything to do with the mind or
+imagination or illusion or that sort of
+thing and water is is one of the other
+elements as well so those are the skills
+oh and then we've got piy so Pi is an
+interesting skill only God bounds have
+pety and pety is all about uh Devotion
+to a god um py changes it is the only
+skill that changes regularly through use
+uh that's why we have starting here
+instead of total because when you make
+your character the only score you know
+is the starting score once you start
+playing you don't really know what your
+p is I mean you can kind of track it a
+bit when you roll because you'll know
+how much piy it's costing you but you're
+never really going to know how much piy
+you're gaining back from performing acts
+of service to your God which is how you
+get py back so it's an inducement for
+cleric characters to be always trying to
+work towards their God's aims and
+helping the church in the aims of the
+God because that will give them piy
+behind the scenes uh but otherwise it
+works similarly to how weave magic does
+basically the the godbound asks for a
+miracle and then he you know he or she
+puts together the miracle cost kind of
+like a spell Weaver wood um and then the
+pide is rolled and based on the outcome
+of that rooll we'll determine whether or
+not the miracle is granted and if so how
+much P has gained or lost from that role
+so that's how that works uh initiative
+down here I think I've explained this in
+certainly in the Me Myself and die
+season 4 episodes towards the end
+enemies have static initiative but
+players role and it is every round but
+it is a die type D4 D6 d8 d10 D12 and
+right now the standard enemy initiative
+is four which means that if you start as
+a starting character with a D4
+initiative and you don't improve that
+when you're making your character then
+you're only going to go before the enemy
+25% of the time because PCS break ties
+okay
+so um initiative is important as we've
+discovered uh you can also seize
+initiative by use of resolve which we're
+going to get in a second but uh yeah
+that's how initiative Works uh different
+as I said the average is four but
+enemies can range anywhere from like 2
+to 8 and if you're talking initiative 8
+you're talking like a preter naturally
+fast thing that's almost impossible to
+to go before they're rare thankfully
+okay then we have resolve and fatigue so
+the resolve track is uh how you track
+your resolve and what is resolve resolve
+is your inner resolve that's the name uh
+it's your inner sense of strength it's
+your will to go on it's all that kind of
+stuff and you use it to affect roles in
+the game you cannot use it to reroll
+that is an old idea which has since been
+jettisoned but you can use it to seize
+the initiative you can use it to uh give
+yourself
+um uh give yourself favor and favor is
+basically uh you can use it either
+before the role or after the role so if
+I had a skill of 40 and I wanted to
+spend resolve to make that role better I
+could do it before the rooll or after Ro
+if I do it before the roll I could spend
+up to three points in total by the way
+of of resolve or favor on this skill so
+if I have get a scale of 40 and I want
+to I want to bump it up because right
+now I'm going to succeed less than half
+the time it's less than 50 and I might
+say well you know what I'm going to
+spend two points a resolve to get it up
+to 60 for this one roll okay you would
+do it and then you would Mark a slash in
+that box there um because this tracks
+your resolve and your your max resolve
+would be blacked out over here so you
+you know you wouldn't have any more
+boxes than you have access to basically
+um but when you do that great so you get
+plus 20 to the rooll and then let's say
+you succeed let's say you're old 17 well
+that's one SL it's not great you
+succeeded but it's only one SL and if
+it's an opposed role that might be
+important so you could at that point
+spend your third point of resolve if you
+wanted because remember you can spend up
+to three in order to increase that by
+another SL right you have lots of
+opportunities there lots of options uh
+you don't have to do it at all if you've
+got a great skill and you're all great
+you don't have to spend result it all
+but you do have that option now resolve
+is precious it doesn't just immediately
+bounce back with a short rest or
+anything like that so you have to be
+careful about how you use it um resolve
+is hugely important for spell Weavers
+because what they use resolve for is to
+cover the spread between the SL cost of
+the spell that they are casting and the
+SLS that they have achieved through
+their role and through magical devices
+called threads and through any expertise
+they have um they don't have to spend
+resolve to make a successful spell you
+know uh uh go CU as long as you roll
+into your skill it will work but the
+real question is what is the quality of
+your success because that will determine
+what kind of role you're making on the
+weave reaction table so that's why
+resolve is really important for
+spellcasters fatigue is what you take on
+the road and fatigue eats into your um
+total resolve so travel is tiring and
+how that is reflected is by eating into
+your max resolve so the more res the
+more fatigue you take the less resolve
+you will have access to um so you kind
+of get it from both ends if you're not
+careful you could get fatigue coming in
+from from this side of the track and you
+could have spent resolve coming in from
+that side of the track so uh that's why
+it's very important on a journey
+especially to be looking for places for
+of Refuge places of respit where you can
+try and get some resolve back and that's
+built into the journey system as well uh
+then we've got these so these are
+attributes well we do not have stats but
+we have attributes and these attributes
+are Max resolve which is the maximum
+amount of resolve you have access to uh
+which you teric character creation
+toughness is the bonus you add to your
+wound die or death die when you roll so
+when you take a hit basically the
+immediate outcome of that hit could be
+the incapacitation of that location that
+got hit and if you have toughness you're
+going to add that to that d10 wound die
+because if you roll the total amount of
+wounds in that location or less then
+that location is in capacitated so
+toughness if you got a toughness of two
+let's say basically what that means in a
+location you can take two points worth
+of wounds and not really have to worry
+about incapacitation but as soon as you
+get over that then it becomes an issue
+and the same thing with the death die
+the death die is if you if you have
+wounds over your lethality level which
+is here now you're in danger of dying
+from that and toughness helps with that
+as well recovery every wound is tracked
+separately which we will see here you
+can see on the hit location chart here
+uh every wound is tracked separately and
+every wound recovers at a different rate
+based on how it is treated how it is
+healed or if it is treated at all some
+wounds aren't uh your recovery is your
+base recovery for all wounds everybody I
+think starts at the 30 and then you can
+bump that up in character creation and
+you can bump that up as you go along as
+well and a really good heal treatment to
+a wound will set a a wound with a better
+bonus also if you're place if you're
+recovering in a in a clean quiet place
+that's going to help if you're trying to
+recover in a terrible dank dungeon
+that's going to be a penalty to and and
+the real issue with recovery is that if
+you ever fumble a roll a recovery rooll
+that wound becomes infected and that
+becomes a whole other problem then we've
+got encumbered threshold this is how
+much encumbrance you can carry before it
+starts to eat into your max resolve
+that's what that is there's also a total
+amount of encumbrance you can carry
+period right you can't carry the world
+um and then total encumbrance is the
+encumberance points that you have
+staggered threshold and staggered
+staggered means um this is kind of the
+death by Thousand Cuts so
+essentially if you take more than 10
+wound points in any location you're now
+staggered and staggered is minus 20 to
+everything you do and minus one
+initiative die type to a minimum of D4
+so it's bad uh it's as I said it's Death
+By A Thousand Cuts as soon as you heal
+some points back down uh past that
+threshold you're no longer staggered
+you're fine um we've got injury here you
+you you track your total wound points uh
+mostly for the staggered condition to to
+to break in and and then if infection
+sets in you need to track how many days
+since uh have passed since any infection
+has set in but there's easy ways to do
+that um okay then we have an area for
+talents and talents are very specific
+they're kind of like Feats in other
+games right uh I can do this very
+specific thing in this circumstance to
+make me good at this kind of thing so
+that's and there's there's a bunch of
+them there's a whole bunch of them um
+armor penalties I'll come back to armor
+penalties in a second let's look at the
+hit location table here so the basic hit
+location uh this is your ones die so
+when you get hit if somebody bests you
+in a combat round and they hit you the
+ones die of that role is going to
+determine the general location so if
+it's a six it's going to be the right
+arm 1 to five is the body 10 is the head
+okay now um there's also detailed
+locations which I just realized are not
+on this page see there's I'm glad we did
+this because that's something that got
+left out uh there is on my on my um
+non-fancy character sheet right beside
+this is also a subtable that just lists
+detail location so for example in the
+body there would be a subtable that's
+between 1 and 10 uh of chest stomach or
+groin right so that is not mechanically
+necessary but it's really cool to mark
+that as as a wound so for example if I
+take a puncture in the body yeah I could
+mark it as a puncture in the three-point
+puncture in the body but that's not as
+cool as saying a three-point P puncture
+in the stomach or God forbid the groin
+so I'll have to talk to my guys to make
+sure that that little T gets added in
+here somewhere to make it all nice and
+clean see I'm glad I did this video cuz
+I I didn't even notice that before that
+that was missing so good um so this is
+your hit location chart uh there is a
+combat maneuver you can have uh you can
+earn called choose location in which
+case if you are successful and you've
+earned enough SLS based on the weapon
+you have you can choose whatever
+location you want so just because the
+head is zero um doesn't mean you'll
+never crit in the head I a lot of people
+have pointed that out they're like well
+wait a minute if the head is zero you
+never a crit in the head well first of
+all that's not true uh because if you
+have a skill of 30 and you roll a 30
+that is a critical success so head shot
+is uh is is there but that's still like
+one a 1% chance um but you can you can
+choose location to get to the head if
+you want right and again that's not
+always the best thing to do most smart
+people wear helmets and so hitting
+someone in the head is not always
+necessarily the best thing to do if they
+have a shield you're going to want to
+get around that Shield you can want to
+circumvent Shield maybe depends many
+many different combat tactics based on
+the enemy and the circumstances but here
+we have an incapacitation area this is
+just if that location is incapacitated
+you just check that so you know it's
+incapacitated this is your lethality
+level that's the number of uh wound
+points you can take in that location
+before it becomes at risk of killing you
+this is the type of armor you have the
+armor points which is uh the the value
+that uh uh gets reduced um it it helps
+reduce incoming damage encumberance is
+the encumberance value of that piece of
+armor and sundered you check that if you
+have sundered the armor that is a
+special thing you can do if you're about
+to take a wound you can choose to Su
+that armor which destroys the armor but
+you don't take the wound it's sort of a
+last ditch attemp um to to save yourself
+and is a little little nod to the
+narrativist out there this is Sim light
+after all and then you've got the wound
+section here you record each wound
+individually I think we're going to need
+more in the body section too because I
+suspect three won't be enough but that's
+okay we will do that wound WP is wound
+points that's the value of the wound and
+RB is the recovery bonus as I said every
+wound recovers individually
+um at the end of the day basically so uh
+do you have a situation where you've got
+five wounds and you have to make five
+rolls at the end of every day to see if
+it recovers yes that can happen and it's
+also very tense because as I said if you
+critically fail a recovery bonus that
+location's wound becomes infected which
+is a big deal so it sounds tedious but
+it's actually tense so I quite like it
+and it doesn't take any time at all it's
+just a quick bookkeeping thing boom boom
+boom again we fall in the simul
+simulation side of things with this game
+so there is going to be things like that
+that's what you get that's what I always
+talk about the difference between speed
+of play and detailer resolution as soon
+as you move towards detailer resolution
+you lose a little speed of play but for
+me what we get out of that is so worth
+it because I love the idea that each of
+these wounds are a real present threat a
+clear and present danger to each person
+armor gives you penalties as well as
+encumbers you um the specific penalties
+depend on the type of armor and where
+you wear it but they could affect your
+Athletics your Dodge your endurance
+perception slight of hand and stealth uh
+this is just a section for Shields um
+the size of it will determine the AP the
+armor points of it and the encumbrance
+of The Shield as well Shields are great
+because they provide armor points to
+everywhere in your body um so they're
+really really really useful but they
+could be circumvented uh as a combat
+maneuver and then we get down here the
+weapons so the weapons have a name and a
+type which is based on what kind of type
+they are Med Fast medium or slow then we
+have your percentage of attack and Parry
+the reason why it's divied up is because
+uh Shields um often give you uh bonus to
+Perry as well so if I have a broadword
+and a shield my attack let's say my
+broadword skill is 50 I would put 50 in
+here but if I if my shield gives me plus
+10 to Parry I'm just going to put plus
+10 to Perry there so I'm going to put 60
+there just so I can see at a glance
+right when I'm pairing with my sword and
+shield it's actually 60 instead of 50 I
+like to have things um duplicated in
+parts of the the page just to make it
+easy to reference and to remember that
+oh yeah right don't forget this don't
+forget you've got a shield right this is
+the base damage the weapon does and then
+here these four things are the combat
+maneuver costs of the weapon choose
+location I've already described CS is
+circumvent Shield to get around
+someone's Shield dis is disarm you have
+to hit someone in the arm in order to
+use that and T is trip you have to hit
+someone in the leg to use that different
+weapons have different cost for these
+the smaller and faster the weap excuse
+me the smaller and faster the weapon the
+cheaper the choose location and
+circumvent Shields are but the more
+expensive the disarm well I shouldn't
+say disarm and trip some some weapons
+are really good at disarming like rapers
+are really good at disarming but worse
+at tripping people you know that kind of
+stuff so that's how those weapons are
+balanced each weapon has an encumbrance
+and some weapons have reach and reach
+just basically means it it's between one
+and three most of the time it's going to
+be one like if you've got a spear and
+shield kind of thing you've got to reach
+one which does two things it gives you
+uh a plus 10
+for each point you have against the
+enemy's reach so if I've got a spear
+against a guy with a sword who has no
+reach I get plus 10 to my combat skills
+against him right both attack and and
+defense um because I have that reach um
+also if I have reach on someone when
+they charge me I get a free attack at
+them before they come in so it's kind of
+good to have reach weapons uh but yeah
+all right uh and then notes for anything
+specific to that uh combat maneuvers not
+the these are not all the combat
+Maneuvers we have in the game there are
+more there are
+um I can't I'm so tired uh there's
+there's there's uh unbalanced there's
+drive back there's uh uh bypass armor if
+you get a critical there's repost
+there's disengage and I think that's it
+um and they all have a cost too as well
+so that is page one of the character
+sheet with a few things missing my new
+little um
+stat-based character descriptors up here
+and of course the detailed hit locations
+are missing there as well but on page
+two which is a flip side and we do have
+a pack of these character sheets in uh
+included in the starter sets goals goals
+are how you increase your character this
+is how you get better at things there
+are short-term long-term and shared
+group goals by pursuing and completing
+these you get experience uh we had to
+put languages on the back right now
+because we couldn't figure out how to
+fit them in to the front but languages
+are lore skills languages are important
+if you are talking to different uh races
+or if you're talking to different
+cultures each culture has a different
+language um there is the common tongue
+of course because that's a fantasy Trope
+and it's just very very convenient to
+have that so there is a common tongue
+but you also will be skilled and trained
+in your own language too and it's it's
+important uh for various specific
+circumstances too like if you are uh
+doing a ritual and you're trying to I
+don't know affect you're trying to
+affect someone on the other side of the
+Kingdom well you could have an Arcane
+tether to them you you have to have an
+Arcane tether to them in order to do
+that but their true name could be that
+Arcane tether however you have to speak
+that name in their native language so
+there's little things like that fraying
+are fraying points that are really only
+of concern to spell Weavers uh it's a
+it's a serious concern to spell Weavers
+and many spell Weavers have spent
+lifetimes trying to see if there's any
+way to reduce fraying but no one has yet
+been successful and then life events
+this is an important thing in character
+creation uh everyone has an origin a
+youth and recent life event these give
+you certain bonuses to skills but also
+give you little moments that have
+happened in your life which serve to
+help um not only tie the party together
+but also to provide certain goals for
+you as well uh if you choose to do that
+rituals and prices so um I'm not going
+to get too much of the Weeds about this
+other than to say that when you cast a
+ritual um there's always an Associated
+price and uh there's there's a weave
+reaction that's called Advance the timer
+and every time you Advance the timer as
+a weave reaction that means you your one
+of your rituals or many of your rituals
+perhaps get closer and closer to paying
+the price of that ritual so rituals are
+very much delayed payment uh kinds of
+spells they're big powerful incredibly
+like these are the kind of spells you
+could uh you could cause a tital wave to
+try and um swamp a a town like happened
+in season one that is a ritual but the
+price of that is going to be just
+extraordinary so so it's interesting um
+and then resources here we've got Supply
+dice gear ammo and medical these are
+taken from games like forbidden lands um
+this is by far uh um the gear supply die
+and the wealth uh thing here this is by
+far the most um non simulationist thing
+in the game uh gear is abstracted the
+way it works is you've got a gear die
+and it takes up two encumbrance points
+but it possesses whatever you would have
+reasonably whatever this character would
+have but every time you produce
+something from your gear you have to
+roll that die and if you get a one or
+two it reduces so that you might not
+have something next time right um or or
+rather once you get down to D6 and you
+you roll a one or two that's it your
+your backpack is empty so it is very
+very anti- simulationist but it is a a
+thing that I really like from these
+other games and it just adds tension as
+opposed to writing down yes I've got
+pittens or pitons and and and a hammer
+and chalk and rope it's assumed you have
+anything that your character would have
+but you have to roll after you procure
+it to see if that's affected your it
+just adds a cool little gamey aspect to
+it that I really like uh that's why it's
+in there wealth as well I'd really I'm
+still going back and forth on this one
+about wealth uh there's a really cool
+wealth system we've designed that is
+anti- simulationist it absolutely is
+it's very very handwavy it's very it's
+very close to something like Burning
+Wheel would do but it works and it it
+abstracts wealth while allowing
+characters to be very wealthy without
+having to count how many platinum coins
+they've got in their pockets right um I
+I quite like it because wealth basically
+abstracts the idea of not only physical
+wealth but also your reputation and your
+word you know someone who is wealthy
+it's not because they're carrying around
+big bags of gold and that's in any time
+period in any world basically uh it it
+means they have access and they have
+connections and they have their word
+that's what credit is right I promise
+that I will pay this back with a little
+that's wealth right uh or or having
+Investments that are are valuable that's
+wealth but I'm not carrying my
+investment certificates around with me
+so wealth is kind of neat because it it
+takes into into play kind of reputation
+as well um we're still playing with it
+uh it it's cool we're working it we're
+working it we're the game the game still
+under in development but this is an idea
+of an anti- simulationist thing that I
+like and I haven't 100% decided if it
+works or not yet but with the rest of
+the game so far so good but we'll see
+then you've got items just in case you
+do have separate items that have to be
+called out from your gear and your
+weapons and armor that's where they
+would go and they have incurance points
+and then notes just general notes so
+that my friends is the character sheet
+as it exists right now as I said we are
+still developing it the rules are still
+being finessed so things will change uh
+including the couple things that I
+noticed on this character sheet just
+doing this video so that's what it looks
+like um if you have any questions by all
+means you can write them uh on the uh
+the comment section in the kickstar
+starter or um uh or I will try and get
+back to you or one of my team will try
+and get back to you we are doing very
+very well right now I think we may have
+just broken The Pledge amount for the VT
+Let me refresh my Kickstarter page here
+I this is 229 on October the 8th and oh
+oh my God we are $48 away as I record
+this video we are $48 away from
+unlocking the VT Foundry integration so
+get out there and you know know buy a
+cloth
+map or something anyway that's it for me
+for right now um I hope that uh you
+enjoyed that and that it was useful to
+you I know that character sheets are
+really important for people to get a
+sense of the game so I hope that that
+answers some questions and uh makes you
+excited to play certainly I am all right
+thank you and I will see you on next
+time

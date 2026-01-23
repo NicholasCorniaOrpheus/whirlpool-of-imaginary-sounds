@@ -1,0 +1,1766 @@
+[Music]
+Welcome to Dyson Mind, a podcast hosted
+by Brad Brown and Jason Kaufman to
+explore the intersection of life, games,
+science, science, music, philosophy, and
+creativity through interviews with
+leading creatives. All are welcome in
+this space.
+[Music]
+I've gotten used to, actually, let me
+rephrase that. Um, over 30 years, um,
+>> here it comes.
+>> I've really never
+No, I'm gonna try that one more time.
+Very rarely, very rarely do I feel
+um
+inferior when having conversations with
+you. Um
+>> even even Well, no, no, there are a lot
+of topics where I mean there's a lot of
+topics where you have you you're you're
+you have an educational background and
+everything like that in areas that that
+obviously um you know, psychology,
+leadership areas where where you've done
+enormous amounts of research and study
+and things like that. This really was
+starting to be a joke, but now it became
+serious.
+>> Yeah, you're really
+>> This really back This really backfired.
+>> It's already hilarious.
+>> Oh, really? Sorry. Um well well
+ultimately point you know my point being
+is is that is that our guest here this
+is this is a gentleman where when we get
+him on here I'm just I'm almost a little
+bit starruck whenever we when we when we
+had him on the last time just because of
+just how intelligent he is and and
+um in talking about his background and
+his expertise
+and um the stories he had on his
+research and his history and everything
+like that. So yeah,
+>> when you had mentioned um
+>> an article that had been in nature and
+had reached out to see if he would join
+us again,
+>> um I was actually excited again. And
+then I then, you know, I had to like
+>> I had to do a little bit of research
+just to make sure that I didn't sound
+like I used the term before we hit
+record to sound so I didn't sound like a
+complete ignoramus. Yes. um when so that
+when he joins us here shortly um I can
+actually contribute at least a little
+bit to the conversation. So
+>> well that's that's fair. Um no I I hear
+you. So uh to demystify this for
+everyone else. We uh are welcoming
+returning guest Dr. Michael Wong to
+Dyson Mind. Uh Mike's been kind enough
+to chat with us before about um about
+writing, about his research, about about
+astrobiology and planetary science, you
+know, all topics we love and are very
+adjacent to many of the games we love.
+Uh I agree. I mean, I've been fortunate
+to write a little bit to do a little bit
+of research, but I am as an academic a
+complete poser compared to someone like
+Mike who's really quite the Renaissance
+man. And so Mike uh and his his
+colleagues uh published a paper in
+nature as you said this this past July
+>> and uh for those of you listening who
+aren't familiar with nature nature is
+one of the major scientific journals on
+the planet. It's it's it's easily in the
+top four. Easily. And so getting
+anything in there is a big deal. But
+that not in and of itself.
+>> You don't have to be I mean I'm not
+>> Yeah,
+>> I'm not a scientist. I'm I live in a
+different world and I know
+>> that nature's
+but a lot of people don't. But but a lot
+of people I mean you're knowledgeable. A
+lot of people would have no way of
+knowing that. But we want to make the
+point that this was in nature. Now
+nature as a journal that in and of
+itself does not impress me. What
+impresses me is that Mike and his team
+published an article titled How to Chart
+a Moral Future for Space Exploration.
+And I thought, okay, that's so
+wonderfully adjacent to many of the
+games we love to think about playing.
+And to
+>> as I look at my shelf, Traveler
+or shelves of Traveler,
+>> Traveler, Star Trek, Star Wars,
+what else? paranoia.
+Uh I mean the list goes on on and on. Um
+uh uh yeah, modern age. I mean it's a
+long list people. But but this is so so
+interesting. And because it's so um that
+article was so relevant to some of my
+own scholarship, I thought, okay, this
+would be fun to talk about with Mike.
+But it would be really neat through the
+lens of science fiction because Mike is
+wonderfully steeped in sci-fi. through
+the lens of science fiction and how that
+is adjacent to role playing games,
+sci-fi role playing games even and
+especially rights is lit. It would be
+neat to talk about this with him. Um now
+uh the article is behind a firewall or a
+payw wall I should say with nature cuz
+that's just how they roll. Um but but if
+you can get your hands on it, it's it's
+worth reading. It's really quite
+aerodite. It's very philosophically
+sound, but it's neat. It's really cool.
+I think that in 2025 when so many
+problems have beset the world,
+especially the United States, that there
+are people publishing really neat ideas,
+putting ethics and forethought first,
+not just about what should we do here
+now at home, but okay, uh, as humanity
+inevitably moves out into the solar
+system and beyond, you know, how do we
+want to do it?
+I just like the fact that people are
+still thinking about a moral future,
+especially these days. I hate and
+without getting into politics, let's
+just leave it at that. But
+>> maybe we'll do better with the next
+planet.
+>> Yeah. Yeah. Yes. Um Yeah. I said that a
+little too
+>> Yes.
+>> Yeah.
+>> Yes. Um but yeah, I So, you know, I
+think you know, it's been a while. I
+can't remember the la I can't remember
+and I don't have it up when we had Mike
+on the last time, but um or when you
+visited Mike's podcast. I know you were
+on his podcast.
+>> Well, I mean we had we had Mike not so
+long ago. Um I mean that's the that's
+the funny thing. So, you know, he's been
+on um well well we we had Okay, so we
+had my gun and then we played a a rerun
+uh of our talk with him and that was
+just this past July. But last time we
+actually had him on, right, was was a
+couple years ago actually,
+>> right? And I've been on his podcast once
+before and that was a lot of fun. But um
+no, but so it's bringing him back and
+bringing him back for this kind of
+reason. This is this is pretty neat to
+see thinking like this, you know, you
+don't have to be a scientist. You don't
+have to be a scholar. You don't have to
+have any interest in research. which I
+don't know why you wouldn't, but you
+don't have to to appreciate this is
+relevant to a lot of the games we play,
+a lot of the things that many of us who
+are involved with RPGs directly or
+indirectly talk about and think about.
+And so to see it like percolate into
+circles where maybe this can affect
+policy, maybe this can affect the
+future, that's really neat.
+>> Yeah, absolutely it does.
+[Music]
+Dr. Michael Wong is an NHFP Sean
+post-doal fellow at Carnegie Scienc's
+Earth and Planets Laboratory working
+with Robert M. Hazen and others. His
+primary scientific interests are
+planetary atmospheres, habitability, bio
+signatures, and the emergence of life.
+He is also co-authoring a revised
+edition of the textbook astrobiology and
+multidisciplinary approach with
+professor Jonathan Lunine. His other
+passions include photography, writing,
+public speaking, graphic design, and
+playing a variety of team sports. He
+hosts a podcast called Strange New
+Worlds, which examines science,
+technology, and culture through the lens
+of Star Trek.
+[Music]
+All right. Well, Mike, thanks so much
+for coming back. Um, we know we want to
+talk to you, but how you doing?
+>> Uh, I'm so good. I'm really pleased to
+be back on the podcast. It's good to see
+you again, Jason and Brad.
+>> Yeah. No, thank you. So good to see you.
+So,
+>> it's been it's been way too long. We
+should have had you on earlier, so we
+apologize for that.
+>> Yeah. Thanks for being our most recent
+rerun as well.
+>> Yeah, sure. Yeah, of course.
+>> We know we went back through and and we
+just didn't have that. That was what
+early midsummer Brad um we were both
+busy. I was traveling and it was like,
+okay, so what what can we run in a pinch
+that we really enjoyed and that had a
+lot of listeners? was like, "Oh, we
+know." Um, so, so Mike, I keep seeing
+you on PBS, which I got to say, wow. Um,
+I I'm really I got to say I'm really I'm
+really impressed. Like, you keep popping
+up in all of these pop and public
+science venues.
+>> Um, so, so I obviously you've got at
+least two different career paths you
+could choose here, but that's that's not
+why we we brought you on. So, this is a
+little a little actually this is fairly
+adjacent for for Dyson Mine, but you
+know, like you've been on before and you
+know, we we like to riff about stuff and
+we're big into RPGs and sci-fi and all
+that as lit, but once in a while we like
+to dabble on the sides and uh I saw your
+paper in nature,
+>> right, with your colleagues on how to
+chart a moral future for space
+exploration.
+>> And I thought, yeah, I mean, look at the
+grin. I thought, okay, like like we know
+that like we know that you are this
+rarity of really a Renaissance man or a
+Renaissance individual, right? you look
+at your at your corpus of scholarship,
+both journals and beyond, and it's like
+you're a really dynamic thinker, but
+this one really caught our attention and
+and beyond just being a fun read and
+really interesting. You know, so much of
+what we talk about on the podcast is
+relevant to or informed by not just Star
+Trek, of course, or Star Wars or
+fantasy, but like sci-fi themes and
+tropes. And so seeing what I think is
+easily one of the first papers out there
+arguing for ethics
+in space exploration,
+right? Uh a very I mean it's a it's a
+quick paper, not a quick read. It's a
+short paper, but but it's quite
+comprehensive in terms of the scope you
+all went after. And and it's not a
+policy paper. It's legitimately a
+philosophical paper which I read in the
+hopes of informing policy and that stood
+out, right? So, we just want to ask you
+about it cuz this is fascinating and I
+think just exceptionally relevant to a
+lot of the other stuff we talk about and
+we riff about whether it's on the
+podcast or not.
+>> Sure. I'm I'm so glad you brought me on
+to talk about this paper. Um, first of
+all, um, I just want to say thank you
+for, you know, all your kind words. Um,
+the only reason why I pop up on PBS
+every once in a while is because I work
+with Bob Hayen, who has had a long
+career of both doing cutting edge
+science and also being an incredible
+science communicator. And he was on the
+board of PBS Nova for many years and is
+really in steeped in that community. And
+I'm I'm so lucky to be his colleague and
+to get tapped on the shoulder every once
+in a while to appear on a documentary.
+Um, and you know, there there there will
+be more of that coming out. So uh stay
+tuned. Um and then you know with the
+with this philosophical paper about the
+ethical treatment of outer space
+phenomena it once again is really just a
+credit to the amazing colleagues that I
+have. Um this time in particular Chelsea
+Haria, Emily Laflash and Julia Darinis.
+uh we all sort of coalesed at a
+conference um 2023 May 2023 we were all
+at believe it or not a small niche
+conference about oxygen in planetary
+biospheres. So, you know, oxygen is one
+of those molecules that only exists in a
+great abundance in our atmosphere
+because of photosynthetic life. And so,
+we think that it might be a good bio
+signature on worlds afar. And so, we
+there was a dedicated conference just
+about that topic. And the amazing thing
+about astrobiology is that it invites so
+many different voices to the table
+because in order to understand oxygen
+and planetary biospheres, you have to
+understand something about chemistry,
+about atmospheric dynamics, about
+geology, about biology, um about star
+planet interactions, about how to
+observe using a telescope. So astronomy,
+these gases and exoplanet atmospheres,
+and then also for some reason that was
+unapparent to me at the time,
+philosophers as well. That's
+>> And so, um, I was I was so struck that
+there would even be an ethicist at this
+meeting. And the great thing about small
+meetings is that you get to know the
+people there. You get to have lunches
+with them. And and at at some point, I
+think Emily just turned to me and said,
+"We have to write a paper with Chelsea
+and and and Julia." And and so we we you
+know, so um I believe Chelsea gave a
+talk at the meeting about the ethics of
+of SETI um and Medi. So the the ethics
+of searching for extraterrestrial
+intelligence and messaging
+extraterrestrial intelligence, you know,
+the kind of communication that we see in
+Star Trek and Star Wars all the time.
+But I think less thought has gone into
+the ethics of exploring planetary
+environments with microbial life. You
+know what what happens when you find
+microbial life on Mars or Europa or
+Enceladus? what happens? How do you
+choose to treat an environment even if
+it doesn't have any life whatsoever? Um,
+is it still intrinsically valuable? And
+so we decided to, you know, get together
+and have Zoom meetings once every couple
+of weeks for the past couple of years
+and that turned into the paper that you
+all read and enjoyed and um I'm just so
+happy that we get to discuss it today.
+>> Yeah. I got to ask a quick question. um
+as someone who's you know in some of
+these adjacent fields you writing this
+paper great publishing this paper even
+better but this is a philosophical paper
+that's a little bit out there which I
+love you got it in nature
+>> how did you land that was that was was
+that a hard cell during the review
+process
+>> that was so um but again just I think a
+confluence of a lot of luck so for
+audience audience members who aren't in
+academia or science. Nature is one of
+the most prestigious scientific journals
+out there.
+>> And it just so happened that um a former
+like labmate of ours here at Carnegie
+instead of going into you know
+continuing along being a scientist chose
+a career in editing for a nature
+journal. And so through her I got
+plugged into sort of the nature nature
+community and was invited to give a talk
+to uh a bunch of nature editors. So um
+you know these are talks that uh they
+invite because they want to get sort of
+like what they want to know what the
+most exciting research is in a
+particular field. And so I was lucky
+enough to be tapped on the shoulder to
+just give a talk about what I think is
+the most exciting in terms of
+astrobiology. And of course at the end
+of the talk I spoke about for 10 minutes
+about a paper that we uh at that time
+were were still drafting about
+astrobiology ethics. And I thought that
+this is one of the um key frontiers in
+terms of uh thinking about how we
+approach space exploration and even
+advancing ethical knowledge through the
+act of imagining how we would treat
+extraterrestrial life. And that out of
+all the things that I talked about for
+that entire hour was the thing that they
+were like, "Oh, pitch us a paper about
+that please." Um, so, so it was actually
+invited. It was it was I was first
+invited to give a talk and then the
+editor reached out to me and said,
+"Would you like to publish your paper in
+nature?" And I said, "Of of course."
+>> So, so that's how that uh came to pass.
+>> That's really cool. Thanks. Thanks for
+sharing that openly. I think yeah, like
+you said, a lot I mean most of our
+listeners, well, we're we're assuming
+here, but most of our listeners, they're
+not familiar with the joys of the peer
+review process. Um, uh, but but that
+said, um, I think it's always helpful
+to, well, Brad, you would call it how
+the sausage is made, but I think it's
+always helpful to hear about that back
+end of the processes of any of our
+successes because it demystifies that it
+matters. That's cool. Well, I think I
+don't think people understand that that
+you you are pitched to write, you
+research, you write. That's not the end
+of it. I mean, for like, you know, I
+come from the business world, you know,
+there is a whole process after you
+write, like you said, the peer review
+process now. I've been through this
+writing for Jason that, you know,
+writing for and so that was my first
+real experience coming from the business
+world where writing for an writing for
+an academic book. um you know that is a
+whole another step to the process that
+is a tough piece and for those who
+haven't done it before
+um this is you know like I said Jason
+says I use the term in the business
+world how the sausage is made that is
+lot that is a lot of effort um and to to
+get it into nature I don't think people
+are necessarily going to realize the
+amount of effort that it takes to do
+that and even for someone who is very
+very adjacent. I I know I know what what
+nature is in terms of I mean that's like
+the kind of like the Harvard Business
+Review of of of the science worlds. So
+>> um it's very impressive to do that. if
+you don't mind just for I'm going to I'm
+going to ask a very remedial question
+just for the folks that don't
+necessarily understand that um and I
+apologize for it but from a peer review
+perspective when you're doing something
+in nature when you're publishing
+something for nature what was the peer
+review process like for that
+>> good question so this was a nature
+comment article so it was in sort of the
+front matter of the the physical
+journal and um and so for those articles
+because they're not really a scientific
+study, you know, with like data that
+needs to be presented and then argued,
+the interpretation needs to be argued
+for. It wasn't peer-reviewed by other
+scientists. It went through an editorial
+process with the editors of Nature. And
+so they had a lot of comments about you
+know the the way to present these
+arguments and uh did a we we did went
+through several different drafts and uh
+you know our group has been discussing a
+lot of different principles of
+astrobiology ethics and the paper that
+we initially submitted after we were
+invited to to put something into nature
+was quite a bit different in topic
+actually than what eventually came out
+because for one of these commentary
+articles what they said was um it should
+be there to provoke further discussion.
+So you want to put out a bold idea and
+you want to defend that idea, but you
+want to just leave it out there for
+everybody to sort of discuss and
+continue that discussion. And so
+initially we had a lot of, you know,
+we've got philosophers on our team,
+right? Philosophers are often very
+careful about their words and also very
+uh careful about developing their
+thoughts uh in in very you know to be
+honest long- winded kinds of uh uh
+treatises because they like to present
+an argument from somebody else, spend a
+lot of time tearing that apart and then
+present their argument and how it solves
+all of the things that were wrong that
+was wrong with the with the previous
+argument. We couldn't do that in a 2000
+to 3000 nature comment. And so what we
+did was we just threw our ideas out
+there for an updated uh and more
+expansive taxonomy of moral value in the
+cosmos. Gave examples of what those
+things might look like. And then a few
+quick recommendations for the community
+like um you know that scientists and
+philosophers should work together more
+and it should be encouraged within
+academic uh disciplines to to uh to have
+that kind of interdisciplinary
+collaboration and um and that space
+agencies especially should embed more
+philos philosophical and ethical thought
+into uh their practices.
+>> Okay. So toward that end let me just let
+me just read a few sentences. I'm I'm
+hopping around here. I'm just going to
+pull out the ones and this is perfect.
+Thanks for teeing me up like this so
+well. Um, but the ones that stood out
+toward the end to your to your point
+here so that everyone can hear this.
+It's just it's really I mean I'm
+literally I'm not paraphrasing this is
+verbatim but just a few lines that stood
+out to me toward the end to your point
+and I quote, "But decisions must be made
+with ethical goals operating alongside
+scientific, commercial, and political
+goals so that the societal and ethical
+implications of research can keep up
+with the pace of discovery." Love this
+part. philosophical specialists should
+be embedded long-term with active
+scientists and interdisciplinary teams.
+And then the the closing which I love,
+working together across the sciences and
+the humanities, we hope to pave the way
+to a future full of not just discovery
+but also prosperity based on sound moral
+principles, which is so lovely, Mike.
+And you know for those for those not
+versed in environmental ethics or
+environmental policy or commercial space
+law and all that like especially that
+last closing sentence what do you embed
+there? What do you hint at there is
+there's a lot there and it is
+provocative and hopefully it will
+generate a lot of discussion.
+>> Yeah. Yeah. So I think with that last
+sentence um I want because we're
+speaking mostly to a scientific
+readership here, right? We're publishing
+in nature. So scientists are going to
+read this. Scientists obviously have
+their goals and the things that they
+value. Scientific discovery, making new
+breakthroughs, learning more about the
+universe. Other people in space
+exploration, especially on the
+commercial and the political side, have
+different goals. they want to, I don't
+know, make money or get famous or land
+on Mars and build some kind of
+settlement or uh advance national
+interests, things like that. And with
+this article, especially toward the end,
+what we wanted to say is in addition to
+all of those things that we worry about
+when we decide how to act in outer
+space, we should also choose to promote
+ethical values as well. and scientists,
+politicians, and commercial enterprises
+may not without a little bit of nudging
+choose to prioritize ethical values in
+addition to scientific value, national
+prestige, um, commercial output, etc.
+And so that's the kind of thing that we
+want to highlight here with this is that
+if we don't pay attention to scholarly
+research and invite the voices from the
+humanities, from philosophy, from
+ethics, then we're almost certain to
+fail in terms of um uh promoting uh and
+choosing to optimize for ethical value
+in concert with all of these other
+things that we want to glean from outer
+space exploration.
+Can I ask just again I'm the I'm the
+super adjacent guy of the of the three
+of us here. Um
+you know in terms of this type of
+discussion
+um and Jason knows this. I'm big into
+ethics and compassion and empathy you
+know and interjecting that into areas
+like in the business world where it it
+without commentary is severely lacking.
+Um, you know, did you know we've you
+talked about this a little bit, but is
+this topic something that
+is this paper something that really has
+kind of been um kind of a a trailblazer
+in terms of a discussion topic? you
+know, have you has this really been
+something that hasn't really been fully
+discussed before or really at the
+forefront of discussion, you know, in
+terms of tra space travel and
+everything. Do you feel like you've kind
+of like opened a door? And I'm not
+trying to like um
+I'm not trying to make you like toot
+your own horn or anything like that, but
+I'm just trying to, you know, be very
+transparent and say it feels like you
+have you have really like by posting by
+putting this in nature
+>> um really opened a door for something
+that really hasn't really been talked
+about fully.
+>> Yeah. Well, I think you know that is up
+to the rest of the community to decide.
+It's not something that um you know I I
+can speak to immediately right now. I I
+know folks have are interested in you
+know having us speak you know this you
+know coming on this podcast for instance
+to talk about the paper or go to
+conferences to speak about these types
+of things or give seminars about it. Um
+I think one like the the ethical
+treatment of outer space phenomena is
+not a new subject that we you know just
+brought up out of the blue with this
+paper earlier this year. Um but I think
+we do try to do something new in terms
+of uh promoting this expansive taxonomy
+of moral value in outer space. A lot of
+previous thought has gone into trying to
+figure out, okay, is a microbe on Mars
+intrinsically valuable. Like there's
+there's this long-standing um debate and
+philosophy about what entities, what
+objects, what systems are intrinsically
+valuable, which means valuable in and of
+themselves existing just for their own
+sake versus a kind of value called
+instrumental value, which means it is
+valuable because it does something for
+something else. So a great example of
+something that's only instrumentally
+valuable is money all by itself. You
+know, a dollar bill doesn't have any
+value. It only gains its value because
+it is used in humanto human exchanges.
+Whereas a human is definitely
+intrinsically valuable. Just being
+itself is, you know, a source of value.
+And so we see this sort of like
+dichotomy uh between things with
+intrinsic value and things that that
+don't have intrinsic value in like a lot
+of classic thought. And and so people
+have debated, oh, you know, where should
+we draw the line between things with
+intrinsic value and things without, you
+know, some people might draw the line at
+life? You know, anything like a
+bacterium and up sort of has intrinsic
+value. Other people might slide it all
+the way up to like humans because of our
+seemingly unique capacities for rational
+thought and um you know, intelligence,
+whatever that means, and and sociality.
+But I think no matter where you decide
+to draw this line, you're operating on
+sort of like a very one-dimensional
+hierarchy of moral value. But I don't
+know if that's necessarily the way the
+universe is put together with just like
+one sliding scale. Instead, there may be
+many different kinds of attributes that
+can uh contribute to a systems moral
+value. And so that's what we try to
+advocate here through our new taxonomy
+that includes things like relational
+value and systemic value and uniqueness,
+things that um you know in previous
+writing may have been alluded to, but we
+try to really nail it down here in this
+in this taxonomy that we promote.
+And through that lens that allows you to
+see how very different entities can have
+moral value for different reasons. And
+so in our paper, you know, we've got
+this we've got this quote about how it's
+uh you know, often in planetary science
+people will say like Mars is a failed
+planet. Why do we think Mars is a failed
+planet? Well, it's because it doesn't
+have certain attributes that Earth has
+like plate tectonics, active geological
+cycles, an ocean, a thick atmosphere,
+and of course a biosphere that is uh at
+play on its surface. But you know,
+seeing what is special about Earth is
+one thing, but then concluding that just
+because Earth is special um in certain
+ways means that it is the only special
+thing out there is we think a mistake.
+And so just as we don't condemn Earth
+for failing to be a gas giant or a star,
+we shouldn't condemn a gas giant or a
+star or Mars for failing to be like
+Earth. you know, they they can have
+their own moral value, their own
+richness in different ways from the way
+that our planet and our um life on our
+planet exhibits moral value.
+>> Okay. So, I I want to move us in a
+direct in a moment in a direction of
+just riffing for some fun for, you know,
+kind of looking at the future maybe
+maybe just asking together playing with
+what if. But, but before I do that,
+because you ju you went to Mars, so I
+have to I have to ask this.
+I remember here's my here's my
+contextualization for this for picking
+your brain about this. I remember
+I want to say it was 97 don't quote I
+think it was about 97 um you were
+younger Mike but I remember in 97 very
+clearly and readil too that uh I think
+that was when the Allen Hills meteorite
+papers came out. I'm pretty sure it was
+97 I I was
+>> 96 96
+>> it was 96. Okay. I thought I was wrong
+about that. Okay. I had I had literally
+just started grad school. I had like I
+had graduated a couple months before I
+was taking my first grad class to get
+into my masters. Okay. So it right it
+was a transitional time. So okay great
+96 even even even when you were younger.
+Um and you know that that that meteorite
+the the findings which were I mean
+obviously really questionable, right?
+Like how do you how do you really
+with any certainty agree that there's
+life anywhere else when it's technically
+indirect? But whatever it was a
+remarkable
+set of findings no matter what whether
+we found life or not it was a remarkable
+set of findings. Um, you know, President
+Clinton at the time spoke about it from
+the Rose Garden. And I remember driving
+around Milwaukee.
+This is a danceless Brad, but I remember
+driving around Milwaukee listening to
+this on on on uh Wisconsin Public Radio
+as I was like heading to class like my
+god like like I don't want to get my
+hopes up. Okay. And you know, most of
+the evidence in, you know, a couple
+decades of hindsight, oh my god, in a
+few decades of hindsight suggests, wow,
+suggests that, okay, that could have
+been it. It probably wasn't, but it
+could have been. We who knows. But as
+we're recording, and especially since
+we're doing this backwards, so this
+episode's going to drop tomorrow
+anyways. So, as we're recording,
+um, another paper just came out. I
+haven't read it yet. Maybe you have,
+maybe you haven't. um with a lot
+stronger evidence that there there might
+have been microbial ancient we should
+say microbial life on Mars. Something
+that obviously everyone's been wondering
+about. Um as a psychologist I can have
+thoughts just as a generalist scientist
+if you will. You just happen to be an
+astrobiologist, right? So So I'm just
+cur before we kind of riff about the
+future and maybe where this stuff will
+go. I'm curious if we can get your hot
+take if you will. Um, and I'm not not
+asking you like to put this down on
+paper like, oh, see, we're going to come
+back in 5 years and tell you you were
+right or wrong, but like what's your
+sense right now from the evidence? Do
+you have one?
+>> Yeah. So, that's such a good question.
+Wow.
+We're closing in on 30 years since the
+um Allen Hills meteorite discovery. Uh,
+you know, with the uh yeah, the the
+possible forms of microbial life on
+Mars. And just just to touch on that
+before getting to the more recent stuff.
+Yeah. I I remember um like my mom
+showing me uh discovery in the
+newspaper. Yeah. I was like, "Oh my
+god." Like actually that was one of the
+things that I it was one of the first
+times I remember thinking that space was
+really cool and that that was something
+I wanted to do. Um and uh and I feel
+like that that in addition to Star Trek
+was a catalyst for for my and it was
+honestly talking to people in the field
+now a catalyst for the entire field of
+astrobiology. So even though most
+astrobiologists today would say that
+that meteorite does not actually contain
+evidence of past life on Mars, it
+drummed up so much excitement in the
+community that we could be that close to
+actually making a discovery because we
+have the scientific techniques now to
+make these kinds of investigations. And
+so that kicked off, you know, a whole
+line of Mars research that um, you know,
+we sent the Mars Exploration Rover,
+Spirit and Opportunity in the early
+2000s. Then followed by Curiosity, which
+landed on Mars in 2012, a robotic
+geologist to try to identify whether or
+not Mars was actually habitable for
+life. And then when we found yes indeed,
+we sent the Perseverance rover, the Mars
+2020 mission, which is the latest one,
+and it's been actually trying to
+identify the most promising rock samples
+to bring back to Earth so that we can
+analyze um those rocks and try to
+identify signs of life there. So, it's
+probably not going to be able to make a
+definitive detection of life, but
+identify essentially what are called
+possible bios signatures or potential
+bio signatures. Some people call them
+ambiguous bios signatures because they
+on Earth could be indicative of life but
+of course Mars is a different place from
+Earth and there might be different
+geological processes that could result
+in those features as well. So anyway the
+buzz from like two weeks ago
+>> was that the Perseverance rover whose
+mission again is to look for the most
+interesting and promising rocks to bring
+back to Earth for searching for signs of
+life identified one such promising
+outcrop. And uh in in summary, they
+found organic matter. So carbonri matter
+and life as we know it is carbon based.
+Uh no no offense to the horda or
+anything like that, you know, but we're
+we're mostly looking for carbon-based
+life. So finding organics would seem to
+be a prerequisite. Okay, check that box.
+But then more interesting than that is
+that they they found these interesting
+um in in science we call them redox
+states of the minerals in in those
+rocks. And so one thing that life is
+known to do and probably all life in the
+universe will do is influence its
+environment by essentially shuttling
+electrons around. All life especially um
+you know life that lives like microbial
+life that lives within rocks to to make
+a living. They're shuttling electrons
+between different minerals in those
+rocks. And so they change the minology
+in a certain predictable way. And it
+looks like in this rock formation, life
+could have been responsible for the
+kinds of patterns in these redox states
+and these minerals. And so that's what
+makes it so exciting. Is it a slam dunk
+for life? No. But it makes us really
+want to bring that sample back. And if
+you know funding happens and we have the
+willpower to make it so, uh, maybe one
+day we will have that rock sample in our
+laboratories here on Earth to make some
+kind of more definitive statement as to
+whether or not there was ancient
+microbial life on Mars. But as for right
+now, all we have is that very
+tantalizing sign. It's it's still a
+maybe, but it's it's it's great uh it's
+a great leap forward in our search for
+life.
+>> Excellent. Thanks for that. Okay. So,
+with that then let's let's just riff for
+a few minutes if you don't mind. Let's
+go maybe leave the science a bit. Talk a
+little more about sci-fi. Have some fun
+with that because we know you are
+hardcore uh about all of that. So, and I
+I can say I'll just preface by saying
+I'm not I'm I'm not yet not currently
+funded by any federal grants. So, I
+might be able to say a few things
+without fear of repercussion 2025. So,
+put that out there. Um,
+you know, we can look at like let's look
+over like the next century of space
+exploration of space uh robotic uh crude
+etc. of of maybe moving into the solar
+system. Okay. And but we start here at
+home like in the states and
+>> I should preface there there's a new
+game coming out.
+>> There is there's Yeah, that's fair.
+There's a there's a new game coming out,
+a new RPG coming out that is about about
+spreading out amongst the solar system.
+>> Are you are are you familiar um have you
+been following any of the news or the
+upcoming Kickstarter for uh Mongus's
+Pioneer RPG?
+>> No, sorry. I I have
+>> No, no, it's it's we we heard about it
+uh from Matthew Sprange, the their their
+CEO, when we talked with him last week.
+Um, and that was this was a couple years
+ago or close to it about a year ago. A
+year ago, I'm sorry. Um, so I've been
+like
+>> this has been on his mind. I I guess we
+have to preface Michael's that's why
+it's coming up.
+>> But if you Google it, there's a
+Kickstarter coming out. It sounds
+absolutely fascinating. It its lead
+writer is an astronomer. Like they're
+getting serious about this. But but but
+I would be asking this regardless
+because this is like where my mind is.
+And I've been thinking about this a lot
+lately. So
+you know Mars sample return. We have all
+of those amazing samples cashed on the
+surface and honestly at this point no
+leg no real plan actual plan to bring
+them back.
+I mean we know how like it's probably
+going to be done but we don't and we
+know that it's not going to be done
+anytime soon, right? Like that timeline
+has slipped to put it nicely. Uh
+Artemis, which I'm still really excited
+about, right? In Artemis 2, we know
+there aren't going to be Americans on
+the lunar surface, at least until
+Artemis 3. Hopefully, Artemis 3
+continues.
+Meanwhile, like the whole Shanga mission
+design out of China, like they are
+trailblazing like crazy. Like, like in
+right in a handful of years, they've
+basically gone from never been there to
+now almost catching up with us short of
+crude. Like it's it's amazing what China
+is doing, right? And having having their
+station in orbit right now and
+constantly crude like like the landscape
+that's a terrible word to use, but the
+landscape and whatever is shifting.
+India is rapidly develop developing
+technology. Now I don't know if we're
+going to have some kind of of of cold
+war, if you will, where competition will
+once again motivate. But I say all this
+and I apologize for droning, but I say
+all of this because you when it comes to
+policy and ethics and whatnot, looking
+like in the coming years, decades, even
+even um even the the the next century or
+the coming century, like things are
+shifting and it's so relevant to to your
+paper and some of the other work you and
+your colleagues have done that it's
+2025. Let's fast forward to 205 and
+we're all off the record. No one's going
+to lose any funding or be held
+accountable to these these decisions or
+these thoughts. All of which will
+invariably prove incorrect. But like
+2055
+is going to look different in our solar
+system than you know 1975 did
+and and what we know is probably going
+to be just astounding and more wonderful
+than any of us can imagine. But that
+said, things are changing and like each
+of the countries and each of the
+consorcia which are moving out into
+space or hoping to move out into space,
+they have difficult difficult they have
+different ethical moral baselines,
+right? Um they have different goals in
+terms of expansion, in terms of instu
+resource utilization, all of that. So,
+putting on your just playing sci-fi cap,
+mic,
+like what are your thoughts? What are
+your excitements? What are your
+concerns? Like when you look decades and
+decades out, what what like really gets
+you thinking about what's all of this
+going to I know that's a a big cloud,
+but like what's this what's this going
+to look like? Like what stands out to
+you? I have my things, but what stands
+out to you? like looking decades and
+decades and decades to the future.
+>> Wow, Jason,
+I what a question. I mean, I let me just
+preface this by saying that I don't even
+know how to look five years into the
+future. You know, I'm writing these
+faculty applications right now. I'm a
+posttock, right? Um, I'm I'm being asked
+to essentially map out my my future
+years and and decades as a scientist.
+And I have such a hard time doing that.
+Why? Because when I look five years uh
+in the other direction five years ago,
+could I have predicted any of the
+projects that I'm working on right now,
+including astrobiology ethics? No,
+absolutely not. These things happen so
+spontaneously and unpredictably. and
+making predictions about the future is
+something that I am very much still a
+novice at. But um but I'll try to answer
+your question.
+>> Not predictions, just like thoughts,
+quandries, things like that.
+>> Well, I think again one of the things
+that we are very concerned with is the
+rising trend of um commercial space
+enterprises. Now, don't get me wrong.
+Things entities like SpaceX are
+extraordinarily good at what they do in
+terms of building rocketry that reliably
+and reusably, sustainably uh get us into
+space and our access to outer space
+environments has never been has never
+been better. Uh but one thing that I see
+right now that is concerning to me is a
+lack of um realization that NASA and
+SpaceX are very different entities. And
+it's not like, you know, some people
+might be wondering, well, you know, we
+have SpaceX now. Why do our taxpayer
+dollars have to go to continue to fund
+this aging space agency called NASA?
+And, you know, SpaceX, like I said, is
+really good at doing the thing that it
+does, but it is the isn't really the
+reason that we choose to go to space
+right now. you know they they they can
+build rockets but the reason why
+traditionally that we've gone to space
+over the past many decades is for
+knowledge making for curiosity for um
+you know satisfying that itch as an
+exploratory species and understanding
+better our place in the universe that's
+what NASA does NASA build scientific
+instrumentation space probes to explore
+everywhere from the sulfuric acid clouds
+of Venus to the distant you know dwarf
+planet Pluto and unveil these incredible
+uh new environments that help us reflect
+on our own place in the cosmos. Um and
+so so what I see in terms of to use your
+your the word landscape shifting right
+now is prioritizing these commercial
+gains over scientific exploration or not
+even realizing that you know scientific
+exploration is something that uh that
+that we're really good at you know and
+and and
+in in the future if that continues to to
+go then you know we're going to see
+space essentially as a playground for a
+very small subset of humanity
+>> that whose outputs don't necessarily
+raise the sense of awe and wonder and
+community and togetherness and even
+perhaps you know some kind of spiritual
+um feelings about uh who we are. Uh and
+and I I I would rather not see us go to
+Mars just to build, you know, hotels for
+the uber rich um or to plant flags uh
+for for our nation states here on Earth,
+but really to just increase our sense of
+wonder as as humanity. Um and that's
+that's sort of one of the driving forces
+I think behind the reason why we wrote
+the paper that we wrote.
+>> Yeah. I think the challenge, you know,
+coming from the coming from the business
+world, the privatization of space travel
+we have right now versus,
+you know, scientific space travel. I'm
+seeing it and I think this is what
+you're saying and I'm going to say it
+probably in a very simple way. So, um,
+my worry is that from looking at it from
+the business world, there is always a
+challenge. Let me rephrase that. In many
+ways and in a lot of ways, there's
+always a challenge of ethics and
+morality when you introduce that. And my
+worry or concern is that that's going to
+permeate and it already is starting to
+permeate and how is that going to affect
+and that's why I think your paper is so
+important because it's that type of
+discussion is going to abut against and
+it's going to it's going to come up
+against the moving train
+of of the business of space travel. Um
+and without you know and again without
+you know getting into like the
+individual space companies or anything
+like that because you know we could go
+into we could pick a spa we could pick
+those private companies and have a
+discussion about each one of them
+individually right now and we could go
+for hours on it but you know it's not
+always the science of space the science
+that's drive it's not the science that's
+driving them right now. Um,
+>> y
+>> and that's that's a major concern. I
+think there can be a coexistence of that
+and that's just not what's occurring and
+I don't see that unless you the topics
+that your paper has introduced
+continues.
+Um,
+and you know I hate to say it in the
+business world greed drives money
+drives. Um
+>> well I mean then there's a you know if
+it's a corporation there's a
+responsibility legally to shareholders.
+>> Yeah. Well even if it's private even if
+it's private even if it's private the
+greed drives and they it's a it's a
+cycle and ownership group or owner wants
+to make money.
+>> So even if the shareholder is that
+person or a ownership group um and not a
+stockholder. So um you know when when
+your paper came out I thought this is
+going to be interesting and I think it's
+a good discussion to have especially as
+we see this privatization and I hope we
+do not completely yield I you know to
+privatization
+as much as you know I think capitalis
+capitalis you know capitalis capitalism
+is important
+um you know we're on a very slippery
+slope right
+Sorry. I I I ranted and I didn't need to
+do that with you on the on here.
+>> No, it's good.
+>> Well, we all feel it.
+>> I Yeah, we feel it. And yeah, completely
+acknowledge that. Uh Brad, now Jason,
+you sent me a couple of papers that you
+had written a few years ago and I had
+the pleasure of reading through
+recently.
+uh and and and you I one thing I really
+love about you is how optimistic you
+are, how you're always putting a
+positive spin on everything. And so in
+the paper that you titled Artemis and an
+environmentally sustainable future
+beyond Earth, you talk about how
+thinking about and trying to develop
+sustainable futures in space is an
+opportunity to just rethink how we
+interact with nature in general and how
+people can try to learn to develop and
+maintain what you call empathy for
+nature. And I was hoping that you could
+riff a little bit on that a little bit
+more. What what how do you imagine us uh
+developing this greater sense of empathy
+for nature?
+>> I mean, that's that's very kind of you,
+Mike. I I I we we don't have you don't
+have to do that. We don't have to I I'll
+answer the question briefly, but that
+that's very kind of Thank you. We we
+don't have to do that. We we're here to
+talk to you and kick up with you.
+>> Sorry, my my own podcast host snuck in.
+>> No, no, no, no. You're good.
+>> We're going there next. Don't worry. We
+want you to pitch that hard. Um cuz we
+love your podcast. Um no, you know, I
+appreciate that. It's you just have to
+be optimistic. I mean, and and I don't
+mean that
+like I consider myself an optimist by
+default. Anyone who know Yeah, I'm
+getting the look from Brad. Anyone who
+knows me
+>> No, I know you though.
+>> Oh, actually, I was going to say the
+reality is I'm probably not. I I I in
+real in in reality I am what you might
+call an optimistic realist like like I
+had a I had a colleague I had um back in
+the day at a former institution um our
+our STEM dean he was a really neat guy
+uh and and he would and then he went
+into consulting and and he he would tell
+people with this huge grin which was
+legit, I am an inveterate optimist.
+Well, I can't be an inveterate optimist
+in 2025, but I'm also I'm also not right
+because that's not how the cosmos works.
+It's much more nuanced and complex
+complex much like one of your recent
+papers as well. Um, but uh but I think
+you know I'm I'm deeply involved you
+much most of my research is around right
+like nature and its benefits and
+whatnot. And to me like there are real
+opportunities for bringing that with us
+as we go. But even more importantly,
+this is this is personally why your
+paper resonated so strongly with me
+particularly that we are going to be
+encountering these amazing natural
+environments from which we can learn,
+from which we can grow, develop, maybe
+even evolve as a species. And I think
+you you and your colleagues would agree
+with this, but which I would argue
+strongly which require our ethical
+protection, what whatever that ends up
+meaning. And you know, so I've ripped a
+little bit about that in a few papers.
+You guys talk a whole lot about that.
+Um, this has been addressed in a number
+I say a number like less than a dozen,
+right? This has been addressed in a
+number of papers.
+most of them in the past 20 years, most
+of them uh uh policy or philosophical
+often though written by scientists, but
+what I love is kind of like Brad said,
+but you got yours into nature. And so
+this is the first one. I don't mean that
+just as a pat on the back that this is
+maybe the first time a paper in that
+arena
+is not niche
+>> and that's that's important that's a big
+that's a big deal I mean we can we can
+talk more about more about my stuff
+offline I will say though I I find this
+stuff so compelling Brad knows this and
+a little shagrin my wife knows this that
+I think increasingly I want to like even
+professionally go in toward like
+environmental SL space policy like like
+we'll see after my girls get out of
+college. There's a degree program I've
+got my eyes on. Okay. More importantly
+more importantly um you do happen to
+host a podcast
+>> which which we love. Uh it does not come
+out sufficiently frequently but we still
+love it. You you are a busy individual.
+Um, but but but pitch it like a lot of
+our listeners undoubtedly are familiar
+with it, not just from you being on the
+podcast before, but but tell us about
+your podcast and and whatever you want
+them to know.
+>> Yeah, Strange New Worlds, a science and
+Star Trek podcast. Um, basically this is
+something I started a number of years
+ago just as Star Trek Discovery was
+coming out and um, I was listening to a
+bunch of other Star Trek podcasts at the
+time and you know people were talking
+about the characters and the story arcs
+and everything you know including the
+uh, the costumeuming and the set design
+but nobody was talking about the
+science. And so I decided one day to
+just try to fill that niche myself and
+um talk about the science that we were
+seeing on screen, not just in Discovery,
+but across all the different Star Trek
+series. And it's really been a fun
+project of mine. Um just blossomed into
+talking to all sorts of different
+scientist nerds about uh the science of
+Star Trek and uh even some of the folks
+who were on the other side of creating
+Star Trek, you know, some of the actors
+who have portrayed science officers and
+writers and things like that. Um, and
+it's it's been a blast. I do it when I
+have time in my spare time. So, there's
+no regular release schedule as you know.
+Um, if you've been following, um, you
+know, sometimes there can I can go a
+month where I put out four episodes.
+Sometimes there will be two months where
+I don't put out any episodes. And it
+just depends on how busy I am with my
+work. Uh, because I don't want it to
+feel like work. I I want it to just be,
+you know, something that I enjoy doing
+when I have the space in my life to do
+it. Um, and I gotta say, I think the
+next couple of episodes will be inspired
+by this great book that I happen to read
+called Second Star to the Right, Essays
+on Leadership in Star Trek,
+>> which you're familiar.
+>> Yeah. So, I wrote chapter five, and I'm
+really, really, really proud of that.
+Um,
+>> thank you, Jason, and also to your
+colleague Aaron Peterson for inviting me
+to to do that. It was a challenge for me
+because I didn't know what I could
+contribute. But but you believing in me
+helped me craft this story about my
+mentoring philosophy through the lens of
+Star Trek Lower X, which is like
+honestly my favorite Star Trek series.
+It's it's it's really fun. Um and then
+I'm reading through the other chapters
+now that the book has been published and
+I'm thinking about how to spin those
+into um into into some podcast episodes.
+So yeah, you can look forward to that in
+the near future.
+>> Good. And also for those who haven't yet
+been listening to your podcast because
+they should be. Um I mean it's obviously
+you know science and Star Trek podcast
+but like you said I want to double down
+on this it matters. There's a lot more
+than quote just science right that
+brings in a lot of us but like you've
+been doing a lot in terms of um of
+science reporting right you've been
+partnering lately like you have it's not
+just you and it's not even always just
+interviews. There have been a lot of
+dialogues in recent episodes. Um, and I
+think, and I mean this in a really
+complimentary way. It's really, really
+accessible. you you or you guys are
+going after
+>> wonderfully complex things typically
+that are coming out of the episodes,
+>> but then you're breaking them down in a
+very downto-earth way, which um like if
+you as a if you're a gamer, if you're a
+writer, whatever, like people can listen
+to your discussions and because this
+happens to me even though I don't write
+fiction and I just like, oh, neat and
+then I go on with my life. But like if
+you're looking for ways to understand
+some of these concepts, if you're
+looking for ideas, like I can see people
+listening to a bunch of those episodes,
+Mike, and thinking like, "Okay, that's
+the seed. I'm going to go write my thing
+now." Um, so it's very cool. Keep doing
+it.
+>> Wow. Thank you so much. Yeah, that's far
+too kind, but I really appreciate it.
+>> Yeah.
+>> All right. Well,
+>> you don't you don't have to be I was
+just going to say you don't have to be a
+scient I you know, you do not have to be
+a scientist
+>> to listen to it. I'm not your
+traditional scientist and I enjoy
+listening to it. It's, you know, so
+>> you're not even an untraditional
+scientist.
+>> Yeah. And I didn't say and I Yeah. And I
+didn't say it a holiday press last
+night.
+>> That's right. Very good. Yeah.
+>> Um,
+>> so yeah, it's definitely one that, you
+know, put it on your playlist and listen
+to it even if it, you know, even if it
+has nothing to do with Second Star of
+the Right
+>> because there's always Star Trek. Mike,
+thanks so much for coming back. We
+really, we always love talking. It's
+it's really kind of you come back. So
+pleased we could have this discussion
+and talk about your paper.
+>> Oh, thank you both for having me. This
+was a blast and um yeah, looking forward
+to the next time.
+>> You got it.
+[Music]
+>> Mike, thanks again for joining.
+Absolutely fascinating discussion. Um
+and I we say this all the time, but and
+I'm gonna say it again. We cannot wait
+that long to have you back beyond
+reusing you as a as a you know
+>> in person. In person.
+>> Yeah. An actual real as a as an actual
+real guest. So
+>> that's right. Well, yeah. So you you you
+are a real guest. You are not you are
+not a mannequin to us.
+>> Yes. So or an AI as Jim thinks
+>> or an AI. Well, I mean I guess we
+wouldn't know for sure since it was
+Zoom, but we're assuming you were a very
+real person.
+>> I think he I think he was a real person.
+I think so, too.
+>> So, why don't we head over to Lon Cafe?
+>> I think we should.
+>> What about you? What have you what's
+been what has been on your desk or
+>> Well, I can tell you what's been on my
+mind that's someday going to be on my
+desk.
+>> Okay. Oh, I know where you're going.
+>> You know exactly where I'm going with
+this. So, in a bit more than a month as
+this episode drops,
+the Pioneer RPG from our friends at
+Mongoose
+>> Oh, yeah. will be announced or I should
+say the Kickstarter will open for
+Pioneer.
+And I've never been able to say this in
+my life before about a Kickstarter for a
+game, but I will I will
+>> big- time giggity. The giggity and the
+goo. Yeah, I am I'm all over this. I
+ever since ever since Matthew told us of
+it
+a year ago
+>> last almost a year ago
+>> almost a year ago
+uh I am I am so looking forward to this
+if you don't know then you need to step
+out of your vacuum start following
+Mongoose but Pioneer is uh going to be a
+as as we understand it very unlimited
+information I don't have any inside
+knowledge uh I I read the posts on
+social media. I um I I check the Discord
+every week. Um but this will be a near
+future. So over uh uh over the next
+century or so. So figure about a century
+from now. Uh colonizing exploring and
+colonizing the solar system.
+Uh there reportedly are no antagonists,
+right? Instead of combat, combat is
+environmental survival.
+>> Yes.
+>> And this is going to take place, we
+think, across the solar system. So the
+the um the Kickstarter opens
+on 10:30 or if you're in Europe on 3010
+and uh I I cannot wait. This is
+occupying a significant part. I'll sound
+like commander data here. This is
+occupying a significant portion of my
+daily processing. Like, I don't know
+that there's a day that goes by when I
+don't think of it or at least check the
+socials just in case something else was
+posted. I would not be offended if they
+even wanted to just drop another tease.
+Um,
+but it it looks like it was co-written
+by an astrophysicist.
+>> Um, it just it I am so there, Brad. So,
+that's what's that's what's been on my
+mind eventually to be on my desk. How
+about you? What's on your desk?
+>> Well, you know, you know, well, I have a
+new desk.
+>> Yeah, you do.
+>> Um because I moved, but um not so much
+on my desk, but on new bookshelves.
+>> Yes,
+>> because I have been setting up my
+bookshelves.
+>> Yeah, they look good.
+>> And and I have been looking, you know,
+because we have a lot we have a we
+actually are going to be playing. It is
+scheduled as you just
+>> We will be playing. It's scheduled. Yes,
+as you reminded just reminded me it is
+scheduled.
+>> Um
+>> our first and probably only
+actual play episode.
+>> Well, we did try this before, didn't we?
+>> We've talked about this before.
+>> Didn't we do some sort of live play or
+something like this?
+>> I don't think so.
+>> No,
+>> I might be repressing, but I don't think
+so.
+>> Did we did No, we we did uh we did
+expanse, but we didn't do it live. We
+just played, which was fun, but we
+didn't record that.
+>> No. No, we did not we did not record
+that.
+>> But that was fun.
+>> That was fun.
+>> Um I have I I have been organizing my
+shelving
+>> Mhm.
+>> and my books.
+>> Yes.
+>> And realized
+um Yaoza got a lot of them.
+>> I did not appreciate
+I'm using that word really specifically.
+I did not appreciate
+the
+magnitude,
+>> breadth and depth of my Traveler
+collection.
+>> Oh, well, I was going to say just of
+your RPG library as a whole, but your
+Traveler collection in and of itself is
+truly impressive, especially for a guy
+who doesn't play it.
+I gotta tell you though, that stuff I
+have spent um
+>> a lot of money,
+>> multiple Well, yeah, it's probably why
+I'm here. But moving on, moving on.
+>> Um
+>> um but evenings here.
+>> Yeah.
+>> Um I have spent multiple evenings here.
+Turned the TV off.
+>> Oh yeah.
+>> Um just in the past now week and a half.
+>> Yep.
+>> Um going through
+>> Good for you.
+um the Traveler material just again I've
+done it once before um but going through
+it again and just reminding myself why I
+think that is just such
+a cool game
+>> and and they keep publishing I there's
+there's I see the updates there's so
+much coming out for Traveler
+>> I am I I I don't know
+the you know obviously
+You know what what people who what
+traveler what people who are traveler
+experts, longtime traveler players call
+Mongoose Traveler second edition, which
+is what the current edition is out.
+That's what they call,
+>> right?
+>> There are multiple editions that are
+that have run before this going back to
+Mark Miller's original Traveler going
+back to 1977.
+>> I don't know those
+at
+>> well at all. M
+>> um
+what I can say is I don't know where
+they are pulling so much creativity from
+>> like new ideas
+>> to get all of this great material
+into these books whether it's the
+adventures
+>> the you know I'll be honest with you
+when you next time you're down here when
+we pull these up and we pull up and we
+show that you know the maps alone in
+these books are unbelievable.
+>> I I will say cuz the only the only
+traveler material I have are the two
+books you sent me. Some Thank you. Some
+some already two plus years ago, I
+think. Yeah. Right. Um
+>> I'm I am Yeah. When I when I come to
+visit, I am I am very curious to see
+what some of those others look like on
+the inside. Yeah. I really And how
+they're evolving.
+>> Yeah, it it's all high quality. It's all
+high quality material. Mongoose puts
+together just great great material. And
+I've seen, you know, I've seen some of
+their stuff from Paranoia and elsewhere.
+So, it's not just relegated to Traveler,
+but my focus is on is on Traveler. And I
+have their Traveler 2300 as well, which
+is really well done.
+>> Oh, that's interesting. We haven't
+talked about that at all.
+>> Yeah, we haven't. I There's There's just
+I just have a smaller little subset.
+There's not as much material out for
+that.
+>> Right. But right um but just just really
+good stuff. But it just it reminds me as
+I'm going through my shelves, you know.
+>> There's just really good games. I have
+to say Free League
+>> with their material. I was looking at my
+stuff for The One Ring, which is the
+nonfivee,
+not the Lord of the Rings, which is the
+fivee game,
+>> right?
+>> The one ring, which runs on its own dice
+mechanic. That's the one that I have. I
+don't have the
+>> We haven't talked about that in a while.
+No. Um, you know, I had, you know, Tales
+from the Loop, which is phenomenal.
+>> Yeah.
+>> Um, there's just there's so much like
+>> there's so many games to play. I mean,
+that's the it's a wonderful problem to
+have,
+>> right?
+>> There's so many games to play. And now
+that I'm further out in the country and
+if we get some bad weather here on the
+weekends and such, um
+>> like think of winter, this coming
+winter. I think between between you
+being where you are now and me being on
+sbatical this semester.
+>> Yeah.
+>> Uh maybe as as the weather really turns,
+you and I might find some time like
+really we just it I wouldn't be
+surprised in the evenings just
+impromptu. Yep. I wouldn't mind spinning
+up even just saying, you know what, I
+mean, even I pulled together my Genesis
+stuff and put it together. So, I have my
+Worlds of Android right there,
+>> you know. So, um, and I did bring over,
+even though I don't have many others
+with me, I do have my uh, Twilight
+Imperium board game here with me as
+well, even though
+>> there we go. I want to see that in
+action someday.
+>> Yeah, that's an interesting and I mean,
+we've talked about that.
+>> And we still need to play Extraut.
+Yes.
+>> I I mean it's I've got that up on the
+shelf. So, okay. Well,
+>> yes,
+>> we're drifting so we should probably
+start to wrap it. But, um just a heads
+up for everybody. Uh I know we say this
+a lot, but in a burst of scheduling
+fervor.
+>> You were a machine.
+>> I I just I sent out emails and then man
+did people follow up. So we, you know,
+we're we're we're fortunate, I think,
+Brad, that the Dyson Mind brand, uh,
+though small though we might be, word, I
+think, is getting out because at least
+there's enough out there because people
+are like enthusiastically
+responding to chat,
+>> new new guests,
+>> new people. Yeah. Yeah. New new people.
+Um, because there are so many people in
+so many games you and I have been
+talking about um, really since we
+started Dyson Mine. And you know, you
+can only get to them so quickly, of
+course. But I bring this up because, you
+know, it is September now, late late
+September as this drops. Uh we are
+already scheduled through December.
+>> Uh to the point that like we've been
+having trouble scheduling because we
+don't have the available time on our
+end.
+>> Uh which again is a is a a lovely
+problem to have and we are grateful. So,
+you know, everybody, when when we say uh
+stay tuned, we have a whole bunch of
+stuff coming up. Um I'm not sure it's
+ever been more true. We are going to
+hear from game designers, from from, you
+know, internationally known writers. I I
+mean, we're just we have a really really
+fun range of people and creators coming
+your way as we move through the
+remainder of 2025.
+Um, so that's the plan. You know the
+deal. Be well, stay well. We will see
+you in a couple of weeks.
+[Music]

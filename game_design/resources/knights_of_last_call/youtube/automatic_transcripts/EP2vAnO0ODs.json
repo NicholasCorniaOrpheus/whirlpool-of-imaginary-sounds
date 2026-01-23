@@ -1,0 +1,2045 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,240",
+      "end_time": "00:00:04,160",
+      "text": "Hey everyone, welcome to the nights of"
+    },
+    {
+      "start_time": "00:00:02,080",
+      "end_time": "00:00:05,839",
+      "text": "last call. My name is Derek Melinda."
+    },
+    {
+      "start_time": "00:00:04,160",
+      "end_time": "00:00:07,919",
+      "text": "What you're about to watch is a recent"
+    },
+    {
+      "start_time": "00:00:05,839",
+      "end_time": "00:00:10,480",
+      "text": "clip from a Daggerheart live stream"
+    },
+    {
+      "start_time": "00:00:07,919",
+      "end_time": "00:00:12,160",
+      "text": "where we gave advice to firsttime GMs"
+    },
+    {
+      "start_time": "00:00:10,480",
+      "end_time": "00:00:16,000",
+      "text": "who may need a little help with running"
+    },
+    {
+      "start_time": "00:00:12,160",
+      "end_time": "00:00:18,160",
+      "text": "Daggerheart. Enjoy. So our next topic is"
+    },
+    {
+      "start_time": "00:00:16,000",
+      "end_time": "00:00:20,400",
+      "text": "learn and teach your players to love"
+    },
+    {
+      "start_time": "00:00:18,160",
+      "end_time": "00:00:24,080",
+      "text": "fear and failure. This is a situation"
+    },
+    {
+      "start_time": "00:00:20,400",
+      "end_time": "00:00:28,160",
+      "text": "where we have been trained from very"
+    },
+    {
+      "start_time": "00:00:24,080",
+      "end_time": "00:00:31,039",
+      "text": "simulationist concepts to want to avoid"
+    },
+    {
+      "start_time": "00:00:28,160",
+      "end_time": "00:00:33,040",
+      "text": "fail failure at all costs. And quick"
+    },
+    {
+      "start_time": "00:00:31,039",
+      "end_time": "00:00:34,800",
+      "text": "little mini tangent here. Of course we"
+    },
+    {
+      "start_time": "00:00:33,040",
+      "end_time": "00:00:37,600",
+      "text": "have been. And a lot of times people"
+    },
+    {
+      "start_time": "00:00:34,800",
+      "end_time": "00:00:39,440",
+      "text": "think that players minmax because they"
+    },
+    {
+      "start_time": "00:00:37,600",
+      "end_time": "00:00:41,280",
+      "text": "don't want to die or because you know"
+    },
+    {
+      "start_time": "00:00:39,440",
+      "end_time": "00:00:44,399",
+      "text": "they never want to fail. I think that's"
+    },
+    {
+      "start_time": "00:00:41,280",
+      "end_time": "00:00:47,280",
+      "text": "actually not true. I think players don't"
+    },
+    {
+      "start_time": "00:00:44,399",
+      "end_time": "00:00:49,280",
+      "text": "want to let their other PCs their other"
+    },
+    {
+      "start_time": "00:00:47,280",
+      "end_time": "00:00:53,840",
+      "text": "players down."
+    },
+    {
+      "start_time": "00:00:49,280",
+      "end_time": "00:00:56,480",
+      "text": "In most D&D games, when you fail a role,"
+    },
+    {
+      "start_time": "00:00:53,840",
+      "end_time": "00:00:58,559",
+      "text": "it means you are that much closer to"
+    },
+    {
+      "start_time": "00:00:56,480",
+      "end_time": "00:01:03,680",
+      "text": "death. It means that you are that much"
+    },
+    {
+      "start_time": "00:00:58,559",
+      "end_time": "00:01:06,640",
+      "text": "closer to uh, you know, losing. It means"
+    },
+    {
+      "start_time": "00:01:03,680",
+      "end_time": "00:01:09,520",
+      "text": "that you have let the players go, you"
+    },
+    {
+      "start_time": "00:01:06,640",
+      "end_time": "00:01:10,799",
+      "text": "know, you have let the players down."
+    },
+    {
+      "start_time": "00:01:09,520",
+      "end_time": "00:01:14,479",
+      "text": "It also means that if you're playing in"
+    },
+    {
+      "start_time": "00:01:10,799",
+      "end_time": "00:01:16,799",
+      "text": "a combat game, if you miss, in most"
+    },
+    {
+      "start_time": "00:01:14,479",
+      "end_time": "00:01:19,040",
+      "text": "versions of D and D and most versions of"
+    },
+    {
+      "start_time": "00:01:16,799",
+      "end_time": "00:01:20,400",
+      "text": "Pathfinder, uh when you miss, you do you"
+    },
+    {
+      "start_time": "00:01:19,040",
+      "end_time": "00:01:22,240",
+      "text": "don't you do zero damage. Nothing"
+    },
+    {
+      "start_time": "00:01:20,400",
+      "end_time": "00:01:25,040",
+      "text": "happens. So, there's a very strong"
+    },
+    {
+      "start_time": "00:01:22,240",
+      "end_time": "00:01:28,320",
+      "text": "incentive here to want to hit because of"
+    },
+    {
+      "start_time": "00:01:25,040",
+      "end_time": "00:01:31,920",
+      "text": "course you want something to happen."
+    },
+    {
+      "start_time": "00:01:28,320",
+      "end_time": "00:01:35,360",
+      "text": "So, here is my"
+    },
+    {
+      "start_time": "00:01:31,920",
+      "end_time": "00:01:38,960",
+      "text": "radical advice to you."
+    },
+    {
+      "start_time": "00:01:35,360",
+      "end_time": "00:01:41,200",
+      "text": "When you fail in this game, it means"
+    },
+    {
+      "start_time": "00:01:38,960",
+      "end_time": "00:01:44,560",
+      "text": "that your character did not achieve the"
+    },
+    {
+      "start_time": "00:01:41,200",
+      "end_time": "00:01:47,200",
+      "text": "success that they wanted"
+    },
+    {
+      "start_time": "00:01:44,560",
+      "end_time": "00:01:50,399",
+      "text": "and that per the rules of the game, the"
+    },
+    {
+      "start_time": "00:01:47,200",
+      "end_time": "00:01:54,880",
+      "text": "GM can now make a move. And one could"
+    },
+    {
+      "start_time": "00:01:50,399",
+      "end_time": "00:01:58,399",
+      "text": "argue that they can make a hard move."
+    },
+    {
+      "start_time": "00:01:54,880",
+      "end_time": "00:02:01,840",
+      "text": "What I tell you is that sometimes"
+    },
+    {
+      "start_time": "00:01:58,399",
+      "end_time": "00:02:04,000",
+      "text": "even when the players fail,"
+    },
+    {
+      "start_time": "00:02:01,840",
+      "end_time": "00:02:07,119",
+      "text": "that doesn't necessarily mean that you"
+    },
+    {
+      "start_time": "00:02:04,000",
+      "end_time": "00:02:09,920",
+      "text": "should just immediately make a GM move"
+    },
+    {
+      "start_time": "00:02:07,119",
+      "end_time": "00:02:12,160",
+      "text": "like spotlight an adversary that then"
+    },
+    {
+      "start_time": "00:02:09,920",
+      "end_time": "00:02:13,520",
+      "text": "gets them attacked."
+    },
+    {
+      "start_time": "00:02:12,160",
+      "end_time": "00:02:15,680",
+      "text": "Because what they are going to learn"
+    },
+    {
+      "start_time": "00:02:13,520",
+      "end_time": "00:02:18,319",
+      "text": "then is that whenever I make an attack,"
+    },
+    {
+      "start_time": "00:02:15,680",
+      "end_time": "00:02:22,239",
+      "text": "if I roll low, I'm going to not only"
+    },
+    {
+      "start_time": "00:02:18,319",
+      "end_time": "00:02:23,680",
+      "text": "miss and do no damage,"
+    },
+    {
+      "start_time": "00:02:22,239",
+      "end_time": "00:02:26,879",
+      "text": "but then the GM gets to immediately"
+    },
+    {
+      "start_time": "00:02:23,680",
+      "end_time": "00:02:29,120",
+      "text": "attack me. And so there's a strong"
+    },
+    {
+      "start_time": "00:02:26,879",
+      "end_time": "00:02:32,800",
+      "text": "chance here that the players will"
+    },
+    {
+      "start_time": "00:02:29,120",
+      "end_time": "00:02:36,400",
+      "text": "actually feel like failure is worse in"
+    },
+    {
+      "start_time": "00:02:32,800",
+      "end_time": "00:02:38,720",
+      "text": "Daggerheart than it was in Dn D. Because"
+    },
+    {
+      "start_time": "00:02:36,400",
+      "end_time": "00:02:42,000",
+      "text": "in Dn D, they'll say, \"Well, in D and D,"
+    },
+    {
+      "start_time": "00:02:38,720",
+      "end_time": "00:02:45,680",
+      "text": "when I miss, I didn't do anything. and"
+    },
+    {
+      "start_time": "00:02:42,000",
+      "end_time": "00:02:48,480",
+      "text": "then the it was the next person's turn."
+    },
+    {
+      "start_time": "00:02:45,680",
+      "end_time": "00:02:51,519",
+      "text": "That's better than I missed and then the"
+    },
+    {
+      "start_time": "00:02:48,480",
+      "end_time": "00:02:53,440",
+      "text": "GM got to attack me."
+    },
+    {
+      "start_time": "00:02:51,519",
+      "end_time": "00:02:55,920",
+      "text": "Now granted, the monsters don't get an"
+    },
+    {
+      "start_time": "00:02:53,440",
+      "end_time": "00:02:58,800",
+      "text": "initiative order, so they don't go,"
+    },
+    {
+      "start_time": "00:02:55,920",
+      "end_time": "00:03:00,640",
+      "text": "right, normally. So obviously that's not"
+    },
+    {
+      "start_time": "00:02:58,800",
+      "end_time": "00:03:03,120",
+      "text": "exactly true because otherwise the"
+    },
+    {
+      "start_time": "00:03:00,640",
+      "end_time": "00:03:05,440",
+      "text": "monsters would never go. So there's that"
+    },
+    {
+      "start_time": "00:03:03,120",
+      "end_time": "00:03:07,519",
+      "text": "element to be to be put there. But part"
+    },
+    {
+      "start_time": "00:03:05,440",
+      "end_time": "00:03:09,280",
+      "text": "of the this the the key to teaching your"
+    },
+    {
+      "start_time": "00:03:07,519",
+      "end_time": "00:03:12,560",
+      "text": "players to learn to love fear and"
+    },
+    {
+      "start_time": "00:03:09,280",
+      "end_time": "00:03:16,560",
+      "text": "failure is quite simple. When your"
+    },
+    {
+      "start_time": "00:03:12,560",
+      "end_time": "00:03:19,920",
+      "text": "players fail or if they roll with fear,"
+    },
+    {
+      "start_time": "00:03:16,560",
+      "end_time": "00:03:23,280",
+      "text": "you make a move. That move does not"
+    },
+    {
+      "start_time": "00:03:19,920",
+      "end_time": "00:03:24,959",
+      "text": "always have to be the adversary attacks."
+    },
+    {
+      "start_time": "00:03:23,280",
+      "end_time": "00:03:28,720",
+      "text": "Sometimes the move could be something"
+    },
+    {
+      "start_time": "00:03:24,959",
+      "end_time": "00:03:30,720",
+      "text": "like this. You and I are playing. You"
+    },
+    {
+      "start_time": "00:03:28,720",
+      "end_time": "00:03:33,200",
+      "text": "describe your character going in to take"
+    },
+    {
+      "start_time": "00:03:30,720",
+      "end_time": "00:03:36,480",
+      "text": "out a group of minions."
+    },
+    {
+      "start_time": "00:03:33,200",
+      "end_time": "00:03:40,720",
+      "text": "you swing your sword or whatever, you"
+    },
+    {
+      "start_time": "00:03:36,480",
+      "end_time": "00:03:44,159",
+      "text": "fail. So, you don't hit and you fail"
+    },
+    {
+      "start_time": "00:03:40,720",
+      "end_time": "00:03:48,080",
+      "text": "with fear. I get to make a move and I"
+    },
+    {
+      "start_time": "00:03:44,159",
+      "end_time": "00:03:50,640",
+      "text": "get a fear point. My move might be like"
+    },
+    {
+      "start_time": "00:03:48,080",
+      "end_time": "00:03:52,239",
+      "text": "the minions swarm around you and begin"
+    },
+    {
+      "start_time": "00:03:50,640",
+      "end_time": "00:03:55,920",
+      "text": "hacking and slashing their way through"
+    },
+    {
+      "start_time": "00:03:52,239",
+      "end_time": "00:03:57,920",
+      "text": "you. If you want,"
+    },
+    {
+      "start_time": "00:03:55,920",
+      "end_time": "00:04:00,920",
+      "text": "mark two stress and you can kill them"
+    },
+    {
+      "start_time": "00:03:57,920",
+      "end_time": "00:04:00,920",
+      "text": "all."
+    },
+    {
+      "start_time": "00:04:01,840",
+      "end_time": "00:04:05,840",
+      "text": "That was my move. I got to make whatever"
+    },
+    {
+      "start_time": "00:04:03,680",
+      "end_time": "00:04:07,599",
+      "text": "move I wanted to make as a GM. And my"
+    },
+    {
+      "start_time": "00:04:05,840",
+      "end_time": "00:04:10,319",
+      "text": "move was to offer that player an"
+    },
+    {
+      "start_time": "00:04:07,599",
+      "end_time": "00:04:13,280",
+      "text": "opportunity with a cost."
+    },
+    {
+      "start_time": "00:04:10,319",
+      "end_time": "00:04:15,040",
+      "text": "Why? Because they failed. What they"
+    },
+    {
+      "start_time": "00:04:13,280",
+      "end_time": "00:04:16,479",
+      "text": "wanted to do was kill the minions with"
+    },
+    {
+      "start_time": "00:04:15,040",
+      "end_time": "00:04:18,000",
+      "text": "no cost. They wanted to kill the"
+    },
+    {
+      "start_time": "00:04:16,479",
+      "end_time": "00:04:20,959",
+      "text": "minions, I'm sure, with hope. Mark a"
+    },
+    {
+      "start_time": "00:04:18,000",
+      "end_time": "00:04:23,120",
+      "text": "hope point, succeed."
+    },
+    {
+      "start_time": "00:04:20,959",
+      "end_time": "00:04:24,240",
+      "text": "The GM doesn't get to go. That didn't"
+    },
+    {
+      "start_time": "00:04:23,120",
+      "end_time": "00:04:26,639",
+      "text": "happen. But you know what? These are"
+    },
+    {
+      "start_time": "00:04:24,240",
+      "end_time": "00:04:28,560",
+      "text": "minions. That character, that's a badass"
+    },
+    {
+      "start_time": "00:04:26,639",
+      "end_time": "00:04:29,600",
+      "text": "warrior. I don't want him to miss. I"
+    },
+    {
+      "start_time": "00:04:28,560",
+      "end_time": "00:04:31,280",
+      "text": "don't want him to do nothing. I want"
+    },
+    {
+      "start_time": "00:04:29,600",
+      "end_time": "00:04:33,040",
+      "text": "there to be consequences for his"
+    },
+    {
+      "start_time": "00:04:31,280",
+      "end_time": "00:04:34,720",
+      "text": "failure. I want to at this point in the"
+    },
+    {
+      "start_time": "00:04:33,040",
+      "end_time": "00:04:37,840",
+      "text": "scene, I want to give him something to"
+    },
+    {
+      "start_time": "00:04:34,720",
+      "end_time": "00:04:40,240",
+      "text": "do with. Learn to use failure to"
+    },
+    {
+      "start_time": "00:04:37,840",
+      "end_time": "00:04:45,120",
+      "text": "highlight how awesome your players are."
+    },
+    {
+      "start_time": "00:04:40,240",
+      "end_time": "00:04:47,840",
+      "text": "Don't always just go to the radically"
+    },
+    {
+      "start_time": "00:04:45,120",
+      "end_time": "00:04:52,560",
+      "text": "hard extreme. The biggest mistake I have"
+    },
+    {
+      "start_time": "00:04:47,840",
+      "end_time": "00:04:54,800",
+      "text": "seen with people in this game is"
+    },
+    {
+      "start_time": "00:04:52,560",
+      "end_time": "00:04:56,720",
+      "text": "especially in combat is whenever the"
+    },
+    {
+      "start_time": "00:04:54,800",
+      "end_time": "00:04:58,960",
+      "text": "players fail or whenever the players"
+    },
+    {
+      "start_time": "00:04:56,720",
+      "end_time": "00:05:02,880",
+      "text": "roll with fear or whenever the GM spends"
+    },
+    {
+      "start_time": "00:04:58,960",
+      "end_time": "00:05:04,800",
+      "text": "a fear token is"
+    },
+    {
+      "start_time": "00:05:02,880",
+      "end_time": "00:05:06,960",
+      "text": "and a monster attacks and a monster"
+    },
+    {
+      "start_time": "00:05:04,800",
+      "end_time": "00:05:08,800",
+      "text": "attacks and a monster's attack and a"
+    },
+    {
+      "start_time": "00:05:06,960",
+      "end_time": "00:05:12,240",
+      "text": "monster's attack. I think that's one of"
+    },
+    {
+      "start_time": "00:05:08,800",
+      "end_time": "00:05:14,720",
+      "text": "the more boring things that you can do."
+    },
+    {
+      "start_time": "00:05:12,240",
+      "end_time": "00:05:18,479",
+      "text": "So ultimately, I think what you should"
+    },
+    {
+      "start_time": "00:05:14,720",
+      "end_time": "00:05:20,080",
+      "text": "do is use failure as a way to reframe"
+    },
+    {
+      "start_time": "00:05:18,479",
+      "end_time": "00:05:22,400",
+      "text": "the character success. Now look, that"
+    },
+    {
+      "start_time": "00:05:20,080",
+      "end_time": "00:05:23,919",
+      "text": "doesn't mean that sometimes goes"
+    },
+    {
+      "start_time": "00:05:22,400",
+      "end_time": "00:05:25,840",
+      "text": "wrong and goes bad. But as the"
+    },
+    {
+      "start_time": "00:05:23,919",
+      "end_time": "00:05:28,000",
+      "text": "director, as the game master, you need"
+    },
+    {
+      "start_time": "00:05:25,840",
+      "end_time": "00:05:30,960",
+      "text": "to feel that out. And for all of you,"
+    },
+    {
+      "start_time": "00:05:28,000",
+      "end_time": "00:05:32,560",
+      "text": "those who are like, \"How do I know?\" You"
+    },
+    {
+      "start_time": "00:05:30,960",
+      "end_time": "00:05:34,000",
+      "text": "you got to learn. You got to feel your"
+    },
+    {
+      "start_time": "00:05:32,560",
+      "end_time": "00:05:35,360",
+      "text": "vibe. I know that sounds terrible, but"
+    },
+    {
+      "start_time": "00:05:34,000",
+      "end_time": "00:05:36,479",
+      "text": "you just got to do it a lot. Look into"
+    },
+    {
+      "start_time": "00:05:35,360",
+      "end_time": "00:05:39,360",
+      "text": "your players eyes. It's one of the"
+    },
+    {
+      "start_time": "00:05:36,479",
+      "end_time": "00:05:41,199",
+      "text": "reasons why I say um"
+    },
+    {
+      "start_time": "00:05:39,360",
+      "end_time": "00:05:42,560",
+      "text": "it's hard for me to run games not in"
+    },
+    {
+      "start_time": "00:05:41,199",
+      "end_time": "00:05:44,479",
+      "text": "person. It's why it's definitely"
+    },
+    {
+      "start_time": "00:05:42,560",
+      "end_time": "00:05:47,360",
+      "text": "impossible for me to run a game if I"
+    },
+    {
+      "start_time": "00:05:44,479",
+      "end_time": "00:05:49,120",
+      "text": "don't have cameras up. I read body"
+    },
+    {
+      "start_time": "00:05:47,360",
+      "end_time": "00:05:52,240",
+      "text": "language. It's big part of how I game"
+    },
+    {
+      "start_time": "00:05:49,120",
+      "end_time": "00:05:56,639",
+      "text": "master. So, especially with these type"
+    },
+    {
+      "start_time": "00:05:52,240",
+      "end_time": "00:05:58,400",
+      "text": "of games. So, fear or failure doesn't"
+    },
+    {
+      "start_time": "00:05:56,639",
+      "end_time": "00:06:01,280",
+      "text": "mean that the character was wrong to"
+    },
+    {
+      "start_time": "00:05:58,400",
+      "end_time": "00:06:04,479",
+      "text": "act. It simply means that the stakes are"
+    },
+    {
+      "start_time": "00:06:01,280",
+      "end_time": "00:06:06,479",
+      "text": "real and we should be leaning into that."
+    },
+    {
+      "start_time": "00:06:04,479",
+      "end_time": "00:06:09,199",
+      "text": "Failure should mean interesting"
+    },
+    {
+      "start_time": "00:06:06,479",
+      "end_time": "00:06:13,280",
+      "text": "consequences. It should not feel like a"
+    },
+    {
+      "start_time": "00:06:09,199",
+      "end_time": "00:06:15,919",
+      "text": "punishment sometimes. Sometimes a"
+    },
+    {
+      "start_time": "00:06:13,280",
+      "end_time": "00:06:17,600",
+      "text": "failure with fear"
+    },
+    {
+      "start_time": "00:06:15,919",
+      "end_time": "00:06:20,240",
+      "text": "against,"
+    },
+    {
+      "start_time": "00:06:17,600",
+      "end_time": "00:06:22,560",
+      "text": "you know, let's let's say it's a massive"
+    },
+    {
+      "start_time": "00:06:20,240",
+      "end_time": "00:06:24,319",
+      "text": "dragon, right? And your hero kind of"
+    },
+    {
+      "start_time": "00:06:22,560",
+      "end_time": "00:06:25,919",
+      "text": "comes up maybe with a little bit of"
+    },
+    {
+      "start_time": "00:06:24,319",
+      "end_time": "00:06:27,600",
+      "text": "swagger. Again, we still want our heroes"
+    },
+    {
+      "start_time": "00:06:25,919",
+      "end_time": "00:06:28,800",
+      "text": "to to feel like they're the protagonist,"
+    },
+    {
+      "start_time": "00:06:27,600",
+      "end_time": "00:06:30,960",
+      "text": "right? That they're the the heroes of"
+    },
+    {
+      "start_time": "00:06:28,800",
+      "end_time": "00:06:33,759",
+      "text": "the day. But they roll a fear with the"
+    },
+    {
+      "start_time": "00:06:30,960",
+      "end_time": "00:06:35,199",
+      "text": "failure. That's one of those like again"
+    },
+    {
+      "start_time": "00:06:33,759",
+      "end_time": "00:06:37,919",
+      "text": "I always think back to movies, you know,"
+    },
+    {
+      "start_time": "00:06:35,199",
+      "end_time": "00:06:40,560",
+      "text": "it's like when when Thor, you know,"
+    },
+    {
+      "start_time": "00:06:37,919",
+      "end_time": "00:06:43,520",
+      "text": "swings his uh that big hammer at the"
+    },
+    {
+      "start_time": "00:06:40,560",
+      "end_time": "00:06:45,039",
+      "text": "Hulk and the Hulk just catches it and"
+    },
+    {
+      "start_time": "00:06:43,520",
+      "end_time": "00:06:48,160",
+      "text": "then like moves the hammer out of the"
+    },
+    {
+      "start_time": "00:06:45,039",
+      "end_time": "00:06:50,479",
+      "text": "way to look at him and then like Thor"
+    },
+    {
+      "start_time": "00:06:48,160",
+      "end_time": "00:06:53,039",
+      "text": "goes, \"I'm sorry.\" And then the Hulk"
+    },
+    {
+      "start_time": "00:06:50,479",
+      "end_time": "00:06:55,199",
+      "text": "just smashes him in the face, right? And"
+    },
+    {
+      "start_time": "00:06:53,039",
+      "end_time": "00:06:59,759",
+      "text": "just, you know, he goes sailing across"
+    },
+    {
+      "start_time": "00:06:55,199",
+      "end_time": "00:07:01,919",
+      "text": "the thing. Sometimes the player runs in"
+    },
+    {
+      "start_time": "00:06:59,759",
+      "end_time": "00:07:04,000",
+      "text": "and against a, you know, a dragon and"
+    },
+    {
+      "start_time": "00:07:01,919",
+      "end_time": "00:07:06,000",
+      "text": "rolls failure with fear and you just"
+    },
+    {
+      "start_time": "00:07:04,000",
+      "end_time": "00:07:08,319",
+      "text": "describe the dragon as just like"
+    },
+    {
+      "start_time": "00:07:06,000",
+      "end_time": "00:07:10,800",
+      "text": "stopping their attack cold, crushing"
+    },
+    {
+      "start_time": "00:07:08,319",
+      "end_time": "00:07:12,479",
+      "text": "them into the ground and then throwing"
+    },
+    {
+      "start_time": "00:07:10,800",
+      "end_time": "00:07:14,880",
+      "text": "their body and they're like tumble"
+    },
+    {
+      "start_time": "00:07:12,479",
+      "end_time": "00:07:17,120",
+      "text": "weeding across the battlefield, skidding"
+    },
+    {
+      "start_time": "00:07:14,880",
+      "end_time": "00:07:18,800",
+      "text": "to a halt as their armor, you know,"
+    },
+    {
+      "start_time": "00:07:17,120",
+      "end_time": "00:07:22,560",
+      "text": "buckles and breaks against a nearby"
+    },
+    {
+      "start_time": "00:07:18,800",
+      "end_time": "00:07:24,960",
+      "text": "boulder, right? That is that that scene"
+    },
+    {
+      "start_time": "00:07:22,560",
+      "end_time": "00:07:27,440",
+      "text": "is still satisfying because something"
+    },
+    {
+      "start_time": "00:07:24,960",
+      "end_time": "00:07:30,080",
+      "text": "cool happened. And one of the hardest"
+    },
+    {
+      "start_time": "00:07:27,440",
+      "end_time": "00:07:34,240",
+      "text": "things that you can master as a game"
+    },
+    {
+      "start_time": "00:07:30,080",
+      "end_time": "00:07:36,560",
+      "text": "master is making the players feel cool"
+    },
+    {
+      "start_time": "00:07:34,240",
+      "end_time": "00:07:37,680",
+      "text": "in defeat. Think about some of your"
+    },
+    {
+      "start_time": "00:07:36,560",
+      "end_time": "00:07:40,240",
+      "text": "favorite movies. Think about some of"
+    },
+    {
+      "start_time": "00:07:37,680",
+      "end_time": "00:07:42,720",
+      "text": "your favorite animes. Sometimes one of"
+    },
+    {
+      "start_time": "00:07:40,240",
+      "end_time": "00:07:45,599",
+      "text": "your favorite things is seeing your"
+    },
+    {
+      "start_time": "00:07:42,720",
+      "end_time": "00:07:48,319",
+      "text": "awesome favorite hero character uh take"
+    },
+    {
+      "start_time": "00:07:45,599",
+      "end_time": "00:07:50,319",
+      "text": "a beating and get back up. It's seeing"
+    },
+    {
+      "start_time": "00:07:48,319",
+      "end_time": "00:07:52,639",
+      "text": "them kind of get destroyed a little bit"
+    },
+    {
+      "start_time": "00:07:50,319",
+      "end_time": "00:07:54,319",
+      "text": "because it means that when they come all"
+    },
+    {
+      "start_time": "00:07:52,639",
+      "end_time": "00:07:57,199",
+      "text": "the way back, it feels way more"
+    },
+    {
+      "start_time": "00:07:54,319",
+      "end_time": "00:07:58,960",
+      "text": "satisfying, right? I very rarely in any"
+    },
+    {
+      "start_time": "00:07:57,199",
+      "end_time": "00:08:01,120",
+      "text": "of the movies that we watch or animes or"
+    },
+    {
+      "start_time": "00:07:58,960",
+      "end_time": "00:08:03,440",
+      "text": "books do the heroes just like win"
+    },
+    {
+      "start_time": "00:08:01,120",
+      "end_time": "00:08:05,520",
+      "text": "constantly without never failing, right?"
+    },
+    {
+      "start_time": "00:08:03,440",
+      "end_time": "00:08:09,360",
+      "text": "They fail a lot actually, like all the"
+    },
+    {
+      "start_time": "00:08:05,520",
+      "end_time": "00:08:10,560",
+      "text": "time a lot. And the key difference is we"
+    },
+    {
+      "start_time": "00:08:09,360",
+      "end_time": "00:08:12,080",
+      "text": "just don't make them look like little"
+    },
+    {
+      "start_time": "00:08:12,080",
+      "end_time": "00:08:19,919",
+      "text": "So if you are treating the fear as a"
+    },
+    {
+      "start_time": "00:08:15,599",
+      "end_time": "00:08:22,400",
+      "text": "complication, a twist, a shift, right?"
+    },
+    {
+      "start_time": "00:08:19,919",
+      "end_time": "00:08:24,319",
+      "text": "Encourage players emotional actions too."
+    },
+    {
+      "start_time": "00:08:22,400",
+      "end_time": "00:08:25,360",
+      "text": "Put the ask them a question. I know it"
+    },
+    {
+      "start_time": "00:08:24,319",
+      "end_time": "00:08:28,800",
+      "text": "seems crazy in the middle of a"
+    },
+    {
+      "start_time": "00:08:25,360",
+      "end_time": "00:08:30,720",
+      "text": "spotlight, right? Um if the player fails"
+    },
+    {
+      "start_time": "00:08:28,800",
+      "end_time": "00:08:32,560",
+      "text": "a role"
+    },
+    {
+      "start_time": "00:08:30,720",
+      "end_time": "00:08:34,800",
+      "text": "and one of the things that you can do as"
+    },
+    {
+      "start_time": "00:08:32,560",
+      "end_time": "00:08:37,360",
+      "text": "a move in the in the book, I actually"
+    },
+    {
+      "start_time": "00:08:34,800",
+      "end_time": "00:08:40,080",
+      "text": "don't have the PDF open. What a what a"
+    },
+    {
+      "start_time": "00:08:37,360",
+      "end_time": "00:08:42,640",
+      "text": "mistake that is. Um,"
+    },
+    {
+      "start_time": "00:08:40,080",
+      "end_time": "00:08:44,480",
+      "text": "one of the"
+    },
+    {
+      "start_time": "00:08:42,640",
+      "end_time": "00:08:46,959",
+      "text": "one of the GM moves that they recommend"
+    },
+    {
+      "start_time": "00:08:44,480",
+      "end_time": "00:08:49,600",
+      "text": "in Daggerheart is basically to, you"
+    },
+    {
+      "start_time": "00:08:46,959",
+      "end_time": "00:08:52,240",
+      "text": "know, ask ask the player how they feel"
+    },
+    {
+      "start_time": "00:08:49,600",
+      "end_time": "00:08:54,399",
+      "text": "about it. Um, and you might do that even"
+    },
+    {
+      "start_time": "00:08:52,240",
+      "end_time": "00:08:57,040",
+      "text": "in combat. Obviously, you have to sort"
+    },
+    {
+      "start_time": "00:08:54,399",
+      "end_time": "00:09:00,320",
+      "text": "of feel out the the pacing of the moment"
+    },
+    {
+      "start_time": "00:08:57,040",
+      "end_time": "00:09:01,600",
+      "text": "and and the the tension in the scene."
+    },
+    {
+      "start_time": "00:09:00,320",
+      "end_time": "00:09:03,519",
+      "text": "But think about some of those your"
+    },
+    {
+      "start_time": "00:09:01,600",
+      "end_time": "00:09:05,600",
+      "text": "favorite combats, your favorite action"
+    },
+    {
+      "start_time": "00:09:03,519",
+      "end_time": "00:09:08,560",
+      "text": "scenes from movies. Sometimes there's"
+    },
+    {
+      "start_time": "00:09:05,600",
+      "end_time": "00:09:11,920",
+      "text": "these little moments where we get to see"
+    },
+    {
+      "start_time": "00:09:08,560",
+      "end_time": "00:09:15,519",
+      "text": "how a character is responding to their"
+    },
+    {
+      "start_time": "00:09:11,920",
+      "end_time": "00:09:17,440",
+      "text": "failure and that teaches us about that"
+    },
+    {
+      "start_time": "00:09:15,519",
+      "end_time": "00:09:20,000",
+      "text": "character and we make it more of a"
+    },
+    {
+      "start_time": "00:09:17,440",
+      "end_time": "00:09:22,080",
+      "text": "character moment than a you're losing"
+    },
+    {
+      "start_time": "00:09:20,000",
+      "end_time": "00:09:25,680",
+      "text": "the game, you're losing the fire or"
+    },
+    {
+      "start_time": "00:09:22,080",
+      "end_time": "00:09:31,839",
+      "text": "losing the fight moment. Right?"
+    },
+    {
+      "start_time": "00:09:25,680",
+      "end_time": "00:09:33,600",
+      "text": "So again, um, focusing on the"
+    },
+    {
+      "start_time": "00:09:31,839",
+      "end_time": "00:09:36,480",
+      "text": "potentially narrative effects of fear"
+    },
+    {
+      "start_time": "00:09:33,600",
+      "end_time": "00:09:39,680",
+      "text": "and failure, but also don't be afraid to"
+    },
+    {
+      "start_time": "00:09:36,480",
+      "end_time": "00:09:42,399",
+      "text": "making soft moves and maybe even"
+    },
+    {
+      "start_time": "00:09:39,680",
+      "end_time": "00:09:44,959",
+      "text": "allowing the player success"
+    },
+    {
+      "start_time": "00:09:42,399",
+      "end_time": "00:09:47,839",
+      "text": "even on a failure,"
+    },
+    {
+      "start_time": "00:09:44,959",
+      "end_time": "00:09:49,519",
+      "text": "but have it cost something. And maybe"
+    },
+    {
+      "start_time": "00:09:47,839",
+      "end_time": "00:09:51,040",
+      "text": "ask them, do they want to pay that cost"
+    },
+    {
+      "start_time": "00:09:49,519",
+      "end_time": "00:09:52,320",
+      "text": "or will they pay that cost? And there's"
+    },
+    {
+      "start_time": "00:09:51,040",
+      "end_time": "00:09:55,279",
+      "text": "no right or wrong answer. You could ask"
+    },
+    {
+      "start_time": "00:09:52,320",
+      "end_time": "00:09:57,279",
+      "text": "them to do whatever you want, you know,"
+    },
+    {
+      "start_time": "00:09:55,279",
+      "end_time": "00:10:00,399",
+      "text": "um, and they could say yes and they"
+    },
+    {
+      "start_time": "00:09:57,279",
+      "end_time": "00:10:01,839",
+      "text": "could say no, but at least giving them"
+    },
+    {
+      "start_time": "00:10:00,399",
+      "end_time": "00:10:05,279",
+      "text": "everything that you, you know, could"
+    },
+    {
+      "start_time": "00:10:01,839",
+      "end_time": "00:10:07,279",
+      "text": "want. Now, Black Lodge Gaming,"
+    },
+    {
+      "start_time": "00:10:05,279",
+      "end_time": "00:10:09,360",
+      "text": "I I'm going to go out on a limb here,"
+    },
+    {
+      "start_time": "00:10:07,279",
+      "end_time": "00:10:11,600",
+      "text": "uh, and say you should probably never"
+    },
+    {
+      "start_time": "00:10:09,360",
+      "end_time": "00:10:13,440",
+      "text": "play Daggerheart, uh, or maybe, I don't"
+    },
+    {
+      "start_time": "00:10:11,600",
+      "end_time": "00:10:15,920",
+      "text": "know, any narrativist or, uh, Powered by"
+    },
+    {
+      "start_time": "00:10:13,440",
+      "end_time": "00:10:17,839",
+      "text": "the Apocalypse game, um, because it does"
+    },
+    {
+      "start_time": "00:10:15,920",
+      "end_time": "00:10:23,200",
+      "text": "not seem like this is, you know, your"
+    },
+    {
+      "start_time": "00:10:17,839",
+      "end_time": "00:10:24,720",
+      "text": "your cup of tea. Um but uh you won't."
+    },
+    {
+      "start_time": "00:10:23,200",
+      "end_time": "00:10:29,040",
+      "text": "All right, fair enough. You know what? I"
+    },
+    {
+      "start_time": "00:10:24,720",
+      "end_time": "00:10:31,519",
+      "text": "really respect that. Um because again,"
+    },
+    {
+      "start_time": "00:10:29,040",
+      "end_time": "00:10:32,720",
+      "text": "in real life, right, we always say you"
+    },
+    {
+      "start_time": "00:10:31,519",
+      "end_time": "00:10:34,160",
+      "text": "learn from your mistakes, but that"
+    },
+    {
+      "start_time": "00:10:32,720",
+      "end_time": "00:10:37,760",
+      "text": "doesn't mean we're we're encouraged to"
+    },
+    {
+      "start_time": "00:10:34,160",
+      "end_time": "00:10:39,440",
+      "text": "to fail, right? But in these type of"
+    },
+    {
+      "start_time": "00:10:37,760",
+      "end_time": "00:10:41,920",
+      "text": "games, because we're trying to reflect"
+    },
+    {
+      "start_time": "00:10:39,440",
+      "end_time": "00:10:44,800",
+      "text": "the sort of pacing and and structures of"
+    },
+    {
+      "start_time": "00:10:41,920",
+      "end_time": "00:10:47,279",
+      "text": "our favorite stories, failure is really"
+    },
+    {
+      "start_time": "00:10:44,800",
+      "end_time": "00:10:48,959",
+      "text": "really important."
+    },
+    {
+      "start_time": "00:10:47,279",
+      "end_time": "00:10:50,560",
+      "text": "Um all right, fair enough. you enjoy the"
+    },
+    {
+      "start_time": "00:10:48,959",
+      "end_time": "00:10:51,600",
+      "text": "discussion. Uh, Lord Kyler says, \"If a"
+    },
+    {
+      "start_time": "00:10:50,560",
+      "end_time": "00:10:52,720",
+      "text": "player doesn't take you up on the offer,"
+    },
+    {
+      "start_time": "00:10:51,600",
+      "end_time": "00:10:54,320",
+      "text": "too stressed to kill the minions. Is"
+    },
+    {
+      "start_time": "00:10:52,720",
+      "end_time": "00:10:56,079",
+      "text": "that still considered resolved? They"
+    },
+    {
+      "start_time": "00:10:54,320",
+      "end_time": "00:10:57,519",
+      "text": "just miss and move on. Or do you move to"
+    },
+    {
+      "start_time": "00:10:56,079",
+      "end_time": "00:11:00,000",
+      "text": "something else?\" I consider it resolved"
+    },
+    {
+      "start_time": "00:10:57,519",
+      "end_time": "00:11:03,440",
+      "text": "and I move on, Lord Kyler. You know, I"
+    },
+    {
+      "start_time": "00:11:00,000",
+      "end_time": "00:11:05,279",
+      "text": "might make a really soft move. Um, I I"
+    },
+    {
+      "start_time": "00:11:03,440",
+      "end_time": "00:11:07,360",
+      "text": "might I might cut this. I might I might"
+    },
+    {
+      "start_time": "00:11:05,279",
+      "end_time": "00:11:09,200",
+      "text": "cut over unless I spend a fear token. I"
+    },
+    {
+      "start_time": "00:11:07,360",
+      "end_time": "00:11:13,279",
+      "text": "might cut over to Kister and I might"
+    },
+    {
+      "start_time": "00:11:09,200",
+      "end_time": "00:11:14,880",
+      "text": "say, um, okay, Lord Kyler is still"
+    },
+    {
+      "start_time": "00:11:13,279",
+      "end_time": "00:11:17,360",
+      "text": "surrounded by minions. They're they're"
+    },
+    {
+      "start_time": "00:11:14,880",
+      "end_time": "00:11:19,680",
+      "text": "they're fighting tooth and nail. Neither"
+    },
+    {
+      "start_time": "00:11:17,360",
+      "end_time": "00:11:23,600",
+      "text": "side seems to be gaining the advantage."
+    },
+    {
+      "start_time": "00:11:19,680",
+      "end_time": "00:11:26,160",
+      "text": "Kester, the black dragon just hurled"
+    },
+    {
+      "start_time": "00:11:23,600",
+      "end_time": "00:11:28,399",
+      "text": "Alia across the battlefield."
+    },
+    {
+      "start_time": "00:11:26,160",
+      "end_time": "00:11:30,720",
+      "text": "Kister, what do you do? I'm always"
+    },
+    {
+      "start_time": "00:11:28,399",
+      "end_time": "00:11:32,560",
+      "text": "re-updating the fiction with my players"
+    },
+    {
+      "start_time": "00:11:30,720",
+      "end_time": "00:11:34,640",
+      "text": "and then asking them what do they do?"
+    },
+    {
+      "start_time": "00:11:32,560",
+      "end_time": "00:11:36,640",
+      "text": "But as far as I'm concerned that that"
+    },
+    {
+      "start_time": "00:11:34,640",
+      "end_time": "00:11:38,320",
+      "text": "you missed, I made a move which was give"
+    },
+    {
+      "start_time": "00:11:36,640",
+      "end_time": "00:11:40,320",
+      "text": "you an offer. You didn't take me up on"
+    },
+    {
+      "start_time": "00:11:38,320",
+      "end_time": "00:11:41,680",
+      "text": "the offer. The move is over. I could"
+    },
+    {
+      "start_time": "00:11:40,320",
+      "end_time": "00:11:43,519",
+      "text": "spend a fear token if I want to, I don't"
+    },
+    {
+      "start_time": "00:11:41,680",
+      "end_time": "00:11:44,720",
+      "text": "know, activate the dragon again or or do"
+    },
+    {
+      "start_time": "00:11:43,519",
+      "end_time": "00:11:46,800",
+      "text": "something else with a different monster"
+    },
+    {
+      "start_time": "00:11:44,720",
+      "end_time": "00:11:48,399",
+      "text": "or do something of that nature. Uh, but"
+    },
+    {
+      "start_time": "00:11:46,800",
+      "end_time": "00:11:50,240",
+      "text": "as far as I'm concerned, that's my move."
+    },
+    {
+      "start_time": "00:11:48,399",
+      "end_time": "00:11:51,200",
+      "text": "Why would I waste my move that way? I"
+    },
+    {
+      "start_time": "00:11:50,240",
+      "end_time": "00:11:52,640",
+      "text": "don't know. Why would you waste your"
+    },
+    {
+      "start_time": "00:11:51,200",
+      "end_time": "00:11:54,160",
+      "text": "move spotlighting your adversary? What"
+    },
+    {
+      "start_time": "00:11:52,640",
+      "end_time": "00:11:57,040",
+      "text": "are you going to do? Kill all the party"
+    },
+    {
+      "start_time": "00:11:54,160",
+      "end_time": "00:12:01,120",
+      "text": "members? You can't. Okay, there's no"
+    },
+    {
+      "start_time": "00:11:57,040",
+      "end_time": "00:12:02,320",
+      "text": "point to trying to win. You can't win."
+    },
+    {
+      "start_time": "00:12:01,120",
+      "end_time": "00:12:04,079",
+      "text": "There's no losing and there's no"
+    },
+    {
+      "start_time": "00:12:02,320",
+      "end_time": "00:12:06,320",
+      "text": "winning. The only thing we could do is"
+    },
+    {
+      "start_time": "00:12:04,079",
+      "end_time": "00:12:08,800",
+      "text": "create awesome, cool, badass moments. It"
+    },
+    {
+      "start_time": "00:12:06,320",
+      "end_time": "00:12:10,560",
+      "text": "doesn't matter. But that is very"
+    },
+    {
+      "start_time": "00:12:08,800",
+      "end_time": "00:12:12,000",
+      "text": "different from the way that we're learn."
+    },
+    {
+      "start_time": "00:12:10,560",
+      "end_time": "00:12:14,959",
+      "text": "We're used to thinking in terms of"
+    },
+    {
+      "start_time": "00:12:12,000",
+      "end_time": "00:12:16,959",
+      "text": "action efficiency and action economy and"
+    },
+    {
+      "start_time": "00:12:14,959",
+      "end_time": "00:12:18,320",
+      "text": "how can I get the most DPS out of my"
+    },
+    {
+      "start_time": "00:12:16,959",
+      "end_time": "00:12:20,399",
+      "text": "monsters so that my players feel"
+    },
+    {
+      "start_time": "00:12:18,320",
+      "end_time": "00:12:24,399",
+      "text": "terrified."
+    },
+    {
+      "start_time": "00:12:20,399",
+      "end_time": "00:12:26,480",
+      "text": "It's not what this game is about. Um, so"
+    },
+    {
+      "start_time": "00:12:24,399",
+      "end_time": "00:12:29,120",
+      "text": "ultimately,"
+    },
+    {
+      "start_time": "00:12:26,480",
+      "end_time": "00:12:30,800",
+      "text": "uh, remember that outside of failure,"
+    },
+    {
+      "start_time": "00:12:29,120",
+      "end_time": "00:12:33,040",
+      "text": "players might have actually really high"
+    },
+    {
+      "start_time": "00:12:30,800",
+      "end_time": "00:12:36,560",
+      "text": "bonuses between helping and trait"
+    },
+    {
+      "start_time": "00:12:33,040",
+      "end_time": "00:12:38,399",
+      "text": "bonuses, but 47%"
+    },
+    {
+      "start_time": "00:12:36,560",
+      "end_time": "00:12:40,639",
+      "text": "or something of the roles are going to"
+    },
+    {
+      "start_time": "00:12:38,399",
+      "end_time": "00:12:43,440",
+      "text": "be with fear regardless of whether the"
+    },
+    {
+      "start_time": "00:12:40,639",
+      "end_time": "00:12:45,279",
+      "text": "players succeed or not. So, you know,"
+    },
+    {
+      "start_time": "00:12:43,440",
+      "end_time": "00:12:47,200",
+      "text": "you need to you need to sort of learn to"
+    },
+    {
+      "start_time": "00:12:45,279",
+      "end_time": "00:12:49,120",
+      "text": "embrace fear and failure. And one of the"
+    },
+    {
+      "start_time": "00:12:47,200",
+      "end_time": "00:12:51,360",
+      "text": "ways that you can do that is by not"
+    },
+    {
+      "start_time": "00:12:49,120",
+      "end_time": "00:12:55,360",
+      "text": "making it so horrible and not making it"
+    },
+    {
+      "start_time": "00:12:51,360",
+      "end_time": "00:12:59,440",
+      "text": "so punishing and turning fear into more"
+    },
+    {
+      "start_time": "00:12:55,360",
+      "end_time": "00:13:01,519",
+      "text": "of a uh you know it's like a backhanded"
+    },
+    {
+      "start_time": "00:12:59,440",
+      "end_time": "00:13:03,839",
+      "text": "compliment. It's like okay that was nice"
+    },
+    {
+      "start_time": "00:13:01,519",
+      "end_time": "00:13:06,160",
+      "text": "but you you kind of took a dig at me and"
+    },
+    {
+      "start_time": "00:13:03,839",
+      "end_time": "00:13:07,839",
+      "text": "and in that respect uh I think players"
+    },
+    {
+      "start_time": "00:13:06,160",
+      "end_time": "00:13:09,760",
+      "text": "can start to really you know engage with"
+    },
+    {
+      "start_time": "00:13:07,839",
+      "end_time": "00:13:12,000",
+      "text": "that a little bit more. Um and and"
+    },
+    {
+      "start_time": "00:13:09,760",
+      "end_time": "00:13:14,240",
+      "text": "giving them choices. Players always feel"
+    },
+    {
+      "start_time": "00:13:12,000",
+      "end_time": "00:13:15,680",
+      "text": "empowered by choices. Like if I told the"
+    },
+    {
+      "start_time": "00:13:14,240",
+      "end_time": "00:13:17,519",
+      "text": "players in that instance before where"
+    },
+    {
+      "start_time": "00:13:15,680",
+      "end_time": "00:13:20,639",
+      "text": "Lur Kyler was surrounded by the minions"
+    },
+    {
+      "start_time": "00:13:17,519",
+      "end_time": "00:13:22,000",
+      "text": "misses and I say um you know you start"
+    },
+    {
+      "start_time": "00:13:20,639",
+      "end_time": "00:13:23,600",
+      "text": "to do battle with it but you can't gain"
+    },
+    {
+      "start_time": "00:13:22,000",
+      "end_time": "00:13:25,440",
+      "text": "the upper edge. Do you push yourself to"
+    },
+    {
+      "start_time": "00:13:23,600",
+      "end_time": "00:13:27,279",
+      "text": "destroy them or do you hold back and and"
+    },
+    {
+      "start_time": "00:13:25,440",
+      "end_time": "00:13:29,040",
+      "text": "and conserve and keep battling with"
+    },
+    {
+      "start_time": "00:13:27,279",
+      "end_time": "00:13:30,880",
+      "text": "them? Do you want to spend two stress to"
+    },
+    {
+      "start_time": "00:13:29,040",
+      "end_time": "00:13:32,399",
+      "text": "kill them you know to kill them or not?"
+    },
+    {
+      "start_time": "00:13:30,880",
+      "end_time": "00:13:34,720",
+      "text": "I'm giving them a choice. I could have"
+    },
+    {
+      "start_time": "00:13:32,399",
+      "end_time": "00:13:36,880",
+      "text": "said Lord Kyler mark two stress and the"
+    },
+    {
+      "start_time": "00:13:34,720",
+      "end_time": "00:13:38,959",
+      "text": "minions are dead. That is a valid"
+    },
+    {
+      "start_time": "00:13:36,880",
+      "end_time": "00:13:41,200",
+      "text": "option. I could do that as a GM move,"
+    },
+    {
+      "start_time": "00:13:38,959",
+      "end_time": "00:13:43,200",
+      "text": "but I'd rather give Lord Kyler the"
+    },
+    {
+      "start_time": "00:13:41,200",
+      "end_time": "00:13:45,680",
+      "text": "choice because if I give them the"
+    },
+    {
+      "start_time": "00:13:43,200",
+      "end_time": "00:13:47,600",
+      "text": "choice, they will feel empowered. And a"
+    },
+    {
+      "start_time": "00:13:45,680",
+      "end_time": "00:13:49,600",
+      "text": "big part of PBTA and big part of my"
+    },
+    {
+      "start_time": "00:13:47,600",
+      "end_time": "00:13:51,279",
+      "text": "philosophy is giving players agency and"
+    },
+    {
+      "start_time": "00:13:49,600",
+      "end_time": "00:13:53,920",
+      "text": "making them feel empowered to make"
+    },
+    {
+      "start_time": "00:13:51,279",
+      "end_time": "00:13:55,920",
+      "text": "choices. And that is an example of one."
+    },
+    {
+      "start_time": "00:13:53,920",
+      "end_time": "00:13:57,440",
+      "text": "So, I'm a big fan of of making them of"
+    },
+    {
+      "start_time": "00:13:55,920",
+      "end_time": "00:14:00,480",
+      "text": "making them. Now, sometimes the choice"
+    },
+    {
+      "start_time": "00:13:57,440",
+      "end_time": "00:14:03,680",
+      "text": "may be pointless. Um, I remember, you"
+    },
+    {
+      "start_time": "00:14:00,480",
+      "end_time": "00:14:06,399",
+      "text": "know, um,"
+    },
+    {
+      "start_time": "00:14:03,680",
+      "end_time": "00:14:08,880",
+      "text": "Smen, uh, if they, now if for whatever"
+    },
+    {
+      "start_time": "00:14:06,399",
+      "end_time": "00:14:11,120",
+      "text": "reason that came up and they said, uh, I"
+    },
+    {
+      "start_time": "00:14:08,880",
+      "end_time": "00:14:12,720",
+      "text": "only have one stress left. I might say,"
+    },
+    {
+      "start_time": "00:14:11,120",
+      "end_time": "00:14:14,160",
+      "text": "that's fine. It'll make you vulnerable"
+    },
+    {
+      "start_time": "00:14:12,720",
+      "end_time": "00:14:16,079",
+      "text": "and I think that's enough of a price. Or"
+    },
+    {
+      "start_time": "00:14:14,160",
+      "end_time": "00:14:18,240",
+      "text": "I might say, fine, Mark a stress and a"
+    },
+    {
+      "start_time": "00:14:16,079",
+      "end_time": "00:14:19,920",
+      "text": "hit point. And, you know, they say,"
+    },
+    {
+      "start_time": "00:14:18,240",
+      "end_time": "00:14:21,680",
+      "text": "\"Well, can I mark an armor instead?\" And"
+    },
+    {
+      "start_time": "00:14:19,920",
+      "end_time": "00:14:23,279",
+      "text": "I might go, \"Of course.\" By the way,"
+    },
+    {
+      "start_time": "00:14:21,680",
+      "end_time": "00:14:24,720",
+      "text": "everything we're just doing there is GM"
+    },
+    {
+      "start_time": "00:14:23,279",
+      "end_time": "00:14:26,800",
+      "text": "moves and spotlights going back and"
+    },
+    {
+      "start_time": "00:14:24,720",
+      "end_time": "00:14:28,720",
+      "text": "forth. Oh, we're Oh, no. We're not out"
+    },
+    {
+      "start_time": "00:14:26,800",
+      "end_time": "00:14:31,120",
+      "text": "of time yet. We're not out of time yet."
+    },
+    {
+      "start_time": "00:14:28,720",
+      "end_time": "00:14:33,519",
+      "text": "Uh, so again,"
+    },
+    {
+      "start_time": "00:14:31,120",
+      "end_time": "00:14:35,519",
+      "text": "lean into it, make it cool. If you make"
+    },
+    {
+      "start_time": "00:14:33,519",
+      "end_time": "00:14:37,920",
+      "text": "fear and failure shitty for your"
+    },
+    {
+      "start_time": "00:14:35,519",
+      "end_time": "00:14:40,240",
+      "text": "players, then they are going to fear it."
+    },
+    {
+      "start_time": "00:14:37,920",
+      "end_time": "00:14:41,680",
+      "text": "Um, and they are going to dislike it,"
+    },
+    {
+      "start_time": "00:14:40,240",
+      "end_time": "00:14:43,360",
+      "text": "and they're going to dislike it probably"
+    },
+    {
+      "start_time": "00:14:41,680",
+      "end_time": "00:14:45,920",
+      "text": "even more than they disliked it in D and"
+    },
+    {
+      "start_time": "00:14:43,360",
+      "end_time": "00:14:47,440",
+      "text": "D. So instead, you need to look for ways"
+    },
+    {
+      "start_time": "00:14:45,920",
+      "end_time": "00:14:49,680",
+      "text": "to make those fear and failure moves"
+    },
+    {
+      "start_time": "00:14:47,440",
+      "end_time": "00:14:53,120",
+      "text": "soft, but also sometimes hit them with a"
+    },
+    {
+      "start_time": "00:14:49,680",
+      "end_time": "00:14:55,199",
+      "text": "hammer. But oftentimes, I like to kind"
+    },
+    {
+      "start_time": "00:14:53,120",
+      "end_time": "00:14:57,519",
+      "text": "of put that back into, you know, to"
+    },
+    {
+      "start_time": "00:14:55,199",
+      "end_time": "00:14:59,040",
+      "text": "their hands. Uh, in one of our Patreon"
+    },
+    {
+      "start_time": "00:14:57,519",
+      "end_time": "00:15:01,279",
+      "text": "bonus videos, we played a Dungeon World"
+    },
+    {
+      "start_time": "00:14:59,040",
+      "end_time": "00:15:04,000",
+      "text": "game long time ago. Bob got kicked off a"
+    },
+    {
+      "start_time": "00:15:01,279",
+      "end_time": "00:15:07,120",
+      "text": "cliff. And I said, \"Bob, you begin"
+    },
+    {
+      "start_time": "00:15:04,000",
+      "end_time": "00:15:08,320",
+      "text": "tumbling to your death.\" I go, \"Uh,\" and"
+    },
+    {
+      "start_time": "00:15:07,120",
+      "end_time": "00:15:10,000",
+      "text": "I go, \"What do you do?\" And he goes,"
+    },
+    {
+      "start_time": "00:15:08,320",
+      "end_time": "00:15:11,519",
+      "text": "\"Uh, I'm going to re He goes, he looks"
+    },
+    {
+      "start_time": "00:15:10,000",
+      "end_time": "00:15:13,440",
+      "text": "at his equipment. He goes, \"I'm going to"
+    },
+    {
+      "start_time": "00:15:11,519",
+      "end_time": "00:15:14,800",
+      "text": "grab my crowbar from my backpack and use"
+    },
+    {
+      "start_time": "00:15:13,440",
+      "end_time": "00:15:17,199",
+      "text": "it to grab onto the edge of the cliff.\""
+    },
+    {
+      "start_time": "00:15:14,800",
+      "end_time": "00:15:19,120",
+      "text": "And I said, \"Awesome. Cool. You do that."
+    },
+    {
+      "start_time": "00:15:17,199",
+      "end_time": "00:15:22,399",
+      "text": "But you either drop your weapon or your"
+    },
+    {
+      "start_time": "00:15:19,120",
+      "end_time": "00:15:26,240",
+      "text": "backpack. Pick.\" Now he gets to make a"
+    },
+    {
+      "start_time": "00:15:22,399",
+      "end_time": "00:15:29,920",
+      "text": "choice. It's a shitty choice, but"
+    },
+    {
+      "start_time": "00:15:26,240",
+      "end_time": "00:15:31,360",
+      "text": "But um it's uh it's still a choice that"
+    },
+    {
+      "start_time": "00:15:29,920",
+      "end_time": "00:15:32,639",
+      "text": "he gets to make. And believe it or not,"
+    },
+    {
+      "start_time": "00:15:31,360",
+      "end_time": "00:15:35,040",
+      "text": "like if you give people a choice, it's"
+    },
+    {
+      "start_time": "00:15:32,639",
+      "end_time": "00:15:36,800",
+      "text": "like the idea of the matrix, right? If"
+    },
+    {
+      "start_time": "00:15:35,040",
+      "end_time": "00:15:38,560",
+      "text": "you give people a choice, even in an"
+    },
+    {
+      "start_time": "00:15:36,800",
+      "end_time": "00:15:41,279",
+      "text": "unconscious level, they are much more"
+    },
+    {
+      "start_time": "00:15:38,560",
+      "end_time": "00:15:43,279",
+      "text": "likely to accept your uh fake reality"
+    },
+    {
+      "start_time": "00:15:41,279",
+      "end_time": "00:15:45,199",
+      "text": "that you've kept them in. So all right."
+    },
+    {
+      "start_time": "00:15:43,279",
+      "end_time": "00:15:47,360",
+      "text": "So that that's about that's about fear"
+    },
+    {
+      "start_time": "00:15:45,199",
+      "end_time": "00:15:50,720",
+      "text": "and failure and about embracing it. And"
+    },
+    {
+      "start_time": "00:15:47,360",
+      "end_time": "00:15:52,880",
+      "text": "again, the key is to be softer with your"
+    },
+    {
+      "start_time": "00:15:50,720",
+      "end_time": "00:15:54,480",
+      "text": "moves, to give players choices, and to"
+    },
+    {
+      "start_time": "00:15:52,880",
+      "end_time": "00:15:57,040",
+      "text": "make sure that they still feel cool and"
+    },
+    {
+      "start_time": "00:15:54,480",
+      "end_time": "00:15:58,320",
+      "text": "they look cool while they are missing."
+    },
+    {
+      "start_time": "00:15:57,040",
+      "end_time": "00:15:59,839",
+      "text": "If you just say, \"You slip on a banana"
+    },
+    {
+      "start_time": "00:15:58,320",
+      "end_time": "00:16:01,279",
+      "text": "peel and you miss, and then the enemy"
+    },
+    {
+      "start_time": "00:15:59,839",
+      "end_time": "00:16:02,480",
+      "text": "ground pounds you and does critical"
+    },
+    {
+      "start_time": "00:16:01,279",
+      "end_time": "00:16:04,079",
+      "text": "damage. I'm going to activate him again."
+    },
+    {
+      "start_time": "00:16:02,480",
+      "end_time": "00:16:05,440",
+      "text": "He does critical damage.\" The players"
+    },
+    {
+      "start_time": "00:16:04,079",
+      "end_time": "00:16:07,920",
+      "text": "are going to quickly figure out that"
+    },
+    {
+      "start_time": "00:16:05,440",
+      "end_time": "00:16:09,519",
+      "text": "fear that failing and fear sucks and"
+    },
+    {
+      "start_time": "00:16:07,920",
+      "end_time": "00:16:12,880",
+      "text": "they should they would be afraid and"
+    },
+    {
+      "start_time": "00:16:09,519",
+      "end_time": "00:16:12,880",
+      "text": "avoid rolling dice at all costs."
+    }
+  ],
+  "full_text": "Hey everyone, welcome to the nights of\nlast call. My name is Derek Melinda.\nWhat you're about to watch is a recent\nclip from a Daggerheart live stream\nwhere we gave advice to firsttime GMs\nwho may need a little help with running\nDaggerheart. Enjoy. So our next topic is\nlearn and teach your players to love\nfear and failure. This is a situation\nwhere we have been trained from very\nsimulationist concepts to want to avoid\nfail failure at all costs. And quick\nlittle mini tangent here. Of course we\nhave been. And a lot of times people\nthink that players minmax because they\ndon't want to die or because you know\nthey never want to fail. I think that's\nactually not true. I think players don't\nwant to let their other PCs their other\nplayers down.\nIn most D&D games, when you fail a role,\nit means you are that much closer to\ndeath. It means that you are that much\ncloser to uh, you know, losing. It means\nthat you have let the players go, you\nknow, you have let the players down.\nIt also means that if you're playing in\na combat game, if you miss, in most\nversions of D and D and most versions of\nPathfinder, uh when you miss, you do you\ndon't you do zero damage. Nothing\nhappens. So, there's a very strong\nincentive here to want to hit because of\ncourse you want something to happen.\nSo, here is my\nradical advice to you.\nWhen you fail in this game, it means\nthat your character did not achieve the\nsuccess that they wanted\nand that per the rules of the game, the\nGM can now make a move. And one could\nargue that they can make a hard move.\nWhat I tell you is that sometimes\neven when the players fail,\nthat doesn't necessarily mean that you\nshould just immediately make a GM move\nlike spotlight an adversary that then\ngets them attacked.\nBecause what they are going to learn\nthen is that whenever I make an attack,\nif I roll low, I'm going to not only\nmiss and do no damage,\nbut then the GM gets to immediately\nattack me. And so there's a strong\nchance here that the players will\nactually feel like failure is worse in\nDaggerheart than it was in Dn D. Because\nin Dn D, they'll say, \"Well, in D and D,\nwhen I miss, I didn't do anything. and\nthen the it was the next person's turn.\nThat's better than I missed and then the\nGM got to attack me.\nNow granted, the monsters don't get an\ninitiative order, so they don't go,\nright, normally. So obviously that's not\nexactly true because otherwise the\nmonsters would never go. So there's that\nelement to be to be put there. But part\nof the this the the key to teaching your\nplayers to learn to love fear and\nfailure is quite simple. When your\nplayers fail or if they roll with fear,\nyou make a move. That move does not\nalways have to be the adversary attacks.\nSometimes the move could be something\nlike this. You and I are playing. You\ndescribe your character going in to take\nout a group of minions.\nyou swing your sword or whatever, you\nfail. So, you don't hit and you fail\nwith fear. I get to make a move and I\nget a fear point. My move might be like\nthe minions swarm around you and begin\nhacking and slashing their way through\nyou. If you want,\nmark two stress and you can kill them\nall.\nThat was my move. I got to make whatever\nmove I wanted to make as a GM. And my\nmove was to offer that player an\nopportunity with a cost.\nWhy? Because they failed. What they\nwanted to do was kill the minions with\nno cost. They wanted to kill the\nminions, I'm sure, with hope. Mark a\nhope point, succeed.\nThe GM doesn't get to go. That didn't\nhappen. But you know what? These are\nminions. That character, that's a badass\nwarrior. I don't want him to miss. I\ndon't want him to do nothing. I want\nthere to be consequences for his\nfailure. I want to at this point in the\nscene, I want to give him something to\ndo with. Learn to use failure to\nhighlight how awesome your players are.\nDon't always just go to the radically\nhard extreme. The biggest mistake I have\nseen with people in this game is\nespecially in combat is whenever the\nplayers fail or whenever the players\nroll with fear or whenever the GM spends\na fear token is\nand a monster attacks and a monster\nattacks and a monster's attack and a\nmonster's attack. I think that's one of\nthe more boring things that you can do.\nSo ultimately, I think what you should\ndo is use failure as a way to reframe\nthe character success. Now look, that\ndoesn't mean that sometimes goes\nwrong and goes bad. But as the\ndirector, as the game master, you need\nto feel that out. And for all of you,\nthose who are like, \"How do I know?\" You\nyou got to learn. You got to feel your\nvibe. I know that sounds terrible, but\nyou just got to do it a lot. Look into\nyour players eyes. It's one of the\nreasons why I say um\nit's hard for me to run games not in\nperson. It's why it's definitely\nimpossible for me to run a game if I\ndon't have cameras up. I read body\nlanguage. It's big part of how I game\nmaster. So, especially with these type\nof games. So, fear or failure doesn't\nmean that the character was wrong to\nact. It simply means that the stakes are\nreal and we should be leaning into that.\nFailure should mean interesting\nconsequences. It should not feel like a\npunishment sometimes. Sometimes a\nfailure with fear\nagainst,\nyou know, let's let's say it's a massive\ndragon, right? And your hero kind of\ncomes up maybe with a little bit of\nswagger. Again, we still want our heroes\nto to feel like they're the protagonist,\nright? That they're the the heroes of\nthe day. But they roll a fear with the\nfailure. That's one of those like again\nI always think back to movies, you know,\nit's like when when Thor, you know,\nswings his uh that big hammer at the\nHulk and the Hulk just catches it and\nthen like moves the hammer out of the\nway to look at him and then like Thor\ngoes, \"I'm sorry.\" And then the Hulk\njust smashes him in the face, right? And\njust, you know, he goes sailing across\nthe thing. Sometimes the player runs in\nand against a, you know, a dragon and\nrolls failure with fear and you just\ndescribe the dragon as just like\nstopping their attack cold, crushing\nthem into the ground and then throwing\ntheir body and they're like tumble\nweeding across the battlefield, skidding\nto a halt as their armor, you know,\nbuckles and breaks against a nearby\nboulder, right? That is that that scene\nis still satisfying because something\ncool happened. And one of the hardest\nthings that you can master as a game\nmaster is making the players feel cool\nin defeat. Think about some of your\nfavorite movies. Think about some of\nyour favorite animes. Sometimes one of\nyour favorite things is seeing your\nawesome favorite hero character uh take\na beating and get back up. It's seeing\nthem kind of get destroyed a little bit\nbecause it means that when they come all\nthe way back, it feels way more\nsatisfying, right? I very rarely in any\nof the movies that we watch or animes or\nbooks do the heroes just like win\nconstantly without never failing, right?\nThey fail a lot actually, like all the\ntime a lot. And the key difference is we\njust don't make them look like little\nSo if you are treating the fear as a\ncomplication, a twist, a shift, right?\nEncourage players emotional actions too.\nPut the ask them a question. I know it\nseems crazy in the middle of a\nspotlight, right? Um if the player fails\na role\nand one of the things that you can do as\na move in the in the book, I actually\ndon't have the PDF open. What a what a\nmistake that is. Um,\none of the\none of the GM moves that they recommend\nin Daggerheart is basically to, you\nknow, ask ask the player how they feel\nabout it. Um, and you might do that even\nin combat. Obviously, you have to sort\nof feel out the the pacing of the moment\nand and the the tension in the scene.\nBut think about some of those your\nfavorite combats, your favorite action\nscenes from movies. Sometimes there's\nthese little moments where we get to see\nhow a character is responding to their\nfailure and that teaches us about that\ncharacter and we make it more of a\ncharacter moment than a you're losing\nthe game, you're losing the fire or\nlosing the fight moment. Right?\nSo again, um, focusing on the\npotentially narrative effects of fear\nand failure, but also don't be afraid to\nmaking soft moves and maybe even\nallowing the player success\neven on a failure,\nbut have it cost something. And maybe\nask them, do they want to pay that cost\nor will they pay that cost? And there's\nno right or wrong answer. You could ask\nthem to do whatever you want, you know,\num, and they could say yes and they\ncould say no, but at least giving them\neverything that you, you know, could\nwant. Now, Black Lodge Gaming,\nI I'm going to go out on a limb here,\nuh, and say you should probably never\nplay Daggerheart, uh, or maybe, I don't\nknow, any narrativist or, uh, Powered by\nthe Apocalypse game, um, because it does\nnot seem like this is, you know, your\nyour cup of tea. Um but uh you won't.\nAll right, fair enough. You know what? I\nreally respect that. Um because again,\nin real life, right, we always say you\nlearn from your mistakes, but that\ndoesn't mean we're we're encouraged to\nto fail, right? But in these type of\ngames, because we're trying to reflect\nthe sort of pacing and and structures of\nour favorite stories, failure is really\nreally important.\nUm all right, fair enough. you enjoy the\ndiscussion. Uh, Lord Kyler says, \"If a\nplayer doesn't take you up on the offer,\ntoo stressed to kill the minions. Is\nthat still considered resolved? They\njust miss and move on. Or do you move to\nsomething else?\" I consider it resolved\nand I move on, Lord Kyler. You know, I\nmight make a really soft move. Um, I I\nmight I might cut this. I might I might\ncut over unless I spend a fear token. I\nmight cut over to Kister and I might\nsay, um, okay, Lord Kyler is still\nsurrounded by minions. They're they're\nthey're fighting tooth and nail. Neither\nside seems to be gaining the advantage.\nKester, the black dragon just hurled\nAlia across the battlefield.\nKister, what do you do? I'm always\nre-updating the fiction with my players\nand then asking them what do they do?\nBut as far as I'm concerned that that\nyou missed, I made a move which was give\nyou an offer. You didn't take me up on\nthe offer. The move is over. I could\nspend a fear token if I want to, I don't\nknow, activate the dragon again or or do\nsomething else with a different monster\nor do something of that nature. Uh, but\nas far as I'm concerned, that's my move.\nWhy would I waste my move that way? I\ndon't know. Why would you waste your\nmove spotlighting your adversary? What\nare you going to do? Kill all the party\nmembers? You can't. Okay, there's no\npoint to trying to win. You can't win.\nThere's no losing and there's no\nwinning. The only thing we could do is\ncreate awesome, cool, badass moments. It\ndoesn't matter. But that is very\ndifferent from the way that we're learn.\nWe're used to thinking in terms of\naction efficiency and action economy and\nhow can I get the most DPS out of my\nmonsters so that my players feel\nterrified.\nIt's not what this game is about. Um, so\nultimately,\nuh, remember that outside of failure,\nplayers might have actually really high\nbonuses between helping and trait\nbonuses, but 47%\nor something of the roles are going to\nbe with fear regardless of whether the\nplayers succeed or not. So, you know,\nyou need to you need to sort of learn to\nembrace fear and failure. And one of the\nways that you can do that is by not\nmaking it so horrible and not making it\nso punishing and turning fear into more\nof a uh you know it's like a backhanded\ncompliment. It's like okay that was nice\nbut you you kind of took a dig at me and\nand in that respect uh I think players\ncan start to really you know engage with\nthat a little bit more. Um and and\ngiving them choices. Players always feel\nempowered by choices. Like if I told the\nplayers in that instance before where\nLur Kyler was surrounded by the minions\nmisses and I say um you know you start\nto do battle with it but you can't gain\nthe upper edge. Do you push yourself to\ndestroy them or do you hold back and and\nand conserve and keep battling with\nthem? Do you want to spend two stress to\nkill them you know to kill them or not?\nI'm giving them a choice. I could have\nsaid Lord Kyler mark two stress and the\nminions are dead. That is a valid\noption. I could do that as a GM move,\nbut I'd rather give Lord Kyler the\nchoice because if I give them the\nchoice, they will feel empowered. And a\nbig part of PBTA and big part of my\nphilosophy is giving players agency and\nmaking them feel empowered to make\nchoices. And that is an example of one.\nSo, I'm a big fan of of making them of\nmaking them. Now, sometimes the choice\nmay be pointless. Um, I remember, you\nknow, um,\nSmen, uh, if they, now if for whatever\nreason that came up and they said, uh, I\nonly have one stress left. I might say,\nthat's fine. It'll make you vulnerable\nand I think that's enough of a price. Or\nI might say, fine, Mark a stress and a\nhit point. And, you know, they say,\n\"Well, can I mark an armor instead?\" And\nI might go, \"Of course.\" By the way,\neverything we're just doing there is GM\nmoves and spotlights going back and\nforth. Oh, we're Oh, no. We're not out\nof time yet. We're not out of time yet.\nUh, so again,\nlean into it, make it cool. If you make\nfear and failure shitty for your\nplayers, then they are going to fear it.\nUm, and they are going to dislike it,\nand they're going to dislike it probably\neven more than they disliked it in D and\nD. So instead, you need to look for ways\nto make those fear and failure moves\nsoft, but also sometimes hit them with a\nhammer. But oftentimes, I like to kind\nof put that back into, you know, to\ntheir hands. Uh, in one of our Patreon\nbonus videos, we played a Dungeon World\ngame long time ago. Bob got kicked off a\ncliff. And I said, \"Bob, you begin\ntumbling to your death.\" I go, \"Uh,\" and\nI go, \"What do you do?\" And he goes,\n\"Uh, I'm going to re He goes, he looks\nat his equipment. He goes, \"I'm going to\ngrab my crowbar from my backpack and use\nit to grab onto the edge of the cliff.\"\nAnd I said, \"Awesome. Cool. You do that.\nBut you either drop your weapon or your\nbackpack. Pick.\" Now he gets to make a\nchoice. It's a shitty choice, but\nBut um it's uh it's still a choice that\nhe gets to make. And believe it or not,\nlike if you give people a choice, it's\nlike the idea of the matrix, right? If\nyou give people a choice, even in an\nunconscious level, they are much more\nlikely to accept your uh fake reality\nthat you've kept them in. So all right.\nSo that that's about that's about fear\nand failure and about embracing it. And\nagain, the key is to be softer with your\nmoves, to give players choices, and to\nmake sure that they still feel cool and\nthey look cool while they are missing.\nIf you just say, \"You slip on a banana\npeel and you miss, and then the enemy\nground pounds you and does critical\ndamage. I'm going to activate him again.\nHe does critical damage.\" The players\nare going to quickly figure out that\nfear that failing and fear sucks and\nthey should they would be afraid and\navoid rolling dice at all costs.\n"
+}

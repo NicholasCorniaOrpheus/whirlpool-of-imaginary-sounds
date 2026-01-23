@@ -1,0 +1,1462 @@
+[music]
+[music]
+Welcome to Dyson Mind, a podcast hosted
+by Brad Brown and Jason Kaufman to
+explore the intersection of life, games,
+science, science, music, philosophy and
+creativity through interviews with
+leading creatives. All are welcome in
+this space.
+You know, it's, you know, I was thinking
+about this before we hit record, but I
+didn't mention it before we hit record.
+Um, we don't necessarily talk about
+or get to talk with authors who
+write books or write material
+that's RPG related all that often that
+isn't a direct RPG book.
+>> Yeah, that's a that's a good point that
+certainly not these days. you know that
+tradition and traditionally we talk with
+when we talk with RPG authors they're
+directly involved with an IP of some
+sort
+>> lots [clears throat] of chats with IP
+authors right or freelancers or whatever
+>> now we have but it's just not as often
+so so um
+>> very true
+>> so our guest tonight our returning guest
+tonight
+>> third time which is yes remarkable
+>> um I love having um Keith back on
+because
+um his material as you'll hear as you
+all will hear in the interview um he
+talks about it from a 5e perspective
+>> but
+you'll also hear him talk about the fact
+that this crosses
+>> game platforms this crosses ecosystems
+>> so if you're listening to this podcast
+and we're grateful that you're one of
+the four and and
+>> Ryan don't fall
+>> exactly slow down on the treadmill and
+you've been under a rock. Um, maybe you
+haven't heard of Keith Almond. I don't
+know how, but to your point, Brad, he's
+not part of any of the IPs, but he is I
+would I mean, he's a master of monster
+design for 5e and beyond.
+>> Mhm.
+>> And it's just it's very very It's cool
+stuff. I mean, don't you think like he's
+just so creative and so and I mean this
+positively, so clinical and so logical
+in his construction.
+>> Yeah. And and even you're you'll hear
+it, folks, when when we start talking.
+Unfortunately, you won't see it, but
+when he when Keith starts talking about
+some of like some of the monster theory
+and all of that,
+>> oh my god, that's so cool.
+>> Jason, your face just like cuz
+>> Yeah, I'm pretty sure my eyes opened up
+on one of those. re the the the the
+researcher in you.
+>> Well, he said monster theory and and I'm
+like go on.
+>> Yes. The researcher the researcher in
+you just like went well it lit up
+because he talks about different like
+theories about monster development and
+things like that. And he talks about and
+I and I'm I you know he talks about you
+know you know like last decade or
+sometime in the recent past this new
+theory of monster development came in
+and the more he starts talking about
+this we won't give it anything away
+you'll you'll be able to tell because I
+I
+>> not only do I see it in your face but
+your your questions and you could just
+hear it in your voice because that just
+>> the the researcher and the academic and
+the the gamer in you all melded together
+for in at one moment and
+>> one one thought your laptop was going to
+melt, [laughter] you know,
+but but I think it's it's a bit true.
+And but this is also and I think you
+would agree, but for me, this is what I
+I most appreciate about Keith. He's so
+bright and he's so intentional and
+thoughtful about his work in that realm.
+And I mean, I really think it's creative
+not to not to take away from the many
+writers who are, you know, pumping out
+these these IPs and and doing all the
+monster destruction, right? But but with
+Keith, he's taking it to a different
+level. And and and he'll talk about
+this, so he won't say much right now,
+but but he it seems like we've now
+spoken with Keith thrice in the past
+three years, which is remarkable to me
+and grateful that he's willing to waste
+his time uh so much of it with us. And I
+think you can see the evolution of what
+he's doing,
+>> right? Yeah. and and it's just so
+interesting because it's beginning his
+work is beginning to become system
+agnostic
+and that just opens up so many options
+in and out of 5.
+>> The other thing Well, I'll I'm going to
+save that piece. I'm going to save that
+piece until after we talk. I
+>> should go over.
+>> Yeah, let's just go over.
+[music]
+>> Keith Almond is an Annie award-winning
+writer based in Chicago. He's the author
+of several books of advice for fifth
+edition Dungeons and Dragons players,
+including The Monsters Know What They're
+Doing: Combat Tactics for Dungeon
+Masters, More Monsters Know What They're
+Doing, How to Defend Your Layer, and
+most recently, Making Enemies, Monster
+Design Inspiration for Tabletop Role
+Playing Games, as well as the blog The
+Monsters Know What They're Doing. He's
+been a role playing gamer and game
+master for more than 30 years. He likes
+to play outwardly abrasive helpers, out
+of their element helpers, and genuinely
+nice, helpful helpers. Mostly though, he
+plays non-player characters and
+monsters.
+[music]
+As usual, we were chatting right before
+we hit record and we were talking about
+independent bookstores, which we always
+love to chat about. So, but Keith,
+thanks for joining us again. This is
+your actually we looked at it. This is
+your third visit.
+>> Third time.
+>> Third time back with us.
+>> Terrible judgment. Yes, Keith has
+terrible judgment in terms of returning.
+>> We have good judgment in inviting him.
+He has terrible judgment in accepting.
+>> But it really is good to to see you
+again and talk to you and really we
+appreciate it cuz it's like you have be
+so we saw you last almost exactly
+three years ago
+>> back in how to defend [clears throat]
+your lair.
+>> Yes. Yes. Which remains I mean I can
+look over and there they all are. That
+probably is my favorite or easily in the
+top three of my favorite RPG books. I
+just that one I absolutely loved. Um,
+and in the meantime, like my god, you've
+become like this RPG writing god. I mean
+I I mean not to not to go over the top
+but like the fact that you have this
+entire series now and like before we
+were recording we were talking about how
+Brad and I we are actively seeing your
+books on shelves both big box and indies
+in both of our cities. That's it just
+makes me very happy. I think it's a
+remarkable wonderful thing. I I I
+actually feel like my my star has faded
+a little bit because it took me so long
+to get making Enemies out uh after How
+to Defend Your Lair. But
+>> I don't know. That's that's my
+perception from my end. But
+>> Oh, I I felt like I I felt like what
+what I've seen over the past few years
+is is is that I've noticed that the talk
+of your books has kind of like increased
+over the past few years. feels like
+people were like catching like
+>> Yeah.
+>> and finding your books and then um was
+doing some research and it was
+interesting. Polygon actually when they
+were talking about your book, it said
+you will never see this was the title of
+the article. You'll never see D and D
+monsters the same way again after
+reading this essential TTRPG book. That
+was the title of the review for for um
+>> making Enemies
+>> for making Enemies. Um and so and and we
+were we were privileged enough to get an
+advanced PDF copy of the book. So we
+were able to see it and read it
+beforehand. So cool.
+>> Yeah. And it it's phenomenal how you
+know and it the the just I polygon was
+just one of the example reviews that we
+saw of it.
+>> Um you know what was the if you don't
+mind um reverse engineering a little bit
+what was kind of the onus behind you
+going and now
+Yeah. Why that direction?
+>> Well, uh it's funny that you describe it
+as reverse engineering because reverse
+engineering is how I've always described
+what I do and the monsters know what
+they're doing.
+>> And now with making enemies, I'm
+actually doing the engineering in the
+forward forward direction for a change.
+>> But um I
+knew the D&D was coming out with its
+50th anniversary rules revision. I knew
+that
+when that happened, um, it was going to
+take me a little bit of time to, uh,
+update the monsters, know what they're
+doing, uh, and revise it for the new
+edition. Uh, and I needed to find some
+way to keep myself afloat in the interim
+between,
+>> uh, between how to defend your lair and
+revising the monsters. No. And um so
+Teas Abadia who is a uh a designer, a uh
+podcaster, he does Mastering Dungeons
+with Shawn Merwin. He's got a lot of
+credits including uh being one of the
+writers of Acquisitions Incorporated. Um
+>> Oh yes,
+>> that that source book for for Watsi. Um
+he uh on his YouTube channel
+did a thing where he uh he gave a kind
+of a framework for thinking about how to
+decide what to work on when you're when
+you're creating independent work in the
+third party space for a game like D and
+D. And uh it boiled down to um
+on a scale from 1 to 10, rating what
+things you're most passionate about, but
+also in addition to that, rating how
+much time it takes you to produce
+certain kinds of content and how much it
+takes out of you, like how much it
+stresses you out and and drains your
+energy and that sort of thing as a as a
+counterpoint. And when you put all of
+those things together, the things that
+give you the most reward for the least
+storm and drang, those are the things
+you should be working on. And for me,
+that list came up with um
+uh
+game mastering advice
+and uh NPCs
+and monsters.
+>> Mhm.
+>> At the top.
+And really, all of the things I write
+are game master advice in in one form or
+another. And uh so it's it's just a
+question of what is the topic of the
+advice going to be? And at one point I
+was on the Mastering Dungeons podcast as
+an interview guest and they described me
+as a designer of monsters and I said,
+"Well, hang on. I haven't really done a
+lot of monster design. I've done a lot
+of monster exogesis, but I haven't
+really done much monster design of my
+own. And Sean and Teaos said, "Well,
+we'd really love to see what you would
+do if you got into the design space, you
+know, if you started designing
+monsters." And I remembered that. And
+that together with the uh recommendation
+of the spreadsheet that I should write
+some stuff about monsters made me think
+that would be a good thing to uh to put
+out. So, I was driving
+back from a vacation in the North Woods
+of Wisconsin uh with my family
+>> and uh I I handed my spouse a notepad
+and a pen and I just said, "Okay, just
+start writing down all the stuff I'm
+saying here. I'm just going to
+brainstorm a whole bunch of stuff about
+creating monsters and uh write it down
+and I'll make some sense of it later."
+Yes.
+>> And that became the outline of the book.
+[laughter]
+>> Really?
+>> Yeah.
+>> Wow.
+>> I mean, I I I'm not entirely surprised
+because like I know how methodical you
+are, right, as a thinker, as a writer,
+but that's pretty slick.
+>> So, what was the like moving forward
+from that, I'm curious cuz this is
+>> just before you do that, I I just want
+to say monster exagus. That is the
+coolest.
+>> Yeah. [laughter] You had I love that
+term. Sorry, I I don't have a question.
+I just have a comment that is an awesome
+term.
+>> Longtime listener, first- time caller.
+Yeah. I I'm curious though, Keith, what
+Okay, so after that point of just
+getting those thoughts down vicariously
+on paper, like this is qualitative
+different qualitatively differently than
+what you've written to my mind. Like
+what was the prep like for this? I
+remember talking with you about the
+other books, but like like what was that
+like? like the the mind space like where
+you wanted to go, how to do this, how to
+do it in a voice that others could
+follow.
+>> This one uh this one was a lot more akin
+to how to defend your lair than it was
+to the monsters know and more monsters.
+I mean, that was all
+>> that was all just a kind of a repeated
+process of analyze a stat block, see
+what it's telling me, and write it down.
+whereas how to defend your lair required
+a good deal more actual research
+>> and uh 13 months of it in fact. Um
+making enemies thankfully I was able to
+turn around a little bit faster than
+that. Uh but then at the tail end
+because I had created all of these
+monsters, there was also some play
+testing to do and and uh uh of course
+there's always the art and uh
+so um when
+I wrote How to Defend Your Lair and the
+Monsters No, they both began with uh a
+lot of just going out and and and
+scooping ing up books on, you know, that
+might answer questions that I wanted
+answered. Just basic your basic kind of
+research.
+>> Um, in the case of making enemies, a lot
+of that research was in the area of
+monster theory, which is a uh
+a sort of a uh subject matter study
+within the uh umbrella of cultural
+studies. Uh, and it's it it kind of
+began
+roughly in the '9s, kind of took off in
+the early 2000s,
+and um has just been kind of growing in
+uh in importance, I guess, from there.
+Um, but that was uh that fed into the
+monsters as metaphors chapter a lot. Uh,
+that kind of reading. Um,
+and then
+as far as the other research went, uh,
+that was more studying game systems that
+I was less familiar with.
+>> Yep. seeing how they solved certain
+problems, playing around with them, um,
+looking at published monsters in those
+systems and and kind of picking apart
+how they worked, reverse engineering
+them so that I could have the
+familiarity to uh, to then design in
+those systems in the forward direction.
+I'm still hooked on monster theory, but
+he This is This is a good
+>> Yeah. When you said when you said that,
+I saw I saw Jason's I saw Jason had this
+face on that the the study of
+>> making a mental note for later.
+>> Yeah.
+>> Yeah. This, you know, I I had I had
+meant to bring a
+uh to put a bibliography into how to
+defend your lair. Um but due to some
+quirks about uh how I
+so so all right so at the beginning of
+how to defend your layer this is kind of
+a tangent um I had been
+>> trying out writing in scrier which is uh
+some software that is used a lot by
+academics novelists screenwriters
+um it's got uh a lot of tools for
+handling citations tracking
+traits that are associated with
+characters and things that are very
+useful for novelists and screenwriters
+and academics. Um, but I found it really
+hard to use
+[sighs]
+because
+with my background as a journalist, my
+tendency is to just dump notes into a
+file and then turn them into readable
+pros.
+>> Right?
+And um
+when
+I was using Scrivener, I got frustrated
+by how compartmentalized all of the
+information was and how I couldn't
+easily find something else that I wanted
+to refer to because I would have to
+figure out what card I'd stored it on
+and and and it never looked right on the
+screen to me. And it just,
+>> you know, um it's an underrated thing
+having software that you're very
+familiar with and that you can just like
+it just looks right to you. Like if if
+something is a little bit off, that can
+mess up your whole flow
+>> big time.
+>> And uh you know, and that that was one
+of the problems I always had with
+Scriber. um you know, I'm getting older,
+my eyesight ain't what it used to be,
+and the letters were always too small,
+and and they wouldn't stay when I tried
+to make them bigger. And uh it was just
+it was all a big thing. So,
+um so I went back to doing what I always
+used to do as a journalist, which is
+just put everything in one giant word
+file and find what I want with control
+F. And uh
+but somewhere along the line uh I lost
+my bibliography. I had all my citations
+>> Oh, that's terrible.
+>> In Scrivener and I went back in and
+couldn't find them anymore. And um so
+>> so I ended up having to, you know, skip
+the bibliography in uh
+>> in How to Defend Your Lair because I
+couldn't reconstruct it. This time I was
+more careful [laughter] and I I knew
+from the get-go, this one I want to have
+a bibliography in, especially for the
+monster theory stuff. And so I I cited a
+few resources I used like uh animal eyes
+was a really useful book uh for talking
+about um how uh vision organs work in
+animals uh particularly in weirder
+animals. Um, and there were there were
+some others, but
+where I really said, "Okay, I'm going to
+cite the heck out of this is the monster
+theory chapter." Uh, and that's that's
+where the bibliography goes deepest.
+Taking attention again as well. So, it's
+interesting to me that you said you were
+able to to write Making Enemies uh a bit
+quicker than How to Defend Your Layer
+because How to Defend Your Layer is this
+nice concise book.
+[clears throat and cough]
+I think Making Enemies I I have to go
+back and check. I think it's 592 pages.
+>> Yeah, it's almost twice as long, which
+is funny.
+>> It's a tome. Another tome. [laughter]
+>> Yeah. How did you I mean my god that's a
+lot to to write and to create. How long
+did it actually take you once you like
+put so to speak pen to paper? I think it
+took me one well once I actually sat
+down and started writing after doing
+preliminary research.
+>> Uh I think it took about seven or eight
+months.
+>> That's incredible.
+>> And then um
+>> and then and then I think three or four
+months of play testing after that.
+>> Wow. That's just incredible. That's
+that's so much writing, Keith.
+Wow. Good for you. when you were and I
+know that like you said you you you know
+obviously the onus behind it was was you
+know D&D
+2024 edition whatever you know it's not
+5.5 it's not six it's 20 whatever they
+want to you know
+>> I call it I call it 5e24
+>> yeah there you go
+>> and and distinguish it from 5e14
+>> there we go yeah
+>> but
+>> sounds like there's a superscript in
+there yeah
+>> yeah yeah and I know that I know
+[snorts] that you know like out on Simon
+and Schustster's website with the
+information about the book. You know, it
+says that, you know, you can the you
+talk about how to create within
+Pathfinder 2E, within Shadow Dark,
+within Cipher, within Kthulu and things
+like that.
+>> Um, did you actually do some play
+testing or gaming within those systems?
+>> Oh, yeah.
+>> Yeah. Mhm.
+>> Um, you know, what is your, you know,
+did you find,
+um,
+like really anything like unique or
+really like different or anything that
+was like out of the ordinary that that
+really like caught your attention
+between those systems that maybe you
+weren't like expecting?
+>> Well, I mean, they're all they're all
+very different from one another. Um,
+>> yeah, probably the two closest to each
+other are DN D and Shadow Dark.
+>> Yeah. Um, but I mean, Shadow Dark has
+its own uh design philosophy. It's got
+its own way of doing things. Every every
+one of these systems has its own way of
+doing
+>> things. And so,
+>> uh, it's kind of a matter of
+>> learning that language, looking at
+things through that lens, and uh,
+>> having having an idea about how they
+model different things.
+>> Were you already
+>> going along with that? Were you already
+really familiar with all of those
+systems?
+>> I was familiar with Dn D and Cipher.
+>> Um, I was semifamiliar
+with Call of Cthulhu. I had played it a
+little bit, but I I needed to take a bit
+of a deeper dive.
+>> Yeah.
+>> Um,
+>> Shadow Dark I did not begin familiar
+with, but familiarizing myself with it
+did not take long. It's a very easy
+system to learn, especially if you're
+already familiar with 5e,
+>> right?
+>> Um,
+>> it's it's just a matter of
+>> uh
+understanding
+that Shadow Dark is all about
+cutting away everything that doesn't
+look like an elephant. You know, it's
+it's just pair the stat block down to
+its barest essentials.
+>> Yeah. Uh, the one really heavy lift was
+Pathfinder.
+>> Okay. I'm curious
+>> because
+>> I never played DND third edition or 3.5,
+>> uh, which is where it branched off from
+the D&D family.
+>> Um,
+I
+had to,
+>> well, it's a mathheavy system.
+>> Yep. And I had to do a lot of math
+myself to get a good sense of, for
+example,
+uh how big an impact is a plus two? You
+know, at what at what point are you
+applying
+>> enough uh enough of a modifier for
+um a condition
+or a uh stunt primer
+>> uh to
+to feel like it's giving you enough of a
+payoff that you can then detonate it?
+>> Yeah. Um I was I was actually kind of
+surprised to find that uh it doesn't
+take as much as it does in 5e. You know
+in in 5V if you have advantage or
+disadvantage that's mathematically
+equivalent to roughly plus or minus 4
+>> toward the middle of the target number
+range. Uh it's equivalent to plus or
+minus five. Um, so to get the effect
+of
+uh advantage or disadvantage in Dn D,
+you would need to uh apply a plus4 or
+plus five or minus five modifier.
+>> Uh, in Pathfinder, it's it's actually
+only about a plus two.
+>> Oh, interesting.
+>> Uh, at least for uh attack rolls. I
+think it was a little bit different for
+um
+>> uh saving throws,
+>> but um but for your basic attack rolls
+and ability checks, it was just plus
+two. And the reason for that is that um
+because you only have to exceed the
+target number by 10 in order to gain a
+critical effect. Mhm.
+>> Um,
+you get crits much more often and
+therefore
+>> uh you don't need to,
+>> uh, you don't need to increase your odds
+of hitting quite as much.
+>> Yeah.
+>> In order to
+uh average out to a to a significantly
+better result.
+>> Oh, interesting. Okay. May maybe this is
+I'm not trying to break the system here,
+so maybe this is pushing it too far, but
+I'm curious uh for someone who plays
+predominantly or just a lot of sci-fi.
+>> Mhm.
+>> What would you recommend? Let's say they
+they read Making Enemies, they love it,
+they're they're thinking, okay, I want
+to apply this in my games, like whether
+it's, you know, Star Trek Adventures,
+whether it's Traveler, whether it's
+whatever, right? Um, any [clears throat]
+tips for that?
+>> I haven't studied those systems, so I
+don't have specific tips for those
+systems the way I do for the five that I
+look at in the book,
+>> of course. But if you have a deep
+intuitive understanding of whatever
+system you're playing in,
+>> then you can take the general
+information from making enemies
+>> and apply it using your own
+understanding of those systems
+>> and and and put it into mechanics, you
+know, yourself. Um because
+so there's the system agnostic portion
+of the book
+>> and there's the system ecumenical
+portion. So the the you know there's in
+in every chapter I begin with talking in
+general terms um the undergirling
+philosophy of what I'm talking about and
+then I go system by system and say okay
+if you're playing D and D you can
+implement it like this if you're playing
+Pathfinder you can implement it like
+this and Shadow Dark and Cipher and Call
+of Cthulhu. Um,
+so
+the first half is still there for you.
+It's just the second half is up to you
+if you're playing a different system.
+>> Nice.
+>> Okay.
+>> You with you, you know, obviously, you
+know, with you writing and everything
+like that and with a family and
+everything, time, you know, you
+>> don't Yeah, you [laughter] may. Yeah.
+Time time is slim, but
+>> time is CR30. Sorry. I just I had to
+inter because we're an audio podcast.
+None of you listening will have the
+pleasure of seeing Keith's eyes triple
+for a moment in [laughter]
+>> Yeah. But but assuming you had Yeah.
+Assuming you had the time,
+>> you know, looking at like Pathfinder,
+Shadow Dark, and and 5e24.
+um doing that. Um
+do you have you know is your preference
+still 5e24 or do you you know having
+tend to play?
+>> Do you honestly my preference is still
+5ev14?
+>> Oh
+>> interesting. Okay. Yeah.
+>> I uh I well I mean what I'm what I'm
+doing right now is a bit of a mishmash.
+>> Uh I do not care for 5e24
+character creation. Okay.
+>> Um,
+many of the rules changes
+feel to me like
+instead of starting from the narrative
+and saying how can we model this
+mechanically, they start from whatever
+mechanic they wanted to implement and
+said now how do we justify this
+narratively?
+and I don't like to work in that
+direction. Um, that being said,
+I think that a lot of the changes they
+made to monsters in the 2025 Monster
+Manual are pretty good. I would say of
+the three new revised core books, the
+Monster Manual is my favorite of the
+three. Um, there are still things I look
+at in there and shake my head at. Uh,
+but there's some really good stuff, too.
+So, what I've been doing, I'm running a
+uh, Rhyme of the Frost Maiden campaign
+with my main group.
+>> And in that, we're using characters
+created using the 2014 rules.
+But whenever there's a monster that's in
+the 2025 monster manual, that's the
+version I'm using.
+>> Okay.
+>> Okay. Um, so that's that's kind of where
+I'm sitting.
+>> Interesting.
+>> Um, Pathfinder, I think, is um
+I'll just I'll just say it's not really
+my cup of tea. Um, I used to love
+Gersps, [laughter] but uh I feel like
+that level of crunch now feels outdated
+to me.
+>> Yeah.
+>> And Pathfinder is still very crunchy
+like that. And and it also can be
+>> um for all of the different options it
+offers, it can sometimes be very um
+limiting in what kind of characters
+it'll allow you to create, which is
+>> interesting.
+>> You know, it's it's it's a case where
+where more is less.
+And um I do like Cipher. I tend to like
+Cipher more for genre matchup mashup
+games
+>> uh than for just straight up swords and
+sorcery fantasy.
+>> Um
+>> like uh I used the cipher system for a
+uh game that was sort of inspired by the
+League of Extraordinary Gentlemen.
+>> Oh.
+>> Um which was loads of fun. Um, we had a
+we had a party consisting of Ebenezer
+Scrooge, who's still talking to spirits,
+and uh uh Septimus Ptorius, the mad
+scientist from Bride of Frankenstein,
+and uh Estella Havsham from Great
+Expectations, trained to kill by her
+mother. So uh yeah, it was a great
+bunch. It was a great bunch. I had a
+loads of fun and cipher was like the
+perfect system for it.
+>> Um
+>> I always I always felt cypher I don't
+know about cipher.
+>> When I think of cipher I think of it
+more for I I don't not that it can't I
+just never think of it as like a like a
+high fantasy or something like that
+system. Although it is. I just always
+think of it. Yeah. I think of it as more
+like you said more of like for maybe
+like sci fantasy or like like you said
+like you know even in like Victorian era
+or sci-fi or something like that or you
+know Newman era-esque type environments
+or something like that you know
+>> so but but League of Extraordinary
+Gentlemen that's
+>> the natural successor to Gersps. Yeah,
+with mechanics that feel a little bit
+more
+>> of the moment than than gersps now do.
+>> Okay.
+>> Wow. Wow. But leave that's the that's
+the first time I've heard [laughter]
+about this for a while.
+>> That's cool.
+>> I know what we're going to talk about
+after the interview.
+>> Yeah. [laughter] Well, there's plenty
+we'll be talking about after the
+interview.
+>> Um [clears throat] ju I'm just I'm
+curious. It uh not asking for spoilers
+or revealing anything. Are there I mean
+you just finished another tome, but I'm
+curious. Are there are there more books
+you would like to write? I have to
+assume there are. Are there are there
+topics or things maybe a little more pie
+in the sky? But it would be fun like
+like I mean there must be hopefully
+there's something next, right? So, after
+uh
+after the 2025 Monster Manual came out,
+I did my speedrun to revise the monsters
+know what they're doing.
+>> Jeez.
+>> Uh did that in five months.
+>> Wow.
+>> That was that was intense. But I did it.
+That's in the can. Uh it's in my
+editor's hands now.
+>> Well done.
+>> And uh it's going to be out sometime in
+2026. We were shooting for July. I am
+earnestly hoping we can still make July
+happen. Although there were some things
+that may have
+uh may may end up causing a delay. Um
+really want to get that book out by Gen
+Con and I'm
+>> Oh yeah,
+>> deeply deeply hoping it happens. Um,
+>> but uh but so that's in my editor's
+hands now.
+>> That's great.
+>> Um it's just
+>> y
+>> copy editing and art from here on.
+>> Yep. Um, so I finally have a little time
+to sit back and breathe and
+uh, you know, just read for a while and
+try some other new systems and
+um, and and see what ideas come to me
+next. I I genuinely at this point I
+don't know what's next.
+>> Yeah. Um, but I, you know, now I have
+the luxury of finally being able to sit
+back a little bit and uh and
+>> take it easy, sharpen the saw, and uh
+and see what ideas come to me next. if
+you're when you're talking like trying
+systems, anything that's like kind of
+caught your attention that you've that
+you have been trying or that you want to
+try that that's been on
+>> obviously you you you were play testing
+and and doing working with systems for
+the book, but anything that was outside
+of that that's kind of
+um on your radar now?
+>> Um well, a couple of things. Um I guess
+I I could lump them in, I guess, into
+three categories. Um, one is,
+uh, I'm finally
+taking a look at Daggerheart, seeing
+what's up with that. Um,
+but
+Daggerheart is wild high fantasy
+and DND 5e24
+um really embraces wild high fantasy
+>> uh to the exclusion of other kinds of
+fantasy that 5v14 accommodated. 524
+doesn't accommodate them as well. It's
+really gone all in on wild high fantasy,
+>> but it's wild high fantasy. Pathfinder
+is wild high fantasy. Daggerheart is
+wild high fantasy.
+Draw Steel is wild high fantasy.
+>> It's like the whole market right now is
+is all moving in the direction of wild
+high fantasy
+or in blood and grime caked dungeon
+crawling
+>> and there's not much in between. Yeah.
+>> So, you know, I like I really like to
+live in the anchored high fantasy space
+with occasional foray into not really
+low fantasy, but maybe medium fantasy,
+like, you know, Blades in the Dark
+level.
+>> Oh.
+>> Um,
+and uh a couple of people independently
+suggested to me that I look at a couple
+of free league games.
+>> Yeah.
+Dragon Bane and Forbidden Lands.
+>> Oh, cool.
+>> Uh, so those are a couple that I also
+want to look at.
+>> Um, and see how they feel, see if they
+they kind of scratch that anchored
+fantasy itch for me. [clears throat]
+>> Um, and then the third bucket is things
+that aren't fantasy at all because there
+are just some some very cool games out
+right now. uh that I have on my
+bookshelf that I haven't gotten a chance
+to do anything with yet. Orbital Blues,
+Triangle Agency, Deathmatch Island. Um
+I Flabbergasted,
+uh which is
+Flabbergasted is is like this um
+roaring 20s PG Woodhouse kind of game.
+Uh
+>> interesting. Um, yeah. So, um, yeah, I
+wanna I want a chance to take those out
+for a spin, you know. Uh, and I haven't
+I haven't had a chance to because I've
+been just eyeballs deep in writing. So,
+>> I've done some solo
+>> That's cool. I've done some solo
+dabbling with with Forbidden Lands and
+and it's fun and it and the material
+that that Free League puts out is is
+high quality stuff. So,
+>> um
+>> so yeah, that's that would that's that's
+one that's worth it.
+>> So, I'm going to be totally honest. I I
+this has been sticking with me since you
+mentioned um the update to the monsters
+note they're doing. You probably don't
+remember this, but uh I remember your
+response to it when we talked about it
+three years ago. Um I read the monsters
+know what they're doing one cover to
+cover.
+>> Mhm.
+>> I don't think I can do that a second
+time.
+[laughter]
+Well, I'm going to make it a little
+easier this time because
+>> um so so this time around
+I really wanted to
+throw in something additional that would
+uh sweeten the pot. God damn it.
+>> Um [laughter]
+you know for for people who were like I
+don't know if I'm you know if I I need
+to get the new one. Well, number one,
+you do need to get the new one because
+there are enough changes in the Monster
+Manual 2025 to to make the original
+monsters no obsolete if you're using it.
+So, um,
+>> but at the same time, you know, one of
+the one of the things I found
+challenging is that the Monster Manual
+25 cuts back so hard on lore.
+>> Oh, interesting. that sometimes it can
+be hard to find things to comment on in
+an introductory fashion, you know, when
+I'm starting an entry. And also uh often
+times um in the interest of uh reducing
+supermarket fatigue, which is a good
+goal, um they've cut back on options to
+such a degree that there's almost only
+one way to play a monster.
+>> There's like almost only one thing you
+can do. Um, so what I have done is for
+every monster
+I've gone through and added a tip,
+>> whether it's a modification you can make
+to the monster
+>> or a recommendation of what other
+monsters to pair it with
+>> or uh things to keep in mind when
+placing it in a certain kind of terrain.
+>> Nice. or a fourth category that I call
+shenanigans,
+which is the uh the loopholes,
+the uh the um
+uh unanticipated consequences,
+the uh the way you can just play this
+monster and have ridiculous fun with it.
+>> Cool. And uh so that's in there for for
+every entry in the book.
+>> Wow.
+>> Um
+so yeah, you've just given people you
+you have you have definitely upped the
+incentive.
+>> That is slick
+>> to pair it with with you know MM25.
+Um especially like you said if they've
+cut back on since they've cut since they
+have cut back on the lore in the book.
+>> Yeah. um you know, and if you're just
+looking at stat blocks, then um you're
+going to need something to work it with.
+>> Mhm. Mhm. I mean, that was the beauty of
+the of of the onee version of your book
+that that like you were like this is the
+this is the motivation, right? This is
+what this monster is. This is where it
+comes from. This is what it should be
+doing and here's why. And that that
+that's what was so interesting about it
+of you know these aren't just these
+aren't just stat blocks these are
+quoteunquote monsters and that was just
+really see well
+>> hopefully come July I will be looking at
+the bookshelves to flip through that and
+see what what look how yeah great thanks
+[laughter]
+[clears throat]
+thanks so much for coming back it it's
+just a pleasure to talk with you just
+seeing all of your books come out um
+it's [clears throat] just so neat And
+again, I don't know that we ever talked
+about this before, but the artwork
+that you get in your books, I'm I'm a
+sucker for it. It's like particularly I
+don't I don't even know what to call it.
+I'm certainly not an artist, but kind of
+the that Okay, don't don't shoot me
+anyone for this. that rounded more
+friendly fantasy drawing that that art
+of okay these are big scary things but
+kind of like a ink right of but you I
+like I just want to engage with it um I
+just think it really it peppers all of
+your books I mean and the covers are
+just incredible um they just god they
+just shine on the shelves but I think
+the art really does bring a lot um ac
+across them
+>> well I will pass along your compliment
+compliments to my spouse who is the one
+who does most of those interior
+illustrations.
+>> Please do.
+>> Really? Wow. Yeah. She did them in uh in
+um the monsters know what they're doing.
+More monsters know what they're doing
+making enemies. And she's also doing
+them for the monsters no revised. Well,
+>> uh,
+you will remain our favorite, but please
+ask if she'd come and talk to us on the
+podcast [laughter] cuz we would love to
+talk about the art. That's Oh, that's so
+cool. No wonder she was so willing to
+take down notes in the car. That does
+make a little more [laughter] sense now.
+>> Yeah, we've been we've been working
+together on on most of this series.
+>> I had no idea.
+>> Yeah. Uh, she was not available to do
+live to tell the tale. um because our
+our child had just been born. Um and uh
+how to defend your li
+illustrations. It was just all maps.
+>> Yeah, that's true.
+>> And so I went out to uh dedicated
+cgraphers
+uh for those. But um yeah, all of the uh
+all of the monster illustrations, all
+the monster combats have been uh have
+been her work. and and the covers.
+>> No, not the not the covers. The covers.
+I have a
+>> I have a separate artist. Um but that
+artist has done all the covers.
+>> Okay. Yeah, clearly. But Oh, that's so
+neat, Keith. Yeah, that's that's
+fascinating. Yeah, I love I love the art
+inside.
+>> Yeah, I think the co I mean the covers
+the covers themselves, they're it it's
+it draw it's it's a different type of I
+don't know how to explain it. It draws
+you in because it's it's a different
+type of cover for the book, you know.
+It's not what it's not what you would
+expect as like a traditional,
+you know, cover. It's not a novel. It's
+not a resource book. It draws your
+attention to to make you look, you know
+what I mean?
+>> And that was a that was a topic of
+conversation between me and my initial
+editor when we were uh uh first working
+on the monsters know what they're doing.
+um the art department uh at then it was
+Saga Press, now I'm being published by
+Gallery Books. They're both
+>> imprints of Simon and Schustster.
+>> Um but the uh the art department had
+kind of wanted to do this sort of, you
+know, imaginative realism fantasy art
+that you see on the uh on the covers of
+basically everything. you know, both
+both role- playinging game books and
+also uh fantasy novels.
+And I said, you know, I don't know if
+this is right for this. Number one,
+because we want to differentiate
+ourselves
+from uh we don't want anyone to mistake
+this for a Wizards of the Coast book uh
+for legal reasons if nothing else.
+>> Yeah. Yeah. Um, but also
+I really wanted the cover to
+convey
+the sort of combination
+of reverence and irreverence
+that I bring to my writing about the
+game.
+>> And so I thought that a fantasy comic
+book style
+>> Yeah.
+>> would suit it better. Um, and so we
+looked at a few of a few artists who
+were doing that kind of work. Um, and
+Leo Preland happened to be available to
+do it and has just knocked it out of the
+park time and time and time again.
+>> Especially for the cover of Live to Tell
+the Tale. I love that cover so so much.
+>> Yeah. It's just they're they're just
+they come across I don't know how to I'm
+not using the best the best terminology
+or vernacular, but they're just
+accessible. They just come across as
+very accessible tones when you look at
+the covers, you know. Um, and then, you
+know, I I can't add in anything beyond
+what Jason was saying in terms of the
+internal illustrations, just in terms of
+how how it makes them
+>> they're friendly and they're engaging
+even though they're monsters and even
+though some of the monsters are
+absolutely terrifying.
+>> Yes.
+>> Yes.
+>> So, Keith, thanks so much for joining us
+again. We really appreciate it. We're
+we're we were really excited to hear
+about Making Enemies. It's a phenomenal
+book. Congratulations on it. Um, we wish
+you the best and as things move forward
+and when you're when you're ready with
+the next home or when things when when
+uh your next project is out, please
+please uh let us know and uh
+>> Oh, we'll definitely want to talk to
+you. Yeah.
+>> Yeah. And we'll and we'll we'll have you
+back on. Or if you're up here in the
+area or if you're in the cities, you
+know Oh, yeah.
+>> Let us know. We'll we'll grab out. Yeah.
+>> Yeah. [laughter]
+Thank you again, Keith, for joining. You
+know what I found interesting? I mean,
+there's obviously a lot that's
+interesting in there, but a little a
+little nugget. We didn't dive too deep
+into, but listening to him talk about,
+you know, how he said that as a
+journalist,
+>> he writes and he puts together his
+material differently. you know, he
+talked a little bit about Scriber and
+how he went back to his old
+methodologies and things like that. And
+I just find that interesting and
+fascinating how his
+>> his his cooking, his methodology,
+>> yeah, it,
+>> you know, how he found something that
+works for him and as a journalist, it's
+that's just,
+>> you know, what works for him. It would
+it would it might work for someone else,
+it might not. Um, but it's a little
+different than what we've heard from
+other folks that we've interviewed and
+met with.
+>> And I always love and we didn't have to
+even ask. I always love hearing about
+those things. So, I was really
+appreciative that he started talking
+about this.
+>> Yes.
+>> Um,
+>> and without even prompting it was it's
+one of the first times we've been able
+to ask about the the sausage.
+>> I knew that was coming. I I know. I
+know. But but I I mean we do we geek out
+about process, writing, and creative
+process. and he really jumped into that.
+>> Yeah. So, yeah, thank you again. I mean,
+just everything everything in general,
+but I that was the thing I was going to
+mention before
+>> um we jumped to the interview, but I I
+wanted to wait. I didn't want to give it
+away before people got a chance to
+listen for themselves. Um but hey, let's
+let's head over to
+>> the Lon Cafe. I don't even know how to
+make a loon sound. So, you know, sounded
+like an owl. You know, it's funny is
+that No.
+>> Yeah. Um it it I ironically now that I'm
+living like out in the country.
+>> Yep.
+>> Um
+>> you know it is other than first of all
+no street lights.
+>> Yeah. I love that.
+>> It gets really really quiet because I am
+far enough away and over some hills from
+>> through the woods.
+>> Um right
+>> from a federal highway which is not
+heavily trafficked at night.
+>> Yep. Yeah.
+>> Um, so at night I will go out and I will
+hear the snow hitting the ground when it
+snows.
+>> Oh, that's so nice, Brad. I actually
+right before well the hour before we
+recorded this evening. Yeah.
+>> Um, I went out. I haven't with things
+going on at home right now. I haven't
+been able to walk much. And I went out
+and it was snowing. And when I went when
+I started it was one of the heavy fluffy
+flakes and there was a pretty good it
+was like it was it warmed up to 18 but I
+think the windchill was low single
+digits
+>> and yeah and that's fine but with
+between the wind and the size of the
+flakes I could actually hear them
+hitting my collar on the jacket
+>> and it was just so relaxing. I went out
+and I I went out at one point and I
+heard the snow hitting the ground.
+>> Love that.
+>> And I'm like, that's unbelievable. Then
+um I had to go out and throw some
+garbage out. Our garbage cans are out a
+ways, you know, just out a little bit of
+a walk. So I walked out and did it
+>> and then came back up to my porch and
+stood and I stop and I'm like I stop
+still because I just want to hear the
+nothingness. Right.
+>> Yes. Um, and all of a sudden I'm hearing
+it's the deer walking across the road.
+>> That's great.
+>> And they walk across and then they and
+then all of a sudden they started
+prancing and running along the side of
+my house.
+>> Yeah.
+>> And one of them looked at me and I was
+just like, "Hey." And literally I just
+said, "Hey." Just to kind of be funny,
+like I'm talking to a deer. And it was
+like a car. It made an immediate Uturn.
+>> Yep. I went right back where it came
+from, back into the marsh. The other one
+kept on going because it's a deer. Um,
+I've got a possum that's in the area
+here that I've seen.
+>> Um, and I know that I actually have um I
+now have two pet rabbits that
+>> um that sit up near the home at night.
+>> Nice.
+>> Um, and I actually when I went to the
+grocery store last week bought some
+carrots and [laughter]
+>> That's right. cuz we because we used to
+do that at the at my place in Milwaukee
+and now I now I
+>> That's great.
+>> feed uh throw just the little baby ones,
+the little carrots. The little baby
+carrots.
+>> If I put If I put carrots in my
+backyard, I would have a second bumper
+crop of little bunnies.
+>> Yeah, that's I I'm These bushes are
+going to get replaced, so I'm I'm
+allowing them to have them this year.
+But I throw I throw two little carrots
+out there and at night I'll walk out and
+I'll see the little I'll see these
+little balls cuz they're all bundled up
+and wrapped in.
+>> So, okay. Loon Cafe, you sent me
+>> That was a hard pivot.
+>> Yeah. Yeah, that was a hard pivot. Um,
+>> uh, Lon Cafe, you sent me a message this
+week because there was a book that did
+catch your attention. Neither of us have
+it.
+>> Oh, it's right here behind me. Yep.
+Waiting for me to read.
+>> No, no, no.
+>> Oh,
+>> no, no, no. Not that book. Neither of us
+have this book. Oh yes. Wait. From from
+Mongoose.
+>> Yes. Okay.
+>> Not Pioneer.
+>> Oh,
+>> I just thought it was I just thought it
+was an interesting I thought it'd be an
+interesting just
+>> Okay. So, tell everybody what you're
+talking about.
+>> It was the Starship operators manual
+that came up
+>> as a notification
+>> for if you are on Mongoose's mail list.
+that that it became available
+>> um and um it is on my list
+um to acquire because I mean just
+>> I' I'd love to I would like to see I'm
+really interested in I'd like to see
+more of the inside then it's just got a
+couple of like a few pages of example
+>> but it like it looks like it gets pretty
+deep.
+>> Yeah. I, you know, I've um I've been
+working on a couple other things, so I
+haven't dug I haven't gotten too deep
+into
+RPG stuff over the past two weeks.
+>> Yeah.
+>> Um,
+you know, I've been um it's just been
+kind of busy with holidays and with
+things like that.
+>> Yeah. But
+um it I've been RPG adjacent obviously
+because recently we we obviously are
+getting notifications because we're on
+the Pioneer quick start.
+>> Um I am on the fifth season quick start
+from Green Ronin.
+>> Very good.
+>> Very good.
+>> And um you know little things pop up
+like what you just sent with the
+Starship operators manual too.
+>> We have been talking about uh you and I
+not always on air. You and I have been
+talking about the fifth season since
+they were nice enough to send us the
+advanced PDF. My god, how long ago?
+>> Oh, good year or some ago. Yeah,
+>> they're going through they Green Ronin
+is going through a real tough challenge
+right now with a with a distributor.
+>> Yeah, I'm really
+>> and all that, you know. So, they they
+want to get this out. They're just
+they're just having to deal with some
+legal issues out of their control with
+uh distributors through bankruptcy.
+>> Um but once they can get that rectified
+then um things will proceed and
+>> and Chris and the Green Row Ne team send
+out updates regularly on it.
+>> Good.
+>> So
+>> cuz I those expanse dice in my
+collection are are calling for a little
+roll. Those are good looking dice. Yeah.
+>> Yeah. Anything anything on your desk
+lately or you have a book behind you?
+>> Um I do, but you know what? I'll just
+what I'll just mention briefly maybe to
+close us is speaking of Pioneer and
+Mongoose. So, um in part in large part
+thanks to your last minute convincing
+this p this this past week or so, I
+binged season 4 of For All Mankind.
+>> Uh I' I'd watched the first three
+seasons and it just got too melodramatic
+for me. Honestly, season 4 got too
+melodramatic for me, too. But I'm really
+glad I watched it. And [clears throat]
+uh for two reasons. One, I never know
+where they're going to go. They they
+continually surprise me in terms of the
+plot and and two, watching that is kind
+of a way for me to vicariously play
+pioneer.
+And so so it just made sense.
+>> Ah the pioneer connection that makes
+some sense
+>> that that that was a main motivator.
+Okay. Hard pivot one more of these and
+then we'll wrap it. Um with my Amazon
+Music account, we've talked about this.
+Uh I think we we both get this, but um
+with Amazon Music uh HD at least or
+whatever they're doing now, you get a
+free audible download every month
+>> and you can switch at any time. You can
+just have one though
+>> for a month.
+>> Okay. So, uh I saw there is a new
+recording, a very professional cast
+recording of Harry Potter and the
+Sorcerer Sorcerer Stone. Oh,
+>> and I thought, you know,
+that could be some good car or morning
+coffee listening. Like, I I read them
+all. I read them all to my girls when
+they were little.
+>> Yep.
+>> Um, but it's the right kind of season
+for it. I I like the story. I don't
+care. I don't love the first book, but I
+think listening to it would be very good
+because this looks like it's very well
+acted.
+>> Yes.
+>> So, so I might I might get I might I
+might indulge in that in the coming
+weeks. That's an interesting choice, but
+I want to I want to we'll talk offline
+about that one. I'm curious about that.
+>> Okay. All right. So, while we go and
+talk offline, you all know the deal. Be
+well. Stay well. We'll see you in a
+couple weeks.
+[music]
+[music]
+>> [music]

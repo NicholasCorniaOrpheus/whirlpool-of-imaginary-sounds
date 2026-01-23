@@ -1,0 +1,4425 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:17,060",
+      "end_time": "00:00:20,200",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:27,970",
+      "end_time": "00:00:31,090",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:35,640",
+      "end_time": "00:00:38,880",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:48,330",
+      "end_time": "00:00:51,490",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:56,090",
+      "end_time": "00:00:59,709",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:01:08,640",
+      "end_time": "00:01:11,730",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:01:20,710",
+      "end_time": "00:01:28,810",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:01:34,320",
+      "end_time": "00:01:38,040",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:01:47,140",
+      "end_time": "00:02:04,570",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:02:21,580",
+      "end_time": "00:02:25,190",
+      "text": "hello and welcome back once again to me"
+    },
+    {
+      "start_time": "00:02:23,690",
+      "end_time": "00:02:26,870",
+      "text": "myself and I I am as always your"
+    },
+    {
+      "start_time": "00:02:25,190",
+      "end_time": "00:02:29,840",
+      "text": "intrepid game master host and player"
+    },
+    {
+      "start_time": "00:02:26,870",
+      "end_time": "00:02:31,910",
+      "text": "Trevor to Val big shout out and thanks"
+    },
+    {
+      "start_time": "00:02:29,840",
+      "end_time": "00:02:33,320",
+      "text": "to my friend wall Ross for creating that"
+    },
+    {
+      "start_time": "00:02:31,910",
+      "end_time": "00:02:34,280",
+      "text": "map that you saw in the introduction he"
+    },
+    {
+      "start_time": "00:02:33,320",
+      "end_time": "00:02:35,690",
+      "text": "did that with a little program called"
+    },
+    {
+      "start_time": "00:02:34,280",
+      "end_time": "00:02:37,370",
+      "text": "wonder draught it's a really cool little"
+    },
+    {
+      "start_time": "00:02:35,690",
+      "end_time": "00:02:40,160",
+      "text": "cartography program you can check out"
+    },
+    {
+      "start_time": "00:02:37,370",
+      "end_time": "00:02:41,870",
+      "text": "for yourself at the link below in the"
+    },
+    {
+      "start_time": "00:02:40,160",
+      "end_time": "00:02:43,880",
+      "text": "notes before we get on with today's"
+    },
+    {
+      "start_time": "00:02:41,870",
+      "end_time": "00:02:45,380",
+      "text": "session a couple things one as always"
+    },
+    {
+      "start_time": "00:02:43,880",
+      "end_time": "00:02:47,420",
+      "text": "you enjoy the show please do hit like"
+    },
+    {
+      "start_time": "00:02:45,380",
+      "end_time": "00:02:50,090",
+      "text": "and subscribe and keep that bell rung"
+    },
+    {
+      "start_time": "00:02:47,420",
+      "end_time": "00:02:51,830",
+      "text": "for notifications because there will not"
+    },
+    {
+      "start_time": "00:02:50,090",
+      "end_time": "00:02:53,480",
+      "text": "be a new episode next week if you're"
+    },
+    {
+      "start_time": "00:02:51,830",
+      "end_time": "00:02:55,640",
+      "text": "watching this in real time because I"
+    },
+    {
+      "start_time": "00:02:53,480",
+      "end_time": "00:02:57,350",
+      "text": "have to go to town from work I am a"
+    },
+    {
+      "start_time": "00:02:55,640",
+      "end_time": "00:02:58,700",
+      "text": "professional voice actor after all and I"
+    },
+    {
+      "start_time": "00:02:57,350",
+      "end_time": "00:03:01,490",
+      "text": "have to go to many many different places"
+    },
+    {
+      "start_time": "00:02:58,700",
+      "end_time": "00:03:04,280",
+      "text": "to you know pay the bills so with that"
+    },
+    {
+      "start_time": "00:03:01,490",
+      "end_time": "00:03:07,280",
+      "text": "in mind I don't think we need to do a"
+    },
+    {
+      "start_time": "00:03:04,280",
+      "end_time": "00:03:08,870",
+      "text": "major recap but basically Simon was able"
+    },
+    {
+      "start_time": "00:03:07,280",
+      "end_time": "00:03:10,550",
+      "text": "to put his father Roland Spirit to rest"
+    },
+    {
+      "start_time": "00:03:08,870",
+      "end_time": "00:03:12,560",
+      "text": "and before Roland spirit left he"
+    },
+    {
+      "start_time": "00:03:10,550",
+      "end_time": "00:03:14,210",
+      "text": "recommended to Simon that he tried to go"
+    },
+    {
+      "start_time": "00:03:12,560",
+      "end_time": "00:03:15,650",
+      "text": "back to chitin and clear his name if you"
+    },
+    {
+      "start_time": "00:03:14,210",
+      "end_time": "00:03:16,880",
+      "text": "recalled mana front of Dublin was one of"
+    },
+    {
+      "start_time": "00:03:15,650",
+      "end_time": "00:03:18,290",
+      "text": "the Lords of chitin who believed that"
+    },
+    {
+      "start_time": "00:03:16,880",
+      "end_time": "00:03:20,150",
+      "text": "Simon was the serial killer that was"
+    },
+    {
+      "start_time": "00:03:18,290",
+      "end_time": "00:03:21,440",
+      "text": "killing a bunch of beggar's in the poor"
+    },
+    {
+      "start_time": "00:03:20,150",
+      "end_time": "00:03:23,210",
+      "text": "quarters of the city that was about a"
+    },
+    {
+      "start_time": "00:03:21,440",
+      "end_time": "00:03:25,010",
+      "text": "year ago that Simon fled and the warrant"
+    },
+    {
+      "start_time": "00:03:23,210",
+      "end_time": "00:03:27,320",
+      "text": "for his arrest is still out and fresh"
+    },
+    {
+      "start_time": "00:03:25,010",
+      "end_time": "00:03:29,180",
+      "text": "because he accidentally killed a guard"
+    },
+    {
+      "start_time": "00:03:27,320",
+      "end_time": "00:03:31,730",
+      "text": "in his escape as well so he is that to"
+    },
+    {
+      "start_time": "00:03:29,180",
+      "end_time": "00:03:33,680",
+      "text": "contend with as well Arne and Ed Burt"
+    },
+    {
+      "start_time": "00:03:31,730",
+      "end_time": "00:03:35,030",
+      "text": "are going with him ed Burt is still free"
+    },
+    {
+      "start_time": "00:03:33,680",
+      "end_time": "00:03:36,260",
+      "text": "of Cheryl and will be for a while"
+    },
+    {
+      "start_time": "00:03:35,030",
+      "end_time": "00:03:37,490",
+      "text": "because of the nature of that"
+    },
+    {
+      "start_time": "00:03:36,260",
+      "end_time": "00:03:39,290",
+      "text": "extraordinary role that we had at the"
+    },
+    {
+      "start_time": "00:03:37,490",
+      "end_time": "00:03:42,080",
+      "text": "end of last session the three of them"
+    },
+    {
+      "start_time": "00:03:39,290",
+      "end_time": "00:03:46,130",
+      "text": "are on their way to Titan and they will"
+    },
+    {
+      "start_time": "00:03:42,080",
+      "end_time": "00:03:48,200",
+      "text": "begin the scene in the city disguised"
+    },
+    {
+      "start_time": "00:03:46,130",
+      "end_time": "00:03:51,230",
+      "text": "trying to begin their search to find"
+    },
+    {
+      "start_time": "00:03:48,200",
+      "end_time": "00:03:54,050",
+      "text": "evidence to track down the true killer"
+    },
+    {
+      "start_time": "00:03:51,230",
+      "end_time": "00:03:56,450",
+      "text": "of chitin however before we get there I"
+    },
+    {
+      "start_time": "00:03:54,050",
+      "end_time": "00:03:57,860",
+      "text": "want to know a few things about chitin"
+    },
+    {
+      "start_time": "00:03:56,450",
+      "end_time": "00:04:01,160",
+      "text": "and the first thing I want to know is"
+    },
+    {
+      "start_time": "00:03:57,860",
+      "end_time": "00:04:02,960",
+      "text": "what does it look like well this is what"
+    },
+    {
+      "start_time": "00:04:01,160",
+      "end_time": "00:04:04,460",
+      "text": "it looks like this is the city of chitin"
+    },
+    {
+      "start_time": "00:04:02,960",
+      "end_time": "00:04:07,160",
+      "text": "now I did not actually make this map"
+    },
+    {
+      "start_time": "00:04:04,460",
+      "end_time": "00:04:08,750",
+      "text": "this map was made by a person named"
+    },
+    {
+      "start_time": "00:04:07,160",
+      "end_time": "00:04:11,570",
+      "text": "whatta boo you guys can check out his"
+    },
+    {
+      "start_time": "00:04:08,750",
+      "end_time": "00:04:13,910",
+      "text": "site at the link below he has an"
+    },
+    {
+      "start_time": "00:04:11,570",
+      "end_time": "00:04:15,560",
+      "text": "incredible array of random generators go"
+    },
+    {
+      "start_time": "00:04:13,910",
+      "end_time": "00:04:16,970",
+      "text": "check out his site he's got a patron as"
+    },
+    {
+      "start_time": "00:04:15,560",
+      "end_time": "00:04:18,320",
+      "text": "well so if you if you like the stuff you"
+    },
+    {
+      "start_time": "00:04:16,970",
+      "end_time": "00:04:20,780",
+      "text": "should go support him on that we have"
+    },
+    {
+      "start_time": "00:04:18,320",
+      "end_time": "00:04:22,130",
+      "text": "the fortress on the east and we have the"
+    },
+    {
+      "start_time": "00:04:20,780",
+      "end_time": "00:04:23,870",
+      "text": "neighborhood of six cliffs which is a"
+    },
+    {
+      "start_time": "00:04:22,130",
+      "end_time": "00:04:26,030",
+      "text": "wealthy neighborhood around the fortress"
+    },
+    {
+      "start_time": "00:04:23,870",
+      "end_time": "00:04:27,190",
+      "text": "how do I know all this I'm just making"
+    },
+    {
+      "start_time": "00:04:26,030",
+      "end_time": "00:04:28,510",
+      "text": "this up as I go along it's"
+    },
+    {
+      "start_time": "00:04:27,190",
+      "end_time": "00:04:30,760",
+      "text": "appropriate to me that there would be"
+    },
+    {
+      "start_time": "00:04:28,510",
+      "end_time": "00:04:33,040",
+      "text": "wealthy quarters outside the the"
+    },
+    {
+      "start_time": "00:04:30,760",
+      "end_time": "00:04:34,360",
+      "text": "fortress we have the hooks and murk"
+    },
+    {
+      "start_time": "00:04:33,040",
+      "end_time": "00:04:36,060",
+      "text": "tower the hooks of the North murk tower"
+    },
+    {
+      "start_time": "00:04:34,360",
+      "end_time": "00:04:38,230",
+      "text": "in the West which are both poor quarters"
+    },
+    {
+      "start_time": "00:04:36,060",
+      "end_time": "00:04:39,760",
+      "text": "Raven stare is sort of the bulk of the"
+    },
+    {
+      "start_time": "00:04:38,230",
+      "end_time": "00:04:41,080",
+      "text": "city so that's we're gonna have most of"
+    },
+    {
+      "start_time": "00:04:39,760",
+      "end_time": "00:04:42,490",
+      "text": "the residences as well as some of the"
+    },
+    {
+      "start_time": "00:04:41,080",
+      "end_time": "00:04:44,680",
+      "text": "markets as things and things like this"
+    },
+    {
+      "start_time": "00:04:42,490",
+      "end_time": "00:04:46,450",
+      "text": "store market the south of course is a"
+    },
+    {
+      "start_time": "00:04:44,680",
+      "end_time": "00:04:47,530",
+      "text": "real merchants quarter so that's where"
+    },
+    {
+      "start_time": "00:04:46,450",
+      "end_time": "00:04:49,030",
+      "text": "you would find that kind of thing in"
+    },
+    {
+      "start_time": "00:04:47,530",
+      "end_time": "00:04:50,260",
+      "text": "terms of its government and who rules"
+    },
+    {
+      "start_time": "00:04:49,030",
+      "end_time": "00:04:52,030",
+      "text": "here the only thing we know about this"
+    },
+    {
+      "start_time": "00:04:50,260",
+      "end_time": "00:04:54,160",
+      "text": "so far is that Manfred of Dane is in"
+    },
+    {
+      "start_time": "00:04:52,030",
+      "end_time": "00:04:56,470",
+      "text": "fact a lord of chitin what does that"
+    },
+    {
+      "start_time": "00:04:54,160",
+      "end_time": "00:04:58,810",
+      "text": "mean well I think that chitin is"
+    },
+    {
+      "start_time": "00:04:56,470",
+      "end_time": "00:05:00,760",
+      "text": "probably like a lot of medieval cities"
+    },
+    {
+      "start_time": "00:04:58,810",
+      "end_time": "00:05:02,170",
+      "text": "were it's a free town in other words it"
+    },
+    {
+      "start_time": "00:05:00,760",
+      "end_time": "00:05:04,570",
+      "text": "has a charter to operate independently"
+    },
+    {
+      "start_time": "00:05:02,170",
+      "end_time": "00:05:05,830",
+      "text": "from the king we don't even know who the"
+    },
+    {
+      "start_time": "00:05:04,570",
+      "end_time": "00:05:07,120",
+      "text": "king is at this point we haven't figured"
+    },
+    {
+      "start_time": "00:05:05,830",
+      "end_time": "00:05:08,500",
+      "text": "out what this is a kingdom or an empire"
+    },
+    {
+      "start_time": "00:05:07,120",
+      "end_time": "00:05:09,580",
+      "text": "or anything like that but that's okay we"
+    },
+    {
+      "start_time": "00:05:08,500",
+      "end_time": "00:05:11,520",
+      "text": "can find that out later because I think"
+    },
+    {
+      "start_time": "00:05:09,580",
+      "end_time": "00:05:15,130",
+      "text": "what matters for our purposes today is"
+    },
+    {
+      "start_time": "00:05:11,520",
+      "end_time": "00:05:17,020",
+      "text": "what is the government of chitin I think"
+    },
+    {
+      "start_time": "00:05:15,130",
+      "end_time": "00:05:19,030",
+      "text": "it is a council of Lords like a city"
+    },
+    {
+      "start_time": "00:05:17,020",
+      "end_time": "00:05:21,220",
+      "text": "council if you will except it's not made"
+    },
+    {
+      "start_time": "00:05:19,030",
+      "end_time": "00:05:23,440",
+      "text": "up of people that get voted in it's made"
+    },
+    {
+      "start_time": "00:05:21,220",
+      "end_time": "00:05:25,180",
+      "text": "up of local Lords that have a vested"
+    },
+    {
+      "start_time": "00:05:23,440",
+      "end_time": "00:05:26,260",
+      "text": "interest in the well-being of the city"
+    },
+    {
+      "start_time": "00:05:25,180",
+      "end_time": "00:05:28,180",
+      "text": "which would explain the reason why man"
+    },
+    {
+      "start_time": "00:05:26,260",
+      "end_time": "00:05:30,100",
+      "text": "for something is so intent on capturing"
+    },
+    {
+      "start_time": "00:05:28,180",
+      "end_time": "00:05:31,840",
+      "text": "Simon because he believes that Simon was"
+    },
+    {
+      "start_time": "00:05:30,100",
+      "end_time": "00:05:33,790",
+      "text": "guilty of killing all of these people"
+    },
+    {
+      "start_time": "00:05:31,840",
+      "end_time": "00:05:37,210",
+      "text": "presumably in his district the first"
+    },
+    {
+      "start_time": "00:05:33,790",
+      "end_time": "00:05:39,370",
+      "text": "question is is in fact Titan ruled by a"
+    },
+    {
+      "start_time": "00:05:37,210",
+      "end_time": "00:05:41,260",
+      "text": "council of Lords I'm gonna ask our fake"
+    },
+    {
+      "start_time": "00:05:39,370",
+      "end_time": "00:05:42,370",
+      "text": "chart because that's what we do our cast"
+    },
+    {
+      "start_time": "00:05:41,260",
+      "end_time": "00:05:44,200",
+      "text": "factor by the ways going back down to"
+    },
+    {
+      "start_time": "00:05:42,370",
+      "end_time": "00:05:45,550",
+      "text": "five we are starting sort of fresh I"
+    },
+    {
+      "start_time": "00:05:44,200",
+      "end_time": "00:05:47,620",
+      "text": "think it's a sure thing that the the"
+    },
+    {
+      "start_time": "00:05:45,550",
+      "end_time": "00:05:50,500",
+      "text": "city of chitin is ruled by a Council of"
+    },
+    {
+      "start_time": "00:05:47,620",
+      "end_time": "00:05:52,840",
+      "text": "Lords and 47 is a yes so yes I think"
+    },
+    {
+      "start_time": "00:05:50,500",
+      "end_time": "00:05:55,270",
+      "text": "that there are seven Lords on the"
+    },
+    {
+      "start_time": "00:05:52,840",
+      "end_time": "00:05:57,000",
+      "text": "council six of them represent each"
+    },
+    {
+      "start_time": "00:05:55,270",
+      "end_time": "00:05:59,740",
+      "text": "district and one of them is sort of the"
+    },
+    {
+      "start_time": "00:05:57,000",
+      "end_time": "00:06:00,880",
+      "text": "Lord Mayor so to speak you'll notice I"
+    },
+    {
+      "start_time": "00:05:59,740",
+      "end_time": "00:06:02,710",
+      "text": "didn't rule for anything on that that's"
+    },
+    {
+      "start_time": "00:06:00,880",
+      "end_time": "00:06:05,140",
+      "text": "just because I'm using general logic to"
+    },
+    {
+      "start_time": "00:06:02,710",
+      "end_time": "00:06:07,540",
+      "text": "assign these qualities to the city based"
+    },
+    {
+      "start_time": "00:06:05,140",
+      "end_time": "00:06:09,970",
+      "text": "on what feels right to me in the moment"
+    },
+    {
+      "start_time": "00:06:07,540",
+      "end_time": "00:06:12,490",
+      "text": "but we do to the manfred is the lord of"
+    },
+    {
+      "start_time": "00:06:09,970",
+      "end_time": "00:06:13,930",
+      "text": "one of these districts i think he is the"
+    },
+    {
+      "start_time": "00:06:12,490",
+      "end_time": "00:06:15,669",
+      "text": "lord of the hooks because the law the"
+    },
+    {
+      "start_time": "00:06:13,930",
+      "end_time": "00:06:17,500",
+      "text": "hooks is a pork order and it's the"
+    },
+    {
+      "start_time": "00:06:15,669",
+      "end_time": "00:06:18,970",
+      "text": "largest pork order it's bigger than"
+    },
+    {
+      "start_time": "00:06:17,500",
+      "end_time": "00:06:21,550",
+      "text": "merked are near sure thing"
+    },
+    {
+      "start_time": "00:06:18,970",
+      "end_time": "00:06:23,440",
+      "text": "yes he is Simon committed this crime a"
+    },
+    {
+      "start_time": "00:06:21,550",
+      "end_time": "00:06:26,200",
+      "text": "year ago give or take"
+    },
+    {
+      "start_time": "00:06:23,440",
+      "end_time": "00:06:28,000",
+      "text": "but recently Manfred sent a bounty"
+    },
+    {
+      "start_time": "00:06:26,200",
+      "end_time": "00:06:30,550",
+      "text": "hunter team to come after him so he is"
+    },
+    {
+      "start_time": "00:06:28,000",
+      "end_time": "00:06:33,160",
+      "text": "still very much interested in capturing"
+    },
+    {
+      "start_time": "00:06:30,550",
+      "end_time": "00:06:36,430",
+      "text": "Simon that means one of two things as"
+    },
+    {
+      "start_time": "00:06:33,160",
+      "end_time": "00:06:38,680",
+      "text": "far as I can tell one he's under some"
+    },
+    {
+      "start_time": "00:06:36,430",
+      "end_time": "00:06:40,450",
+      "text": "pressure from the Lord Mayor I guess"
+    },
+    {
+      "start_time": "00:06:38,680",
+      "end_time": "00:06:43,720",
+      "text": "from the other Lords that's possible"
+    },
+    {
+      "start_time": "00:06:40,450",
+      "end_time": "00:06:45,220",
+      "text": "or two it's personal someone in the"
+    },
+    {
+      "start_time": "00:06:43,720",
+      "end_time": "00:06:46,690",
+      "text": "comments last time suggested it would be"
+    },
+    {
+      "start_time": "00:06:45,220",
+      "end_time": "00:06:48,580",
+      "text": "really cool if Manfred's"
+    },
+    {
+      "start_time": "00:06:46,690",
+      "end_time": "00:06:51,370",
+      "text": "son was actually the real serial killer"
+    },
+    {
+      "start_time": "00:06:48,580",
+      "end_time": "00:06:53,410",
+      "text": "and that he was basically trying to fob"
+    },
+    {
+      "start_time": "00:06:51,370",
+      "end_time": "00:06:56,050",
+      "text": "it off on on simon that's a really cool"
+    },
+    {
+      "start_time": "00:06:53,410",
+      "end_time": "00:06:58,660",
+      "text": "idea thanks for that the reason why i'm"
+    },
+    {
+      "start_time": "00:06:56,050",
+      "end_time": "00:07:01,000",
+      "text": "not gonna use it is because at this"
+    },
+    {
+      "start_time": "00:06:58,660",
+      "end_time": "00:07:01,690",
+      "text": "point i don't want to know who the"
+    },
+    {
+      "start_time": "00:07:01,000",
+      "end_time": "00:07:04,180",
+      "text": "killer is"
+    },
+    {
+      "start_time": "00:07:01,690",
+      "end_time": "00:07:06,220",
+      "text": "i want to discover the killer with simon"
+    },
+    {
+      "start_time": "00:07:04,180",
+      "end_time": "00:07:07,690",
+      "text": "really cool idea and if I was running a"
+    },
+    {
+      "start_time": "00:07:06,220",
+      "end_time": "00:07:08,860",
+      "text": "sort of traditional game with people"
+    },
+    {
+      "start_time": "00:07:07,690",
+      "end_time": "00:07:10,680",
+      "text": "around the table I would definitely"
+    },
+    {
+      "start_time": "00:07:08,860",
+      "end_time": "00:07:13,270",
+      "text": "steal that so thanks for that"
+    },
+    {
+      "start_time": "00:07:10,680",
+      "end_time": "00:07:16,060",
+      "text": "keep those cups coming they're really"
+    },
+    {
+      "start_time": "00:07:13,270",
+      "end_time": "00:07:17,680",
+      "text": "cool so I think it's personal I think"
+    },
+    {
+      "start_time": "00:07:16,060",
+      "end_time": "00:07:19,780",
+      "text": "the reason why Manfred is interested in"
+    },
+    {
+      "start_time": "00:07:17,680",
+      "end_time": "00:07:22,060",
+      "text": "capturing Simon is because the serial"
+    },
+    {
+      "start_time": "00:07:19,780",
+      "end_time": "00:07:24,610",
+      "text": "killer killed a member of his family"
+    },
+    {
+      "start_time": "00:07:22,060",
+      "end_time": "00:07:26,050",
+      "text": "like his son maybe his son was a member"
+    },
+    {
+      "start_time": "00:07:24,610",
+      "end_time": "00:07:28,000",
+      "text": "of the watch or maybe his son just"
+    },
+    {
+      "start_time": "00:07:26,050",
+      "end_time": "00:07:29,740",
+      "text": "happened to be in the hooks at a certain"
+    },
+    {
+      "start_time": "00:07:28,000",
+      "end_time": "00:07:31,390",
+      "text": "time for whatever reason and got killed"
+    },
+    {
+      "start_time": "00:07:29,740",
+      "end_time": "00:07:34,660",
+      "text": "by the serial killer that would explain"
+    },
+    {
+      "start_time": "00:07:31,390",
+      "end_time": "00:07:36,580",
+      "text": "the reason why Manfred is so intent on"
+    },
+    {
+      "start_time": "00:07:34,660",
+      "end_time": "00:07:38,320",
+      "text": "capturing Simon who's been gone over a"
+    },
+    {
+      "start_time": "00:07:36,580",
+      "end_time": "00:07:38,740",
+      "text": "year now right so I think that's what"
+    },
+    {
+      "start_time": "00:07:38,320",
+      "end_time": "00:07:40,300",
+      "text": "it's gonna be"
+    },
+    {
+      "start_time": "00:07:38,740",
+      "end_time": "00:07:44,140",
+      "text": "let's find out though cuz you never know"
+    },
+    {
+      "start_time": "00:07:40,300",
+      "end_time": "00:07:46,350",
+      "text": "I'm gonna call that very likely zero one"
+    },
+    {
+      "start_time": "00:07:44,140",
+      "end_time": "00:07:48,880",
+      "text": "critical so yes absolutely"
+    },
+    {
+      "start_time": "00:07:46,350",
+      "end_time": "00:07:51,310",
+      "text": "Manfred son was killed by the serial"
+    },
+    {
+      "start_time": "00:07:48,880",
+      "end_time": "00:07:54,340",
+      "text": "killer and he absolutely believes that"
+    },
+    {
+      "start_time": "00:07:51,310",
+      "end_time": "00:07:54,910",
+      "text": "Simon of Augustine was to blame Manfred"
+    },
+    {
+      "start_time": "00:07:54,340",
+      "end_time": "00:07:56,920",
+      "text": "son"
+    },
+    {
+      "start_time": "00:07:54,910",
+      "end_time": "00:07:59,980",
+      "text": "let's give him a name right now Haven"
+    },
+    {
+      "start_time": "00:07:56,920",
+      "end_time": "00:08:02,940",
+      "text": "Haven of Dove ding so scenes set up"
+    },
+    {
+      "start_time": "00:07:59,980",
+      "end_time": "00:08:04,900",
+      "text": "Simon ed Bert and Arne have secret"
+    },
+    {
+      "start_time": "00:08:02,940",
+      "end_time": "00:08:07,000",
+      "text": "identity of kite now they are in"
+    },
+    {
+      "start_time": "00:08:04,900",
+      "end_time": "00:08:08,740",
+      "text": "disguise as best that can be Simon with"
+    },
+    {
+      "start_time": "00:08:07,000",
+      "end_time": "00:08:10,420",
+      "text": "his cowl up all the time because he"
+    },
+    {
+      "start_time": "00:08:08,740",
+      "end_time": "00:08:12,250",
+      "text": "knows that the town watch is on the"
+    },
+    {
+      "start_time": "00:08:10,420",
+      "end_time": "00:08:13,630",
+      "text": "lookout for him it's a year later so I"
+    },
+    {
+      "start_time": "00:08:12,250",
+      "end_time": "00:08:15,520",
+      "text": "don't think that it's a going concern"
+    },
+    {
+      "start_time": "00:08:13,630",
+      "end_time": "00:08:17,140",
+      "text": "right at the moment but there's a very"
+    },
+    {
+      "start_time": "00:08:15,520",
+      "end_time": "00:08:18,340",
+      "text": "good chance that if somebody sees him"
+    },
+    {
+      "start_time": "00:08:17,140",
+      "end_time": "00:08:19,660",
+      "text": "especially a town guard they might"
+    },
+    {
+      "start_time": "00:08:18,340",
+      "end_time": "00:08:21,420",
+      "text": "recognize him so there's that I'm"
+    },
+    {
+      "start_time": "00:08:19,660",
+      "end_time": "00:08:23,620",
+      "text": "imagining them going around to various"
+    },
+    {
+      "start_time": "00:08:21,420",
+      "end_time": "00:08:25,900",
+      "text": "taverns beginning their investigation"
+    },
+    {
+      "start_time": "00:08:23,620",
+      "end_time": "00:08:27,190",
+      "text": "trying to track down evidence of the"
+    },
+    {
+      "start_time": "00:08:25,900",
+      "end_time": "00:08:29,680",
+      "text": "serial killer and here's a big question"
+    },
+    {
+      "start_time": "00:08:27,190",
+      "end_time": "00:08:31,600",
+      "text": "I have clearly the serial killer is no"
+    },
+    {
+      "start_time": "00:08:29,680",
+      "end_time": "00:08:33,400",
+      "text": "longer killing clearly he hasn't been"
+    },
+    {
+      "start_time": "00:08:31,600",
+      "end_time": "00:08:35,500",
+      "text": "killing for a year how do I know that"
+    },
+    {
+      "start_time": "00:08:33,400",
+      "end_time": "00:08:37,090",
+      "text": "because Simon has been gone for a year"
+    },
+    {
+      "start_time": "00:08:35,500",
+      "end_time": "00:08:39,160",
+      "text": "and Manfred is still sending out bounty"
+    },
+    {
+      "start_time": "00:08:37,090",
+      "end_time": "00:08:41,170",
+      "text": "hunters for him if the killings were"
+    },
+    {
+      "start_time": "00:08:39,160",
+      "end_time": "00:08:42,850",
+      "text": "still going on after Simon had left"
+    },
+    {
+      "start_time": "00:08:41,170",
+      "end_time": "00:08:45,070",
+      "text": "Manfred would know that Simon was"
+    },
+    {
+      "start_time": "00:08:42,850",
+      "end_time": "00:08:45,690",
+      "text": "innocent so we wouldn't be going after"
+    },
+    {
+      "start_time": "00:08:45,070",
+      "end_time": "00:08:48,580",
+      "text": "him"
+    },
+    {
+      "start_time": "00:08:45,690",
+      "end_time": "00:08:50,530",
+      "text": "therefore we know that the serial killer"
+    },
+    {
+      "start_time": "00:08:48,580",
+      "end_time": "00:08:52,240",
+      "text": "has not been active for a year that's"
+    },
+    {
+      "start_time": "00:08:50,530",
+      "end_time": "00:08:53,110",
+      "text": "bad for Simon but it's the only thing"
+    },
+    {
+      "start_time": "00:08:52,240",
+      "end_time": "00:08:54,850",
+      "text": "that makes sense in the"
+    },
+    {
+      "start_time": "00:08:53,110",
+      "end_time": "00:08:56,410",
+      "text": "case so it is very possible that the"
+    },
+    {
+      "start_time": "00:08:54,850",
+      "end_time": "00:08:59,140",
+      "text": "serial killer could resurface again and"
+    },
+    {
+      "start_time": "00:08:56,410",
+      "end_time": "00:09:01,510",
+      "text": "begin his spree of terror among the poor"
+    },
+    {
+      "start_time": "00:08:59,140",
+      "end_time": "00:09:01,870",
+      "text": "quarter of the city of chitin time will"
+    },
+    {
+      "start_time": "00:09:01,510",
+      "end_time": "00:09:06,100",
+      "text": "tell"
+    },
+    {
+      "start_time": "00:09:01,870",
+      "end_time": "00:09:10,000",
+      "text": "that's a question worthy killings"
+    },
+    {
+      "start_time": "00:09:06,100",
+      "end_time": "00:09:13,540",
+      "text": "confined to the hooks no idea 50/50 of"
+    },
+    {
+      "start_time": "00:09:10,000",
+      "end_time": "00:09:15,550",
+      "text": "kiss factor five zero six so the serial"
+    },
+    {
+      "start_time": "00:09:13,540",
+      "end_time": "00:09:18,160",
+      "text": "killer was operating solely in the hooks"
+    },
+    {
+      "start_time": "00:09:15,550",
+      "end_time": "00:09:20,800",
+      "text": "he add up till now he is not attacked"
+    },
+    {
+      "start_time": "00:09:18,160",
+      "end_time": "00:09:23,140",
+      "text": "anywhere else so our guys are I think"
+    },
+    {
+      "start_time": "00:09:20,800",
+      "end_time": "00:09:25,600",
+      "text": "what they would do is they would find a"
+    },
+    {
+      "start_time": "00:09:23,140",
+      "end_time": "00:09:26,440",
+      "text": "place to stay an inn in the poor corner"
+    },
+    {
+      "start_time": "00:09:25,600",
+      "end_time": "00:09:28,269",
+      "text": "because that's what they would start"
+    },
+    {
+      "start_time": "00:09:26,440",
+      "end_time": "00:09:29,980",
+      "text": "their investigation and I think that"
+    },
+    {
+      "start_time": "00:09:28,269",
+      "end_time": "00:09:32,230",
+      "text": "they would split up going around to the"
+    },
+    {
+      "start_time": "00:09:29,980",
+      "end_time": "00:09:33,810",
+      "text": "various taverns and businesses you know"
+    },
+    {
+      "start_time": "00:09:32,230",
+      "end_time": "00:09:35,950",
+      "text": "asking around has there been any"
+    },
+    {
+      "start_time": "00:09:33,810",
+      "end_time": "00:09:38,440",
+      "text": "killings lately all that kind of stuff"
+    },
+    {
+      "start_time": "00:09:35,950",
+      "end_time": "00:09:41,410",
+      "text": "but before we get there let's um let's"
+    },
+    {
+      "start_time": "00:09:38,440",
+      "end_time": "00:09:44,769",
+      "text": "determine if our scene setup is altered"
+    },
+    {
+      "start_time": "00:09:41,410",
+      "end_time": "00:09:46,360",
+      "text": "or modified our chaos factors at five so"
+    },
+    {
+      "start_time": "00:09:44,769",
+      "end_time": "00:09:49,269",
+      "text": "if I roll five or less it is in fact"
+    },
+    {
+      "start_time": "00:09:46,360",
+      "end_time": "00:09:51,160",
+      "text": "modified six so no let's find out the"
+    },
+    {
+      "start_time": "00:09:49,269",
+      "end_time": "00:09:53,200",
+      "text": "name of the inn in the poor quarter"
+    },
+    {
+      "start_time": "00:09:51,160",
+      "end_time": "00:09:55,450",
+      "text": "where our guys are staying here we go"
+    },
+    {
+      "start_time": "00:09:53,200",
+      "end_time": "00:09:57,970",
+      "text": "GM's miscellany urban dressing a system"
+    },
+    {
+      "start_time": "00:09:55,450",
+      "end_time": "00:09:59,980",
+      "text": "neutral addition the creeping pixie I"
+    },
+    {
+      "start_time": "00:09:57,970",
+      "end_time": "00:10:01,209",
+      "text": "don't think they're at this in I think"
+    },
+    {
+      "start_time": "00:09:59,980",
+      "end_time": "00:10:03,970",
+      "text": "that's what they're sping I think that"
+    },
+    {
+      "start_time": "00:10:01,209",
+      "end_time": "00:10:04,690",
+      "text": "we begin the actual episode with Simon"
+    },
+    {
+      "start_time": "00:10:03,970",
+      "end_time": "00:10:06,550",
+      "text": "barn"
+    },
+    {
+      "start_time": "00:10:04,690",
+      "end_time": "00:10:09,040",
+      "text": "and Ed Burt having split up to"
+    },
+    {
+      "start_time": "00:10:06,550",
+      "end_time": "00:10:10,930",
+      "text": "investigate the various taverns brothels"
+    },
+    {
+      "start_time": "00:10:09,040",
+      "end_time": "00:10:12,519",
+      "text": "these kind of places you know what I"
+    },
+    {
+      "start_time": "00:10:10,930",
+      "end_time": "00:10:14,140",
+      "text": "it's too dangerous for assignment to go"
+    },
+    {
+      "start_time": "00:10:12,519",
+      "end_time": "00:10:14,890",
+      "text": "do this he can't do this part of the"
+    },
+    {
+      "start_time": "00:10:14,140",
+      "end_time": "00:10:17,199",
+      "text": "investigation"
+    },
+    {
+      "start_time": "00:10:14,890",
+      "end_time": "00:10:19,180",
+      "text": "it's too risky if someone sees who he is"
+    },
+    {
+      "start_time": "00:10:17,199",
+      "end_time": "00:10:20,769",
+      "text": "and recognizes him he's in big trouble"
+    },
+    {
+      "start_time": "00:10:19,180",
+      "end_time": "00:10:21,940",
+      "text": "barn probably has the best chance of"
+    },
+    {
+      "start_time": "00:10:20,769",
+      "end_time": "00:10:25,329",
+      "text": "doing this we're gonna roll him first"
+    },
+    {
+      "start_time": "00:10:21,940",
+      "end_time": "00:10:27,820",
+      "text": "now Arne is ugly if we recall this so"
+    },
+    {
+      "start_time": "00:10:25,329",
+      "end_time": "00:10:30,250",
+      "text": "ugly in fact that his charisma penalty"
+    },
+    {
+      "start_time": "00:10:27,820",
+      "end_time": "00:10:32,529",
+      "text": "is minus two hmm I'm gonna make his free"
+    },
+    {
+      "start_time": "00:10:30,250",
+      "end_time": "00:10:34,300",
+      "text": "rise role to see if he discovers"
+    },
+    {
+      "start_time": "00:10:32,529",
+      "end_time": "00:10:38,019",
+      "text": "anything at all that could be of help he"
+    },
+    {
+      "start_time": "00:10:34,300",
+      "end_time": "00:10:39,790",
+      "text": "does not unfortunately ed Burt oh this"
+    },
+    {
+      "start_time": "00:10:38,019",
+      "end_time": "00:10:42,610",
+      "text": "is interesting he has the haunted"
+    },
+    {
+      "start_time": "00:10:39,790",
+      "end_time": "00:10:45,279",
+      "text": "hindrance but he's not currently haunted"
+    },
+    {
+      "start_time": "00:10:42,610",
+      "end_time": "00:10:48,310",
+      "text": "so I Ito think he has that penalty he"
+    },
+    {
+      "start_time": "00:10:45,279",
+      "end_time": "00:10:50,680",
+      "text": "does have the bloodthirsty penalty but"
+    },
+    {
+      "start_time": "00:10:48,310",
+      "end_time": "00:10:53,230",
+      "text": "that only applies if people know his"
+    },
+    {
+      "start_time": "00:10:50,680",
+      "end_time": "00:10:55,779",
+      "text": "reputation which here they do not so he"
+    },
+    {
+      "start_time": "00:10:53,230",
+      "end_time": "00:10:58,660",
+      "text": "has no penalties does he succeed Poe"
+    },
+    {
+      "start_time": "00:10:55,779",
+      "end_time": "00:11:01,089",
+      "text": "explodes with the six nine that is a"
+    },
+    {
+      "start_time": "00:10:58,660",
+      "end_time": "00:11:03,880",
+      "text": "success with the race so while Arne is"
+    },
+    {
+      "start_time": "00:11:01,089",
+      "end_time": "00:11:05,089",
+      "text": "out canvassing the taverns ed Burt is"
+    },
+    {
+      "start_time": "00:11:03,880",
+      "end_time": "00:11:08,329",
+      "text": "canvassing"
+    },
+    {
+      "start_time": "00:11:05,089",
+      "end_time": "00:11:10,699",
+      "text": "awful the local brothel what does edwart"
+    },
+    {
+      "start_time": "00:11:08,329",
+      "end_time": "00:11:13,309",
+      "text": "discover the serial come we know the"
+    },
+    {
+      "start_time": "00:11:10,699",
+      "end_time": "00:11:15,259",
+      "text": "serial killer went after beggars went"
+    },
+    {
+      "start_time": "00:11:13,309",
+      "end_time": "00:11:16,579",
+      "text": "after the poorest of the poor he didn't"
+    },
+    {
+      "start_time": "00:11:15,259",
+      "end_time": "00:11:19,160",
+      "text": "go after prostitutes he didn't go after"
+    },
+    {
+      "start_time": "00:11:16,579",
+      "end_time": "00:11:21,529",
+      "text": "shopkeepers he went after beggars oh is"
+    },
+    {
+      "start_time": "00:11:19,160",
+      "end_time": "00:11:25,850",
+      "text": "it possible that Ed Burt speaks to a"
+    },
+    {
+      "start_time": "00:11:21,529",
+      "end_time": "00:11:27,529",
+      "text": "prostitute who knew one of the beggars"
+    },
+    {
+      "start_time": "00:11:25,850",
+      "end_time": "00:11:29,209",
+      "text": "who found some coin and came in for a"
+    },
+    {
+      "start_time": "00:11:27,529",
+      "end_time": "00:11:30,069",
+      "text": "little comfort that night is that the"
+    },
+    {
+      "start_time": "00:11:29,209",
+      "end_time": "00:11:33,319",
+      "text": "case"
+    },
+    {
+      "start_time": "00:11:30,069",
+      "end_time": "00:11:35,870",
+      "text": "97 extreme no so it was not one of her"
+    },
+    {
+      "start_time": "00:11:33,319",
+      "end_time": "00:11:37,129",
+      "text": "clients which if it's not one of her"
+    },
+    {
+      "start_time": "00:11:35,870",
+      "end_time": "00:11:39,680",
+      "text": "clients that I think it's gonna be"
+    },
+    {
+      "start_time": "00:11:37,129",
+      "end_time": "00:11:42,410",
+      "text": "someone she was related to her father"
+    },
+    {
+      "start_time": "00:11:39,680",
+      "end_time": "00:11:45,019",
+      "text": "was killed is it extreme no was not her"
+    },
+    {
+      "start_time": "00:11:42,410",
+      "end_time": "00:11:47,449",
+      "text": "client so hope to leave the opposite of"
+    },
+    {
+      "start_time": "00:11:45,019",
+      "end_time": "00:11:51,589",
+      "text": "a prostitute client it's her father"
+    },
+    {
+      "start_time": "00:11:47,449",
+      "end_time": "00:11:54,170",
+      "text": "hopefully mmm we're gonna go with that"
+    },
+    {
+      "start_time": "00:11:51,589",
+      "end_time": "00:11:57,759",
+      "text": "she lost her father so as ed Burt is"
+    },
+    {
+      "start_time": "00:11:54,170",
+      "end_time": "00:12:01,100",
+      "text": "talking to this woman who has a name 0-9"
+    },
+    {
+      "start_time": "00:11:57,759",
+      "end_time": "00:12:04,550",
+      "text": "aletta so he discovers that a letter"
+    },
+    {
+      "start_time": "00:12:01,100",
+      "end_time": "00:12:07,759",
+      "text": "lost her father to the serial phone how"
+    },
+    {
+      "start_time": "00:12:04,550",
+      "end_time": "00:12:09,170",
+      "text": "did he kill his victims event meaning"
+    },
+    {
+      "start_time": "00:12:07,759",
+      "end_time": "00:12:14,029",
+      "text": "action and subject how did he kill his"
+    },
+    {
+      "start_time": "00:12:09,170",
+      "end_time": "00:12:17,059",
+      "text": "victims fight-fight benefits oh I know"
+    },
+    {
+      "start_time": "00:12:14,029",
+      "end_time": "00:12:19,490",
+      "text": "Lord Medford had set up various things"
+    },
+    {
+      "start_time": "00:12:17,059",
+      "end_time": "00:12:21,860",
+      "text": "to help the poor of the hooks he had set"
+    },
+    {
+      "start_time": "00:12:19,490",
+      "end_time": "00:12:23,420",
+      "text": "up soup kitchens he had set up you know"
+    },
+    {
+      "start_time": "00:12:21,860",
+      "end_time": "00:12:24,499",
+      "text": "that kind of stuff maybe he's not"
+    },
+    {
+      "start_time": "00:12:23,420",
+      "end_time": "00:12:25,670",
+      "text": "particularly happy about being in charge"
+    },
+    {
+      "start_time": "00:12:24,499",
+      "end_time": "00:12:27,529",
+      "text": "of a poor district but we don't know"
+    },
+    {
+      "start_time": "00:12:25,670",
+      "end_time": "00:12:28,939",
+      "text": "anything about Manfred maybe he is but I"
+    },
+    {
+      "start_time": "00:12:27,529",
+      "end_time": "00:12:30,079",
+      "text": "think he's set up like soup kitchens"
+    },
+    {
+      "start_time": "00:12:28,939",
+      "end_time": "00:12:32,149",
+      "text": "discs of these these kind of things"
+    },
+    {
+      "start_time": "00:12:30,079",
+      "end_time": "00:12:33,829",
+      "text": "perhaps there was a temple to like a"
+    },
+    {
+      "start_time": "00:12:32,149",
+      "end_time": "00:12:35,660",
+      "text": "healing goddess or something there that"
+    },
+    {
+      "start_time": "00:12:33,829",
+      "end_time": "00:12:37,970",
+      "text": "that help dole out food to the various"
+    },
+    {
+      "start_time": "00:12:35,660",
+      "end_time": "00:12:40,759",
+      "text": "unfortunates of the of the hooks if the"
+    },
+    {
+      "start_time": "00:12:37,970",
+      "end_time": "00:12:43,490",
+      "text": "serial killer targeted people who were"
+    },
+    {
+      "start_time": "00:12:40,759",
+      "end_time": "00:12:47,569",
+      "text": "partaking in that the killer was taking"
+    },
+    {
+      "start_time": "00:12:43,490",
+      "end_time": "00:12:50,480",
+      "text": "out beggars as they were leaving places"
+    },
+    {
+      "start_time": "00:12:47,569",
+      "end_time": "00:12:53,899",
+      "text": "like the soup kitchens which meant that"
+    },
+    {
+      "start_time": "00:12:50,480",
+      "end_time": "00:12:56,569",
+      "text": "the beggars themselves began to stay"
+    },
+    {
+      "start_time": "00:12:53,899",
+      "end_time": "00:12:59,329",
+      "text": "away from those places that's no good"
+    },
+    {
+      "start_time": "00:12:56,569",
+      "end_time": "00:13:01,100",
+      "text": "for Manfred because now the people that"
+    },
+    {
+      "start_time": "00:12:59,329",
+      "end_time": "00:13:03,259",
+      "text": "are supposedly under his protection are"
+    },
+    {
+      "start_time": "00:13:01,100",
+      "end_time": "00:13:04,550",
+      "text": "not getting food there's a whole host of"
+    },
+    {
+      "start_time": "00:13:03,259",
+      "end_time": "00:13:07,459",
+      "text": "problems that come up with that as well"
+    },
+    {
+      "start_time": "00:13:04,550",
+      "end_time": "00:13:09,769",
+      "text": "so I'll let his father was leaving one"
+    },
+    {
+      "start_time": "00:13:07,459",
+      "end_time": "00:13:12,079",
+      "text": "of these soup kitchens one night and he"
+    },
+    {
+      "start_time": "00:13:09,769",
+      "end_time": "00:13:14,120",
+      "text": "was killed did the serial killer have"
+    },
+    {
+      "start_time": "00:13:12,079",
+      "end_time": "00:13:17,059",
+      "text": "any particular signature"
+    },
+    {
+      "start_time": "00:13:14,120",
+      "end_time": "00:13:19,309",
+      "text": "no he did not so he killed not"
+    },
+    {
+      "start_time": "00:13:17,059",
+      "end_time": "00:13:21,620",
+      "text": "indiscriminately but the methods which"
+    },
+    {
+      "start_time": "00:13:19,309",
+      "end_time": "00:13:23,569",
+      "text": "he employed were all over the place"
+    },
+    {
+      "start_time": "00:13:21,620",
+      "end_time": "00:13:25,699",
+      "text": "sometimes he strangled people sometimes"
+    },
+    {
+      "start_time": "00:13:23,569",
+      "end_time": "00:13:27,350",
+      "text": "he stabbed them sometimes he you know"
+    },
+    {
+      "start_time": "00:13:25,699",
+      "end_time": "00:13:29,689",
+      "text": "drowned them clubbed him over the head"
+    },
+    {
+      "start_time": "00:13:27,350",
+      "end_time": "00:13:31,490",
+      "text": "people died in all different kinds of"
+    },
+    {
+      "start_time": "00:13:29,689",
+      "end_time": "00:13:32,930",
+      "text": "ways so there was it again we know that"
+    },
+    {
+      "start_time": "00:13:31,490",
+      "end_time": "00:13:34,129",
+      "text": "this is not a ritualistic killing we"
+    },
+    {
+      "start_time": "00:13:32,930",
+      "end_time": "00:13:35,569",
+      "text": "know that this killer is not part of a"
+    },
+    {
+      "start_time": "00:13:34,129",
+      "end_time": "00:13:36,980",
+      "text": "cult because we determined that a couple"
+    },
+    {
+      "start_time": "00:13:35,569",
+      "end_time": "00:13:38,839",
+      "text": "of episodes ago so we'll just say that"
+    },
+    {
+      "start_time": "00:13:36,980",
+      "end_time": "00:13:40,579",
+      "text": "we'll just say that her father was"
+    },
+    {
+      "start_time": "00:13:38,839",
+      "end_time": "00:13:42,259",
+      "text": "clubbed to death and that's it"
+    },
+    {
+      "start_time": "00:13:40,579",
+      "end_time": "00:13:44,870",
+      "text": "that's your name well I say that's it"
+    },
+    {
+      "start_time": "00:13:42,259",
+      "end_time": "00:13:46,249",
+      "text": "yes it is you say that your father was"
+    },
+    {
+      "start_time": "00:13:44,870",
+      "end_time": "00:13:48,110",
+      "text": "clubbed to death here in the hoax is"
+    },
+    {
+      "start_time": "00:13:46,249",
+      "end_time": "00:13:50,120",
+      "text": "there anything else you can tell me"
+    },
+    {
+      "start_time": "00:13:48,110",
+      "end_time": "00:13:52,910",
+      "text": "about the nature of his death all I know"
+    },
+    {
+      "start_time": "00:13:50,120",
+      "end_time": "00:13:55,220",
+      "text": "is that he was coming away from the soup"
+    },
+    {
+      "start_time": "00:13:52,910",
+      "end_time": "00:13:57,230",
+      "text": "kitchen one night when he was attacked"
+    },
+    {
+      "start_time": "00:13:55,220",
+      "end_time": "00:14:00,259",
+      "text": "in an alley an alley do you remember"
+    },
+    {
+      "start_time": "00:13:57,230",
+      "end_time": "00:14:03,019",
+      "text": "exactly where he was kids"
+    },
+    {
+      "start_time": "00:14:00,259",
+      "end_time": "00:14:08,439",
+      "text": "does she I think so I think she would we"
+    },
+    {
+      "start_time": "00:14:03,019",
+      "end_time": "00:14:10,399",
+      "text": "have Ally names is 36 Gorgan Ally Hey"
+    },
+    {
+      "start_time": "00:14:08,439",
+      "end_time": "00:14:12,860",
+      "text": "he was clubbed to death as he was"
+    },
+    {
+      "start_time": "00:14:10,399",
+      "end_time": "00:14:15,889",
+      "text": "leaving to soup kitchens apparently he"
+    },
+    {
+      "start_time": "00:14:12,860",
+      "end_time": "00:14:17,240",
+      "text": "took a turn down Gorgon alley that's"
+    },
+    {
+      "start_time": "00:14:15,889",
+      "end_time": "00:14:19,370",
+      "text": "where they found his body the next day"
+    },
+    {
+      "start_time": "00:14:17,240",
+      "end_time": "00:14:21,410",
+      "text": "Gorgon early right thank you"
+    },
+    {
+      "start_time": "00:14:19,370",
+      "end_time": "00:14:24,110",
+      "text": "flips are a coin are you sure you have"
+    },
+    {
+      "start_time": "00:14:21,410",
+      "end_time": "00:14:25,779",
+      "text": "to go so soon you look like you could"
+    },
+    {
+      "start_time": "00:14:24,110",
+      "end_time": "00:14:29,059",
+      "text": "use some company"
+    },
+    {
+      "start_time": "00:14:25,779",
+      "end_time": "00:14:31,370",
+      "text": "that's a kind offer but I'd rather not"
+    },
+    {
+      "start_time": "00:14:29,059",
+      "end_time": "00:14:34,999",
+      "text": "have you to pull our show so I think"
+    },
+    {
+      "start_time": "00:14:31,370",
+      "end_time": "00:14:36,620",
+      "text": "we're good he goes back to the creeping"
+    },
+    {
+      "start_time": "00:14:34,999",
+      "end_time": "00:14:40,550",
+      "text": "pixie I think iron has already returned"
+    },
+    {
+      "start_time": "00:14:36,620",
+      "end_time": "00:14:42,529",
+      "text": "and informs Simon and our of what he's"
+    },
+    {
+      "start_time": "00:14:40,550",
+      "end_time": "00:14:45,170",
+      "text": "discovered they put up their hoods again"
+    },
+    {
+      "start_time": "00:14:42,529",
+      "end_time": "00:14:46,759",
+      "text": "and stalk off into the darkness of the"
+    },
+    {
+      "start_time": "00:14:45,170",
+      "end_time": "00:14:49,129",
+      "text": "hooks of the poor quarter of the hooks"
+    },
+    {
+      "start_time": "00:14:46,759",
+      "end_time": "00:14:51,230",
+      "text": "looking for Gorgon alley I don't think"
+    },
+    {
+      "start_time": "00:14:49,129",
+      "end_time": "00:14:52,670",
+      "text": "it takes that long to find they can ask"
+    },
+    {
+      "start_time": "00:14:51,230",
+      "end_time": "00:14:54,319",
+      "text": "various locals and things like this but"
+    },
+    {
+      "start_time": "00:14:52,670",
+      "end_time": "00:14:56,870",
+      "text": "they do find Gorgon alley I'm just gonna"
+    },
+    {
+      "start_time": "00:14:54,319",
+      "end_time": "00:14:59,449",
+      "text": "have them do a protis role as they"
+    },
+    {
+      "start_time": "00:14:56,870",
+      "end_time": "00:14:59,839",
+      "text": "carefully look around for any kind of"
+    },
+    {
+      "start_time": "00:14:59,449",
+      "end_time": "00:15:01,610",
+      "text": "clue"
+    },
+    {
+      "start_time": "00:14:59,839",
+      "end_time": "00:15:03,649",
+      "text": "I think Arn is gonna roll first because"
+    },
+    {
+      "start_time": "00:15:01,610",
+      "end_time": "00:15:05,089",
+      "text": "he's alert so he's got plus two to his"
+    },
+    {
+      "start_time": "00:15:03,649",
+      "end_time": "00:15:08,860",
+      "text": "notice which is pretty great even though"
+    },
+    {
+      "start_time": "00:15:05,089",
+      "end_time": "00:15:12,319",
+      "text": "it's only a d4 do they find anything"
+    },
+    {
+      "start_time": "00:15:08,860",
+      "end_time": "00:15:14,929",
+      "text": "seven so Arne succeeded let's check the"
+    },
+    {
+      "start_time": "00:15:12,319",
+      "end_time": "00:15:16,629",
+      "text": "other guy's six so Edward succeeded"
+    },
+    {
+      "start_time": "00:15:14,929",
+      "end_time": "00:15:20,300",
+      "text": "we're looking for raises here basically"
+    },
+    {
+      "start_time": "00:15:16,629",
+      "end_time": "00:15:23,029",
+      "text": "notice this is Simon with five so they"
+    },
+    {
+      "start_time": "00:15:20,300",
+      "end_time": "00:15:25,370",
+      "text": "all have successes but no raises so they"
+    },
+    {
+      "start_time": "00:15:23,029",
+      "end_time": "00:15:26,850",
+      "text": "do find something of use if they've got"
+    },
+    {
+      "start_time": "00:15:25,370",
+      "end_time": "00:15:28,709",
+      "text": "a raise it would have been something"
+    },
+    {
+      "start_time": "00:15:26,850",
+      "end_time": "00:15:31,410",
+      "text": "but it's not so that you find something"
+    },
+    {
+      "start_time": "00:15:28,709",
+      "end_time": "00:15:34,100",
+      "text": "of use to them what clue do they"
+    },
+    {
+      "start_time": "00:15:31,410",
+      "end_time": "00:15:42,199",
+      "text": "discover it's an excellent question"
+    },
+    {
+      "start_time": "00:15:34,100",
+      "end_time": "00:15:45,600",
+      "text": "zero seven violate 46 food violate food"
+    },
+    {
+      "start_time": "00:15:42,199",
+      "end_time": "00:15:48,209",
+      "text": "what kind of coup could they discover in"
+    },
+    {
+      "start_time": "00:15:45,600",
+      "end_time": "00:15:49,649",
+      "text": "Gorgon alley violate food well we know"
+    },
+    {
+      "start_time": "00:15:48,209",
+      "end_time": "00:15:51,329",
+      "text": "that the father was coming out of a soup"
+    },
+    {
+      "start_time": "00:15:49,649",
+      "end_time": "00:15:53,130",
+      "text": "kitchen does it have something to do"
+    },
+    {
+      "start_time": "00:15:51,329",
+      "end_time": "00:15:54,990",
+      "text": "with that this is a year ago remember I"
+    },
+    {
+      "start_time": "00:15:53,130",
+      "end_time": "00:15:57,569",
+      "text": "think that in Gorgon alley"
+    },
+    {
+      "start_time": "00:15:54,990",
+      "end_time": "00:16:00,149",
+      "text": "there was actually a back entrance to"
+    },
+    {
+      "start_time": "00:15:57,569",
+      "end_time": "00:16:04,019",
+      "text": "said soup kitchen run by Lord Manfred's"
+    },
+    {
+      "start_time": "00:16:00,149",
+      "end_time": "00:16:06,779",
+      "text": "people and I think it was that doorway"
+    },
+    {
+      "start_time": "00:16:04,019",
+      "end_time": "00:16:08,880",
+      "text": "where the father was coming out that he"
+    },
+    {
+      "start_time": "00:16:06,779",
+      "end_time": "00:16:10,709",
+      "text": "got attacked so he was attacked right"
+    },
+    {
+      "start_time": "00:16:08,880",
+      "end_time": "00:16:12,870",
+      "text": "outside the exit at the soup kitchen I"
+    },
+    {
+      "start_time": "00:16:10,709",
+      "end_time": "00:16:15,120",
+      "text": "think is there as they're walking down"
+    },
+    {
+      "start_time": "00:16:12,870",
+      "end_time": "00:16:17,040",
+      "text": "this alley hunting for clues Simon looks"
+    },
+    {
+      "start_time": "00:16:15,120",
+      "end_time": "00:16:18,779",
+      "text": "up and he sees light coming from behind"
+    },
+    {
+      "start_time": "00:16:17,040",
+      "end_time": "00:16:20,130",
+      "text": "this one door and he goes over to it me"
+    },
+    {
+      "start_time": "00:16:18,779",
+      "end_time": "00:16:21,690",
+      "text": "check the door I think that they find"
+    },
+    {
+      "start_time": "00:16:20,130",
+      "end_time": "00:16:23,459",
+      "text": "that there's a lot of vantage points on"
+    },
+    {
+      "start_time": "00:16:21,690",
+      "end_time": "00:16:26,220",
+      "text": "either side of the door like you know"
+    },
+    {
+      "start_time": "00:16:23,459",
+      "end_time": "00:16:28,709",
+      "text": "old crates and barrels all stacked up a"
+    },
+    {
+      "start_time": "00:16:26,220",
+      "end_time": "00:16:30,990",
+      "text": "lot of places for an ambush or to strike"
+    },
+    {
+      "start_time": "00:16:28,709",
+      "end_time": "00:16:33,720",
+      "text": "from and they immediately as apparent to"
+    },
+    {
+      "start_time": "00:16:30,990",
+      "end_time": "00:16:35,220",
+      "text": "them but if in fact the father was"
+    },
+    {
+      "start_time": "00:16:33,720",
+      "end_time": "00:16:36,870",
+      "text": "killed in Gorgon alley that this would"
+    },
+    {
+      "start_time": "00:16:35,220",
+      "end_time": "00:16:39,540",
+      "text": "be the best place to attack somebody"
+    },
+    {
+      "start_time": "00:16:36,870",
+      "end_time": "00:16:40,620",
+      "text": "from behind is from this area and as"
+    },
+    {
+      "start_time": "00:16:39,540",
+      "end_time": "00:16:43,110",
+      "text": "they look and they kind of put it"
+    },
+    {
+      "start_time": "00:16:40,620",
+      "end_time": "00:16:45,689",
+      "text": "together all being experienced fighting"
+    },
+    {
+      "start_time": "00:16:43,110",
+      "end_time": "00:16:48,660",
+      "text": "men they realized that wait a minute"
+    },
+    {
+      "start_time": "00:16:45,689",
+      "end_time": "00:16:51,269",
+      "text": "that the best angle of attack is if"
+    },
+    {
+      "start_time": "00:16:48,660",
+      "end_time": "00:16:53,939",
+      "text": "someone attacked him right as he was"
+    },
+    {
+      "start_time": "00:16:51,269",
+      "end_time": "00:16:56,130",
+      "text": "sort of coming out and around which"
+    },
+    {
+      "start_time": "00:16:53,939",
+      "end_time": "00:16:57,660",
+      "text": "means someone had to have been waiting"
+    },
+    {
+      "start_time": "00:16:56,130",
+      "end_time": "00:16:59,519",
+      "text": "for him I think I set up for them to"
+    },
+    {
+      "start_time": "00:16:57,660",
+      "end_time": "00:17:00,839",
+      "text": "want to investigate further the soup"
+    },
+    {
+      "start_time": "00:16:59,519",
+      "end_time": "00:17:02,550",
+      "text": "kitchen in themselves and it does make"
+    },
+    {
+      "start_time": "00:17:00,839",
+      "end_time": "00:17:03,540",
+      "text": "sense because they knew that the beggars"
+    },
+    {
+      "start_time": "00:17:02,550",
+      "end_time": "00:17:04,709",
+      "text": "were all being killed outside soup"
+    },
+    {
+      "start_time": "00:17:03,540",
+      "end_time": "00:17:05,789",
+      "text": "kitchens so of course they're gonna want"
+    },
+    {
+      "start_time": "00:17:04,709",
+      "end_time": "00:17:06,839",
+      "text": "to talk to the people there so as they"
+    },
+    {
+      "start_time": "00:17:05,789",
+      "end_time": "00:17:09,870",
+      "text": "go around to the front they sort of"
+    },
+    {
+      "start_time": "00:17:06,839",
+      "end_time": "00:17:11,309",
+      "text": "knock on the door and a harsh guttural"
+    },
+    {
+      "start_time": "00:17:09,870",
+      "end_time": "00:17:12,000",
+      "text": "voice comes from comes from the other"
+    },
+    {
+      "start_time": "00:17:11,309",
+      "end_time": "00:17:13,679",
+      "text": "side of the door"
+    },
+    {
+      "start_time": "00:17:12,000",
+      "end_time": "00:17:15,209",
+      "text": "we're closed tonight there's no more"
+    },
+    {
+      "start_time": "00:17:13,679",
+      "end_time": "00:17:18,059",
+      "text": "food for you come back in the morning"
+    },
+    {
+      "start_time": "00:17:15,209",
+      "end_time": "00:17:19,559",
+      "text": "we're not here for the food friend we"
+    },
+    {
+      "start_time": "00:17:18,059",
+      "end_time": "00:17:21,569",
+      "text": "want to talk to you about the murdered"
+    },
+    {
+      "start_time": "00:17:19,559",
+      "end_time": "00:17:24,750",
+      "text": "beggars last year do you know anything"
+    },
+    {
+      "start_time": "00:17:21,569",
+      "end_time": "00:17:26,490",
+      "text": "about that does he I mean probably we'll"
+    },
+    {
+      "start_time": "00:17:24,750",
+      "end_time": "00:17:30,720",
+      "text": "call it very likely does you know"
+    },
+    {
+      "start_time": "00:17:26,490",
+      "end_time": "00:17:32,190",
+      "text": "anything about that 88 is is a no so"
+    },
+    {
+      "start_time": "00:17:30,720",
+      "end_time": "00:17:33,720",
+      "text": "this guy doesn't it's doubles but it's"
+    },
+    {
+      "start_time": "00:17:32,190",
+      "end_time": "00:17:35,460",
+      "text": "over our case factors a no random event"
+    },
+    {
+      "start_time": "00:17:33,720",
+      "end_time": "00:17:37,350",
+      "text": "the murders no no no I don't know"
+    },
+    {
+      "start_time": "00:17:35,460",
+      "end_time": "00:17:37,860",
+      "text": "anything about that I started working"
+    },
+    {
+      "start_time": "00:17:37,350",
+      "end_time": "00:17:40,020",
+      "text": "here"
+    },
+    {
+      "start_time": "00:17:37,860",
+      "end_time": "00:17:41,309",
+      "text": "long after that was all done if you want"
+    },
+    {
+      "start_time": "00:17:40,020",
+      "end_time": "00:17:43,140",
+      "text": "to have any answers about that you'll"
+    },
+    {
+      "start_time": "00:17:41,309",
+      "end_time": "00:17:44,700",
+      "text": "have to talk to Lord Manfred's man he's"
+    },
+    {
+      "start_time": "00:17:43,140",
+      "end_time": "00:17:48,510",
+      "text": "the one in charge of the soup kitchen"
+    },
+    {
+      "start_time": "00:17:44,700",
+      "end_time": "00:17:52,020",
+      "text": "and what is this man's name his name is"
+    },
+    {
+      "start_time": "00:17:48,510",
+      "end_time": "00:17:53,850",
+      "text": "Huxley he'll be back tomorrow you could"
+    },
+    {
+      "start_time": "00:17:52,020",
+      "end_time": "00:17:56,640",
+      "text": "see him then very well thank you"
+    },
+    {
+      "start_time": "00:17:53,850",
+      "end_time": "00:17:58,440",
+      "text": "they trundle off into the dark night and"
+    },
+    {
+      "start_time": "00:17:56,640",
+      "end_time": "00:17:59,660",
+      "text": "head back to the creeping Pixy when they"
+    },
+    {
+      "start_time": "00:17:58,440",
+      "end_time": "00:18:02,370",
+      "text": "get back to their rooms"
+    },
+    {
+      "start_time": "00:17:59,660",
+      "end_time": "00:18:06,240",
+      "text": "Simon is obviously not too excited about"
+    },
+    {
+      "start_time": "00:18:02,370",
+      "end_time": "00:18:08,070",
+      "text": "wanting to speak to Manfred's employee"
+    },
+    {
+      "start_time": "00:18:06,240",
+      "end_time": "00:18:09,690",
+      "text": "basically because there's a very good"
+    },
+    {
+      "start_time": "00:18:08,070",
+      "end_time": "00:18:11,340",
+      "text": "chance that you know there might be a"
+    },
+    {
+      "start_time": "00:18:09,690",
+      "end_time": "00:18:13,110",
+      "text": "connection there and that they might"
+    },
+    {
+      "start_time": "00:18:11,340",
+      "end_time": "00:18:16,679",
+      "text": "know who Simon is he can't reveal his"
+    },
+    {
+      "start_time": "00:18:13,110",
+      "end_time": "00:18:19,590",
+      "text": "face Oran says I do not think it is wise"
+    },
+    {
+      "start_time": "00:18:16,679",
+      "end_time": "00:18:22,950",
+      "text": "for you to speak to this Huxley Simon he"
+    },
+    {
+      "start_time": "00:18:19,590",
+      "end_time": "00:18:25,410",
+      "text": "may recognize you yes that is good"
+    },
+    {
+      "start_time": "00:18:22,950",
+      "end_time": "00:18:26,669",
+      "text": "advice on but my instinct tells me that"
+    },
+    {
+      "start_time": "00:18:25,410",
+      "end_time": "00:18:30,120",
+      "text": "if we're going to discover who the"
+    },
+    {
+      "start_time": "00:18:26,669",
+      "end_time": "00:18:32,549",
+      "text": "serial killer was our next answers are"
+    },
+    {
+      "start_time": "00:18:30,120",
+      "end_time": "00:18:35,880",
+      "text": "connected to that soup kitchen somehow I"
+    },
+    {
+      "start_time": "00:18:32,549",
+      "end_time": "00:18:38,250",
+      "text": "must go and if you insist just make sure"
+    },
+    {
+      "start_time": "00:18:35,880",
+      "end_time": "00:18:40,320",
+      "text": "you keep your hood up we don't want that"
+    },
+    {
+      "start_time": "00:18:38,250",
+      "end_time": "00:18:43,290",
+      "text": "they want to see your face I think that"
+    },
+    {
+      "start_time": "00:18:40,320",
+      "end_time": "00:18:45,419",
+      "text": "night they go to bed they get some sleep"
+    },
+    {
+      "start_time": "00:18:43,290",
+      "end_time": "00:18:47,309",
+      "text": "they get some rest and in the morning"
+    },
+    {
+      "start_time": "00:18:45,419",
+      "end_time": "00:18:48,809",
+      "text": "they go back to the soup kitchen so"
+    },
+    {
+      "start_time": "00:18:47,309",
+      "end_time": "00:18:51,120",
+      "text": "that'll be our next scene okay"
+    },
+    {
+      "start_time": "00:18:48,809",
+      "end_time": "00:18:53,160",
+      "text": "characters we've added the character of"
+    },
+    {
+      "start_time": "00:18:51,120",
+      "end_time": "00:18:54,630",
+      "text": "Huxley I think they were actually"
+    },
+    {
+      "start_time": "00:18:53,160",
+      "end_time": "00:18:58,290",
+      "text": "largely in control there so I'm gonna"
+    },
+    {
+      "start_time": "00:18:54,630",
+      "end_time": "00:19:00,870",
+      "text": "lower the chaos down to four the next"
+    },
+    {
+      "start_time": "00:18:58,290",
+      "end_time": "00:19:02,970",
+      "text": "morning they get up have a meager"
+    },
+    {
+      "start_time": "00:19:00,870",
+      "end_time": "00:19:05,340",
+      "text": "breakfast at the creeping Pixy which is"
+    },
+    {
+      "start_time": "00:19:02,970",
+      "end_time": "00:19:07,830",
+      "text": "composed largely of thin gruel no doubt"
+    },
+    {
+      "start_time": "00:19:05,340",
+      "end_time": "00:19:10,440",
+      "text": "and they head down back to the soup"
+    },
+    {
+      "start_time": "00:19:07,830",
+      "end_time": "00:19:12,960",
+      "text": "house to try and speak to Huxley to see"
+    },
+    {
+      "start_time": "00:19:10,440",
+      "end_time": "00:19:17,730",
+      "text": "what they can discover so is the scene"
+    },
+    {
+      "start_time": "00:19:12,960",
+      "end_time": "00:19:20,400",
+      "text": "altered or interrupted it is it is an"
+    },
+    {
+      "start_time": "00:19:17,730",
+      "end_time": "00:19:22,200",
+      "text": "altered scene so as they are going to"
+    },
+    {
+      "start_time": "00:19:20,400",
+      "end_time": "00:19:24,690",
+      "text": "the soup kitchen I think the best way to"
+    },
+    {
+      "start_time": "00:19:22,200",
+      "end_time": "00:19:29,669",
+      "text": "alter the scene is there is the chance"
+    },
+    {
+      "start_time": "00:19:24,690",
+      "end_time": "00:19:31,590",
+      "text": "that a town guard recognizes Simon Oren"
+    },
+    {
+      "start_time": "00:19:29,669",
+      "end_time": "00:19:35,070",
+      "text": "tried to warn Simon about not going and"
+    },
+    {
+      "start_time": "00:19:31,590",
+      "end_time": "00:19:38,040",
+      "text": "he chose to anyway they are making their"
+    },
+    {
+      "start_time": "00:19:35,070",
+      "end_time": "00:19:40,890",
+      "text": "way through the ramshackle Byzantine"
+    },
+    {
+      "start_time": "00:19:38,040",
+      "end_time": "00:19:43,320",
+      "text": "maze like streets of the hooks large"
+    },
+    {
+      "start_time": "00:19:40,890",
+      "end_time": "00:19:45,900",
+      "text": "wooden tenement buildings loom"
+    },
+    {
+      "start_time": "00:19:43,320",
+      "end_time": "00:19:48,660",
+      "text": "over the streets almost threatening to"
+    },
+    {
+      "start_time": "00:19:45,900",
+      "end_time": "00:19:50,870",
+      "text": "come in and collapse creating this real"
+    },
+    {
+      "start_time": "00:19:48,660",
+      "end_time": "00:19:53,520",
+      "text": "maze like feel to it as they pass by"
+    },
+    {
+      "start_time": "00:19:50,870",
+      "end_time": "00:19:55,740",
+      "text": "merchants and oceans and all kinds of"
+    },
+    {
+      "start_time": "00:19:53,520",
+      "end_time": "00:19:58,080",
+      "text": "merchants addictions it could be that"
+    },
+    {
+      "start_time": "00:19:55,740",
+      "end_time": "00:19:59,400",
+      "text": "it's D&D game merchants it urgent they"
+    },
+    {
+      "start_time": "00:19:58,080",
+      "end_time": "00:20:00,840",
+      "text": "passed by all the kinds of things that"
+    },
+    {
+      "start_time": "00:19:59,400",
+      "end_time": "00:20:02,430",
+      "text": "you would expect in the poor quarter of"
+    },
+    {
+      "start_time": "00:20:00,840",
+      "end_time": "00:20:04,890",
+      "text": "town in the shanty town that his looks"
+    },
+    {
+      "start_time": "00:20:02,430",
+      "end_time": "00:20:06,960",
+      "text": "going back to the soup kitchen to the"
+    },
+    {
+      "start_time": "00:20:04,890",
+      "end_time": "00:20:10,010",
+      "text": "main entrance this time but before they"
+    },
+    {
+      "start_time": "00:20:06,960",
+      "end_time": "00:20:14,330",
+      "text": "get there as they're walking across a"
+    },
+    {
+      "start_time": "00:20:10,010",
+      "end_time": "00:20:18,450",
+      "text": "dilapidated sort of market stall a guard"
+    },
+    {
+      "start_time": "00:20:14,330",
+      "end_time": "00:20:21,120",
+      "text": "looks across and sees just for a second"
+    },
+    {
+      "start_time": "00:20:18,450",
+      "end_time": "00:20:23,370",
+      "text": "as Simon basically he's got his cowl up"
+    },
+    {
+      "start_time": "00:20:21,120",
+      "end_time": "00:20:25,260",
+      "text": "but as he's he's walking along he turns"
+    },
+    {
+      "start_time": "00:20:23,370",
+      "end_time": "00:20:27,570",
+      "text": "that he looks behind him and for just a"
+    },
+    {
+      "start_time": "00:20:25,260",
+      "end_time": "00:20:31,170",
+      "text": "second the guard gets a glimpse of his"
+    },
+    {
+      "start_time": "00:20:27,570",
+      "end_time": "00:20:33,930",
+      "text": "face here's a question is this the guard"
+    },
+    {
+      "start_time": "00:20:31,170",
+      "end_time": "00:20:36,360",
+      "text": "that tried to apprehend him a year ago"
+    },
+    {
+      "start_time": "00:20:33,930",
+      "end_time": "00:20:38,610",
+      "text": "and at his partner killed I doubt that"
+    },
+    {
+      "start_time": "00:20:36,360",
+      "end_time": "00:20:41,150",
+      "text": "very very very much I think it's"
+    },
+    {
+      "start_time": "00:20:38,610",
+      "end_time": "00:20:45,000",
+      "text": "impossible is that the case"
+    },
+    {
+      "start_time": "00:20:41,150",
+      "end_time": "00:20:47,280",
+      "text": "ninety three extreme no ok this guy has"
+    },
+    {
+      "start_time": "00:20:45,000",
+      "end_time": "00:20:49,590",
+      "text": "nothing to do with that guard whatsoever"
+    },
+    {
+      "start_time": "00:20:47,280",
+      "end_time": "00:20:51,360",
+      "text": "I think this guard is new I think he's a"
+    },
+    {
+      "start_time": "00:20:49,590",
+      "end_time": "00:20:53,970",
+      "text": "young guard and I don't think he was"
+    },
+    {
+      "start_time": "00:20:51,360",
+      "end_time": "00:20:57,840",
+      "text": "even around a year ago what are the odds"
+    },
+    {
+      "start_time": "00:20:53,970",
+      "end_time": "00:20:59,850",
+      "text": "that this young guard actually knows"
+    },
+    {
+      "start_time": "00:20:57,840",
+      "end_time": "00:21:02,280",
+      "text": "enough details about the description of"
+    },
+    {
+      "start_time": "00:20:59,850",
+      "end_time": "00:21:06,660",
+      "text": "Simon that he's able to recognize him"
+    },
+    {
+      "start_time": "00:21:02,280",
+      "end_time": "00:21:13,130",
+      "text": "based on that hmm I just don't think"
+    },
+    {
+      "start_time": "00:21:06,660",
+      "end_time": "00:21:15,120",
+      "text": "it's likely Oh 30 to know is the answer"
+    },
+    {
+      "start_time": "00:21:13,130",
+      "end_time": "00:21:16,410",
+      "text": "interesting cuz if the character was"
+    },
+    {
+      "start_time": "00:21:15,120",
+      "end_time": "00:21:18,360",
+      "text": "five instead of four that would have"
+    },
+    {
+      "start_time": "00:21:16,410",
+      "end_time": "00:21:20,460",
+      "text": "been a yes so no the guard does not"
+    },
+    {
+      "start_time": "00:21:18,360",
+      "end_time": "00:21:22,680",
+      "text": "recognize him he sees Simon's face I"
+    },
+    {
+      "start_time": "00:21:20,460",
+      "end_time": "00:21:25,410",
+      "text": "think Simon briefly makes eye contact"
+    },
+    {
+      "start_time": "00:21:22,680",
+      "end_time": "00:21:27,960",
+      "text": "with him the guard just kind of looks a"
+    },
+    {
+      "start_time": "00:21:25,410",
+      "end_time": "00:21:30,090",
+      "text": "bit like this Simon tenses his hand goes"
+    },
+    {
+      "start_time": "00:21:27,960",
+      "end_time": "00:21:31,470",
+      "text": "to his crossbow underneath his cloak but"
+    },
+    {
+      "start_time": "00:21:30,090",
+      "end_time": "00:21:33,330",
+      "text": "the guard looks at him and then his"
+    },
+    {
+      "start_time": "00:21:31,470",
+      "end_time": "00:21:35,970",
+      "text": "attention is taken by some passing"
+    },
+    {
+      "start_time": "00:21:33,330",
+      "end_time": "00:21:38,640",
+      "text": "street urchin so they are able to"
+    },
+    {
+      "start_time": "00:21:35,970",
+      "end_time": "00:21:40,680",
+      "text": "continue unscathed towards the soup"
+    },
+    {
+      "start_time": "00:21:38,640",
+      "end_time": "00:21:44,700",
+      "text": "kitchen when they get there let's talk"
+    },
+    {
+      "start_time": "00:21:40,680",
+      "end_time": "00:21:47,610",
+      "text": "about Huxley Huxley is Manfred's guy who"
+    },
+    {
+      "start_time": "00:21:44,700",
+      "end_time": "00:21:48,900",
+      "text": "is there specifically to oversee the"
+    },
+    {
+      "start_time": "00:21:47,610",
+      "end_time": "00:21:50,850",
+      "text": "soup kitchen so I don't think he's gonna"
+    },
+    {
+      "start_time": "00:21:48,900",
+      "end_time": "00:21:52,140",
+      "text": "be a soldier or anything like that"
+    },
+    {
+      "start_time": "00:21:50,850",
+      "end_time": "00:21:55,020",
+      "text": "he's more of a low-level bureaucrat"
+    },
+    {
+      "start_time": "00:21:52,140",
+      "end_time": "00:21:56,460",
+      "text": "stuck with this job which he probably"
+    },
+    {
+      "start_time": "00:21:55,020",
+      "end_time": "00:21:58,110",
+      "text": "hates but we know"
+    },
+    {
+      "start_time": "00:21:56,460",
+      "end_time": "00:22:06,050",
+      "text": "really no let's find out tell us about"
+    },
+    {
+      "start_time": "00:21:58,110",
+      "end_time": "00:22:10,350",
+      "text": "Oxley Huxley is 23 a logical polymath a"
+    },
+    {
+      "start_time": "00:22:06,050",
+      "end_time": "00:22:12,090",
+      "text": "logical polymath interesting a polymath"
+    },
+    {
+      "start_time": "00:22:10,350",
+      "end_time": "00:22:13,860",
+      "text": "incidentally is someone who knows a lot"
+    },
+    {
+      "start_time": "00:22:12,090",
+      "end_time": "00:22:18,990",
+      "text": "about a bunch of different subjects so"
+    },
+    {
+      "start_time": "00:22:13,860",
+      "end_time": "00:22:21,270",
+      "text": "he's he knows his stuff for sure I need"
+    },
+    {
+      "start_time": "00:22:18,990",
+      "end_time": "00:22:24,180",
+      "text": "to know a little bit more about old"
+    },
+    {
+      "start_time": "00:22:21,270",
+      "end_time": "00:22:32,360",
+      "text": "Huxley here he's a logical polymath his"
+    },
+    {
+      "start_time": "00:22:24,180",
+      "end_time": "00:22:38,270",
+      "text": "motivation for T relate 74 modesty abuse"
+    },
+    {
+      "start_time": "00:22:32,360",
+      "end_time": "00:22:41,280",
+      "text": "66 abuse wrath I think that Huxley is an"
+    },
+    {
+      "start_time": "00:22:38,270",
+      "end_time": "00:22:43,260",
+      "text": "extremely smart character who is not"
+    },
+    {
+      "start_time": "00:22:41,280",
+      "end_time": "00:22:45,990",
+      "text": "prone to displays of pride or anything"
+    },
+    {
+      "start_time": "00:22:43,260",
+      "end_time": "00:22:48,330",
+      "text": "like this but he has a hair-trigger"
+    },
+    {
+      "start_time": "00:22:45,990",
+      "end_time": "00:22:49,050",
+      "text": "temper so I have a feeling that the rest"
+    },
+    {
+      "start_time": "00:22:48,330",
+      "end_time": "00:22:51,570",
+      "text": "of the employees"
+    },
+    {
+      "start_time": "00:22:49,050",
+      "end_time": "00:22:53,310",
+      "text": "here at the soup kitchen are terrified"
+    },
+    {
+      "start_time": "00:22:51,570",
+      "end_time": "00:22:54,510",
+      "text": "of Huxley so when they get to the soup"
+    },
+    {
+      "start_time": "00:22:53,310",
+      "end_time": "00:22:55,800",
+      "text": "kitchen I think the doors are already"
+    },
+    {
+      "start_time": "00:22:54,510",
+      "end_time": "00:22:58,080",
+      "text": "open and there's a long line of bigger"
+    },
+    {
+      "start_time": "00:22:55,800",
+      "end_time": "00:23:00,480",
+      "text": "sort of filtering in one by one going up"
+    },
+    {
+      "start_time": "00:22:58,080",
+      "end_time": "00:23:03,720",
+      "text": "to the tables having a thin gruel soup"
+    },
+    {
+      "start_time": "00:23:00,480",
+      "end_time": "00:23:05,730",
+      "text": "ladled into a simple pottery Bowl as"
+    },
+    {
+      "start_time": "00:23:03,720",
+      "end_time": "00:23:07,200",
+      "text": "they take it to a long trestle table and"
+    },
+    {
+      "start_time": "00:23:05,730",
+      "end_time": "00:23:09,150",
+      "text": "I think there's a bunch of them there's"
+    },
+    {
+      "start_time": "00:23:07,200",
+      "end_time": "00:23:11,520",
+      "text": "a whole bunch of beggars here Simon and"
+    },
+    {
+      "start_time": "00:23:09,150",
+      "end_time": "00:23:14,880",
+      "text": "company come in they look around do they"
+    },
+    {
+      "start_time": "00:23:11,520",
+      "end_time": "00:23:16,950",
+      "text": "see Huxley is he in the room I'm gonna"
+    },
+    {
+      "start_time": "00:23:14,880",
+      "end_time": "00:23:18,960",
+      "text": "guess that he's probably not the kind of"
+    },
+    {
+      "start_time": "00:23:16,950",
+      "end_time": "00:23:21,030",
+      "text": "guy that actually you know doles out the"
+    },
+    {
+      "start_time": "00:23:18,960",
+      "end_time": "00:23:22,440",
+      "text": "soup he's more of a bureaucrat he's more"
+    },
+    {
+      "start_time": "00:23:21,030",
+      "end_time": "00:23:23,850",
+      "text": "of an administrator than that yeah I'm"
+    },
+    {
+      "start_time": "00:23:22,440",
+      "end_time": "00:23:26,790",
+      "text": "gonna say it's unlikely that he's"
+    },
+    {
+      "start_time": "00:23:23,850",
+      "end_time": "00:23:29,250",
+      "text": "actually in the room 89 he is not in the"
+    },
+    {
+      "start_time": "00:23:26,790",
+      "end_time": "00:23:32,310",
+      "text": "room in fact two extreme no he is"
+    },
+    {
+      "start_time": "00:23:29,250",
+      "end_time": "00:23:35,610",
+      "text": "currently unavailable for some reason so"
+    },
+    {
+      "start_time": "00:23:32,310",
+      "end_time": "00:23:37,730",
+      "text": "they speak to the local soup workers"
+    },
+    {
+      "start_time": "00:23:35,610",
+      "end_time": "00:23:40,260",
+      "text": "there I'm afraid Lord Huxley is"
+    },
+    {
+      "start_time": "00:23:37,730",
+      "end_time": "00:23:41,790",
+      "text": "indisposed at the moment - you'll have"
+    },
+    {
+      "start_time": "00:23:40,260",
+      "end_time": "00:23:42,540",
+      "text": "to come back later but might I inquire"
+    },
+    {
+      "start_time": "00:23:41,790",
+      "end_time": "00:23:44,970",
+      "text": "as to what this is about"
+    },
+    {
+      "start_time": "00:23:42,540",
+      "end_time": "00:23:46,230",
+      "text": "please my good man it is very important"
+    },
+    {
+      "start_time": "00:23:44,970",
+      "end_time": "00:23:49,100",
+      "text": "that we speak to him"
+    },
+    {
+      "start_time": "00:23:46,230",
+      "end_time": "00:23:53,130",
+      "text": "persuasion role an audience so to speak"
+    },
+    {
+      "start_time": "00:23:49,100",
+      "end_time": "00:23:55,620",
+      "text": "to to to to fail I am terribly sorry but"
+    },
+    {
+      "start_time": "00:23:53,130",
+      "end_time": "00:23:57,810",
+      "text": "when lord Huxley is indisposed he is not"
+    },
+    {
+      "start_time": "00:23:55,620",
+      "end_time": "00:23:59,610",
+      "text": "to be disturbed under any circumstances"
+    },
+    {
+      "start_time": "00:23:57,810",
+      "end_time": "00:24:01,170",
+      "text": "and you know I think that Simon can see"
+    },
+    {
+      "start_time": "00:23:59,610",
+      "end_time": "00:24:02,730",
+      "text": "the fear in this guy's eyes and he gets"
+    },
+    {
+      "start_time": "00:24:01,170",
+      "end_time": "00:24:03,580",
+      "text": "a sense right away I think this Lux"
+    },
+    {
+      "start_time": "00:24:02,730",
+      "end_time": "00:24:05,990",
+      "text": "layer is a"
+    },
+    {
+      "start_time": "00:24:03,580",
+      "end_time": "00:24:08,450",
+      "text": "serious character not to be screwed with"
+    },
+    {
+      "start_time": "00:24:05,990",
+      "end_time": "00:24:10,370",
+      "text": "please as my good friend here says it is"
+    },
+    {
+      "start_time": "00:24:08,450",
+      "end_time": "00:24:11,780",
+      "text": "very important we speak with this Huxley"
+    },
+    {
+      "start_time": "00:24:10,370",
+      "end_time": "00:24:14,860",
+      "text": "he makes grass to explode on this role"
+    },
+    {
+      "start_time": "00:24:11,780",
+      "end_time": "00:24:17,210",
+      "text": "he does not as I said lot Huxley is"
+    },
+    {
+      "start_time": "00:24:14,860",
+      "end_time": "00:24:19,610",
+      "text": "unavailable you will have to come back"
+    },
+    {
+      "start_time": "00:24:17,210",
+      "end_time": "00:24:21,260",
+      "text": "later it was an extreme no I rolled so I"
+    },
+    {
+      "start_time": "00:24:19,610",
+      "end_time": "00:24:22,880",
+      "text": "don't think he's here at all I think"
+    },
+    {
+      "start_time": "00:24:21,260",
+      "end_time": "00:24:25,010",
+      "text": "he's off I think he's off doing some"
+    },
+    {
+      "start_time": "00:24:22,880",
+      "end_time": "00:24:27,460",
+      "text": "work with Manfred himself right now is"
+    },
+    {
+      "start_time": "00:24:25,010",
+      "end_time": "00:24:30,050",
+      "text": "that the case I'm gonna call that likely"
+    },
+    {
+      "start_time": "00:24:27,460",
+      "end_time": "00:24:31,640",
+      "text": "the case yes it is"
+    },
+    {
+      "start_time": "00:24:30,050",
+      "end_time": "00:24:33,950",
+      "text": "Lord Huxley is currently at Lord"
+    },
+    {
+      "start_time": "00:24:31,640",
+      "end_time": "00:24:35,900",
+      "text": "Manfred's Manor he will not be back"
+    },
+    {
+      "start_time": "00:24:33,950",
+      "end_time": "00:24:36,350",
+      "text": "today you will have to try again"
+    },
+    {
+      "start_time": "00:24:35,900",
+      "end_time": "00:24:38,780",
+      "text": "tomorrow"
+    },
+    {
+      "start_time": "00:24:36,350",
+      "end_time": "00:24:40,070",
+      "text": "and then worker goes back to doling out"
+    },
+    {
+      "start_time": "00:24:38,780",
+      "end_time": "00:24:42,980",
+      "text": "the soup and I think the three of them"
+    },
+    {
+      "start_time": "00:24:40,070",
+      "end_time": "00:24:44,600",
+      "text": "sort of pull back a little bit perhaps"
+    },
+    {
+      "start_time": "00:24:42,980",
+      "end_time": "00:24:47,480",
+      "text": "there is something here of interest to"
+    },
+    {
+      "start_time": "00:24:44,600",
+      "end_time": "00:24:50,000",
+      "text": "us on Edward have a walk around the room"
+    },
+    {
+      "start_time": "00:24:47,480",
+      "end_time": "00:24:51,770",
+      "text": "see what you can find the three of them"
+    },
+    {
+      "start_time": "00:24:50,000",
+      "end_time": "00:24:54,770",
+      "text": "move off amongst the beggars I think"
+    },
+    {
+      "start_time": "00:24:51,770",
+      "end_time": "00:24:57,710",
+      "text": "that Arne is actually looking for any"
+    },
+    {
+      "start_time": "00:24:54,770",
+      "end_time": "00:24:59,930",
+      "text": "kind of clues anything of interest in"
+    },
+    {
+      "start_time": "00:24:57,710",
+      "end_time": "00:25:02,750",
+      "text": "the common room itself is there"
+    },
+    {
+      "start_time": "00:24:59,930",
+      "end_time": "00:25:05,150",
+      "text": "something about the table or the walls"
+    },
+    {
+      "start_time": "00:25:02,750",
+      "end_time": "00:25:07,040",
+      "text": "or the kitchen or the the little window"
+    },
+    {
+      "start_time": "00:25:05,150",
+      "end_time": "00:25:08,690",
+      "text": "area where the soup was dolled from"
+    },
+    {
+      "start_time": "00:25:07,040",
+      "end_time": "00:25:10,160",
+      "text": "where he can see the kitchens behind is"
+    },
+    {
+      "start_time": "00:25:08,690",
+      "end_time": "00:25:12,200",
+      "text": "there anything of interest at all while"
+    },
+    {
+      "start_time": "00:25:10,160",
+      "end_time": "00:25:14,150",
+      "text": "he does that I think that both Edward"
+    },
+    {
+      "start_time": "00:25:12,200",
+      "end_time": "00:25:16,250",
+      "text": "and Simon are going around talking to"
+    },
+    {
+      "start_time": "00:25:14,150",
+      "end_time": "00:25:18,710",
+      "text": "the beggars to see if they know anything"
+    },
+    {
+      "start_time": "00:25:16,250",
+      "end_time": "00:25:20,450",
+      "text": "Arne is gonna do a notice roll he's"
+    },
+    {
+      "start_time": "00:25:18,710",
+      "end_time": "00:25:22,040",
+      "text": "really good but I'm gonna give him a"
+    },
+    {
+      "start_time": "00:25:20,450",
+      "end_time": "00:25:24,740",
+      "text": "penalty because I don't think there's"
+    },
+    {
+      "start_time": "00:25:22,040",
+      "end_time": "00:25:26,210",
+      "text": "much to find here in the room so I'm"
+    },
+    {
+      "start_time": "00:25:24,740",
+      "end_time": "00:25:27,530",
+      "text": "gonna give a penalty too which cancels"
+    },
+    {
+      "start_time": "00:25:26,210",
+      "end_time": "00:25:29,360",
+      "text": "his +2 alertness so this is a"
+    },
+    {
+      "start_time": "00:25:27,530",
+      "end_time": "00:25:31,850",
+      "text": "straight-up notice rule for him does he"
+    },
+    {
+      "start_time": "00:25:29,360",
+      "end_time": "00:25:34,100",
+      "text": "notice anything of interest oh and he's"
+    },
+    {
+      "start_time": "00:25:31,850",
+      "end_time": "00:25:38,330",
+      "text": "only rolling a d4 anything of interest"
+    },
+    {
+      "start_time": "00:25:34,100",
+      "end_time": "00:25:40,190",
+      "text": "does aren't find anything maybe 7 so we"
+    },
+    {
+      "start_time": "00:25:38,330",
+      "end_time": "00:25:43,460",
+      "text": "find something of interest what is it"
+    },
+    {
+      "start_time": "00:25:40,190",
+      "end_time": "00:25:47,170",
+      "text": "that Arne finds in the room of interest"
+    },
+    {
+      "start_time": "00:25:43,460",
+      "end_time": "00:25:49,910",
+      "text": "do their investigation 7711 is deceive"
+    },
+    {
+      "start_time": "00:25:47,170",
+      "end_time": "00:25:51,710",
+      "text": "emotions interesting I think the room is"
+    },
+    {
+      "start_time": "00:25:49,910",
+      "end_time": "00:25:53,360",
+      "text": "a large rectangular room with a bunch of"
+    },
+    {
+      "start_time": "00:25:51,710",
+      "end_time": "00:25:54,800",
+      "text": "long trestle tables where these beggars"
+    },
+    {
+      "start_time": "00:25:53,360",
+      "end_time": "00:25:57,380",
+      "text": "are now sitting eating their their thin"
+    },
+    {
+      "start_time": "00:25:54,800",
+      "end_time": "00:25:59,000",
+      "text": "gruel for breakfast basically but they"
+    },
+    {
+      "start_time": "00:25:57,380",
+      "end_time": "00:26:00,890",
+      "text": "are being served by it there's a number"
+    },
+    {
+      "start_time": "00:25:59,000",
+      "end_time": "00:26:02,180",
+      "text": "of windows on the back wall and those"
+    },
+    {
+      "start_time": "00:26:00,890",
+      "end_time": "00:26:03,560",
+      "text": "windows lead to the kitchen and there's"
+    },
+    {
+      "start_time": "00:26:02,180",
+      "end_time": "00:26:05,480",
+      "text": "a couple of workers that are on the"
+    },
+    {
+      "start_time": "00:26:03,560",
+      "end_time": "00:26:07,460",
+      "text": "other side of the windows doling out the"
+    },
+    {
+      "start_time": "00:26:05,480",
+      "end_time": "00:26:09,530",
+      "text": "the soup to people as they go up Oren"
+    },
+    {
+      "start_time": "00:26:07,460",
+      "end_time": "00:26:11,180",
+      "text": "can see that he can see the workers he"
+    },
+    {
+      "start_time": "00:26:09,530",
+      "end_time": "00:26:13,070",
+      "text": "can also see the pasta workers into the"
+    },
+    {
+      "start_time": "00:26:11,180",
+      "end_time": "00:26:14,870",
+      "text": "kitchen are notices that the worker they"
+    },
+    {
+      "start_time": "00:26:13,070",
+      "end_time": "00:26:17,000",
+      "text": "just spoke to is"
+    },
+    {
+      "start_time": "00:26:14,870",
+      "end_time": "00:26:18,620",
+      "text": "moving back towards the kitchen area but"
+    },
+    {
+      "start_time": "00:26:17,000",
+      "end_time": "00:26:21,410",
+      "text": "as he does so he looks back over his"
+    },
+    {
+      "start_time": "00:26:18,620",
+      "end_time": "00:26:23,330",
+      "text": "shoulder at Simon and he's got a look of"
+    },
+    {
+      "start_time": "00:26:21,410",
+      "end_time": "00:26:25,460",
+      "text": "severe consternation on his face like"
+    },
+    {
+      "start_time": "00:26:23,330",
+      "end_time": "00:26:27,950",
+      "text": "something's really bothering him this is"
+    },
+    {
+      "start_time": "00:26:25,460",
+      "end_time": "00:26:30,980",
+      "text": "a problem of course Aaron clocks that"
+    },
+    {
+      "start_time": "00:26:27,950",
+      "end_time": "00:26:32,750",
+      "text": "guy let's find out if Simon and Ed Bert"
+    },
+    {
+      "start_time": "00:26:30,980",
+      "end_time": "00:26:34,160",
+      "text": "come up with anything by talking to"
+    },
+    {
+      "start_time": "00:26:32,750",
+      "end_time": "00:26:36,320",
+      "text": "these people this is a streetwise roll"
+    },
+    {
+      "start_time": "00:26:34,160",
+      "end_time": "00:26:38,270",
+      "text": "again ed Bert is not gonna be afflicted"
+    },
+    {
+      "start_time": "00:26:36,320",
+      "end_time": "00:26:39,860",
+      "text": "by his haunted situation his haunted"
+    },
+    {
+      "start_time": "00:26:38,270",
+      "end_time": "00:26:41,510",
+      "text": "hindrance I'm gonna give Simon the"
+    },
+    {
+      "start_time": "00:26:39,860",
+      "end_time": "00:26:42,800",
+      "text": "penalty to his outsider hindrance here"
+    },
+    {
+      "start_time": "00:26:41,510",
+      "end_time": "00:26:44,900",
+      "text": "just because he's trying to be very"
+    },
+    {
+      "start_time": "00:26:42,800",
+      "end_time": "00:26:46,490",
+      "text": "careful he's got his cloak up he looks a"
+    },
+    {
+      "start_time": "00:26:44,900",
+      "end_time": "00:26:50,540",
+      "text": "little sketchy yeah I'm gonna give him a"
+    },
+    {
+      "start_time": "00:26:46,490",
+      "end_time": "00:26:52,070",
+      "text": "penalty for sure no fail ed Bert does"
+    },
+    {
+      "start_time": "00:26:50,540",
+      "end_time": "00:26:55,540",
+      "text": "have streetwise but only at 4:00 he's"
+    },
+    {
+      "start_time": "00:26:52,070",
+      "end_time": "00:26:55,540",
+      "text": "not gonna have his penalty Oh"
+    },
+    {
+      "start_time": "00:26:55,640",
+      "end_time": "00:27:01,370",
+      "text": "exploding for six so that is a success I"
+    },
+    {
+      "start_time": "00:26:58,820",
+      "end_time": "00:27:03,830",
+      "text": "think it's very likely that some of"
+    },
+    {
+      "start_time": "00:27:01,370",
+      "end_time": "00:27:04,970",
+      "text": "these beggars knew some of the people"
+    },
+    {
+      "start_time": "00:27:03,830",
+      "end_time": "00:27:08,330",
+      "text": "that got killed"
+    },
+    {
+      "start_time": "00:27:04,970",
+      "end_time": "00:27:08,990",
+      "text": "the question is in talking to these"
+    },
+    {
+      "start_time": "00:27:08,330",
+      "end_time": "00:27:13,070",
+      "text": "beggars"
+    },
+    {
+      "start_time": "00:27:08,990",
+      "end_time": "00:27:15,950",
+      "text": "it is ed Bert able to detect any pattern"
+    },
+    {
+      "start_time": "00:27:13,070",
+      "end_time": "00:27:17,750",
+      "text": "at all any pattern in their stories any"
+    },
+    {
+      "start_time": "00:27:15,950",
+      "end_time": "00:27:20,300",
+      "text": "patterns in the killings anything at all"
+    },
+    {
+      "start_time": "00:27:17,750",
+      "end_time": "00:27:22,910",
+      "text": "that would provide some other clue it"
+    },
+    {
+      "start_time": "00:27:20,300",
+      "end_time": "00:27:24,350",
+      "text": "wasn't as obsessed with a race so I was"
+    },
+    {
+      "start_time": "00:27:22,910",
+      "end_time": "00:27:25,790",
+      "text": "gonna call it likely but I think it's"
+    },
+    {
+      "start_time": "00:27:24,350",
+      "end_time": "00:27:27,350",
+      "text": "just gonna be somewhat likely now does"
+    },
+    {
+      "start_time": "00:27:25,790",
+      "end_time": "00:27:31,280",
+      "text": "he detect a pattern in the beggar"
+    },
+    {
+      "start_time": "00:27:27,350",
+      "end_time": "00:27:33,590",
+      "text": "stories twenty is a success he does"
+    },
+    {
+      "start_time": "00:27:31,280",
+      "end_time": "00:27:35,809",
+      "text": "detect a pattern as he's talking to all"
+    },
+    {
+      "start_time": "00:27:33,590",
+      "end_time": "00:27:38,570",
+      "text": "of these other beggars they all tell him"
+    },
+    {
+      "start_time": "00:27:35,809",
+      "end_time": "00:27:40,190",
+      "text": "basically the same thing that their"
+    },
+    {
+      "start_time": "00:27:38,570",
+      "end_time": "00:27:43,190",
+      "text": "friends the other beggars were all"
+    },
+    {
+      "start_time": "00:27:40,190",
+      "end_time": "00:27:45,410",
+      "text": "killed either leaving the soup kitchens"
+    },
+    {
+      "start_time": "00:27:43,190",
+      "end_time": "00:27:48,620",
+      "text": "or or very close to the soup kitchens"
+    },
+    {
+      "start_time": "00:27:45,410",
+      "end_time": "00:27:50,480",
+      "text": "they also tell them that the biggest"
+    },
+    {
+      "start_time": "00:27:48,620",
+      "end_time": "00:27:52,429",
+      "text": "were killed in a multitude of ways they"
+    },
+    {
+      "start_time": "00:27:50,480",
+      "end_time": "00:27:54,080",
+      "text": "were clubbed they were stabbed there"
+    },
+    {
+      "start_time": "00:27:52,429",
+      "end_time": "00:27:58,760",
+      "text": "didn't seem to be any rhyme or reason to"
+    },
+    {
+      "start_time": "00:27:54,080",
+      "end_time": "00:28:02,570",
+      "text": "that the attacks were savage brutal and"
+    },
+    {
+      "start_time": "00:27:58,760",
+      "end_time": "00:28:05,900",
+      "text": "bloody really just awful and the the"
+    },
+    {
+      "start_time": "00:28:02,570",
+      "end_time": "00:28:07,760",
+      "text": "word of these killings spread through"
+    },
+    {
+      "start_time": "00:28:05,900",
+      "end_time": "00:28:10,040",
+      "text": "the hooks like wildfire what is the"
+    },
+    {
+      "start_time": "00:28:07,760",
+      "end_time": "00:28:11,780",
+      "text": "nature of the pattern that he discovers"
+    },
+    {
+      "start_time": "00:28:10,040",
+      "end_time": "00:28:13,700",
+      "text": "about the killings based on everything"
+    },
+    {
+      "start_time": "00:28:11,780",
+      "end_time": "00:28:18,860",
+      "text": "that we know right now eighty eight"
+    },
+    {
+      "start_time": "00:28:13,700",
+      "end_time": "00:28:22,309",
+      "text": "control zero one control of goals the"
+    },
+    {
+      "start_time": "00:28:18,860",
+      "end_time": "00:28:24,860",
+      "text": "killer while savage and brutal was"
+    },
+    {
+      "start_time": "00:28:22,309",
+      "end_time": "00:28:27,660",
+      "text": "always very careful always very much in"
+    },
+    {
+      "start_time": "00:28:24,860",
+      "end_time": "00:28:30,900",
+      "text": "control always knew exact"
+    },
+    {
+      "start_time": "00:28:27,660",
+      "end_time": "00:28:33,870",
+      "text": "Klee when and where to strike beggars"
+    },
+    {
+      "start_time": "00:28:30,900",
+      "end_time": "00:28:36,420",
+      "text": "and he always knew when the beggars were"
+    },
+    {
+      "start_time": "00:28:33,870",
+      "end_time": "00:28:39,090",
+      "text": "going to be alone so much so that the"
+    },
+    {
+      "start_time": "00:28:36,420",
+      "end_time": "00:28:41,700",
+      "text": "only way he could have successfully"
+    },
+    {
+      "start_time": "00:28:39,090",
+      "end_time": "00:28:43,620",
+      "text": "killed all of these people is if he had"
+    },
+    {
+      "start_time": "00:28:41,700",
+      "end_time": "00:28:45,180",
+      "text": "working knowledge of the kitchen itself"
+    },
+    {
+      "start_time": "00:28:43,620",
+      "end_time": "00:28:49,860",
+      "text": "I just had a thought"
+    },
+    {
+      "start_time": "00:28:45,180",
+      "end_time": "00:28:50,520",
+      "text": "did the killer in fact work at the soup"
+    },
+    {
+      "start_time": "00:28:49,860",
+      "end_time": "00:28:54,960",
+      "text": "kitchens"
+    },
+    {
+      "start_time": "00:28:50,520",
+      "end_time": "00:28:56,700",
+      "text": "is that how I mean the the the attacks"
+    },
+    {
+      "start_time": "00:28:54,960",
+      "end_time": "00:28:58,350",
+      "text": "all happened at the soup kitchens is it"
+    },
+    {
+      "start_time": "00:28:56,700",
+      "end_time": "00:29:00,420",
+      "text": "possible that the killer was one of Man"
+    },
+    {
+      "start_time": "00:28:58,350",
+      "end_time": "00:29:03,570",
+      "text": "Ford's men that was working at the soup"
+    },
+    {
+      "start_time": "00:29:00,420",
+      "end_time": "00:29:04,940",
+      "text": "kitchens unlikely just because that'd be"
+    },
+    {
+      "start_time": "00:29:03,570",
+      "end_time": "00:29:08,690",
+      "text": "too easy"
+    },
+    {
+      "start_time": "00:29:04,940",
+      "end_time": "00:29:14,040",
+      "text": "unlikely oh my god extreme yes"
+    },
+    {
+      "start_time": "00:29:08,690",
+      "end_time": "00:29:18,720",
+      "text": "okay so extreme yes we know for a fact"
+    },
+    {
+      "start_time": "00:29:14,040",
+      "end_time": "00:29:22,740",
+      "text": "the killer worked at the soup kitchens"
+    },
+    {
+      "start_time": "00:29:18,720",
+      "end_time": "00:29:26,850",
+      "text": "if he had an understanding of the times"
+    },
+    {
+      "start_time": "00:29:22,740",
+      "end_time": "00:29:29,940",
+      "text": "that the kitchen was open the exits and"
+    },
+    {
+      "start_time": "00:29:26,850",
+      "end_time": "00:29:32,670",
+      "text": "entrances the surrounding alleyways all"
+    },
+    {
+      "start_time": "00:29:29,940",
+      "end_time": "00:29:34,920",
+      "text": "of these things is what ed Burt is able"
+    },
+    {
+      "start_time": "00:29:32,670",
+      "end_time": "00:29:38,160",
+      "text": "to piece together to form this pattern"
+    },
+    {
+      "start_time": "00:29:34,920",
+      "end_time": "00:29:41,880",
+      "text": "that yes absolutely it's very very"
+    },
+    {
+      "start_time": "00:29:38,160",
+      "end_time": "00:29:44,670",
+      "text": "likely that the killer worked in these"
+    },
+    {
+      "start_time": "00:29:41,880",
+      "end_time": "00:29:47,790",
+      "text": "kitchens and as Edward is telling Simon"
+    },
+    {
+      "start_time": "00:29:44,670",
+      "end_time": "00:29:51,180",
+      "text": "this iron is looking over at that worker"
+    },
+    {
+      "start_time": "00:29:47,790",
+      "end_time": "00:29:53,640",
+      "text": "who even now is looking back at Simon he"
+    },
+    {
+      "start_time": "00:29:51,180",
+      "end_time": "00:29:54,810",
+      "text": "goes back in the kitchen and he whispers"
+    },
+    {
+      "start_time": "00:29:53,640",
+      "end_time": "00:29:56,310",
+      "text": "something to one of the other workers"
+    },
+    {
+      "start_time": "00:29:54,810",
+      "end_time": "00:29:58,260",
+      "text": "which aren't concede through the window"
+    },
+    {
+      "start_time": "00:29:56,310",
+      "end_time": "00:30:00,000",
+      "text": "and he's he's very agitated about"
+    },
+    {
+      "start_time": "00:29:58,260",
+      "end_time": "00:30:02,040",
+      "text": "something and he looks over and I think"
+    },
+    {
+      "start_time": "00:30:00,000",
+      "end_time": "00:30:04,980",
+      "text": "what he's saying to the worker is these"
+    },
+    {
+      "start_time": "00:30:02,040",
+      "end_time": "00:30:06,300",
+      "text": "men are up to no good and we need to"
+    },
+    {
+      "start_time": "00:30:04,980",
+      "end_time": "00:30:07,920",
+      "text": "call the guards we need to get these men"
+    },
+    {
+      "start_time": "00:30:06,300",
+      "end_time": "00:30:09,060",
+      "text": "out of here right now I think that's"
+    },
+    {
+      "start_time": "00:30:07,920",
+      "end_time": "00:30:14,940",
+      "text": "what he's saying is that what he's"
+    },
+    {
+      "start_time": "00:30:09,060",
+      "end_time": "00:30:16,770",
+      "text": "saying yes that is what he's saying so"
+    },
+    {
+      "start_time": "00:30:14,940",
+      "end_time": "00:30:18,380",
+      "text": "the guy that they were talking to goes"
+    },
+    {
+      "start_time": "00:30:16,770",
+      "end_time": "00:30:20,670",
+      "text": "up to one of the other employees and"
+    },
+    {
+      "start_time": "00:30:18,380",
+      "end_time": "00:30:22,380",
+      "text": "whispers something to that employee that"
+    },
+    {
+      "start_time": "00:30:20,670",
+      "end_time": "00:30:25,260",
+      "text": "employee sort of looks over at our trio"
+    },
+    {
+      "start_time": "00:30:22,380",
+      "end_time": "00:30:27,420",
+      "text": "nods hurriedly and vanishes through the"
+    },
+    {
+      "start_time": "00:30:25,260",
+      "end_time": "00:30:29,250",
+      "text": "back door Arne sees this and he"
+    },
+    {
+      "start_time": "00:30:27,420",
+      "end_time": "00:30:31,290",
+      "text": "immediately clocks over at Simon and Ed"
+    },
+    {
+      "start_time": "00:30:29,250",
+      "end_time": "00:30:33,600",
+      "text": "Bert and he motions his head and he"
+    },
+    {
+      "start_time": "00:30:31,290",
+      "end_time": "00:30:35,760",
+      "text": "hightails it out the front door to try"
+    },
+    {
+      "start_time": "00:30:33,600",
+      "end_time": "00:30:37,620",
+      "text": "and run around and catch up with the"
+    },
+    {
+      "start_time": "00:30:35,760",
+      "end_time": "00:30:39,549",
+      "text": "person in the back before he can go off"
+    },
+    {
+      "start_time": "00:30:37,620",
+      "end_time": "00:30:41,470",
+      "text": "and do whatever he's going to do me"
+    },
+    {
+      "start_time": "00:30:39,549",
+      "end_time": "00:30:42,940",
+      "text": "while as this happens Simon and Edward"
+    },
+    {
+      "start_time": "00:30:41,470",
+      "end_time": "00:30:45,369",
+      "text": "sort of stand up and they see the worker"
+    },
+    {
+      "start_time": "00:30:42,940",
+      "end_time": "00:30:47,860",
+      "text": "looking at them glaring at them they"
+    },
+    {
+      "start_time": "00:30:45,369",
+      "end_time": "00:30:49,059",
+      "text": "approach the window to try and speak to"
+    },
+    {
+      "start_time": "00:30:47,860",
+      "end_time": "00:30:50,950",
+      "text": "him as they noticed that he's totally"
+    },
+    {
+      "start_time": "00:30:49,059",
+      "end_time": "00:30:52,809",
+      "text": "glaring at them but as they come up"
+    },
+    {
+      "start_time": "00:30:50,950",
+      "end_time": "00:30:54,690",
+      "text": "he sort of you know his eyes go wide he"
+    },
+    {
+      "start_time": "00:30:52,809",
+      "end_time": "00:30:57,519",
+      "text": "turns and disappears into the kitchen"
+    },
+    {
+      "start_time": "00:30:54,690",
+      "end_time": "00:30:59,799",
+      "text": "vanishing Edward says something's wrong"
+    },
+    {
+      "start_time": "00:30:57,519",
+      "end_time": "00:31:00,539",
+      "text": "with that guy we should go after him yes"
+    },
+    {
+      "start_time": "00:30:59,799",
+      "end_time": "00:31:03,850",
+      "text": "I think you're right"
+    },
+    {
+      "start_time": "00:31:00,539",
+      "end_time": "00:31:05,739",
+      "text": "they split up looking for the entrance"
+    },
+    {
+      "start_time": "00:31:03,850",
+      "end_time": "00:31:07,690",
+      "text": "to the kitchen do they find it well it's"
+    },
+    {
+      "start_time": "00:31:05,739",
+      "end_time": "00:31:09,580",
+      "text": "not a very big room I'm gonna say it's"
+    },
+    {
+      "start_time": "00:31:07,690",
+      "end_time": "00:31:10,929",
+      "text": "very likely that one of them finds it"
+    },
+    {
+      "start_time": "00:31:09,580",
+      "end_time": "00:31:13,600",
+      "text": "before the guy can vanish entirely"
+    },
+    {
+      "start_time": "00:31:10,929",
+      "end_time": "00:31:14,710",
+      "text": "ninety-four no they don't so that"
+    },
+    {
+      "start_time": "00:31:13,600",
+      "end_time": "00:31:16,179",
+      "text": "doesn't mean they don't find the"
+    },
+    {
+      "start_time": "00:31:14,710",
+      "end_time": "00:31:17,320",
+      "text": "entrance it means that by the time they"
+    },
+    {
+      "start_time": "00:31:16,179",
+      "end_time": "00:31:19,179",
+      "text": "find the entrance to the kitchen and"
+    },
+    {
+      "start_time": "00:31:17,320",
+      "end_time": "00:31:20,759",
+      "text": "barrel into the kitchens these are their"
+    },
+    {
+      "start_time": "00:31:19,179",
+      "end_time": "00:31:23,289",
+      "text": "workers like hey you can't be in here"
+    },
+    {
+      "start_time": "00:31:20,759",
+      "end_time": "00:31:24,039",
+      "text": "they look around but the guy is nowhere"
+    },
+    {
+      "start_time": "00:31:23,289",
+      "end_time": "00:31:27,070",
+      "text": "to be seen"
+    },
+    {
+      "start_time": "00:31:24,039",
+      "end_time": "00:31:29,019",
+      "text": "meanwhile in the back alley Arne rushes"
+    },
+    {
+      "start_time": "00:31:27,070",
+      "end_time": "00:31:30,309",
+      "text": "back to try and catch this dude who was"
+    },
+    {
+      "start_time": "00:31:29,019",
+      "end_time": "00:31:31,629",
+      "text": "running out the back alley he doesn't"
+    },
+    {
+      "start_time": "00:31:30,309",
+      "end_time": "00:31:32,980",
+      "text": "know anything about what's going on with"
+    },
+    {
+      "start_time": "00:31:31,629",
+      "end_time": "00:31:34,059",
+      "text": "this guy or where he's going or anything"
+    },
+    {
+      "start_time": "00:31:32,980",
+      "end_time": "00:31:36,070",
+      "text": "like that but it's obviously not a good"
+    },
+    {
+      "start_time": "00:31:34,059",
+      "end_time": "00:31:39,369",
+      "text": "thing does he catch him in time"
+    },
+    {
+      "start_time": "00:31:36,070",
+      "end_time": "00:31:41,559",
+      "text": "boom fifty-fifty does aren't catch the"
+    },
+    {
+      "start_time": "00:31:39,369",
+      "end_time": "00:31:45,700",
+      "text": "guy and basically stop him from going to"
+    },
+    {
+      "start_time": "00:31:41,559",
+      "end_time": "00:31:47,409",
+      "text": "grab the guards he does not all runs"
+    },
+    {
+      "start_time": "00:31:45,700",
+      "end_time": "00:31:49,600",
+      "text": "around the alley he looks for the guy"
+    },
+    {
+      "start_time": "00:31:47,409",
+      "end_time": "00:31:51,309",
+      "text": "nowhere to be seen he walks out into one"
+    },
+    {
+      "start_time": "00:31:49,600",
+      "end_time": "00:31:53,710",
+      "text": "of the maze-like streets and there he"
+    },
+    {
+      "start_time": "00:31:51,309",
+      "end_time": "00:31:56,739",
+      "text": "can see if a guy has found that other"
+    },
+    {
+      "start_time": "00:31:53,710",
+      "end_time": "00:31:58,749",
+      "text": "young Guardsman from before and he's"
+    },
+    {
+      "start_time": "00:31:56,739",
+      "end_time": "00:32:00,580",
+      "text": "pointing back to the soup house and he's"
+    },
+    {
+      "start_time": "00:31:58,749",
+      "end_time": "00:32:02,409",
+      "text": "agitated and he's very very animatedly"
+    },
+    {
+      "start_time": "00:32:00,580",
+      "end_time": "00:32:04,509",
+      "text": "you know pointing and I think aren't"
+    },
+    {
+      "start_time": "00:32:02,409",
+      "end_time": "00:32:06,429",
+      "text": "could overhear I'm saying there's men in"
+    },
+    {
+      "start_time": "00:32:04,509",
+      "end_time": "00:32:09,609",
+      "text": "the soup kitchen stood up no good aren't"
+    },
+    {
+      "start_time": "00:32:06,429",
+      "end_time": "00:32:10,059",
+      "text": "like uh-oh Arne runs back to the soup"
+    },
+    {
+      "start_time": "00:32:09,609",
+      "end_time": "00:32:12,789",
+      "text": "kitchens"
+    },
+    {
+      "start_time": "00:32:10,059",
+      "end_time": "00:32:15,639",
+      "text": "does he get there in time to warn Simon"
+    },
+    {
+      "start_time": "00:32:12,789",
+      "end_time": "00:32:17,200",
+      "text": "and edwart before the guard shows up I'm"
+    },
+    {
+      "start_time": "00:32:15,639",
+      "end_time": "00:32:19,749",
+      "text": "gonna make this a competing role okay"
+    },
+    {
+      "start_time": "00:32:17,200",
+      "end_time": "00:32:21,220",
+      "text": "his agility versus the guards agility so"
+    },
+    {
+      "start_time": "00:32:19,749",
+      "end_time": "00:32:22,869",
+      "text": "let's do the guards agility first I'm"
+    },
+    {
+      "start_time": "00:32:21,220",
+      "end_time": "00:32:25,960",
+      "text": "just gonna make him a bog-standard guard"
+    },
+    {
+      "start_time": "00:32:22,869",
+      "end_time": "00:32:29,080",
+      "text": "what is his agility role for so Arne has"
+    },
+    {
+      "start_time": "00:32:25,960",
+      "end_time": "00:32:30,789",
+      "text": "to beat a four or else the guard is able"
+    },
+    {
+      "start_time": "00:32:29,080",
+      "end_time": "00:32:33,940",
+      "text": "to get to the soup kitchens before he"
+    },
+    {
+      "start_time": "00:32:30,789",
+      "end_time": "00:32:35,230",
+      "text": "does barn rolls a seven I thought that"
+    },
+    {
+      "start_time": "00:32:33,940",
+      "end_time": "00:32:37,539",
+      "text": "was nothing else so he rolls a seven"
+    },
+    {
+      "start_time": "00:32:35,230",
+      "end_time": "00:32:40,659",
+      "text": "he's able to burst into the soup kitchen"
+    },
+    {
+      "start_time": "00:32:37,539",
+      "end_time": "00:32:42,369",
+      "text": "run back he doesn't see Simon or Edward"
+    },
+    {
+      "start_time": "00:32:40,659",
+      "end_time": "00:32:43,989",
+      "text": "anywhere but he's any notices to the"
+    },
+    {
+      "start_time": "00:32:42,369",
+      "end_time": "00:32:44,850",
+      "text": "window of the goods the soup kitchens he"
+    },
+    {
+      "start_time": "00:32:43,989",
+      "end_time": "00:32:46,620",
+      "text": "runs in"
+    },
+    {
+      "start_time": "00:32:44,850",
+      "end_time": "00:32:48,570",
+      "text": "- the kitchens we've got to get out of"
+    },
+    {
+      "start_time": "00:32:46,620",
+      "end_time": "00:32:50,190",
+      "text": "here now the guards are on their way"
+    },
+    {
+      "start_time": "00:32:48,570",
+      "end_time": "00:32:52,740",
+      "text": "they seem to think that we're up to no"
+    },
+    {
+      "start_time": "00:32:50,190",
+      "end_time": "00:32:54,990",
+      "text": "good blast let's go let's go down and"
+    },
+    {
+      "start_time": "00:32:52,740",
+      "end_time": "00:32:56,490",
+      "text": "they hightail it out of the soup kitchen"
+    },
+    {
+      "start_time": "00:32:54,990",
+      "end_time": "00:32:58,350",
+      "text": "as they hustle through the streets back"
+    },
+    {
+      "start_time": "00:32:56,490",
+      "end_time": "00:33:01,170",
+      "text": "to the creeping pixie orange says to"
+    },
+    {
+      "start_time": "00:32:58,350",
+      "end_time": "00:33:04,050",
+      "text": "them I saw the look on the face of that"
+    },
+    {
+      "start_time": "00:33:01,170",
+      "end_time": "00:33:07,410",
+      "text": "man we spoke to when we first came in he"
+    },
+    {
+      "start_time": "00:33:04,050",
+      "end_time": "00:33:10,410",
+      "text": "knows something Simon somehow I believe"
+    },
+    {
+      "start_time": "00:33:07,410",
+      "end_time": "00:33:12,270",
+      "text": "that he could be key to all of this well"
+    },
+    {
+      "start_time": "00:33:10,410",
+      "end_time": "00:33:14,910",
+      "text": "then we are going to have to find a way"
+    },
+    {
+      "start_time": "00:33:12,270",
+      "end_time": "00:33:18,240",
+      "text": "to get to him find out what he knows and"
+    },
+    {
+      "start_time": "00:33:14,910",
+      "end_time": "00:33:20,790",
+      "text": "what he's hiding but that will take us"
+    },
+    {
+      "start_time": "00:33:18,240",
+      "end_time": "00:33:21,360",
+      "text": "to the end of the scene a new thread as"
+    },
+    {
+      "start_time": "00:33:20,790",
+      "end_time": "00:33:24,030",
+      "text": "well"
+    },
+    {
+      "start_time": "00:33:21,360",
+      "end_time": "00:33:26,730",
+      "text": "the killer we've determined worked at"
+    },
+    {
+      "start_time": "00:33:24,030",
+      "end_time": "00:33:28,110",
+      "text": "the soup house the worker whose name"
+    },
+    {
+      "start_time": "00:33:26,730",
+      "end_time": "00:33:29,490",
+      "text": "they didn't get but let's get a"
+    },
+    {
+      "start_time": "00:33:28,110",
+      "end_time": "00:33:30,720",
+      "text": "description of this guy because we"
+    },
+    {
+      "start_time": "00:33:29,490",
+      "end_time": "00:33:33,840",
+      "text": "didn't actually give him a description a"
+    },
+    {
+      "start_time": "00:33:30,720",
+      "end_time": "00:33:35,460",
+      "text": "course so he's literally course he's got"
+    },
+    {
+      "start_time": "00:33:33,840",
+      "end_time": "00:33:37,410",
+      "text": "like all kinds of stubble he's really"
+    },
+    {
+      "start_time": "00:33:35,460",
+      "end_time": "00:33:42,420",
+      "text": "unkempt you know a big bald patch"
+    },
+    {
+      "start_time": "00:33:37,410",
+      "end_time": "00:33:44,430",
+      "text": "scraggly hair cleric he's also bearing a"
+    },
+    {
+      "start_time": "00:33:42,420",
+      "end_time": "00:33:47,570",
+      "text": "holy symbol around his neck I just"
+    },
+    {
+      "start_time": "00:33:44,430",
+      "end_time": "00:33:51,360",
+      "text": "realized we I had mentioned before that"
+    },
+    {
+      "start_time": "00:33:47,570",
+      "end_time": "00:33:53,220",
+      "text": "it's possible that this soup kitchen was"
+    },
+    {
+      "start_time": "00:33:51,360",
+      "end_time": "00:33:54,720",
+      "text": "it was working in conjunction with one"
+    },
+    {
+      "start_time": "00:33:53,220",
+      "end_time": "00:33:57,150",
+      "text": "of the temples of the goddess of healing"
+    },
+    {
+      "start_time": "00:33:54,720",
+      "end_time": "00:33:59,370",
+      "text": "so it's possible that this course priest"
+    },
+    {
+      "start_time": "00:33:57,150",
+      "end_time": "00:34:01,080",
+      "text": "is in fact one of the acolytes of the"
+    },
+    {
+      "start_time": "00:33:59,370",
+      "end_time": "00:34:03,300",
+      "text": "temple of healing we don't know what the"
+    },
+    {
+      "start_time": "00:34:01,080",
+      "end_time": "00:34:05,400",
+      "text": "god or goddess is of healing one two"
+    },
+    {
+      "start_time": "00:34:03,300",
+      "end_time": "00:34:08,730",
+      "text": "three it is a goddess oh it's a God of"
+    },
+    {
+      "start_time": "00:34:05,400",
+      "end_time": "00:34:10,860",
+      "text": "healing the god of healing elosha the"
+    },
+    {
+      "start_time": "00:34:08,730",
+      "end_time": "00:34:12,570",
+      "text": "god of healing so the holy symbol that"
+    },
+    {
+      "start_time": "00:34:10,860",
+      "end_time": "00:34:14,190",
+      "text": "they saw around his neck is definitely"
+    },
+    {
+      "start_time": "00:34:12,570",
+      "end_time": "00:34:18,890",
+      "text": "the guy is definitely the symbol of a"
+    },
+    {
+      "start_time": "00:34:14,190",
+      "end_time": "00:34:22,650",
+      "text": "loggia so asked at temple of elosha"
+    },
+    {
+      "start_time": "00:34:18,890",
+      "end_time": "00:34:23,970",
+      "text": "about this guy so that is our new thread"
+    },
+    {
+      "start_time": "00:34:22,650",
+      "end_time": "00:34:26,010",
+      "text": "that is our new character and the chaos"
+    },
+    {
+      "start_time": "00:34:23,970",
+      "end_time": "00:34:28,020",
+      "text": "factor has gone back up to five and that"
+    },
+    {
+      "start_time": "00:34:26,010",
+      "end_time": "00:34:29,400",
+      "text": "brings us to the end of this episode"
+    },
+    {
+      "start_time": "00:34:28,020",
+      "end_time": "00:34:31,050",
+      "text": "thanks so much for watching and don't"
+    },
+    {
+      "start_time": "00:34:29,400",
+      "end_time": "00:34:33,150",
+      "text": "forget to hit like and subscribe if you"
+    },
+    {
+      "start_time": "00:34:31,050",
+      "end_time": "00:34:34,830",
+      "text": "enjoy the show remember that next week"
+    },
+    {
+      "start_time": "00:34:33,150",
+      "end_time": "00:34:36,810",
+      "text": "as well I will not have an episode up"
+    },
+    {
+      "start_time": "00:34:34,830",
+      "end_time": "00:34:39,360",
+      "text": "because I'm out of time working but do"
+    },
+    {
+      "start_time": "00:34:36,810",
+      "end_time": "00:34:41,700",
+      "text": "tune in after that when we pick up with"
+    },
+    {
+      "start_time": "00:34:39,360",
+      "end_time": "00:34:44,670",
+      "text": "Simon and company as they go to the"
+    },
+    {
+      "start_time": "00:34:41,700",
+      "end_time": "00:34:47,790",
+      "text": "temple of Elijah to find out any more"
+    },
+    {
+      "start_time": "00:34:44,670",
+      "end_time": "00:34:50,640",
+      "text": "about this course priest who eluded them"
+    },
+    {
+      "start_time": "00:34:47,790",
+      "end_time": "00:34:53,149",
+      "text": "at the soup kitchens and perhaps find"
+    },
+    {
+      "start_time": "00:34:50,640",
+      "end_time": "00:34:56,750",
+      "text": "the next clue which may lead"
+    },
+    {
+      "start_time": "00:34:53,149",
+      "end_time": "00:34:59,599",
+      "text": "to the true serial killer so that Simon"
+    },
+    {
+      "start_time": "00:34:56,750",
+      "end_time": "00:35:01,490",
+      "text": "can finally clear his name thanks again"
+    },
+    {
+      "start_time": "00:34:59,599",
+      "end_time": "00:35:03,620",
+      "text": "and we will see you next time on me"
+    },
+    {
+      "start_time": "00:35:01,490",
+      "end_time": "00:35:12,080",
+      "text": "myself and dining"
+    },
+    {
+      "start_time": "00:35:03,620",
+      "end_time": "00:35:14,140",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:35:12,080",
+      "end_time": "00:35:14,140",
+      "text": "you"
+    }
+  ],
+  "full_text": "[Music]\n[Music]\n[Music]\n[Music]\n[Music]\n[Music]\n[Music]\n[Music]\n[Music]\nhello and welcome back once again to me\nmyself and I I am as always your\nintrepid game master host and player\nTrevor to Val big shout out and thanks\nto my friend wall Ross for creating that\nmap that you saw in the introduction he\ndid that with a little program called\nwonder draught it's a really cool little\ncartography program you can check out\nfor yourself at the link below in the\nnotes before we get on with today's\nsession a couple things one as always\nyou enjoy the show please do hit like\nand subscribe and keep that bell rung\nfor notifications because there will not\nbe a new episode next week if you're\nwatching this in real time because I\nhave to go to town from work I am a\nprofessional voice actor after all and I\nhave to go to many many different places\nto you know pay the bills so with that\nin mind I don't think we need to do a\nmajor recap but basically Simon was able\nto put his father Roland Spirit to rest\nand before Roland spirit left he\nrecommended to Simon that he tried to go\nback to chitin and clear his name if you\nrecalled mana front of Dublin was one of\nthe Lords of chitin who believed that\nSimon was the serial killer that was\nkilling a bunch of beggar's in the poor\nquarters of the city that was about a\nyear ago that Simon fled and the warrant\nfor his arrest is still out and fresh\nbecause he accidentally killed a guard\nin his escape as well so he is that to\ncontend with as well Arne and Ed Burt\nare going with him ed Burt is still free\nof Cheryl and will be for a while\nbecause of the nature of that\nextraordinary role that we had at the\nend of last session the three of them\nare on their way to Titan and they will\nbegin the scene in the city disguised\ntrying to begin their search to find\nevidence to track down the true killer\nof chitin however before we get there I\nwant to know a few things about chitin\nand the first thing I want to know is\nwhat does it look like well this is what\nit looks like this is the city of chitin\nnow I did not actually make this map\nthis map was made by a person named\nwhatta boo you guys can check out his\nsite at the link below he has an\nincredible array of random generators go\ncheck out his site he's got a patron as\nwell so if you if you like the stuff you\nshould go support him on that we have\nthe fortress on the east and we have the\nneighborhood of six cliffs which is a\nwealthy neighborhood around the fortress\nhow do I know all this I'm just making\nthis up as I go along it's\nappropriate to me that there would be\nwealthy quarters outside the the\nfortress we have the hooks and murk\ntower the hooks of the North murk tower\nin the West which are both poor quarters\nRaven stare is sort of the bulk of the\ncity so that's we're gonna have most of\nthe residences as well as some of the\nmarkets as things and things like this\nstore market the south of course is a\nreal merchants quarter so that's where\nyou would find that kind of thing in\nterms of its government and who rules\nhere the only thing we know about this\nso far is that Manfred of Dane is in\nfact a lord of chitin what does that\nmean well I think that chitin is\nprobably like a lot of medieval cities\nwere it's a free town in other words it\nhas a charter to operate independently\nfrom the king we don't even know who the\nking is at this point we haven't figured\nout what this is a kingdom or an empire\nor anything like that but that's okay we\ncan find that out later because I think\nwhat matters for our purposes today is\nwhat is the government of chitin I think\nit is a council of Lords like a city\ncouncil if you will except it's not made\nup of people that get voted in it's made\nup of local Lords that have a vested\ninterest in the well-being of the city\nwhich would explain the reason why man\nfor something is so intent on capturing\nSimon because he believes that Simon was\nguilty of killing all of these people\npresumably in his district the first\nquestion is is in fact Titan ruled by a\ncouncil of Lords I'm gonna ask our fake\nchart because that's what we do our cast\nfactor by the ways going back down to\nfive we are starting sort of fresh I\nthink it's a sure thing that the the\ncity of chitin is ruled by a Council of\nLords and 47 is a yes so yes I think\nthat there are seven Lords on the\ncouncil six of them represent each\ndistrict and one of them is sort of the\nLord Mayor so to speak you'll notice I\ndidn't rule for anything on that that's\njust because I'm using general logic to\nassign these qualities to the city based\non what feels right to me in the moment\nbut we do to the manfred is the lord of\none of these districts i think he is the\nlord of the hooks because the law the\nhooks is a pork order and it's the\nlargest pork order it's bigger than\nmerked are near sure thing\nyes he is Simon committed this crime a\nyear ago give or take\nbut recently Manfred sent a bounty\nhunter team to come after him so he is\nstill very much interested in capturing\nSimon that means one of two things as\nfar as I can tell one he's under some\npressure from the Lord Mayor I guess\nfrom the other Lords that's possible\nor two it's personal someone in the\ncomments last time suggested it would be\nreally cool if Manfred's\nson was actually the real serial killer\nand that he was basically trying to fob\nit off on on simon that's a really cool\nidea thanks for that the reason why i'm\nnot gonna use it is because at this\npoint i don't want to know who the\nkiller is\ni want to discover the killer with simon\nreally cool idea and if I was running a\nsort of traditional game with people\naround the table I would definitely\nsteal that so thanks for that\nkeep those cups coming they're really\ncool so I think it's personal I think\nthe reason why Manfred is interested in\ncapturing Simon is because the serial\nkiller killed a member of his family\nlike his son maybe his son was a member\nof the watch or maybe his son just\nhappened to be in the hooks at a certain\ntime for whatever reason and got killed\nby the serial killer that would explain\nthe reason why Manfred is so intent on\ncapturing Simon who's been gone over a\nyear now right so I think that's what\nit's gonna be\nlet's find out though cuz you never know\nI'm gonna call that very likely zero one\ncritical so yes absolutely\nManfred son was killed by the serial\nkiller and he absolutely believes that\nSimon of Augustine was to blame Manfred\nson\nlet's give him a name right now Haven\nHaven of Dove ding so scenes set up\nSimon ed Bert and Arne have secret\nidentity of kite now they are in\ndisguise as best that can be Simon with\nhis cowl up all the time because he\nknows that the town watch is on the\nlookout for him it's a year later so I\ndon't think that it's a going concern\nright at the moment but there's a very\ngood chance that if somebody sees him\nespecially a town guard they might\nrecognize him so there's that I'm\nimagining them going around to various\ntaverns beginning their investigation\ntrying to track down evidence of the\nserial killer and here's a big question\nI have clearly the serial killer is no\nlonger killing clearly he hasn't been\nkilling for a year how do I know that\nbecause Simon has been gone for a year\nand Manfred is still sending out bounty\nhunters for him if the killings were\nstill going on after Simon had left\nManfred would know that Simon was\ninnocent so we wouldn't be going after\nhim\ntherefore we know that the serial killer\nhas not been active for a year that's\nbad for Simon but it's the only thing\nthat makes sense in the\ncase so it is very possible that the\nserial killer could resurface again and\nbegin his spree of terror among the poor\nquarter of the city of chitin time will\ntell\nthat's a question worthy killings\nconfined to the hooks no idea 50/50 of\nkiss factor five zero six so the serial\nkiller was operating solely in the hooks\nhe add up till now he is not attacked\nanywhere else so our guys are I think\nwhat they would do is they would find a\nplace to stay an inn in the poor corner\nbecause that's what they would start\ntheir investigation and I think that\nthey would split up going around to the\nvarious taverns and businesses you know\nasking around has there been any\nkillings lately all that kind of stuff\nbut before we get there let's um let's\ndetermine if our scene setup is altered\nor modified our chaos factors at five so\nif I roll five or less it is in fact\nmodified six so no let's find out the\nname of the inn in the poor quarter\nwhere our guys are staying here we go\nGM's miscellany urban dressing a system\nneutral addition the creeping pixie I\ndon't think they're at this in I think\nthat's what they're sping I think that\nwe begin the actual episode with Simon\nbarn\nand Ed Burt having split up to\ninvestigate the various taverns brothels\nthese kind of places you know what I\nit's too dangerous for assignment to go\ndo this he can't do this part of the\ninvestigation\nit's too risky if someone sees who he is\nand recognizes him he's in big trouble\nbarn probably has the best chance of\ndoing this we're gonna roll him first\nnow Arne is ugly if we recall this so\nugly in fact that his charisma penalty\nis minus two hmm I'm gonna make his free\nrise role to see if he discovers\nanything at all that could be of help he\ndoes not unfortunately ed Burt oh this\nis interesting he has the haunted\nhindrance but he's not currently haunted\nso I Ito think he has that penalty he\ndoes have the bloodthirsty penalty but\nthat only applies if people know his\nreputation which here they do not so he\nhas no penalties does he succeed Poe\nexplodes with the six nine that is a\nsuccess with the race so while Arne is\nout canvassing the taverns ed Burt is\ncanvassing\nawful the local brothel what does edwart\ndiscover the serial come we know the\nserial killer went after beggars went\nafter the poorest of the poor he didn't\ngo after prostitutes he didn't go after\nshopkeepers he went after beggars oh is\nit possible that Ed Burt speaks to a\nprostitute who knew one of the beggars\nwho found some coin and came in for a\nlittle comfort that night is that the\ncase\n97 extreme no so it was not one of her\nclients which if it's not one of her\nclients that I think it's gonna be\nsomeone she was related to her father\nwas killed is it extreme no was not her\nclient so hope to leave the opposite of\na prostitute client it's her father\nhopefully mmm we're gonna go with that\nshe lost her father so as ed Burt is\ntalking to this woman who has a name 0-9\naletta so he discovers that a letter\nlost her father to the serial phone how\ndid he kill his victims event meaning\naction and subject how did he kill his\nvictims fight-fight benefits oh I know\nLord Medford had set up various things\nto help the poor of the hooks he had set\nup soup kitchens he had set up you know\nthat kind of stuff maybe he's not\nparticularly happy about being in charge\nof a poor district but we don't know\nanything about Manfred maybe he is but I\nthink he's set up like soup kitchens\ndiscs of these these kind of things\nperhaps there was a temple to like a\nhealing goddess or something there that\nthat help dole out food to the various\nunfortunates of the of the hooks if the\nserial killer targeted people who were\npartaking in that the killer was taking\nout beggars as they were leaving places\nlike the soup kitchens which meant that\nthe beggars themselves began to stay\naway from those places that's no good\nfor Manfred because now the people that\nare supposedly under his protection are\nnot getting food there's a whole host of\nproblems that come up with that as well\nso I'll let his father was leaving one\nof these soup kitchens one night and he\nwas killed did the serial killer have\nany particular signature\nno he did not so he killed not\nindiscriminately but the methods which\nhe employed were all over the place\nsometimes he strangled people sometimes\nhe stabbed them sometimes he you know\ndrowned them clubbed him over the head\npeople died in all different kinds of\nways so there was it again we know that\nthis is not a ritualistic killing we\nknow that this killer is not part of a\ncult because we determined that a couple\nof episodes ago so we'll just say that\nwe'll just say that her father was\nclubbed to death and that's it\nthat's your name well I say that's it\nyes it is you say that your father was\nclubbed to death here in the hoax is\nthere anything else you can tell me\nabout the nature of his death all I know\nis that he was coming away from the soup\nkitchen one night when he was attacked\nin an alley an alley do you remember\nexactly where he was kids\ndoes she I think so I think she would we\nhave Ally names is 36 Gorgan Ally Hey\nhe was clubbed to death as he was\nleaving to soup kitchens apparently he\ntook a turn down Gorgon alley that's\nwhere they found his body the next day\nGorgon early right thank you\nflips are a coin are you sure you have\nto go so soon you look like you could\nuse some company\nthat's a kind offer but I'd rather not\nhave you to pull our show so I think\nwe're good he goes back to the creeping\npixie I think iron has already returned\nand informs Simon and our of what he's\ndiscovered they put up their hoods again\nand stalk off into the darkness of the\nhooks of the poor quarter of the hooks\nlooking for Gorgon alley I don't think\nit takes that long to find they can ask\nvarious locals and things like this but\nthey do find Gorgon alley I'm just gonna\nhave them do a protis role as they\ncarefully look around for any kind of\nclue\nI think Arn is gonna roll first because\nhe's alert so he's got plus two to his\nnotice which is pretty great even though\nit's only a d4 do they find anything\nseven so Arne succeeded let's check the\nother guy's six so Edward succeeded\nwe're looking for raises here basically\nnotice this is Simon with five so they\nall have successes but no raises so they\ndo find something of use if they've got\na raise it would have been something\nbut it's not so that you find something\nof use to them what clue do they\ndiscover it's an excellent question\nzero seven violate 46 food violate food\nwhat kind of coup could they discover in\nGorgon alley violate food well we know\nthat the father was coming out of a soup\nkitchen does it have something to do\nwith that this is a year ago remember I\nthink that in Gorgon alley\nthere was actually a back entrance to\nsaid soup kitchen run by Lord Manfred's\npeople and I think it was that doorway\nwhere the father was coming out that he\ngot attacked so he was attacked right\noutside the exit at the soup kitchen I\nthink is there as they're walking down\nthis alley hunting for clues Simon looks\nup and he sees light coming from behind\nthis one door and he goes over to it me\ncheck the door I think that they find\nthat there's a lot of vantage points on\neither side of the door like you know\nold crates and barrels all stacked up a\nlot of places for an ambush or to strike\nfrom and they immediately as apparent to\nthem but if in fact the father was\nkilled in Gorgon alley that this would\nbe the best place to attack somebody\nfrom behind is from this area and as\nthey look and they kind of put it\ntogether all being experienced fighting\nmen they realized that wait a minute\nthat the best angle of attack is if\nsomeone attacked him right as he was\nsort of coming out and around which\nmeans someone had to have been waiting\nfor him I think I set up for them to\nwant to investigate further the soup\nkitchen in themselves and it does make\nsense because they knew that the beggars\nwere all being killed outside soup\nkitchens so of course they're gonna want\nto talk to the people there so as they\ngo around to the front they sort of\nknock on the door and a harsh guttural\nvoice comes from comes from the other\nside of the door\nwe're closed tonight there's no more\nfood for you come back in the morning\nwe're not here for the food friend we\nwant to talk to you about the murdered\nbeggars last year do you know anything\nabout that does he I mean probably we'll\ncall it very likely does you know\nanything about that 88 is is a no so\nthis guy doesn't it's doubles but it's\nover our case factors a no random event\nthe murders no no no I don't know\nanything about that I started working\nhere\nlong after that was all done if you want\nto have any answers about that you'll\nhave to talk to Lord Manfred's man he's\nthe one in charge of the soup kitchen\nand what is this man's name his name is\nHuxley he'll be back tomorrow you could\nsee him then very well thank you\nthey trundle off into the dark night and\nhead back to the creeping Pixy when they\nget back to their rooms\nSimon is obviously not too excited about\nwanting to speak to Manfred's employee\nbasically because there's a very good\nchance that you know there might be a\nconnection there and that they might\nknow who Simon is he can't reveal his\nface Oran says I do not think it is wise\nfor you to speak to this Huxley Simon he\nmay recognize you yes that is good\nadvice on but my instinct tells me that\nif we're going to discover who the\nserial killer was our next answers are\nconnected to that soup kitchen somehow I\nmust go and if you insist just make sure\nyou keep your hood up we don't want that\nthey want to see your face I think that\nnight they go to bed they get some sleep\nthey get some rest and in the morning\nthey go back to the soup kitchen so\nthat'll be our next scene okay\ncharacters we've added the character of\nHuxley I think they were actually\nlargely in control there so I'm gonna\nlower the chaos down to four the next\nmorning they get up have a meager\nbreakfast at the creeping Pixy which is\ncomposed largely of thin gruel no doubt\nand they head down back to the soup\nhouse to try and speak to Huxley to see\nwhat they can discover so is the scene\naltered or interrupted it is it is an\naltered scene so as they are going to\nthe soup kitchen I think the best way to\nalter the scene is there is the chance\nthat a town guard recognizes Simon Oren\ntried to warn Simon about not going and\nhe chose to anyway they are making their\nway through the ramshackle Byzantine\nmaze like streets of the hooks large\nwooden tenement buildings loom\nover the streets almost threatening to\ncome in and collapse creating this real\nmaze like feel to it as they pass by\nmerchants and oceans and all kinds of\nmerchants addictions it could be that\nit's D&D game merchants it urgent they\npassed by all the kinds of things that\nyou would expect in the poor quarter of\ntown in the shanty town that his looks\ngoing back to the soup kitchen to the\nmain entrance this time but before they\nget there as they're walking across a\ndilapidated sort of market stall a guard\nlooks across and sees just for a second\nas Simon basically he's got his cowl up\nbut as he's he's walking along he turns\nthat he looks behind him and for just a\nsecond the guard gets a glimpse of his\nface here's a question is this the guard\nthat tried to apprehend him a year ago\nand at his partner killed I doubt that\nvery very very much I think it's\nimpossible is that the case\nninety three extreme no ok this guy has\nnothing to do with that guard whatsoever\nI think this guard is new I think he's a\nyoung guard and I don't think he was\neven around a year ago what are the odds\nthat this young guard actually knows\nenough details about the description of\nSimon that he's able to recognize him\nbased on that hmm I just don't think\nit's likely Oh 30 to know is the answer\ninteresting cuz if the character was\nfive instead of four that would have\nbeen a yes so no the guard does not\nrecognize him he sees Simon's face I\nthink Simon briefly makes eye contact\nwith him the guard just kind of looks a\nbit like this Simon tenses his hand goes\nto his crossbow underneath his cloak but\nthe guard looks at him and then his\nattention is taken by some passing\nstreet urchin so they are able to\ncontinue unscathed towards the soup\nkitchen when they get there let's talk\nabout Huxley Huxley is Manfred's guy who\nis there specifically to oversee the\nsoup kitchen so I don't think he's gonna\nbe a soldier or anything like that\nhe's more of a low-level bureaucrat\nstuck with this job which he probably\nhates but we know\nreally no let's find out tell us about\nOxley Huxley is 23 a logical polymath a\nlogical polymath interesting a polymath\nincidentally is someone who knows a lot\nabout a bunch of different subjects so\nhe's he knows his stuff for sure I need\nto know a little bit more about old\nHuxley here he's a logical polymath his\nmotivation for T relate 74 modesty abuse\n66 abuse wrath I think that Huxley is an\nextremely smart character who is not\nprone to displays of pride or anything\nlike this but he has a hair-trigger\ntemper so I have a feeling that the rest\nof the employees\nhere at the soup kitchen are terrified\nof Huxley so when they get to the soup\nkitchen I think the doors are already\nopen and there's a long line of bigger\nsort of filtering in one by one going up\nto the tables having a thin gruel soup\nladled into a simple pottery Bowl as\nthey take it to a long trestle table and\nI think there's a bunch of them there's\na whole bunch of beggars here Simon and\ncompany come in they look around do they\nsee Huxley is he in the room I'm gonna\nguess that he's probably not the kind of\nguy that actually you know doles out the\nsoup he's more of a bureaucrat he's more\nof an administrator than that yeah I'm\ngonna say it's unlikely that he's\nactually in the room 89 he is not in the\nroom in fact two extreme no he is\ncurrently unavailable for some reason so\nthey speak to the local soup workers\nthere I'm afraid Lord Huxley is\nindisposed at the moment - you'll have\nto come back later but might I inquire\nas to what this is about\nplease my good man it is very important\nthat we speak to him\npersuasion role an audience so to speak\nto to to to fail I am terribly sorry but\nwhen lord Huxley is indisposed he is not\nto be disturbed under any circumstances\nand you know I think that Simon can see\nthe fear in this guy's eyes and he gets\na sense right away I think this Lux\nlayer is a\nserious character not to be screwed with\nplease as my good friend here says it is\nvery important we speak with this Huxley\nhe makes grass to explode on this role\nhe does not as I said lot Huxley is\nunavailable you will have to come back\nlater it was an extreme no I rolled so I\ndon't think he's here at all I think\nhe's off I think he's off doing some\nwork with Manfred himself right now is\nthat the case I'm gonna call that likely\nthe case yes it is\nLord Huxley is currently at Lord\nManfred's Manor he will not be back\ntoday you will have to try again\ntomorrow\nand then worker goes back to doling out\nthe soup and I think the three of them\nsort of pull back a little bit perhaps\nthere is something here of interest to\nus on Edward have a walk around the room\nsee what you can find the three of them\nmove off amongst the beggars I think\nthat Arne is actually looking for any\nkind of clues anything of interest in\nthe common room itself is there\nsomething about the table or the walls\nor the kitchen or the the little window\narea where the soup was dolled from\nwhere he can see the kitchens behind is\nthere anything of interest at all while\nhe does that I think that both Edward\nand Simon are going around talking to\nthe beggars to see if they know anything\nArne is gonna do a notice roll he's\nreally good but I'm gonna give him a\npenalty because I don't think there's\nmuch to find here in the room so I'm\ngonna give a penalty too which cancels\nhis +2 alertness so this is a\nstraight-up notice rule for him does he\nnotice anything of interest oh and he's\nonly rolling a d4 anything of interest\ndoes aren't find anything maybe 7 so we\nfind something of interest what is it\nthat Arne finds in the room of interest\ndo their investigation 7711 is deceive\nemotions interesting I think the room is\na large rectangular room with a bunch of\nlong trestle tables where these beggars\nare now sitting eating their their thin\ngruel for breakfast basically but they\nare being served by it there's a number\nof windows on the back wall and those\nwindows lead to the kitchen and there's\na couple of workers that are on the\nother side of the windows doling out the\nthe soup to people as they go up Oren\ncan see that he can see the workers he\ncan also see the pasta workers into the\nkitchen are notices that the worker they\njust spoke to is\nmoving back towards the kitchen area but\nas he does so he looks back over his\nshoulder at Simon and he's got a look of\nsevere consternation on his face like\nsomething's really bothering him this is\na problem of course Aaron clocks that\nguy let's find out if Simon and Ed Bert\ncome up with anything by talking to\nthese people this is a streetwise roll\nagain ed Bert is not gonna be afflicted\nby his haunted situation his haunted\nhindrance I'm gonna give Simon the\npenalty to his outsider hindrance here\njust because he's trying to be very\ncareful he's got his cloak up he looks a\nlittle sketchy yeah I'm gonna give him a\npenalty for sure no fail ed Bert does\nhave streetwise but only at 4:00 he's\nnot gonna have his penalty Oh\nexploding for six so that is a success I\nthink it's very likely that some of\nthese beggars knew some of the people\nthat got killed\nthe question is in talking to these\nbeggars\nit is ed Bert able to detect any pattern\nat all any pattern in their stories any\npatterns in the killings anything at all\nthat would provide some other clue it\nwasn't as obsessed with a race so I was\ngonna call it likely but I think it's\njust gonna be somewhat likely now does\nhe detect a pattern in the beggar\nstories twenty is a success he does\ndetect a pattern as he's talking to all\nof these other beggars they all tell him\nbasically the same thing that their\nfriends the other beggars were all\nkilled either leaving the soup kitchens\nor or very close to the soup kitchens\nthey also tell them that the biggest\nwere killed in a multitude of ways they\nwere clubbed they were stabbed there\ndidn't seem to be any rhyme or reason to\nthat the attacks were savage brutal and\nbloody really just awful and the the\nword of these killings spread through\nthe hooks like wildfire what is the\nnature of the pattern that he discovers\nabout the killings based on everything\nthat we know right now eighty eight\ncontrol zero one control of goals the\nkiller while savage and brutal was\nalways very careful always very much in\ncontrol always knew exact\nKlee when and where to strike beggars\nand he always knew when the beggars were\ngoing to be alone so much so that the\nonly way he could have successfully\nkilled all of these people is if he had\nworking knowledge of the kitchen itself\nI just had a thought\ndid the killer in fact work at the soup\nkitchens\nis that how I mean the the the attacks\nall happened at the soup kitchens is it\npossible that the killer was one of Man\nFord's men that was working at the soup\nkitchens unlikely just because that'd be\ntoo easy\nunlikely oh my god extreme yes\nokay so extreme yes we know for a fact\nthe killer worked at the soup kitchens\nif he had an understanding of the times\nthat the kitchen was open the exits and\nentrances the surrounding alleyways all\nof these things is what ed Burt is able\nto piece together to form this pattern\nthat yes absolutely it's very very\nlikely that the killer worked in these\nkitchens and as Edward is telling Simon\nthis iron is looking over at that worker\nwho even now is looking back at Simon he\ngoes back in the kitchen and he whispers\nsomething to one of the other workers\nwhich aren't concede through the window\nand he's he's very agitated about\nsomething and he looks over and I think\nwhat he's saying to the worker is these\nmen are up to no good and we need to\ncall the guards we need to get these men\nout of here right now I think that's\nwhat he's saying is that what he's\nsaying yes that is what he's saying so\nthe guy that they were talking to goes\nup to one of the other employees and\nwhispers something to that employee that\nemployee sort of looks over at our trio\nnods hurriedly and vanishes through the\nback door Arne sees this and he\nimmediately clocks over at Simon and Ed\nBert and he motions his head and he\nhightails it out the front door to try\nand run around and catch up with the\nperson in the back before he can go off\nand do whatever he's going to do me\nwhile as this happens Simon and Edward\nsort of stand up and they see the worker\nlooking at them glaring at them they\napproach the window to try and speak to\nhim as they noticed that he's totally\nglaring at them but as they come up\nhe sort of you know his eyes go wide he\nturns and disappears into the kitchen\nvanishing Edward says something's wrong\nwith that guy we should go after him yes\nI think you're right\nthey split up looking for the entrance\nto the kitchen do they find it well it's\nnot a very big room I'm gonna say it's\nvery likely that one of them finds it\nbefore the guy can vanish entirely\nninety-four no they don't so that\ndoesn't mean they don't find the\nentrance it means that by the time they\nfind the entrance to the kitchen and\nbarrel into the kitchens these are their\nworkers like hey you can't be in here\nthey look around but the guy is nowhere\nto be seen\nmeanwhile in the back alley Arne rushes\nback to try and catch this dude who was\nrunning out the back alley he doesn't\nknow anything about what's going on with\nthis guy or where he's going or anything\nlike that but it's obviously not a good\nthing does he catch him in time\nboom fifty-fifty does aren't catch the\nguy and basically stop him from going to\ngrab the guards he does not all runs\naround the alley he looks for the guy\nnowhere to be seen he walks out into one\nof the maze-like streets and there he\ncan see if a guy has found that other\nyoung Guardsman from before and he's\npointing back to the soup house and he's\nagitated and he's very very animatedly\nyou know pointing and I think aren't\ncould overhear I'm saying there's men in\nthe soup kitchen stood up no good aren't\nlike uh-oh Arne runs back to the soup\nkitchens\ndoes he get there in time to warn Simon\nand edwart before the guard shows up I'm\ngonna make this a competing role okay\nhis agility versus the guards agility so\nlet's do the guards agility first I'm\njust gonna make him a bog-standard guard\nwhat is his agility role for so Arne has\nto beat a four or else the guard is able\nto get to the soup kitchens before he\ndoes barn rolls a seven I thought that\nwas nothing else so he rolls a seven\nhe's able to burst into the soup kitchen\nrun back he doesn't see Simon or Edward\nanywhere but he's any notices to the\nwindow of the goods the soup kitchens he\nruns in\n- the kitchens we've got to get out of\nhere now the guards are on their way\nthey seem to think that we're up to no\ngood blast let's go let's go down and\nthey hightail it out of the soup kitchen\nas they hustle through the streets back\nto the creeping pixie orange says to\nthem I saw the look on the face of that\nman we spoke to when we first came in he\nknows something Simon somehow I believe\nthat he could be key to all of this well\nthen we are going to have to find a way\nto get to him find out what he knows and\nwhat he's hiding but that will take us\nto the end of the scene a new thread as\nwell\nthe killer we've determined worked at\nthe soup house the worker whose name\nthey didn't get but let's get a\ndescription of this guy because we\ndidn't actually give him a description a\ncourse so he's literally course he's got\nlike all kinds of stubble he's really\nunkempt you know a big bald patch\nscraggly hair cleric he's also bearing a\nholy symbol around his neck I just\nrealized we I had mentioned before that\nit's possible that this soup kitchen was\nit was working in conjunction with one\nof the temples of the goddess of healing\nso it's possible that this course priest\nis in fact one of the acolytes of the\ntemple of healing we don't know what the\ngod or goddess is of healing one two\nthree it is a goddess oh it's a God of\nhealing the god of healing elosha the\ngod of healing so the holy symbol that\nthey saw around his neck is definitely\nthe guy is definitely the symbol of a\nloggia so asked at temple of elosha\nabout this guy so that is our new thread\nthat is our new character and the chaos\nfactor has gone back up to five and that\nbrings us to the end of this episode\nthanks so much for watching and don't\nforget to hit like and subscribe if you\nenjoy the show remember that next week\nas well I will not have an episode up\nbecause I'm out of time working but do\ntune in after that when we pick up with\nSimon and company as they go to the\ntemple of Elijah to find out any more\nabout this course priest who eluded them\nat the soup kitchens and perhaps find\nthe next clue which may lead\nto the true serial killer so that Simon\ncan finally clear his name thanks again\nand we will see you next time on me\nmyself and dining\n[Music]\nyou\n"
+}

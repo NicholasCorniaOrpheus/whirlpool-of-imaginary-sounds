@@ -1,0 +1,3256 @@
+we are going to be doing a let's read of
+the original 1974 edition of dungeons
+and dragons by dave arneson and gary
+gygax
+next up we have the spell tables we have
+one for magic users obviously based on
+the levels of the spells and we also
+have one for clerics but as we take a
+look at the spell tables one of the
+interesting things about the spell
+tables is that they're numbered down the
+left-hand side which means that you can
+randomly determine spells very easily by
+just rolling an appropriate die over
+here on the clerics table same thing
+here like exactly how spell casting
+works is left a little bit vague in this
+edition with some information kind of
+spread around we'll kind of come across
+that as we go ahead here obviously the
+wizards back then had more spell levels
+than clerics wizards had six levels of
+spells and clerics only had five down at
+the bottom of this page we can see the
+turning undead table clerics versus
+undead monsters that we've mentioned a
+few times they do get that ability uh
+basically from first level here from
+acolyte right here numbers are the score
+to match or exceed in order to turn away
+rolled with two six-sided dice t means
+turned away up to two dice in number d
+is dispelled or dissolved up to two dice
+in number and n is no effect so you do
+have some turn abilities at low levels
+but against certain undead you just have
+no chance so there's kind of a penumbra
+of sevens and nines on the table here
+where you might succeed then higher
+levels where you automatically succeed
+if you are sufficiently high level uh
+cleric the game then says a full
+explanation of each spell follows note
+that underlined clerical spells are
+reversed by evil clerics also note that
+clerics vs undead monsters table
+indicating the strong effect of the
+various clerical levels upon the undead
+however evil clerics do not have this
+effect the entire effect being lost so
+if you chose to be on team evil you
+would not be able to turn on dead and
+the concept of rebuking undead or
+controlling undead as the reverse of
+that had not yet been innovated and
+created one whole class feature
+disappears if you choose to be evil in
+od and d quite a few of the cleric
+spells can be reversed we can see
+keralite wounds purify food and water
+detect evil protection from evil light
+cure disease continual light blast cure
+serious protection female 10 foot radius
+dispel evil raised dead that's a lot of
+spells that can be reversed by evil
+clerics so evil clerics and good clerics
+would have very different flavors to
+them in this edition of the game and
+here we hit the explanation of the
+spells guy gax appeared to be really
+convinced that explanation was spelled
+explaination it occurs that way as far
+as i can tell in every instance in the
+first printing of the books before being
+errated and corrected in future
+printings the spells are organized first
+by character class we can see we have
+the magic users here and then second by
+level and then third alphabetically
+within the level actually it's not even
+true in this edition excuse me the
+spells are not alphabetical they are
+just tossed in there willy-nilly however
+you will this organizational method by
+class and then by spell level and then
+the individual spells would persist all
+the way up through second edition but i
+think it was just kind of a decision
+that was made probably because that's
+the kind of the way in which they made
+sense to be organized from a certain
+point of view but there are
+disadvantages to organizing the spells
+like this and the primary one is that if
+you come across a spell name in a
+monster stat block for example or a
+module's description of a particular
+trap and you don't know what level that
+spell is or even necessarily what class
+can cast that spell it can be incredibly
+difficult to find a spell when they're
+organized in this fashion this was
+actually changed in third edition for as
+far as i know the first time the spell
+lists still existed the the spell list
+of course being looking at before where
+the spell list would list obviously
+spells by class and by level but the
+actual spell section describing all the
+spells that was alphabetical which made
+it relatively easy to find every spell
+you needed in the moment of running the
+game and this is kind of one of those
+interesting tensions within a
+role-playing rulebook in particular
+where the rulebook really has to be
+designed to be used for three different
+purposes one of those purposes is
+character creation another purpose is
+learning the rules and then the third
+purpose is actually referencing and
+using the rules at the table during play
+and balancing the way in which you
+organize the information within the
+rulebook
+to
+satisfy all of those needs it's not
+always possible to satisfy all of them
+at once and this is a good example of
+that which is why i think actually the
+later method of having the spell lists
+be organized in such a way that you can
+very clearly see what your options are
+for a given level but then having the
+actual spell section in a purely
+alphabetical format for all the spells
+is in my opinion a superior way to do it
+because it seems to be a better balance
+between those different needs of how you
+need to use a rule book magic users
+first level so our first spell in the
+book is detect magic a spell to
+determine if there has been some
+enchantment laid on a person place or
+thing it has a limited range and short
+duration it is useful for example to
+discover if some item is magical a door
+has been held or wizard locked etc the
+sentence it has a limited range and
+short duration if you were looking at
+that same sentence in a let's call it a
+modern edition of the game those terms
+limited range and short duration would
+almost certainly be terms of art that
+would be defined somewhere else a short
+duration would be five minutes for
+example or whatever the game chose to
+define that as in a limited range would
+have some definition of what limited
+meant but neither one of those actually
+has a definition in od and d and so that
+really is up to the dm's interpretation
+of what is a limited range and how short
+is the duration is it a few minutes is
+it a dungeon turn is it an hour like
+what constitutes uh short i also thought
+it might be interesting to occasionally
+dip into fifth edition the current
+edition of the game and take a peek at
+like what the current version of the
+spell is so we have our detect magic
+from od and d fast forward by 40 years
+to 2014 and we enter into the fifth
+edition players handbook where we see
+now we have this detect magic spell
+which is a first level divination ritual
+and right away we can see how magic has
+evolved over time first off of course
+there's these all these ritual rules
+which are an innovation of really fifth
+edition and then you have divination
+there's actually schools of magic and
+one thing you don't have in
+od and d is is separate schools of magic
+if you look back you can very easily see
+why that probably wasn't necessary yet
+because there just weren't that many
+spells if you tried to divide these
+spells up across multiple schools of
+magic you wouldn't have enough to to
+fill them only when you begin getting a
+plethora of spells do you need to invent
+additional ways of organizing those
+spells but if we go back to fifth
+edition here we have a casting time of
+one action so there's also here an
+interesting thing about actually really
+defining how long it takes to cast a
+spell and having different casting times
+first spells that were kind of obviously
+standardized but even really extant as
+we've seen so far looking through the
+rule book and i'm pretty sure this holds
+true throughout the original trilogy in
+in the white box there isn't really any
+rules telling you how how long does it
+take to cast a spell there are a few
+exceptions that we'll be getting into
+but in terms of like general rules or
+general guidance it isn't really there
+and so you kind of have to make again a
+judgment call can you cast detect magic
+in combat for example or does it take
+longer than that we have a range of self
+that gets into like what i was talking
+about in terms of now having defined
+ranges for the spell in this case the
+range is defined by who what is affected
+by the spell in this case they have
+clearly defined that as you are the one
+being affected by the magic and its
+effect is to allow you to see magic we
+have spell components again something
+that did not exist in od and d we have a
+duration that is now defined uh
+concentration up to 10 minutes replacing
+the previous short duration we also have
+the description of the belt for the
+duration you sense the presence of magic
+within 30 feet of you we again see that
+definition of a specific putting things
+in specific numbers as opposed to a
+broad category if you sense magic in
+this way you can use your action to see
+a faint aura around any visible creature
+or object in the area that bears magic
+and you learn its school of magic if any
+the spell can penetrate most barriers
+but it is blocked by one foot of stone
+one inch of common metal a thin sheet of
+lead or three feet of wood or dirt this
+spells not changed a whole lot in its
+description there are versions of the
+game where the the final paragraph there
+has been expanded to include other
+guidelines for use but one thing to note
+is i'm pretty sure this guideline goes
+all the way back to basically a d and d
+more or less in its current form and
+that's something you really if you look
+at these spells over time and how they
+developed from od and d up until today
+one of the big things you'll really
+notice in the game is that they have uh
+most spells have accumulated what i will
+describe as official rulings there are
+questions that lots of people have that
+come up often during play and in general
+the designers have attempted to address
+those issues by tacking on additional
+guidance into the book and in this case
+the question of can i detect magic
+through a wall for example or inside a
+treasure chest is something that
+obviously a lot of players were
+interested to know the answer to and so
+the game has attempted to standardize
+that answer we reverse the time machine
+and head back to 1974 and we move on to
+hold portal a spell to hold a door gate
+or the like it is similar to a locking
+spell see below but it is not permanent
+roll two dies to determine the duration
+of the spell in turns the spell magic
+see below will immediately negate it a
+strong anti-magical creature will
+shatter it for example the balrog in the
+ring trilogy and a knock see below will
+open it so this is an example obviously
+of the open references to jarrod
+tolkien's middle earth and if we go to
+the sixth printing here and look at the
+same material for this for this
+particular spell we can see that the
+reference to token's ring material has
+been removed it's not there anymore and
+you can kind of see the garish hole
+which is left behind by that where this
+basically they just cut it out and
+there's a big white gap because they had
+no text to fill that gap with but that's
+an example of the kind of errata that's
+found low level kind of throughout the
+entire book because these token
+references were kind of scattered all
+over and they all had to be pulled back
+out after the lawsuit a lot of these
+spells have a a real clear function
+within a dungeon style campaign the next
+spell here is read magic the means by
+which the incantations on or in canchens
+i guess is the way they're chosen to
+spell that i kind of like the sound of
+that in canchen the incantions on an
+item or scroll are read without such a
+spell or similar device magic is
+unintelligible to even a magic user the
+spell is of short duration one or two
+readings being the usual limit so i
+think that's a really interesting
+feature of the older editions of the
+game the idea that magical writing is
+not something that wizards or other
+spellcasters can automatically interpret
+they need to have this specific spell
+prepared to allow them to do so here we
+have the spells of short duration one or
+two readings being the usual limit so
+short duration again is kind of an
+open-ended undefined term but in this
+case it has been nailed down with a
+slightly more precise definition for the
+purposes of this specific spell read
+languages the means by which directions
+and the like are read particularly on
+treasure maps it is otherwise like the
+read magic spell above that largely is
+explanatory although it is interesting
+to know much like whole portal has an
+obvious use within a dungeon context of
+holding doors that the use of treasure
+maps here is specifically called out as
+we'll see in the underworld and
+wilderness book later on in od and d
+treasure maps were actually a much more
+core function of game play that could
+actually emerge through procedural
+content generators in od and d and so
+we're just kind of expected for play in
+a way that i don't feel they actually
+are that much anymore like you only
+rarely see treasure maps these days back
+in the day they were kind of everywhere
+and that sort of assumed form of play is
+kind of an interesting one this is a bit
+of a tangent but you can also see that
+in the fact that there were actually
+multiple third-party publishers who
+published books that were just
+collections of treasure maps that the
+game master could give out if the rules
+said oh hey you found a treasure map in
+this treasure pile or in this in this
+dungeon seed and being able to have sort
+of a resource of treasure maps to go to
+when the game said hey you need to
+provide one was seen as a valuable
+resource protection from evil this spell
+hedges the conjurer around with a magic
+circle to keep out attacks from
+enchanted monsters it also serves as an
+armor from various evil attacks adding a
+plus one to all saving throws and taking
+a negative one from hit dice of evil
+opponents note that this spell is not
+cumulative in effect with magic armor
+and rings although it will continue to
+keep out enchanted monsters duration six
+turns this is an example of a spell that
+over time has accumulated more and more
+specific rulings in fact if we pop back
+over to fifth edition we have the
+protection from evil and good spell now
+and the new spell here in fifth edition
+says until the spell ends one willing
+creature you touch is protected against
+certain types of creatures aberrations
+celestials elementals fae fiends and
+undead the protection grants several
+benefits creatures of those types have
+disadvantage on attack roles against the
+target the target also can't be charmed
+frightened or possessed by them if the
+target is already charmed frightened or
+possessed by such a creature the target
+has advantage on any new saving throw
+against the relevant effect and this is
+actually a significant simplification of
+where the spell had grown over the
+course of ad and into third edition
+where there was a host of basically the
+type of rulings we've talked about
+trying to nail down exactly what the
+limits of a protection spell were the
+other notable thing about the protection
+spell as you can see in od d is that it
+was limited to a magic circle which
+meant that the conjurer was not able to
+move outside of that circle and the
+spell could only really affect
+themselves light a spell to cast light
+in a circle three inches in diameter not
+equal to full daylight it lasts for a
+number of turns equal to six plus the
+number of levels of the user and thus a
+seventh level magic user would cast the
+spell for 13 turns we see here the three
+inches and the reason
+for that is the war game legacy of
+dungeons and dragons war games generally
+measured their movement in inches on the
+table where the scale map was drawn out
+and this is a legacy of that that the
+people running and playing these games
+were thinking in these terms even if
+they weren't using miniatures which the
+book talked about earlier the fact that
+you can use miniatures but they're not
+really used for battle they're just kind
+of very pretty they are still thinking
+in terms of that kind of number and this
+inch legacy will stick around for a very
+surprisingly long time in dnd before
+being phased out in favor of game world
+measurements and then being replaced
+briefly once again by war game
+measurements in the form of squares
+before being phased out once again in
+fifth edition charm person this spell
+applies to all two-legged generally
+mammalian figures near two or less than
+man's size excluding all monsters in the
+undead class but including sprites
+pixies nixies kobolds goblins orcs
+hobgoblins and knolls if the spell is
+successful it will cause the charmed
+entity to come completely under the
+influence of the magic user until such
+time as the charm is dispelled dispel
+magic range of 12 inches so here we see
+an actual specific defined range for the
+spell most likely that's because the
+spell is targeting a creature and so it
+is seen as an attack and attacks need a
+specific range within the war game
+mindset whereas detect magic is not
+targeting specific creatures it's not an
+attack spell and so we can afford to be
+a little bit more wishy-washy we don't
+need that level of precision from the
+mechanics it's the perception i would
+read from the text here the other thing
+about charm person here that this is one
+of those examples of things that if you
+are coming to the original edition of
+dnd with the benefits and experience of
+later editions of play that you may not
+immediately notice but charm person is
+incredibly powerful in first edition dnd
+it's actually much closer to the spell
+that would eventually become known as
+dominate person because the phrasing of
+it will cause the charmed entity to come
+completely under the influence of the
+magic user doesn't leave a whole lot of
+wiggle room now if you follow this
+discourse moving forward into like the
+early fanzines and then tsr's strategic
+review magazine which would later evolve
+into dragon magazine and into a d and d
+and so forth generally speaking the
+overall trend was to immediately begin
+trying to blunt off the effectiveness of
+charm to take the completely under the
+influence and interpret that as you know
+slightly under the influence up until
+we'll say the modern day here where
+charm person remains a first level spell
+but its effect now is you attempt to
+charm a humanoid you can see within
+range it must make a wisdom-saving throw
+so right there that's a key that's an
+interesting difference there's no
+specific saving throw called out here
+obviously if it was being cast on a pc
+they would make a saving throw versus
+spells that's not really necessarily
+called out but here of course we have
+specific types of saving throws being
+specifically defined and does so with
+advantage if you or your companions are
+fighting it if it fails the saving throw
+it is charmed by you until the spell
+ends or until you or your companions do
+anything harmful to it that's your first
+major change is to say you can't just
+charm somebody and then stab them with
+impunity the charmed creature regards
+you as friendly acquaintance when the
+spell ends the creature knows it was
+charmed by you all the provisions and
+provisos that have been given to the
+spell over time and an effort sort of
+blunt how much damage can be done with
+it so to speak what was the scale of the
+old school inches they actually vary
+depending on whether or not you were in
+the dungeon or in the wilderness in the
+dungeon they generally equated to 10
+feet per inch if i recall correctly and
+in the outer world i want to say in od
+and d it was 30 feet to the inch three
+times larger which created weird things
+like fireball spells for example were
+larger outside than they were inside
+sleep a sleep spell effects from 2 to 16
+first level types hit dice of up to 1
+plus 1 from 2 to 12 second level types
+hit dice of up to two plus one and from
+one to six third or fourth level types
+up to four plus one hit dice the spell
+always affects up to the number of
+creatures determined by the dice if more
+than the number rolled could be affected
+to determine which sleep by random
+selection range of 24 inches so sleep is
+arguably the most useful first level
+spell in od and d because it is designed
+to be an encounter ending spell its
+function makes a lot of sense in the
+context of the assumed mega dungeon play
+particularly at low levels of original
+dungeons and dragons where you
+anticipate to be going into a dungeon
+filled with a lot of hostile creatures
+and if you ever been off more than you
+can chew particularly at these early
+levels sleep is a pretty reliable spell
+for knocking out an encounter or
+certainly blunting the difficulty of
+that encounter quite a bit and sort of
+getting your bacon out of the fire now
+sleep is a spell that had been
+horrifically
+nerfed over the course of its lifespan
+and if we come up to fifth edition here
+we can see it's still a first level
+spell its range has dropped considerably
+from 240 feet to 90 feet its duration is
+a minute long there actually is no
+defined duration in the od and d version
+of spell they just fall unconscious so
+in fifth edition this this spell sends
+creatures into a magical slumber rule 5
+d8 the total is how many hit points of
+creatures this spell can affect
+creatures within 20 feet of a point you
+choose within range are affected in
+ascending order of their current hit
+points ignoring unconscious creatures
+starting with the creature that has the
+lowest current hit points each creature
+affected by the spell falls unconscious
+until the spell ends the sleeper takes
+damage or someone uses an action to
+shake or slap the sleeper awake subtract
+each creature's hit points from the
+total before moving on to the creature
+with the next lowest hit points a
+creature's hit points must be equal to
+or less than the remaining total for
+that creature to be affected undead and
+creatures immune to being charmed aren't
+affected by this spell the other cool
+thing about fifth edition sleep is that
+if you cast it using a higher spell slot
+you can actually increase the number of
+hit points of bad guys that are affected
+and this is actually a significant
+improvement sleep had been like i said
+severely nerfed over the course of
+adding the second edition and into third
+and fourth edition to the point where
+you could almost barely manage to get
+one person to fall asleep with it which
+really completely nerfed the the
+intended utility of the spell which like
+i say it was designed to be an encounter
+ending spell and it's not quite an
+encounter ending spell in my experience
+in fifth edition but it's a lot closer
+to that and it will certainly have the
+effect of if you're in an encounter
+where you're over your head or dice will
+have gone against you or you shouldn't
+have picked this fight to begin with
+sleep can really help you in those
+encounters to get things back under
+control a bit but the question is why
+was why was sleep so severely nerfed
+particularly in third and fourth edition
+well i think part of it is a change in
+focus in terms of how particularly
+adventures are designed as we'll see as
+we get into the adventure component and
+the campaign component of od there was a
+much more of a strategic sense of what
+an adventure was like and where the
+challenge lay that the game was about a
+large strategic challenge you mounted an
+expedition into the dungeon and your
+strategic challenge was to a stay alive
+for the length of that expedition and
+also b to maximize the rewards you could
+gain from running that expedition sleep
+within that context as an encounter
+ender worked just fine because how you
+chose to deal with encounters you met
+inside the dungeon was a strategic
+choice if you took out one of the
+encounters you had by using a sleep
+spell on it you wouldn't have the spell
+for a later encounter so there was a
+strategic choice to be made and it was
+an interesting choice within the context
+of how both the players and the dungeon
+master thought about those adventures
+and designed those adventures what
+really changed over time is that the
+game's focus has shifted from that kind
+of strategic play to a more tactical
+focus were instead of perceiving the
+entire expedition as a collective
+challenge that runs from the beginning
+to the end of a session we instead view
+a dungeon adventure as a sequence of
+individual tactical challenges
+individual combats which are often
+intricately designed this is
+particularly true in fourth edition
+where the encounters were very
+specifically designed down to the
+specific locations of monsters at the
+beginning of combat and sometimes with
+carefully scripted tactical scripts that
+the monsters were supposed to follow and
+if you've spent all that time designing
+a three-page long encounter where the
+orcs are precisely placed in this
+programmed events and there's all kinds
+of cool props and the like then the
+player players walking into an encounter
+like that and casting a sleep spell and
+having it immediately end is seen as
+undesirable you've wasted a lot of prep
+prepping all of this specific
+content for this one's particular fight
+and the players have gotten rid of it it
+also seems terribly unbalanced because
+this encounter was supposed to challenge
+the players and they got rid of it with
+one spell that shift from strategic to
+tactical really changes the perceived
+value of the sleep spell and how it
+impacts the desired form of play and so
+as you move towards that tactical base
+you really can't have spells hanging
+around that are encounter enders but the
+tack-on effect of that then feeds more
+heavily into the tactical side of things
+as well because once the pcs no longer
+have spells that can get their bacon out
+of the fire the problem you run into is
+that if they get into trouble in an
+encounter where they've got more goblins
+than they should or if the dice are
+going poorly against them the players
+have no ability or control to save
+themselves to get out of that bad
+situation that they've gotten themselves
+into or at least less ability to do so
+without resources like a sleep spell and
+so when that happens it now behooves the
+gm to make sure that the encounters that
+they're designing will not get out of
+hand because if they get out of hand
+the pcs will die and a tpk a total party
+kill is generally not seen as desirable
+either once you've done that well now
+you're spending a lot of time designing
+the encounter to make sure that it's not
+too powerful for the pcs and of course
+having done that you don't want to throw
+those preparations out and so you
+continue nerfing the sleep spell even
+more second level detect invisible
+objects a spell to find secreted
+treasure hidden by an invisibility spell
+see below it will also locate invisible
+creatures duration six turns range one
+inch times the level of the magic user
+casting it ie a wizard would have a
+range of a 11 inches more if he was
+above the base level wizard in this case
+being the the name of an 11th level
+magic user levitate this spell lifts the
+caster all motion being in the vertical
+plane however the user could for example
+levitate to the ceiling and move
+horizontally by use of his hands
+duration six turns plus the level of the
+user range of levitation is two inches
+per level of magic user with upwards
+motion of six inches per turn phantasmal
+forces the creation of vivid illusions
+of nearly anything the user envisions a
+projected mental image so to speak as
+long as the caster concentrates on the
+spell the illusion will continue unless
+touched by some living creature so there
+is no limit on duration per se damage
+cost to viewers of a phantasmal force
+will be real if the illusion is believed
+to be real a range of 24 inches you can
+create an illusion of a fireball you can
+create an illusion of a dragon you can
+create an illusion of an avalanche
+burying you in rubble and all of that
+will a coin spell just deal real damage
+over the years there's been a number of
+efforts to kind of reign that back in in
+different ways locate object in order
+for this spell to be effective it must
+be cast with certain knowledge of what
+is to be located thus the exact nature
+dimensions coloring etc of some magical
+item would have to be known in order for
+the spell to work well-known objects
+such as a flight of stair leading
+upwards can be detected with this spell
+however the spell gives the user the
+direction of the object desired but not
+the distance the desired object must be
+within range the range is six inches
+plus one inch per level of the magic
+user employing the spell i.e a
+necromancer has a 16 inch range so
+locate object is really interesting
+because we've been talking about about
+how in later editions spells like
+phantasmal forces and charm person for
+example would gain these provisors to
+attempt to kind of rein in how powerful
+the spell could or should be and here in
+the case of locate objects we actually
+see that kind of already happening like
+it's fairly clear to me that the reason
+this first sentence exists about the
+fact that you basically can't cast it to
+just find a magic item you have to know
+a specific magic item in order to go
+looking for it is very much something
+that came up during play for either
+arneson or gygax and probably both of
+them and they were like
+finding magical items like that in a
+dungeon is too powerful we're going to
+prohibit you from doing that or limit
+you in a very specific way from doing
+that pollock 181 speaking about locate
+object mentions that the thing they like
+about it is that it encourages the
+dungeon master to see stories of
+specific items that were lost on
+specific dungeon levels great example of
+how the rules encourage play like that
+and when you combine that with the
+classic old school method of having
+rumor tables you can really see how
+those two things synergize with each
+other you want to have some inkling of a
+specific thing down in the dungeon so
+that when you go looking for it you can
+use resources like locate object to
+narrow your search and find these things
+invisibility a spell which lasts until
+it is broken by the user or by some
+outside force remember that as in
+chainmail a character cannot remain
+invisible and attack it affects only the
+person or thing upon whom or which it is
+cast a range of 24 inches i think the
+thing that makes invisibility really
+work in dnd overall is that limitation
+on the fact that if you attack you'll no
+longer be invisible i think that makes
+the spell a lot easier and more
+palatable to handle than just
+perpetually invisible people running
+around and no one knowing where they are
+wizard lock similar to a hold portal
+this spell lasts indefinitely it can be
+opened by a knock without breaking the
+spell a wizard lock can be passed
+through without a spell of any kind by a
+magic user three levels above the one
+who placed the spell you have such a
+limited spell list as we look back at
+this but in the first two levels of play
+you already have two different spells
+that can be used to hold doors and the
+question is why well the simple truth is
+this is yet another example of a spell
+that could be used to help sort of
+control the situation if you found
+yourself out of your depth and needed to
+retreat as we'll see in later books in
+od od d somewhat uniquely among versions
+of dungeons and dragons has a robust and
+well-defined method for retreating from
+combat we'll talk about that later but
+one thing you can do with a wizard lock
+spell for example as we can see is if
+you can manage to get a little bit of a
+retreat and you can cast that spell on a
+door you can stop monsters from
+following you and that is incredibly
+useful as a ability in a classic dungeon
+crawl you can see the tools that have
+been being given to players to
+intelligently
+of dungeons you've got spells like
+locate object that allow you to navigate
+in unknown areas you can find stairs
+that you may not already know about you
+can find other features within the
+dungeon you could even potentially find
+some treasures as long as they were not
+specifically magical treasures like you
+could say like find me the nearest sort
+of gold coins as long as you were wise
+enough not to have brought any gold
+coins with you into the dungeon you
+could potentially find the nearest cache
+of such coins so again it's a locate
+object is very much a scouting spell and
+on the obverse you have things like
+wizard lock which very much allow you to
+strategically get yourself out of sticky
+situations that you may find yourself
+into this particular blend of abilities
+is very useful for that strategic level
+of play where you're tackling an
+expedition into the dungeon let's take a
+moment also to appreciate the orc
+artwork down there um
+okay i'm done appreciating that now
+detect evil a spell to detect evil
+thought or intent in any creature or
+evilly enchanted object note that poison
+for example is neither good nor evil
+duration of two turns range of six
+inches arneson and gygax were both huge
+fans of cursed items and detect evil as
+we can see here is heavily biased
+towards rooting out cursed objects
+cursed items the other thing too is of
+course you can also detect evil
+creatures this is something that could
+also organically arise throughout the od
+and d rule set and that your hirelings
+and your henchmen having an evil
+henchman or howling with you was
+dangerous and obviously detect evil
+would let you avoid that particular
+danger esp a spell which allows the user
+to detect the thoughts if any of
+whatever lurks behind doors or in the
+darkness it can penetrate solid rock up
+to about two inches thickness but a thin
+coating of lead will prevent its
+penetration duration 12 turns range six
+inches another classic spell that again
+when you're thinking about scouting the
+dungeon and figuring out where danger is
+and avoiding danger another classic
+spell that gives you that kind of
+information the primary thing that gets
+you experience points in the original
+edition of dungeons and dragons is not
+killing monsters it is seeking out
+treasure and so spells like this that
+allow you to pinpoint where the
+dangerous monsters you don't want to
+fight are allow you to strategically
+avoid those and go find the treasure
+that will both award you monetarily
+obviously but also within the xp rules
+of od and d are the primary way of
+advancing as characters as well okay
+next up we have continual light this
+fill creates a light wherever the caster
+desires it sheds a circle of
+illumination 24 inches in diameter but
+does not equal full daylight it
+continues to shed light until dispelled
+range 12 inches now the interesting
+thing here is to look at how many of
+these second level spells are in fact
+improvements of first level spells so
+you have hold portal that becomes wizard
+lock you have light that becomes
+continual light and you also have this
+knock spell which is not an improvement
+over a first level spell but it is a
+counter for a first level spell first of
+all you have the portal spell and second
+level there is now a knock spell which
+opens secret doors held portals doors
+locked by magic border otherwise secured
+gates etc to a range of six inches now
+this is purely hypothetical on my part
+but i think one of the reasons you see
+this is because if you if you think back
+to the very first sessions of castle
+black war that dave arneson would have
+been running in his basement in saint
+paul for his war gamer buddies those
+early characters didn't necessarily have
+levels yet they had created characters
+they went into the dungeon and only over
+time did they develop the idea of being
+able to advance these characters and
+make them more powerful as a result of
+the experiences that they had gained and
+so at some point in that process of
+innovating character advancement you
+would have gotten for the first time
+second level spells and my guess again
+purely hypothetical based on very little
+my guess is that at the time that they
+created second level spells higher level
+spells third fourth fifths etc etc
+didn't exist yet you have your spells
+and then you have like more powerful
+spells and for a while that would be the
+binary initial spells and like your
+level up spells or your more powerful
+spells what would those be well they
+would be in some cases more powerful
+versions of spells that you had already
+had it at first level at the beginning
+of your character and so i think that's
+one of the reasons why you see that in
+the first two levels of spells
+particularly in od and d and later on
+some of these spells like continual
+light for example will actually get
+bumped up to like third level to give a
+bit more space between you initially
+getting the spell and then getting the
+more powerful version i do think it's
+interesting in fifth edition how they've
+managed to sort of conflate that back
+out again by kind of getting rid of a
+lot of the higher level versions of the
+spells and instead just allowing you to
+prep the lower levels at higher spell
+slots in order to unlock those more
+powerful abilities i think there's a
+real elegance to that fifth edition
+solution and i'd love to see that taken
+actually even further in many cases with
+more spells having level up abilities
+for higher slots and some more of the
+legacy spells maybe being compacted into
+a single spell with different effects as
+you level it up so the first spell for
+third level is fly by means of this
+spell the user is able to fly at a speed
+of up to 12 inches per turn the spell
+lasts for the number of turns equal to
+the level of the magic user plus the
+number of pips on a six-sided die which
+is secretly determined by the referee
+now this is a mechanic i love it has
+come and gone over the years of dnd but
+i i love the idea that like okay you can
+fly but at some point that spell is
+going to go away and only the dungeon
+master knows for sure exactly when it's
+going to go away and then you are going
+to fall out of the sky if you wanted to
+make this even more potentially
+interesting would definitely be setting
+a base level and then having it modified
+by a 2d6 roll where you add 1d6 and then
+subtract 1 d6 so sometimes you would
+have more turns and sometimes you would
+have fewer turns on the base level
+mathematically that's pretty much the
+same thing but i think there's
+psychologically something different
+about that it would make players even
+more uncertain and have to hedge their
+bits a little bit more you could get
+really evil if you used feng shui style
+dice mechanics where you did that same
+plus d6 minus d6 but either one of those
+d6s could actually explode so if you
+hold a six on it would keep unlocking
+more so sometimes your fly spells could
+last for hours and other times you might
+go up and just a few rounds and the fly
+spell would flutter away because you had
+a particularly poor role on your fly
+duration that's the evil part of me as a
+dungeon master coming out sure whole
+person a spell similar to charm person
+but which is of both limited duration
+and greater effect it will effect from
+one to four persons if it is casted only
+a single person it has the effect of
+reducing the target saving throw against
+magic by negative two uh its duration is
+six turns plus level of the caster with
+a range of twelve inches one thing that
+jumps out to me about this text is the
+fact that they talk about whole person
+being similar to charm person i don't
+think that ever happens again in the
+course of dnd and looking at it from a
+modern perspective it's kind of
+difficult to understand why whole person
+would be considered similar to charm
+person in this case i think it's because
+both of them are being interpreted as a
+mental effect the whole person is not
+actually a physical limitation it is
+kind of more of a mental command to not
+move so i think there's that commonality
+and the other thing too is that both of
+them are seen as ways of basically
+removing people from combat through that
+mental persuasion if you will whole
+person is more powerful because they're
+not just friendly or under under your
+control but they are in fact kind of
+removed from that combat entirely the
+interesting thing here too is you can
+see how kind of by the seat of the pants
+everything is here here's a spell that
+is similar to a charmed person but it
+has a specific duration and a specific
+range and if i recall correctly trump
+persian had a specific range but
+obviously no specific duration although
+in this case i guess the specific
+duration is until it's dispelled so
+trump person is kind of permanent so
+it's kind of an interesting balance
+between those two spells okay next up we
+have the dispel magic spell which you've
+heard about several times already in the
+other spells unless countered this spell
+will be effective in dispelling
+enchantments of most kinds the referee's
+option except those are magical items on
+the like this is modified by the
+following formula the success of a
+dispel magic spell is a ratio of the
+dispeller over the original spellcaster
+so if a fifth level magic user attempts
+to dispel the spell of a 10th level
+magic user there is a 50 chance of
+success duration of one turn and a range
+of 12 inches you can also see as a
+result of that ratio calculation that if
+you are a higher level or an equal level
+to a magic user you will automatically
+dispel their spell clairvoyance is the
+same as esp spell except the spell user
+can visualize rather than merely pick up
+thoughts player audience is the same as
+clairvoyance except it allows hearing
+rather than visualization this is one of
+the few spells which can be cast through
+a crystal ball see volume 2. so once
+again we see those dungeon scouting
+skills and once again we see how spells
+basically level up with you here
+improved versions of previous spells
+giving you new capac new capabilities in
+new capacities and in some cases
+creating connections that i think are
+obscured somewhat or or interpreted
+differently in more modern editions of
+the game esp has become detect thoughts
+to remove that science fantasy psionic
+patina to it and i don't think most
+people would typically associate that
+except in so far as they're both
+divination spells now with clairvoyance
+and clear audience but here you can
+really see the progression you can
+initially sort of detect the things on
+the other side and what they're thinking
+and then you can actually see them and
+hear them it's an interesting
+progression when you think about it
+though in terms of being able to like
+read people's thoughts to some extent
+versus being able to see them or hear
+them at a distance which one would you
+think is the more powerful or useful
+ability to potentially have i'd probably
+go with a detect thoughts but it also
+depends on how you interpret the detect
+thoughts spell on exactly what you get
+in terms of information from that spell
+the next spell up is the classic
+fireball appearing here for the first
+time as two words the fireball a missile
+which springs from the finger of the
+magic user it explodes with a burst
+radius of 2 inches slightly larger than
+specified in chainmail in a confined
+space the fireball will generally
+conform to the shape of the space
+elongate or whatever the damage caused
+by the missile will be in proportion to
+the level of its user a sixth level
+magic user throws a six-die missile a
+seventh a seven die missile and so on
+note that fireballs from scrolls see
+volume two and wands are six die
+missiles and those from staves are eight
+die missiles duration one turn and a
+range of 24 inches classics fell there
+and you can see the old school
+methodology already at play here of if
+you catch the fireball into a space
+that's too small for it it's going to
+expand and potentially burn you so you
+have to be thoughtful in how you apply
+this spell i think that it tends to get
+overlooked with how much of an important
+balancing factor that was the fireball
+deals an incredible amount of damage
+particularly by od standards where all
+weapons deal 1d6 points of damage so it
+deals out an incredible amount of damage
+to multiple targets all at once for just
+a third level spell what keeps the power
+of that spell balanced well you can't
+always use it effectively without
+annihilating your own team and so as you
+get to later additions that for the sake
+of simplification or kindness we move
+that conform to the shape of space
+proviso of the fireball it does to some
+extent unbalance the fireball this is
+something the designers of fifth edition
+talked about in terms of fireball really
+being a more powerful spell than a third
+level spell but they kept it at third
+level basically for legacy reasons
+although part of the reason they also
+gave was the idea that every level has
+one spell that's a little more powerful
+than it should be in order to kind of
+give a taste of where the wizard's going
+i don't know exactly how much i agree
+with that particular design methodology
+but it's certainly an evocative and
+potentially intriguing one the lightning
+bolt alternates of this spell generates
+a lightning bolt six inches long up to
+three and a quarter inches wide if the
+space is not long enough to allow its
+full extension the missile will double
+back to attain six inches possibly
+striking its creator it is otherwise
+similar to a fireball but as stated in
+chainmail the head of the missile may
+never extend beyond the 24 inch range so
+here again we have a very powerful spell
+fireball gives you a burst lightning
+bolt gives you a line but in both cases
+there is a potential risk in the
+enclosed spaces of a dungeon of the
+spell backfiring and hurting you and
+yours so you have to be careful with the
+use of both of these spells protection
+from evil 10 foot radius a protection
+from evil spell which extends to include
+a circle around the magic user and also
+lasts for 12 rather than six turns so
+this is a classic case of how the
+measurements in dnd are so confusing as
+a result of using those miniature scales
+because protection from evil 10 foot
+radius is immediately followed by
+invisibility 10 inch radius and the 10
+foot radius is 10 feet and the 10 inch
+radius is potentially a 100 feet in a
+dungeon the other thing about
+invisibility 10 inch radius in od and d
+as well is it says it's an invisibility
+spell with an extended projection but
+otherwise no different from the former
+spell but that's a really interesting
+statement because if you go to the
+former spell it is a spell which lasts
+until it is broken by the user or by
+some outside force remember that as in
+chainmail a character cannot remain
+invisible in attack it affects only the
+person or thing upon whom or which it is
+cast and has a rank the interesting
+thing about the invisibility with a
+radius is that it doesn't actually say
+as it would in later editions that it
+affects basically anyone who is an ally
+of you within that radius so there's a
+lot of weird interpretations you can
+make of this spell including at the most
+basic level that doesn't just affect
+allies it affects everyone within those
+hundred feet and makes them invisible
+also does it make things other than
+people invisible
+unclear infravision this spell allows
+the recipient to see infrared light
+waves and thus enabling him to see in
+total darkness the duration of one day
+range of infravision is 40 to 60 feet so
+interesting thing uh this is actually
+the first mention of infra vision in the
+book i don't think we specifically
+touched base on this earlier when we
+were talking about races but something
+that may not be immediately apparent is
+that elves and dwarves and hobbits in od
+and d have neither low light vision nor
+infra vision they cannot see in the dark
+you needed to have this specific spell
+and again this is very powerful because
+the ability to see in the dark in a
+dungeon made it much easier to sneak up
+on monsters and also to avoid being
+detected by monsters and ambushed by
+them the slow spell a broad area spell
+which affects up to 24 creatures in a
+maximum area of 6 inches by 12 inches
+again prodigiously large duration of
+three turns range of 24 inches the
+easiest thing about the slow spell is
+what does it do it slows you down what
+does that mean i don't think it's ever
+actually defined in the same context
+here that the hay spell is exactly the
+opposite of a slow spill and effect but
+otherwise like it note that it will
+counter its opposite and vice versa if i
+was sitting here reading this rule book
+for the first time and trying to figure
+out what effect a slow spell would have
+and what effect a hey spell would have i
+don't know what i would come up with i
+would probably think in terms of like
+well it's talking about speed so
+like a slow spell must cause someone to
+move slower so maybe their move rate is
+maybe reduced by one encumbrance
+category or halved or they're going to
+take one move action per combat round if
+you end up interpreting combat no dnd in
+those terms which is we'll talk about
+later and a hey spell would potentially
+have the opposite you could move maybe
+twice as far perhaps i don't know like
+if you don't have the context of what
+those spells later evolved into and
+probably what arnesson intended with the
+spells
+reading this text i don't know if i was
+sitting in there in 74 reading this book
+for the first time what i would think
+these spells actually did protection
+from normal missiles the recipient of
+this charm becomes impervious to normal
+missiles this implies only those
+missiles projected by normal not above
+normal min and or weapons duration of 12
+turns range of three inches incredibly
+powerful spell we talked about this a
+little bit previously but both the
+assumed norms of tabletop play even if
+you were using miniatures at the time
+but also the theater of the mind meant
+that one of the primary advantages that
+missile users had over melee fighters
+was the distance at which encounters
+would begin which outdoors would be
+hundreds of feet away and it could take
+you several rounds to get within melee
+range of people with missile weapons and
+so those missile weapons were incredibly
+powerful because you could get so many
+attacks off before the other before the
+melee opponents would have any
+opportunity to close with you much like
+historically was the advantage of you
+know ranged weapons and to have this
+spell that basically took that whole
+advantage away and rendered the ranged
+missile fighters useless against the
+spellcaster is incredibly powerful you
+may also notice i believe later editions
+i'm not sure about fifth edition but
+later editions sometimes limited this
+protection from normal missiles to a
+self-only spell in od and d you can see
+that there's really no limit to that and
+you can really cast it on anybody within
+three inches which makes it a much more
+powerful one as well uh harleq181 asks
+what is an above normal man above first
+level yes most likely in chainmail you
+would have actually had levels where you
+had man and then superman
+and you can actually see that let's back
+up to the combat tables here real quick
+on the level tables rather you can see
+that the fighting capability for various
+classes were actually defined in these
+chain mail terms of man hero and uh
+superheroes not superman superhero and
+so anything anything actually in the
+range of probably up to third level
+fighter here we get this hero minus one
+would be defined as man even though
+there's multiple men but he'd also be
+looking at things like giants hurling
+boulders as well would also be an
+obvious example of something that would
+not be protected from at least that
+would be my interpretation because one
+thing we will note there is like that
+the term normal is not necessarily
+defined so normal might just mean people
+who don't have magical arrows or normal
+might be interpreted as a baseline man
+combat ratio or could just be
+interpreted strictly first level water
+breathing a spell whereby it is possible
+to breathe underwater without harm or
+difficulty duration 12 turns range three
+inches
+this water breathing spell along with
+fly to a lesser extent is a really good
+example of spells in this third level
+range that begin unlocking new adventure
+possibilities we'll see this in the
+third volume of od d but there's
+actually a whole section about
+underwater adventure specifically and
+the water breathing spell is really the
+key that unlocks those adventures the
+other thing about both of those spells
+the fly on the water breathing is they
+obviously unlock unusual forms of
+movement which will give you advantages
+as you explore deeper and deeper into
+the dungeon fly can bypass all kinds of
+dangers on the floor and also maneuver
+across large vertical differences and
+obvious ways and water breathing allows
+you to potentially penetrate sunken or
+flooded portions of the dungeon that
+would otherwise be inaccessible or very
+difficult to access fourth level spells
+we are now halfway through the magic
+user spells polymorph self a spell
+allowing the user to take the shape of
+anything he desires but he will not
+thereby acquire the combat abilities of
+the thing he has polymorphed himself to
+resemble that is while the user may turn
+himself into a dragon of some type he
+will not gain the ability to fight and
+breathe but he will be able to fly
+duration of six turns plus the level of
+the magic user employing it one thing i
+find very interesting about this
+phrasing of the polymorph spell is that
+in many ways it's a lot easier to make
+rulings on this than some of the immense
+legalese versions of polymorph that
+would come later in the game i actually
+use this as an inspiration for revising
+the third edition polymorph spell to
+kind of simplify it down to you take on
+the the physical form of a creature but
+you lack most of its substance and so
+you don't get any of its magical
+abilities other than like its method of
+movement and speed which is basically
+what this spell kind of spells out as
+well because another example of how much
+do you unlock what abilities do you
+unlock and it's one of those spells that
+infamously as has been said is every
+time somebody designs a new monster for
+d they are giving a massive power up to
+polymorph spells polymorph for others
+unlike the spell to polymorph self this
+spell lasts until it is dispelled this
+spell gives all characteristics of the
+form of the creature so a creature
+polymorphed into a dragon acquires all
+of the dragon's ability not necessarily
+mentality however likewise a troll
+polymorphed into a snail would have an
+innate resistance to being stepped on
+and crushed by a normal man that spell
+is a little bit less clear about like
+what exactly does it mean for a troll to
+have an innate resistance to being
+stepped on and crushed uh by a normal
+man
+range is six inches remove curse a spell
+to remove any one curse or evil sending
+note that using this spell in a cursed
+sword for example would make the weapon
+an ordinary sword not some form of
+enchanted blade range adjacent to the
+object i love that very specific
+legalese that really feels like somebody
+tried to pull a fast one on either
+artisan or gygax there and they were not
+having it wall of fire the spell will
+create a wall of fire which lasts until
+the magic user no longer concentrates to
+maintain it the firewall is a quake it
+prevents creatures from under four hit
+dice from entering slash passing through
+it undead will take two dice of damage
+and other creatures one die when
+breaking through the fire the shape of
+the wall can be either a plane of up to
+six inches width and two inches in
+height or can be cast in a circle of
+three inches diameter and two inches in
+height at a range of six inches we also
+have the wall of ice spell a spell to
+create a wall of ice six inches thick in
+dimensions like that of a wall of fire
+it negates the effects of creatures
+employing fire and or fire spells it may
+be broken through by creatures with four
+or more hit dice with damage equal to
+one die for non-fire employing creatures
+and double that for fire users range of
+12 inches both of these spells in many
+way are the in terms of functionality in
+the dungeon are the improved version of
+wizard lock now you can begin blocking
+off corridors in a dungeon and
+controlling monstrous pursuit without
+needing to find a door first confusion
+this spell will immediately affect
+creatures with two or fewer hit dice for
+creatures above two hit dice the
+following formula is used to determine
+when the spell takes effect score of a
+twelve-sided die roll less the level of
+the magic user casting the spell equals
+delay in effect iea positive difference
+means a turn delay while a zero or
+negative difference means immediate
+effect creatures with and like all of
+that and you probably could just had a
+saving throw creatures with four more
+hit dice will have saving throws against
+magic and on those turns they make their
+saving throws they are not confused but
+this check must be made each turn spell
+lasts and failure means that they are
+confused the spell will affect as many
+creatures as indicated by the score
+rolled on two six-sided dice with an
+addition of plus one for each level
+above the eighth that the magic user
+casting the spell has attained confused
+creatures will attack the magic user's
+party on a dice score of two to five
+stand around doing nothing six to eight
+or attack each other nine to twelve roll
+each turn duration 12 turns and a range
+of 12 inches also not safe for work i
+like the fact that because the artist
+only could really draw one face it's
+really just the same person in different
+phases of a professional career charm
+monster the counterpart of a charmed
+person spell which is employable against
+all creatures if animals or creatures
+with three or fewer hit dice are
+involved determine how many are affected
+by the spell by rolling three six-sided
+dice it is otherwise identical to the
+charm person spell not much to say about
+that another example of an improved
+spell higher level growth of plants this
+spell causes normal brush or woods to
+become thickly overgrown and entangled
+with creepers vines thorns briars and so
+on so as to make the area virtually
+impassable it will affect an area of up
+to 30 square inches the dimensions
+decided by the caster of the spell
+duration until the spell is negated by a
+dispel magic and a range of 12 inches so
+another example of it's kind of very
+similar to the wall spells at the same
+level again it gives you area control
+and the ability to modify your
+environment to your advantage dimension
+door a limited teleport spell which
+allows the object to be instantaneously
+transported to 36 inches in any
+direction including up or down there is
+no chance of misjudging when using a
+dimension door so the user always
+arrives exactly where he calls i.e 12
+inches upwards 32 inches each etc range
+of 1 inch now he says that there is no
+chance of misjudging when using a
+dimension door so the user always
+arrives exactly where he calls but then
+he calls for exact measurements to be
+declared by the caller the person
+describing how the spell is being used
+in an environment where they might not
+have access to precise measurements so i
+think that's an interesting thing to
+note there is that even though you may
+think you're putting in the right place
+if you don't understand or estimate the
+distance incorrectly that might not
+actually be true in practice wizard i a
+spell which allows the user to send a
+visual sensor up to 24 inches away in
+order to observe the scene without
+himself moving the eye is invisible it
+moves 12 inches per turn and the
+duration has six turns so a more
+powerful version of clairvoyant mass
+morph this spell is used to conceal up
+to 100 men or creatures of near man's
+size as a woods or orchard the concealed
+figures may be moved through without
+being detected as anything other than
+trees and it will not affect the spell
+it will be negated by a command from the
+caster or by means of a dispel magic
+spell with a range of 24 inches this is
+one of those spells that really reveals
+the difference in how d d was being
+played back in the day because now
+around this fourth level time period
+you're beginning to get up towards the
+levels where you would either have
+yourself or be adventuring with other
+pcs who were unlocking their bearings
+and their churches and their wizards
+towers and all the followers and armies
+that would come with that we talked
+before about how in dave arneson's
+original blackboard game the idea was
+that you would go on these dungeon
+adventures to build resources and
+abilities and acquire equipment that
+would allow you to build an army that
+would allow you to go and fight in the
+war game that was sort of the cap over
+all of this and you can see how a spell
+like mass morph is really assuming that
+the pcs are going to be in situations
+where they're going to be with small
+armed forces of up to a hundred men
+where it may be useful to hide them as
+an orchard and thereby ambush surprise
+or bypass opposition hallucinatory
+terrain by means of this spell terrain
+features can either be hidden or created
+an illusion which affects a large area
+thus a swamp hill ridge woods or the
+like can be concealed or made to appear
+the spell is broken when the magic area
+is contacted by the opponent ranged 24
+inches another example of a spell that's
+going to be primarily useful for army
+base play fifth level teleport
+instantaneous transportation from place
+to place regardless of the distance
+involved provided the user knows where
+he is going the topography of the
+arrival area without certain knowledge
+of the destination teleportation is 75
+uncertain so a score of less than 75
+percent on the percentile dice results
+in death okay well make sure you know
+where you're going if the user is aware
+of the general topography of a
+destination but has not carefully
+studied it there is an uncertainty
+factor of 10 low and 10 percent high a
+low score meaning death if solid
+material is contacted a high score
+indicates a fall from 10 to 100 feet
+also possibly resulting in death if a
+careful study of the destination has
+been previously made then the magic user
+has only a 1 chance of teleporting low
+and a 4 chance of coming in high at a
+distance to 10 to 40 feet i do like the
+elegance of the distance of the fall
+being determined directly by the
+percentile roll just means one die roll
+instead of several which would become in
+later additions the other thing about
+teleport is that this is an example of a
+spell that basically sunsets certain
+modes and styles of play once you have
+unlocked teleportation and particularly
+mass teleport a little while later you
+no longer really need to go on overland
+journeys the way that you used to and a
+certain element of the game vanishes
+this is also beneficial in terms of
+getting even deeper into the dungeon
+there are similar limitations in terms
+with the base spell here of needing to
+go someplace you've been before but the
+game is sort of sun setting out these
+components and this is an interesting
+design feature of dnd that goes hand in
+hand with the fact that original
+dungeons and dragons was moving through
+different modes of play so you started
+out in a dungeon and then you began
+doing wilderness exploration and hex
+crawls and then you founded a barony in
+a kingdom and then you went to go fight
+with armies and so forth and so the form
+and style of play would shift over time
+the assumed form of play was an open
+table and when you're dealing with an
+open table like that an individual
+player would usually have characters of
+many different levels assuming they've
+been playing for a while and so to some
+extent you could kind of select well
+what type of adventures do i want to go
+on today do i want to be dealing with my
+organizational play my realm based play
+do i want to be going on a hex crawl
+adventure and play my
+mid-level character or do i want to go
+on dungeon adventures and probably play
+my lower mid-level character and and so
+forth and the advantage of a spell like
+teleport to say well we've now reached
+the levels with this character we're
+we're really interested in this realm
+based play so it's okay to introduce a
+spell now that basically says we can
+skip all that travel stuff that we were
+doing in the previous levels you'll see
+this in ad and d in later editions of
+the game as well with spells like create
+food and water and the like things that
+remove some of the resource management
+that was a key component of mounting
+dungeon and then wilderness expeditions
+those spells removing those components
+because we've moved on to worrying about
+other things and having a diegetic
+reason to basically say let's stop
+worrying about that and focus on the
+next phase of play is interesting what
+happens when you take these same spells
+that were designed to sunset previous
+modes of play as we move into new modes
+of play and you leave those spells
+intact but then you get rid of the other
+modes of play and now no matter what
+level you are in dnd you are supposedly
+going on dungeon crawls because that's
+the core identity of the game for better
+or for worse what happens is that these
+spells become incredibly problematic a
+common problem in third edition that's
+never really been fully solved is the
+the scry and die problem where you use
+the scry spell to figure out where you
+want to go and then you teleport in and
+you rapidly kill everything and then you
+teleport out without any real risk to
+yourself per se creating a magical arms
+race that isn't really what the game is
+designed to handle and the reason for
+that is because you are using spells
+designed to obviate forms of gameplay
+even though you are now playing the game
+in a form that says that those forms of
+play are in fact what we want to be
+doing and that mismatch of expectation
+and mechanical design is something that
+dnd really continues to struggle with at
+sort of its basic dna level as it moves
+into high mid and and high tier play uh
+avian overlord asks did that going up to
+armies in castle thing ever work i know
+that it didn't for a lot of people there
+is a fundamental tension within dnd in
+this regard where the game was designed
+and has mechanical systems for that
+assumption that you're moving from one
+mode of play to a higher mode of play to
+a higher mode of play but even though
+the game is fundamentally designed to do
+that that's what the game was originally
+designed to do for it still has these
+mechanics which in vestigial form are
+designed to support those styles of play
+for better or for worse there's a lot of
+people who aren't interested in that
+style of play and they really do just
+want to stay in the dungeon and do
+dungeon crawls you can see that going
+all the way back to dave arneson's table
+itself so dave arneson's table has
+teamed good and team evil you belong to
+a team they're leveling up they're doing
+all this army-based play there's real
+meaningful consequences in the campaign
+world that are happening as a result but
+at the same time a lot of the stories
+that the old guard players who are
+playing with arneson back then will tell
+they'll say things like well greg
+svenson who was one of the original
+players was really smart because he
+managed to make sure that his wizard
+never leveled up high enough that he
+needed to level out the top of that
+scale and kind of retire from dungeon
+plan retire from play and so there's
+that tension that constant tension
+between from the very beginning of
+wanting to stay in the dungeon and kind
+of just do that and then leveling up to
+the higher forms of play and so i think
+there's a large component of d as a fan
+base that wants to stay in the dungeon
+they the one way i put this too is long
+ago i wrote an article on the
+alexandrian called dnd calibrating your
+expectations which
+took a close look at third edition which
+is an addition that really benchmarked
+its mechanics to real world measurements
+and so you kind of get a real feel for
+like what the mechanics were and one
+thing you can conclude from that is if
+you look at like for example things that
+like the fictional character of aragorn
+or conan or farford and the grey mouse
+who do in their books you can really
+conclude that those stories are being
+told about low mid-level tier d pcs
+characters who are like 56 level and
+that's kind of where those stories are a
+lot of people want to play those stories
+and when they level up they don't want
+to change into stories that aren't about
+those types of adventures even as they
+unlock abilities like teleport or meteor
+swarm or turn yourself into a god that
+really kind of aren't compatible with
+aragorn or fawford and the grand mouser
+and so that is one wing of the hobby and
+the one exception to that that wing of
+the hobby generally wants to play
+aragorn and farfet and the grey mouser
+they don't want to level up to godhood
+but they do want to be able to solo smog
+that's the level up that they're
+interested in seeing is they they still
+want the tavern door to be difficult to
+pick the lock on because they're not
+superhuman but at the same time they
+want to be able to solo smog and that's
+kind of a weird dichotomy as well but
+it's something that's a real play style
+that i think a lot of people buy into
+herbivore says people want to play
+aragorn the ranger not aragorn the king
+yes i think that's true but that being
+said there is a large percentage of the
+hobby that is interested in playing
+those higher forms of play having their
+characters level up and move into
+different structures of adventures and
+this is one of the reasons why
+the sort of realms based play of dnd has
+never actually caught on in my opinion
+whereas od and d and most editions of
+dnd up until 4th edition do a pretty
+good job of explaining how a dungeon
+crawl works they explain how you're
+supposed to play it and they explain how
+you're supposed to prep it and they
+explain how you're supposed to run it
+they really tell you how to design
+dungeon adventures the realms based
+mechanics and how you design a realms
+based game both was never as clearly
+understood for starters two was more
+difficult to reach in the early days of
+the game particularly after supplement 1
+slowed down xp progression quite a bit
+and as a result of those systems never
+being really all that well defined in
+terms of what you prep and how you run
+them and also how you play them because
+those things are never well defined nor
+well supported through published modules
+dungeons were published in all kinds of
+modules this realm style of play wasn't
+really supported in published form as a
+result people weren't really doing that
+and because people weren't really doing
+that including the young turk designers
+who are moving in to design dnd itself
+because they weren't doing that the
+support for that in the rule books
+became increasingly vestigial in its
+nature and the more vestigial came the
+less it explained how to run those types
+of games the less the rule books
+explained how to run them the fewer
+people who did it for a contrast you can
+look at games even today which are
+specifically designed to support these
+styles of play one example is arse
+magicka which is a game we publish at
+atlas games arts magic was designed by
+jonathan tweet who would later go on to
+co-design 3rd edition d d and also mark
+reinhagen who would later go on to
+design the world of darkness and vampire
+the masquerade and the storyteller
+system and those two designers in the
+80s designed rs magicka which was a game
+where everybody played a wizard and the
+wizards were gathered together into a
+covenant which was basically an
+organization or a realm and a lot of the
+play of the game was based around
+organizing and running your covenant in
+much the same fashion that you might run
+a barony or the like i guess that's the
+other thing i also know too is that one
+of the reasons why rs magicka succeeds
+at this in a way that dnd frequently
+doesn't is that the boronia level
+structures of dnd were frequently about
+solar play if we go back to the
+beginning of this book and take a peek
+at the classes the fighting man for
+example says top level fighters lords
+and above who build castles are
+considered barrens and as such they may
+invest in their holdings in order to
+increase their income a base income for
+baron is a tax rate of 10 gold pieces
+etc clerics have the same thing but they
+they attract religious followers and
+they get tithes instead now the
+interesting thing about that it is not a
+group activity the group doesn't unlock
+baronial play the specific player who is
+playing that fighter unlocks their baron
+meanwhile the cleric is unlocking their
+church and they're not the same thing
+and they aren't connected and the reason
+that would work at dave arneson's
+blackmore table or mark miller's
+traveler table or gygax's greyhawk table
+these early campaigns is because they
+were these open tables and so you
+weren't playing the same character all
+the time there wasn't an expectation
+that everyone was part of a group who'd
+be adventuring and meeting at the same
+time and so when you graduated to
+baronial level play you could have
+specific sessions dedicated to your
+barony you could talk to the dm outside
+of those sessions and those decisions
+you made in those other sessions would
+impact games being played by lower level
+characters as you shaped the environment
+around them which was an incredibly
+empowering sense to be kind of in a
+co-authorial role at that point with the
+dm where other people are adventuring in
+the realms that you create and control
+and rule that doesn't work when you
+begin moving out of that open table
+style of play that dominated the 70s and
+even the first couple years of the 80s
+and begin moving into dedicated tables
+with linear adventures because now these
+same mechanics that say well the fighter
+gets a barony and the cleric gets a
+church and the other fighter gets a
+different barony those mechanics are not
+really compatible with six people
+sitting down to play a game together
+whereas in rs magicka all of the wizard
+characters controlled by the pcs are all
+members of the same covenant and they're
+working together at the same thing so if
+you instead had these mechanics that
+would say you as a group are now running
+a barony they might have been more
+durable in the traditions and lore of
+dnd and certainly if i was going to be
+looking at how to add these elements
+back into dnd that would be the approach
+i would take that look much more a group
+level rather than individual character
+classes because the dedicated table is
+the more assumed style of play whereas
+like i say if you look at the mechanics
+in od and d and a d and d that is not
+the case for how those mechanics rolled
+out and i know for myself personally
+back in the late 80s and early 90s when
+i first started playing dnd with the
+becmy set the basic expert companions
+masters and immortals rules when i was
+playing with those rules which similarly
+had a at certain levels you unlock these
+things and i actually for the first and
+only time in my life played a character
+from first level up to 36 level actually
+several characters because of the way
+that we were playing and in kind of an
+open table fashion we're all kind of
+multiple dms even in that context i
+would still unlock those things and
+spend a lot of time in my own personal
+solo play time designing my thief's
+thieves guild and designing my fighters
+barony and castle but those things
+rarely had an impact into play but i
+think it's also the interesting aspect
+of how matt coleville approached
+strongholds and followers was he really
+looked at okay well if you have this
+kingdom but you're still going on those
+dungeon adventures that everybody wants
+to go on how can your castle help with
+the adventures that you're going on
+we'll be talking about realms based play
+even more as we move forward hold
+monster same as whole person but
+applicable to monsters in this case you
+pretty much have to assume that monsters
+is basically anything whole person
+doesn't affect uh again monsters is not
+a term of art really per se conjure
+elemental a spell to conjure an air
+water fire or earth elemental only one
+of each type can be conjured by a magic
+user during any one day the elemental
+will remain until dispelled but the
+magic user must concentrate on control
+or the elemental will turn upon his
+conjurer and attack him see chainmail
+conjured elementals are the strongest
+with 16 hit dice as is explained in
+volume 2 monsters and treasure range of
+24 inches so here we again see kind of
+this this chainmail legacy on the magic
+system of d d as well we haven't been
+talking a lot about chainmail that'll be
+a whole different video but chainmail's
+magicians did have a list of spells
+several of which are drawn from that
+kind of directly into dnd i believe
+fireball is one of them and conjure
+elemental as they allude to here is
+another and it's kind of interesting
+because you look around and in modern d
+d when you see kind of a contra
+elemental type spell i think modern
+anything after od it's just one of many
+different conjuration spells but this is
+really the first time we've seen the
+spell that conjures something from
+beyond and the reason we're seeing that
+is because in chainmail they had a spell
+that allowed you to conjure additional
+forces onto the field in the form of
+elementals that war game legacy
+continues to be kind of baked into the
+dnd down unto today telekinesis by means
+of this spell objects may be moved by
+mental force weight limits are
+calculated by multiplying the level of
+the magic user by 200 gold pieces weight
+thus a necromancer is able to move a
+weight equal to 2 000 gold pieces once
+again you can really kind of see this is
+another example of a spell both
+obviating certain difficulties you would
+have had at lower levels like if you
+actually play an open table original dnd
+campaign with strictly enforced
+encumbrance you will discover how often
+that encumbrance creates meaningful
+choices on expedition because you've
+gone out to retrieve things of value
+those things of value can be a variety
+of weights and you have a limited
+capacity to carry those things back to
+civilization and profit from them and so
+a lot of interesting decisions will be
+made along those lines in this case you
+can begin bypassing some of those limits
+to a certain extent transmute rock to
+mud the spill takes effect in one turn
+turning earth sand and of course rock to
+mud the area effect is up to 30 inch
+square inches creatures moving into the
+mud will become mired possibly sinking
+if heavy enough or losing 90 of movement
+otherwise unless able to fly or to
+levitate the spell can only be counted
+by reversing the incantation requiring a
+transmute rock to mud spell or by a
+normal process of evaporation three to
+18 days is determined by rolling three
+six-sided dice we now have two more wall
+spells higher level wall spells are
+going to create a wall of stone which is
+two feet thick with a maximum length and
+height equaling 10 square inches and
+also a wall of iron which can be
+slightly smaller but most likely
+stronger as well these continue to be
+improved versions of previous spells in
+this case the previous wall spells we've
+talked about animate dead the creation
+of animated skeletons or zombies it in
+no way brings a creature back to life
+for the number of dead animated simply
+roll one die for every level above the
+eight the magic user is thus a sorcerer
+gets one die or from one to six animated
+dead note that the skeletons or dead
+bodies must be available in order to
+animate them the spell lasts until
+dispelled or the animated dead are done
+away with you may also notice that
+unlike later versions of the spell
+there's no limit to how many undead you
+can create as a result assuming you cast
+the spell multiple times
+this is also another example of a
+battlefield primarily type of spell that
+then later gets kind of diegetically
+merged into dnd in general but yeah i
+mean the idea here is that you're on the
+battlefield with an army there's a bunch
+of dead people laying around and you can
+basically raise up a new force midway
+through the battle here as well hulk bay
+one points out that in fact it doesn't
+say anything about being in control of
+the animated dead at all the animated
+judges come back and uh they're alive
+and boy that's a good point i guess you
+better use it in combination with charm
+monster spells to get them to like you
+although i think actually no the undead
+are immune to charm monster spells so
+definitely a risky spell depending on
+how much of a how much your gm goes by
+the book here magic jar by means of this
+device the magic user houses his life
+force in some inanimate object even a
+rock and attempts to possess the body of
+any other creature within 12 inches of
+his magic jar the container for his life
+force must be within three inches of his
+body at the time the spell is pronounced
+possession of another body takes place
+when the creature in question fails to
+make its saving throw against magic if
+the possessed body is destroyed the
+spirit of the magic user returns to the
+magic jar and from fence it may attempt
+another possession or return to the
+magic user's body the spirit of the
+magic user can return to the magic jar
+at any time he so desires and note that
+if the body of the magic user is
+destroyed the life force must remain in
+a possessed body or the magic jar if the
+magic jar is destroyed the magic user is
+totally annihilated when i was a kid i
+was deeply fascinated by the magic jar
+spell in beckman i believe it it's it's
+a spell that's taken directly from a
+fantasy story that i believe guy gaxx
+had read that gives some explanation of
+why the spell exists it's a very oddly
+specific spell i think one of these i
+was fascinated by it as a kid was that
+it's so clearly very different from the
+combat and exploration oriented spells
+that are otherwise present in the game
+contact higher plane this spell allows
+the magical type to seek advice and gain
+knowledge from creatures inhabiting
+higher planes of existence the referee
+of course the higher the plane contacted
+the greater the number of questions that
+can be asked the greater the chance that
+the information will be known and the
+higher the probability that the question
+will be answered truthfully use the
+table below to determine these factors
+as well as the probability of the magic
+user going insane only questions can be
+which can be answered yes or no are
+permitted if the magic user goes insane
+he'll remain so for a number of weeks
+equal to the number of the plane he was
+attempting to contact the strain making
+him totally incapacitated until the time
+has elapsed for each level above the
+eleventh magic users should only have a
+five percent better chance of retaining
+their sanity the spell is usable only
+once every game week at the referee's
+option i think that's pretty
+self-explanatory this is kind of the
+highest level of the divination spells
+that we're talking about of course the
+divination school didn't exist yet but
+this is a spell that lets you find out
+kind of anything you want as long as
+you're willing to take a sufficient risk
+of doing so the other thing to note here
+is that the modern conception of dnd's
+planar cosmology didn't actually exist
+yet there were no outer planes or inner
+planes but in this case you can see
+there's just kind of a generic sense of
+these higher planes of existence but i
+think it's actually really interesting
+epoch in dnd it wasn't until a dragon
+magazine article that gigax began
+nailing down the exact cosmology of what
+would become the great wheel which was
+then incorporated into the ad and d core
+rule books but before that there was
+this concept of sort of different planes
+of existence which in some cases were
+just alternate like alternate realities
+and other cases where there's higher
+planes of reality from which higher
+powers could descend or communicate but
+the interesting thing was that in those
+days if you look at like these mid to
+late 70s time period from modules and
+setting materials and so forth from both
+tsr and others it was really clear that
+whenever somebody kind of wanted another
+plane of existence for any reason they
+would just you know make one up but only
+later in a d and d really the guy guys
+kind of lock down what that cosmology
+was and once the cosmology was locked
+down d and d by and large stopped making
+new planes they locked everything into
+this cosmology for better or for worse
+and so the kitchen sinkness of dnd which
+was a wide open kitchen sink toss any
+fantasy stuff you want in there at the
+beginning of dnd slowly ossifies over
+time and becomes rigid and less
+accepting of new things and and more and
+more you are playing with a dnd
+cosmology which becomes more and more
+set in terms of its canonicity
+econoplast dimensions as we're about to
+get into past wall here passwell being a
+spell which opens a hole in a solid rock
+wall man sized into ten inches in length
+duration three turns range three inches
+iconoclast mentions it's strange that
+past wall assist is such a high level it
+makes sense since it deliberately
+bypasses dungeons but it means that i
+make a hole for half an hour is as
+difficult as i talk to angels or i
+possess you absolutely this is a classic
+example of a spell that exists at this
+level much like those other spells we
+were talking about specifically to some
+extent bypass lower levels of play
+dungeon based play is just less
+important at this level so we're going
+to give you some tools to bypass it in
+new and potentially interesting ways
+which is what password kind of lets you
+do and there's always this tension in
+terms of balancing things like what
+levels should the spell be between the
+dramatists the simulationist and the
+gamist to use those terms in the old
+threefold method and not the gns method
+for the for for people who that
+distinction makes any difference for the
+gamist in this case is saying well you
+can't give password first level
+characters or even fifth level
+characters because they're still in
+dungeons and if you let people just
+drill holes through dungeons the dungeon
+breaks the structure of the dungeon
+adventure breaks and we don't want that
+in much the same way that teleporting to
+get like teleport without air you've
+kind of broken hex crawling as an
+adventure structure on the other side
+you have sort of the simulationist
+impulse which says well why is making a
+hole in the wall as difficult as i talk
+to angels or i possess you like it's a
+good question i think it's also like
+there's also a gamis aspect of like i'm
+going to punch a hole in the wall but
+it's going to go away why does it go
+away well because the dn doesn't want to
+redraw his maps for the next party that
+goes through this dungeon cloud kill
+this spell creates a moving poisonous
+cloud of vapor which is deadly to all
+creatures with less than five hit dice
+the movement is six inches per turn
+according to wind direction or directly
+away from the spellcaster if there is no
+wind dimensions three inches in diameter
+the duration is six turns but the cloud
+is dispelled by unusually strong winds
+or trees note that the cloud is heavier
+than air so it will sink to the lowest
+possible level another example of a
+spell that's really designed for sort of
+army base play you send that sweeping
+out over the low-level armies it does
+have in this addition and retained much
+longer than its compatriots of fireball
+and lightning bolt a potential drawback
+of the wind changing and blowing your
+cloud kill back over the top of you we
+next have a feeble mind spell a spell
+usable only against magic users it
+causes the recipient to become
+feeble-minded until the spell is counted
+with a dispel magic because of its
+specialized nature the feeble mind spell
+has a 20 better chance of success i.e it
+lowers the magic user's saving throw
+against magic by 4 that if normally a 12
+or better were required to save against
+magic a 16 would be required against a
+feeble mind range 24 inches you'll
+notice that there is actually no
+definition given for exactly what being
+feeble-minded means growth of animals a
+spell which will cause from one to six
+normal-sized animals not merely mammals
+to grow to giant size with proportionate
+attack capabilities duration of 12 turns
+and a range of 12 inches notice that
+once again you do not actually control
+the animal as a natural part of the
+spell sixth level so we're on our this
+is again our last level of spells for
+the magic user in od and d stone to
+flesh this spell turns stone to flesh
+and it is reversible so as a source to
+turn flesh to stone it is particularly
+useful in reviving characters who have
+been stoned by some monster it is
+permanent unless a reversed spell is
+used range 12 inches really missed out
+on the possibility of making the range
+420 feet but
+reincarnation a spell to bring a dead
+character back to life in some other
+form the form in which the character is
+reincarnated is dependent upon his
+former alignment law neutrality or chaos
+use a random determination on the
+character alignment table and whatever
+the result is the reincarnated character
+is that creature and must play as is if
+he comes back as a man determine which
+class and roll a six-sided die to
+determine which level in that class and
+similarly check level for reincarnation
+as an elf or a dwarf the notable thing
+here of course is that the raised dead
+spell is cleric only reincarnation is a
+higher level spell with some pretty
+dramatic drawbacks but the magic user is
+allowed to get access to it here
+invisible stalker the conjuration of an
+extra dimensional monster which can be
+controlled with merely a word from the
+magic user who conjured him the
+invisible starker will continue on its
+mission until it is accomplished
+regardless of time or distance they
+cannot be dispelled once conjured except
+through attack details of the invisible
+stalker itself will be found in the next
+volume lower water utterance of this
+spell causes the water level in a river
+or similar body of liquid to drop 50
+percent of its depth for 10 turns range
+of 24 inches again another clear example
+of a spell that's designed for kind of
+realms based play and potentially some
+wilderness examples where that might
+make forging they're affording the river
+a little bit easier but most likely
+designed to make the river easier to
+forward for entire bodies of troops or
+to reduce the effectiveness of a moat in
+a siege situation port water a spell
+which will part water up to 10 feet deep
+for a maximum of 6 turns ranged 12
+inches same thing projected image by
+means of this spell the magic user
+projects an image of himself up to 24
+inches away and all spells and the like
+used thereafter appear to originate from
+the projected image duration 6 turns
+range 24 inches that is a surprisingly
+high level for projected image uh one
+thing that happens in later editions i
+think it's been largely smoothed away
+post 2000 is that mirror image crops up
+as sort of a localized projected image
+but then great effort is made to explain
+why projected image is such a high level
+spell if the wizard has access to a
+mirror image and there'll be a whole
+bunch of those sort of iterations on
+spells trying to distinguish and make
+clear exactly what the utility of one
+spell versus the other spell is
+anti-magic shell a field which surrounds
+the magic user and makes him totally
+impervious to all spells it also
+prevents any spells from being sent
+through the shell by the magic user who
+conjured it duration of 12 turns then
+it's pretty self-explanatory nice
+straightforward little spell
+death spell an incantation which kills
+from two to sixteen creatures with fewer
+than seven hit dice the creatures must
+be within an area of six inches by six
+inches to come under the spell range of
+24 inches so you can really see here
+death spell is just a straight up
+superior sleep spell another classic
+example of a very powerful spell the
+other thing to keep in mind too as we
+look at these sixth level spells is
+going back to the fact that in od and d
+a sixth level is as high as the spells
+get we go back to our spell list here we
+can see magic users had first to six
+level spells eighth seventh eighth and
+ninth level spells didn't exist these
+six level skulls exist in very much kind
+of the same place that ninth level
+spells exist for the rest of the history
+of the game these are the top level
+abilities your character is as powerful
+as they will ever become and yeah they
+can just kill a bunch of people or they
+can you know summon invisible stalker to
+go and do anything for them or
+reincarnate people from the dead this
+was the epitome this was the top level
+and i think there's actually something
+interesting to then go and look at
+seventh eighth and ninth level spells
+that were later created including some
+of these that got moved up into those
+levels and saying okay well these are
+these are the things they came up with
+and they said okay well how do we do
+even more powerful than the most
+powerful we previously imagined and when
+you understand that that's where seventh
+eighth imaginable spells came from it
+really begins to kind of make some sense
+about why those spells get as gonzo as
+they can geass a spell which forces the
+recipient to perform some task as
+desired by the magic user casting the
+geass any attempt to deviate from the
+performance of the task will result in
+weakness and ignoring the gas entirely
+brings death the referee must carefully
+adjudicate the casting and subsequent
+performance of the geast individual when
+the spell is used duration until the
+task is completed with a range of three
+inches i don't have anything interesting
+to say about that one it's kind of a
+cool ability i mean to some extent it's
+even it's arguably depending on how you
+interpret charm person geass in some
+ways can be weaker than that depending
+on how powerful you interpret charm
+person but the death penalty is
+certainly a way of really depending on
+other interpretations you have charm
+whole person and then this geass is the
+most powerful form of a mental
+compulsion spell disintegrate this spell
+will cause material of any kind other
+than that of a magical nature to
+disintegrate it will blast a tree dragon
+if it fails to make it saving throw
+against magic wall section or whatever
+range of six inches so you've got the
+death spell that targets a whole bunch
+of i mean seven hit dice is pretty
+powerful in terms of the level of
+creatures it's killing so like that's a
+pretty powerful spell or you have
+disintegrate which can take out any
+single creature plus a bunch of other
+cool stuff as well move earth when above
+ground the magic user may utilize this
+fell to move prominences such as hills
+or ridges to move should feel there
+should be a cause in there someplace the
+spell takes one turn to go into effect
+the the terrain affected will move at a
+rate of six inches per turn duration of
+six turns range of 24 inches so you can
+really see this is the i command this
+battlefield spell and i can probably
+make your castle disappear as well if
+you don't have some defenses for it
+control weather the magic user can
+perform any one of the following weather
+control operations with this spell rains
+stop rain cold wave heat wave tornado
+stop tornado deep clouds and clear sky i
+love the beautiful simplicity of that
+version of control weather actually
+speller gets surprising amounts of
+complexity later on i like how it just
+kind of glosses right over the top of
+tornado like hang on i i need more
+information as radio desk says tornado
+and the ever important follow-up stop
+the tornado harlequin one i see is
+beginning to talk about the amazing
+piece of elf art he mentions the one
+tiny leg i am amazed by the incredibly
+large beard that the elves have in od
+every time i look at that image the
+first thing i think is dwarf and that
+may just be the fabulous beard but that
+is clearly labeled elf as far as anyone
+is ever concerned it is not a thing to
+be corrected you can see in the sixth
+printing here all the errata in it this
+is still an elf down to the dying days
+of od and d that has brought us to the
+end of the magic user spells for od and
+d as we can see there's a there's going
+to be launching into the cleric spells
+there'll be fewer of those clerics only
+got access to their spells at second
+level in addition to that they have
+fewer levels of spells than the magic
+users we just looked at as well as fewer
+number of spells at each of those levels
+even as early as od and d though there
+is a clear distinction between the
+spells which magic users can cast and
+the spells which clerics can cast with
+clerics having access to as we start off
+here on first level the various cure
+spells like cure light wounds during the
+course of one full turn this spell will
+remove hits from a wounded character
+including elves dwarves etc a die is
+rolled one pip added and the resultant
+total subtracted from the hit points the
+character has taken thus from two to
+seven hit points of damage can be
+removed only clerics had access to
+healing magic like this that was the
+biggest distinction between the two of
+them you'll see from actually the the
+very shortened spell lists of the
+clerics in this edition that they were
+very heavily focused on a very small
+range of spells in a way that would
+become less and less true with every
+passing condition as the cleric spell
+list expanded to incorporate more and
+more of the utility that magic user
+spells have although over time the
+clerics nevertheless clung tenaciously
+to their monopoly over the cure type
+spells one interesting thing looking at
+the cure spells here in
+od and d is that quite a lot rides on
+the definition of the word turn which as
+we'll discover in future books is
+something of a complicated and confusing
+term in terms of how gygax and arneson
+use it in their books turns can refer to
+either 10 minutes but they'll also refer
+to turns in combat which we would now
+refer to as rounds rounds in combat
+generally being 10 rounds to one turn
+but they just referred to them all as
+turns
+in od and d as we'll see later and so
+this spell either can be used during
+combat or
+it can't and can only be used outside of
+combat with a long-term heal over a
+significantly longer period of time
+maybe we'll discover something as we do
+this really kind of close read that
+we're doing but as far as i can tell
+there's nothing in these in these
+original books that kind of clarifies
+which one of those two things would be
+true and those would result in two very
+different dynamics in my opinion in
+terms of how combat would play out in a
+game if you can heal up in the middle of
+combat that's hugely useful in keeping
+people alive if you can't do that then
+people are much more fragile it also
+however it does suggest that some spells
+like we were looking at earlier with the
+magic keys things like wizard locking
+doors for a full turn for example would
+be significant because you could lock
+the door wizard lock it and the cleric
+could begin casting their full turn not
+combat turn but full turn killing spells
+if that's the way you chose to interpret
+the spells the other interesting aspect
+of that is that in combat if you assume
+that cure spells can't be cast in combat
+because they take too long then the
+cleric can't turn into a heal bot during
+combat they don't have to dedicate all
+their actions to that because they can't
+dedicate their actions to that and as a
+result they're more likely to be engaged
+in that charlemagne knights paradigm
+that we talked about earlier the stuff
+that was later purloined by the paladin
+they'd be much more likely to kind of
+engage in in the front lines of combat
+up with the fighters next up we have
+purify food and water this fellow makes
+spoiled or poisoned food and water
+usable the quantity subject to a single
+spell is approximately that which would
+serve a dozen people very useful spell
+the key thing i love about this spell as
+opposed to like the higher level create
+food and water is that you have to still
+have access to spoiled or poisoned food
+and water you have to have some base
+resource that you can transform into a
+more useful resource detect magic this
+spell is that the is the same as that
+for magic users this is actually a
+classic example we talked at the
+beginning of the stream about different
+ways of organizing spell sections and
+how when you organize spell sections
+like this where you go by class and then
+level and then in the case of odin you
+don't even bother alphabetizing the
+spells cross-references to other spells
+can be difficult to track down in this
+case detect magic isn't too bad but if
+you don't know what level detect magic
+is for magic users since spells can have
+different levels for different classes
+and you're a cleric and you look at this
+and it says you know go look up detect
+magic you could be hunting for a while
+trying to figure out exactly where
+detect magic is detect evil this spell
+is the same as that for magic users
+except that it has a duration of 6 turns
+and a range of 12 inches protection from
+evil this spell is the same as that for
+magic usix except that it lasts for 12
+turns light this spell is the same as
+that for matching users except that it
+has a basic duration of 12 turns it's
+interesting that they are still in this
+edition and later editions all the way
+up to third still trying to find ways in
+which his clerics and wizards kind of
+have the same have to have the same
+spells but we want them to have at least
+slightly slight differences between them
+they're not the same they're not casting
+the exact same spells these are
+different spells and we're going to try
+to distinguish them in some way second
+level find traps by means of this spell
+the cleric will locate any mechanical or
+magical traps within a radius of three
+inches the spell lasts two turns that is
+incredibly useful divination spell in
+old school dungeons just flat out
+hold person this spell is the same as
+that for magic users except that its
+duration is nine turns and its range is
+18 inches other example one of those
+bless during any turn the prospective
+recipients of a blessed spell are not in
+combat the cleric may give them this
+venison a blessing raises morale by plus
+one and also adds plus one to attack
+dice the spell lasts six turns so here
+again we come back to this duration of
+turns which is not well defined when
+when it says during any turn that the
+perspective recipients are not in combat
+do they mean we're going to use the term
+round for what the gang sometimes refers
+to as combat turns do they mean rounds
+do they mean that any round he can do
+this or does it mean that any dungeon
+turn a full turn that you're not
+actually fighting i can drop this bless
+on you and it will last for up to six
+six dungeon turns or does it last for
+six rounds
+speak with animals this fill allows the
+cleric to speak with any form of animal
+life understanding what they say in
+reply there is a possibility that the
+animals spoken with will perform
+services for the cleric and they will
+never attack the party the cleric is
+with the manner of handling the
+probabilities of action by animals is
+discussed in the next volume duration of
+six turns and range of three inches this
+is actually an example of the the
+specific line about the manner of
+handling the probabilities of action by
+animals is discussed in the next volume
+this is an example
+of a design ethos in early dnd which is
+that some information about the world
+will be hidden from the players it's
+going to be over in that other book that
+the players aren't supposed to be
+reading or don't have access to and so
+you can talk to animals but you won't
+necessarily know what the mechanics are
+that the dungeon master is using to
+determine how they're going to help you
+this is a simple example of that but
+we'll see many more examples of that
+where you have sort of what i refer to
+as player unknown structures where the
+dungeon master is given tools to help
+interpret and run the game world that
+the players are not privy to and some of
+that is just you know hiding the wizard
+behind the curtain if you knew the
+simple metrics that i'm using the game
+world would feel less real to you or
+you'd be able to manipulate the world in
+ways that wouldn't be simulationist and
+accurate and other concerns are gamist
+i'm going to hide this information from
+you for the same reason that i hide my
+hands in poker i'm going to use
+concealed information to create enigma
+and mystery that will create challenges
+for you to overcome third level remove
+curse this pill is the same as that for
+magic users cured disease a spell which
+cures any form of disease the spell is
+the only method to rid a character of a
+disease from a curse for example which
+is an interesting thing to put right
+next to the remove curse spell because
+it implies that you can't use remove
+curse to remove curses that are diseases
+despite the fact that the wizard spell
+doesn't say that if i recall correctly
+locate object this feels the same as
+that for magic use except the base range
+is nine continual light is the same as
+that for magic users except that light
+shed is equal to full daylight which is
+where the daylight spell eventually
+comes from that distinction of different
+qualities of light fourth level
+neutralize poison a spell to counter the
+harmful effects of poison know that it
+will not aid a character killed by
+poison however it will affect only one
+object duration of one turn cure serious
+wounds this spell is like a light wound
+spell but the effects are double so two
+dice are rolled and one pip is added to
+each die therefore from four to fourteen
+hit points will be removed by this spell
+that's an interesting phrasing right
+that the hit points will be removed for
+the most part od and d has already
+settled into the idea that hit points
+are a thing your character has and you
+lose them to damage and regain them back
+up to a maximum but there are points
+where you can see an understanding that
+would date back to certain war games
+where you would suffer hits and so you'd
+basically start with the concept of
+having zero hits you would take hits
+until you reached your maximum number of
+hits and then you would die and that's
+kind of an interesting yeah holly quinn
+says the old hits to kill terminology
+exactly htk which crops up in quite a
+few 70s rpgs as well the war games that
+the people cream the rpgs were also
+simultaneously playing protection from
+evil 10 foot radius same as for magic
+users turn sticks to snakes any time
+there are sticks nearby a cleric can
+turn them into snakes with a 50 chance
+that they will be poisonous from 2 to 16
+snakes can be conjured roll two
+eight-sided dice he can command these
+conjured snakes to perform as he orders
+a duration of six turns and a range of
+12 inches the obvious influence there is
+moses himself certainly druggie from the
+bible but i certainly think probably the
+ten commandments movie with charlton
+heston probably plays a visual image
+here one of the things that's
+interesting about about the 70s is that
+there is compared to today such a
+paucity of fantastic material that those
+who were interested in these kinds of
+fantastical stories really just were
+like thirsty men in and desert kind of
+drinking up everything that they could
+the influences were both smaller in
+scale of what you could draw influence
+from but also more of a sense of shared
+community because there were so few
+books like the hobbit for example you
+could pretty much assume that anyone who
+was in a circle who was interested in
+books like the hobbit would have read
+the hobbit and had probably also read
+the camp and len carter fritz lieber and
+morcot with such a small pool there was
+much more of a a common cannon a geek
+cannon if you will that everyone kind of
+shared in common with each other speak
+with plants not to be confused with
+speak with animals and one level higher
+this film allows the cleric to speak
+with all forms of plant life
+understanding what they say in reply
+plants so spoken to will obey commands
+of the cleric such as part to allow a
+passage and so on this spell does not
+give the cleric the power to command
+trees as ants do specifically allow
+trees to actually like uproot themselves
+and move around in a more meaningful
+fashion so you can command the plants to
+kind of sway back and forth but it
+sounds like they have to remain rooted
+in place based on that guideline create
+water by means of this spell the cleric
+can create a supply of drinkable water
+sufficient for a party of a dozen men
+and horses for one day the quantity
+doubles for every level above the eight
+the cleric has attained so you'll notice
+they're still giving you food we'll come
+to that at the fifth level spell but you
+have to get almost to the top of the
+cleric spells in this in this edition
+before they take away the resource of
+water and allow you to just cast a spell
+and stop worrying about it fifth level
+and again much like the sixth level
+spells for magic users were the top end
+what we think of as ninth level spells
+today these fifth level spells for the
+clerics were the top end tier these were
+the most powerful magical abilities that
+clerics would get in 1974 to spell evil
+similar to dispel magic this allows a
+cleric to dispel any evil sending or
+spell within a three-inch radius it
+functions immediately and has a duration
+of one term and we talked earlier about
+like the detect evil spell and the fact
+that evil isn't really defined in this
+edition o d and d only had law and chaos
+and neutrality between them there wasn't
+a good evil alignment axis in this
+edition this idea of dispel evil and
+what does it mean for me to come from
+evil is really interesting the key thing
+to note here i believe yeah so the
+cleric does not have a dispel magic
+spell so in that context the intention
+of this spell becomes a lot clearer
+which is that dispel evil basically says
+you can dispel magic but only if it's
+coming from evil people because you are
+a bastion of goodness and light is
+basically the idea here for the cleric
+we talked about the fact that underlined
+cleric spells can be reversed for evil
+clerics so the converse is also true if
+you are an evil cleric you can dispel
+good and so you also get to spell magic
+but only in the context of spells that
+are coming from good people now in this
+case you can also see here as we look at
+this this is kind of we hadn't touched
+on this yet but if you look at this it
+says note that underlying clerical
+spells are reversed by evil clerics
+which is weird because there are no evil
+clerics in od and d because the
+alignment system is lawn chaos and
+clerics are required to choose one of
+those two interesting enough though as
+well
+is that in od and d clerics don't pick
+whether they are law or chaos or whether
+they do pick that but they don't
+actually suffer any negative benefits
+from changing sides until they become a
+patriarch so there's a really
+complicated thing going on there as well
+poliquin mentions that the cure spells
+are reversible into inflict spells but
+the cure spells take a full turn to cast
+so when do you cast and flick spells or
+do they get cast a different cast time
+the exact nature of what reversing a
+spell means isn't spelled out which is
+also confusing this would be an argument
+and probably why the cure spells became
+cast on combat turns or rounds rather
+than full turns by inference of it would
+be most useful if you were an evil
+cleric to be able to cast those inflict
+spells in a reasonable time frame for
+combat purposes but you could certainly
+also argue that evil clerics would use
+inflict spells to wreak havoc upon
+captives for example so fifth level back
+to fifth level we just did dispel evil
+and now we're looking at rey's dead the
+cleric simply points his finger autos
+the incantation and the dead person is
+raised this spell works with men elves
+and dwarves only for each level the
+cleric has possessed beyond the eighth
+the time limit for resurrection extends
+another four days thus an eighth level
+cleric can raise a body dead up to four
+days a ninth little cleric can raise a
+body dead up to eight days and so on
+naturally if the character's
+constitution was weak the spell will not
+bring him back to life in any event
+raised characters must spend two game
+weeks time recuperating from the ordeal
+one thing to really note about rey's
+dead here is how much this was a top
+tier ability and in many ways rey's dead
+kind of broke some of the fundamental
+paradigms of how people felt the game
+work back then death was a final
+frontier when your character died you
+had to roll up a new one you went on
+expeditions whether into the dungeon or
+the wilderness and one of the things you
+were gambling was your survival against
+the treasure and the power that you
+could gain if you have a spell that can
+bring you back from the dead suddenly
+you are gambling with house money you
+are not risking your life to go forth
+and get treasure and so you can see some
+of the limitations that are placed on
+the spell in terms of the timeline you
+have to have the body in order to raise
+them and so forth uncertainty is also
+part of this unless you have the highest
+level of constitution you have to make a
+percentile dice check against what would
+later become system shock role to see if
+the race dead succeeded and if it didn't
+you didn't come back from the dead in
+this era of dedicated play where a lot
+of people just play with straight up
+script immunity where no one is really
+allowed to die and death isn't really
+something that's on the line as stakes
+ever because the expectation is that pcs
+don't die and if it does something
+horribly wrong has happened it's hard to
+kind of put yourself back in the mindset
+where rey's dead is kind of the
+exception to the rule you aren't really
+expected to have it until you are the
+most powerful characters imaginable and
+for most people death is the end and
+death is a real risk that you that you
+run every time you sit down at the table
+avian overlord mentions that ray's dead
+does not have any diamond material
+component no gold piece cost to the
+spell that's absolutely true there's no
+there's actually no physical components
+for spell casting or any other
+components for spell casting in od those
+are all later editions uh history prof
+also mentions the recovery time after
+being raised you have to get back to
+their body quickly and even if you do
+raise them back up you can't just
+immediately hop back into adventuring if
+someone dies you are still done with
+that expedition you need to get them out
+of the dungeon get a raised dead spell
+on them and then they're done for a
+couple of weeks which depending on how
+time was being handled might mean that
+the player actually couldn't play that
+character in the real world for weeks
+and would have to roll up a new
+character anyways and so and this is one
+of the reasons why people would have
+multiple characters finish four mentions
+you gotta have a binder full of
+characters no telling how fast you'll go
+through them that is absolutely true
+when i was running od and d for fenix
+for among others players would
+frequently be would be like okay well on
+a bit of a downtime i'm gonna roll up my
+next character and just have that sucked
+away for when the inevitable happens to
+me this is actually a really good
+insurance policy because by murphy's law
+once you had rolled up your replacement
+character your current character would
+survive forever commune a spell which
+puts the cleric in touch with the powers
+above and asks for help in the form of
+answers to three questions communing is
+allowed but once each week maximum
+referee's option is to making it less
+frequent veracity and knowledge should
+be near total once per year a special
+communion should be allowed wherein the
+cleric can ask double the number of
+questions so the commune spell has to be
+specifically viewed in the context of
+the magic users contact other planes and
+the big difference here is is that the
+clerics commune spell has no risk of
+insanity and really in this addition no
+risk the answers will be incorrect
+either but you have to balance that in
+some way and so you can see they
+basically say you can't do it that often
+harlequin mentions that they love the
+idea that the magic users are stealing
+wisdom that is fully bestowed on clerics
+that is a really interesting
+interpretation i've always thought of it
+as being more than
+the the the higher powers that the
+wizards are reaching out to are a little
+bit more lovecraftian than the ones that
+the clerics are reaching out to but i do
+like that idea that they're all reaching
+out to the same gods it's just clerics
+actually have a decent relationship with
+them insects plague we have another 10
+commandments inspired cleric spell by
+means of this spell the cleric calls to
+him a vast cloud of insects and sends
+them where he will within the spell
+range they will obscure vision and drive
+creatures with less than three hit ice
+off in route again you can see the
+combat application the dimensions of
+this insect plague are 36 square inches
+they last for one game day they have a
+range of 48 inches and note this spell
+is effective only above ground create
+food a spell with which the cleric
+creates sustenance sufficient for a
+party of a dozen for one game day the
+quantity doubles for every level above
+eighth that the cleric has obtained note
+there are anti-clerics listed below who
+have similar powers to clerics those
+clerical spells underlined on the table
+for clerical spells have a reverse
+effect all others functioning as noted
+the chief exception is the raised dead
+spell which becomes actually forgotten
+that rey's dead alone has an explanation
+of what the reversed spell does so we'll
+get to that just one sec so create food
+same thing about create water you can
+see how much like create foods like one
+of the most powerful things you can ever
+do in the game because it completely
+removes the expedition resource game
+from play once you can access that spell
+the reverse version of rey's dead is
+finger of death instead of raising the
+dead this spell creates a death ray
+which will kill any creature unless a
+saving throw is made when applicable
+range 12 inches a cleric type may use
+this spell in a life or death situation
+but misuse will immediately turn them
+into an anti-cleric so now we have yet
+another term we have good clerics and
+evil clerics and now also anti-clerics
+which appear to be the same thing as
+evil clerics which are probably the same
+thing as chaos clerics and then they
+list anti-clerics and what they're doing
+here is they are listing the level names
+for evil clerics what i love about that
+is this this is literally just the names
+of clerics but with the word evil in
+front of it with the exception of the
+patriarch becoming an evil high priest
+instead all right we have finished uh
+finished the spells and now we are
+looking at this is in fact the the last
+rules page in the men and magic book
+here and we are looking at magic
+research both magic users and clerics
+may attempt to expand on the spells
+listed as applicable by class this is a
+matter of time and investment the level
+of the magic required to operate the
+spell determination by referee dictates
+the initial investment investment for
+first level is 2 000 gold pieces second
+level is 4 000 gold pieces third level
+etc etc the time required is one week
+per spell level for every amount equal
+to the basic investment spent there is a
+20 chance of success cumulative an
+investment of 10 000 gold pieces in
+order to develop a new first level spell
+for example has a 100 chance of success
+after one game week the level of the
+spell researched must be consistent with
+the level of the magic user or cleric
+involved i.e the character must be able
+to use spells equal to or above the
+level of the one he desires to create
+once a new spell is created the
+researcher may include it in the list
+appropriate to its level he may inform
+others of it thus enabling them to
+utilize it or he may keep it to himself
+don't have a lot to say about that
+except i think again like when the rule
+books are so short when you give half a
+page to something there's a real
+emphasis to that being a essential
+component of play and i think it also
+serves as a reminder too that some of
+the spells that we're seeing in this
+book didn't just come from arneson and
+gigax they came from arneson's game
+table and gigax's game table that came
+out of actual play book of spells
+characters who employ spells are assumed
+to acquire books containing the spells
+they can use one book for each level if
+a duplicate set of such books is desired
+the cost will be the same as the initial
+investment for research as listed above
+i.e 2000 4000 8000 etc loss of these
+books will require a replacement at the
+above expense and then we wrap things up
+with a picture of a hobgoblin there's
+one last page inside the first printing
+of the book here and it is in fact a
+catalog for tsr at the time this is also
+available from tactical studies rules
+cavaliers and roundheads english civil
+war miniature rules tri-color a
+napoleonic miniature rules that was
+coming soon you can order a set of
+multi-sided dice we were talking about
+this last stream about how new these
+polyhedral dice were tsr was in the
+business of reselling the ones they were
+not in the business of manufacturing
+them or sourcing them directly but they
+would order them from the californian
+company that was importing them from i
+believe japan and then resell themselves
+with of course markups each step along
+that path they also were selling
+miniature figures as you can see it's a
+complete line of screw beam miniatures
+including fantasy and n-gage and so what
+they're saying there is you can order
+from us as basically a distributor of
+those and you can combine that with your
+other orders and we will source those
+for you many new rule booklets to be
+released at approximately three-month
+intervals they are promising a space war
+game rules these are none of these are
+role-playing roles obviously although
+some of them are going to be adapted
+towards that end but the space war game
+rules was an interesting kind of
+precursor to traveler they weren't
+role-playing rules but you did control a
+kind of like firefly type ship in space
+that would journey out and kind of
+explore planets and stuff i haven't
+actually had a chance to play it but i'm
+really interested about it uh napoleonic
+naval campaign rules naval orders of
+battle for the great age of sail the
+wild west campaign rules would become
+boot hill which was marketed as another
+early role-playing game the first
+edition of boot hill is actually a
+really interesting one to look at as
+well because it's kind of marketed as a
+dnd type game but it's also really clear
+that they hadn't quite figured out what
+made dnd unique what a role-playing game
+was and so that first edition of boot
+hill has some very interesting
+structures that we would not recognize
+today as being a role-playing game but
+you can kind of see how they were trying
+to figure this thing out we also have
+the ancient rules i don't know if
+anything became of that they say we pay
+postage on all booklets and dice add
+five percent for postage on miniature
+figure orders wisconsin residents must
+add four percent sales tax and then they
+give an address uh the same address
+where they said you could write for
+questions earlier in the book prints and
+dungeons and dragons so there's this
+print set where they dif all this
+wonderful amazing art like this piece
+here or that hobgoblin can be purchased
+as prints i've actually never seen any
+copies of these prints in the wild or
+what they may have looked like they were
+printed eight and a half by 11 inches
+they would have been larger than the
+size of these books these these books
+for od and d were actually six by niners
+and so would have been large-scale
+reproduction of this art you can see the
+the cost there and of course they're
+available from the same place as
+everything else from tactical studies
+rules at the time and then of course we
+also have well the final page of art
+there hanging out
+followed by our back cover and that will
+in fact wrap up men and magic volume one
+of the three booklets that were found in
+the original white box edition of dnd
+good gaming this is justin alexander
+i hope to see you
+at the table
+[Music]

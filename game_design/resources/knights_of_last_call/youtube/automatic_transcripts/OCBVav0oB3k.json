@@ -1,0 +1,5600 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:02,480",
+      "end_time": "00:00:05,440",
+      "text": "welcome back everyone to another episode"
+    },
+    {
+      "start_time": "00:00:04,400",
+      "end_time": "00:00:08,240",
+      "text": "of the nightlife"
+    },
+    {
+      "start_time": "00:00:05,440",
+      "end_time": "00:00:09,360",
+      "text": "i'm joined by bob nick and matt tim is"
+    },
+    {
+      "start_time": "00:00:08,240",
+      "end_time": "00:00:11,360",
+      "text": "out today"
+    },
+    {
+      "start_time": "00:00:09,360",
+      "end_time": "00:00:12,719",
+      "text": "so today i thought we would talk about a"
+    },
+    {
+      "start_time": "00:00:11,360",
+      "end_time": "00:00:14,400",
+      "text": "controversial topic which has been"
+    },
+    {
+      "start_time": "00:00:12,719",
+      "end_time": "00:00:17,039",
+      "text": "making its rounds in the role-playing"
+    },
+    {
+      "start_time": "00:00:14,400",
+      "end_time": "00:00:18,880",
+      "text": "game sphere and that's about this new"
+    },
+    {
+      "start_time": "00:00:17,039",
+      "end_time": "00:00:20,800",
+      "text": "version of tsr"
+    },
+    {
+      "start_time": "00:00:18,880",
+      "end_time": "00:00:22,480",
+      "text": "ernie gigax and some of the statements"
+    },
+    {
+      "start_time": "00:00:20,800",
+      "end_time": "00:00:24,480",
+      "text": "that have been made by him or his"
+    },
+    {
+      "start_time": "00:00:22,480",
+      "end_time": "00:00:28,000",
+      "text": "company on his behalf"
+    },
+    {
+      "start_time": "00:00:24,480",
+      "end_time": "00:00:29,920",
+      "text": "so as a sort of a brief overview tsr or"
+    },
+    {
+      "start_time": "00:00:28,000",
+      "end_time": "00:00:31,599",
+      "text": "tactical studies rules was the original"
+    },
+    {
+      "start_time": "00:00:29,920",
+      "end_time": "00:00:35,680",
+      "text": "game company created by"
+    },
+    {
+      "start_time": "00:00:31,599",
+      "end_time": "00:00:37,200",
+      "text": "gary gygax and tim cask back in 1974"
+    },
+    {
+      "start_time": "00:00:35,680",
+      "end_time": "00:00:39,200",
+      "text": "which they used to publish their brand"
+    },
+    {
+      "start_time": "00:00:37,200",
+      "end_time": "00:00:41,200",
+      "text": "new game dungeons and dragons"
+    },
+    {
+      "start_time": "00:00:39,200",
+      "end_time": "00:00:42,960",
+      "text": "they did so for a number of years gary"
+    },
+    {
+      "start_time": "00:00:41,200",
+      "end_time": "00:00:44,719",
+      "text": "gygax eventually was forced out of his"
+    },
+    {
+      "start_time": "00:00:42,960",
+      "end_time": "00:00:47,840",
+      "text": "own company and then that company"
+    },
+    {
+      "start_time": "00:00:44,719",
+      "end_time": "00:00:49,520",
+      "text": "later went on to be in financial trouble"
+    },
+    {
+      "start_time": "00:00:47,840",
+      "end_time": "00:00:51,280",
+      "text": "and was purchased by wizards of the"
+    },
+    {
+      "start_time": "00:00:49,520",
+      "end_time": "00:00:52,879",
+      "text": "coast who still own it and produce the"
+    },
+    {
+      "start_time": "00:00:51,280",
+      "end_time": "00:00:55,039",
+      "text": "license to this day"
+    },
+    {
+      "start_time": "00:00:52,879",
+      "end_time": "00:00:57,520",
+      "text": "and when that happened well the tsr name"
+    },
+    {
+      "start_time": "00:00:55,039",
+      "end_time": "00:01:00,160",
+      "text": "kind of faded into a non-existence"
+    },
+    {
+      "start_time": "00:00:57,520",
+      "end_time": "00:01:01,280",
+      "text": "a number of years passed and eventually"
+    },
+    {
+      "start_time": "00:01:00,160",
+      "end_time": "00:01:02,879",
+      "text": "ernie gygax"
+    },
+    {
+      "start_time": "00:01:01,280",
+      "end_time": "00:01:04,320",
+      "text": "his brother luke as well as some of"
+    },
+    {
+      "start_time": "00:01:02,879",
+      "end_time": "00:01:06,080",
+      "text": "their business partners"
+    },
+    {
+      "start_time": "00:01:04,320",
+      "end_time": "00:01:09,280",
+      "text": "bought the name and started producing"
+    },
+    {
+      "start_time": "00:01:06,080",
+      "end_time": "00:01:11,600",
+      "text": "some games under that tsr not moniker"
+    },
+    {
+      "start_time": "00:01:09,280",
+      "end_time": "00:01:13,520",
+      "text": "top secret being one of them so that's"
+    },
+    {
+      "start_time": "00:01:11,600",
+      "end_time": "00:01:16,240",
+      "text": "like tsr number two"
+    },
+    {
+      "start_time": "00:01:13,520",
+      "end_time": "00:01:17,200",
+      "text": "well i guess people are really bad about"
+    },
+    {
+      "start_time": "00:01:16,240",
+      "end_time": "00:01:20,560",
+      "text": "re-upping their"
+    },
+    {
+      "start_time": "00:01:17,200",
+      "end_time": "00:01:21,920",
+      "text": "copyrights because well about 10 or 11"
+    },
+    {
+      "start_time": "00:01:20,560",
+      "end_time": "00:01:22,880",
+      "text": "years later which brings us to right"
+    },
+    {
+      "start_time": "00:01:21,920",
+      "end_time": "00:01:25,680",
+      "text": "about now"
+    },
+    {
+      "start_time": "00:01:22,880",
+      "end_time": "00:01:26,560",
+      "text": "the tsr copyright and name mark had"
+    },
+    {
+      "start_time": "00:01:25,680",
+      "end_time": "00:01:29,040",
+      "text": "expired"
+    },
+    {
+      "start_time": "00:01:26,560",
+      "end_time": "00:01:29,680",
+      "text": "and it was bought again but by the same"
+    },
+    {
+      "start_time": "00:01:29,040",
+      "end_time": "00:01:32,079",
+      "text": "person"
+    },
+    {
+      "start_time": "00:01:29,680",
+      "end_time": "00:01:34,159",
+      "text": "well sort of it was bought by ernie"
+    },
+    {
+      "start_time": "00:01:32,079",
+      "end_time": "00:01:34,960",
+      "text": "gigax along with some new business"
+    },
+    {
+      "start_time": "00:01:34,159",
+      "end_time": "00:01:36,720",
+      "text": "associates"
+    },
+    {
+      "start_time": "00:01:34,960",
+      "end_time": "00:01:38,560",
+      "text": "which basically meant ernie kind of"
+    },
+    {
+      "start_time": "00:01:36,720",
+      "end_time": "00:01:40,400",
+      "text": "owned it with one group before but now"
+    },
+    {
+      "start_time": "00:01:38,560",
+      "end_time": "00:01:43,680",
+      "text": "he was just buying it just for himself"
+    },
+    {
+      "start_time": "00:01:40,400",
+      "end_time": "00:01:45,200",
+      "text": "so this is like tsr number three and to"
+    },
+    {
+      "start_time": "00:01:43,680",
+      "end_time": "00:01:48,399",
+      "text": "make it even more confusing"
+    },
+    {
+      "start_time": "00:01:45,200",
+      "end_time": "00:01:50,000",
+      "text": "like the original tsr-2 was at tsr games"
+    },
+    {
+      "start_time": "00:01:48,399",
+      "end_time": "00:01:53,200",
+      "text": "and the new one is at tsr"
+    },
+    {
+      "start_time": "00:01:50,000",
+      "end_time": "00:01:54,720",
+      "text": "underscore games right close enough well"
+    },
+    {
+      "start_time": "00:01:53,200",
+      "end_time": "00:01:55,439",
+      "text": "that's fine that's you know whatever and"
+    },
+    {
+      "start_time": "00:01:54,720",
+      "end_time": "00:01:57,040",
+      "text": "i think when i"
+    },
+    {
+      "start_time": "00:01:55,439",
+      "end_time": "00:01:59,119",
+      "text": "heard heard this news i was kind of"
+    },
+    {
+      "start_time": "00:01:57,040",
+      "end_time": "00:02:01,600",
+      "text": "excited because"
+    },
+    {
+      "start_time": "00:01:59,119",
+      "end_time": "00:02:02,799",
+      "text": "the old school renaissance or osr has"
+    },
+    {
+      "start_time": "00:02:01,600",
+      "end_time": "00:02:04,240",
+      "text": "been gaining a lot of steam over the"
+    },
+    {
+      "start_time": "00:02:02,799",
+      "end_time": "00:02:07,600",
+      "text": "last five to ten years"
+    },
+    {
+      "start_time": "00:02:04,240",
+      "end_time": "00:02:09,119",
+      "text": "osr is sort of modules and rule sets"
+    },
+    {
+      "start_time": "00:02:07,600",
+      "end_time": "00:02:10,319",
+      "text": "about playing dungeons and dragons back"
+    },
+    {
+      "start_time": "00:02:09,119",
+      "end_time": "00:02:12,400",
+      "text": "with the way it used to be"
+    },
+    {
+      "start_time": "00:02:10,319",
+      "end_time": "00:02:13,440",
+      "text": "very stripped down yeah we we introduced"
+    },
+    {
+      "start_time": "00:02:12,400",
+      "end_time": "00:02:15,920",
+      "text": "bob to uh"
+    },
+    {
+      "start_time": "00:02:13,440",
+      "end_time": "00:02:18,000",
+      "text": "it's not bad guys yeah it's a basic d bx"
+    },
+    {
+      "start_time": "00:02:15,920",
+      "end_time": "00:02:20,319",
+      "text": "1981 little fear of the mind"
+    },
+    {
+      "start_time": "00:02:18,000",
+      "end_time": "00:02:22,800",
+      "text": "yeah uh it was uh not menstrual no it"
+    },
+    {
+      "start_time": "00:02:20,319",
+      "end_time": "00:02:24,959",
+      "text": "was it was um yeah bx mentor basic"
+    },
+    {
+      "start_time": "00:02:22,800",
+      "end_time": "00:02:26,319",
+      "text": "it it was pretty cool i made a character"
+    },
+    {
+      "start_time": "00:02:24,959",
+      "end_time": "00:02:28,879",
+      "text": "in about five minutes versus"
+    },
+    {
+      "start_time": "00:02:26,319",
+      "end_time": "00:02:29,520",
+      "text": "three hours and uh man right into the"
+    },
+    {
+      "start_time": "00:02:28,879",
+      "end_time": "00:02:31,280",
+      "text": "game and"
+    },
+    {
+      "start_time": "00:02:29,520",
+      "end_time": "00:02:33,040",
+      "text": "just rolling with it it was it was quite"
+    },
+    {
+      "start_time": "00:02:31,280",
+      "end_time": "00:02:35,120",
+      "text": "exciting yeah and you know so there's a"
+    },
+    {
+      "start_time": "00:02:33,040",
+      "end_time": "00:02:36,000",
+      "text": "lot to like there and it it's a game uh"
+    },
+    {
+      "start_time": "00:02:35,120",
+      "end_time": "00:02:38,959",
+      "text": "it's a style"
+    },
+    {
+      "start_time": "00:02:36,000",
+      "end_time": "00:02:39,760",
+      "text": "of game that's more about uh thinking on"
+    },
+    {
+      "start_time": "00:02:38,959",
+      "end_time": "00:02:42,560",
+      "text": "your feet"
+    },
+    {
+      "start_time": "00:02:39,760",
+      "end_time": "00:02:43,519",
+      "text": "exploration it's not really about as"
+    },
+    {
+      "start_time": "00:02:42,560",
+      "end_time": "00:02:46,239",
+      "text": "much about"
+    },
+    {
+      "start_time": "00:02:43,519",
+      "end_time": "00:02:48,080",
+      "text": "die you know storytelling narratives"
+    },
+    {
+      "start_time": "00:02:46,239",
+      "end_time": "00:02:50,000",
+      "text": "villains arcs it's kind of more like"
+    },
+    {
+      "start_time": "00:02:48,080",
+      "end_time": "00:02:51,760",
+      "text": "going to a hole in the ground and you"
+    },
+    {
+      "start_time": "00:02:50,000",
+      "end_time": "00:02:54,000",
+      "text": "know sort of see if you can survive very"
+    },
+    {
+      "start_time": "00:02:51,760",
+      "end_time": "00:02:55,120",
+      "text": "sword in sandals conan the barbarian i"
+    },
+    {
+      "start_time": "00:02:54,000",
+      "end_time": "00:02:56,720",
+      "text": "want to live in a hole"
+    },
+    {
+      "start_time": "00:02:55,120",
+      "end_time": "00:02:58,640",
+      "text": "so it seemed like it was kind of a good"
+    },
+    {
+      "start_time": "00:02:56,720",
+      "end_time": "00:03:02,400",
+      "text": "thing on the paper on on paper but"
+    },
+    {
+      "start_time": "00:02:58,640",
+      "end_time": "00:03:04,720",
+      "text": "uh the company at tsr underscore games"
+    },
+    {
+      "start_time": "00:03:02,400",
+      "end_time": "00:03:06,400",
+      "text": "representing tsr number three we're not"
+    },
+    {
+      "start_time": "00:03:04,720",
+      "end_time": "00:03:08,159",
+      "text": "sure who owns their twitter account but"
+    },
+    {
+      "start_time": "00:03:06,400",
+      "end_time": "00:03:10,319",
+      "text": "they started making a series of tweets"
+    },
+    {
+      "start_time": "00:03:08,159",
+      "end_time": "00:03:13,120",
+      "text": "that kind of got progressively"
+    },
+    {
+      "start_time": "00:03:10,319",
+      "end_time": "00:03:14,560",
+      "text": "more and more suspect not progressive"
+    },
+    {
+      "start_time": "00:03:13,120",
+      "end_time": "00:03:16,159",
+      "text": "and problematic"
+    },
+    {
+      "start_time": "00:03:14,560",
+      "end_time": "00:03:17,120",
+      "text": "and you know to make a long story short"
+    },
+    {
+      "start_time": "00:03:16,159",
+      "end_time": "00:03:18,239",
+      "text": "so we can kind of get into the"
+    },
+    {
+      "start_time": "00:03:17,120",
+      "end_time": "00:03:20,319",
+      "text": "conversation"
+    },
+    {
+      "start_time": "00:03:18,239",
+      "end_time": "00:03:21,760",
+      "text": "there has been a huge trend in the last"
+    },
+    {
+      "start_time": "00:03:20,319",
+      "end_time": "00:03:23,760",
+      "text": "five to ten years and i've seen it"
+    },
+    {
+      "start_time": "00:03:21,760",
+      "end_time": "00:03:26,080",
+      "text": "probably a lot more than most because"
+    },
+    {
+      "start_time": "00:03:23,760",
+      "end_time": "00:03:27,280",
+      "text": "i've always been very involved with uh"
+    },
+    {
+      "start_time": "00:03:26,080",
+      "end_time": "00:03:29,519",
+      "text": "organizations like"
+    },
+    {
+      "start_time": "00:03:27,280",
+      "end_time": "00:03:31,200",
+      "text": "indie games on demand which runs at"
+    },
+    {
+      "start_time": "00:03:29,519",
+      "end_time": "00:03:32,239",
+      "text": "origins and gen con and some of the"
+    },
+    {
+      "start_time": "00:03:31,200",
+      "end_time": "00:03:34,480",
+      "text": "other bigger games"
+    },
+    {
+      "start_time": "00:03:32,239",
+      "end_time": "00:03:36,239",
+      "text": "where indie game developers uh sort of"
+    },
+    {
+      "start_time": "00:03:34,480",
+      "end_time": "00:03:37,280",
+      "text": "get a chance to play test and beta test"
+    },
+    {
+      "start_time": "00:03:36,239",
+      "end_time": "00:03:39,360",
+      "text": "their rules"
+    },
+    {
+      "start_time": "00:03:37,280",
+      "end_time": "00:03:41,200",
+      "text": "uh popular you know game engines that"
+    },
+    {
+      "start_time": "00:03:39,360",
+      "end_time": "00:03:42,480",
+      "text": "people play today like dungeon world and"
+    },
+    {
+      "start_time": "00:03:41,200",
+      "end_time": "00:03:46,239",
+      "text": "blaze in the dark kind of"
+    },
+    {
+      "start_time": "00:03:42,480",
+      "end_time": "00:03:47,840",
+      "text": "rose up in those areas and those gaming"
+    },
+    {
+      "start_time": "00:03:46,239",
+      "end_time": "00:03:50,879",
+      "text": "spaces have always been very"
+    },
+    {
+      "start_time": "00:03:47,840",
+      "end_time": "00:03:52,640",
+      "text": "very very inclusionary um and"
+    },
+    {
+      "start_time": "00:03:50,879",
+      "end_time": "00:03:53,840",
+      "text": "you know long before it became a thing"
+    },
+    {
+      "start_time": "00:03:52,640",
+      "end_time": "00:03:54,720",
+      "text": "to be on twitter and to put your"
+    },
+    {
+      "start_time": "00:03:53,840",
+      "end_time": "00:03:56,720",
+      "text": "pronouns"
+    },
+    {
+      "start_time": "00:03:54,720",
+      "end_time": "00:03:58,560",
+      "text": "like you know if you were a role player"
+    },
+    {
+      "start_time": "00:03:56,720",
+      "end_time": "00:04:00,799",
+      "text": "especially an indie role player"
+    },
+    {
+      "start_time": "00:03:58,560",
+      "end_time": "00:04:01,920",
+      "text": "you were very very used to seeing you"
+    },
+    {
+      "start_time": "00:04:00,799",
+      "end_time": "00:04:03,840",
+      "text": "know name tags that"
+    },
+    {
+      "start_time": "00:04:01,920",
+      "end_time": "00:04:05,120",
+      "text": "showed people's preferred pronouns and"
+    },
+    {
+      "start_time": "00:04:03,840",
+      "end_time": "00:04:06,480",
+      "text": "it was all just in the matter of"
+    },
+    {
+      "start_time": "00:04:05,120",
+      "end_time": "00:04:08,000",
+      "text": "inclusion and we've"
+    },
+    {
+      "start_time": "00:04:06,480",
+      "end_time": "00:04:10,239",
+      "text": "talked about this before but"
+    },
+    {
+      "start_time": "00:04:08,000",
+      "end_time": "00:04:14,000",
+      "text": "role-playing games magic the gathering"
+    },
+    {
+      "start_time": "00:04:10,239",
+      "end_time": "00:04:15,360",
+      "text": "uh i think they naturally reach out to"
+    },
+    {
+      "start_time": "00:04:14,000",
+      "end_time": "00:04:17,359",
+      "text": "people who feel like they are in"
+    },
+    {
+      "start_time": "00:04:15,360",
+      "end_time": "00:04:20,479",
+      "text": "marginalized or excluded communities"
+    },
+    {
+      "start_time": "00:04:17,359",
+      "end_time": "00:04:21,199",
+      "text": "and you know the lgbtqia community is"
+    },
+    {
+      "start_time": "00:04:20,479",
+      "end_time": "00:04:23,040",
+      "text": "one that"
+    },
+    {
+      "start_time": "00:04:21,199",
+      "end_time": "00:04:25,360",
+      "text": "i think has really embraced role-playing"
+    },
+    {
+      "start_time": "00:04:23,040",
+      "end_time": "00:04:27,360",
+      "text": "games and game companies"
+    },
+    {
+      "start_time": "00:04:25,360",
+      "end_time": "00:04:28,880",
+      "text": "both out of the goodness of their hearts"
+    },
+    {
+      "start_time": "00:04:27,360",
+      "end_time": "00:04:29,919",
+      "text": "as well as the goodness of their"
+    },
+    {
+      "start_time": "00:04:28,880",
+      "end_time": "00:04:31,600",
+      "text": "financial statements"
+    },
+    {
+      "start_time": "00:04:29,919",
+      "end_time": "00:04:32,639",
+      "text": "have responded to that and you know"
+    },
+    {
+      "start_time": "00:04:31,600",
+      "end_time": "00:04:34,000",
+      "text": "wizards of the coast have gotten a lot"
+    },
+    {
+      "start_time": "00:04:32,639",
+      "end_time": "00:04:34,560",
+      "text": "of flack for being maybe a little bit"
+    },
+    {
+      "start_time": "00:04:34,000",
+      "end_time": "00:04:36,240",
+      "text": "slower"
+    },
+    {
+      "start_time": "00:04:34,560",
+      "end_time": "00:04:38,320",
+      "text": "to react to it but game companies like"
+    },
+    {
+      "start_time": "00:04:36,240",
+      "end_time": "00:04:39,280",
+      "text": "paizo have put a lot of stuff into their"
+    },
+    {
+      "start_time": "00:04:38,320",
+      "end_time": "00:04:42,400",
+      "text": "games that are"
+    },
+    {
+      "start_time": "00:04:39,280",
+      "end_time": "00:04:43,120",
+      "text": "very much making a attempt to be mindful"
+    },
+    {
+      "start_time": "00:04:42,400",
+      "end_time": "00:04:44,560",
+      "text": "towards"
+    },
+    {
+      "start_time": "00:04:43,120",
+      "end_time": "00:04:45,680",
+      "text": "being more politically correct and being"
+    },
+    {
+      "start_time": "00:04:44,560",
+      "end_time": "00:04:47,040",
+      "text": "more respectful and being more"
+    },
+    {
+      "start_time": "00:04:45,680",
+      "end_time": "00:04:50,880",
+      "text": "inclusionary"
+    },
+    {
+      "start_time": "00:04:47,040",
+      "end_time": "00:04:53,360",
+      "text": "so it seems as if this new tsr games"
+    },
+    {
+      "start_time": "00:04:50,880",
+      "end_time": "00:04:54,800",
+      "text": "maybe took a different tack it started"
+    },
+    {
+      "start_time": "00:04:53,360",
+      "end_time": "00:04:57,360",
+      "text": "off with simple tweets like"
+    },
+    {
+      "start_time": "00:04:54,800",
+      "end_time": "00:04:58,720",
+      "text": "let's keep fantasy fantasy right let's"
+    },
+    {
+      "start_time": "00:04:57,360",
+      "end_time": "00:04:59,919",
+      "text": "keep politics"
+    },
+    {
+      "start_time": "00:04:58,720",
+      "end_time": "00:05:01,280",
+      "text": "out of our games that's kind of what"
+    },
+    {
+      "start_time": "00:04:59,919",
+      "end_time": "00:05:02,000",
+      "text": "they were saying i mean that sounds good"
+    },
+    {
+      "start_time": "00:05:01,280",
+      "end_time": "00:05:04,160",
+      "text": "sounds good to me"
+    },
+    {
+      "start_time": "00:05:02,000",
+      "end_time": "00:05:05,280",
+      "text": "face value sounds good absolutely and"
+    },
+    {
+      "start_time": "00:05:04,160",
+      "end_time": "00:05:08,240",
+      "text": "then it"
+    },
+    {
+      "start_time": "00:05:05,280",
+      "end_time": "00:05:09,199",
+      "text": "started in where uh i should have"
+    },
+    {
+      "start_time": "00:05:08,240",
+      "end_time": "00:05:10,720",
+      "text": "stopped while they were ahead"
+    },
+    {
+      "start_time": "00:05:09,199",
+      "end_time": "00:05:12,320",
+      "text": "you know they started basically saying"
+    },
+    {
+      "start_time": "00:05:10,720",
+      "end_time": "00:05:13,440",
+      "text": "that like look you know we're going to"
+    },
+    {
+      "start_time": "00:05:12,320",
+      "end_time": "00:05:15,840",
+      "text": "run the games the way that"
+    },
+    {
+      "start_time": "00:05:13,440",
+      "end_time": "00:05:16,639",
+      "text": "that they were meant to be run and if it"
+    },
+    {
+      "start_time": "00:05:15,840",
+      "end_time": "00:05:19,600",
+      "text": "defends you"
+    },
+    {
+      "start_time": "00:05:16,639",
+      "end_time": "00:05:20,960",
+      "text": "don't play him and there were a lot of"
+    },
+    {
+      "start_time": "00:05:19,600",
+      "end_time": "00:05:22,479",
+      "text": "really bad takes and"
+    },
+    {
+      "start_time": "00:05:20,960",
+      "end_time": "00:05:24,320",
+      "text": "and a lot of this company twitter was"
+    },
+    {
+      "start_time": "00:05:22,479",
+      "end_time": "00:05:25,759",
+      "text": "handled by i don't know who they were"
+    },
+    {
+      "start_time": "00:05:24,320",
+      "end_time": "00:05:27,520",
+      "text": "handling it by but"
+    },
+    {
+      "start_time": "00:05:25,759",
+      "end_time": "00:05:29,680",
+      "text": "eventually someone came to them and said"
+    },
+    {
+      "start_time": "00:05:27,520",
+      "end_time": "00:05:31,440",
+      "text": "look just make it simple just so there's"
+    },
+    {
+      "start_time": "00:05:29,680",
+      "end_time": "00:05:33,759",
+      "text": "no ambiguity just say"
+    },
+    {
+      "start_time": "00:05:31,440",
+      "end_time": "00:05:35,199",
+      "text": "trans women are women trans men are men"
+    },
+    {
+      "start_time": "00:05:33,759",
+      "end_time": "00:05:37,199",
+      "text": "and their response was you are"
+    },
+    {
+      "start_time": "00:05:35,199",
+      "end_time": "00:05:40,720",
+      "text": "disgusting"
+    },
+    {
+      "start_time": "00:05:37,199",
+      "end_time": "00:05:43,280",
+      "text": "well i could okay then"
+    },
+    {
+      "start_time": "00:05:40,720",
+      "end_time": "00:05:44,639",
+      "text": "in a crazy turn of events they the last"
+    },
+    {
+      "start_time": "00:05:43,280",
+      "end_time": "00:05:46,639",
+      "text": "tweet i saw from this"
+    },
+    {
+      "start_time": "00:05:44,639",
+      "end_time": "00:05:48,560",
+      "text": "at tsr underscore games that's tsr"
+    },
+    {
+      "start_time": "00:05:46,639",
+      "end_time": "00:05:50,080",
+      "text": "number three basically said hey"
+    },
+    {
+      "start_time": "00:05:48,560",
+      "end_time": "00:05:51,600",
+      "text": "the our marketing manager the person who"
+    },
+    {
+      "start_time": "00:05:50,080",
+      "end_time": "00:05:52,479",
+      "text": "was running this account has been fired"
+    },
+    {
+      "start_time": "00:05:51,600",
+      "end_time": "00:05:54,560",
+      "text": "and"
+    },
+    {
+      "start_time": "00:05:52,479",
+      "end_time": "00:05:56,160",
+      "text": "uh we are getting a new person involved"
+    },
+    {
+      "start_time": "00:05:54,560",
+      "end_time": "00:05:57,759",
+      "text": "how how big cause they were starting to"
+    },
+    {
+      "start_time": "00:05:56,160",
+      "end_time": "00:05:59,520",
+      "text": "lose well it's crazy they have a"
+    },
+    {
+      "start_time": "00:05:57,759",
+      "end_time": "00:06:01,199",
+      "text": "marketing manager they got a ton of"
+    },
+    {
+      "start_time": "00:05:59,520",
+      "end_time": "00:06:02,639",
+      "text": "replies where from people were like"
+    },
+    {
+      "start_time": "00:06:01,199",
+      "end_time": "00:06:05,039",
+      "text": "you guys suck just when i was starting"
+    },
+    {
+      "start_time": "00:06:02,639",
+      "end_time": "00:06:06,800",
+      "text": "to respect you wait on the new tweet"
+    },
+    {
+      "start_time": "00:06:05,039",
+      "end_time": "00:06:08,160",
+      "text": "yeah because there were some people that"
+    },
+    {
+      "start_time": "00:06:06,800",
+      "end_time": "00:06:09,840",
+      "text": "were mad they're like you gave in"
+    },
+    {
+      "start_time": "00:06:08,160",
+      "end_time": "00:06:11,199",
+      "text": "to the woke leftists well i don't like"
+    },
+    {
+      "start_time": "00:06:09,840",
+      "end_time": "00:06:14,479",
+      "text": "giving into wokism"
+    },
+    {
+      "start_time": "00:06:11,199",
+      "end_time": "00:06:15,759",
+      "text": "but i mean it doesn't seem like they"
+    },
+    {
+      "start_time": "00:06:14,479",
+      "end_time": "00:06:17,840",
+      "text": "were on the right route"
+    },
+    {
+      "start_time": "00:06:15,759",
+      "end_time": "00:06:18,800",
+      "text": "so i i think it's not respectful at all"
+    },
+    {
+      "start_time": "00:06:17,840",
+      "end_time": "00:06:19,840",
+      "text": "like it is different"
+    },
+    {
+      "start_time": "00:06:18,800",
+      "end_time": "00:06:22,240",
+      "text": "there's a different scene being like"
+    },
+    {
+      "start_time": "00:06:19,840",
+      "end_time": "00:06:24,240",
+      "text": "anti-woke because they're just forcing"
+    },
+    {
+      "start_time": "00:06:22,240",
+      "end_time": "00:06:26,080",
+      "text": "propaganda down people's throats and"
+    },
+    {
+      "start_time": "00:06:24,240",
+      "end_time": "00:06:27,680",
+      "text": "just being respectful to a person"
+    },
+    {
+      "start_time": "00:06:26,080",
+      "end_time": "00:06:30,000",
+      "text": "well and i so i thought the conversation"
+    },
+    {
+      "start_time": "00:06:27,680",
+      "end_time": "00:06:31,440",
+      "text": "today should be what you know and"
+    },
+    {
+      "start_time": "00:06:30,000",
+      "end_time": "00:06:34,080",
+      "text": "you know something that i know that i've"
+    },
+    {
+      "start_time": "00:06:31,440",
+      "end_time": "00:06:36,479",
+      "text": "personally kind of you know"
+    },
+    {
+      "start_time": "00:06:34,080",
+      "end_time": "00:06:37,600",
+      "text": "struggled with is for example in"
+    },
+    {
+      "start_time": "00:06:36,479",
+      "end_time": "00:06:39,280",
+      "text": "dungeons and dragons"
+    },
+    {
+      "start_time": "00:06:37,600",
+      "end_time": "00:06:40,639",
+      "text": "there's been a large push towards sort"
+    },
+    {
+      "start_time": "00:06:39,280",
+      "end_time": "00:06:43,120",
+      "text": "of eliminating"
+    },
+    {
+      "start_time": "00:06:40,639",
+      "end_time": "00:06:43,840",
+      "text": "uh you know classic monsters like the"
+    },
+    {
+      "start_time": "00:06:43,120",
+      "end_time": "00:06:45,360",
+      "text": "orc"
+    },
+    {
+      "start_time": "00:06:43,840",
+      "end_time": "00:06:47,280",
+      "text": "and sort of removing some of the"
+    },
+    {
+      "start_time": "00:06:45,360",
+      "end_time": "00:06:48,000",
+      "text": "negative or evil stereotypes about them"
+    },
+    {
+      "start_time": "00:06:47,280",
+      "end_time": "00:06:49,919",
+      "text": "because"
+    },
+    {
+      "start_time": "00:06:48,000",
+      "end_time": "00:06:52,240",
+      "text": "you know some people felt like that is a"
+    },
+    {
+      "start_time": "00:06:49,919",
+      "end_time": "00:06:54,639",
+      "text": "an attack on indigenous people or"
+    },
+    {
+      "start_time": "00:06:52,240",
+      "end_time": "00:06:56,240",
+      "text": "you know people of of uh"
+    },
+    {
+      "start_time": "00:06:54,639",
+      "end_time": "00:06:59,199",
+      "text": "african-american descent or"
+    },
+    {
+      "start_time": "00:06:56,240",
+      "end_time": "00:07:00,720",
+      "text": "any number of of minorities um i don't"
+    },
+    {
+      "start_time": "00:06:59,199",
+      "end_time": "00:07:01,599",
+      "text": "know that i felt that way but i also"
+    },
+    {
+      "start_time": "00:07:00,720",
+      "end_time": "00:07:03,599",
+      "text": "know that i'm not"
+    },
+    {
+      "start_time": "00:07:01,599",
+      "end_time": "00:07:04,880",
+      "text": "the best expert to weigh in on that but"
+    },
+    {
+      "start_time": "00:07:03,599",
+      "end_time": "00:07:08,240",
+      "text": "i guess the question is"
+    },
+    {
+      "start_time": "00:07:04,880",
+      "end_time": "00:07:11,520",
+      "text": "how much should politics be"
+    },
+    {
+      "start_time": "00:07:08,240",
+      "end_time": "00:07:14,479",
+      "text": "a part of role-playing games um zero"
+    },
+    {
+      "start_time": "00:07:11,520",
+      "end_time": "00:07:16,639",
+      "text": "so you think zero yeah i think zero but"
+    },
+    {
+      "start_time": "00:07:14,479",
+      "end_time": "00:07:19,360",
+      "text": "i also don't think that you know"
+    },
+    {
+      "start_time": "00:07:16,639",
+      "end_time": "00:07:20,080",
+      "text": "treating people as you know the the"
+    },
+    {
+      "start_time": "00:07:19,360",
+      "end_time": "00:07:22,080",
+      "text": "gender that they"
+    },
+    {
+      "start_time": "00:07:20,080",
+      "end_time": "00:07:23,199",
+      "text": "they present as is politics that's just"
+    },
+    {
+      "start_time": "00:07:22,080",
+      "end_time": "00:07:25,520",
+      "text": "that i'm saying there's good"
+    },
+    {
+      "start_time": "00:07:23,199",
+      "end_time": "00:07:26,240",
+      "text": "good well-being to being respectful well"
+    },
+    {
+      "start_time": "00:07:25,520",
+      "end_time": "00:07:27,680",
+      "text": "okay yeah"
+    },
+    {
+      "start_time": "00:07:26,240",
+      "end_time": "00:07:30,000",
+      "text": "and let me be devil's advocate here i'll"
+    },
+    {
+      "start_time": "00:07:27,680",
+      "end_time": "00:07:31,919",
+      "text": "be moderate just to be clear i'm i'm"
+    },
+    {
+      "start_time": "00:07:30,000",
+      "end_time": "00:07:33,520",
+      "text": "i'm very progressive right my"
+    },
+    {
+      "start_time": "00:07:31,919",
+      "end_time": "00:07:35,520",
+      "text": "girlfriend's non-binary so"
+    },
+    {
+      "start_time": "00:07:33,520",
+      "end_time": "00:07:36,720",
+      "text": "yeah well and to be i mean i'm the most"
+    },
+    {
+      "start_time": "00:07:35,520",
+      "end_time": "00:07:37,360",
+      "text": "probably conservative person at this"
+    },
+    {
+      "start_time": "00:07:36,720",
+      "end_time": "00:07:39,199",
+      "text": "table"
+    },
+    {
+      "start_time": "00:07:37,360",
+      "end_time": "00:07:40,960",
+      "text": "yeah so i would agree with that but let"
+    },
+    {
+      "start_time": "00:07:39,199",
+      "end_time": "00:07:42,800",
+      "text": "me let me counter with i say this"
+    },
+    {
+      "start_time": "00:07:40,960",
+      "end_time": "00:07:44,560",
+      "text": "do you think it is a role-playing games"
+    },
+    {
+      "start_time": "00:07:42,800",
+      "end_time": "00:07:45,120",
+      "text": "book so let's use pathfinder as an"
+    },
+    {
+      "start_time": "00:07:44,560",
+      "end_time": "00:07:46,479",
+      "text": "example"
+    },
+    {
+      "start_time": "00:07:45,120",
+      "end_time": "00:07:48,080",
+      "text": "bob you were telling us about a tweet"
+    },
+    {
+      "start_time": "00:07:46,479",
+      "end_time": "00:07:49,039",
+      "text": "you read yeah someone bought a"
+    },
+    {
+      "start_time": "00:07:48,080",
+      "end_time": "00:07:50,479",
+      "text": "pathfinder book"
+    },
+    {
+      "start_time": "00:07:49,039",
+      "end_time": "00:07:51,919",
+      "text": "again i saw his tweet and i saw a bunch"
+    },
+    {
+      "start_time": "00:07:50,479",
+      "end_time": "00:07:52,879",
+      "text": "of people even known at respond to which"
+    },
+    {
+      "start_time": "00:07:51,919",
+      "end_time": "00:07:54,960",
+      "text": "i agreed with"
+    },
+    {
+      "start_time": "00:07:52,879",
+      "end_time": "00:07:55,919",
+      "text": "uh he was like bought the bought the"
+    },
+    {
+      "start_time": "00:07:54,960",
+      "end_time": "00:07:57,599",
+      "text": "book and then they were talking about"
+    },
+    {
+      "start_time": "00:07:55,919",
+      "end_time": "00:07:59,440",
+      "text": "using people's proper pronouns"
+    },
+    {
+      "start_time": "00:07:57,599",
+      "end_time": "00:08:00,639",
+      "text": "and you know the right way to play you"
+    },
+    {
+      "start_time": "00:07:59,440",
+      "end_time": "00:08:01,280",
+      "text": "know being kind to people and he was"
+    },
+    {
+      "start_time": "00:08:00,639",
+      "end_time": "00:08:03,039",
+      "text": "like"
+    },
+    {
+      "start_time": "00:08:01,280",
+      "end_time": "00:08:04,479",
+      "text": "disgusting i'm returning this book right"
+    },
+    {
+      "start_time": "00:08:03,039",
+      "end_time": "00:08:06,400",
+      "text": "away i'm like"
+    },
+    {
+      "start_time": "00:08:04,479",
+      "end_time": "00:08:07,599",
+      "text": "uh sounds like that that snowflake was"
+    },
+    {
+      "start_time": "00:08:06,400",
+      "end_time": "00:08:10,560",
+      "text": "offended well"
+    },
+    {
+      "start_time": "00:08:07,599",
+      "end_time": "00:08:11,440",
+      "text": "that's funny yeah exactly um but yeah i"
+    },
+    {
+      "start_time": "00:08:10,560",
+      "end_time": "00:08:13,120",
+      "text": "i was kind of like"
+    },
+    {
+      "start_time": "00:08:11,440",
+      "end_time": "00:08:14,639",
+      "text": "well what i don't know what you expected"
+    },
+    {
+      "start_time": "00:08:13,120",
+      "end_time": "00:08:15,199",
+      "text": "first when you bought a fantasy book but"
+    },
+    {
+      "start_time": "00:08:14,639",
+      "end_time": "00:08:17,360",
+      "text": "anyway"
+    },
+    {
+      "start_time": "00:08:15,199",
+      "end_time": "00:08:18,479",
+      "text": "um yeah so more yeah if you want to"
+    },
+    {
+      "start_time": "00:08:17,360",
+      "end_time": "00:08:20,240",
+      "text": "return the book good i mean people were"
+    },
+    {
+      "start_time": "00:08:18,479",
+      "end_time": "00:08:21,199",
+      "text": "going at him which i didn't like i mean"
+    },
+    {
+      "start_time": "00:08:20,240",
+      "end_time": "00:08:22,879",
+      "text": "that's his opinion"
+    },
+    {
+      "start_time": "00:08:21,199",
+      "end_time": "00:08:25,039",
+      "text": "or her opinion i didn't really catch who"
+    },
+    {
+      "start_time": "00:08:22,879",
+      "end_time": "00:08:27,520",
+      "text": "was tweeting it but um"
+    },
+    {
+      "start_time": "00:08:25,039",
+      "end_time": "00:08:28,720",
+      "text": "yeah i i i just like whatever i think i"
+    },
+    {
+      "start_time": "00:08:27,520",
+      "end_time": "00:08:30,240",
+      "text": "think that person's wrong"
+    },
+    {
+      "start_time": "00:08:28,720",
+      "end_time": "00:08:32,640",
+      "text": "yeah i think that's uh but i guess the"
+    },
+    {
+      "start_time": "00:08:30,240",
+      "end_time": "00:08:34,320",
+      "text": "question is does a company"
+    },
+    {
+      "start_time": "00:08:32,640",
+      "end_time": "00:08:35,599",
+      "text": "a company certainly has the right oh"
+    },
+    {
+      "start_time": "00:08:34,320",
+      "end_time": "00:08:36,640",
+      "text": "they think whatever whatever they want"
+    },
+    {
+      "start_time": "00:08:35,599",
+      "end_time": "00:08:37,919",
+      "text": "their book they're private"
+    },
+    {
+      "start_time": "00:08:36,640",
+      "end_time": "00:08:40,200",
+      "text": "right private company they can do"
+    },
+    {
+      "start_time": "00:08:37,919",
+      "end_time": "00:08:42,320",
+      "text": "whatever they want but do they have the"
+    },
+    {
+      "start_time": "00:08:40,200",
+      "end_time": "00:08:44,800",
+      "text": "responsibility"
+    },
+    {
+      "start_time": "00:08:42,320",
+      "end_time": "00:08:46,000",
+      "text": "i don't think they have to uh they i"
+    },
+    {
+      "start_time": "00:08:44,800",
+      "end_time": "00:08:47,519",
+      "text": "think they should"
+    },
+    {
+      "start_time": "00:08:46,000",
+      "end_time": "00:08:49,200",
+      "text": "just because i think well i think it's"
+    },
+    {
+      "start_time": "00:08:47,519",
+      "end_time": "00:08:50,480",
+      "text": "just respectful i think i mean"
+    },
+    {
+      "start_time": "00:08:49,200",
+      "end_time": "00:08:52,240",
+      "text": "you're playing with a group of people i"
+    },
+    {
+      "start_time": "00:08:50,480",
+      "end_time": "00:08:54,959",
+      "text": "mean in capitalism no"
+    },
+    {
+      "start_time": "00:08:52,240",
+      "end_time": "00:08:56,959",
+      "text": "because you would say that if if you"
+    },
+    {
+      "start_time": "00:08:54,959",
+      "end_time": "00:08:58,560",
+      "text": "don't like the way that they are"
+    },
+    {
+      "start_time": "00:08:56,959",
+      "end_time": "00:08:59,839",
+      "text": "what they're doing then you avoid them"
+    },
+    {
+      "start_time": "00:08:58,560",
+      "end_time": "00:09:00,720",
+      "text": "with your dollar and then they get out"
+    },
+    {
+      "start_time": "00:08:59,839",
+      "end_time": "00:09:02,880",
+      "text": "of business"
+    },
+    {
+      "start_time": "00:09:00,720",
+      "end_time": "00:09:04,800",
+      "text": "um i think capitalism is flawed"
+    },
+    {
+      "start_time": "00:09:02,880",
+      "end_time": "00:09:05,760",
+      "text": "obviously but uh like morality wise i"
+    },
+    {
+      "start_time": "00:09:04,800",
+      "end_time": "00:09:07,760",
+      "text": "think like what"
+    },
+    {
+      "start_time": "00:09:05,760",
+      "end_time": "00:09:09,200",
+      "text": "it doesn't take anything to be inclusive"
+    },
+    {
+      "start_time": "00:09:07,760",
+      "end_time": "00:09:09,680",
+      "text": "yes and that's fine and like if you're"
+    },
+    {
+      "start_time": "00:09:09,200",
+      "end_time": "00:09:11,120",
+      "text": "upset that"
+    },
+    {
+      "start_time": "00:09:09,680",
+      "end_time": "00:09:12,959",
+      "text": "there's a couple pages about talking"
+    },
+    {
+      "start_time": "00:09:11,120",
+      "end_time": "00:09:13,600",
+      "text": "about it you can just skip those pages"
+    },
+    {
+      "start_time": "00:09:12,959",
+      "end_time": "00:09:15,519",
+      "text": "well all right it's"
+    },
+    {
+      "start_time": "00:09:13,600",
+      "end_time": "00:09:17,519",
+      "text": "so easy it's it's so easy to just"
+    },
+    {
+      "start_time": "00:09:15,519",
+      "end_time": "00:09:18,959",
+      "text": "include people as opposed to being upset"
+    },
+    {
+      "start_time": "00:09:17,519",
+      "end_time": "00:09:20,640",
+      "text": "about trying to trust you so"
+    },
+    {
+      "start_time": "00:09:18,959",
+      "end_time": "00:09:22,160",
+      "text": "again i'll just be devil's advocate i"
+    },
+    {
+      "start_time": "00:09:20,640",
+      "end_time": "00:09:23,600",
+      "text": "don't get it so i don't understand"
+    },
+    {
+      "start_time": "00:09:22,160",
+      "end_time": "00:09:25,839",
+      "text": "i don't understand that perspective but"
+    },
+    {
+      "start_time": "00:09:23,600",
+      "end_time": "00:09:28,399",
+      "text": "yeah well i'll be devil's advocate again"
+    },
+    {
+      "start_time": "00:09:25,839",
+      "end_time": "00:09:29,360",
+      "text": "let's say that you sign your uh your kid"
+    },
+    {
+      "start_time": "00:09:28,399",
+      "end_time": "00:09:31,040",
+      "text": "up for"
+    },
+    {
+      "start_time": "00:09:29,360",
+      "end_time": "00:09:32,640",
+      "text": "soccer little league and then go to"
+    },
+    {
+      "start_time": "00:09:31,040",
+      "end_time": "00:09:34,720",
+      "text": "their practice yep okay"
+    },
+    {
+      "start_time": "00:09:32,640",
+      "end_time": "00:09:36,800",
+      "text": "it's an hour of soccer practice right so"
+    },
+    {
+      "start_time": "00:09:34,720",
+      "end_time": "00:09:39,120",
+      "text": "they can learn ball handling skills"
+    },
+    {
+      "start_time": "00:09:36,800",
+      "end_time": "00:09:40,240",
+      "text": "uh they can learn how to pass they can"
+    },
+    {
+      "start_time": "00:09:39,120",
+      "end_time": "00:09:44,080",
+      "text": "learn how to"
+    },
+    {
+      "start_time": "00:09:40,240",
+      "end_time": "00:09:46,880",
+      "text": "run plays but 10 minutes of that hour"
+    },
+    {
+      "start_time": "00:09:44,080",
+      "end_time": "00:09:48,000",
+      "text": "every week at soccer practice is"
+    },
+    {
+      "start_time": "00:09:46,880",
+      "end_time": "00:09:49,920",
+      "text": "dedicated to"
+    },
+    {
+      "start_time": "00:09:48,000",
+      "end_time": "00:09:51,440",
+      "text": "teaching them about inclusivity and"
+    },
+    {
+      "start_time": "00:09:49,920",
+      "end_time": "00:09:53,040",
+      "text": "diversity well that's right i'm gonna"
+    },
+    {
+      "start_time": "00:09:51,440",
+      "end_time": "00:09:54,800",
+      "text": "have a problem"
+    },
+    {
+      "start_time": "00:09:53,040",
+      "end_time": "00:09:56,959",
+      "text": "i don't think that's part of soccer well"
+    },
+    {
+      "start_time": "00:09:54,800",
+      "end_time": "00:09:57,600",
+      "text": "so but so again are we teaching them how"
+    },
+    {
+      "start_time": "00:09:56,959",
+      "end_time": "00:09:59,200",
+      "text": "to be good people"
+    },
+    {
+      "start_time": "00:09:57,600",
+      "end_time": "00:10:00,240",
+      "text": "because i agree that you should be"
+    },
+    {
+      "start_time": "00:09:59,200",
+      "end_time": "00:10:01,440",
+      "text": "inclusive and that should be done by"
+    },
+    {
+      "start_time": "00:10:00,240",
+      "end_time": "00:10:03,200",
+      "text": "your parents"
+    },
+    {
+      "start_time": "00:10:01,440",
+      "end_time": "00:10:04,959",
+      "text": "so if i may take a moment here and tell"
+    },
+    {
+      "start_time": "00:10:03,200",
+      "end_time": "00:10:06,240",
+      "text": "a story uh i"
+    },
+    {
+      "start_time": "00:10:04,959",
+      "end_time": "00:10:08,079",
+      "text": "originally i had that same sort of"
+    },
+    {
+      "start_time": "00:10:06,240",
+      "end_time": "00:10:09,680",
+      "text": "thought process which is like no like"
+    },
+    {
+      "start_time": "00:10:08,079",
+      "end_time": "00:10:12,880",
+      "text": "this i'm here for soccer"
+    },
+    {
+      "start_time": "00:10:09,680",
+      "end_time": "00:10:18,640",
+      "text": "my girlfriend plays roller derby uh"
+    },
+    {
+      "start_time": "00:10:12,880",
+      "end_time": "00:10:18,640",
+      "text": "shout out to the roller derby crew"
+    },
+    {
+      "start_time": "00:10:22,800",
+      "end_time": "00:10:26,079",
+      "text": "so i follow them on instagram and my"
+    },
+    {
+      "start_time": "00:10:24,560",
+      "end_time": "00:10:27,279",
+      "text": "girlfriend goes to the meeting so she"
+    },
+    {
+      "start_time": "00:10:26,079",
+      "end_time": "00:10:28,320",
+      "text": "tells me like every week what's her"
+    },
+    {
+      "start_time": "00:10:27,279",
+      "end_time": "00:10:31,360",
+      "text": "what's her roller derby name"
+    },
+    {
+      "start_time": "00:10:28,320",
+      "end_time": "00:10:34,640",
+      "text": "uh go go geronimo oh that's good"
+    },
+    {
+      "start_time": "00:10:31,360",
+      "end_time": "00:10:36,000",
+      "text": "um and uh they are more especially"
+    },
+    {
+      "start_time": "00:10:34,640",
+      "end_time": "00:10:37,920",
+      "text": "during quarantine here i've been more"
+    },
+    {
+      "start_time": "00:10:36,000",
+      "end_time": "00:10:40,720",
+      "text": "increasingly talking about like"
+    },
+    {
+      "start_time": "00:10:37,920",
+      "end_time": "00:10:41,839",
+      "text": "diver or inclusion and like uh diverse"
+    },
+    {
+      "start_time": "00:10:40,720",
+      "end_time": "00:10:42,160",
+      "text": "university and all that kind of stuff"
+    },
+    {
+      "start_time": "00:10:41,839",
+      "end_time": "00:10:43,519",
+      "text": "and"
+    },
+    {
+      "start_time": "00:10:42,160",
+      "end_time": "00:10:46,160",
+      "text": "originally i was like i don't understand"
+    },
+    {
+      "start_time": "00:10:43,519",
+      "end_time": "00:10:47,600",
+      "text": "like i i'm all aboard"
+    },
+    {
+      "start_time": "00:10:46,160",
+      "end_time": "00:10:49,279",
+      "text": "all aboard for all of those things like"
+    },
+    {
+      "start_time": "00:10:47,600",
+      "end_time": "00:10:52,320",
+      "text": "i fully support them but"
+    },
+    {
+      "start_time": "00:10:49,279",
+      "end_time": "00:10:55,600",
+      "text": "i um you know this is a um"
+    },
+    {
+      "start_time": "00:10:52,320",
+      "end_time": "00:10:57,279",
+      "text": "um uh roller derby club"
+    },
+    {
+      "start_time": "00:10:55,600",
+      "end_time": "00:10:58,880",
+      "text": "shouldn't our primary focus be on roller"
+    },
+    {
+      "start_time": "00:10:57,279",
+      "end_time": "00:11:00,320",
+      "text": "derby and i think the thing that was"
+    },
+    {
+      "start_time": "00:10:58,880",
+      "end_time": "00:11:01,200",
+      "text": "interesting perspective i hadn't thought"
+    },
+    {
+      "start_time": "00:11:00,320",
+      "end_time": "00:11:03,600",
+      "text": "of was that"
+    },
+    {
+      "start_time": "00:11:01,200",
+      "end_time": "00:11:04,640",
+      "text": "like we want to be more inclusive into"
+    },
+    {
+      "start_time": "00:11:03,600",
+      "end_time": "00:11:06,800",
+      "text": "those those"
+    },
+    {
+      "start_time": "00:11:04,640",
+      "end_time": "00:11:08,079",
+      "text": "those uh you know like into our normal"
+    },
+    {
+      "start_time": "00:11:06,800",
+      "end_time": "00:11:08,880",
+      "text": "neighborhood of people here in greater"
+    },
+    {
+      "start_time": "00:11:08,079",
+      "end_time": "00:11:10,399",
+      "text": "cleveland area"
+    },
+    {
+      "start_time": "00:11:08,880",
+      "end_time": "00:11:12,320",
+      "text": "and so we want to be able to make sure"
+    },
+    {
+      "start_time": "00:11:10,399",
+      "end_time": "00:11:14,160",
+      "text": "that we you know are"
+    },
+    {
+      "start_time": "00:11:12,320",
+      "end_time": "00:11:15,519",
+      "text": "inclusive to include more people so we"
+    },
+    {
+      "start_time": "00:11:14,160",
+      "end_time": "00:11:18,320",
+      "text": "make an effort of"
+    },
+    {
+      "start_time": "00:11:15,519",
+      "end_time": "00:11:18,959",
+      "text": "showing that off to be as as inclusive"
+    },
+    {
+      "start_time": "00:11:18,320",
+      "end_time": "00:11:20,800",
+      "text": "as we can"
+    },
+    {
+      "start_time": "00:11:18,959",
+      "end_time": "00:11:22,800",
+      "text": "even though it's not necessarily related"
+    },
+    {
+      "start_time": "00:11:20,800",
+      "end_time": "00:11:25,680",
+      "text": "to um"
+    },
+    {
+      "start_time": "00:11:22,800",
+      "end_time": "00:11:26,880",
+      "text": "why isn't that done at home well because"
+    },
+    {
+      "start_time": "00:11:25,680",
+      "end_time": "00:11:28,160",
+      "text": "if i'm teaching my kids that which is"
+    },
+    {
+      "start_time": "00:11:26,880",
+      "end_time": "00:11:29,200",
+      "text": "what my goal is to get more people to"
+    },
+    {
+      "start_time": "00:11:28,160",
+      "end_time": "00:11:31,920",
+      "text": "play roller derby"
+    },
+    {
+      "start_time": "00:11:29,200",
+      "end_time": "00:11:32,480",
+      "text": "and so if i if i just talk about roller"
+    },
+    {
+      "start_time": "00:11:31,920",
+      "end_time": "00:11:34,240",
+      "text": "derby"
+    },
+    {
+      "start_time": "00:11:32,480",
+      "end_time": "00:11:35,920",
+      "text": "i'll have some success but if i try to"
+    },
+    {
+      "start_time": "00:11:34,240",
+      "end_time": "00:11:36,880",
+      "text": "include the neighborhood and try to get"
+    },
+    {
+      "start_time": "00:11:35,920",
+      "end_time": "00:11:38,480",
+      "text": "people who are"
+    },
+    {
+      "start_time": "00:11:36,880",
+      "end_time": "00:11:40,079",
+      "text": "maybe not going to think of joining"
+    },
+    {
+      "start_time": "00:11:38,480",
+      "end_time": "00:11:41,680",
+      "text": "roller derby or get interested in it"
+    },
+    {
+      "start_time": "00:11:40,079",
+      "end_time": "00:11:43,040",
+      "text": "and i reach out to those okay well"
+    },
+    {
+      "start_time": "00:11:41,680",
+      "end_time": "00:11:44,320",
+      "text": "that's fair yeah and so and so let's see"
+    },
+    {
+      "start_time": "00:11:43,040",
+      "end_time": "00:11:44,720",
+      "text": "that's more marketing then yeah that's"
+    },
+    {
+      "start_time": "00:11:44,320",
+      "end_time": "00:11:46,079",
+      "text": "that's"
+    },
+    {
+      "start_time": "00:11:44,720",
+      "end_time": "00:11:47,680",
+      "text": "well and it's more of a marketing that's"
+    },
+    {
+      "start_time": "00:11:46,079",
+      "end_time": "00:11:48,880",
+      "text": "not inclusive that's just and that's"
+    },
+    {
+      "start_time": "00:11:47,680",
+      "end_time": "00:11:50,480",
+      "text": "important areas and like"
+    },
+    {
+      "start_time": "00:11:48,880",
+      "end_time": "00:11:52,160",
+      "text": "it can be two things it can't be but"
+    },
+    {
+      "start_time": "00:11:50,480",
+      "end_time": "00:11:53,760",
+      "text": "what i'm getting at is is you're"
+    },
+    {
+      "start_time": "00:11:52,160",
+      "end_time": "00:11:55,600",
+      "text": "you're trying to get more people to do"
+    },
+    {
+      "start_time": "00:11:53,760",
+      "end_time": "00:11:57,360",
+      "text": "what you're trying to do so it's your"
+    },
+    {
+      "start_time": "00:11:55,600",
+      "end_time": "00:11:59,040",
+      "text": "point of the capitalism i'm going to try"
+    },
+    {
+      "start_time": "00:11:57,360",
+      "end_time": "00:12:01,839",
+      "text": "and get more people to buy my product"
+    },
+    {
+      "start_time": "00:11:59,040",
+      "end_time": "00:12:03,279",
+      "text": "to come and attend my roller derby uh or"
+    },
+    {
+      "start_time": "00:12:01,839",
+      "end_time": "00:12:04,160",
+      "text": "join the group or join the team or"
+    },
+    {
+      "start_time": "00:12:03,279",
+      "end_time": "00:12:06,480",
+      "text": "whatever like that"
+    },
+    {
+      "start_time": "00:12:04,160",
+      "end_time": "00:12:07,440",
+      "text": "you're just trying to have people join"
+    },
+    {
+      "start_time": "00:12:06,480",
+      "end_time": "00:12:09,360",
+      "text": "okay so okay"
+    },
+    {
+      "start_time": "00:12:07,440",
+      "end_time": "00:12:10,720",
+      "text": "so taking a step back then do you think"
+    },
+    {
+      "start_time": "00:12:09,360",
+      "end_time": "00:12:12,160",
+      "text": "that a lot of the decisions that have"
+    },
+    {
+      "start_time": "00:12:10,720",
+      "end_time": "00:12:13,920",
+      "text": "been made by the companies"
+    },
+    {
+      "start_time": "00:12:12,160",
+      "end_time": "00:12:16,320",
+      "text": "let's say wizard of the coast and paizo"
+    },
+    {
+      "start_time": "00:12:13,920",
+      "end_time": "00:12:18,880",
+      "text": "are just about optics"
+    },
+    {
+      "start_time": "00:12:16,320",
+      "end_time": "00:12:19,680",
+      "text": "both i'd say a little bit so i mean you"
+    },
+    {
+      "start_time": "00:12:18,880",
+      "end_time": "00:12:22,240",
+      "text": "got to play"
+    },
+    {
+      "start_time": "00:12:19,680",
+      "end_time": "00:12:24,480",
+      "text": "you got to play what you're what you're"
+    },
+    {
+      "start_time": "00:12:22,240",
+      "end_time": "00:12:25,920",
+      "text": "seeing in real time right yeah so"
+    },
+    {
+      "start_time": "00:12:24,480",
+      "end_time": "00:12:27,839",
+      "text": "what's in the news now is a lot about"
+    },
+    {
+      "start_time": "00:12:25,920",
+      "end_time": "00:12:29,920",
+      "text": "inclusion a lot about that so"
+    },
+    {
+      "start_time": "00:12:27,839",
+      "end_time": "00:12:31,200",
+      "text": "i'd say but you got a lot of buzzwords"
+    },
+    {
+      "start_time": "00:12:29,920",
+      "end_time": "00:12:32,480",
+      "text": "right so you want to pick up those"
+    },
+    {
+      "start_time": "00:12:31,200",
+      "end_time": "00:12:34,000",
+      "text": "buzzwords you want to say"
+    },
+    {
+      "start_time": "00:12:32,480",
+      "end_time": "00:12:36,480",
+      "text": "hit with the time you want to stay with"
+    },
+    {
+      "start_time": "00:12:34,000",
+      "end_time": "00:12:38,720",
+      "text": "the progression of society what about"
+    },
+    {
+      "start_time": "00:12:36,480",
+      "end_time": "00:12:40,079",
+      "text": "okay so you know contrasting with soccer"
+    },
+    {
+      "start_time": "00:12:38,720",
+      "end_time": "00:12:40,560",
+      "text": "may are there you know this is kind of"
+    },
+    {
+      "start_time": "00:12:40,079",
+      "end_time": "00:12:42,320",
+      "text": "how"
+    },
+    {
+      "start_time": "00:12:40,560",
+      "end_time": "00:12:44,480",
+      "text": "i feel about it i think that"
+    },
+    {
+      "start_time": "00:12:42,320",
+      "end_time": "00:12:46,160",
+      "text": "role-playing games have"
+    },
+    {
+      "start_time": "00:12:44,480",
+      "end_time": "00:12:49,519",
+      "text": "i think it's something special and"
+    },
+    {
+      "start_time": "00:12:46,160",
+      "end_time": "00:12:52,160",
+      "text": "unique to the role-playing medium"
+    },
+    {
+      "start_time": "00:12:49,519",
+      "end_time": "00:12:52,639",
+      "text": "right where well you're playing someone"
+    },
+    {
+      "start_time": "00:12:52,160",
+      "end_time": "00:12:54,079",
+      "text": "you're art"
+    },
+    {
+      "start_time": "00:12:52,639",
+      "end_time": "00:12:55,760",
+      "text": "you're playing someone you're not which"
+    },
+    {
+      "start_time": "00:12:54,079",
+      "end_time": "00:12:57,760",
+      "text": "is why the thing they said before"
+    },
+    {
+      "start_time": "00:12:55,760",
+      "end_time": "00:12:59,600",
+      "text": "the fantasy i was like that's literally"
+    },
+    {
+      "start_time": "00:12:57,760",
+      "end_time": "00:13:01,279",
+      "text": "i could be anything"
+    },
+    {
+      "start_time": "00:12:59,600",
+      "end_time": "00:13:03,360",
+      "text": "i think that those protections need to"
+    },
+    {
+      "start_time": "00:13:01,279",
+      "end_time": "00:13:04,639",
+      "text": "be i think i think they're way more"
+    },
+    {
+      "start_time": "00:13:03,360",
+      "end_time": "00:13:06,560",
+      "text": "important"
+    },
+    {
+      "start_time": "00:13:04,639",
+      "end_time": "00:13:07,760",
+      "text": "than they are and say in a soccer game i"
+    },
+    {
+      "start_time": "00:13:06,560",
+      "end_time": "00:13:10,079",
+      "text": "would agree absolutely because a"
+    },
+    {
+      "start_time": "00:13:07,760",
+      "end_time": "00:13:13,360",
+      "text": "role-playing game i think has a tendency"
+    },
+    {
+      "start_time": "00:13:10,079",
+      "end_time": "00:13:14,079",
+      "text": "to go into places where other people may"
+    },
+    {
+      "start_time": "00:13:13,360",
+      "end_time": "00:13:15,839",
+      "text": "not be"
+    },
+    {
+      "start_time": "00:13:14,079",
+      "end_time": "00:13:17,360",
+      "text": "comfortable absolutely one of the first"
+    },
+    {
+      "start_time": "00:13:15,839",
+      "end_time": "00:13:19,200",
+      "text": "things i learned when i started going to"
+    },
+    {
+      "start_time": "00:13:17,360",
+      "end_time": "00:13:19,760",
+      "text": "indie games on demand was about this x"
+    },
+    {
+      "start_time": "00:13:19,200",
+      "end_time": "00:13:21,519",
+      "text": "card"
+    },
+    {
+      "start_time": "00:13:19,760",
+      "end_time": "00:13:23,680",
+      "text": "and it was just this sort of thing that"
+    },
+    {
+      "start_time": "00:13:21,519",
+      "end_time": "00:13:26,000",
+      "text": "was done at indie games"
+    },
+    {
+      "start_time": "00:13:23,680",
+      "end_time": "00:13:27,519",
+      "text": "and now is you know grown and grown and"
+    },
+    {
+      "start_time": "00:13:26,000",
+      "end_time": "00:13:29,040",
+      "text": "now it's actually like a part"
+    },
+    {
+      "start_time": "00:13:27,519",
+      "end_time": "00:13:30,240",
+      "text": "in the pathfinder core rulebook i don't"
+    },
+    {
+      "start_time": "00:13:29,040",
+      "end_time": "00:13:30,720",
+      "text": "know what it is you haven't read the"
+    },
+    {
+      "start_time": "00:13:30,240",
+      "end_time": "00:13:34,480",
+      "text": "core rule"
+    },
+    {
+      "start_time": "00:13:30,720",
+      "end_time": "00:13:36,720",
+      "text": "no um i am a new dm sorry gm"
+    },
+    {
+      "start_time": "00:13:34,480",
+      "end_time": "00:13:37,680",
+      "text": "so the x card was this idea of okay"
+    },
+    {
+      "start_time": "00:13:36,720",
+      "end_time": "00:13:39,120",
+      "text": "we're going to get together and we're"
+    },
+    {
+      "start_time": "00:13:37,680",
+      "end_time": "00:13:40,320",
+      "text": "going to tell games now indie games on"
+    },
+    {
+      "start_time": "00:13:39,120",
+      "end_time": "00:13:41,680",
+      "text": "demand can handle v"
+    },
+    {
+      "start_time": "00:13:40,320",
+      "end_time": "00:13:43,600",
+      "text": "you know these aren't just like oh we're"
+    },
+    {
+      "start_time": "00:13:41,680",
+      "end_time": "00:13:46,720",
+      "text": "going to get treasure and kill some orcs"
+    },
+    {
+      "start_time": "00:13:43,600",
+      "end_time": "00:13:47,040",
+      "text": "it can get pretty you know deep it can"
+    },
+    {
+      "start_time": "00:13:46,720",
+      "end_time": "00:13:49,279",
+      "text": "get"
+    },
+    {
+      "start_time": "00:13:47,040",
+      "end_time": "00:13:50,240",
+      "text": "pretty serious and you're playing at a"
+    },
+    {
+      "start_time": "00:13:49,279",
+      "end_time": "00:13:51,760",
+      "text": "convention so you're playing with a"
+    },
+    {
+      "start_time": "00:13:50,240",
+      "end_time": "00:13:54,000",
+      "text": "bunch of people you don't even know"
+    },
+    {
+      "start_time": "00:13:51,760",
+      "end_time": "00:13:54,959",
+      "text": "and the idea is we might start talking"
+    },
+    {
+      "start_time": "00:13:54,000",
+      "end_time": "00:13:56,959",
+      "text": "in a subject matter"
+    },
+    {
+      "start_time": "00:13:54,959",
+      "end_time": "00:13:58,240",
+      "text": "that does not make you comfortable and"
+    },
+    {
+      "start_time": "00:13:56,959",
+      "end_time": "00:13:59,760",
+      "text": "rather than having to put the pressure"
+    },
+    {
+      "start_time": "00:13:58,240",
+      "end_time": "00:14:00,800",
+      "text": "on someone to stand up in front of a"
+    },
+    {
+      "start_time": "00:13:59,760",
+      "end_time": "00:14:03,199",
+      "text": "group of strangers"
+    },
+    {
+      "start_time": "00:14:00,800",
+      "end_time": "00:14:04,480",
+      "text": "or even their friends and say this"
+    },
+    {
+      "start_time": "00:14:03,199",
+      "end_time": "00:14:05,680",
+      "text": "doesn't make me comfortable can we"
+    },
+    {
+      "start_time": "00:14:04,480",
+      "end_time": "00:14:08,560",
+      "text": "please stop"
+    },
+    {
+      "start_time": "00:14:05,680",
+      "end_time": "00:14:09,839",
+      "text": "the idea was you would put a big x on a"
+    },
+    {
+      "start_time": "00:14:08,560",
+      "end_time": "00:14:11,040",
+      "text": "note card or a piece of paper in the"
+    },
+    {
+      "start_time": "00:14:09,839",
+      "end_time": "00:14:12,800",
+      "text": "center of the table"
+    },
+    {
+      "start_time": "00:14:11,040",
+      "end_time": "00:14:14,160",
+      "text": "and if the subject matter started to"
+    },
+    {
+      "start_time": "00:14:12,800",
+      "end_time": "00:14:14,880",
+      "text": "change to a point where you weren't"
+    },
+    {
+      "start_time": "00:14:14,160",
+      "end_time": "00:14:16,240",
+      "text": "comfortable"
+    },
+    {
+      "start_time": "00:14:14,880",
+      "end_time": "00:14:18,160",
+      "text": "you could just sort of gently reach"
+    },
+    {
+      "start_time": "00:14:16,240",
+      "end_time": "00:14:19,680",
+      "text": "forward and tap it and basically"
+    },
+    {
+      "start_time": "00:14:18,160",
+      "end_time": "00:14:21,360",
+      "text": "everyone knew"
+    },
+    {
+      "start_time": "00:14:19,680",
+      "end_time": "00:14:23,839",
+      "text": "if they're being respectful absolutely"
+    },
+    {
+      "start_time": "00:14:21,360",
+      "end_time": "00:14:26,000",
+      "text": "you know so if we were going towards a"
+    },
+    {
+      "start_time": "00:14:23,839",
+      "end_time": "00:14:27,519",
+      "text": "graphic sex scene or violent scene maybe"
+    },
+    {
+      "start_time": "00:14:26,000",
+      "end_time": "00:14:29,360",
+      "text": "i tap it and i go you know and we fade"
+    },
+    {
+      "start_time": "00:14:27,519",
+      "end_time": "00:14:30,959",
+      "text": "to black you know a curtain"
+    },
+    {
+      "start_time": "00:14:29,360",
+      "end_time": "00:14:33,519",
+      "text": "flutters in front of the screen for me"
+    },
+    {
+      "start_time": "00:14:30,959",
+      "end_time": "00:14:35,040",
+      "text": "you know i was playing once a game of"
+    },
+    {
+      "start_time": "00:14:33,519",
+      "end_time": "00:14:37,519",
+      "text": "monster hearts"
+    },
+    {
+      "start_time": "00:14:35,040",
+      "end_time": "00:14:40,240",
+      "text": "uh which is about uh supernatural"
+    },
+    {
+      "start_time": "00:14:37,519",
+      "end_time": "00:14:42,320",
+      "text": "teenage werewolf vampires in high school"
+    },
+    {
+      "start_time": "00:14:40,240",
+      "end_time": "00:14:44,320",
+      "text": "and uh i we started role-playing a scene"
+    },
+    {
+      "start_time": "00:14:42,320",
+      "end_time": "00:14:45,680",
+      "text": "where one of the teachers was trying to"
+    },
+    {
+      "start_time": "00:14:44,320",
+      "end_time": "00:14:47,040",
+      "text": "sexually seduce"
+    },
+    {
+      "start_time": "00:14:45,680",
+      "end_time": "00:14:48,880",
+      "text": "one of the students and the student was"
+    },
+    {
+      "start_time": "00:14:47,040",
+      "end_time": "00:14:50,240",
+      "text": "into it and obviously underage uh you"
+    },
+    {
+      "start_time": "00:14:48,880",
+      "end_time": "00:14:51,680",
+      "text": "know the role playing"
+    },
+    {
+      "start_time": "00:14:50,240",
+      "end_time": "00:14:53,600",
+      "text": "and one of the people who were playing"
+    },
+    {
+      "start_time": "00:14:51,680",
+      "end_time": "00:14:55,199",
+      "text": "with us was a teacher"
+    },
+    {
+      "start_time": "00:14:53,600",
+      "end_time": "00:14:57,680",
+      "text": "and this made them very uncomfortable"
+    },
+    {
+      "start_time": "00:14:55,199",
+      "end_time": "00:14:59,839",
+      "text": "makes sense and they tapped the x"
+    },
+    {
+      "start_time": "00:14:57,680",
+      "end_time": "00:15:00,800",
+      "text": "and we said okay hold on cycle all right"
+    },
+    {
+      "start_time": "00:14:59,839",
+      "end_time": "00:15:02,639",
+      "text": "uh"
+    },
+    {
+      "start_time": "00:15:00,800",
+      "end_time": "00:15:04,560",
+      "text": "you know obviously we can roll that back"
+    },
+    {
+      "start_time": "00:15:02,639",
+      "end_time": "00:15:06,240",
+      "text": "do do we want to proceed with this"
+    },
+    {
+      "start_time": "00:15:04,560",
+      "end_time": "00:15:07,600",
+      "text": "or or you just don't want to hear it you"
+    },
+    {
+      "start_time": "00:15:06,240",
+      "end_time": "00:15:08,880",
+      "text": "know do you want me to strike this"
+    },
+    {
+      "start_time": "00:15:07,600",
+      "end_time": "00:15:10,399",
+      "text": "completely from the game"
+    },
+    {
+      "start_time": "00:15:08,880",
+      "end_time": "00:15:12,720",
+      "text": "you know or do you want us to you know"
+    },
+    {
+      "start_time": "00:15:10,399",
+      "end_time": "00:15:13,760",
+      "text": "just move move on"
+    },
+    {
+      "start_time": "00:15:12,720",
+      "end_time": "00:15:15,199",
+      "text": "um and i think it's important to have"
+    },
+    {
+      "start_time": "00:15:13,760",
+      "end_time": "00:15:16,079",
+      "text": "those conversations you're not you know"
+    },
+    {
+      "start_time": "00:15:15,199",
+      "end_time": "00:15:19,040",
+      "text": "ernie"
+    },
+    {
+      "start_time": "00:15:16,079",
+      "end_time": "00:15:20,720",
+      "text": "uh x-cart is pronouns what's that do you"
+    },
+    {
+      "start_time": "00:15:19,040",
+      "end_time": "00:15:21,839",
+      "text": "think ernie guy against his ex-card is"
+    },
+    {
+      "start_time": "00:15:20,720",
+      "end_time": "00:15:23,920",
+      "text": "pronounced yeah well"
+    },
+    {
+      "start_time": "00:15:21,839",
+      "end_time": "00:15:25,760",
+      "text": "he slid it out he's like i think that"
+    },
+    {
+      "start_time": "00:15:23,920",
+      "end_time": "00:15:26,320",
+      "text": "there's a percentage of people who feel"
+    },
+    {
+      "start_time": "00:15:25,760",
+      "end_time": "00:15:29,759",
+      "text": "like"
+    },
+    {
+      "start_time": "00:15:26,320",
+      "end_time": "00:15:32,079",
+      "text": "even if maybe they agree that you know"
+    },
+    {
+      "start_time": "00:15:29,759",
+      "end_time": "00:15:33,279",
+      "text": "that lgbtq rights are important and that"
+    },
+    {
+      "start_time": "00:15:32,079",
+      "end_time": "00:15:34,480",
+      "text": "inclusivity and"
+    },
+    {
+      "start_time": "00:15:33,279",
+      "end_time": "00:15:36,240",
+      "text": "diversity are important maybe there's"
+    },
+    {
+      "start_time": "00:15:34,480",
+      "end_time": "00:15:37,600",
+      "text": "some people who feel like but it still"
+    },
+    {
+      "start_time": "00:15:36,240",
+      "end_time": "00:15:39,440",
+      "text": "shouldn't be in my game book my game"
+    },
+    {
+      "start_time": "00:15:37,600",
+      "end_time": "00:15:41,040",
+      "text": "book should be the rules for the game"
+    },
+    {
+      "start_time": "00:15:39,440",
+      "end_time": "00:15:42,560",
+      "text": "but the truth is i think these are"
+    },
+    {
+      "start_time": "00:15:41,040",
+      "end_time": "00:15:43,839",
+      "text": "people who think that"
+    },
+    {
+      "start_time": "00:15:42,560",
+      "end_time": "00:15:45,759",
+      "text": "that that stuff shouldn't be a thing at"
+    },
+    {
+      "start_time": "00:15:43,839",
+      "end_time": "00:15:47,600",
+      "text": "all that's right"
+    },
+    {
+      "start_time": "00:15:45,759",
+      "end_time": "00:15:49,040",
+      "text": "who cares and that's why isil gets to"
+    },
+    {
+      "start_time": "00:15:47,600",
+      "end_time": "00:15:50,160",
+      "text": "make a decision not you well"
+    },
+    {
+      "start_time": "00:15:49,040",
+      "end_time": "00:15:51,600",
+      "text": "that's my thing it's at the end of the"
+    },
+    {
+      "start_time": "00:15:50,160",
+      "end_time": "00:15:52,240",
+      "text": "day it's like it's a private company"
+    },
+    {
+      "start_time": "00:15:51,600",
+      "end_time": "00:15:53,600",
+      "text": "right yeah"
+    },
+    {
+      "start_time": "00:15:52,240",
+      "end_time": "00:15:54,959",
+      "text": "yeah it's like trump trying to sue for"
+    },
+    {
+      "start_time": "00:15:53,600",
+      "end_time": "00:15:55,519",
+      "text": "twitter and facebook for banning them"
+    },
+    {
+      "start_time": "00:15:54,959",
+      "end_time": "00:15:56,800",
+      "text": "it's like"
+    },
+    {
+      "start_time": "00:15:55,519",
+      "end_time": "00:15:58,000",
+      "text": "against free speech it's like i don't"
+    },
+    {
+      "start_time": "00:15:56,800",
+      "end_time": "00:15:59,199",
+      "text": "think you understand how this works"
+    },
+    {
+      "start_time": "00:15:58,000",
+      "end_time": "00:16:01,040",
+      "text": "right but it's like that with"
+    },
+    {
+      "start_time": "00:15:59,199",
+      "end_time": "00:16:02,399",
+      "text": "every single every single movie that"
+    },
+    {
+      "start_time": "00:16:01,040",
+      "end_time": "00:16:04,560",
+      "text": "you've watched every single"
+    },
+    {
+      "start_time": "00:16:02,399",
+      "end_time": "00:16:06,560",
+      "text": "story that you've ever read there's"
+    },
+    {
+      "start_time": "00:16:04,560",
+      "end_time": "00:16:08,000",
+      "text": "characters that are created"
+    },
+    {
+      "start_time": "00:16:06,560",
+      "end_time": "00:16:09,920",
+      "text": "that have been established by the"
+    },
+    {
+      "start_time": "00:16:08,000",
+      "end_time": "00:16:12,000",
+      "text": "authors they they're creating that"
+    },
+    {
+      "start_time": "00:16:09,920",
+      "end_time": "00:16:13,120",
+      "text": "narrative so with piezo they're creating"
+    },
+    {
+      "start_time": "00:16:12,000",
+      "end_time": "00:16:15,680",
+      "text": "the backstories"
+    },
+    {
+      "start_time": "00:16:13,120",
+      "end_time": "00:16:17,199",
+      "text": "right it's just a story of one snippet"
+    },
+    {
+      "start_time": "00:16:15,680",
+      "end_time": "00:16:18,880",
+      "text": "of one character"
+    },
+    {
+      "start_time": "00:16:17,199",
+      "end_time": "00:16:20,240",
+      "text": "it's it's designed to be kind of a"
+    },
+    {
+      "start_time": "00:16:18,880",
+      "end_time": "00:16:22,320",
+      "text": "fantasy yes"
+    },
+    {
+      "start_time": "00:16:20,240",
+      "end_time": "00:16:23,519",
+      "text": "and it needs to be tasteful i'm not"
+    },
+    {
+      "start_time": "00:16:22,320",
+      "end_time": "00:16:23,839",
+      "text": "going to say that you know they can't"
+    },
+    {
+      "start_time": "00:16:23,519",
+      "end_time": "00:16:25,920",
+      "text": "just"
+    },
+    {
+      "start_time": "00:16:23,839",
+      "end_time": "00:16:27,360",
+      "text": "generalize across everything yeah i mean"
+    },
+    {
+      "start_time": "00:16:25,920",
+      "end_time": "00:16:28,800",
+      "text": "for example there are probably things i"
+    },
+    {
+      "start_time": "00:16:27,360",
+      "end_time": "00:16:29,920",
+      "text": "could do or say in our pathfinder game"
+    },
+    {
+      "start_time": "00:16:28,800",
+      "end_time": "00:16:31,600",
+      "text": "that would make you very uncomfortable"
+    },
+    {
+      "start_time": "00:16:29,920",
+      "end_time": "00:16:32,639",
+      "text": "absolutely if i started talking pretty"
+    },
+    {
+      "start_time": "00:16:31,600",
+      "end_time": "00:16:34,839",
+      "text": "comfortable with everything if i started"
+    },
+    {
+      "start_time": "00:16:32,639",
+      "end_time": "00:16:37,839",
+      "text": "talking about sexual assault on children"
+    },
+    {
+      "start_time": "00:16:34,839",
+      "end_time": "00:16:37,839",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:16:39,839",
+      "end_time": "00:16:43,360",
+      "text": "yeah i mean my point is yeah i mean i"
+    },
+    {
+      "start_time": "00:16:42,160",
+      "end_time": "00:16:45,600",
+      "text": "think everyone has a limit"
+    },
+    {
+      "start_time": "00:16:43,360",
+      "end_time": "00:16:47,440",
+      "text": "absolutely you know um if i really put"
+    },
+    {
+      "start_time": "00:16:45,600",
+      "end_time": "00:16:50,639",
+      "text": "you into a tough situation where like"
+    },
+    {
+      "start_time": "00:16:47,440",
+      "end_time": "00:16:52,320",
+      "text": "there was giants babies"
+    },
+    {
+      "start_time": "00:16:50,639",
+      "end_time": "00:16:53,680",
+      "text": "giant babies yeah you know asia's"
+    },
+    {
+      "start_time": "00:16:52,320",
+      "end_time": "00:16:55,279",
+      "text": "probably doesn't like giant babies would"
+    },
+    {
+      "start_time": "00:16:53,680",
+      "end_time": "00:16:56,399",
+      "text": "you are you going to go in there"
+    },
+    {
+      "start_time": "00:16:55,279",
+      "end_time": "00:16:58,160",
+      "text": "are you going to go in there and crush"
+    },
+    {
+      "start_time": "00:16:56,399",
+      "end_time": "00:16:59,120",
+      "text": "the skulls of giant babies and maybe"
+    },
+    {
+      "start_time": "00:16:58,160",
+      "end_time": "00:17:00,320",
+      "text": "even if you would"
+    },
+    {
+      "start_time": "00:16:59,120",
+      "end_time": "00:17:01,839",
+      "text": "why would i even put you in that"
+    },
+    {
+      "start_time": "00:17:00,320",
+      "end_time": "00:17:02,240",
+      "text": "situation that's a good deal he murders"
+    },
+    {
+      "start_time": "00:17:01,839",
+      "end_time": "00:17:04,160",
+      "text": "him"
+    },
+    {
+      "start_time": "00:17:02,240",
+      "end_time": "00:17:05,520",
+      "text": "even the younglings yeah right like"
+    },
+    {
+      "start_time": "00:17:04,160",
+      "end_time": "00:17:06,400",
+      "text": "depends on cool and now here's the thing"
+    },
+    {
+      "start_time": "00:17:05,520",
+      "end_time": "00:17:07,520",
+      "text": "there are some people who want to"
+    },
+    {
+      "start_time": "00:17:06,400",
+      "end_time": "00:17:08,079",
+      "text": "explore that and there's some people who"
+    },
+    {
+      "start_time": "00:17:07,520",
+      "end_time": "00:17:09,760",
+      "text": "don't"
+    },
+    {
+      "start_time": "00:17:08,079",
+      "end_time": "00:17:11,360",
+      "text": "and i i and i think part of the problem"
+    },
+    {
+      "start_time": "00:17:09,760",
+      "end_time": "00:17:12,079",
+      "text": "is is that this you know and i i gotta"
+    },
+    {
+      "start_time": "00:17:11,360",
+      "end_time": "00:17:13,839",
+      "text": "say it's"
+    },
+    {
+      "start_time": "00:17:12,079",
+      "end_time": "00:17:16,720",
+      "text": "it's rare to see somebody just get i"
+    },
+    {
+      "start_time": "00:17:13,839",
+      "end_time": "00:17:18,400",
+      "text": "mean annihilated so universally but"
+    },
+    {
+      "start_time": "00:17:16,720",
+      "end_time": "00:17:20,000",
+      "text": "it just doesn't make sense because again"
+    },
+    {
+      "start_time": "00:17:18,400",
+      "end_time": "00:17:22,240",
+      "text": "i think that overwhelmingly"
+    },
+    {
+      "start_time": "00:17:20,000",
+      "end_time": "00:17:23,600",
+      "text": "again it's i've been to a lot of"
+    },
+    {
+      "start_time": "00:17:22,240",
+      "end_time": "00:17:24,480",
+      "text": "conventions i've played with a lot of"
+    },
+    {
+      "start_time": "00:17:23,600",
+      "end_time": "00:17:26,559",
+      "text": "people so"
+    },
+    {
+      "start_time": "00:17:24,480",
+      "end_time": "00:17:28,160",
+      "text": "yes it's anecdotal but i do feel like i"
+    },
+    {
+      "start_time": "00:17:26,559",
+      "end_time": "00:17:30,559",
+      "text": "have a lot of experience with this"
+    },
+    {
+      "start_time": "00:17:28,160",
+      "end_time": "00:17:31,520",
+      "text": "as a whole the role-playing game"
+    },
+    {
+      "start_time": "00:17:30,559",
+      "end_time": "00:17:33,919",
+      "text": "community"
+    },
+    {
+      "start_time": "00:17:31,520",
+      "end_time": "00:17:34,960",
+      "text": "is far more inclusive and far more"
+    },
+    {
+      "start_time": "00:17:33,919",
+      "end_time": "00:17:36,720",
+      "text": "understanding because"
+    },
+    {
+      "start_time": "00:17:34,960",
+      "end_time": "00:17:37,919",
+      "text": "the game is literally i'm going to put"
+    },
+    {
+      "start_time": "00:17:36,720",
+      "end_time": "00:17:38,559",
+      "text": "myself in someone else's shoes"
+    },
+    {
+      "start_time": "00:17:37,919",
+      "end_time": "00:17:40,000",
+      "text": "absolutely"
+    },
+    {
+      "start_time": "00:17:38,559",
+      "end_time": "00:17:41,360",
+      "text": "you're including it and from a totally"
+    },
+    {
+      "start_time": "00:17:40,000",
+      "end_time": "00:17:41,840",
+      "text": "difficult perspective i'm just saying i"
+    },
+    {
+      "start_time": "00:17:41,360",
+      "end_time": "00:17:43,440",
+      "text": "think"
+    },
+    {
+      "start_time": "00:17:41,840",
+      "end_time": "00:17:44,640",
+      "text": "anybody i want i think i think playing"
+    },
+    {
+      "start_time": "00:17:43,440",
+      "end_time": "00:17:45,200",
+      "text": "role-playing games makes you a better"
+    },
+    {
+      "start_time": "00:17:44,640",
+      "end_time": "00:17:47,280",
+      "text": "person"
+    },
+    {
+      "start_time": "00:17:45,200",
+      "end_time": "00:17:48,240",
+      "text": "yeah the one thing i always come back to"
+    },
+    {
+      "start_time": "00:17:47,280",
+      "end_time": "00:17:50,480",
+      "text": "is like"
+    },
+    {
+      "start_time": "00:17:48,240",
+      "end_time": "00:17:51,600",
+      "text": "old mythology with loki so i mean rick"
+    },
+    {
+      "start_time": "00:17:50,480",
+      "end_time": "00:17:53,039",
+      "text": "riordan had a"
+    },
+    {
+      "start_time": "00:17:51,600",
+      "end_time": "00:17:54,559",
+      "text": "uh one of his books was great with this"
+    },
+    {
+      "start_time": "00:17:53,039",
+      "end_time": "00:17:55,039",
+      "text": "when he had loki as a kid that could uh"
+    },
+    {
+      "start_time": "00:17:54,559",
+      "end_time": "00:17:56,559",
+      "text": "go from"
+    },
+    {
+      "start_time": "00:17:55,039",
+      "end_time": "00:17:58,640",
+      "text": "different sexes because located"
+    },
+    {
+      "start_time": "00:17:56,559",
+      "end_time": "00:17:59,280",
+      "text": "mythology could could go from a female"
+    },
+    {
+      "start_time": "00:17:58,640",
+      "end_time": "00:18:01,440",
+      "text": "to a male"
+    },
+    {
+      "start_time": "00:17:59,280",
+      "end_time": "00:18:02,799",
+      "text": "i'm like this is literally engraved in"
+    },
+    {
+      "start_time": "00:18:01,440",
+      "end_time": "00:18:04,799",
+      "text": "old mythology"
+    },
+    {
+      "start_time": "00:18:02,799",
+      "end_time": "00:18:06,480",
+      "text": "in norse mythology so i was like if a"
+    },
+    {
+      "start_time": "00:18:04,799",
+      "end_time": "00:18:07,120",
+      "text": "fantasy person could do that and yeah"
+    },
+    {
+      "start_time": "00:18:06,480",
+      "end_time": "00:18:10,240",
+      "text": "that's"
+    },
+    {
+      "start_time": "00:18:07,120",
+      "end_time": "00:18:10,799",
+      "text": "old mythology why can't i do that in my"
+    },
+    {
+      "start_time": "00:18:10,240",
+      "end_time": "00:18:12,720",
+      "text": "game"
+    },
+    {
+      "start_time": "00:18:10,799",
+      "end_time": "00:18:14,480",
+      "text": "i mean that's loki i mean one of my"
+    },
+    {
+      "start_time": "00:18:12,720",
+      "end_time": "00:18:15,280",
+      "text": "favorite characters i've ever played was"
+    },
+    {
+      "start_time": "00:18:14,480",
+      "end_time": "00:18:16,720",
+      "text": "at a convention"
+    },
+    {
+      "start_time": "00:18:15,280",
+      "end_time": "00:18:18,799",
+      "text": "it was like it ended up being like a"
+    },
+    {
+      "start_time": "00:18:16,720",
+      "end_time": "00:18:20,160",
+      "text": "seven hour monster heart game"
+    },
+    {
+      "start_time": "00:18:18,799",
+      "end_time": "00:18:22,080",
+      "text": "i think it was my first or second time"
+    },
+    {
+      "start_time": "00:18:20,160",
+      "end_time": "00:18:22,880",
+      "text": "playing monster hearts uh shout out to"
+    },
+    {
+      "start_time": "00:18:22,080",
+      "end_time": "00:18:24,640",
+      "text": "kyramagan"
+    },
+    {
+      "start_time": "00:18:22,880",
+      "end_time": "00:18:26,320",
+      "text": "uh who is my game master i think she's"
+    },
+    {
+      "start_time": "00:18:24,640",
+      "end_time": "00:18:29,600",
+      "text": "like a game designer now"
+    },
+    {
+      "start_time": "00:18:26,320",
+      "end_time": "00:18:30,720",
+      "text": "um she i played amanda penelope"
+    },
+    {
+      "start_time": "00:18:29,600",
+      "end_time": "00:18:33,520",
+      "text": "starkweather"
+    },
+    {
+      "start_time": "00:18:30,720",
+      "end_time": "00:18:35,039",
+      "text": "who was a you know 999 going on a"
+    },
+    {
+      "start_time": "00:18:33,520",
+      "end_time": "00:18:36,720",
+      "text": "thousand-year-old vampire who"
+    },
+    {
+      "start_time": "00:18:35,039",
+      "end_time": "00:18:38,559",
+      "text": "looked like a 17 year old high schooler"
+    },
+    {
+      "start_time": "00:18:36,720",
+      "end_time": "00:18:42,480",
+      "text": "who went to high school"
+    },
+    {
+      "start_time": "00:18:38,559",
+      "end_time": "00:18:45,520",
+      "text": "and uh so here's me playing"
+    },
+    {
+      "start_time": "00:18:42,480",
+      "end_time": "00:18:49,280",
+      "text": "you know a generic cis-head"
+    },
+    {
+      "start_time": "00:18:45,520",
+      "end_time": "00:18:52,799",
+      "text": "white guy playing a female vampire"
+    },
+    {
+      "start_time": "00:18:49,280",
+      "end_time": "00:18:56,799",
+      "text": "who was in love with the local"
+    },
+    {
+      "start_time": "00:18:52,799",
+      "end_time": "00:19:00,400",
+      "text": "barista who was also female"
+    },
+    {
+      "start_time": "00:18:56,799",
+      "end_time": "00:19:02,240",
+      "text": "being played by another man man can you"
+    },
+    {
+      "start_time": "00:19:00,400",
+      "end_time": "00:19:03,679",
+      "text": "imagine being a thousand years old and"
+    },
+    {
+      "start_time": "00:19:02,240",
+      "end_time": "00:19:04,799",
+      "text": "still in high school"
+    },
+    {
+      "start_time": "00:19:03,679",
+      "end_time": "00:19:06,160",
+      "text": "well i mean that's part of that's part"
+    },
+    {
+      "start_time": "00:19:04,799",
+      "end_time": "00:19:07,919",
+      "text": "of the joke right like why do all these"
+    },
+    {
+      "start_time": "00:19:06,160",
+      "end_time": "00:19:09,440",
+      "text": "vampires go to high school"
+    },
+    {
+      "start_time": "00:19:07,919",
+      "end_time": "00:19:11,280",
+      "text": "high school yeah like how is it that"
+    },
+    {
+      "start_time": "00:19:09,440",
+      "end_time": "00:19:12,640",
+      "text": "that's why skin sparkling"
+    },
+    {
+      "start_time": "00:19:11,280",
+      "end_time": "00:19:14,080",
+      "text": "that seems like a horrible life why"
+    },
+    {
+      "start_time": "00:19:12,640",
+      "end_time": "00:19:15,280",
+      "text": "haven't you graduated already why"
+    },
+    {
+      "start_time": "00:19:14,080",
+      "end_time": "00:19:16,799",
+      "text": "haven't you taken over the world"
+    },
+    {
+      "start_time": "00:19:15,280",
+      "end_time": "00:19:19,120",
+      "text": "now look i died and i'm not trying to"
+    },
+    {
+      "start_time": "00:19:16,799",
+      "end_time": "00:19:20,480",
+      "text": "say that me playing a female vampire in"
+    },
+    {
+      "start_time": "00:19:19,120",
+      "end_time": "00:19:23,919",
+      "text": "a pretend fantasy game"
+    },
+    {
+      "start_time": "00:19:20,480",
+      "end_time": "00:19:24,960",
+      "text": "uh made me somehow understand the"
+    },
+    {
+      "start_time": "00:19:23,919",
+      "end_time": "00:19:27,280",
+      "text": "struggles"
+    },
+    {
+      "start_time": "00:19:24,960",
+      "end_time": "00:19:28,480",
+      "text": "that a uh you know a let's say a trans"
+    },
+    {
+      "start_time": "00:19:27,280",
+      "end_time": "00:19:30,240",
+      "text": "person oh absolutely"
+    },
+    {
+      "start_time": "00:19:28,480",
+      "end_time": "00:19:31,679",
+      "text": "not but but you can play anything you"
+    },
+    {
+      "start_time": "00:19:30,240",
+      "end_time": "00:19:32,400",
+      "text": "want but nobody but not just that but"
+    },
+    {
+      "start_time": "00:19:31,679",
+      "end_time": "00:19:34,720",
+      "text": "you know what it"
+    },
+    {
+      "start_time": "00:19:32,400",
+      "end_time": "00:19:36,080",
+      "text": "gave me yeah it gave me more empathy"
+    },
+    {
+      "start_time": "00:19:34,720",
+      "end_time": "00:19:37,360",
+      "text": "than i think i would have had"
+    },
+    {
+      "start_time": "00:19:36,080",
+      "end_time": "00:19:39,200",
+      "text": "that's good because you're putting"
+    },
+    {
+      "start_time": "00:19:37,360",
+      "end_time": "00:19:41,679",
+      "text": "yourself in somebody else's shoes"
+    },
+    {
+      "start_time": "00:19:39,200",
+      "end_time": "00:19:43,200",
+      "text": "right whether it be a female character a"
+    },
+    {
+      "start_time": "00:19:41,679",
+      "end_time": "00:19:43,840",
+      "text": "male character or whatever or even a"
+    },
+    {
+      "start_time": "00:19:43,200",
+      "end_time": "00:19:47,520",
+      "text": "dwarf"
+    },
+    {
+      "start_time": "00:19:43,840",
+      "end_time": "00:19:50,080",
+      "text": "a dwarf yeah an orc uh a a cabald"
+    },
+    {
+      "start_time": "00:19:47,520",
+      "end_time": "00:19:51,520",
+      "text": "whatever it's a fantasy realm but you're"
+    },
+    {
+      "start_time": "00:19:50,080",
+      "end_time": "00:19:53,520",
+      "text": "experiencing it"
+    },
+    {
+      "start_time": "00:19:51,520",
+      "end_time": "00:19:54,799",
+      "text": "from different ones so like you wouldn't"
+    },
+    {
+      "start_time": "00:19:53,520",
+      "end_time": "00:19:58,559",
+      "text": "hate tall people"
+    },
+    {
+      "start_time": "00:19:54,799",
+      "end_time": "00:19:59,280",
+      "text": "right but azias has a eventual hatred"
+    },
+    {
+      "start_time": "00:19:58,559",
+      "end_time": "00:20:01,679",
+      "text": "for giants"
+    },
+    {
+      "start_time": "00:19:59,280",
+      "end_time": "00:20:03,760",
+      "text": "right so you're playing that character"
+    },
+    {
+      "start_time": "00:20:01,679",
+      "end_time": "00:20:04,880",
+      "text": "you're experiencing those emotions and"
+    },
+    {
+      "start_time": "00:20:03,760",
+      "end_time": "00:20:06,799",
+      "text": "those thought processes"
+    },
+    {
+      "start_time": "00:20:04,880",
+      "end_time": "00:20:08,159",
+      "text": "from a different point of your view sure"
+    },
+    {
+      "start_time": "00:20:06,799",
+      "end_time": "00:20:09,360",
+      "text": "and i think the key though"
+    },
+    {
+      "start_time": "00:20:08,159",
+      "end_time": "00:20:10,960",
+      "text": "like feel like therapy is you just have"
+    },
+    {
+      "start_time": "00:20:09,360",
+      "end_time": "00:20:12,480",
+      "text": "to do it in a safe way and absolutely"
+    },
+    {
+      "start_time": "00:20:10,960",
+      "end_time": "00:20:13,760",
+      "text": "you can't be destructive with it"
+    },
+    {
+      "start_time": "00:20:12,480",
+      "end_time": "00:20:14,799",
+      "text": "and and if you have something like that"
+    },
+    {
+      "start_time": "00:20:13,760",
+      "end_time": "00:20:15,840",
+      "text": "in your group though i mean i don't know"
+    },
+    {
+      "start_time": "00:20:14,799",
+      "end_time": "00:20:19,280",
+      "text": "who you're playing with"
+    },
+    {
+      "start_time": "00:20:15,840",
+      "end_time": "00:20:20,720",
+      "text": "well and we've said this before though i"
+    },
+    {
+      "start_time": "00:20:19,280",
+      "end_time": "00:20:22,480",
+      "text": "have always been blessed to have been"
+    },
+    {
+      "start_time": "00:20:20,720",
+      "end_time": "00:20:24,720",
+      "text": "able to play my games with"
+    },
+    {
+      "start_time": "00:20:22,480",
+      "end_time": "00:20:25,919",
+      "text": "close personal friends or friends of"
+    },
+    {
+      "start_time": "00:20:24,720",
+      "end_time": "00:20:28,559",
+      "text": "friends people i've you know"
+    },
+    {
+      "start_time": "00:20:25,919",
+      "end_time": "00:20:29,200",
+      "text": "acquaintances who've become friends um"
+    },
+    {
+      "start_time": "00:20:28,559",
+      "end_time": "00:20:30,799",
+      "text": "you know"
+    },
+    {
+      "start_time": "00:20:29,200",
+      "end_time": "00:20:32,240",
+      "text": "and there are so many people out there"
+    },
+    {
+      "start_time": "00:20:30,799",
+      "end_time": "00:20:33,679",
+      "text": "though that are playing with"
+    },
+    {
+      "start_time": "00:20:32,240",
+      "end_time": "00:20:35,760",
+      "text": "random strangers on the internet"
+    },
+    {
+      "start_time": "00:20:33,679",
+      "end_time": "00:20:37,520",
+      "text": "especially online yeah and online and"
+    },
+    {
+      "start_time": "00:20:35,760",
+      "end_time": "00:20:38,799",
+      "text": "we all know that you know whether you're"
+    },
+    {
+      "start_time": "00:20:37,520",
+      "end_time": "00:20:40,799",
+      "text": "playing pro whether whether you're"
+    },
+    {
+      "start_time": "00:20:38,799",
+      "end_time": "00:20:42,240",
+      "text": "probably playing behind a roll20 screen"
+    },
+    {
+      "start_time": "00:20:40,799",
+      "end_time": "00:20:44,480",
+      "text": "or you know you're behind a twitter"
+    },
+    {
+      "start_time": "00:20:42,240",
+      "end_time": "00:20:46,080",
+      "text": "account like that anonymity that you get"
+    },
+    {
+      "start_time": "00:20:44,480",
+      "end_time": "00:20:48,240",
+      "text": "from being online makes people say"
+    },
+    {
+      "start_time": "00:20:46,080",
+      "end_time": "00:20:50,080",
+      "text": "do and act in ways that no ordinary"
+    },
+    {
+      "start_time": "00:20:48,240",
+      "end_time": "00:20:51,840",
+      "text": "human being would ever possibly act"
+    },
+    {
+      "start_time": "00:20:50,080",
+      "end_time": "00:20:53,679",
+      "text": "like getting a call of duty chat room"
+    },
+    {
+      "start_time": "00:20:51,840",
+      "end_time": "00:20:56,480",
+      "text": "yeah with a bunch of 14 year olds"
+    },
+    {
+      "start_time": "00:20:53,679",
+      "end_time": "00:20:59,039",
+      "text": "yeah yeah that's interesting yeah if we"
+    },
+    {
+      "start_time": "00:20:56,480",
+      "end_time": "00:21:00,240",
+      "text": "were playing local area network"
+    },
+    {
+      "start_time": "00:20:59,039",
+      "end_time": "00:21:03,840",
+      "text": "let's say you say that to my face that's"
+    },
+    {
+      "start_time": "00:21:00,240",
+      "end_time": "00:21:03,840",
+      "text": "why the first rules"
+    },
+    {
+      "start_time": "00:21:06,559",
+      "end_time": "00:21:10,080",
+      "text": "you know you can't do that because like"
+    },
+    {
+      "start_time": "00:21:08,960",
+      "end_time": "00:21:11,280",
+      "text": "again again going back to the soccer"
+    },
+    {
+      "start_time": "00:21:10,080",
+      "end_time": "00:21:12,880",
+      "text": "example it's like let's say i'm playing"
+    },
+    {
+      "start_time": "00:21:11,280",
+      "end_time": "00:21:14,159",
+      "text": "a soccer on my soccer team and there's"
+    },
+    {
+      "start_time": "00:21:12,880",
+      "end_time": "00:21:14,480",
+      "text": "another soccer team and we're playing"
+    },
+    {
+      "start_time": "00:21:14,159",
+      "end_time": "00:21:16,320",
+      "text": "and"
+    },
+    {
+      "start_time": "00:21:14,480",
+      "end_time": "00:21:17,679",
+      "text": "maybe someone on that soccer team is"
+    },
+    {
+      "start_time": "00:21:16,320",
+      "end_time": "00:21:19,360",
+      "text": "horrible and atrocious but you're just"
+    },
+    {
+      "start_time": "00:21:17,679",
+      "end_time": "00:21:20,720",
+      "text": "like whatever scoreboard you know"
+    },
+    {
+      "start_time": "00:21:19,360",
+      "end_time": "00:21:22,320",
+      "text": "we won i came here to kick the ball and"
+    },
+    {
+      "start_time": "00:21:20,720",
+      "end_time": "00:21:24,000",
+      "text": "i won but with a role-playing game the"
+    },
+    {
+      "start_time": "00:21:22,320",
+      "end_time": "00:21:25,039",
+      "text": "whole point is i need to interact with"
+    },
+    {
+      "start_time": "00:21:24,000",
+      "end_time": "00:21:27,280",
+      "text": "these people"
+    },
+    {
+      "start_time": "00:21:25,039",
+      "end_time": "00:21:29,039",
+      "text": "and i need to you know and so i i think"
+    },
+    {
+      "start_time": "00:21:27,280",
+      "end_time": "00:21:30,320",
+      "text": "ernie i think he missed the mark real"
+    },
+    {
+      "start_time": "00:21:29,039",
+      "end_time": "00:21:31,840",
+      "text": "bad i mean number one i think it's a"
+    },
+    {
+      "start_time": "00:21:30,320",
+      "end_time": "00:21:34,080",
+      "text": "huge cash play too"
+    },
+    {
+      "start_time": "00:21:31,840",
+      "end_time": "00:21:35,520",
+      "text": "i think he's trying to you know the"
+    },
+    {
+      "start_time": "00:21:34,080",
+      "end_time": "00:21:36,159",
+      "text": "wrong cash player i think he's trying to"
+    },
+    {
+      "start_time": "00:21:35,520",
+      "end_time": "00:21:38,080",
+      "text": "fee you know"
+    },
+    {
+      "start_time": "00:21:36,159",
+      "end_time": "00:21:39,760",
+      "text": "he's also trying to turn the original"
+    },
+    {
+      "start_time": "00:21:38,080",
+      "end_time": "00:21:41,280",
+      "text": "tsr headquarters in lake geneva"
+    },
+    {
+      "start_time": "00:21:39,760",
+      "end_time": "00:21:44,080",
+      "text": "wisconsin into this like"
+    },
+    {
+      "start_time": "00:21:41,280",
+      "end_time": "00:21:45,520",
+      "text": "museum and charging it's a it makes it"
+    },
+    {
+      "start_time": "00:21:44,080",
+      "end_time": "00:21:46,480",
+      "text": "sound like it's for an [ __ ] he makes"
+    },
+    {
+      "start_time": "00:21:45,520",
+      "end_time": "00:21:48,960",
+      "text": "it sound like it's a"
+    },
+    {
+      "start_time": "00:21:46,480",
+      "end_time": "00:21:50,559",
+      "text": "like it's a non-profit but it's not and"
+    },
+    {
+      "start_time": "00:21:48,960",
+      "end_time": "00:21:51,760",
+      "text": "he's like asking for donations but they"
+    },
+    {
+      "start_time": "00:21:50,559",
+      "end_time": "00:21:54,640",
+      "text": "also charge money"
+    },
+    {
+      "start_time": "00:21:51,760",
+      "end_time": "00:21:55,520",
+      "text": "and it's like this is is tsr big enough"
+    },
+    {
+      "start_time": "00:21:54,640",
+      "end_time": "00:21:57,360",
+      "text": "of like a"
+    },
+    {
+      "start_time": "00:21:55,520",
+      "end_time": "00:21:59,120",
+      "text": "well-known brand name like i know it"
+    },
+    {
+      "start_time": "00:21:57,360",
+      "end_time": "00:22:02,000",
+      "text": "obviously from from dnd"
+    },
+    {
+      "start_time": "00:21:59,120",
+      "end_time": "00:22:03,200",
+      "text": "well the idea is is that his son has"
+    },
+    {
+      "start_time": "00:22:02,000",
+      "end_time": "00:22:05,520",
+      "text": "relics"
+    },
+    {
+      "start_time": "00:22:03,200",
+      "end_time": "00:22:07,200",
+      "text": "if you will artifacts of his father you"
+    },
+    {
+      "start_time": "00:22:05,520",
+      "end_time": "00:22:09,360",
+      "text": "know i'm sure if you did it"
+    },
+    {
+      "start_time": "00:22:07,200",
+      "end_time": "00:22:10,960",
+      "text": "in a cool good way it'd be like this is"
+    },
+    {
+      "start_time": "00:22:09,360",
+      "end_time": "00:22:11,840",
+      "text": "this is the first handwritten copy of"
+    },
+    {
+      "start_time": "00:22:10,960",
+      "end_time": "00:22:12,400",
+      "text": "dungeons and dragons yeah yeah here's"
+    },
+    {
+      "start_time": "00:22:11,840",
+      "end_time": "00:22:13,760",
+      "text": "the"
+    },
+    {
+      "start_time": "00:22:12,400",
+      "end_time": "00:22:15,039",
+      "text": "chromosomes here's sketches from his"
+    },
+    {
+      "start_time": "00:22:13,760",
+      "end_time": "00:22:15,520",
+      "text": "first that'd be awesome for sure that"
+    },
+    {
+      "start_time": "00:22:15,039",
+      "end_time": "00:22:17,039",
+      "text": "would be awesome"
+    },
+    {
+      "start_time": "00:22:15,520",
+      "end_time": "00:22:18,480",
+      "text": "but he's a profit monger he's just a"
+    },
+    {
+      "start_time": "00:22:17,039",
+      "end_time": "00:22:19,600",
+      "text": "[ __ ] he is he does not give a [ __ ]"
+    },
+    {
+      "start_time": "00:22:18,480",
+      "end_time": "00:22:21,039",
+      "text": "yeah that's he's an [ __ ]"
+    },
+    {
+      "start_time": "00:22:19,600",
+      "end_time": "00:22:23,039",
+      "text": "yeah you know i think you could have"
+    },
+    {
+      "start_time": "00:22:21,039",
+      "end_time": "00:22:25,200",
+      "text": "took os osr oh sorry"
+    },
+    {
+      "start_time": "00:22:23,039",
+      "end_time": "00:22:26,480",
+      "text": "he's older yeah i'm gonna make osr with"
+    },
+    {
+      "start_time": "00:22:25,200",
+      "end_time": "00:22:29,039",
+      "text": "the tsr name"
+    },
+    {
+      "start_time": "00:22:26,480",
+      "end_time": "00:22:29,840",
+      "text": "and okay i don't agree with it but we're"
+    },
+    {
+      "start_time": "00:22:29,039",
+      "end_time": "00:22:30,880",
+      "text": "going to include a"
+    },
+    {
+      "start_time": "00:22:29,840",
+      "end_time": "00:22:33,120",
+      "text": "we're going to make it inclusive to"
+    },
+    {
+      "start_time": "00:22:30,880",
+      "end_time": "00:22:36,080",
+      "text": "everyone because that's a smarter way to"
+    },
+    {
+      "start_time": "00:22:33,120",
+      "end_time": "00:22:37,840",
+      "text": "do business anyways"
+    },
+    {
+      "start_time": "00:22:36,080",
+      "end_time": "00:22:39,520",
+      "text": "i would imagine if you in two weeks osr"
+    },
+    {
+      "start_time": "00:22:37,840",
+      "end_time": "00:22:40,960",
+      "text": "is cool like i just experienced it it's"
+    },
+    {
+      "start_time": "00:22:39,520",
+      "end_time": "00:22:42,480",
+      "text": "actually pretty damn cool"
+    },
+    {
+      "start_time": "00:22:40,960",
+      "end_time": "00:22:44,240",
+      "text": "i wonder where it comes out especially"
+    },
+    {
+      "start_time": "00:22:42,480",
+      "end_time": "00:22:45,679",
+      "text": "when it comes to role playing game world"
+    },
+    {
+      "start_time": "00:22:44,240",
+      "end_time": "00:22:47,520",
+      "text": "one where i'm more inclusive"
+    },
+    {
+      "start_time": "00:22:45,679",
+      "end_time": "00:22:48,880",
+      "text": "which may uh upset people who return"
+    },
+    {
+      "start_time": "00:22:47,520",
+      "end_time": "00:22:49,520",
+      "text": "their twitter their book on twitter"
+    },
+    {
+      "start_time": "00:22:48,880",
+      "end_time": "00:22:50,960",
+      "text": "because"
+    },
+    {
+      "start_time": "00:22:49,520",
+      "end_time": "00:22:53,039",
+      "text": "it's said that they're inclusive i don't"
+    },
+    {
+      "start_time": "00:22:50,960",
+      "end_time": "00:22:54,640",
+      "text": "like it or world 2 where"
+    },
+    {
+      "start_time": "00:22:53,039",
+      "end_time": "00:22:56,799",
+      "text": "you are you're like you [ __ ] it i'm"
+    },
+    {
+      "start_time": "00:22:54,640",
+      "end_time": "00:22:59,919",
+      "text": "going to make it oh it's the 1950s"
+    },
+    {
+      "start_time": "00:22:56,799",
+      "end_time": "00:23:01,760",
+      "text": "role-playing game yeah and like i would"
+    },
+    {
+      "start_time": "00:22:59,919",
+      "end_time": "00:23:02,480",
+      "text": "have to imagine that this is way more"
+    },
+    {
+      "start_time": "00:23:01,760",
+      "end_time": "00:23:04,240",
+      "text": "profitable"
+    },
+    {
+      "start_time": "00:23:02,480",
+      "end_time": "00:23:05,600",
+      "text": "and that option one yeah where you're"
+    },
+    {
+      "start_time": "00:23:04,240",
+      "end_time": "00:23:08,480",
+      "text": "more inclusive and again"
+    },
+    {
+      "start_time": "00:23:05,600",
+      "end_time": "00:23:09,919",
+      "text": "uh this guy got destroyed on twitter and"
+    },
+    {
+      "start_time": "00:23:08,480",
+      "end_time": "00:23:10,159",
+      "text": "read it and everywhere and you know"
+    },
+    {
+      "start_time": "00:23:09,919",
+      "end_time": "00:23:11,360",
+      "text": "right"
+    },
+    {
+      "start_time": "00:23:10,159",
+      "end_time": "00:23:12,960",
+      "text": "it seems like one of those read the room"
+    },
+    {
+      "start_time": "00:23:11,360",
+      "end_time": "00:23:14,400",
+      "text": "situations like yes you're not in the"
+    },
+    {
+      "start_time": "00:23:12,960",
+      "end_time": "00:23:16,720",
+      "text": "right place here like if it were"
+    },
+    {
+      "start_time": "00:23:14,400",
+      "end_time": "00:23:17,840",
+      "text": "like an alt-right gun you know forum all"
+    },
+    {
+      "start_time": "00:23:16,720",
+      "end_time": "00:23:19,280",
+      "text": "right i get where it coming from but"
+    },
+    {
+      "start_time": "00:23:17,840",
+      "end_time": "00:23:20,559",
+      "text": "this is a fantasy role-playing"
+    },
+    {
+      "start_time": "00:23:19,280",
+      "end_time": "00:23:22,480",
+      "text": "it's a fantasy role-playing game where"
+    },
+    {
+      "start_time": "00:23:20,559",
+      "end_time": "00:23:24,400",
+      "text": "we play you know elves and"
+    },
+    {
+      "start_time": "00:23:22,480",
+      "end_time": "00:23:26,080",
+      "text": "dragons and you know especially if"
+    },
+    {
+      "start_time": "00:23:24,400",
+      "end_time": "00:23:27,760",
+      "text": "you're a dungeon master i've"
+    },
+    {
+      "start_time": "00:23:26,080",
+      "end_time": "00:23:29,280",
+      "text": "been a million different races and"
+    },
+    {
+      "start_time": "00:23:27,760",
+      "end_time": "00:23:31,440",
+      "text": "genders and like"
+    },
+    {
+      "start_time": "00:23:29,280",
+      "end_time": "00:23:33,120",
+      "text": "you know i've been genderless creatures"
+    },
+    {
+      "start_time": "00:23:31,440",
+      "end_time": "00:23:35,200",
+      "text": "i've been female i've been male"
+    },
+    {
+      "start_time": "00:23:33,120",
+      "end_time": "00:23:36,400",
+      "text": "like i've been a thousand years old i've"
+    },
+    {
+      "start_time": "00:23:35,200",
+      "end_time": "00:23:37,039",
+      "text": "been two years old you know what i mean"
+    },
+    {
+      "start_time": "00:23:36,400",
+      "end_time": "00:23:39,840",
+      "text": "so"
+    },
+    {
+      "start_time": "00:23:37,039",
+      "end_time": "00:23:41,360",
+      "text": "it by nature role-playing games i think"
+    },
+    {
+      "start_time": "00:23:39,840",
+      "end_time": "00:23:43,919",
+      "text": "makes you inclusive so to"
+    },
+    {
+      "start_time": "00:23:41,360",
+      "end_time": "00:23:45,360",
+      "text": "to to to dog tag you know to earmark"
+    },
+    {
+      "start_time": "00:23:43,919",
+      "end_time": "00:23:46,159",
+      "text": "your role-playing game basically by"
+    },
+    {
+      "start_time": "00:23:45,360",
+      "end_time": "00:23:47,760",
+      "text": "being like"
+    },
+    {
+      "start_time": "00:23:46,159",
+      "end_time": "00:23:49,360",
+      "text": "nudge-nudge wink wink none of that"
+    },
+    {
+      "start_time": "00:23:47,760",
+      "end_time": "00:23:50,080",
+      "text": "wokeness we're gonna get back to the"
+    },
+    {
+      "start_time": "00:23:49,360",
+      "end_time": "00:23:51,200",
+      "text": "good old days"
+    },
+    {
+      "start_time": "00:23:50,080",
+      "end_time": "00:23:54,240",
+      "text": "like in the original dungeons and"
+    },
+    {
+      "start_time": "00:23:51,200",
+      "end_time": "00:23:55,919",
+      "text": "dragons where females were limited"
+    },
+    {
+      "start_time": "00:23:54,240",
+      "end_time": "00:23:57,760",
+      "text": "in their strength score oh that's so"
+    },
+    {
+      "start_time": "00:23:55,919",
+      "end_time": "00:23:59,200",
+      "text": "dumb oh that's stupid because there's"
+    },
+    {
+      "start_time": "00:23:57,760",
+      "end_time": "00:23:59,600",
+      "text": "like well have you ever seen a crossfit"
+    },
+    {
+      "start_time": "00:23:59,200",
+      "end_time": "00:24:01,360",
+      "text": "chick"
+    },
+    {
+      "start_time": "00:23:59,600",
+      "end_time": "00:24:05,840",
+      "text": "oh yeah is there anything else"
+    },
+    {
+      "start_time": "00:24:01,360",
+      "end_time": "00:24:05,840",
+      "text": "definitely some chicks out there"
+    },
+    {
+      "start_time": "00:24:10,880",
+      "end_time": "00:24:14,559",
+      "text": "well i think that was their intention i"
+    },
+    {
+      "start_time": "00:24:12,400",
+      "end_time": "00:24:15,200",
+      "text": "think they thought there was this huge"
+    },
+    {
+      "start_time": "00:24:14,559",
+      "end_time": "00:24:18,880",
+      "text": "crowd"
+    },
+    {
+      "start_time": "00:24:15,200",
+      "end_time": "00:24:21,200",
+      "text": "of disenfranchised fantasy role players"
+    },
+    {
+      "start_time": "00:24:18,880",
+      "end_time": "00:24:22,480",
+      "text": "who felt like who felt like this shit's"
+    },
+    {
+      "start_time": "00:24:21,200",
+      "end_time": "00:24:25,600",
+      "text": "too much who felt like the"
+    },
+    {
+      "start_time": "00:24:22,480",
+      "end_time": "00:24:28,640",
+      "text": "woke left was leaving them behind"
+    },
+    {
+      "start_time": "00:24:25,600",
+      "end_time": "00:24:29,520",
+      "text": "and that uh they felt like oh we'll"
+    },
+    {
+      "start_time": "00:24:28,640",
+      "end_time": "00:24:31,679",
+      "text": "we'll be"
+    },
+    {
+      "start_time": "00:24:29,520",
+      "end_time": "00:24:32,960",
+      "text": "you know we'll wave that banner yeah you"
+    },
+    {
+      "start_time": "00:24:31,679",
+      "end_time": "00:24:34,720",
+      "text": "know but it just limits your ass but"
+    },
+    {
+      "start_time": "00:24:32,960",
+      "end_time": "00:24:35,440",
+      "text": "instead they chose to die on that hill"
+    },
+    {
+      "start_time": "00:24:34,720",
+      "end_time": "00:24:38,000",
+      "text": "yeah that's"
+    },
+    {
+      "start_time": "00:24:35,440",
+      "end_time": "00:24:38,720",
+      "text": "no i agree i mean this company's do doa"
+    },
+    {
+      "start_time": "00:24:38,000",
+      "end_time": "00:24:39,919",
+      "text": "even like the"
+    },
+    {
+      "start_time": "00:24:38,720",
+      "end_time": "00:24:41,840",
+      "text": "the number one product that they're"
+    },
+    {
+      "start_time": "00:24:39,919",
+      "end_time": "00:24:43,840",
+      "text": "releasing which is called giant lands"
+    },
+    {
+      "start_time": "00:24:41,840",
+      "end_time": "00:24:45,600",
+      "text": "and they're like we've got you know the"
+    },
+    {
+      "start_time": "00:24:43,840",
+      "end_time": "00:24:46,960",
+      "text": "giant lands um his name is completely"
+    },
+    {
+      "start_time": "00:24:45,600",
+      "end_time": "00:24:49,679",
+      "text": "forgetting me right now but he"
+    },
+    {
+      "start_time": "00:24:46,960",
+      "end_time": "00:24:51,039",
+      "text": "jim ward i think uh was this big name"
+    },
+    {
+      "start_time": "00:24:49,679",
+      "end_time": "00:24:52,320",
+      "text": "producer from tsr"
+    },
+    {
+      "start_time": "00:24:51,039",
+      "end_time": "00:24:53,919",
+      "text": "and he's like we got giant lines no"
+    },
+    {
+      "start_time": "00:24:52,320",
+      "end_time": "00:24:55,200",
+      "text": "though they have the license and they"
+    },
+    {
+      "start_time": "00:24:53,919",
+      "end_time": "00:24:56,880",
+      "text": "have the right to distribute the game"
+    },
+    {
+      "start_time": "00:24:55,200",
+      "end_time": "00:24:57,840",
+      "text": "but like the guy who wrote it is like"
+    },
+    {
+      "start_time": "00:24:56,880",
+      "end_time": "00:24:59,679",
+      "text": "yeah i don't have anything to do with"
+    },
+    {
+      "start_time": "00:24:57,840",
+      "end_time": "00:25:01,120",
+      "text": "these [ __ ] good you know and even"
+    },
+    {
+      "start_time": "00:24:59,679",
+      "end_time": "00:25:04,400",
+      "text": "gary's other son"
+    },
+    {
+      "start_time": "00:25:01,120",
+      "end_time": "00:25:06,080",
+      "text": "luke the one who helped found tsr2 has"
+    },
+    {
+      "start_time": "00:25:04,400",
+      "end_time": "00:25:08,559",
+      "text": "basically come out and been like"
+    },
+    {
+      "start_time": "00:25:06,080",
+      "end_time": "00:25:10,000",
+      "text": "this is all sham this is all garbage and"
+    },
+    {
+      "start_time": "00:25:08,559",
+      "end_time": "00:25:10,400",
+      "text": "then this twitter account was basically"
+    },
+    {
+      "start_time": "00:25:10,000",
+      "end_time": "00:25:12,159",
+      "text": "like"
+    },
+    {
+      "start_time": "00:25:10,400",
+      "end_time": "00:25:14,720",
+      "text": "luke you've always been a loser it's"
+    },
+    {
+      "start_time": "00:25:12,159",
+      "end_time": "00:25:16,080",
+      "text": "like it's like a high school okay"
+    },
+    {
+      "start_time": "00:25:14,720",
+      "end_time": "00:25:17,840",
+      "text": "two brothers there's too much drama"
+    },
+    {
+      "start_time": "00:25:16,080",
+      "end_time": "00:25:18,880",
+      "text": "that's so much stronger now i agree"
+    },
+    {
+      "start_time": "00:25:17,840",
+      "end_time": "00:25:20,400",
+      "text": "though with"
+    },
+    {
+      "start_time": "00:25:18,880",
+      "end_time": "00:25:21,760",
+      "text": "don't push it too far awoke and the"
+    },
+    {
+      "start_time": "00:25:20,400",
+      "end_time": "00:25:22,880",
+      "text": "reason i remember we talked about this"
+    },
+    {
+      "start_time": "00:25:21,760",
+      "end_time": "00:25:24,640",
+      "text": "not woke enough go woke"
+    },
+    {
+      "start_time": "00:25:22,880",
+      "end_time": "00:25:26,880",
+      "text": "oh my god no well do you remember the"
+    },
+    {
+      "start_time": "00:25:24,640",
+      "end_time": "00:25:28,080",
+      "text": "getting rid of dungeon master"
+    },
+    {
+      "start_time": "00:25:26,880",
+      "end_time": "00:25:30,159",
+      "text": "you see i'm saying like there's a"
+    },
+    {
+      "start_time": "00:25:28,080",
+      "end_time": "00:25:31,679",
+      "text": "there's a there's there's some i'm just"
+    },
+    {
+      "start_time": "00:25:30,159",
+      "end_time": "00:25:33,679",
+      "text": "grasping at straws"
+    },
+    {
+      "start_time": "00:25:31,679",
+      "end_time": "00:25:34,960",
+      "text": "and versus inclusionary like i don't"
+    },
+    {
+      "start_time": "00:25:33,679",
+      "end_time": "00:25:38,240",
+      "text": "want to get orcs because"
+    },
+    {
+      "start_time": "00:25:34,960",
+      "end_time": "00:25:39,520",
+      "text": "they're they're african-americans like"
+    },
+    {
+      "start_time": "00:25:38,240",
+      "end_time": "00:25:41,840",
+      "text": "well i don't know where that comes from"
+    },
+    {
+      "start_time": "00:25:39,520",
+      "end_time": "00:25:43,520",
+      "text": "or dungeon master is a slave master sure"
+    },
+    {
+      "start_time": "00:25:41,840",
+      "end_time": "00:25:45,840",
+      "text": "yeah i mean as i don't get that part"
+    },
+    {
+      "start_time": "00:25:43,520",
+      "end_time": "00:25:47,840",
+      "text": "as a you know as a white guy it seems"
+    },
+    {
+      "start_time": "00:25:45,840",
+      "end_time": "00:25:49,760",
+      "text": "strange at first but like i also get the"
+    },
+    {
+      "start_time": "00:25:47,840",
+      "end_time": "00:25:50,000",
+      "text": "idea that like the indigenous people who"
+    },
+    {
+      "start_time": "00:25:49,760",
+      "end_time": "00:25:51,919",
+      "text": "are"
+    },
+    {
+      "start_time": "00:25:50,000",
+      "end_time": "00:25:53,679",
+      "text": "are not as smart and are a different"
+    },
+    {
+      "start_time": "00:25:51,919",
+      "end_time": "00:25:54,480",
+      "text": "skin complexion yes there also works but"
+    },
+    {
+      "start_time": "00:25:53,679",
+      "end_time": "00:25:56,480",
+      "text": "like"
+    },
+    {
+      "start_time": "00:25:54,480",
+      "end_time": "00:25:58,240",
+      "text": "okay i get i can see how that vibe sort"
+    },
+    {
+      "start_time": "00:25:56,480",
+      "end_time": "00:25:58,480",
+      "text": "of like native america okay it seems"
+    },
+    {
+      "start_time": "00:25:58,240",
+      "end_time": "00:26:00,080",
+      "text": "like"
+    },
+    {
+      "start_time": "00:25:58,480",
+      "end_time": "00:26:02,080",
+      "text": "they're always bad like why do we always"
+    },
+    {
+      "start_time": "00:26:00,080",
+      "end_time": "00:26:03,679",
+      "text": "paint them in that light um so i can"
+    },
+    {
+      "start_time": "00:26:02,080",
+      "end_time": "00:26:05,360",
+      "text": "understand where that's coming from and"
+    },
+    {
+      "start_time": "00:26:03,679",
+      "end_time": "00:26:07,200",
+      "text": "i can say with like light-colored orcs"
+    },
+    {
+      "start_time": "00:26:05,360",
+      "end_time": "00:26:10,000",
+      "text": "and i can have"
+    },
+    {
+      "start_time": "00:26:07,200",
+      "end_time": "00:26:11,919",
+      "text": "amazing dark-skinned heroes you can do"
+    },
+    {
+      "start_time": "00:26:10,000",
+      "end_time": "00:26:13,600",
+      "text": "whatever you want"
+    },
+    {
+      "start_time": "00:26:11,919",
+      "end_time": "00:26:16,000",
+      "text": "that's not the common like socially"
+    },
+    {
+      "start_time": "00:26:13,600",
+      "end_time": "00:26:18,000",
+      "text": "accepted like orc is a dark-skinned bad"
+    },
+    {
+      "start_time": "00:26:16,000",
+      "end_time": "00:26:19,600",
+      "text": "guy no i just think orca is dirty"
+    },
+    {
+      "start_time": "00:26:18,000",
+      "end_time": "00:26:20,720",
+      "text": "and me too my my favorite character my"
+    },
+    {
+      "start_time": "00:26:19,600",
+      "end_time": "00:26:21,600",
+      "text": "first character ever played was a half"
+    },
+    {
+      "start_time": "00:26:20,720",
+      "end_time": "00:26:23,520",
+      "text": "workout yeah correct i"
+    },
+    {
+      "start_time": "00:26:21,600",
+      "end_time": "00:26:24,960",
+      "text": "loved him he was great his own bathroom"
+    },
+    {
+      "start_time": "00:26:23,520",
+      "end_time": "00:26:26,799",
+      "text": "so i i under you know but"
+    },
+    {
+      "start_time": "00:26:24,960",
+      "end_time": "00:26:28,159",
+      "text": "again perhaps from a place of privilege"
+    },
+    {
+      "start_time": "00:26:26,799",
+      "end_time": "00:26:29,840",
+      "text": "where i'm like i you know"
+    },
+    {
+      "start_time": "00:26:28,159",
+      "end_time": "00:26:31,200",
+      "text": "yeah i don't understand how that's a"
+    },
+    {
+      "start_time": "00:26:29,840",
+      "end_time": "00:26:32,400",
+      "text": "that doesn't affect me"
+    },
+    {
+      "start_time": "00:26:31,200",
+      "end_time": "00:26:33,279",
+      "text": "so i don't know how it affects anyone"
+    },
+    {
+      "start_time": "00:26:32,400",
+      "end_time": "00:26:34,880",
+      "text": "but i also don't know where you're"
+    },
+    {
+      "start_time": "00:26:33,279",
+      "end_time": "00:26:35,360",
+      "text": "coming from so i can understand how that"
+    },
+    {
+      "start_time": "00:26:34,880",
+      "end_time": "00:26:36,559",
+      "text": "could be"
+    },
+    {
+      "start_time": "00:26:35,360",
+      "end_time": "00:26:37,679",
+      "text": "i'd have a more conversation with"
+    },
+    {
+      "start_time": "00:26:36,559",
+      "end_time": "00:26:38,400",
+      "text": "someone that agreed on that but it's"
+    },
+    {
+      "start_time": "00:26:37,679",
+      "end_time": "00:26:40,159",
+      "text": "just"
+    },
+    {
+      "start_time": "00:26:38,400",
+      "end_time": "00:26:42,080",
+      "text": "that one is when i go okay maybe you're"
+    },
+    {
+      "start_time": "00:26:40,159",
+      "end_time": "00:26:43,440",
+      "text": "trying to push too far i thought it was"
+    },
+    {
+      "start_time": "00:26:42,080",
+      "end_time": "00:26:44,799",
+      "text": "an important thing to discuss"
+    },
+    {
+      "start_time": "00:26:43,440",
+      "end_time": "00:26:47,279",
+      "text": "you know i know that i've received some"
+    },
+    {
+      "start_time": "00:26:44,799",
+      "end_time": "00:26:49,360",
+      "text": "comments from people who were curious"
+    },
+    {
+      "start_time": "00:26:47,279",
+      "end_time": "00:26:51,039",
+      "text": "about how we felt about it um you know"
+    },
+    {
+      "start_time": "00:26:49,360",
+      "end_time": "00:26:52,080",
+      "text": "again we we represent a kind of a"
+    },
+    {
+      "start_time": "00:26:51,039",
+      "end_time": "00:26:55,440",
+      "text": "spectrum of political"
+    },
+    {
+      "start_time": "00:26:52,080",
+      "end_time": "00:26:57,200",
+      "text": "views here at the table um and i think"
+    },
+    {
+      "start_time": "00:26:55,440",
+      "end_time": "00:26:57,679",
+      "text": "though universally i think we all agree"
+    },
+    {
+      "start_time": "00:26:57,200",
+      "end_time": "00:27:00,159",
+      "text": "that"
+    },
+    {
+      "start_time": "00:26:57,679",
+      "end_time": "00:27:01,360",
+      "text": "uh this this this guy's just dumb yeah i"
+    },
+    {
+      "start_time": "00:27:00,159",
+      "end_time": "00:27:02,320",
+      "text": "don't think that's a political thing in"
+    },
+    {
+      "start_time": "00:27:01,360",
+      "end_time": "00:27:03,440",
+      "text": "my opinion i mean i'm pretty"
+    },
+    {
+      "start_time": "00:27:02,320",
+      "end_time": "00:27:05,039",
+      "text": "conservative and i think that's just"
+    },
+    {
+      "start_time": "00:27:03,440",
+      "end_time": "00:27:07,039",
+      "text": "he's enhanced"
+    },
+    {
+      "start_time": "00:27:05,039",
+      "end_time": "00:27:08,159",
+      "text": "there's a difference between being uh"
+    },
+    {
+      "start_time": "00:27:07,039",
+      "end_time": "00:27:10,799",
+      "text": "from political"
+    },
+    {
+      "start_time": "00:27:08,159",
+      "end_time": "00:27:11,200",
+      "text": "you know conservatives and hate yes"
+    },
+    {
+      "start_time": "00:27:10,799",
+      "end_time": "00:27:12,799",
+      "text": "that's"
+    },
+    {
+      "start_time": "00:27:11,200",
+      "end_time": "00:27:14,559",
+      "text": "that's what i'm saying absolutely and"
+    },
+    {
+      "start_time": "00:27:12,799",
+      "end_time": "00:27:16,640",
+      "text": "i'm socially liberal anyway"
+    },
+    {
+      "start_time": "00:27:14,559",
+      "end_time": "00:27:18,559",
+      "text": "yeah but so i think the end result is"
+    },
+    {
+      "start_time": "00:27:16,640",
+      "end_time": "00:27:20,399",
+      "text": "that i think that company is"
+    },
+    {
+      "start_time": "00:27:18,559",
+      "end_time": "00:27:21,440",
+      "text": "you know dead on arrival i it sucks"
+    },
+    {
+      "start_time": "00:27:20,399",
+      "end_time": "00:27:22,559",
+      "text": "because you know i have such fond"
+    },
+    {
+      "start_time": "00:27:21,440",
+      "end_time": "00:27:24,559",
+      "text": "memories of"
+    },
+    {
+      "start_time": "00:27:22,559",
+      "end_time": "00:27:26,559",
+      "text": "tsr and what that meant for me growing"
+    },
+    {
+      "start_time": "00:27:24,559",
+      "end_time": "00:27:28,000",
+      "text": "up and to see it like besmirched this"
+    },
+    {
+      "start_time": "00:27:26,559",
+      "end_time": "00:27:28,960",
+      "text": "way and a whole new generation of people"
+    },
+    {
+      "start_time": "00:27:28,000",
+      "end_time": "00:27:31,600",
+      "text": "are like oh yeah"
+    },
+    {
+      "start_time": "00:27:28,960",
+      "end_time": "00:27:32,480",
+      "text": "you mean that racist backwards big and"
+    },
+    {
+      "start_time": "00:27:31,600",
+      "end_time": "00:27:34,880",
+      "text": "that's not just ruined"
+    },
+    {
+      "start_time": "00:27:32,480",
+      "end_time": "00:27:36,399",
+      "text": "transphobic thing and i think that is"
+    },
+    {
+      "start_time": "00:27:34,880",
+      "end_time": "00:27:37,679",
+      "text": "the big problem but i think a second"
+    },
+    {
+      "start_time": "00:27:36,399",
+      "end_time": "00:27:39,279",
+      "text": "problem is"
+    },
+    {
+      "start_time": "00:27:37,679",
+      "end_time": "00:27:41,120",
+      "text": "i think that's why we don't wear hats"
+    },
+    {
+      "start_time": "00:27:39,279",
+      "end_time": "00:27:42,240",
+      "text": "during the jesus we can wear hats we"
+    },
+    {
+      "start_time": "00:27:41,120",
+      "end_time": "00:27:43,840",
+      "text": "just can't move them around"
+    },
+    {
+      "start_time": "00:27:42,240",
+      "end_time": "00:27:44,960",
+      "text": "yeah yeah but the second part so that's"
+    },
+    {
+      "start_time": "00:27:43,840",
+      "end_time": "00:27:45,520",
+      "text": "the big problem the second problem is"
+    },
+    {
+      "start_time": "00:27:44,960",
+      "end_time": "00:27:47,919",
+      "text": "that like"
+    },
+    {
+      "start_time": "00:27:45,520",
+      "end_time": "00:27:50,000",
+      "text": "oh tsr that company i have no idea about"
+    },
+    {
+      "start_time": "00:27:47,919",
+      "end_time": "00:27:50,320",
+      "text": "from 20 years ago before like my time at"
+    },
+    {
+      "start_time": "00:27:50,000",
+      "end_time": "00:27:52,480",
+      "text": "all"
+    },
+    {
+      "start_time": "00:27:50,320",
+      "end_time": "00:27:53,440",
+      "text": "oh also they're saying you know that"
+    },
+    {
+      "start_time": "00:27:52,480",
+      "end_time": "00:27:54,880",
+      "text": "right now you should just"
+    },
+    {
+      "start_time": "00:27:53,440",
+      "end_time": "00:27:56,640",
+      "text": "move away from that and people that have"
+    },
+    {
+      "start_time": "00:27:54,880",
+      "end_time": "00:27:58,399",
+      "text": "the osr like just make"
+    },
+    {
+      "start_time": "00:27:56,640",
+      "end_time": "00:28:00,080",
+      "text": "that the big name yeah i mean those"
+    },
+    {
+      "start_time": "00:27:58,399",
+      "end_time": "00:28:00,799",
+      "text": "renaissance boom you know i mean i hate"
+    },
+    {
+      "start_time": "00:28:00,080",
+      "end_time": "00:28:02,880",
+      "text": "to say this"
+    },
+    {
+      "start_time": "00:28:00,799",
+      "end_time": "00:28:04,240",
+      "text": "uh but you know everybody i had the"
+    },
+    {
+      "start_time": "00:28:02,880",
+      "end_time": "00:28:07,919",
+      "text": "opportunity to meet"
+    },
+    {
+      "start_time": "00:28:04,240",
+      "end_time": "00:28:10,720",
+      "text": "uh gary geiger shortly before his death"
+    },
+    {
+      "start_time": "00:28:07,919",
+      "end_time": "00:28:13,120",
+      "text": "and in the years following his widow"
+    },
+    {
+      "start_time": "00:28:10,720",
+      "end_time": "00:28:15,039",
+      "text": "gail geigex"
+    },
+    {
+      "start_time": "00:28:13,120",
+      "end_time": "00:28:16,720",
+      "text": "published a series of books and memoirs"
+    },
+    {
+      "start_time": "00:28:15,039",
+      "end_time": "00:28:19,120",
+      "text": "from gary's notes i even have a copy of"
+    },
+    {
+      "start_time": "00:28:16,720",
+      "end_time": "00:28:21,520",
+      "text": "cheers gary signed by gail geichax"
+    },
+    {
+      "start_time": "00:28:19,120",
+      "end_time": "00:28:23,120",
+      "text": "uh which was dedicated the profits the"
+    },
+    {
+      "start_time": "00:28:21,520",
+      "end_time": "00:28:24,320",
+      "text": "proceeds were going to the gary geigex"
+    },
+    {
+      "start_time": "00:28:23,120",
+      "end_time": "00:28:25,279",
+      "text": "memorial fund and"
+    },
+    {
+      "start_time": "00:28:24,320",
+      "end_time": "00:28:26,640",
+      "text": "part of what they were really trying to"
+    },
+    {
+      "start_time": "00:28:25,279",
+      "end_time": "00:28:28,399",
+      "text": "do for it was create a series of"
+    },
+    {
+      "start_time": "00:28:26,640",
+      "end_time": "00:28:29,039",
+      "text": "outreaches to bring role-playing games"
+    },
+    {
+      "start_time": "00:28:28,399",
+      "end_time": "00:28:30,960",
+      "text": "into like"
+    },
+    {
+      "start_time": "00:28:29,039",
+      "end_time": "00:28:33,200",
+      "text": "disenfranchised communities as well as"
+    },
+    {
+      "start_time": "00:28:30,960",
+      "end_time": "00:28:35,120",
+      "text": "to create a statue"
+    },
+    {
+      "start_time": "00:28:33,200",
+      "end_time": "00:28:36,000",
+      "text": "in lake geneva you know in his honor as"
+    },
+    {
+      "start_time": "00:28:35,120",
+      "end_time": "00:28:36,880",
+      "text": "the father of the fourth point but as"
+    },
+    {
+      "start_time": "00:28:36,000",
+      "end_time": "00:28:38,320",
+      "text": "time went on"
+    },
+    {
+      "start_time": "00:28:36,880",
+      "end_time": "00:28:40,880",
+      "text": "it actually kind of became apparent that"
+    },
+    {
+      "start_time": "00:28:38,320",
+      "end_time": "00:28:42,399",
+      "text": "she was just trying to uh"
+    },
+    {
+      "start_time": "00:28:40,880",
+      "end_time": "00:28:44,640",
+      "text": "make money off of it see what's up with"
+    },
+    {
+      "start_time": "00:28:42,399",
+      "end_time": "00:28:45,840",
+      "text": "these people and and it seems true for"
+    },
+    {
+      "start_time": "00:28:44,640",
+      "end_time": "00:28:47,760",
+      "text": "his sons too but it just seems like"
+    },
+    {
+      "start_time": "00:28:45,840",
+      "end_time": "00:28:49,360",
+      "text": "there's this whole group of people"
+    },
+    {
+      "start_time": "00:28:47,760",
+      "end_time": "00:28:50,799",
+      "text": "who you know and i think the problem is"
+    },
+    {
+      "start_time": "00:28:49,360",
+      "end_time": "00:28:51,600",
+      "text": "ultimately you have a game dungeons"
+    },
+    {
+      "start_time": "00:28:50,799",
+      "end_time": "00:28:54,480",
+      "text": "dragons"
+    },
+    {
+      "start_time": "00:28:51,600",
+      "end_time": "00:28:55,840",
+      "text": "it's creator gary gygax beloved by many"
+    },
+    {
+      "start_time": "00:28:54,480",
+      "end_time": "00:28:56,720",
+      "text": "was not by any stretch of the"
+    },
+    {
+      "start_time": "00:28:55,840",
+      "end_time": "00:28:59,360",
+      "text": "imagination"
+    },
+    {
+      "start_time": "00:28:56,720",
+      "end_time": "00:29:01,399",
+      "text": "uh perfect and was very much a product"
+    },
+    {
+      "start_time": "00:28:59,360",
+      "end_time": "00:29:03,520",
+      "text": "of his time i think he was born in like"
+    },
+    {
+      "start_time": "00:29:01,399",
+      "end_time": "00:29:05,840",
+      "text": "1945. yeah we should all keep things"
+    },
+    {
+      "start_time": "00:29:03,520",
+      "end_time": "00:29:06,960",
+      "text": "in perspective but that doesn't mean"
+    },
+    {
+      "start_time": "00:29:05,840",
+      "end_time": "00:29:09,120",
+      "text": "that we should"
+    },
+    {
+      "start_time": "00:29:06,960",
+      "end_time": "00:29:11,120",
+      "text": "right laud them but people also change"
+    },
+    {
+      "start_time": "00:29:09,120",
+      "end_time": "00:29:12,000",
+      "text": "like i some part of me thinks that if he"
+    },
+    {
+      "start_time": "00:29:11,120",
+      "end_time": "00:29:13,600",
+      "text": "was"
+    },
+    {
+      "start_time": "00:29:12,000",
+      "end_time": "00:29:15,039",
+      "text": "in the gaming community now he would he"
+    },
+    {
+      "start_time": "00:29:13,600",
+      "end_time": "00:29:16,640",
+      "text": "would change with the times"
+    },
+    {
+      "start_time": "00:29:15,039",
+      "end_time": "00:29:18,399",
+      "text": "maybe yes and no i mean i don't know"
+    },
+    {
+      "start_time": "00:29:16,640",
+      "end_time": "00:29:19,279",
+      "text": "well enough i mean well he's dead so we"
+    },
+    {
+      "start_time": "00:29:18,399",
+      "end_time": "00:29:20,799",
+      "text": "don't yeah but"
+    },
+    {
+      "start_time": "00:29:19,279",
+      "end_time": "00:29:22,640",
+      "text": "i guess what i'm trying to say is uh you"
+    },
+    {
+      "start_time": "00:29:20,799",
+      "end_time": "00:29:24,480",
+      "text": "know i think we can respect the game"
+    },
+    {
+      "start_time": "00:29:22,640",
+      "end_time": "00:29:28,000",
+      "text": "that he created without feeling like"
+    },
+    {
+      "start_time": "00:29:24,480",
+      "end_time": "00:29:28,880",
+      "text": "we need to you know uh cannot change"
+    },
+    {
+      "start_time": "00:29:28,000",
+      "end_time": "00:29:30,640",
+      "text": "anything because we're"
+    },
+    {
+      "start_time": "00:29:28,880",
+      "end_time": "00:29:32,000",
+      "text": "yeah it's also not it's not one-sided"
+    },
+    {
+      "start_time": "00:29:30,640",
+      "end_time": "00:29:33,360",
+      "text": "like before we got on"
+    },
+    {
+      "start_time": "00:29:32,000",
+      "end_time": "00:29:35,039",
+      "text": "uh started filming today we're talking"
+    },
+    {
+      "start_time": "00:29:33,360",
+      "end_time": "00:29:35,919",
+      "text": "about baseball rules for for you know"
+    },
+    {
+      "start_time": "00:29:35,039",
+      "end_time": "00:29:37,200",
+      "text": "15-20 minutes"
+    },
+    {
+      "start_time": "00:29:35,919",
+      "end_time": "00:29:39,440",
+      "text": "and we were talking about it because we"
+    },
+    {
+      "start_time": "00:29:37,200",
+      "end_time": "00:29:40,640",
+      "text": "really like baseball and you know like"
+    },
+    {
+      "start_time": "00:29:39,440",
+      "end_time": "00:29:41,919",
+      "text": "hey i think this rule is better or this"
+    },
+    {
+      "start_time": "00:29:40,640",
+      "end_time": "00:29:43,840",
+      "text": "rule is better like it's still well"
+    },
+    {
+      "start_time": "00:29:41,919",
+      "end_time": "00:29:44,880",
+      "text": "it's like d d is is great there's ways"
+    },
+    {
+      "start_time": "00:29:43,840",
+      "end_time": "00:29:45,760",
+      "text": "we can make it better there's things"
+    },
+    {
+      "start_time": "00:29:44,880",
+      "end_time": "00:29:49,200",
+      "text": "that make mistakes"
+    },
+    {
+      "start_time": "00:29:45,760",
+      "end_time": "00:29:52,159",
+      "text": "games change interest change awareness"
+    },
+    {
+      "start_time": "00:29:49,200",
+      "end_time": "00:29:52,960",
+      "text": "changes and you know you either adapt or"
+    },
+    {
+      "start_time": "00:29:52,159",
+      "end_time": "00:29:55,039",
+      "text": "die"
+    },
+    {
+      "start_time": "00:29:52,960",
+      "end_time": "00:29:56,799",
+      "text": "absolutely you know and so i mean i"
+    },
+    {
+      "start_time": "00:29:55,039",
+      "end_time": "00:29:57,279",
+      "text": "think that this is proof of that right"
+    },
+    {
+      "start_time": "00:29:56,799",
+      "end_time": "00:29:58,399",
+      "text": "absolutely"
+    },
+    {
+      "start_time": "00:29:57,279",
+      "end_time": "00:30:00,720",
+      "text": "i think that the companies that are"
+    },
+    {
+      "start_time": "00:29:58,399",
+      "end_time": "00:30:03,600",
+      "text": "doing a better job handling"
+    },
+    {
+      "start_time": "00:30:00,720",
+      "end_time": "00:30:03,600",
+      "text": "some of the uh"
+    },
+    {
+      "start_time": "00:30:03,760",
+      "end_time": "00:30:07,600",
+      "text": "inclusionary aspects are doing very well"
+    },
+    {
+      "start_time": "00:30:06,559",
+      "end_time": "00:30:08,480",
+      "text": "and i think the companies that are"
+    },
+    {
+      "start_time": "00:30:07,600",
+      "end_time": "00:30:11,279",
+      "text": "trying to come out"
+    },
+    {
+      "start_time": "00:30:08,480",
+      "end_time": "00:30:11,840",
+      "text": "against it are getting destroyed so i i"
+    },
+    {
+      "start_time": "00:30:11,279",
+      "end_time": "00:30:14,559",
+      "text": "think it's"
+    },
+    {
+      "start_time": "00:30:11,840",
+      "end_time": "00:30:16,320",
+      "text": "good yeah so i wanted to you know just"
+    },
+    {
+      "start_time": "00:30:14,559",
+      "end_time": "00:30:17,760",
+      "text": "have this conversation uh again we've"
+    },
+    {
+      "start_time": "00:30:16,320",
+      "end_time": "00:30:18,320",
+      "text": "gotten a lot of comments from some"
+    },
+    {
+      "start_time": "00:30:17,760",
+      "end_time": "00:30:22,080",
+      "text": "people"
+    },
+    {
+      "start_time": "00:30:18,320",
+      "end_time": "00:30:23,360",
+      "text": "uh including from uh a patron about uh"
+    },
+    {
+      "start_time": "00:30:22,080",
+      "end_time": "00:30:25,279",
+      "text": "kind of talking about this subject or"
+    },
+    {
+      "start_time": "00:30:23,360",
+      "end_time": "00:30:26,640",
+      "text": "more like what were our thoughts and"
+    },
+    {
+      "start_time": "00:30:25,279",
+      "end_time": "00:30:28,480",
+      "text": "why not just share it with everybody"
+    },
+    {
+      "start_time": "00:30:26,640",
+      "end_time": "00:30:29,840",
+      "text": "just so we can kind of clear the air and"
+    },
+    {
+      "start_time": "00:30:28,480",
+      "end_time": "00:30:30,240",
+      "text": "make sure everybody is aware of where we"
+    },
+    {
+      "start_time": "00:30:29,840",
+      "end_time": "00:30:32,799",
+      "text": "feel"
+    },
+    {
+      "start_time": "00:30:30,240",
+      "end_time": "00:30:34,000",
+      "text": "basically hear us at nights of last call"
+    },
+    {
+      "start_time": "00:30:32,799",
+      "end_time": "00:30:35,360",
+      "text": "you know i think that"
+    },
+    {
+      "start_time": "00:30:34,000",
+      "end_time": "00:30:37,279",
+      "text": "what paisle's doing what they're putting"
+    },
+    {
+      "start_time": "00:30:35,360",
+      "end_time": "00:30:39,679",
+      "text": "in their book is incredible i"
+    },
+    {
+      "start_time": "00:30:37,279",
+      "end_time": "00:30:41,440",
+      "text": "love the x card and i use it a lot"
+    },
+    {
+      "start_time": "00:30:39,679",
+      "end_time": "00:30:41,919",
+      "text": "especially whenever i'm using any sort"
+    },
+    {
+      "start_time": "00:30:41,440",
+      "end_time": "00:30:44,320",
+      "text": "of"
+    },
+    {
+      "start_time": "00:30:41,919",
+      "end_time": "00:30:45,919",
+      "text": "group with pickup game with new people"
+    },
+    {
+      "start_time": "00:30:44,320",
+      "end_time": "00:30:47,840",
+      "text": "or new strangers or any sort of game"
+    },
+    {
+      "start_time": "00:30:45,919",
+      "end_time": "00:30:49,440",
+      "text": "that's going to handle any sort of"
+    },
+    {
+      "start_time": "00:30:47,840",
+      "end_time": "00:30:50,880",
+      "text": "very sensitive topic where it's not with"
+    },
+    {
+      "start_time": "00:30:49,440",
+      "end_time": "00:30:52,559",
+      "text": "a bunch of people who are very clearly"
+    },
+    {
+      "start_time": "00:30:50,880",
+      "end_time": "00:30:54,080",
+      "text": "know what they're buying into i've used"
+    },
+    {
+      "start_time": "00:30:52,559",
+      "end_time": "00:30:55,600",
+      "text": "it for years and i think it's"
+    },
+    {
+      "start_time": "00:30:54,080",
+      "end_time": "00:30:57,200",
+      "text": "tremendously a session and if you've"
+    },
+    {
+      "start_time": "00:30:55,600",
+      "end_time": "00:30:57,919",
+      "text": "ever run a session zero before and"
+    },
+    {
+      "start_time": "00:30:57,200",
+      "end_time": "00:30:59,679",
+      "text": "you've been like"
+    },
+    {
+      "start_time": "00:30:57,919",
+      "end_time": "00:31:00,960",
+      "text": "hey what should be in our game what"
+    },
+    {
+      "start_time": "00:30:59,679",
+      "end_time": "00:31:02,559",
+      "text": "shouldn't be in our game"
+    },
+    {
+      "start_time": "00:31:00,960",
+      "end_time": "00:31:04,080",
+      "text": "you're you're doing it you're doing the"
+    },
+    {
+      "start_time": "00:31:02,559",
+      "end_time": "00:31:06,000",
+      "text": "right thing you are"
+    },
+    {
+      "start_time": "00:31:04,080",
+      "end_time": "00:31:07,840",
+      "text": "being mindful and you're being exclusive"
+    },
+    {
+      "start_time": "00:31:06,000",
+      "end_time": "00:31:09,679",
+      "text": "you know or inclusionary i should say"
+    },
+    {
+      "start_time": "00:31:07,840",
+      "end_time": "00:31:11,039",
+      "text": "you're being respectful for people and"
+    },
+    {
+      "start_time": "00:31:09,679",
+      "end_time": "00:31:11,679",
+      "text": "their feelings and that's that's the"
+    },
+    {
+      "start_time": "00:31:11,039",
+      "end_time": "00:31:13,440",
+      "text": "biggest thing"
+    },
+    {
+      "start_time": "00:31:11,679",
+      "end_time": "00:31:15,440",
+      "text": "right because people come here to play"
+    },
+    {
+      "start_time": "00:31:13,440",
+      "end_time": "00:31:17,760",
+      "text": "in your game or to play at your table"
+    },
+    {
+      "start_time": "00:31:15,440",
+      "end_time": "00:31:19,039",
+      "text": "to have fun absolutely right and if it"
+    },
+    {
+      "start_time": "00:31:17,760",
+      "end_time": "00:31:20,399",
+      "text": "becomes a thing of stress"
+    },
+    {
+      "start_time": "00:31:19,039",
+      "end_time": "00:31:22,080",
+      "text": "if it's a source of stress you know"
+    },
+    {
+      "start_time": "00:31:20,399",
+      "end_time": "00:31:23,679",
+      "text": "people just leave so"
+    },
+    {
+      "start_time": "00:31:22,080",
+      "end_time": "00:31:25,120",
+      "text": "you know keep that in mind and you know"
+    },
+    {
+      "start_time": "00:31:23,679",
+      "end_time": "00:31:27,440",
+      "text": "keep an open mind and"
+    },
+    {
+      "start_time": "00:31:25,120",
+      "end_time": "00:31:29,039",
+      "text": "i encourage people to uh you know to try"
+    },
+    {
+      "start_time": "00:31:27,440",
+      "end_time": "00:31:29,840",
+      "text": "to expand their horizons play different"
+    },
+    {
+      "start_time": "00:31:29,039",
+      "end_time": "00:31:31,600",
+      "text": "games"
+    },
+    {
+      "start_time": "00:31:29,840",
+      "end_time": "00:31:33,840",
+      "text": "um change up what you're playing be"
+    },
+    {
+      "start_time": "00:31:31,600",
+      "end_time": "00:31:35,200",
+      "text": "respectful but you know do so in a way"
+    },
+    {
+      "start_time": "00:31:33,840",
+      "end_time": "00:31:37,360",
+      "text": "that'll open your eyes instead of just"
+    },
+    {
+      "start_time": "00:31:35,200",
+      "end_time": "00:31:38,960",
+      "text": "close them all right"
+    },
+    {
+      "start_time": "00:31:37,360",
+      "end_time": "00:31:40,960",
+      "text": "all right well thanks for joining us for"
+    },
+    {
+      "start_time": "00:31:38,960",
+      "end_time": "00:31:42,559",
+      "text": "this conversation hopefully"
+    },
+    {
+      "start_time": "00:31:40,960",
+      "end_time": "00:31:43,760",
+      "text": "uh we kind of have covered everything"
+    },
+    {
+      "start_time": "00:31:42,559",
+      "end_time": "00:31:44,880",
+      "text": "pretty well but if you do have any"
+    },
+    {
+      "start_time": "00:31:43,760",
+      "end_time": "00:31:46,559",
+      "text": "questions or comments"
+    },
+    {
+      "start_time": "00:31:44,880",
+      "end_time": "00:31:48,320",
+      "text": "feel free to send us a message or leave"
+    },
+    {
+      "start_time": "00:31:46,559",
+      "end_time": "00:31:49,519",
+      "text": "a comment below we'll try to answer it i"
+    },
+    {
+      "start_time": "00:31:48,320",
+      "end_time": "00:31:51,279",
+      "text": "understand this is a"
+    },
+    {
+      "start_time": "00:31:49,519",
+      "end_time": "00:31:52,480",
+      "text": "kind of a sensitive subject and i you"
+    },
+    {
+      "start_time": "00:31:51,279",
+      "end_time": "00:31:53,760",
+      "text": "know understand that we are not"
+    },
+    {
+      "start_time": "00:31:52,480",
+      "end_time": "00:31:56,720",
+      "text": "necessarily the most"
+    },
+    {
+      "start_time": "00:31:53,760",
+      "end_time": "00:31:58,320",
+      "text": "uh appropriate group of diverse group to"
+    },
+    {
+      "start_time": "00:31:56,720",
+      "end_time": "00:31:59,679",
+      "text": "to answer it so you know we tried to be"
+    },
+    {
+      "start_time": "00:31:58,320",
+      "end_time": "00:32:01,360",
+      "text": "respectful about it but i did want to"
+    },
+    {
+      "start_time": "00:31:59,679",
+      "end_time": "00:32:02,640",
+      "text": "put our thoughts out there on it so"
+    },
+    {
+      "start_time": "00:32:01,360",
+      "end_time": "00:32:03,840",
+      "text": "hopefully you understand that and"
+    },
+    {
+      "start_time": "00:32:02,640",
+      "end_time": "00:32:04,559",
+      "text": "hopefully you found something useful"
+    },
+    {
+      "start_time": "00:32:03,840",
+      "end_time": "00:32:05,840",
+      "text": "today so"
+    },
+    {
+      "start_time": "00:32:04,559",
+      "end_time": "00:32:15,840",
+      "text": "thanks so much and we'll see you again"
+    },
+    {
+      "start_time": "00:32:05,840",
+      "end_time": "00:32:15,840",
+      "text": "next time"
+    },
+    {
+      "start_time": "00:32:23,919",
+      "end_time": "00:32:26,000",
+      "text": "you"
+    }
+  ],
+  "full_text": "welcome back everyone to another episode\nof the nightlife\ni'm joined by bob nick and matt tim is\nout today\nso today i thought we would talk about a\ncontroversial topic which has been\nmaking its rounds in the role-playing\ngame sphere and that's about this new\nversion of tsr\nernie gigax and some of the statements\nthat have been made by him or his\ncompany on his behalf\nso as a sort of a brief overview tsr or\ntactical studies rules was the original\ngame company created by\ngary gygax and tim cask back in 1974\nwhich they used to publish their brand\nnew game dungeons and dragons\nthey did so for a number of years gary\ngygax eventually was forced out of his\nown company and then that company\nlater went on to be in financial trouble\nand was purchased by wizards of the\ncoast who still own it and produce the\nlicense to this day\nand when that happened well the tsr name\nkind of faded into a non-existence\na number of years passed and eventually\nernie gygax\nhis brother luke as well as some of\ntheir business partners\nbought the name and started producing\nsome games under that tsr not moniker\ntop secret being one of them so that's\nlike tsr number two\nwell i guess people are really bad about\nre-upping their\ncopyrights because well about 10 or 11\nyears later which brings us to right\nabout now\nthe tsr copyright and name mark had\nexpired\nand it was bought again but by the same\nperson\nwell sort of it was bought by ernie\ngigax along with some new business\nassociates\nwhich basically meant ernie kind of\nowned it with one group before but now\nhe was just buying it just for himself\nso this is like tsr number three and to\nmake it even more confusing\nlike the original tsr-2 was at tsr games\nand the new one is at tsr\nunderscore games right close enough well\nthat's fine that's you know whatever and\ni think when i\nheard heard this news i was kind of\nexcited because\nthe old school renaissance or osr has\nbeen gaining a lot of steam over the\nlast five to ten years\nosr is sort of modules and rule sets\nabout playing dungeons and dragons back\nwith the way it used to be\nvery stripped down yeah we we introduced\nbob to uh\nit's not bad guys yeah it's a basic d bx\n1981 little fear of the mind\nyeah uh it was uh not menstrual no it\nwas it was um yeah bx mentor basic\nit it was pretty cool i made a character\nin about five minutes versus\nthree hours and uh man right into the\ngame and\njust rolling with it it was it was quite\nexciting yeah and you know so there's a\nlot to like there and it it's a game uh\nit's a style\nof game that's more about uh thinking on\nyour feet\nexploration it's not really about as\nmuch about\ndie you know storytelling narratives\nvillains arcs it's kind of more like\ngoing to a hole in the ground and you\nknow sort of see if you can survive very\nsword in sandals conan the barbarian i\nwant to live in a hole\nso it seemed like it was kind of a good\nthing on the paper on on paper but\nuh the company at tsr underscore games\nrepresenting tsr number three we're not\nsure who owns their twitter account but\nthey started making a series of tweets\nthat kind of got progressively\nmore and more suspect not progressive\nand problematic\nand you know to make a long story short\nso we can kind of get into the\nconversation\nthere has been a huge trend in the last\nfive to ten years and i've seen it\nprobably a lot more than most because\ni've always been very involved with uh\norganizations like\nindie games on demand which runs at\norigins and gen con and some of the\nother bigger games\nwhere indie game developers uh sort of\nget a chance to play test and beta test\ntheir rules\nuh popular you know game engines that\npeople play today like dungeon world and\nblaze in the dark kind of\nrose up in those areas and those gaming\nspaces have always been very\nvery very inclusionary um and\nyou know long before it became a thing\nto be on twitter and to put your\npronouns\nlike you know if you were a role player\nespecially an indie role player\nyou were very very used to seeing you\nknow name tags that\nshowed people's preferred pronouns and\nit was all just in the matter of\ninclusion and we've\ntalked about this before but\nrole-playing games magic the gathering\nuh i think they naturally reach out to\npeople who feel like they are in\nmarginalized or excluded communities\nand you know the lgbtqia community is\none that\ni think has really embraced role-playing\ngames and game companies\nboth out of the goodness of their hearts\nas well as the goodness of their\nfinancial statements\nhave responded to that and you know\nwizards of the coast have gotten a lot\nof flack for being maybe a little bit\nslower\nto react to it but game companies like\npaizo have put a lot of stuff into their\ngames that are\nvery much making a attempt to be mindful\ntowards\nbeing more politically correct and being\nmore respectful and being more\ninclusionary\nso it seems as if this new tsr games\nmaybe took a different tack it started\noff with simple tweets like\nlet's keep fantasy fantasy right let's\nkeep politics\nout of our games that's kind of what\nthey were saying i mean that sounds good\nsounds good to me\nface value sounds good absolutely and\nthen it\nstarted in where uh i should have\nstopped while they were ahead\nyou know they started basically saying\nthat like look you know we're going to\nrun the games the way that\nthat they were meant to be run and if it\ndefends you\ndon't play him and there were a lot of\nreally bad takes and\nand a lot of this company twitter was\nhandled by i don't know who they were\nhandling it by but\neventually someone came to them and said\nlook just make it simple just so there's\nno ambiguity just say\ntrans women are women trans men are men\nand their response was you are\ndisgusting\nwell i could okay then\nin a crazy turn of events they the last\ntweet i saw from this\nat tsr underscore games that's tsr\nnumber three basically said hey\nthe our marketing manager the person who\nwas running this account has been fired\nand\nuh we are getting a new person involved\nhow how big cause they were starting to\nlose well it's crazy they have a\nmarketing manager they got a ton of\nreplies where from people were like\nyou guys suck just when i was starting\nto respect you wait on the new tweet\nyeah because there were some people that\nwere mad they're like you gave in\nto the woke leftists well i don't like\ngiving into wokism\nbut i mean it doesn't seem like they\nwere on the right route\nso i i think it's not respectful at all\nlike it is different\nthere's a different scene being like\nanti-woke because they're just forcing\npropaganda down people's throats and\njust being respectful to a person\nwell and i so i thought the conversation\ntoday should be what you know and\nyou know something that i know that i've\npersonally kind of you know\nstruggled with is for example in\ndungeons and dragons\nthere's been a large push towards sort\nof eliminating\nuh you know classic monsters like the\norc\nand sort of removing some of the\nnegative or evil stereotypes about them\nbecause\nyou know some people felt like that is a\nan attack on indigenous people or\nyou know people of of uh\nafrican-american descent or\nany number of of minorities um i don't\nknow that i felt that way but i also\nknow that i'm not\nthe best expert to weigh in on that but\ni guess the question is\nhow much should politics be\na part of role-playing games um zero\nso you think zero yeah i think zero but\ni also don't think that you know\ntreating people as you know the the\ngender that they\nthey present as is politics that's just\nthat i'm saying there's good\ngood well-being to being respectful well\nokay yeah\nand let me be devil's advocate here i'll\nbe moderate just to be clear i'm i'm\ni'm very progressive right my\ngirlfriend's non-binary so\nyeah well and to be i mean i'm the most\nprobably conservative person at this\ntable\nyeah so i would agree with that but let\nme let me counter with i say this\ndo you think it is a role-playing games\nbook so let's use pathfinder as an\nexample\nbob you were telling us about a tweet\nyou read yeah someone bought a\npathfinder book\nagain i saw his tweet and i saw a bunch\nof people even known at respond to which\ni agreed with\nuh he was like bought the bought the\nbook and then they were talking about\nusing people's proper pronouns\nand you know the right way to play you\nknow being kind to people and he was\nlike\ndisgusting i'm returning this book right\naway i'm like\nuh sounds like that that snowflake was\noffended well\nthat's funny yeah exactly um but yeah i\ni was kind of like\nwell what i don't know what you expected\nfirst when you bought a fantasy book but\nanyway\num yeah so more yeah if you want to\nreturn the book good i mean people were\ngoing at him which i didn't like i mean\nthat's his opinion\nor her opinion i didn't really catch who\nwas tweeting it but um\nyeah i i i just like whatever i think i\nthink that person's wrong\nyeah i think that's uh but i guess the\nquestion is does a company\na company certainly has the right oh\nthey think whatever whatever they want\ntheir book they're private\nright private company they can do\nwhatever they want but do they have the\nresponsibility\ni don't think they have to uh they i\nthink they should\njust because i think well i think it's\njust respectful i think i mean\nyou're playing with a group of people i\nmean in capitalism no\nbecause you would say that if if you\ndon't like the way that they are\nwhat they're doing then you avoid them\nwith your dollar and then they get out\nof business\num i think capitalism is flawed\nobviously but uh like morality wise i\nthink like what\nit doesn't take anything to be inclusive\nyes and that's fine and like if you're\nupset that\nthere's a couple pages about talking\nabout it you can just skip those pages\nwell all right it's\nso easy it's it's so easy to just\ninclude people as opposed to being upset\nabout trying to trust you so\nagain i'll just be devil's advocate i\ndon't get it so i don't understand\ni don't understand that perspective but\nyeah well i'll be devil's advocate again\nlet's say that you sign your uh your kid\nup for\nsoccer little league and then go to\ntheir practice yep okay\nit's an hour of soccer practice right so\nthey can learn ball handling skills\nuh they can learn how to pass they can\nlearn how to\nrun plays but 10 minutes of that hour\nevery week at soccer practice is\ndedicated to\nteaching them about inclusivity and\ndiversity well that's right i'm gonna\nhave a problem\ni don't think that's part of soccer well\nso but so again are we teaching them how\nto be good people\nbecause i agree that you should be\ninclusive and that should be done by\nyour parents\nso if i may take a moment here and tell\na story uh i\noriginally i had that same sort of\nthought process which is like no like\nthis i'm here for soccer\nmy girlfriend plays roller derby uh\nshout out to the roller derby crew\nso i follow them on instagram and my\ngirlfriend goes to the meeting so she\ntells me like every week what's her\nwhat's her roller derby name\nuh go go geronimo oh that's good\num and uh they are more especially\nduring quarantine here i've been more\nincreasingly talking about like\ndiver or inclusion and like uh diverse\nuniversity and all that kind of stuff\nand\noriginally i was like i don't understand\nlike i i'm all aboard\nall aboard for all of those things like\ni fully support them but\ni um you know this is a um\num uh roller derby club\nshouldn't our primary focus be on roller\nderby and i think the thing that was\ninteresting perspective i hadn't thought\nof was that\nlike we want to be more inclusive into\nthose those\nthose uh you know like into our normal\nneighborhood of people here in greater\ncleveland area\nand so we want to be able to make sure\nthat we you know are\ninclusive to include more people so we\nmake an effort of\nshowing that off to be as as inclusive\nas we can\neven though it's not necessarily related\nto um\nwhy isn't that done at home well because\nif i'm teaching my kids that which is\nwhat my goal is to get more people to\nplay roller derby\nand so if i if i just talk about roller\nderby\ni'll have some success but if i try to\ninclude the neighborhood and try to get\npeople who are\nmaybe not going to think of joining\nroller derby or get interested in it\nand i reach out to those okay well\nthat's fair yeah and so and so let's see\nthat's more marketing then yeah that's\nthat's\nwell and it's more of a marketing that's\nnot inclusive that's just and that's\nimportant areas and like\nit can be two things it can't be but\nwhat i'm getting at is is you're\nyou're trying to get more people to do\nwhat you're trying to do so it's your\npoint of the capitalism i'm going to try\nand get more people to buy my product\nto come and attend my roller derby uh or\njoin the group or join the team or\nwhatever like that\nyou're just trying to have people join\nokay so okay\nso taking a step back then do you think\nthat a lot of the decisions that have\nbeen made by the companies\nlet's say wizard of the coast and paizo\nare just about optics\nboth i'd say a little bit so i mean you\ngot to play\nyou got to play what you're what you're\nseeing in real time right yeah so\nwhat's in the news now is a lot about\ninclusion a lot about that so\ni'd say but you got a lot of buzzwords\nright so you want to pick up those\nbuzzwords you want to say\nhit with the time you want to stay with\nthe progression of society what about\nokay so you know contrasting with soccer\nmay are there you know this is kind of\nhow\ni feel about it i think that\nrole-playing games have\ni think it's something special and\nunique to the role-playing medium\nright where well you're playing someone\nyou're art\nyou're playing someone you're not which\nis why the thing they said before\nthe fantasy i was like that's literally\ni could be anything\ni think that those protections need to\nbe i think i think they're way more\nimportant\nthan they are and say in a soccer game i\nwould agree absolutely because a\nrole-playing game i think has a tendency\nto go into places where other people may\nnot be\ncomfortable absolutely one of the first\nthings i learned when i started going to\nindie games on demand was about this x\ncard\nand it was just this sort of thing that\nwas done at indie games\nand now is you know grown and grown and\nnow it's actually like a part\nin the pathfinder core rulebook i don't\nknow what it is you haven't read the\ncore rule\nno um i am a new dm sorry gm\nso the x card was this idea of okay\nwe're going to get together and we're\ngoing to tell games now indie games on\ndemand can handle v\nyou know these aren't just like oh we're\ngoing to get treasure and kill some orcs\nit can get pretty you know deep it can\nget\npretty serious and you're playing at a\nconvention so you're playing with a\nbunch of people you don't even know\nand the idea is we might start talking\nin a subject matter\nthat does not make you comfortable and\nrather than having to put the pressure\non someone to stand up in front of a\ngroup of strangers\nor even their friends and say this\ndoesn't make me comfortable can we\nplease stop\nthe idea was you would put a big x on a\nnote card or a piece of paper in the\ncenter of the table\nand if the subject matter started to\nchange to a point where you weren't\ncomfortable\nyou could just sort of gently reach\nforward and tap it and basically\neveryone knew\nif they're being respectful absolutely\nyou know so if we were going towards a\ngraphic sex scene or violent scene maybe\ni tap it and i go you know and we fade\nto black you know a curtain\nflutters in front of the screen for me\nyou know i was playing once a game of\nmonster hearts\nuh which is about uh supernatural\nteenage werewolf vampires in high school\nand uh i we started role-playing a scene\nwhere one of the teachers was trying to\nsexually seduce\none of the students and the student was\ninto it and obviously underage uh you\nknow the role playing\nand one of the people who were playing\nwith us was a teacher\nand this made them very uncomfortable\nmakes sense and they tapped the x\nand we said okay hold on cycle all right\nuh\nyou know obviously we can roll that back\ndo do we want to proceed with this\nor or you just don't want to hear it you\nknow do you want me to strike this\ncompletely from the game\nyou know or do you want us to you know\njust move move on\num and i think it's important to have\nthose conversations you're not you know\nernie\nuh x-cart is pronouns what's that do you\nthink ernie guy against his ex-card is\npronounced yeah well\nhe slid it out he's like i think that\nthere's a percentage of people who feel\nlike\neven if maybe they agree that you know\nthat lgbtq rights are important and that\ninclusivity and\ndiversity are important maybe there's\nsome people who feel like but it still\nshouldn't be in my game book my game\nbook should be the rules for the game\nbut the truth is i think these are\npeople who think that\nthat that stuff shouldn't be a thing at\nall that's right\nwho cares and that's why isil gets to\nmake a decision not you well\nthat's my thing it's at the end of the\nday it's like it's a private company\nright yeah\nyeah it's like trump trying to sue for\ntwitter and facebook for banning them\nit's like\nagainst free speech it's like i don't\nthink you understand how this works\nright but it's like that with\nevery single every single movie that\nyou've watched every single\nstory that you've ever read there's\ncharacters that are created\nthat have been established by the\nauthors they they're creating that\nnarrative so with piezo they're creating\nthe backstories\nright it's just a story of one snippet\nof one character\nit's it's designed to be kind of a\nfantasy yes\nand it needs to be tasteful i'm not\ngoing to say that you know they can't\njust\ngeneralize across everything yeah i mean\nfor example there are probably things i\ncould do or say in our pathfinder game\nthat would make you very uncomfortable\nabsolutely if i started talking pretty\ncomfortable with everything if i started\ntalking about sexual assault on children\nokay\nyeah i mean my point is yeah i mean i\nthink everyone has a limit\nabsolutely you know um if i really put\nyou into a tough situation where like\nthere was giants babies\ngiant babies yeah you know asia's\nprobably doesn't like giant babies would\nyou are you going to go in there\nare you going to go in there and crush\nthe skulls of giant babies and maybe\neven if you would\nwhy would i even put you in that\nsituation that's a good deal he murders\nhim\neven the younglings yeah right like\ndepends on cool and now here's the thing\nthere are some people who want to\nexplore that and there's some people who\ndon't\nand i i and i think part of the problem\nis is that this you know and i i gotta\nsay it's\nit's rare to see somebody just get i\nmean annihilated so universally but\nit just doesn't make sense because again\ni think that overwhelmingly\nagain it's i've been to a lot of\nconventions i've played with a lot of\npeople so\nyes it's anecdotal but i do feel like i\nhave a lot of experience with this\nas a whole the role-playing game\ncommunity\nis far more inclusive and far more\nunderstanding because\nthe game is literally i'm going to put\nmyself in someone else's shoes\nabsolutely\nyou're including it and from a totally\ndifficult perspective i'm just saying i\nthink\nanybody i want i think i think playing\nrole-playing games makes you a better\nperson\nyeah the one thing i always come back to\nis like\nold mythology with loki so i mean rick\nriordan had a\nuh one of his books was great with this\nwhen he had loki as a kid that could uh\ngo from\ndifferent sexes because located\nmythology could could go from a female\nto a male\ni'm like this is literally engraved in\nold mythology\nin norse mythology so i was like if a\nfantasy person could do that and yeah\nthat's\nold mythology why can't i do that in my\ngame\ni mean that's loki i mean one of my\nfavorite characters i've ever played was\nat a convention\nit was like it ended up being like a\nseven hour monster heart game\ni think it was my first or second time\nplaying monster hearts uh shout out to\nkyramagan\nuh who is my game master i think she's\nlike a game designer now\num she i played amanda penelope\nstarkweather\nwho was a you know 999 going on a\nthousand-year-old vampire who\nlooked like a 17 year old high schooler\nwho went to high school\nand uh so here's me playing\nyou know a generic cis-head\nwhite guy playing a female vampire\nwho was in love with the local\nbarista who was also female\nbeing played by another man man can you\nimagine being a thousand years old and\nstill in high school\nwell i mean that's part of that's part\nof the joke right like why do all these\nvampires go to high school\nhigh school yeah like how is it that\nthat's why skin sparkling\nthat seems like a horrible life why\nhaven't you graduated already why\nhaven't you taken over the world\nnow look i died and i'm not trying to\nsay that me playing a female vampire in\na pretend fantasy game\nuh made me somehow understand the\nstruggles\nthat a uh you know a let's say a trans\nperson oh absolutely\nnot but but you can play anything you\nwant but nobody but not just that but\nyou know what it\ngave me yeah it gave me more empathy\nthan i think i would have had\nthat's good because you're putting\nyourself in somebody else's shoes\nright whether it be a female character a\nmale character or whatever or even a\ndwarf\na dwarf yeah an orc uh a a cabald\nwhatever it's a fantasy realm but you're\nexperiencing it\nfrom different ones so like you wouldn't\nhate tall people\nright but azias has a eventual hatred\nfor giants\nright so you're playing that character\nyou're experiencing those emotions and\nthose thought processes\nfrom a different point of your view sure\nand i think the key though\nlike feel like therapy is you just have\nto do it in a safe way and absolutely\nyou can't be destructive with it\nand and if you have something like that\nin your group though i mean i don't know\nwho you're playing with\nwell and we've said this before though i\nhave always been blessed to have been\nable to play my games with\nclose personal friends or friends of\nfriends people i've you know\nacquaintances who've become friends um\nyou know\nand there are so many people out there\nthough that are playing with\nrandom strangers on the internet\nespecially online yeah and online and\nwe all know that you know whether you're\nplaying pro whether whether you're\nprobably playing behind a roll20 screen\nor you know you're behind a twitter\naccount like that anonymity that you get\nfrom being online makes people say\ndo and act in ways that no ordinary\nhuman being would ever possibly act\nlike getting a call of duty chat room\nyeah with a bunch of 14 year olds\nyeah yeah that's interesting yeah if we\nwere playing local area network\nlet's say you say that to my face that's\nwhy the first rules\nyou know you can't do that because like\nagain again going back to the soccer\nexample it's like let's say i'm playing\na soccer on my soccer team and there's\nanother soccer team and we're playing\nand\nmaybe someone on that soccer team is\nhorrible and atrocious but you're just\nlike whatever scoreboard you know\nwe won i came here to kick the ball and\ni won but with a role-playing game the\nwhole point is i need to interact with\nthese people\nand i need to you know and so i i think\nernie i think he missed the mark real\nbad i mean number one i think it's a\nhuge cash play too\ni think he's trying to you know the\nwrong cash player i think he's trying to\nfee you know\nhe's also trying to turn the original\ntsr headquarters in lake geneva\nwisconsin into this like\nmuseum and charging it's a it makes it\nsound like it's for an [ __ ] he makes\nit sound like it's a\nlike it's a non-profit but it's not and\nhe's like asking for donations but they\nalso charge money\nand it's like this is is tsr big enough\nof like a\nwell-known brand name like i know it\nobviously from from dnd\nwell the idea is is that his son has\nrelics\nif you will artifacts of his father you\nknow i'm sure if you did it\nin a cool good way it'd be like this is\nthis is the first handwritten copy of\ndungeons and dragons yeah yeah here's\nthe\nchromosomes here's sketches from his\nfirst that'd be awesome for sure that\nwould be awesome\nbut he's a profit monger he's just a\n[ __ ] he is he does not give a [ __ ]\nyeah that's he's an [ __ ]\nyeah you know i think you could have\ntook os osr oh sorry\nhe's older yeah i'm gonna make osr with\nthe tsr name\nand okay i don't agree with it but we're\ngoing to include a\nwe're going to make it inclusive to\neveryone because that's a smarter way to\ndo business anyways\ni would imagine if you in two weeks osr\nis cool like i just experienced it it's\nactually pretty damn cool\ni wonder where it comes out especially\nwhen it comes to role playing game world\none where i'm more inclusive\nwhich may uh upset people who return\ntheir twitter their book on twitter\nbecause\nit's said that they're inclusive i don't\nlike it or world 2 where\nyou are you're like you [ __ ] it i'm\ngoing to make it oh it's the 1950s\nrole-playing game yeah and like i would\nhave to imagine that this is way more\nprofitable\nand that option one yeah where you're\nmore inclusive and again\nuh this guy got destroyed on twitter and\nread it and everywhere and you know\nright\nit seems like one of those read the room\nsituations like yes you're not in the\nright place here like if it were\nlike an alt-right gun you know forum all\nright i get where it coming from but\nthis is a fantasy role-playing\nit's a fantasy role-playing game where\nwe play you know elves and\ndragons and you know especially if\nyou're a dungeon master i've\nbeen a million different races and\ngenders and like\nyou know i've been genderless creatures\ni've been female i've been male\nlike i've been a thousand years old i've\nbeen two years old you know what i mean\nso\nit by nature role-playing games i think\nmakes you inclusive so to\nto to to dog tag you know to earmark\nyour role-playing game basically by\nbeing like\nnudge-nudge wink wink none of that\nwokeness we're gonna get back to the\ngood old days\nlike in the original dungeons and\ndragons where females were limited\nin their strength score oh that's so\ndumb oh that's stupid because there's\nlike well have you ever seen a crossfit\nchick\noh yeah is there anything else\ndefinitely some chicks out there\nwell i think that was their intention i\nthink they thought there was this huge\ncrowd\nof disenfranchised fantasy role players\nwho felt like who felt like this shit's\ntoo much who felt like the\nwoke left was leaving them behind\nand that uh they felt like oh we'll\nwe'll be\nyou know we'll wave that banner yeah you\nknow but it just limits your ass but\ninstead they chose to die on that hill\nyeah that's\nno i agree i mean this company's do doa\neven like the\nthe number one product that they're\nreleasing which is called giant lands\nand they're like we've got you know the\ngiant lands um his name is completely\nforgetting me right now but he\njim ward i think uh was this big name\nproducer from tsr\nand he's like we got giant lines no\nthough they have the license and they\nhave the right to distribute the game\nbut like the guy who wrote it is like\nyeah i don't have anything to do with\nthese [ __ ] good you know and even\ngary's other son\nluke the one who helped found tsr2 has\nbasically come out and been like\nthis is all sham this is all garbage and\nthen this twitter account was basically\nlike\nluke you've always been a loser it's\nlike it's like a high school okay\ntwo brothers there's too much drama\nthat's so much stronger now i agree\nthough with\ndon't push it too far awoke and the\nreason i remember we talked about this\nnot woke enough go woke\noh my god no well do you remember the\ngetting rid of dungeon master\nyou see i'm saying like there's a\nthere's a there's there's some i'm just\ngrasping at straws\nand versus inclusionary like i don't\nwant to get orcs because\nthey're they're african-americans like\nwell i don't know where that comes from\nor dungeon master is a slave master sure\nyeah i mean as i don't get that part\nas a you know as a white guy it seems\nstrange at first but like i also get the\nidea that like the indigenous people who\nare\nare not as smart and are a different\nskin complexion yes there also works but\nlike\nokay i get i can see how that vibe sort\nof like native america okay it seems\nlike\nthey're always bad like why do we always\npaint them in that light um so i can\nunderstand where that's coming from and\ni can say with like light-colored orcs\nand i can have\namazing dark-skinned heroes you can do\nwhatever you want\nthat's not the common like socially\naccepted like orc is a dark-skinned bad\nguy no i just think orca is dirty\nand me too my my favorite character my\nfirst character ever played was a half\nworkout yeah correct i\nloved him he was great his own bathroom\nso i i under you know but\nagain perhaps from a place of privilege\nwhere i'm like i you know\nyeah i don't understand how that's a\nthat doesn't affect me\nso i don't know how it affects anyone\nbut i also don't know where you're\ncoming from so i can understand how that\ncould be\ni'd have a more conversation with\nsomeone that agreed on that but it's\njust\nthat one is when i go okay maybe you're\ntrying to push too far i thought it was\nan important thing to discuss\nyou know i know that i've received some\ncomments from people who were curious\nabout how we felt about it um you know\nagain we we represent a kind of a\nspectrum of political\nviews here at the table um and i think\nthough universally i think we all agree\nthat\nuh this this this guy's just dumb yeah i\ndon't think that's a political thing in\nmy opinion i mean i'm pretty\nconservative and i think that's just\nhe's enhanced\nthere's a difference between being uh\nfrom political\nyou know conservatives and hate yes\nthat's\nthat's what i'm saying absolutely and\ni'm socially liberal anyway\nyeah but so i think the end result is\nthat i think that company is\nyou know dead on arrival i it sucks\nbecause you know i have such fond\nmemories of\ntsr and what that meant for me growing\nup and to see it like besmirched this\nway and a whole new generation of people\nare like oh yeah\nyou mean that racist backwards big and\nthat's not just ruined\ntransphobic thing and i think that is\nthe big problem but i think a second\nproblem is\ni think that's why we don't wear hats\nduring the jesus we can wear hats we\njust can't move them around\nyeah yeah but the second part so that's\nthe big problem the second problem is\nthat like\noh tsr that company i have no idea about\nfrom 20 years ago before like my time at\nall\noh also they're saying you know that\nright now you should just\nmove away from that and people that have\nthe osr like just make\nthat the big name yeah i mean those\nrenaissance boom you know i mean i hate\nto say this\nuh but you know everybody i had the\nopportunity to meet\nuh gary geiger shortly before his death\nand in the years following his widow\ngail geigex\npublished a series of books and memoirs\nfrom gary's notes i even have a copy of\ncheers gary signed by gail geichax\nuh which was dedicated the profits the\nproceeds were going to the gary geigex\nmemorial fund and\npart of what they were really trying to\ndo for it was create a series of\noutreaches to bring role-playing games\ninto like\ndisenfranchised communities as well as\nto create a statue\nin lake geneva you know in his honor as\nthe father of the fourth point but as\ntime went on\nit actually kind of became apparent that\nshe was just trying to uh\nmake money off of it see what's up with\nthese people and and it seems true for\nhis sons too but it just seems like\nthere's this whole group of people\nwho you know and i think the problem is\nultimately you have a game dungeons\ndragons\nit's creator gary gygax beloved by many\nwas not by any stretch of the\nimagination\nuh perfect and was very much a product\nof his time i think he was born in like\n1945. yeah we should all keep things\nin perspective but that doesn't mean\nthat we should\nright laud them but people also change\nlike i some part of me thinks that if he\nwas\nin the gaming community now he would he\nwould change with the times\nmaybe yes and no i mean i don't know\nwell enough i mean well he's dead so we\ndon't yeah but\ni guess what i'm trying to say is uh you\nknow i think we can respect the game\nthat he created without feeling like\nwe need to you know uh cannot change\nanything because we're\nyeah it's also not it's not one-sided\nlike before we got on\nuh started filming today we're talking\nabout baseball rules for for you know\n15-20 minutes\nand we were talking about it because we\nreally like baseball and you know like\nhey i think this rule is better or this\nrule is better like it's still well\nit's like d d is is great there's ways\nwe can make it better there's things\nthat make mistakes\ngames change interest change awareness\nchanges and you know you either adapt or\ndie\nabsolutely you know and so i mean i\nthink that this is proof of that right\nabsolutely\ni think that the companies that are\ndoing a better job handling\nsome of the uh\ninclusionary aspects are doing very well\nand i think the companies that are\ntrying to come out\nagainst it are getting destroyed so i i\nthink it's\ngood yeah so i wanted to you know just\nhave this conversation uh again we've\ngotten a lot of comments from some\npeople\nuh including from uh a patron about uh\nkind of talking about this subject or\nmore like what were our thoughts and\nwhy not just share it with everybody\njust so we can kind of clear the air and\nmake sure everybody is aware of where we\nfeel\nbasically hear us at nights of last call\nyou know i think that\nwhat paisle's doing what they're putting\nin their book is incredible i\nlove the x card and i use it a lot\nespecially whenever i'm using any sort\nof\ngroup with pickup game with new people\nor new strangers or any sort of game\nthat's going to handle any sort of\nvery sensitive topic where it's not with\na bunch of people who are very clearly\nknow what they're buying into i've used\nit for years and i think it's\ntremendously a session and if you've\never run a session zero before and\nyou've been like\nhey what should be in our game what\nshouldn't be in our game\nyou're you're doing it you're doing the\nright thing you are\nbeing mindful and you're being exclusive\nyou know or inclusionary i should say\nyou're being respectful for people and\ntheir feelings and that's that's the\nbiggest thing\nright because people come here to play\nin your game or to play at your table\nto have fun absolutely right and if it\nbecomes a thing of stress\nif it's a source of stress you know\npeople just leave so\nyou know keep that in mind and you know\nkeep an open mind and\ni encourage people to uh you know to try\nto expand their horizons play different\ngames\num change up what you're playing be\nrespectful but you know do so in a way\nthat'll open your eyes instead of just\nclose them all right\nall right well thanks for joining us for\nthis conversation hopefully\nuh we kind of have covered everything\npretty well but if you do have any\nquestions or comments\nfeel free to send us a message or leave\na comment below we'll try to answer it i\nunderstand this is a\nkind of a sensitive subject and i you\nknow understand that we are not\nnecessarily the most\nuh appropriate group of diverse group to\nto answer it so you know we tried to be\nrespectful about it but i did want to\nput our thoughts out there on it so\nhopefully you understand that and\nhopefully you found something useful\ntoday so\nthanks so much and we'll see you again\nnext time\nyou\n"
+}

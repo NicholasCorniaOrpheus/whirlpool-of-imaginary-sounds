@@ -1,0 +1,1585 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,280",
+      "end_time": "00:00:04,160",
+      "text": "today we're going to talk about boxed"
+    },
+    {
+      "start_time": "00:00:01,880",
+      "end_time": "00:00:06,759",
+      "text": "text not just how to use it and how to"
+    },
+    {
+      "start_time": "00:00:04,160",
+      "end_time": "00:00:09,280",
+      "text": "write it but also why you should use it"
+    },
+    {
+      "start_time": "00:00:06,759",
+      "end_time": "00:00:11,599",
+      "text": "and also why you shouldn't but first"
+    },
+    {
+      "start_time": "00:00:09,280",
+      "end_time": "00:00:14,440",
+      "text": "we're going to go back in time all the"
+    },
+    {
+      "start_time": "00:00:11,599",
+      "end_time": "00:00:14,440",
+      "text": "way back to"
+    },
+    {
+      "start_time": "00:00:16,199",
+      "end_time": "00:00:22,880",
+      "text": "1976 two years ago here in 1976 D and D"
+    },
+    {
+      "start_time": "00:00:20,439",
+      "end_time": "00:00:24,400",
+      "text": "was being published for the first time"
+    },
+    {
+      "start_time": "00:00:22,880",
+      "end_time": "00:00:26,760",
+      "text": "although the rule books included a"
+    },
+    {
+      "start_time": "00:00:24,400",
+      "end_time": "00:00:29,199",
+      "text": "sample map introducing the concept of"
+    },
+    {
+      "start_time": "00:00:26,760",
+      "end_time": "00:00:30,640",
+      "text": "dungeon Adventures the key for the map"
+    },
+    {
+      "start_time": "00:00:29,199",
+      "end_time": "00:00:32,759",
+      "text": "was instru"
+    },
+    {
+      "start_time": "00:00:30,640",
+      "end_time": "00:00:34,840",
+      "text": "it was meant to Showcase various dungeon"
+    },
+    {
+      "start_time": "00:00:32,759",
+      "end_time": "00:00:36,559",
+      "text": "design techniques and wasn't a dungeon"
+    },
+    {
+      "start_time": "00:00:34,840",
+      "end_time": "00:00:40,440",
+      "text": "that you could actually you know run for"
+    },
+    {
+      "start_time": "00:00:36,559",
+      "end_time": "00:00:42,120",
+      "text": "your players but now in 1976 we've"
+    },
+    {
+      "start_time": "00:00:40,440",
+      "end_time": "00:00:44,399",
+      "text": "reached year one for published"
+    },
+    {
+      "start_time": "00:00:42,120",
+      "end_time": "00:00:46,280",
+      "text": "Adventures that Dave arneson's Temple of"
+    },
+    {
+      "start_time": "00:00:44,399",
+      "end_time": "00:00:48,879",
+      "text": "the Frog will appear in supplement to"
+    },
+    {
+      "start_time": "00:00:46,280",
+      "end_time": "00:00:51,160",
+      "text": "Blackmore we Warriors is publishing Pete"
+    },
+    {
+      "start_time": "00:00:48,879",
+      "end_time": "00:00:53,280",
+      "text": "and Judy Ken's Palace of the vampire"
+    },
+    {
+      "start_time": "00:00:51,160",
+      "end_time": "00:00:55,640",
+      "text": "queen the Metro Detroit gamers are"
+    },
+    {
+      "start_time": "00:00:53,280",
+      "end_time": "00:00:59,120",
+      "text": "releasing the original edition of lost"
+    },
+    {
+      "start_time": "00:00:55,640",
+      "end_time": "00:01:01,399",
+      "text": "caverns of Soom by Gary gak and judges"
+    },
+    {
+      "start_time": "00:00:59,120",
+      "end_time": "00:01:03,320",
+      "text": "Guild are publishing both the genin 9"
+    },
+    {
+      "start_time": "00:01:01,399",
+      "end_time": "00:01:05,720",
+      "text": "Dungeons and city state of the"
+    },
+    {
+      "start_time": "00:01:03,320",
+      "end_time": "00:01:07,880",
+      "text": "Invincible Overlord and all of these"
+    },
+    {
+      "start_time": "00:01:05,720",
+      "end_time": "00:01:09,920",
+      "text": "Adventures are trying to figure out how"
+    },
+    {
+      "start_time": "00:01:07,880",
+      "end_time": "00:01:11,680",
+      "text": "to format their scenarios so that"
+    },
+    {
+      "start_time": "00:01:09,920",
+      "end_time": "00:01:13,759",
+      "text": "dungeon Masters have the essential"
+    },
+    {
+      "start_time": "00:01:11,680",
+      "end_time": "00:01:16,159",
+      "text": "information they need to run them for"
+    },
+    {
+      "start_time": "00:01:13,759",
+      "end_time": "00:01:18,320",
+      "text": "their players in Palace of the vampire"
+    },
+    {
+      "start_time": "00:01:16,159",
+      "end_time": "00:01:21,200",
+      "text": "queen for example the Kens used a"
+    },
+    {
+      "start_time": "00:01:18,320",
+      "end_time": "00:01:23,119",
+      "text": "completely tabular key each room listed"
+    },
+    {
+      "start_time": "00:01:21,200",
+      "end_time": "00:01:24,759",
+      "text": "the creatures encountered there the hit"
+    },
+    {
+      "start_time": "00:01:23,119",
+      "end_time": "00:01:26,960",
+      "text": "points of those creatures and then a"
+    },
+    {
+      "start_time": "00:01:24,759",
+      "end_time": "00:01:28,600",
+      "text": "brief list of the contents of the room"
+    },
+    {
+      "start_time": "00:01:26,960",
+      "end_time": "00:01:30,560",
+      "text": "which was generally just a list of the"
+    },
+    {
+      "start_time": "00:01:28,600",
+      "end_time": "00:01:32,439",
+      "text": "treasure that could be looted in"
+    },
+    {
+      "start_time": "00:01:30,560",
+      "end_time": "00:01:35,200",
+      "text": "combination with the map the dungeon"
+    },
+    {
+      "start_time": "00:01:32,439",
+      "end_time": "00:01:36,560",
+      "text": "master was expected to improvise the"
+    },
+    {
+      "start_time": "00:01:35,200",
+      "end_time": "00:01:39,399",
+      "text": "description of these"
+    },
+    {
+      "start_time": "00:01:36,560",
+      "end_time": "00:01:41,840",
+      "text": "rooms meanwhile in the Gen Con 9"
+    },
+    {
+      "start_time": "00:01:39,399",
+      "end_time": "00:01:43,960",
+      "text": "dungeons judges Guild was was way ahead"
+    },
+    {
+      "start_time": "00:01:41,840",
+      "end_time": "00:01:46,759",
+      "text": "of the curve as they often were in the"
+    },
+    {
+      "start_time": "00:01:43,960",
+      "end_time": "00:01:48,719",
+      "text": "1970s Bob Blake recognized that a key"
+    },
+    {
+      "start_time": "00:01:46,759",
+      "end_time": "00:01:50,640",
+      "text": "with better organization would make it"
+    },
+    {
+      "start_time": "00:01:48,719",
+      "end_time": "00:01:52,840",
+      "text": "easier for Dungeon Masters to run the"
+    },
+    {
+      "start_time": "00:01:50,640",
+      "end_time": "00:01:56,759",
+      "text": "adventure and so his room keys featured"
+    },
+    {
+      "start_time": "00:01:52,840",
+      "end_time": "00:01:59,479",
+      "text": "a DM only section this wasn't quite box"
+    },
+    {
+      "start_time": "00:01:56,759",
+      "end_time": "00:02:00,680",
+      "text": "text but in practice it was very similar"
+    },
+    {
+      "start_time": "00:01:59,479",
+      "end_time": "00:02:02,119",
+      "text": "there would be be a description of the"
+    },
+    {
+      "start_time": "00:02:00,680",
+      "end_time": "00:02:04,000",
+      "text": "room with information that was"
+    },
+    {
+      "start_time": "00:02:02,119",
+      "end_time": "00:02:06,360",
+      "text": "appropriate for the players and then the"
+    },
+    {
+      "start_time": "00:02:04,000",
+      "end_time": "00:02:08,239",
+      "text": "DM only section would explain what"
+    },
+    {
+      "start_time": "00:02:06,360",
+      "end_time": "00:02:11,000",
+      "text": "additional details could be discovered"
+    },
+    {
+      "start_time": "00:02:08,239",
+      "end_time": "00:02:13,959",
+      "text": "by investigating the scene box Tex as we"
+    },
+    {
+      "start_time": "00:02:11,000",
+      "end_time": "00:02:16,160",
+      "text": "know it today wouldn't arrive until 1979"
+    },
+    {
+      "start_time": "00:02:13,959",
+      "end_time": "00:02:19,560",
+      "text": "when Harold Johnson and jeffar Lon wrote"
+    },
+    {
+      "start_time": "00:02:16,160",
+      "end_time": "00:02:21,360",
+      "text": "lost tachon the hidden Shrine of luum"
+    },
+    {
+      "start_time": "00:02:19,560",
+      "end_time": "00:02:23,920",
+      "text": "and released it as a convention module"
+    },
+    {
+      "start_time": "00:02:21,360",
+      "end_time": "00:02:26,959",
+      "text": "for Origins originally this descriptive"
+    },
+    {
+      "start_time": "00:02:23,920",
+      "end_time": "00:02:29,400",
+      "text": "text was just indented but in 1980 TSR"
+    },
+    {
+      "start_time": "00:02:26,959",
+      "end_time": "00:02:31,840",
+      "text": "reissued the module as C1 the hidden"
+    },
+    {
+      "start_time": "00:02:29,400",
+      "end_time": "00:02:33,680",
+      "text": "strong of Taman and the room"
+    },
+    {
+      "start_time": "00:02:31,840",
+      "end_time": "00:02:36,239",
+      "text": "descriptions were boxed for the first"
+    },
+    {
+      "start_time": "00:02:33,680",
+      "end_time": "00:02:38,879",
+      "text": "time here's an example from mephits and"
+    },
+    {
+      "start_time": "00:02:36,239",
+      "end_time": "00:02:40,840",
+      "text": "magman the sample scenario from my book"
+    },
+    {
+      "start_time": "00:02:38,879",
+      "end_time": "00:02:43,720",
+      "text": "so you want to be a game master you're"
+    },
+    {
+      "start_time": "00:02:40,840",
+      "end_time": "00:02:46,280",
+      "text": "near the bottom of a steeply sloped"
+    },
+    {
+      "start_time": "00:02:43,720",
+      "end_time": "00:02:50,640",
+      "text": "Rocky outcropping in a heavily forested"
+    },
+    {
+      "start_time": "00:02:46,280",
+      "end_time": "00:02:53,800",
+      "text": "area above you a dark mass of stone"
+    },
+    {
+      "start_time": "00:02:50,640",
+      "end_time": "00:02:56,480",
+      "text": "bulges out of the slope at its Center"
+    },
+    {
+      "start_time": "00:02:53,800",
+      "end_time": "00:02:58,840",
+      "text": "partly obscured by verdant green growth"
+    },
+    {
+      "start_time": "00:02:56,480",
+      "end_time": "00:03:01,680",
+      "text": "sagging from the top of the Bulge is a"
+    },
+    {
+      "start_time": "00:02:58,840",
+      "end_time": "00:03:04,280",
+      "text": "ragged edged black hole that punches"
+    },
+    {
+      "start_time": "00:03:01,680",
+      "end_time": "00:03:06,760",
+      "text": "back through the Rock in front of this"
+    },
+    {
+      "start_time": "00:03:04,280",
+      "end_time": "00:03:09,599",
+      "text": "cave entrance there's a slag of broken"
+    },
+    {
+      "start_time": "00:03:06,760",
+      "end_time": "00:03:12,920",
+      "text": "rock forming a kind of natural Portico"
+    },
+    {
+      "start_time": "00:03:09,599",
+      "end_time": "00:03:15,799",
+      "text": "that extends out 20 or maybe 25 ft to"
+    },
+    {
+      "start_time": "00:03:12,920",
+      "end_time": "00:03:18,879",
+      "text": "the edge of the tree line three large"
+    },
+    {
+      "start_time": "00:03:15,799",
+      "end_time": "00:03:21,519",
+      "text": "mounds of wet mud have been heaped at"
+    },
+    {
+      "start_time": "00:03:18,879",
+      "end_time": "00:03:23,360",
+      "text": "various points on the slag the reason I"
+    },
+    {
+      "start_time": "00:03:21,519",
+      "end_time": "00:03:25,360",
+      "text": "like to go back in time like this is"
+    },
+    {
+      "start_time": "00:03:23,360",
+      "end_time": "00:03:28,239",
+      "text": "because it can often show us why things"
+    },
+    {
+      "start_time": "00:03:25,360",
+      "end_time": "00:03:30,439",
+      "text": "are the way they are box text was"
+    },
+    {
+      "start_time": "00:03:28,239",
+      "end_time": "00:03:32,720",
+      "text": "invented to solve a very specific"
+    },
+    {
+      "start_time": "00:03:30,439",
+      "end_time": "00:03:35,400",
+      "text": "problem the dungeon key for a room could"
+    },
+    {
+      "start_time": "00:03:32,720",
+      "end_time": "00:03:38,439",
+      "text": "be packed full of information how could"
+    },
+    {
+      "start_time": "00:03:35,400",
+      "end_time": "00:03:40,480",
+      "text": "you as the DM quickly identify what"
+    },
+    {
+      "start_time": "00:03:38,439",
+      "end_time": "00:03:42,159",
+      "text": "information the player should have so"
+    },
+    {
+      "start_time": "00:03:40,480",
+      "end_time": "00:03:44,120",
+      "text": "that the characters could interact with"
+    },
+    {
+      "start_time": "00:03:42,159",
+      "end_time": "00:03:45,959",
+      "text": "the room make sure that you don't miss"
+    },
+    {
+      "start_time": "00:03:44,120",
+      "end_time": "00:03:47,640",
+      "text": "anything they should know but also make"
+    },
+    {
+      "start_time": "00:03:45,959",
+      "end_time": "00:03:50,360",
+      "text": "sure you don't accidentally tell them"
+    },
+    {
+      "start_time": "00:03:47,640",
+      "end_time": "00:03:52,599",
+      "text": "anything that they shouldn't box text"
+    },
+    {
+      "start_time": "00:03:50,360",
+      "end_time": "00:03:54,360",
+      "text": "elegantly solved this problem by"
+    },
+    {
+      "start_time": "00:03:52,599",
+      "end_time": "00:03:55,879",
+      "text": "literally taking the information that"
+    },
+    {
+      "start_time": "00:03:54,360",
+      "end_time": "00:03:58,959",
+      "text": "everyone walking into the room should"
+    },
+    {
+      "start_time": "00:03:55,879",
+      "end_time": "00:04:01,879",
+      "text": "immediately perceive and nothing else"
+    },
+    {
+      "start_time": "00:03:58,959",
+      "end_time": "00:04:03,360",
+      "text": "and literally putting it in a box by"
+    },
+    {
+      "start_time": "00:04:01,879",
+      "end_time": "00:04:05,120",
+      "text": "understanding that purpose we can gain a"
+    },
+    {
+      "start_time": "00:04:03,360",
+      "end_time": "00:04:08,280",
+      "text": "better understanding of how to create"
+    },
+    {
+      "start_time": "00:04:05,120",
+      "end_time": "00:04:10,040",
+      "text": "and use our own box text someone else"
+    },
+    {
+      "start_time": "00:04:08,280",
+      "end_time": "00:04:11,959",
+      "text": "who likes to take inspiration from the"
+    },
+    {
+      "start_time": "00:04:10,040",
+      "end_time": "00:04:14,799",
+      "text": "past and use it to create Fantastic"
+    },
+    {
+      "start_time": "00:04:11,959",
+      "end_time": "00:04:17,320",
+      "text": "Adventures today is guey Cube the"
+    },
+    {
+      "start_time": "00:04:14,799",
+      "end_time": "00:04:19,239",
+      "text": "sponsors of today's video building on"
+    },
+    {
+      "start_time": "00:04:17,320",
+      "end_time": "00:04:21,720",
+      "text": "the success of their epic red star"
+    },
+    {
+      "start_time": "00:04:19,239",
+      "end_time": "00:04:24,919",
+      "text": "Rising campaign Adventure series and the"
+    },
+    {
+      "start_time": "00:04:21,720",
+      "end_time": "00:04:26,520",
+      "text": "dark and twisted World of Z guey cube is"
+    },
+    {
+      "start_time": "00:04:24,919",
+      "end_time": "00:04:29,039",
+      "text": "hours away from launching their"
+    },
+    {
+      "start_time": "00:04:26,520",
+      "end_time": "00:04:31,479",
+      "text": "Kickstarter for the tomb of guying AXS"
+    },
+    {
+      "start_time": "00:04:29,039",
+      "end_time": "00:04:34,360",
+      "text": "and enth ing Adventure homage to Gary"
+    },
+    {
+      "start_time": "00:04:31,479",
+      "end_time": "00:04:36,919",
+      "text": "gak and all the classic Adventures of"
+    },
+    {
+      "start_time": "00:04:34,360",
+      "end_time": "00:04:38,960",
+      "text": "yester year in fact let's hitch a ride"
+    },
+    {
+      "start_time": "00:04:36,919",
+      "end_time": "00:04:43,400",
+      "text": "with the tomb as it Journeys back to the"
+    },
+    {
+      "start_time": "00:04:38,960",
+      "end_time": "00:04:43,400",
+      "text": "21st century and its crowdfunding"
+    },
+    {
+      "start_time": "00:04:43,600",
+      "end_time": "00:04:49,199",
+      "text": "campaign oh wow you really don't realize"
+    },
+    {
+      "start_time": "00:04:46,919",
+      "end_time": "00:04:53,039",
+      "text": "how much you'll miss color until it's"
+    },
+    {
+      "start_time": "00:04:49,199",
+      "end_time": "00:04:55,199",
+      "text": "gone okay back to box text when you see"
+    },
+    {
+      "start_time": "00:04:53,039",
+      "end_time": "00:04:57,039",
+      "text": "box text in a publish Adventure today"
+    },
+    {
+      "start_time": "00:04:55,199",
+      "end_time": "00:04:58,360",
+      "text": "it's usually written out like a script"
+    },
+    {
+      "start_time": "00:04:57,039",
+      "end_time": "00:05:01,880",
+      "text": "that you're supposed to read to your"
+    },
+    {
+      "start_time": "00:04:58,360",
+      "end_time": "00:05:03,479",
+      "text": "players if if that works for you great"
+    },
+    {
+      "start_time": "00:05:01,880",
+      "end_time": "00:05:04,840",
+      "text": "I'm a classically trained actor so I'm"
+    },
+    {
+      "start_time": "00:05:03,479",
+      "end_time": "00:05:07,720",
+      "text": "pretty good at reading a script and"
+    },
+    {
+      "start_time": "00:05:04,840",
+      "end_time": "00:05:09,520",
+      "text": "making it sound natural as if it was"
+    },
+    {
+      "start_time": "00:05:07,720",
+      "end_time": "00:05:11,759",
+      "text": "something that I was actually saying of"
+    },
+    {
+      "start_time": "00:05:09,520",
+      "end_time": "00:05:14,440",
+      "text": "course a lot depends on the script too"
+    },
+    {
+      "start_time": "00:05:11,759",
+      "end_time": "00:05:16,600",
+      "text": "if the language is too florid or lyrical"
+    },
+    {
+      "start_time": "00:05:14,440",
+      "end_time": "00:05:18,759",
+      "text": "or awkward then no matter how good the"
+    },
+    {
+      "start_time": "00:05:16,600",
+      "end_time": "00:05:19,960",
+      "text": "performance it still won't feel like you"
+    },
+    {
+      "start_time": "00:05:18,759",
+      "end_time": "00:05:21,960",
+      "text": "if you want to get better at reading"
+    },
+    {
+      "start_time": "00:05:19,960",
+      "end_time": "00:05:24,000",
+      "text": "scripted box texts though it doesn't"
+    },
+    {
+      "start_time": "00:05:21,960",
+      "end_time": "00:05:25,199",
+      "text": "hurt to practice you can even do this"
+    },
+    {
+      "start_time": "00:05:24,000",
+      "end_time": "00:05:27,639",
+      "text": "when reading through a published"
+    },
+    {
+      "start_time": "00:05:25,199",
+      "end_time": "00:05:30,199",
+      "text": "adventure for the first time just read"
+    },
+    {
+      "start_time": "00:05:27,639",
+      "end_time": "00:05:33,639",
+      "text": "the Box text out loud get familiar with"
+    },
+    {
+      "start_time": "00:05:30,199",
+      "end_time": "00:05:36,039",
+      "text": "it feel the words in your mouth the more"
+    },
+    {
+      "start_time": "00:05:33,639",
+      "end_time": "00:05:37,840",
+      "text": "you practice the better you'll get but"
+    },
+    {
+      "start_time": "00:05:36,039",
+      "end_time": "00:05:40,440",
+      "text": "there are a lot of people who will never"
+    },
+    {
+      "start_time": "00:05:37,840",
+      "end_time": "00:05:42,600",
+      "text": "be comfortable reading box text and"
+    },
+    {
+      "start_time": "00:05:40,440",
+      "end_time": "00:05:44,199",
+      "text": "that's fine in fact no matter how"
+    },
+    {
+      "start_time": "00:05:42,600",
+      "end_time": "00:05:46,000",
+      "text": "talented you might be at performing"
+    },
+    {
+      "start_time": "00:05:44,199",
+      "end_time": "00:05:48,319",
+      "text": "scripted text there are a lot of"
+    },
+    {
+      "start_time": "00:05:46,000",
+      "end_time": "00:05:50,919",
+      "text": "disadvantages to it it takes longer to"
+    },
+    {
+      "start_time": "00:05:48,319",
+      "end_time": "00:05:53,639",
+      "text": "prep it also locks you into a specific"
+    },
+    {
+      "start_time": "00:05:50,919",
+      "end_time": "00:05:55,360",
+      "text": "presentation of the room for example if"
+    },
+    {
+      "start_time": "00:05:53,639",
+      "end_time": "00:05:57,120",
+      "text": "the PCS enter a room through the window"
+    },
+    {
+      "start_time": "00:05:55,360",
+      "end_time": "00:05:58,720",
+      "text": "instead of a door how would that change"
+    },
+    {
+      "start_time": "00:05:57,120",
+      "end_time": "00:06:00,319",
+      "text": "what they see what if the lights are"
+    },
+    {
+      "start_time": "00:05:58,720",
+      "end_time": "00:06:02,199",
+      "text": "turned off instead of have turned on"
+    },
+    {
+      "start_time": "00:06:00,319",
+      "end_time": "00:06:04,280",
+      "text": "what if you're running a dynamic dungeon"
+    },
+    {
+      "start_time": "00:06:02,199",
+      "end_time": "00:06:06,479",
+      "text": "and NPCs have moved through the area"
+    },
+    {
+      "start_time": "00:06:04,280",
+      "end_time": "00:06:09,479",
+      "text": "searching for the PCS should there be"
+    },
+    {
+      "start_time": "00:06:06,479",
+      "end_time": "00:06:11,400",
+      "text": "signs of their search and passage here"
+    },
+    {
+      "start_time": "00:06:09,479",
+      "end_time": "00:06:13,759",
+      "text": "so what I'll do when prepping Adventures"
+    },
+    {
+      "start_time": "00:06:11,400",
+      "end_time": "00:06:16,280",
+      "text": "for my own use is to use bullet points"
+    },
+    {
+      "start_time": "00:06:13,759",
+      "end_time": "00:06:18,080",
+      "text": "for my box text the basic principle"
+    },
+    {
+      "start_time": "00:06:16,280",
+      "end_time": "00:06:19,840",
+      "text": "Remains the Same I'm still taking the"
+    },
+    {
+      "start_time": "00:06:18,080",
+      "end_time": "00:06:21,759",
+      "text": "initial description of the room and"
+    },
+    {
+      "start_time": "00:06:19,840",
+      "end_time": "00:06:23,880",
+      "text": "putting it in its own special section of"
+    },
+    {
+      "start_time": "00:06:21,759",
+      "end_time": "00:06:25,960",
+      "text": "the room key but instead of scripting"
+    },
+    {
+      "start_time": "00:06:23,880",
+      "end_time": "00:06:27,960",
+      "text": "exactly what I'll say I'm just putting"
+    },
+    {
+      "start_time": "00:06:25,960",
+      "end_time": "00:06:30,479",
+      "text": "the essential information in a bullet"
+    },
+    {
+      "start_time": "00:06:27,960",
+      "end_time": "00:06:32,560",
+      "text": "point for example instead of the full"
+    },
+    {
+      "start_time": "00:06:30,479",
+      "end_time": "00:06:35,120",
+      "text": "boxed text I read earlier from mehits"
+    },
+    {
+      "start_time": "00:06:32,560",
+      "end_time": "00:06:38,319",
+      "text": "and magman I might just jot down three"
+    },
+    {
+      "start_time": "00:06:35,120",
+      "end_time": "00:06:40,319",
+      "text": "quick bullet points Rocky outcropping a"
+    },
+    {
+      "start_time": "00:06:38,319",
+      "end_time": "00:06:43,960",
+      "text": "cave entrance in the middle of a slag of"
+    },
+    {
+      "start_time": "00:06:40,319",
+      "end_time": "00:06:46,000",
+      "text": "broken rock three mounds of mud visible"
+    },
+    {
+      "start_time": "00:06:43,960",
+      "end_time": "00:06:47,440",
+      "text": "now in doing this I'm also benefiting"
+    },
+    {
+      "start_time": "00:06:46,000",
+      "end_time": "00:06:49,880",
+      "text": "from the fact that I'm not trying to"
+    },
+    {
+      "start_time": "00:06:47,440",
+      "end_time": "00:06:51,960",
+      "text": "communicate what's in my head to the"
+    },
+    {
+      "start_time": "00:06:49,880",
+      "end_time": "00:06:53,919",
+      "text": "thousands of dungeon Masters running the"
+    },
+    {
+      "start_time": "00:06:51,960",
+      "end_time": "00:06:56,160",
+      "text": "published Adventure when you're writing"
+    },
+    {
+      "start_time": "00:06:53,919",
+      "end_time": "00:06:58,400",
+      "text": "an adventure for yourself you still want"
+    },
+    {
+      "start_time": "00:06:56,160",
+      "end_time": "00:07:00,440",
+      "text": "complete well organized notes for your"
+    },
+    {
+      "start_time": "00:06:58,400",
+      "end_time": "00:07:02,520",
+      "text": "future self but but you can also trust"
+    },
+    {
+      "start_time": "00:07:00,440",
+      "end_time": "00:07:04,680",
+      "text": "your future self to you know know what"
+    },
+    {
+      "start_time": "00:07:02,520",
+      "end_time": "00:07:06,160",
+      "text": "you were talking about using these"
+    },
+    {
+      "start_time": "00:07:04,680",
+      "end_time": "00:07:08,280",
+      "text": "bullet points at the table will of"
+    },
+    {
+      "start_time": "00:07:06,160",
+      "end_time": "00:07:10,319",
+      "text": "course require you to improvise the"
+    },
+    {
+      "start_time": "00:07:08,280",
+      "end_time": "00:07:12,680",
+      "text": "actual description of the area to your"
+    },
+    {
+      "start_time": "00:07:10,319",
+      "end_time": "00:07:14,879",
+      "text": "players now what I found works best is"
+    },
+    {
+      "start_time": "00:07:12,680",
+      "end_time": "00:07:17,080",
+      "text": "to well first use the bullet points to"
+    },
+    {
+      "start_time": "00:07:14,879",
+      "end_time": "00:07:19,520",
+      "text": "conjure up a mental image of the"
+    },
+    {
+      "start_time": "00:07:17,080",
+      "end_time": "00:07:21,280",
+      "text": "location then simply describe what you"
+    },
+    {
+      "start_time": "00:07:19,520",
+      "end_time": "00:07:22,960",
+      "text": "see in that image the same way you"
+    },
+    {
+      "start_time": "00:07:21,280",
+      "end_time": "00:07:25,199",
+      "text": "describe something from your daily life"
+    },
+    {
+      "start_time": "00:07:22,960",
+      "end_time": "00:07:27,120",
+      "text": "to your friends as I'm giving the"
+    },
+    {
+      "start_time": "00:07:25,199",
+      "end_time": "00:07:30,280",
+      "text": "description I'll also use the bullet"
+    },
+    {
+      "start_time": "00:07:27,120",
+      "end_time": "00:07:32,280",
+      "text": "points as a sort of informal check List"
+    },
+    {
+      "start_time": "00:07:30,280",
+      "end_time": "00:07:34,440",
+      "text": "have I mentioned the cave entrance yes"
+    },
+    {
+      "start_time": "00:07:32,280",
+      "end_time": "00:07:36,560",
+      "text": "have I mentioned the Mounds of mud yes"
+    },
+    {
+      "start_time": "00:07:34,440",
+      "end_time": "00:07:39,520",
+      "text": "good description done what do you want"
+    },
+    {
+      "start_time": "00:07:36,560",
+      "end_time": "00:07:42,919",
+      "text": "to do the result in my experience is a"
+    },
+    {
+      "start_time": "00:07:39,520",
+      "end_time": "00:07:44,840",
+      "text": "friendly casual conversational tone"
+    },
+    {
+      "start_time": "00:07:42,919",
+      "end_time": "00:07:46,680",
+      "text": "we're all just talking to each other and"
+    },
+    {
+      "start_time": "00:07:44,840",
+      "end_time": "00:07:48,400",
+      "text": "it's easy to have a seamless back and"
+    },
+    {
+      "start_time": "00:07:46,680",
+      "end_time": "00:07:50,280",
+      "text": "forth with the players as we talk about"
+    },
+    {
+      "start_time": "00:07:48,400",
+      "end_time": "00:07:53,000",
+      "text": "the scene and what they see and what"
+    },
+    {
+      "start_time": "00:07:50,280",
+      "end_time": "00:07:54,919",
+      "text": "they do and this too is a skill that"
+    },
+    {
+      "start_time": "00:07:53,000",
+      "end_time": "00:07:57,120",
+      "text": "will improve with"
+    },
+    {
+      "start_time": "00:07:54,919",
+      "end_time": "00:07:58,720",
+      "text": "practice okay but let's say you're"
+    },
+    {
+      "start_time": "00:07:57,120",
+      "end_time": "00:08:00,840",
+      "text": "running a published adventure and you"
+    },
+    {
+      "start_time": "00:07:58,720",
+      "end_time": "00:08:03,639",
+      "text": "don't want to read the scripted box text"
+    },
+    {
+      "start_time": "00:08:00,840",
+      "end_time": "00:08:06,080",
+      "text": "in the book well you could take the time"
+    },
+    {
+      "start_time": "00:08:03,639",
+      "end_time": "00:08:09,720",
+      "text": "to rewrite all the Box text as bullet"
+    },
+    {
+      "start_time": "00:08:06,080",
+      "end_time": "00:08:12,120",
+      "text": "points but that sounds exhausting what"
+    },
+    {
+      "start_time": "00:08:09,720",
+      "end_time": "00:08:16,440",
+      "text": "you want is"
+    },
+    {
+      "start_time": "00:08:12,120",
+      "end_time": "00:08:18,440",
+      "text": "this this is your best friend simply"
+    },
+    {
+      "start_time": "00:08:16,440",
+      "end_time": "00:08:21,199",
+      "text": "read through the box text and highlight"
+    },
+    {
+      "start_time": "00:08:18,440",
+      "end_time": "00:08:22,800",
+      "text": "the specific points of interest let's"
+    },
+    {
+      "start_time": "00:08:21,199",
+      "end_time": "00:08:25,360",
+      "text": "take a look at our example from mehits"
+    },
+    {
+      "start_time": "00:08:22,800",
+      "end_time": "00:08:28,080",
+      "text": "and magman again you can see that by"
+    },
+    {
+      "start_time": "00:08:25,360",
+      "end_time": "00:08:30,879",
+      "text": "highlighting Rocky outcropping cave"
+    },
+    {
+      "start_time": "00:08:28,080",
+      "end_time": "00:08:33,479",
+      "text": "entrance slag of broken rock and three"
+    },
+    {
+      "start_time": "00:08:30,879",
+      "end_time": "00:08:35,719",
+      "text": "large mounds of wet mud we've created a"
+    },
+    {
+      "start_time": "00:08:33,479",
+      "end_time": "00:08:38,880",
+      "text": "list very similar to bullet points and"
+    },
+    {
+      "start_time": "00:08:35,719",
+      "end_time": "00:08:40,599",
+      "text": "which can be used in the same way this"
+    },
+    {
+      "start_time": "00:08:38,880",
+      "end_time": "00:08:43,159",
+      "text": "is a technique I picked up from Brendan"
+    },
+    {
+      "start_time": "00:08:40,599",
+      "end_time": "00:08:45,160",
+      "text": "stek at necr practice and you can find a"
+    },
+    {
+      "start_time": "00:08:43,159",
+      "end_time": "00:08:47,640",
+      "text": "link to his original article expanding"
+    },
+    {
+      "start_time": "00:08:45,160",
+      "end_time": "00:08:50,360",
+      "text": "on these ideas in the uh fun of all"
+    },
+    {
+      "start_time": "00:08:47,640",
+      "end_time": "00:08:52,080",
+      "text": "knowledge down below the great thing is"
+    },
+    {
+      "start_time": "00:08:50,360",
+      "end_time": "00:08:54,160",
+      "text": "that it can work just as well even if"
+    },
+    {
+      "start_time": "00:08:52,080",
+      "end_time": "00:08:56,880",
+      "text": "the published module doesn't feature box"
+    },
+    {
+      "start_time": "00:08:54,160",
+      "end_time": "00:08:58,920",
+      "text": "text at all these are the dreaded wall"
+    },
+    {
+      "start_time": "00:08:56,880",
+      "end_time": "00:09:00,720",
+      "text": "of text room keys where where everything"
+    },
+    {
+      "start_time": "00:08:58,920",
+      "end_time": "00:09:02,800",
+      "text": "has been been dumped indiscriminately"
+    },
+    {
+      "start_time": "00:09:00,720",
+      "end_time": "00:09:05,000",
+      "text": "into a rambling account of the room's"
+    },
+    {
+      "start_time": "00:09:02,800",
+      "end_time": "00:09:07,440",
+      "text": "content and you have to try to rummage"
+    },
+    {
+      "start_time": "00:09:05,000",
+      "end_time": "00:09:09,079",
+      "text": "your way through the Heap a few seconds"
+    },
+    {
+      "start_time": "00:09:07,440",
+      "end_time": "00:09:11,040",
+      "text": "of work with your trusty highlighter"
+    },
+    {
+      "start_time": "00:09:09,079",
+      "end_time": "00:09:13,200",
+      "text": "though and you'll end up with a room key"
+    },
+    {
+      "start_time": "00:09:11,040",
+      "end_time": "00:09:16,240",
+      "text": "that's infinitely easier to juggle in"
+    },
+    {
+      "start_time": "00:09:13,200",
+      "end_time": "00:09:17,720",
+      "text": "the middle of a session okay let's leave"
+    },
+    {
+      "start_time": "00:09:16,240",
+      "end_time": "00:09:20,279",
+      "text": "published Adventures behind for the"
+    },
+    {
+      "start_time": "00:09:17,720",
+      "end_time": "00:09:22,640",
+      "text": "moment and flip back to writing your own"
+    },
+    {
+      "start_time": "00:09:20,279",
+      "end_time": "00:09:24,920",
+      "text": "boxed text whether you're prepping"
+    },
+    {
+      "start_time": "00:09:22,640",
+      "end_time": "00:09:27,480",
+      "text": "scripted box text or bullet points there"
+    },
+    {
+      "start_time": "00:09:24,920",
+      "end_time": "00:09:29,640",
+      "text": "are a few things to keep in mind first"
+    },
+    {
+      "start_time": "00:09:27,480",
+      "end_time": "00:09:31,800",
+      "text": "of course the goal of your box text is"
+    },
+    {
+      "start_time": "00:09:29,640",
+      "end_time": "00:09:33,680",
+      "text": "to describe the game world so writing"
+    },
+    {
+      "start_time": "00:09:31,800",
+      "end_time": "00:09:36,360",
+      "text": "good box text has a lot to do with"
+    },
+    {
+      "start_time": "00:09:33,680",
+      "end_time": "00:09:38,079",
+      "text": "prepping really good dungeon rooms"
+    },
+    {
+      "start_time": "00:09:36,360",
+      "end_time": "00:09:40,079",
+      "text": "exploring that topic in full is beyond"
+    },
+    {
+      "start_time": "00:09:38,079",
+      "end_time": "00:09:42,040",
+      "text": "the scope of this video but you can find"
+    },
+    {
+      "start_time": "00:09:40,079",
+      "end_time": "00:09:43,959",
+      "text": "some useful tips in my video on"
+    },
+    {
+      "start_time": "00:09:42,040",
+      "end_time": "00:09:46,160",
+      "text": "description formulas which I'll link to"
+    },
+    {
+      "start_time": "00:09:43,959",
+      "end_time": "00:09:48,160",
+      "text": "in the font of all knowledge now in that"
+    },
+    {
+      "start_time": "00:09:46,160",
+      "end_time": "00:09:50,480",
+      "text": "video I talk about the importance of"
+    },
+    {
+      "start_time": "00:09:48,160",
+      "end_time": "00:09:52,079",
+      "text": "persistent description your description"
+    },
+    {
+      "start_time": "00:09:50,480",
+      "end_time": "00:09:54,720",
+      "text": "of the room shouldn't end when you"
+    },
+    {
+      "start_time": "00:09:52,079",
+      "end_time": "00:09:57,440",
+      "text": "finish reading the Box text instead you"
+    },
+    {
+      "start_time": "00:09:54,720",
+      "end_time": "00:09:59,440",
+      "text": "continue adding new details as the PCS"
+    },
+    {
+      "start_time": "00:09:57,440",
+      "end_time": "00:10:01,279",
+      "text": "take action within the room the"
+    },
+    {
+      "start_time": "00:09:59,440",
+      "end_time": "00:10:03,399",
+      "text": "persistent description isn't just great"
+    },
+    {
+      "start_time": "00:10:01,279",
+      "end_time": "00:10:05,399",
+      "text": "at drawing the players into the scene"
+    },
+    {
+      "start_time": "00:10:03,399",
+      "end_time": "00:10:08,399",
+      "text": "and immersing them in the game world"
+    },
+    {
+      "start_time": "00:10:05,399",
+      "end_time": "00:10:10,000",
+      "text": "it's also liberating for your box text"
+    },
+    {
+      "start_time": "00:10:08,399",
+      "end_time": "00:10:12,200",
+      "text": "it's important for your box text to"
+    },
+    {
+      "start_time": "00:10:10,000",
+      "end_time": "00:10:14,120",
+      "text": "include a broad and complete description"
+    },
+    {
+      "start_time": "00:10:12,200",
+      "end_time": "00:10:17,680",
+      "text": "of the room but you don't need to try to"
+    },
+    {
+      "start_time": "00:10:14,120",
+      "end_time": "00:10:20,399",
+      "text": "cram everything into your box text in"
+    },
+    {
+      "start_time": "00:10:17,680",
+      "end_time": "00:10:23,240",
+      "text": "fact you really shouldn't you want your"
+    },
+    {
+      "start_time": "00:10:20,399",
+      "end_time": "00:10:25,240",
+      "text": "box text to be short pithy and to the"
+    },
+    {
+      "start_time": "00:10:23,240",
+      "end_time": "00:10:27,079",
+      "text": "point you want to describe the room"
+    },
+    {
+      "start_time": "00:10:25,240",
+      "end_time": "00:10:29,240",
+      "text": "quickly and then toss the ball to your"
+    },
+    {
+      "start_time": "00:10:27,079",
+      "end_time": "00:10:31,800",
+      "text": "players so that they can start taking"
+    },
+    {
+      "start_time": "00:10:29,240",
+      "end_time": "00:10:34,120",
+      "text": "action on that note also be aware of the"
+    },
+    {
+      "start_time": "00:10:31,800",
+      "end_time": "00:10:35,920",
+      "text": "reaction point this is the point in your"
+    },
+    {
+      "start_time": "00:10:34,120",
+      "end_time": "00:10:38,600",
+      "text": "description of a scene where the players"
+    },
+    {
+      "start_time": "00:10:35,920",
+      "end_time": "00:10:40,240",
+      "text": "want to take action I also have another"
+    },
+    {
+      "start_time": "00:10:38,600",
+      "end_time": "00:10:42,079",
+      "text": "video that looks at the reaction point"
+    },
+    {
+      "start_time": "00:10:40,240",
+      "end_time": "00:10:44,240",
+      "text": "in detail and the link for that will be"
+    },
+    {
+      "start_time": "00:10:42,079",
+      "end_time": "00:10:46,519",
+      "text": "in the font of all knowledge too but the"
+    },
+    {
+      "start_time": "00:10:44,240",
+      "end_time": "00:10:48,519",
+      "text": "short version is that you almost always"
+    },
+    {
+      "start_time": "00:10:46,519",
+      "end_time": "00:10:50,920",
+      "text": "want the reaction point to come at the"
+    },
+    {
+      "start_time": "00:10:48,519",
+      "end_time": "00:10:52,800",
+      "text": "end of the description hit the players"
+    },
+    {
+      "start_time": "00:10:50,920",
+      "end_time": "00:10:55,000",
+      "text": "with it and then let them immediately"
+    },
+    {
+      "start_time": "00:10:52,800",
+      "end_time": "00:10:57,200",
+      "text": "react like a like a tennis player"
+    },
+    {
+      "start_time": "00:10:55,000",
+      "end_time": "00:10:59,240",
+      "text": "returning a volley I'll be doing more"
+    },
+    {
+      "start_time": "00:10:57,200",
+      "end_time": "00:11:00,839",
+      "text": "advanced game Mastery videos on dunge"
+    },
+    {
+      "start_time": "00:10:59,240",
+      "end_time": "00:11:03,279",
+      "text": "design in the future so if you don't"
+    },
+    {
+      "start_time": "00:11:00,839",
+      "end_time": "00:11:05,240",
+      "text": "want to miss out on those join me in"
+    },
+    {
+      "start_time": "00:11:03,279",
+      "end_time": "00:11:08,120",
+      "text": "journeying into the Labyrinth of the"
+    },
+    {
+      "start_time": "00:11:05,240",
+      "end_time": "00:11:11,240",
+      "text": "YouTube algorithm make your detect traps"
+    },
+    {
+      "start_time": "00:11:08,120",
+      "end_time": "00:11:12,440",
+      "text": "check and click the Subscribe button"
+    },
+    {
+      "start_time": "00:11:11,240",
+      "end_time": "00:11:15,160",
+      "text": "while you're down there make sure to"
+    },
+    {
+      "start_time": "00:11:12,440",
+      "end_time": "00:11:16,760",
+      "text": "visit the tomb of guing ax I've included"
+    },
+    {
+      "start_time": "00:11:15,160",
+      "end_time": "00:11:18,399",
+      "text": "a link in the font of all knowledge"
+    },
+    {
+      "start_time": "00:11:16,760",
+      "end_time": "00:11:20,800",
+      "text": "which will take you to their Kickstarter"
+    },
+    {
+      "start_time": "00:11:18,399",
+      "end_time": "00:11:23,959",
+      "text": "campaign for this Mega Adventure which"
+    },
+    {
+      "start_time": "00:11:20,800",
+      "end_time": "00:11:25,680",
+      "text": "is running right now I'm really excited"
+    },
+    {
+      "start_time": "00:11:23,959",
+      "end_time": "00:11:27,800",
+      "text": "about the tomb which is being developed"
+    },
+    {
+      "start_time": "00:11:25,680",
+      "end_time": "00:11:30,920",
+      "text": "by guey cube in collaboration with Gary"
+    },
+    {
+      "start_time": "00:11:27,800",
+      "end_time": "00:11:33,120",
+      "text": "gx's son Gaga as a tribute to his"
+    },
+    {
+      "start_time": "00:11:30,920",
+      "end_time": "00:11:35,160",
+      "text": "father's Legacy as a co-creator of"
+    },
+    {
+      "start_time": "00:11:33,120",
+      "end_time": "00:11:37,920",
+      "text": "Dungeons and Dragons and countless"
+    },
+    {
+      "start_time": "00:11:35,160",
+      "end_time": "00:11:39,839",
+      "text": "legendary Adventures as part of guey"
+    },
+    {
+      "start_time": "00:11:37,920",
+      "end_time": "00:11:41,720",
+      "text": "Cube sponsorship of the alexandrian in"
+    },
+    {
+      "start_time": "00:11:39,839",
+      "end_time": "00:11:43,959",
+      "text": "this video we're also currently running"
+    },
+    {
+      "start_time": "00:11:41,720",
+      "end_time": "00:11:46,240",
+      "text": "a community Challenge on the alexandrian"
+    },
+    {
+      "start_time": "00:11:43,959",
+      "end_time": "00:11:48,760",
+      "text": "Discord to design Easter eggs for the"
+    },
+    {
+      "start_time": "00:11:46,240",
+      "end_time": "00:11:51,399",
+      "text": "tomb join us there to check out entries"
+    },
+    {
+      "start_time": "00:11:48,760",
+      "end_time": "00:11:55,720",
+      "text": "like the the iume billiard ball the duck"
+    },
+    {
+      "start_time": "00:11:51,399",
+      "end_time": "00:11:57,600",
+      "text": "of Doom and the well actually guey cube"
+    },
+    {
+      "start_time": "00:11:55,720",
+      "end_time": "00:11:59,600",
+      "text": "is offering prize packages to the best"
+    },
+    {
+      "start_time": "00:11:57,600",
+      "end_time": "00:12:02,079",
+      "text": "entries and I'd love to be be surprised"
+    },
+    {
+      "start_time": "00:11:59,600",
+      "end_time": "00:12:05,519",
+      "text": "by whatever Easter eggs you can cook up"
+    },
+    {
+      "start_time": "00:12:02,079",
+      "end_time": "00:12:08,240",
+      "text": "so please swing on by good gaming I'm"
+    },
+    {
+      "start_time": "00:12:05,519",
+      "end_time": "00:12:12,120",
+      "text": "Justin Alexander and I'll see"
+    },
+    {
+      "start_time": "00:12:08,240",
+      "end_time": "00:12:12,120",
+      "text": "you at the table"
+    }
+  ],
+  "full_text": "today we're going to talk about boxed\ntext not just how to use it and how to\nwrite it but also why you should use it\nand also why you shouldn't but first\nwe're going to go back in time all the\nway back to\n1976 two years ago here in 1976 D and D\nwas being published for the first time\nalthough the rule books included a\nsample map introducing the concept of\ndungeon Adventures the key for the map\nwas instru\nit was meant to Showcase various dungeon\ndesign techniques and wasn't a dungeon\nthat you could actually you know run for\nyour players but now in 1976 we've\nreached year one for published\nAdventures that Dave arneson's Temple of\nthe Frog will appear in supplement to\nBlackmore we Warriors is publishing Pete\nand Judy Ken's Palace of the vampire\nqueen the Metro Detroit gamers are\nreleasing the original edition of lost\ncaverns of Soom by Gary gak and judges\nGuild are publishing both the genin 9\nDungeons and city state of the\nInvincible Overlord and all of these\nAdventures are trying to figure out how\nto format their scenarios so that\ndungeon Masters have the essential\ninformation they need to run them for\ntheir players in Palace of the vampire\nqueen for example the Kens used a\ncompletely tabular key each room listed\nthe creatures encountered there the hit\npoints of those creatures and then a\nbrief list of the contents of the room\nwhich was generally just a list of the\ntreasure that could be looted in\ncombination with the map the dungeon\nmaster was expected to improvise the\ndescription of these\nrooms meanwhile in the Gen Con 9\ndungeons judges Guild was was way ahead\nof the curve as they often were in the\n1970s Bob Blake recognized that a key\nwith better organization would make it\neasier for Dungeon Masters to run the\nadventure and so his room keys featured\na DM only section this wasn't quite box\ntext but in practice it was very similar\nthere would be be a description of the\nroom with information that was\nappropriate for the players and then the\nDM only section would explain what\nadditional details could be discovered\nby investigating the scene box Tex as we\nknow it today wouldn't arrive until 1979\nwhen Harold Johnson and jeffar Lon wrote\nlost tachon the hidden Shrine of luum\nand released it as a convention module\nfor Origins originally this descriptive\ntext was just indented but in 1980 TSR\nreissued the module as C1 the hidden\nstrong of Taman and the room\ndescriptions were boxed for the first\ntime here's an example from mephits and\nmagman the sample scenario from my book\nso you want to be a game master you're\nnear the bottom of a steeply sloped\nRocky outcropping in a heavily forested\narea above you a dark mass of stone\nbulges out of the slope at its Center\npartly obscured by verdant green growth\nsagging from the top of the Bulge is a\nragged edged black hole that punches\nback through the Rock in front of this\ncave entrance there's a slag of broken\nrock forming a kind of natural Portico\nthat extends out 20 or maybe 25 ft to\nthe edge of the tree line three large\nmounds of wet mud have been heaped at\nvarious points on the slag the reason I\nlike to go back in time like this is\nbecause it can often show us why things\nare the way they are box text was\ninvented to solve a very specific\nproblem the dungeon key for a room could\nbe packed full of information how could\nyou as the DM quickly identify what\ninformation the player should have so\nthat the characters could interact with\nthe room make sure that you don't miss\nanything they should know but also make\nsure you don't accidentally tell them\nanything that they shouldn't box text\nelegantly solved this problem by\nliterally taking the information that\neveryone walking into the room should\nimmediately perceive and nothing else\nand literally putting it in a box by\nunderstanding that purpose we can gain a\nbetter understanding of how to create\nand use our own box text someone else\nwho likes to take inspiration from the\npast and use it to create Fantastic\nAdventures today is guey Cube the\nsponsors of today's video building on\nthe success of their epic red star\nRising campaign Adventure series and the\ndark and twisted World of Z guey cube is\nhours away from launching their\nKickstarter for the tomb of guying AXS\nand enth ing Adventure homage to Gary\ngak and all the classic Adventures of\nyester year in fact let's hitch a ride\nwith the tomb as it Journeys back to the\n21st century and its crowdfunding\ncampaign oh wow you really don't realize\nhow much you'll miss color until it's\ngone okay back to box text when you see\nbox text in a publish Adventure today\nit's usually written out like a script\nthat you're supposed to read to your\nplayers if if that works for you great\nI'm a classically trained actor so I'm\npretty good at reading a script and\nmaking it sound natural as if it was\nsomething that I was actually saying of\ncourse a lot depends on the script too\nif the language is too florid or lyrical\nor awkward then no matter how good the\nperformance it still won't feel like you\nif you want to get better at reading\nscripted box texts though it doesn't\nhurt to practice you can even do this\nwhen reading through a published\nadventure for the first time just read\nthe Box text out loud get familiar with\nit feel the words in your mouth the more\nyou practice the better you'll get but\nthere are a lot of people who will never\nbe comfortable reading box text and\nthat's fine in fact no matter how\ntalented you might be at performing\nscripted text there are a lot of\ndisadvantages to it it takes longer to\nprep it also locks you into a specific\npresentation of the room for example if\nthe PCS enter a room through the window\ninstead of a door how would that change\nwhat they see what if the lights are\nturned off instead of have turned on\nwhat if you're running a dynamic dungeon\nand NPCs have moved through the area\nsearching for the PCS should there be\nsigns of their search and passage here\nso what I'll do when prepping Adventures\nfor my own use is to use bullet points\nfor my box text the basic principle\nRemains the Same I'm still taking the\ninitial description of the room and\nputting it in its own special section of\nthe room key but instead of scripting\nexactly what I'll say I'm just putting\nthe essential information in a bullet\npoint for example instead of the full\nboxed text I read earlier from mehits\nand magman I might just jot down three\nquick bullet points Rocky outcropping a\ncave entrance in the middle of a slag of\nbroken rock three mounds of mud visible\nnow in doing this I'm also benefiting\nfrom the fact that I'm not trying to\ncommunicate what's in my head to the\nthousands of dungeon Masters running the\npublished Adventure when you're writing\nan adventure for yourself you still want\ncomplete well organized notes for your\nfuture self but but you can also trust\nyour future self to you know know what\nyou were talking about using these\nbullet points at the table will of\ncourse require you to improvise the\nactual description of the area to your\nplayers now what I found works best is\nto well first use the bullet points to\nconjure up a mental image of the\nlocation then simply describe what you\nsee in that image the same way you\ndescribe something from your daily life\nto your friends as I'm giving the\ndescription I'll also use the bullet\npoints as a sort of informal check List\nhave I mentioned the cave entrance yes\nhave I mentioned the Mounds of mud yes\ngood description done what do you want\nto do the result in my experience is a\nfriendly casual conversational tone\nwe're all just talking to each other and\nit's easy to have a seamless back and\nforth with the players as we talk about\nthe scene and what they see and what\nthey do and this too is a skill that\nwill improve with\npractice okay but let's say you're\nrunning a published adventure and you\ndon't want to read the scripted box text\nin the book well you could take the time\nto rewrite all the Box text as bullet\npoints but that sounds exhausting what\nyou want is\nthis this is your best friend simply\nread through the box text and highlight\nthe specific points of interest let's\ntake a look at our example from mehits\nand magman again you can see that by\nhighlighting Rocky outcropping cave\nentrance slag of broken rock and three\nlarge mounds of wet mud we've created a\nlist very similar to bullet points and\nwhich can be used in the same way this\nis a technique I picked up from Brendan\nstek at necr practice and you can find a\nlink to his original article expanding\non these ideas in the uh fun of all\nknowledge down below the great thing is\nthat it can work just as well even if\nthe published module doesn't feature box\ntext at all these are the dreaded wall\nof text room keys where where everything\nhas been been dumped indiscriminately\ninto a rambling account of the room's\ncontent and you have to try to rummage\nyour way through the Heap a few seconds\nof work with your trusty highlighter\nthough and you'll end up with a room key\nthat's infinitely easier to juggle in\nthe middle of a session okay let's leave\npublished Adventures behind for the\nmoment and flip back to writing your own\nboxed text whether you're prepping\nscripted box text or bullet points there\nare a few things to keep in mind first\nof course the goal of your box text is\nto describe the game world so writing\ngood box text has a lot to do with\nprepping really good dungeon rooms\nexploring that topic in full is beyond\nthe scope of this video but you can find\nsome useful tips in my video on\ndescription formulas which I'll link to\nin the font of all knowledge now in that\nvideo I talk about the importance of\npersistent description your description\nof the room shouldn't end when you\nfinish reading the Box text instead you\ncontinue adding new details as the PCS\ntake action within the room the\npersistent description isn't just great\nat drawing the players into the scene\nand immersing them in the game world\nit's also liberating for your box text\nit's important for your box text to\ninclude a broad and complete description\nof the room but you don't need to try to\ncram everything into your box text in\nfact you really shouldn't you want your\nbox text to be short pithy and to the\npoint you want to describe the room\nquickly and then toss the ball to your\nplayers so that they can start taking\naction on that note also be aware of the\nreaction point this is the point in your\ndescription of a scene where the players\nwant to take action I also have another\nvideo that looks at the reaction point\nin detail and the link for that will be\nin the font of all knowledge too but the\nshort version is that you almost always\nwant the reaction point to come at the\nend of the description hit the players\nwith it and then let them immediately\nreact like a like a tennis player\nreturning a volley I'll be doing more\nadvanced game Mastery videos on dunge\ndesign in the future so if you don't\nwant to miss out on those join me in\njourneying into the Labyrinth of the\nYouTube algorithm make your detect traps\ncheck and click the Subscribe button\nwhile you're down there make sure to\nvisit the tomb of guing ax I've included\na link in the font of all knowledge\nwhich will take you to their Kickstarter\ncampaign for this Mega Adventure which\nis running right now I'm really excited\nabout the tomb which is being developed\nby guey cube in collaboration with Gary\ngx's son Gaga as a tribute to his\nfather's Legacy as a co-creator of\nDungeons and Dragons and countless\nlegendary Adventures as part of guey\nCube sponsorship of the alexandrian in\nthis video we're also currently running\na community Challenge on the alexandrian\nDiscord to design Easter eggs for the\ntomb join us there to check out entries\nlike the the iume billiard ball the duck\nof Doom and the well actually guey cube\nis offering prize packages to the best\nentries and I'd love to be be surprised\nby whatever Easter eggs you can cook up\nso please swing on by good gaming I'm\nJustin Alexander and I'll see\nyou at the table\n"
+}

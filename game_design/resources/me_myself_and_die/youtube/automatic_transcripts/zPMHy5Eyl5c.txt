@@ -1,0 +1,1251 @@
+I've wanted for a very long time to
+figure out how against the dark master
+works this beautiful merps clone has
+been in my library for some time and
+today I'm going to learn and hopefully
+show you how to play it
+[Music]
+[Music]
+[Applause]
+hello everyone welcome back to me myself
+and I I am as always Trevor Davao thanks
+for joining me here today if you do want
+to help support the Channel please do
+hit like And subscribe it helps a big uh
+Bunch also if you want to help support
+the show through via patreon or the
+YouTube channel links yada yada yada all
+that stuff is below also before we get
+in with this I am going to be at Gen Con
+2023 this year I'm going to be hanging
+out at the Columbia games Booth so if
+you are going to be at Gen Con hope to
+see you all there whenever I bought a
+new role-playing game system I would
+always teach myself the game by doing
+basically things in this order I would
+do a quick read of the character
+creation system a quick read of the
+combat system and then I would make a
+character and he would always be like a
+paladin or a knight or something like
+that and it would be called black Jay
+because that was the name of my very
+first character and then I would put him
+in combat against a single orc on
+something I called the featureless gray
+plane which just meant a battle mat with
+nothing on it no obstacles no terrain
+nothing like that just to get a sense of
+how the combat system worked so today
+I'm going to do something very similar
+to the featureless gray plane except of
+course it's not featureless uh it's not
+gray and it's not even really a plane
+the reason why I'm doing this this way
+using terrain and things is twofold one
+to look at a featureless great plane and
+just two Miniatures standing in front of
+each other it's pretty boring and
+YouTube is a visual medium so I thought
+I'd spice it up with some interesting
+things so that's why this stuff is here
+but also the second reason is because
+this will also give me an opportunity to
+eventually build in rules like cover and
+difficult ground and the higher ground
+and all that kind of stuff if it comes
+up it might not this is a very very
+simple playthrough of just the combat
+engine to see how it works so a couple
+things about this game against the dark
+master this game is a skill based game
+but it is also a class and level based
+game but specifically in combat if I'm
+going to use a weapon I'm going to have
+a skill in that weapon and I'm going to
+decide to hit the orc let's say and I'm
+going to decide how much of my skill
+like with black J who I've already
+created here his skill with blades is
+currently 75 that means when I roll my
+dice I add plus 75 to whatever number
+that is and then I compare that to the
+Chart the blades chart which I have
+printed out here and then I will compare
+that to the Orcs armor type and that
+will give me a result either nothing or
+a number of hits which are basically hit
+points or a number of hits and a
+critical and I also have critical charts
+printed out yes there are charts in this
+game that is just the way it is those
+criticals will have different results
+you could bleed the enemy you could stun
+them you could cut off their arm you
+could do all kinds of interesting things
+that's basically the core of how it
+works now there's a couple little things
+one you can choose to Parry before you
+attack so basically you're allocating
+some of your offensive bonus which in my
+case is plus 75 to defense what that's
+going to do that's gonna cause the Orcs
+attack to be penalized by the number
+that I allocated offense you'll see how
+it works it's not particularly the
+complex but it does require a little bit
+more math yes there is mathematics in
+play in this game which is why I've got
+my handy dandy calculator now this
+character calculator is the same
+calculator I used when I was playing
+merps back in the early 80s and
+amazingly this thing still works which
+is I can't believe this old battery has
+lasted this long but in honor of the old
+merps game I'm going to be using this
+calculator until the battery runs out
+which it might actually do in the middle
+of this session I don't know the other
+thing about the percentile system in
+this game is that it's what's called an
+open-ended system which means if I roll
+these Dice and I get a result of 96 to
+100 so let's say I rolled that which is
+a 98 then that means it open ends that
+means I immediately I remember that
+number 98 I pick it up I roll the dice
+again and I add it to this 98 plus 84 is
+whatever that is see math calculator and
+then I to that number that new number I
+add my final offensive bonus and that's
+going to give me a result of the chart
+so open ending is huge it's a big deal
+you can also open in low if you roll I
+think it's one to five maybe if I rolled
+a zero three that's an open and low
+because that's a roll of a three so now
+I remember that number thank you roll
+again and I'm going to subtract it from
+that number 3 minus 37 is minus 34 and
+then I would add my bonus to that and
+get a result so that's how uh this
+system works I gotta try and go through
+this step by step it's a little
+confusing for me because this game is
+really based on the old merp system
+which used phases in combat now when we
+played merps we never use the phases we
+were too young and stupid to figure to
+figure it out uh and maybe I'm too old
+and stupid to figure it out now I'm not
+entirely sure we never used phases uh we
+used just a straight up sort of I think
+role and add your agility bonus and put
+yourself in an initiative order just
+like every other game but uh we're gonna
+try the phases here we're gonna see how
+this works so to start I've got black J
+he is a warrior the things you need to
+know is that he's got a skill of 75 in
+his blades he's also got a crossbow he's
+not great with with range he's only got
+A plus 40 with uh with range he's got
+some armor on and he has a defense score
+of 35. that is because he's got an
+agility bonus and he also uses a shield
+so if he's attacked anywhere where that
+Shield can be useful to him either to
+the front or to the side typically then
+he will get the full 35 defensive bonus
+which acts as a penalty to the enemy's
+attack roll as you will see that's
+before he chooses to Parry if he does
+he's got 90 hits so he's very very tough
+he also has something called battle
+hardened which basically means that he
+does doesn't suffered the bruised
+penalty in this game that just means as
+soon as you're knocked down to half your
+hits you take minus 20 to everything you
+do he doesn't suffer that because he's
+battle hard and he's super tough so I
+have decided to put black J yeah there
+he is up against two Orcs there's going
+to be an orc Scout and
+an orc Soldier here uh the orc Scout is
+armed with a bow and probably some short
+sword or something the orc Soldier here
+is armed with a scimitar and a shield
+normally on a featureless gray plane I
+would just have them start at medium
+range or whatever whatever that means
+with whatever weapons are using I would
+have them advance and they would fight
+and that would be that but because we've
+got two enemies and we've got an Archer
+and he's got a crossbow I am also going
+to try and incorporate some other skill
+mechanics here like stealth so I'm going
+to assume for the purposes of this
+demonstration that the Orcs are unaware
+of black Jay and he is going to rather
+ineptly try and sneak his way closer
+let's say he starts way over here he's
+gonna try and do a stealth roll against
+their perception he's terrible at it and
+he's wearing armor which makes he's
+terrible he's minus five to this role
+but it's going to be an opposed role
+against their perception okay so this is
+a Stealth at minus five oh oh my God
+look at that it actually open-ended for
+the first roll that's pretty awesome so
+99 Plus
+29 is
+128 minus 5 is 123 that's pretty good
+I'm just going to make a little note of
+that there his stealth was
+123. now the Orcs I'm going to have the
+highest perceptual actually the highest
+perception of the Scout plus 35 so I'm
+gonna have him roll
+um and if he beats this number then they
+see black J 57 plus 35 is 90 something
+not enough to see him so amazingly
+enough black J is actually able to
+approach undetected so keeping that in
+mind I'm going to employ the missile
+fire mechanics here and the surprise
+mechanics this is a very auspicious
+start to our featureless gray plane
+episode here he is using a light cross
+ball it has a base range of 20 meters
+which I call yards I don't have a grid
+on this table and I'm not going to be
+too too specific with ranges but I'm
+going to get my tape measure anyway just
+to get a sense where one inch is a yard
+So currently he is is he got a shot on
+The Bowman The Bowman is just outside of
+his range so they have not seen him I've
+sort of assumed that he stealth his way
+up to this point so there's a number of
+phases in this game Let's quickly talk
+about that before we get into this one
+is the assessment phase that is things
+like this the Orcs failed their
+perception so now there's going to be
+some uh some consequences of that then
+there's the action declaration phase the
+enemies declare their actions first and
+then the PCS declare so PCS sort of have
+a little of a little Advantage by nature
+of them being heroic characters and such
+okay so in this combat around the
+assessment phase is done they failed
+their perception against his successful
+stealth which means these Orcs cannot
+declare new actions in the following
+action declaration phase for the round
+they can still defend themselves by
+parrying with half their maximum combat
+bonus that's the the number you use the
+world to attack so because they are
+surprised they cannot make any
+declarations they're just looking out in
+the forest that's it they can't do
+anything else blackj says let's say that
+he had his crossbow ready okay so his
+shield as long as back his sword is she
+the decide he over here is going to fire
+through the trees unfortunately because
+there's some cover here but he is going
+to fire at that Archer now we do the
+move phase anybody who said they were
+moving now moves and move all happens
+simultaneously this adds a very
+interesting tactical situation which we
+may see unfold here once people get
+closer and once people become aware of
+each other but that's the next phase of
+the move phase then we have spell phase
+a that's the first half of the spell
+phase there's no Spells at play here so
+we can skip that so the ranged phase is
+an X ranged phase a if he didn't have
+the crossbow loaded he would probably
+load in this round that would be a full
+action that's the other thing not only
+do we have phases in this game we have
+full actions and half actions this is
+work this is kind of trips me up a bit
+because normally I'm used to either
+having a game where you have like a half
+action or two half actions and a full
+action or you have kind of a phase game
+this kind of combines them both so it's
+going to take a little bit for me to
+figure this out but basically a full
+action is an attack a half action is
+anything else you can do a full action
+and a half action but if you do so both
+those actions get penalized by minus 20.
+he's just gonna shoot which means that's
+a full action which means that's
+basically all he can do in this round
+which means that he is going to fire in
+the range phase a maybe that's a better
+way of looking at it when you declare
+your actions you sort of also declare
+the type of action it is so so if we go
+back to the action declaration phase the
+Orcs declare nothing because the
+surprise black Jay says I'm going to
+fire at this orc through the trees
+that's my full action that's what he's
+doing he's not doing anything else
+unfortunately it is at medium range
+which means it's a minus 25 to hit and
+the orc is also going to have partial
+cover because of these trees what does
+that mean cover means this or gets a
+plus 20 bonus to his defense against all
+attacks so he's firing at a minus 25 to
+his offensive bonus or combat bonuses
+they called in this game this orc is
+going to get a plus 20 to his defense
+but this work is also surprised so not
+only did they not get a chance to
+declare because in the assessment phase
+they failed the perception but these
+Orcs are also surprised which means the
+the characters cannot attack and could
+only take half of free actions but they
+can't take any actions really because
+they can't declare anything they cannot
+Parry or apply any Shield bonus to the
+defense okay so that means if blackj was
+attacking the guy with the shield the
+orc couldn't use his shield bonus as
+part of his defense but he's attacking
+the bow guy and the bow guy doesn't have
+a shield so it doesn't matter uh oh
+attacks against a surprise character get
+a special plus 20 bonus see math and
+this is where merps and roll Master you
+know this is where the the number the
+bonuses and penalties always began to
+stack up so he's firing at medium range
+that's minus 25. but he's firing through
+cover so that guy's gonna have a plus 20
+to his defense he can't Parry or
+anything like that he's also got a plus
+20 to attack as a surprise so really
+plus 24 surprise Survivor so he's
+rolling a plus 35 but the orc still gets
+his basic defense which is subtracted
+from that role so the Orcs Scout his
+basic defense is plus 15 but he gets a
+plus 20 because of the cover so that's a
+total of 35 which means black Jay's 35
+minus the Orcs defense of 35 means
+blackj's rolling out of zero so he's
+rolling straight up when he rolls we're
+going to apply it to this guy right here
+the missile attack table okay so he's
+doing a straight up roll again this
+feels really clunky but it's just
+because I have not internalized all the
+systems yet
+with any game as soon as you internalize
+this internalize the system things move
+way faster than this feels like it's
+moving right now so if you're looking at
+against a dark master as an option for
+your group uh don't get discouraged it
+just takes a little practice which is
+exactly the reason why I do the features
+this great playing in the first place
+okay he's rolling a zero against the
+Orcs armor type this is also an
+important thing of light armor so here
+we have uh every attack table has the
+number compared to the armor type so I'm
+rolling against a light armor type what
+do we get here straight up roll oh
+that's terrible well that's a 14 so
+that's a complete Miss so the bolt goes
+flying through the trees clattering
+against the stones and no doubt alerting
+the Orcs but they can't do anything this
+round they're just kind of go huh so
+that was ranged phase a now we go to
+melee phase melee phases only if people
+are already in Base to Base contact or
+can attack each other with melee weapons
+they cannot so we skip that phase for
+now range phase B uh this is a time when
+loaded weapons and range phase a could
+fire blackj can't reload it would take a
+full action for him to reload in this
+phase but he can't he's already fired
+and then we go to spell phase B and
+other actions if there's anything else
+so that's the end of the round which
+means now we go back to the top in the
+assessment phase well these guys know
+they're under attack they've heard a
+cross about bolt clatter against the
+Rocks here so now they are in the fight
+action declaration the enemies go first
+basically black Jay has given himself
+away with that he's got his crossbow in
+his hand okay he does not have a shield
+that's going to be important because
+this orc looks into the woods sees where
+he's firing from I'm not going to make
+him do a separate perception roll the
+Orcs declaration is he's going to draw
+and fire so that is a half action to
+load because the the weapon has the
+quick load property normally it's a full
+action to reload but not with a bow so
+half action and fire so he's doing a
+full action and a half action which
+means both have a minus 20. he doesn't
+have to roll to reload but he does have
+to to uh roll to attack now also I
+happen to know the range of a short bow
+is the same as a light crossbow which is
+20. which means that he's going to be a
+further minus 25 for the shot and just
+as he was in cover from black J so to
+his black Jay and cover from him which
+means black J is going to get the bonus
+to his defense which I think is plus 20.
+so the Orcs attack is normally
+Plus 50. but because it's a half action
+now it's plus 30 because it's through uh
+because it's at range that's another
+minus 25 so that's a total of plus five
+meanwhile the regular orc let's say he
+didn't have his weapon so he's going to
+perform two half actions to ready his
+shield and ready his sword and that's
+the end of him that's what his
+declaration is black J is going to well
+he's going to drop the crossbow for free
+he's going to pull his shield as a half
+action and he's going to move his
+movement rate as a half action that's
+two half action oh okay so if he's using
+a half action to move he moves it half
+his movement rate okay so he's going to
+draw two half actions draw a shield
+sword still at a Scabbard and he's going
+to move behind more cover let's say so
+his movement rate is 15 so he can go
+eight okay so he's gonna go eight which
+is roughly he's gonna roughly here
+that's the Declaration phase now the
+move phase this happens simultaneously
+nobody else is moving but blackj is
+moving his eight through here there's no
+role as he does so he can also perform
+that half action with his shield to
+ready yet I think I don't think he has
+to wait till the end of the phase to do
+that in any event I'm going to say that
+readying a weapon is part of the move
+phase it just makes sense to me so he's
+got his shield out now at the move phase
+now the spell phase happens there are no
+spells now we come to Reigns phase a I
+believe this is where this orc makes his
+half action to load the FI so he does
+not fire in this phase he'll fire in
+Phase B so he loads haha right as blackj
+has moved up here now of course the
+distance has been closed so that orc
+will no longer have a penalty for
+distance when it comes to firing so that
+was the range phase a now melee phase
+there is no melee phase because no one
+is within contact here node has made any
+declarations like that so we go into
+ranged phase B this is where loaded
+weapons can now fire so now we reassess
+he is now within his short range easily
+however blackj is still within cover so
+he is going to continue his declared
+action of firing now full action at -20
+because he declared or he combined a
+full action half action so the Orcs
+normal missile bonus is plus 50 but it's
+minus 20 because of the multi-panel or
+the combining so that's plus 30. no
+range modifiers but blackj is going to
+get the cover bonus to his defense so
+he's sitting at plus 30. black Jay's
+current defense against an arrow he has
+his shield out which means he can
+actually choose to apply his his shield
+uh defensive bonus to the arrow he can
+also choose to Parry if he wants black
+Jay's defense he can use the shield as
+normally 35 but he's also going to apply
+his total combat bonus to pairing so
+what that means is he gets here he sees
+the orc about to fire he completely
+hunkers down and applies all of his
+combat bonus to pairing now that's a
+perfect opportunity for him to do that
+normally if he was locked in combat with
+somebody let's say and someone else was
+shooting at him he wouldn't want to do
+that because he's got another threat but
+right now the only threat is coming from
+him so this is great so basically his
+current defense blackj's current defense
+35 Plus 75 which is of course 110. so
+good luck orc because he's firing 30
+minus 110. he's rolling at a minus 80.
+okay so the orc fires in range phase B
+at minus 80. 12 minus 80 is a complete
+Miss of course a surprise surprise there
+and there's no spell phase and there's
+no other actions phase here so now we go
+back to the assessment phase everybody
+can see everybody there's nothing else
+being happening here if somebody was
+bleeding they would bleed now okay so
+now we go to the Declaration phase so if
+we recall this guy is just shot this guy
+has his Scimitar and his shield and
+ready to go and blackj just has his
+shield out so the enemy declares first
+the orc does the same thing he's going
+to draw and fire using a half action to
+full action which is going to be a minus
+20 to his attack this orc here would
+love to do a charge against black J and
+specifically what charging means is he's
+gonna it's a full action he moves half
+his move rate which means he can only
+get to about there and if there's
+anybody there to attack he'll be able to
+do it with a plus 20 but
+he can't Parry which is fine because
+this orc isn't going to Parry anyway I
+don't I doubt it he's an orc he's very
+aggressive and he's got a shield he's
+relying on that so that's the
+Declaration there so black Jay now
+understands as a player character what's
+going on here he has the advantage
+because he knows the orc is going to
+fire at him again
+he knows this orc is going to charge
+towards him I think what he's gonna he's
+gonna get his sword out for sure well
+it's a half action to draw his sword so
+he's definitely got to do that well if
+he stays put and just hunkers down
+preparing for this yeah that's what he's
+gonna do he sees this or charging at him
+but he knows that that orc is not going
+to get to him in time so he is going to
+draw his sword into half action and
+basically hunker down and defend himself
+against this incoming Arrow uh which
+isn't really an action at all but that's
+the smart thing to do so now we go to
+the move phase the only one moving here
+is this orc who's declared a full action
+charge which means he winds up there but
+there is no enemy in range so that's
+gonna thwart him a bit so he's stumbling
+up swinging his Scimitar wildly roaring
+orcish obscenities uh nothing in the
+spell phase now the range phase as a
+half action this orc has drawn that's
+where this happens he's knocked the
+arrow and he's pulling it back melee
+phase there is nobody within melee
+ranged phase B okay now the orc is going
+to fire at black Jay he's fire sharing
+this is going to be a tough shot again
+he's firing at normal range
+which means he's going to be rolling a
+plus 50. it's actually plus 30 because
+it's a full action combined with a half
+action which is minus 20. so it's plus
+30 minus again block J's total defensive
+bonus because as I said he's behind a
+shield and he's applying all of his OB
+so this guy again is rolling and I think
+we say minus 80 I think it was and 85
+minus 80 is a 5 in the chart which
+result in nothing so that is a complete
+Miss oh look at this missile attack
+table attack automatically misses and
+there's a chance of being clumsy so
+what's the clumsy range on a on a short
+bow four okay so what that means is if
+he rolls a natural 4 LS in addition to
+being open-ended low that's an automatic
+role in the fumble table but it's it's
+the unmodified range not the modified so
+it doesn't matter he just misses
+completely uh probably goes skidding off
+black Jay's Shield that was in the range
+phase B no spell phase no other actions
+face okay at the beginning of the next
+round so declaration this orc knows now
+his enemy is Within Reach so he is going
+to definitely declare uh charge super
+aggressive ah this guy is going to do
+the same thing but however he knows that
+he's going to be shooting into melee and
+there's going to be special rules for
+that basically it means that if he fires
+on them while they're engaged if he
+misses there's a possibility he could
+hit the the orc but we'll come to that
+if if it happens so black Jay is going
+to he knows this orc is going to be
+attacking with a big bonus and that he
+can't Parry so black Jay is going to
+take I don't think he's going to move I
+think he's going to declare an attack
+because he he's basically setting
+himself for the charge he knows that
+this orc is coming in so he's waiting
+for him he sets himself for the charge
+which just means he doesn't do anything
+other than declare a full round attack
+because he knows it's going to happen uh
+coming up and in fact it will now we've
+declared the move phase the only one
+moving is the orc the orc is going to
+move and engage in melee which we'll get
+to in the very next uh coming up very
+quickly though that was the move phase
+there's no spell phase range phase a he
+knocks his Arrow now the melee phase now
+this is interesting this orc is charging
+he's going to get a plus 20 to his
+attack but he cannot allocate any of his
+offensive bonus to parrying which means
+he's opening himself up for a counter
+attack and that's good because blackj
+knows that and he's taking advantage of
+it by attacking now how do we determine
+who strikes first it is weapon length
+normally there's things you can do to
+medicate that but black J has an army
+sword which has a length of long versus
+the orc Scimitar which has a length of a
+short which means that black J gets to
+strike first in the melee phase which is
+great but he knows that this orc is
+coming charging in so he's gonna want to
+dedicate some of his offensive bonus to
+Perry combat bonus I keep saying
+offensive bonus that was the the old
+merps and roll Master terminology it's
+combat bonus whatever he's normally got
+a defensive 35 I think he's going to
+just cancel out that Orcs charge by
+dedicating 20 of his of his Perry so
+black Jay his current defense is
+actually going to be 55 and his current
+combat bonus is going to be it's
+normally 75 so it's actually 55. orc
+Soldier comes in at plus 80 because it's
+plus 60 plus 20 for the charge his
+defense by the way is definitely going
+to be only 30 because he's got the
+shield but he cannot Parry because he's
+charging it which means
+that black J is going to strike first as
+the orc comes charging in so he is
+rolling at plus 55 minus the Orcs
+defense of 30. so he's rolling a plus 25
+because remember that Orcs got a shield
+plus 25 and he's going to be rolling on
+the edged attack table because his
+weapon uses the edged attack table plus
+25
+is a 50 plus 45 is 75 on the attack
+table against light armor is three hits
+It's a glancing blow but hey I will take
+it so the orc Soldier is now actually
+down to 57 so he takes a glancing blow
+but the orc Soldier is now able to swing
+his Scimitar because he strikes next at
+plus 80 minus black Jays defense of 55.
+yeah he's also rolling at plus 25. also
+using the edge attack table against
+black Jay's medium armor boom okay
+that's not good 72 plus 25 is 90
+something 97 I think right 72 plus I
+can't do simple math
+97 against medium okay this is not good
+oh very lucky it's nine hits but no
+critical it's going to put him down to
+81. so another you know it was a
+glancing blow but but nothing too
+terrible that was the melee phase range
+phase B so now this is where the orc
+attacks now he is attacking into melee
+at blackjack okay blackj does not have
+any further combat bonus he can use to
+try and use a shield to Parry off this
+Arrow so he's just gonna have a
+defensive 35 against these Arrow this
+orc is attacking at -20 because of
+combining the actions so this orc Scout
+is attacking at uh plus 30 and black
+Jay's current defense is is only 35 I
+mean I'll take the 35. he can Parry
+against the arrow because he's got a
+shield this orc fires he's rolling at
+plus 30 minus 35 so he's rolling it
+minus five and he rolls oh still a
+potential hit uh 91 minus five is going
+to be 86 on the missile attack against
+medium armor and 86 oh again he avoids
+the critical it's only six hits which
+puts him down to 75 hits he's got 90. so
+he's okay but he's taken some blows he's
+not bleeding no one suffered criticals
+that is the end of that round because we
+can spell phase other actions now we go
+back into the new assessment phase
+there's nothing to assess declare
+operations phase this orc is going to do
+a full attack he is not going to put
+anything to pairing because he is an orc
+this orc is again go he's seeing his
+situation there's nowhere he can really
+move to get a better vantage point I
+think black Jay he would like to move
+Behind These trees and take this guy
+with him but in order to do that because
+he wants to put some cover between him
+and the bow but in order to do that he'd
+have to do a disengage action there's
+all kinds of stuff you could do as well
+in this game you could do martial moves
+like trying to disarm and knock people
+down and do a shield Bash that's all
+that kind of stuff but again I'm just
+trying to get kind of the basics down
+before I add in sort of complicated
+moves like that disengaging it's a full
+action they can use their combat bonus
+to Parry their opponents attack but they
+can't strike back you know what he's not
+going to do it he is going to allocate
+some of his DB against that incoming
+Arrow when it comes but he's going to
+take his chance with the orc this time
+so he's he's not going to allocate any
+pairing to the orc he's going to
+allocate well he wants to hit the orc
+see this is where you have the resource
+management of how much do you apply to
+Perry he's against two and enemies right
+now so is it even worth it to say he's
+gonna spend like 20 points of Perry 10
+on him 10 on him yeah why not you know
+this is why not do that so he's gonna
+he's gonna allocate ten points to Perry
+ten points to him and his full action
+he's going to attack the orc because he
+knows he's going to attack first okay so
+that was the Declaration phase there's
+no movement no spells but this phase
+goes first so this orc and again he's
+doing a full action half action minus 20
+but he loads prepares to fire we move
+into the melee phase black table attack
+first at uh again plus 55 because he's
+allocated 20 points to Perry he's
+attacking this orc who normally has a
+defense of 30 and still has a defense of
+30. so he's attacking at Plus 25.
+oh terrible
+35 oh this is really bad 45 is nothing
+done there are like various metagame
+points you can spend to do re-rolls and
+stuff I'm not going to worry about that
+right now again this is just sort of a
+mock combat to see how the basic core
+engine works so basically unfortunately
+he is unable to connect with the orc
+which means it is now the Orcs a turn to
+attack because he's got the shorter
+weapon the orc is attacking fully with
+plus 60 minus black Jays defensive 35
+Plus the 10 against him so it's a
+defensive 45 55 so he's running a plus
+15. lots of numbers lots of numbers if
+you like math you like this game if you
+like checking tables we haven't even got
+to the interesting criticals yet though
+let's hope the first one doesn't happen
+on blackj so he's only a plus 15 here
+the orc oh no oh no this is an
+open-ended role against blackj so 96
+this is gonna hurt bad 96 plus 66 is 100
+Lots
+it's 162. plus his 60 for his OB minus
+black Jay's defense this is going to be
+just terrible of uh 45. 177 now a
+scimitar has a max value on the chart
+and that max value you can hit with the
+Scimitar is 140 so he gets the max
+against medium armor this is going to be
+really bad 16 and a grievous critical
+okay all right this is terrible well he
+was at 75 because he's down to 59.
+however he's taken a grievous critical
+the critical is cut Grievous means he's
+rolling with a plus 30 on the critical
+table oh this could be the end this
+could be the end oh no
+88. 818 that's oh that's bad it's really
+bad okay again the cut critical table
+vicious strike to the weapons forearm to
+blackjay's sword arm targets disarmed so
+black Jay's disarmed he's stunned and
+takes plus 10 damage if the target's not
+wearing arm armor the arm is severed
+plus 10 bleeded minus 40 however this is
+awful black Jay is in fact wearing
+leather bracers which do protect against
+that his bracers prevented his arm from
+being cut off plus 10 damage stunned and
+disarmed so black J is now down to 49
+hits causes him to drop his sword this
+guy is still going to attack luckily
+black State black Jay still has a shield
+he's attacking it plus 30 minus uh 45
+for black Jay's defense because 35 Plus
+the 10 he allocated so he's rolling
+actually at minus 15 this time oh look
+at these rolls unbelievable 92 minus 15
+of course is 77 on the missile chart
+it's gonna be another two damage black G
+is down to 47. terrible that was in
+ranged phase B and we go to the end of
+the round now nobody's bleeding still
+but black Jay's disarmed so in the
+Declaration phase the orc seizes
+opportunity and presses the attack ah no
+Perry and again these Orcs they're
+boring they're predictable they're going
+to do exactly the same thing black J on
+the other hand he's going to do a half
+faction in the move phase to scoop up
+that sword and then he's gonna do a full
+X in the melee phase but it's gonna be
+at a minus 20 because his combining
+actions brutal brutal brutal that's the
+stated goal in the move phase black J
+picks up the sword I think it's as
+simple as that okay there actually are
+rules for whether the the weapon Drops
+Out Of Reach but uh it doesn't apply
+here so yeah basically uh in the move
+phase blackj reaches down picks up the
+sword and then the missile phase happens
+he loads this Arc over here loads and
+now the melee phase blackjay has his
+sword now he now again has the longer
+reach so he's gonna attack first but at
+a minus 20. he cannot really afford to
+defend himself he's gotta hit this guy
+so he's just gonna hope that his shield
+is going to be enough against everybody
+so he is doing a full attack so 75 minus
+20 of course is a 55 against the Orcs
+defense of 30. so again it's plus 25 he
+is rolling at on the edge table all
+right all right give me a roll give me a
+roll what have we got here uh all right
+tell me about passions because in this
+game it's all about you've got you've
+got character passions that you can use
+to do cool things and again I wasn't
+going to get into this but I kind of
+feel like I have to because otherwise um
+blackj's dead and then the future of the
+scrape plane is the feature this bloody
+plane so you have things called Drive
+which allows you to do things so oh each
+character starts playing with a drive
+value of one oh interesting uh get a
+special plus 10 bonus per Drive spent to
+all scale attack and save rolls for the
+duration of the current scene or he
+could reroll any failed role with a
+special plus 10 bonus I'm gonna do like
+that one because I don't want to have to
+remember that he's got plus 10 the whole
+scene so he spends his point of Drive
+which you get at character creations and
+he re-rolls that attack and 71 71 plus
+black Jays bonus of 75 minus 20 because
+of the multi-action penalty we add 10 to
+that because I spent the drive and of
+course we minus the 30 DB which is 106
+against light armor on edge this is
+better 12 damage and a light wound the
+orc Soldier down to 45 and a light
+critical on the cut here we go light
+means we add plus 10 to this role this
+is against the orc and oh that's better
+uh rolls on the critical tables are not
+open-ended so that is 108 as a result on
+the light deep cut to the inside of the
+leg severs tendons and art and muscles
+plus 12 damage stunned six bleed and
+minus 40. this is exactly the head you
+needed to cost to spend a drive to do it
+so he's down to 33. he's stunned oh wait
+a minute I forgot black J was stunned
+until the end of the round he wouldn't
+have been able to do any of that see
+that's the problem with not keeping
+track and also not knowing how the game
+works so he shouldn't have actually been
+able to do any of that because he was
+stunned uh it's just a test so we're
+gonna imagine he wasn't stunned
+because I want to finish this all right
+so the orcheston will definitely apply
+to spawn of the orc six bleeding and
+minus 40 to all actions so black J does
+a devastating strike to the orc who is
+still on his feet but stunned so what
+does stunned mean temporarily days
+staggered or disoriented you cannot take
+full actions but can still defend
+themselves using up to half their combat
+bonus to Perry attacks against the
+stunned character get plus 20.
+characters suffering from a stun
+condition stop being stunned at the end
+of the other action phase unless they
+have been stunned during the course of
+the same round okay so this orc then is
+going to be stunned until the end of the
+next round bad for him I need to find a
+better way to track rounds than this
+yeah okay that was the mealy face so he
+cannot the orc cannot attack now because
+he's stunned
+uh which brings us to range phase B
+he's going to attack at plus 30 minus 35
+which is his which is blackj's normal
+defense so it's rolling at minus five oh
+you've got to be kidding me
+92 minus 5 is 87 89 12. 87 on the
+missile attack against medium is going
+to be some more damage six damage to
+Black Jay he definitely would be bruised
+if he wasn't hardened so that brings us
+to the beginning of the next round now
+beginner sound is the assessment phase
+at the assessment phase we bleed the orc
+is bleeding six so he goes from 33 down
+to 27. so declarations this orc is going
+to do the same thing pepper black tablet
+this orc is stunned this whole round he
+cannot perform full actions he cannot
+disengage because disengage is a full
+action so that means he's going to try
+and Parry to up to half his OB but he's
+at minus 40 to everything he does so and
+I think I'm doing this right his normal
+OB is 60 but he's minus 40. so his
+normal OB is 20 which means he can apply
+10 half of it to his Perry so his
+defensive bonus is going to be 40. and
+that's all he can do is basically defend
+uh so blackj is going to press the
+attack he's going to commit none of his
+OB to defense he's just going to go all
+in on this dude right here range phase a
+he loads nobody moves melee face still
+stunned blackj has the longest weapon
+he's attacking plus 75 is his OB
+normally plus 20 because he's attacking
+a stunned Target that's plus 95 minus
+the Orcs DB defensive bonus I keep
+saying that's the old terminology for
+merps 95 minus 40 which is uh 55. is
+that right I can't do base math yes plus
+55.
+plus 55 on the edge attack table okay
+well 56 and 55 is 111 against light
+armor is going to be 12 and a light
+wound the orc now is down to 15 and a
+light critical on the cut what's the
+critical do
+84.94 because the plus 10 brings us to
+slash through abdomen plus 10 damage and
+Target stunned which means he's still
+stunned it to the end of the next round
+ooh boy that stun thing is brutal plus
+10 damage knocks him down to five hits
+if Target's wearing armor three bleed he
+is okay so he's now bleeding at a rate
+of Nine the orc is still stunned and
+bleeding profusely from a leg wound and
+from an abdomen wound that's the end
+immediately because he stunned he cannot
+take any full actions he's already used
+his stuff to Parry brings us to the
+attack phase over here once again plus
+50 minus multi is plus 30 minus the
+defense is minus five to this role and
+91 9 is 5 is it 86 on the missile
+against medium that's gonna be another
+six damage to Black Jay 35 hits is what
+he's at he's just got arrows sticking
+out of him but that was the end of that
+now we go back to assessment phase where
+we bleed nine hits this orc only had
+five left this orc expires drops dead in
+the assessment phase declaration phase
+while this work he's gonna try and get
+one last shot in a black Jay before it
+all goes gnarly because black Jay's not
+doing well he should probably retreat
+but he's not because this is the
+featureless gray plane which is neither
+featureless nor gray nor a plane okay
+declaration phase black J he's going to
+he can do a full action to move his full
+rate of 15 and get right up actually in
+the move phase that is going to put him
+there and I could say that he could do a
+full action and get right point blank as
+he hops up and hoists himself up I'm not
+sure if this specific climbing rules in
+this but I'm just gonna count that like
+I would in the Miniatures table that
+Miniatures game so he's just gonna add
+that um because it's not that high but
+he can't actually engage because it's a
+full round to move it's a full action to
+move his full uh range so he can't
+attack this jump but that's what he's
+gonna do we got a movement phase first
+he's gonna move and he's gonna basically
+run all the way in and leap up here now
+this is interesting because now we go to
+Range face now
+a lot of games ask the question can you
+change your declaration if you need to I
+don't see anything in these rules about
+that I may have missed it you know I
+haven't combed through them but I think
+he can't I think once you've declared in
+this particular game that's what you've
+you've declared to so movement could
+really screw things up as apparently
+this you know just has quite badly for
+uh this little orky fella here so in the
+range phase a he draws
+there is no melee phase because well
+actually no he's engaged now characters
+attacked by an opponent with Amelia
+attacker considered to be engaged with
+an opponents he's not been attacked by
+so he's not technically engaged yet well
+blackjay could actually combine a full
+move and a half mood to engage a foe
+normally both actions would be at -20
+but you don't really have to roll
+anything here I mean I might have said
+you know he declared a full and a half
+action he's going to do a full action to
+move his full rate and then the half
+action to engage his enemy uh which he
+should have said but he didn't so
+because I didn't know the rules uh so he
+didn't do that so this this orc is not
+engaged yet so if this orc was
+technically engaged then he would suffer
+minus 20 to his ranged attack role at
+black J so on the Range phase B he can
+fire normally as blackj is kind of
+getting to his feet up top here that orc
+is going to fire normally uh he's going
+to be firing at plus 30 minus black Jays
+normal defense again it's at minus five
+it's gonna be 56 minus five and the
+missile table is a 51. against medium
+armor 51 is a Miss we now go to the
+beginning of the next round nobody is
+bleeding in the Declaration phase the
+orc Scout is going to free action drop
+his his bow and he's going to use a half
+action to pull let's say he's got a
+scimitar too he's going to drop his bow
+he's gonna pull his Scimitar and
+basically defend himself entirely
+meanwhile black Jay sees this and black
+Jay is going to try does he want to do
+something fancy like knock him off the
+perch no he's just gonna hit him with a
+swords
+good and that'd be cool and then he
+might take damage and stuff but again
+that would be Advanced rules for the
+future of this great plane and we're
+still trying to get the basics down so
+that's what's gonna happen black just
+gonna uh devote none of his offensive
+bonus to Perry because he's not being
+attacked we now move to range phase a
+there's no more range phase we go right
+into melee again black she has the
+longest attack so he rolls now with a
+plus 75 the defense of the orc is
+normally 15 but now it's actually 55. so
+75 minus 55 is what he's adding to that
+he's adding 20 to this so a 59 on the
+edged against light armor is not going
+to do anything now it's the Orcs the
+Orcs not attacking in melee he was just
+defending himself we go to the bang
+other actions phase and now assessment
+everybody's engaged and we're going to
+do a straight up thing the orc is going
+to attack normally and blackj is also
+going to attack normally he's going to
+vote 10 10 to his defense okay so we go
+to the melee phase blackj goes first
+because he's got the longer weapon he's
+is rolling with a plus 65 this time
+because he's devoted 10 to his uh so 65
+um yeah 85 and 65 minus the Orcs defense
+of 15 is
+135 well that's about as good as you can
+get an arming sword has a max of 140.
+that is going to be 18 points and a
+grievous so the orc Scout is down to 32
+okay he's doing a grievous critical
+which is plus 30 to the Critical Strike
+oh my God 120 strike to the neck if the
+target is wearing neck protection which
+he is not it is destroyed the neck
+protection and the target takes plus 10
+damage stunt at six bleed if not wearing
+neck protection specifically the throat
+is cut open the target dies in eight
+rounds while stunned uh cuts his throat
+and he drops going to expire in eight
+rounds as the blood pumps out of his
+wound up blackjays and rough ape he did
+take no bleeding criticals but he did
+take a critical he barely scraped by but
+you know that's two on one right and
+he's only a first level character
+so that is how that combat system or the
+basics of It kind of works what do we
+know from this we know you probably need
+a calculator but more importantly this
+than that you need to keep yourself
+organized especially if you're the GM
+running uh players against a bunch of
+enemies but yeah that was uh that was
+was against the dark master
+it's a hefty tone with a whole bunch of
+rules but it's really not that
+complicated you just have to get used to
+it you have to get used to checking
+charts and keeping yourself organized I
+would say that's the number one thing
+because there is a lot of stuff going on
+in a fight but honestly you know I don't
+think that much more than what you would
+get running a higher level Pathfinder 2E
+game frankly there's so many various
+effects happening in those games you
+know you have to be super organized as
+well and a lot of people say oh well you
+just play on Foundry you don't have to
+keep track of it I'm talking about
+learning the game I'm talking about
+learning how the game actually works not
+just hitting a button and allowing a
+computer to do everything for you so I
+don't think it's actually more
+complicated than something like
+Pathfinder 2. it's just it's just it
+focuses on different things
+um honestly I would prefer to play this
+than I would Pathfinder too because this
+scratches a different itch for me I like
+evocative criticals I like I kind of
+like the phase phased actions as well
+again take some getting used to for sure
+but I kind of like it it adds a
+different kind of feeling of of tactics
+like for example up here where the orc
+was going to shoot black J over here but
+blackjane managed to run up and engage
+him sort of uh before he was able to
+shoot or in fact I should have done that
+if I had known the rules he would have
+he would have done that uh that that
+would have changed the outcome a little
+bit right or it would change the tactics
+of it so it's it's interesting the whole
+declaration then moving in phases I like
+it a lot but it requires players who are
+on the ball I think your plays would
+have to help you as well
+and uh and you have to be super
+organized as well now to play this thing
+solo well I don't know man there's a lot
+going on there's a ton to keep a ton to
+keep track of of course it's possible a
+lot of people when they're playing solo
+they want to keep the narrative flowing
+and they don't get they don't get bogged
+down with too much uh fiddly mechanics
+but then again maybe you're one of those
+players like me that actually loves
+fiddling mechanics still for me I don't
+think I'd pick this game as a solo thing
+but I would run it so that's against the
+dark master the the very core of it
+anyway I hope you enjoyed it um or got
+something out of it if you play or run
+this game uh let me know your thoughts
+in the comments below I'd like to hear
+what your opinions of the game are
+and things you do to make the game run
+smoother would be kind of cool to know
+too anyway uh thanks for joining me here
+today please do hit like And subscribe
+if you want to help support the show on
+patreon or on the YouTube channel
+memberships you can do that all that
+stuff is below otherwise
+um I'll see those of you at Gen Con
+hopefully in another month or so and uh
+other than that thanks for watching and
+we'll see you next time on Me Myself and
+I
+[Music]

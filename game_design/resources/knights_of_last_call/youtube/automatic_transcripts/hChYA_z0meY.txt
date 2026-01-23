@@ -1,0 +1,723 @@
+hello welcome to the knights of last
+call my name is derek melinda the game
+master for the knights
+this week we've been taking a closer
+look at the dark archive class playtest
+release from paizo yesterday we covered
+the psychic and we went over the class
+features and my thoughts on some of
+those features
+some of you had some pretty interesting
+reactions to what i had to say and i
+will admit that overall my opinion of
+the class was fairly negative and so i
+should have
+caveated everything by saying these are
+just first looks now i've been playing
+the game for a long time i think i can
+pretty much suss out how mechanics are
+going to work once they're on paper but
+i will say that until we actually get a
+chance to play with this class on the
+tabletop i am going to withhold any
+judgment about whether the class is good
+or not so consider these to be more hot
+takes than uh you know well-informed
+takes because again no one has had a
+chance to play with these classes yet
+and so you know we're just taking this
+as quickly as we can the goal with these
+videos is to simply inform people who
+may not have had a chance yet to read
+through the entire document as well as
+to give some first thoughts about what i
+feel about these classes and it'll be
+interesting to see how as play testing
+goes on and eventually the final
+releases is released that we see how
+things have maybe changed and hopefully
+possibly paizo here's some of these
+concerns and maybe make some changes to
+make these classes better
+so yesterday we dealt with the psychic
+today we are going to deal with the
+thematurge so the first thing you might
+ask is what is a thomaturge well
+thomaturge or thomaturgy is sort of an
+old-fashioned word to just kind of
+describe someone who works miracles is a
+miracle worker does weird things with
+magic
+um in the context of pathfinder a
+thomaturge is someone who has
+accumulated a bunch of different scraps
+of of magical lore of forbidden
+knowledge and sort of gathered them all
+up figuring that something should work
+and when i first read this class when i
+first heard about this class the first
+thing i thought of was
+uh this scene from the mummy the one
+with brendan fraser and rachel weiss
+when the character benny um
+is just pulling out various holy symbols
+hoping that something is going to work
+and something is going to save him so
+that is very much the feel i got from
+this class and i would also go so far as
+to say this class just feels like an
+adventurer they are a character that is
+built to handle a variety of situations
+and i gotta say my first overall take of
+it is i really like this class it has a
+great looking core chassis and when i
+say core chassis i mean your
+proficiencies what you gain through the
+levels it's very similar to the bar dare
+i say
+even better
+and
+that doesn't surprise me because the
+bard is a caster class but this
+character has a lot going for it it's
+charisma based it has eight hit points
+per level it gets six plus intelligence
+skills four of the skills are chosen and
+two more are freebies plus your
+intelligence so a huge number of skills
+uh that's the same number as the ranger
+gets that's the same number as the bard
+gets so this character is not wanting
+for skills the only person who has more
+is the rogue they start the game as an
+expert in will and trained in the others
+and an expert in perception so already
+off the bat they have some really nice
+proficiencies they are trained in light
+and medium armor which is a nice step up
+over the bard hitting expert and master
+later on in the progression
+they gain all weapon proficiencies
+martial simple and unarmed and they go
+to expert proficiency at level 5 and
+master proficiency at level 13 just like
+every other martial class
+the other notable thing about their
+progression is at level 13 they gain a
+legendary will save with the typical
+result plus plus that we've come to see
+from other mechanics where a success
+becomes a critical success and a
+critical failure is upgraded to a
+regular failure their fortitude and
+reflex cap out at just expert which
+isn't the strongest and his perception
+hits master so overall this is a very
+solid chassis with marshall level weapon
+proficiencies marshall level armor
+proficiencies and a super high will save
+which tends to be marshall characters
+weak spot so just on the core spine of
+this character alone i think it's really
+exciting that's the core chassis what
+about its unique abilities well for
+starters they begin play at first level
+with the dubious knowledge feat which i
+don't care about this is mostly flavor
+and i don't even like the dubious
+knowledge feat because it feeds into the
+whole lying to your players when they
+critical fail on a recall knowledge
+except now you have to come up with two
+things to tell them one which is true
+and one which is a lie and if you're
+anything like me your players will
+immediately know which one is the lie
+because you're gonna sit there and go uh
+uh you've heard tale that the ogres like
+to have people uh over to view their
+window treatments and you won't know
+what to say so dubious knowledge is
+whatever i mean it fits the theme and
+flavor of this character but i i just
+don't really like it the other ability
+that you get is esoterica now what is
+esoterica it's a it's a weird collection
+of random bits of religious lore and
+anathemas think like i have a bit a
+little bit of silver and a little bit of
+cold iron a scrap of parchment that was
+once touched by a saint it's again a lot
+like benny from the mummy movie
+something is bound to work if you try it
+hard enough this esoterica ability gives
+you two new actions find flaw and
+esoteric antithesis that's a mouthful so
+let's take a look and break those down
+so find flaws is one action you can only
+do it once per round and it lets you
+recall knowledge with your charisma and
+if you get a critical success it gives
+you all of a creature's weaknesses
+resistances and immunities
+now
+i kind of already was doing this with
+recall knowledge when you get a critical
+success
+and if this is a special ability of this
+class i really don't know what
+information you're supposed to be giving
+out with a critical success for recall
+knowledge but i do think it's cool that
+they're actually specifying exactly what
+you get from this and given the classes
+focus on exploiting a creature's
+weaknesses i do think that this is a
+pretty cool ability it also should you
+critical success
+or succeed uh
+you can follow that up with the esoteric
+antithesis action and you get to do it
+as a free action so you don't need to
+use an action for it but we'll get to
+that in a sec if you succeed at this
+special recall knowledge uh this fine
+flaws you learn their highest weakness
+and again it lets you do the esoteric
+antithesis for free if you fail you
+don't learn anything but you still get
+to use the esoteric antithesis and if
+you critical fail you are so shocked by
+how wrong you were and how much you
+could have screwed things up that you
+become flat-footed so
+overall i think this is a really really
+cool feat it it really reminds me of
+sort of the um hunt prey monster hunter
+build of the ranger except uh it's a
+little bit cooler and a little bit more
+focused so i really like that and then
+for esoteric antithesis when you trigger
+this against a creature who you've
+already discovered and found their flaw
+this thing just gives you everything
+your attacks become magical and they
+automatically shift the damage type so
+that you are hitting your opponent's
+highest weakness so if their weakness to
+fire is 15 guess what you are going to
+do 15 points of bonus damage are they
+weak to cold 10 you're going to do 10
+points of bonus damage but here's the
+great part if they don't have a weakness
+or if their weakness isn't really that
+much then you basically give them one a
+custom one that only you can use but
+it's equal to two plus half your level
+so a level 20 thermaturge will pretty
+much always be hitting people for at
+least 12 extra points of damage or more
+depending on what their weakness is and
+again this is any weakness and it lasts
+until you find flaw again so what that
+means is this isn't just a one-round
+ability no you can keep hitting them
+with multiple strikes each turn with
+your again remember high marshal level
+weapon proficiency to just keep dealing
+the damage again this is a very cool
+take on a ranger-like ability much more
+like the hunt prey monster hunter build
+and i i've game mastered for a monster
+hunter ranger and it always felt like it
+was missing something this this is a
+much better monster hunter than even the
+ranger the second unique class feature
+that the therma church gains is their
+implement this is a strange magical
+talisman or doodad that you can use to
+focus your power maybe it was something
+you found in an ancient crypt or maybe
+it's the bone of a lost saint either way
+it's a sort of an item that you can use
+to trigger additional powers now you
+start with just one of these magical
+talismans but you can gain up to
+eventually three each which has a unique
+set of powers now we're going to go over
+them in a minute but i did want to
+highlight one additional point
+as you go up through the levels you can
+use your implement to empower your
+attacks now
+this is so cool this character is going
+to be a damage dealing monster not only
+do they get martial weapon proficiencies
+and they get weapon specialization this
+implement empowerment means that as long
+as you have a free hand or your
+implement is being wielded in one of
+your hands then you can basically
+supercharge your attack it starts off at
+two bonus damage but it scales all the
+way up to eight points of bonus damage
+now you need to have your implement in
+your hand or you need to have an offhand
+so basically this character really can't
+be using shields except maybe a buckler
+i suppose you could get away with but
+more importantly it means that on top of
+finding the flaws gaining the weakness
+exploitation implementing the
+uh
+implement power empowerment so that you
+add two four six or eight points of
+damage on top of
+this character's weapon specialization
+the fact that your character is not
+strength based really won't be much of a
+problem at all you're going to have a
+huge static bonus to damage and i think
+this is going to be a lot of fun so what
+about the implements themselves well the
+play test has five and the final version
+they say is going to have nine tying
+into the theme of three sets of three i
+think these are incredible they are
+awesome it the the powers are are very
+powerful they're fun they're exciting
+they let you focus on different elements
+of the game they let you build your
+character in a different way depending
+on which way you want to go different
+thermaturges with different implements
+are going to play very differently at
+the table and i think this is a market
+difference from the psychic that we
+reviewed yesterday additionally you gain
+a power pretty soon i think around level
+seven which lets you switch your
+implements very quickly essentially it's
+like quick draw but for your implements
+so they've even thought of the fact that
+your character is going to want to
+switch these implements in and out and
+so they've given you an ability to
+essentially switch modes
+you might start the fight with your
+amulet which will make you very you know
+powerful in protection but then later on
+you might switch over to say your wand
+if you want to do some range damage i
+think this is very very cool now each of
+the implements comes in three tiers of
+power initiate
+adept and paragon
+as you go up the levels you can increase
+your rank or skill in a certain number
+of implements you can either become a
+paragon in one implement with the other
+two staying at initiate level or you can
+become adept in two of the implements
+and then the other one will still stay
+at initiate level so again a lot of
+customization a lot of choice and as you
+go up the level you're going to gain new
+abilities and new ways to use existing
+abilities i think this is very awesome
+the first implement is the amulet and
+again this is more of a thematic choice
+it can really be anything but the amulet
+implement is focused on protection
+now the initial ability which you gain
+as an initiate you just get this
+straight off is you get a reaction and
+it triggers when you or an ally within
+15 feet
+gets hit with first source of damage and
+you give them resistance equal to two
+plus your level does this sound familiar
+sure it does it sounds a lot like the
+lawful good champion's ability to
+retributive strike now of course
+obviously they don't get to make an
+attack of opportunity but this is really
+really cool because number one it could
+be you or an ally and number two it
+could be any source of damage it could
+be a fireball it could be a cone of coal
+it could be a lightning bolt so
+basically you will give them resistance
+to whatever damage type they need
+against all the damage that is
+incredible and that is awesome so a very
+very powerful ability with huge play
+potential and i think it's a lot of fun
+now again you can improve these as you
+go up the levels by increasing your
+level of proficiency in amulet from
+initiate to adept or paragon if you
+raise it to adept then the target which
+you've given that damage reduction will
+continue to have damage reduction five
+eventually goes up to ten until the next
+turn so you hit them with one very
+powerful damage absorbing resistance but
+then give them some ongoing resistance
+for the entire round if you get it all
+the way to paragon
+then everybody all your allies within 15
+feet gain both the initial damage
+reduction and the lingering damage
+resistance that is so cool and so
+powerful a a massive red dragon comes in
+and breathes fire down on your party but
+your
+thermaturge with your powerful amulet
+gives everyone a massive bonus to fire
+resistance and then gains lingering fire
+resistance so that any other fire
+attacks for the entire rest of the round
+get mitigated and this is just a
+reaction so you could just keep doing
+this turn after turn after turn changing
+the resistance from turn to turn this is
+a huge protective ability with a lot of
+fun upside
+the second implement is the chalice
+implement and this is focused on healing
+so as an initiate you give your players
+two options one is you can take a sip
+from the chalice you can only do this
+once per round and it's you or an
+adjacent ally gains two plus half your
+level temporary hit points until end of
+next turn i mean this is this is okay
+it's only one action which is nice it's
+a little bit of a temporary hit point
+bubble which you can probably use pretty
+well but it's not the most powerful
+ability but you can drain the chalice
+and that's going to heal three hit
+points per level now you can only use
+this once every 10 minutes so it
+functions a lot like a paladin's lay on
+hands but once you've drained it you can
+still continue to offer people sips so
+again this is a huge awesome ability to
+just heal people both in combat and out
+of combat and then the ongoing temporary
+hit points is a great way to sustain
+yourself if you wanted to be a more
+martially oriented thematurge just spend
+an action each turn that that sort of
+that elusive third action to take a
+quick sip of your chalice and pop
+yourself up for five or six or seven
+different points of temp that's awesome
+that's cool if you become an adept in
+the chalice implement then if you're
+critically hit by a piercing or slashing
+weapon or ongoing bleeding damage then
+you can heal for more i i don't know
+what the theme here is i think there
+might be some sort of uh jesus metaphor
+here with the the cup
+i'm not sure but
+if you are hit by that very strange set
+of circumstances then your sip instead
+of giving uh just a few points of
+temporary hit points gives your level
+plus your charisma temporary hit points
+that's a lot of temporary hit points and
+if they drain the chalice to heal they
+get four hit points per level instead of
+three hit points per level
+lastly if you get your chalice to
+paragon when you or an ally drains the
+chalice in addition to healing wounds
+and restoring a lot of hit points
+basically the chalice just completely
+heals you it'll get rid of a lot of your
+negative conditions it will reduce your
+clumsy you're enfeebled you're
+frightened you're stupefied and your
+stun conditions all by one
+the first time each day that you drink
+from it it'll also reduce your drained
+condition by one and finally the chalice
+will try to counteract any poisons
+diseases or curses affecting the drinker
+that's incredible and you can do this
+every 10 minutes this thing is like a
+heel spell it's awesome if you wanted to
+be a healer
+take the chalice implement and you're
+basically well on your way in addition
+remember you eventually get three of
+these implements so if you want to
+become a protective healing support
+character you might take the chalice and
+you might take the amulet but as you'll
+see with some of the later ones you
+could take them and be a very different
+thomaturg i think this class is super
+exciting all right
+on to the third implement the lantern
+this is sort of uh for sort of a
+exploration mode being more of a search
+kind of a little bit of a of a rogue
+ranger feel to it so the lantern well
+the implement lantern shines as a
+lantern you and your allies get a plus
+one status bonus to perception checks
+made to search and to recall knowledge
+checks made within the light of the
+lantern additionally if you have your
+lantern implement out you count as
+searching in exploration mode
+automatically so you could do something
+else with your exploration action but
+while the lantern is out you are counted
+as searching or for traps hazards haunts
+and secrets like secret doors or secret
+treasure chests so that is a really cool
+and really powerful ability i really
+really like that
+if your lantern implement becomes a
+depth level well guess what your lantern
+light now automatically reveals
+invisible and ethereal creatures they
+still count as concealed as if a c
+invisibility spell was cast but this is
+for free
+and then lastly if you take your lantern
+all the way to paragon then your the
+light of your lantern has a free
+counteract check to see through
+illusions disguises and transmutation
+effects so while i don't think the
+lantern is as powerful as the first two
+implements we covered it is very cool
+and remember you do end up getting three
+of these implements so
+it's totally a valid choice and it might
+not be my first one but i could see
+picking it up as a second or a third one
+especially if my game is focused on
+let's say dungeon exploring and being
+able to make those free search checks
+could be very very powerful
+the fourth implement is the wand and
+this turns your thomaturge into sort of
+a quasi-spell caster as an initiate
+you'll choose fire electricity or cold
+and then you gain the fling magic action
+so it's two actions and you basically
+kind of shoot off a little bit of fire
+or a little bit of electricity or cold
+within 80 feet dealing one d4 plus your
+charisma bonus modifier to the damage
+and they get to make a basic reflex save
+so it's not a spell touch attack which
+is better because it means that instead
+of missing and doing nothing it's a
+basic reflex save so they can fail and
+still take half or sorry they could fail
+and take full damage or they can pass
+the save and still take half and then
+the damage type is whatever type you
+chose and then of course every two
+levels this increases by 1d4
+if you become an adept the range
+increases to 120 feet you get to choose
+a second damage type from the list and
+then you get to choose between them as
+you fling them again remember your
+character's really good at sussing out
+creatures weaknesses so this is a great
+way to tag those and then the fling
+magic also has an additional effect
+should the target fail that reflex save
+and take damage if you have the fire
+wand or the fire fling the target
+catches on fire taking 1d10 persistent
+fire damage if you're flinging cold well
+then the takaria becomes frozen and
+chilled taking a minus tense penalty to
+its speeds and lastly if you hit them
+with the electricity they become shocked
+and shook up and they become flat-footed
+until the start of your next turn all
+three of these are powerful all three of
+these are great lastly if you become a
+paragon you become a master of the wand
+the range goes all the way out to 180
+feet pretty much nothing you won't be
+able to hit you get to choose between
+all three of the damage types really
+allowing you to suss in on a creature's
+weakness and make sure you hit them way
+where they were going to take the most
+damage and addition now when you fling
+your magic instead of a single creature
+you can make it a 10 foot burst this is
+a 10 foot burst 2 action can trip that
+has variable damage types
+this is one of the best can trips
+in the game this is a very cool very
+flavorful ability and
+i just love it
+lastly the weapon implement this is
+you're basically saying your character
+is focused on battle now this can be any
+type of weapon it could be a dagger it
+could be a sword it's probably not going
+to be a two-handed weapon because you do
+need to be able to hold another
+implement in your other hand these are
+really great and they really basically
+say i want my character to be really
+good at being a fighter and in fact they
+kind of give you some fighter-like
+abilities so if you choose the weapon
+implement then you gain the implements
+interruption reaction so
+if the target of your esoteric
+antithesis uses a concentrate manipulate
+or move action or leaves a square so
+basically if they cast a spell or if
+they try to move away
+if that creature is within reach of your
+melee weapon or if they're within 10
+feet if you're using a ranged weapon
+which is kind of a cool new ability
+then boom you get to make a strike
+against the creature with your weapon
+implement and if you critical hit you
+disrupt that action so they try to move
+away you hit them it's a critical hit
+boom
+they they don't get to move away and of
+course the strike doesn't count towards
+your multiple attack penalty and your
+multiple attack penalty doesn't apply to
+this strike so very cool it's very much
+like a a barbarians attack of
+opportunity a paladin's retributive
+strike a
+monks
+stand still a rangers disrupt pray all
+very cool also if you choose the weapon
+implement at fifth level you get the
+critical specialization effect of your
+weapon whenever you are using your
+thumaturgic weapon again this is
+basically turning your character into a
+martial character they're gonna have the
+normal weapon proficiencies they have
+great armor proficiencies
+if you choose the weapon implement on
+top of everything else you'll be one of
+the best damage dealing fighting types
+at the table
+okay so the weapon can also go from
+initiate to adept if you go to adept if
+you use the implement interruption the
+attack of opportunity basically and you
+fail
+okay you still deal one point of damage
+which can trigger the target's
+weaknesses as normal which as we said
+before could possibly be like 12 or 13
+points of damage this means that even
+when you miss with your attack of
+opportunity you're still dealing 13 14
+points of damage
+no other class gets this this is
+fantastic lastly you can take your
+weapon implement to paragon and this way
+you incorporate your foe's weakness
+making your interruptions extremely
+disruptive now
+now if an opponent triggers your action
+and you hit them with your implements
+interruption ability
+they are disrupted not on a critical hit
+but on a regular hit and a critical hit
+this means that if someone tries to move
+away from you all you need to do is hit
+them it is incredibly powerful very
+flavorful and if you choose this
+implement you are going to be one heck
+of a battler
+now i'm not going to go over all the
+class feats but they are awesome they
+get the ability to create temporary
+talismans which no one else was really
+using because it's kind of pricey just
+like potions so in this way they're like
+the alchemist but you're creating
+temporary talismans that you can attach
+to you or your other party members
+that's awesome you can create warding
+circles they get ritual books they can
+use scrolls they can even gain familiars
+and get all the familiar feeds and they
+get tons of abilities that allow them to
+use extra magical items i think this
+class is incredible i think this class
+is
+way better than the alchemist i think
+this class is
+very versatile very fun i think there's
+a lot of things going on here that
+excite me mechanically i think there's a
+lot of things going on here that excite
+me narratively i think this class might
+be too good um i think they're doing a
+lot of things they might be stepping on
+some of the bard's toes because of how
+versatile they are with their skills and
+their skill abilities now yes they do
+not get full spell casting but boy they
+make up for that in a lot of different
+ways and just being able to have nine of
+these implement options means that
+you're going to have so much
+customization about the way you build
+this character i think people are going
+to be really excited about the
+thermaturg that's what we have for the
+dark archive play test so far the
+psychic
+and the thermaturge
+i really really like this class and i
+think it's going to play really really
+fun i know that if i had the opportunity
+to get into a game that i wasn't running
+and be as a player i would definitely
+want to roll one of these up just to see
+how well it works in action again the
+class feats are very exciting they take
+the class in even more ways and i think
+it'd be really fun to see how it plays
+out at the table so let me know leave a
+comment below or join our patreon and
+hit us up in the discord we want to talk
+about these classes as we go through the
+next couple of weeks for these play
+tests and i promise you there's going to
+be a lot of really really really
+in-depth conversations or if you think
+i'm completely wrong and you want to
+yell at me personally also join our
+patreon and then you can yell at me in
+the discord either way i'd like to see
+you there because i want to have a
+conversation with you like and subscribe
+if you found this video useful and i
+want to say thank you for watching and
+welcome to the knights of last
+[Music]
+foreign

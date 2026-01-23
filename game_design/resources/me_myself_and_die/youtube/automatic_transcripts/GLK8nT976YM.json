@@ -1,0 +1,1645 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,320",
+      "end_time": "00:00:04,680",
+      "text": "hey guys welcome back I want to talk to"
+    },
+    {
+      "start_time": "00:00:01,760",
+      "end_time": "00:00:06,839",
+      "text": "you today about the travel mechanics in"
+    },
+    {
+      "start_time": "00:00:04,680",
+      "end_time": "00:00:08,599",
+      "text": "the broken Empires role playing game now"
+    },
+    {
+      "start_time": "00:00:06,839",
+      "end_time": "00:00:10,480",
+      "text": "before I get into this I do want to say"
+    },
+    {
+      "start_time": "00:00:08,599",
+      "end_time": "00:00:13,639",
+      "text": "that what I've discovered over the past"
+    },
+    {
+      "start_time": "00:00:10,480",
+      "end_time": "00:00:16,359",
+      "text": "few weeks is that so many of you don't"
+    },
+    {
+      "start_time": "00:00:13,639",
+      "end_time": "00:00:18,640",
+      "text": "do travel at all in your games which"
+    },
+    {
+      "start_time": "00:00:16,359",
+      "end_time": "00:00:20,199",
+      "text": "frankly blows my mind for me getting"
+    },
+    {
+      "start_time": "00:00:18,640",
+      "end_time": "00:00:22,279",
+      "text": "there is half the fun and the idea that"
+    },
+    {
+      "start_time": "00:00:20,199",
+      "end_time": "00:00:24,039",
+      "text": "a GM would just handwave travel because"
+    },
+    {
+      "start_time": "00:00:22,279",
+      "end_time": "00:00:25,080",
+      "text": "reasons it's too hard or they don't have"
+    },
+    {
+      "start_time": "00:00:24,039",
+      "end_time": "00:00:27,119",
+      "text": "the tools for it or they're just not"
+    },
+    {
+      "start_time": "00:00:25,080",
+      "end_time": "00:00:30,039",
+      "text": "interested in it I don't understand that"
+    },
+    {
+      "start_time": "00:00:27,119",
+      "end_time": "00:00:31,640",
+      "text": "at all travel has always been a hugely"
+    },
+    {
+      "start_time": "00:00:30,039",
+      "end_time": "00:00:33,800",
+      "text": "important part of my games both as a"
+    },
+    {
+      "start_time": "00:00:31,640",
+      "end_time": "00:00:35,800",
+      "text": "player and a GM and the idea of not"
+    },
+    {
+      "start_time": "00:00:33,800",
+      "end_time": "00:00:36,960",
+      "text": "having it there it's in a fantasy game"
+    },
+    {
+      "start_time": "00:00:35,800",
+      "end_time": "00:00:38,040",
+      "text": "obviously different genres are going to"
+    },
+    {
+      "start_time": "00:00:36,960",
+      "end_time": "00:00:40,120",
+      "text": "have different things right if you're"
+    },
+    {
+      "start_time": "00:00:38,040",
+      "end_time": "00:00:42,000",
+      "text": "playing a cyberpunk game you don't"
+    },
+    {
+      "start_time": "00:00:40,120",
+      "end_time": "00:00:43,719",
+      "text": "really have to do the travel of getting"
+    },
+    {
+      "start_time": "00:00:42,000",
+      "end_time": "00:00:45,399",
+      "text": "on a plane and going from one place to"
+    },
+    {
+      "start_time": "00:00:43,719",
+      "end_time": "00:00:47,360",
+      "text": "another although you can I'm talking"
+    },
+    {
+      "start_time": "00:00:45,399",
+      "end_time": "00:00:49,320",
+      "text": "about in a fantasy game where you're"
+    },
+    {
+      "start_time": "00:00:47,360",
+      "end_time": "00:00:51,559",
+      "text": "typically on foot or on a horseback and"
+    },
+    {
+      "start_time": "00:00:49,320",
+      "end_time": "00:00:53,879",
+      "text": "travel is exciting and dangerous and"
+    },
+    {
+      "start_time": "00:00:51,559",
+      "end_time": "00:00:56,840",
+      "text": "tiring that is what these rules are"
+    },
+    {
+      "start_time": "00:00:53,879",
+      "end_time": "00:00:58,920",
+      "text": "designed to emulate now I will say as"
+    },
+    {
+      "start_time": "00:00:56,840",
+      "end_time": "00:01:00,559",
+      "text": "well as a brief caveat you don't need"
+    },
+    {
+      "start_time": "00:00:58,920",
+      "end_time": "00:01:02,000",
+      "text": "travel rules in any game you can"
+    },
+    {
+      "start_time": "00:01:00,559",
+      "end_time": "00:01:03,519",
+      "text": "handwave it if you want you can ignore"
+    },
+    {
+      "start_time": "00:01:02,000",
+      "end_time": "00:01:04,760",
+      "text": "it if you want although again like I"
+    },
+    {
+      "start_time": "00:01:03,519",
+      "end_time": "00:01:06,240",
+      "text": "said I don't know why you do that"
+    },
+    {
+      "start_time": "00:01:04,760",
+      "end_time": "00:01:08,920",
+      "text": "because you're you're missing out on so"
+    },
+    {
+      "start_time": "00:01:06,240",
+      "end_time": "00:01:11,400",
+      "text": "much so much a lot of uh osr style games"
+    },
+    {
+      "start_time": "00:01:08,920",
+      "end_time": "00:01:12,720",
+      "text": "do exploration stuff right where it's"
+    },
+    {
+      "start_time": "00:01:11,400",
+      "end_time": "00:01:14,759",
+      "text": "basically all you're concerned about is"
+    },
+    {
+      "start_time": "00:01:12,720",
+      "end_time": "00:01:15,880",
+      "text": "how many miles per day is the the party"
+    },
+    {
+      "start_time": "00:01:14,759",
+      "end_time": "00:01:17,720",
+      "text": "traveling are they running out of"
+    },
+    {
+      "start_time": "00:01:15,880",
+      "end_time": "00:01:19,759",
+      "text": "rations and is there a random encounter"
+    },
+    {
+      "start_time": "00:01:17,720",
+      "end_time": "00:01:22,079",
+      "text": "which typically means a combat but not"
+    },
+    {
+      "start_time": "00:01:19,759",
+      "end_time": "00:01:24,640",
+      "text": "always so that's a perfectly valid way"
+    },
+    {
+      "start_time": "00:01:22,079",
+      "end_time": "00:01:26,320",
+      "text": "of doing things um but my system is a"
+    },
+    {
+      "start_time": "00:01:24,640",
+      "end_time": "00:01:28,240",
+      "text": "little different my system doesn't deal"
+    },
+    {
+      "start_time": "00:01:26,320",
+      "end_time": "00:01:30,680",
+      "text": "so much in how many miles per day did"
+    },
+    {
+      "start_time": "00:01:28,240",
+      "end_time": "00:01:33,360",
+      "text": "you go but how many events per per leg"
+    },
+    {
+      "start_time": "00:01:30,680",
+      "end_time": "00:01:35,880",
+      "text": "did you go and how tired are you when"
+    },
+    {
+      "start_time": "00:01:33,360",
+      "end_time": "00:01:38,399",
+      "text": "you get to your destination how many"
+    },
+    {
+      "start_time": "00:01:35,880",
+      "end_time": "00:01:40,560",
+      "text": "dangers or opportunities befell you on"
+    },
+    {
+      "start_time": "00:01:38,399",
+      "end_time": "00:01:41,640",
+      "text": "the way to the destination but we'll get"
+    },
+    {
+      "start_time": "00:01:40,560",
+      "end_time": "00:01:43,200",
+      "text": "into that first of all I want to"
+    },
+    {
+      "start_time": "00:01:41,640",
+      "end_time": "00:01:44,840",
+      "text": "actually read you just the the opening"
+    },
+    {
+      "start_time": "00:01:43,200",
+      "end_time": "00:01:46,479",
+      "text": "section of this travel chapter right"
+    },
+    {
+      "start_time": "00:01:44,840",
+      "end_time": "00:01:47,719",
+      "text": "here this might change but currently"
+    },
+    {
+      "start_time": "00:01:46,479",
+      "end_time": "00:01:50,000",
+      "text": "this is what it is this really"
+    },
+    {
+      "start_time": "00:01:47,719",
+      "end_time": "00:01:51,360",
+      "text": "encapsulates my feeling on on travel and"
+    },
+    {
+      "start_time": "00:01:50,000",
+      "end_time": "00:01:53,560",
+      "text": "role playing games in"
+    },
+    {
+      "start_time": "00:01:51,360",
+      "end_time": "00:01:55,200",
+      "text": "general so travel can be one of the most"
+    },
+    {
+      "start_time": "00:01:53,560",
+      "end_time": "00:01:56,920",
+      "text": "satisfying and exhilarating aspects of"
+    },
+    {
+      "start_time": "00:01:55,200",
+      "end_time": "00:01:58,880",
+      "text": "the fantasy roleplaying game experience"
+    },
+    {
+      "start_time": "00:01:56,920",
+      "end_time": "00:02:01,439",
+      "text": "it is also tragically one of the most"
+    },
+    {
+      "start_time": "00:01:58,880",
+      "end_time": "00:02:03,640",
+      "text": "underused and under appreciated despite"
+    },
+    {
+      "start_time": "00:02:01,439",
+      "end_time": "00:02:05,479",
+      "text": "being a staple of so many flavors of"
+    },
+    {
+      "start_time": "00:02:03,640",
+      "end_time": "00:02:07,439",
+      "text": "fantasy what would the Lord of the Rings"
+    },
+    {
+      "start_time": "00:02:05,479",
+      "end_time": "00:02:09,599",
+      "text": "have been if tolken had just skipped"
+    },
+    {
+      "start_time": "00:02:07,439",
+      "end_time": "00:02:11,879",
+      "text": "past all that travel stuff a book about"
+    },
+    {
+      "start_time": "00:02:09,599",
+      "end_time": "00:02:14,040",
+      "text": "10 pages long is what a thin and"
+    },
+    {
+      "start_time": "00:02:11,879",
+      "end_time": "00:02:17,440",
+      "text": "stretched experience like butter scraped"
+    },
+    {
+      "start_time": "00:02:14,040",
+      "end_time": "00:02:19,440",
+      "text": "over too much Bread El of melon's entire"
+    },
+    {
+      "start_time": "00:02:17,440",
+      "end_time": "00:02:21,319",
+      "text": "Saga takes place while wandering the"
+    },
+    {
+      "start_time": "00:02:19,440",
+      "end_time": "00:02:22,680",
+      "text": "young kingdoms his story would be so"
+    },
+    {
+      "start_time": "00:02:21,319",
+      "end_time": "00:02:24,959",
+      "text": "much less interesting if he had never"
+    },
+    {
+      "start_time": "00:02:22,680",
+      "end_time": "00:02:26,360",
+      "text": "left the dragon Isle why did we all hate"
+    },
+    {
+      "start_time": "00:02:24,959",
+      "end_time": "00:02:28,160",
+      "text": "the seventh and eth seasons of The Game"
+    },
+    {
+      "start_time": "00:02:26,360",
+      "end_time": "00:02:29,440",
+      "text": "of Thrones television series because"
+    },
+    {
+      "start_time": "00:02:28,160",
+      "end_time": "00:02:31,720",
+      "text": "they blatantly ignored all the travel"
+    },
+    {
+      "start_time": "00:02:29,440",
+      "end_time": "00:02:33,360",
+      "text": "bits that's why well there might have"
+    },
+    {
+      "start_time": "00:02:31,720",
+      "end_time": "00:02:35,280",
+      "text": "been one or two other reasons too but"
+    },
+    {
+      "start_time": "00:02:33,360",
+      "end_time": "00:02:37,560",
+      "text": "you know certainly the travel bits was"
+    },
+    {
+      "start_time": "00:02:35,280",
+      "end_time": "00:02:39,720",
+      "text": "an issue Journeys in the broken Empires"
+    },
+    {
+      "start_time": "00:02:37,560",
+      "end_time": "00:02:42,040",
+      "text": "role playing game are an opportunity for"
+    },
+    {
+      "start_time": "00:02:39,720",
+      "end_time": "00:02:44,920",
+      "text": "the players to experience the width and"
+    },
+    {
+      "start_time": "00:02:42,040",
+      "end_time": "00:02:46,920",
+      "text": "breadth of the world and make them feel"
+    },
+    {
+      "start_time": "00:02:44,920",
+      "end_time": "00:02:49,000",
+      "text": "like they've really been there in their"
+    },
+    {
+      "start_time": "00:02:46,920",
+      "end_time": "00:02:51,519",
+      "text": "imaginations in the broken Empires"
+    },
+    {
+      "start_time": "00:02:49,000",
+      "end_time": "00:02:53,760",
+      "text": "getting there is literally half the fun"
+    },
+    {
+      "start_time": "00:02:51,519",
+      "end_time": "00:02:56,159",
+      "text": "I cannot stress that enough when my"
+    },
+    {
+      "start_time": "00:02:53,760",
+      "end_time": "00:02:57,920",
+      "text": "players have played with me in my games"
+    },
+    {
+      "start_time": "00:02:56,159",
+      "end_time": "00:03:02,640",
+      "text": "where I use things like this mechanics"
+    },
+    {
+      "start_time": "00:02:57,920",
+      "end_time": "00:03:06,159",
+      "text": "like this they feel like they they've"
+    },
+    {
+      "start_time": "00:03:02,640",
+      "end_time": "00:03:08,000",
+      "text": "been there when they travel they feel"
+    },
+    {
+      "start_time": "00:03:06,159",
+      "end_time": "00:03:10,799",
+      "text": "like they've been through the ringer and"
+    },
+    {
+      "start_time": "00:03:08,000",
+      "end_time": "00:03:14,720",
+      "text": "that they've seen and experienced that"
+    },
+    {
+      "start_time": "00:03:10,799",
+      "end_time": "00:03:18,120",
+      "text": "world it's wonderful so these tools are"
+    },
+    {
+      "start_time": "00:03:14,720",
+      "end_time": "00:03:19,799",
+      "text": "designed to help you as a GM evoke the"
+    },
+    {
+      "start_time": "00:03:18,120",
+      "end_time": "00:03:21,040",
+      "text": "broken Empires or whatever setting you"
+    },
+    {
+      "start_time": "00:03:19,799",
+      "end_time": "00:03:23,799",
+      "text": "happen to use this rule set with you"
+    },
+    {
+      "start_time": "00:03:21,040",
+      "end_time": "00:03:26,200",
+      "text": "don't have to use it in my given setting"
+    },
+    {
+      "start_time": "00:03:23,799",
+      "end_time": "00:03:29,239",
+      "text": "but they're designed to give you tools"
+    },
+    {
+      "start_time": "00:03:26,200",
+      "end_time": "00:03:30,680",
+      "text": "to increase the experience of travel or"
+    },
+    {
+      "start_time": "00:03:29,239",
+      "end_time": "00:03:32,920",
+      "text": "even just use for the first time if you"
+    },
+    {
+      "start_time": "00:03:30,680",
+      "end_time": "00:03:36,200",
+      "text": "if you don't use any kind of travel at"
+    },
+    {
+      "start_time": "00:03:32,920",
+      "end_time": "00:03:38,280",
+      "text": "all again I I very much encourage you to"
+    },
+    {
+      "start_time": "00:03:36,200",
+      "end_time": "00:03:39,640",
+      "text": "start thinking about all of the"
+    },
+    {
+      "start_time": "00:03:38,280",
+      "end_time": "00:03:41,000",
+      "text": "adventures and interesting things that"
+    },
+    {
+      "start_time": "00:03:39,640",
+      "end_time": "00:03:42,239",
+      "text": "can happen to players as they travel"
+    },
+    {
+      "start_time": "00:03:41,000",
+      "end_time": "00:03:43,720",
+      "text": "from one place to another on the map"
+    },
+    {
+      "start_time": "00:03:42,239",
+      "end_time": "00:03:45,080",
+      "text": "it's the most exhilarating thing for me"
+    },
+    {
+      "start_time": "00:03:43,720",
+      "end_time": "00:03:46,760",
+      "text": "as a player when I look at a map and I"
+    },
+    {
+      "start_time": "00:03:45,080",
+      "end_time": "00:03:49,599",
+      "text": "think we're going to go from here to"
+    },
+    {
+      "start_time": "00:03:46,760",
+      "end_time": "00:03:51,640",
+      "text": "there what is in between what are we"
+    },
+    {
+      "start_time": "00:03:49,599",
+      "end_time": "00:03:53,680",
+      "text": "going to discover along the way that's"
+    },
+    {
+      "start_time": "00:03:51,640",
+      "end_time": "00:03:55,439",
+      "text": "like it's the best it's the best in any"
+    },
+    {
+      "start_time": "00:03:53,680",
+      "end_time": "00:03:57,239",
+      "text": "event a lot of games are interested in"
+    },
+    {
+      "start_time": "00:03:55,439",
+      "end_time": "00:03:59,319",
+      "text": "how many miles per hex are you going how"
+    },
+    {
+      "start_time": "00:03:57,239",
+      "end_time": "00:04:01,319",
+      "text": "many miles per day are you going this"
+    },
+    {
+      "start_time": "00:03:59,319",
+      "end_time": "00:04:02,400",
+      "text": "game is more interested I mean it is"
+    },
+    {
+      "start_time": "00:04:01,319",
+      "end_time": "00:04:03,799",
+      "text": "important in how many miles per day"
+    },
+    {
+      "start_time": "00:04:02,400",
+      "end_time": "00:04:07,040",
+      "text": "you're going obviously your travel"
+    },
+    {
+      "start_time": "00:04:03,799",
+      "end_time": "00:04:09,400",
+      "text": "travel rate is important but it's not so"
+    },
+    {
+      "start_time": "00:04:07,040",
+      "end_time": "00:04:10,840",
+      "text": "much how long will it take us to get"
+    },
+    {
+      "start_time": "00:04:09,400",
+      "end_time": "00:04:13,720",
+      "text": "there that's not the central question"
+    },
+    {
+      "start_time": "00:04:10,840",
+      "end_time": "00:04:15,920",
+      "text": "the central question here is how tired"
+    },
+    {
+      "start_time": "00:04:13,720",
+      "end_time": "00:04:18,120",
+      "text": "will we be when we get there and what"
+    },
+    {
+      "start_time": "00:04:15,920",
+      "end_time": "00:04:20,479",
+      "text": "events will befall us along the way be"
+    },
+    {
+      "start_time": "00:04:18,120",
+      "end_time": "00:04:23,280",
+      "text": "they dangers or opportunities first of"
+    },
+    {
+      "start_time": "00:04:20,479",
+      "end_time": "00:04:24,880",
+      "text": "all you got to plan the route"
+    },
+    {
+      "start_time": "00:04:23,280",
+      "end_time": "00:04:26,720",
+      "text": "understanding your root is pretty"
+    },
+    {
+      "start_time": "00:04:24,880",
+      "end_time": "00:04:28,440",
+      "text": "crucial in many cases because the rote"
+    },
+    {
+      "start_time": "00:04:26,720",
+      "end_time": "00:04:30,560",
+      "text": "is going to determine so much the route"
+    },
+    {
+      "start_time": "00:04:28,440",
+      "end_time": "00:04:31,479",
+      "text": "is going to determine how long it's"
+    },
+    {
+      "start_time": "00:04:30,560",
+      "end_time": "00:04:33,360",
+      "text": "going to take you to get to your"
+    },
+    {
+      "start_time": "00:04:31,479",
+      "end_time": "00:04:35,400",
+      "text": "destination it's going to determine what"
+    },
+    {
+      "start_time": "00:04:33,360",
+      "end_time": "00:04:38,240",
+      "text": "kind of areas you're going through or"
+    },
+    {
+      "start_time": "00:04:35,400",
+      "end_time": "00:04:39,720",
+      "text": "what the GM will see as zones there's"
+    },
+    {
+      "start_time": "00:04:38,240",
+      "end_time": "00:04:42,759",
+      "text": "different zones on the map Green zones"
+    },
+    {
+      "start_time": "00:04:39,720",
+      "end_time": "00:04:44,759",
+      "text": "red zones yellow zones these all have um"
+    },
+    {
+      "start_time": "00:04:42,759",
+      "end_time": "00:04:47,120",
+      "text": "an effect on the danger level of each"
+    },
+    {
+      "start_time": "00:04:44,759",
+      "end_time": "00:04:49,240",
+      "text": "territory that the the the uh players"
+    },
+    {
+      "start_time": "00:04:47,120",
+      "end_time": "00:04:51,000",
+      "text": "are going through so planning the route"
+    },
+    {
+      "start_time": "00:04:49,240",
+      "end_time": "00:04:53,160",
+      "text": "is really important and there's little"
+    },
+    {
+      "start_time": "00:04:51,000",
+      "end_time": "00:04:55,479",
+      "text": "Tools in here to sort of make it a fun"
+    },
+    {
+      "start_time": "00:04:53,160",
+      "end_time": "00:04:57,160",
+      "text": "little mini game experience as well in"
+    },
+    {
+      "start_time": "00:04:55,479",
+      "end_time": "00:04:58,479",
+      "text": "terms of planning the route but"
+    },
+    {
+      "start_time": "00:04:57,160",
+      "end_time": "00:05:00,199",
+      "text": "essentially the party is going to have"
+    },
+    {
+      "start_time": "00:04:58,479",
+      "end_time": "00:05:01,919",
+      "text": "three different travel duties"
+    },
+    {
+      "start_time": "00:05:00,199",
+      "end_time": "00:05:03,199",
+      "text": "okay there's going to be the guide"
+    },
+    {
+      "start_time": "00:05:01,919",
+      "end_time": "00:05:04,320",
+      "text": "there's going to be the quartermaster"
+    },
+    {
+      "start_time": "00:05:03,199",
+      "end_time": "00:05:05,520",
+      "text": "and there's going to be the Scout now"
+    },
+    {
+      "start_time": "00:05:04,320",
+      "end_time": "00:05:07,440",
+      "text": "all of these are really crucial for"
+    },
+    {
+      "start_time": "00:05:05,520",
+      "end_time": "00:05:10,680",
+      "text": "different reasons the guide's"
+    },
+    {
+      "start_time": "00:05:07,440",
+      "end_time": "00:05:13,560",
+      "text": "job is to get you to your destination"
+    },
+    {
+      "start_time": "00:05:10,680",
+      "end_time": "00:05:15,000",
+      "text": "with as few events as possible why"
+    },
+    {
+      "start_time": "00:05:13,560",
+      "end_time": "00:05:17,800",
+      "text": "because while events aren't always"
+    },
+    {
+      "start_time": "00:05:15,000",
+      "end_time": "00:05:20,360",
+      "text": "dangerous they are almost always"
+    },
+    {
+      "start_time": "00:05:17,800",
+      "end_time": "00:05:21,919",
+      "text": "fatiguing so the fewer events you have"
+    },
+    {
+      "start_time": "00:05:20,360",
+      "end_time": "00:05:24,280",
+      "text": "along the way the better as far as the"
+    },
+    {
+      "start_time": "00:05:21,919",
+      "end_time": "00:05:27,479",
+      "text": "guide's concerned okay so for every"
+    },
+    {
+      "start_time": "00:05:24,280",
+      "end_time": "00:05:30,479",
+      "text": "success level the the guy earns that's"
+    },
+    {
+      "start_time": "00:05:27,479",
+      "end_time": "00:05:33,000",
+      "text": "one hex on the map so if the guy gets"
+    },
+    {
+      "start_time": "00:05:30,479",
+      "end_time": "00:05:34,880",
+      "text": "six success levels on the rooll then you"
+    },
+    {
+      "start_time": "00:05:33,000",
+      "end_time": "00:05:36,520",
+      "text": "move six hexes or 60 miles because"
+    },
+    {
+      "start_time": "00:05:34,880",
+      "end_time": "00:05:38,880",
+      "text": "they're 10 m hexes before an event"
+    },
+    {
+      "start_time": "00:05:36,520",
+      "end_time": "00:05:41,240",
+      "text": "befalls you well how long did that take"
+    },
+    {
+      "start_time": "00:05:38,880",
+      "end_time": "00:05:42,560",
+      "text": "that's based on the the terrain you're"
+    },
+    {
+      "start_time": "00:05:41,240",
+      "end_time": "00:05:44,400",
+      "text": "going through so if you're going through"
+    },
+    {
+      "start_time": "00:05:42,560",
+      "end_time": "00:05:46,560",
+      "text": "open terrain you can move three hex's a"
+    },
+    {
+      "start_time": "00:05:44,400",
+      "end_time": "00:05:48,919",
+      "text": "day so if that's the case if you've got"
+    },
+    {
+      "start_time": "00:05:46,560",
+      "end_time": "00:05:51,680",
+      "text": "just gone six X's then you've gone two"
+    },
+    {
+      "start_time": "00:05:48,919",
+      "end_time": "00:05:52,919",
+      "text": "days before an event happens so you you"
+    },
+    {
+      "start_time": "00:05:51,680",
+      "end_time": "00:05:54,919",
+      "text": "have the event at the end of the second"
+    },
+    {
+      "start_time": "00:05:52,919",
+      "end_time": "00:05:56,199",
+      "text": "day okay that's the job of the guide and"
+    },
+    {
+      "start_time": "00:05:54,919",
+      "end_time": "00:05:57,919",
+      "text": "again there's a few little extra things"
+    },
+    {
+      "start_time": "00:05:56,199",
+      "end_time": "00:05:59,680",
+      "text": "in there like you can force March and"
+    },
+    {
+      "start_time": "00:05:57,919",
+      "end_time": "00:06:01,120",
+      "text": "and and do all of that kind of stuff but"
+    },
+    {
+      "start_time": "00:05:59,680",
+      "end_time": "00:06:03,319",
+      "text": "that's the job of the guy the job of the"
+    },
+    {
+      "start_time": "00:06:01,120",
+      "end_time": "00:06:05,319",
+      "text": "quartermaster is just as important their"
+    },
+    {
+      "start_time": "00:06:03,319",
+      "end_time": "00:06:07,160",
+      "text": "job is to ensure that the party gets to"
+    },
+    {
+      "start_time": "00:06:05,319",
+      "end_time": "00:06:09,960",
+      "text": "their destination with with as little"
+    },
+    {
+      "start_time": "00:06:07,160",
+      "end_time": "00:06:12,120",
+      "text": "fatigue as possible so their job is to"
+    },
+    {
+      "start_time": "00:06:09,960",
+      "end_time": "00:06:13,919",
+      "text": "ensure that the they found good"
+    },
+    {
+      "start_time": "00:06:12,120",
+      "end_time": "00:06:16,400",
+      "text": "campsites that they're managing the"
+    },
+    {
+      "start_time": "00:06:13,919",
+      "end_time": "00:06:18,759",
+      "text": "rations properly um if they're traveling"
+    },
+    {
+      "start_time": "00:06:16,400",
+      "end_time": "00:06:20,720",
+      "text": "along a river that's easier to keep fed"
+    },
+    {
+      "start_time": "00:06:18,759",
+      "end_time": "00:06:23,160",
+      "text": "and watered especially if you got horses"
+    },
+    {
+      "start_time": "00:06:20,720",
+      "end_time": "00:06:25,680",
+      "text": "uh so all kinds of things feed into that"
+    },
+    {
+      "start_time": "00:06:23,160",
+      "end_time": "00:06:27,080",
+      "text": "as well but essentially the quarter"
+    },
+    {
+      "start_time": "00:06:25,680",
+      "end_time": "00:06:29,400",
+      "text": "Master's role will determine how much"
+    },
+    {
+      "start_time": "00:06:27,080",
+      "end_time": "00:06:31,319",
+      "text": "fatigue the party takes on that leg of"
+    },
+    {
+      "start_time": "00:06:29,400",
+      "end_time": "00:06:32,960",
+      "text": "the Journey the leg is how many hexes"
+    },
+    {
+      "start_time": "00:06:31,319",
+      "end_time": "00:06:35,280",
+      "text": "you've just gone so how much fatigue do"
+    },
+    {
+      "start_time": "00:06:32,960",
+      "end_time": "00:06:37,680",
+      "text": "we take in that first six hexes of of"
+    },
+    {
+      "start_time": "00:06:35,280",
+      "end_time": "00:06:38,960",
+      "text": "travel that's up to you the role of the"
+    },
+    {
+      "start_time": "00:06:37,680",
+      "end_time": "00:06:40,319",
+      "text": "uh the quartermaster and then we have"
+    },
+    {
+      "start_time": "00:06:38,960",
+      "end_time": "00:06:43,000",
+      "text": "the Scout and the Scout's job is super"
+    },
+    {
+      "start_time": "00:06:40,319",
+      "end_time": "00:06:45,120",
+      "text": "important because the Scout's job is to"
+    },
+    {
+      "start_time": "00:06:43,000",
+      "end_time": "00:06:47,800",
+      "text": "look for opportunities while avoiding"
+    },
+    {
+      "start_time": "00:06:45,120",
+      "end_time": "00:06:50,639",
+      "text": "dangers so the better they do on their"
+    },
+    {
+      "start_time": "00:06:47,800",
+      "end_time": "00:06:52,440",
+      "text": "role the more likely that the part is"
+    },
+    {
+      "start_time": "00:06:50,639",
+      "end_time": "00:06:54,120",
+      "text": "going to find an opportunity and avoid a"
+    },
+    {
+      "start_time": "00:06:52,440",
+      "end_time": "00:06:55,800",
+      "text": "danger but that's not always the case"
+    },
+    {
+      "start_time": "00:06:54,120",
+      "end_time": "00:06:57,160",
+      "text": "because the area that they're going"
+    },
+    {
+      "start_time": "00:06:55,800",
+      "end_time": "00:06:59,120",
+      "text": "through which is based on the route that"
+    },
+    {
+      "start_time": "00:06:57,160",
+      "end_time": "00:07:01,319",
+      "text": "they've chosen is going to determine"
+    },
+    {
+      "start_time": "00:06:59,120",
+      "end_time": "00:07:05,120",
+      "text": "whether or not that area is more or less"
+    },
+    {
+      "start_time": "00:07:01,319",
+      "end_time": "00:07:07,960",
+      "text": "dangerous okay so you can either find a"
+    },
+    {
+      "start_time": "00:07:05,120",
+      "end_time": "00:07:09,080",
+      "text": "danger or an opportunity if it's a"
+    },
+    {
+      "start_time": "00:07:07,960",
+      "end_time": "00:07:11,440",
+      "text": "danger you're going to have to deal with"
+    },
+    {
+      "start_time": "00:07:09,080",
+      "end_time": "00:07:13,000",
+      "text": "the danger or succumb to it based on how"
+    },
+    {
+      "start_time": "00:07:11,440",
+      "end_time": "00:07:15,080",
+      "text": "well the Scout did if it's an"
+    },
+    {
+      "start_time": "00:07:13,000",
+      "end_time": "00:07:16,879",
+      "text": "opportunity you get a chance to benefit"
+    },
+    {
+      "start_time": "00:07:15,080",
+      "end_time": "00:07:18,960",
+      "text": "from that opportunity or you miss it"
+    },
+    {
+      "start_time": "00:07:16,879",
+      "end_time": "00:07:21,360",
+      "text": "again depending on how well or poorly"
+    },
+    {
+      "start_time": "00:07:18,960",
+      "end_time": "00:07:23,000",
+      "text": "the Scout did and there's a few other"
+    },
+    {
+      "start_time": "00:07:21,360",
+      "end_time": "00:07:24,560",
+      "text": "things in there too like along the road"
+    },
+    {
+      "start_time": "00:07:23,000",
+      "end_time": "00:07:26,280",
+      "text": "you have to check for infection if"
+    },
+    {
+      "start_time": "00:07:24,560",
+      "end_time": "00:07:28,720",
+      "text": "anybody has any wounds or infected"
+    },
+    {
+      "start_time": "00:07:26,280",
+      "end_time": "00:07:31,240",
+      "text": "wounds you have to make a role to see if"
+    },
+    {
+      "start_time": "00:07:28,720",
+      "end_time": "00:07:33,319",
+      "text": "Gang Green is in and that becomes really"
+    },
+    {
+      "start_time": "00:07:31,240",
+      "end_time": "00:07:35,440",
+      "text": "really bad uh you don't typically heal"
+    },
+    {
+      "start_time": "00:07:33,319",
+      "end_time": "00:07:37,680",
+      "text": "on the road so because you're on the"
+    },
+    {
+      "start_time": "00:07:35,440",
+      "end_time": "00:07:39,560",
+      "text": "move right so wounds do not do not heal"
+    },
+    {
+      "start_time": "00:07:37,680",
+      "end_time": "00:07:41,000",
+      "text": "but they are susceptible to infection so"
+    },
+    {
+      "start_time": "00:07:39,560",
+      "end_time": "00:07:44,039",
+      "text": "it's very"
+    },
+    {
+      "start_time": "00:07:41,000",
+      "end_time": "00:07:45,639",
+      "text": "vital uh to pick a route that hopefully"
+    },
+    {
+      "start_time": "00:07:44,039",
+      "end_time": "00:07:47,639",
+      "text": "goes through a green zone or goes"
+    },
+    {
+      "start_time": "00:07:45,639",
+      "end_time": "00:07:49,080",
+      "text": "through a place of Refuge where you"
+    },
+    {
+      "start_time": "00:07:47,639",
+      "end_time": "00:07:51,800",
+      "text": "might get a chance to rest and"
+    },
+    {
+      "start_time": "00:07:49,080",
+      "end_time": "00:07:53,159",
+      "text": "recuperate and make recovery roles uh"
+    },
+    {
+      "start_time": "00:07:51,800",
+      "end_time": "00:07:54,639",
+      "text": "some of those opportunities come up as"
+    },
+    {
+      "start_time": "00:07:53,159",
+      "end_time": "00:07:56,080",
+      "text": "well if the if the Scout does very well"
+    },
+    {
+      "start_time": "00:07:54,639",
+      "end_time": "00:07:58,639",
+      "text": "the Scout might find interesting"
+    },
+    {
+      "start_time": "00:07:56,080",
+      "end_time": "00:08:00,360",
+      "text": "opportunities to rest and recover but"
+    },
+    {
+      "start_time": "00:07:58,639",
+      "end_time": "00:08:02,560",
+      "text": "there's all kinds things that can happen"
+    },
+    {
+      "start_time": "00:08:00,360",
+      "end_time": "00:08:04,400",
+      "text": "like the dangers on the road could be a"
+    },
+    {
+      "start_time": "00:08:02,560",
+      "end_time": "00:08:06,240",
+      "text": "combat yes you you're ambushed by"
+    },
+    {
+      "start_time": "00:08:04,400",
+      "end_time": "00:08:09,120",
+      "text": "Bandits or you encounter an angry bear"
+    },
+    {
+      "start_time": "00:08:06,240",
+      "end_time": "00:08:11,039",
+      "text": "or whatever the case is or it could be a"
+    },
+    {
+      "start_time": "00:08:09,120",
+      "end_time": "00:08:13,280",
+      "text": "flash flood or it could be a forest fire"
+    },
+    {
+      "start_time": "00:08:11,039",
+      "end_time": "00:08:14,919",
+      "text": "or a quicksand or it could be a freak"
+    },
+    {
+      "start_time": "00:08:13,280",
+      "end_time": "00:08:17,479",
+      "text": "accident that causes you to you twist"
+    },
+    {
+      "start_time": "00:08:14,919",
+      "end_time": "00:08:19,120",
+      "text": "your ankle or something and in terms of"
+    },
+    {
+      "start_time": "00:08:17,479",
+      "end_time": "00:08:20,319",
+      "text": "opportunities there's many opportunities"
+    },
+    {
+      "start_time": "00:08:19,120",
+      "end_time": "00:08:22,120",
+      "text": "you could you could have the opportunity"
+    },
+    {
+      "start_time": "00:08:20,319",
+      "end_time": "00:08:24,240",
+      "text": "of finding wealth or magic items or"
+    },
+    {
+      "start_time": "00:08:22,120",
+      "end_time": "00:08:25,919",
+      "text": "interesting items or you might find"
+    },
+    {
+      "start_time": "00:08:24,240",
+      "end_time": "00:08:28,479",
+      "text": "places to rest and recuperate or you"
+    },
+    {
+      "start_time": "00:08:25,919",
+      "end_time": "00:08:30,240",
+      "text": "might find a a reason to to recover your"
+    },
+    {
+      "start_time": "00:08:28,479",
+      "end_time": "00:08:33,120",
+      "text": "resolve there's all kinds of things that"
+    },
+    {
+      "start_time": "00:08:30,240",
+      "end_time": "00:08:34,959",
+      "text": "can happen uh there so it it keeps the"
+    },
+    {
+      "start_time": "00:08:33,120",
+      "end_time": "00:08:37,159",
+      "text": "journey really really interesting and it"
+    },
+    {
+      "start_time": "00:08:34,959",
+      "end_time": "00:08:38,640",
+      "text": "allows the GM um the tools that I"
+    },
+    {
+      "start_time": "00:08:37,159",
+      "end_time": "00:08:42,120",
+      "text": "provide allow the"
+    },
+    {
+      "start_time": "00:08:38,640",
+      "end_time": "00:08:44,440",
+      "text": "GM the the the tools to improvise within"
+    },
+    {
+      "start_time": "00:08:42,120",
+      "end_time": "00:08:46,040",
+      "text": "a nice structure that actually works uh"
+    },
+    {
+      "start_time": "00:08:44,440",
+      "end_time": "00:08:48,000",
+      "text": "and I provide a bunch of really concrete"
+    },
+    {
+      "start_time": "00:08:46,040",
+      "end_time": "00:08:50,160",
+      "text": "examples too of of things that could"
+    },
+    {
+      "start_time": "00:08:48,000",
+      "end_time": "00:08:52,600",
+      "text": "happen along the way that hopefully will"
+    },
+    {
+      "start_time": "00:08:50,160",
+      "end_time": "00:08:54,800",
+      "text": "uh Inspire the GM to create their own"
+    },
+    {
+      "start_time": "00:08:52,600",
+      "end_time": "00:08:57,399",
+      "text": "along similar veins or using similar"
+    },
+    {
+      "start_time": "00:08:54,800",
+      "end_time": "00:08:59,000",
+      "text": "rules once you get to your destination"
+    },
+    {
+      "start_time": "00:08:57,399",
+      "end_time": "00:09:01,600",
+      "text": "there's a way to sort of recover some of"
+    },
+    {
+      "start_time": "00:08:59,000",
+      "end_time": "00:09:03,240",
+      "text": "your um fatigue if you've gained any and"
+    },
+    {
+      "start_time": "00:09:01,600",
+      "end_time": "00:09:05,000",
+      "text": "once you're there I mean you you want to"
+    },
+    {
+      "start_time": "00:09:03,240",
+      "end_time": "00:09:06,160",
+      "text": "hope that the destination is a is a safe"
+    },
+    {
+      "start_time": "00:09:05,000",
+      "end_time": "00:09:09,160",
+      "text": "place because otherwise you won't be"
+    },
+    {
+      "start_time": "00:09:06,160",
+      "end_time": "00:09:12,880",
+      "text": "able to recover your fatigue and uh that"
+    },
+    {
+      "start_time": "00:09:09,160",
+      "end_time": "00:09:15,800",
+      "text": "could be uh problematic um so yeah it"
+    },
+    {
+      "start_time": "00:09:12,880",
+      "end_time": "00:09:17,920",
+      "text": "it's all about creating an immersive"
+    },
+    {
+      "start_time": "00:09:15,800",
+      "end_time": "00:09:19,480",
+      "text": "experience for the the players to make"
+    },
+    {
+      "start_time": "00:09:17,920",
+      "end_time": "00:09:20,839",
+      "text": "them feel like they've actually gone"
+    },
+    {
+      "start_time": "00:09:19,480",
+      "end_time": "00:09:22,720",
+      "text": "through something by the time they get"
+    },
+    {
+      "start_time": "00:09:20,839",
+      "end_time": "00:09:25,040",
+      "text": "there now I will say this is this is"
+    },
+    {
+      "start_time": "00:09:22,720",
+      "end_time": "00:09:26,760",
+      "text": "absolutely crucial if you reduce any of"
+    },
+    {
+      "start_time": "00:09:25,040",
+      "end_time": "00:09:28,600",
+      "text": "these subsystems into just a series of"
+    },
+    {
+      "start_time": "00:09:26,760",
+      "end_time": "00:09:30,279",
+      "text": "die rolls that it's going to suck it's"
+    },
+    {
+      "start_time": "00:09:28,600",
+      "end_time": "00:09:32,760",
+      "text": "going to suck the the job of the GM is"
+    },
+    {
+      "start_time": "00:09:30,279",
+      "end_time": "00:09:35,079",
+      "text": "to describe the world that's like job"
+    },
+    {
+      "start_time": "00:09:32,760",
+      "end_time": "00:09:36,920",
+      "text": "number one it's the most basic job of"
+    },
+    {
+      "start_time": "00:09:35,079",
+      "end_time": "00:09:40,160",
+      "text": "the GM to describe the world so these"
+    },
+    {
+      "start_time": "00:09:36,920",
+      "end_time": "00:09:42,399",
+      "text": "rules are designed to facilitate that"
+    },
+    {
+      "start_time": "00:09:40,160",
+      "end_time": "00:09:44,640",
+      "text": "description not replace it that is"
+    },
+    {
+      "start_time": "00:09:42,399",
+      "end_time": "00:09:46,040",
+      "text": "really really really crucial you never"
+    },
+    {
+      "start_time": "00:09:44,640",
+      "end_time": "00:09:47,399",
+      "text": "want to just reduce things to a bunch of"
+    },
+    {
+      "start_time": "00:09:46,040",
+      "end_time": "00:09:49,320",
+      "text": "roles otherwise what's the point it's"
+    },
+    {
+      "start_time": "00:09:47,399",
+      "end_time": "00:09:51,519",
+      "text": "just like in my social uh conflict"
+    },
+    {
+      "start_time": "00:09:49,320",
+      "end_time": "00:09:53,920",
+      "text": "system the social encounter system if"
+    },
+    {
+      "start_time": "00:09:51,519",
+      "end_time": "00:09:55,200",
+      "text": "you just reduce everything to a bunch of"
+    },
+    {
+      "start_time": "00:09:53,920",
+      "end_time": "00:09:56,920",
+      "text": "roles well you're not really playing the"
+    },
+    {
+      "start_time": "00:09:55,200",
+      "end_time": "00:09:59,440",
+      "text": "game then you're just rolling Dice and"
+    },
+    {
+      "start_time": "00:09:56,920",
+      "end_time": "00:10:02,240",
+      "text": "that's lame so it's the same on the road"
+    },
+    {
+      "start_time": "00:09:59,440",
+      "end_time": "00:10:04,440",
+      "text": "this for me these rules help me uh"
+    },
+    {
+      "start_time": "00:10:02,240",
+      "end_time": "00:10:05,880",
+      "text": "engage with my players imaginations as"
+    },
+    {
+      "start_time": "00:10:04,440",
+      "end_time": "00:10:07,399",
+      "text": "they're traveling from one spot to"
+    },
+    {
+      "start_time": "00:10:05,880",
+      "end_time": "00:10:09,000",
+      "text": "another and it gives me a solid"
+    },
+    {
+      "start_time": "00:10:07,399",
+      "end_time": "00:10:10,920",
+      "text": "structure to be able to improvise"
+    },
+    {
+      "start_time": "00:10:09,000",
+      "end_time": "00:10:12,800",
+      "text": "interesting things that they have to"
+    },
+    {
+      "start_time": "00:10:10,920",
+      "end_time": "00:10:14,600",
+      "text": "deal with challenges that they're going"
+    },
+    {
+      "start_time": "00:10:12,800",
+      "end_time": "00:10:15,800",
+      "text": "to have to deal with and perils that"
+    },
+    {
+      "start_time": "00:10:14,600",
+      "end_time": "00:10:17,279",
+      "text": "they're going to face or opportunities"
+    },
+    {
+      "start_time": "00:10:15,800",
+      "end_time": "00:10:20,480",
+      "text": "that they're going to come across to"
+    },
+    {
+      "start_time": "00:10:17,279",
+      "end_time": "00:10:22,920",
+      "text": "make their lives easier or or not so"
+    },
+    {
+      "start_time": "00:10:20,480",
+      "end_time": "00:10:26,320",
+      "text": "yeah uh the the travel system is pretty"
+    },
+    {
+      "start_time": "00:10:22,920",
+      "end_time": "00:10:27,600",
+      "text": "cool um I really like it and uh as I"
+    },
+    {
+      "start_time": "00:10:26,320",
+      "end_time": "00:10:29,079",
+      "text": "said it's heavily inspired by the one"
+    },
+    {
+      "start_time": "00:10:27,600",
+      "end_time": "00:10:30,360",
+      "text": "ring but I've sort of taken it and gone"
+    },
+    {
+      "start_time": "00:10:29,079",
+      "end_time": "00:10:32,600",
+      "text": "off in a a completely different"
+    },
+    {
+      "start_time": "00:10:30,360",
+      "end_time": "00:10:33,920",
+      "text": "direction as well in in many cases in"
+    },
+    {
+      "start_time": "00:10:32,600",
+      "end_time": "00:10:37,279",
+      "text": "terms of the the details and the"
+    },
+    {
+      "start_time": "00:10:33,920",
+      "end_time": "00:10:39,519",
+      "text": "specifics so yeah if you've never used"
+    },
+    {
+      "start_time": "00:10:37,279",
+      "end_time": "00:10:42,360",
+      "text": "travel in your game before but you you"
+    },
+    {
+      "start_time": "00:10:39,519",
+      "end_time": "00:10:45,000",
+      "text": "feel maybe something is missing uh you"
+    },
+    {
+      "start_time": "00:10:42,360",
+      "end_time": "00:10:48,240",
+      "text": "might want to check this out um because"
+    },
+    {
+      "start_time": "00:10:45,000",
+      "end_time": "00:10:50,480",
+      "text": "I cannot stress enough the the the idea"
+    },
+    {
+      "start_time": "00:10:48,240",
+      "end_time": "00:10:53,320",
+      "text": "of taking your players from one spot to"
+    },
+    {
+      "start_time": "00:10:50,480",
+      "end_time": "00:10:54,760",
+      "text": "another for me that is the game that is"
+    },
+    {
+      "start_time": "00:10:53,320",
+      "end_time": "00:10:57,519",
+      "text": "the immersion into the world in the"
+    },
+    {
+      "start_time": "00:10:54,760",
+      "end_time": "00:11:00,200",
+      "text": "setting I want to be able to see the"
+    },
+    {
+      "start_time": "00:10:57,519",
+      "end_time": "00:11:02,920",
+      "text": "trees smell the flowers in the air I"
+    },
+    {
+      "start_time": "00:11:00,200",
+      "end_time": "00:11:05,200",
+      "text": "want to hear the gurgling River going by"
+    },
+    {
+      "start_time": "00:11:02,920",
+      "end_time": "00:11:07,279",
+      "text": "I I I want to feel the the temperature"
+    },
+    {
+      "start_time": "00:11:05,200",
+      "end_time": "00:11:09,560",
+      "text": "drop as we go into winter all of that"
+    },
+    {
+      "start_time": "00:11:07,279",
+      "end_time": "00:11:12,160",
+      "text": "stuff I want to feel like I was there in"
+    },
+    {
+      "start_time": "00:11:09,560",
+      "end_time": "00:11:14,240",
+      "text": "my imagination that is the power of role"
+    },
+    {
+      "start_time": "00:11:12,160",
+      "end_time": "00:11:15,519",
+      "text": "playing games and so that is the kind of"
+    },
+    {
+      "start_time": "00:11:14,240",
+      "end_time": "00:11:17,440",
+      "text": "thing that these rules are designed to"
+    },
+    {
+      "start_time": "00:11:15,519",
+      "end_time": "00:11:21,720",
+      "text": "help you give your players thanks for"
+    },
+    {
+      "start_time": "00:11:17,440",
+      "end_time": "00:11:21,720",
+      "text": "watching and we will see you next time"
+    }
+  ],
+  "full_text": "hey guys welcome back I want to talk to\nyou today about the travel mechanics in\nthe broken Empires role playing game now\nbefore I get into this I do want to say\nthat what I've discovered over the past\nfew weeks is that so many of you don't\ndo travel at all in your games which\nfrankly blows my mind for me getting\nthere is half the fun and the idea that\na GM would just handwave travel because\nreasons it's too hard or they don't have\nthe tools for it or they're just not\ninterested in it I don't understand that\nat all travel has always been a hugely\nimportant part of my games both as a\nplayer and a GM and the idea of not\nhaving it there it's in a fantasy game\nobviously different genres are going to\nhave different things right if you're\nplaying a cyberpunk game you don't\nreally have to do the travel of getting\non a plane and going from one place to\nanother although you can I'm talking\nabout in a fantasy game where you're\ntypically on foot or on a horseback and\ntravel is exciting and dangerous and\ntiring that is what these rules are\ndesigned to emulate now I will say as\nwell as a brief caveat you don't need\ntravel rules in any game you can\nhandwave it if you want you can ignore\nit if you want although again like I\nsaid I don't know why you do that\nbecause you're you're missing out on so\nmuch so much a lot of uh osr style games\ndo exploration stuff right where it's\nbasically all you're concerned about is\nhow many miles per day is the the party\ntraveling are they running out of\nrations and is there a random encounter\nwhich typically means a combat but not\nalways so that's a perfectly valid way\nof doing things um but my system is a\nlittle different my system doesn't deal\nso much in how many miles per day did\nyou go but how many events per per leg\ndid you go and how tired are you when\nyou get to your destination how many\ndangers or opportunities befell you on\nthe way to the destination but we'll get\ninto that first of all I want to\nactually read you just the the opening\nsection of this travel chapter right\nhere this might change but currently\nthis is what it is this really\nencapsulates my feeling on on travel and\nrole playing games in\ngeneral so travel can be one of the most\nsatisfying and exhilarating aspects of\nthe fantasy roleplaying game experience\nit is also tragically one of the most\nunderused and under appreciated despite\nbeing a staple of so many flavors of\nfantasy what would the Lord of the Rings\nhave been if tolken had just skipped\npast all that travel stuff a book about\n10 pages long is what a thin and\nstretched experience like butter scraped\nover too much Bread El of melon's entire\nSaga takes place while wandering the\nyoung kingdoms his story would be so\nmuch less interesting if he had never\nleft the dragon Isle why did we all hate\nthe seventh and eth seasons of The Game\nof Thrones television series because\nthey blatantly ignored all the travel\nbits that's why well there might have\nbeen one or two other reasons too but\nyou know certainly the travel bits was\nan issue Journeys in the broken Empires\nrole playing game are an opportunity for\nthe players to experience the width and\nbreadth of the world and make them feel\nlike they've really been there in their\nimaginations in the broken Empires\ngetting there is literally half the fun\nI cannot stress that enough when my\nplayers have played with me in my games\nwhere I use things like this mechanics\nlike this they feel like they they've\nbeen there when they travel they feel\nlike they've been through the ringer and\nthat they've seen and experienced that\nworld it's wonderful so these tools are\ndesigned to help you as a GM evoke the\nbroken Empires or whatever setting you\nhappen to use this rule set with you\ndon't have to use it in my given setting\nbut they're designed to give you tools\nto increase the experience of travel or\neven just use for the first time if you\nif you don't use any kind of travel at\nall again I I very much encourage you to\nstart thinking about all of the\nadventures and interesting things that\ncan happen to players as they travel\nfrom one place to another on the map\nit's the most exhilarating thing for me\nas a player when I look at a map and I\nthink we're going to go from here to\nthere what is in between what are we\ngoing to discover along the way that's\nlike it's the best it's the best in any\nevent a lot of games are interested in\nhow many miles per hex are you going how\nmany miles per day are you going this\ngame is more interested I mean it is\nimportant in how many miles per day\nyou're going obviously your travel\ntravel rate is important but it's not so\nmuch how long will it take us to get\nthere that's not the central question\nthe central question here is how tired\nwill we be when we get there and what\nevents will befall us along the way be\nthey dangers or opportunities first of\nall you got to plan the route\nunderstanding your root is pretty\ncrucial in many cases because the rote\nis going to determine so much the route\nis going to determine how long it's\ngoing to take you to get to your\ndestination it's going to determine what\nkind of areas you're going through or\nwhat the GM will see as zones there's\ndifferent zones on the map Green zones\nred zones yellow zones these all have um\nan effect on the danger level of each\nterritory that the the the uh players\nare going through so planning the route\nis really important and there's little\nTools in here to sort of make it a fun\nlittle mini game experience as well in\nterms of planning the route but\nessentially the party is going to have\nthree different travel duties\nokay there's going to be the guide\nthere's going to be the quartermaster\nand there's going to be the Scout now\nall of these are really crucial for\ndifferent reasons the guide's\njob is to get you to your destination\nwith as few events as possible why\nbecause while events aren't always\ndangerous they are almost always\nfatiguing so the fewer events you have\nalong the way the better as far as the\nguide's concerned okay so for every\nsuccess level the the guy earns that's\none hex on the map so if the guy gets\nsix success levels on the rooll then you\nmove six hexes or 60 miles because\nthey're 10 m hexes before an event\nbefalls you well how long did that take\nthat's based on the the terrain you're\ngoing through so if you're going through\nopen terrain you can move three hex's a\nday so if that's the case if you've got\njust gone six X's then you've gone two\ndays before an event happens so you you\nhave the event at the end of the second\nday okay that's the job of the guide and\nagain there's a few little extra things\nin there like you can force March and\nand and do all of that kind of stuff but\nthat's the job of the guy the job of the\nquartermaster is just as important their\njob is to ensure that the party gets to\ntheir destination with with as little\nfatigue as possible so their job is to\nensure that the they found good\ncampsites that they're managing the\nrations properly um if they're traveling\nalong a river that's easier to keep fed\nand watered especially if you got horses\nuh so all kinds of things feed into that\nas well but essentially the quarter\nMaster's role will determine how much\nfatigue the party takes on that leg of\nthe Journey the leg is how many hexes\nyou've just gone so how much fatigue do\nwe take in that first six hexes of of\ntravel that's up to you the role of the\nuh the quartermaster and then we have\nthe Scout and the Scout's job is super\nimportant because the Scout's job is to\nlook for opportunities while avoiding\ndangers so the better they do on their\nrole the more likely that the part is\ngoing to find an opportunity and avoid a\ndanger but that's not always the case\nbecause the area that they're going\nthrough which is based on the route that\nthey've chosen is going to determine\nwhether or not that area is more or less\ndangerous okay so you can either find a\ndanger or an opportunity if it's a\ndanger you're going to have to deal with\nthe danger or succumb to it based on how\nwell the Scout did if it's an\nopportunity you get a chance to benefit\nfrom that opportunity or you miss it\nagain depending on how well or poorly\nthe Scout did and there's a few other\nthings in there too like along the road\nyou have to check for infection if\nanybody has any wounds or infected\nwounds you have to make a role to see if\nGang Green is in and that becomes really\nreally bad uh you don't typically heal\non the road so because you're on the\nmove right so wounds do not do not heal\nbut they are susceptible to infection so\nit's very\nvital uh to pick a route that hopefully\ngoes through a green zone or goes\nthrough a place of Refuge where you\nmight get a chance to rest and\nrecuperate and make recovery roles uh\nsome of those opportunities come up as\nwell if the if the Scout does very well\nthe Scout might find interesting\nopportunities to rest and recover but\nthere's all kinds things that can happen\nlike the dangers on the road could be a\ncombat yes you you're ambushed by\nBandits or you encounter an angry bear\nor whatever the case is or it could be a\nflash flood or it could be a forest fire\nor a quicksand or it could be a freak\naccident that causes you to you twist\nyour ankle or something and in terms of\nopportunities there's many opportunities\nyou could you could have the opportunity\nof finding wealth or magic items or\ninteresting items or you might find\nplaces to rest and recuperate or you\nmight find a a reason to to recover your\nresolve there's all kinds of things that\ncan happen uh there so it it keeps the\njourney really really interesting and it\nallows the GM um the tools that I\nprovide allow the\nGM the the the tools to improvise within\na nice structure that actually works uh\nand I provide a bunch of really concrete\nexamples too of of things that could\nhappen along the way that hopefully will\nuh Inspire the GM to create their own\nalong similar veins or using similar\nrules once you get to your destination\nthere's a way to sort of recover some of\nyour um fatigue if you've gained any and\nonce you're there I mean you you want to\nhope that the destination is a is a safe\nplace because otherwise you won't be\nable to recover your fatigue and uh that\ncould be uh problematic um so yeah it\nit's all about creating an immersive\nexperience for the the players to make\nthem feel like they've actually gone\nthrough something by the time they get\nthere now I will say this is this is\nabsolutely crucial if you reduce any of\nthese subsystems into just a series of\ndie rolls that it's going to suck it's\ngoing to suck the the job of the GM is\nto describe the world that's like job\nnumber one it's the most basic job of\nthe GM to describe the world so these\nrules are designed to facilitate that\ndescription not replace it that is\nreally really really crucial you never\nwant to just reduce things to a bunch of\nroles otherwise what's the point it's\njust like in my social uh conflict\nsystem the social encounter system if\nyou just reduce everything to a bunch of\nroles well you're not really playing the\ngame then you're just rolling Dice and\nthat's lame so it's the same on the road\nthis for me these rules help me uh\nengage with my players imaginations as\nthey're traveling from one spot to\nanother and it gives me a solid\nstructure to be able to improvise\ninteresting things that they have to\ndeal with challenges that they're going\nto have to deal with and perils that\nthey're going to face or opportunities\nthat they're going to come across to\nmake their lives easier or or not so\nyeah uh the the travel system is pretty\ncool um I really like it and uh as I\nsaid it's heavily inspired by the one\nring but I've sort of taken it and gone\noff in a a completely different\ndirection as well in in many cases in\nterms of the the details and the\nspecifics so yeah if you've never used\ntravel in your game before but you you\nfeel maybe something is missing uh you\nmight want to check this out um because\nI cannot stress enough the the the idea\nof taking your players from one spot to\nanother for me that is the game that is\nthe immersion into the world in the\nsetting I want to be able to see the\ntrees smell the flowers in the air I\nwant to hear the gurgling River going by\nI I I want to feel the the temperature\ndrop as we go into winter all of that\nstuff I want to feel like I was there in\nmy imagination that is the power of role\nplaying games and so that is the kind of\nthing that these rules are designed to\nhelp you give your players thanks for\nwatching and we will see you next time\n"
+}

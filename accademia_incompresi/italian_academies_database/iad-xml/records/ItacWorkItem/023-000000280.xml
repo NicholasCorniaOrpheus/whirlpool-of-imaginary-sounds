@@ -1,0 +1,49 @@
+<ItacWorkItem RecordId="023-000000280" WorkId="00001">
+	<ShortTitle>Memorie Imprese e Ritratti de’ Signori Accademici Gelati di Bologna  </ShortTitle>
+	<LongTitle>Raccolte nel principato del signor Valerio Zani il Ritardato all’eminentissimo et reverendissimo signor cardinale Francesco Barberino decano del sacro collegio accademico e protettore</LongTitle>
+	<ItacAcademyItem AcademyId="0001" RecordID="021-000000001">Accademia dei Gelati</ItacAcademyItem>
+	<Format>4°</Format>
+	<City CityId="1">
+		<PublicationPlaceItalianName>Bologna</PublicationPlaceItalianName>
+		<PublicationPlaceEnglishName>Bologna</PublicationPlaceEnglishName>
+		<PublicationPlaceLatinName>Bononiae</PublicationPlaceLatinName>
+	</City>
+	<PublicationYear>1672</PublicationYear>
+	<Shelfmark>133.c.14 | 658.e.5 | Ac.8840/1</Shelfmark>
+	<Subjects>Biographies of academicians</Subjects>
+	<Language>Italian</Language>
+	<Illustration>Engraved flyleaf | Academy emblem | Engraved plates | Portraits of academicians; their emblems; their coats of arms</Illustration>
+	<Pagination>12 pages unnumbered; pp. 406</Pagination>
+	<Marginalia>No</Marginalia>
+	<Notes>Here, titlepage and fly-leaf are reproduced.</Notes>
+	<Censors>
+		<ItacPersonItem PersonId="5223" RecordID="022-000000214">Cribellus,Ioseph,,</ItacPersonItem>
+		<ItacPersonItem PersonId="5224" RecordID="022-000000216">Boncompagno,Hieronymo,Cardinal,1622-1684</ItacPersonItem>
+		<ItacPersonItem PersonId="5225" RecordID="022-000000217">Passus,Michael Pius,,</ItacPersonItem>
+	</Censors>
+	<CensorsAgreement>Vidit Ioseph Cribellus ex Clericis Regularis Cong. S. Pauli Poenitent. In Metropolitana Bononien. Pro Eminentissimo ac reuerendis[simo] D. Hieronymo Boncompagno Archiep. Bonon. &amp; Principe | Vidit pro Reverendis[simo] P. Inquisitore Bononiae D. Vitalis Terra Rubea a Parma Prior Cassinensis S.T.D. Publicus Lector &amp; S. Officij Consultor | Imprimatur. Fr. Michael Pius Passus Inquisitor Generalis Bononiae</CensorsAgreement>
+	<Dedicatees>
+		<ItacPersonItem PersonId="5099" RecordID="022-000000096">Barberini,Francesco,Cardinal ,1597-1679</ItacPersonItem>
+	</Dedicatees>
+	<Editors>
+		<ItacPersonItem PersonId="5014" RecordID="022-000000016">Capponi,Giovambattista,,1620 - 1675</ItacPersonItem>
+	</Editors>
+	<Artists>
+		<ItacPersonItem PersonId="5119" RecordID="022-000000115">Carracci,Agostino,,1557-1602</ItacPersonItem>
+	</Artists>
+	<Illustrators>
+		<ItacPersonItem PersonId="5194" RecordID="022-000000188">Tintus,Lauren,,1626-1700</ItacPersonItem>
+		<ItacPersonItem PersonId="5195" RecordID="022-000000189">Mitellus,I. M.,,1634-1718</ItacPersonItem>
+		<ItacPersonItem PersonId="5196" RecordID="022-000000190">Afner,Io. Rigus,,</ItacPersonItem>
+		<ItacPersonItem PersonId="5197" RecordID="022-000000191">Van Otteren,Hubertus,,fl. 1680-1713</ItacPersonItem>
+		<ItacPersonItem PersonId="5198" RecordID="022-000000192">Clouet,A.,,1636-1679</ItacPersonItem>
+	</Illustrators>
+	<Printers>
+		<ItacPersonItem PersonId="5245" RecordID="022-000000237">Manolessi,,,</ItacPersonItem>
+	</Printers>
+	<PrinterOrnament>Yes</PrinterOrnament>
+	<TitlePageImage ImageId="53090">023-000000280_53090_3.jpg</TitlePageImage>
+	<ColophonImage ImageId="53091">023-000000280_53091_4.jpg</ColophonImage>
+	<Citation>Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project.</Citation>
+</ItacWorkItem>
+<?xml-stylesheet type='text/xsd' href='text/xsd'?>

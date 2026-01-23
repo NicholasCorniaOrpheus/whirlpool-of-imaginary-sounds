@@ -1,0 +1,3790 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:02,560",
+      "end_time": "00:00:04,960",
+      "text": "welcome back night nation to another"
+    },
+    {
+      "start_time": "00:00:04,319",
+      "end_time": "00:00:08,400",
+      "text": "episode"
+    },
+    {
+      "start_time": "00:00:04,960",
+      "end_time": "00:00:11,759",
+      "text": "of nightlife i'm joined here by bob"
+    },
+    {
+      "start_time": "00:00:08,400",
+      "end_time": "00:00:14,799",
+      "text": "nick and matt and today's topic is"
+    },
+    {
+      "start_time": "00:00:11,759",
+      "end_time": "00:00:17,600",
+      "text": "adventure path or sandbox"
+    },
+    {
+      "start_time": "00:00:14,799",
+      "end_time": "00:00:19,359",
+      "text": "what are the pros and cons of each which"
+    },
+    {
+      "start_time": "00:00:17,600",
+      "end_time": "00:00:21,359",
+      "text": "do we prefer and"
+    },
+    {
+      "start_time": "00:00:19,359",
+      "end_time": "00:00:22,480",
+      "text": "you know what kind of games do you like"
+    },
+    {
+      "start_time": "00:00:21,359",
+      "end_time": "00:00:24,880",
+      "text": "to run and"
+    },
+    {
+      "start_time": "00:00:22,480",
+      "end_time": "00:00:26,240",
+      "text": "what are the advantages of each so i"
+    },
+    {
+      "start_time": "00:00:24,880",
+      "end_time": "00:00:28,080",
+      "text": "thought we could start by"
+    },
+    {
+      "start_time": "00:00:26,240",
+      "end_time": "00:00:29,519",
+      "text": "getting some definitions out of the way"
+    },
+    {
+      "start_time": "00:00:28,080",
+      "end_time": "00:00:32,079",
+      "text": "an adventure path"
+    },
+    {
+      "start_time": "00:00:29,519",
+      "end_time": "00:00:33,040",
+      "text": "simply put is a series of pre-written"
+    },
+    {
+      "start_time": "00:00:32,079",
+      "end_time": "00:00:35,760",
+      "text": "adventures"
+    },
+    {
+      "start_time": "00:00:33,040",
+      "end_time": "00:00:37,840",
+      "text": "written by someone else designed to take"
+    },
+    {
+      "start_time": "00:00:35,760",
+      "end_time": "00:00:39,840",
+      "text": "your characters usually from the"
+    },
+    {
+      "start_time": "00:00:37,840",
+      "end_time": "00:00:41,600",
+      "text": "lowest level to the highest level or"
+    },
+    {
+      "start_time": "00:00:39,840",
+      "end_time": "00:00:43,120",
+      "text": "maybe you know a fraction thereof take"
+    },
+    {
+      "start_time": "00:00:41,600",
+      "end_time": "00:00:46,000",
+      "text": "you from levels 1 to 10"
+    },
+    {
+      "start_time": "00:00:43,120",
+      "end_time": "00:00:46,800",
+      "text": "or 11 to 20. in paizo or pathfinder"
+    },
+    {
+      "start_time": "00:00:46,000",
+      "end_time": "00:00:49,120",
+      "text": "second edition"
+    },
+    {
+      "start_time": "00:00:46,800",
+      "end_time": "00:00:50,640",
+      "text": "these are the adventure paths usually a"
+    },
+    {
+      "start_time": "00:00:49,120",
+      "end_time": "00:00:51,920",
+      "text": "series of six adventures that take your"
+    },
+    {
+      "start_time": "00:00:50,640",
+      "end_time": "00:00:53,039",
+      "text": "characters from level one all the way up"
+    },
+    {
+      "start_time": "00:00:51,920",
+      "end_time": "00:00:54,559",
+      "text": "to level 20."
+    },
+    {
+      "start_time": "00:00:53,039",
+      "end_time": "00:00:55,920",
+      "text": "and in fifth edition dungeons and"
+    },
+    {
+      "start_time": "00:00:54,559",
+      "end_time": "00:00:57,039",
+      "text": "dragons there have been a large series"
+    },
+    {
+      "start_time": "00:00:55,920",
+      "end_time": "00:00:59,680",
+      "text": "of these produced"
+    },
+    {
+      "start_time": "00:00:57,039",
+      "end_time": "00:01:01,280",
+      "text": "things like the fury of team at series"
+    },
+    {
+      "start_time": "00:00:59,680",
+      "end_time": "00:01:03,199",
+      "text": "uh what's another one uh this"
+    },
+    {
+      "start_time": "00:01:01,280",
+      "end_time": "00:01:04,879",
+      "text": "the icewind dale is the brand new one"
+    },
+    {
+      "start_time": "00:01:03,199",
+      "end_time": "00:01:06,799",
+      "text": "icewindale uh"
+    },
+    {
+      "start_time": "00:01:04,879",
+      "end_time": "00:01:08,240",
+      "text": "there's uh dragon heist there's a bunch"
+    },
+    {
+      "start_time": "00:01:06,799",
+      "end_time": "00:01:09,920",
+      "text": "of different uh"
+    },
+    {
+      "start_time": "00:01:08,240",
+      "end_time": "00:01:11,520",
+      "text": "adventures that are all designed to take"
+    },
+    {
+      "start_time": "00:01:09,920",
+      "end_time": "00:01:13,439",
+      "text": "your characters on a very very long"
+    },
+    {
+      "start_time": "00:01:11,520",
+      "end_time": "00:01:15,439",
+      "text": "story and there's sort of a theme that"
+    },
+    {
+      "start_time": "00:01:13,439",
+      "end_time": "00:01:17,040",
+      "text": "ties them together like"
+    },
+    {
+      "start_time": "00:01:15,439",
+      "end_time": "00:01:19,360",
+      "text": "it's different seasons of an epic"
+    },
+    {
+      "start_time": "00:01:17,040",
+      "end_time": "00:01:20,880",
+      "text": "television series with villains and plot"
+    },
+    {
+      "start_time": "00:01:19,360",
+      "end_time": "00:01:22,640",
+      "text": "points that the players"
+    },
+    {
+      "start_time": "00:01:20,880",
+      "end_time": "00:01:24,240",
+      "text": "and the authors of the adventure expect"
+    },
+    {
+      "start_time": "00:01:22,640",
+      "end_time": "00:01:26,960",
+      "text": "the players to hit along the way"
+    },
+    {
+      "start_time": "00:01:24,240",
+      "end_time": "00:01:27,520",
+      "text": "now this is contrasted with a sandbox"
+    },
+    {
+      "start_time": "00:01:26,960",
+      "end_time": "00:01:30,159",
+      "text": "game"
+    },
+    {
+      "start_time": "00:01:27,520",
+      "end_time": "00:01:30,720",
+      "text": "and a sandbox as the name implies is"
+    },
+    {
+      "start_time": "00:01:30,159",
+      "end_time": "00:01:34,799",
+      "text": "sort of an"
+    },
+    {
+      "start_time": "00:01:30,720",
+      "end_time": "00:01:37,280",
+      "text": "open field with not a lot in it honestly"
+    },
+    {
+      "start_time": "00:01:34,799",
+      "end_time": "00:01:38,880",
+      "text": "but you can build and shape whatever you"
+    },
+    {
+      "start_time": "00:01:37,280",
+      "end_time": "00:01:40,400",
+      "text": "want hills rivers"
+    },
+    {
+      "start_time": "00:01:38,880",
+      "end_time": "00:01:41,920",
+      "text": "valleys how does that apply to"
+    },
+    {
+      "start_time": "00:01:40,400",
+      "end_time": "00:01:42,479",
+      "text": "role-playing games well simply put it"
+    },
+    {
+      "start_time": "00:01:41,920",
+      "end_time": "00:01:45,119",
+      "text": "means"
+    },
+    {
+      "start_time": "00:01:42,479",
+      "end_time": "00:01:46,000",
+      "text": "that the dungeon master doesn't have an"
+    },
+    {
+      "start_time": "00:01:45,119",
+      "end_time": "00:01:48,320",
+      "text": "explicit"
+    },
+    {
+      "start_time": "00:01:46,000",
+      "end_time": "00:01:49,360",
+      "text": "plot in mind when they get when their"
+    },
+    {
+      "start_time": "00:01:48,320",
+      "end_time": "00:01:52,320",
+      "text": "game starts"
+    },
+    {
+      "start_time": "00:01:49,360",
+      "end_time": "00:01:53,680",
+      "text": "instead they are simply reacting to what"
+    },
+    {
+      "start_time": "00:01:52,320",
+      "end_time": "00:01:55,920",
+      "text": "the players are doing"
+    },
+    {
+      "start_time": "00:01:53,680",
+      "end_time": "00:01:57,119",
+      "text": "and what they feel would be the natural"
+    },
+    {
+      "start_time": "00:01:55,920",
+      "end_time": "00:01:59,439",
+      "text": "consequences"
+    },
+    {
+      "start_time": "00:01:57,119",
+      "end_time": "00:02:01,680",
+      "text": "of those players actions so that the"
+    },
+    {
+      "start_time": "00:01:59,439",
+      "end_time": "00:02:02,320",
+      "text": "npcs or the other movers and shakers of"
+    },
+    {
+      "start_time": "00:02:01,680",
+      "end_time": "00:02:04,079",
+      "text": "the world"
+    },
+    {
+      "start_time": "00:02:02,320",
+      "end_time": "00:02:06,000",
+      "text": "can take appropriate actions and it's"
+    },
+    {
+      "start_time": "00:02:04,079",
+      "end_time": "00:02:08,560",
+      "text": "this sort of back and forth and dance"
+    },
+    {
+      "start_time": "00:02:06,000",
+      "end_time": "00:02:09,840",
+      "text": "there's no agenda there's no final boss"
+    },
+    {
+      "start_time": "00:02:08,560",
+      "end_time": "00:02:12,560",
+      "text": "it's just sort of"
+    },
+    {
+      "start_time": "00:02:09,840",
+      "end_time": "00:02:13,680",
+      "text": "whatever happens happens yeah and"
+    },
+    {
+      "start_time": "00:02:12,560",
+      "end_time": "00:02:16,480",
+      "text": "sometimes i feel"
+    },
+    {
+      "start_time": "00:02:13,680",
+      "end_time": "00:02:18,160",
+      "text": "well except everyone knows at home i'm a"
+    },
+    {
+      "start_time": "00:02:16,480",
+      "end_time": "00:02:19,680",
+      "text": "brand new gm been jamming for like less"
+    },
+    {
+      "start_time": "00:02:18,160",
+      "end_time": "00:02:21,120",
+      "text": "than a year and i've only jammed a few"
+    },
+    {
+      "start_time": "00:02:19,680",
+      "end_time": "00:02:22,560",
+      "text": "games and a lot of it helped"
+    },
+    {
+      "start_time": "00:02:21,120",
+      "end_time": "00:02:24,239",
+      "text": "helpful by derrick who's been dreaming"
+    },
+    {
+      "start_time": "00:02:22,560",
+      "end_time": "00:02:27,280",
+      "text": "for 20 plus years"
+    },
+    {
+      "start_time": "00:02:24,239",
+      "end_time": "00:02:28,720",
+      "text": "um the adventure pass help"
+    },
+    {
+      "start_time": "00:02:27,280",
+      "end_time": "00:02:30,640",
+      "text": "i get a little intimidated by the"
+    },
+    {
+      "start_time": "00:02:28,720",
+      "end_time": "00:02:32,879",
+      "text": "sandbox not to say that"
+    },
+    {
+      "start_time": "00:02:30,640",
+      "end_time": "00:02:34,640",
+      "text": "i i think the sandbox is the best way to"
+    },
+    {
+      "start_time": "00:02:32,879",
+      "end_time": "00:02:36,640",
+      "text": "play"
+    },
+    {
+      "start_time": "00:02:34,640",
+      "end_time": "00:02:37,920",
+      "text": "sometimes it just depends on how good"
+    },
+    {
+      "start_time": "00:02:36,640",
+      "end_time": "00:02:39,360",
+      "text": "you are i think as a g yeah i think"
+    },
+    {
+      "start_time": "00:02:37,920",
+      "end_time": "00:02:42,160",
+      "text": "that's the big thing is that"
+    },
+    {
+      "start_time": "00:02:39,360",
+      "end_time": "00:02:43,760",
+      "text": "i think that sandboxes can be fine if"
+    },
+    {
+      "start_time": "00:02:42,160",
+      "end_time": "00:02:44,080",
+      "text": "all of your players are very experienced"
+    },
+    {
+      "start_time": "00:02:43,760",
+      "end_time": "00:02:45,680",
+      "text": "and"
+    },
+    {
+      "start_time": "00:02:44,080",
+      "end_time": "00:02:47,519",
+      "text": "more importantly your dm is very"
+    },
+    {
+      "start_time": "00:02:45,680",
+      "end_time": "00:02:49,680",
+      "text": "experienced because exactly"
+    },
+    {
+      "start_time": "00:02:47,519",
+      "end_time": "00:02:51,200",
+      "text": "you you'll get into a scenario where we"
+    },
+    {
+      "start_time": "00:02:49,680",
+      "end_time": "00:02:53,040",
+      "text": "get into some weird tangent where we're"
+    },
+    {
+      "start_time": "00:02:51,200",
+      "end_time": "00:02:55,040",
+      "text": "now role-playing purchasing you know our"
+    },
+    {
+      "start_time": "00:02:53,040",
+      "end_time": "00:02:56,239",
+      "text": "pet food for for an hour and a half"
+    },
+    {
+      "start_time": "00:02:55,040",
+      "end_time": "00:02:57,360",
+      "text": "trying to figure out the best haggling"
+    },
+    {
+      "start_time": "00:02:56,239",
+      "end_time": "00:02:58,640",
+      "text": "the best price and i'm like what the"
+    },
+    {
+      "start_time": "00:02:57,360",
+      "end_time": "00:03:00,080",
+      "text": "[ __ ] are we doing like"
+    },
+    {
+      "start_time": "00:02:58,640",
+      "end_time": "00:03:02,239",
+      "text": "well i want to be doing something fun"
+    },
+    {
+      "start_time": "00:03:00,080",
+      "end_time": "00:03:05,120",
+      "text": "why are we delving into these things"
+    },
+    {
+      "start_time": "00:03:02,239",
+      "end_time": "00:03:06,720",
+      "text": "but i think that adventure paths both"
+    },
+    {
+      "start_time": "00:03:05,120",
+      "end_time": "00:03:07,760",
+      "text": "from a player perspective and from a"
+    },
+    {
+      "start_time": "00:03:06,720",
+      "end_time": "00:03:10,959",
+      "text": "dungeon masters"
+    },
+    {
+      "start_time": "00:03:07,760",
+      "end_time": "00:03:13,120",
+      "text": "perspective heavily lean towards"
+    },
+    {
+      "start_time": "00:03:10,959",
+      "end_time": "00:03:15,599",
+      "text": "railroading and this has happened to me"
+    },
+    {
+      "start_time": "00:03:13,120",
+      "end_time": "00:03:18,239",
+      "text": "and and railroading i make them go"
+    },
+    {
+      "start_time": "00:03:15,599",
+      "end_time": "00:03:19,200",
+      "text": "railroading meaning the dungeon master"
+    },
+    {
+      "start_time": "00:03:18,239",
+      "end_time": "00:03:22,000",
+      "text": "makes the party"
+    },
+    {
+      "start_time": "00:03:19,200",
+      "end_time": "00:03:23,040",
+      "text": "go a certain way or there's a villain"
+    },
+    {
+      "start_time": "00:03:22,000",
+      "end_time": "00:03:25,200",
+      "text": "and the adventure"
+    },
+    {
+      "start_time": "00:03:23,040",
+      "end_time": "00:03:26,799",
+      "text": "assumes that the villain gets away well"
+    },
+    {
+      "start_time": "00:03:25,200",
+      "end_time": "00:03:28,480",
+      "text": "now you need to make sure that that"
+    },
+    {
+      "start_time": "00:03:26,799",
+      "end_time": "00:03:31,200",
+      "text": "villain gets away"
+    },
+    {
+      "start_time": "00:03:28,480",
+      "end_time": "00:03:32,400",
+      "text": "or sometimes even players will railroad"
+    },
+    {
+      "start_time": "00:03:31,200",
+      "end_time": "00:03:34,400",
+      "text": "themselves"
+    },
+    {
+      "start_time": "00:03:32,400",
+      "end_time": "00:03:36,799",
+      "text": "they know they're playing an adventure"
+    },
+    {
+      "start_time": "00:03:34,400",
+      "end_time": "00:03:38,319",
+      "text": "path and so they stay on the road"
+    },
+    {
+      "start_time": "00:03:36,799",
+      "end_time": "00:03:39,519",
+      "text": "because they know that the road is going"
+    },
+    {
+      "start_time": "00:03:38,319",
+      "end_time": "00:03:41,519",
+      "text": "to take them to"
+    },
+    {
+      "start_time": "00:03:39,519",
+      "end_time": "00:03:43,040",
+      "text": "the next place where the next adventure"
+    },
+    {
+      "start_time": "00:03:41,519",
+      "end_time": "00:03:45,360",
+      "text": "takes place we talked a lot about this"
+    },
+    {
+      "start_time": "00:03:43,040",
+      "end_time": "00:03:47,440",
+      "text": "when i first started uh jamming was"
+    },
+    {
+      "start_time": "00:03:45,360",
+      "end_time": "00:03:49,120",
+      "text": "all right the venture says to go right"
+    },
+    {
+      "start_time": "00:03:47,440",
+      "end_time": "00:03:51,280",
+      "text": "got the town all set up"
+    },
+    {
+      "start_time": "00:03:49,120",
+      "end_time": "00:03:52,720",
+      "text": "what happens when you go left i don't"
+    },
+    {
+      "start_time": "00:03:51,280",
+      "end_time": "00:03:54,720",
+      "text": "have anything set up for left"
+    },
+    {
+      "start_time": "00:03:52,720",
+      "end_time": "00:03:55,760",
+      "text": "well it it's the same as if you went"
+    },
+    {
+      "start_time": "00:03:54,720",
+      "end_time": "00:03:56,879",
+      "text": "right but you didn't know that because i"
+    },
+    {
+      "start_time": "00:03:55,760",
+      "end_time": "00:03:58,319",
+      "text": "made a quick decision behind the scenes"
+    },
+    {
+      "start_time": "00:03:56,879",
+      "end_time": "00:03:59,760",
+      "text": "and we are going the right way is that"
+    },
+    {
+      "start_time": "00:03:58,319",
+      "end_time": "00:04:00,720",
+      "text": "the right thing to do and that's still"
+    },
+    {
+      "start_time": "00:03:59,760",
+      "end_time": "00:04:03,519",
+      "text": "and let's be clear"
+    },
+    {
+      "start_time": "00:04:00,720",
+      "end_time": "00:04:04,879",
+      "text": "that is railroading still and fudging in"
+    },
+    {
+      "start_time": "00:04:03,519",
+      "end_time": "00:04:05,280",
+      "text": "a weird and it's fudging in a weird way"
+    },
+    {
+      "start_time": "00:04:04,879",
+      "end_time": "00:04:06,959",
+      "text": "as well"
+    },
+    {
+      "start_time": "00:04:05,280",
+      "end_time": "00:04:08,799",
+      "text": "it's a non-dice roll fudging right"
+    },
+    {
+      "start_time": "00:04:06,959",
+      "end_time": "00:04:11,360",
+      "text": "because my thing is"
+    },
+    {
+      "start_time": "00:04:08,799",
+      "end_time": "00:04:13,200",
+      "text": "the reason i play role-playing games is"
+    },
+    {
+      "start_time": "00:04:11,360",
+      "end_time": "00:04:16,479",
+      "text": "i want to be able to make decisions"
+    },
+    {
+      "start_time": "00:04:13,200",
+      "end_time": "00:04:18,880",
+      "text": "and choices that matter so"
+    },
+    {
+      "start_time": "00:04:16,479",
+      "end_time": "00:04:20,560",
+      "text": "if you're telling me that my decisions"
+    },
+    {
+      "start_time": "00:04:18,880",
+      "end_time": "00:04:23,919",
+      "text": "and choices don't matter"
+    },
+    {
+      "start_time": "00:04:20,560",
+      "end_time": "00:04:24,560",
+      "text": "that i'm just essentially really slowly"
+    },
+    {
+      "start_time": "00:04:23,919",
+      "end_time": "00:04:27,600",
+      "text": "reading"
+    },
+    {
+      "start_time": "00:04:24,560",
+      "end_time": "00:04:28,080",
+      "text": "a weird choose your own adventure book i"
+    },
+    {
+      "start_time": "00:04:27,600",
+      "end_time": "00:04:31,120",
+      "text": "i"
+    },
+    {
+      "start_time": "00:04:28,080",
+      "end_time": "00:04:31,919",
+      "text": "lose interest immediately i see and part"
+    },
+    {
+      "start_time": "00:04:31,120",
+      "end_time": "00:04:33,600",
+      "text": "of me likes them"
+    },
+    {
+      "start_time": "00:04:31,919",
+      "end_time": "00:04:35,199",
+      "text": "and i've played adventure pass and like"
+    },
+    {
+      "start_time": "00:04:33,600",
+      "end_time": "00:04:36,800",
+      "text": "i'm like oh there's i know there's a"
+    },
+    {
+      "start_time": "00:04:35,199",
+      "end_time": "00:04:38,240",
+      "text": "sweet plot to this and everything's"
+    },
+    {
+      "start_time": "00:04:36,800",
+      "end_time": "00:04:39,680",
+      "text": "gonna be a sweet mystery and i can't"
+    },
+    {
+      "start_time": "00:04:38,240",
+      "end_time": "00:04:41,199",
+      "text": "wait to see what it unfolds"
+    },
+    {
+      "start_time": "00:04:39,680",
+      "end_time": "00:04:42,880",
+      "text": "one because probably the french pat's"
+    },
+    {
+      "start_time": "00:04:41,199",
+      "end_time": "00:04:44,400",
+      "text": "written better than my imagination is"
+    },
+    {
+      "start_time": "00:04:42,880",
+      "end_time": "00:04:46,160",
+      "text": "so i'm like yeah this is gonna be so"
+    },
+    {
+      "start_time": "00:04:44,400",
+      "end_time": "00:04:48,960",
+      "text": "much cooler than my thoughts"
+    },
+    {
+      "start_time": "00:04:46,160",
+      "end_time": "00:04:49,520",
+      "text": "but the i don't know the the best i've"
+    },
+    {
+      "start_time": "00:04:48,960",
+      "end_time": "00:04:50,880",
+      "text": "seen"
+    },
+    {
+      "start_time": "00:04:49,520",
+      "end_time": "00:04:52,160",
+      "text": "is there was a guy online and i thought"
+    },
+    {
+      "start_time": "00:04:50,880",
+      "end_time": "00:04:53,360",
+      "text": "he was great and he was talking about he"
+    },
+    {
+      "start_time": "00:04:52,160",
+      "end_time": "00:04:56,000",
+      "text": "ran open"
+    },
+    {
+      "start_time": "00:04:53,360",
+      "end_time": "00:04:57,040",
+      "text": "but what he did was he had took"
+    },
+    {
+      "start_time": "00:04:56,000",
+      "end_time": "00:04:59,199",
+      "text": "adventures"
+    },
+    {
+      "start_time": "00:04:57,040",
+      "end_time": "00:05:00,880",
+      "text": "from the different adventure pass and"
+    },
+    {
+      "start_time": "00:04:59,199",
+      "end_time": "00:05:02,960",
+      "text": "made it into his open world"
+    },
+    {
+      "start_time": "00:05:00,880",
+      "end_time": "00:05:04,800",
+      "text": "basically he was like okay we can go to"
+    },
+    {
+      "start_time": "00:05:02,960",
+      "end_time": "00:05:06,320",
+      "text": "this place or do this thing and i got"
+    },
+    {
+      "start_time": "00:05:04,800",
+      "end_time": "00:05:07,039",
+      "text": "these different encounters and things"
+    },
+    {
+      "start_time": "00:05:06,320",
+      "end_time": "00:05:09,759",
+      "text": "set up yeah"
+    },
+    {
+      "start_time": "00:05:07,039",
+      "end_time": "00:05:10,560",
+      "text": "these twists and pots and puzzles from"
+    },
+    {
+      "start_time": "00:05:09,759",
+      "end_time": "00:05:12,320",
+      "text": "these great"
+    },
+    {
+      "start_time": "00:05:10,560",
+      "end_time": "00:05:13,600",
+      "text": "books that i've read or adventures that"
+    },
+    {
+      "start_time": "00:05:12,320",
+      "end_time": "00:05:13,919",
+      "text": "i've read i'm like okay so you're sort"
+    },
+    {
+      "start_time": "00:05:13,600",
+      "end_time": "00:05:15,199",
+      "text": "of"
+    },
+    {
+      "start_time": "00:05:13,919",
+      "end_time": "00:05:16,400",
+      "text": "yeah well that's a combination i mean"
+    },
+    {
+      "start_time": "00:05:15,199",
+      "end_time": "00:05:18,000",
+      "text": "yeah it's combination right because"
+    },
+    {
+      "start_time": "00:05:16,400",
+      "end_time": "00:05:20,000",
+      "text": "because okay so for me"
+    },
+    {
+      "start_time": "00:05:18,000",
+      "end_time": "00:05:21,840",
+      "text": "okay full disclosure i don't like"
+    },
+    {
+      "start_time": "00:05:20,000",
+      "end_time": "00:05:23,600",
+      "text": "adventure paths"
+    },
+    {
+      "start_time": "00:05:21,840",
+      "end_time": "00:05:25,039",
+      "text": "wait dude what you write do aren't you"
+    },
+    {
+      "start_time": "00:05:23,600",
+      "end_time": "00:05:26,960",
+      "text": "running rise of the rune lord second"
+    },
+    {
+      "start_time": "00:05:25,039",
+      "end_time": "00:05:28,560",
+      "text": "edition i am and the reason i'm running"
+    },
+    {
+      "start_time": "00:05:26,960",
+      "end_time": "00:05:29,120",
+      "text": "them it's the only thing that i like"
+    },
+    {
+      "start_time": "00:05:28,560",
+      "end_time": "00:05:32,639",
+      "text": "about them"
+    },
+    {
+      "start_time": "00:05:29,120",
+      "end_time": "00:05:35,919",
+      "text": "is it takes a lot less time okay"
+    },
+    {
+      "start_time": "00:05:32,639",
+      "end_time": "00:05:38,320",
+      "text": "for prep to prep yeah for a game"
+    },
+    {
+      "start_time": "00:05:35,919",
+      "end_time": "00:05:39,919",
+      "text": "like dungeons and dragons or pathfinder"
+    },
+    {
+      "start_time": "00:05:38,320",
+      "end_time": "00:05:41,360",
+      "text": "second edition what do i mean by that"
+    },
+    {
+      "start_time": "00:05:39,919",
+      "end_time": "00:05:44,000",
+      "text": "these are complicated games"
+    },
+    {
+      "start_time": "00:05:41,360",
+      "end_time": "00:05:45,600",
+      "text": "with lots of monster rules and lots of"
+    },
+    {
+      "start_time": "00:05:44,000",
+      "end_time": "00:05:48,639",
+      "text": "maps and"
+    },
+    {
+      "start_time": "00:05:45,600",
+      "end_time": "00:05:50,639",
+      "text": "dc's and skill checks and traps and it's"
+    },
+    {
+      "start_time": "00:05:48,639",
+      "end_time": "00:05:51,680",
+      "text": "a lot of work to prepare all that and i"
+    },
+    {
+      "start_time": "00:05:50,639",
+      "end_time": "00:05:54,400",
+      "text": "don't have the time"
+    },
+    {
+      "start_time": "00:05:51,680",
+      "end_time": "00:05:56,080",
+      "text": "or the inclination to do so okay so the"
+    },
+    {
+      "start_time": "00:05:54,400",
+      "end_time": "00:05:57,840",
+      "text": "adventure path for me provides a very"
+    },
+    {
+      "start_time": "00:05:56,080",
+      "end_time": "00:06:00,479",
+      "text": "convenient way to do that"
+    },
+    {
+      "start_time": "00:05:57,840",
+      "end_time": "00:06:01,199",
+      "text": "uh if we take an example of uh matt who"
+    },
+    {
+      "start_time": "00:06:00,479",
+      "end_time": "00:06:03,759",
+      "text": "is in my"
+    },
+    {
+      "start_time": "00:06:01,199",
+      "end_time": "00:06:04,240",
+      "text": "monthly blades in the dark game i do not"
+    },
+    {
+      "start_time": "00:06:03,759",
+      "end_time": "00:06:07,039",
+      "text": "prepare"
+    },
+    {
+      "start_time": "00:06:04,240",
+      "end_time": "00:06:08,000",
+      "text": "anything for that game it's completely"
+    },
+    {
+      "start_time": "00:06:07,039",
+      "end_time": "00:06:11,440",
+      "text": "sandbox"
+    },
+    {
+      "start_time": "00:06:08,000",
+      "end_time": "00:06:14,720",
+      "text": "everything is spontaneous and ad hoc"
+    },
+    {
+      "start_time": "00:06:11,440",
+      "end_time": "00:06:15,600",
+      "text": "but that game has a much lower level of"
+    },
+    {
+      "start_time": "00:06:14,720",
+      "end_time": "00:06:18,880",
+      "text": "complexity"
+    },
+    {
+      "start_time": "00:06:15,600",
+      "end_time": "00:06:20,080",
+      "text": "and it's far easier for me to go on the"
+    },
+    {
+      "start_time": "00:06:18,880",
+      "end_time": "00:06:21,440",
+      "text": "flow you know go on the fly"
+    },
+    {
+      "start_time": "00:06:20,080",
+      "end_time": "00:06:23,039",
+      "text": "and go with the flow and make stuff up"
+    },
+    {
+      "start_time": "00:06:21,440",
+      "end_time": "00:06:23,759",
+      "text": "that makes sense and is mechanically"
+    },
+    {
+      "start_time": "00:06:23,039",
+      "end_time": "00:06:25,360",
+      "text": "sound"
+    },
+    {
+      "start_time": "00:06:23,759",
+      "end_time": "00:06:27,199",
+      "text": "in that version and that system than it"
+    },
+    {
+      "start_time": "00:06:25,360",
+      "end_time": "00:06:27,919",
+      "text": "is the same pathfinder in pathfinder i"
+    },
+    {
+      "start_time": "00:06:27,199",
+      "end_time": "00:06:30,639",
+      "text": "cannot"
+    },
+    {
+      "start_time": "00:06:27,919",
+      "end_time": "00:06:32,240",
+      "text": "sit down and just quickly without us"
+    },
+    {
+      "start_time": "00:06:30,639",
+      "end_time": "00:06:34,319",
+      "text": "getting bored at the table"
+    },
+    {
+      "start_time": "00:06:32,240",
+      "end_time": "00:06:36,400",
+      "text": "make a monster encounter that is going"
+    },
+    {
+      "start_time": "00:06:34,319",
+      "end_time": "00:06:37,520",
+      "text": "to be both fair and balanced and fun and"
+    },
+    {
+      "start_time": "00:06:36,400",
+      "end_time": "00:06:39,440",
+      "text": "interesting and"
+    },
+    {
+      "start_time": "00:06:37,520",
+      "end_time": "00:06:40,960",
+      "text": "has a good map with a lot of interesting"
+    },
+    {
+      "start_time": "00:06:39,440",
+      "end_time": "00:06:41,520",
+      "text": "elements to it i can't just pull that"
+    },
+    {
+      "start_time": "00:06:40,960",
+      "end_time": "00:06:43,360",
+      "text": "out"
+    },
+    {
+      "start_time": "00:06:41,520",
+      "end_time": "00:06:44,880",
+      "text": "you know it's very difficult to do yeah"
+    },
+    {
+      "start_time": "00:06:43,360",
+      "end_time": "00:06:45,440",
+      "text": "and i i have trouble with it too because"
+    },
+    {
+      "start_time": "00:06:44,880",
+      "end_time": "00:06:47,840",
+      "text": "like when"
+    },
+    {
+      "start_time": "00:06:45,440",
+      "end_time": "00:06:48,880",
+      "text": "um when i think about like sandbox and i"
+    },
+    {
+      "start_time": "00:06:47,840",
+      "end_time": "00:06:50,880",
+      "text": "think of like all right i want to sit"
+    },
+    {
+      "start_time": "00:06:48,880",
+      "end_time": "00:06:52,000",
+      "text": "down and play final fantasy 7 as an rpg"
+    },
+    {
+      "start_time": "00:06:50,880",
+      "end_time": "00:06:52,880",
+      "text": "or i want to play lord of the rings it's"
+    },
+    {
+      "start_time": "00:06:52,000",
+      "end_time": "00:06:54,400",
+      "text": "an rpg"
+    },
+    {
+      "start_time": "00:06:52,880",
+      "end_time": "00:06:55,840",
+      "text": "and then like we get to the the first"
+    },
+    {
+      "start_time": "00:06:54,400",
+      "end_time": "00:06:57,919",
+      "text": "act and then like i just started i"
+    },
+    {
+      "start_time": "00:06:55,840",
+      "end_time": "00:07:00,560",
+      "text": "decided to become a farmer and i retire"
+    },
+    {
+      "start_time": "00:06:57,919",
+      "end_time": "00:07:01,680",
+      "text": "like i'm like that that that's not fun i"
+    },
+    {
+      "start_time": "00:07:00,560",
+      "end_time": "00:07:04,479",
+      "text": "want like there's gotta be"
+    },
+    {
+      "start_time": "00:07:01,680",
+      "end_time": "00:07:06,080",
+      "text": "like wow that's something some structure"
+    },
+    {
+      "start_time": "00:07:04,479",
+      "end_time": "00:07:07,680",
+      "text": "to it yeah like i want there to be yeah"
+    },
+    {
+      "start_time": "00:07:06,080",
+      "end_time": "00:07:09,039",
+      "text": "you made whatever decisions and your"
+    },
+    {
+      "start_time": "00:07:07,680",
+      "end_time": "00:07:10,479",
+      "text": "character always wanted to be a farmer"
+    },
+    {
+      "start_time": "00:07:09,039",
+      "end_time": "00:07:11,840",
+      "text": "okay cool"
+    },
+    {
+      "start_time": "00:07:10,479",
+      "end_time": "00:07:13,039",
+      "text": "that's not what that's not the movie"
+    },
+    {
+      "start_time": "00:07:11,840",
+      "end_time": "00:07:14,880",
+      "text": "that i want to watch it's about a guy"
+    },
+    {
+      "start_time": "00:07:13,039",
+      "end_time": "00:07:16,319",
+      "text": "who decides to"
+    },
+    {
+      "start_time": "00:07:14,880",
+      "end_time": "00:07:18,000",
+      "text": "fizzle out and go do something else well"
+    },
+    {
+      "start_time": "00:07:16,319",
+      "end_time": "00:07:20,160",
+      "text": "let's see the movie that's about nina"
+    },
+    {
+      "start_time": "00:07:18,000",
+      "end_time": "00:07:21,440",
+      "text": "and matrix the one he's like there's a"
+    },
+    {
+      "start_time": "00:07:20,160",
+      "end_time": "00:07:22,080",
+      "text": "reason you're telling me the story and"
+    },
+    {
+      "start_time": "00:07:21,440",
+      "end_time": "00:07:23,440",
+      "text": "that's why"
+    },
+    {
+      "start_time": "00:07:22,080",
+      "end_time": "00:07:25,199",
+      "text": "and that's i think that's the problem"
+    },
+    {
+      "start_time": "00:07:23,440",
+      "end_time": "00:07:26,639",
+      "text": "right people look at role-playing games"
+    },
+    {
+      "start_time": "00:07:25,199",
+      "end_time": "00:07:27,280",
+      "text": "and they equate them with movies and"
+    },
+    {
+      "start_time": "00:07:26,639",
+      "end_time": "00:07:29,680",
+      "text": "novels"
+    },
+    {
+      "start_time": "00:07:27,280",
+      "end_time": "00:07:30,479",
+      "text": "and i think i do and they are not i know"
+    },
+    {
+      "start_time": "00:07:29,680",
+      "end_time": "00:07:32,160",
+      "text": "they are not"
+    },
+    {
+      "start_time": "00:07:30,479",
+      "end_time": "00:07:34,240",
+      "text": "like i see that rise of teemit book and"
+    },
+    {
+      "start_time": "00:07:32,160",
+      "end_time": "00:07:34,960",
+      "text": "i'm like i can fight that five-headed"
+    },
+    {
+      "start_time": "00:07:34,240",
+      "end_time": "00:07:37,039",
+      "text": "dragon at"
+    },
+    {
+      "start_time": "00:07:34,960",
+      "end_time": "00:07:38,160",
+      "text": "some time in this thing this sounds so"
+    },
+    {
+      "start_time": "00:07:37,039",
+      "end_time": "00:07:39,840",
+      "text": "amazing yeah"
+    },
+    {
+      "start_time": "00:07:38,160",
+      "end_time": "00:07:41,599",
+      "text": "let me play that but you can make your"
+    },
+    {
+      "start_time": "00:07:39,840",
+      "end_time": "00:07:43,680",
+      "text": "own encounter that way too but you can"
+    },
+    {
+      "start_time": "00:07:41,599",
+      "end_time": "00:07:46,000",
+      "text": "you can just"
+    },
+    {
+      "start_time": "00:07:43,680",
+      "end_time": "00:07:47,440",
+      "text": "the craziest thing i see is when people"
+    },
+    {
+      "start_time": "00:07:46,000",
+      "end_time": "00:07:48,720",
+      "text": "are talking about their characters and"
+    },
+    {
+      "start_time": "00:07:47,440",
+      "end_time": "00:07:50,080",
+      "text": "they're like level one and they're new"
+    },
+    {
+      "start_time": "00:07:48,720",
+      "end_time": "00:07:52,000",
+      "text": "characters and they're so excited"
+    },
+    {
+      "start_time": "00:07:50,080",
+      "end_time": "00:07:53,440",
+      "text": "and they're already talking about their"
+    },
+    {
+      "start_time": "00:07:52,000",
+      "end_time": "00:07:55,360",
+      "text": "character's arc"
+    },
+    {
+      "start_time": "00:07:53,440",
+      "end_time": "00:07:56,639",
+      "text": "and how they're gonna do this and then"
+    },
+    {
+      "start_time": "00:07:55,360",
+      "end_time": "00:07:57,759",
+      "text": "they're gonna grow up and then they're"
+    },
+    {
+      "start_time": "00:07:56,639",
+      "end_time": "00:07:59,039",
+      "text": "gonna realize this"
+    },
+    {
+      "start_time": "00:07:57,759",
+      "end_time": "00:08:01,599",
+      "text": "and then later on their character's"
+    },
+    {
+      "start_time": "00:07:59,039",
+      "end_time": "00:08:03,360",
+      "text": "gonna come around and i'm like"
+    },
+    {
+      "start_time": "00:08:01,599",
+      "end_time": "00:08:05,199",
+      "text": "you you're you're writing your"
+    },
+    {
+      "start_time": "00:08:03,360",
+      "end_time": "00:08:06,879",
+      "text": "character's ending"
+    },
+    {
+      "start_time": "00:08:05,199",
+      "end_time": "00:08:08,479",
+      "text": "at the beginning i want the best of both"
+    },
+    {
+      "start_time": "00:08:06,879",
+      "end_time": "00:08:09,759",
+      "text": "worlds and i think of game of thrones i"
+    },
+    {
+      "start_time": "00:08:08,479",
+      "end_time": "00:08:10,960",
+      "text": "want the best of both worlds where i"
+    },
+    {
+      "start_time": "00:08:09,759",
+      "end_time": "00:08:11,599",
+      "text": "want it to seem like everything is"
+    },
+    {
+      "start_time": "00:08:10,960",
+      "end_time": "00:08:14,000",
+      "text": "chaotic"
+    },
+    {
+      "start_time": "00:08:11,599",
+      "end_time": "00:08:14,960",
+      "text": "it's a sandbox everything is all [ __ ]"
+    },
+    {
+      "start_time": "00:08:14,000",
+      "end_time": "00:08:16,319",
+      "text": "up and then"
+    },
+    {
+      "start_time": "00:08:14,960",
+      "end_time": "00:08:17,840",
+      "text": "psych as we get to the end i've been"
+    },
+    {
+      "start_time": "00:08:16,319",
+      "end_time": "00:08:18,160",
+      "text": "playing this [ __ ] all along like i want"
+    },
+    {
+      "start_time": "00:08:17,840",
+      "end_time": "00:08:19,759",
+      "text": "like"
+    },
+    {
+      "start_time": "00:08:18,160",
+      "end_time": "00:08:21,520",
+      "text": "oh jon snow like all that makes sense"
+    },
+    {
+      "start_time": "00:08:19,759",
+      "end_time": "00:08:25,280",
+      "text": "well you need a good gm for that"
+    },
+    {
+      "start_time": "00:08:21,520",
+      "end_time": "00:08:26,800",
+      "text": "yeah but like i if if if if it starts"
+    },
+    {
+      "start_time": "00:08:25,280",
+      "end_time": "00:08:27,199",
+      "text": "out and if it just gets too chaotic and"
+    },
+    {
+      "start_time": "00:08:26,800",
+      "end_time": "00:08:30,560",
+      "text": "too"
+    },
+    {
+      "start_time": "00:08:27,199",
+      "end_time": "00:08:32,640",
+      "text": "um sandboxy then it's like wait it"
+    },
+    {
+      "start_time": "00:08:30,560",
+      "end_time": "00:08:34,159",
+      "text": "i don't know it it loses sort of what"
+    },
+    {
+      "start_time": "00:08:32,640",
+      "end_time": "00:08:36,000",
+      "text": "story are we telling what"
+    },
+    {
+      "start_time": "00:08:34,159",
+      "end_time": "00:08:37,599",
+      "text": "you know is this no i think i think the"
+    },
+    {
+      "start_time": "00:08:36,000",
+      "end_time": "00:08:41,680",
+      "text": "danger of a sandbox"
+    },
+    {
+      "start_time": "00:08:37,599",
+      "end_time": "00:08:44,399",
+      "text": "is that your game becomes uh"
+    },
+    {
+      "start_time": "00:08:41,680",
+      "end_time": "00:08:45,200",
+      "text": "lifeless and it becomes there is no"
+    },
+    {
+      "start_time": "00:08:44,399",
+      "end_time": "00:08:47,360",
+      "text": "elements"
+    },
+    {
+      "start_time": "00:08:45,200",
+      "end_time": "00:08:49,440",
+      "text": "right like the the the the worst"
+    },
+    {
+      "start_time": "00:08:47,360",
+      "end_time": "00:08:50,959",
+      "text": "scenario is your your sandbox is just"
+    },
+    {
+      "start_time": "00:08:49,440",
+      "end_time": "00:08:52,399",
+      "text": "oh we fought some monsters and it didn't"
+    },
+    {
+      "start_time": "00:08:50,959",
+      "end_time": "00:08:53,680",
+      "text": "matter you know we're just getting"
+    },
+    {
+      "start_time": "00:08:52,399",
+      "end_time": "00:08:55,120",
+      "text": "levels"
+    },
+    {
+      "start_time": "00:08:53,680",
+      "end_time": "00:08:56,480",
+      "text": "this isn't yeah it did what's the what's"
+    },
+    {
+      "start_time": "00:08:55,120",
+      "end_time": "00:08:57,680",
+      "text": "the point what's that right like you're"
+    },
+    {
+      "start_time": "00:08:56,480",
+      "end_time": "00:08:59,279",
+      "text": "playing some sort of mmo"
+    },
+    {
+      "start_time": "00:08:57,680",
+      "end_time": "00:09:01,120",
+      "text": "i'll just say skyrim is a perfect"
+    },
+    {
+      "start_time": "00:08:59,279",
+      "end_time": "00:09:02,800",
+      "text": "example there's so much to do"
+    },
+    {
+      "start_time": "00:09:01,120",
+      "end_time": "00:09:04,560",
+      "text": "it's an open sandbox there's so many"
+    },
+    {
+      "start_time": "00:09:02,800",
+      "end_time": "00:09:05,040",
+      "text": "different things to do how many people"
+    },
+    {
+      "start_time": "00:09:04,560",
+      "end_time": "00:09:06,959",
+      "text": "actually"
+    },
+    {
+      "start_time": "00:09:05,040",
+      "end_time": "00:09:08,959",
+      "text": "have completed the entire game and"
+    },
+    {
+      "start_time": "00:09:06,959",
+      "end_time": "00:09:11,040",
+      "text": "actually followed the main storyline"
+    },
+    {
+      "start_time": "00:09:08,959",
+      "end_time": "00:09:12,959",
+      "text": "you know so it's it's what are you"
+    },
+    {
+      "start_time": "00:09:11,040",
+      "end_time": "00:09:14,000",
+      "text": "looking to get out of the experience"
+    },
+    {
+      "start_time": "00:09:12,959",
+      "end_time": "00:09:14,959",
+      "text": "and that's something you have to kind of"
+    },
+    {
+      "start_time": "00:09:14,000",
+      "end_time": "00:09:16,480",
+      "text": "decide with the group are you guys"
+    },
+    {
+      "start_time": "00:09:14,959",
+      "end_time": "00:09:17,519",
+      "text": "looking to just get together and kind of"
+    },
+    {
+      "start_time": "00:09:16,480",
+      "end_time": "00:09:19,839",
+      "text": "mosey around"
+    },
+    {
+      "start_time": "00:09:17,519",
+      "end_time": "00:09:21,600",
+      "text": "the the landscape the world kind of have"
+    },
+    {
+      "start_time": "00:09:19,839",
+      "end_time": "00:09:22,000",
+      "text": "your characters grow and experience new"
+    },
+    {
+      "start_time": "00:09:21,600",
+      "end_time": "00:09:24,959",
+      "text": "things"
+    },
+    {
+      "start_time": "00:09:22,000",
+      "end_time": "00:09:26,800",
+      "text": "that just seems i just feel like i mean"
+    },
+    {
+      "start_time": "00:09:24,959",
+      "end_time": "00:09:28,160",
+      "text": "i don't play video games for that reason"
+    },
+    {
+      "start_time": "00:09:26,800",
+      "end_time": "00:09:29,839",
+      "text": "but that that's kind of the whole"
+    },
+    {
+      "start_time": "00:09:28,160",
+      "end_time": "00:09:31,760",
+      "text": "purpose well no because i know because i"
+    },
+    {
+      "start_time": "00:09:29,839",
+      "end_time": "00:09:33,360",
+      "text": "even know in a sandbox game like skyrim"
+    },
+    {
+      "start_time": "00:09:31,760",
+      "end_time": "00:09:34,880",
+      "text": "right it's not there unless someone"
+    },
+    {
+      "start_time": "00:09:33,360",
+      "end_time": "00:09:37,600",
+      "text": "programmed it true"
+    },
+    {
+      "start_time": "00:09:34,880",
+      "end_time": "00:09:38,800",
+      "text": "it's not true it's not it's not it's not"
+    },
+    {
+      "start_time": "00:09:37,600",
+      "end_time": "00:09:40,160",
+      "text": "my story"
+    },
+    {
+      "start_time": "00:09:38,800",
+      "end_time": "00:09:41,920",
+      "text": "you got to give red dead redemption to"
+    },
+    {
+      "start_time": "00:09:40,160",
+      "end_time": "00:09:43,760",
+      "text": "it it's not"
+    },
+    {
+      "start_time": "00:09:41,920",
+      "end_time": "00:09:45,279",
+      "text": "does it does it does it not contain"
+    },
+    {
+      "start_time": "00:09:43,760",
+      "end_time": "00:09:47,040",
+      "text": "elements that aren't"
+    },
+    {
+      "start_time": "00:09:45,279",
+      "end_time": "00:09:49,040",
+      "text": "you know no of course it is so i've"
+    },
+    {
+      "start_time": "00:09:47,040",
+      "end_time": "00:09:51,040",
+      "text": "never played those types of games ever"
+    },
+    {
+      "start_time": "00:09:49,040",
+      "end_time": "00:09:52,480",
+      "text": "like skyrim or uh grand theft auto where"
+    },
+    {
+      "start_time": "00:09:51,040",
+      "end_time": "00:09:53,040",
+      "text": "there's like this not mmo but like a"
+    },
+    {
+      "start_time": "00:09:52,480",
+      "end_time": "00:09:54,080",
+      "text": "larger"
+    },
+    {
+      "start_time": "00:09:53,040",
+      "end_time": "00:09:56,080",
+      "text": "sure i've never played any of them sort"
+    },
+    {
+      "start_time": "00:09:54,080",
+      "end_time": "00:09:57,839",
+      "text": "of sandboxing games then i played reddit"
+    },
+    {
+      "start_time": "00:09:56,080",
+      "end_time": "00:09:58,959",
+      "text": "redemption it changed me as a person"
+    },
+    {
+      "start_time": "00:09:57,839",
+      "end_time": "00:10:01,040",
+      "text": "but the other thing though too is so"
+    },
+    {
+      "start_time": "00:09:58,959",
+      "end_time": "00:10:02,720",
+      "text": "you're saying that it's programmed yeah"
+    },
+    {
+      "start_time": "00:10:01,040",
+      "end_time": "00:10:05,120",
+      "text": "that's what the gm's doing well nobody's"
+    },
+    {
+      "start_time": "00:10:02,720",
+      "end_time": "00:10:05,120",
+      "text": "programming"
+    },
+    {
+      "start_time": "00:10:08,720",
+      "end_time": "00:10:12,560",
+      "text": "because the beautiful thing about it is"
+    },
+    {
+      "start_time": "00:10:10,560",
+      "end_time": "00:10:14,640",
+      "text": "to use a video game metaphor"
+    },
+    {
+      "start_time": "00:10:12,560",
+      "end_time": "00:10:15,839",
+      "text": "your dungeon master yes there's a"
+    },
+    {
+      "start_time": "00:10:14,640",
+      "end_time": "00:10:18,720",
+      "text": "there's a delay"
+    },
+    {
+      "start_time": "00:10:15,839",
+      "end_time": "00:10:20,320",
+      "text": "okay but if the party starts to go west"
+    },
+    {
+      "start_time": "00:10:18,720",
+      "end_time": "00:10:22,000",
+      "text": "you gotta go west wait absolutely okay"
+    },
+    {
+      "start_time": "00:10:20,320",
+      "end_time": "00:10:24,000",
+      "text": "if the party wants to go west and west"
+    },
+    {
+      "start_time": "00:10:22,000",
+      "end_time": "00:10:26,320",
+      "text": "doesn't exist"
+    },
+    {
+      "start_time": "00:10:24,000",
+      "end_time": "00:10:28,000",
+      "text": "to use a video game metaphor okay thanks"
+    },
+    {
+      "start_time": "00:10:26,320",
+      "end_time": "00:10:30,000",
+      "text": "guys end of the week"
+    },
+    {
+      "start_time": "00:10:28,000",
+      "end_time": "00:10:33,839",
+      "text": "between now and next week when we play"
+    },
+    {
+      "start_time": "00:10:30,000",
+      "end_time": "00:10:33,839",
+      "text": "i'm gonna make dlc"
+    },
+    {
+      "start_time": "00:10:34,320",
+      "end_time": "00:10:37,680",
+      "text": "and i'm going to create that western"
+    },
+    {
+      "start_time": "00:10:36,880",
+      "end_time": "00:10:39,839",
+      "text": "part right"
+    },
+    {
+      "start_time": "00:10:37,680",
+      "end_time": "00:10:41,360",
+      "text": "because as a dungeon master i only need"
+    },
+    {
+      "start_time": "00:10:39,839",
+      "end_time": "00:10:43,760",
+      "text": "to be"
+    },
+    {
+      "start_time": "00:10:41,360",
+      "end_time": "00:10:44,640",
+      "text": "one session ahead right of the players"
+    },
+    {
+      "start_time": "00:10:43,760",
+      "end_time": "00:10:46,160",
+      "text": "that's how you should be"
+    },
+    {
+      "start_time": "00:10:44,640",
+      "end_time": "00:10:48,160",
+      "text": "right just in time you know and the"
+    },
+    {
+      "start_time": "00:10:46,160",
+      "end_time": "00:10:48,560",
+      "text": "other thing is too is rather than trying"
+    },
+    {
+      "start_time": "00:10:48,160",
+      "end_time": "00:10:51,760",
+      "text": "to"
+    },
+    {
+      "start_time": "00:10:48,560",
+      "end_time": "00:10:54,800",
+      "text": "predict what the party will do"
+    },
+    {
+      "start_time": "00:10:51,760",
+      "end_time": "00:10:56,079",
+      "text": "which is very hard absolutely and when"
+    },
+    {
+      "start_time": "00:10:54,800",
+      "end_time": "00:10:57,760",
+      "text": "you get it wrong"
+    },
+    {
+      "start_time": "00:10:56,079",
+      "end_time": "00:11:00,000",
+      "text": "you're in trouble okay you're in trouble"
+    },
+    {
+      "start_time": "00:10:57,760",
+      "end_time": "00:11:02,480",
+      "text": "and maybe your emphasis to suddenly say"
+    },
+    {
+      "start_time": "00:11:00,000",
+      "end_time": "00:11:04,160",
+      "text": "uh okay no maybe you don't do that or"
+    },
+    {
+      "start_time": "00:11:02,480",
+      "end_time": "00:11:06,800",
+      "text": "maybe that door does go that way right"
+    },
+    {
+      "start_time": "00:11:04,160",
+      "end_time": "00:11:07,839",
+      "text": "you it's better to react i got a"
+    },
+    {
+      "start_time": "00:11:06,800",
+      "end_time": "00:11:11,279",
+      "text": "specific question"
+    },
+    {
+      "start_time": "00:11:07,839",
+      "end_time": "00:11:13,120",
+      "text": "mr derrick yeah the gm fox glove"
+    },
+    {
+      "start_time": "00:11:11,279",
+      "end_time": "00:11:15,040",
+      "text": "yeah alder and fox club alder and fox"
+    },
+    {
+      "start_time": "00:11:13,120",
+      "end_time": "00:11:16,880",
+      "text": "love we met him very early on spoiler"
+    },
+    {
+      "start_time": "00:11:15,040",
+      "end_time": "00:11:18,480",
+      "text": "alert rises the rune lords"
+    },
+    {
+      "start_time": "00:11:16,880",
+      "end_time": "00:11:20,320",
+      "text": "he's getting attacked by some goblins"
+    },
+    {
+      "start_time": "00:11:18,480",
+      "end_time": "00:11:22,000",
+      "text": "correct what if we help out"
+    },
+    {
+      "start_time": "00:11:20,320",
+      "end_time": "00:11:23,600",
+      "text": "we don't help them all right the goblins"
+    },
+    {
+      "start_time": "00:11:22,000",
+      "end_time": "00:11:24,880",
+      "text": "end up killing them right we joined the"
+    },
+    {
+      "start_time": "00:11:23,600",
+      "end_time": "00:11:26,880",
+      "text": "goblin bay what happens"
+    },
+    {
+      "start_time": "00:11:24,880",
+      "end_time": "00:11:29,040",
+      "text": "oh i mean i let him die for sure i know"
+    },
+    {
+      "start_time": "00:11:26,880",
+      "end_time": "00:11:30,560",
+      "text": "you do what happens later on in the"
+    },
+    {
+      "start_time": "00:11:29,040",
+      "end_time": "00:11:32,160",
+      "text": "story"
+    },
+    {
+      "start_time": "00:11:30,560",
+      "end_time": "00:11:34,320",
+      "text": "to be alive you've taken a divergent"
+    },
+    {
+      "start_time": "00:11:32,160",
+      "end_time": "00:11:36,240",
+      "text": "path you use the multiverse you see"
+    },
+    {
+      "start_time": "00:11:34,320",
+      "end_time": "00:11:38,560",
+      "text": "doctors already explain"
+    },
+    {
+      "start_time": "00:11:36,240",
+      "end_time": "00:11:40,000",
+      "text": "loki over here okay so i will i will"
+    },
+    {
+      "start_time": "00:11:38,560",
+      "end_time": "00:11:41,200",
+      "text": "answer i think it was a good yeah no"
+    },
+    {
+      "start_time": "00:11:40,000",
+      "end_time": "00:11:42,000",
+      "text": "i'll answer right now okay this would"
+    },
+    {
+      "start_time": "00:11:41,200",
+      "end_time": "00:11:43,920",
+      "text": "help me okay"
+    },
+    {
+      "start_time": "00:11:42,000",
+      "end_time": "00:11:45,440",
+      "text": "so again this is spoiler alert for uh"
+    },
+    {
+      "start_time": "00:11:43,920",
+      "end_time": "00:11:47,600",
+      "text": "the first two seasons of uh"
+    },
+    {
+      "start_time": "00:11:45,440",
+      "end_time": "00:11:48,800",
+      "text": "chapters of rise of the rune lords but"
+    },
+    {
+      "start_time": "00:11:47,600",
+      "end_time": "00:11:52,399",
+      "text": "here's what would happen"
+    },
+    {
+      "start_time": "00:11:48,800",
+      "end_time": "00:11:53,440",
+      "text": "alderne dies okay but this is actually"
+    },
+    {
+      "start_time": "00:11:52,399",
+      "end_time": "00:11:56,720",
+      "text": "canon"
+    },
+    {
+      "start_time": "00:11:53,440",
+      "end_time": "00:11:59,040",
+      "text": "he was already influenced by the evil"
+    },
+    {
+      "start_time": "00:11:56,720",
+      "end_time": "00:11:59,760",
+      "text": "of fox glove manor when he was in"
+    },
+    {
+      "start_time": "00:11:59,040",
+      "end_time": "00:12:02,639",
+      "text": "standpoint"
+    },
+    {
+      "start_time": "00:11:59,760",
+      "end_time": "00:12:03,440",
+      "text": "so in that situation i would have him"
+    },
+    {
+      "start_time": "00:12:02,639",
+      "end_time": "00:12:07,040",
+      "text": "rise"
+    },
+    {
+      "start_time": "00:12:03,440",
+      "end_time": "00:12:09,360",
+      "text": "from his death oh as undead as a ghoul"
+    },
+    {
+      "start_time": "00:12:07,040",
+      "end_time": "00:12:10,399",
+      "text": "but instead of being like obsessed with"
+    },
+    {
+      "start_time": "00:12:09,360",
+      "end_time": "00:12:12,079",
+      "text": "you know say"
+    },
+    {
+      "start_time": "00:12:10,399",
+      "end_time": "00:12:13,440",
+      "text": "gore and being like oh he's so good he's"
+    },
+    {
+      "start_time": "00:12:12,079",
+      "end_time": "00:12:16,240",
+      "text": "so perfect he would"
+    },
+    {
+      "start_time": "00:12:13,440",
+      "end_time": "00:12:17,440",
+      "text": "hate the party because they let him die"
+    },
+    {
+      "start_time": "00:12:16,240",
+      "end_time": "00:12:19,920",
+      "text": "and he would view"
+    },
+    {
+      "start_time": "00:12:17,440",
+      "end_time": "00:12:20,720",
+      "text": "that his curse of on death he would"
+    },
+    {
+      "start_time": "00:12:19,920",
+      "end_time": "00:12:23,360",
+      "text": "blame it"
+    },
+    {
+      "start_time": "00:12:20,720",
+      "end_time": "00:12:24,320",
+      "text": "on the party okay and would seek extra"
+    },
+    {
+      "start_time": "00:12:23,360",
+      "end_time": "00:12:26,000",
+      "text": "revenge"
+    },
+    {
+      "start_time": "00:12:24,320",
+      "end_time": "00:12:27,760",
+      "text": "and so maybe even that's a sense of"
+    },
+    {
+      "start_time": "00:12:26,000",
+      "end_time": "00:12:29,760",
+      "text": "railroading within"
+    },
+    {
+      "start_time": "00:12:27,760",
+      "end_time": "00:12:30,800",
+      "text": "something flexible yeah that's the"
+    },
+    {
+      "start_time": "00:12:29,760",
+      "end_time": "00:12:33,279",
+      "text": "sandbox railroad"
+    },
+    {
+      "start_time": "00:12:30,800",
+      "end_time": "00:12:34,480",
+      "text": "that's a sandbox exactly that was a good"
+    },
+    {
+      "start_time": "00:12:33,279",
+      "end_time": "00:12:36,399",
+      "text": "question you're still going towards the"
+    },
+    {
+      "start_time": "00:12:34,480",
+      "end_time": "00:12:37,440",
+      "text": "main theme of the story but that's only"
+    },
+    {
+      "start_time": "00:12:36,399",
+      "end_time": "00:12:39,519",
+      "text": "because"
+    },
+    {
+      "start_time": "00:12:37,440",
+      "end_time": "00:12:41,120",
+      "text": "i want to be able because i'm time"
+    },
+    {
+      "start_time": "00:12:39,519",
+      "end_time": "00:12:44,000",
+      "text": "crunched and i'm being a bit"
+    },
+    {
+      "start_time": "00:12:41,120",
+      "end_time": "00:12:44,639",
+      "text": "lazy and i want to use this adventure"
+    },
+    {
+      "start_time": "00:12:44,000",
+      "end_time": "00:12:46,079",
+      "text": "okay and"
+    },
+    {
+      "start_time": "00:12:44,639",
+      "end_time": "00:12:49,200",
+      "text": "we want to play it yeah and for people"
+    },
+    {
+      "start_time": "00:12:46,079",
+      "end_time": "00:12:51,440",
+      "text": "at home it it's a familiar touch point"
+    },
+    {
+      "start_time": "00:12:49,200",
+      "end_time": "00:12:52,639",
+      "text": "right for our channel for our viewers"
+    },
+    {
+      "start_time": "00:12:51,440",
+      "end_time": "00:12:53,839",
+      "text": "some people have run rise of the"
+    },
+    {
+      "start_time": "00:12:52,639",
+      "end_time": "00:12:55,680",
+      "text": "runelords they know what it is it"
+    },
+    {
+      "start_time": "00:12:53,839",
+      "end_time": "00:12:57,519",
+      "text": "provides a very familiar touchstone"
+    },
+    {
+      "start_time": "00:12:55,680",
+      "end_time": "00:12:59,760",
+      "text": "so there's a lot of advantages both for"
+    },
+    {
+      "start_time": "00:12:57,519",
+      "end_time": "00:13:01,519",
+      "text": "you all at home and also for me"
+    },
+    {
+      "start_time": "00:12:59,760",
+      "end_time": "00:13:04,079",
+      "text": "to be running rise of the rune lords if"
+    },
+    {
+      "start_time": "00:13:01,519",
+      "end_time": "00:13:06,639",
+      "text": "i let it completely go off the rails"
+    },
+    {
+      "start_time": "00:13:04,079",
+      "end_time": "00:13:07,760",
+      "text": "then the value of that book of that"
+    },
+    {
+      "start_time": "00:13:06,639",
+      "end_time": "00:13:10,160",
+      "text": "adventure path"
+    },
+    {
+      "start_time": "00:13:07,760",
+      "end_time": "00:13:12,079",
+      "text": "becomes fairly limited so i do have a"
+    },
+    {
+      "start_time": "00:13:10,160",
+      "end_time": "00:13:12,959",
+      "text": "strong incentive to try to keep the plot"
+    },
+    {
+      "start_time": "00:13:12,079",
+      "end_time": "00:13:16,000",
+      "text": "points going"
+    },
+    {
+      "start_time": "00:13:12,959",
+      "end_time": "00:13:17,920",
+      "text": "which part of me hates i know"
+    },
+    {
+      "start_time": "00:13:16,000",
+      "end_time": "00:13:19,040",
+      "text": "i know you do i just was wondering okay"
+    },
+    {
+      "start_time": "00:13:17,920",
+      "end_time": "00:13:22,639",
+      "text": "because i would much"
+    },
+    {
+      "start_time": "00:13:19,040",
+      "end_time": "00:13:23,839",
+      "text": "rather come to a session and have no"
+    },
+    {
+      "start_time": "00:13:22,639",
+      "end_time": "00:13:25,680",
+      "text": "idea"
+    },
+    {
+      "start_time": "00:13:23,839",
+      "end_time": "00:13:27,360",
+      "text": "what was gonna happen maybe one day"
+    },
+    {
+      "start_time": "00:13:25,680",
+      "end_time": "00:13:29,440",
+      "text": "because why do i"
+    },
+    {
+      "start_time": "00:13:27,360",
+      "end_time": "00:13:30,560",
+      "text": "as the dungeon master why does everyone"
+    },
+    {
+      "start_time": "00:13:29,440",
+      "end_time": "00:13:32,720",
+      "text": "else get to have fun"
+    },
+    {
+      "start_time": "00:13:30,560",
+      "end_time": "00:13:34,160",
+      "text": "and be surprised by what happens but you"
+    },
+    {
+      "start_time": "00:13:32,720",
+      "end_time": "00:13:36,959",
+      "text": "know but i don't worry"
+    },
+    {
+      "start_time": "00:13:34,160",
+      "end_time": "00:13:39,040",
+      "text": "that's boring well look if we get enough"
+    },
+    {
+      "start_time": "00:13:36,959",
+      "end_time": "00:13:41,279",
+      "text": "likes and subscriptions and patrons"
+    },
+    {
+      "start_time": "00:13:39,040",
+      "end_time": "00:13:43,040",
+      "text": "we will run some kind of crazy off the"
+    },
+    {
+      "start_time": "00:13:41,279",
+      "end_time": "00:13:44,160",
+      "text": "rails yeah maybe i mean again"
+    },
+    {
+      "start_time": "00:13:43,040",
+      "end_time": "00:13:45,680",
+      "text": "one of the things uh you know if you"
+    },
+    {
+      "start_time": "00:13:44,160",
+      "end_time": "00:13:46,959",
+      "text": "haven't seen we do have a patreon now"
+    },
+    {
+      "start_time": "00:13:45,680",
+      "end_time": "00:13:47,680",
+      "text": "we're trying to take the channel more"
+    },
+    {
+      "start_time": "00:13:46,959",
+      "end_time": "00:13:48,480",
+      "text": "seriously"
+    },
+    {
+      "start_time": "00:13:47,680",
+      "end_time": "00:13:50,880",
+      "text": "one of the things that we want to be"
+    },
+    {
+      "start_time": "00:13:48,480",
+      "end_time": "00:13:51,519",
+      "text": "able to do is eventually get enough you"
+    },
+    {
+      "start_time": "00:13:50,880",
+      "end_time": "00:13:53,360",
+      "text": "know uh"
+    },
+    {
+      "start_time": "00:13:51,519",
+      "end_time": "00:13:55,120",
+      "text": "viewers and enough money coming maybe in"
+    },
+    {
+      "start_time": "00:13:53,360",
+      "end_time": "00:13:57,199",
+      "text": "from you know all the other sources"
+    },
+    {
+      "start_time": "00:13:55,120",
+      "end_time": "00:13:58,639",
+      "text": "uh to try to do this more regularly and"
+    },
+    {
+      "start_time": "00:13:57,199",
+      "end_time": "00:14:00,959",
+      "text": "take it a bit more seriously but"
+    },
+    {
+      "start_time": "00:13:58,639",
+      "end_time": "00:14:02,880",
+      "text": "i have sandbox yeah oh live sandbags"
+    },
+    {
+      "start_time": "00:14:00,959",
+      "end_time": "00:14:04,320",
+      "text": "with some with some with some patrons"
+    },
+    {
+      "start_time": "00:14:02,880",
+      "end_time": "00:14:06,560",
+      "text": "telling us like what yeah some of their"
+    },
+    {
+      "start_time": "00:14:04,320",
+      "end_time": "00:14:08,079",
+      "text": "input"
+    },
+    {
+      "start_time": "00:14:06,560",
+      "end_time": "00:14:09,839",
+      "text": "you know like the reason i play role"
+    },
+    {
+      "start_time": "00:14:08,079",
+      "end_time": "00:14:11,839",
+      "text": "playing games is because i want to make"
+    },
+    {
+      "start_time": "00:14:09,839",
+      "end_time": "00:14:13,440",
+      "text": "interesting decisions or i want to make"
+    },
+    {
+      "start_time": "00:14:11,839",
+      "end_time": "00:14:15,120",
+      "text": "stupid decisions"
+    },
+    {
+      "start_time": "00:14:13,440",
+      "end_time": "00:14:16,160",
+      "text": "that i would never make in real life"
+    },
+    {
+      "start_time": "00:14:15,120",
+      "end_time": "00:14:17,600",
+      "text": "right and not have to pay the"
+    },
+    {
+      "start_time": "00:14:16,160",
+      "end_time": "00:14:19,279",
+      "text": "consequences for it absolutely"
+    },
+    {
+      "start_time": "00:14:17,600",
+      "end_time": "00:14:20,639",
+      "text": "you know i like playing it because i"
+    },
+    {
+      "start_time": "00:14:19,279",
+      "end_time": "00:14:21,120",
+      "text": "don't know what's going to happen but"
+    },
+    {
+      "start_time": "00:14:20,639",
+      "end_time": "00:14:22,320",
+      "text": "but that's"
+    },
+    {
+      "start_time": "00:14:21,120",
+      "end_time": "00:14:25,199",
+      "text": "the point you know getting back to our"
+    },
+    {
+      "start_time": "00:14:22,320",
+      "end_time": "00:14:26,800",
+      "text": "fudging video right a sandbox truly"
+    },
+    {
+      "start_time": "00:14:25,199",
+      "end_time": "00:14:29,040",
+      "text": "allows you to"
+    },
+    {
+      "start_time": "00:14:26,800",
+      "end_time": "00:14:30,800",
+      "text": "do whatever do whatever i know but i'm"
+    },
+    {
+      "start_time": "00:14:29,040",
+      "end_time": "00:14:31,760",
+      "text": "not even i'm a little scared of it even"
+    },
+    {
+      "start_time": "00:14:30,800",
+      "end_time": "00:14:33,360",
+      "text": "if that whatever is"
+    },
+    {
+      "start_time": "00:14:31,760",
+      "end_time": "00:14:34,959",
+      "text": "is two and a half hours of role-playing"
+    },
+    {
+      "start_time": "00:14:33,360",
+      "end_time": "00:14:36,639",
+      "text": "purchasing i just i just don't know if i"
+    },
+    {
+      "start_time": "00:14:34,959",
+      "end_time": "00:14:37,680",
+      "text": "have enough gm experience yes and let's"
+    },
+    {
+      "start_time": "00:14:36,639",
+      "end_time": "00:14:39,040",
+      "text": "run it that way and that's what i'm"
+    },
+    {
+      "start_time": "00:14:37,680",
+      "end_time": "00:14:40,399",
+      "text": "saying it goes back to i think that as"
+    },
+    {
+      "start_time": "00:14:39,040",
+      "end_time": "00:14:42,399",
+      "text": "long as your players"
+    },
+    {
+      "start_time": "00:14:40,399",
+      "end_time": "00:14:44,000",
+      "text": "are well experienced and uh specifically"
+    },
+    {
+      "start_time": "00:14:42,399",
+      "end_time": "00:14:45,920",
+      "text": "the difference i worry that i"
+    },
+    {
+      "start_time": "00:14:44,000",
+      "end_time": "00:14:47,199",
+      "text": "worry though that that playing with"
+    },
+    {
+      "start_time": "00:14:45,920",
+      "end_time": "00:14:48,399",
+      "text": "adventure paths is like playing with"
+    },
+    {
+      "start_time": "00:14:47,199",
+      "end_time": "00:14:50,079",
+      "text": "training wheels"
+    },
+    {
+      "start_time": "00:14:48,399",
+      "end_time": "00:14:51,680",
+      "text": "and if you never take them off it"
+    },
+    {
+      "start_time": "00:14:50,079",
+      "end_time": "00:14:52,959",
+      "text": "doesn't teach you how to ride the bike"
+    },
+    {
+      "start_time": "00:14:51,680",
+      "end_time": "00:14:54,880",
+      "text": "you got to ride the bike without the"
+    },
+    {
+      "start_time": "00:14:52,959",
+      "end_time": "00:14:57,199",
+      "text": "training wheels to learn how"
+    },
+    {
+      "start_time": "00:14:54,880",
+      "end_time": "00:14:58,800",
+      "text": "to dm better and if you are just"
+    },
+    {
+      "start_time": "00:14:57,199",
+      "end_time": "00:15:00,160",
+      "text": "following the adventure path and just"
+    },
+    {
+      "start_time": "00:14:58,800",
+      "end_time": "00:15:02,880",
+      "text": "flipping the pages"
+    },
+    {
+      "start_time": "00:15:00,160",
+      "end_time": "00:15:03,839",
+      "text": "and the party is basically just going"
+    },
+    {
+      "start_time": "00:15:02,880",
+      "end_time": "00:15:05,920",
+      "text": "from a to b"
+    },
+    {
+      "start_time": "00:15:03,839",
+      "end_time": "00:15:07,760",
+      "text": "to c to d from page five to six to seven"
+    },
+    {
+      "start_time": "00:15:05,920",
+      "end_time": "00:15:10,399",
+      "text": "to eight you will never grow and develop"
+    },
+    {
+      "start_time": "00:15:07,760",
+      "end_time": "00:15:11,680",
+      "text": "your players will never grow and develop"
+    },
+    {
+      "start_time": "00:15:10,399",
+      "end_time": "00:15:13,279",
+      "text": "you know big part of dungeons and"
+    },
+    {
+      "start_time": "00:15:11,680",
+      "end_time": "00:15:15,519",
+      "text": "dragons the enjoyment of it is"
+    },
+    {
+      "start_time": "00:15:13,279",
+      "end_time": "00:15:16,800",
+      "text": "not just the role playing and the the"
+    },
+    {
+      "start_time": "00:15:15,519",
+      "end_time": "00:15:17,839",
+      "text": "luck and the gambling but that's that"
+    },
+    {
+      "start_time": "00:15:16,800",
+      "end_time": "00:15:21,440",
+      "text": "sort of um"
+    },
+    {
+      "start_time": "00:15:17,839",
+      "end_time": "00:15:21,920",
+      "text": "what's the word uh uh outside the box"
+    },
+    {
+      "start_time": "00:15:21,440",
+      "end_time": "00:15:24,160",
+      "text": "thinking"
+    },
+    {
+      "start_time": "00:15:21,920",
+      "end_time": "00:15:26,079",
+      "text": "creative problem solving using your"
+    },
+    {
+      "start_time": "00:15:24,160",
+      "end_time": "00:15:27,120",
+      "text": "character's skills and abilities that"
+    },
+    {
+      "start_time": "00:15:26,079",
+      "end_time": "00:15:28,720",
+      "text": "are you know very different from"
+    },
+    {
+      "start_time": "00:15:27,120",
+      "end_time": "00:15:30,399",
+      "text": "character to character to come up with"
+    },
+    {
+      "start_time": "00:15:28,720",
+      "end_time": "00:15:32,560",
+      "text": "crazy and innovative solutions"
+    },
+    {
+      "start_time": "00:15:30,399",
+      "end_time": "00:15:33,920",
+      "text": "to otherwise intractable problems uh"
+    },
+    {
+      "start_time": "00:15:32,560",
+      "end_time": "00:15:36,399",
+      "text": "professor dungeon master"
+    },
+    {
+      "start_time": "00:15:33,920",
+      "end_time": "00:15:38,399",
+      "text": "who again i do like his channel recently"
+    },
+    {
+      "start_time": "00:15:36,399",
+      "end_time": "00:15:41,839",
+      "text": "did a video where he talked about like i"
+    },
+    {
+      "start_time": "00:15:38,399",
+      "end_time": "00:15:44,959",
+      "text": "am not an adventure writer okay"
+    },
+    {
+      "start_time": "00:15:41,839",
+      "end_time": "00:15:47,040",
+      "text": "i i i create problems"
+    },
+    {
+      "start_time": "00:15:44,959",
+      "end_time": "00:15:49,680",
+      "text": "okay i don't even necessarily need to"
+    },
+    {
+      "start_time": "00:15:47,040",
+      "end_time": "00:15:50,800",
+      "text": "know what the solution is"
+    },
+    {
+      "start_time": "00:15:49,680",
+      "end_time": "00:15:53,040",
+      "text": "right you guys are going to figure it"
+    },
+    {
+      "start_time": "00:15:50,800",
+      "end_time": "00:15:55,120",
+      "text": "out i make a problem"
+    },
+    {
+      "start_time": "00:15:53,040",
+      "end_time": "00:15:56,160",
+      "text": "and it's them to figure out all right"
+    },
+    {
+      "start_time": "00:15:55,120",
+      "end_time": "00:15:57,440",
+      "text": "and it's them just"
+    },
+    {
+      "start_time": "00:15:56,160",
+      "end_time": "00:15:59,199",
+      "text": "something if they create a problem"
+    },
+    {
+      "start_time": "00:15:57,440",
+      "end_time": "00:16:02,079",
+      "text": "that's too big"
+    },
+    {
+      "start_time": "00:15:59,199",
+      "end_time": "00:16:03,440",
+      "text": "for them to handle tpk well or maybe or"
+    },
+    {
+      "start_time": "00:16:02,079",
+      "end_time": "00:16:04,560",
+      "text": "or maybe they have fail or maybe they"
+    },
+    {
+      "start_time": "00:16:03,440",
+      "end_time": "00:16:08,079",
+      "text": "have to leave town"
+    },
+    {
+      "start_time": "00:16:04,560",
+      "end_time": "00:16:09,440",
+      "text": "high tail it out of there because uh"
+    },
+    {
+      "start_time": "00:16:08,079",
+      "end_time": "00:16:11,920",
+      "text": "you know you're wanted men or whatever"
+    },
+    {
+      "start_time": "00:16:09,440",
+      "end_time": "00:16:13,279",
+      "text": "so the implications and i think what"
+    },
+    {
+      "start_time": "00:16:11,920",
+      "end_time": "00:16:14,639",
+      "text": "ends up happening is you are completely"
+    },
+    {
+      "start_time": "00:16:13,279",
+      "end_time": "00:16:16,800",
+      "text": "correct which is this"
+    },
+    {
+      "start_time": "00:16:14,639",
+      "end_time": "00:16:17,839",
+      "text": "i think that from and and and maybe this"
+    },
+    {
+      "start_time": "00:16:16,800",
+      "end_time": "00:16:19,920",
+      "text": "is true"
+    },
+    {
+      "start_time": "00:16:17,839",
+      "end_time": "00:16:21,680",
+      "text": "for our viewer audience at home if"
+    },
+    {
+      "start_time": "00:16:19,920",
+      "end_time": "00:16:24,320",
+      "text": "you're following along with our ap"
+    },
+    {
+      "start_time": "00:16:21,680",
+      "end_time": "00:16:25,360",
+      "text": "of rise of the root lords i do think"
+    },
+    {
+      "start_time": "00:16:24,320",
+      "end_time": "00:16:29,120",
+      "text": "that"
+    },
+    {
+      "start_time": "00:16:25,360",
+      "end_time": "00:16:29,680",
+      "text": "a truly home brewed sandbox game where"
+    },
+    {
+      "start_time": "00:16:29,120",
+      "end_time": "00:16:31,759",
+      "text": "you"
+    },
+    {
+      "start_time": "00:16:29,680",
+      "end_time": "00:16:32,959",
+      "text": "create your fun fantasy world and the"
+    },
+    {
+      "start_time": "00:16:31,759",
+      "end_time": "00:16:34,560",
+      "text": "players get to inhabit it"
+    },
+    {
+      "start_time": "00:16:32,959",
+      "end_time": "00:16:36,399",
+      "text": "and they get to like do whatever they"
+    },
+    {
+      "start_time": "00:16:34,560",
+      "end_time": "00:16:38,160",
+      "text": "want and come up with crazy schemes and"
+    },
+    {
+      "start_time": "00:16:36,399",
+      "end_time": "00:16:40,160",
+      "text": "go into this and do this and then oh"
+    },
+    {
+      "start_time": "00:16:38,160",
+      "end_time": "00:16:42,240",
+      "text": "the the order of the black lotus now"
+    },
+    {
+      "start_time": "00:16:40,160",
+      "end_time": "00:16:43,759",
+      "text": "they want us and they are attacking us"
+    },
+    {
+      "start_time": "00:16:42,240",
+      "end_time": "00:16:45,040",
+      "text": "and assassins attacked us at night and"
+    },
+    {
+      "start_time": "00:16:43,759",
+      "end_time": "00:16:47,040",
+      "text": "we had to flee the city"
+    },
+    {
+      "start_time": "00:16:45,040",
+      "end_time": "00:16:48,880",
+      "text": "and then oops accidentally we burned"
+    },
+    {
+      "start_time": "00:16:47,040",
+      "end_time": "00:16:50,639",
+      "text": "down the you know the the guard house so"
+    },
+    {
+      "start_time": "00:16:48,880",
+      "end_time": "00:16:51,839",
+      "text": "now the king wants our heads so now we"
+    },
+    {
+      "start_time": "00:16:50,639",
+      "end_time": "00:16:53,600",
+      "text": "have to go into hiding we ended up with"
+    },
+    {
+      "start_time": "00:16:51,839",
+      "end_time": "00:16:55,040",
+      "text": "the elven refugees i had to marry the"
+    },
+    {
+      "start_time": "00:16:53,600",
+      "end_time": "00:16:56,880",
+      "text": "princess in order to make a p"
+    },
+    {
+      "start_time": "00:16:55,040",
+      "end_time": "00:16:58,560",
+      "text": "right and you end up with this crazy"
+    },
+    {
+      "start_time": "00:16:56,880",
+      "end_time": "00:16:58,800",
+      "text": "story that's like how you made all that"
+    },
+    {
+      "start_time": "00:16:58,560",
+      "end_time": "00:17:00,959",
+      "text": "up"
+    },
+    {
+      "start_time": "00:16:58,800",
+      "end_time": "00:17:02,079",
+      "text": "okay it's fantastic you end up with this"
+    },
+    {
+      "start_time": "00:17:00,959",
+      "end_time": "00:17:04,799",
+      "text": "crazy story that"
+    },
+    {
+      "start_time": "00:17:02,079",
+      "end_time": "00:17:05,439",
+      "text": "i would have never written no okay but"
+    },
+    {
+      "start_time": "00:17:04,799",
+      "end_time": "00:17:08,000",
+      "text": "it's basically"
+    },
+    {
+      "start_time": "00:17:05,439",
+      "end_time": "00:17:09,280",
+      "text": "okay but here's the key yeah and we're"
+    },
+    {
+      "start_time": "00:17:08,000",
+      "end_time": "00:17:09,839",
+      "text": "making it up but i promise you it's"
+    },
+    {
+      "start_time": "00:17:09,280",
+      "end_time": "00:17:12,959",
+      "text": "gonna be"
+    },
+    {
+      "start_time": "00:17:09,839",
+      "end_time": "00:17:14,559",
+      "text": "way more awkward and not as cool as"
+    },
+    {
+      "start_time": "00:17:12,959",
+      "end_time": "00:17:17,280",
+      "text": "you're playing it as someone that"
+    },
+    {
+      "start_time": "00:17:14,559",
+      "end_time": "00:17:18,480",
+      "text": "carefully sat down and like a novelist"
+    },
+    {
+      "start_time": "00:17:17,280",
+      "end_time": "00:17:21,039",
+      "text": "wrote out an adventure"
+    },
+    {
+      "start_time": "00:17:18,480",
+      "end_time": "00:17:22,400",
+      "text": "so yes from a from an outsider viewpoint"
+    },
+    {
+      "start_time": "00:17:21,039",
+      "end_time": "00:17:24,079",
+      "text": "like one of our viewers"
+    },
+    {
+      "start_time": "00:17:22,400",
+      "end_time": "00:17:26,000",
+      "text": "or if you're just telling the story to"
+    },
+    {
+      "start_time": "00:17:24,079",
+      "end_time": "00:17:27,600",
+      "text": "somebody you'll be like"
+    },
+    {
+      "start_time": "00:17:26,000",
+      "end_time": "00:17:30,000",
+      "text": "i don't know that pre-written adventure"
+    },
+    {
+      "start_time": "00:17:27,600",
+      "end_time": "00:17:32,480",
+      "text": "with the really carefully sculpted plot"
+    },
+    {
+      "start_time": "00:17:30,000",
+      "end_time": "00:17:34,160",
+      "text": "and really cool motivations sounds a lot"
+    },
+    {
+      "start_time": "00:17:32,480",
+      "end_time": "00:17:34,559",
+      "text": "cooler than what you described when you"
+    },
+    {
+      "start_time": "00:17:34,160",
+      "end_time": "00:17:35,520",
+      "text": "guys were"
+    },
+    {
+      "start_time": "00:17:34,559",
+      "end_time": "00:17:38,400",
+      "text": "messing yeah and i think that's an"
+    },
+    {
+      "start_time": "00:17:35,520",
+      "end_time": "00:17:41,039",
+      "text": "important distinction but but to you"
+    },
+    {
+      "start_time": "00:17:38,400",
+      "end_time": "00:17:42,240",
+      "text": "yeah who play this it's like you know"
+    },
+    {
+      "start_time": "00:17:41,039",
+      "end_time": "00:17:43,600",
+      "text": "it's like it's like your kid"
+    },
+    {
+      "start_time": "00:17:42,240",
+      "end_time": "00:17:46,000",
+      "text": "you know maybe your kid's not the"
+    },
+    {
+      "start_time": "00:17:43,600",
+      "end_time": "00:17:49,120",
+      "text": "prettiest kid but you think they are"
+    },
+    {
+      "start_time": "00:17:46,000",
+      "end_time": "00:17:49,600",
+      "text": "you know to you they are and so and so"
+    },
+    {
+      "start_time": "00:17:49,120",
+      "end_time": "00:17:51,679",
+      "text": "like"
+    },
+    {
+      "start_time": "00:17:49,600",
+      "end_time": "00:17:53,120",
+      "text": "you know the same thing is true with"
+    },
+    {
+      "start_time": "00:17:51,679",
+      "end_time": "00:17:54,320",
+      "text": "your story you're like"
+    },
+    {
+      "start_time": "00:17:53,120",
+      "end_time": "00:17:55,520",
+      "text": "you look at your story and everyone else"
+    },
+    {
+      "start_time": "00:17:54,320",
+      "end_time": "00:17:57,360",
+      "text": "hears it and you're like they're like"
+    },
+    {
+      "start_time": "00:17:55,520",
+      "end_time": "00:17:57,840",
+      "text": "sounds like a bunch of cliched nonsense"
+    },
+    {
+      "start_time": "00:17:57,360",
+      "end_time": "00:17:59,440",
+      "text": "and"
+    },
+    {
+      "start_time": "00:17:57,840",
+      "end_time": "00:18:01,039",
+      "text": "you know kind of sounds awkward and a"
+    },
+    {
+      "start_time": "00:17:59,440",
+      "end_time": "00:18:02,000",
+      "text": "bit clungy and you're like dude it was"
+    },
+    {
+      "start_time": "00:18:01,039",
+      "end_time": "00:18:04,320",
+      "text": "so awesome"
+    },
+    {
+      "start_time": "00:18:02,000",
+      "end_time": "00:18:05,360",
+      "text": "because it was my story to be there it"
+    },
+    {
+      "start_time": "00:18:04,320",
+      "end_time": "00:18:07,919",
+      "text": "was you had"
+    },
+    {
+      "start_time": "00:18:05,360",
+      "end_time": "00:18:08,960",
+      "text": "to be there it was out it maybe wasn't a"
+    },
+    {
+      "start_time": "00:18:07,919",
+      "end_time": "00:18:11,760",
+      "text": "good story"
+    },
+    {
+      "start_time": "00:18:08,960",
+      "end_time": "00:18:13,200",
+      "text": "but it was our story i like it and i"
+    },
+    {
+      "start_time": "00:18:11,760",
+      "end_time": "00:18:15,679",
+      "text": "know that there's i want to do"
+    },
+    {
+      "start_time": "00:18:13,200",
+      "end_time": "00:18:16,880",
+      "text": "there's no other table out there that"
+    },
+    {
+      "start_time": "00:18:15,679",
+      "end_time": "00:18:19,600",
+      "text": "told that story"
+    },
+    {
+      "start_time": "00:18:16,880",
+      "end_time": "00:18:20,640",
+      "text": "that is mine that is uniquely mine"
+    },
+    {
+      "start_time": "00:18:19,600",
+      "end_time": "00:18:23,120",
+      "text": "absolutely"
+    },
+    {
+      "start_time": "00:18:20,640",
+      "end_time": "00:18:23,919",
+      "text": "and i felt truly empowered that my"
+    },
+    {
+      "start_time": "00:18:23,120",
+      "end_time": "00:18:26,960",
+      "text": "decisions"
+    },
+    {
+      "start_time": "00:18:23,919",
+      "end_time": "00:18:28,720",
+      "text": "were going to have huge impacts yeah"
+    },
+    {
+      "start_time": "00:18:26,960",
+      "end_time": "00:18:30,400",
+      "text": "maybe from a third party perspective the"
+    },
+    {
+      "start_time": "00:18:28,720",
+      "end_time": "00:18:32,080",
+      "text": "story wasn't the most"
+    },
+    {
+      "start_time": "00:18:30,400",
+      "end_time": "00:18:33,120",
+      "text": "there weren't a lot of kirkjeff's guns"
+    },
+    {
+      "start_time": "00:18:32,080",
+      "end_time": "00:18:33,679",
+      "text": "or whatever like they weren't a lot of"
+    },
+    {
+      "start_time": "00:18:33,120",
+      "end_time": "00:18:35,120",
+      "text": "like"
+    },
+    {
+      "start_time": "00:18:33,679",
+      "end_time": "00:18:36,640",
+      "text": "foreshadowing right it's very hard to"
+    },
+    {
+      "start_time": "00:18:35,120",
+      "end_time": "00:18:37,760",
+      "text": "for it's very hard to foreshadow because"
+    },
+    {
+      "start_time": "00:18:36,640",
+      "end_time": "00:18:39,760",
+      "text": "i don't know what you're gonna do"
+    },
+    {
+      "start_time": "00:18:37,760",
+      "end_time": "00:18:41,760",
+      "text": "right yeah so you're right that's a"
+    },
+    {
+      "start_time": "00:18:39,760",
+      "end_time": "00:18:43,120",
+      "text": "foreshadowing is a great example of that"
+    },
+    {
+      "start_time": "00:18:41,760",
+      "end_time": "00:18:44,880",
+      "text": "whereas in rise of the rune lords"
+    },
+    {
+      "start_time": "00:18:43,120",
+      "end_time": "00:18:46,799",
+      "text": "there's great examples of foreshadowing"
+    },
+    {
+      "start_time": "00:18:44,880",
+      "end_time": "00:18:47,840",
+      "text": "all throughout it you know because you"
+    },
+    {
+      "start_time": "00:18:46,799",
+      "end_time": "00:18:49,120",
+      "text": "already know where you want to go"
+    },
+    {
+      "start_time": "00:18:47,840",
+      "end_time": "00:18:51,440",
+      "text": "because i know where we're going to be"
+    },
+    {
+      "start_time": "00:18:49,120",
+      "end_time": "00:18:52,480",
+      "text": "so i know to drop hints but could you as"
+    },
+    {
+      "start_time": "00:18:51,440",
+      "end_time": "00:18:55,120",
+      "text": "a great uh"
+    },
+    {
+      "start_time": "00:18:52,480",
+      "end_time": "00:18:56,000",
+      "text": "dm like bring back that thing that got"
+    },
+    {
+      "start_time": "00:18:55,120",
+      "end_time": "00:18:57,919",
+      "text": "away"
+    },
+    {
+      "start_time": "00:18:56,000",
+      "end_time": "00:18:59,280",
+      "text": "you could but again only if it made"
+    },
+    {
+      "start_time": "00:18:57,919",
+      "end_time": "00:19:00,559",
+      "text": "sense in the story okay the difference"
+    },
+    {
+      "start_time": "00:18:59,280",
+      "end_time": "00:19:02,240",
+      "text": "is i don't have any skin in the game"
+    },
+    {
+      "start_time": "00:19:00,559",
+      "end_time": "00:19:04,799",
+      "text": "and if you're very if if the villain"
+    },
+    {
+      "start_time": "00:19:02,240",
+      "end_time": "00:19:07,120",
+      "text": "gets away legitimately"
+    },
+    {
+      "start_time": "00:19:04,799",
+      "end_time": "00:19:09,039",
+      "text": "then yeah yeah maybe she does come back"
+    },
+    {
+      "start_time": "00:19:07,120",
+      "end_time": "00:19:11,520",
+      "text": "to be a thorn in your side because"
+    },
+    {
+      "start_time": "00:19:09,039",
+      "end_time": "00:19:12,559",
+      "text": "she got away legitimately or maybe you"
+    },
+    {
+      "start_time": "00:19:11,520",
+      "end_time": "00:19:13,840",
+      "text": "spend three hero points"
+    },
+    {
+      "start_time": "00:19:12,559",
+      "end_time": "00:19:16,000",
+      "text": "and you kill her in the first round of"
+    },
+    {
+      "start_time": "00:19:13,840",
+      "end_time": "00:19:16,480",
+      "text": "combat in which case i go yeah she's"
+    },
+    {
+      "start_time": "00:19:16,000",
+      "end_time": "00:19:19,360",
+      "text": "dead"
+    },
+    {
+      "start_time": "00:19:16,480",
+      "end_time": "00:19:20,880",
+      "text": "no she's not coming back but either way"
+    },
+    {
+      "start_time": "00:19:19,360",
+      "end_time": "00:19:23,360",
+      "text": "i don't have to sit there and go"
+    },
+    {
+      "start_time": "00:19:20,880",
+      "end_time": "00:19:24,080",
+      "text": "oh no but i know she's coming back yeah"
+    },
+    {
+      "start_time": "00:19:23,360",
+      "end_time": "00:19:27,520",
+      "text": "so now i have to"
+    },
+    {
+      "start_time": "00:19:24,080",
+      "end_time": "00:19:29,919",
+      "text": "bob just spent three hero points so"
+    },
+    {
+      "start_time": "00:19:27,520",
+      "end_time": "00:19:31,679",
+      "text": "how do i how do i make her come back"
+    },
+    {
+      "start_time": "00:19:29,919",
+      "end_time": "00:19:33,520",
+      "text": "right because i know she has to"
+    },
+    {
+      "start_time": "00:19:31,679",
+      "end_time": "00:19:35,600",
+      "text": "but in a sandbox game i don't care she"
+    },
+    {
+      "start_time": "00:19:33,520",
+      "end_time": "00:19:38,240",
+      "text": "spent four villain points you killed her"
+    },
+    {
+      "start_time": "00:19:35,600",
+      "end_time": "00:19:39,840",
+      "text": "so to recap i probably won't be"
+    },
+    {
+      "start_time": "00:19:38,240",
+      "end_time": "00:19:42,400",
+      "text": "sandboxing anytime soon but i"
+    },
+    {
+      "start_time": "00:19:39,840",
+      "end_time": "00:19:43,600",
+      "text": "i want to like i really do want to but"
+    },
+    {
+      "start_time": "00:19:42,400",
+      "end_time": "00:19:45,760",
+      "text": "i'm going to run i think i'm running"
+    },
+    {
+      "start_time": "00:19:43,600",
+      "end_time": "00:19:47,600",
+      "text": "agent ashes right now"
+    },
+    {
+      "start_time": "00:19:45,760",
+      "end_time": "00:19:49,360",
+      "text": "or maybe other things but i'm probably"
+    },
+    {
+      "start_time": "00:19:47,600",
+      "end_time": "00:19:51,200",
+      "text": "going to stick pretty close to the ap"
+    },
+    {
+      "start_time": "00:19:49,360",
+      "end_time": "00:19:52,480",
+      "text": "i'm a little nervous to i need i need a"
+    },
+    {
+      "start_time": "00:19:51,200",
+      "end_time": "00:19:53,679",
+      "text": "little more experience give me give me a"
+    },
+    {
+      "start_time": "00:19:52,480",
+      "end_time": "00:19:55,200",
+      "text": "little bit more on the training wheels"
+    },
+    {
+      "start_time": "00:19:53,679",
+      "end_time": "00:19:56,160",
+      "text": "and then i want to i really would like"
+    },
+    {
+      "start_time": "00:19:55,200",
+      "end_time": "00:19:57,679",
+      "text": "to jump on this"
+    },
+    {
+      "start_time": "00:19:56,160",
+      "end_time": "00:19:59,280",
+      "text": "i mean you know i can ask you i mean"
+    },
+    {
+      "start_time": "00:19:57,679",
+      "end_time": "00:20:00,799",
+      "text": "you've played sort of these some of"
+    },
+    {
+      "start_time": "00:19:59,280",
+      "end_time": "00:20:02,400",
+      "text": "these structured adventures but you've"
+    },
+    {
+      "start_time": "00:20:00,799",
+      "end_time": "00:20:05,440",
+      "text": "also played plenty of games with me"
+    },
+    {
+      "start_time": "00:20:02,400",
+      "end_time": "00:20:06,480",
+      "text": "uh like our 13th age game uh our blades"
+    },
+    {
+      "start_time": "00:20:05,440",
+      "end_time": "00:20:10,080",
+      "text": "in the dark game"
+    },
+    {
+      "start_time": "00:20:06,480",
+      "end_time": "00:20:11,840",
+      "text": "where there was no plot"
+    },
+    {
+      "start_time": "00:20:10,080",
+      "end_time": "00:20:13,520",
+      "text": "yeah i mean me personally as a player i"
+    },
+    {
+      "start_time": "00:20:11,840",
+      "end_time": "00:20:15,360",
+      "text": "struggle with those games"
+    },
+    {
+      "start_time": "00:20:13,520",
+      "end_time": "00:20:17,440",
+      "text": "more so than i do here because i have"
+    },
+    {
+      "start_time": "00:20:15,360",
+      "end_time": "00:20:19,200",
+      "text": "trouble figuring more so here meaning"
+    },
+    {
+      "start_time": "00:20:17,440",
+      "end_time": "00:20:20,480",
+      "text": "than pathfinder with a within the riser"
+    },
+    {
+      "start_time": "00:20:19,200",
+      "end_time": "00:20:23,360",
+      "text": "with the rise of the roof yeah"
+    },
+    {
+      "start_time": "00:20:20,480",
+      "end_time": "00:20:24,559",
+      "text": "because i i struggle with like what do i"
+    },
+    {
+      "start_time": "00:20:23,360",
+      "end_time": "00:20:26,480",
+      "text": "what am i supposed to do"
+    },
+    {
+      "start_time": "00:20:24,559",
+      "end_time": "00:20:27,679",
+      "text": "like what i i where am i supposed to go"
+    },
+    {
+      "start_time": "00:20:26,480",
+      "end_time": "00:20:28,320",
+      "text": "what am i trying to do so i struggle"
+    },
+    {
+      "start_time": "00:20:27,679",
+      "end_time": "00:20:31,120",
+      "text": "with that"
+    },
+    {
+      "start_time": "00:20:28,320",
+      "end_time": "00:20:32,080",
+      "text": "um but like i said if you have a good"
+    },
+    {
+      "start_time": "00:20:31,120",
+      "end_time": "00:20:34,640",
+      "text": "group of players and"
+    },
+    {
+      "start_time": "00:20:32,080",
+      "end_time": "00:20:36,159",
+      "text": "especially a dm or gm that can help um"
+    },
+    {
+      "start_time": "00:20:34,640",
+      "end_time": "00:20:37,919",
+      "text": "with that sandbox story and really make"
+    },
+    {
+      "start_time": "00:20:36,159",
+      "end_time": "00:20:39,120",
+      "text": "it work i think that's the"
+    },
+    {
+      "start_time": "00:20:37,919",
+      "end_time": "00:20:41,120",
+      "text": "if you can get to that point that's good"
+    },
+    {
+      "start_time": "00:20:39,120",
+      "end_time": "00:20:44,320",
+      "text": "but if you can't yeah i mean"
+    },
+    {
+      "start_time": "00:20:41,120",
+      "end_time": "00:20:46,640",
+      "text": "i could talk for hours bob has seen it"
+    },
+    {
+      "start_time": "00:20:44,320",
+      "end_time": "00:20:48,480",
+      "text": "about adventure pass and the pros and"
+    },
+    {
+      "start_time": "00:20:46,640",
+      "end_time": "00:20:50,159",
+      "text": "the cons and join us in the discord"
+    },
+    {
+      "start_time": "00:20:48,480",
+      "end_time": "00:20:52,320",
+      "text": "and you could talk to derek that's true"
+    },
+    {
+      "start_time": "00:20:50,159",
+      "end_time": "00:20:54,159",
+      "text": "that's true patreon join our discord"
+    },
+    {
+      "start_time": "00:20:52,320",
+      "end_time": "00:20:55,760",
+      "text": "yeah um but you know leave a like and"
+    },
+    {
+      "start_time": "00:20:54,159",
+      "end_time": "00:20:57,120",
+      "text": "comment below uh"
+    },
+    {
+      "start_time": "00:20:55,760",
+      "end_time": "00:20:58,159",
+      "text": "what kind of games do you like to run"
+    },
+    {
+      "start_time": "00:20:57,120",
+      "end_time": "00:20:59,600",
+      "text": "what do you think are some of the pros"
+    },
+    {
+      "start_time": "00:20:58,159",
+      "end_time": "00:21:00,720",
+      "text": "and cons what did we miss what did we"
+    },
+    {
+      "start_time": "00:20:59,600",
+      "end_time": "00:21:02,400",
+      "text": "not talk about"
+    },
+    {
+      "start_time": "00:21:00,720",
+      "end_time": "00:21:03,840",
+      "text": "um i'd love to hear from it and you know"
+    },
+    {
+      "start_time": "00:21:02,400",
+      "end_time": "00:21:06,720",
+      "text": "if you want to see more videos"
+    },
+    {
+      "start_time": "00:21:03,840",
+      "end_time": "00:21:07,919",
+      "text": "of me just going off about sandboxes uh"
+    },
+    {
+      "start_time": "00:21:06,720",
+      "end_time": "00:21:09,760",
+      "text": "just let me know because i will do it"
+    },
+    {
+      "start_time": "00:21:07,919",
+      "end_time": "00:21:10,640",
+      "text": "i'll turn this camera on yeah and i will"
+    },
+    {
+      "start_time": "00:21:09,760",
+      "end_time": "00:21:12,559",
+      "text": "never turn it off"
+    },
+    {
+      "start_time": "00:21:10,640",
+      "end_time": "00:21:14,159",
+      "text": "i will talk for hours and hours yeah i"
+    },
+    {
+      "start_time": "00:21:12,559",
+      "end_time": "00:21:14,559",
+      "text": "want more of the derek just streams and"
+    },
+    {
+      "start_time": "00:21:14,159",
+      "end_time": "00:21:16,480",
+      "text": "says"
+    },
+    {
+      "start_time": "00:21:14,559",
+      "end_time": "00:21:17,919",
+      "text": "stuff for hours i mean just join the"
+    },
+    {
+      "start_time": "00:21:16,480",
+      "end_time": "00:21:18,720",
+      "text": "discord because like you just watched"
+    },
+    {
+      "start_time": "00:21:17,919",
+      "end_time": "00:21:20,159",
+      "text": "derek go off"
+    },
+    {
+      "start_time": "00:21:18,720",
+      "end_time": "00:21:21,840",
+      "text": "yeah i mean every year when we used to"
+    },
+    {
+      "start_time": "00:21:20,159",
+      "end_time": "00:21:22,320",
+      "text": "go to gen con it was like six hour car"
+    },
+    {
+      "start_time": "00:21:21,840",
+      "end_time": "00:21:24,080",
+      "text": "ride"
+    },
+    {
+      "start_time": "00:21:22,320",
+      "end_time": "00:21:25,360",
+      "text": "non-stop talking about gaming so much"
+    },
+    {
+      "start_time": "00:21:24,080",
+      "end_time": "00:21:26,799",
+      "text": "fun get to gen con"
+    },
+    {
+      "start_time": "00:21:25,360",
+      "end_time": "00:21:28,559",
+      "text": "non-stop talking about gaming for four"
+    },
+    {
+      "start_time": "00:21:26,799",
+      "end_time": "00:21:30,320",
+      "text": "days get in the car come home non-stop"
+    },
+    {
+      "start_time": "00:21:28,559",
+      "end_time": "00:21:31,280",
+      "text": "gaming talk about six days and then we"
+    },
+    {
+      "start_time": "00:21:30,320",
+      "end_time": "00:21:32,240",
+      "text": "just"
+    },
+    {
+      "start_time": "00:21:31,280",
+      "end_time": "00:21:34,000",
+      "text": "go back to our regular life and then"
+    },
+    {
+      "start_time": "00:21:32,240",
+      "end_time": "00:21:34,720",
+      "text": "still talk about gaming so you know i"
+    },
+    {
+      "start_time": "00:21:34,000",
+      "end_time": "00:21:36,960",
+      "text": "think"
+    },
+    {
+      "start_time": "00:21:34,720",
+      "end_time": "00:21:37,919",
+      "text": "i think the philosophy of role-playing"
+    },
+    {
+      "start_time": "00:21:36,960",
+      "end_time": "00:21:40,240",
+      "text": "games the"
+    },
+    {
+      "start_time": "00:21:37,919",
+      "end_time": "00:21:41,200",
+      "text": "the meta of role-playing games is just"
+    },
+    {
+      "start_time": "00:21:40,240",
+      "end_time": "00:21:41,919",
+      "text": "as interesting as playing them"
+    },
+    {
+      "start_time": "00:21:41,200",
+      "end_time": "00:21:45,039",
+      "text": "themselves"
+    },
+    {
+      "start_time": "00:21:41,919",
+      "end_time": "00:21:48,080",
+      "text": "how do these systems enable"
+    },
+    {
+      "start_time": "00:21:45,039",
+      "end_time": "00:21:50,880",
+      "text": "us to not only have fun"
+    },
+    {
+      "start_time": "00:21:48,080",
+      "end_time": "00:21:52,000",
+      "text": "but grow and connect with one another"
+    },
+    {
+      "start_time": "00:21:50,880",
+      "end_time": "00:21:54,000",
+      "text": "and experience"
+    },
+    {
+      "start_time": "00:21:52,000",
+      "end_time": "00:21:55,520",
+      "text": "things and change our perceptions i"
+    },
+    {
+      "start_time": "00:21:54,000",
+      "end_time": "00:21:57,120",
+      "text": "think role-playing games are an"
+    },
+    {
+      "start_time": "00:21:55,520",
+      "end_time": "00:21:59,600",
+      "text": "incredibly"
+    },
+    {
+      "start_time": "00:21:57,120",
+      "end_time": "00:22:00,960",
+      "text": "deep and fascinating subject and i think"
+    },
+    {
+      "start_time": "00:21:59,600",
+      "end_time": "00:22:02,559",
+      "text": "it's definitely worthy of future"
+    },
+    {
+      "start_time": "00:22:00,960",
+      "end_time": "00:22:04,640",
+      "text": "discussions so"
+    },
+    {
+      "start_time": "00:22:02,559",
+      "end_time": "00:22:06,159",
+      "text": "thanks for joining us so much let us"
+    },
+    {
+      "start_time": "00:22:04,640",
+      "end_time": "00:22:07,679",
+      "text": "know your thoughts on sandboxes and"
+    },
+    {
+      "start_time": "00:22:06,159",
+      "end_time": "00:22:10,240",
+      "text": "adventure paths below"
+    },
+    {
+      "start_time": "00:22:07,679",
+      "end_time": "00:22:13,840",
+      "text": "and as always welcome to the knights of"
+    },
+    {
+      "start_time": "00:22:10,240",
+      "end_time": "00:22:13,840",
+      "text": "last call"
+    },
+    {
+      "start_time": "00:22:29,200",
+      "end_time": "00:22:31,280",
+      "text": "you"
+    }
+  ],
+  "full_text": "welcome back night nation to another\nepisode\nof nightlife i'm joined here by bob\nnick and matt and today's topic is\nadventure path or sandbox\nwhat are the pros and cons of each which\ndo we prefer and\nyou know what kind of games do you like\nto run and\nwhat are the advantages of each so i\nthought we could start by\ngetting some definitions out of the way\nan adventure path\nsimply put is a series of pre-written\nadventures\nwritten by someone else designed to take\nyour characters usually from the\nlowest level to the highest level or\nmaybe you know a fraction thereof take\nyou from levels 1 to 10\nor 11 to 20. in paizo or pathfinder\nsecond edition\nthese are the adventure paths usually a\nseries of six adventures that take your\ncharacters from level one all the way up\nto level 20.\nand in fifth edition dungeons and\ndragons there have been a large series\nof these produced\nthings like the fury of team at series\nuh what's another one uh this\nthe icewind dale is the brand new one\nicewindale uh\nthere's uh dragon heist there's a bunch\nof different uh\nadventures that are all designed to take\nyour characters on a very very long\nstory and there's sort of a theme that\nties them together like\nit's different seasons of an epic\ntelevision series with villains and plot\npoints that the players\nand the authors of the adventure expect\nthe players to hit along the way\nnow this is contrasted with a sandbox\ngame\nand a sandbox as the name implies is\nsort of an\nopen field with not a lot in it honestly\nbut you can build and shape whatever you\nwant hills rivers\nvalleys how does that apply to\nrole-playing games well simply put it\nmeans\nthat the dungeon master doesn't have an\nexplicit\nplot in mind when they get when their\ngame starts\ninstead they are simply reacting to what\nthe players are doing\nand what they feel would be the natural\nconsequences\nof those players actions so that the\nnpcs or the other movers and shakers of\nthe world\ncan take appropriate actions and it's\nthis sort of back and forth and dance\nthere's no agenda there's no final boss\nit's just sort of\nwhatever happens happens yeah and\nsometimes i feel\nwell except everyone knows at home i'm a\nbrand new gm been jamming for like less\nthan a year and i've only jammed a few\ngames and a lot of it helped\nhelpful by derrick who's been dreaming\nfor 20 plus years\num the adventure pass help\ni get a little intimidated by the\nsandbox not to say that\ni i think the sandbox is the best way to\nplay\nsometimes it just depends on how good\nyou are i think as a g yeah i think\nthat's the big thing is that\ni think that sandboxes can be fine if\nall of your players are very experienced\nand\nmore importantly your dm is very\nexperienced because exactly\nyou you'll get into a scenario where we\nget into some weird tangent where we're\nnow role-playing purchasing you know our\npet food for for an hour and a half\ntrying to figure out the best haggling\nthe best price and i'm like what the\n[ __ ] are we doing like\nwell i want to be doing something fun\nwhy are we delving into these things\nbut i think that adventure paths both\nfrom a player perspective and from a\ndungeon masters\nperspective heavily lean towards\nrailroading and this has happened to me\nand and railroading i make them go\nrailroading meaning the dungeon master\nmakes the party\ngo a certain way or there's a villain\nand the adventure\nassumes that the villain gets away well\nnow you need to make sure that that\nvillain gets away\nor sometimes even players will railroad\nthemselves\nthey know they're playing an adventure\npath and so they stay on the road\nbecause they know that the road is going\nto take them to\nthe next place where the next adventure\ntakes place we talked a lot about this\nwhen i first started uh jamming was\nall right the venture says to go right\ngot the town all set up\nwhat happens when you go left i don't\nhave anything set up for left\nwell it it's the same as if you went\nright but you didn't know that because i\nmade a quick decision behind the scenes\nand we are going the right way is that\nthe right thing to do and that's still\nand let's be clear\nthat is railroading still and fudging in\na weird and it's fudging in a weird way\nas well\nit's a non-dice roll fudging right\nbecause my thing is\nthe reason i play role-playing games is\ni want to be able to make decisions\nand choices that matter so\nif you're telling me that my decisions\nand choices don't matter\nthat i'm just essentially really slowly\nreading\na weird choose your own adventure book i\ni\nlose interest immediately i see and part\nof me likes them\nand i've played adventure pass and like\ni'm like oh there's i know there's a\nsweet plot to this and everything's\ngonna be a sweet mystery and i can't\nwait to see what it unfolds\none because probably the french pat's\nwritten better than my imagination is\nso i'm like yeah this is gonna be so\nmuch cooler than my thoughts\nbut the i don't know the the best i've\nseen\nis there was a guy online and i thought\nhe was great and he was talking about he\nran open\nbut what he did was he had took\nadventures\nfrom the different adventure pass and\nmade it into his open world\nbasically he was like okay we can go to\nthis place or do this thing and i got\nthese different encounters and things\nset up yeah\nthese twists and pots and puzzles from\nthese great\nbooks that i've read or adventures that\ni've read i'm like okay so you're sort\nof\nyeah well that's a combination i mean\nyeah it's combination right because\nbecause okay so for me\nokay full disclosure i don't like\nadventure paths\nwait dude what you write do aren't you\nrunning rise of the rune lord second\nedition i am and the reason i'm running\nthem it's the only thing that i like\nabout them\nis it takes a lot less time okay\nfor prep to prep yeah for a game\nlike dungeons and dragons or pathfinder\nsecond edition what do i mean by that\nthese are complicated games\nwith lots of monster rules and lots of\nmaps and\ndc's and skill checks and traps and it's\na lot of work to prepare all that and i\ndon't have the time\nor the inclination to do so okay so the\nadventure path for me provides a very\nconvenient way to do that\nuh if we take an example of uh matt who\nis in my\nmonthly blades in the dark game i do not\nprepare\nanything for that game it's completely\nsandbox\neverything is spontaneous and ad hoc\nbut that game has a much lower level of\ncomplexity\nand it's far easier for me to go on the\nflow you know go on the fly\nand go with the flow and make stuff up\nthat makes sense and is mechanically\nsound\nin that version and that system than it\nis the same pathfinder in pathfinder i\ncannot\nsit down and just quickly without us\ngetting bored at the table\nmake a monster encounter that is going\nto be both fair and balanced and fun and\ninteresting and\nhas a good map with a lot of interesting\nelements to it i can't just pull that\nout\nyou know it's very difficult to do yeah\nand i i have trouble with it too because\nlike when\num when i think about like sandbox and i\nthink of like all right i want to sit\ndown and play final fantasy 7 as an rpg\nor i want to play lord of the rings it's\nan rpg\nand then like we get to the the first\nact and then like i just started i\ndecided to become a farmer and i retire\nlike i'm like that that that's not fun i\nwant like there's gotta be\nlike wow that's something some structure\nto it yeah like i want there to be yeah\nyou made whatever decisions and your\ncharacter always wanted to be a farmer\nokay cool\nthat's not what that's not the movie\nthat i want to watch it's about a guy\nwho decides to\nfizzle out and go do something else well\nlet's see the movie that's about nina\nand matrix the one he's like there's a\nreason you're telling me the story and\nthat's why\nand that's i think that's the problem\nright people look at role-playing games\nand they equate them with movies and\nnovels\nand i think i do and they are not i know\nthey are not\nlike i see that rise of teemit book and\ni'm like i can fight that five-headed\ndragon at\nsome time in this thing this sounds so\namazing yeah\nlet me play that but you can make your\nown encounter that way too but you can\nyou can just\nthe craziest thing i see is when people\nare talking about their characters and\nthey're like level one and they're new\ncharacters and they're so excited\nand they're already talking about their\ncharacter's arc\nand how they're gonna do this and then\nthey're gonna grow up and then they're\ngonna realize this\nand then later on their character's\ngonna come around and i'm like\nyou you're you're writing your\ncharacter's ending\nat the beginning i want the best of both\nworlds and i think of game of thrones i\nwant the best of both worlds where i\nwant it to seem like everything is\nchaotic\nit's a sandbox everything is all [ __ ]\nup and then\npsych as we get to the end i've been\nplaying this [ __ ] all along like i want\nlike\noh jon snow like all that makes sense\nwell you need a good gm for that\nyeah but like i if if if if it starts\nout and if it just gets too chaotic and\ntoo\num sandboxy then it's like wait it\ni don't know it it loses sort of what\nstory are we telling what\nyou know is this no i think i think the\ndanger of a sandbox\nis that your game becomes uh\nlifeless and it becomes there is no\nelements\nright like the the the the worst\nscenario is your your sandbox is just\noh we fought some monsters and it didn't\nmatter you know we're just getting\nlevels\nthis isn't yeah it did what's the what's\nthe point what's that right like you're\nplaying some sort of mmo\ni'll just say skyrim is a perfect\nexample there's so much to do\nit's an open sandbox there's so many\ndifferent things to do how many people\nactually\nhave completed the entire game and\nactually followed the main storyline\nyou know so it's it's what are you\nlooking to get out of the experience\nand that's something you have to kind of\ndecide with the group are you guys\nlooking to just get together and kind of\nmosey around\nthe the landscape the world kind of have\nyour characters grow and experience new\nthings\nthat just seems i just feel like i mean\ni don't play video games for that reason\nbut that that's kind of the whole\npurpose well no because i know because i\neven know in a sandbox game like skyrim\nright it's not there unless someone\nprogrammed it true\nit's not true it's not it's not it's not\nmy story\nyou got to give red dead redemption to\nit it's not\ndoes it does it does it not contain\nelements that aren't\nyou know no of course it is so i've\nnever played those types of games ever\nlike skyrim or uh grand theft auto where\nthere's like this not mmo but like a\nlarger\nsure i've never played any of them sort\nof sandboxing games then i played reddit\nredemption it changed me as a person\nbut the other thing though too is so\nyou're saying that it's programmed yeah\nthat's what the gm's doing well nobody's\nprogramming\nbecause the beautiful thing about it is\nto use a video game metaphor\nyour dungeon master yes there's a\nthere's a delay\nokay but if the party starts to go west\nyou gotta go west wait absolutely okay\nif the party wants to go west and west\ndoesn't exist\nto use a video game metaphor okay thanks\nguys end of the week\nbetween now and next week when we play\ni'm gonna make dlc\nand i'm going to create that western\npart right\nbecause as a dungeon master i only need\nto be\none session ahead right of the players\nthat's how you should be\nright just in time you know and the\nother thing is too is rather than trying\nto\npredict what the party will do\nwhich is very hard absolutely and when\nyou get it wrong\nyou're in trouble okay you're in trouble\nand maybe your emphasis to suddenly say\nuh okay no maybe you don't do that or\nmaybe that door does go that way right\nyou it's better to react i got a\nspecific question\nmr derrick yeah the gm fox glove\nyeah alder and fox club alder and fox\nlove we met him very early on spoiler\nalert rises the rune lords\nhe's getting attacked by some goblins\ncorrect what if we help out\nwe don't help them all right the goblins\nend up killing them right we joined the\ngoblin bay what happens\noh i mean i let him die for sure i know\nyou do what happens later on in the\nstory\nto be alive you've taken a divergent\npath you use the multiverse you see\ndoctors already explain\nloki over here okay so i will i will\nanswer i think it was a good yeah no\ni'll answer right now okay this would\nhelp me okay\nso again this is spoiler alert for uh\nthe first two seasons of uh\nchapters of rise of the rune lords but\nhere's what would happen\nalderne dies okay but this is actually\ncanon\nhe was already influenced by the evil\nof fox glove manor when he was in\nstandpoint\nso in that situation i would have him\nrise\nfrom his death oh as undead as a ghoul\nbut instead of being like obsessed with\nyou know say\ngore and being like oh he's so good he's\nso perfect he would\nhate the party because they let him die\nand he would view\nthat his curse of on death he would\nblame it\non the party okay and would seek extra\nrevenge\nand so maybe even that's a sense of\nrailroading within\nsomething flexible yeah that's the\nsandbox railroad\nthat's a sandbox exactly that was a good\nquestion you're still going towards the\nmain theme of the story but that's only\nbecause\ni want to be able because i'm time\ncrunched and i'm being a bit\nlazy and i want to use this adventure\nokay and\nwe want to play it yeah and for people\nat home it it's a familiar touch point\nright for our channel for our viewers\nsome people have run rise of the\nrunelords they know what it is it\nprovides a very familiar touchstone\nso there's a lot of advantages both for\nyou all at home and also for me\nto be running rise of the rune lords if\ni let it completely go off the rails\nthen the value of that book of that\nadventure path\nbecomes fairly limited so i do have a\nstrong incentive to try to keep the plot\npoints going\nwhich part of me hates i know\ni know you do i just was wondering okay\nbecause i would much\nrather come to a session and have no\nidea\nwhat was gonna happen maybe one day\nbecause why do i\nas the dungeon master why does everyone\nelse get to have fun\nand be surprised by what happens but you\nknow but i don't worry\nthat's boring well look if we get enough\nlikes and subscriptions and patrons\nwe will run some kind of crazy off the\nrails yeah maybe i mean again\none of the things uh you know if you\nhaven't seen we do have a patreon now\nwe're trying to take the channel more\nseriously\none of the things that we want to be\nable to do is eventually get enough you\nknow uh\nviewers and enough money coming maybe in\nfrom you know all the other sources\nuh to try to do this more regularly and\ntake it a bit more seriously but\ni have sandbox yeah oh live sandbags\nwith some with some with some patrons\ntelling us like what yeah some of their\ninput\nyou know like the reason i play role\nplaying games is because i want to make\ninteresting decisions or i want to make\nstupid decisions\nthat i would never make in real life\nright and not have to pay the\nconsequences for it absolutely\nyou know i like playing it because i\ndon't know what's going to happen but\nbut that's\nthe point you know getting back to our\nfudging video right a sandbox truly\nallows you to\ndo whatever do whatever i know but i'm\nnot even i'm a little scared of it even\nif that whatever is\nis two and a half hours of role-playing\npurchasing i just i just don't know if i\nhave enough gm experience yes and let's\nrun it that way and that's what i'm\nsaying it goes back to i think that as\nlong as your players\nare well experienced and uh specifically\nthe difference i worry that i\nworry though that that playing with\nadventure paths is like playing with\ntraining wheels\nand if you never take them off it\ndoesn't teach you how to ride the bike\nyou got to ride the bike without the\ntraining wheels to learn how\nto dm better and if you are just\nfollowing the adventure path and just\nflipping the pages\nand the party is basically just going\nfrom a to b\nto c to d from page five to six to seven\nto eight you will never grow and develop\nyour players will never grow and develop\nyou know big part of dungeons and\ndragons the enjoyment of it is\nnot just the role playing and the the\nluck and the gambling but that's that\nsort of um\nwhat's the word uh uh outside the box\nthinking\ncreative problem solving using your\ncharacter's skills and abilities that\nare you know very different from\ncharacter to character to come up with\ncrazy and innovative solutions\nto otherwise intractable problems uh\nprofessor dungeon master\nwho again i do like his channel recently\ndid a video where he talked about like i\nam not an adventure writer okay\ni i i create problems\nokay i don't even necessarily need to\nknow what the solution is\nright you guys are going to figure it\nout i make a problem\nand it's them to figure out all right\nand it's them just\nsomething if they create a problem\nthat's too big\nfor them to handle tpk well or maybe or\nor maybe they have fail or maybe they\nhave to leave town\nhigh tail it out of there because uh\nyou know you're wanted men or whatever\nso the implications and i think what\nends up happening is you are completely\ncorrect which is this\ni think that from and and and maybe this\nis true\nfor our viewer audience at home if\nyou're following along with our ap\nof rise of the root lords i do think\nthat\na truly home brewed sandbox game where\nyou\ncreate your fun fantasy world and the\nplayers get to inhabit it\nand they get to like do whatever they\nwant and come up with crazy schemes and\ngo into this and do this and then oh\nthe the order of the black lotus now\nthey want us and they are attacking us\nand assassins attacked us at night and\nwe had to flee the city\nand then oops accidentally we burned\ndown the you know the the guard house so\nnow the king wants our heads so now we\nhave to go into hiding we ended up with\nthe elven refugees i had to marry the\nprincess in order to make a p\nright and you end up with this crazy\nstory that's like how you made all that\nup\nokay it's fantastic you end up with this\ncrazy story that\ni would have never written no okay but\nit's basically\nokay but here's the key yeah and we're\nmaking it up but i promise you it's\ngonna be\nway more awkward and not as cool as\nyou're playing it as someone that\ncarefully sat down and like a novelist\nwrote out an adventure\nso yes from a from an outsider viewpoint\nlike one of our viewers\nor if you're just telling the story to\nsomebody you'll be like\ni don't know that pre-written adventure\nwith the really carefully sculpted plot\nand really cool motivations sounds a lot\ncooler than what you described when you\nguys were\nmessing yeah and i think that's an\nimportant distinction but but to you\nyeah who play this it's like you know\nit's like it's like your kid\nyou know maybe your kid's not the\nprettiest kid but you think they are\nyou know to you they are and so and so\nlike\nyou know the same thing is true with\nyour story you're like\nyou look at your story and everyone else\nhears it and you're like they're like\nsounds like a bunch of cliched nonsense\nand\nyou know kind of sounds awkward and a\nbit clungy and you're like dude it was\nso awesome\nbecause it was my story to be there it\nwas you had\nto be there it was out it maybe wasn't a\ngood story\nbut it was our story i like it and i\nknow that there's i want to do\nthere's no other table out there that\ntold that story\nthat is mine that is uniquely mine\nabsolutely\nand i felt truly empowered that my\ndecisions\nwere going to have huge impacts yeah\nmaybe from a third party perspective the\nstory wasn't the most\nthere weren't a lot of kirkjeff's guns\nor whatever like they weren't a lot of\nlike\nforeshadowing right it's very hard to\nfor it's very hard to foreshadow because\ni don't know what you're gonna do\nright yeah so you're right that's a\nforeshadowing is a great example of that\nwhereas in rise of the rune lords\nthere's great examples of foreshadowing\nall throughout it you know because you\nalready know where you want to go\nbecause i know where we're going to be\nso i know to drop hints but could you as\na great uh\ndm like bring back that thing that got\naway\nyou could but again only if it made\nsense in the story okay the difference\nis i don't have any skin in the game\nand if you're very if if the villain\ngets away legitimately\nthen yeah yeah maybe she does come back\nto be a thorn in your side because\nshe got away legitimately or maybe you\nspend three hero points\nand you kill her in the first round of\ncombat in which case i go yeah she's\ndead\nno she's not coming back but either way\ni don't have to sit there and go\noh no but i know she's coming back yeah\nso now i have to\nbob just spent three hero points so\nhow do i how do i make her come back\nright because i know she has to\nbut in a sandbox game i don't care she\nspent four villain points you killed her\nso to recap i probably won't be\nsandboxing anytime soon but i\ni want to like i really do want to but\ni'm going to run i think i'm running\nagent ashes right now\nor maybe other things but i'm probably\ngoing to stick pretty close to the ap\ni'm a little nervous to i need i need a\nlittle more experience give me give me a\nlittle bit more on the training wheels\nand then i want to i really would like\nto jump on this\ni mean you know i can ask you i mean\nyou've played sort of these some of\nthese structured adventures but you've\nalso played plenty of games with me\nuh like our 13th age game uh our blades\nin the dark game\nwhere there was no plot\nyeah i mean me personally as a player i\nstruggle with those games\nmore so than i do here because i have\ntrouble figuring more so here meaning\nthan pathfinder with a within the riser\nwith the rise of the roof yeah\nbecause i i struggle with like what do i\nwhat am i supposed to do\nlike what i i where am i supposed to go\nwhat am i trying to do so i struggle\nwith that\num but like i said if you have a good\ngroup of players and\nespecially a dm or gm that can help um\nwith that sandbox story and really make\nit work i think that's the\nif you can get to that point that's good\nbut if you can't yeah i mean\ni could talk for hours bob has seen it\nabout adventure pass and the pros and\nthe cons and join us in the discord\nand you could talk to derek that's true\nthat's true patreon join our discord\nyeah um but you know leave a like and\ncomment below uh\nwhat kind of games do you like to run\nwhat do you think are some of the pros\nand cons what did we miss what did we\nnot talk about\num i'd love to hear from it and you know\nif you want to see more videos\nof me just going off about sandboxes uh\njust let me know because i will do it\ni'll turn this camera on yeah and i will\nnever turn it off\ni will talk for hours and hours yeah i\nwant more of the derek just streams and\nsays\nstuff for hours i mean just join the\ndiscord because like you just watched\nderek go off\nyeah i mean every year when we used to\ngo to gen con it was like six hour car\nride\nnon-stop talking about gaming so much\nfun get to gen con\nnon-stop talking about gaming for four\ndays get in the car come home non-stop\ngaming talk about six days and then we\njust\ngo back to our regular life and then\nstill talk about gaming so you know i\nthink\ni think the philosophy of role-playing\ngames the\nthe meta of role-playing games is just\nas interesting as playing them\nthemselves\nhow do these systems enable\nus to not only have fun\nbut grow and connect with one another\nand experience\nthings and change our perceptions i\nthink role-playing games are an\nincredibly\ndeep and fascinating subject and i think\nit's definitely worthy of future\ndiscussions so\nthanks for joining us so much let us\nknow your thoughts on sandboxes and\nadventure paths below\nand as always welcome to the knights of\nlast call\nyou\n"
+}

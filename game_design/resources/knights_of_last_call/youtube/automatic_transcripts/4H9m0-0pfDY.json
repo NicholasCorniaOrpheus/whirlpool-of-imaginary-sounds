@@ -1,0 +1,350 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,960",
+      "end_time": "00:00:04,319",
+      "text": "Good morning everyone. Welcome to the"
+    },
+    {
+      "start_time": "00:00:02,560",
+      "end_time": "00:00:07,520",
+      "text": "Nights of Last Call. My name is Derek"
+    },
+    {
+      "start_time": "00:00:04,319",
+      "end_time": "00:00:09,840",
+      "text": "Melinda with a very quick update about"
+    },
+    {
+      "start_time": "00:00:07,520",
+      "end_time": "00:00:12,240",
+      "text": "Daggerheart in particular the way that"
+    },
+    {
+      "start_time": "00:00:09,840",
+      "end_time": "00:00:14,719",
+      "text": "folks may be able to play Daggerheart"
+    },
+    {
+      "start_time": "00:00:12,240",
+      "end_time": "00:00:19,359",
+      "text": "online in the very very near future as"
+    },
+    {
+      "start_time": "00:00:14,719",
+      "end_time": "00:00:22,640",
+      "text": "in today. So Daggerheart today announced"
+    },
+    {
+      "start_time": "00:00:19,359",
+      "end_time": "00:00:24,960",
+      "text": "um that they are going to be supporting"
+    },
+    {
+      "start_time": "00:00:22,640",
+      "end_time": "00:00:27,359",
+      "text": "an additional VTT. So, they made an"
+    },
+    {
+      "start_time": "00:00:24,960",
+      "end_time": "00:00:31,039",
+      "text": "update to their community gaming license"
+    },
+    {
+      "start_time": "00:00:27,359",
+      "end_time": "00:00:34,160",
+      "text": "that now includes a list of whitelisted"
+    },
+    {
+      "start_time": "00:00:31,039",
+      "end_time": "00:00:38,079",
+      "text": "VTT supports. Currently, that includes"
+    },
+    {
+      "start_time": "00:00:34,160",
+      "end_time": "00:00:41,120",
+      "text": "Roll 20, Demilane, and now includes"
+    },
+    {
+      "start_time": "00:00:38,079",
+      "end_time": "00:00:44,559",
+      "text": "Foundry. And that means that uh some of"
+    },
+    {
+      "start_time": "00:00:41,120",
+      "end_time": "00:00:46,879",
+      "text": "the community teeth nashing about not"
+    },
+    {
+      "start_time": "00:00:44,559",
+      "end_time": "00:00:49,200",
+      "text": "wanting to support the game via roll 20"
+    },
+    {
+      "start_time": "00:00:46,879",
+      "end_time": "00:00:50,640",
+      "text": "and the demilane integration or just not"
+    },
+    {
+      "start_time": "00:00:49,200",
+      "end_time": "00:00:52,320",
+      "text": "being comfortable with the roll 20 and"
+    },
+    {
+      "start_time": "00:00:50,640",
+      "end_time": "00:00:54,320",
+      "text": "the subscription model and instead"
+    },
+    {
+      "start_time": "00:00:52,320",
+      "end_time": "00:00:56,640",
+      "text": "wanting to use the foundry model is now"
+    },
+    {
+      "start_time": "00:00:54,320",
+      "end_time": "00:00:59,120",
+      "text": "being supported. Now the good news for"
+    },
+    {
+      "start_time": "00:00:56,640",
+      "end_time": "00:01:01,199",
+      "text": "this is that the folks the very"
+    },
+    {
+      "start_time": "00:00:59,120",
+      "end_time": "00:01:03,520",
+      "text": "industrious and very hardworking folks"
+    },
+    {
+      "start_time": "00:01:01,199",
+      "end_time": "00:01:06,560",
+      "text": "who have been working on the Dagger"
+    },
+    {
+      "start_time": "00:01:03,520",
+      "end_time": "00:01:08,799",
+      "text": "Heart Foundry module are basically done"
+    },
+    {
+      "start_time": "00:01:06,560",
+      "end_time": "00:01:10,720",
+      "text": "and they actually have a complete model"
+    },
+    {
+      "start_time": "00:01:08,799",
+      "end_time": "00:01:12,240",
+      "text": "uh and system created. The problem is"
+    },
+    {
+      "start_time": "00:01:10,720",
+      "end_time": "00:01:13,760",
+      "text": "they were just waiting to do the right"
+    },
+    {
+      "start_time": "00:01:12,240",
+      "end_time": "00:01:16,080",
+      "text": "thing and get permission from Darington"
+    },
+    {
+      "start_time": "00:01:13,760",
+      "end_time": "00:01:18,159",
+      "text": "Press to release it because Darington"
+    },
+    {
+      "start_time": "00:01:16,080",
+      "end_time": "00:01:20,159",
+      "text": "Press's community gaming license did not"
+    },
+    {
+      "start_time": "00:01:18,159",
+      "end_time": "00:01:21,759",
+      "text": "give explicit permission to these folks."
+    },
+    {
+      "start_time": "00:01:20,159",
+      "end_time": "00:01:24,000",
+      "text": "But the good news is this is an example"
+    },
+    {
+      "start_time": "00:01:21,759",
+      "end_time": "00:01:26,479",
+      "text": "of the character sheet is that the"
+    },
+    {
+      "start_time": "00:01:24,000",
+      "end_time": "00:01:29,280",
+      "text": "foundry module system module for"
+    },
+    {
+      "start_time": "00:01:26,479",
+      "end_time": "00:01:31,040",
+      "text": "Daggerheart is basically good to go. And"
+    },
+    {
+      "start_time": "00:01:29,280",
+      "end_time": "00:01:32,720",
+      "text": "once they get a few things in a row"
+    },
+    {
+      "start_time": "00:01:31,040",
+      "end_time": "00:01:34,560",
+      "text": "because now that the community gaming"
+    },
+    {
+      "start_time": "00:01:32,720",
+      "end_time": "00:01:38,000",
+      "text": "license has been updated, they'll be"
+    },
+    {
+      "start_time": "00:01:34,560",
+      "end_time": "00:01:39,840",
+      "text": "able to release Daggerheart for Foundry."
+    },
+    {
+      "start_time": "00:01:38,000",
+      "end_time": "00:01:41,600",
+      "text": "Now, this is great news for all of us"
+    },
+    {
+      "start_time": "00:01:39,840",
+      "end_time": "00:01:43,520",
+      "text": "who really have come to love and use"
+    },
+    {
+      "start_time": "00:01:41,600",
+      "end_time": "00:01:46,000",
+      "text": "Foundry. We use Foundry pretty much"
+    },
+    {
+      "start_time": "00:01:43,520",
+      "end_time": "00:01:47,600",
+      "text": "exclusively here at Nights of Last Call."
+    },
+    {
+      "start_time": "00:01:46,000",
+      "end_time": "00:01:49,360",
+      "text": "Uh we use it for our Northern Reaches"
+    },
+    {
+      "start_time": "00:01:47,600",
+      "end_time": "00:01:51,040",
+      "text": "games. We use we have a massive"
+    },
+    {
+      "start_time": "00:01:49,360",
+      "end_time": "00:01:53,119",
+      "text": "integration with the forge in order to"
+    },
+    {
+      "start_time": "00:01:51,040",
+      "end_time": "00:01:54,640",
+      "text": "host a variety of community games. So"
+    },
+    {
+      "start_time": "00:01:53,119",
+      "end_time": "00:01:56,640",
+      "text": "we're really excited to be able to do"
+    },
+    {
+      "start_time": "00:01:54,640",
+      "end_time": "00:01:58,320",
+      "text": "this. Um I think it's a great move from"
+    },
+    {
+      "start_time": "00:01:56,640",
+      "end_time": "00:02:01,439",
+      "text": "them and again it shows that Darington"
+    },
+    {
+      "start_time": "00:01:58,320",
+      "end_time": "00:02:03,119",
+      "text": "Press is willing and able to listen to"
+    },
+    {
+      "start_time": "00:02:01,439",
+      "end_time": "00:02:05,360",
+      "text": "the needs of the community and they are"
+    },
+    {
+      "start_time": "00:02:03,119",
+      "end_time": "00:02:07,680",
+      "text": "trying to adapt and adopt as quickly as"
+    },
+    {
+      "start_time": "00:02:05,360",
+      "end_time": "00:02:10,560",
+      "text": "they can to the well probably"
+    },
+    {
+      "start_time": "00:02:07,680",
+      "end_time": "00:02:12,080",
+      "text": "surprisingly large amount of traffic"
+    },
+    {
+      "start_time": "00:02:10,560",
+      "end_time": "00:02:13,280",
+      "text": "that they're getting on this game. I"
+    },
+    {
+      "start_time": "00:02:12,080",
+      "end_time": "00:02:15,040",
+      "text": "think it's a really good sign for the"
+    },
+    {
+      "start_time": "00:02:13,280",
+      "end_time": "00:02:17,040",
+      "text": "game going forward and I'm personally"
+    },
+    {
+      "start_time": "00:02:15,040",
+      "end_time": "00:02:19,920",
+      "text": "excited to get some games of Daggerheart"
+    },
+    {
+      "start_time": "00:02:17,040",
+      "end_time": "00:02:22,239",
+      "text": "going in Foundry. So, let us know what"
+    },
+    {
+      "start_time": "00:02:19,920",
+      "end_time": "00:02:23,440",
+      "text": "you think. Check us out in the links"
+    },
+    {
+      "start_time": "00:02:22,239",
+      "end_time": "00:02:25,360",
+      "text": "down below. We have a massive"
+    },
+    {
+      "start_time": "00:02:23,440",
+      "end_time": "00:02:27,760",
+      "text": "Daggerheart playlist or you can find us"
+    },
+    {
+      "start_time": "00:02:25,360",
+      "end_time": "00:02:30,319",
+      "text": "over at patreon.com/nightsoflastall"
+    },
+    {
+      "start_time": "00:02:27,760",
+      "end_time": "00:02:32,000",
+      "text": "or right here on YouTube or Twitch."
+    },
+    {
+      "start_time": "00:02:30,319",
+      "end_time": "00:02:34,480",
+      "text": "Either way, thanks for stopping by and"
+    },
+    {
+      "start_time": "00:02:32,000",
+      "end_time": "00:02:38,160",
+      "text": "we'll see you next time on Nights of"
+    },
+    {
+      "start_time": "00:02:34,480",
+      "end_time": "00:02:38,160",
+      "text": "Last Call. Take care everybody."
+    }
+  ],
+  "full_text": "Good morning everyone. Welcome to the\nNights of Last Call. My name is Derek\nMelinda with a very quick update about\nDaggerheart in particular the way that\nfolks may be able to play Daggerheart\nonline in the very very near future as\nin today. So Daggerheart today announced\num that they are going to be supporting\nan additional VTT. So, they made an\nupdate to their community gaming license\nthat now includes a list of whitelisted\nVTT supports. Currently, that includes\nRoll 20, Demilane, and now includes\nFoundry. And that means that uh some of\nthe community teeth nashing about not\nwanting to support the game via roll 20\nand the demilane integration or just not\nbeing comfortable with the roll 20 and\nthe subscription model and instead\nwanting to use the foundry model is now\nbeing supported. Now the good news for\nthis is that the folks the very\nindustrious and very hardworking folks\nwho have been working on the Dagger\nHeart Foundry module are basically done\nand they actually have a complete model\nuh and system created. The problem is\nthey were just waiting to do the right\nthing and get permission from Darington\nPress to release it because Darington\nPress's community gaming license did not\ngive explicit permission to these folks.\nBut the good news is this is an example\nof the character sheet is that the\nfoundry module system module for\nDaggerheart is basically good to go. And\nonce they get a few things in a row\nbecause now that the community gaming\nlicense has been updated, they'll be\nable to release Daggerheart for Foundry.\nNow, this is great news for all of us\nwho really have come to love and use\nFoundry. We use Foundry pretty much\nexclusively here at Nights of Last Call.\nUh we use it for our Northern Reaches\ngames. We use we have a massive\nintegration with the forge in order to\nhost a variety of community games. So\nwe're really excited to be able to do\nthis. Um I think it's a great move from\nthem and again it shows that Darington\nPress is willing and able to listen to\nthe needs of the community and they are\ntrying to adapt and adopt as quickly as\nthey can to the well probably\nsurprisingly large amount of traffic\nthat they're getting on this game. I\nthink it's a really good sign for the\ngame going forward and I'm personally\nexcited to get some games of Daggerheart\ngoing in Foundry. So, let us know what\nyou think. Check us out in the links\ndown below. We have a massive\nDaggerheart playlist or you can find us\nover at patreon.com/nightsoflastall\nor right here on YouTube or Twitch.\nEither way, thanks for stopping by and\nwe'll see you next time on Nights of\nLast Call. Take care everybody.\n"
+}

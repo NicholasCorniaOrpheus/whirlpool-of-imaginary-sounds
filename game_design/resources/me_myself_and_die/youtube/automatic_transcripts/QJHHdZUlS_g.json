@@ -1,0 +1,2810 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,599",
+      "end_time": "00:00:04,240",
+      "text": "the broken Empire's Kickstarter is"
+    },
+    {
+      "start_time": "00:00:02,240",
+      "end_time": "00:00:06,359",
+      "text": "launching October the 1st there's still"
+    },
+    {
+      "start_time": "00:00:04,240",
+      "end_time": "00:00:08,719",
+      "text": "time to become an early VIP supporter"
+    },
+    {
+      "start_time": "00:00:06,359",
+      "end_time": "00:00:10,679",
+      "text": "over at the pre-launch page at play.the"
+    },
+    {
+      "start_time": "00:00:08,719",
+      "end_time": "00:00:13,200",
+      "text": "broken"
+    },
+    {
+      "start_time": "00:00:10,679",
+      "end_time": "00:00:15,400",
+      "text": "empires. this is a big moment and"
+    },
+    {
+      "start_time": "00:00:13,200",
+      "end_time": "00:00:16,600",
+      "text": "because the dice always tell the story"
+    },
+    {
+      "start_time": "00:00:15,400",
+      "end_time": "00:00:18,520",
+      "text": "I'm going to roll for it now what am I"
+    },
+    {
+      "start_time": "00:00:16,600",
+      "end_time": "00:00:21,160",
+      "text": "going to roll I'm not going to roll on"
+    },
+    {
+      "start_time": "00:00:18,520",
+      "end_time": "00:00:23,080",
+      "text": "the Fate chart no I'm going to roll our"
+    },
+    {
+      "start_time": "00:00:21,160",
+      "end_time": "00:00:24,599",
+      "text": "personality mechanics the personality"
+    },
+    {
+      "start_time": "00:00:23,080",
+      "end_time": "00:00:26,039",
+      "text": "mechanics which are fully optional"
+    },
+    {
+      "start_time": "00:00:24,599",
+      "end_time": "00:00:28,439",
+      "text": "completely optional in this game are"
+    },
+    {
+      "start_time": "00:00:26,039",
+      "end_time": "00:00:29,640",
+      "text": "there to help players decide what to do"
+    },
+    {
+      "start_time": "00:00:28,439",
+      "end_time": "00:00:31,240",
+      "text": "when they don't know what the character"
+    },
+    {
+      "start_time": "00:00:29,640",
+      "end_time": "00:00:32,360",
+      "text": "would do"
+    },
+    {
+      "start_time": "00:00:31,240",
+      "end_time": "00:00:33,080",
+      "text": "and I don't know what the character is"
+    },
+    {
+      "start_time": "00:00:32,360",
+      "end_time": "00:00:50,350",
+      "text": "going to"
+    },
+    {
+      "start_time": "00:00:33,080",
+      "end_time": "00:00:50,350",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:58,719",
+      "end_time": "00:01:03,079",
+      "text": "do well hello and welcome back once"
+    },
+    {
+      "start_time": "00:01:00,800",
+      "end_time": "00:01:05,040",
+      "text": "again to me myself and die episode 10 of"
+    },
+    {
+      "start_time": "00:01:03,079",
+      "end_time": "00:01:06,200",
+      "text": "season 4 I am as always your in Tri GM"
+    },
+    {
+      "start_time": "00:01:05,040",
+      "end_time": "00:01:07,439",
+      "text": "host and player Trevor Deval thank you"
+    },
+    {
+      "start_time": "00:01:06,200",
+      "end_time": "00:01:09,799",
+      "text": "so much for joining me here today please"
+    },
+    {
+      "start_time": "00:01:07,439",
+      "end_time": "00:01:10,920",
+      "text": "do consider hitting liking And subscribe"
+    },
+    {
+      "start_time": "00:01:09,799",
+      "end_time": "00:01:12,840",
+      "text": "every time I do this I sound like"
+    },
+    {
+      "start_time": "00:01:10,920",
+      "end_time": "00:01:15,080",
+      "text": "William Shatner I don't know why that"
+    },
+    {
+      "start_time": "00:01:12,840",
+      "end_time": "00:01:16,200",
+      "text": "happens anyway if you want to join us on"
+    },
+    {
+      "start_time": "00:01:15,080",
+      "end_time": "00:01:19,280",
+      "text": "patreon to help support the channel"
+    },
+    {
+      "start_time": "00:01:16,200",
+      "end_time": "00:01:21,320",
+      "text": "that's a huge huge help thanks to all my"
+    },
+    {
+      "start_time": "00:01:19,280",
+      "end_time": "00:01:23,439",
+      "text": "patrons and YouTube channel uh"
+    },
+    {
+      "start_time": "00:01:21,320",
+      "end_time": "00:01:25,320",
+      "text": "supporters who have helped continue the"
+    },
+    {
+      "start_time": "00:01:23,439",
+      "end_time": "00:01:27,520",
+      "text": "process of bringing you this lovely"
+    },
+    {
+      "start_time": "00:01:25,320",
+      "end_time": "00:01:29,479",
+      "text": "entertainment uh of course we have"
+    },
+    {
+      "start_time": "00:01:27,520",
+      "end_time": "00:01:31,240",
+      "text": "launched the game the kickstarter or"
+    },
+    {
+      "start_time": "00:01:29,479",
+      "end_time": "00:01:33,680",
+      "text": "we're about to launch rather on October"
+    },
+    {
+      "start_time": "00:01:31,240",
+      "end_time": "00:01:35,720",
+      "text": "the 1st all of the links are below for"
+    },
+    {
+      "start_time": "00:01:33,680",
+      "end_time": "00:01:37,680",
+      "text": "all of that good stuff but we are going"
+    },
+    {
+      "start_time": "00:01:35,720",
+      "end_time": "00:01:39,360",
+      "text": "to start the episode today with a little"
+    },
+    {
+      "start_time": "00:01:37,680",
+      "end_time": "00:01:41,079",
+      "text": "bit of housekeeping first of all couple"
+    },
+    {
+      "start_time": "00:01:39,360",
+      "end_time": "00:01:42,880",
+      "text": "things about rules because this is an"
+    },
+    {
+      "start_time": "00:01:41,079",
+      "end_time": "00:01:44,680",
+      "text": "evolving developing game the rules are"
+    },
+    {
+      "start_time": "00:01:42,880",
+      "end_time": "00:01:46,759",
+      "text": "going to adjust and shift that's the"
+    },
+    {
+      "start_time": "00:01:44,680",
+      "end_time": "00:01:48,479",
+      "text": "whole purpose of the season is to tweak"
+    },
+    {
+      "start_time": "00:01:46,759",
+      "end_time": "00:01:50,320",
+      "text": "the rules as I go and to develop things"
+    },
+    {
+      "start_time": "00:01:48,479",
+      "end_time": "00:01:52,479",
+      "text": "and remove what I don't like and put"
+    },
+    {
+      "start_time": "00:01:50,320",
+      "end_time": "00:01:54,240",
+      "text": "things in that I do so for example the"
+    },
+    {
+      "start_time": "00:01:52,479",
+      "end_time": "00:01:56,759",
+      "text": "use of resolve right now which is the"
+    },
+    {
+      "start_time": "00:01:54,240",
+      "end_time": "00:01:59,119",
+      "text": "quote unquote metac currency in the game"
+    },
+    {
+      "start_time": "00:01:56,759",
+      "end_time": "00:02:00,680",
+      "text": "you can no longer do rerolls as of right"
+    },
+    {
+      "start_time": "00:01:59,119",
+      "end_time": "00:02:02,399",
+      "text": "now those are the rules you cannot spend"
+    },
+    {
+      "start_time": "00:02:00,680",
+      "end_time": "00:02:03,799",
+      "text": "resolve to reroll you're kind of stuck"
+    },
+    {
+      "start_time": "00:02:02,399",
+      "end_time": "00:02:05,840",
+      "text": "with what you get but you can spend"
+    },
+    {
+      "start_time": "00:02:03,799",
+      "end_time": "00:02:06,960",
+      "text": "resolve before or after the roll you"
+    },
+    {
+      "start_time": "00:02:05,840",
+      "end_time": "00:02:08,840",
+      "text": "just have to declare it if you're going"
+    },
+    {
+      "start_time": "00:02:06,960",
+      "end_time": "00:02:10,319",
+      "text": "to spend it before the roll so I'm going"
+    },
+    {
+      "start_time": "00:02:08,840",
+      "end_time": "00:02:11,720",
+      "text": "to bump up the chaos factor to eight"
+    },
+    {
+      "start_time": "00:02:10,319",
+      "end_time": "00:02:12,840",
+      "text": "because things are going kind of cooky"
+    },
+    {
+      "start_time": "00:02:11,720",
+      "end_time": "00:02:14,879",
+      "text": "here we left off in a bit of a"
+    },
+    {
+      "start_time": "00:02:12,840",
+      "end_time": "00:02:18,200",
+      "text": "cliffhanger also I'm going to close the"
+    },
+    {
+      "start_time": "00:02:14,879",
+      "end_time": "00:02:20,680",
+      "text": "thread get to the tomb and I'm going to"
+    },
+    {
+      "start_time": "00:02:18,200",
+      "end_time": "00:02:22,360",
+      "text": "add the thread investigate the L's dream"
+    },
+    {
+      "start_time": "00:02:20,680",
+      "end_time": "00:02:24,959",
+      "text": "veil has earned three experience points"
+    },
+    {
+      "start_time": "00:02:22,360",
+      "end_time": "00:02:26,160",
+      "text": "for pursuing her goals and she's not"
+    },
+    {
+      "start_time": "00:02:24,959",
+      "end_time": "00:02:28,440",
+      "text": "going to be able to SP right now though"
+    },
+    {
+      "start_time": "00:02:26,160",
+      "end_time": "00:02:30,519",
+      "text": "cuz she's in the middle of a thing so"
+    },
+    {
+      "start_time": "00:02:28,440",
+      "end_time": "00:02:32,800",
+      "text": "let us get to that thing the last we saw"
+    },
+    {
+      "start_time": "00:02:30,519",
+      "end_time": "00:02:35,760",
+      "text": "a veil she had laid down on this stone"
+    },
+    {
+      "start_time": "00:02:32,800",
+      "end_time": "00:02:38,360",
+      "text": "slab and instantly entered into this"
+    },
+    {
+      "start_time": "00:02:35,760",
+      "end_time": "00:02:40,040",
+      "text": "dream prison but it wasn't much of a"
+    },
+    {
+      "start_time": "00:02:38,360",
+      "end_time": "00:02:41,760",
+      "text": "prison it looked like an oasis there was"
+    },
+    {
+      "start_time": "00:02:40,040",
+      "end_time": "00:02:44,319",
+      "text": "lots of plants and water and the sounds"
+    },
+    {
+      "start_time": "00:02:41,760",
+      "end_time": "00:02:45,519",
+      "text": "of exotic birds and all it was very very"
+    },
+    {
+      "start_time": "00:02:44,319",
+      "end_time": "00:02:48,800",
+      "text": "very pleasant but there was this young"
+    },
+    {
+      "start_time": "00:02:45,519",
+      "end_time": "00:02:53,239",
+      "text": "man nobly dressed who had approached her"
+    },
+    {
+      "start_time": "00:02:48,800",
+      "end_time": "00:02:55,920",
+      "text": "and this must be mataro but strangely he"
+    },
+    {
+      "start_time": "00:02:53,239",
+      "end_time": "00:02:59,080",
+      "text": "suggested that in fact cherylyn did not"
+    },
+    {
+      "start_time": "00:02:55,920",
+      "end_time": "00:03:02,560",
+      "text": "come here to destroy him she came here"
+    },
+    {
+      "start_time": "00:02:59,080",
+      "end_time": "00:03:06,959",
+      "text": "to assist him so what does that mean"
+    },
+    {
+      "start_time": "00:03:02,560",
+      "end_time": "00:03:09,480",
+      "text": "let's find out assist you sheryn helping"
+    },
+    {
+      "start_time": "00:03:06,959",
+      "end_time": "00:03:12,879",
+      "text": "you cheryn imprisoned you here for a"
+    },
+    {
+      "start_time": "00:03:09,480",
+      "end_time": "00:03:16,000",
+      "text": "reason look around you Vil does this"
+    },
+    {
+      "start_time": "00:03:12,879",
+      "end_time": "00:03:18,200",
+      "text": "look like a prison to you you do not"
+    },
+    {
+      "start_time": "00:03:16,000",
+      "end_time": "00:03:21,680",
+      "text": "know everything that transpired all"
+    },
+    {
+      "start_time": "00:03:18,200",
+      "end_time": "00:03:25,440",
+      "text": "those years ago cheryn Spirit Bane came"
+    },
+    {
+      "start_time": "00:03:21,680",
+      "end_time": "00:03:29,480",
+      "text": "to seek me out not to destroy me for"
+    },
+    {
+      "start_time": "00:03:25,440",
+      "end_time": "00:03:30,760",
+      "text": "that she knew not even she could do not"
+    },
+    {
+      "start_time": "00:03:29,480",
+      "end_time": "00:03:33,040",
+      "text": "here"
+    },
+    {
+      "start_time": "00:03:30,760",
+      "end_time": "00:03:37,239",
+      "text": "not on this plane of"
+    },
+    {
+      "start_time": "00:03:33,040",
+      "end_time": "00:03:41,159",
+      "text": "existence no she came because she knew"
+    },
+    {
+      "start_time": "00:03:37,239",
+      "end_time": "00:03:43,720",
+      "text": "that I held the key to a door that she"
+    },
+    {
+      "start_time": "00:03:41,159",
+      "end_time": "00:03:48,319",
+      "text": "very much desired to have"
+    },
+    {
+      "start_time": "00:03:43,720",
+      "end_time": "00:03:51,680",
+      "text": "opened the door to the gates of"
+    },
+    {
+      "start_time": "00:03:48,319",
+      "end_time": "00:03:53,239",
+      "text": "narth has Vil ever heard of norcar I'm"
+    },
+    {
+      "start_time": "00:03:51,680",
+      "end_time": "00:03:54,920",
+      "text": "going to give a quick roll in her Arcana"
+    },
+    {
+      "start_time": "00:03:53,239",
+      "end_time": "00:03:56,280",
+      "text": "skill I'm going to give her I'm going to"
+    },
+    {
+      "start_time": "00:03:54,920",
+      "end_time": "00:03:57,280",
+      "text": "give her plus 20 on this it's likely"
+    },
+    {
+      "start_time": "00:03:56,280",
+      "end_time": "00:03:59,319",
+      "text": "that she would have heard this so she's"
+    },
+    {
+      "start_time": "00:03:57,280",
+      "end_time": "00:04:01,079",
+      "text": "rolling on 60 oh nope and it's a"
+    },
+    {
+      "start_time": "00:03:59,319",
+      "end_time": "00:04:05,959",
+      "text": "critical f well she's never heard of"
+    },
+    {
+      "start_time": "00:04:01,079",
+      "end_time": "00:04:08,439",
+      "text": "norcar norcar what is that ah your order"
+    },
+    {
+      "start_time": "00:04:05,959",
+      "end_time": "00:04:12,640",
+      "text": "never told you of the city at the center"
+    },
+    {
+      "start_time": "00:04:08,439",
+      "end_time": "00:04:15,040",
+      "text": "of all realities the city which I have"
+    },
+    {
+      "start_time": "00:04:12,640",
+      "end_time": "00:04:17,720",
+      "text": "been seeking for"
+    },
+    {
+      "start_time": "00:04:15,040",
+      "end_time": "00:04:20,959",
+      "text": "centuries within the Fortress at the"
+    },
+    {
+      "start_time": "00:04:17,720",
+      "end_time": "00:04:23,840",
+      "text": "Heart of the City of noar there lies a"
+    },
+    {
+      "start_time": "00:04:20,959",
+      "end_time": "00:04:27,000",
+      "text": "library of sorts and within that Library"
+    },
+    {
+      "start_time": "00:04:23,840",
+      "end_time": "00:04:30,840",
+      "text": "lies the very secret to do that which no"
+    },
+    {
+      "start_time": "00:04:27,000",
+      "end_time": "00:04:35,000",
+      "text": "one in the broken Empires can do"
+    },
+    {
+      "start_time": "00:04:30,840",
+      "end_time": "00:04:38,840",
+      "text": "the secret to ending my"
+    },
+    {
+      "start_time": "00:04:35,000",
+      "end_time": "00:04:39,759",
+      "text": "existence you seek to destroy yourself"
+    },
+    {
+      "start_time": "00:04:38,840",
+      "end_time": "00:04:43,039",
+      "text": "oh"
+    },
+    {
+      "start_time": "00:04:39,759",
+      "end_time": "00:04:46,600",
+      "text": "Veil when my ritual to ascend to lichdom"
+    },
+    {
+      "start_time": "00:04:43,039",
+      "end_time": "00:04:51,160",
+      "text": "failed I was left in a terrible"
+    },
+    {
+      "start_time": "00:04:46,600",
+      "end_time": "00:04:52,479",
+      "text": "predicament I was neither alive nor dead"
+    },
+    {
+      "start_time": "00:04:51,160",
+      "end_time": "00:04:56,120",
+      "text": "nor"
+    },
+    {
+      "start_time": "00:04:52,479",
+      "end_time": "00:05:00,280",
+      "text": "Undead I have been trapped in a prison"
+    },
+    {
+      "start_time": "00:04:56,120",
+      "end_time": "00:05:05,600",
+      "text": "of my own body for so many lifetimes"
+    },
+    {
+      "start_time": "00:05:00,280",
+      "end_time": "00:05:09,199",
+      "text": "unable to ascend but unable to"
+    },
+    {
+      "start_time": "00:05:05,600",
+      "end_time": "00:05:12,240",
+      "text": "die I seek only this sweet release of"
+    },
+    {
+      "start_time": "00:05:09,199",
+      "end_time": "00:05:13,479",
+      "text": "Oblivion but that is denied me in this"
+    },
+    {
+      "start_time": "00:05:12,240",
+      "end_time": "00:05:16,120",
+      "text": "realm"
+    },
+    {
+      "start_time": "00:05:13,479",
+      "end_time": "00:05:17,520",
+      "text": "only through the knowledge of that which"
+    },
+    {
+      "start_time": "00:05:16,120",
+      "end_time": "00:05:22,800",
+      "text": "North"
+    },
+    {
+      "start_time": "00:05:17,520",
+      "end_time": "00:05:26,800",
+      "text": "holds may I meet a peace that I have"
+    },
+    {
+      "start_time": "00:05:22,800",
+      "end_time": "00:05:30,240",
+      "text": "sought for centuries long have I sought"
+    },
+    {
+      "start_time": "00:05:26,800",
+      "end_time": "00:05:32,000",
+      "text": "the gateway to norcar and I have found"
+    },
+    {
+      "start_time": "00:05:30,240",
+      "end_time": "00:05:35,560",
+      "text": "it but"
+    },
+    {
+      "start_time": "00:05:32,000",
+      "end_time": "00:05:40,720",
+      "text": "alas I could not open the gate not in"
+    },
+    {
+      "start_time": "00:05:35,560",
+      "end_time": "00:05:43,400",
+      "text": "the state I was in for you see once my"
+    },
+    {
+      "start_time": "00:05:40,720",
+      "end_time": "00:05:47,240",
+      "text": "trusted servant akol discovered my"
+    },
+    {
+      "start_time": "00:05:43,400",
+      "end_time": "00:05:49,759",
+      "text": "intention to end my own existence he"
+    },
+    {
+      "start_time": "00:05:47,240",
+      "end_time": "00:05:52,680",
+      "text": "knew that once I crumbled to dust that"
+    },
+    {
+      "start_time": "00:05:49,759",
+      "end_time": "00:05:55,440",
+      "text": "his own existence would be forfeit and"
+    },
+    {
+      "start_time": "00:05:52,680",
+      "end_time": "00:05:56,919",
+      "text": "so he betrayed me he attacked me and"
+    },
+    {
+      "start_time": "00:05:55,440",
+      "end_time": "00:06:00,199",
+      "text": "wounded me"
+    },
+    {
+      "start_time": "00:05:56,919",
+      "end_time": "00:06:02,720",
+      "text": "grievously to the point where I was no"
+    },
+    {
+      "start_time": "00:06:00,199",
+      "end_time": "00:06:05,600",
+      "text": "longer strong enough to open the gate"
+    },
+    {
+      "start_time": "00:06:02,720",
+      "end_time": "00:06:08,039",
+      "text": "and this was the condition and the state"
+    },
+    {
+      "start_time": "00:06:05,600",
+      "end_time": "00:06:10,960",
+      "text": "in which sheryn found me why would"
+    },
+    {
+      "start_time": "00:06:08,039",
+      "end_time": "00:06:14,880",
+      "text": "cheryn want the gateway to this norath"
+    },
+    {
+      "start_time": "00:06:10,960",
+      "end_time": "00:06:19,639",
+      "text": "to be opened within the city of norcar"
+    },
+    {
+      "start_time": "00:06:14,880",
+      "end_time": "00:06:24,440",
+      "text": "Lies not only the secrets to end my"
+    },
+    {
+      "start_time": "00:06:19,639",
+      "end_time": "00:06:29,120",
+      "text": "undeath but the secrets to end all UND"
+    },
+    {
+      "start_time": "00:06:24,440",
+      "end_time": "00:06:32,800",
+      "text": "death to end the scourge of all UND"
+    },
+    {
+      "start_time": "00:06:29,120",
+      "end_time": "00:06:35,080",
+      "text": "death we with in the broken Empires that"
+    },
+    {
+      "start_time": "00:06:32,800",
+      "end_time": "00:06:38,400",
+      "text": "is the secret that chevin craved and"
+    },
+    {
+      "start_time": "00:06:35,080",
+      "end_time": "00:06:42,440",
+      "text": "that is why she came here to help me"
+    },
+    {
+      "start_time": "00:06:38,400",
+      "end_time": "00:06:44,840",
+      "text": "open the gate but in my weakened State"
+    },
+    {
+      "start_time": "00:06:42,440",
+      "end_time": "00:06:46,680",
+      "text": "thanks to the traitor akol I was not"
+    },
+    {
+      "start_time": "00:06:44,840",
+      "end_time": "00:06:49,840",
+      "text": "strong enough to cast the spell that"
+    },
+    {
+      "start_time": "00:06:46,680",
+      "end_time": "00:06:51,400",
+      "text": "would open the gate and so cheryn knew"
+    },
+    {
+      "start_time": "00:06:49,840",
+      "end_time": "00:06:54,880",
+      "text": "what she had to"
+    },
+    {
+      "start_time": "00:06:51,400",
+      "end_time": "00:06:58,479",
+      "text": "do she tore off a fragment of her own"
+    },
+    {
+      "start_time": "00:06:54,880",
+      "end_time": "00:07:00,400",
+      "text": "soul stuff her own spirit and Infused it"
+    },
+    {
+      "start_time": "00:06:58,479",
+      "end_time": "00:07:04,800",
+      "text": "in me"
+    },
+    {
+      "start_time": "00:07:00,400",
+      "end_time": "00:07:07,080",
+      "text": "to heal me to allow me to Slumber in"
+    },
+    {
+      "start_time": "00:07:04,800",
+      "end_time": "00:07:09,720",
+      "text": "this place until such time that I was"
+    },
+    {
+      "start_time": "00:07:07,080",
+      "end_time": "00:07:13,479",
+      "text": "strong enough to emerge and with"
+    },
+    {
+      "start_time": "00:07:09,720",
+      "end_time": "00:07:17,680",
+      "text": "her we would walk hand in hand through"
+    },
+    {
+      "start_time": "00:07:13,479",
+      "end_time": "00:07:20,400",
+      "text": "the newly opened gate she would procure"
+    },
+    {
+      "start_time": "00:07:17,680",
+      "end_time": "00:07:22,840",
+      "text": "the power to end the undead Scourge and"
+    },
+    {
+      "start_time": "00:07:20,400",
+      "end_time": "00:07:25,280",
+      "text": "the first creature she would use this"
+    },
+    {
+      "start_time": "00:07:22,840",
+      "end_time": "00:07:29,879",
+      "text": "power on would be"
+    },
+    {
+      "start_time": "00:07:25,280",
+      "end_time": "00:07:34,120",
+      "text": "me I would finally be at rest"
+    },
+    {
+      "start_time": "00:07:29,879",
+      "end_time": "00:07:36,879",
+      "text": "and she would have achieved all that her"
+    },
+    {
+      "start_time": "00:07:34,120",
+      "end_time": "00:07:39,240",
+      "text": "order had been"
+    },
+    {
+      "start_time": "00:07:36,879",
+      "end_time": "00:07:42,240",
+      "text": "seeking but"
+    },
+    {
+      "start_time": "00:07:39,240",
+      "end_time": "00:07:45,360",
+      "text": "alas cherylyn"
+    },
+    {
+      "start_time": "00:07:42,240",
+      "end_time": "00:07:48,199",
+      "text": "fell I knew it at once and I was"
+    },
+    {
+      "start_time": "00:07:45,360",
+      "end_time": "00:07:51,599",
+      "text": "awakened in this place not yet fully"
+    },
+    {
+      "start_time": "00:07:48,199",
+      "end_time": "00:07:55,199",
+      "text": "healed but knowing thanks to the spirit"
+    },
+    {
+      "start_time": "00:07:51,599",
+      "end_time": "00:07:57,599",
+      "text": "Shard of cheryn within my person"
+    },
+    {
+      "start_time": "00:07:55,199",
+      "end_time": "00:08:03,639",
+      "text": "knowing that she was"
+    },
+    {
+      "start_time": "00:07:57,599",
+      "end_time": "00:08:05,720",
+      "text": "gone and that all was lost until until I"
+    },
+    {
+      "start_time": "00:08:03,639",
+      "end_time": "00:08:06,759",
+      "text": "emerged in the desert wastes outside the"
+    },
+    {
+      "start_time": "00:08:05,720",
+      "end_time": "00:08:09,159",
+      "text": "city of"
+    },
+    {
+      "start_time": "00:08:06,759",
+      "end_time": "00:08:11,520",
+      "text": "anaria with the spirit mantle in my"
+    },
+    {
+      "start_time": "00:08:09,159",
+      "end_time": "00:08:14,800",
+      "text": "possession I knew at that moment that"
+    },
+    {
+      "start_time": "00:08:11,520",
+      "end_time": "00:08:19,000",
+      "text": "cheryn had not abandoned me that she"
+    },
+    {
+      "start_time": "00:08:14,800",
+      "end_time": "00:08:21,639",
+      "text": "intended to keep a promise to me through"
+    },
+    {
+      "start_time": "00:08:19,000",
+      "end_time": "00:08:25,800",
+      "text": "you that the spirit mantle would make"
+    },
+    {
+      "start_time": "00:08:21,639",
+      "end_time": "00:08:28,879",
+      "text": "its way to me and finish what she had"
+    },
+    {
+      "start_time": "00:08:25,800",
+      "end_time": "00:08:32,000",
+      "text": "started the healing process that would"
+    },
+    {
+      "start_time": "00:08:28,879",
+      "end_time": "00:08:35,200",
+      "text": "allow me me to open the gates and though"
+    },
+    {
+      "start_time": "00:08:32,000",
+      "end_time": "00:08:39,599",
+      "text": "cheryn herself would never be able to go"
+    },
+    {
+      "start_time": "00:08:35,200",
+      "end_time": "00:08:42,719",
+      "text": "through you could then why did you seek"
+    },
+    {
+      "start_time": "00:08:39,599",
+      "end_time": "00:08:46,279",
+      "text": "to stop me it was not I who sought to"
+    },
+    {
+      "start_time": "00:08:42,719",
+      "end_time": "00:08:47,800",
+      "text": "stop you Vil it was the traitor akom who"
+    },
+    {
+      "start_time": "00:08:46,279",
+      "end_time": "00:08:50,880",
+      "text": "Enlisted the help of the silent death"
+    },
+    {
+      "start_time": "00:08:47,800",
+      "end_time": "00:08:53,880",
+      "text": "assassins for he knew that if you were"
+    },
+    {
+      "start_time": "00:08:50,880",
+      "end_time": "00:08:56,160",
+      "text": "to bring the spirit mantle to me then"
+    },
+    {
+      "start_time": "00:08:53,880",
+      "end_time": "00:09:00,240",
+      "text": "his own existence would be in Jeopardy"
+    },
+    {
+      "start_time": "00:08:56,160",
+      "end_time": "00:09:05,000",
+      "text": "and he would not allow that but you"
+    },
+    {
+      "start_time": "00:09:00,240",
+      "end_time": "00:09:09,279",
+      "text": "you somehow destroyed him and you freed"
+    },
+    {
+      "start_time": "00:09:05,000",
+      "end_time": "00:09:13,560",
+      "text": "my servants to be able to remove my body"
+    },
+    {
+      "start_time": "00:09:09,279",
+      "end_time": "00:09:14,519",
+      "text": "from this place and send it on forward"
+    },
+    {
+      "start_time": "00:09:13,560",
+      "end_time": "00:09:19,120",
+      "text": "to the"
+    },
+    {
+      "start_time": "00:09:14,519",
+      "end_time": "00:09:21,440",
+      "text": "gate or to where the gate can be"
+    },
+    {
+      "start_time": "00:09:19,120",
+      "end_time": "00:09:24,320",
+      "text": "opened the vizier's"
+    },
+    {
+      "start_time": "00:09:21,440",
+      "end_time": "00:09:28,120",
+      "text": "palace that is where the gates to be"
+    },
+    {
+      "start_time": "00:09:24,320",
+      "end_time": "00:09:30,279",
+      "text": "opened that is why you had the vizer"
+    },
+    {
+      "start_time": "00:09:28,120",
+      "end_time": "00:09:33,279",
+      "text": "craft those runes outside the entrance"
+    },
+    {
+      "start_time": "00:09:30,279",
+      "end_time": "00:09:36,399",
+      "text": "to the Palace that was your preparations"
+    },
+    {
+      "start_time": "00:09:33,279",
+      "end_time": "00:09:39,040",
+      "text": "for this gate yes"
+    },
+    {
+      "start_time": "00:09:36,399",
+      "end_time": "00:09:39,800",
+      "text": "Fair let's say that everything you said"
+    },
+    {
+      "start_time": "00:09:39,040",
+      "end_time": "00:09:45,040",
+      "text": "is"
+    },
+    {
+      "start_time": "00:09:39,800",
+      "end_time": "00:09:48,680",
+      "text": "true why would I ever believe you you"
+    },
+    {
+      "start_time": "00:09:45,040",
+      "end_time": "00:09:51,360",
+      "text": "shouldn't believe me not on my word"
+    },
+    {
+      "start_time": "00:09:48,680",
+      "end_time": "00:09:54,160",
+      "text": "alone you have already seen the proof"
+    },
+    {
+      "start_time": "00:09:51,360",
+      "end_time": "00:09:59,079",
+      "text": "that cherylyn resides within my person I"
+    },
+    {
+      "start_time": "00:09:54,160",
+      "end_time": "00:10:03,120",
+      "text": "showed you Her Image you know that that"
+    },
+    {
+      "start_time": "00:09:59,079",
+      "end_time": "00:10:05,600",
+      "text": "was was her and sure enough Vil knows"
+    },
+    {
+      "start_time": "00:10:03,120",
+      "end_time": "00:10:08,519",
+      "text": "that the image she saw of sherylyn was"
+    },
+    {
+      "start_time": "00:10:05,600",
+      "end_time": "00:10:12,120",
+      "text": "definitely her that is the part that I"
+    },
+    {
+      "start_time": "00:10:08,519",
+      "end_time": "00:10:15,279",
+      "text": "have saved for last Veil within the city"
+    },
+    {
+      "start_time": "00:10:12,120",
+      "end_time": "00:10:17,839",
+      "text": "of norcar Lies not only the secrets to"
+    },
+    {
+      "start_time": "00:10:15,279",
+      "end_time": "00:10:21,399",
+      "text": "death and the secrets to"
+    },
+    {
+      "start_time": "00:10:17,839",
+      "end_time": "00:10:25,560",
+      "text": "undeath but the secrets to"
+    },
+    {
+      "start_time": "00:10:21,399",
+      "end_time": "00:10:29,640",
+      "text": "life once my body crumbles to dust"
+    },
+    {
+      "start_time": "00:10:25,560",
+      "end_time": "00:10:32,040",
+      "text": "within the city of narth"
+    },
+    {
+      "start_time": "00:10:29,640",
+      "end_time": "00:10:35,680",
+      "text": "cheryn soul will be"
+    },
+    {
+      "start_time": "00:10:32,040",
+      "end_time": "00:10:40,720",
+      "text": "freed from me and in that"
+    },
+    {
+      "start_time": "00:10:35,680",
+      "end_time": "00:10:45,519",
+      "text": "moment you can use her own soul to make"
+    },
+    {
+      "start_time": "00:10:40,720",
+      "end_time": "00:10:48,440",
+      "text": "her whole again to restore her to life"
+    },
+    {
+      "start_time": "00:10:45,519",
+      "end_time": "00:10:51,040",
+      "text": "that is big and if there is anything"
+    },
+    {
+      "start_time": "00:10:48,440",
+      "end_time": "00:10:54,000",
+      "text": "that is going to trigger veil's hope"
+    },
+    {
+      "start_time": "00:10:51,040",
+      "end_time": "00:10:57,680",
+      "text": "vain hope perhaps because remember this"
+    },
+    {
+      "start_time": "00:10:54,000",
+      "end_time": "00:11:00,959",
+      "text": "is her big weakness the idea that she"
+    },
+    {
+      "start_time": "00:10:57,680",
+      "end_time": "00:11:02,279",
+      "text": "can bring somehow oh somehow bring"
+    },
+    {
+      "start_time": "00:11:00,959",
+      "end_time": "00:11:05,760",
+      "text": "cheryn"
+    },
+    {
+      "start_time": "00:11:02,279",
+      "end_time": "00:11:08,959",
+      "text": "back he is telling her exactly what she"
+    },
+    {
+      "start_time": "00:11:05,760",
+      "end_time": "00:11:12,079",
+      "text": "wants to hear will she believe him we're"
+    },
+    {
+      "start_time": "00:11:08,959",
+      "end_time": "00:11:15,560",
+      "text": "going to find out but first you can"
+    },
+    {
+      "start_time": "00:11:12,079",
+      "end_time": "00:11:20,079",
+      "text": "bring her back No"
+    },
+    {
+      "start_time": "00:11:15,560",
+      "end_time": "00:11:22,760",
+      "text": "Veil you can you need to help me open"
+    },
+    {
+      "start_time": "00:11:20,079",
+      "end_time": "00:11:25,360",
+      "text": "the gate I am not yet strong enough the"
+    },
+    {
+      "start_time": "00:11:22,760",
+      "end_time": "00:11:27,920",
+      "text": "healing is not complete but with the"
+    },
+    {
+      "start_time": "00:11:25,360",
+      "end_time": "00:11:29,880",
+      "text": "spirit mantle you can finish what chevin"
+    },
+    {
+      "start_time": "00:11:27,920",
+      "end_time": "00:11:32,399",
+      "text": "started you"
+    },
+    {
+      "start_time": "00:11:29,880",
+      "end_time": "00:11:34,959",
+      "text": "can make me strong enough to open that"
+    },
+    {
+      "start_time": "00:11:32,399",
+      "end_time": "00:11:38,240",
+      "text": "gate and then together we will go"
+    },
+    {
+      "start_time": "00:11:34,959",
+      "end_time": "00:11:41,360",
+      "text": "through I will show you the secrets of"
+    },
+    {
+      "start_time": "00:11:38,240",
+      "end_time": "00:11:44,800",
+      "text": "purging Undead you will use that secrets"
+    },
+    {
+      "start_time": "00:11:41,360",
+      "end_time": "00:11:47,240",
+      "text": "to destroy me and in that moment restore"
+    },
+    {
+      "start_time": "00:11:44,800",
+      "end_time": "00:11:50,560",
+      "text": "cheryn you will walk through the gate"
+    },
+    {
+      "start_time": "00:11:47,240",
+      "end_time": "00:11:54,240",
+      "text": "back into the broken Empires you and"
+    },
+    {
+      "start_time": "00:11:50,560",
+      "end_time": "00:11:55,560",
+      "text": "cheryn can live lives of Peace at Last"
+    },
+    {
+      "start_time": "00:11:54,240",
+      "end_time": "00:11:58,079",
+      "text": "your vows"
+    },
+    {
+      "start_time": "00:11:55,560",
+      "end_time": "00:11:59,920",
+      "text": "fulfilled if the gate is to be made in"
+    },
+    {
+      "start_time": "00:11:58,079",
+      "end_time": "00:12:02,279",
+      "text": "the city of anaria and if if you need my"
+    },
+    {
+      "start_time": "00:11:59,920",
+      "end_time": "00:12:04,639",
+      "text": "help then why did you bring me all the"
+    },
+    {
+      "start_time": "00:12:02,279",
+      "end_time": "00:12:08,200",
+      "text": "way out here I knew you would never"
+    },
+    {
+      "start_time": "00:12:04,639",
+      "end_time": "00:12:12,720",
+      "text": "trust me I needed to demon straight an"
+    },
+    {
+      "start_time": "00:12:08,200",
+      "end_time": "00:12:14,760",
+      "text": "act of Good Will that I trust you inside"
+    },
+    {
+      "start_time": "00:12:12,720",
+      "end_time": "00:12:18,360",
+      "text": "the chambers in which your body Now lies"
+    },
+    {
+      "start_time": "00:12:14,760",
+      "end_time": "00:12:21,720",
+      "text": "sleeping there is a secret door it leads"
+    },
+    {
+      "start_time": "00:12:18,360",
+      "end_time": "00:12:26,560",
+      "text": "to my innermost Chambers inside that"
+    },
+    {
+      "start_time": "00:12:21,720",
+      "end_time": "00:12:30,800",
+      "text": "chamber is a repository of my Essence my"
+    },
+    {
+      "start_time": "00:12:26,560",
+      "end_time": "00:12:33,399",
+      "text": "phactory you can take my Flory and wrap"
+    },
+    {
+      "start_time": "00:12:30,800",
+      "end_time": "00:12:36,360",
+      "text": "it in the spirit mantle and bring it to"
+    },
+    {
+      "start_time": "00:12:33,399",
+      "end_time": "00:12:38,560",
+      "text": "the city once you reunite the felter"
+    },
+    {
+      "start_time": "00:12:36,360",
+      "end_time": "00:12:41,320",
+      "text": "with my body which is even now on route"
+    },
+    {
+      "start_time": "00:12:38,560",
+      "end_time": "00:12:44,040",
+      "text": "to the city being born hence by my"
+    },
+    {
+      "start_time": "00:12:41,320",
+      "end_time": "00:12:46,160",
+      "text": "servants that will allow cherin's power"
+    },
+    {
+      "start_time": "00:12:44,040",
+      "end_time": "00:12:47,959",
+      "text": "to complete the task that she started"
+    },
+    {
+      "start_time": "00:12:46,160",
+      "end_time": "00:12:50,360",
+      "text": "all those years ago to complete the"
+    },
+    {
+      "start_time": "00:12:47,959",
+      "end_time": "00:12:53,839",
+      "text": "healing that will give me the strength"
+    },
+    {
+      "start_time": "00:12:50,360",
+      "end_time": "00:12:59,399",
+      "text": "to open the gate you could do"
+    },
+    {
+      "start_time": "00:12:53,839",
+      "end_time": "00:13:02,360",
+      "text": "this or with the beest thought you could"
+    },
+    {
+      "start_time": "00:12:59,399",
+      "end_time": "00:13:04,279",
+      "text": "command the spirit mantle to put my"
+    },
+    {
+      "start_time": "00:13:02,360",
+      "end_time": "00:13:08,839",
+      "text": "Essence back into"
+    },
+    {
+      "start_time": "00:13:04,279",
+      "end_time": "00:13:13,720",
+      "text": "Slumber for centuries into your hands I"
+    },
+    {
+      "start_time": "00:13:08,839",
+      "end_time": "00:13:13,720",
+      "text": "literally commend my"
+    },
+    {
+      "start_time": "00:13:14,639",
+      "end_time": "00:13:21,800",
+      "text": "spirit let me be absolutely"
+    },
+    {
+      "start_time": "00:13:18,120",
+      "end_time": "00:13:23,880",
+      "text": "clear you want me to reunite your body"
+    },
+    {
+      "start_time": "00:13:21,800",
+      "end_time": "00:13:25,839",
+      "text": "with the fatory having healed it in the"
+    },
+    {
+      "start_time": "00:13:23,880",
+      "end_time": "00:13:28,120",
+      "text": "spirit mantle which will allow you to"
+    },
+    {
+      "start_time": "00:13:25,839",
+      "end_time": "00:13:31,199",
+      "text": "open the gate through which we will both"
+    },
+    {
+      "start_time": "00:13:28,120",
+      "end_time": "00:13:33,760",
+      "text": "go and at that time you will give me the"
+    },
+    {
+      "start_time": "00:13:31,199",
+      "end_time": "00:13:35,959",
+      "text": "knowledge of how to destroy all Undead"
+    },
+    {
+      "start_time": "00:13:33,760",
+      "end_time": "00:13:38,279",
+      "text": "within the broken Empires which will"
+    },
+    {
+      "start_time": "00:13:35,959",
+      "end_time": "00:13:41,360",
+      "text": "destroy you and free the spirit of"
+    },
+    {
+      "start_time": "00:13:38,279",
+      "end_time": "00:13:42,639",
+      "text": "cheryn where she may be remade don't"
+    },
+    {
+      "start_time": "00:13:41,360",
+      "end_time": "00:13:46,120",
+      "text": "believe"
+    },
+    {
+      "start_time": "00:13:42,639",
+      "end_time": "00:13:49,040",
+      "text": "me believe what your heart tells you to"
+    },
+    {
+      "start_time": "00:13:46,120",
+      "end_time": "00:13:51,480",
+      "text": "be true but whatever you decide to do it"
+    },
+    {
+      "start_time": "00:13:49,040",
+      "end_time": "00:13:53,800",
+      "text": "quickly the great conjunction of stars"
+    },
+    {
+      "start_time": "00:13:51,480",
+      "end_time": "00:13:57,199",
+      "text": "is even now forming over the city of"
+    },
+    {
+      "start_time": "00:13:53,800",
+      "end_time": "00:13:59,839",
+      "text": "anaria once that window passes it will"
+    },
+    {
+      "start_time": "00:13:57,199",
+      "end_time": "00:14:04,120",
+      "text": "no longer be possible to open the"
+    },
+    {
+      "start_time": "00:13:59,839",
+      "end_time": "00:14:07,040",
+      "text": "gate time is running out and then she"
+    },
+    {
+      "start_time": "00:14:04,120",
+      "end_time": "00:14:11,160",
+      "text": "wakes up in the"
+    },
+    {
+      "start_time": "00:14:07,040",
+      "end_time": "00:14:15,839",
+      "text": "chamber somewhat taken aback by all that"
+    },
+    {
+      "start_time": "00:14:11,160",
+      "end_time": "00:14:18,279",
+      "text": "she has seen thrag and Wati are looking"
+    },
+    {
+      "start_time": "00:14:15,839",
+      "end_time": "00:14:21,079",
+      "text": "with concern on on her but very very"
+    },
+    {
+      "start_time": "00:14:18,279",
+      "end_time": "00:14:24,399",
+      "text": "relieved obviously once um once she"
+    },
+    {
+      "start_time": "00:14:21,079",
+      "end_time": "00:14:27,040",
+      "text": "wakens and stands up she tells thrag"
+    },
+    {
+      "start_time": "00:14:24,399",
+      "end_time": "00:14:29,279",
+      "text": "everything that happened obviously thrag"
+    },
+    {
+      "start_time": "00:14:27,040",
+      "end_time": "00:14:31,399",
+      "text": "doesn't believe a word of it I mean"
+    },
+    {
+      "start_time": "00:14:29,279",
+      "end_time": "00:14:33,720",
+      "text": "would you I wouldn't don't think for a"
+    },
+    {
+      "start_time": "00:14:31,399",
+      "end_time": "00:14:38,440",
+      "text": "moment thrag that I believe any of his"
+    },
+    {
+      "start_time": "00:14:33,720",
+      "end_time": "00:14:40,839",
+      "text": "lies for indeed lies they must be but I"
+    },
+    {
+      "start_time": "00:14:38,440",
+      "end_time": "00:14:42,959",
+      "text": "saw sherlyn's Spirit within him and I"
+    },
+    {
+      "start_time": "00:14:40,839",
+      "end_time": "00:14:46,880",
+      "text": "know it was no"
+    },
+    {
+      "start_time": "00:14:42,959",
+      "end_time": "00:14:48,959",
+      "text": "illusion she is within him at least a"
+    },
+    {
+      "start_time": "00:14:46,880",
+      "end_time": "00:14:51,880",
+      "text": "part of her that part of his story Rings"
+    },
+    {
+      "start_time": "00:14:48,959",
+      "end_time": "00:14:55,839",
+      "text": "true at least and if that is the"
+    },
+    {
+      "start_time": "00:14:51,880",
+      "end_time": "00:14:57,959",
+      "text": "case then maybe within this norcar she"
+    },
+    {
+      "start_time": "00:14:55,839",
+      "end_time": "00:14:59,560",
+      "text": "can be brought back thragg looks"
+    },
+    {
+      "start_time": "00:14:57,959",
+      "end_time": "00:15:01,480",
+      "text": "extremely skeptical"
+    },
+    {
+      "start_time": "00:14:59,560",
+      "end_time": "00:15:04,440",
+      "text": "of course but he doesn't say anything"
+    },
+    {
+      "start_time": "00:15:01,480",
+      "end_time": "00:15:07,560",
+      "text": "does respond at the very least we should"
+    },
+    {
+      "start_time": "00:15:04,440",
+      "end_time": "00:15:10,800",
+      "text": "see if the secret chamber exists or not"
+    },
+    {
+      "start_time": "00:15:07,560",
+      "end_time": "00:15:13,440",
+      "text": "so they look now the thing is is that"
+    },
+    {
+      "start_time": "00:15:10,800",
+      "end_time": "00:15:16,600",
+      "text": "mozo is good for his words as she's"
+    },
+    {
+      "start_time": "00:15:13,440",
+      "end_time": "00:15:18,399",
+      "text": "looking at the far wall she sees like a"
+    },
+    {
+      "start_time": "00:15:16,600",
+      "end_time": "00:15:20,680",
+      "text": "concealed door basically and she's a"
+    },
+    {
+      "start_time": "00:15:18,399",
+      "end_time": "00:15:22,240",
+      "text": "easily able to pull it aside with the"
+    },
+    {
+      "start_time": "00:15:20,680",
+      "end_time": "00:15:24,440",
+      "text": "the grading of stone on Stone and there"
+    },
+    {
+      "start_time": "00:15:22,240",
+      "end_time": "00:15:25,959",
+      "text": "is a dark passage ahead of them she"
+    },
+    {
+      "start_time": "00:15:24,440",
+      "end_time": "00:15:29,160",
+      "text": "still has the lit torch or rather thrag"
+    },
+    {
+      "start_time": "00:15:25,959",
+      "end_time": "00:15:33,360",
+      "text": "does they cautiously make their way down"
+    },
+    {
+      "start_time": "00:15:29,160",
+      "end_time": "00:15:36,279",
+      "text": "this sloping ramp uh in this this Stone"
+    },
+    {
+      "start_time": "00:15:33,360",
+      "end_time": "00:15:38,319",
+      "text": "Corridor down towards a chamber and in"
+    },
+    {
+      "start_time": "00:15:36,279",
+      "end_time": "00:15:40,759",
+      "text": "the chamber I think it's largely empty"
+    },
+    {
+      "start_time": "00:15:38,319",
+      "end_time": "00:15:42,560",
+      "text": "but maybe at one point this was decked"
+    },
+    {
+      "start_time": "00:15:40,759",
+      "end_time": "00:15:45,000",
+      "text": "out to look kind of like a like a"
+    },
+    {
+      "start_time": "00:15:42,560",
+      "end_time": "00:15:46,720",
+      "text": "bedroom of sorts uh maybe a laboratory"
+    },
+    {
+      "start_time": "00:15:45,000",
+      "end_time": "00:15:48,600",
+      "text": "of sorts but there's very little here"
+    },
+    {
+      "start_time": "00:15:46,720",
+      "end_time": "00:15:50,360",
+      "text": "now I think in the in in the center of"
+    },
+    {
+      "start_time": "00:15:48,600",
+      "end_time": "00:15:52,040",
+      "text": "the room there's sort of like outlines"
+    },
+    {
+      "start_time": "00:15:50,360",
+      "end_time": "00:15:54,720",
+      "text": "on the dust of what might have once been"
+    },
+    {
+      "start_time": "00:15:52,040",
+      "end_time": "00:15:56,360",
+      "text": "a sarcophagus so it looks like indeed"
+    },
+    {
+      "start_time": "00:15:54,720",
+      "end_time": "00:15:58,240",
+      "text": "mooth was telling the truth about his"
+    },
+    {
+      "start_time": "00:15:56,360",
+      "end_time": "00:16:01,279",
+      "text": "servants coming to remove his body cuz"
+    },
+    {
+      "start_time": "00:15:58,240",
+      "end_time": "00:16:03,319",
+      "text": "there ain't nothing here but on a on a"
+    },
+    {
+      "start_time": "00:16:01,279",
+      "end_time": "00:16:05,680",
+      "text": "bookshelf essentially a small uh"
+    },
+    {
+      "start_time": "00:16:03,319",
+      "end_time": "00:16:07,360",
+      "text": "laboratory table against the back wall"
+    },
+    {
+      "start_time": "00:16:05,680",
+      "end_time": "00:16:09,440",
+      "text": "uh there's a series of TOMS as well as a"
+    },
+    {
+      "start_time": "00:16:07,360",
+      "end_time": "00:16:11,240",
+      "text": "series of what is obviously alchemical"
+    },
+    {
+      "start_time": "00:16:09,440",
+      "end_time": "00:16:14,519",
+      "text": "supplies regions that sort of stuff and"
+    },
+    {
+      "start_time": "00:16:11,240",
+      "end_time": "00:16:17,319",
+      "text": "on that table is what can only be the"
+    },
+    {
+      "start_time": "00:16:14,519",
+      "end_time": "00:16:19,759",
+      "text": "lich's phactory but what does it look"
+    },
+    {
+      "start_time": "00:16:17,319",
+      "end_time": "00:16:21,839",
+      "text": "like I have no idea uh I'm just going to"
+    },
+    {
+      "start_time": "00:16:19,759",
+      "end_time": "00:16:26,959",
+      "text": "roll two words from Mythic and get a"
+    },
+    {
+      "start_time": "00:16:21,839",
+      "end_time": "00:16:26,959",
+      "text": "sense of anything six"
+    },
+    {
+      "start_time": "00:16:27,519",
+      "end_time": "00:16:32,959",
+      "text": "deceive even the tables telling me that"
+    },
+    {
+      "start_time": "00:16:29,880",
+      "end_time": "00:16:34,560",
+      "text": "this is a mistake deceive"
+    },
+    {
+      "start_time": "00:16:32,959",
+      "end_time": "00:16:38,120",
+      "text": "85"
+    },
+    {
+      "start_time": "00:16:34,560",
+      "end_time": "00:16:41,720",
+      "text": "success okay deception of success okay"
+    },
+    {
+      "start_time": "00:16:38,120",
+      "end_time": "00:16:44,120",
+      "text": "um okay then in that case what she sees"
+    },
+    {
+      "start_time": "00:16:41,720",
+      "end_time": "00:16:44,120",
+      "text": "on the"
+    },
+    {
+      "start_time": "00:16:44,440",
+      "end_time": "00:16:52,319",
+      "text": "table is a lamp not a Genies lamp from"
+    },
+    {
+      "start_time": "00:16:49,120",
+      "end_time": "00:16:56,959",
+      "text": "Aladdin no no no no it is a lamp that"
+    },
+    {
+      "start_time": "00:16:52,319",
+      "end_time": "00:16:59,959",
+      "text": "looks a lot like the"
+    },
+    {
+      "start_time": "00:16:56,959",
+      "end_time": "00:17:02,000",
+      "text": "lamp in the chamber of the the soul cage"
+    },
+    {
+      "start_time": "00:16:59,959",
+      "end_time": "00:17:04,799",
+      "text": "so this takes Veil back because she"
+    },
+    {
+      "start_time": "00:17:02,000",
+      "end_time": "00:17:07,720",
+      "text": "suddenly remembers the events in the"
+    },
+    {
+      "start_time": "00:17:04,799",
+      "end_time": "00:17:09,679",
+      "text": "chamber about how she saw cherylyn"
+    },
+    {
+      "start_time": "00:17:07,720",
+      "end_time": "00:17:12,360",
+      "text": "beyond the portal with edbert how she"
+    },
+    {
+      "start_time": "00:17:09,679",
+      "end_time": "00:17:15,199",
+      "text": "saw cherylyn decide to sacrifice herself"
+    },
+    {
+      "start_time": "00:17:12,360",
+      "end_time": "00:17:17,720",
+      "text": "to save edbert because she decided to"
+    },
+    {
+      "start_time": "00:17:15,199",
+      "end_time": "00:17:19,880",
+      "text": "forgive him for for wrongly tormenting"
+    },
+    {
+      "start_time": "00:17:17,720",
+      "end_time": "00:17:23,439",
+      "text": "him all those years she saw her chance"
+    },
+    {
+      "start_time": "00:17:19,880",
+      "end_time": "00:17:25,319",
+      "text": "of retrieving cherylyn slip away from"
+    },
+    {
+      "start_time": "00:17:23,439",
+      "end_time": "00:17:27,720",
+      "text": "her grasp like Sands through an"
+    },
+    {
+      "start_time": "00:17:25,319",
+      "end_time": "00:17:29,240",
+      "text": "hourglass she sees all of this again"
+    },
+    {
+      "start_time": "00:17:27,720",
+      "end_time": "00:17:32,080",
+      "text": "flash through her mind as she is looking"
+    },
+    {
+      "start_time": "00:17:29,240",
+      "end_time": "00:17:34,480",
+      "text": "at this lamp yes this lamp this felter"
+    },
+    {
+      "start_time": "00:17:32,080",
+      "end_time": "00:17:37,440",
+      "text": "of the Lich which by total"
+    },
+    {
+      "start_time": "00:17:34,480",
+      "end_time": "00:17:39,919",
+      "text": "coincidence looks a lot like the lamp"
+    },
+    {
+      "start_time": "00:17:37,440",
+      "end_time": "00:17:42,360",
+      "text": "that was the soul cage although it is"
+    },
+    {
+      "start_time": "00:17:39,919",
+      "end_time": "00:17:46,039",
+      "text": "not the soul cage it is its own thing"
+    },
+    {
+      "start_time": "00:17:42,360",
+      "end_time": "00:17:49,840",
+      "text": "she goes over to it and she pulls forth"
+    },
+    {
+      "start_time": "00:17:46,039",
+      "end_time": "00:17:51,840",
+      "text": "the spirit mantle shimmering seite or"
+    },
+    {
+      "start_time": "00:17:49,840",
+      "end_time": "00:17:53,679",
+      "text": "whatever it's made of and she pulls it"
+    },
+    {
+      "start_time": "00:17:51,840",
+      "end_time": "00:17:56,760",
+      "text": "out she can feel it thrumming with"
+    },
+    {
+      "start_time": "00:17:53,679",
+      "end_time": "00:17:59,000",
+      "text": "cheryn power she can feel it brimming"
+    },
+    {
+      "start_time": "00:17:56,760",
+      "end_time": "00:18:03,320",
+      "text": "with the last of sherlyn's Earthly power"
+    },
+    {
+      "start_time": "00:17:59,000",
+      "end_time": "00:18:05,080",
+      "text": "she knows she knows that this item just"
+    },
+    {
+      "start_time": "00:18:03,320",
+      "end_time": "00:18:08,280",
+      "text": "like she was told just like she was told"
+    },
+    {
+      "start_time": "00:18:05,080",
+      "end_time": "00:18:10,200",
+      "text": "by Cyrus that if she wraps the Lich"
+    },
+    {
+      "start_time": "00:18:08,280",
+      "end_time": "00:18:13,480",
+      "text": "presumably this phactory in the spirit"
+    },
+    {
+      "start_time": "00:18:10,200",
+      "end_time": "00:18:17,600",
+      "text": "mantle she can command him to go back to"
+    },
+    {
+      "start_time": "00:18:13,480",
+      "end_time": "00:18:20,520",
+      "text": "sleep this is her big moment there she"
+    },
+    {
+      "start_time": "00:18:17,600",
+      "end_time": "00:18:22,000",
+      "text": "stands the Flory on the table she goes"
+    },
+    {
+      "start_time": "00:18:20,520",
+      "end_time": "00:18:23,600",
+      "text": "and she takes the Flory I think the"
+    },
+    {
+      "start_time": "00:18:22,000",
+      "end_time": "00:18:26,640",
+      "text": "lamp's pretty big it's probably like Yay"
+    },
+    {
+      "start_time": "00:18:23,600",
+      "end_time": "00:18:29,520",
+      "text": "big she takes it in one hand she pulls"
+    },
+    {
+      "start_time": "00:18:26,640",
+      "end_time": "00:18:33,400",
+      "text": "the spirit mantle and she takes the lamp"
+    },
+    {
+      "start_time": "00:18:29,520",
+      "end_time": "00:18:36,159",
+      "text": "and she puts it in the cloth and wraps"
+    },
+    {
+      "start_time": "00:18:33,400",
+      "end_time": "00:18:39,679",
+      "text": "the lamp in the spirit mantle and at"
+    },
+    {
+      "start_time": "00:18:36,159",
+      "end_time": "00:18:42,280",
+      "text": "that moment thrag says says to her do it"
+    },
+    {
+      "start_time": "00:18:39,679",
+      "end_time": "00:18:44,080",
+      "text": "Veil command the spirit mantle to put"
+    },
+    {
+      "start_time": "00:18:42,280",
+      "end_time": "00:18:46,440",
+      "text": "him back to sleep or destroy him if you"
+    },
+    {
+      "start_time": "00:18:44,080",
+      "end_time": "00:18:49,840",
+      "text": "can do it and"
+    },
+    {
+      "start_time": "00:18:46,440",
+      "end_time": "00:18:54,280",
+      "text": "Veil looks at the lamp wrapped in the"
+    },
+    {
+      "start_time": "00:18:49,840",
+      "end_time": "00:18:57,080",
+      "text": "spirit mantle this is her choice if she"
+    },
+    {
+      "start_time": "00:18:54,280",
+      "end_time": "00:18:59,799",
+      "text": "commands the spirit mantle to put him"
+    },
+    {
+      "start_time": "00:18:57,080",
+      "end_time": "00:19:02,240",
+      "text": "back to sleep then she will succeeded in"
+    },
+    {
+      "start_time": "00:18:59,799",
+      "end_time": "00:19:06,760",
+      "text": "her Mission so simple all she has to do"
+    },
+    {
+      "start_time": "00:19:02,240",
+      "end_time": "00:19:09,799",
+      "text": "is command it but if she does that she"
+    },
+    {
+      "start_time": "00:19:06,760",
+      "end_time": "00:19:13,840",
+      "text": "may be saying goodbye to the only and"
+    },
+    {
+      "start_time": "00:19:09,799",
+      "end_time": "00:19:17,720",
+      "text": "the last chance she will ever have of"
+    },
+    {
+      "start_time": "00:19:13,840",
+      "end_time": "00:19:21,039",
+      "text": "restoring her master cherylyn Spirit"
+    },
+    {
+      "start_time": "00:19:17,720",
+      "end_time": "00:19:23,480",
+      "text": "Bane this is Bale's fatal flaw this is"
+    },
+    {
+      "start_time": "00:19:21,039",
+      "end_time": "00:19:26,640",
+      "text": "the thing that drives everything she"
+    },
+    {
+      "start_time": "00:19:23,480",
+      "end_time": "00:19:29,240",
+      "text": "does to protect sherlyn's Legacy but not"
+    },
+    {
+      "start_time": "00:19:26,640",
+      "end_time": "00:19:32,720",
+      "text": "only that if with Thea SE is true she"
+    },
+    {
+      "start_time": "00:19:29,240",
+      "end_time": "00:19:35,120",
+      "text": "could restore cherylyn and also fulfill"
+    },
+    {
+      "start_time": "00:19:32,720",
+      "end_time": "00:19:37,400",
+      "text": "the vow of every member of the order of"
+    },
+    {
+      "start_time": "00:19:35,120",
+      "end_time": "00:19:40,799",
+      "text": "the purifying flame but more than"
+    },
+    {
+      "start_time": "00:19:37,400",
+      "end_time": "00:19:44,120",
+      "text": "anything the question is not does she"
+    },
+    {
+      "start_time": "00:19:40,799",
+      "end_time": "00:19:46,000",
+      "text": "believe mataro obviously she's skeptical"
+    },
+    {
+      "start_time": "00:19:44,120",
+      "end_time": "00:19:48,799",
+      "text": "of him obviously she's suspicious that's"
+    },
+    {
+      "start_time": "00:19:46,000",
+      "end_time": "00:19:51,679",
+      "text": "not even a question the question is does"
+    },
+    {
+      "start_time": "00:19:48,799",
+      "end_time": "00:19:53,120",
+      "text": "her fatal flaw come to play does she and"
+    },
+    {
+      "start_time": "00:19:51,679",
+      "end_time": "00:19:54,679",
+      "text": "by the way I don't know if matarat is"
+    },
+    {
+      "start_time": "00:19:53,120",
+      "end_time": "00:19:56,640",
+      "text": "completely telling the truth or not I'm"
+    },
+    {
+      "start_time": "00:19:54,679",
+      "end_time": "00:19:58,200",
+      "text": "going to find out but but cuz I don't"
+    },
+    {
+      "start_time": "00:19:56,640",
+      "end_time": "00:20:00,559",
+      "text": "want to know I want to find out his"
+    },
+    {
+      "start_time": "00:19:58,200",
+      "end_time": "00:20:03,240",
+      "text": "failed as covers it but as she's holding"
+    },
+    {
+      "start_time": "00:20:00,559",
+      "end_time": "00:20:06,000",
+      "text": "this Fela in her hands the question"
+    },
+    {
+      "start_time": "00:20:03,240",
+      "end_time": "00:20:08,000",
+      "text": "becomes does she air on the side of Hope"
+    },
+    {
+      "start_time": "00:20:06,000",
+      "end_time": "00:20:10,039",
+      "text": "where maybe if if even a part of what"
+    },
+    {
+      "start_time": "00:20:08,000",
+      "end_time": "00:20:12,960",
+      "text": "the Lich is saying is true that she"
+    },
+    {
+      "start_time": "00:20:10,039",
+      "end_time": "00:20:16,640",
+      "text": "could use this this mysterious nor karth"
+    },
+    {
+      "start_time": "00:20:12,960",
+      "end_time": "00:20:19,640",
+      "text": "to to bring cheryn back or does she air"
+    },
+    {
+      "start_time": "00:20:16,640",
+      "end_time": "00:20:22,000",
+      "text": "on the side of cynicism that no there's"
+    },
+    {
+      "start_time": "00:20:19,640",
+      "end_time": "00:20:26,039",
+      "text": "no way that she has to let she has to"
+    },
+    {
+      "start_time": "00:20:22,000",
+      "end_time": "00:20:28,200",
+      "text": "let Sherin go this is a big moment and"
+    },
+    {
+      "start_time": "00:20:26,039",
+      "end_time": "00:20:29,400",
+      "text": "because the dice always tell the story"
+    },
+    {
+      "start_time": "00:20:28,200",
+      "end_time": "00:20:31,360",
+      "text": "I'm going to roll for it now what am I"
+    },
+    {
+      "start_time": "00:20:29,400",
+      "end_time": "00:20:33,960",
+      "text": "going to roll I'm not going to roll on"
+    },
+    {
+      "start_time": "00:20:31,360",
+      "end_time": "00:20:35,880",
+      "text": "the Fate chart no I'm going to roll our"
+    },
+    {
+      "start_time": "00:20:33,960",
+      "end_time": "00:20:37,400",
+      "text": "personality mechanics the personality"
+    },
+    {
+      "start_time": "00:20:35,880",
+      "end_time": "00:20:38,840",
+      "text": "mechanics which are fully optional"
+    },
+    {
+      "start_time": "00:20:37,400",
+      "end_time": "00:20:41,240",
+      "text": "completely optional in this game are"
+    },
+    {
+      "start_time": "00:20:38,840",
+      "end_time": "00:20:42,480",
+      "text": "there to help players decide what to do"
+    },
+    {
+      "start_time": "00:20:41,240",
+      "end_time": "00:20:44,840",
+      "text": "when they don't know what the character"
+    },
+    {
+      "start_time": "00:20:42,480",
+      "end_time": "00:20:46,880",
+      "text": "would do and I don't know what the"
+    },
+    {
+      "start_time": "00:20:44,840",
+      "end_time": "00:20:49,520",
+      "text": "character is going to do so let's find"
+    },
+    {
+      "start_time": "00:20:46,880",
+      "end_time": "00:20:51,960",
+      "text": "out on the personality chart two of the"
+    },
+    {
+      "start_time": "00:20:49,520",
+      "end_time": "00:20:54,640",
+      "text": "possible outcomes are hopeful versus"
+    },
+    {
+      "start_time": "00:20:51,960",
+      "end_time": "00:20:56,640",
+      "text": "cynical she has a 60 in that which means"
+    },
+    {
+      "start_time": "00:20:54,640",
+      "end_time": "00:20:59,200",
+      "text": "there's a basically a 60% chance of her"
+    },
+    {
+      "start_time": "00:20:56,640",
+      "end_time": "00:21:01,799",
+      "text": "airing towards hope"
+    },
+    {
+      "start_time": "00:20:59,200",
+      "end_time": "00:21:03,810",
+      "text": "and a 40% chance of her moving towards"
+    },
+    {
+      "start_time": "00:21:01,799",
+      "end_time": "00:21:06,559",
+      "text": "cynical I'm going to"
+    },
+    {
+      "start_time": "00:21:03,810",
+      "end_time": "00:21:09,919",
+      "text": "[Laughter]"
+    },
+    {
+      "start_time": "00:21:06,559",
+      "end_time": "00:21:11,880",
+      "text": "roll does she retain hope that a part of"
+    },
+    {
+      "start_time": "00:21:09,919",
+      "end_time": "00:21:13,640",
+      "text": "the L's plan could be used even if she"
+    },
+    {
+      "start_time": "00:21:11,880",
+      "end_time": "00:21:16,600",
+      "text": "tries to trick him or whatever the case"
+    },
+    {
+      "start_time": "00:21:13,640",
+      "end_time": "00:21:17,960",
+      "text": "she's not an idiot but is there a way"
+    },
+    {
+      "start_time": "00:21:16,600",
+      "end_time": "00:21:20,400",
+      "text": "for her does she believe that there's a"
+    },
+    {
+      "start_time": "00:21:17,960",
+      "end_time": "00:21:24,400",
+      "text": "way for her to actually restore cherylyn"
+    },
+    {
+      "start_time": "00:21:20,400",
+      "end_time": "00:21:27,840",
+      "text": "or does she not believe that at all this"
+    },
+    {
+      "start_time": "00:21:24,400",
+      "end_time": "00:21:30,760",
+      "text": "is what it comes down to 60 or less is"
+    },
+    {
+      "start_time": "00:21:27,840",
+      "end_time": "00:21:36,360",
+      "text": "the hopeful outcome here we"
+    },
+    {
+      "start_time": "00:21:30,760",
+      "end_time": "00:21:39,679",
+      "text": "go 38 is the hopeful outcome she"
+    },
+    {
+      "start_time": "00:21:36,360",
+      "end_time": "00:21:41,880",
+      "text": "completes the wrapping of the the lamp"
+    },
+    {
+      "start_time": "00:21:39,679",
+      "end_time": "00:21:45,279",
+      "text": "of the felter in the spirit mantle and"
+    },
+    {
+      "start_time": "00:21:41,880",
+      "end_time": "00:21:47,679",
+      "text": "at that moment she hears mozo's voice in"
+    },
+    {
+      "start_time": "00:21:45,279",
+      "end_time": "00:21:49,559",
+      "text": "Her Mind although she's not sure whether"
+    },
+    {
+      "start_time": "00:21:47,679",
+      "end_time": "00:21:51,360",
+      "text": "it's just a memory she's she's hearing"
+    },
+    {
+      "start_time": "00:21:49,559",
+      "end_time": "00:21:53,880",
+      "text": "or whether she actually hears his voice"
+    },
+    {
+      "start_time": "00:21:51,360",
+      "end_time": "00:21:59,320",
+      "text": "it's difficult to tell but she hears him"
+    },
+    {
+      "start_time": "00:21:53,880",
+      "end_time": "00:22:02,200",
+      "text": "say the choice is yours and she looks at"
+    },
+    {
+      "start_time": "00:21:59,320",
+      "end_time": "00:22:04,279",
+      "text": "this bundle she looks to thrag I do not"
+    },
+    {
+      "start_time": "00:22:02,200",
+      "end_time": "00:22:07,520",
+      "text": "believe him for a moment"
+    },
+    {
+      "start_time": "00:22:04,279",
+      "end_time": "00:22:11,799",
+      "text": "thrag but I do believe what I saw and"
+    },
+    {
+      "start_time": "00:22:07,520",
+      "end_time": "00:22:15,120",
+      "text": "felt cheryn is somehow within"
+    },
+    {
+      "start_time": "00:22:11,799",
+      "end_time": "00:22:17,080",
+      "text": "him and if in this eternal City there"
+    },
+    {
+      "start_time": "00:22:15,120",
+      "end_time": "00:22:18,400",
+      "text": "are secrets to life and death as he"
+    },
+    {
+      "start_time": "00:22:17,080",
+      "end_time": "00:22:22,279",
+      "text": "claims"
+    },
+    {
+      "start_time": "00:22:18,400",
+      "end_time": "00:22:25,840",
+      "text": "which that may be a lie or"
+    },
+    {
+      "start_time": "00:22:22,279",
+      "end_time": "00:22:30,000",
+      "text": "not but as far as I'm concerned this"
+    },
+    {
+      "start_time": "00:22:25,840",
+      "end_time": "00:22:32,559",
+      "text": "represents my best and last chance"
+    },
+    {
+      "start_time": "00:22:30,000",
+      "end_time": "00:22:35,080",
+      "text": "to bring her back you saw the choice"
+    },
+    {
+      "start_time": "00:22:32,559",
+      "end_time": "00:22:38,400",
+      "text": "that cherylyn made within the soul cage"
+    },
+    {
+      "start_time": "00:22:35,080",
+      "end_time": "00:22:42,000",
+      "text": "veil would you undo that choice to"
+    },
+    {
+      "start_time": "00:22:38,400",
+      "end_time": "00:22:44,799",
+      "text": "service your own grief well that's"
+    },
+    {
+      "start_time": "00:22:42,000",
+      "end_time": "00:22:47,320",
+      "text": "that's very profound on thr's part his"
+    },
+    {
+      "start_time": "00:22:44,799",
+      "end_time": "00:22:48,840",
+      "text": "wit isn't even that high does that"
+    },
+    {
+      "start_time": "00:22:47,320",
+      "end_time": "00:22:51,360",
+      "text": "actually shake her out of this is that"
+    },
+    {
+      "start_time": "00:22:48,840",
+      "end_time": "00:22:53,840",
+      "text": "enough to break her from this this idea"
+    },
+    {
+      "start_time": "00:22:51,360",
+      "end_time": "00:22:56,360",
+      "text": "this hopeful idea I'm going to roll a"
+    },
+    {
+      "start_time": "00:22:53,840",
+      "end_time": "00:22:58,559",
+      "text": "skill check let's see I mean I doubt it"
+    },
+    {
+      "start_time": "00:22:56,360",
+      "end_time": "00:23:00,120",
+      "text": "thrag has a very very low wit and I I"
+    },
+    {
+      "start_time": "00:22:58,559",
+      "end_time": "00:23:02,440",
+      "text": "think that's what this is well it could"
+    },
+    {
+      "start_time": "00:23:00,120",
+      "end_time": "00:23:04,360",
+      "text": "be inpire as well well either way it's"
+    },
+    {
+      "start_time": "00:23:02,440",
+      "end_time": "00:23:05,960",
+      "text": "terrible he's rolling very very very low"
+    },
+    {
+      "start_time": "00:23:04,360",
+      "end_time": "00:23:08,520",
+      "text": "this is a 15% chance it's going to have"
+    },
+    {
+      "start_time": "00:23:05,960",
+      "end_time": "00:23:10,400",
+      "text": "any effect uh oh so close so close but"
+    },
+    {
+      "start_time": "00:23:08,520",
+      "end_time": "00:23:13,120",
+      "text": "no it does not have an effect and she"
+    },
+    {
+      "start_time": "00:23:10,400",
+      "end_time": "00:23:16,520",
+      "text": "says to him your words move me my"
+    },
+    {
+      "start_time": "00:23:13,120",
+      "end_time": "00:23:19,840",
+      "text": "friend but I know what I saw sheryn is"
+    },
+    {
+      "start_time": "00:23:16,520",
+      "end_time": "00:23:22,200",
+      "text": "not yet gone she lives still at least a"
+    },
+    {
+      "start_time": "00:23:19,840",
+      "end_time": "00:23:26,799",
+      "text": "portion of her does within him and I"
+    },
+    {
+      "start_time": "00:23:22,200",
+      "end_time": "00:23:30,640",
+      "text": "intend to free her and restore her if I"
+    },
+    {
+      "start_time": "00:23:26,799",
+      "end_time": "00:23:33,720",
+      "text": "can and with that she grasps the wrapped"
+    },
+    {
+      "start_time": "00:23:30,640",
+      "end_time": "00:23:37,039",
+      "text": "felter in the spirit mantle and she"
+    },
+    {
+      "start_time": "00:23:33,720",
+      "end_time": "00:23:40,200",
+      "text": "Wills the spirit mantle to begin the"
+    },
+    {
+      "start_time": "00:23:37,039",
+      "end_time": "00:23:42,279",
+      "text": "healing process or rather to complete"
+    },
+    {
+      "start_time": "00:23:40,200",
+      "end_time": "00:23:44,520",
+      "text": "the healing process that cherylyn"
+    },
+    {
+      "start_time": "00:23:42,279",
+      "end_time": "00:23:46,840",
+      "text": "started according to the Lynch all of"
+    },
+    {
+      "start_time": "00:23:44,520",
+      "end_time": "00:23:49,400",
+      "text": "those years ago and she feels the power"
+    },
+    {
+      "start_time": "00:23:46,840",
+      "end_time": "00:23:53,000",
+      "text": "of the spirit mantle slowly slowly"
+    },
+    {
+      "start_time": "00:23:49,400",
+      "end_time": "00:23:56,159",
+      "text": "slowly infusing the phactory she feels"
+    },
+    {
+      "start_time": "00:23:53,000",
+      "end_time": "00:23:59,840",
+      "text": "its Essence draining slowly draining"
+    },
+    {
+      "start_time": "00:23:56,159",
+      "end_time": "00:24:04,799",
+      "text": "from the spirit mantle in into this Soul"
+    },
+    {
+      "start_time": "00:23:59,840",
+      "end_time": "00:24:07,520",
+      "text": "jar of sorts of the liches and she knows"
+    },
+    {
+      "start_time": "00:24:04,799",
+      "end_time": "00:24:09,919",
+      "text": "that for good or for ill she has made"
+    },
+    {
+      "start_time": "00:24:07,520",
+      "end_time": "00:24:12,080",
+      "text": "her choice and with that she tucks it"
+    },
+    {
+      "start_time": "00:24:09,919",
+      "end_time": "00:24:14,000",
+      "text": "away in her pack and says this great"
+    },
+    {
+      "start_time": "00:24:12,080",
+      "end_time": "00:24:17,640",
+      "text": "conjunction of stars that the Lich"
+    },
+    {
+      "start_time": "00:24:14,000",
+      "end_time": "00:24:20,799",
+      "text": "speaks of he says it is coming soon it"
+    },
+    {
+      "start_time": "00:24:17,640",
+      "end_time": "00:24:22,799",
+      "text": "is time to go thrag moves back into the"
+    },
+    {
+      "start_time": "00:24:20,799",
+      "end_time": "00:24:25,760",
+      "text": "chamber where"
+    },
+    {
+      "start_time": "00:24:22,799",
+      "end_time": "00:24:28,720",
+      "text": "watti is awaiting them we must return to"
+    },
+    {
+      "start_time": "00:24:25,760",
+      "end_time": "00:24:31,039",
+      "text": "anera my friend as fast as you can get"
+    },
+    {
+      "start_time": "00:24:28,720",
+      "end_time": "00:24:34,559",
+      "text": "us there a thousand pardons great lady"
+    },
+    {
+      "start_time": "00:24:31,039",
+      "end_time": "00:24:37,200",
+      "text": "but with only one camel it would be very"
+    },
+    {
+      "start_time": "00:24:34,559",
+      "end_time": "00:24:39,440",
+      "text": "difficult then difficult it shall be"
+    },
+    {
+      "start_time": "00:24:37,200",
+      "end_time": "00:24:41,159",
+      "text": "lead on and with that they go to the"
+    },
+    {
+      "start_time": "00:24:39,440",
+      "end_time": "00:24:43,919",
+      "text": "corridor entrance and they look out on"
+    },
+    {
+      "start_time": "00:24:41,159",
+      "end_time": "00:24:45,679",
+      "text": "the Valley of the dig site the storm has"
+    },
+    {
+      "start_time": "00:24:43,919",
+      "end_time": "00:24:50,080",
+      "text": "passed and the water has drained away"
+    },
+    {
+      "start_time": "00:24:45,679",
+      "end_time": "00:24:52,840",
+      "text": "leaving a muddy but secure Valley for"
+    },
+    {
+      "start_time": "00:24:50,080",
+      "end_time": "00:24:55,760",
+      "text": "them to make their way across as fast as"
+    },
+    {
+      "start_time": "00:24:52,840",
+      "end_time": "00:24:57,600",
+      "text": "possible to get back to the city of aner"
+    },
+    {
+      "start_time": "00:24:55,760",
+      "end_time": "00:25:01,000",
+      "text": "where Vil is going to have to try and"
+    },
+    {
+      "start_time": "00:24:57,600",
+      "end_time": "00:25:03,600",
+      "text": "concoct something sort of plan to trick"
+    },
+    {
+      "start_time": "00:25:01,000",
+      "end_time": "00:25:08,159",
+      "text": "mataro into revealing what he truly"
+    },
+    {
+      "start_time": "00:25:03,600",
+      "end_time": "00:25:11,000",
+      "text": "knows if in fact he was lying because I"
+    },
+    {
+      "start_time": "00:25:08,159",
+      "end_time": "00:25:14,679",
+      "text": "don't know if he's lying is it possible"
+    },
+    {
+      "start_time": "00:25:11,000",
+      "end_time": "00:25:18,440",
+      "text": "that everything he said is true is it in"
+    },
+    {
+      "start_time": "00:25:14,679",
+      "end_time": "00:25:20,960",
+      "text": "fact possible that he only craves his"
+    },
+    {
+      "start_time": "00:25:18,440",
+      "end_time": "00:25:23,840",
+      "text": "own destruction a a release from this"
+    },
+    {
+      "start_time": "00:25:20,960",
+      "end_time": "00:25:25,919",
+      "text": "endless endless existence from all of"
+    },
+    {
+      "start_time": "00:25:23,840",
+      "end_time": "00:25:27,679",
+      "text": "these lives that he has lived over and"
+    },
+    {
+      "start_time": "00:25:25,919",
+      "end_time": "00:25:29,520",
+      "text": "over and over again for the the hundreds"
+    },
+    {
+      "start_time": "00:25:27,679",
+      "end_time": "00:25:31,399",
+      "text": "of lifetimes he has spent trapped"
+    },
+    {
+      "start_time": "00:25:29,520",
+      "end_time": "00:25:33,559",
+      "text": "imprisoned in his own body neither"
+    },
+    {
+      "start_time": "00:25:31,399",
+      "end_time": "00:25:36,960",
+      "text": "living nor dead nor Undead is it"
+    },
+    {
+      "start_time": "00:25:33,559",
+      "end_time": "00:25:40,039",
+      "text": "possible that all he wants is to end"
+    },
+    {
+      "start_time": "00:25:36,960",
+      "end_time": "00:25:42,640",
+      "text": "this and he needs the help of Vil and"
+    },
+    {
+      "start_time": "00:25:40,039",
+      "end_time": "00:25:44,279",
+      "text": "the spirit mantle in order to do it I"
+    },
+    {
+      "start_time": "00:25:42,640",
+      "end_time": "00:25:46,080",
+      "text": "have no idea so we're going to have to"
+    },
+    {
+      "start_time": "00:25:44,279",
+      "end_time": "00:25:47,200",
+      "text": "find out on the next episode thank you"
+    },
+    {
+      "start_time": "00:25:46,080",
+      "end_time": "00:25:48,200",
+      "text": "so much for joining me and if you do"
+    },
+    {
+      "start_time": "00:25:47,200",
+      "end_time": "00:25:49,399",
+      "text": "want to help support the Channel please"
+    },
+    {
+      "start_time": "00:25:48,200",
+      "end_time": "00:25:50,880",
+      "text": "do consider hitting like And subscribe"
+    },
+    {
+      "start_time": "00:25:49,399",
+      "end_time": "00:25:52,000",
+      "text": "or joining us over on patreon or here on"
+    },
+    {
+      "start_time": "00:25:50,880",
+      "end_time": "00:25:53,520",
+      "text": "the YouTube channel or if you want to"
+    },
+    {
+      "start_time": "00:25:52,000",
+      "end_time": "00:25:55,360",
+      "text": "help support the game the sign up"
+    },
+    {
+      "start_time": "00:25:53,520",
+      "end_time": "00:25:57,559",
+      "text": "details are all below thank you for"
+    },
+    {
+      "start_time": "00:25:55,360",
+      "end_time": "00:26:00,830",
+      "text": "joining me and I will see you on the"
+    },
+    {
+      "start_time": "00:25:57,559",
+      "end_time": "00:26:03,910",
+      "text": "next episode Me Myself and die"
+    },
+    {
+      "start_time": "00:26:00,830",
+      "end_time": "00:26:03,910",
+      "text": "[Music]"
+    }
+  ],
+  "full_text": "the broken Empire's Kickstarter is\nlaunching October the 1st there's still\ntime to become an early VIP supporter\nover at the pre-launch page at play.the\nbroken\nempires. this is a big moment and\nbecause the dice always tell the story\nI'm going to roll for it now what am I\ngoing to roll I'm not going to roll on\nthe Fate chart no I'm going to roll our\npersonality mechanics the personality\nmechanics which are fully optional\ncompletely optional in this game are\nthere to help players decide what to do\nwhen they don't know what the character\nwould do\nand I don't know what the character is\ngoing to\n[Music]\ndo well hello and welcome back once\nagain to me myself and die episode 10 of\nseason 4 I am as always your in Tri GM\nhost and player Trevor Deval thank you\nso much for joining me here today please\ndo consider hitting liking And subscribe\nevery time I do this I sound like\nWilliam Shatner I don't know why that\nhappens anyway if you want to join us on\npatreon to help support the channel\nthat's a huge huge help thanks to all my\npatrons and YouTube channel uh\nsupporters who have helped continue the\nprocess of bringing you this lovely\nentertainment uh of course we have\nlaunched the game the kickstarter or\nwe're about to launch rather on October\nthe 1st all of the links are below for\nall of that good stuff but we are going\nto start the episode today with a little\nbit of housekeeping first of all couple\nthings about rules because this is an\nevolving developing game the rules are\ngoing to adjust and shift that's the\nwhole purpose of the season is to tweak\nthe rules as I go and to develop things\nand remove what I don't like and put\nthings in that I do so for example the\nuse of resolve right now which is the\nquote unquote metac currency in the game\nyou can no longer do rerolls as of right\nnow those are the rules you cannot spend\nresolve to reroll you're kind of stuck\nwith what you get but you can spend\nresolve before or after the roll you\njust have to declare it if you're going\nto spend it before the roll so I'm going\nto bump up the chaos factor to eight\nbecause things are going kind of cooky\nhere we left off in a bit of a\ncliffhanger also I'm going to close the\nthread get to the tomb and I'm going to\nadd the thread investigate the L's dream\nveil has earned three experience points\nfor pursuing her goals and she's not\ngoing to be able to SP right now though\ncuz she's in the middle of a thing so\nlet us get to that thing the last we saw\na veil she had laid down on this stone\nslab and instantly entered into this\ndream prison but it wasn't much of a\nprison it looked like an oasis there was\nlots of plants and water and the sounds\nof exotic birds and all it was very very\nvery pleasant but there was this young\nman nobly dressed who had approached her\nand this must be mataro but strangely he\nsuggested that in fact cherylyn did not\ncome here to destroy him she came here\nto assist him so what does that mean\nlet's find out assist you sheryn helping\nyou cheryn imprisoned you here for a\nreason look around you Vil does this\nlook like a prison to you you do not\nknow everything that transpired all\nthose years ago cheryn Spirit Bane came\nto seek me out not to destroy me for\nthat she knew not even she could do not\nhere\nnot on this plane of\nexistence no she came because she knew\nthat I held the key to a door that she\nvery much desired to have\nopened the door to the gates of\nnarth has Vil ever heard of norcar I'm\ngoing to give a quick roll in her Arcana\nskill I'm going to give her I'm going to\ngive her plus 20 on this it's likely\nthat she would have heard this so she's\nrolling on 60 oh nope and it's a\ncritical f well she's never heard of\nnorcar norcar what is that ah your order\nnever told you of the city at the center\nof all realities the city which I have\nbeen seeking for\ncenturies within the Fortress at the\nHeart of the City of noar there lies a\nlibrary of sorts and within that Library\nlies the very secret to do that which no\none in the broken Empires can do\nthe secret to ending my\nexistence you seek to destroy yourself\noh\nVeil when my ritual to ascend to lichdom\nfailed I was left in a terrible\npredicament I was neither alive nor dead\nnor\nUndead I have been trapped in a prison\nof my own body for so many lifetimes\nunable to ascend but unable to\ndie I seek only this sweet release of\nOblivion but that is denied me in this\nrealm\nonly through the knowledge of that which\nNorth\nholds may I meet a peace that I have\nsought for centuries long have I sought\nthe gateway to norcar and I have found\nit but\nalas I could not open the gate not in\nthe state I was in for you see once my\ntrusted servant akol discovered my\nintention to end my own existence he\nknew that once I crumbled to dust that\nhis own existence would be forfeit and\nso he betrayed me he attacked me and\nwounded me\ngrievously to the point where I was no\nlonger strong enough to open the gate\nand this was the condition and the state\nin which sheryn found me why would\ncheryn want the gateway to this norath\nto be opened within the city of norcar\nLies not only the secrets to end my\nundeath but the secrets to end all UND\ndeath to end the scourge of all UND\ndeath we with in the broken Empires that\nis the secret that chevin craved and\nthat is why she came here to help me\nopen the gate but in my weakened State\nthanks to the traitor akol I was not\nstrong enough to cast the spell that\nwould open the gate and so cheryn knew\nwhat she had to\ndo she tore off a fragment of her own\nsoul stuff her own spirit and Infused it\nin me\nto heal me to allow me to Slumber in\nthis place until such time that I was\nstrong enough to emerge and with\nher we would walk hand in hand through\nthe newly opened gate she would procure\nthe power to end the undead Scourge and\nthe first creature she would use this\npower on would be\nme I would finally be at rest\nand she would have achieved all that her\norder had been\nseeking but\nalas cherylyn\nfell I knew it at once and I was\nawakened in this place not yet fully\nhealed but knowing thanks to the spirit\nShard of cheryn within my person\nknowing that she was\ngone and that all was lost until until I\nemerged in the desert wastes outside the\ncity of\nanaria with the spirit mantle in my\npossession I knew at that moment that\ncheryn had not abandoned me that she\nintended to keep a promise to me through\nyou that the spirit mantle would make\nits way to me and finish what she had\nstarted the healing process that would\nallow me me to open the gates and though\ncheryn herself would never be able to go\nthrough you could then why did you seek\nto stop me it was not I who sought to\nstop you Vil it was the traitor akom who\nEnlisted the help of the silent death\nassassins for he knew that if you were\nto bring the spirit mantle to me then\nhis own existence would be in Jeopardy\nand he would not allow that but you\nyou somehow destroyed him and you freed\nmy servants to be able to remove my body\nfrom this place and send it on forward\nto the\ngate or to where the gate can be\nopened the vizier's\npalace that is where the gates to be\nopened that is why you had the vizer\ncraft those runes outside the entrance\nto the Palace that was your preparations\nfor this gate yes\nFair let's say that everything you said\nis\ntrue why would I ever believe you you\nshouldn't believe me not on my word\nalone you have already seen the proof\nthat cherylyn resides within my person I\nshowed you Her Image you know that that\nwas was her and sure enough Vil knows\nthat the image she saw of sherylyn was\ndefinitely her that is the part that I\nhave saved for last Veil within the city\nof norcar Lies not only the secrets to\ndeath and the secrets to\nundeath but the secrets to\nlife once my body crumbles to dust\nwithin the city of narth\ncheryn soul will be\nfreed from me and in that\nmoment you can use her own soul to make\nher whole again to restore her to life\nthat is big and if there is anything\nthat is going to trigger veil's hope\nvain hope perhaps because remember this\nis her big weakness the idea that she\ncan bring somehow oh somehow bring\ncheryn\nback he is telling her exactly what she\nwants to hear will she believe him we're\ngoing to find out but first you can\nbring her back No\nVeil you can you need to help me open\nthe gate I am not yet strong enough the\nhealing is not complete but with the\nspirit mantle you can finish what chevin\nstarted you\ncan make me strong enough to open that\ngate and then together we will go\nthrough I will show you the secrets of\npurging Undead you will use that secrets\nto destroy me and in that moment restore\ncheryn you will walk through the gate\nback into the broken Empires you and\ncheryn can live lives of Peace at Last\nyour vows\nfulfilled if the gate is to be made in\nthe city of anaria and if if you need my\nhelp then why did you bring me all the\nway out here I knew you would never\ntrust me I needed to demon straight an\nact of Good Will that I trust you inside\nthe chambers in which your body Now lies\nsleeping there is a secret door it leads\nto my innermost Chambers inside that\nchamber is a repository of my Essence my\nphactory you can take my Flory and wrap\nit in the spirit mantle and bring it to\nthe city once you reunite the felter\nwith my body which is even now on route\nto the city being born hence by my\nservants that will allow cherin's power\nto complete the task that she started\nall those years ago to complete the\nhealing that will give me the strength\nto open the gate you could do\nthis or with the beest thought you could\ncommand the spirit mantle to put my\nEssence back into\nSlumber for centuries into your hands I\nliterally commend my\nspirit let me be absolutely\nclear you want me to reunite your body\nwith the fatory having healed it in the\nspirit mantle which will allow you to\nopen the gate through which we will both\ngo and at that time you will give me the\nknowledge of how to destroy all Undead\nwithin the broken Empires which will\ndestroy you and free the spirit of\ncheryn where she may be remade don't\nbelieve\nme believe what your heart tells you to\nbe true but whatever you decide to do it\nquickly the great conjunction of stars\nis even now forming over the city of\nanaria once that window passes it will\nno longer be possible to open the\ngate time is running out and then she\nwakes up in the\nchamber somewhat taken aback by all that\nshe has seen thrag and Wati are looking\nwith concern on on her but very very\nrelieved obviously once um once she\nwakens and stands up she tells thrag\neverything that happened obviously thrag\ndoesn't believe a word of it I mean\nwould you I wouldn't don't think for a\nmoment thrag that I believe any of his\nlies for indeed lies they must be but I\nsaw sherlyn's Spirit within him and I\nknow it was no\nillusion she is within him at least a\npart of her that part of his story Rings\ntrue at least and if that is the\ncase then maybe within this norcar she\ncan be brought back thragg looks\nextremely skeptical\nof course but he doesn't say anything\ndoes respond at the very least we should\nsee if the secret chamber exists or not\nso they look now the thing is is that\nmozo is good for his words as she's\nlooking at the far wall she sees like a\nconcealed door basically and she's a\neasily able to pull it aside with the\nthe grading of stone on Stone and there\nis a dark passage ahead of them she\nstill has the lit torch or rather thrag\ndoes they cautiously make their way down\nthis sloping ramp uh in this this Stone\nCorridor down towards a chamber and in\nthe chamber I think it's largely empty\nbut maybe at one point this was decked\nout to look kind of like a like a\nbedroom of sorts uh maybe a laboratory\nof sorts but there's very little here\nnow I think in the in in the center of\nthe room there's sort of like outlines\non the dust of what might have once been\na sarcophagus so it looks like indeed\nmooth was telling the truth about his\nservants coming to remove his body cuz\nthere ain't nothing here but on a on a\nbookshelf essentially a small uh\nlaboratory table against the back wall\nuh there's a series of TOMS as well as a\nseries of what is obviously alchemical\nsupplies regions that sort of stuff and\non that table is what can only be the\nlich's phactory but what does it look\nlike I have no idea uh I'm just going to\nroll two words from Mythic and get a\nsense of anything six\ndeceive even the tables telling me that\nthis is a mistake deceive\n85\nsuccess okay deception of success okay\num okay then in that case what she sees\non the\ntable is a lamp not a Genies lamp from\nAladdin no no no no it is a lamp that\nlooks a lot like the\nlamp in the chamber of the the soul cage\nso this takes Veil back because she\nsuddenly remembers the events in the\nchamber about how she saw cherylyn\nbeyond the portal with edbert how she\nsaw cherylyn decide to sacrifice herself\nto save edbert because she decided to\nforgive him for for wrongly tormenting\nhim all those years she saw her chance\nof retrieving cherylyn slip away from\nher grasp like Sands through an\nhourglass she sees all of this again\nflash through her mind as she is looking\nat this lamp yes this lamp this felter\nof the Lich which by total\ncoincidence looks a lot like the lamp\nthat was the soul cage although it is\nnot the soul cage it is its own thing\nshe goes over to it and she pulls forth\nthe spirit mantle shimmering seite or\nwhatever it's made of and she pulls it\nout she can feel it thrumming with\ncheryn power she can feel it brimming\nwith the last of sherlyn's Earthly power\nshe knows she knows that this item just\nlike she was told just like she was told\nby Cyrus that if she wraps the Lich\npresumably this phactory in the spirit\nmantle she can command him to go back to\nsleep this is her big moment there she\nstands the Flory on the table she goes\nand she takes the Flory I think the\nlamp's pretty big it's probably like Yay\nbig she takes it in one hand she pulls\nthe spirit mantle and she takes the lamp\nand she puts it in the cloth and wraps\nthe lamp in the spirit mantle and at\nthat moment thrag says says to her do it\nVeil command the spirit mantle to put\nhim back to sleep or destroy him if you\ncan do it and\nVeil looks at the lamp wrapped in the\nspirit mantle this is her choice if she\ncommands the spirit mantle to put him\nback to sleep then she will succeeded in\nher Mission so simple all she has to do\nis command it but if she does that she\nmay be saying goodbye to the only and\nthe last chance she will ever have of\nrestoring her master cherylyn Spirit\nBane this is Bale's fatal flaw this is\nthe thing that drives everything she\ndoes to protect sherlyn's Legacy but not\nonly that if with Thea SE is true she\ncould restore cherylyn and also fulfill\nthe vow of every member of the order of\nthe purifying flame but more than\nanything the question is not does she\nbelieve mataro obviously she's skeptical\nof him obviously she's suspicious that's\nnot even a question the question is does\nher fatal flaw come to play does she and\nby the way I don't know if matarat is\ncompletely telling the truth or not I'm\ngoing to find out but but cuz I don't\nwant to know I want to find out his\nfailed as covers it but as she's holding\nthis Fela in her hands the question\nbecomes does she air on the side of Hope\nwhere maybe if if even a part of what\nthe Lich is saying is true that she\ncould use this this mysterious nor karth\nto to bring cheryn back or does she air\non the side of cynicism that no there's\nno way that she has to let she has to\nlet Sherin go this is a big moment and\nbecause the dice always tell the story\nI'm going to roll for it now what am I\ngoing to roll I'm not going to roll on\nthe Fate chart no I'm going to roll our\npersonality mechanics the personality\nmechanics which are fully optional\ncompletely optional in this game are\nthere to help players decide what to do\nwhen they don't know what the character\nwould do and I don't know what the\ncharacter is going to do so let's find\nout on the personality chart two of the\npossible outcomes are hopeful versus\ncynical she has a 60 in that which means\nthere's a basically a 60% chance of her\nairing towards hope\nand a 40% chance of her moving towards\ncynical I'm going to\n[Laughter]\nroll does she retain hope that a part of\nthe L's plan could be used even if she\ntries to trick him or whatever the case\nshe's not an idiot but is there a way\nfor her does she believe that there's a\nway for her to actually restore cherylyn\nor does she not believe that at all this\nis what it comes down to 60 or less is\nthe hopeful outcome here we\ngo 38 is the hopeful outcome she\ncompletes the wrapping of the the lamp\nof the felter in the spirit mantle and\nat that moment she hears mozo's voice in\nHer Mind although she's not sure whether\nit's just a memory she's she's hearing\nor whether she actually hears his voice\nit's difficult to tell but she hears him\nsay the choice is yours and she looks at\nthis bundle she looks to thrag I do not\nbelieve him for a moment\nthrag but I do believe what I saw and\nfelt cheryn is somehow within\nhim and if in this eternal City there\nare secrets to life and death as he\nclaims\nwhich that may be a lie or\nnot but as far as I'm concerned this\nrepresents my best and last chance\nto bring her back you saw the choice\nthat cherylyn made within the soul cage\nveil would you undo that choice to\nservice your own grief well that's\nthat's very profound on thr's part his\nwit isn't even that high does that\nactually shake her out of this is that\nenough to break her from this this idea\nthis hopeful idea I'm going to roll a\nskill check let's see I mean I doubt it\nthrag has a very very low wit and I I\nthink that's what this is well it could\nbe inpire as well well either way it's\nterrible he's rolling very very very low\nthis is a 15% chance it's going to have\nany effect uh oh so close so close but\nno it does not have an effect and she\nsays to him your words move me my\nfriend but I know what I saw sheryn is\nnot yet gone she lives still at least a\nportion of her does within him and I\nintend to free her and restore her if I\ncan and with that she grasps the wrapped\nfelter in the spirit mantle and she\nWills the spirit mantle to begin the\nhealing process or rather to complete\nthe healing process that cherylyn\nstarted according to the Lynch all of\nthose years ago and she feels the power\nof the spirit mantle slowly slowly\nslowly infusing the phactory she feels\nits Essence draining slowly draining\nfrom the spirit mantle in into this Soul\njar of sorts of the liches and she knows\nthat for good or for ill she has made\nher choice and with that she tucks it\naway in her pack and says this great\nconjunction of stars that the Lich\nspeaks of he says it is coming soon it\nis time to go thrag moves back into the\nchamber where\nwatti is awaiting them we must return to\nanera my friend as fast as you can get\nus there a thousand pardons great lady\nbut with only one camel it would be very\ndifficult then difficult it shall be\nlead on and with that they go to the\ncorridor entrance and they look out on\nthe Valley of the dig site the storm has\npassed and the water has drained away\nleaving a muddy but secure Valley for\nthem to make their way across as fast as\npossible to get back to the city of aner\nwhere Vil is going to have to try and\nconcoct something sort of plan to trick\nmataro into revealing what he truly\nknows if in fact he was lying because I\ndon't know if he's lying is it possible\nthat everything he said is true is it in\nfact possible that he only craves his\nown destruction a a release from this\nendless endless existence from all of\nthese lives that he has lived over and\nover and over again for the the hundreds\nof lifetimes he has spent trapped\nimprisoned in his own body neither\nliving nor dead nor Undead is it\npossible that all he wants is to end\nthis and he needs the help of Vil and\nthe spirit mantle in order to do it I\nhave no idea so we're going to have to\nfind out on the next episode thank you\nso much for joining me and if you do\nwant to help support the Channel please\ndo consider hitting like And subscribe\nor joining us over on patreon or here on\nthe YouTube channel or if you want to\nhelp support the game the sign up\ndetails are all below thank you for\njoining me and I will see you on the\nnext episode Me Myself and die\n[Music]\n"
+}

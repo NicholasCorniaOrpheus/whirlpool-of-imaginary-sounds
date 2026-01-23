@@ -1,0 +1,1183 @@
+today on Me Myself and I I'm going to be
+teaching myself how to play melee the
+combat component of the fantasy trip by
+Steve Jackson games
+[Music]
+[Applause]
+so first of all what exactly is melee
+well melee is not in fact a role-playing
+game this is the combat component to a
+role-playing game called the fantasy
+trip seen here in the Legacy Edition box
+which has everything ever made for the
+fantasy trip that was completely
+reprinted a few years ago that Steve
+Jackson games was good enough to send me
+this is an amazing product it's got all
+the stuff in it it's got counters and
+rules and all kinds of great stuff but
+today we're going to be focusing
+specifically on melee or as I pronounce
+it melee yes I know that's incorrect but
+when I was seven years old I saw this
+word and mispronounced it melee and it
+just stuck so I'll probably say melee
+more often than melee so that's just the
+way it is nonetheless what this product
+is is a combat system this is basically
+an arena combat simulator essentially
+it's dead simple but it is in fact the
+prototype to gurps which would go on to
+become I think probably far more well
+known for various reasons but the
+fantasy trip is a role-playing game
+that's composed of several components
+one of course is melee the next is
+Wizard which is the magic rules and then
+we've got this little uh death test
+which is like a it's kind of like a solo
+Adventure like a Choose Your Own
+Adventure I'm gonna probably put myself
+through this maybe I'll film it too uh I
+think it might be super fun and then of
+course we've got in The Labyrinth which
+is basically the
+GM's guide this is what makes these
+components
+a role-playing game so when you put all
+these things together you get the
+fantasy trip which is role-playing game
+but today we're going to be focusing
+mostly just on the combat system of
+melee it's still so weird for me to say
+it that way as I said 50 years of saying
+melee
+that's the way it is okay so what makes
+this game interesting well first of all
+the FedEx trip has been around I think
+since 77 it's been around forever it's
+been around for pretty much as long as a
+d and d has been around it takes a very
+different look at combat within a
+role-playing game
+a d and d and its predecessors were all
+about sort of abstracting things like
+hit points and armor classes and all
+that kind of stuff but what this game
+does it really focuses on individual
+tactics on a hex grid like this in fact
+these hex grids come with the game as
+well so you've got sort of your little
+Arena template here if you want it the
+game is based on d6s and d6s only you
+roll 3d6 under your score in order to
+achieve what you need to do so there's
+no D20 there's no d4s d8s nothing like
+that it's just d6s and it is a bell
+curve system as opposed to a swingy
+single die system I did a video on that
+about the various types of RPG systems
+which you can find linked up here let's
+talk about characters well again this is
+just the combat component so we don't
+get hugely into the weeds in terms of
+characters like with special abilities
+or anything like that this is just stuff
+focused on how to fight so the
+characters here as you can see yeah
+yeah this is a character sheet this is
+one version of the character sheet
+there's not much to it uh characters in
+melee specifically are composed
+basically of strength and dexterity
+strength is not only how strong you are
+but also how many hit points you have
+dexterity is how easy it is for you to
+hit somebody else with a weapon that's
+basically it IQ comes into it only when
+you add in the uh magic rules which
+we're not going to get to today and Ma
+is is move allowance how much you move
+that is determined almost entirely by
+the armor you're wearing okay then
+you've got a space for weapons and
+you've got a space for shield and then
+this is just a place to track how many
+hits you've taken so this is dead easy
+so in the interest of keeping things uh
+consistent I'm going to create black Jay
+the warrior and I'm going to put him up
+against a single orc to begin with to
+see how that works so these tokens all
+come with the game uh so I'm not going
+to be using Miniatures I'm not going to
+be using terrain or anything like this
+in essence this is the perfect
+featureless gray plane because as you
+can see it is utterly featureless and
+it's white but uh you get the point and
+then we're going to call this uh token
+uh the orc so in order to make black J
+it's going to be very very simple every
+character starts off
+excuse me need some Morning Joe every
+character starts off with a score of
+eight in strength and dexterity and then
+you have eight points to spend so to
+keep things super simple I'm just gonna
+split up those eight points into four
+and four which means that strength of
+dexterity eight plus four is twelve is
+going to be 12 in both these things and
+a black J black J IQ is going to be
+eight again IQ is not going to come into
+this move allow it's gonna be based on
+the armor so the next thing we do when
+you make a character in this game you
+just pick two weapons uh Shield is
+considered a weapon so I'm gonna go
+super simple I'm gonna go broadsword
+and small Shield broadsword you need a
+minimum strength of 12 which I have
+and it does two dice of damage so 2D a
+small Shield
+reduces things by one hit in other words
+if I take a hit a shield reduces the
+damage by one a small Shield gives me no
+dexterity penalty that's the thing about
+uh armor and shields is that the heavier
+armor and shield that you have the more
+it's going to affect your movement
+allowance and your dexterity itself so
+it's in this game it's harder to
+actually hit somebody when you're
+wearing big heavy armor because you're
+very encumbered that's just how they do
+it and you're slower you actually move
+quite slower as well I'm gonna give him
+chainmail
+chainmail is going to give it's going to
+protect him for three hits but it's also
+going to give him a movement allowance
+of six it's also going to give him a
+penalty of
+-3 to his decks so here I'm going to put
+12 9 that just means that normally his
+Dex is 12 but in his armor he is now
+dexterity of nine okay so that is black
+J he done now we're gonna give us orc
+we're gonna call Groom
+and let's see let's make him stronger
+let's give him a 13 strength which is
+going to give him a 11 dexterity a q of
+eight uh let's do something interesting
+with Guru Master first of all uh let's
+give him actually a spear now there's a
+very particular reason why I'm giving
+him a spear as opposed to something else
+uh Spears and polar weapons have
+slightly different mechanics in this
+game they have reach and so I want to
+test that a spear is a two-headed weapon
+which means he can't use a shield with
+it and it does One D plus one One D plus
+one damage oh and every fighter has a
+dagger as well it's just assumed you
+have a dagger which is which does One D
+minus one damage okay so he's gonna have
+a shield as well it's just gonna be
+slung on his back do I want him to have
+armor I think we're gonna give him
+leather armor or the equivalent
+which means his movement allowance is
+eight and it's minus uh it it stops two
+hits and it's minus two to Dex so his
+Dex is actually also going to be nine
+okay so that's it that's groomesh and
+black J there they are so I'm just gonna
+start these guys here and here haha now
+facing is important in this game you
+take your your token your token always
+must be facing uh a long side of the hex
+as opposed to the point that's just the
+way it works and of course if the head
+is facing that way that means that's
+where they're facing so if we look here
+this is black J
+he's facing this way that means that
+these three hexes here in front of him
+are his front hexes these two kind of
+just behind him a little bit are his
+side hexes and of course this one behind
+him is his rear hex and the same goes
+for any
+figure facing is important because you
+can only attack someone in your front
+hexes and if someone is in your front
+hex then they are engaged with you and
+as soon as they're engaged with you they
+can no longer move unless they do a
+withdrawal action right so again a lot
+like any other game essentially as soon
+as as soon as you're engaged with
+someone you can't just freely move
+around you can shift one hex and do
+something but we'll come to that so
+right now both of these guys are not
+engaged they are disengaged so the first
+thing we do is we determine initiative
+how we do that very simple we roll a D6
+for each side so black J is going to
+have a five and groups are gonna have a
+six so the orc goes first now when you
+win initiative you can choose whether
+you go first or your opponents go first
+so in this case the orc because he's got
+a spear and he can throw that spear
+he's gonna choose to let black J go
+first because he's gonna see what he's
+doing so he's basically you know waiting
+here on this feature this great plane
+waiting for black Jay to do something so
+black is going to to move first as a
+disengaged figure blackj has a number of
+options his move rate is six so he's not
+super fast uh but I think that blackj is
+going to choose to move up towards the
+orc he's going to move his full move one
+two three four five six okay that's
+pretty close
+but not adjacent to the orc so they are
+not engaged with each other now this is
+interesting here the orc can choose to
+move now the orc can move anywhere he
+wants he is not engaged with black J but
+here's an interesting thing about the
+Pole weapon this spear has a reach of
+two hexes so even though the uh blackj
+is not engaged with the orc the orc can
+still hit him from two hexes away right
+through there he could do something
+called a jab attack now he doesn't have
+to do that he could do something else he
+could do a charge attack but in this
+case it wouldn't make sense to do a
+charge attack because in order to really
+maximize the value of a polar and weapon
+you want to charge at least three hexes
+right so if he was here he could go ah
+and God but he's not he's only two hexes
+away so there's no Advantage for him to
+do that but he can hit black J from this
+distance with the jab attack so I think
+that's what he's going to do they're
+still disengaged now we've done the
+initiative phase but now that combat
+phase happens so that's that's slightly
+different how this works when you take
+your initiative you you choose to do
+something black Jays was to
+move up to his full if you ever move
+more than half of your movement
+allowance you can attack okay so he
+can't attack this uh figure hit this orc
+he has opted to do technically a charge
+attack even though he's not moving up to
+half his movement allowance it's still
+considered a charge attack he's gonna do
+a jab attack from here so now we go to
+the combat phase and the combat phase
+happens based on dexterity so normally
+oh while their dexterities are exactly
+the same here but in this case
+it's uh not really going to matter
+because they're not engaged blackj can't
+attack back anyway so we're not really
+in the combat phase and in any event
+pole arms always strike first before
+non-polars because they've got reach so
+the orc is going to do a jab attack and
+there's really nothing blackj can do to
+defend against it defense is an action
+you can take but you have to declare it
+right he did not declare it he just
+moved so the orc with the jab attack
+it's a regular attack so the orc sees
+black J running in and he Jabs him from
+two hexes away so he's rolling his
+dexterity his adjusted dexterity which
+is nine because of his armor nine or
+less on three D6 okay well that's nine
+ten eleven so that is a miss the orc is
+not able to connect with the spear now
+we would normally go into a force
+Retreat situation but there is no Force
+Retreats because nobody got hit so now
+we go to the next round once again we
+roll initiative I'm gonna get a
+different die color for Initiative for
+the orc we'll use the black dice okay
+okay oh well again the orc goes first so
+he decides whether he's gonna go first
+or whether black J is going to go first
+I think the orc is going to decide to go
+first okay so his choice of action as a
+disengaged person he's going to do
+something kind of clever anyway he can
+still effectively move for an attack I
+think he's gonna he's gonna go
+one two
+three four and just kind of spin around
+and you can change facing at the end of
+any move action and he's not engaging
+black J yet he's still sort of waiting
+for him but he's gonna jab again from
+this distance so basically he's gonna
+come over here and he's going to get he
+would normally get the plus two uh to
+attack from the side however now it's
+black Jay's turn because we don't go
+into combat phase until everyone has
+declared their actions and moved so
+black J is going to charge an attack so
+he basically changes facing moves here
+and is going to change its facing again
+changing face doesn't cost anything he
+moves basically one hex and engages the
+orc he does a charge attack so now we go
+to combat phase and now it's based on
+dexterity adjusted dexterity the orc no
+longer has the advantage of attacking
+from the side because blackj has moved
+so it's almost impossible to try and run
+around somebody and attacked him from
+behind unless that person is already
+engaged with someone else so with the
+man-to-man combat here one-on-one uh you
+don't have those kind of tactics
+available to you but as you soon as you
+had two on one suddenly that becomes a
+much bigger deal okay so now we go to
+the combat phase it's based on adjusted
+dexterities they're both at nine ties
+are resolved each term by a die roll so
+because they're both equal dexterities
+in the combat phase we determine who
+goes first and in fact it's going to be
+black J this time so black J moves in
+charges in and attacks
+his adjusted dexterity is nine and he's
+rolling nine or less of 36 does he hit
+the orc five six seven eight that is a
+hit so he successfully hits the orc how
+much damage does he do he does two dice
+damage against the orc okay which means
+he does seven damage against the orc
+however the orc is wearing leather armor
+which takes off two hits so the orc
+takes five hits that's a big hit five
+comes off of his 13th strength a figure
+which takes her which takes five or more
+hits in one turn has its decks adjusted
+minus two for its next attack only so
+what that means is if you take a big hit
+like that for your next attack you're
+kind of reeling from the pain and you're
+you're slightly impaired just as you as
+you grit your teeth through it and try
+to stay in the fight but you do get that
+minus two penalty which is interesting I
+think I would put like a bead on the orc
+just to remind myself that he's minus
+two to his next attack he's essentially
+stunned briefly okay so what that means
+is blackj is gone he's moved in he's won
+the initiative in the combat phase he
+successfully hit and done five points of
+damage to that orc that is really bad
+the orc can now respond with an attack
+he does have a spear which he can still
+use in an adjacent hex
+so he's going to oh he's gonna attack
+black J but now for this attack only
+he's minus two so he's rolling on sevens
+so because of the pain of that that uh
+strike he's gonna be harder for him to
+respond in kind oh but look at this he
+Nails it right there three and four is
+seven it's exactly what he needed 1d6
+plus one and he'll do four damage to
+Black J but black J has chainmail which
+takes off three hits and because the
+attack is coming from one of his front
+hexes he's also able to use his small
+Shield which is one hit so that is four
+hits
+four hits minus four hits is zero so
+black Jay's armor and shield absorbs the
+damage he takes no damage now we go into
+the force back sequence basically what
+that means is at the end of the combat
+any figure who inflicted hits with like
+a handhand weapon and took no hits
+itself May Retreat that enemy one hex
+and then follow if you want so in this
+particular case on the featureless gray
+plane there's no particular Advantage
+for doing that but let's do it anyway
+just to demonstrate how it works so he's
+done damage to the orc the orc did not
+do damage to him at the end of the
+combat phase now he's able to ah push
+him back one hex and he doesn't have to
+advance either he if he for whatever
+reason if he didn't want to advance the
+orc uh he wouldn't have to do that now
+what's interesting about this rule is
+let's say that there was I don't know a
+dead body in this X
+although it doesn't explicitly say this
+in the rules it is heavily implied that
+if you were forced into a hex with
+something like a dead body there's
+there's uh the idea out there that
+exists in these rules that basically if
+that were to happen the orc would have
+to make a dexterity roll on 3d6 or else
+fall prone again it doesn't explicitly
+say that in here but it's strongly
+implied but anyway so that might be a
+reason why you would you would do that
+but there is no dead body there we take
+off this beat because he is not at a a
+penalty to strike anymore that only
+happens right after you've been hit
+which again I quite like it's there's a
+lot of games that have what uh
+detractors call the death spiral so that
+the more damage you take the harder it
+is for you to do anything I quite like
+death spiral rules they make sense to me
+however a lot of people don't like it
+because uh if if you get hit really bad
+it becomes really hard to get back in
+the fight unless you have sort of
+external help this game kind of has the
+best of both worlds there is a death
+spiral but it only lasts for your next
+attack it's assumed that after you
+you've sort of grit your teeth through
+the pain you're sort of back on your
+feet and the adrenaline kicks in and
+you're ready to to go again so I quite
+like that uh that marriage of the two
+philosophies there okay so now we go
+back into the regular initiative phase
+to determine who chooses to move first
+and this is going to be black J well
+black J is going to act first now he is
+engaged okay so now he has slightly
+different options so he's gonna pick
+shift and attack okay shift just means
+moving one hex as long as you remain
+adjacent to whatever foes you're engaged
+with well he is gonna shift and attack
+just because you know he doesn't have to
+we're on the feature this great plane
+there's no point but you know just to
+demonstrate how that works he shifts one
+over keeping the orc in his front hexes
+and he's going to attack uh the orc now
+decides what he's going to do I think
+um the orc is also going to shift but
+shift and defend just to demonstrate how
+this works so the Orca is going to shift
+over here now and change his facing this
+way they're still in each other's front
+hexes but he's going to defend what does
+defend mean well I'll show you what it
+means in a second we now go to the
+combat phase we compare dexterities
+they're both still at nine so once again
+we roll off normally that wouldn't
+happen normally the higher dexterity
+goes first in the combat phase so there
+is an advantage for the faster foe
+let's see oh well black Jay goes first
+again so he's going to strike first
+again now because the orc has shifted
+and defended what this means is black
+Jay must now roll his dexterity of nine
+or less on four D6 not three because the
+enemy is defending again I quite like it
+it's a nice simple way to illustrate
+that the the opponent is defending
+themselves without having the orc have
+to make a separate defense role or
+something like this very very
+streamlined it's quick it's clean it
+makes sense all right so blackj is going
+to try and get nine or less on on four
+dice now this is a little harder to do
+as you can imagine a figure which Dodges
+or defends cannot attack so that's
+that's the trade-off is that the orc is
+making it harder to uh for black Jay to
+hit him but he cannot strike back all
+right what do we got here
+well that's definitely not going to do
+it 6 12 14 and 17. it's a complete Miss
+so because the orc was defending it made
+it much harder for black Jay to hit and
+in fact he doesn't hit and now it's the
+Orcs attack but he defended so that's
+the end of the combat phase no one gets
+pushed back I do want to take this time
+to mention that there are critical hits
+and sort of fumbles in this game so when
+you're rolling 3d6 to attack if I was to
+rule a three which of course is not
+going to happen very often but if I was
+to roll three just to take us out of the
+combat for a second to explain a little
+bit of these dice mechanics what this
+means is not only do you hit you hit
+regardless of what your dexterity is and
+you do triple damage so that is
+obviously a pretty brutal one if you
+were to roll a four
+it always hits regardless of dexterity
+and you do double damage and of course
+if you roll a five
+then you automatically hit regardless of
+your dexterity but you do normal damage
+conversely if you were to roll a 16
+that's always a Miss regardless of your
+dexterity if you were to roll a 17 on
+the dice
+you would miss and the attacker drops
+his weapon in his own hex
+okay and of course if you roll the old
+3D sixes if you roll 18 you always miss
+and your weapon is broken so there is uh
+fumbles and criticals in this game as
+well okay so that was the end of the
+combat phase now we go back into regular
+initiative so who goes first it's going
+to be well after all again because
+that's a tie uh wow look at this uh
+Steve Jackson is very clear that there's
+no simultaneous actions in this game so
+anytime you have a tie you have to do a
+roll off okay so black day goes first
+again he's going to charge an attack
+which just means uh uh shifting one hex
+in this case he's not actually moving
+and striking the orc is also going to
+now when you are engaged you can change
+weapons he can drop a ready weapon which
+he does so he drops his Spear and
+readies his shield the game comes with
+these little Little Weapon things dude
+which is cool so he drops his spear in
+his hex
+boom
+now he can't attack or defend because
+he's busy changing weapons so black J is
+going to get the attack and he comes in
+with 3-6 against nine against this okay
+well look at this that is a roll of a
+four that is a brutal attack it's gonna
+be double damage this is oh my God okay
+oh this is awful so H double the 16
+minus the Orcs armor
+he's got leather armor and now he's got
+his shield out which is good that takes
+off three hits from the 16. that's 13 he
+doesn't have a whole lot left that is
+the end of the orc black Jay basically
+hacks down the orc and that is the end
+of him okay so that is a basic kind of
+combat that shows facing and shifting
+and charging and stuff and how to use a
+pull arm and stuff I'm gonna beef it up
+a little bit now and I'm gonna add in an
+orc Archer and I'm gonna start them much
+farther away okay so blackj is still the
+same he's going to start over here this
+orc Archer I'm going to give slightly
+different stats I'm gonna give him two
+points of strength so he'll be a ten and
+six points to dexterity which is going
+to make him 14. so he's gonna use a
+small bow which does One D minus one
+he's not gonna have any armor I don't
+think because I don't want him have any
+dexterity penalties so no armor so his
+move allowance is 10.
+he does get a separate weapon as well
+I'm gonna give him a saber as well all
+right so this is the orc Archer and
+grumash the Warrior against black Jay so
+we start again now they're over here so
+who goes first which side goes first we
+roll and it looks like it's gonna be
+black Jay so he is going to try and
+close the distance as fast as possible
+so he's gonna move his move allowance of
+six one two three four five six that
+puts him there now these guys decide
+what they're gonna do let's do the
+Archer first the Archer is going to
+because he's disengaged and he's got a
+missile weapon he's going to do a
+missile weapon attack move up to one hex
+and or drop to prone annealing position
+and fire a missile weapon so he's going
+to move on Hex uh backwards
+and uh shoot now how missile Fire Works
+in terms of ranges actually uh before we
+get there uh I want to declare what what
+the other orc is doing the other orc is
+going to
+um well he can't charge an attack his
+movement is eight one two three oh he
+can one two three four actually let's
+not do that yet let's hold off Let's do
+let's just have the orc wait for black J
+and and determine what happens with this
+Archer so the orc is going to move up to
+half his allowance and that's that okay
+so now we go to the combat phase all
+attacks are carried out in order of the
+adjusted dexterity which means that our
+orc Archer with his dexterity of 14 is
+definitely going to go first this is
+based on the number of Mega hexes
+distance these are megahexes here he is
+2 megahexes distant there's no dexterity
+adjustment but if he was further back
+here he'd be attacking it a penalty so
+just like every other game there's range
+penalties the farther away the target is
+but there is no range penalty here on
+the featureless gray plane so the orc is
+going to fire his bow in the melee phase
+he's the only one that can actually
+attack 3d6 on 14. does he hit black J
+that is an 11 he does in fact so the
+Ergo sailing into black J and it's gonna
+do its damage of 1D minus one one minus
+one minimum damage I believe is one
+actually it doesn't specifically say
+anywhere that weapons do a minimum of
+minus one so maybe in fact the the Arrow
+does nothing one minus one is zero it
+doesn't specifically say that that it's
+not the case so I think that is the case
+nonetheless it wouldn't matter because
+blackj's got a shield in his arm around
+so that air wouldn't have penetrated so
+basically the arrow goes sailing to the
+there and does nothing there that's the
+end of the combat phase there's no Force
+Retreat so now we go back to side
+initiative and we see who goes first
+it's going to be the Orcs so the Orcs
+have to decide are they going to go
+first or is black J going to go first
+the Orcs decide they are going to go
+first the orc Archer is going to shift
+or move one hex rather
+and shoot and this orc is going to
+charge so he's gonna move oh he can't
+now because you can move up to half your
+movement allowance and attack one two
+three four so that's not gonna do it
+actually it's gonna move his full
+movement allowance one two three four
+five six seven
+eight and change facing here okay now
+before the attacks happen black J
+decides what he's going to do well he's
+kind of in trouble he's going to be shot
+at and now he's got this orc who's
+running all the way around trying to
+take him from behind so so I think black
+Jay has to now he is engaged so he can't
+just move anywhere he wants he's engaged
+he's gonna shift and defend he's in big
+trouble you could either Dodge or defend
+dodging is just if he was out in the
+open and this guy was shooting him he
+could declare a Dodge which would add a
+fourth dice to this arches attack but
+he's engaged now he can't Dodge he can
+only defend against hand-to-hand because
+this is the guy in front of him so I
+think he's still gonna do it he's gonna
+shift to defend to try and make it
+harder for the orc to hit him
+knowing that this arrow is going to come
+in basically he's open to get an
+initiative next round uh okay so now
+we're in the combat phase highest
+dexterity goes first which is the orc
+Archer
+he will hit with a 10 so black Jay is
+hit with this small bow arrow 1D minus
+one four minus one is three I would I
+would count his shield in this anyway
+because it's it's the air is basically
+coming from one of his front three hexes
+anyway in any event he's got four points
+of armor so uh three damages is
+mitigated by that so that what's
+happened with the orc when he shoots now
+we go to uh dexterity roll off because
+they both got the same dexterity in the
+combat phase
+orc's gonna go first because he moves
+through more hexes he would normally get
+a damage bonus when he strikes black Jay
+because he's charging with a puller
+however you have to move in a straight
+line in order to do that he did not move
+in a straight line so he is not going to
+get any uh advantages to damage because
+of that
+uh there's no positioning bonus here
+either because black Jay shifted to turn
+to face him so the orc is just going to
+roll straight up on his nine with his
+spear
+five eight nine so ten will just miss
+which means now it's black Jay's turn to
+oh what am I doing now it's black Chaser
+drag but he declared a defense oh I
+forgot about that the orc should have
+actually rolled a fourth dice I forgot
+black J what's funny uh I'm I'm trying
+to illustrate all of the rules at once
+so that's the reason why I'm kind of
+getting tripped up a little bit again
+like any game when you're learning it
+you're gonna make all kinds of weird
+mistakes at the beginning that's why I
+do the featureless gray playing to teach
+myself the the flow and process of the
+combat so that when I actually present
+it to my players
+I already know it cold and I can I can
+uh make the combat run really smoothly
+so that's why you see a lot of little
+flubs and stuff as I'm learning these
+things but that's perfectly fine uh the
+orc would have rolled four dice and he
+would have missed anyway because he
+didn't roll uh low enough
+so lactate does not get an attack
+because he was defending which brings us
+back to uh the the the forced Retreat
+phase but no one got hit so it doesn't
+apply so we go back to initiative in the
+next round who gets to choose initiative
+it's the Orcs again I think the Orcs are
+gonna let black Jay declare first
+they're gonna see what he does so black
+Jay is going to declare first black Jay
+is going to shift and attack because he
+is engaged he's going to shift over here
+that's what he's gonna do
+this orc is also going to shift Z here's
+the thing this orc is going to shoot we
+know that he's gonna actually he's gonna
+move one and shoot just because he can
+this orc if he was really smart he would
+he would really he would start to get
+out of the way but you know the Orcs
+aren't super smart so I'm just gonna say
+he's going to shift that attack but he's
+not actually going to shift he's just
+gonna change facing so now we go to the
+common phase the arrow is going to go
+first there's no range penalty here oh
+there is a range penalty he is now three
+hexes away which means oh that's good
+that was smart of black J to do so he's
+gonna be a minus one because of the
+range so now he is rolling on 13 or less
+and he does with an eight he does 1d6
+minus one four minus one is three again
+blackj's armor is going to take that so
+it's really hard to get to the armor
+with this little bow as you can see now
+we go into combat phase uh I'm sorry now
+we go into roll off face here because
+these two have identical dexterities
+once again there can be no ties so black
+Jay's gonna go first he already declared
+his attacks he's going to follow through
+with that he's rolling 3d6 on nine or
+less against this orc he's Gonna Roll a
+nine right on the button so he's gonna
+do his two dice damage against the orc
+and that's gonna be 10 minus the Orcs
+armor because he does have his shield
+but the spear is a two-headed weapon so
+the shields on the back the Orcs armor
+mitigates two hits which means the orc
+takes eight points of damage okay for
+sure the orc is going to be minus two on
+his next attack however a figure which
+takes eight or more hits in one turn
+immediately falls down prone so to
+represent that with these little
+counters we do that boom Pro
+if he is not already attacked it may not
+attack that turn because and he's prone
+on the next turn it may use an option to
+stand up or crawl interesting okay so
+wow that's a big hit that knocks down
+the orc Ur and basically cancels his
+attack now I'm going to keep this minus
+two decks because it does say that a
+figure which takes five or more hits in
+one turn has has its decks adjusted
+minus two for its next attack
+so whenever that attack comes he's still
+gonna be reeling from that pain I think
+that makes sense to me boom down he goes
+that is the end of the combat phase now
+we do the pushback phase but here's
+what's interesting the force Retreat
+phase black Jay can Retreat that enemy
+one hex however he's prone so what I
+would say is that black Jay can advance
+to the hex vacated by the enemy or stand
+still but because the enemy is prone I
+would call this like an edge case so I
+would say that in fact black J is going
+to advance as though he pushed the orc
+back except he's going to move this way
+instead which brings us now to the next
+round
+who goes first the Orcs go first while
+the Orcs are going to choose to go first
+this orc is going to stand and shoot
+this orc is going to take option G he is
+still engaged because he's still
+adjacent to Black J so he's going to
+stand up which is rise from prone
+kneeling or knocked down at the end of
+the combat phase interesting his whole
+action at the end of the combat phase is
+going to be getting up which means that
+black J now declares ha he's going to
+take his Advantage he's going to shift
+he's going to change his mind a little
+bit he's going to shift and attack which
+means he's attacking a prone figure he's
+going to be attacking it plus four
+there's nothing the orc can do because
+he's chosen to stand up he can't defend
+himself nothing he's just trying to get
+to his feet great now we go to the
+combat phase highest X goes first so the
+Orcs Gonna Roll 14 or less on 36 which
+he will miss this time wait no seven and
+six is 13 He will hit black J but is
+gonna do any damage three minus one is
+two again the shield and the armor takes
+the brunt of that damage is really
+impossible for this guy is it impossible
+it's almost impossible for this orc to
+damage black Jay he'd have to roll a six
+amazing armor is really useful so even
+though it slows you down it makes it a
+little more clumsy it's really useful
+against stuff like this he's basically a
+tank against this little short ball
+which is kind of cool all right we now
+go to combat phase here uh the orc can't
+do anything so black Jay is going to
+attack but because he is attacking a
+prone foe plus four to his dexterity so
+he's rolling on 13 or less this time oh
+wow 8 9 10 11 12. good thing good thing
+he got the bonus because now he's
+probably gonna end this orc two dice
+damage is a seven minus the Orcs armor
+of two is
+5 damage to the orc which will end him
+because he only had 13 hits he's already
+taken eight so boom black Jay kills the
+orc before the orc can stand up at the
+end of the phase he's technically down
+to zero if it was a player character he
+wouldn't be dead he'd be unconscious at
+zero you're only dead when you go under
+zero nonetheless he's just an arc so it
+doesn't matter there that was the end of
+the combat phase okay good well boy
+armor is really useful now we go back to
+initiative this uh orc over here is not
+thinking this is a good idea anymore but
+he's gonna decide to go first well he's
+going to let's see one two uh he still
+has a penalty he's going to uh he's
+gonna move here it's still out of range
+he moved and declared an attack then
+black J is going to decide to move his
+full one two three four five six now
+this is interesting here so before this
+orc can actually shoot
+things have changed the orc declared
+move and fire then black Jay declared a
+full move he can't attack because he
+moved more than half his movement but he
+engaged the orc which means in the
+combat phase now this orc is now engaged
+with a missile weapon
+he has something called a one last shot
+missile attack if a figure had a missile
+weapon ready before it was engaged which
+he did it may get off one last shot this
+option reflects the fact that you can
+almost always release an arrow at a
+charging enemy which is exactly what
+happens the orc gets one last shot at
+black J 14 or less he will hit but is he
+gonna do any damage probably not no no
+damage uh black Jay's turn but he can't
+attack so that brings us back to a new
+round
+things have changed for the orc he can't
+attack he wins initiative again he is
+going to oh boy he's engaged now with a
+bow you can't use a bow like this he is
+going to shift one hex over here you
+have to remain engaged with your
+opponent
+and change weapons so he drops his bow
+and readies his saber haha is what he's
+doing
+blackj is just going to change facing
+and attack because he wants to put this
+orc down he knows this orc has no armor
+now we go to the combat phase uh the orc
+his action was to shift and ready his
+saber he's got it out black J can attack
+now boom three dice nine or less does he
+hit the orc let's roll it again this is
+looking very good he certainly does hit
+the orc with the roll of a seven two
+dice damage the orc has no armor he
+takes seven damage oh boy the orc only
+has 10 strength which means he didn't
+take eight hits so he's knocked down
+he's not knocked down but he took five
+which means his next attack is gonna be
+at minus two dexterity from that boom
+that's the end of the combat phase block
+J caused damage did not take any so he
+pushes the orc back ha again this would
+uh make a this would have a lot more
+effect if there was stuff on the battle
+map but this is again a feature those
+Great Planes so that doesn't take
+precedence here we go back now to
+initiative and who gets the initiative
+for the next round it's gonna be the orc
+again he is going to decide to to take
+the initiative so he is going to defend
+because he knows he's in trouble so he's
+going to shift and defend ah he's gonna
+shift here and defend black Jay is going
+to shift and attack so who goes first
+temporarily the Orcs dexterity is 12
+which is still higher than black Jays uh
+nine so the orc goes first however
+the orc is defending so he doesn't roll
+anything
+black J is going to attack now but he
+has to attack with four dice nine or
+less and four dice because the orc is
+defending
+and he will five nine ten eleven twelve
+he will miss this comes away that that
+pain comes away and that is the end of
+that
+combat phase there's no uh Retreats or
+anything like that who goes first in the
+initiative it's again going to be the
+orc while the orc has his saber out now
+and he's he's gritted his teeth through
+the pain he's going to All Out attack
+which isn't really anything it just
+means a shift and attack is what he's
+doing black J as well is going to shift
+and attack but the orc goes first the
+orc does go first because he's got a
+dexterity of 14 so he strikes before
+black J does does he hit him oh well
+it's not a critical hit three four five
+it's an automatic hit so regardless of
+what his dexterity is uh he he still
+hits however it's not a critical it does
+normal damage and a saber does 2D minus
+two
+wow 10 minus two is eight against black
+Jay's armor and shield of four so black
+J actually takes four damage from this
+not enough to give him the minus two
+dexterity but oh that's a hit you see
+the saber is far more effective than
+that tiny little short bow a longbow
+would have been better actually but the
+orc wasn't strong enough to use a long
+bow so that was the orc going first now
+black Jay strikes back with his attack
+oh boy 10 11 12 13 that is going to miss
+unfortunately uh now the orc has pushed
+black J back and follows because he
+caused damage it did not take any we go
+into a new Round Here black J is going
+to see his initiative he is going to
+attack first shift and attack haha over
+here the orc is going to shift and
+attack as well just to keep it simple uh
+but the orc goes first this is important
+the orc is faster because he's got a
+faster dexterity and he's rolling on 14s
+and he rolls oh look at that a 15 which
+is a miss got lucky he Strikes Back on
+nines or lesses uh 13 is gonna miss okay
+it's uh it's close here
+both are wounded who's gonna go first
+it's going to be black Jay he's going to
+shift an attack so too is the orc we
+don't actually have to roll for these
+General initiatives anymore because
+they're just locked in a two-person
+hand-to-hand combat there's no extranean
+extraneous circumstances so we're just
+gonna go right to uh combat phases from
+now on which means the Orcs gonna go
+first okay so the orc has decided to
+shift it attack so he's rolling in 14s
+or lesses and that's gonna be eight that
+is a hit two D minus one against black J
+is six minus one is five uh black J has
+four points of armor so blackj takes
+another hit oh but it's not enough to
+injure him
+cause him pain so black Jay's rolling
+now with his strike on oh God 15 he
+completely misses we go into the new
+round actually he did cause damage so
+the orc pushes black J that way the orc
+is gonna strike basically it's just
+slugfest at this point there's there's
+nothing else they're gonna do the Orcs
+gonna strike on his 14 uh and and black
+Jay's gonna strike as well
+um which means 15 is a Miss block J gets
+to strike back with nines there we go
+five six is a hit his Broad Sword
+against the orc is gonna be four the
+orcas no armor he takes all four damage
+he's already taken he's already taken
+seven eight nine ten eleven he has a
+strength of ten he expires and drops
+dead with that hit boom and that is how
+basically
+melee combat works in the fantasy trip
+it's very streamlined it's very simple
+but there's still options available to
+make anything interesting now where this
+really does get interesting is when you
+have multiple foes on either side
+because facing group attacks trying to
+hit somebody from behind becomes really
+important also obstacles uh walls cover
+uh bodies to stumble over stuff like
+this all becomes really interesting uh
+so then you can actually go into
+advanced combat rules here in uh in The
+Labyrinth and this starts to get a
+little closer to gurps level combat
+where you've got way more options but
+that's not what we did today what we did
+today was just the melee uh combat
+component of the fantasy trip so that's
+how that works I I like it I'm not
+normally a a proponent of 3d6 systems
+just because my brain has a hard time
+looking at three numbers and adding them
+up quickly it's just a thing with me
+it's just a thing but other than that I
+I quite like it there's things to keep
+track of but not really a ton you still
+have meaningful tactics I really like
+the idea of whoever wins the initiative
+determines who moves first who declares
+first uh because that changes things up
+I like the idea that attacks come in
+based on order of dexterity which is
+kind of cool I like the fact that armor
+protects you but also slows you down and
+encumbers you a bit so there is a
+trade-off there it's good design I like
+that the idea that you can you can
+choose to defend or Dodge which just
+makes the attack harder to hit on a 46
+roll instead of a 3d6 roll I like that
+it's simple it's streamlined but it
+again it allows you those meaningful
+tactical choices uh pretty cool and once
+you internalize this it moves really
+fast much faster than uh gurps can if
+you turn up all the dials and switches
+on gerps it can be really really as
+detailed as you want it to be but the
+fantasy trip keeps things fairly light
+fairly straightforward this box set here
+is fantastic it comes with all kinds of
+stuff it comes with an area map of the
+world that comes with a bunch of of uh
+tokens it comes with a bunch of these uh
+hex Maps it comes with all the books you
+need all the all the the components you
+need to play the game it comes with an
+adventure a couple of Adventures
+actually a couple of big long uh
+campaigns and stuff this was released in
+2019 this is the first printing of this
+box but as I said it's a it's basically
+a reprint of all the stuff uh that the
+fantasy trip has done because again this
+game's been around since I think 77 so
+it's been on a long long time really
+pleased to get my hands on it a big
+thanks to Steve Jackson games for
+sending it to me and giving me the
+opportunity to showcase it here perhaps
+if you guys dug this I will go into the
+wizard component at some point and
+perhaps even I will take a couple
+characters through death test and see
+how that works that might be a fun thing
+to do let me know if that's something
+you want want to see in the comments
+below thanks for joining me here big
+thanks to my patrons and YouTube channel
+uh members as well if you want to help
+support the channel you can do so
+through the links listed below thanks
+for joining me here and we'll see you
+next time on the next episode
+over the featureless gray plane here on
+Me Myself and I
+[Music]
+die

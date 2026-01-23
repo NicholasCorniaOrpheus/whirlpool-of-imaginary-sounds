@@ -1,0 +1,2171 @@
+[Music]
+hello I'm Brad and I'm Jason you are
+listening
+[Music]
+to Hello everybody welcome back before
+we press record Brad and I were chatting
+about chat
+GPT and uh everything around it
+something that fascinates us both but
+especially you Brad and this is relevant
+to the current episode and the interview
+coming up because if if you know
+anything talking to our listeners here
+if you know anything about chat PT
+admittedly I know a very very very
+little but this is essentially
+Predictive Analytics well for this
+episode we're going to talk to someone
+who who stick see the connection is
+prediction and and it also happens to be
+a passion of yours Brad since I mean be
+way before we met and and that is
+meteorology so I'm turning over to you
+with that yeah I you know what that's
+normally I do the open but you said I
+have a great start and you and you
+couldn't have picked a better one just
+because I hadn't even thought of the
+correlation and I'm doing a lot of
+because I have the time of playing
+around with chat GPT nothing profound
+other than
+um looking at it and asking it all sorts
+of questions and generating content just
+related to
+RPGs and as an example um we jce you and
+I had that misguided attempt at thinking
+about what would we do with a narrative
+dice system in Star Trek yep and we
+looked at doing it and then I think I
+sent you the info I asked chat GPT to
+put something together and it put
+together a fully functional and great
+system for Star Trek and Genesis within
+what Moments by me asking multiple
+questions we'd like to thank you all for
+listening to Dyson mind this will be our
+last episode yeah the next episode's
+going to be AI Jason and AI Brad we've
+can't be flatter yeah well it's funny
+because there was someone who excuse me
+um um who did and I'm not going to get
+into the type of talk show because it's
+not something I ever listen to nor what
+I recommend it but um there is a
+relatively well-known podcast show out
+there for those that
+um tend to to to follow certain belief
+systems politically um and someone
+generated a uh fake talk show a fake AI
+host and when you compare the original
+to the new one that there was an article
+about this yeah uh they were
+almost you couldn't discern between the
+two I'm still stuck on this concept of a
+political belief system um now I know
+what wrong in this country but go on
+let's see g i yeah I tried to I tried to
+dance around the point being is that um
+you know it's interesting
+how AI will play into this now when it
+comes to me and the weather and
+meteorology
+meteorology yeah um I had been wanting
+to do this since I was like five six
+seven years old I was the kid who put up
+a map of the state of Wisconsin and cut
+out little red and blue squares oh ni
+that I could put on the map so that I
+could pretend to be a meteorologists
+meteorologist uh talking about the
+warnings because you where we live we
+have our share on occasion of tornado
+and severe thunderstorm warnings yep
+especially you yeah and loved it and you
+and I and your brother did our fair
+share of I wouldn't you can't call it
+storm chasing but post storm Chas let's
+let's just say storm follow storm
+following storm following is a good way
+to do it yeah storm following we did
+that a lot right around 96 97 ironically
+after the movie Twister came out um as
+unrealistic as I knew that it was we
+never had cows but we were always
+hopeful yeah exactly but we drove
+through I was with you we drove through
+a town that it really got and in
+hindsight we should not have been there
+no but um we drove through a town here
+in state that had gotten all but
+obliterated and and F5 right right up
+Main Street tore it down to the soil
+tore it up to the soil excuse me
+Oakfield Wisconsin which is for those
+that are in the area just is it South
+East it's just next to Nowhere oh yeah
+also the same yeah it's it's it's yeah
+it's what 15 minutes not even 10 minutes
+from Fondulac and and yeah we went man
+we went out as soon as the sirens were
+off yeah yeah so for me uh I looked at I
+took coursework in meteorology in
+college before you were gonna mat in it
+potentially I was I I actually once I
+realized I didn't want to do music
+that's what I switched to but the
+problem was a lot of the coursework was
+done during the day and I had to work so
+yeah um couldn't do it ended up getting
+a business degree um storm chasing has
+become a um you know I mean there are
+tours and things that people go on I
+don't necessarily have that inkling
+anymore but I am the type that follows
+you are very much an armchair
+stormchaser and I mean that in a
+positive way yeah I will follow there's
+a lot of people out there doing
+meteorology on YouTube live and twitch
+and everything like that I will follow
+real every time there's a storm system
+in your neighborhood so to speak you and
+I love it you text me the updates the
+analyses the predictions and I watch I
+watch the local I will stream the local
+channel when there are storms going
+through that area and so interestingly
+enough you know we are in neighboring
+states Minnesota Wisconsin Michigan gets
+their fair share of Storms and um you
+and I both saw a video on YouTube of a
+meteorologist who did a weather report
+for major planets in the Federation Risa
+the Star Trek Federation right you know
+what do they call them what did you call
+them fan casts I think uh fan forecasts
+fan
+forecast um fandom forecast Excuse me
+yes fandom forecast and we were just
+like it's so well done as soon as I saw
+it I'm like oh we have to because here's
+here's someone who who is a
+meteorologist who I just I'm fascinated
+by meteorologists yeah um and also a
+Star Trek fan and then we come to
+discover
+she's a legit broadcast
+meteorologist yeah on on TV remember TV
+and and and her her fandom extends I I
+think it's I I think as you will hear in
+our interview her fandom is heavily
+rooted like ours in Star Trek but her
+fandom
+extends uh all over the place and she's
+pretty darn impressive with cosplay too
+I got to say her her doctor who is spot
+on
+oh I mean un unbelievable she's so she
+is over in Michigan on wnls I think
+you'll go through the intro so for me
+personally to be able to talk to a real
+meteorologist who lives here in the
+Midwest and deals with the same type of
+weather that we deal with you know you
+know
+snowstorms uh severe weather tornadoes
+severe thunderstorm warnings um
+I watch um I you know I I that comes up
+and and she has a fascinating story she
+she had um an accident and she was lucky
+and not to get hurt you'll hear more
+about this and she had the accident to
+on her way back from seeing the premiere
+of Star Trek Bard season 3 yeah and and
+I mean this was a ser and she'll talk
+about this'll a serious accident yeah
+yeah so really pleaseed she when we
+reached out to her um so gracious and
+agreeing to join us um on the show for a
+while she's obviously very busy because
+she's on television um and she has
+horrendous hours yes and that was the
+other thing is is her hours you know
+make a diff What would have made it
+difficult for her to join us at a time
+that we were able to do it and she did
+um so um even before we start the
+interview thank you to to Katie for
+joining us um just the nicest person and
+I know we say that about a lot of people
+we interview but Katie was just a
+sweetheart
+and it would have been so easy to just
+keep talking we it took us a
+considerable amount of time after we
+paused the record
+to actually just stop talking she was
+she was so gracious to a guy who is a
+wannabe meteorologist who doesn't have
+the education very patient um with me
+not that I not that I tried to to make
+it sound like I was um knowledgeable in
+anything but I tried to toss a couple
+terms out there just to make myself feel
+important um and um very very um he was
+a good sport about it so um again thank
+you Katie and I think we could probably
+just jumped right over to the
+[Music]
+interview Katie Nicola is the Emmy
+award-winning CBS Morning meteorologist
+for wlns in Lancing Michigan from
+reporting on tornadoes live in the field
+to tracking multi-day blizzards she
+loves injecting her forecast with unique
+and detailed information that captivates
+and educates her audience she is the
+creator of the fandom forecast a project
+she started to bring together her love
+for pop culture and weather
+[Music]
+forecasting so since we are now able to
+bridge probably um a few of my passions
+being Trek and weather and just sorry
+Katie General nerdiness
+um Katie Nicola thank you for joining us
+today we'll talk you know obviously
+we'll talk weather we'll talk Tre um you
+know I I have to imagine we'll be very
+cognizant of time but if when it comes
+to Trek we are not always the best at at
+keeping track
+of same way here I found out one of my
+co-workers is into Star Trek and we had
+a one-hour conversation in the hallway
+this week
+so understandable now just to give
+everybody give our listeners a sense of
+of who we're dealing with here so I got
+it cuz got to paint a visual picture so
+Katie is wearing a sweatshirt that says
+weather witch which oh and it has a
+witch after it under it and then behind
+her is like this gorgeous Hubble esque
+shot of something it's just this no it's
+weather symol you have the yes oh you're
+talking about the symbols
+behind no no the the Hubble shop behind
+her or something like that yes this is
+the uh this is the witches broom nebula
+and it combines my two favorite colors
+of blue and pink and it generally just
+matches my vibes so just goes with it
+that's gor cool hey so um we could go
+back in the time machine Jason a lot
+longer and there's probably enough
+embarrassing stories we won't do that
+with you but um going back to when you
+were younger how did you get interested
+in meteorology just to start yeah so
+it's kind of crazy because I'm in
+Michigan I grew up in Battle Creek and I
+don't get a lot of tornadoes or really
+active weather here but when I was four
+we were driving back my family and I
+were in the car and you know it the
+early 2000s we didn't have cell phones
+or anything we didn't know what was
+going on and we drove into a storm and
+we actually had to pull over because it
+was so rainy we couldn't really see
+anything and I just looked outside the
+window and I see this lightning and the
+wind is whipping the corn in the field
+and there's rain and I thought it was
+the coolest thing ever and when we got
+home we found out that that was a
+tornado that went right over where we
+were and I mean I still thought it was
+really cool and my parents didn't think
+it was weird so we just kind of went
+with it and I started going to the
+library and reading books about weather
+especially tornadoes cuz you go through
+one you want to learn more and then in
+2011 a tornado hit my house in Battle
+Creek which if if you get two tornadoes
+in less than a decade in something
+literally like it's a sign that you need
+to do this so I just kind of took it and
+ran with it and I was a always an
+extroverted child so broadcast seemed
+like my best way to merge passions wow
+wow okay where did you where did you
+study meteorology from a School
+perspective yeah I went to Val Pera
+University which is in Northwest Indiana
+and most people just know it from the
+basketball team um but it's a really
+tiny school but they have an amazing
+meteorology program oh cool and that
+really really just fostered my love of
+weather even more than what it already
+was so did you did you because you said
+you know you're extroverted you're
+outgoing and and media was that always
+in the back of your mind like as you
+were growing to love the study of
+weather and whatnot was there always the
+thought of and you want to talk about it
+oh yeah completely because when I was
+little I would watch the Weather Channel
+as any weather incline child does and
+they had this show called storm stories
+and I wish they would bring it back
+because it's with meteorologist Jim
+Cantor and he would explain these storms
+and everything and at the end it would
+always be like for storm stories I'm
+meteorologist Jim canor your local
+forecast is next like that was ingrained
+in my brain to the point that I could
+probably say it faster than I could
+spell my last name
+and I just yeah it just kind of made me
+want to be a broadcaster because I knew
+I could do that and it seemed like such
+a cool way to explain science to a whole
+bunch of people see that's super cool we
+it so okay so this is also foreign to
+the two of us I'm curious so how how
+does one go from you know majoring in
+this in college right becoming
+meteorologist focusing on
+broadcast and then Landing a gig on
+broadcast I mean I have to assume that
+is not easy no It's Tricky it's getting
+easier because there's there's less and
+less meteorologists who are going into
+broadcasting just because it's becoming
+a
+more it's becoming a more difficult
+field mentally to handle and just
+physically the time constraint or time
+requirements for it and so it's becoming
+a little bit easier to find openings but
+usually what it is is when you graduate
+from college sometime during college
+you've to had a broadcast internship at
+a TV station in the summer and then that
+get your foot in the door and the
+meteorologist there help you find jobs
+and there's job boards all over like
+tvjobs.com great one for broadcast
+meteorologists and and sports people
+everyone and you just go go through all
+the job listings and they'll say mostly
+weekend meteorologist it's like the
+lower one on the totem pole but still
+really crucial and you'll get a lot of
+reps so you find one in an area that's
+either open or near where you want to be
+and you just apply and hope for the best
+so you have like a resume reel you built
+in college send it out out and then it's
+up to the Fate wow yeah middle of the
+later part of the 90s when I was
+actually when I actually went to school
+for some of this they moved the
+atmospheric science division from in
+effect the the straight letters and
+Sciences they actually moved it under
+mathematics and that made it difficult
+just for me because I worked and went to
+school to be able to attend the classes
+because they changed all the structure
+and schedule so you can see and just
+being a weather nerd and reading
+forecast discussions and watching them
+just how much um you know not that there
+wasn't before but how much math is
+involved oh I'm one math class away from
+a math minor I just couldn't bring
+myself to do it I was so burned out in
+college I was like I can't take this
+anymore but no it's it's broadcast
+meteorologist most of them just have
+plain old degrees in meteorology it's
+not like we get to take a a lesser
+degree or anything because we still
+study all that we need to know and that
+uh that's one of my favorite things to
+tell people is like yeah know I'm not
+just some face or warm body that they
+put in front of a camera to talk like I
+made this forecast I don't steal it from
+the weather channels app like I do my
+own thing and uh math is a huge part of
+it yeah that's that that that fascinates
+me and I have a I have a daughter who's
+looking at college and wants to go into
+atmospheric or environmental science so
+even seeing and and I hopefully I don't
+this doesn't come across the wrong way
+but
+but you know seeing seeing seeing women
+in science to me too i' like show her
+you know oh yeah because I have a
+daughter Jason has two daughters so
+anywhere we can see success like that we
+like to show that as examples to our
+kids oh yeah well I love it because you
+know meteorology has been like a
+male-dominated field and there's like
+whole reasons for it because it used to
+be a pretty good mix before they started
+requiring degrees and at that point in
+time men were the only ones who were
+going to college really to get the
+degrees so there was drop off and now
+we're recovering back up to the more
+5050 levels or at least we're hoping to
+so it's always good to get more involved
+see now how did you end up and we kind
+of talked about this before we hit
+record but for for the five people that
+listen to our podcast yeah
+umom watch okay there we go thanks Mom
+for our six listeners thank you mom um
+how did you end up getting
+into and you know becoming a a fan of
+Star Trek yeah yeah oh now that's a
+great question I actually I really enjoy
+talking about it because I feel like
+there's got to be at least some other
+person out there who might be in a
+similar situation because for me I said
+I was an extrovert I was always into
+everything and being very talkative but
+then I got to middle school and it all
+came to a screeching halt I developed
+like horrific anxiety I was borderline
+anorexic I had depression and it was
+just I was afraid to leave my house
+which is completely opposite of what you
+see today or here today and it just it
+it took the wind completely out of my
+sales for two years in fifth and sixth
+grade and then one night I was walking
+through my dad had Star Trek the Next
+Generation on the screen in the in the
+bedroom and it was Gambit part one
+season seven of Next Generation I had no
+idea no one in the world ever starts
+their Star Trek Journey with that
+episode but I did and I watched it I was
+like this is really cool and the more I
+started watching Star Trek the more I
+started to feel like these people even
+though they're characters they're
+fictional characters they still wanted
+to go out and Adventure even though
+there could be death or danger or
+whatever else was out there it was worth
+it to them because they got to go on
+these adventures and learn things and
+see things and I really started to
+embrace that along with the way of
+starting to think rationally you don't
+think about it when you're watching Star
+Trek but they think very rationally and
+anxiety is an incredibly irrational
+so you change your brain the way you
+think and so my anxiety was with germs
+and being afraid that I would catch
+something well I would go outside and
+you know wash your hands stay away from
+people who are coughing I'd wear a mask
+on an airplane I was ahead of the times
+but it worked for me and then all of a
+sudden I'm able to take off again and
+set a course and now I'm here so yeah
+that's I just started getting into Star
+Trek and it never really stopped you
+think there's do you think the fact that
+you were you were a Trek fan and
+obviously do you think that kind of bled
+into your interest in science as well as
+you were kind of completely Jia Dax heck
+yes yeah you get any kind of Science and
+Star Trek I especially love it when they
+talk about the weather and Star Trek and
+most of the time they do get it right so
+I absolutely adore that but um it just
+yeah it makes you want to reach out to
+other scientists too because on the show
+all the Departments work together right
+and with access to social media I've
+reached out to volcanologists mainly
+because of the name but now because of
+the science and like all these other
+people in astrophysics and whatever that
+I would never really talked to and you
+learned so much so I I give Star Trek
+the credit for that naturally this does
+bring up Jane way oh my gosh yes right
+because you had someone who was who was
+a blue shirt right you had this this
+young woman at at at Starfleet Academy
+who was going hard into the Sciences
+wanted to be an exploratory scientist
+and then kind of got pulled into right
+into command pulled into leadership
+because she had the skill set but but
+they would keep coming to the writer's
+credit they would keep coming back to
+that theme of she's still a
+scientist and you know and it was always
+I mean my God look at how many detours
+Voyager took on the way home because
+there was something to be explored
+right and just exactly and and I mean
+this again because again we're we're
+older than you by enough like we've seen
+so well but really Katie we've seen so
+much change in terms of acceptance
+inclusion of gender right the the fact
+that Jane way was written that way yeah
+yeah was I mean that was trk that was no
+one else would have written a woman
+scientist Captain who stayed true to
+that and didn't need a love interest
+exactly as much as I'm a JC shipper I'm
+like that ship needed to sail later on
+we need to
+[Laughter]
+establish I'm still holding hope that in
+Prodigy they're gonna do something with
+her and J and chakote ohy you've been
+watching Prodigy right yeah yes so it
+does make you wonder she's very um
+determined I'm so excited for seeing
+what they're going to do with that if if
+that's all for a firm handshake then
+it's going to be little strange yeah I
+need at least a hug a solid 5-second hug
+from that just give it to me
+please but they toyed with that one much
+like they toyed with Bard and maybe a
+little less than with Bard and and um
+Crusher well and see how they turned out
+there's hope for y well we're only
+though as we record this we're only
+through through episode six so we don't
+know yet true but but to back up for a
+sec because because there's a theme here
+that it well that I'm thinking of um let
+me connect a few dots like empirically
+here for you so you if you don't mind
+like going back to Middle School like I
+mean middle school is hard for a lot of
+kids right and it seems especially for
+girls and what's interes what's so cool
+to me is that Star Trek was such a piece
+that helped you that that helped you to
+grow and to be whole but that's also the
+time where we know we know from the data
+that girls top out of math they just
+they go from being potentially brilliant
+to they're no longer interested right
+and that's total socialization and then
+you hop over to Jane way where was
+something happening with chakote was
+there not and my connection is that was
+back so I promise I'm going to bring
+this all full circle they by next week
+he will trust me yeah that's my thing
+but no no there are few I but yeah I
+appreciate it Brad you can go but okay
+yeah but but with chakote you know I
+mean they brought in seven because Trek
+or not they needed a feminized
+sexualized character let's turns out
+she's a wonderful actor but that's not
+why she's so good but that's not why
+they brought her in okay and then the
+reason I bring this up is because
+there's a theme here and then like we've
+seen I've seen on Twitter you've really
+been trying to call out some pretty
+blatant
+chauvinism right regarding female
+broadcasters right so I mean there
+there's a theme here that I see right
+that remains a problem deeply in our
+society no matter how intelligent
+educated and accomplished these women
+become exactly and what's interesting
+too is like I take on a bit of a Janeway
+balana esque way of handling it yeah you
+have to handle it with poise and dignity
+and enough that you won't get into
+trouble but at the same time be spicy
+fun back don't just lay there and let it
+happen because then it's just going to
+keep on happening to the next person and
+the next person put up some resistance
+and I think that kind of does come from
+you know that middle School W thing of
+you know getting bullied and some ways
+being wor worse than others for other
+people it's varying levels and degrees
+but you always kind of look back on it
+and you just wish like I wish I could
+have stood up to that or like said
+something that I know like nowadays oh I
+would have destroyed that but like you
+learn and you just want to make sure
+that doesn't happen to anyone else so I
+just take the conservatively offensive
+position of calling them out without
+being too
+like a balana season five or six exactly
+more tempered
+balana I think I mean I I know you know
+like I mentioned before because because
+you know we have vested interest in in
+seeing yeah you know our all our
+children succeed but knowing that there
+are knowing that there are people out
+there like yourself and others you know
+that are willing to make to stand up for
+that and be yeah versus versus Jason I
+come from Gen X it really didn't exist
+as much back then
+um you know is but we were also guys and
+teenagers and were unaware I mean let's
+face it yeah true yeah well it's just
+like The Changing Times the culture
+evolves you get more aware of things as
+you get more socialized with people and
+hearing their experiences so it's
+definitely it's been nice to see people
+grow from era to era depend no matter
+when they were
+born yeah you do you exper well I want
+to I'm going to do this and there's
+going to be a reason behind it so you
+also have gotten
+into um cosplay oh
+yes so and and how did and I I this is
+this is almost a silly question but how
+did you this is I'm always asking this
+how did you end up getting into that as
+well other than the fact that obviously
+there's a passion there for track and
+then I'm assuming the first outfit was
+probably a science outfit a blue shirt
+outfit or very close it was actually a
+red shirt TNG I got it for Halloween in
+middle school cuz I thought oh I'll just
+get it and the blue one was out of stock
+so okay but I I actually I wore that for
+Halloween that one year and then in 2016
+I believe it was my dad and I went to um
+Star Trek Chicago um creation event and
+I was like I'm gonna wear my shirt
+because I don't get to wear this often
+and I wore it and I thought this this is
+really fun and I got to see so many
+amazing cosplays and the first time you
+experienced cosplay you kind of you
+don't you don't really get it until
+you're in a room full of them and you're
+you're just smiling from ear to ear the
+creativity and just the Ingenuity and
+all of it and it makes you happy and so
+I wanted to be a part of that and I
+started making cosplays that made me
+happy but also would probably make
+others happy
+too what else what else do you when you
+go out and do it obviously we've seen
+because we'll get to the weather report
+in a second but we've seen your your
+science outfit but what else do you have
+you gone out as well I'm a huge Doctor
+Who fan um I I think it's pretty much
+along the same veins of Star Trek so I I
+love it and so I actually made a 12th
+Doctor Cosplay uh for anyone who's a
+doctor whoan where he's on the tank and
+he has the guitar and he's just like
+going into full mental breakdown mode I
+made that during the pandemic and I
+still love it with all my heart and I
+did the 13th Doctor Cosplay I've made
+doodle bob from SpongeBob uh Crowley
+from good Omens um oh my God I I have a
+whole closet full Dela duck from
+DuckTales who it's nice that's a deep
+cut yeah oh
+completely had to find a leather jacket
+and cut it
+so wow that is awesome okay so is this
+what gave rise to the fandom forecasts
+it is actually because one it was coming
+up on the DuckTales reboot with David
+Tenant and Katherine Tate and like half
+the cast of SNL it's on Disney Disney
+Channel check it out it is to me
+incredible it's on par with the original
+um and just David Tenant knocks it out
+of the park it's incredible but any yeah
+no I I had um gotten that I had gotten
+uh into the show right before the
+pandemic started and I was like I I The
+Season's coming out I want to make
+something for the fans so I made a
+forecast for duckberry and like the
+money bin and just had fun with it and
+people really latched on I was like I'm
+going to call this a fandom forecast and
+I'm going to make more and so I think
+the second one that I made was the Star
+Trek one and that one just was nuts I
+got noticed by so many trekkies and I
+even had people from the show following
+me because of it I made a Star Wars one
+um I made a second DuckTales one good
+omen one you can you can pick up on the
+and I'm a part of a doctor who Phantom
+forecast and I actually have a list of
+all of them still on my desk that I'm
+going to be making now that I'm back at
+work oh wow wow how did how did working
+during the pandemic just to sidebar as
+you mentioned it how did that yeah how
+did it change for you and you know when
+you were doing your forecasting work did
+you have to go back to the station to
+use the equipment or did you how did
+that all happen yeah yeah so it was
+really incredible because when when it
+started I was a year into my job pretty
+much I not even getting up to a year so
+I was still pretty new but I was a
+weekday morning meteorologist which
+means it was me and four guys at the
+station and that was it running the TV
+station so we were pretty far apart
+anywh who so through the entire pandemic
+we worked in the station and we just
+kind of socially distanced kept our kept
+our areas apart um but what was really
+interesting was trying to do the weather
+coverage during that
+because you don't you tried to make it a
+little bit happier even if it's pouring
+rain you try to find the good in it
+because the entire rest of the newscast
+was really yeah bad and scary and like
+it was just information that was
+horrible so that kind of changed the way
+that I tried to present the weather and
+it still is to this day like I'll find a
+bright spot in a 7-Day rain streak if it
+means we're fighting off a drought for
+the next six months so that that helped
+me a little bit to develop my style wow
+so do you these so one of the first
+things this is sad but one of the first
+things I thought or wondered when I saw
+the treack cast if you will right uh
+was how are you doing this yeah like do
+do you go to the studio or do you have a
+setup at home I mean cuz it it's
+literally like you're watching weather
+on the news so it's just kind of
+seamless yeah no it was it's interesting
+because I made the graphics with my own
+like I I made the graphics of
+backgrounds and everything I did my
+research Arch pulled those in and I I
+put them into our graphic system because
+you know it's the middle of a pandemic
+we doing something fun so I just did it
+after work on my own time I would come
+in press the record button and pop it on
+and now I have my own home green screen
+that I use and uh my own sound systems
+and just have to get some better
+lighting but other than that yeah you
+can it depends on how chill your station
+is if they have a a fun fun sense with
+them and most of the time it's pretty
+relaxed yeah I and correct and apologies
+in advance were you do did you do those
+like especially the Trek one when you
+were in Sous City or back when in s City
+most of them I haven't made a new one
+actually because I just moved to Lancing
+back in O well end of October and uh I
+missed about a month and a few weeks
+because I was in a car crash so haven't
+had much time to get acclimated but when
+I do all I'm saying is Disney
+forecast oh oh wait go J
+just no I don't you know I'm not gonna I
+was going to ask a question but it's it
+would be no kind of a spoiler and we
+like staying away from that I will just
+wait to I will just wait to watch it he
+was gonna ask you don't have to answer
+he was gonna ask why Disney I think oh
+no no I mean that kind of speaks for
+itself no I was
+just you see how I tried to get him to
+actually ask the question yeah like who
+would you I mean my God you'd have so
+it's such a broad patina I mean how
+would you narrow that down I actually
+have multiple Disney Fantom forecasts
+like a Parks forecast where you do the
+different lands or different Disney
+castles or different Disney franchises
+you can do whole animation forecasts
+like there's a lot okay that makes sense
+oh yeah you you mentioned because I know
+you know for those that follow you on
+Twitter know that you had you were in a
+pretty serious car accident oh yeah and
+you were in that coming back from being
+at the premier for peard if I remember
+correctly right I was yeah I was out I
+was in Los Angeles and I just I was at
+the peard premiere it was incredible
+Amanda plumber was sitting like two rows
+in front of me and I'm just like oh my
+gosh that's Amanda plumber and uh it was
+amazing and I was driving back and I a
+person going much faster than I was hit
+the back of my car and mind you this is
+on lasena Boulevard so it's like a three
+lane three lane and then a middle Lane
+and I was in the farthest right lane I
+could be in and it actually hit the back
+of my car with such force that it bent
+the rear tires and it forced me into
+four lanes of oncoming traffic where
+another car in the other lane um hit me
+in between the passenger front and back
+window or doors and that caused my car
+to roll and it landed on the driver's
+side and just before it would have hit a
+cement building so it was pretty violent
+crash it was like 11 something at night
+yeah so um when I hopped out of the car
+I grabbed my phone and I called my
+parents cuz like 2:00 in the morning on
+the Eastern Co on in Michigan on the
+eastern time and bless them I don't
+think they slept that entire day or the
+entire night into the day cuz I ended up
+having to go to the hospital cuz I had a
+severely dislocated shoulder which now
+has a permanent dent in it um you showed
+the xray of that yes yeah the doc said
+I'm like a pop can I have a dent um and
+that my entire left arm was unusable I
+couldn't really move anything with it
+and uh I had trauma to veins in my arm I
+had huge bruising pulmonary
+contusions the works and I lost my voice
+cuz had a dislocated shoulder for three
+hours and I was laying on my back in the
+ER and since it was a posterior
+dislocation it means I was laying on my
+bone and so I was just like screaming
+for a few hours but it's fine that's
+good but you want to know the bright
+side of this I was in a cosplay okay I
+was in I was in full leather cosplay
+leather pants leather back at everything
+so I'm hopping I got out of the car and
+I'm looking for like you know the
+ambulance and stuff they take me to the
+ambulance they're like we're going to
+have to get you out of this cosplay I'm
+like hold on and I unzip the jacket with
+my good arm and I take off the jacket
+I'm like okay fine cut off the shirt
+it's not the jacketz this is my andorian
+jacket too and then I get to the ER and
+they're like we need to take off your
+pants we're going to cut off your pants
+I said no you're not you're not so they
+got one doctor on one leg one doctor on
+the other leg and they just yank oh my
+God like skin tight leather pants
+imagine what they said exactly well
+between that and then when they reset my
+shoulder I told them I was like you have
+to put me out like I I won't be able to
+handle this and when I was coming back
+out they were talking about Star Trek
+because they saw that I had like the
+Star Trek earrings and everything and
+they're like what show's the what's new
+show are you really into I said strange
+new worlds because my God Anson Mount is
+hot the entire ER just start it in
+laughter like this is trauma one at
+Ronald Reagan UCLA and they were just
+laughing so it was it was pretty great
+um to get them to laugh and to get
+myself to laugh in that state you know
+the loopy gases help but after that it
+was like just dark well and I just I
+mean it's so impressive your attitude
+considering how serious it was you know
+yeah and how you dodged I mean oh
+complely bad joke but dodged a Bo no I
+mean you walked you w
+the fact that I was able to walk away
+from that cuz if that second car hadn't
+hit me I would have smashed head on into
+a cement building and that could have
+been it so like you know those thoughts
+do like pop across your mind and for
+work I drive an hour to work each way
+every day and and so that's like
+something that I'm going to have to deal
+with um anxiety wise and I had to rehab
+to get my arm strength back so I could
+hold onto the steering wheel so it's
+it's if it had to happen it happened in
+the best way possible um and that's
+that's the attitude I've chosen to take
+with it because like I said fifth and
+sixth grade middle school i' I already
+know what it's like to be in a deep dark
+place so yeah I know how to stay away
+from the hole well so we don't the buzz
+so we're not the buzz kills of the you
+you lost um because of the accident the
+you know the the swag and everything
+from card but I saw like Terry metalis
+and Jerry Ryan and others um resp to
+your tweets when you were talking about
+it I think Terry Terry matala said we'll
+get you what you know we'll get you all
+the peard stuff oh yeah because I had
+they had these posters when you picked
+up your seat ticket so I got this
+physical ticket and I got this beautiful
+poster for the season and I protected
+that thing like a baby at the Afterparty
+and the theater everything it was
+amazing and as soon as like the car
+landed and I was looking at the
+windshield I looked to my left and there
+was the crumpled remains of the poster
+on the driver side glass and I'm just
+like
+no I protected you and um so that that
+was like that was lost the ticket was in
+the car like I wasn't able to get
+anything out of the car other than my
+wallet and my backpack so I lost that
+and I was so just mad and I you know
+still just sitting in a hotel room an
+hour or few two after it happen putting
+up that tweet I'm like amazing I'm still
+really sad about this guy so Terry
+reached out and he's like hey we'll get
+you we'll get you the Press Box B that
+they send out so I got a bottle of
+Chateau peard a shuder board in the
+Delta
+badge um I got Star Trek B bottle
+stoppers um and just I I got some very
+sweet messages will weaton messaged me
+Jerry Ryan messed me Gates mcfat and
+bless her heart she's messaged me
+several times um um oh all I know is
+what's his name he plays
+Shaw oh yes I'm trying to oh he's so
+good yes oh my gosh like such a sweet
+guy he reached out like the the Star
+Trek Community was very kind um and you
+know I was there because I had friends
+that I podcast with and through them I
+was able to go to the premiere and I
+just called them at 2 in the morning
+like I am at this Hospital could someone
+pick me up yeah so everyone is just in
+the Star Trek Community just was like
+yes we'll come and help you or here
+we'll help you with this I've had people
+say they'll send me their ticket from
+the premiere to replace mine like
+because that's what Star Trek is that's
+why we all fell in love with it as kids
+because it's such a better world and it
+it shows us what we can aspire to
+exactly and the person who drive drove
+me home well to the hotel uh Ryan he was
+like I told him I was sorry I was being
+a burden for him like getting up at 4 in
+the morning to drive half an hour to get
+me and he was like no because I know you
+would have done the same for me and I
+like yeah I would have done the same for
+any Star Trek fan like this is who we
+are and then that makes you feel good
+inred that's so I saw the Twitter
+response to to to your posts and the
+picture of the dent and everything like
+that and then seeing all these people
+respond not even not even the
+celebrities just just regular people
+responding yeah yeah oh my gosh I've had
+people from different countries
+different states I I even had a person
+bless him he's a viewer that I had in
+Sous City when I was broadcasting there
+he sent me a bouquet of flowers to my
+news station and well soon and it's just
+I had a person from Texas send me a
+board game called stormchasers that he
+saw at Target and like it's it's just
+the craziest and just the kind messages
+people taking the time out of their day
+to say even just hi like it just it
+really after something that was so just
+awful and it makes you so mad that it
+happens to people then you get this
+response and it's like it doesn't negate
+what happened but it sure helps put you
+on a bright path after yeah excellent do
+you
+um oh shoot I was going to ask a
+question and this is this is where my my
+my mind moves too fast sometimes just
+the train of thought derailed and went
+off yeah no no no it was I had I had
+like this really really generically
+generalized mediocre question and now I
+forgot what it was but um oh you know
+let me let me digress here because again
+because that's what I'm known for um
+being down in Su city um we had talked
+about the fact that you know even here
+in Milwaukee Jason maybe a little more
+so we don't get a lot of of you know
+mesocyclones and such we have to live
+vicarious Bon points for the
+terminology see what happens that's what
+happens when you prepare for someone
+being on and you hit Wikipedia so
+yes but going down in s city did you
+ever do as part of maybe part of your
+your your ree program or anything any
+type of storm chasing because you
+mentioned like the board game oh yeah
+good question heck yes so in college
+Valpo has an amazing program and their
+Professor Bart wolf he started a storm
+chasing group
+28 years ago I want to say so every
+summer there would be two classes where
+they'd go out into the high ples or
+Central planes or wherever for 10 days
+and Chase tornadoes and I got to do that
+for four years which is really wild
+because they don't usually take freshmen
+on these trips and I was lucky enough to
+get chosen so for four Summers I spent
+time from Montana to New Mexico to
+Arkansas everything in between and it
+was incredible and so that was partially
+one of the reasons why I chose Sous city
+um was because it was in an area that I
+had driven through on a storm Chase I
+liked the area and I knew I could get
+more storm chasing done and
+then absolutely no storms formed while I
+was out there there was like maybe like
+three tornadoes within my area and then
+now this year they're already getting
+way more more activity I'm just like
+it's fine everything's fine I'm a
+weather curse it's fine um I'm the kind
+that people want to pay to move to their
+area because nothing will happen then
+but I still tried to chase as much as I
+could you know we had several duros move
+through which are those severe wind
+storms got to see those um and I
+actually for the August 2020 dur show
+that just destroyed Iowa practically uh
+one of the costly storms in actually the
+costly storm in US history because of
+all the agriculture that was destroyed
+um I called in sick that day and I will
+never forgive myself for missing this oh
+you called in I was I was waiting I
+thought you were playing hookie yeah I
+thought you were going to play hookie
+but I had the worst migraine headache I
+couldn't even stand up I mean just like
+I I'm gonna puke if I move so I have to
+call in and then this happens and I just
+I almost flipped a table I was so
+lited so okay so as a meteorologist
+what's what when you saw the the footage
+of the tornado outside of
+La what what went through your mind they
+after tomorrow the movie miss it
+again no because La you guys have had La
+has had snow there's been tornadoes now
+you get all of this chaotic stuff that's
+been happening flooding and I'm sitting
+here in Michigan like H it's just Brown
+out because everything's dead and
+there's no snow to cover it
+up so first extreme concern for the
+people who were in that position and
+situation second jealousy uh that
+there's a little bit of active weather
+because in Sous City that's another
+thing why I love Sous city is once you
+get out west there are far fewer things
+for storms to hit and that makes it
+easier to study it without feeling like
+without the imminent concern that it's
+damaging or destroying things and you
+can go a 50 mile stretch without a
+single house sometimes so ideally that's
+what I look for and if you could take
+those storms just put them somewhere
+else where we can enjoy them in peace
+without destroying anything that's what
+I want from life just to and just to be
+able to study them too I mean I I even
+know from being a kid to um you know
+being an adult and following the weather
+and both and having the weather radio
+and listening to that you know k60 radio
+and National Weather Service milwauke
+Sal and I used to be able to recite that
+um and how able to and obviously it's a
+science but it's
+still technology it's still iterating
+you're still learning and seeing how
+you're able to
+forecast storms and potential tornadoes
+you know oh yeah so much better now than
+even 10 15 20 years ago um exponentially
+better yeah and just seeing how that's
+grown and it's it's it's fascinating did
+you ever um think about you know like
+watching the California weather or
+watching you know looking back at Sous
+City or whatever the case is did you
+ever like do like a fan forecast except
+go back and say hey I wonder if this
+area is GNA get hit or not and kind of
+run the numbers and run the run the
+models one time when I was in Sous City
+they had actual they had tornadoes here
+in Michigan and I did a Facebook live
+update for my family back home and my
+friends I was like Hey guys here's
+what's happening let me show you what's
+going on and like doing forecast for
+areas that I have an emotional
+attachment to and uh you know the
+meteorologists in those areas too I'll
+just share their information just be
+like hey tune in to channel 159's news
+whatever it may be and uh just making
+sure that people are safe because that's
+the thing too you mentioned this the
+science had the technology has grown
+incredibly the social science is still
+very lacking in that we don't get the
+warnings to all the people and we don't
+necessarily know how to
+not it's not for lack of trying we have
+tornado sirens we have the emergency
+alert system on our phones we have all
+of this yet there's still a gap and
+there's going to still be people who you
+say there's a tornado warning they're
+sitting in their front yard on a chair
+watching we just had this convers
+they're called wisconsinites we know
+from there's a there's a comedian here
+in Wisconsin named Charlie Barons and I
+don't know if you ever seen it he did a
+video of exactly that of being a father
+and he's yelling at his kids I'll send
+you the link he's yelling at his kids to
+get to the basement and then as soon as
+it is he's like okay everyone's set then
+you see him come out the door with a
+beer and crack a beer and and start
+watching the sky so exactly and like
+sometimes that's perfectly fine you got
+good visibility I trust your instinct
+you probably 60 years in the plane gives
+you some experience with that but it's
+like you get you get different ways of
+warning people at night versus during
+the day there's the Blind and death
+communities who have to get different a
+and it's just that's of the big things
+for me now is social education of the
+Sciences on through Tik Tok and just
+telling people hey did you know that
+there's the thing called ball lightning
+and it's Mother Nature's version of a
+grenade because I bet you didn't and
+here's a new
+fear yeah well I mean even too I was
+watching because I I live for a couple
+years because I have family in Tampa and
+everyone talked about heat lightning you
+know oh yes you look you look out toward
+the gulf and you'd see flashes of light
+and everyone's like oh don't worry about
+it it's heat lightninging and I remember
+looking that up and I'm like there's no
+such thing as that how is it how is it
+being permeated as a it's it's like a
+myth that it exists so that's in my Tick
+Tock ideas Journal I have a lot of
+journals by the way so uh but no heat
+lightning totally it doesn't even exist
+all it is is that in the summer when
+it's hot you tend to get thunderstorms
+that keep going into the overnight hours
+and when they're far enough away and
+near the Horizon all you don't see that
+lightning hit the ground because you
+can't see the cloud base so all it is is
+cloud lightning so it's loud and cloud
+or Cloud to ground just generally call
+it heat
+lighning I'm gonna I'm gonna pause
+because I could yeah J that doesn't make
+any sense I mean why okay yeah I mean
+that's cool people will truly believe
+anything J there was when I was because
+I I was with Jas this was early 90s when
+we when we went to college together the
+first year I ended up moving to Florida
+after that and I remember hearing about
+heat lightning and down in Tampa you
+know they hadn't had a hurricane come
+through in eons and I needed to prepare
+growing up in the midwest so I went to
+the library and looked it up because the
+internet didn't exist I mean other than
+that was when Jason and I were like look
+we can actually dial in and send email
+back and forth when you're up in our
+friend Eric had a 9600 bod modem and
+that thing flew oh my gosh yeah yeah
+that now we've sufficiently
+our sad but true yeah cuz I could I
+could start talking about and I'm going
+to pause but like lak's recurring cycle
+I was fascinated by winter forecasting
+because obviously I imagine you as a
+meteorologist hear all the time from
+people like me out in the field so how
+many exact inches of snow are we going
+to get this winter don't give me this
+fluff range that you're just covering
+your butt with what are you thinking
+yeah yeah this storm that we're going to
+get am I going to get two inches am I
+going to get 2.3 inches am I going to
+get 8 Ines you know but you know as we
+as we I think as we inch maybe here no
+pun intended because it's snow but as we
+inch toward the end here I mean I think
+that's a real thing like i' I've heard
+from people I love and respect and who
+are intelligent and educated exactly
+what you just said Katie of well they
+don't really know and it's like well no
+but I mean the models are so Superior to
+what they were even a few years ago yeah
+but they're just covering themselves
+they don't really know and I mean it
+kind of goes to what you were saying
+about the social science aspect of the
+the physical sciences of something like
+meteorology like i' I've said to my one
+of my daughters in the car one morning
+on the way to school was like yeah but
+they they don't they obviously don't
+know what's going on and it's like kiddo
+we don't even have the computational
+capacity to fully explain one single
+match burning and they are trying to
+forecast yes an entire section of a
+continent it's like they can't and so
+what you what I'm get to is there's
+there's such a poor understanding and
+such a poor tolerance for ambiguity and
+especially for uncertainty whether it's
+in your you know whether it's the
+weather forecast whether it's co right
+well why can't you just give me an
+answer well because there's no way yet
+to predict with that kind of specificity
+which must mean you're hiding something
+exactly well and the thing is we could
+go into specif specifics for that one
+hour model run but the next hour is
+going to completely change and there's
+no way to redact all of that previous
+information and make sure everyone who
+saw that now sees the new stuff so you
+have to take into account a broader
+range of things before you put that into
+a forecast and it is true like a lot of
+times people oh I I swear if I had a
+dollar every time someone said like you
+could be wrong half the time and still
+keep your job oh boy scientists have now
+gotten like meteorologist we've gotten
+close to 85 90% correctiv like in many
+areas there's been research done and
+what's really quite interesting about it
+is that no matter how good we get at
+forecasting there's still going to be
+one spot that's a degree colder and
+that's technically wrong so I always
+tell people it's like pour a whole bunch
+of glitter into a bowl of milk find one
+Speck of glitter start spinning the milk
+around in a circle and track it and tell
+me where it's going to go for the next
+seven days that's what we do with
+meteorology analy that's ridiculous yeah
+is it's like half the time you can't see
+what's happening the other half of the
+time you could get bad data you could
+have satellites go down you could have
+whatever it may be and uh all just comes
+down to it if you have to look out your
+window we're going to try to make it
+better than that and whether you
+appreciate it or not we're still gonna
+try well and and now I mean here locally
+with with weather reports and and I
+follow you know the four major networks
+you know um now as part of the forecast
+just I think and and I don't want to
+speak for them but I think probably to
+show people the complexity of it they'll
+show the different model runs and say
+you know here's the GFS model run we
+look like we're going to only get three
+but with the European model run we could
+potentially get seven so just be aware
+that's why things are the way they are
+exactly shout out to Minnesota Public
+Radio right which sorry best in the
+country but they have um there's an
+updraft blog that's what they call it
+and they it's and when there's any kind
+of inclement weather so you can imagine
+this is popular during snowstorms and
+blizzards and Big Time in the summer uh
+especially in the hot right friction
+months um they the the they have the
+blog but then they also live
+blog and and they do exactly what you
+just said Brad they the the
+meteorologists with them they they post
+just every few minutes they post the
+different models they post right the NWS
+updates from the entire region um and
+it's just here's the information here's
+the best thinking and and it's not going
+to line but it's open yeah exactly you
+can present all the data to people and
+let them make their own decisions and
+that goes back to the I wish that they
+would do meteorology in school in like
+middle school high school have a
+meteorology course Basics how to read
+the maps because then that would really
+increase meteorological literacy and it
+would help with you know explanations
+and you could go more in depth like it
+was pretty taboo here for like the early
+2000s to really show raw data or model
+numbers that could be thought of as
+confusing like the viewers won't
+understand it they will you just have to
+explain it in a way that's easy to
+understand and in under three and a half
+minutes so I love those model
+comparisons where it's side by side
+here's one here's the other we're going
+to move them both at the same time stamp
+so you can see this one has a blizzard
+at 7 p.m. this one has nothing now which
+one do you think is right cuz that's the
+challenge we're going through and it it
+kind of gives you a little bit more
+sympathy from people too they see the
+challenges that you're going through
+with it and I mean Jas you know we keep
+going back to making fun of our own age
+we're you know we're I'm 49 um I
+remember as a young kid in the early 80s
+there's a legendary meteorologist in the
+area called Paul Joseph it was him and
+um Tom Skilling started his career here
+Tom Skilling before he ended up at WGN
+and they used to do their weather
+reports on a state map that had um a
+piece of glass or plexiglass over it and
+they would draw on the markers and they
+would draw in the low pressure and high
+pressure systems and I saw skill you
+know I saw the thunderstorm symbol that
+you had next to your witch I think it
+was the r right yes y it's like a little
+r with a arrow yeah I remember him
+putting those on there and now being
+able to show the model runs it's just
+fascinating how far we've come in that
+science and thinking back to I remember
+watching twister and then I'm going to
+stop Jason I know I was wondering if we
+get to twister
+yeah I a twister Festival where we
+rented out a drive-in and showed the
+movie to the town of Sous City like
+appreciate that movie oh and and I
+remember all the flak people were giving
+meteorology saying hey they're actually
+saying that it's an F4 or F5 tornado why
+aren't you doing that on the weather
+reports yeah and obviously for obvious
+reasons scientifically being a weather I
+know I know why you can't but now even
+now they're saying look at the I was
+watching the more I think I mentioned
+before the coverage of the more Oklahoma
+F5 tornado just which 1999 or 2013 2013
+yeah there you are and they were showing
+the debris ball and they had a guy up in
+the helicopter and they're like this you
+know and they weren't saying for sure
+they're like this very well could be an
+F4 or an F5 and just the fact that you
+all are at that point just 15 years
+later oh yeah and being able to warn
+people of it and them saying okay if
+you're at the Walmart or at Westmore
+high school or at this take cover get
+underground this is not a joke you know
+you watch this stuff and um I'm just
+fascin sorry I'm fanboying a little bit
+no it's incredibly I fan I fan over it
+too like it's you want to know Fanning
+about it actually I will uh grab right
+here so the viewers can find out any who
+I have my cats named Doppler and radar
+um I live the brand I'm currently for
+those listening I have my little Doppler
+next to me because she's chaos and she's
+probably going to try to tear out my
+green screen but yeah no you name them
+do radar after technology that didn't
+exist a 100 years ago so I can't wait to
+see what my cats will be named when I'm
+80 because it could be something that's
+invented here in the next 10 years Jason
+knows that I was such a nerd that I my
+hard drives because I had a computer
+that had multiple hard drives on it one
+was Dorothy and one was Dusty from
+Twister dy I don't remember that I
+forgot about that you we both I don't
+remember that I we I remember the I I do
+don't remember they had names I mean
+first of all how quaint hard drives but
+like oh yeah you're you're not kidding
+Katie like like Doppler is actually kind
+of going forward with the green screen
+um that's funny cute um but I I it's
+it's just distracting because I keep
+waiting for the color shift and it's not
+happening
+yeah but uh no Brad I mean twister was a
+great movie but my god did Brad get into
+that movie I mean we're still quoting
+that movie today regularly
+not came out the year I was born by the
+way well that was unnecessary but that's
+neat yeah well it's not we were only I
+mean we were 20 at the time so we were
+still well I Jason I was extraordinarily
+immature I probably probably was a good
+10 years behind my chronological age at
+that point but that when a little bit
+growing UPS operated that is true
+overrated especially yeah um but
+watching that movie knowing full well
+they did two different weather stations
+meteorologists came together and did for
+both stations they they showed it them
+going to twister and giving their their
+both their their review of it from just
+a cinematic perspective and then their
+review of it as a scientist perspective
+and they said you know we're not there
+yet but it was a fascinating to see to
+where potentially we could go other than
+at the end of the movie Them floating in
+the air and looking up at the you they
+would have been so dead head oh my gosh
+they would have been shredded twiss
+cheese okay so that's funny cuz the part
+that really bothered me from the
+beginning is none of the aerial sensors
+would have
+flown yeah yeah I mean they would have
+been picked up but it's like all the
+mass was in the sensor and then you had
+a tiny little cutesy pin wheel it's like
+that's not how fluid dynamics work
+nothing flies it would have been ripped
+out it was just aluminum if you have
+wind speeds of 300 miles per hour hour
+it's gonna shred your Pepsi can yeah wow
+yeah the we this was well probably a
+year before you were born there was a
+major tornado that hit north north of
+usab hour in a city called Oakfield yeah
+right so five minutes from my hometown
+yeah and so we went out well I watched
+because I was
+working much further away and I
+saw um I saw the Anvil and oh and drove
+up there this was before we all were
+carrying cell phones and drove up there
+Jace and got behind it I I was past but
+we drove through the city as any idiots
+shouldn't do after the storm goes
+through
+and we and we could so I went with our
+friend Brian right because we were in
+Fond that's where we're from or where
+I'm
+from yeah you were with me right yeah it
+was you and we you remember we went and
+by the time cuz it was like we like that
+one you had to go under downstairs like
+that was Sur yeah cuz this was this was
+just literally miles away from town from
+our and I mean it's amazing there was no
+loss of life it's but you remember we
+went up on the hill by the time we got
+there which was like 15 20 20 minutes
+maybe 30 minutes after it tore through
+the National Guard was already there and
+so we couldn't get closer to then
+remember up on the hill and I I I've
+told my girls about this I will never
+forget it because you look we looked
+down onto the town and you know it was
+an F5 so of course you could see get red
+you it it right down into the soil yeah
+like there was no grass no pavement
+nothing it was just that swwa remember
+that cuz it went right downtown like
+down into like the dirt like like deep
+and it's like I mean it was just it was
+humbling now did you guys have the smell
+of like the the broken trees the grass
+the dirt in the air I don't remember
+that I don't remember that but I've
+heard about that I that was the thing
+I've seen a lot of people talking about
+with the tornado that hit Mississippi um
+is that there was a lot of just the
+fresh smell of wood being snapped off
+and grass being torn up and um it's it's
+definitely interesting to see how that
+works because these storms pick up the
+trees they pick up the grass and they
+fly them hundreds of miles away at times
+theying recovered a check from someone
+over 100 miles away in a different town
+so it's it's definitely interesting when
+people experience big tornadoes like
+that if if you had any like other s
+inputs that were left behind they we had
+this was probably about 10 years ago I
+live about seven miles as the bird flies
+from Lake Michigan and probably about
+two hours north of us there had been a
+pretty hefty I don't remember what year
+it was but we had corn
+cornstalks um kind of floating down and
+we had an envelope there was no address
+just a piece of one with a turn address
+from Chase up in Adams
+County Which is far enough away
+so yeah so just we're fascinated by this
+we didn't even get the chance we've kept
+you on goodness another 40 minutes
+longer than we could have thank you so
+much
+time we we have to if you don't if it's
+okay with you especially as peard wraps
+up we didn't get a chance to totally get
+into that we'd love to have you back oh
+yeah because I need someone to geek out
+with and you guys are perfect yeah right
+back at you yeah we it's it's oh my God
+I yes yeah while we're recording this
+we're up to episode six and I've already
+I've re-watched that episode so many
+times like the ending had me screaming
+at the TV it was so good when TV gets
+your butt off the couch that's it I
+never cheer or fist pump at anything I
+mean I don't do Sports I I mean I you
+know I very much no like golf Clapper
+maybe but uh even though golf makes no
+sense to me but uh oh my God the the the
+these past couple episodes yeah
+especially six I mean like when I was
+texting Brad like I myself cheering why
+was there a like a EKG beat by Kirk you
+know oh my gosh yes you know what's
+hilarious I there's one viewer they have
+a heart monitor and they've been posting
+their heart monitors results while
+watching the episodes on Twitter I
+haven't been able to find them again but
+I'm starting to think I need to invest
+in one because it's probably just going
+to be off the charts for the rest of the
+season that's that's your next your next
+cosplay it's not techic cardia it's Star
+Trek right oh my God yeah I don't watch
+mine I now you have me thinking that as
+I probably I probably should just to see
+what it looks like so well and then you
+can match it up with parts of the
+episode and it's really cool to see like
+when the episode has like B major fight
+scenes or big Revelations like yeah so
+much yeah science rocks that's again why
+Star Trek is so awesome yeah Katie thank
+you so much we will definitely as long
+as
+have you back we will have more more
+card talk more Star Trek talk I we there
+are things you were on a a podcast a
+year about a year ago the Trek profiles
+and they had topics on there I didn't
+even touch half of them because I would
+love to hear about them um so we'll have
+to have you back when peard is done and
+talk about that but thank you so much we
+know you're still healing and recovering
+for taking the time and um wish you all
+the best as you as you get better and
+and return to normal work and thank you
+for and thank you to Katie's mom for
+listening to
+us well thank you guys for having me
+literally anytime you give me a ring I
+will try to be on here whenever you call
+plan on hearing from us as soon as 10
+drops yeah that sounds good to me all
+right perfect thanks so
+[Music]
+much poor Katie if we hadn't if we
+hadn't uh you know said that we need to
+be cognizant of her time I could have
+probably just sat there and listen to
+her meteorology stories for hours one
+thing I forgot to mention that I wanted
+to ask about and ktie I'll have to ask
+again is she is a certified broadcast
+meteorologist which means there is um I
+mean there are stringent requirements
+about this around atmospheric Dynamics
+thermodynamics
+physics uh probability and applied
+statistics I mean you have to and then
+you have to do a multiple choice and
+then they have to evaluate I mean it
+that was a lot of work to put she's
+she's got legit science credit I mean
+she's a meteorologist and she I don't
+remember if she talked so much about it
+with us during the interview or perhaps
+afterwards but she I mean she's a
+scientist yeah she's a scientist and not
+only that went above and beyond and got
+the CBM certification from the AMS
+American and and I forgot to I forgot to
+ask about that because um that is
+stringent and it would be fun kti off to
+have you on again I would love to hear
+the stories about that um and I promise
+I won't message about it because I don't
+want to go into stalker territory but um
+it's funny though when there are storms
+coming up um I actually have I think I
+mentioned before I will go to the
+streaming sites for the local television
+stations so I can see on the ground and
+so um hopefully they never have to deal
+with it over in the laning region but I
+have that one on my bookmark bookmarks
+for weather too in case stuff that
+floats over from where I am which tends
+to happen across the lake and then
+reforms across the lake um could cause
+some yeah um interesting weather over
+there well and they're clearly in good
+hands that Community is in good hands
+especially with her emphasis on
+communicating so clearly so well so
+informatively and what a what I mean
+what a story and I don't want to make
+light of this as to what she what she
+went through with that car accident and
+how you know so many people when she
+posted online that she's okay Jerry Ryan
+reached out Terry metalis reached out
+very cool stuff she lost she lost all of
+her her swag that she had gotten in the
+accident from being at the premiere and
+they sent her seriously upgraded her
+yeah I mean how I mean that tells you a
+lot about the the Star Trek Community
+right and and and our love for it her
+love for it
+um very very cool it was it was a real
+treat getting to talk to Katie because
+that is well obviously one of your true
+passions
+meteorology and lifelong yeah and and
+just being able to chat with her about
+the science and the broadcasting of it
+and then you know having that that
+fandom perspective pretty neat stuff
+yeah and again I've said this multiple
+times you were very patient with us and
+patient with me should say in asking
+questions about meteorology because I
+don't get a chance to talk to um you
+know meteorologists I knew I knew I I
+had acquaintances with some
+meteorologists here at the local
+National Weather Service office because
+I used to be uh I am a air quote trained
+spotter yeah um and I do put in reports
+Layman's reports when things happen
+locally here through a the the irony is
+we both record from our basements yeah
+yes
+I think I think there might have been
+occasions in the past where when you and
+I were both recording at one point or
+another we both were dealing with severe
+weather upstairs um I remember one time
+actually I remember one time you were
+like can you hear the thunder and I'm
+like no I can't hear n oh and was
+shaking the house yes yeah love it we we
+both love that weather yeah so yeah
+thank you thank you so much for taking
+the time we'd love to um have you back
+again and I think she mentioned at some
+point that her mom might listen so hello
+to Katie's mom hello Katie's mom your
+otter your otter your daughter is
+awesome yeah and and thank you for for
+actually um bearing with us and
+listening to us so thank you
+[Music]
+both it's time for the GM corner so now
+let's move over to the GM corner and um
+boy there are some things we could talk
+about and some things we can't Jason
+warned me multiple times on topics that
+I really kind of need to avoid until
+certain shows finish their seasons based
+off of the time that we are recording
+this versus when it drops right yeah so
+I'm gonna I'm gonna I'm gonna pass it
+over to you and say so um obviously you
+had some travels that you were dealing
+you were doing this is the first time
+we've recorded in I think a week and a
+half or so oh two weeks yeah two weeks
+yeah so um I have been periodically
+texting you the cover of a book that
+I've been trying to get you to purchase
+it is funny you should bring that up
+yeah okay well then I'm gonna turn over
+what's on your desk or what's on order
+so what well it's not on order only
+because it's not available yet for
+pre-order uh but um to use the wrong
+Canon it will be uh before much longer
+uh as as of this recording it's only
+been a few days but when this when this
+episode drops we're talking um about two
+and a half weeks what I think is just
+wonderful is that
+modius our friends at modius announced
+something I never expected I mean we
+know that Star Trek Adventures is in the
+very capable hands of Jim Johnson but I
+never would have put money down on this
+one like like seen this happening uh
+there is coming if you don't already
+know this a Star Trek Adventures lower
+deck campaign guide oh yeah you could
+not get the money out of my wallet
+faster uh I mean like you know we joked
+about this but I mean Brad you'll you'll
+you've said how many times as we've
+recorded over the past couple years now
+of it's surprising when I'm the one to
+pre-order First Look the moment this
+book becomes available uh I will be
+pre-ordering I love the idea I so very
+much I I very much want to I think I I
+so I was traveling we were um quite a
+ways away last week and I think at some
+point I texted you and I'm like maybe it
+was right before we left I'm like I
+really want to play sta we just have to
+figure out how to make this work and now
+now I know how I want to play it so um
+you know no no rush uh modius no rush
+Jim but you know Daddy needs a new
+campaign guide uh that that said though
+kudos to everyone because star track
+pushed it like crazy on all of their
+channels I mean really obvious stuff so
+it was everywhere so man I hope I can
+get one of those in the first round
+because I just don't even care what they
+charge and the crew pack PDF is out and
+everything now so if you're if you're a
+Dean four different PDFs are available
+yeah you can go you can go and and pick
+it up now and I know we we talked
+briefly with Jim and he's going to join
+us next month and so we'll we'll
+oh next month you're right I'm you're
+right I had a senior moment yeah so or
+actually by the time it stop it will be
+that month no it'll be next month see
+you're no June you are also having a
+senior moment I am yeah but this is what
+happens when we don't record for two
+weeks yeah that's I'm I'm out my
+timeline is all whack but it'll be a
+great conversation from because it's
+August right no just kidding keep going
+yeah well you had me pause because just
+for like a split second I'm like is it
+really Brad Brad froze so you could see
+the well I mean you know for those that
+listen I'm I'm in between jobs and so my
+my schedule's a little wonky yeah and
+without the structure of work sometimes
+these days roll together and so when you
+said August I'm like oh man I mean there
+was that Split Second moment where I
+actually thought it was okay yeah we're
+gonna have we're gonna have Jim on next
+month and talk about lower decks and
+everything and I will I will mention to
+him the fact that you you're going to
+get the lower deex book but you still
+don't have a core rule book yet why are
+you outing me on on I I I will correct
+that okay I will correct that you know
+we haven't uh to to my
+defense we we haven't played anything oh
+again again I know there's no excuse but
+there's no defense for this there we've
+had Jim on how many times and you still
+haven't picked up the C now you do I
+mean I'm sorry I can look over there you
+have the rules digest oh and the GM
+guide and the player guide and and
+Utopia plena and um and I will soon I
+hope by the end of summer when it comes
+out have the lower deck uh campaign
+guide and yes and I will um in fact
+they've been on sale at the game center
+uh I do need to order the core rule book
+honestly in the past two days I've I've
+ordered two books online um and so like
+was one of them the core rule book
+no well there's again no no defense for
+this no defense it it is coming but but
+you know we haven't played anything um
+in you know we which is ironic because
+it's like let's let's go to bi-weekly
+for a while as a podcast so that we have
+time to
+play yeah that that hasn't worked out
+real well and and and instead we're
+taking all of that extra time and
+talking more about the podcast yes and
+the background and talking about shows
+that are on television that we have been
+fascinating I mean we went to start we
+we we got online at the top of the last
+hour and I don't think it took it took
+20 minutes for us to hit the record
+button it took 40 minutes Brad oh did it
+it took 40 minutes which which is worse
+than even our normal but again we
+haven't actually talked like this for
+two weeks since before my trip yeah
+because you were traveling yeah yeah but
+I and then there was a significant time
+difference uh but I I to your point and
+then then I'll bet it over to you but to
+your point about you know we talking TV
+uh I mean as as May rolls around here so
+we've had season 3 of Star Trek peard
+we've had season three of the
+Mandalorian we are a month and a half
+away from season two of strange new
+worlds um later this summer I think is I
+think it's August is season two of lower
+decks August is
+Ahsoka I I I mean there there is so much
+going on that we talk about and this
+that distracts us on the tube if you
+will well and part of it I I'll be
+honest with you part of it's on me
+because it takes it takes for for him
+and I it takes two to two to game and I
+have I've been um I've been in the you
+know in the throws of of a search but
+I'm going to take control of GM Corner
+um yeah go I have upstairs the book
+which is indefensible that you don't
+have AKA The Core rule book and so I
+here yeah and I have been using going
+back to our initial talk about chat
+GPT um I sent you a lot of this I had
+chat GPT create a uh Senior Crew for
+Starship had to create three different
+Starships it is hold on you you had to
+do one more thing which was far more
+impressive you asked it to create an
+adventure oh yes and that was downright
+Eerie because it's like that was
+humbling because I was reading that you
+were texting me these screenshots and
+it's like damn that's good yeah and
+because you know it's hard for Jason I
+to to find right now um the time to
+write the stuff yeah and to to write it
+and to find a group to be able to play
+yeah um we have to do this duet wise and
+it is just fascinating to me how a lot
+of the three session zero and session
+zero um material we could generate very
+quickly and jump right into a game if we
+wanted and then
+allow chat GPT to be it's not at a point
+where it can be an AIG GM it's not there
+but as a
+GMC one of us probably me we can have it
+generate content that we can leverage
+into the game and and create some
+randomizing it can help us randomize
+some of this but so of course I mean I
+well maybe not of course but I can I can
+imagine I can imagine Jim Johnson
+listening to this episode and if if if
+he is I can imagine him thinking well
+modius has been publishing exactly what
+you're talking about for several years
+now why not pick it up so there is that
+too we could readily yeah why not why
+not why not pick it up no no not the cor
+rule book um for example um the lower
+Dex material that's available on PDF
+yeah right those look really interesting
+yeah I'm actually fun to just play I I
+had to generate completely fictional no
+you wanted to see what would do I wanted
+to see what what it would do and the way
+it would explain I had it try to explain
+to me how a 2D2 system would work in
+combat I had it expain yeah you know it
+just and and I had to do it with Rune
+Quest I had to do it with a couple other
+games as well but just
+because let's be honest um the current
+season of peard has yes it does had
+captured our attention and I think I've
+and I get there are people out there
+that think it's that you know I'm I'm a
+fanboy so there're really they really
+couldn't do no wrong um one and two were
+okay to me I didn't get as much out of
+season one as you did no I really en we
+both have agreement on season two yeah
+and it was neat to see how you know the
+Q resolution worked I think it could
+have been oh that was so first and last
+episode of season two were great yeah
+but but season 3 has had me hooked a lot
+of times with the first couple Seasons I
+wouldn't be able to watch it or I
+wouldn't watch it until the weekend um
+I'm watching it as you are pretty much
+the same day that it that it comes I'm
+I'm going to share this because I know
+my wife will never hear it and I can't
+imagine anyone in my University
+listening to this but season 3 is so
+good I have simply scheduled peard into
+my calendar Thursday mornings and I go
+in
+later yeah I there it is I with me with
+me having free more free time during the
+day than normal um my wife works
+downstairs here in relatively the same
+area where where where I'm recording um
+I have the
+upstairs and so I'll watch it and I
+purposfully move my chair my old man
+recliner to about four feet in front of
+the television and watch it and you know
+you and I have talked about it I
+probably shouldn't bring it up but um
+there have been multiple occasions
+during this season where we have both
+texted each other and said we got
+emotional um yeah I did didn't yeah I
+didn't expect that we we yeah at some
+point we we'll just leave it at that
+yeah yeah there's been a lot of Trek it
+is it is truly truly for fans of the
+Next Generation DS9 Voyager
+Enterprise um not to minimize it but
+there's even Reflections back to that
+era yeah in here it is it is a
+culmination of it's early 25th Century
+it is a culmination of the 21st century
+Star Trek yeah yeah that we have loved
+since 1987 and hopefully a handoff to
+the Next nextx Generation yeah and you
+and I have our have discussed theories
+and all that we we're we're not for
+another day yeah people have not
+probably finished the season yet by the
+time we've yeah very possibly not so
+we'll we'll get around to it when
+there's been enough time but you know
+speaking of the next next Generation
+fortunately we've got wonderful people
+like Katie who is going to be there to
+help forecast what it's going to be like
+on Wulan what it's going to be like on
+on on Andor and um and all these other
+great right tar and all these other
+great places um hopefully there's going
+to be a lot of Trek in the future I just
+I just think of the work that Terry
+metalis and other folks like Dave blast
+and andon and all those people and and
+to see stuff in the series that I have I
+know very well from the online game um
+just absolutely made my day but the only
+other thing I will say on GM so so I
+have been working through that and
+really the main other thing is
+uh more on Rune Quest just because I'm
+fascinated by good the dice metric but
+in all honesty um you and I have had an
+overload of tre there's really not much
+we've been talking about beyond the
+podcast and Tre um nope we haven't even
+we haven't even had time to really
+process um what came out at Star Wars
+celebration I mean I've been thinking
+about it a lot and I've been I've been
+mentioning it to my girls um and in fact
+we just one of my daughters and I just
+watched The Last Jedi last night um just
+for fun
+um yeah we we you and I had need to talk
+about all that because there's a bunch
+of good stuff coming and I and I I will
+I'll I'll wrap my piece up with this um
+I watched some of the interviews and the
+one that almost made me choke up was
+when they had Hayden Christian y knew
+you're gonna say that I saw that and
+here's a guy who who had a very
+polarizing fan base some people love
+just so for so long yeah some people
+didn't like him as Anakin and everyone
+just gravitated and gave him such a good
+warm welcome back when he was an Obi-Wan
+you can I mean he was phenomenal as
+Vader and obiwan and if you haven't seen
+it it's like an eight minute video it's
+worth watching yeah and look at how look
+at how the fan base just welcomed him
+and here is a genuinely good guy getting
+emotional by everyone's warm welcome and
+I just have to believe it's because it
+it just based off of what you see it
+probably ate at him a bit some of what
+you know happened in over the years
+about you know what people thought of
+him as Anakin um just I mean they were
+chanting his name he he had to stop and
+he said look you're you know you know
+how to make a guy feel welcome and
+emotional yeah it was it was sweet it
+was sweet it's it's well worth it we'll
+talk more about the Star Wars and the
+movies they announced and how you know
+everything else with that in the future
+but lots to come out from there too yeah
+this is the way all right with that as
+always thanks for being with us be well
+stay well we will see you in a couple of
+weeks and man oh man do we have another
+cool interview lined up for all of you
+[Music]

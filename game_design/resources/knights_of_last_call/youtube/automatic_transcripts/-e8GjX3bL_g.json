@@ -1,0 +1,2045 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,240",
+      "end_time": "00:00:04,160",
+      "text": "Hey everyone, welcome to the nights of"
+    },
+    {
+      "start_time": "00:00:02,080",
+      "end_time": "00:00:05,839",
+      "text": "last call. My name is Derek Melinda."
+    },
+    {
+      "start_time": "00:00:04,160",
+      "end_time": "00:00:07,919",
+      "text": "What you're about to watch is a recent"
+    },
+    {
+      "start_time": "00:00:05,839",
+      "end_time": "00:00:10,480",
+      "text": "clip from a Daggerheart live stream"
+    },
+    {
+      "start_time": "00:00:07,919",
+      "end_time": "00:00:12,160",
+      "text": "where we gave advice to firsttime GMs"
+    },
+    {
+      "start_time": "00:00:10,480",
+      "end_time": "00:00:14,719",
+      "text": "who may need a little help with running"
+    },
+    {
+      "start_time": "00:00:12,160",
+      "end_time": "00:00:17,199",
+      "text": "Daggerheart. Enjoy. All right, so our"
+    },
+    {
+      "start_time": "00:00:14,719",
+      "end_time": "00:00:21,039",
+      "text": "third tip for people who are new to this"
+    },
+    {
+      "start_time": "00:00:17,199",
+      "end_time": "00:00:23,119",
+      "text": "is this idea of mastering GM moves and"
+    },
+    {
+      "start_time": "00:00:21,039",
+      "end_time": "00:00:25,600",
+      "text": "framing. Now, this advice, I'm not going"
+    },
+    {
+      "start_time": "00:00:23,119",
+      "end_time": "00:00:28,080",
+      "text": "to lie, this is advice that comes from"
+    },
+    {
+      "start_time": "00:00:25,600",
+      "end_time": "00:00:29,840",
+      "text": "many other really, really well-designed"
+    },
+    {
+      "start_time": "00:00:28,080",
+      "end_time": "00:00:32,239",
+      "text": "Powered by the Apocalypse style games,"
+    },
+    {
+      "start_time": "00:00:29,840",
+      "end_time": "00:00:34,719",
+      "text": "especially from Magpie and of course"
+    },
+    {
+      "start_time": "00:00:32,239",
+      "end_time": "00:00:37,200",
+      "text": "from Vincent Baker and, you know, uh,"
+    },
+    {
+      "start_time": "00:00:34,719",
+      "end_time": "00:00:40,160",
+      "text": "Avery Alder and, you know, all the all"
+    },
+    {
+      "start_time": "00:00:37,200",
+      "end_time": "00:00:42,320",
+      "text": "the folks who have come before. So, GM"
+    },
+    {
+      "start_time": "00:00:40,160",
+      "end_time": "00:00:44,160",
+      "text": "moves is a term. It was made up"
+    },
+    {
+      "start_time": "00:00:42,320",
+      "end_time": "00:00:46,079",
+      "text": "by people from the Forge. Sorry, you"
+    },
+    {
+      "start_time": "00:00:44,160",
+      "end_time": "00:00:49,200",
+      "text": "know, Baker, I love you. But it was made"
+    },
+    {
+      "start_time": "00:00:46,079",
+      "end_time": "00:00:51,520",
+      "text": "up by Vincent Baker to sound smart and"
+    },
+    {
+      "start_time": "00:00:49,200",
+      "end_time": "00:00:54,000",
+      "text": "clever and honestly, it's a terrible"
+    },
+    {
+      "start_time": "00:00:51,520",
+      "end_time": "00:00:55,680",
+      "text": "name. There's a lot of things in PBTA"
+    },
+    {
+      "start_time": "00:00:54,000",
+      "end_time": "00:00:57,120",
+      "text": "language that I I love, you know, I love"
+    },
+    {
+      "start_time": "00:00:55,680",
+      "end_time": "00:00:59,120",
+      "text": "the mechanics, but a lot of the language"
+    },
+    {
+      "start_time": "00:00:57,120",
+      "end_time": "00:01:02,320",
+      "text": "is really, really bad. The fact of the"
+    },
+    {
+      "start_time": "00:00:59,120",
+      "end_time": "00:01:03,920",
+      "text": "matter is a GM move just means you're"
+    },
+    {
+      "start_time": "00:01:02,320",
+      "end_time": "00:01:05,119",
+      "text": "talking."
+    },
+    {
+      "start_time": "00:01:03,920",
+      "end_time": "00:01:08,159",
+      "text": "It just means that you're doing"
+    },
+    {
+      "start_time": "00:01:05,119",
+      "end_time": "00:01:10,479",
+      "text": "something. Um, the list that they give"
+    },
+    {
+      "start_time": "00:01:08,159",
+      "end_time": "00:01:12,560",
+      "text": "you in all these games is not"
+    },
+    {
+      "start_time": "00:01:10,479",
+      "end_time": "00:01:14,000",
+      "text": "prescriptive. It's descriptive. It means"
+    },
+    {
+      "start_time": "00:01:12,560",
+      "end_time": "00:01:15,439",
+      "text": "that it's not literally saying you have"
+    },
+    {
+      "start_time": "00:01:14,000",
+      "end_time": "00:01:19,200",
+      "text": "to do one of these 10 things and nothing"
+    },
+    {
+      "start_time": "00:01:15,439",
+      "end_time": "00:01:20,960",
+      "text": "else. It's saying as the GM when the"
+    },
+    {
+      "start_time": "00:01:19,200",
+      "end_time": "00:01:23,040",
+      "text": "players want when it's your turn to do"
+    },
+    {
+      "start_time": "00:01:20,960",
+      "end_time": "00:01:24,960",
+      "text": "something and that could mean because"
+    },
+    {
+      "start_time": "00:01:23,040",
+      "end_time": "00:01:27,280",
+      "text": "the players are looking at you. So if"
+    },
+    {
+      "start_time": "00:01:24,960",
+      "end_time": "00:01:30,560",
+      "text": "the players say I look around the room,"
+    },
+    {
+      "start_time": "00:01:27,280",
+      "end_time": "00:01:34,240",
+      "text": "what do I see? And then you say you see"
+    },
+    {
+      "start_time": "00:01:30,560",
+      "end_time": "00:01:36,880",
+      "text": "an ancient script maybe once dedicated"
+    },
+    {
+      "start_time": "00:01:34,240",
+      "end_time": "00:01:39,200",
+      "text": "to a god of good or light but it's been"
+    },
+    {
+      "start_time": "00:01:36,880",
+      "end_time": "00:01:41,119",
+      "text": "terribly defaced through years of"
+    },
+    {
+      "start_time": "00:01:39,200",
+      "end_time": "00:01:43,360",
+      "text": "occupation by foul creatures in the"
+    },
+    {
+      "start_time": "00:01:41,119",
+      "end_time": "00:01:46,000",
+      "text": "dark. The holy symbol that once may have"
+    },
+    {
+      "start_time": "00:01:43,360",
+      "end_time": "00:01:48,560",
+      "text": "adorned the altar has been broken and"
+    },
+    {
+      "start_time": "00:01:46,000",
+      "end_time": "00:01:51,040",
+      "text": "shattered and ancient uh graffiti and"
+    },
+    {
+      "start_time": "00:01:48,560",
+      "end_time": "00:01:52,479",
+      "text": "and uh filth cover the altar. Guess"
+    },
+    {
+      "start_time": "00:01:51,040",
+      "end_time": "00:01:54,799",
+      "text": "what? You just made a GM move. You're"
+    },
+    {
+      "start_time": "00:01:52,479",
+      "end_time": "00:01:56,799",
+      "text": "like, \"Wait, I I just I just made a GM"
+    },
+    {
+      "start_time": "00:01:54,799",
+      "end_time": "00:01:59,520",
+      "text": "move.\" Yeah, that was a GM move. I know"
+    },
+    {
+      "start_time": "00:01:56,799",
+      "end_time": "00:02:01,439",
+      "text": "it's right? GM moves are"
+    },
+    {
+      "start_time": "00:02:01,439",
+      "end_time": "00:02:05,520",
+      "text": "Showing them what's happening. When the"
+    },
+    {
+      "start_time": "00:02:03,759",
+      "end_time": "00:02:07,280",
+      "text": "player says, \"Hey, can I climb down"
+    },
+    {
+      "start_time": "00:02:05,520",
+      "end_time": "00:02:09,920",
+      "text": "that?\" When that player say, \"Can I"
+    },
+    {
+      "start_time": "00:02:07,280",
+      "end_time": "00:02:11,200",
+      "text": "climb down that pit?\" And I go, \"Yeah,"
+    },
+    {
+      "start_time": "00:02:09,920",
+      "end_time": "00:02:12,640",
+      "text": "do you have a rope?\" And they say,"
+    },
+    {
+      "start_time": "00:02:11,200",
+      "end_time": "00:02:14,879",
+      "text": "'Yeah.' And I go, 'Yeah, you can do it."
+    },
+    {
+      "start_time": "00:02:12,640",
+      "end_time": "00:02:17,440",
+      "text": "No problem. Guess what? I just made I"
+    },
+    {
+      "start_time": "00:02:14,879",
+      "end_time": "00:02:18,959",
+      "text": "just I just did the uh uh uh ask them a"
+    },
+    {
+      "start_time": "00:02:17,440",
+      "end_time": "00:02:21,360",
+      "text": "cost. Uh you know, tell them the cost"
+    },
+    {
+      "start_time": "00:02:18,959",
+      "end_time": "00:02:22,879",
+      "text": "and ask, you know, because I said, \"Do"
+    },
+    {
+      "start_time": "00:02:21,360",
+      "end_time": "00:02:24,319",
+      "text": "you have a rope?\" \"Yes, then you can do"
+    },
+    {
+      "start_time": "00:02:22,879",
+      "end_time": "00:02:25,360",
+      "text": "it. If you don't, well, then it's"
+    },
+    {
+      "start_time": "00:02:24,319",
+      "end_time": "00:02:27,120",
+      "text": "dangerous and maybe we have to make a"
+    },
+    {
+      "start_time": "00:02:25,360",
+      "end_time": "00:02:30,080",
+      "text": "roll.\" That is a GM move. It doesn't"
+    },
+    {
+      "start_time": "00:02:27,120",
+      "end_time": "00:02:34,640",
+      "text": "seem like a GM move, but it is. So GM"
+    },
+    {
+      "start_time": "00:02:30,080",
+      "end_time": "00:02:36,239",
+      "text": "moves are kind of So, for"
+    },
+    {
+      "start_time": "00:02:34,640",
+      "end_time": "00:02:40,720",
+      "text": "starters, don't get hung up on the term,"
+    },
+    {
+      "start_time": "00:02:36,239",
+      "end_time": "00:02:44,239",
+      "text": "okay? Uh it it it it"
+    },
+    {
+      "start_time": "00:02:40,720",
+      "end_time": "00:02:48,000",
+      "text": "it's a way to sort of think about doing"
+    },
+    {
+      "start_time": "00:02:44,239",
+      "end_time": "00:02:51,680",
+      "text": "what you're doing with intention"
+    },
+    {
+      "start_time": "00:02:48,000",
+      "end_time": "00:02:57,599",
+      "text": "that I will agree to. Okay. It is about"
+    },
+    {
+      "start_time": "00:02:51,680",
+      "end_time": "00:02:59,280",
+      "text": "learning to game master with intention."
+    },
+    {
+      "start_time": "00:02:57,599",
+      "end_time": "00:03:01,680",
+      "text": "Unlike some of the other games that you"
+    },
+    {
+      "start_time": "00:02:59,280",
+      "end_time": "00:03:03,920",
+      "text": "may have played, games that are powered"
+    },
+    {
+      "start_time": "00:03:01,680",
+      "end_time": "00:03:06,480",
+      "text": "by the apocalypse or inspired by powered"
+    },
+    {
+      "start_time": "00:03:03,920",
+      "end_time": "00:03:10,000",
+      "text": "by the apocalypse as Daggerheart is have"
+    },
+    {
+      "start_time": "00:03:06,480",
+      "end_time": "00:03:14,000",
+      "text": "principles and agendas. These are games"
+    },
+    {
+      "start_time": "00:03:10,000",
+      "end_time": "00:03:16,560",
+      "text": "that want you to be about something. The"
+    },
+    {
+      "start_time": "00:03:14,000",
+      "end_time": "00:03:21,599",
+      "text": "game asks you, in fact, it dare dare I"
+    },
+    {
+      "start_time": "00:03:16,560",
+      "end_time": "00:03:24,159",
+      "text": "say it demands that you make your game"
+    },
+    {
+      "start_time": "00:03:21,599",
+      "end_time": "00:03:26,080",
+      "text": "follow these principles and agendas. And"
+    },
+    {
+      "start_time": "00:03:24,159",
+      "end_time": "00:03:28,159",
+      "text": "Daggerheart very intelligently even"
+    },
+    {
+      "start_time": "00:03:26,080",
+      "end_time": "00:03:31,599",
+      "text": "allows these agendas and principles to"
+    },
+    {
+      "start_time": "00:03:28,159",
+      "end_time": "00:03:33,120",
+      "text": "change depending on your campaign frame."
+    },
+    {
+      "start_time": "00:03:31,599",
+      "end_time": "00:03:37,920",
+      "text": "So"
+    },
+    {
+      "start_time": "00:03:33,120",
+      "end_time": "00:03:40,159",
+      "text": "as a result, it is your job to what what"
+    },
+    {
+      "start_time": "00:03:37,920",
+      "end_time": "00:03:42,239",
+      "text": "GM moves are a way of of of sort of"
+    },
+    {
+      "start_time": "00:03:40,159",
+      "end_time": "00:03:43,920",
+      "text": "getting you to think about is talking"
+    },
+    {
+      "start_time": "00:03:42,239",
+      "end_time": "00:03:45,680",
+      "text": "and when you before you start making a"
+    },
+    {
+      "start_time": "00:03:43,920",
+      "end_time": "00:03:47,920",
+      "text": "move, before you start describing what"
+    },
+    {
+      "start_time": "00:03:45,680",
+      "end_time": "00:03:51,040",
+      "text": "you're doing, think about why you're"
+    },
+    {
+      "start_time": "00:03:47,920",
+      "end_time": "00:03:55,599",
+      "text": "doing it. All right? Think about how you"
+    },
+    {
+      "start_time": "00:03:51,040",
+      "end_time": "00:03:58,400",
+      "text": "can use this moment at the table to"
+    },
+    {
+      "start_time": "00:03:55,599",
+      "end_time": "00:04:00,720",
+      "text": "push your agenda forward. So rather than"
+    },
+    {
+      "start_time": "00:03:58,400",
+      "end_time": "00:04:03,120",
+      "text": "being focused on GM moves, you should be"
+    },
+    {
+      "start_time": "00:04:00,720",
+      "end_time": "00:04:06,720",
+      "text": "focused on your agenda and you should be"
+    },
+    {
+      "start_time": "00:04:03,120",
+      "end_time": "00:04:09,680",
+      "text": "focused on your players and you should"
+    },
+    {
+      "start_time": "00:04:06,720",
+      "end_time": "00:04:12,560",
+      "text": "be focused on their uh and your"
+    },
+    {
+      "start_time": "00:04:09,680",
+      "end_time": "00:04:14,959",
+      "text": "principles, right? And asking yourself"
+    },
+    {
+      "start_time": "00:04:12,560",
+      "end_time": "00:04:16,959",
+      "text": "what does this move do? There's an old"
+    },
+    {
+      "start_time": "00:04:14,959",
+      "end_time": "00:04:18,320",
+      "text": "uh there's an old screenwriting thing"
+    },
+    {
+      "start_time": "00:04:16,959",
+      "end_time": "00:04:19,840",
+      "text": "which says right right like no scene is"
+    },
+    {
+      "start_time": "00:04:18,320",
+      "end_time": "00:04:21,919",
+      "text": "worth a movie no line of dialogue is"
+    },
+    {
+      "start_time": "00:04:19,840",
+      "end_time": "00:04:23,919",
+      "text": "worth a scene. A good editor you are"
+    },
+    {
+      "start_time": "00:04:21,919",
+      "end_time": "00:04:26,080",
+      "text": "with your players a very limited amount"
+    },
+    {
+      "start_time": "00:04:23,919",
+      "end_time": "00:04:27,919",
+      "text": "of time and you should be cutting"
+    },
+    {
+      "start_time": "00:04:26,080",
+      "end_time": "00:04:30,800",
+      "text": "through the as much as you can"
+    },
+    {
+      "start_time": "00:04:27,919",
+      "end_time": "00:04:33,600",
+      "text": "and you should make every minute count."
+    },
+    {
+      "start_time": "00:04:30,800",
+      "end_time": "00:04:35,600",
+      "text": "Now, when I was a young younger lad, uh"
+    },
+    {
+      "start_time": "00:04:33,600",
+      "end_time": "00:04:38,960",
+      "text": "my friends and I would play D and D on"
+    },
+    {
+      "start_time": "00:04:35,600",
+      "end_time": "00:04:40,400",
+      "text": "like Wednesday, Friday, Saturday, like"
+    },
+    {
+      "start_time": "00:04:38,960",
+      "end_time": "00:04:42,479",
+      "text": "almost every week, and it would be like"
+    },
+    {
+      "start_time": "00:04:40,400",
+      "end_time": "00:04:44,960",
+      "text": "seven hour sessions. And so, we were"
+    },
+    {
+      "start_time": "00:04:42,479",
+      "end_time": "00:04:47,120",
+      "text": "playing like 21 hours a week, and I"
+    },
+    {
+      "start_time": "00:04:44,960",
+      "end_time": "00:04:48,880",
+      "text": "could afford to have a session or even"
+    },
+    {
+      "start_time": "00:04:47,120",
+      "end_time": "00:04:51,360",
+      "text": "an entire week's worth of sessions, 20"
+    },
+    {
+      "start_time": "00:04:48,880",
+      "end_time": "00:04:54,240",
+      "text": "hours worth of sessions be literally"
+    },
+    {
+      "start_time": "00:04:51,360",
+      "end_time": "00:04:56,320",
+      "text": "almost nothing. Now, 20 hours worth of"
+    },
+    {
+      "start_time": "00:04:54,240",
+      "end_time": "00:04:59,040",
+      "text": "sessions might honestly take me four to"
+    },
+    {
+      "start_time": "00:04:56,320",
+      "end_time": "00:05:01,440",
+      "text": "five months um to get through. I mean,"
+    },
+    {
+      "start_time": "00:04:59,040",
+      "end_time": "00:05:03,680",
+      "text": "these days, it feels like it. So I this"
+    },
+    {
+      "start_time": "00:05:01,440",
+      "end_time": "00:05:05,440",
+      "text": "is about thinking through the lens if if"
+    },
+    {
+      "start_time": "00:05:03,680",
+      "end_time": "00:05:07,919",
+      "text": "what we were talking about before about"
+    },
+    {
+      "start_time": "00:05:05,440",
+      "end_time": "00:05:09,600",
+      "text": "spotlight management was really about"
+    },
+    {
+      "start_time": "00:05:07,919",
+      "end_time": "00:05:12,240",
+      "text": "thinking about as a good director or a"
+    },
+    {
+      "start_time": "00:05:09,600",
+      "end_time": "00:05:14,240",
+      "text": "good cinematographer. Uh GM moves and"
+    },
+    {
+      "start_time": "00:05:12,240",
+      "end_time": "00:05:15,919",
+      "text": "framing are about being a good editor."
+    },
+    {
+      "start_time": "00:05:14,240",
+      "end_time": "00:05:18,080",
+      "text": "So"
+    },
+    {
+      "start_time": "00:05:15,919",
+      "end_time": "00:05:20,639",
+      "text": "what does it mean to make a GM move? It"
+    },
+    {
+      "start_time": "00:05:18,080",
+      "end_time": "00:05:22,639",
+      "text": "means you need to think about what does"
+    },
+    {
+      "start_time": "00:05:20,639",
+      "end_time": "00:05:27,680",
+      "text": "this serve point does this serve in the"
+    },
+    {
+      "start_time": "00:05:22,639",
+      "end_time": "00:05:29,840",
+      "text": "ongoing scene and wider story and how"
+    },
+    {
+      "start_time": "00:05:27,680",
+      "end_time": "00:05:31,840",
+      "text": "soft and how hard should I make the"
+    },
+    {
+      "start_time": "00:05:29,840",
+      "end_time": "00:05:34,080",
+      "text": "move? Don't worry about the specific"
+    },
+    {
+      "start_time": "00:05:31,840",
+      "end_time": "00:05:36,160",
+      "text": "moves like separate them or reveal"
+    },
+    {
+      "start_time": "00:05:34,080",
+      "end_time": "00:05:37,759",
+      "text": "danger or show them the cost. You can"
+    },
+    {
+      "start_time": "00:05:36,160",
+      "end_time": "00:05:40,000",
+      "text": "they're on your GM screen or you can"
+    },
+    {
+      "start_time": "00:05:37,759",
+      "end_time": "00:05:42,240",
+      "text": "write them out. You can learn to sort of"
+    },
+    {
+      "start_time": "00:05:40,000",
+      "end_time": "00:05:44,080",
+      "text": "uh you know uh uh think about them in"
+    },
+    {
+      "start_time": "00:05:42,240",
+      "end_time": "00:05:46,800",
+      "text": "that context. But I think you should"
+    },
+    {
+      "start_time": "00:05:44,080",
+      "end_time": "00:05:50,479",
+      "text": "really more focus on doing soft and"
+    },
+    {
+      "start_time": "00:05:46,800",
+      "end_time": "00:05:53,360",
+      "text": "hard. Is this a move that is going to"
+    },
+    {
+      "start_time": "00:05:50,479",
+      "end_time": "00:05:56,160",
+      "text": "really stick it to the p to the players"
+    },
+    {
+      "start_time": "00:05:53,360",
+      "end_time": "00:05:58,240",
+      "text": "and put them in a incredibly tough spot"
+    },
+    {
+      "start_time": "00:05:56,160",
+      "end_time": "00:05:59,840",
+      "text": "or to immediately show them the"
+    },
+    {
+      "start_time": "00:05:58,240",
+      "end_time": "00:06:02,160",
+      "text": "consequences of their actions? They"
+    },
+    {
+      "start_time": "00:05:59,840",
+      "end_time": "00:06:03,600",
+      "text": "already jumped off the cliff and now I'm"
+    },
+    {
+      "start_time": "00:06:02,160",
+      "end_time": "00:06:05,759",
+      "text": "going to show them what happens. You"
+    },
+    {
+      "start_time": "00:06:03,600",
+      "end_time": "00:06:09,120",
+      "text": "take damage."
+    },
+    {
+      "start_time": "00:06:05,759",
+      "end_time": "00:06:11,600",
+      "text": "Or is this a move in which I want to"
+    },
+    {
+      "start_time": "00:06:09,120",
+      "end_time": "00:06:13,680",
+      "text": "show the players how the world reacts"
+    },
+    {
+      "start_time": "00:06:11,600",
+      "end_time": "00:06:15,600",
+      "text": "and maybe set up a potentially dangerous"
+    },
+    {
+      "start_time": "00:06:13,680",
+      "end_time": "00:06:17,360",
+      "text": "situation but not immediately follow"
+    },
+    {
+      "start_time": "00:06:15,600",
+      "end_time": "00:06:19,680",
+      "text": "through with that and give the players a"
+    },
+    {
+      "start_time": "00:06:17,360",
+      "end_time": "00:06:22,160",
+      "text": "chance to respond."
+    },
+    {
+      "start_time": "00:06:19,680",
+      "end_time": "00:06:23,759",
+      "text": "This soft versus hard move paradigm is"
+    },
+    {
+      "start_time": "00:06:22,160",
+      "end_time": "00:06:27,680",
+      "text": "the most important thing that you could"
+    },
+    {
+      "start_time": "00:06:23,759",
+      "end_time": "00:06:29,120",
+      "text": "do. Okay? Because as a result of that,"
+    },
+    {
+      "start_time": "00:06:27,680",
+      "end_time": "00:06:30,560",
+      "text": "if when the when you do something, when"
+    },
+    {
+      "start_time": "00:06:29,120",
+      "end_time": "00:06:33,120",
+      "text": "the players do something and you respond"
+    },
+    {
+      "start_time": "00:06:30,560",
+      "end_time": "00:06:35,759",
+      "text": "with a hard move, the players will begin"
+    },
+    {
+      "start_time": "00:06:33,120",
+      "end_time": "00:06:38,560",
+      "text": "to realize by association that doing"
+    },
+    {
+      "start_time": "00:06:35,759",
+      "end_time": "00:06:40,479",
+      "text": "that action has consequences and they"
+    },
+    {
+      "start_time": "00:06:38,560",
+      "end_time": "00:06:42,639",
+      "text": "may then reconsider that action. They"
+    },
+    {
+      "start_time": "00:06:40,479",
+      "end_time": "00:06:44,880",
+      "text": "may uh do something different. They may"
+    },
+    {
+      "start_time": "00:06:42,639",
+      "end_time": "00:06:47,360",
+      "text": "be more cautious and they be more may be"
+    },
+    {
+      "start_time": "00:06:44,880",
+      "end_time": "00:06:49,600",
+      "text": "more careful. If you respond with a soft"
+    },
+    {
+      "start_time": "00:06:47,360",
+      "end_time": "00:06:52,639",
+      "text": "move, then the players will likely not"
+    },
+    {
+      "start_time": "00:06:49,600",
+      "end_time": "00:06:55,759",
+      "text": "feel as uh immediately punished by their"
+    },
+    {
+      "start_time": "00:06:52,639",
+      "end_time": "00:06:58,479",
+      "text": "action and instead will feel like the"
+    },
+    {
+      "start_time": "00:06:55,759",
+      "end_time": "00:07:01,520",
+      "text": "game is still in their control. So, the"
+    },
+    {
+      "start_time": "00:06:58,479",
+      "end_time": "00:07:04,800",
+      "text": "difference between this is me saying"
+    },
+    {
+      "start_time": "00:07:01,520",
+      "end_time": "00:07:07,759",
+      "text": "the hard move is the goblins surround"
+    },
+    {
+      "start_time": "00:07:04,800",
+      "end_time": "00:07:09,440",
+      "text": "you and begin stabbing you and I'm"
+    },
+    {
+      "start_time": "00:07:07,759",
+      "end_time": "00:07:11,199",
+      "text": "making attack rolls, right? Let's say"
+    },
+    {
+      "start_time": "00:07:09,440",
+      "end_time": "00:07:13,039",
+      "text": "they're minions, right? I activate a"
+    },
+    {
+      "start_time": "00:07:11,199",
+      "end_time": "00:07:14,160",
+      "text": "group of minions. The goblins move in,"
+    },
+    {
+      "start_time": "00:07:13,039",
+      "end_time": "00:07:15,680",
+      "text": "they surround you, and they begin"
+    },
+    {
+      "start_time": "00:07:14,160",
+      "end_time": "00:07:19,759",
+      "text": "stabbing you, and I'm making attack"
+    },
+    {
+      "start_time": "00:07:15,680",
+      "end_time": "00:07:21,599",
+      "text": "rolls. Um, that's a hard move because"
+    },
+    {
+      "start_time": "00:07:19,759",
+      "end_time": "00:07:24,800",
+      "text": "the die is cast, the players are going"
+    },
+    {
+      "start_time": "00:07:21,599",
+      "end_time": "00:07:29,520",
+      "text": "to take damage if I roll high enough."
+    },
+    {
+      "start_time": "00:07:24,800",
+      "end_time": "00:07:32,160",
+      "text": "A soft move would be me telling Smen,"
+    },
+    {
+      "start_time": "00:07:29,520",
+      "end_time": "00:07:33,840",
+      "text": "SMDon, a group of goblins is rushing"
+    },
+    {
+      "start_time": "00:07:32,160",
+      "end_time": "00:07:36,319",
+      "text": "towards you, beginning to move left and"
+    },
+    {
+      "start_time": "00:07:33,840",
+      "end_time": "00:07:39,360",
+      "text": "right to surround you. Now, did I just"
+    },
+    {
+      "start_time": "00:07:36,319",
+      "end_time": "00:07:41,680",
+      "text": "activate the goblins? No. Did I"
+    },
+    {
+      "start_time": "00:07:39,360",
+      "end_time": "00:07:44,960",
+      "text": "spotlight the goblins?"
+    },
+    {
+      "start_time": "00:07:41,680",
+      "end_time": "00:07:48,000",
+      "text": "No, I would I'm I'm"
+    },
+    {
+      "start_time": "00:07:44,960",
+      "end_time": "00:07:49,440",
+      "text": "fictionally describing that they are"
+    },
+    {
+      "start_time": "00:07:48,000",
+      "end_time": "00:07:52,560",
+      "text": "moving around you. And now I go to"
+    },
+    {
+      "start_time": "00:07:49,440",
+      "end_time": "00:07:54,160",
+      "text": "Spendon. What do you do?"
+    },
+    {
+      "start_time": "00:07:52,560",
+      "end_time": "00:07:56,720",
+      "text": "Now, in both of those situations, the"
+    },
+    {
+      "start_time": "00:07:54,160",
+      "end_time": "00:07:58,560",
+      "text": "goblins are racing forward and they're"
+    },
+    {
+      "start_time": "00:07:56,720",
+      "end_time": "00:07:59,840",
+      "text": "going to try to attack you. But the"
+    },
+    {
+      "start_time": "00:07:58,560",
+      "end_time": "00:08:01,759",
+      "text": "difference between the hard move and the"
+    },
+    {
+      "start_time": "00:07:59,840",
+      "end_time": "00:08:04,319",
+      "text": "soft move is that in the soft move I am"
+    },
+    {
+      "start_time": "00:08:01,759",
+      "end_time": "00:08:06,319",
+      "text": "giving Smen or maybe I'm giving a"
+    },
+    {
+      "start_time": "00:08:04,319",
+      "end_time": "00:08:08,080",
+      "text": "guardian in the party or something a"
+    },
+    {
+      "start_time": "00:08:06,319",
+      "end_time": "00:08:10,080",
+      "text": "chance"
+    },
+    {
+      "start_time": "00:08:08,080",
+      "end_time": "00:08:13,520",
+      "text": "to do something about it before that"
+    },
+    {
+      "start_time": "00:08:10,080",
+      "end_time": "00:08:15,280",
+      "text": "that badness comes through. And once the"
+    },
+    {
+      "start_time": "00:08:13,520",
+      "end_time": "00:08:17,919",
+      "text": "badness comes through, right, the dice"
+    },
+    {
+      "start_time": "00:08:15,280",
+      "end_time": "00:08:21,039",
+      "text": "is cast. Additionally, this is sort of a"
+    },
+    {
+      "start_time": "00:08:17,919",
+      "end_time": "00:08:22,479",
+      "text": "tangent, but uh in Power by the"
+    },
+    {
+      "start_time": "00:08:21,039",
+      "end_time": "00:08:24,080",
+      "text": "Apocalypse games, when a Gia makes a"
+    },
+    {
+      "start_time": "00:08:22,479",
+      "end_time": "00:08:25,360",
+      "text": "hard move, it's really hard. It's just"
+    },
+    {
+      "start_time": "00:08:24,080",
+      "end_time": "00:08:27,039",
+      "text": "like, \"Oh, you didn't do that thing. the"
+    },
+    {
+      "start_time": "00:08:25,360",
+      "end_time": "00:08:29,680",
+      "text": "orc hits you, does damage, you take the"
+    },
+    {
+      "start_time": "00:08:27,039",
+      "end_time": "00:08:31,039",
+      "text": "damage. There's no attack roll. The GM"
+    },
+    {
+      "start_time": "00:08:29,680",
+      "end_time": "00:08:32,800",
+      "text": "doesn't make an attack roll. In, you"
+    },
+    {
+      "start_time": "00:08:31,039",
+      "end_time": "00:08:34,560",
+      "text": "know, Dungeon World, for example, if the"
+    },
+    {
+      "start_time": "00:08:32,800",
+      "end_time": "00:08:37,760",
+      "text": "GM says you're taking damage, you're"
+    },
+    {
+      "start_time": "00:08:34,560",
+      "end_time": "00:08:39,680",
+      "text": "just taking damage. But in Daggerheart,"
+    },
+    {
+      "start_time": "00:08:37,760",
+      "end_time": "00:08:41,440",
+      "text": "we have things like the monsters making"
+    },
+    {
+      "start_time": "00:08:39,680",
+      "end_time": "00:08:43,440",
+      "text": "an attack roll or an adversary making an"
+    },
+    {
+      "start_time": "00:08:41,440",
+      "end_time": "00:08:47,200",
+      "text": "attack roll or the players making a"
+    },
+    {
+      "start_time": "00:08:43,440",
+      "end_time": "00:08:50,160",
+      "text": "reaction roll. So, actually, you can be"
+    },
+    {
+      "start_time": "00:08:47,200",
+      "end_time": "00:08:51,839",
+      "text": "really hard because the players are"
+    },
+    {
+      "start_time": "00:08:50,160",
+      "end_time": "00:08:54,160",
+      "text": "still going to have a good chance of"
+    },
+    {
+      "start_time": "00:08:51,839",
+      "end_time": "00:08:56,399",
+      "text": "avoiding that. you know, but attack"
+    },
+    {
+      "start_time": "00:08:54,160",
+      "end_time": "00:08:57,680",
+      "text": "could miss the, you know, if I said the"
+    },
+    {
+      "start_time": "00:08:56,399",
+      "end_time": "00:08:59,279",
+      "text": "goblins surround you and they all stab"
+    },
+    {
+      "start_time": "00:08:57,680",
+      "end_time": "00:09:02,000",
+      "text": "you for six damage, that might be like"
+    },
+    {
+      "start_time": "00:08:59,279",
+      "end_time": "00:09:03,200",
+      "text": "the hard move from a dungeon world game"
+    },
+    {
+      "start_time": "00:09:02,000",
+      "end_time": "00:09:04,800",
+      "text": "and you just take the six damage,"
+    },
+    {
+      "start_time": "00:09:03,200",
+      "end_time": "00:09:06,800",
+      "text": "there's no recourse. I' I'm making the"
+    },
+    {
+      "start_time": "00:09:04,800",
+      "end_time": "00:09:09,040",
+      "text": "hard move. Whereas, I could describe"
+    },
+    {
+      "start_time": "00:09:06,800",
+      "end_time": "00:09:11,200",
+      "text": "that and do that in dungeon in uh dagger"
+    },
+    {
+      "start_time": "00:09:09,040",
+      "end_time": "00:09:12,720",
+      "text": "heart and roll low on my D20 and end up"
+    },
+    {
+      "start_time": "00:09:11,200",
+      "end_time": "00:09:14,240",
+      "text": "doing, you know, they miss. You know,"
+    },
+    {
+      "start_time": "00:09:12,720",
+      "end_time": "00:09:15,360",
+      "text": "you you're awesome and you parry all"
+    },
+    {
+      "start_time": "00:09:14,240",
+      "end_time": "00:09:18,240",
+      "text": "their attacks and you look like a"
+    },
+    {
+      "start_time": "00:09:15,360",
+      "end_time": "00:09:20,320",
+      "text": "badass. Um, and so you can actually be"
+    },
+    {
+      "start_time": "00:09:18,240",
+      "end_time": "00:09:22,160",
+      "text": "kind of hard, you know, you can be"
+    },
+    {
+      "start_time": "00:09:20,320",
+      "end_time": "00:09:23,920",
+      "text": "harder than you might even be in a PvTA"
+    },
+    {
+      "start_time": "00:09:22,160",
+      "end_time": "00:09:25,519",
+      "text": "game because there's this extra layer of"
+    },
+    {
+      "start_time": "00:09:23,920",
+      "end_time": "00:09:27,600",
+      "text": "protection. So, in that respect, you"
+    },
+    {
+      "start_time": "00:09:25,519",
+      "end_time": "00:09:30,560",
+      "text": "know, activating an adversary and"
+    },
+    {
+      "start_time": "00:09:27,600",
+      "end_time": "00:09:32,880",
+      "text": "getting them to do attacking uh is kind"
+    },
+    {
+      "start_time": "00:09:30,560",
+      "end_time": "00:09:35,040",
+      "text": "of a it's kind of a medium move, you"
+    },
+    {
+      "start_time": "00:09:32,880",
+      "end_time": "00:09:38,000",
+      "text": "know, it's not really hard. It's kind of"
+    },
+    {
+      "start_time": "00:09:35,040",
+      "end_time": "00:09:39,440",
+      "text": "it's kind of soft, you know, u or but so"
+    },
+    {
+      "start_time": "00:09:38,000",
+      "end_time": "00:09:43,279",
+      "text": "it's kind of between because they can"
+    },
+    {
+      "start_time": "00:09:39,440",
+      "end_time": "00:09:44,720",
+      "text": "miss. Um, so if those are moves, the"
+    },
+    {
+      "start_time": "00:09:43,279",
+      "end_time": "00:09:46,240",
+      "text": "other thing to do as a GM and when"
+    },
+    {
+      "start_time": "00:09:44,720",
+      "end_time": "00:09:50,080",
+      "text": "you're thinking about as a sort of an"
+    },
+    {
+      "start_time": "00:09:46,240",
+      "end_time": "00:09:53,839",
+      "text": "editor is framing, right? Do not feel"
+    },
+    {
+      "start_time": "00:09:50,080",
+      "end_time": "00:09:56,399",
+      "text": "like you need to show every aspect of"
+    },
+    {
+      "start_time": "00:09:53,839",
+      "end_time": "00:09:59,279",
+      "text": "every scene."
+    },
+    {
+      "start_time": "00:09:56,399",
+      "end_time": "00:10:02,000",
+      "text": "If the players are entering,"
+    },
+    {
+      "start_time": "00:09:59,279",
+      "end_time": "00:10:04,240",
+      "text": "uh, you know, uh, if the players are"
+    },
+    {
+      "start_time": "00:10:02,000",
+      "end_time": "00:10:06,240",
+      "text": "going to go negotiate with the baron for"
+    },
+    {
+      "start_time": "00:10:04,240",
+      "end_time": "00:10:08,399",
+      "text": "the release of their captive, you know,"
+    },
+    {
+      "start_time": "00:10:06,240",
+      "end_time": "00:10:10,560",
+      "text": "of their companions, you don't literally"
+    },
+    {
+      "start_time": "00:10:08,399",
+      "end_time": "00:10:12,399",
+      "text": "have to show the players talking to"
+    },
+    {
+      "start_time": "00:10:10,560",
+      "end_time": "00:10:13,839",
+      "text": "every single guard along the way. You"
+    },
+    {
+      "start_time": "00:10:12,399",
+      "end_time": "00:10:17,040",
+      "text": "don't have to describe the entire"
+    },
+    {
+      "start_time": "00:10:13,839",
+      "end_time": "00:10:19,200",
+      "text": "castle. You can just boom, cut right to"
+    },
+    {
+      "start_time": "00:10:17,040",
+      "end_time": "00:10:22,560",
+      "text": "the baron's audience chamber. In fact,"
+    },
+    {
+      "start_time": "00:10:19,200",
+      "end_time": "00:10:24,240",
+      "text": "you could even cut in in media rest and"
+    },
+    {
+      "start_time": "00:10:22,560",
+      "end_time": "00:10:25,519",
+      "text": "I can say, you know, the baron, you"
+    },
+    {
+      "start_time": "00:10:24,240",
+      "end_time": "00:10:28,320",
+      "text": "know, suddenly we're just there and the"
+    },
+    {
+      "start_time": "00:10:25,519",
+      "end_time": "00:10:30,800",
+      "text": "baron says, \"Now I've given granted you"
+    },
+    {
+      "start_time": "00:10:28,320",
+      "end_time": "00:10:34,560",
+      "text": "an audience. What do you want? If you're"
+    },
+    {
+      "start_time": "00:10:30,800",
+      "end_time": "00:10:36,480",
+      "text": "here for your companions, they are writ"
+    },
+    {
+      "start_time": "00:10:34,560",
+      "end_time": "00:10:38,640",
+      "text": "now I've and now I say and then I told"
+    },
+    {
+      "start_time": "00:10:36,480",
+      "end_time": "00:10:40,240",
+      "text": "the players and what do you do?\" And now"
+    },
+    {
+      "start_time": "00:10:38,640",
+      "end_time": "00:10:42,320",
+      "text": "we're in that scene and we've cut"
+    },
+    {
+      "start_time": "00:10:40,240",
+      "end_time": "00:10:46,320",
+      "text": "through all that. So hard framing puts"
+    },
+    {
+      "start_time": "00:10:42,320",
+      "end_time": "00:10:48,000",
+      "text": "the players in the spot. Um, you know,"
+    },
+    {
+      "start_time": "00:10:46,320",
+      "end_time": "00:10:49,600",
+      "text": "you're cutting out Yeah. you're cutting"
+    },
+    {
+      "start_time": "00:10:48,000",
+      "end_time": "00:10:52,880",
+      "text": "out the FBT, you know, you're cutting"
+    },
+    {
+      "start_time": "00:10:49,600",
+      "end_time": "00:10:55,200",
+      "text": "out um to sort of cut to the cut to the"
+    },
+    {
+      "start_time": "00:10:52,880",
+      "end_time": "00:10:56,880",
+      "text": "action, cut to the chase. Um Rayo Man"
+    },
+    {
+      "start_time": "00:10:55,200",
+      "end_time": "00:10:58,480",
+      "text": "says, \"Eliminate the shoe leather like"
+    },
+    {
+      "start_time": "00:10:56,880",
+      "end_time": "00:11:03,120",
+      "text": "in movies and TV shows.\" And I agree"
+    },
+    {
+      "start_time": "00:10:58,480",
+      "end_time": "00:11:05,760",
+      "text": "with that, Rayo Man. Um again, maybe you"
+    },
+    {
+      "start_time": "00:11:03,120",
+      "end_time": "00:11:08,240",
+      "text": "have a lot more time to play than I do,"
+    },
+    {
+      "start_time": "00:11:05,760",
+      "end_time": "00:11:12,800",
+      "text": "in which case, awesome, and you can you"
+    },
+    {
+      "start_time": "00:11:08,240",
+      "end_time": "00:11:14,720",
+      "text": "can really, you know, explore the space."
+    },
+    {
+      "start_time": "00:11:12,800",
+      "end_time": "00:11:16,560",
+      "text": "I don't have that kind of time. So, for"
+    },
+    {
+      "start_time": "00:11:14,720",
+      "end_time": "00:11:20,079",
+      "text": "me, it's really important as a GM is to"
+    },
+    {
+      "start_time": "00:11:16,560",
+      "end_time": "00:11:22,160",
+      "text": "think about, does this scene need to"
+    },
+    {
+      "start_time": "00:11:20,079",
+      "end_time": "00:11:23,680",
+      "text": "happen? Can we cut through it? Can we"
+    },
+    {
+      "start_time": "00:11:22,160",
+      "end_time": "00:11:25,279",
+      "text": "cut to the part that matters? Can we get"
+    },
+    {
+      "start_time": "00:11:23,680",
+      "end_time": "00:11:26,640",
+      "text": "to the part that matters? It's the same"
+    },
+    {
+      "start_time": "00:11:25,279",
+      "end_time": "00:11:28,399",
+      "text": "thing true with a combat because we're"
+    },
+    {
+      "start_time": "00:11:26,640",
+      "end_time": "00:11:30,480",
+      "text": "not here to sort of figure out if the"
+    },
+    {
+      "start_time": "00:11:28,399",
+      "end_time": "00:11:31,680",
+      "text": "PC's HP are going to deplete over the"
+    },
+    {
+      "start_time": "00:11:30,480",
+      "end_time": "00:11:33,200",
+      "text": "period of time before they earn enough"
+    },
+    {
+      "start_time": "00:11:31,680",
+      "end_time": "00:11:34,640",
+      "text": "experience points from gathering"
+    },
+    {
+      "start_time": "00:11:33,200",
+      "end_time": "00:11:37,279",
+      "text": "treasure from the dungeon so that they"
+    },
+    {
+      "start_time": "00:11:34,640",
+      "end_time": "00:11:40,320",
+      "text": "can level up. it's, you know, if the"
+    },
+    {
+      "start_time": "00:11:37,279",
+      "end_time": "00:11:42,240",
+      "text": "combat's not interesting anymore, then"
+    },
+    {
+      "start_time": "00:11:40,320",
+      "end_time": "00:11:45,040",
+      "text": "we can just say it's over and we can"
+    },
+    {
+      "start_time": "00:11:42,240",
+      "end_time": "00:11:47,680",
+      "text": "move to the next thing, you know."
+    },
+    {
+      "start_time": "00:11:45,040",
+      "end_time": "00:11:51,360",
+      "text": "Um, and I think that's an important"
+    },
+    {
+      "start_time": "00:11:47,680",
+      "end_time": "00:11:53,920",
+      "text": "skill to sort of manage. So, again, you"
+    },
+    {
+      "start_time": "00:11:51,360",
+      "end_time": "00:11:55,519",
+      "text": "want to think about this in terms of"
+    },
+    {
+      "start_time": "00:11:53,920",
+      "end_time": "00:11:58,880",
+      "text": "story beats. You want to think about"
+    },
+    {
+      "start_time": "00:11:55,519",
+      "end_time": "00:12:01,600",
+      "text": "this in terms of of of advancing the"
+    },
+    {
+      "start_time": "00:11:58,880",
+      "end_time": "00:12:02,959",
+      "text": "plot. Um, now again, what is the plot?"
+    },
+    {
+      "start_time": "00:12:01,600",
+      "end_time": "00:12:04,959",
+      "text": "It's not pre-written. We're sort of"
+    },
+    {
+      "start_time": "00:12:02,959",
+      "end_time": "00:12:06,880",
+      "text": "figuring out as we go along. And I think"
+    },
+    {
+      "start_time": "00:12:04,959",
+      "end_time": "00:12:08,880",
+      "text": "this becomes more important if you are"
+    },
+    {
+      "start_time": "00:12:06,880",
+      "end_time": "00:12:10,240",
+      "text": "on a limited time frame. I know that"
+    },
+    {
+      "start_time": "00:12:08,880",
+      "end_time": "00:12:13,279",
+      "text": "there are people out there who just want"
+    },
+    {
+      "start_time": "00:12:10,240",
+      "end_time": "00:12:15,920",
+      "text": "to, you know, talk about the weather in"
+    },
+    {
+      "start_time": "00:12:13,279",
+      "end_time": "00:12:18,880",
+      "text": "character and I have complete respect"
+    },
+    {
+      "start_time": "00:12:15,920",
+      "end_time": "00:12:20,560",
+      "text": "for you. But"
+    },
+    {
+      "start_time": "00:12:18,880",
+      "end_time": "00:12:23,600",
+      "text": "if you're on a limited time crunch, I"
+    },
+    {
+      "start_time": "00:12:20,560",
+      "end_time": "00:12:25,839",
+      "text": "would learn to sort of as a GM take more"
+    },
+    {
+      "start_time": "00:12:23,600",
+      "end_time": "00:12:27,760",
+      "text": "control of your story and take more"
+    },
+    {
+      "start_time": "00:12:25,839",
+      "end_time": "00:12:29,519",
+      "text": "control of the the camera and take more"
+    },
+    {
+      "start_time": "00:12:27,760",
+      "end_time": "00:12:31,600",
+      "text": "control of the editing room. So when you"
+    },
+    {
+      "start_time": "00:12:29,519",
+      "end_time": "00:12:33,200",
+      "text": "think about the GM moves, don't get"
+    },
+    {
+      "start_time": "00:12:31,600",
+      "end_time": "00:12:36,240",
+      "text": "caught caught up on the nomenclature."
+    },
+    {
+      "start_time": "00:12:33,200",
+      "end_time": "00:12:37,839",
+      "text": "Um, when in doubt, pick a couple that"
+    },
+    {
+      "start_time": "00:12:36,240",
+      "end_time": "00:12:39,760",
+      "text": "you like, that you feel like comfortable"
+    },
+    {
+      "start_time": "00:12:37,839",
+      "end_time": "00:12:41,440",
+      "text": "with. Uh, maybe, you know, separating"
+    },
+    {
+      "start_time": "00:12:39,760",
+      "end_time": "00:12:43,839",
+      "text": "them, showing them danger, or showing"
+    },
+    {
+      "start_time": "00:12:41,440",
+      "end_time": "00:12:45,600",
+      "text": "them signs of approaching danger, and"
+    },
+    {
+      "start_time": "00:12:43,839",
+      "end_time": "00:12:47,760",
+      "text": "make those your defaults. And when in"
+    },
+    {
+      "start_time": "00:12:45,600",
+      "end_time": "00:12:48,959",
+      "text": "doubt, like again, if there's 12 or 14"
+    },
+    {
+      "start_time": "00:12:47,760",
+      "end_time": "00:12:50,639",
+      "text": "of them, maybe you get around to using"
+    },
+    {
+      "start_time": "00:12:48,959",
+      "end_time": "00:12:52,720",
+      "text": "them. But like, try to learn three of"
+    },
+    {
+      "start_time": "00:12:50,639",
+      "end_time": "00:12:54,480",
+      "text": "them. And maybe only use three or four"
+    },
+    {
+      "start_time": "00:12:52,720",
+      "end_time": "00:12:56,720",
+      "text": "of them for the first handful of"
+    },
+    {
+      "start_time": "00:12:54,480",
+      "end_time": "00:12:59,120",
+      "text": "sessions that you play, right? and"
+    },
+    {
+      "start_time": "00:12:56,720",
+      "end_time": "00:13:00,800",
+      "text": "figure that out and get comfortable"
+    },
+    {
+      "start_time": "00:12:59,120",
+      "end_time": "00:13:02,800",
+      "text": "calling for those moves and using those"
+    },
+    {
+      "start_time": "00:13:00,800",
+      "end_time": "00:13:04,560",
+      "text": "moves and using that idea of escalating."
+    },
+    {
+      "start_time": "00:13:02,800",
+      "end_time": "00:13:06,560",
+      "text": "The reason why those GM moves are"
+    },
+    {
+      "start_time": "00:13:04,560",
+      "end_time": "00:13:10,320",
+      "text": "written in the book is because those"
+    },
+    {
+      "start_time": "00:13:06,560",
+      "end_time": "00:13:12,720",
+      "text": "moves tend to be very good at promoting"
+    },
+    {
+      "start_time": "00:13:10,320",
+      "end_time": "00:13:15,040",
+      "text": "your agenda at pushing the characters"
+    },
+    {
+      "start_time": "00:13:12,720",
+      "end_time": "00:13:17,040",
+      "text": "towards adventure at putting them into"
+    },
+    {
+      "start_time": "00:13:15,040",
+      "end_time": "00:13:18,480",
+      "text": "excitement uh uh pushing them towards"
+    },
+    {
+      "start_time": "00:13:17,040",
+      "end_time": "00:13:21,920",
+      "text": "danger, fantasy, adventure, excitement,"
+    },
+    {
+      "start_time": "00:13:18,480",
+      "end_time": "00:13:26,480",
+      "text": "all that jazz, right? But when you're"
+    },
+    {
+      "start_time": "00:13:21,920",
+      "end_time": "00:13:28,959",
+      "text": "doing that, don't just say your move,"
+    },
+    {
+      "start_time": "00:13:26,480",
+      "end_time": "00:13:31,040",
+      "text": "right? Make it make it part of the"
+    },
+    {
+      "start_time": "00:13:28,959",
+      "end_time": "00:13:32,800",
+      "text": "fiction. Describe it. I mean, if you"
+    },
+    {
+      "start_time": "00:13:31,040",
+      "end_time": "00:13:35,200",
+      "text": "want to, you know, even as you're sort"
+    },
+    {
+      "start_time": "00:13:32,800",
+      "end_time": "00:13:36,079",
+      "text": "of teaching your players, I suppose if"
+    },
+    {
+      "start_time": "00:13:35,200",
+      "end_time": "00:13:36,959",
+      "text": "you really want to do this, in fact,"
+    },
+    {
+      "start_time": "00:13:36,079",
+      "end_time": "00:13:39,440",
+      "text": "this is one of the things I want to do"
+    },
+    {
+      "start_time": "00:13:36,959",
+      "end_time": "00:13:42,320",
+      "text": "in my actual play is, you know, you can"
+    },
+    {
+      "start_time": "00:13:39,440",
+      "end_time": "00:13:45,760",
+      "text": "make a move and describe it in the"
+    },
+    {
+      "start_time": "00:13:42,320",
+      "end_time": "00:13:48,160",
+      "text": "fiction, right? as I I describe that a a"
+    },
+    {
+      "start_time": "00:13:45,760",
+      "end_time": "00:13:52,079",
+      "text": "squadron of orc reinforcements crosses"
+    },
+    {
+      "start_time": "00:13:48,160",
+      "end_time": "00:13:54,079",
+      "text": "the burning bridge um to join the fry"
+    },
+    {
+      "start_time": "00:13:52,079",
+      "end_time": "00:13:56,320",
+      "text": "and I tell them I'm showing signs of an"
+    },
+    {
+      "start_time": "00:13:54,079",
+      "end_time": "00:13:57,600",
+      "text": "approaching danger. I could tell my"
+    },
+    {
+      "start_time": "00:13:56,320",
+      "end_time": "00:13:58,720",
+      "text": "players that you know to help them"
+    },
+    {
+      "start_time": "00:13:57,600",
+      "end_time": "00:14:00,160",
+      "text": "everybody get more comfortable with"
+    },
+    {
+      "start_time": "00:13:58,720",
+      "end_time": "00:14:02,480",
+      "text": "what's going on. But you don't really"
+    },
+    {
+      "start_time": "00:14:00,160",
+      "end_time": "00:14:04,320",
+      "text": "need to. Ultimately, I would hope I"
+    },
+    {
+      "start_time": "00:14:02,480",
+      "end_time": "00:14:06,560",
+      "text": "would think is that your goal is to get"
+    },
+    {
+      "start_time": "00:14:04,320",
+      "end_time": "00:14:10,160",
+      "text": "players to sort of think about the game"
+    },
+    {
+      "start_time": "00:14:06,560",
+      "end_time": "00:14:11,519",
+      "text": "in the terms of the the narrative and to"
+    },
+    {
+      "start_time": "00:14:10,160",
+      "end_time": "00:14:13,360",
+      "text": "think about what's going on in the"
+    },
+    {
+      "start_time": "00:14:11,519",
+      "end_time": "00:14:15,600",
+      "text": "fiction and to ultimately sort of root"
+    },
+    {
+      "start_time": "00:14:13,360",
+      "end_time": "00:14:18,079",
+      "text": "themselves in that perspective. Now, you"
+    },
+    {
+      "start_time": "00:14:15,600",
+      "end_time": "00:14:20,079",
+      "text": "can absolutely take a step back and say"
+    },
+    {
+      "start_time": "00:14:18,079",
+      "end_time": "00:14:24,000",
+      "text": "in a moment if you're really caught up"
+    },
+    {
+      "start_time": "00:14:20,079",
+      "end_time": "00:14:26,000",
+      "text": "for it, hey players, uh what would be"
+    },
+    {
+      "start_time": "00:14:24,000",
+      "end_time": "00:14:27,440",
+      "text": "cool here? And now some players are not"
+    },
+    {
+      "start_time": "00:14:26,000",
+      "end_time": "00:14:28,639",
+      "text": "going to be comfortable with this, but"
+    },
+    {
+      "start_time": "00:14:27,440",
+      "end_time": "00:14:30,720",
+      "text": "one of the things that we can start to"
+    },
+    {
+      "start_time": "00:14:28,639",
+      "end_time": "00:14:32,240",
+      "text": "do is figure out ways to make our"
+    },
+    {
+      "start_time": "00:14:30,720",
+      "end_time": "00:14:34,639",
+      "text": "players have feel like they have more of"
+    },
+    {
+      "start_time": "00:14:32,240",
+      "end_time": "00:14:37,120",
+      "text": "a say in the ongoing narrative. And"
+    },
+    {
+      "start_time": "00:14:34,639",
+      "end_time": "00:14:38,720",
+      "text": "while it is something that I don't do as"
+    },
+    {
+      "start_time": "00:14:37,120",
+      "end_time": "00:14:43,920",
+      "text": "much because I'm pretty comfortable"
+    },
+    {
+      "start_time": "00:14:38,720",
+      "end_time": "00:14:48,079",
+      "text": "making GM moves, I will sometimes say,"
+    },
+    {
+      "start_time": "00:14:43,920",
+      "end_time": "00:14:49,680",
+      "text": "you know, hey, uh, you know, the the orc"
+    },
+    {
+      "start_time": "00:14:48,079",
+      "end_time": "00:14:51,199",
+      "text": "is going to, you know, the orc pushes"
+    },
+    {
+      "start_time": "00:14:49,680",
+      "end_time": "00:14:52,480",
+      "text": "their attack on you. I don't know,"
+    },
+    {
+      "start_time": "00:14:51,199",
+      "end_time": "00:14:53,839",
+      "text": "something bad something bad happens to"
+    },
+    {
+      "start_time": "00:14:52,480",
+      "end_time": "00:14:54,880",
+      "text": "you. What is it? And the player might"
+    },
+    {
+      "start_time": "00:14:53,839",
+      "end_time": "00:14:56,000",
+      "text": "go, \"I don't know, maybe my weapon"
+    },
+    {
+      "start_time": "00:14:54,880",
+      "end_time": "00:14:57,360",
+      "text": "breaks.\" And I go, \"Yeah, that's cool."
+    },
+    {
+      "start_time": "00:14:56,000",
+      "end_time": "00:14:59,199",
+      "text": "We'll go with that. Your weapon breaks.\""
+    },
+    {
+      "start_time": "00:14:57,360",
+      "end_time": "00:15:02,480",
+      "text": "And you're like, \"Why would a player"
+    },
+    {
+      "start_time": "00:14:59,199",
+      "end_time": "00:15:04,240",
+      "text": "ever want their weapon to break?\" If"
+    },
+    {
+      "start_time": "00:15:02,480",
+      "end_time": "00:15:06,160",
+      "text": "you're, this goes back to the previous"
+    },
+    {
+      "start_time": "00:15:04,240",
+      "end_time": "00:15:08,959",
+      "text": "tip, which you can go watch, you know,"
+    },
+    {
+      "start_time": "00:15:06,160",
+      "end_time": "00:15:11,040",
+      "text": "in a prior thing, which is it's not"
+    },
+    {
+      "start_time": "00:15:08,959",
+      "end_time": "00:15:13,279",
+      "text": "about winning or losing. It's about"
+    },
+    {
+      "start_time": "00:15:11,040",
+      "end_time": "00:15:15,680",
+      "text": "creating a cool moment, whether your"
+    },
+    {
+      "start_time": "00:15:13,279",
+      "end_time": "00:15:18,959",
+      "text": "player character is affected by it or"
+    },
+    {
+      "start_time": "00:15:15,680",
+      "end_time": "00:15:20,880",
+      "text": "not. So, we could do a whole video on GM"
+    },
+    {
+      "start_time": "00:15:18,959",
+      "end_time": "00:15:23,279",
+      "text": "moves and framing. This is sort of just"
+    },
+    {
+      "start_time": "00:15:20,880",
+      "end_time": "00:15:25,120",
+      "text": "a highlevel concept of it. We've done"
+    },
+    {
+      "start_time": "00:15:23,279",
+      "end_time": "00:15:26,639",
+      "text": "entire set of games long before"
+    },
+    {
+      "start_time": "00:15:25,120",
+      "end_time": "00:15:28,880",
+      "text": "Daggerheart was even produced on this"
+    },
+    {
+      "start_time": "00:15:26,639",
+      "end_time": "00:15:30,000",
+      "text": "channel. Uh we did a we did a thing"
+    },
+    {
+      "start_time": "00:15:28,880",
+      "end_time": "00:15:31,360",
+      "text": "called I think called Hard Moves. I"
+    },
+    {
+      "start_time": "00:15:30,000",
+      "end_time": "00:15:32,639",
+      "text": "think we did a video called or a stream"
+    },
+    {
+      "start_time": "00:15:31,360",
+      "end_time": "00:15:34,720",
+      "text": "called Hard Moves, a stream called Soft"
+    },
+    {
+      "start_time": "00:15:32,639",
+      "end_time": "00:15:36,399",
+      "text": "Moves. You can go talk uh and and go"
+    },
+    {
+      "start_time": "00:15:34,720",
+      "end_time": "00:15:38,399",
+      "text": "look at them there. There's a lot of"
+    },
+    {
+      "start_time": "00:15:36,399",
+      "end_time": "00:15:40,639",
+      "text": "stuff here and it's worth it's worth"
+    },
+    {
+      "start_time": "00:15:38,399",
+      "end_time": "00:15:40,639",
+      "text": "checking"
+    }
+  ],
+  "full_text": "Hey everyone, welcome to the nights of\nlast call. My name is Derek Melinda.\nWhat you're about to watch is a recent\nclip from a Daggerheart live stream\nwhere we gave advice to firsttime GMs\nwho may need a little help with running\nDaggerheart. Enjoy. All right, so our\nthird tip for people who are new to this\nis this idea of mastering GM moves and\nframing. Now, this advice, I'm not going\nto lie, this is advice that comes from\nmany other really, really well-designed\nPowered by the Apocalypse style games,\nespecially from Magpie and of course\nfrom Vincent Baker and, you know, uh,\nAvery Alder and, you know, all the all\nthe folks who have come before. So, GM\nmoves is a term. It was made up\nby people from the Forge. Sorry, you\nknow, Baker, I love you. But it was made\nup by Vincent Baker to sound smart and\nclever and honestly, it's a terrible\nname. There's a lot of things in PBTA\nlanguage that I I love, you know, I love\nthe mechanics, but a lot of the language\nis really, really bad. The fact of the\nmatter is a GM move just means you're\ntalking.\nIt just means that you're doing\nsomething. Um, the list that they give\nyou in all these games is not\nprescriptive. It's descriptive. It means\nthat it's not literally saying you have\nto do one of these 10 things and nothing\nelse. It's saying as the GM when the\nplayers want when it's your turn to do\nsomething and that could mean because\nthe players are looking at you. So if\nthe players say I look around the room,\nwhat do I see? And then you say you see\nan ancient script maybe once dedicated\nto a god of good or light but it's been\nterribly defaced through years of\noccupation by foul creatures in the\ndark. The holy symbol that once may have\nadorned the altar has been broken and\nshattered and ancient uh graffiti and\nand uh filth cover the altar. Guess\nwhat? You just made a GM move. You're\nlike, \"Wait, I I just I just made a GM\nmove.\" Yeah, that was a GM move. I know\nit's right? GM moves are\nShowing them what's happening. When the\nplayer says, \"Hey, can I climb down\nthat?\" When that player say, \"Can I\nclimb down that pit?\" And I go, \"Yeah,\ndo you have a rope?\" And they say,\n'Yeah.' And I go, 'Yeah, you can do it.\nNo problem. Guess what? I just made I\njust I just did the uh uh uh ask them a\ncost. Uh you know, tell them the cost\nand ask, you know, because I said, \"Do\nyou have a rope?\" \"Yes, then you can do\nit. If you don't, well, then it's\ndangerous and maybe we have to make a\nroll.\" That is a GM move. It doesn't\nseem like a GM move, but it is. So GM\nmoves are kind of So, for\nstarters, don't get hung up on the term,\nokay? Uh it it it it\nit's a way to sort of think about doing\nwhat you're doing with intention\nthat I will agree to. Okay. It is about\nlearning to game master with intention.\nUnlike some of the other games that you\nmay have played, games that are powered\nby the apocalypse or inspired by powered\nby the apocalypse as Daggerheart is have\nprinciples and agendas. These are games\nthat want you to be about something. The\ngame asks you, in fact, it dare dare I\nsay it demands that you make your game\nfollow these principles and agendas. And\nDaggerheart very intelligently even\nallows these agendas and principles to\nchange depending on your campaign frame.\nSo\nas a result, it is your job to what what\nGM moves are a way of of of sort of\ngetting you to think about is talking\nand when you before you start making a\nmove, before you start describing what\nyou're doing, think about why you're\ndoing it. All right? Think about how you\ncan use this moment at the table to\npush your agenda forward. So rather than\nbeing focused on GM moves, you should be\nfocused on your agenda and you should be\nfocused on your players and you should\nbe focused on their uh and your\nprinciples, right? And asking yourself\nwhat does this move do? There's an old\nuh there's an old screenwriting thing\nwhich says right right like no scene is\nworth a movie no line of dialogue is\nworth a scene. A good editor you are\nwith your players a very limited amount\nof time and you should be cutting\nthrough the as much as you can\nand you should make every minute count.\nNow, when I was a young younger lad, uh\nmy friends and I would play D and D on\nlike Wednesday, Friday, Saturday, like\nalmost every week, and it would be like\nseven hour sessions. And so, we were\nplaying like 21 hours a week, and I\ncould afford to have a session or even\nan entire week's worth of sessions, 20\nhours worth of sessions be literally\nalmost nothing. Now, 20 hours worth of\nsessions might honestly take me four to\nfive months um to get through. I mean,\nthese days, it feels like it. So I this\nis about thinking through the lens if if\nwhat we were talking about before about\nspotlight management was really about\nthinking about as a good director or a\ngood cinematographer. Uh GM moves and\nframing are about being a good editor.\nSo\nwhat does it mean to make a GM move? It\nmeans you need to think about what does\nthis serve point does this serve in the\nongoing scene and wider story and how\nsoft and how hard should I make the\nmove? Don't worry about the specific\nmoves like separate them or reveal\ndanger or show them the cost. You can\nthey're on your GM screen or you can\nwrite them out. You can learn to sort of\nuh you know uh uh think about them in\nthat context. But I think you should\nreally more focus on doing soft and\nhard. Is this a move that is going to\nreally stick it to the p to the players\nand put them in a incredibly tough spot\nor to immediately show them the\nconsequences of their actions? They\nalready jumped off the cliff and now I'm\ngoing to show them what happens. You\ntake damage.\nOr is this a move in which I want to\nshow the players how the world reacts\nand maybe set up a potentially dangerous\nsituation but not immediately follow\nthrough with that and give the players a\nchance to respond.\nThis soft versus hard move paradigm is\nthe most important thing that you could\ndo. Okay? Because as a result of that,\nif when the when you do something, when\nthe players do something and you respond\nwith a hard move, the players will begin\nto realize by association that doing\nthat action has consequences and they\nmay then reconsider that action. They\nmay uh do something different. They may\nbe more cautious and they be more may be\nmore careful. If you respond with a soft\nmove, then the players will likely not\nfeel as uh immediately punished by their\naction and instead will feel like the\ngame is still in their control. So, the\ndifference between this is me saying\nthe hard move is the goblins surround\nyou and begin stabbing you and I'm\nmaking attack rolls, right? Let's say\nthey're minions, right? I activate a\ngroup of minions. The goblins move in,\nthey surround you, and they begin\nstabbing you, and I'm making attack\nrolls. Um, that's a hard move because\nthe die is cast, the players are going\nto take damage if I roll high enough.\nA soft move would be me telling Smen,\nSMDon, a group of goblins is rushing\ntowards you, beginning to move left and\nright to surround you. Now, did I just\nactivate the goblins? No. Did I\nspotlight the goblins?\nNo, I would I'm I'm\nfictionally describing that they are\nmoving around you. And now I go to\nSpendon. What do you do?\nNow, in both of those situations, the\ngoblins are racing forward and they're\ngoing to try to attack you. But the\ndifference between the hard move and the\nsoft move is that in the soft move I am\ngiving Smen or maybe I'm giving a\nguardian in the party or something a\nchance\nto do something about it before that\nthat badness comes through. And once the\nbadness comes through, right, the dice\nis cast. Additionally, this is sort of a\ntangent, but uh in Power by the\nApocalypse games, when a Gia makes a\nhard move, it's really hard. It's just\nlike, \"Oh, you didn't do that thing. the\norc hits you, does damage, you take the\ndamage. There's no attack roll. The GM\ndoesn't make an attack roll. In, you\nknow, Dungeon World, for example, if the\nGM says you're taking damage, you're\njust taking damage. But in Daggerheart,\nwe have things like the monsters making\nan attack roll or an adversary making an\nattack roll or the players making a\nreaction roll. So, actually, you can be\nreally hard because the players are\nstill going to have a good chance of\navoiding that. you know, but attack\ncould miss the, you know, if I said the\ngoblins surround you and they all stab\nyou for six damage, that might be like\nthe hard move from a dungeon world game\nand you just take the six damage,\nthere's no recourse. I' I'm making the\nhard move. Whereas, I could describe\nthat and do that in dungeon in uh dagger\nheart and roll low on my D20 and end up\ndoing, you know, they miss. You know,\nyou you're awesome and you parry all\ntheir attacks and you look like a\nbadass. Um, and so you can actually be\nkind of hard, you know, you can be\nharder than you might even be in a PvTA\ngame because there's this extra layer of\nprotection. So, in that respect, you\nknow, activating an adversary and\ngetting them to do attacking uh is kind\nof a it's kind of a medium move, you\nknow, it's not really hard. It's kind of\nit's kind of soft, you know, u or but so\nit's kind of between because they can\nmiss. Um, so if those are moves, the\nother thing to do as a GM and when\nyou're thinking about as a sort of an\neditor is framing, right? Do not feel\nlike you need to show every aspect of\nevery scene.\nIf the players are entering,\nuh, you know, uh, if the players are\ngoing to go negotiate with the baron for\nthe release of their captive, you know,\nof their companions, you don't literally\nhave to show the players talking to\nevery single guard along the way. You\ndon't have to describe the entire\ncastle. You can just boom, cut right to\nthe baron's audience chamber. In fact,\nyou could even cut in in media rest and\nI can say, you know, the baron, you\nknow, suddenly we're just there and the\nbaron says, \"Now I've given granted you\nan audience. What do you want? If you're\nhere for your companions, they are writ\nnow I've and now I say and then I told\nthe players and what do you do?\" And now\nwe're in that scene and we've cut\nthrough all that. So hard framing puts\nthe players in the spot. Um, you know,\nyou're cutting out Yeah. you're cutting\nout the FBT, you know, you're cutting\nout um to sort of cut to the cut to the\naction, cut to the chase. Um Rayo Man\nsays, \"Eliminate the shoe leather like\nin movies and TV shows.\" And I agree\nwith that, Rayo Man. Um again, maybe you\nhave a lot more time to play than I do,\nin which case, awesome, and you can you\ncan really, you know, explore the space.\nI don't have that kind of time. So, for\nme, it's really important as a GM is to\nthink about, does this scene need to\nhappen? Can we cut through it? Can we\ncut to the part that matters? Can we get\nto the part that matters? It's the same\nthing true with a combat because we're\nnot here to sort of figure out if the\nPC's HP are going to deplete over the\nperiod of time before they earn enough\nexperience points from gathering\ntreasure from the dungeon so that they\ncan level up. it's, you know, if the\ncombat's not interesting anymore, then\nwe can just say it's over and we can\nmove to the next thing, you know.\nUm, and I think that's an important\nskill to sort of manage. So, again, you\nwant to think about this in terms of\nstory beats. You want to think about\nthis in terms of of of advancing the\nplot. Um, now again, what is the plot?\nIt's not pre-written. We're sort of\nfiguring out as we go along. And I think\nthis becomes more important if you are\non a limited time frame. I know that\nthere are people out there who just want\nto, you know, talk about the weather in\ncharacter and I have complete respect\nfor you. But\nif you're on a limited time crunch, I\nwould learn to sort of as a GM take more\ncontrol of your story and take more\ncontrol of the the camera and take more\ncontrol of the editing room. So when you\nthink about the GM moves, don't get\ncaught caught up on the nomenclature.\nUm, when in doubt, pick a couple that\nyou like, that you feel like comfortable\nwith. Uh, maybe, you know, separating\nthem, showing them danger, or showing\nthem signs of approaching danger, and\nmake those your defaults. And when in\ndoubt, like again, if there's 12 or 14\nof them, maybe you get around to using\nthem. But like, try to learn three of\nthem. And maybe only use three or four\nof them for the first handful of\nsessions that you play, right? and\nfigure that out and get comfortable\ncalling for those moves and using those\nmoves and using that idea of escalating.\nThe reason why those GM moves are\nwritten in the book is because those\nmoves tend to be very good at promoting\nyour agenda at pushing the characters\ntowards adventure at putting them into\nexcitement uh uh pushing them towards\ndanger, fantasy, adventure, excitement,\nall that jazz, right? But when you're\ndoing that, don't just say your move,\nright? Make it make it part of the\nfiction. Describe it. I mean, if you\nwant to, you know, even as you're sort\nof teaching your players, I suppose if\nyou really want to do this, in fact,\nthis is one of the things I want to do\nin my actual play is, you know, you can\nmake a move and describe it in the\nfiction, right? as I I describe that a a\nsquadron of orc reinforcements crosses\nthe burning bridge um to join the fry\nand I tell them I'm showing signs of an\napproaching danger. I could tell my\nplayers that you know to help them\neverybody get more comfortable with\nwhat's going on. But you don't really\nneed to. Ultimately, I would hope I\nwould think is that your goal is to get\nplayers to sort of think about the game\nin the terms of the the narrative and to\nthink about what's going on in the\nfiction and to ultimately sort of root\nthemselves in that perspective. Now, you\ncan absolutely take a step back and say\nin a moment if you're really caught up\nfor it, hey players, uh what would be\ncool here? And now some players are not\ngoing to be comfortable with this, but\none of the things that we can start to\ndo is figure out ways to make our\nplayers have feel like they have more of\na say in the ongoing narrative. And\nwhile it is something that I don't do as\nmuch because I'm pretty comfortable\nmaking GM moves, I will sometimes say,\nyou know, hey, uh, you know, the the orc\nis going to, you know, the orc pushes\ntheir attack on you. I don't know,\nsomething bad something bad happens to\nyou. What is it? And the player might\ngo, \"I don't know, maybe my weapon\nbreaks.\" And I go, \"Yeah, that's cool.\nWe'll go with that. Your weapon breaks.\"\nAnd you're like, \"Why would a player\never want their weapon to break?\" If\nyou're, this goes back to the previous\ntip, which you can go watch, you know,\nin a prior thing, which is it's not\nabout winning or losing. It's about\ncreating a cool moment, whether your\nplayer character is affected by it or\nnot. So, we could do a whole video on GM\nmoves and framing. This is sort of just\na highlevel concept of it. We've done\nentire set of games long before\nDaggerheart was even produced on this\nchannel. Uh we did a we did a thing\ncalled I think called Hard Moves. I\nthink we did a video called or a stream\ncalled Hard Moves, a stream called Soft\nMoves. You can go talk uh and and go\nlook at them there. There's a lot of\nstuff here and it's worth it's worth\nchecking\n"
+}

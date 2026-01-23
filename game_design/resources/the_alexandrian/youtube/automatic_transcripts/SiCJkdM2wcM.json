@@ -1,0 +1,505 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,060",
+      "end_time": "00:00:03,720",
+      "text": "I spend a lot of time talking about"
+    },
+    {
+      "start_time": "00:00:01,740",
+      "end_time": "00:00:05,279",
+      "text": "scenario hooks it's because they're"
+    },
+    {
+      "start_time": "00:00:03,720",
+      "end_time": "00:00:07,200",
+      "text": "really important and they're a lot more"
+    },
+    {
+      "start_time": "00:00:05,279",
+      "end_time": "00:00:08,880",
+      "text": "powerful than you think"
+    },
+    {
+      "start_time": "00:00:07,200",
+      "end_time": "00:00:10,559",
+      "text": "one of the reasons people don't get as"
+    },
+    {
+      "start_time": "00:00:08,880",
+      "end_time": "00:00:12,480",
+      "text": "much mileage from Scenario hooks as they"
+    },
+    {
+      "start_time": "00:00:10,559",
+      "end_time": "00:00:14,940",
+      "text": "could is because they're prepping linear"
+    },
+    {
+      "start_time": "00:00:12,480",
+      "end_time": "00:00:17,100",
+      "text": "plots when you force the players down a"
+    },
+    {
+      "start_time": "00:00:14,940",
+      "end_time": "00:00:19,380",
+      "text": "linear path without Choice the function"
+    },
+    {
+      "start_time": "00:00:17,100",
+      "end_time": "00:00:20,460",
+      "text": "of a scenario Hook is to force them onto"
+    },
+    {
+      "start_time": "00:00:19,380",
+      "end_time": "00:00:22,800",
+      "text": "the path"
+    },
+    {
+      "start_time": "00:00:20,460",
+      "end_time": "00:00:23,820",
+      "text": "the thing about railroading is that it's"
+    },
+    {
+      "start_time": "00:00:22,800",
+      "end_time": "00:00:26,340",
+      "text": "boring"
+    },
+    {
+      "start_time": "00:00:23,820",
+      "end_time": "00:00:27,900",
+      "text": "it's also difficult you have to keep"
+    },
+    {
+      "start_time": "00:00:26,340",
+      "end_time": "00:00:29,580",
+      "text": "forcing the players or tricking the"
+    },
+    {
+      "start_time": "00:00:27,900",
+      "end_time": "00:00:31,679",
+      "text": "players into doing the very specific"
+    },
+    {
+      "start_time": "00:00:29,580",
+      "end_time": "00:00:33,840",
+      "text": "things you predetermined would move the"
+    },
+    {
+      "start_time": "00:00:31,679",
+      "end_time": "00:00:35,520",
+      "text": "plot forwards that's why the scenario"
+    },
+    {
+      "start_time": "00:00:33,840",
+      "end_time": "00:00:37,440",
+      "text": "hooks for these Adventures have to be so"
+    },
+    {
+      "start_time": "00:00:35,520",
+      "end_time": "00:00:39,360",
+      "text": "simple and boring"
+    },
+    {
+      "start_time": "00:00:37,440",
+      "end_time": "00:00:41,760",
+      "text": "when you abandon all that when you start"
+    },
+    {
+      "start_time": "00:00:39,360",
+      "end_time": "00:00:43,800",
+      "text": "prepping situations instead of plot you"
+    },
+    {
+      "start_time": "00:00:41,760",
+      "end_time": "00:00:45,059",
+      "text": "can have a lot more fun with your hooks"
+    },
+    {
+      "start_time": "00:00:43,800",
+      "end_time": "00:00:46,860",
+      "text": "now for one thing you can start having"
+    },
+    {
+      "start_time": "00:00:45,059",
+      "end_time": "00:00:48,899",
+      "text": "multiple hooks with the same scenario"
+    },
+    {
+      "start_time": "00:00:46,860",
+      "end_time": "00:00:50,760",
+      "text": "when the PCS don't have to follow a"
+    },
+    {
+      "start_time": "00:00:48,899",
+      "end_time": "00:00:52,260",
+      "text": "specific predetermined path you can"
+    },
+    {
+      "start_time": "00:00:50,760",
+      "end_time": "00:00:54,360",
+      "text": "suddenly start pointing them at many"
+    },
+    {
+      "start_time": "00:00:52,260",
+      "end_time": "00:00:55,559",
+      "text": "different parts of the scenario maybe"
+    },
+    {
+      "start_time": "00:00:54,360",
+      "end_time": "00:00:57,300",
+      "text": "they get involved because they've been"
+    },
+    {
+      "start_time": "00:00:55,559",
+      "end_time": "00:00:58,800",
+      "text": "investigating the drug trade or maybe"
+    },
+    {
+      "start_time": "00:00:57,300",
+      "end_time": "00:01:00,539",
+      "text": "they get involved because their cousin"
+    },
+    {
+      "start_time": "00:00:58,800",
+      "end_time": "00:01:02,039",
+      "text": "is kidnapped or maybe they get involved"
+    },
+    {
+      "start_time": "00:01:00,539",
+      "end_time": "00:01:04,260",
+      "text": "because the tunnels from the cemetery"
+    },
+    {
+      "start_time": "00:01:02,039",
+      "end_time": "00:01:05,100",
+      "text": "lead to the basement of Sir Isaac's"
+    },
+    {
+      "start_time": "00:01:04,260",
+      "end_time": "00:01:07,380",
+      "text": "mansion"
+    },
+    {
+      "start_time": "00:01:05,100",
+      "end_time": "00:01:09,119",
+      "text": "now this obviously makes it a lot easier"
+    },
+    {
+      "start_time": "00:01:07,380",
+      "end_time": "00:01:10,860",
+      "text": "to deliver scenario hooks for the"
+    },
+    {
+      "start_time": "00:01:09,119",
+      "end_time": "00:01:12,720",
+      "text": "scenario and also to design your"
+    },
+    {
+      "start_time": "00:01:10,860",
+      "end_time": "00:01:15,299",
+      "text": "campaign with the three clue rule in"
+    },
+    {
+      "start_time": "00:01:12,720",
+      "end_time": "00:01:16,979",
+      "text": "mind and when the PCS get multiple"
+    },
+    {
+      "start_time": "00:01:15,299",
+      "end_time": "00:01:19,560",
+      "text": "scenario hooks they have a really"
+    },
+    {
+      "start_time": "00:01:16,979",
+      "end_time": "00:01:22,020",
+      "text": "interesting choice about how and why"
+    },
+    {
+      "start_time": "00:01:19,560",
+      "end_time": "00:01:23,700",
+      "text": "they're going to approach the scenario"
+    },
+    {
+      "start_time": "00:01:22,020",
+      "end_time": "00:01:24,840",
+      "text": "let me give you a really simple example"
+    },
+    {
+      "start_time": "00:01:23,700",
+      "end_time": "00:01:26,880",
+      "text": "of this"
+    },
+    {
+      "start_time": "00:01:24,840",
+      "end_time": "00:01:29,520",
+      "text": "a common type of scenario Hook is"
+    },
+    {
+      "start_time": "00:01:26,880",
+      "end_time": "00:01:31,380",
+      "text": "patronage an MPC approaches the PCS and"
+    },
+    {
+      "start_time": "00:01:29,520",
+      "end_time": "00:01:33,600",
+      "text": "asks them to do something kill his"
+    },
+    {
+      "start_time": "00:01:31,380",
+      "end_time": "00:01:35,759",
+      "text": "sister retrieve the ruby of obar kadam"
+    },
+    {
+      "start_time": "00:01:33,600",
+      "end_time": "00:01:38,280",
+      "text": "raised the Titanic using temporal Voodoo"
+    },
+    {
+      "start_time": "00:01:35,759",
+      "end_time": "00:01:39,900",
+      "text": "whatever the case may be the next time"
+    },
+    {
+      "start_time": "00:01:38,280",
+      "end_time": "00:01:41,880",
+      "text": "you want to use a patron as a scenario"
+    },
+    {
+      "start_time": "00:01:39,900",
+      "end_time": "00:01:44,880",
+      "text": "hook though don't just use one Patron"
+    },
+    {
+      "start_time": "00:01:41,880",
+      "end_time": "00:01:47,579",
+      "text": "use two and have them hire the PCS to do"
+    },
+    {
+      "start_time": "00:01:44,880",
+      "end_time": "00:01:49,619",
+      "text": "different things this setup creates the"
+    },
+    {
+      "start_time": "00:01:47,579",
+      "end_time": "00:01:52,860",
+      "text": "context for immediately framing tough"
+    },
+    {
+      "start_time": "00:01:49,619",
+      "end_time": "00:01:54,899",
+      "text": "dilemmas okay people uh do we chase"
+    },
+    {
+      "start_time": "00:01:52,860",
+      "end_time": "00:01:56,820",
+      "text": "after the Ninja Assassin or are we"
+    },
+    {
+      "start_time": "00:01:54,899",
+      "end_time": "00:01:59,220",
+      "text": "saving the jewel of Earth Assad from the"
+    },
+    {
+      "start_time": "00:01:56,820",
+      "end_time": "00:02:00,840",
+      "text": "river of lava in fact you can do this"
+    },
+    {
+      "start_time": "00:01:59,220",
+      "end_time": "00:02:03,420",
+      "text": "from the very beginning of the scenario"
+    },
+    {
+      "start_time": "00:02:00,840",
+      "end_time": "00:02:05,520",
+      "text": "by using what I call a dilemma hook the"
+    },
+    {
+      "start_time": "00:02:03,420",
+      "end_time": "00:02:07,380",
+      "text": "first Patron asks them to do X and then"
+    },
+    {
+      "start_time": "00:02:05,520",
+      "end_time": "00:02:10,200",
+      "text": "the second Patron asked them to do the"
+    },
+    {
+      "start_time": "00:02:07,380",
+      "end_time": "00:02:12,780",
+      "text": "exact opposite if Patron a asks them to"
+    },
+    {
+      "start_time": "00:02:10,200",
+      "end_time": "00:02:14,879",
+      "text": "murder the CEO of Able Tech and Patron B"
+    },
+    {
+      "start_time": "00:02:12,780",
+      "end_time": "00:02:16,680",
+      "text": "asks him to work as part of the CEO's"
+    },
+    {
+      "start_time": "00:02:14,879",
+      "end_time": "00:02:18,959",
+      "text": "security detail during an upcoming"
+    },
+    {
+      "start_time": "00:02:16,680",
+      "end_time": "00:02:20,520",
+      "text": "business conference you're immediately"
+    },
+    {
+      "start_time": "00:02:18,959",
+      "end_time": "00:02:22,080",
+      "text": "forcing the players to really think"
+    },
+    {
+      "start_time": "00:02:20,520",
+      "end_time": "00:02:24,420",
+      "text": "about the scenario that they're being"
+    },
+    {
+      "start_time": "00:02:22,080",
+      "end_time": "00:02:26,700",
+      "text": "hooked into what do they want to have"
+    },
+    {
+      "start_time": "00:02:24,420",
+      "end_time": "00:02:28,379",
+      "text": "happen to the CEO that they can't just"
+    },
+    {
+      "start_time": "00:02:26,700",
+      "end_time": "00:02:30,180",
+      "text": "sit back and passively do whatever"
+    },
+    {
+      "start_time": "00:02:28,379",
+      "end_time": "00:02:32,459",
+      "text": "they're being told to do they're going"
+    },
+    {
+      "start_time": "00:02:30,180",
+      "end_time": "00:02:33,959",
+      "text": "to have to make a decision now the"
+    },
+    {
+      "start_time": "00:02:32,459",
+      "end_time": "00:02:36,180",
+      "text": "really cool thing is that once this"
+    },
+    {
+      "start_time": "00:02:33,959",
+      "end_time": "00:02:38,340",
+      "text": "empowers the players once they know that"
+    },
+    {
+      "start_time": "00:02:36,180",
+      "end_time": "00:02:40,860",
+      "text": "they're in control their choice will"
+    },
+    {
+      "start_time": "00:02:38,340",
+      "end_time": "00:02:43,500",
+      "text": "often be neither X nor the opposite of X"
+    },
+    {
+      "start_time": "00:02:40,860",
+      "end_time": "00:02:45,180",
+      "text": "they will set their own agenda and take"
+    },
+    {
+      "start_time": "00:02:43,500",
+      "end_time": "00:02:47,040",
+      "text": "the game to places that none of you"
+    },
+    {
+      "start_time": "00:02:45,180",
+      "end_time": "00:02:48,660",
+      "text": "could have imagined"
+    },
+    {
+      "start_time": "00:02:47,040",
+      "end_time": "00:02:51,000",
+      "text": "if you'd like to learn more about making"
+    },
+    {
+      "start_time": "00:02:48,660",
+      "end_time": "00:02:52,860",
+      "text": "awesome scenario hooks I have an entire"
+    },
+    {
+      "start_time": "00:02:51,000",
+      "end_time": "00:02:54,540",
+      "text": "chapter dedicated to them in my upcoming"
+    },
+    {
+      "start_time": "00:02:52,860",
+      "end_time": "00:02:56,879",
+      "text": "book so you want to be a game master"
+    },
+    {
+      "start_time": "00:02:54,540",
+      "end_time": "00:02:58,739",
+      "text": "which I'll link to in the font of all"
+    },
+    {
+      "start_time": "00:02:56,879",
+      "end_time": "00:02:59,879",
+      "text": "knowledge down below I'll also leave"
+    },
+    {
+      "start_time": "00:02:58,739",
+      "end_time": "00:03:01,620",
+      "text": "some links down there to the other"
+    },
+    {
+      "start_time": "00:02:59,879",
+      "end_time": "00:03:03,599",
+      "text": "videos we've done on scenario hooks"
+    },
+    {
+      "start_time": "00:03:01,620",
+      "end_time": "00:03:07,560",
+      "text": "don't forget to like comment and"
+    },
+    {
+      "start_time": "00:03:03,599",
+      "end_time": "00:03:09,959",
+      "text": "subscribe good gaming I'm just what"
+    },
+    {
+      "start_time": "00:03:07,560",
+      "end_time": "00:03:10,860",
+      "text": "we forgot to do the intro"
+    },
+    {
+      "start_time": "00:03:09,959",
+      "end_time": "00:03:12,890",
+      "text": "um"
+    },
+    {
+      "start_time": "00:03:10,860",
+      "end_time": "00:03:18,620",
+      "text": "play the intro"
+    },
+    {
+      "start_time": "00:03:12,890",
+      "end_time": "00:03:22,560",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:03:18,620",
+      "end_time": "00:03:25,280",
+      "text": "I'm Justin Alexander and I'll see you"
+    },
+    {
+      "start_time": "00:03:22,560",
+      "end_time": "00:03:25,280",
+      "text": "at the table"
+    }
+  ],
+  "full_text": "I spend a lot of time talking about\nscenario hooks it's because they're\nreally important and they're a lot more\npowerful than you think\none of the reasons people don't get as\nmuch mileage from Scenario hooks as they\ncould is because they're prepping linear\nplots when you force the players down a\nlinear path without Choice the function\nof a scenario Hook is to force them onto\nthe path\nthe thing about railroading is that it's\nboring\nit's also difficult you have to keep\nforcing the players or tricking the\nplayers into doing the very specific\nthings you predetermined would move the\nplot forwards that's why the scenario\nhooks for these Adventures have to be so\nsimple and boring\nwhen you abandon all that when you start\nprepping situations instead of plot you\ncan have a lot more fun with your hooks\nnow for one thing you can start having\nmultiple hooks with the same scenario\nwhen the PCS don't have to follow a\nspecific predetermined path you can\nsuddenly start pointing them at many\ndifferent parts of the scenario maybe\nthey get involved because they've been\ninvestigating the drug trade or maybe\nthey get involved because their cousin\nis kidnapped or maybe they get involved\nbecause the tunnels from the cemetery\nlead to the basement of Sir Isaac's\nmansion\nnow this obviously makes it a lot easier\nto deliver scenario hooks for the\nscenario and also to design your\ncampaign with the three clue rule in\nmind and when the PCS get multiple\nscenario hooks they have a really\ninteresting choice about how and why\nthey're going to approach the scenario\nlet me give you a really simple example\nof this\na common type of scenario Hook is\npatronage an MPC approaches the PCS and\nasks them to do something kill his\nsister retrieve the ruby of obar kadam\nraised the Titanic using temporal Voodoo\nwhatever the case may be the next time\nyou want to use a patron as a scenario\nhook though don't just use one Patron\nuse two and have them hire the PCS to do\ndifferent things this setup creates the\ncontext for immediately framing tough\ndilemmas okay people uh do we chase\nafter the Ninja Assassin or are we\nsaving the jewel of Earth Assad from the\nriver of lava in fact you can do this\nfrom the very beginning of the scenario\nby using what I call a dilemma hook the\nfirst Patron asks them to do X and then\nthe second Patron asked them to do the\nexact opposite if Patron a asks them to\nmurder the CEO of Able Tech and Patron B\nasks him to work as part of the CEO's\nsecurity detail during an upcoming\nbusiness conference you're immediately\nforcing the players to really think\nabout the scenario that they're being\nhooked into what do they want to have\nhappen to the CEO that they can't just\nsit back and passively do whatever\nthey're being told to do they're going\nto have to make a decision now the\nreally cool thing is that once this\nempowers the players once they know that\nthey're in control their choice will\noften be neither X nor the opposite of X\nthey will set their own agenda and take\nthe game to places that none of you\ncould have imagined\nif you'd like to learn more about making\nawesome scenario hooks I have an entire\nchapter dedicated to them in my upcoming\nbook so you want to be a game master\nwhich I'll link to in the font of all\nknowledge down below I'll also leave\nsome links down there to the other\nvideos we've done on scenario hooks\ndon't forget to like comment and\nsubscribe good gaming I'm just what\nwe forgot to do the intro\num\nplay the intro\n[Music]\nI'm Justin Alexander and I'll see you\nat the table\n"
+}

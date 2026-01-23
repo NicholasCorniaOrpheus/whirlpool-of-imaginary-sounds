@@ -1,0 +1,955 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,839",
+      "end_time": "00:00:05,359",
+      "text": "Dungeons. You know how they work. You"
+    },
+    {
+      "start_time": "00:00:03,360",
+      "end_time": "00:00:07,200",
+      "text": "draw a map that has rooms. You write"
+    },
+    {
+      "start_time": "00:00:05,359",
+      "end_time": "00:00:10,080",
+      "text": "little numbers in the rooms. You write"
+    },
+    {
+      "start_time": "00:00:07,200",
+      "end_time": "00:00:11,759",
+      "text": "up a room key describing each room. If"
+    },
+    {
+      "start_time": "00:00:10,080",
+      "end_time": "00:00:13,440",
+      "text": "you don't know how dungeons work, that's"
+    },
+    {
+      "start_time": "00:00:11,759",
+      "end_time": "00:00:14,719",
+      "text": "okay. For some reason, the D and D rule"
+    },
+    {
+      "start_time": "00:00:13,440",
+      "end_time": "00:00:16,800",
+      "text": "books don't teach you how to do that"
+    },
+    {
+      "start_time": "00:00:14,719",
+      "end_time": "00:00:18,720",
+      "text": "anymore. Grab a copy of So You Want to"
+    },
+    {
+      "start_time": "00:00:16,800",
+      "end_time": "00:00:20,320",
+      "text": "Be a Game Master or hit the subscribe"
+    },
+    {
+      "start_time": "00:00:18,720",
+      "end_time": "00:00:23,439",
+      "text": "button down below. I'll be doing a"
+    },
+    {
+      "start_time": "00:00:20,320",
+      "end_time": "00:00:25,600",
+      "text": "Dungeons 101 video very soon. But if you"
+    },
+    {
+      "start_time": "00:00:23,439",
+      "end_time": "00:00:27,519",
+      "text": "do know how dungeons work, then you know"
+    },
+    {
+      "start_time": "00:00:25,600",
+      "end_time": "00:00:29,199",
+      "text": "that when the PCs start exploring the"
+    },
+    {
+      "start_time": "00:00:27,519",
+      "end_time": "00:00:31,840",
+      "text": "dungeon, you just look at the room"
+    },
+    {
+      "start_time": "00:00:29,199",
+      "end_time": "00:00:33,760",
+      "text": "they're in, describe it, and let them do"
+    },
+    {
+      "start_time": "00:00:31,840",
+      "end_time": "00:00:35,920",
+      "text": "stuff until they run out of stuff to do."
+    },
+    {
+      "start_time": "00:00:33,760",
+      "end_time": "00:00:38,480",
+      "text": "Then they pick an exit, go to the next"
+    },
+    {
+      "start_time": "00:00:35,920",
+      "end_time": "00:00:40,559",
+      "text": "room, and you describe the new room."
+    },
+    {
+      "start_time": "00:00:38,480",
+      "end_time": "00:00:43,040",
+      "text": "Then you simply repeat this until the"
+    },
+    {
+      "start_time": "00:00:40,559",
+      "end_time": "00:00:44,800",
+      "text": "dungeon is done. But wait a minute. Wait"
+    },
+    {
+      "start_time": "00:00:43,040",
+      "end_time": "00:00:47,520",
+      "text": "a minute. The PCs are in one room, and"
+    },
+    {
+      "start_time": "00:00:44,800",
+      "end_time": "00:00:49,440",
+      "text": "then they go to another room. But how do"
+    },
+    {
+      "start_time": "00:00:47,520",
+      "end_time": "00:00:51,039",
+      "text": "they get there? I mean, maybe the rooms"
+    },
+    {
+      "start_time": "00:00:49,440",
+      "end_time": "00:00:52,480",
+      "text": "are right next to each other, but in a"
+    },
+    {
+      "start_time": "00:00:51,039",
+      "end_time": "00:00:54,960",
+      "text": "lot of dungeons, the way you get from"
+    },
+    {
+      "start_time": "00:00:52,480",
+      "end_time": "00:00:57,440",
+      "text": "one room to another is by following a"
+    },
+    {
+      "start_time": "00:00:54,960",
+      "end_time": "00:01:00,000",
+      "text": "corridor. Corridors, of course, can be"
+    },
+    {
+      "start_time": "00:00:57,440",
+      "end_time": "00:01:03,280",
+      "text": "any number of things. Hallways, tunnels,"
+    },
+    {
+      "start_time": "00:01:00,000",
+      "end_time": "00:01:04,879",
+      "text": "courtyards, passages, shafts, stairs,"
+    },
+    {
+      "start_time": "00:01:03,280",
+      "end_time": "00:01:06,799",
+      "text": "but because they typically don't appear"
+    },
+    {
+      "start_time": "00:01:04,879",
+      "end_time": "00:01:09,200",
+      "text": "in the dungeon key, they often end up"
+    },
+    {
+      "start_time": "00:01:06,799",
+      "end_time": "00:01:12,080",
+      "text": "defaulting to to blank ciphers or"
+    },
+    {
+      "start_time": "00:01:09,200",
+      "end_time": "00:01:14,400",
+      "text": "generic mush, just empty expanses of"
+    },
+    {
+      "start_time": "00:01:12,080",
+      "end_time": "00:01:17,200",
+      "text": "gray stone or or featureless utility"
+    },
+    {
+      "start_time": "00:01:14,400",
+      "end_time": "00:01:19,200",
+      "text": "spaces. But that's not the way corridors"
+    },
+    {
+      "start_time": "00:01:17,200",
+      "end_time": "00:01:21,280",
+      "text": "work in the real world. And in our"
+    },
+    {
+      "start_time": "00:01:19,200",
+      "end_time": "00:01:23,759",
+      "text": "adventures, it's a missed opportunity"
+    },
+    {
+      "start_time": "00:01:21,280",
+      "end_time": "00:01:25,360",
+      "text": "for world building. Now, to avoid this,"
+    },
+    {
+      "start_time": "00:01:23,759",
+      "end_time": "00:01:27,600",
+      "text": "of course, you could just add every"
+    },
+    {
+      "start_time": "00:01:25,360",
+      "end_time": "00:01:29,280",
+      "text": "hallway to your key. In practice,"
+    },
+    {
+      "start_time": "00:01:27,600",
+      "end_time": "00:01:31,439",
+      "text": "though, this takes a lot of work, and it"
+    },
+    {
+      "start_time": "00:01:29,280",
+      "end_time": "00:01:33,119",
+      "text": "also tends to to bloat your dungeon key"
+    },
+    {
+      "start_time": "00:01:31,439",
+      "end_time": "00:01:35,119",
+      "text": "and map in ways that aren't really"
+    },
+    {
+      "start_time": "00:01:33,119",
+      "end_time": "00:01:37,439",
+      "text": "useful. So, what you can do instead is"
+    },
+    {
+      "start_time": "00:01:35,119",
+      "end_time": "00:01:39,600",
+      "text": "add a corridor themes section to your"
+    },
+    {
+      "start_time": "00:01:37,439",
+      "end_time": "00:01:41,600",
+      "text": "dungeon key. Now, what you want here is"
+    },
+    {
+      "start_time": "00:01:39,600",
+      "end_time": "00:01:44,159",
+      "text": "a pallet that you can draw from to"
+    },
+    {
+      "start_time": "00:01:41,600",
+      "end_time": "00:01:46,240",
+      "text": "flexibly describe hallways on the fly as"
+    },
+    {
+      "start_time": "00:01:44,159",
+      "end_time": "00:01:48,159",
+      "text": "the PCs pass through them. For example,"
+    },
+    {
+      "start_time": "00:01:46,240",
+      "end_time": "00:01:51,040",
+      "text": "in a haunted house, your corridor theme"
+    },
+    {
+      "start_time": "00:01:48,159",
+      "end_time": "00:01:52,720",
+      "text": "might be might be torn red carpets, uh a"
+    },
+    {
+      "start_time": "00:01:51,040",
+      "end_time": "00:01:55,759",
+      "text": "painting with eyes that follow you,"
+    },
+    {
+      "start_time": "00:01:52,720",
+      "end_time": "00:01:57,520",
+      "text": "broken furniture, cobwebs, broken glass"
+    },
+    {
+      "start_time": "00:01:55,759",
+      "end_time": "00:02:00,000",
+      "text": "on the floor, and and creaking"
+    },
+    {
+      "start_time": "00:01:57,520",
+      "end_time": "00:02:01,759",
+      "text": "floorboards. Now, I've been using the"
+    },
+    {
+      "start_time": "00:02:00,000",
+      "end_time": "00:02:03,520",
+      "text": "word dungeon here because that's how"
+    },
+    {
+      "start_time": "00:02:01,759",
+      "end_time": "00:02:06,000",
+      "text": "most of us are introduced to the"
+    },
+    {
+      "start_time": "00:02:03,520",
+      "end_time": "00:02:08,319",
+      "text": "location crawl scenario structure, but"
+    },
+    {
+      "start_time": "00:02:06,000",
+      "end_time": "00:02:10,800",
+      "text": "you can use location crawls in a lot of"
+    },
+    {
+      "start_time": "00:02:08,319",
+      "end_time": "00:02:12,480",
+      "text": "different situations and in any genre."
+    },
+    {
+      "start_time": "00:02:10,800",
+      "end_time": "00:02:14,239",
+      "text": "Now, if the PCs are exploring a mega"
+    },
+    {
+      "start_time": "00:02:12,480",
+      "end_time": "00:02:16,800",
+      "text": "corpse archology in cyberpunk, for"
+    },
+    {
+      "start_time": "00:02:14,239",
+      "end_time": "00:02:18,480",
+      "text": "example, you might have potted plants,"
+    },
+    {
+      "start_time": "00:02:16,800",
+      "end_time": "00:02:20,800",
+      "text": "security cameras, motivational"
+    },
+    {
+      "start_time": "00:02:18,480",
+      "end_time": "00:02:22,400",
+      "text": "propaganda posters, color-coded section"
+    },
+    {
+      "start_time": "00:02:20,800",
+      "end_time": "00:02:23,920",
+      "text": "stripes on the walls, navigational"
+    },
+    {
+      "start_time": "00:02:22,400",
+      "end_time": "00:02:25,599",
+      "text": "signs, touchscreen directories,"
+    },
+    {
+      "start_time": "00:02:23,920",
+      "end_time": "00:02:27,840",
+      "text": "maintenance drones, and and vending"
+    },
+    {
+      "start_time": "00:02:25,599",
+      "end_time": "00:02:29,840",
+      "text": "machines. I mean, the only limit is your"
+    },
+    {
+      "start_time": "00:02:27,840",
+      "end_time": "00:02:31,680",
+      "text": "imagination. And once you've built your"
+    },
+    {
+      "start_time": "00:02:29,840",
+      "end_time": "00:02:33,760",
+      "text": "corridor themes, you can think of them"
+    },
+    {
+      "start_time": "00:02:31,680",
+      "end_time": "00:02:35,760",
+      "text": "as a menu. Whenever the players are"
+    },
+    {
+      "start_time": "00:02:33,760",
+      "end_time": "00:02:37,440",
+      "text": "walking down a new hallway, just just"
+    },
+    {
+      "start_time": "00:02:35,760",
+      "end_time": "00:02:39,040",
+      "text": "grab a couple items from the menu,"
+    },
+    {
+      "start_time": "00:02:37,440",
+      "end_time": "00:02:41,519",
+      "text": "combine them with the navigational"
+    },
+    {
+      "start_time": "00:02:39,040",
+      "end_time": "00:02:43,840",
+      "text": "details from the map, and paint a"
+    },
+    {
+      "start_time": "00:02:41,519",
+      "end_time": "00:02:46,319",
+      "text": "picture for your players. Your bare feet"
+    },
+    {
+      "start_time": "00:02:43,840",
+      "end_time": "00:02:48,800",
+      "text": "sink into the torn red carpet that runs"
+    },
+    {
+      "start_time": "00:02:46,319",
+      "end_time": "00:02:50,720",
+      "text": "the length of the hallway. Down one side"
+    },
+    {
+      "start_time": "00:02:48,800",
+      "end_time": "00:02:53,599",
+      "text": "of the hall, you can see three doors"
+    },
+    {
+      "start_time": "00:02:50,720",
+      "end_time": "00:02:55,680",
+      "text": "with cobwebs clinging to their lentils."
+    },
+    {
+      "start_time": "00:02:53,599",
+      "end_time": "00:02:57,519",
+      "text": "It's just that simple. Now, now you"
+    },
+    {
+      "start_time": "00:02:55,680",
+      "end_time": "00:03:00,000",
+      "text": "don't want to use every element in every"
+    },
+    {
+      "start_time": "00:02:57,519",
+      "end_time": "00:03:02,000",
+      "text": "hallway, obviously, but it's okay to"
+    },
+    {
+      "start_time": "00:03:00,000",
+      "end_time": "00:03:03,920",
+      "text": "reuse elements. I mean, the whole point"
+    },
+    {
+      "start_time": "00:03:02,000",
+      "end_time": "00:03:05,920",
+      "text": "is that these are common features found"
+    },
+    {
+      "start_time": "00:03:03,920",
+      "end_time": "00:03:07,360",
+      "text": "throughout the location. And since I'm"
+    },
+    {
+      "start_time": "00:03:05,920",
+      "end_time": "00:03:09,280",
+      "text": "constantly mixing and matching these"
+    },
+    {
+      "start_time": "00:03:07,360",
+      "end_time": "00:03:10,959",
+      "text": "elements, dropping them in as needed, my"
+    },
+    {
+      "start_time": "00:03:09,280",
+      "end_time": "00:03:12,640",
+      "text": "corridor themes are generally just a"
+    },
+    {
+      "start_time": "00:03:10,959",
+      "end_time": "00:03:14,640",
+      "text": "brief list of bullet points like the"
+    },
+    {
+      "start_time": "00:03:12,640",
+      "end_time": "00:03:16,000",
+      "text": "ones you've seen here. If you wanted to"
+    },
+    {
+      "start_time": "00:03:14,640",
+      "end_time": "00:03:17,519",
+      "text": "though, you could number your theme"
+    },
+    {
+      "start_time": "00:03:16,000",
+      "end_time": "00:03:21,120",
+      "text": "elements and turn them into a kind of"
+    },
+    {
+      "start_time": "00:03:17,519",
+      "end_time": "00:03:22,959",
+      "text": "random table. Grab 2d6 or 3d6. Roll them"
+    },
+    {
+      "start_time": "00:03:21,120",
+      "end_time": "00:03:24,959",
+      "text": "and and grab the matching results for"
+    },
+    {
+      "start_time": "00:03:22,959",
+      "end_time": "00:03:26,480",
+      "text": "each die from your corridor themes"
+    },
+    {
+      "start_time": "00:03:24,959",
+      "end_time": "00:03:28,560",
+      "text": "table. If you roll matching numbers,"
+    },
+    {
+      "start_time": "00:03:26,480",
+      "end_time": "00:03:30,480",
+      "text": "that hallway just has the one thing or"
+    },
+    {
+      "start_time": "00:03:28,560",
+      "end_time": "00:03:32,080",
+      "text": "maybe an unusual number of that thing,"
+    },
+    {
+      "start_time": "00:03:30,480",
+      "end_time": "00:03:33,680",
+      "text": "you know, whatever makes sense. You can"
+    },
+    {
+      "start_time": "00:03:32,080",
+      "end_time": "00:03:35,840",
+      "text": "also write your corridor themes down on"
+    },
+    {
+      "start_time": "00:03:33,680",
+      "end_time": "00:03:37,680",
+      "text": "a post-it note and affix it to your GM"
+    },
+    {
+      "start_time": "00:03:35,840",
+      "end_time": "00:03:39,440",
+      "text": "screen. If you watched our video on how"
+    },
+    {
+      "start_time": "00:03:37,680",
+      "end_time": "00:03:41,440",
+      "text": "to become a better GM, which I'll link"
+    },
+    {
+      "start_time": "00:03:39,440",
+      "end_time": "00:03:43,360",
+      "text": "to in the font of all knowledge down"
+    },
+    {
+      "start_time": "00:03:41,440",
+      "end_time": "00:03:45,280",
+      "text": "below, you might be using a similar"
+    },
+    {
+      "start_time": "00:03:43,360",
+      "end_time": "00:03:47,040",
+      "text": "technique already for your practice"
+    },
+    {
+      "start_time": "00:03:45,280",
+      "end_time": "00:03:49,120",
+      "text": "points. Having this kind of stuff at"
+    },
+    {
+      "start_time": "00:03:47,040",
+      "end_time": "00:03:51,120",
+      "text": "your fingertips is exactly what a GM"
+    },
+    {
+      "start_time": "00:03:49,120",
+      "end_time": "00:03:53,040",
+      "text": "screen is for and is another reason to"
+    },
+    {
+      "start_time": "00:03:51,120",
+      "end_time": "00:03:55,840",
+      "text": "keep your corridor themes short and"
+    },
+    {
+      "start_time": "00:03:53,040",
+      "end_time": "00:03:58,000",
+      "text": "sweet so that they can easily fit. But"
+    },
+    {
+      "start_time": "00:03:55,840",
+      "end_time": "00:04:00,480",
+      "text": "if a specific corridor theme needs more"
+    },
+    {
+      "start_time": "00:03:58,000",
+      "end_time": "00:04:02,400",
+      "text": "detail to make it useful, then prep what"
+    },
+    {
+      "start_time": "00:04:00,480",
+      "end_time": "00:04:04,400",
+      "text": "you need. Uh, for example, our our"
+    },
+    {
+      "start_time": "00:04:02,400",
+      "end_time": "00:04:06,239",
+      "text": "archology featured color-coded stripes"
+    },
+    {
+      "start_time": "00:04:04,400",
+      "end_time": "00:04:08,000",
+      "text": "on the wall identifying what section of"
+    },
+    {
+      "start_time": "00:04:06,239",
+      "end_time": "00:04:10,159",
+      "text": "the complex we're in. Would it be useful"
+    },
+    {
+      "start_time": "00:04:08,000",
+      "end_time": "00:04:13,040",
+      "text": "to have a master list of what each color"
+    },
+    {
+      "start_time": "00:04:10,159",
+      "end_time": "00:04:14,640",
+      "text": "means? If you think so, write them down."
+    },
+    {
+      "start_time": "00:04:13,040",
+      "end_time": "00:04:16,239",
+      "text": "But in general, the continuity of what"
+    },
+    {
+      "start_time": "00:04:14,640",
+      "end_time": "00:04:17,840",
+      "text": "you describe usually isn't too"
+    },
+    {
+      "start_time": "00:04:16,239",
+      "end_time": "00:04:19,199",
+      "text": "important. You're painting a picture"
+    },
+    {
+      "start_time": "00:04:17,840",
+      "end_time": "00:04:20,959",
+      "text": "over time, and you don't need to"
+    },
+    {
+      "start_time": "00:04:19,199",
+      "end_time": "00:04:23,600",
+      "text": "perfectly repeat the description of each"
+    },
+    {
+      "start_time": "00:04:20,959",
+      "end_time": "00:04:25,360",
+      "text": "hallway if the PCs do double back. If"
+    },
+    {
+      "start_time": "00:04:23,600",
+      "end_time": "00:04:27,360",
+      "text": "the players do take special notice of"
+    },
+    {
+      "start_time": "00:04:25,360",
+      "end_time": "00:04:29,120",
+      "text": "some specific detail, though, that's"
+    },
+    {
+      "start_time": "00:04:27,360",
+      "end_time": "00:04:30,880",
+      "text": "fine since it might stick out in their"
+    },
+    {
+      "start_time": "00:04:29,120",
+      "end_time": "00:04:32,320",
+      "text": "memory, it may be useful to make a note"
+    },
+    {
+      "start_time": "00:04:30,880",
+      "end_time": "00:04:34,560",
+      "text": "on your map so that you can remember"
+    },
+    {
+      "start_time": "00:04:32,320",
+      "end_time": "00:04:36,560",
+      "text": "that it's there. But in my experience,"
+    },
+    {
+      "start_time": "00:04:34,560",
+      "end_time": "00:04:38,800",
+      "text": "this is this is rarely, if ever,"
+    },
+    {
+      "start_time": "00:04:36,560",
+      "end_time": "00:04:40,479",
+      "text": "necessary. Corridor themes are also a"
+    },
+    {
+      "start_time": "00:04:38,800",
+      "end_time": "00:04:42,160",
+      "text": "great way to enhance a published"
+    },
+    {
+      "start_time": "00:04:40,479",
+      "end_time": "00:04:43,520",
+      "text": "adventure. You'll probably only need a"
+    },
+    {
+      "start_time": "00:04:42,160",
+      "end_time": "00:04:45,680",
+      "text": "couple of minutes after reading the"
+    },
+    {
+      "start_time": "00:04:43,520",
+      "end_time": "00:04:48,240",
+      "text": "dungeon to jot down a halfozen or so"
+    },
+    {
+      "start_time": "00:04:45,680",
+      "end_time": "00:04:50,320",
+      "text": "thematic elements, but in play, it'll"
+    },
+    {
+      "start_time": "00:04:48,240",
+      "end_time": "00:04:52,080",
+      "text": "level up the whole experience for you"
+    },
+    {
+      "start_time": "00:04:50,320",
+      "end_time": "00:04:53,680",
+      "text": "and the players. If you're prepping or"
+    },
+    {
+      "start_time": "00:04:52,080",
+      "end_time": "00:04:55,280",
+      "text": "running a larger dungeon, on the other"
+    },
+    {
+      "start_time": "00:04:53,680",
+      "end_time": "00:04:57,360",
+      "text": "hand, you may discover that it has"
+    },
+    {
+      "start_time": "00:04:55,280",
+      "end_time": "00:04:59,360",
+      "text": "several distinct sections. Uh, for"
+    },
+    {
+      "start_time": "00:04:57,360",
+      "end_time": "00:05:01,680",
+      "text": "example, the castle versus the dungeon"
+    },
+    {
+      "start_time": "00:04:59,360",
+      "end_time": "00:05:04,160",
+      "text": "beneath it, or the the dwarven armories"
+    },
+    {
+      "start_time": "00:05:01,680",
+      "end_time": "00:05:06,240",
+      "text": "versus the fungal farms. All you need to"
+    },
+    {
+      "start_time": "00:05:04,160",
+      "end_time": "00:05:08,560",
+      "text": "do is prep a separate corridor theme for"
+    },
+    {
+      "start_time": "00:05:06,240",
+      "end_time": "00:05:10,560",
+      "text": "each section, and you'll be good to go."
+    },
+    {
+      "start_time": "00:05:08,560",
+      "end_time": "00:05:12,320",
+      "text": "Once you start slicing a dungeon up into"
+    },
+    {
+      "start_time": "00:05:10,560",
+      "end_time": "00:05:14,160",
+      "text": "sections like this though, don't fall"
+    },
+    {
+      "start_time": "00:05:12,320",
+      "end_time": "00:05:16,320",
+      "text": "into the trap of prepping too many"
+    },
+    {
+      "start_time": "00:05:14,160",
+      "end_time": "00:05:18,400",
+      "text": "corridor themes. Your goal is still to"
+    },
+    {
+      "start_time": "00:05:16,320",
+      "end_time": "00:05:21,360",
+      "text": "capture broad features of the dungeon,"
+    },
+    {
+      "start_time": "00:05:18,400",
+      "end_time": "00:05:23,039",
+      "text": "not describe every individual corridor."
+    },
+    {
+      "start_time": "00:05:21,360",
+      "end_time": "00:05:24,960",
+      "text": "Some corridors are more important than"
+    },
+    {
+      "start_time": "00:05:23,039",
+      "end_time": "00:05:27,039",
+      "text": "others. Sometimes you'll have a hallway"
+    },
+    {
+      "start_time": "00:05:24,960",
+      "end_time": "00:05:28,560",
+      "text": "that's truly unique or has some featured"
+    },
+    {
+      "start_time": "00:05:27,039",
+      "end_time": "00:05:30,479",
+      "text": "element that's important to the"
+    },
+    {
+      "start_time": "00:05:28,560",
+      "end_time": "00:05:33,120",
+      "text": "scenario. Uh maybe there's a a secret"
+    },
+    {
+      "start_time": "00:05:30,479",
+      "end_time": "00:05:34,880",
+      "text": "door or a devious trap or or a weird"
+    },
+    {
+      "start_time": "00:05:33,120",
+      "end_time": "00:05:37,199",
+      "text": "painting that contains an important"
+    },
+    {
+      "start_time": "00:05:34,880",
+      "end_time": "00:05:39,680",
+      "text": "clue. If a particular corridor or"
+    },
+    {
+      "start_time": "00:05:37,199",
+      "end_time": "00:05:41,360",
+      "text": "section of a corridor is important, then"
+    },
+    {
+      "start_time": "00:05:39,680",
+      "end_time": "00:05:43,759",
+      "text": "you should just, you know, go ahead and"
+    },
+    {
+      "start_time": "00:05:41,360",
+      "end_time": "00:05:45,440",
+      "text": "key it like a room or any other featured"
+    },
+    {
+      "start_time": "00:05:43,759",
+      "end_time": "00:05:47,280",
+      "text": "element in the dungeon. And if you're"
+    },
+    {
+      "start_time": "00:05:45,440",
+      "end_time": "00:05:50,160",
+      "text": "looking for inspiration in creating cool"
+    },
+    {
+      "start_time": "00:05:47,280",
+      "end_time": "00:05:52,240",
+      "text": "corridor themes, check out Describe, the"
+    },
+    {
+      "start_time": "00:05:50,160",
+      "end_time": "00:05:54,320",
+      "text": "sponsor of today's video. Not only is"
+    },
+    {
+      "start_time": "00:05:52,240",
+      "end_time": "00:05:56,240",
+      "text": "their professionally written box text a"
+    },
+    {
+      "start_time": "00:05:54,320",
+      "end_time": "00:05:58,080",
+      "text": "great way to enhance or stock your"
+    },
+    {
+      "start_time": "00:05:56,240",
+      "end_time": "00:06:00,240",
+      "text": "dungeon rooms, but you can also pull"
+    },
+    {
+      "start_time": "00:05:58,080",
+      "end_time": "00:06:01,919",
+      "text": "evocative thematic details for your"
+    },
+    {
+      "start_time": "00:06:00,240",
+      "end_time": "00:06:03,520",
+      "text": "corridors. Uh, for example,"
+    },
+    {
+      "start_time": "00:06:01,919",
+      "end_time": "00:06:05,440",
+      "text": "semi-randomly opening a couple of"
+    },
+    {
+      "start_time": "00:06:03,520",
+      "end_time": "00:06:07,520",
+      "text": "describes hundreds of free place"
+    },
+    {
+      "start_time": "00:06:05,440",
+      "end_time": "00:06:09,440",
+      "text": "descriptions lets me quickly assemble a"
+    },
+    {
+      "start_time": "00:06:07,520",
+      "end_time": "00:06:11,360",
+      "text": "fresh corridor theme for the cave"
+    },
+    {
+      "start_time": "00:06:09,440",
+      "end_time": "00:06:14,080",
+      "text": "complex my players will be exploring"
+    },
+    {
+      "start_time": "00:06:11,360",
+      "end_time": "00:06:16,960",
+      "text": "next week. Fragments of rock and soil,"
+    },
+    {
+      "start_time": "00:06:14,080",
+      "end_time": "00:06:19,919",
+      "text": "multi-hued mineral deposits, a salty"
+    },
+    {
+      "start_time": "00:06:16,960",
+      "end_time": "00:06:22,639",
+      "text": "smell in the air, and and maybe milky"
+    },
+    {
+      "start_time": "00:06:19,919",
+      "end_time": "00:06:25,120",
+      "text": "white stagtites. Use the link below to"
+    },
+    {
+      "start_time": "00:06:22,639",
+      "end_time": "00:06:27,759",
+      "text": "explore free scenes, interactive maps,"
+    },
+    {
+      "start_time": "00:06:25,120",
+      "end_time": "00:06:30,000",
+      "text": "amazing MPCs, and immersive adventure"
+    },
+    {
+      "start_time": "00:06:27,759",
+      "end_time": "00:06:32,960",
+      "text": "soundtracks for both fantasy and science"
+    },
+    {
+      "start_time": "00:06:30,000",
+      "end_time": "00:06:38,639",
+      "text": "fiction settings. Good gaming. This is"
+    },
+    {
+      "start_time": "00:06:32,960",
+      "end_time": "00:06:38,639",
+      "text": "Justin Alexander and I'll see you at the"
+    }
+  ],
+  "full_text": "Dungeons. You know how they work. You\ndraw a map that has rooms. You write\nlittle numbers in the rooms. You write\nup a room key describing each room. If\nyou don't know how dungeons work, that's\nokay. For some reason, the D and D rule\nbooks don't teach you how to do that\nanymore. Grab a copy of So You Want to\nBe a Game Master or hit the subscribe\nbutton down below. I'll be doing a\nDungeons 101 video very soon. But if you\ndo know how dungeons work, then you know\nthat when the PCs start exploring the\ndungeon, you just look at the room\nthey're in, describe it, and let them do\nstuff until they run out of stuff to do.\nThen they pick an exit, go to the next\nroom, and you describe the new room.\nThen you simply repeat this until the\ndungeon is done. But wait a minute. Wait\na minute. The PCs are in one room, and\nthen they go to another room. But how do\nthey get there? I mean, maybe the rooms\nare right next to each other, but in a\nlot of dungeons, the way you get from\none room to another is by following a\ncorridor. Corridors, of course, can be\nany number of things. Hallways, tunnels,\ncourtyards, passages, shafts, stairs,\nbut because they typically don't appear\nin the dungeon key, they often end up\ndefaulting to to blank ciphers or\ngeneric mush, just empty expanses of\ngray stone or or featureless utility\nspaces. But that's not the way corridors\nwork in the real world. And in our\nadventures, it's a missed opportunity\nfor world building. Now, to avoid this,\nof course, you could just add every\nhallway to your key. In practice,\nthough, this takes a lot of work, and it\nalso tends to to bloat your dungeon key\nand map in ways that aren't really\nuseful. So, what you can do instead is\nadd a corridor themes section to your\ndungeon key. Now, what you want here is\na pallet that you can draw from to\nflexibly describe hallways on the fly as\nthe PCs pass through them. For example,\nin a haunted house, your corridor theme\nmight be might be torn red carpets, uh a\npainting with eyes that follow you,\nbroken furniture, cobwebs, broken glass\non the floor, and and creaking\nfloorboards. Now, I've been using the\nword dungeon here because that's how\nmost of us are introduced to the\nlocation crawl scenario structure, but\nyou can use location crawls in a lot of\ndifferent situations and in any genre.\nNow, if the PCs are exploring a mega\ncorpse archology in cyberpunk, for\nexample, you might have potted plants,\nsecurity cameras, motivational\npropaganda posters, color-coded section\nstripes on the walls, navigational\nsigns, touchscreen directories,\nmaintenance drones, and and vending\nmachines. I mean, the only limit is your\nimagination. And once you've built your\ncorridor themes, you can think of them\nas a menu. Whenever the players are\nwalking down a new hallway, just just\ngrab a couple items from the menu,\ncombine them with the navigational\ndetails from the map, and paint a\npicture for your players. Your bare feet\nsink into the torn red carpet that runs\nthe length of the hallway. Down one side\nof the hall, you can see three doors\nwith cobwebs clinging to their lentils.\nIt's just that simple. Now, now you\ndon't want to use every element in every\nhallway, obviously, but it's okay to\nreuse elements. I mean, the whole point\nis that these are common features found\nthroughout the location. And since I'm\nconstantly mixing and matching these\nelements, dropping them in as needed, my\ncorridor themes are generally just a\nbrief list of bullet points like the\nones you've seen here. If you wanted to\nthough, you could number your theme\nelements and turn them into a kind of\nrandom table. Grab 2d6 or 3d6. Roll them\nand and grab the matching results for\neach die from your corridor themes\ntable. If you roll matching numbers,\nthat hallway just has the one thing or\nmaybe an unusual number of that thing,\nyou know, whatever makes sense. You can\nalso write your corridor themes down on\na post-it note and affix it to your GM\nscreen. If you watched our video on how\nto become a better GM, which I'll link\nto in the font of all knowledge down\nbelow, you might be using a similar\ntechnique already for your practice\npoints. Having this kind of stuff at\nyour fingertips is exactly what a GM\nscreen is for and is another reason to\nkeep your corridor themes short and\nsweet so that they can easily fit. But\nif a specific corridor theme needs more\ndetail to make it useful, then prep what\nyou need. Uh, for example, our our\narchology featured color-coded stripes\non the wall identifying what section of\nthe complex we're in. Would it be useful\nto have a master list of what each color\nmeans? If you think so, write them down.\nBut in general, the continuity of what\nyou describe usually isn't too\nimportant. You're painting a picture\nover time, and you don't need to\nperfectly repeat the description of each\nhallway if the PCs do double back. If\nthe players do take special notice of\nsome specific detail, though, that's\nfine since it might stick out in their\nmemory, it may be useful to make a note\non your map so that you can remember\nthat it's there. But in my experience,\nthis is this is rarely, if ever,\nnecessary. Corridor themes are also a\ngreat way to enhance a published\nadventure. You'll probably only need a\ncouple of minutes after reading the\ndungeon to jot down a halfozen or so\nthematic elements, but in play, it'll\nlevel up the whole experience for you\nand the players. If you're prepping or\nrunning a larger dungeon, on the other\nhand, you may discover that it has\nseveral distinct sections. Uh, for\nexample, the castle versus the dungeon\nbeneath it, or the the dwarven armories\nversus the fungal farms. All you need to\ndo is prep a separate corridor theme for\neach section, and you'll be good to go.\nOnce you start slicing a dungeon up into\nsections like this though, don't fall\ninto the trap of prepping too many\ncorridor themes. Your goal is still to\ncapture broad features of the dungeon,\nnot describe every individual corridor.\nSome corridors are more important than\nothers. Sometimes you'll have a hallway\nthat's truly unique or has some featured\nelement that's important to the\nscenario. Uh maybe there's a a secret\ndoor or a devious trap or or a weird\npainting that contains an important\nclue. If a particular corridor or\nsection of a corridor is important, then\nyou should just, you know, go ahead and\nkey it like a room or any other featured\nelement in the dungeon. And if you're\nlooking for inspiration in creating cool\ncorridor themes, check out Describe, the\nsponsor of today's video. Not only is\ntheir professionally written box text a\ngreat way to enhance or stock your\ndungeon rooms, but you can also pull\nevocative thematic details for your\ncorridors. Uh, for example,\nsemi-randomly opening a couple of\ndescribes hundreds of free place\ndescriptions lets me quickly assemble a\nfresh corridor theme for the cave\ncomplex my players will be exploring\nnext week. Fragments of rock and soil,\nmulti-hued mineral deposits, a salty\nsmell in the air, and and maybe milky\nwhite stagtites. Use the link below to\nexplore free scenes, interactive maps,\namazing MPCs, and immersive adventure\nsoundtracks for both fantasy and science\nfiction settings. Good gaming. This is\nJustin Alexander and I'll see you at the\n"
+}

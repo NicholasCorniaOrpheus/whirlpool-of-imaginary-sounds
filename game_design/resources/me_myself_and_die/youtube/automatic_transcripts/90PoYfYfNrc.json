@@ -1,0 +1,2005 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,440",
+      "end_time": "00:00:04,040",
+      "text": "hey guys welcome back today I want to"
+    },
+    {
+      "start_time": "00:00:01,959",
+      "end_time": "00:00:05,480",
+      "text": "talk to you about the magic system in"
+    },
+    {
+      "start_time": "00:00:04,040",
+      "end_time": "00:00:08,240",
+      "text": "the broken Empires role playing game"
+    },
+    {
+      "start_time": "00:00:05,480",
+      "end_time": "00:00:10,040",
+      "text": "which is going to Kickstarter on Tuesday"
+    },
+    {
+      "start_time": "00:00:08,240",
+      "end_time": "00:00:12,040",
+      "text": "at 88: a.m. eastern so if you want to be"
+    },
+    {
+      "start_time": "00:00:10,040",
+      "end_time": "00:00:13,480",
+      "text": "part of it if you want to join the 7,000"
+    },
+    {
+      "start_time": "00:00:12,040",
+      "end_time": "00:00:15,120",
+      "text": "people that have signed up to bring the"
+    },
+    {
+      "start_time": "00:00:13,480",
+      "end_time": "00:00:16,720",
+      "text": "game to life uh the links for all of"
+    },
+    {
+      "start_time": "00:00:15,120",
+      "end_time": "00:00:18,960",
+      "text": "that is below super exciting I'm getting"
+    },
+    {
+      "start_time": "00:00:16,720",
+      "end_time": "00:00:21,439",
+      "text": "I'm getting chills oh my goodness I want"
+    },
+    {
+      "start_time": "00:00:18,960",
+      "end_time": "00:00:23,640",
+      "text": "to talk about magic today spell Weavers"
+    },
+    {
+      "start_time": "00:00:21,439",
+      "end_time": "00:00:26,320",
+      "text": "literally tear at the threads of the"
+    },
+    {
+      "start_time": "00:00:23,640",
+      "end_time": "00:00:29,400",
+      "text": "weave that holds reality together in"
+    },
+    {
+      "start_time": "00:00:26,320",
+      "end_time": "00:00:31,840",
+      "text": "this game the concept is reality is a"
+    },
+    {
+      "start_time": "00:00:29,400",
+      "end_time": "00:00:34,239",
+      "text": "tapestry and the tapestry has images on"
+    },
+    {
+      "start_time": "00:00:31,840",
+      "end_time": "00:00:38,600",
+      "text": "it right we are all we are all patterned"
+    },
+    {
+      "start_time": "00:00:34,239",
+      "end_time": "00:00:40,879",
+      "text": "in the tapestry and spell Weavers take"
+    },
+    {
+      "start_time": "00:00:38,600",
+      "end_time": "00:00:43,000",
+      "text": "threads from that tapestry and they"
+    },
+    {
+      "start_time": "00:00:40,879",
+      "end_time": "00:00:44,480",
+      "text": "reweave them into an image that is"
+    },
+    {
+      "start_time": "00:00:43,000",
+      "end_time": "00:00:47,680",
+      "text": "pleasing to"
+    },
+    {
+      "start_time": "00:00:44,480",
+      "end_time": "00:00:50,640",
+      "text": "them that's what a spell Weaver does"
+    },
+    {
+      "start_time": "00:00:47,680",
+      "end_time": "00:00:52,359",
+      "text": "however reality does not like when"
+    },
+    {
+      "start_time": "00:00:50,640",
+      "end_time": "00:00:55,079",
+      "text": "someone intrudes upon it and so the"
+    },
+    {
+      "start_time": "00:00:52,359",
+      "end_time": "00:00:57,120",
+      "text": "tapestry The Weave fights back but"
+    },
+    {
+      "start_time": "00:00:55,079",
+      "end_time": "00:00:58,760",
+      "text": "basically in order to cast a spell you"
+    },
+    {
+      "start_time": "00:00:57,120",
+      "end_time": "00:01:00,079",
+      "text": "have something called binds and strands"
+    },
+    {
+      "start_time": "00:00:58,760",
+      "end_time": "00:01:01,480",
+      "text": "and I'm talking about weave magic here"
+    },
+    {
+      "start_time": "00:01:00,079",
+      "end_time": "00:01:04,280",
+      "text": "not Divine magic we'll talk about Divine"
+    },
+    {
+      "start_time": "00:01:01,480",
+      "end_time": "00:01:06,799",
+      "text": "magic in a bit but weave magic is you"
+    },
+    {
+      "start_time": "00:01:04,280",
+      "end_time": "00:01:08,600",
+      "text": "you have a skill in a bind and a strand"
+    },
+    {
+      "start_time": "00:01:06,799",
+      "end_time": "00:01:10,960",
+      "text": "uh this is very heavily influenced by"
+    },
+    {
+      "start_time": "00:01:08,600",
+      "end_time": "00:01:12,759",
+      "text": "ARS Maga which is one of my favorite uh"
+    },
+    {
+      "start_time": "00:01:10,960",
+      "end_time": "00:01:16,400",
+      "text": "Magic systems of all time it allows"
+    },
+    {
+      "start_time": "00:01:12,759",
+      "end_time": "00:01:18,479",
+      "text": "spell users to be both powerful and"
+    },
+    {
+      "start_time": "00:01:16,400",
+      "end_time": "00:01:20,159",
+      "text": "spontaneous and also extremely creative"
+    },
+    {
+      "start_time": "00:01:18,479",
+      "end_time": "00:01:22,960",
+      "text": "in the moment which I love I love that"
+    },
+    {
+      "start_time": "00:01:20,159",
+      "end_time": "00:01:24,720",
+      "text": "so the bind is how you affect reality"
+    },
+    {
+      "start_time": "00:01:22,960",
+      "end_time": "00:01:26,799",
+      "text": "and the Strand is what part of reality"
+    },
+    {
+      "start_time": "00:01:24,720",
+      "end_time": "00:01:29,680",
+      "text": "you're affecting it's a verb and a noun"
+    },
+    {
+      "start_time": "00:01:26,799",
+      "end_time": "00:01:32,320",
+      "text": "right so if it's conjure Beast I'm going"
+    },
+    {
+      "start_time": "00:01:29,680",
+      "end_time": "00:01:35,680",
+      "text": "to bring into existence a wolf let's say"
+    },
+    {
+      "start_time": "00:01:32,320",
+      "end_time": "00:01:38,079",
+      "text": "summoning a wolf conjure Beast I want to"
+    },
+    {
+      "start_time": "00:01:35,680",
+      "end_time": "00:01:40,079",
+      "text": "read your mind that would be witness"
+    },
+    {
+      "start_time": "00:01:38,079",
+      "end_time": "00:01:41,840",
+      "text": "thought with these combinations of the"
+    },
+    {
+      "start_time": "00:01:40,079",
+      "end_time": "00:01:44,479",
+      "text": "five binds and the 10 strands you can"
+    },
+    {
+      "start_time": "00:01:41,840",
+      "end_time": "00:01:46,520",
+      "text": "basically do virtually anything you can"
+    },
+    {
+      "start_time": "00:01:44,479",
+      "end_time": "00:01:48,759",
+      "text": "think of but there are limitations and"
+    },
+    {
+      "start_time": "00:01:46,520",
+      "end_time": "00:01:52,560",
+      "text": "we'll we'll come to that this system is"
+    },
+    {
+      "start_time": "00:01:48,759",
+      "end_time": "00:01:54,119",
+      "text": "very very much about working with the GM"
+    },
+    {
+      "start_time": "00:01:52,560",
+      "end_time": "00:01:55,880",
+      "text": "to come up with something that's going"
+    },
+    {
+      "start_time": "00:01:54,119",
+      "end_time": "00:01:59,119",
+      "text": "to be satisfying the GM has to maintain"
+    },
+    {
+      "start_time": "00:01:55,880",
+      "end_time": "00:02:01,840",
+      "text": "a pretty tight regulatory stance on what"
+    },
+    {
+      "start_time": "00:01:59,119",
+      "end_time": "00:02:03,200",
+      "text": "is and is not allowed in the game world"
+    },
+    {
+      "start_time": "00:02:01,840",
+      "end_time": "00:02:06,200",
+      "text": "and that's what these five laws are"
+    },
+    {
+      "start_time": "00:02:03,200",
+      "end_time": "00:02:08,000",
+      "text": "designed to do the law of mystery"
+    },
+    {
+      "start_time": "00:02:06,200",
+      "end_time": "00:02:10,959",
+      "text": "basically says that some things have no"
+    },
+    {
+      "start_time": "00:02:08,000",
+      "end_time": "00:02:13,560",
+      "text": "explanation and cannot be cannot be"
+    },
+    {
+      "start_time": "00:02:10,959",
+      "end_time": "00:02:15,640",
+      "text": "reproduced the law of limitation says"
+    },
+    {
+      "start_time": "00:02:13,560",
+      "end_time": "00:02:18,319",
+      "text": "that the tapestry has edges there are"
+    },
+    {
+      "start_time": "00:02:15,640",
+      "end_time": "00:02:20,800",
+      "text": "certain things magic will never do magic"
+    },
+    {
+      "start_time": "00:02:18,319",
+      "end_time": "00:02:23,440",
+      "text": "cannot affect time magic cannot affect"
+    },
+    {
+      "start_time": "00:02:20,800",
+      "end_time": "00:02:25,720",
+      "text": "the the course of stars or or the moon"
+    },
+    {
+      "start_time": "00:02:23,440",
+      "end_time": "00:02:28,319",
+      "text": "or the sun in in the Sky Magic cannot"
+    },
+    {
+      "start_time": "00:02:25,720",
+      "end_time": "00:02:30,440",
+      "text": "bring back the dead so these are"
+    },
+    {
+      "start_time": "00:02:28,319",
+      "end_time": "00:02:32,920",
+      "text": "limitations I should mentioned as well"
+    },
+    {
+      "start_time": "00:02:30,440",
+      "end_time": "00:02:35,239",
+      "text": "that it is up to each table to expand or"
+    },
+    {
+      "start_time": "00:02:32,920",
+      "end_time": "00:02:37,080",
+      "text": "contract these laws as they see fit so"
+    },
+    {
+      "start_time": "00:02:35,239",
+      "end_time": "00:02:38,720",
+      "text": "it's perfectly tailorable to your to"
+    },
+    {
+      "start_time": "00:02:37,080",
+      "end_time": "00:02:40,959",
+      "text": "your table the law of resistance means"
+    },
+    {
+      "start_time": "00:02:38,720",
+      "end_time": "00:02:43,120",
+      "text": "that if you cast magic against an"
+    },
+    {
+      "start_time": "00:02:40,959",
+      "end_time": "00:02:45,599",
+      "text": "unwilling Target they are going to"
+    },
+    {
+      "start_time": "00:02:43,120",
+      "end_time": "00:02:47,840",
+      "text": "resist and how they resist is depending"
+    },
+    {
+      "start_time": "00:02:45,599",
+      "end_time": "00:02:49,319",
+      "text": "entirely on the context of the spell and"
+    },
+    {
+      "start_time": "00:02:47,840",
+      "end_time": "00:02:51,280",
+      "text": "how they choose to resist so there's a"
+    },
+    {
+      "start_time": "00:02:49,319",
+      "end_time": "00:02:53,879",
+      "text": "lot of choice involved even in"
+    },
+    {
+      "start_time": "00:02:51,280",
+      "end_time": "00:02:55,480",
+      "text": "resistance of of magic in a lot of cases"
+    },
+    {
+      "start_time": "00:02:53,879",
+      "end_time": "00:02:57,159",
+      "text": "there's a law of progression which just"
+    },
+    {
+      "start_time": "00:02:55,480",
+      "end_time": "00:02:59,120",
+      "text": "basically means one thing must lead to"
+    },
+    {
+      "start_time": "00:02:57,159",
+      "end_time": "00:03:00,959",
+      "text": "another along a path of simple Logic the"
+    },
+    {
+      "start_time": "00:02:59,120",
+      "end_time": "00:03:03,640",
+      "text": "law of reaction and this is the big one"
+    },
+    {
+      "start_time": "00:03:00,959",
+      "end_time": "00:03:06,040",
+      "text": "The Weave fights back against those who"
+    },
+    {
+      "start_time": "00:03:03,640",
+      "end_time": "00:03:07,599",
+      "text": "cannot control it the weave does not"
+    },
+    {
+      "start_time": "00:03:06,040",
+      "end_time": "00:03:10,280",
+      "text": "like spell Weavers trying to mess with"
+    },
+    {
+      "start_time": "00:03:07,599",
+      "end_time": "00:03:13,840",
+      "text": "it and so it reacts it fights back"
+    },
+    {
+      "start_time": "00:03:10,280",
+      "end_time": "00:03:16,519",
+      "text": "against spell wavers the more big flashy"
+    },
+    {
+      "start_time": "00:03:13,840",
+      "end_time": "00:03:18,959",
+      "text": "and ostentatious your magical effect the"
+    },
+    {
+      "start_time": "00:03:16,519",
+      "end_time": "00:03:21,440",
+      "text": "more likely the weave is going to react"
+    },
+    {
+      "start_time": "00:03:18,959",
+      "end_time": "00:03:24,360",
+      "text": "and the more likely it's going to be bad"
+    },
+    {
+      "start_time": "00:03:21,440",
+      "end_time": "00:03:26,799",
+      "text": "so the goal of a spell Weaver in this"
+    },
+    {
+      "start_time": "00:03:24,360",
+      "end_time": "00:03:28,239",
+      "text": "game mechanically is to ensure that"
+    },
+    {
+      "start_time": "00:03:26,799",
+      "end_time": "00:03:30,599",
+      "text": "whatever magical effect you're trying to"
+    },
+    {
+      "start_time": "00:03:28,239",
+      "end_time": "00:03:33,480",
+      "text": "achieve you try and keep it as subtle as"
+    },
+    {
+      "start_time": "00:03:30,599",
+      "end_time": "00:03:35,080",
+      "text": "possible you can cast big flashy magic"
+    },
+    {
+      "start_time": "00:03:33,480",
+      "end_time": "00:03:36,760",
+      "text": "but you have to be able to control it"
+    },
+    {
+      "start_time": "00:03:35,080",
+      "end_time": "00:03:37,799",
+      "text": "and that's not always easy to do you"
+    },
+    {
+      "start_time": "00:03:36,760",
+      "end_time": "00:03:40,159",
+      "text": "have to be very skilled and you have to"
+    },
+    {
+      "start_time": "00:03:37,799",
+      "end_time": "00:03:42,319",
+      "text": "have a lot of resolve the magnitude of"
+    },
+    {
+      "start_time": "00:03:40,159",
+      "end_time": "00:03:44,080",
+      "text": "the spell is its weave reaction the"
+    },
+    {
+      "start_time": "00:03:42,319",
+      "end_time": "00:03:47,480",
+      "text": "magnitude goes between zero and four"
+    },
+    {
+      "start_time": "00:03:44,080",
+      "end_time": "00:03:49,200",
+      "text": "zero magnitude means it's a spell effect"
+    },
+    {
+      "start_time": "00:03:47,480",
+      "end_time": "00:03:51,640",
+      "text": "that's indistinguishable from happen"
+    },
+    {
+      "start_time": "00:03:49,200",
+      "end_time": "00:03:53,159",
+      "text": "stance a magnitude for spell means"
+    },
+    {
+      "start_time": "00:03:51,640",
+      "end_time": "00:03:55,560",
+      "text": "there's no other way to explain this in"
+    },
+    {
+      "start_time": "00:03:53,159",
+      "end_time": "00:03:58,400",
+      "text": "nature other than magic so again the"
+    },
+    {
+      "start_time": "00:03:55,560",
+      "end_time": "00:03:59,560",
+      "text": "more big and flashy the spell is the"
+    },
+    {
+      "start_time": "00:03:58,400",
+      "end_time": "00:04:01,760",
+      "text": "more likely there's going to be a big"
+    },
+    {
+      "start_time": "00:03:59,560",
+      "end_time": "00:04:03,079",
+      "text": "old weave reaction so how do you cast a"
+    },
+    {
+      "start_time": "00:04:01,760",
+      "end_time": "00:04:06,239",
+      "text": "spell well the first thing you do is you"
+    },
+    {
+      "start_time": "00:04:03,079",
+      "end_time": "00:04:07,799",
+      "text": "conceive of the effect then you can know"
+    },
+    {
+      "start_time": "00:04:06,239",
+      "end_time": "00:04:09,959",
+      "text": "which bind and strand you need to"
+    },
+    {
+      "start_time": "00:04:07,799",
+      "end_time": "00:04:12,640",
+      "text": "combine in order to create the the the"
+    },
+    {
+      "start_time": "00:04:09,959",
+      "end_time": "00:04:15,599",
+      "text": "chance for the spell so if I have a bind"
+    },
+    {
+      "start_time": "00:04:12,640",
+      "end_time": "00:04:18,479",
+      "text": "skill of uh 20 and a and a strand skill"
+    },
+    {
+      "start_time": "00:04:15,599",
+      "end_time": "00:04:21,519",
+      "text": "of 43 then when I put those together"
+    },
+    {
+      "start_time": "00:04:18,479",
+      "end_time": "00:04:23,639",
+      "text": "that's a 63% skill that I'm rolling on"
+    },
+    {
+      "start_time": "00:04:21,519",
+      "end_time": "00:04:24,800",
+      "text": "and yes sometimes they can go over 100"
+    },
+    {
+      "start_time": "00:04:23,639",
+      "end_time": "00:04:26,080",
+      "text": "and there's rules for that as well so"
+    },
+    {
+      "start_time": "00:04:24,800",
+      "end_time": "00:04:29,120",
+      "text": "you've determined your chance your"
+    },
+    {
+      "start_time": "00:04:26,080",
+      "end_time": "00:04:30,720",
+      "text": "overall chance now you need to shape the"
+    },
+    {
+      "start_time": "00:04:29,120",
+      "end_time": "00:04:33,280",
+      "text": "spell and that that means basically"
+    },
+    {
+      "start_time": "00:04:30,720",
+      "end_time": "00:04:36,360",
+      "text": "building it with enhancements so the"
+    },
+    {
+      "start_time": "00:04:33,280",
+      "end_time": "00:04:38,759",
+      "text": "qualities of a spell are target range"
+    },
+    {
+      "start_time": "00:04:36,360",
+      "end_time": "00:04:40,600",
+      "text": "duration potency and possibly sense"
+    },
+    {
+      "start_time": "00:04:38,759",
+      "end_time": "00:04:42,440",
+      "text": "Target means obviously who is the spell"
+    },
+    {
+      "start_time": "00:04:40,600",
+      "end_time": "00:04:44,840",
+      "text": "who or what is the spell targeting range"
+    },
+    {
+      "start_time": "00:04:42,440",
+      "end_time": "00:04:47,000",
+      "text": "is where is the Target duration"
+    },
+    {
+      "start_time": "00:04:44,840",
+      "end_time": "00:04:49,800",
+      "text": "obviously is it instant is it does it"
+    },
+    {
+      "start_time": "00:04:47,000",
+      "end_time": "00:04:52,840",
+      "text": "last for a minute a year potency is a"
+    },
+    {
+      "start_time": "00:04:49,800",
+      "end_time": "00:04:54,639",
+      "text": "real kind of uh catchall term like it"
+    },
+    {
+      "start_time": "00:04:52,840",
+      "end_time": "00:04:56,000",
+      "text": "could mean the damage it does it could"
+    },
+    {
+      "start_time": "00:04:54,639",
+      "end_time": "00:04:57,960",
+      "text": "mean the level of protection you get"
+    },
+    {
+      "start_time": "00:04:56,000",
+      "end_time": "00:05:00,000",
+      "text": "from it it could mean the various levels"
+    },
+    {
+      "start_time": "00:04:57,960",
+      "end_time": "00:05:02,840",
+      "text": "of effect you're applying it's very very"
+    },
+    {
+      "start_time": "00:05:00,000",
+      "end_time": "00:05:04,479",
+      "text": "very malleable potency and then sense is"
+    },
+    {
+      "start_time": "00:05:02,840",
+      "end_time": "00:05:06,160",
+      "text": "really most of the time used for"
+    },
+    {
+      "start_time": "00:05:04,479",
+      "end_time": "00:05:08,199",
+      "text": "perceptual spells like witness spells"
+    },
+    {
+      "start_time": "00:05:06,160",
+      "end_time": "00:05:09,840",
+      "text": "and things like this if I'm casting a"
+    },
+    {
+      "start_time": "00:05:08,199",
+      "end_time": "00:05:12,360",
+      "text": "wizard eye or something well that could"
+    },
+    {
+      "start_time": "00:05:09,840",
+      "end_time": "00:05:13,840",
+      "text": "be sight but if I want to hear something"
+    },
+    {
+      "start_time": "00:05:12,360",
+      "end_time": "00:05:14,840",
+      "text": "in the Next Room that's going to be a"
+    },
+    {
+      "start_time": "00:05:13,840",
+      "end_time": "00:05:16,400",
+      "text": "different sense and going to have a"
+    },
+    {
+      "start_time": "00:05:14,840",
+      "end_time": "00:05:18,840",
+      "text": "slightly different cost probably you"
+    },
+    {
+      "start_time": "00:05:16,400",
+      "end_time": "00:05:20,759",
+      "text": "shape the spell and that will give you a"
+    },
+    {
+      "start_time": "00:05:18,840",
+      "end_time": "00:05:22,479",
+      "text": "total cost of the spell that will give"
+    },
+    {
+      "start_time": "00:05:20,759",
+      "end_time": "00:05:24,080",
+      "text": "you how many success levels you need in"
+    },
+    {
+      "start_time": "00:05:22,479",
+      "end_time": "00:05:26,720",
+      "text": "order to successfully cast that spell"
+    },
+    {
+      "start_time": "00:05:24,080",
+      "end_time": "00:05:28,960",
+      "text": "and control it which means that if the"
+    },
+    {
+      "start_time": "00:05:26,720",
+      "end_time": "00:05:32,039",
+      "text": "spell comes out to nine success levels"
+    },
+    {
+      "start_time": "00:05:28,960",
+      "end_time": "00:05:33,240",
+      "text": "and you have a skill of 63 like in our"
+    },
+    {
+      "start_time": "00:05:32,039",
+      "end_time": "00:05:35,160",
+      "text": "example you would think to yourself well"
+    },
+    {
+      "start_time": "00:05:33,240",
+      "end_time": "00:05:37,080",
+      "text": "how can you possibly cast that spell"
+    },
+    {
+      "start_time": "00:05:35,160",
+      "end_time": "00:05:38,280",
+      "text": "well there's a number of ways one you"
+    },
+    {
+      "start_time": "00:05:37,080",
+      "end_time": "00:05:40,039",
+      "text": "could critical because if you're"
+    },
+    {
+      "start_time": "00:05:38,280",
+      "end_time": "00:05:41,440",
+      "text": "critical you gain plus three SLS that's"
+    },
+    {
+      "start_time": "00:05:40,039",
+      "end_time": "00:05:43,080",
+      "text": "going to help you could also use"
+    },
+    {
+      "start_time": "00:05:41,440",
+      "end_time": "00:05:45,039",
+      "text": "something called threads which are"
+    },
+    {
+      "start_time": "00:05:43,080",
+      "end_time": "00:05:47,400",
+      "text": "physical pieces of magic that act as"
+    },
+    {
+      "start_time": "00:05:45,039",
+      "end_time": "00:05:49,759",
+      "text": "magic enhancers this is like gold among"
+    },
+    {
+      "start_time": "00:05:47,400",
+      "end_time": "00:05:51,120",
+      "text": "spell Weavers currency right this these"
+    },
+    {
+      "start_time": "00:05:49,759",
+      "end_time": "00:05:53,039",
+      "text": "are like your magical stabs and your"
+    },
+    {
+      "start_time": "00:05:51,120",
+      "end_time": "00:05:55,280",
+      "text": "amulet and and your wands and things"
+    },
+    {
+      "start_time": "00:05:53,039",
+      "end_time": "00:05:57,120",
+      "text": "that that allow the spell Weaver to be"
+    },
+    {
+      "start_time": "00:05:55,280",
+      "end_time": "00:05:59,199",
+      "text": "able to fuel their spells or you could"
+    },
+    {
+      "start_time": "00:05:57,120",
+      "end_time": "00:06:02,160",
+      "text": "use your own resolve and this is by far"
+    },
+    {
+      "start_time": "00:05:59,199",
+      "end_time": "00:06:05,080",
+      "text": "the most common thing so my skill is 63"
+    },
+    {
+      "start_time": "00:06:02,160",
+      "end_time": "00:06:06,520",
+      "text": "and I roll 42 I've succeeded but I've"
+    },
+    {
+      "start_time": "00:06:05,080",
+      "end_time": "00:06:08,639",
+      "text": "got four success levels and I needed"
+    },
+    {
+      "start_time": "00:06:06,520",
+      "end_time": "00:06:10,360",
+      "text": "nine I'm five short so I did succeed the"
+    },
+    {
+      "start_time": "00:06:08,639",
+      "end_time": "00:06:12,639",
+      "text": "spell is going to work exactly as I"
+    },
+    {
+      "start_time": "00:06:10,360",
+      "end_time": "00:06:14,039",
+      "text": "wanted to however there's going to be a"
+    },
+    {
+      "start_time": "00:06:12,639",
+      "end_time": "00:06:15,440",
+      "text": "weave reaction and that weave reaction"
+    },
+    {
+      "start_time": "00:06:14,039",
+      "end_time": "00:06:17,759",
+      "text": "is going to be based on the magnitude of"
+    },
+    {
+      "start_time": "00:06:15,440",
+      "end_time": "00:06:19,680",
+      "text": "the spell the more flashy the effect the"
+    },
+    {
+      "start_time": "00:06:17,759",
+      "end_time": "00:06:22,280",
+      "text": "bigger the weave reaction I don't want"
+    },
+    {
+      "start_time": "00:06:19,680",
+      "end_time": "00:06:24,720",
+      "text": "that so I want to mitigate that using my"
+    },
+    {
+      "start_time": "00:06:22,280",
+      "end_time": "00:06:27,759",
+      "text": "resolve if I can I can spend as much"
+    },
+    {
+      "start_time": "00:06:24,720",
+      "end_time": "00:06:30,240",
+      "text": "resolve as I want to try and meet my"
+    },
+    {
+      "start_time": "00:06:27,759",
+      "end_time": "00:06:32,240",
+      "text": "cost so that there is no"
+    },
+    {
+      "start_time": "00:06:30,240",
+      "end_time": "00:06:33,560",
+      "text": "further cost if I don't meet the cost"
+    },
+    {
+      "start_time": "00:06:32,240",
+      "end_time": "00:06:36,039",
+      "text": "then I have to roll on that table but"
+    },
+    {
+      "start_time": "00:06:33,560",
+      "end_time": "00:06:38,960",
+      "text": "let's say I succeed I rolled 42 on 63"
+    },
+    {
+      "start_time": "00:06:36,039",
+      "end_time": "00:06:40,800",
+      "text": "for sl's I could spend five resolve to"
+    },
+    {
+      "start_time": "00:06:38,960",
+      "end_time": "00:06:43,360",
+      "text": "meet the SL cost and now there's no"
+    },
+    {
+      "start_time": "00:06:40,800",
+      "end_time": "00:06:45,479",
+      "text": "weave reaction but it means I had to"
+    },
+    {
+      "start_time": "00:06:43,360",
+      "end_time": "00:06:47,800",
+      "text": "expend five of my precious resolve so"
+    },
+    {
+      "start_time": "00:06:45,479",
+      "end_time": "00:06:49,960",
+      "text": "resolve is so crucial for spell wavers"
+    },
+    {
+      "start_time": "00:06:47,800",
+      "end_time": "00:06:51,599",
+      "text": "so so so important and that's basically"
+    },
+    {
+      "start_time": "00:06:49,960",
+      "end_time": "00:06:54,199",
+      "text": "how you cast a spell now there's all"
+    },
+    {
+      "start_time": "00:06:51,599",
+      "end_time": "00:06:56,319",
+      "text": "kinds of details about how you target"
+    },
+    {
+      "start_time": "00:06:54,199",
+      "end_time": "00:06:57,599",
+      "text": "people or things and what the potency"
+    },
+    {
+      "start_time": "00:06:56,319",
+      "end_time": "00:06:59,120",
+      "text": "looks like and all that kind of stuff"
+    },
+    {
+      "start_time": "00:06:57,599",
+      "end_time": "00:07:00,199",
+      "text": "but that's the essential gist of it"
+    },
+    {
+      "start_time": "00:06:59,120",
+      "end_time": "00:07:02,280",
+      "text": "right there"
+    },
+    {
+      "start_time": "00:07:00,199",
+      "end_time": "00:07:04,560",
+      "text": "uh weave reactions are interesting uh"
+    },
+    {
+      "start_time": "00:07:02,280",
+      "end_time": "00:07:06,000",
+      "text": "they are not always bad but most of the"
+    },
+    {
+      "start_time": "00:07:04,560",
+      "end_time": "00:07:07,879",
+      "text": "time the vast majority of the time"
+    },
+    {
+      "start_time": "00:07:06,000",
+      "end_time": "00:07:10,840",
+      "text": "they're bad they could do anything from"
+    },
+    {
+      "start_time": "00:07:07,879",
+      "end_time": "00:07:12,360",
+      "text": "consuming your supplies to preventing"
+    },
+    {
+      "start_time": "00:07:10,840",
+      "end_time": "00:07:15,240",
+      "text": "you from casting another spell for a"
+    },
+    {
+      "start_time": "00:07:12,360",
+      "end_time": "00:07:19,039",
+      "text": "short time to wounding you to marking"
+    },
+    {
+      "start_time": "00:07:15,240",
+      "end_time": "00:07:22,560",
+      "text": "you with magic to uh having to spell"
+    },
+    {
+      "start_time": "00:07:19,039",
+      "end_time": "00:07:24,879",
+      "text": "Target unintended uh subjects uh or you"
+    },
+    {
+      "start_time": "00:07:22,560",
+      "end_time": "00:07:26,960",
+      "text": "could gain something called frame points"
+    },
+    {
+      "start_time": "00:07:24,879",
+      "end_time": "00:07:28,960",
+      "text": "which is really bad frame points we're"
+    },
+    {
+      "start_time": "00:07:26,960",
+      "end_time": "00:07:30,639",
+      "text": "going to we're come to in in a second"
+    },
+    {
+      "start_time": "00:07:28,960",
+      "end_time": "00:07:32,520",
+      "text": "you don't want Frank points uh but it's"
+    },
+    {
+      "start_time": "00:07:30,639",
+      "end_time": "00:07:34,280",
+      "text": "kind of inevitable as a spell Weaver to"
+    },
+    {
+      "start_time": "00:07:32,520",
+      "end_time": "00:07:36,720",
+      "text": "get Frank points so the weav reactions"
+    },
+    {
+      "start_time": "00:07:34,280",
+      "end_time": "00:07:38,280",
+      "text": "really cover a large range of things the"
+    },
+    {
+      "start_time": "00:07:36,720",
+      "end_time": "00:07:41,479",
+      "text": "really powerful spells are known as"
+    },
+    {
+      "start_time": "00:07:38,280",
+      "end_time": "00:07:43,039",
+      "text": "rituals these are big fancy spells that"
+    },
+    {
+      "start_time": "00:07:41,479",
+      "end_time": "00:07:45,879",
+      "text": "are super powerful but they take a long"
+    },
+    {
+      "start_time": "00:07:43,039",
+      "end_time": "00:07:47,960",
+      "text": "time and they have a real cost now they"
+    },
+    {
+      "start_time": "00:07:45,879",
+      "end_time": "00:07:50,919",
+      "text": "they have different rules but they're"
+    },
+    {
+      "start_time": "00:07:47,960",
+      "end_time": "00:07:52,720",
+      "text": "costed out very similarly except with"
+    },
+    {
+      "start_time": "00:07:50,919",
+      "end_time": "00:07:54,840",
+      "text": "ritual spells you can like affect"
+    },
+    {
+      "start_time": "00:07:52,720",
+      "end_time": "00:07:57,400",
+      "text": "someone on the far side of the world or"
+    },
+    {
+      "start_time": "00:07:54,840",
+      "end_time": "00:07:58,680",
+      "text": "you can cause a spell to last for years"
+    },
+    {
+      "start_time": "00:07:57,400",
+      "end_time": "00:08:01,080",
+      "text": "or you can do all that kind of stuff but"
+    },
+    {
+      "start_time": "00:07:58,680",
+      "end_time": "00:08:02,599",
+      "text": "there's a big cost with rituals there's"
+    },
+    {
+      "start_time": "00:08:01,080",
+      "end_time": "00:08:05,159",
+      "text": "a couple actual actually there's"
+    },
+    {
+      "start_time": "00:08:02,599",
+      "end_time": "00:08:07,240",
+      "text": "something called a ritual timer uh which"
+    },
+    {
+      "start_time": "00:08:05,159",
+      "end_time": "00:08:08,520",
+      "text": "means that eventually you're going to"
+    },
+    {
+      "start_time": "00:08:07,240",
+      "end_time": "00:08:10,240",
+      "text": "have to pay the price for the spell and"
+    },
+    {
+      "start_time": "00:08:08,520",
+      "end_time": "00:08:11,800",
+      "text": "what that price is is determined between"
+    },
+    {
+      "start_time": "00:08:10,240",
+      "end_time": "00:08:14,000",
+      "text": "you and the GM based on the context of"
+    },
+    {
+      "start_time": "00:08:11,800",
+      "end_time": "00:08:15,639",
+      "text": "the spell and the situation uh but the"
+    },
+    {
+      "start_time": "00:08:14,000",
+      "end_time": "00:08:18,560",
+      "text": "other thing is called fraying now"
+    },
+    {
+      "start_time": "00:08:15,639",
+      "end_time": "00:08:20,759",
+      "text": "fraying is literally your pattern in the"
+    },
+    {
+      "start_time": "00:08:18,560",
+      "end_time": "00:08:22,960",
+      "text": "weave starts to fray the more and more"
+    },
+    {
+      "start_time": "00:08:20,759",
+      "end_time": "00:08:24,800",
+      "text": "you start to mess with that pattern and"
+    },
+    {
+      "start_time": "00:08:22,960",
+      "end_time": "00:08:27,159",
+      "text": "mess with the weave itself until"
+    },
+    {
+      "start_time": "00:08:24,800",
+      "end_time": "00:08:30,240",
+      "text": "eventually The Weave has had enough of"
+    },
+    {
+      "start_time": "00:08:27,159",
+      "end_time": "00:08:32,440",
+      "text": "your uh messing with it and plucks you"
+    },
+    {
+      "start_time": "00:08:30,240",
+      "end_time": "00:08:34,719",
+      "text": "out of the tapestry altogether and"
+    },
+    {
+      "start_time": "00:08:32,440",
+      "end_time": "00:08:37,959",
+      "text": "removes you from the"
+    },
+    {
+      "start_time": "00:08:34,719",
+      "end_time": "00:08:41,399",
+      "text": "universe what this means is all spell"
+    },
+    {
+      "start_time": "00:08:37,959",
+      "end_time": "00:08:43,959",
+      "text": "Weavers are essentially a ticking clock"
+    },
+    {
+      "start_time": "00:08:41,399",
+      "end_time": "00:08:46,360",
+      "text": "they know that they always run the risk"
+    },
+    {
+      "start_time": "00:08:43,959",
+      "end_time": "00:08:48,560",
+      "text": "of accumulating fra points and once they"
+    },
+    {
+      "start_time": "00:08:46,360",
+      "end_time": "00:08:50,519",
+      "text": "get to a certain point there's a very"
+    },
+    {
+      "start_time": "00:08:48,560",
+      "end_time": "00:08:53,839",
+      "text": "good chance that their next spell will"
+    },
+    {
+      "start_time": "00:08:50,519",
+      "end_time": "00:08:57,240",
+      "text": "be their last and they will be plucked"
+    },
+    {
+      "start_time": "00:08:53,839",
+      "end_time": "00:08:59,320",
+      "text": "from existence so yes you have these"
+    },
+    {
+      "start_time": "00:08:57,240",
+      "end_time": "00:09:00,600",
+      "text": "powerful Wizards yes the more skill you"
+    },
+    {
+      "start_time": "00:08:59,320",
+      "end_time": "00:09:02,079",
+      "text": "have have and the more magic items you"
+    },
+    {
+      "start_time": "00:09:00,600",
+      "end_time": "00:09:04,200",
+      "text": "have yes you can do all of these"
+    },
+    {
+      "start_time": "00:09:02,079",
+      "end_time": "00:09:06,839",
+      "text": "incredible powerful things but you also"
+    },
+    {
+      "start_time": "00:09:04,200",
+      "end_time": "00:09:08,959",
+      "text": "know that the more powerful a spell you"
+    },
+    {
+      "start_time": "00:09:06,839",
+      "end_time": "00:09:10,959",
+      "text": "cast the more likely the weave's going"
+    },
+    {
+      "start_time": "00:09:08,959",
+      "end_time": "00:09:12,560",
+      "text": "to react badly and the more likely"
+    },
+    {
+      "start_time": "00:09:10,959",
+      "end_time": "00:09:15,959",
+      "text": "you're going to accumulate fraying"
+    },
+    {
+      "start_time": "00:09:12,560",
+      "end_time": "00:09:17,640",
+      "text": "points and that is like Russian Roulette"
+    },
+    {
+      "start_time": "00:09:15,959",
+      "end_time": "00:09:19,480",
+      "text": "very very dangerous so what that means"
+    },
+    {
+      "start_time": "00:09:17,640",
+      "end_time": "00:09:21,360",
+      "text": "is you have these old powerful Wizards"
+    },
+    {
+      "start_time": "00:09:19,480",
+      "end_time": "00:09:23,720",
+      "text": "who do not want to cast their magic"
+    },
+    {
+      "start_time": "00:09:21,360",
+      "end_time": "00:09:25,760",
+      "text": "unless they absolutely have to"
+    },
+    {
+      "start_time": "00:09:23,720",
+      "end_time": "00:09:27,640",
+      "text": "especially the powerful rituals lots of"
+    },
+    {
+      "start_time": "00:09:25,760",
+      "end_time": "00:09:28,760",
+      "text": "rules about rituals you can do it with"
+    },
+    {
+      "start_time": "00:09:27,640",
+      "end_time": "00:09:30,320",
+      "text": "different groups you can do with"
+    },
+    {
+      "start_time": "00:09:28,760",
+      "end_time": "00:09:32,880",
+      "text": "different people G assistance to make it"
+    },
+    {
+      "start_time": "00:09:30,320",
+      "end_time": "00:09:35,399",
+      "text": "easier you can use something called uh"
+    },
+    {
+      "start_time": "00:09:32,880",
+      "end_time": "00:09:36,640",
+      "text": "blood magic which is obviously forbidden"
+    },
+    {
+      "start_time": "00:09:35,399",
+      "end_time": "00:09:38,000",
+      "text": "uh that's using the life force of"
+    },
+    {
+      "start_time": "00:09:36,640",
+      "end_time": "00:09:39,519",
+      "text": "another being in order to power your"
+    },
+    {
+      "start_time": "00:09:38,000",
+      "end_time": "00:09:41,279",
+      "text": "rituals all kinds of cool stuff there's"
+    },
+    {
+      "start_time": "00:09:39,519",
+      "end_time": "00:09:43,240",
+      "text": "enchantments here there's rules for"
+    },
+    {
+      "start_time": "00:09:41,279",
+      "end_time": "00:09:46,120",
+      "text": "Alchemy there's rules for summoning"
+    },
+    {
+      "start_time": "00:09:43,240",
+      "end_time": "00:09:48,519",
+      "text": "magic uh and of course fraying as I I as"
+    },
+    {
+      "start_time": "00:09:46,120",
+      "end_time": "00:09:51,680",
+      "text": "I said is a very very very bad thing so"
+    },
+    {
+      "start_time": "00:09:48,519",
+      "end_time": "00:09:53,440",
+      "text": "that is essentially how spell weave"
+    },
+    {
+      "start_time": "00:09:51,680",
+      "end_time": "00:09:55,480",
+      "text": "magic works I do want to talk a little"
+    },
+    {
+      "start_time": "00:09:53,440",
+      "end_time": "00:09:58,240",
+      "text": "bit about Divine magic Divine magic is"
+    },
+    {
+      "start_time": "00:09:55,480",
+      "end_time": "00:10:00,200",
+      "text": "obviously what clerics use or what we"
+    },
+    {
+      "start_time": "00:09:58,240",
+      "end_time": "00:10:02,240",
+      "text": "call godbound these are people who have"
+    },
+    {
+      "start_time": "00:10:00,200",
+      "end_time": "00:10:04,720",
+      "text": "bound themselves to the service of a God"
+    },
+    {
+      "start_time": "00:10:02,240",
+      "end_time": "00:10:08,120",
+      "text": "but the their powers work a little"
+    },
+    {
+      "start_time": "00:10:04,720",
+      "end_time": "00:10:11,880",
+      "text": "differently the godbound is sworn to a"
+    },
+    {
+      "start_time": "00:10:08,120",
+      "end_time": "00:10:13,959",
+      "text": "god is a priest right now that God has a"
+    },
+    {
+      "start_time": "00:10:11,880",
+      "end_time": "00:10:15,600",
+      "text": "domain and that domain will determine"
+    },
+    {
+      "start_time": "00:10:13,959",
+      "end_time": "00:10:18,760",
+      "text": "what kind of powers are usually"
+    },
+    {
+      "start_time": "00:10:15,600",
+      "end_time": "00:10:22,279",
+      "text": "available to the godbound as a priest of"
+    },
+    {
+      "start_time": "00:10:18,760",
+      "end_time": "00:10:24,079",
+      "text": "healing you can ask your deity to Grant"
+    },
+    {
+      "start_time": "00:10:22,279",
+      "end_time": "00:10:26,680",
+      "text": "a miracle that's going to Smite down an"
+    },
+    {
+      "start_time": "00:10:24,079",
+      "end_time": "00:10:28,680",
+      "text": "enemy you could but it's probably going"
+    },
+    {
+      "start_time": "00:10:26,680",
+      "end_time": "00:10:30,200",
+      "text": "to come with a cost or a penalty because"
+    },
+    {
+      "start_time": "00:10:28,680",
+      "end_time": "00:10:32,079",
+      "text": "that's not really in your God's domain"
+    },
+    {
+      "start_time": "00:10:30,200",
+      "end_time": "00:10:33,920",
+      "text": "your God's about healing man not about"
+    },
+    {
+      "start_time": "00:10:32,079",
+      "end_time": "00:10:36,440",
+      "text": "killing but that doesn't mean that they"
+    },
+    {
+      "start_time": "00:10:33,920",
+      "end_time": "00:10:39,959",
+      "text": "won't do it depends on the context so"
+    },
+    {
+      "start_time": "00:10:36,440",
+      "end_time": "00:10:42,880",
+      "text": "that's first thing the second thing is"
+    },
+    {
+      "start_time": "00:10:39,959",
+      "end_time": "00:10:44,000",
+      "text": "godbound characters are uh they fuel"
+    },
+    {
+      "start_time": "00:10:42,880",
+      "end_time": "00:10:48,160",
+      "text": "their"
+    },
+    {
+      "start_time": "00:10:44,000",
+      "end_time": "00:10:49,560",
+      "text": "miracles by the level of piety they have"
+    },
+    {
+      "start_time": "00:10:48,160",
+      "end_time": "00:10:50,800",
+      "text": "so the more favored they are with the"
+    },
+    {
+      "start_time": "00:10:49,560",
+      "end_time": "00:10:53,440",
+      "text": "god the more likely the God's going to"
+    },
+    {
+      "start_time": "00:10:50,800",
+      "end_time": "00:10:56,800",
+      "text": "answer their prayers but here's the"
+    },
+    {
+      "start_time": "00:10:53,440",
+      "end_time": "00:10:58,760",
+      "text": "thing a godbound character never really"
+    },
+    {
+      "start_time": "00:10:56,800",
+      "end_time": "00:11:00,959",
+      "text": "knows how much piety they have they know"
+    },
+    {
+      "start_time": "00:10:58,760",
+      "end_time": "00:11:03,639",
+      "text": "what character creation but as soon as"
+    },
+    {
+      "start_time": "00:11:00,959",
+      "end_time": "00:11:05,360",
+      "text": "you start to play that pety shifts"
+    },
+    {
+      "start_time": "00:11:03,639",
+      "end_time": "00:11:08,040",
+      "text": "because every time you use it every time"
+    },
+    {
+      "start_time": "00:11:05,360",
+      "end_time": "00:11:09,200",
+      "text": "you call upon the God for a miracle that"
+    },
+    {
+      "start_time": "00:11:08,040",
+      "end_time": "00:11:13,200",
+      "text": "number is going to"
+    },
+    {
+      "start_time": "00:11:09,200",
+      "end_time": "00:11:15,560",
+      "text": "change and most crucially of all you as"
+    },
+    {
+      "start_time": "00:11:13,200",
+      "end_time": "00:11:18,000",
+      "text": "the godbound know that by serving the"
+    },
+    {
+      "start_time": "00:11:15,560",
+      "end_time": "00:11:21,399",
+      "text": "interests of your deity you will gain"
+    },
+    {
+      "start_time": "00:11:18,000",
+      "end_time": "00:11:24,480",
+      "text": "piety which means clerics now have a"
+    },
+    {
+      "start_time": "00:11:21,399",
+      "end_time": "00:11:25,880",
+      "text": "reason to actually be clerics you gain"
+    },
+    {
+      "start_time": "00:11:24,480",
+      "end_time": "00:11:28,600",
+      "text": "py by things like converting the"
+    },
+    {
+      "start_time": "00:11:25,880",
+      "end_time": "00:11:31,240",
+      "text": "unbelievers establishing a shrine uh uh"
+    },
+    {
+      "start_time": "00:11:28,600",
+      "end_time": "00:11:34,160",
+      "text": "conducting a assass performing ferial"
+    },
+    {
+      "start_time": "00:11:31,240",
+      "end_time": "00:11:35,600",
+      "text": "rights within the God's you know uh"
+    },
+    {
+      "start_time": "00:11:34,160",
+      "end_time": "00:11:37,920",
+      "text": "domain all this kind of stuff there's"
+    },
+    {
+      "start_time": "00:11:35,600",
+      "end_time": "00:11:40,160",
+      "text": "many many ways to gain pety and you lose"
+    },
+    {
+      "start_time": "00:11:37,920",
+      "end_time": "00:11:41,680",
+      "text": "py every time you you ask for miracles"
+    },
+    {
+      "start_time": "00:11:40,160",
+      "end_time": "00:11:43,320",
+      "text": "well I shouldn't say that not every time"
+    },
+    {
+      "start_time": "00:11:41,680",
+      "end_time": "00:11:44,560",
+      "text": "sometimes you can actually gain pet by"
+    },
+    {
+      "start_time": "00:11:43,320",
+      "end_time": "00:11:46,600",
+      "text": "asking for miracle depends on the"
+    },
+    {
+      "start_time": "00:11:44,560",
+      "end_time": "00:11:47,920",
+      "text": "context so piy is a skill it's it's it's"
+    },
+    {
+      "start_time": "00:11:46,600",
+      "end_time": "00:11:49,880",
+      "text": "really the only skill in the game that"
+    },
+    {
+      "start_time": "00:11:47,920",
+      "end_time": "00:11:51,680",
+      "text": "goes up and down with use and it is"
+    },
+    {
+      "start_time": "00:11:49,880",
+      "end_time": "00:11:54,399",
+      "text": "hidden from the player the GM keeps"
+    },
+    {
+      "start_time": "00:11:51,680",
+      "end_time": "00:11:56,800",
+      "text": "track of that and again I've used this"
+    },
+    {
+      "start_time": "00:11:54,399",
+      "end_time": "00:12:00,200",
+      "text": "before in in other games this concept"
+    },
+    {
+      "start_time": "00:11:56,800",
+      "end_time": "00:12:02,880",
+      "text": "and it's magnific I love it it it really"
+    },
+    {
+      "start_time": "00:12:00,200",
+      "end_time": "00:12:06,000",
+      "text": "keeps clerics honest but it makes them"
+    },
+    {
+      "start_time": "00:12:02,880",
+      "end_time": "00:12:08,600",
+      "text": "extremely powerful because they can they"
+    },
+    {
+      "start_time": "00:12:06,000",
+      "end_time": "00:12:10,160",
+      "text": "essentially craft magical Divine magical"
+    },
+    {
+      "start_time": "00:12:08,600",
+      "end_time": "00:12:12,720",
+      "text": "effects much in the same way that spell"
+    },
+    {
+      "start_time": "00:12:10,160",
+      "end_time": "00:12:15,440",
+      "text": "Weaver does except that their resolve"
+    },
+    {
+      "start_time": "00:12:12,720",
+      "end_time": "00:12:17,839",
+      "text": "has nothing to do with it it's entirely"
+    },
+    {
+      "start_time": "00:12:15,440",
+      "end_time": "00:12:20,120",
+      "text": "about the God it's entirely about the"
+    },
+    {
+      "start_time": "00:12:17,839",
+      "end_time": "00:12:21,959",
+      "text": "piety that the character has so it's a"
+    },
+    {
+      "start_time": "00:12:20,120",
+      "end_time": "00:12:24,680",
+      "text": "very very different system if your piety"
+    },
+    {
+      "start_time": "00:12:21,959",
+      "end_time": "00:12:27,959",
+      "text": "ever does fall to zero you're out you're"
+    },
+    {
+      "start_time": "00:12:24,680",
+      "end_time": "00:12:29,839",
+      "text": "cast out and you must now perform some"
+    },
+    {
+      "start_time": "00:12:27,959",
+      "end_time": "00:12:32,760",
+      "text": "sort of some sort of uh service for the"
+    },
+    {
+      "start_time": "00:12:29,839",
+      "end_time": "00:12:34,880",
+      "text": "God whether that's like um going on a"
+    },
+    {
+      "start_time": "00:12:32,760",
+      "end_time": "00:12:36,720",
+      "text": "holy pilgrimage or performing sufficient"
+    },
+    {
+      "start_time": "00:12:34,880",
+      "end_time": "00:12:38,680",
+      "text": "Penance or whatever and that of course"
+    },
+    {
+      "start_time": "00:12:36,720",
+      "end_time": "00:12:41,480",
+      "text": "is going to be dependent on the god"
+    },
+    {
+      "start_time": "00:12:38,680",
+      "end_time": "00:12:44,480",
+      "text": "itself uh within the game right now"
+    },
+    {
+      "start_time": "00:12:41,480",
+      "end_time": "00:12:46,600",
+      "text": "there are seven gods in the pantheon"
+    },
+    {
+      "start_time": "00:12:44,480",
+      "end_time": "00:12:48,560",
+      "text": "they all go by different names depending"
+    },
+    {
+      "start_time": "00:12:46,600",
+      "end_time": "00:12:50,920",
+      "text": "where you encounter them in the world"
+    },
+    {
+      "start_time": "00:12:48,560",
+      "end_time": "00:12:53,000",
+      "text": "for example morgus who is known as the"
+    },
+    {
+      "start_time": "00:12:50,920",
+      "end_time": "00:12:55,440",
+      "text": "patient the Harvester the old Druid he"
+    },
+    {
+      "start_time": "00:12:53,000",
+      "end_time": "00:12:58,079",
+      "text": "who stands alone he's also known as"
+    },
+    {
+      "start_time": "00:12:55,440",
+      "end_time": "00:13:01,040",
+      "text": "Moran The Wanderer or Mary Lady of"
+    },
+    {
+      "start_time": "00:12:58,079",
+      "end_time": "00:13:03,279",
+      "text": "bounty Morgan is known as me in an"
+    },
+    {
+      "start_time": "00:13:01,040",
+      "end_time": "00:13:05,560",
+      "text": "sharir which is in the red waist whereas"
+    },
+    {
+      "start_time": "00:13:03,279",
+      "end_time": "00:13:07,760",
+      "text": "over in angavar in the Westlands he is"
+    },
+    {
+      "start_time": "00:13:05,560",
+      "end_time": "00:13:10,160",
+      "text": "known as morgus in the Westlands he's"
+    },
+    {
+      "start_time": "00:13:07,760",
+      "end_time": "00:13:12,399",
+      "text": "also known as St Martin hos uh his"
+    },
+    {
+      "start_time": "00:13:10,160",
+      "end_time": "00:13:14,720",
+      "text": "sphere of influence is the Wilds nature"
+    },
+    {
+      "start_time": "00:13:12,399",
+      "end_time": "00:13:16,480",
+      "text": "Navigators Travelers Independence the"
+    },
+    {
+      "start_time": "00:13:14,720",
+      "end_time": "00:13:19,720",
+      "text": "Harvest hard work dedication and the"
+    },
+    {
+      "start_time": "00:13:16,480",
+      "end_time": "00:13:22,760",
+      "text": "quiet ocean his Miracle effects are"
+    },
+    {
+      "start_time": "00:13:19,720",
+      "end_time": "00:13:25,360",
+      "text": "Conjuring control witness air beasts"
+    },
+    {
+      "start_time": "00:13:22,760",
+      "end_time": "00:13:27,360",
+      "text": "Earth plants and water so when you're a"
+    },
+    {
+      "start_time": "00:13:25,360",
+      "end_time": "00:13:29,440",
+      "text": "priest of morgus you can ask him to give"
+    },
+    {
+      "start_time": "00:13:27,360",
+      "end_time": "00:13:31,839",
+      "text": "you a miracle that is within that domain"
+    },
+    {
+      "start_time": "00:13:29,440",
+      "end_time": "00:13:33,680",
+      "text": "if you ask him to give you uh a miracle"
+    },
+    {
+      "start_time": "00:13:31,839",
+      "end_time": "00:13:35,399",
+      "text": "that's outside of that domain it's going"
+    },
+    {
+      "start_time": "00:13:33,680",
+      "end_time": "00:13:38,040",
+      "text": "to be a penalty to the piety because"
+    },
+    {
+      "start_time": "00:13:35,399",
+      "end_time": "00:13:39,519",
+      "text": "it's not really his bag man but again"
+    },
+    {
+      "start_time": "00:13:38,040",
+      "end_time": "00:13:42,199",
+      "text": "everything's context based if you're"
+    },
+    {
+      "start_time": "00:13:39,519",
+      "end_time": "00:13:43,600",
+      "text": "doing something deeply in service of the"
+    },
+    {
+      "start_time": "00:13:42,199",
+      "end_time": "00:13:45,160",
+      "text": "the deity or you're trying to protect"
+    },
+    {
+      "start_time": "00:13:43,600",
+      "end_time": "00:13:47,399",
+      "text": "their interests in some way you might"
+    },
+    {
+      "start_time": "00:13:45,160",
+      "end_time": "00:13:48,959",
+      "text": "actually get a bonus so it depends right"
+    },
+    {
+      "start_time": "00:13:47,399",
+      "end_time": "00:13:51,320",
+      "text": "um so yeah there's seven gods in the"
+    },
+    {
+      "start_time": "00:13:48,959",
+      "end_time": "00:13:54,279",
+      "text": "pantheon including the strange uh God"
+    },
+    {
+      "start_time": "00:13:51,320",
+      "end_time": "00:13:56,680",
+      "text": "called ominus the one who is a kind of a"
+    },
+    {
+      "start_time": "00:13:54,279",
+      "end_time": "00:13:58,240",
+      "text": "a new heresy in the world uh because"
+    },
+    {
+      "start_time": "00:13:56,680",
+      "end_time": "00:14:01,000",
+      "text": "this is a God who basically says all the"
+    },
+    {
+      "start_time": "00:13:58,240",
+      "end_time": "00:14:03,440",
+      "text": "other gods are just facets of"
+    },
+    {
+      "start_time": "00:14:01,000",
+      "end_time": "00:14:04,920",
+      "text": "me so that's an interesting little"
+    },
+    {
+      "start_time": "00:14:03,440",
+      "end_time": "00:14:06,560",
+      "text": "conundrum going on in the background of"
+    },
+    {
+      "start_time": "00:14:04,920",
+      "end_time": "00:14:08,279",
+      "text": "the world right now so that's basically"
+    },
+    {
+      "start_time": "00:14:06,560",
+      "end_time": "00:14:11,600",
+      "text": "a taste of magic both spell Weaver and"
+    },
+    {
+      "start_time": "00:14:08,279",
+      "end_time": "00:14:15,160",
+      "text": "divine magic it's pretty cool the uh uh"
+    },
+    {
+      "start_time": "00:14:11,600",
+      "end_time": "00:14:17,040",
+      "text": "spell users in the game have uh a wide"
+    },
+    {
+      "start_time": "00:14:15,160",
+      "end_time": "00:14:18,920",
+      "text": "breadth of options that they can do but"
+    },
+    {
+      "start_time": "00:14:17,040",
+      "end_time": "00:14:20,320",
+      "text": "they're limited by certain things"
+    },
+    {
+      "start_time": "00:14:18,920",
+      "end_time": "00:14:22,519",
+      "text": "whether that's their own resolve as a"
+    },
+    {
+      "start_time": "00:14:20,320",
+      "end_time": "00:14:24,199",
+      "text": "spell weaver or the unknown Piet score"
+    },
+    {
+      "start_time": "00:14:22,519",
+      "end_time": "00:14:26,800",
+      "text": "if you're a Divine user so it's really"
+    },
+    {
+      "start_time": "00:14:24,199",
+      "end_time": "00:14:28,440",
+      "text": "cool stuff and it really encourages role"
+    },
+    {
+      "start_time": "00:14:26,800",
+      "end_time": "00:14:30,000",
+      "text": "playing uh in a lot of areas too"
+    },
+    {
+      "start_time": "00:14:28,440",
+      "end_time": "00:14:31,519",
+      "text": "especially if you're uh godbound right"
+    },
+    {
+      "start_time": "00:14:30,000",
+      "end_time": "00:14:32,800",
+      "text": "like you really want to be serving your"
+    },
+    {
+      "start_time": "00:14:31,519",
+      "end_time": "00:14:34,360",
+      "text": "God all the time which is it's pretty"
+    },
+    {
+      "start_time": "00:14:32,800",
+      "end_time": "00:14:35,399",
+      "text": "cool anyway that's a little taste of"
+    },
+    {
+      "start_time": "00:14:34,360",
+      "end_time": "00:14:37,920",
+      "text": "Magic the next thing I'm going to be"
+    },
+    {
+      "start_time": "00:14:35,399",
+      "end_time": "00:14:40,320",
+      "text": "talking to you about is the setting and"
+    },
+    {
+      "start_time": "00:14:37,920",
+      "end_time": "00:14:42,519",
+      "text": "uh some of the cool stuff going on there"
+    },
+    {
+      "start_time": "00:14:40,320",
+      "end_time": "00:14:47,199",
+      "text": "and then we will launch on Tuesday so I"
+    },
+    {
+      "start_time": "00:14:42,519",
+      "end_time": "00:14:47,199",
+      "text": "will see you next time ciao for now"
+    }
+  ],
+  "full_text": "hey guys welcome back today I want to\ntalk to you about the magic system in\nthe broken Empires role playing game\nwhich is going to Kickstarter on Tuesday\nat 88: a.m. eastern so if you want to be\npart of it if you want to join the 7,000\npeople that have signed up to bring the\ngame to life uh the links for all of\nthat is below super exciting I'm getting\nI'm getting chills oh my goodness I want\nto talk about magic today spell Weavers\nliterally tear at the threads of the\nweave that holds reality together in\nthis game the concept is reality is a\ntapestry and the tapestry has images on\nit right we are all we are all patterned\nin the tapestry and spell Weavers take\nthreads from that tapestry and they\nreweave them into an image that is\npleasing to\nthem that's what a spell Weaver does\nhowever reality does not like when\nsomeone intrudes upon it and so the\ntapestry The Weave fights back but\nbasically in order to cast a spell you\nhave something called binds and strands\nand I'm talking about weave magic here\nnot Divine magic we'll talk about Divine\nmagic in a bit but weave magic is you\nyou have a skill in a bind and a strand\nuh this is very heavily influenced by\nARS Maga which is one of my favorite uh\nMagic systems of all time it allows\nspell users to be both powerful and\nspontaneous and also extremely creative\nin the moment which I love I love that\nso the bind is how you affect reality\nand the Strand is what part of reality\nyou're affecting it's a verb and a noun\nright so if it's conjure Beast I'm going\nto bring into existence a wolf let's say\nsummoning a wolf conjure Beast I want to\nread your mind that would be witness\nthought with these combinations of the\nfive binds and the 10 strands you can\nbasically do virtually anything you can\nthink of but there are limitations and\nwe'll we'll come to that this system is\nvery very much about working with the GM\nto come up with something that's going\nto be satisfying the GM has to maintain\na pretty tight regulatory stance on what\nis and is not allowed in the game world\nand that's what these five laws are\ndesigned to do the law of mystery\nbasically says that some things have no\nexplanation and cannot be cannot be\nreproduced the law of limitation says\nthat the tapestry has edges there are\ncertain things magic will never do magic\ncannot affect time magic cannot affect\nthe the course of stars or or the moon\nor the sun in in the Sky Magic cannot\nbring back the dead so these are\nlimitations I should mentioned as well\nthat it is up to each table to expand or\ncontract these laws as they see fit so\nit's perfectly tailorable to your to\nyour table the law of resistance means\nthat if you cast magic against an\nunwilling Target they are going to\nresist and how they resist is depending\nentirely on the context of the spell and\nhow they choose to resist so there's a\nlot of choice involved even in\nresistance of of magic in a lot of cases\nthere's a law of progression which just\nbasically means one thing must lead to\nanother along a path of simple Logic the\nlaw of reaction and this is the big one\nThe Weave fights back against those who\ncannot control it the weave does not\nlike spell Weavers trying to mess with\nit and so it reacts it fights back\nagainst spell wavers the more big flashy\nand ostentatious your magical effect the\nmore likely the weave is going to react\nand the more likely it's going to be bad\nso the goal of a spell Weaver in this\ngame mechanically is to ensure that\nwhatever magical effect you're trying to\nachieve you try and keep it as subtle as\npossible you can cast big flashy magic\nbut you have to be able to control it\nand that's not always easy to do you\nhave to be very skilled and you have to\nhave a lot of resolve the magnitude of\nthe spell is its weave reaction the\nmagnitude goes between zero and four\nzero magnitude means it's a spell effect\nthat's indistinguishable from happen\nstance a magnitude for spell means\nthere's no other way to explain this in\nnature other than magic so again the\nmore big and flashy the spell is the\nmore likely there's going to be a big\nold weave reaction so how do you cast a\nspell well the first thing you do is you\nconceive of the effect then you can know\nwhich bind and strand you need to\ncombine in order to create the the the\nchance for the spell so if I have a bind\nskill of uh 20 and a and a strand skill\nof 43 then when I put those together\nthat's a 63% skill that I'm rolling on\nand yes sometimes they can go over 100\nand there's rules for that as well so\nyou've determined your chance your\noverall chance now you need to shape the\nspell and that that means basically\nbuilding it with enhancements so the\nqualities of a spell are target range\nduration potency and possibly sense\nTarget means obviously who is the spell\nwho or what is the spell targeting range\nis where is the Target duration\nobviously is it instant is it does it\nlast for a minute a year potency is a\nreal kind of uh catchall term like it\ncould mean the damage it does it could\nmean the level of protection you get\nfrom it it could mean the various levels\nof effect you're applying it's very very\nvery malleable potency and then sense is\nreally most of the time used for\nperceptual spells like witness spells\nand things like this if I'm casting a\nwizard eye or something well that could\nbe sight but if I want to hear something\nin the Next Room that's going to be a\ndifferent sense and going to have a\nslightly different cost probably you\nshape the spell and that will give you a\ntotal cost of the spell that will give\nyou how many success levels you need in\norder to successfully cast that spell\nand control it which means that if the\nspell comes out to nine success levels\nand you have a skill of 63 like in our\nexample you would think to yourself well\nhow can you possibly cast that spell\nwell there's a number of ways one you\ncould critical because if you're\ncritical you gain plus three SLS that's\ngoing to help you could also use\nsomething called threads which are\nphysical pieces of magic that act as\nmagic enhancers this is like gold among\nspell Weavers currency right this these\nare like your magical stabs and your\namulet and and your wands and things\nthat that allow the spell Weaver to be\nable to fuel their spells or you could\nuse your own resolve and this is by far\nthe most common thing so my skill is 63\nand I roll 42 I've succeeded but I've\ngot four success levels and I needed\nnine I'm five short so I did succeed the\nspell is going to work exactly as I\nwanted to however there's going to be a\nweave reaction and that weave reaction\nis going to be based on the magnitude of\nthe spell the more flashy the effect the\nbigger the weave reaction I don't want\nthat so I want to mitigate that using my\nresolve if I can I can spend as much\nresolve as I want to try and meet my\ncost so that there is no\nfurther cost if I don't meet the cost\nthen I have to roll on that table but\nlet's say I succeed I rolled 42 on 63\nfor sl's I could spend five resolve to\nmeet the SL cost and now there's no\nweave reaction but it means I had to\nexpend five of my precious resolve so\nresolve is so crucial for spell wavers\nso so so important and that's basically\nhow you cast a spell now there's all\nkinds of details about how you target\npeople or things and what the potency\nlooks like and all that kind of stuff\nbut that's the essential gist of it\nright there\nuh weave reactions are interesting uh\nthey are not always bad but most of the\ntime the vast majority of the time\nthey're bad they could do anything from\nconsuming your supplies to preventing\nyou from casting another spell for a\nshort time to wounding you to marking\nyou with magic to uh having to spell\nTarget unintended uh subjects uh or you\ncould gain something called frame points\nwhich is really bad frame points we're\ngoing to we're come to in in a second\nyou don't want Frank points uh but it's\nkind of inevitable as a spell Weaver to\nget Frank points so the weav reactions\nreally cover a large range of things the\nreally powerful spells are known as\nrituals these are big fancy spells that\nare super powerful but they take a long\ntime and they have a real cost now they\nthey have different rules but they're\ncosted out very similarly except with\nritual spells you can like affect\nsomeone on the far side of the world or\nyou can cause a spell to last for years\nor you can do all that kind of stuff but\nthere's a big cost with rituals there's\na couple actual actually there's\nsomething called a ritual timer uh which\nmeans that eventually you're going to\nhave to pay the price for the spell and\nwhat that price is is determined between\nyou and the GM based on the context of\nthe spell and the situation uh but the\nother thing is called fraying now\nfraying is literally your pattern in the\nweave starts to fray the more and more\nyou start to mess with that pattern and\nmess with the weave itself until\neventually The Weave has had enough of\nyour uh messing with it and plucks you\nout of the tapestry altogether and\nremoves you from the\nuniverse what this means is all spell\nWeavers are essentially a ticking clock\nthey know that they always run the risk\nof accumulating fra points and once they\nget to a certain point there's a very\ngood chance that their next spell will\nbe their last and they will be plucked\nfrom existence so yes you have these\npowerful Wizards yes the more skill you\nhave have and the more magic items you\nhave yes you can do all of these\nincredible powerful things but you also\nknow that the more powerful a spell you\ncast the more likely the weave's going\nto react badly and the more likely\nyou're going to accumulate fraying\npoints and that is like Russian Roulette\nvery very dangerous so what that means\nis you have these old powerful Wizards\nwho do not want to cast their magic\nunless they absolutely have to\nespecially the powerful rituals lots of\nrules about rituals you can do it with\ndifferent groups you can do with\ndifferent people G assistance to make it\neasier you can use something called uh\nblood magic which is obviously forbidden\nuh that's using the life force of\nanother being in order to power your\nrituals all kinds of cool stuff there's\nenchantments here there's rules for\nAlchemy there's rules for summoning\nmagic uh and of course fraying as I I as\nI said is a very very very bad thing so\nthat is essentially how spell weave\nmagic works I do want to talk a little\nbit about Divine magic Divine magic is\nobviously what clerics use or what we\ncall godbound these are people who have\nbound themselves to the service of a God\nbut the their powers work a little\ndifferently the godbound is sworn to a\ngod is a priest right now that God has a\ndomain and that domain will determine\nwhat kind of powers are usually\navailable to the godbound as a priest of\nhealing you can ask your deity to Grant\na miracle that's going to Smite down an\nenemy you could but it's probably going\nto come with a cost or a penalty because\nthat's not really in your God's domain\nyour God's about healing man not about\nkilling but that doesn't mean that they\nwon't do it depends on the context so\nthat's first thing the second thing is\ngodbound characters are uh they fuel\ntheir\nmiracles by the level of piety they have\nso the more favored they are with the\ngod the more likely the God's going to\nanswer their prayers but here's the\nthing a godbound character never really\nknows how much piety they have they know\nwhat character creation but as soon as\nyou start to play that pety shifts\nbecause every time you use it every time\nyou call upon the God for a miracle that\nnumber is going to\nchange and most crucially of all you as\nthe godbound know that by serving the\ninterests of your deity you will gain\npiety which means clerics now have a\nreason to actually be clerics you gain\npy by things like converting the\nunbelievers establishing a shrine uh uh\nconducting a assass performing ferial\nrights within the God's you know uh\ndomain all this kind of stuff there's\nmany many ways to gain pety and you lose\npy every time you you ask for miracles\nwell I shouldn't say that not every time\nsometimes you can actually gain pet by\nasking for miracle depends on the\ncontext so piy is a skill it's it's it's\nreally the only skill in the game that\ngoes up and down with use and it is\nhidden from the player the GM keeps\ntrack of that and again I've used this\nbefore in in other games this concept\nand it's magnific I love it it it really\nkeeps clerics honest but it makes them\nextremely powerful because they can they\nessentially craft magical Divine magical\neffects much in the same way that spell\nWeaver does except that their resolve\nhas nothing to do with it it's entirely\nabout the God it's entirely about the\npiety that the character has so it's a\nvery very different system if your piety\never does fall to zero you're out you're\ncast out and you must now perform some\nsort of some sort of uh service for the\nGod whether that's like um going on a\nholy pilgrimage or performing sufficient\nPenance or whatever and that of course\nis going to be dependent on the god\nitself uh within the game right now\nthere are seven gods in the pantheon\nthey all go by different names depending\nwhere you encounter them in the world\nfor example morgus who is known as the\npatient the Harvester the old Druid he\nwho stands alone he's also known as\nMoran The Wanderer or Mary Lady of\nbounty Morgan is known as me in an\nsharir which is in the red waist whereas\nover in angavar in the Westlands he is\nknown as morgus in the Westlands he's\nalso known as St Martin hos uh his\nsphere of influence is the Wilds nature\nNavigators Travelers Independence the\nHarvest hard work dedication and the\nquiet ocean his Miracle effects are\nConjuring control witness air beasts\nEarth plants and water so when you're a\npriest of morgus you can ask him to give\nyou a miracle that is within that domain\nif you ask him to give you uh a miracle\nthat's outside of that domain it's going\nto be a penalty to the piety because\nit's not really his bag man but again\neverything's context based if you're\ndoing something deeply in service of the\nthe deity or you're trying to protect\ntheir interests in some way you might\nactually get a bonus so it depends right\num so yeah there's seven gods in the\npantheon including the strange uh God\ncalled ominus the one who is a kind of a\na new heresy in the world uh because\nthis is a God who basically says all the\nother gods are just facets of\nme so that's an interesting little\nconundrum going on in the background of\nthe world right now so that's basically\na taste of magic both spell Weaver and\ndivine magic it's pretty cool the uh uh\nspell users in the game have uh a wide\nbreadth of options that they can do but\nthey're limited by certain things\nwhether that's their own resolve as a\nspell weaver or the unknown Piet score\nif you're a Divine user so it's really\ncool stuff and it really encourages role\nplaying uh in a lot of areas too\nespecially if you're uh godbound right\nlike you really want to be serving your\nGod all the time which is it's pretty\ncool anyway that's a little taste of\nMagic the next thing I'm going to be\ntalking to you about is the setting and\nuh some of the cool stuff going on there\nand then we will launch on Tuesday so I\nwill see you next time ciao for now\n"
+}

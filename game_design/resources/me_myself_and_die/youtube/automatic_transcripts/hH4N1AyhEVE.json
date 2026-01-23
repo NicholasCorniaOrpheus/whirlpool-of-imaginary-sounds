@@ -1,0 +1,4305 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:07,140",
+      "end_time": "00:00:13,200",
+      "text": "I do like that so I'm gonna call it very"
+    },
+    {
+      "start_time": "00:00:09,240",
+      "end_time": "00:00:17,900",
+      "text": "likely such is the power of the GM using"
+    },
+    {
+      "start_time": "00:00:13,200",
+      "end_time": "00:00:17,900",
+      "text": "the chart I decide the likelihood"
+    },
+    {
+      "start_time": "00:00:29,480",
+      "end_time": "00:00:33,960",
+      "text": "hello and welcome back once again to me"
+    },
+    {
+      "start_time": "00:00:31,860",
+      "end_time": "00:00:36,450",
+      "text": "myself and I I am as always your"
+    },
+    {
+      "start_time": "00:00:33,960",
+      "end_time": "00:00:38,730",
+      "text": "intrepid host GM and player Trevor to"
+    },
+    {
+      "start_time": "00:00:36,450",
+      "end_time": "00:00:40,110",
+      "text": "Val we have a few little announcement to"
+    },
+    {
+      "start_time": "00:00:38,730",
+      "end_time": "00:00:42,870",
+      "text": "start first of all we're at a thousand"
+    },
+    {
+      "start_time": "00:00:40,110",
+      "end_time": "00:00:43,559",
+      "text": "subscribers oh yeah I'm not exactly sure"
+    },
+    {
+      "start_time": "00:00:42,870",
+      "end_time": "00:00:45,000",
+      "text": "what that means"
+    },
+    {
+      "start_time": "00:00:43,559",
+      "end_time": "00:00:46,920",
+      "text": "presumably that'll get us some more"
+    },
+    {
+      "start_time": "00:00:45,000",
+      "end_time": "00:00:48,330",
+      "text": "attention on YouTube I have no idea I'm"
+    },
+    {
+      "start_time": "00:00:46,920",
+      "end_time": "00:00:49,650",
+      "text": "a bit of a Luddite when it comes to this"
+    },
+    {
+      "start_time": "00:00:48,330",
+      "end_time": "00:00:51,570",
+      "text": "stuff thanks so much everybody for"
+    },
+    {
+      "start_time": "00:00:49,650",
+      "end_time": "00:00:53,129",
+      "text": "subscribing and to continue to watch to"
+    },
+    {
+      "start_time": "00:00:51,570",
+      "end_time": "00:00:54,870",
+      "text": "continue to comment and as always if you"
+    },
+    {
+      "start_time": "00:00:53,129",
+      "end_time": "00:00:56,670",
+      "text": "enjoy the content here please do hit"
+    },
+    {
+      "start_time": "00:00:54,870",
+      "end_time": "00:00:59,010",
+      "text": "like and subscribe if you haven't"
+    },
+    {
+      "start_time": "00:00:56,670",
+      "end_time": "00:01:01,079",
+      "text": "already and helped promote the show that"
+    },
+    {
+      "start_time": "00:00:59,010",
+      "end_time": "00:01:03,540",
+      "text": "way before we get into the usual recap"
+    },
+    {
+      "start_time": "00:01:01,079",
+      "end_time": "00:01:05,190",
+      "text": "of things I should point out that Simon"
+    },
+    {
+      "start_time": "00:01:03,540",
+      "end_time": "00:01:07,110",
+      "text": "and company have leveled up so just a"
+    },
+    {
+      "start_time": "00:01:05,190",
+      "end_time": "00:01:08,759",
+      "text": "few quick little things here nothing"
+    },
+    {
+      "start_time": "00:01:07,110",
+      "end_time": "00:01:11,369",
+      "text": "huge no edges or anything like that it's"
+    },
+    {
+      "start_time": "00:01:08,759",
+      "end_time": "00:01:13,560",
+      "text": "just basically skills so Simon improved"
+    },
+    {
+      "start_time": "00:01:11,369",
+      "end_time": "00:01:15,090",
+      "text": "his fight and his persuade in other"
+    },
+    {
+      "start_time": "00:01:13,560",
+      "end_time": "00:01:16,890",
+      "text": "words he has the persuade skill now"
+    },
+    {
+      "start_time": "00:01:15,090",
+      "end_time": "00:01:18,690",
+      "text": "imagine that hahaha but his fight he"
+    },
+    {
+      "start_time": "00:01:16,890",
+      "end_time": "00:01:20,280",
+      "text": "goes up to d8 is persuaded is a whopping"
+    },
+    {
+      "start_time": "00:01:18,690",
+      "end_time": "00:01:23,580",
+      "text": "before which is better than the whopping"
+    },
+    {
+      "start_time": "00:01:20,280",
+      "end_time": "00:01:26,759",
+      "text": "d0 that it was ed Bert he increased his"
+    },
+    {
+      "start_time": "00:01:23,580",
+      "end_time": "00:01:30,600",
+      "text": "fighting to d-10 so whoo that's pretty"
+    },
+    {
+      "start_time": "00:01:26,759",
+      "end_time": "00:01:32,880",
+      "text": "good and Arne increased his fighting to"
+    },
+    {
+      "start_time": "00:01:30,600",
+      "end_time": "00:01:34,080",
+      "text": "d8 and his climb did he six the other"
+    },
+    {
+      "start_time": "00:01:32,880",
+      "end_time": "00:01:35,880",
+      "text": "little bit of housekeeping I wanted to"
+    },
+    {
+      "start_time": "00:01:34,080",
+      "end_time": "00:01:37,860",
+      "text": "do last time we encountered Simon's"
+    },
+    {
+      "start_time": "00:01:35,880",
+      "end_time": "00:01:39,149",
+      "text": "father before we go on with anything"
+    },
+    {
+      "start_time": "00:01:37,860",
+      "end_time": "00:01:41,160",
+      "text": "else I think it's important we find out"
+    },
+    {
+      "start_time": "00:01:39,149",
+      "end_time": "00:01:42,420",
+      "text": "what his name was because I don't want"
+    },
+    {
+      "start_time": "00:01:41,160",
+      "end_time": "00:01:43,950",
+      "text": "to keep saying Simon's dads I'm his"
+    },
+    {
+      "start_time": "00:01:42,420",
+      "end_time": "00:01:45,840",
+      "text": "father's I'm at the head so let's find"
+    },
+    {
+      "start_time": "00:01:43,950",
+      "end_time": "00:01:47,490",
+      "text": "out once again the old Zenith ours guide"
+    },
+    {
+      "start_time": "00:01:45,840",
+      "end_time": "00:01:50,310",
+      "text": "to everything here we're going to the"
+    },
+    {
+      "start_time": "00:01:47,490",
+      "end_time": "00:01:51,929",
+      "text": "English name table because Simon's name"
+    },
+    {
+      "start_time": "00:01:50,310",
+      "end_time": "00:01:53,459",
+      "text": "is English so his father would have an"
+    },
+    {
+      "start_time": "00:01:51,929",
+      "end_time": "00:01:58,319",
+      "text": "English name - I'm just going to assume"
+    },
+    {
+      "start_time": "00:01:53,459",
+      "end_time": "00:02:00,349",
+      "text": "83 Roland that's cool last time our"
+    },
+    {
+      "start_time": "00:01:58,319",
+      "end_time": "00:02:02,399",
+      "text": "Simon and company were ambushed but they"
+    },
+    {
+      "start_time": "00:02:00,349",
+      "end_time": "00:02:04,679",
+      "text": "completely wiped the floor with these"
+    },
+    {
+      "start_time": "00:02:02,399",
+      "end_time": "00:02:07,979",
+      "text": "would-be assassins would-be kidnappers"
+    },
+    {
+      "start_time": "00:02:04,679",
+      "end_time": "00:02:09,690",
+      "text": "bounty hunters led by Isabel who was in"
+    },
+    {
+      "start_time": "00:02:07,979",
+      "end_time": "00:02:11,340",
+      "text": "the employ of Manfred of day they"
+    },
+    {
+      "start_time": "00:02:09,690",
+      "end_time": "00:02:12,720",
+      "text": "completely didn't even take a scratch"
+    },
+    {
+      "start_time": "00:02:11,340",
+      "end_time": "00:02:14,790",
+      "text": "they just wiped the floor with it with a"
+    },
+    {
+      "start_time": "00:02:12,720",
+      "end_time": "00:02:16,349",
+      "text": "nice changeup was my surprise actually"
+    },
+    {
+      "start_time": "00:02:14,790",
+      "end_time": "00:02:18,090",
+      "text": "Simon decided to leave Isabel and"
+    },
+    {
+      "start_time": "00:02:16,349",
+      "end_time": "00:02:19,950",
+      "text": "Stratton alive tied to a tree in such a"
+    },
+    {
+      "start_time": "00:02:18,090",
+      "end_time": "00:02:22,170",
+      "text": "way that they could escape eventually"
+    },
+    {
+      "start_time": "00:02:19,950",
+      "end_time": "00:02:22,860",
+      "text": "because he did not want to execute them"
+    },
+    {
+      "start_time": "00:02:22,170",
+      "end_time": "00:02:25,200",
+      "text": "for their crimes"
+    },
+    {
+      "start_time": "00:02:22,860",
+      "end_time": "00:02:27,000",
+      "text": "because dragon did surrender and throw"
+    },
+    {
+      "start_time": "00:02:25,200",
+      "end_time": "00:02:29,010",
+      "text": "down his arms so those enemies may be"
+    },
+    {
+      "start_time": "00:02:27,000",
+      "end_time": "00:02:30,989",
+      "text": "around later who knows or they may not"
+    },
+    {
+      "start_time": "00:02:29,010",
+      "end_time": "00:02:34,890",
+      "text": "be enemies anymore who can say I can't"
+    },
+    {
+      "start_time": "00:02:30,989",
+      "end_time": "00:02:36,750",
+      "text": "but that ice will later so the point is"
+    },
+    {
+      "start_time": "00:02:34,890",
+      "end_time": "00:02:38,760",
+      "text": "they won that battle quite handily and"
+    },
+    {
+      "start_time": "00:02:36,750",
+      "end_time": "00:02:40,260",
+      "text": "then continue to track Simon's father"
+    },
+    {
+      "start_time": "00:02:38,760",
+      "end_time": "00:02:41,940",
+      "text": "all the way to the village of our Gaston"
+    },
+    {
+      "start_time": "00:02:40,260",
+      "end_time": "00:02:45,240",
+      "text": "which is just to the northeast"
+    },
+    {
+      "start_time": "00:02:41,940",
+      "end_time": "00:02:48,090",
+      "text": "of the city of Titan by the way very"
+    },
+    {
+      "start_time": "00:02:45,240",
+      "end_time": "00:02:51,060",
+      "text": "soon I will have a map composed by my"
+    },
+    {
+      "start_time": "00:02:48,090",
+      "end_time": "00:02:53,040",
+      "text": "friend and Ally Paul Ross who is also a"
+    },
+    {
+      "start_time": "00:02:51,060",
+      "end_time": "00:02:55,650",
+      "text": "watcher of the show he's got a really"
+    },
+    {
+      "start_time": "00:02:53,040",
+      "end_time": "00:02:56,970",
+      "text": "really cool map on Wonder draught I"
+    },
+    {
+      "start_time": "00:02:55,650",
+      "end_time": "00:03:00,060",
+      "text": "think it's the name of the program it's"
+    },
+    {
+      "start_time": "00:02:56,970",
+      "end_time": "00:03:01,650",
+      "text": "a map making software fairly inexpensive"
+    },
+    {
+      "start_time": "00:03:00,060",
+      "end_time": "00:03:03,180",
+      "text": "to buy anyway he's a bit of a master"
+    },
+    {
+      "start_time": "00:03:01,650",
+      "end_time": "00:03:05,070",
+      "text": "with this thing so I said hey I've got a"
+    },
+    {
+      "start_time": "00:03:03,180",
+      "end_time": "00:03:07,020",
+      "text": "little map of Simon's adventures and he"
+    },
+    {
+      "start_time": "00:03:05,070",
+      "end_time": "00:03:09,660",
+      "text": "is obliging me so hopefully over the"
+    },
+    {
+      "start_time": "00:03:07,020",
+      "end_time": "00:03:11,310",
+      "text": "next I don't know week or two we should"
+    },
+    {
+      "start_time": "00:03:09,660",
+      "end_time": "00:03:12,510",
+      "text": "have some sort of visual representation"
+    },
+    {
+      "start_time": "00:03:11,310",
+      "end_time": "00:03:15,300",
+      "text": "that I will obviously share with you"
+    },
+    {
+      "start_time": "00:03:12,510",
+      "end_time": "00:03:17,490",
+      "text": "because it's really cool so they did"
+    },
+    {
+      "start_time": "00:03:15,300",
+      "end_time": "00:03:19,020",
+      "text": "track Simon's father back to August an"
+    },
+    {
+      "start_time": "00:03:17,490",
+      "end_time": "00:03:20,370",
+      "text": "but when they got there we learned a"
+    },
+    {
+      "start_time": "00:03:19,020",
+      "end_time": "00:03:23,220",
+      "text": "little bit more about Roland about"
+    },
+    {
+      "start_time": "00:03:20,370",
+      "end_time": "00:03:25,230",
+      "text": "Simon's father we learned that he had"
+    },
+    {
+      "start_time": "00:03:23,220",
+      "end_time": "00:03:27,300",
+      "text": "been in town for about a week and that"
+    },
+    {
+      "start_time": "00:03:25,230",
+      "end_time": "00:03:28,950",
+      "text": "he had looked he had discovered that"
+    },
+    {
+      "start_time": "00:03:27,300",
+      "end_time": "00:03:30,510",
+      "text": "Simon was in trouble with Manfred of"
+    },
+    {
+      "start_time": "00:03:28,950",
+      "end_time": "00:03:32,340",
+      "text": "dubbed in in the nearby city of chiton"
+    },
+    {
+      "start_time": "00:03:30,510",
+      "end_time": "00:03:34,200",
+      "text": "he had discovered that his son had a"
+    },
+    {
+      "start_time": "00:03:32,340",
+      "end_time": "00:03:36,030",
+      "text": "basically a warrant out for his"
+    },
+    {
+      "start_time": "00:03:34,200",
+      "end_time": "00:03:37,770",
+      "text": "immediate arrest and possibly execution"
+    },
+    {
+      "start_time": "00:03:36,030",
+      "end_time": "00:03:38,940",
+      "text": "if he ever returned to these lands of"
+    },
+    {
+      "start_time": "00:03:37,770",
+      "end_time": "00:03:40,680",
+      "text": "the solicitor of kite Nana land"
+    },
+    {
+      "start_time": "00:03:38,940",
+      "end_time": "00:03:42,390",
+      "text": "surrounded guidin oh he had also taken a"
+    },
+    {
+      "start_time": "00:03:40,680",
+      "end_time": "00:03:45,090",
+      "text": "wound a wound that Simon had been"
+    },
+    {
+      "start_time": "00:03:42,390",
+      "end_time": "00:03:46,920",
+      "text": "following a trail of blood now this"
+    },
+    {
+      "start_time": "00:03:45,090",
+      "end_time": "00:03:49,350",
+      "text": "becomes very interesting because we"
+    },
+    {
+      "start_time": "00:03:46,920",
+      "end_time": "00:03:51,330",
+      "text": "immediately then discovered that in fact"
+    },
+    {
+      "start_time": "00:03:49,350",
+      "end_time": "00:03:53,400",
+      "text": "the thing that made Simon's parents"
+    },
+    {
+      "start_time": "00:03:51,330",
+      "end_time": "00:03:54,930",
+      "text": "Roland and Simon's mother we don't have"
+    },
+    {
+      "start_time": "00:03:53,400",
+      "end_time": "00:03:55,950",
+      "text": "a name for yet but she's dead the thing"
+    },
+    {
+      "start_time": "00:03:54,930",
+      "end_time": "00:03:57,600",
+      "text": "that made Roland didn't mummy"
+    },
+    {
+      "start_time": "00:03:55,950",
+      "end_time": "00:04:00,300",
+      "text": "particularly interested to see that"
+    },
+    {
+      "start_time": "00:03:57,600",
+      "end_time": "00:04:03,270",
+      "text": " the necromancer was the fact da da"
+    },
+    {
+      "start_time": "00:04:00,300",
+      "end_time": "00:04:04,980",
+      "text": "da that they were already dead"
+    },
+    {
+      "start_time": "00:04:03,270",
+      "end_time": "00:04:07,320",
+      "text": "that in fact they were some sort of"
+    },
+    {
+      "start_time": "00:04:04,980",
+      "end_time": "00:04:09,630",
+      "text": "unique type of ghost a ghost that was in"
+    },
+    {
+      "start_time": "00:04:07,320",
+      "end_time": "00:04:11,730",
+      "text": "and out of corporeality corporal"
+    },
+    {
+      "start_time": "00:04:09,630",
+      "end_time": "00:04:14,160",
+      "text": "realities at the word they sort of were"
+    },
+    {
+      "start_time": "00:04:11,730",
+      "end_time": "00:04:16,590",
+      "text": "phasing in and out of substance and not"
+    },
+    {
+      "start_time": "00:04:14,160",
+      "end_time": "00:04:18,959",
+      "text": "substance and it was very clear with the"
+    },
+    {
+      "start_time": "00:04:16,590",
+      "end_time": "00:04:21,090",
+      "text": "events of last session that Roland did"
+    },
+    {
+      "start_time": "00:04:18,959",
+      "end_time": "00:04:22,380",
+      "text": "not know he was dead we're gonna find it"
+    },
+    {
+      "start_time": "00:04:21,090",
+      "end_time": "00:04:24,780",
+      "text": "a little bit more about Roland and us"
+    },
+    {
+      "start_time": "00:04:22,380",
+      "end_time": "00:04:26,580",
+      "text": "and the nature of his death and the"
+    },
+    {
+      "start_time": "00:04:24,780",
+      "end_time": "00:04:28,320",
+      "text": "death of his wife as well in the forest"
+    },
+    {
+      "start_time": "00:04:26,580",
+      "end_time": "00:04:29,790",
+      "text": "which originally got zero tours"
+    },
+    {
+      "start_time": "00:04:28,320",
+      "end_time": "00:04:31,290",
+      "text": "attention we're gonna find all that out"
+    },
+    {
+      "start_time": "00:04:29,790",
+      "end_time": "00:04:32,700",
+      "text": "in just a second but just to do a little"
+    },
+    {
+      "start_time": "00:04:31,290",
+      "end_time": "00:04:35,250",
+      "text": "bit of bookkeeping our chaos factor was"
+    },
+    {
+      "start_time": "00:04:32,700",
+      "end_time": "00:04:37,140",
+      "text": "going back up to six because the very"
+    },
+    {
+      "start_time": "00:04:35,250",
+      "end_time": "00:04:38,880",
+      "text": "end of last episode was a real shock to"
+    },
+    {
+      "start_time": "00:04:37,140",
+      "end_time": "00:04:41,580",
+      "text": "Simon so chaos factor back up to six"
+    },
+    {
+      "start_time": "00:04:38,880",
+      "end_time": "00:04:44,250",
+      "text": "also we can close the thread track down"
+    },
+    {
+      "start_time": "00:04:41,580",
+      "end_time": "00:04:46,110",
+      "text": "Simon's father we have done that the"
+    },
+    {
+      "start_time": "00:04:44,250",
+      "end_time": "00:04:47,400",
+      "text": "this thread here discovers zero torres"
+    },
+    {
+      "start_time": "00:04:46,110",
+      "end_time": "00:04:50,160",
+      "text": "interest in Simon's parents well that's"
+    },
+    {
+      "start_time": "00:04:47,400",
+      "end_time": "00:04:52,140",
+      "text": "what we're about to basically get to the"
+    },
+    {
+      "start_time": "00:04:50,160",
+      "end_time": "00:04:53,880",
+      "text": "bottom of two so I think we will"
+    },
+    {
+      "start_time": "00:04:52,140",
+      "end_time": "00:04:57,000",
+      "text": "probably wind up"
+    },
+    {
+      "start_time": "00:04:53,880",
+      "end_time": "00:05:02,220",
+      "text": "closing that - but let's see so as Simon"
+    },
+    {
+      "start_time": "00:04:57,000",
+      "end_time": "00:05:03,870",
+      "text": "has just backed away from the semi ghost"
+    },
+    {
+      "start_time": "00:05:02,220",
+      "end_time": "00:05:05,610",
+      "text": "of his father and a cherylin had"
+    },
+    {
+      "start_time": "00:05:03,870",
+      "end_time": "00:05:07,620",
+      "text": "manifested and said he is one of us"
+    },
+    {
+      "start_time": "00:05:05,610",
+      "end_time": "00:05:10,020",
+      "text": "Simon you know back to a completely"
+    },
+    {
+      "start_time": "00:05:07,620",
+      "end_time": "00:05:11,970",
+      "text": "horrified the father clearly had no idea"
+    },
+    {
+      "start_time": "00:05:10,020",
+      "end_time": "00:05:15,090",
+      "text": "what was wrong I don't think the father"
+    },
+    {
+      "start_time": "00:05:11,970",
+      "end_time": "00:05:17,160",
+      "text": "knows he's dead I also think that the"
+    },
+    {
+      "start_time": "00:05:15,090",
+      "end_time": "00:05:19,530",
+      "text": "father the father spirit cuz he is a"
+    },
+    {
+      "start_time": "00:05:17,160",
+      "end_time": "00:05:21,240",
+      "text": "spirit he is dead he is a ghost he's"
+    },
+    {
+      "start_time": "00:05:19,530",
+      "end_time": "00:05:22,860",
+      "text": "just a very unique kind of ghost a ghost"
+    },
+    {
+      "start_time": "00:05:21,240",
+      "end_time": "00:05:24,570",
+      "text": "at pay as I said does not know he's dead"
+    },
+    {
+      "start_time": "00:05:22,860",
+      "end_time": "00:05:25,560",
+      "text": "and it's also sort of phasing in and out"
+    },
+    {
+      "start_time": "00:05:24,570",
+      "end_time": "00:05:26,790",
+      "text": "of corporeality"
+    },
+    {
+      "start_time": "00:05:25,560",
+      "end_time": "00:05:28,410",
+      "text": "that's the reason why Simon who was"
+    },
+    {
+      "start_time": "00:05:26,790",
+      "end_time": "00:05:30,060",
+      "text": "initially able to embrace him but then"
+    },
+    {
+      "start_time": "00:05:28,410",
+      "end_time": "00:05:31,770",
+      "text": "his hands went through his shoulders so"
+    },
+    {
+      "start_time": "00:05:30,060",
+      "end_time": "00:05:34,170",
+      "text": "I think that Roland does not know he's"
+    },
+    {
+      "start_time": "00:05:31,770",
+      "end_time": "00:05:36,510",
+      "text": "dead and I think that Roland also has no"
+    },
+    {
+      "start_time": "00:05:34,170",
+      "end_time": "00:05:38,430",
+      "text": "sense of time so when Roland is looking"
+    },
+    {
+      "start_time": "00:05:36,510",
+      "end_time": "00:05:42,120",
+      "text": "at Simon I think two things happen"
+    },
+    {
+      "start_time": "00:05:38,430",
+      "end_time": "00:05:44,700",
+      "text": "Simon how have you grown so large such a"
+    },
+    {
+      "start_time": "00:05:42,120",
+      "end_time": "00:05:47,160",
+      "text": "short period of time and who is that"
+    },
+    {
+      "start_time": "00:05:44,700",
+      "end_time": "00:05:48,630",
+      "text": "woman beside you I I do not know her and"
+    },
+    {
+      "start_time": "00:05:47,160",
+      "end_time": "00:05:50,970",
+      "text": "Simon looks back to where sherrilyn has"
+    },
+    {
+      "start_time": "00:05:48,630",
+      "end_time": "00:05:54,170",
+      "text": "manifest and she is fully visible now or"
+    },
+    {
+      "start_time": "00:05:50,970",
+      "end_time": "00:05:57,060",
+      "text": "and of course he's taking a step away"
+    },
+    {
+      "start_time": "00:05:54,170",
+      "end_time": "00:06:00,480",
+      "text": "but it's time to grow growl and seize"
+    },
+    {
+      "start_time": "00:05:57,060",
+      "end_time": "00:06:02,160",
+      "text": "cherylin as just a woman because to his"
+    },
+    {
+      "start_time": "00:06:00,480",
+      "end_time": "00:06:05,700",
+      "text": "eyes that's what she would appear as"
+    },
+    {
+      "start_time": "00:06:02,160",
+      "end_time": "00:06:09,300",
+      "text": "just a woman father do you not know how"
+    },
+    {
+      "start_time": "00:06:05,700",
+      "end_time": "00:06:12,450",
+      "text": "long it has been no I mean I'm not sure"
+    },
+    {
+      "start_time": "00:06:09,300",
+      "end_time": "00:06:17,240",
+      "text": "how long it's been Simon but there at"
+    },
+    {
+      "start_time": "00:06:12,450",
+      "end_time": "00:06:22,130",
+      "text": "least a week a week brother"
+    },
+    {
+      "start_time": "00:06:17,240",
+      "end_time": "00:06:26,900",
+      "text": "do you not remember I have difficulty"
+    },
+    {
+      "start_time": "00:06:22,130",
+      "end_time": "00:06:28,009",
+      "text": "remembering anything let's find out what"
+    },
+    {
+      "start_time": "00:06:26,900",
+      "end_time": "00:06:30,410",
+      "text": "he remembers let's find out what"
+    },
+    {
+      "start_time": "00:06:28,009",
+      "end_time": "00:06:31,099",
+      "text": "happened so first of all I think Roland"
+    },
+    {
+      "start_time": "00:06:30,410",
+      "end_time": "00:06:32,630",
+      "text": "and his wife"
+    },
+    {
+      "start_time": "00:06:31,099",
+      "end_time": "00:06:34,610",
+      "text": "they're both hunters they're both"
+    },
+    {
+      "start_time": "00:06:32,630",
+      "end_time": "00:06:37,009",
+      "text": "foresters so they would have gone out"
+    },
+    {
+      "start_time": "00:06:34,610",
+      "end_time": "00:06:39,169",
+      "text": "together to hunt and to trap and do all"
+    },
+    {
+      "start_time": "00:06:37,009",
+      "end_time": "00:06:42,020",
+      "text": "that kind of stuff so I think roll it at"
+    },
+    {
+      "start_time": "00:06:39,169",
+      "end_time": "00:06:44,840",
+      "text": "his wife many many years ago left a"
+    },
+    {
+      "start_time": "00:06:42,020",
+      "end_time": "00:06:47,270",
+      "text": "cabin on an extended hunting trip into"
+    },
+    {
+      "start_time": "00:06:44,840",
+      "end_time": "00:06:49,160",
+      "text": "the Black Forest but something happened"
+    },
+    {
+      "start_time": "00:06:47,270",
+      "end_time": "00:06:51,590",
+      "text": "I think some calamity befell them that"
+    },
+    {
+      "start_time": "00:06:49,160",
+      "end_time": "00:06:52,669",
+      "text": "got them killed I think it was mundane"
+    },
+    {
+      "start_time": "00:06:51,590",
+      "end_time": "00:06:54,050",
+      "text": "though I don't think there was anything"
+    },
+    {
+      "start_time": "00:06:52,669",
+      "end_time": "00:06:56,060",
+      "text": "special about the nature that as I think"
+    },
+    {
+      "start_time": "00:06:54,050",
+      "end_time": "00:06:57,380",
+      "text": "it was a quick thing but I do think that"
+    },
+    {
+      "start_time": "00:06:56,060",
+      "end_time": "00:07:00,620",
+      "text": "whatever the nature of their death was"
+    },
+    {
+      "start_time": "00:06:57,380",
+      "end_time": "00:07:02,360",
+      "text": "it was such that they were trying to"
+    },
+    {
+      "start_time": "00:07:00,620",
+      "end_time": "00:07:04,639",
+      "text": "keep each other alive so I'm sort of"
+    },
+    {
+      "start_time": "00:07:02,360",
+      "end_time": "00:07:06,320",
+      "text": "picturing like they fell down a crevasse"
+    },
+    {
+      "start_time": "00:07:04,639",
+      "end_time": "00:07:09,020",
+      "text": "or they were good they were crossing a"
+    },
+    {
+      "start_time": "00:07:06,320",
+      "end_time": "00:07:10,849",
+      "text": "crevasse by a rope bridge and the rope"
+    },
+    {
+      "start_time": "00:07:09,020",
+      "end_time": "00:07:13,009",
+      "text": "bridge snap maybe the wife was going"
+    },
+    {
+      "start_time": "00:07:10,849",
+      "end_time": "00:07:14,330",
+      "text": "first again of the rope bridge fell down"
+    },
+    {
+      "start_time": "00:07:13,009",
+      "end_time": "00:07:15,979",
+      "text": "hit the side of the wall she was hanging"
+    },
+    {
+      "start_time": "00:07:14,330",
+      "end_time": "00:07:17,750",
+      "text": "on for dear life and he was trying"
+    },
+    {
+      "start_time": "00:07:15,979",
+      "end_time": "00:07:19,520",
+      "text": "everything to try and climb down to her"
+    },
+    {
+      "start_time": "00:07:17,750",
+      "end_time": "00:07:21,590",
+      "text": "to help her up but the the rope bridge"
+    },
+    {
+      "start_time": "00:07:19,520",
+      "end_time": "00:07:23,150",
+      "text": "broke and they both felt to the death"
+    },
+    {
+      "start_time": "00:07:21,590",
+      "end_time": "00:07:26,150",
+      "text": "kind of something like that"
+    },
+    {
+      "start_time": "00:07:23,150",
+      "end_time": "00:07:30,050",
+      "text": "so was it that I don't know I'm gonna"
+    },
+    {
+      "start_time": "00:07:26,150",
+      "end_time": "00:07:32,240",
+      "text": "call it somewhat likely on KS factor 622"
+    },
+    {
+      "start_time": "00:07:30,050",
+      "end_time": "00:07:33,770",
+      "text": "well doubles don't count for this"
+    },
+    {
+      "start_time": "00:07:32,240",
+      "end_time": "00:07:35,419",
+      "text": "because we're determining a backstory"
+    },
+    {
+      "start_time": "00:07:33,770",
+      "end_time": "00:07:37,849",
+      "text": "thing here so that is what happens so"
+    },
+    {
+      "start_time": "00:07:35,419",
+      "end_time": "00:07:39,919",
+      "text": "they did basically fall to a mundane"
+    },
+    {
+      "start_time": "00:07:37,849",
+      "end_time": "00:07:41,810",
+      "text": "death I think the twist is I had this"
+    },
+    {
+      "start_time": "00:07:39,919",
+      "end_time": "00:07:43,280",
+      "text": "idea earlier before the show and I think"
+    },
+    {
+      "start_time": "00:07:41,810",
+      "end_time": "00:07:45,050",
+      "text": "I kind of think it's interesting because"
+    },
+    {
+      "start_time": "00:07:43,280",
+      "end_time": "00:07:47,570",
+      "text": "there has to be some explanation as to"
+    },
+    {
+      "start_time": "00:07:45,050",
+      "end_time": "00:07:51,050",
+      "text": "why Simon's father Simon's parents"
+    },
+    {
+      "start_time": "00:07:47,570",
+      "end_time": "00:07:52,370",
+      "text": "actually became these unique style of"
+    },
+    {
+      "start_time": "00:07:51,050",
+      "end_time": "00:07:54,199",
+      "text": "ghosts like it's not just a matter of"
+    },
+    {
+      "start_time": "00:07:52,370",
+      "end_time": "00:07:56,000",
+      "text": "them dying and then their spirits come"
+    },
+    {
+      "start_time": "00:07:54,199",
+      "end_time": "00:07:58,009",
+      "text": "back to haunt the site or whatever the"
+    },
+    {
+      "start_time": "00:07:56,000",
+      "end_time": "00:07:59,690",
+      "text": "case is something caused them to become"
+    },
+    {
+      "start_time": "00:07:58,009",
+      "end_time": "00:08:01,400",
+      "text": "these unique creatures which is what got"
+    },
+    {
+      "start_time": "00:07:59,690",
+      "end_time": "00:08:03,169",
+      "text": "zero Tory's attention remember that's"
+    },
+    {
+      "start_time": "00:08:01,400",
+      "end_time": "00:08:04,820",
+      "text": "where this is all coming from he noticed"
+    },
+    {
+      "start_time": "00:08:03,169",
+      "end_time": "00:08:06,889",
+      "text": "them for a reason I think the reason is"
+    },
+    {
+      "start_time": "00:08:04,820",
+      "end_time": "00:08:08,900",
+      "text": "when they fell to the bottom of that"
+    },
+    {
+      "start_time": "00:08:06,889",
+      "end_time": "00:08:10,940",
+      "text": "ravine after the rope bridge broke at"
+    },
+    {
+      "start_time": "00:08:08,900",
+      "end_time": "00:08:14,300",
+      "text": "the moment of their death they fell onto"
+    },
+    {
+      "start_time": "00:08:10,940",
+      "end_time": "00:08:16,099",
+      "text": "like a field of plants or flowers kind"
+    },
+    {
+      "start_time": "00:08:14,300",
+      "end_time": "00:08:17,960",
+      "text": "of like a a the lists or kingsfoil in"
+    },
+    {
+      "start_time": "00:08:16,099",
+      "end_time": "00:08:20,389",
+      "text": "Lord of the Rings which is a plant that"
+    },
+    {
+      "start_time": "00:08:17,960",
+      "end_time": "00:08:22,370",
+      "text": "Aragorn uses to try and heal throat O's"
+    },
+    {
+      "start_time": "00:08:20,389",
+      "end_time": "00:08:23,570",
+      "text": "wound in that story so I think it's"
+    },
+    {
+      "start_time": "00:08:22,370",
+      "end_time": "00:08:26,510",
+      "text": "something like that I think there's some"
+    },
+    {
+      "start_time": "00:08:23,570",
+      "end_time": "00:08:28,150",
+      "text": "sort of herb or plant like a Fe a patch"
+    },
+    {
+      "start_time": "00:08:26,510",
+      "end_time": "00:08:30,490",
+      "text": "of it at the bottom of this ravine"
+    },
+    {
+      "start_time": "00:08:28,150",
+      "end_time": "00:08:32,440",
+      "text": "that has some medicinal properties that"
+    },
+    {
+      "start_time": "00:08:30,490",
+      "end_time": "00:08:33,580",
+      "text": "basically it's like a life preserver"
+    },
+    {
+      "start_time": "00:08:32,440",
+      "end_time": "00:08:36,310",
+      "text": "and I think when Rowland and his wife"
+    },
+    {
+      "start_time": "00:08:33,580",
+      "end_time": "00:08:39,250",
+      "text": "fell to their death they landed at the"
+    },
+    {
+      "start_time": "00:08:36,310",
+      "end_time": "00:08:41,410",
+      "text": "bottom of that ravine and somehow that"
+    },
+    {
+      "start_time": "00:08:39,250",
+      "end_time": "00:08:43,420",
+      "text": "plant maybe it was pollen that got"
+    },
+    {
+      "start_time": "00:08:41,410",
+      "end_time": "00:08:47,110",
+      "text": "puffed up who knows but but somehow that"
+    },
+    {
+      "start_time": "00:08:43,420",
+      "end_time": "00:08:49,510",
+      "text": "at that exact moment interacted with the"
+    },
+    {
+      "start_time": "00:08:47,110",
+      "end_time": "00:08:51,640",
+      "text": "moment of their death and caused them to"
+    },
+    {
+      "start_time": "00:08:49,510",
+      "end_time": "00:08:53,590",
+      "text": "basically become there because their"
+    },
+    {
+      "start_time": "00:08:51,640",
+      "end_time": "00:08:55,570",
+      "text": "spirits to become unmoored from their"
+    },
+    {
+      "start_time": "00:08:53,590",
+      "end_time": "00:08:57,820",
+      "text": "bodies it has to be unique so I kind of"
+    },
+    {
+      "start_time": "00:08:55,570",
+      "end_time": "00:08:59,380",
+      "text": "like that let's ask if that's the case I"
+    },
+    {
+      "start_time": "00:08:57,820",
+      "end_time": "00:09:03,340",
+      "text": "do like that so I'm gonna call it very"
+    },
+    {
+      "start_time": "00:08:59,380",
+      "end_time": "00:09:06,070",
+      "text": "likely such is the power of the GM using"
+    },
+    {
+      "start_time": "00:09:03,340",
+      "end_time": "00:09:08,680",
+      "text": "the chart are you decide the likelihood"
+    },
+    {
+      "start_time": "00:09:06,070",
+      "end_time": "00:09:11,200",
+      "text": "were very likely that that is what"
+    },
+    {
+      "start_time": "00:09:08,680",
+      "end_time": "00:09:13,360",
+      "text": "happened and 56 yes that is in fact what"
+    },
+    {
+      "start_time": "00:09:11,200",
+      "end_time": "00:09:15,700",
+      "text": "happened so now we know the reason why"
+    },
+    {
+      "start_time": "00:09:13,360",
+      "end_time": "00:09:17,230",
+      "text": "they are they became these unique Undead"
+    },
+    {
+      "start_time": "00:09:15,700",
+      "end_time": "00:09:18,790",
+      "text": "and we also know the reason why zero"
+    },
+    {
+      "start_time": "00:09:17,230",
+      "end_time": "00:09:20,260",
+      "text": "tour took an interest in them because I"
+    },
+    {
+      "start_time": "00:09:18,790",
+      "end_time": "00:09:21,670",
+      "text": "think that zero tour using his Iraq"
+    },
+    {
+      "start_time": "00:09:20,260",
+      "end_time": "00:09:24,220",
+      "text": "Euler device in the temple would have"
+    },
+    {
+      "start_time": "00:09:21,670",
+      "end_time": "00:09:25,840",
+      "text": "immediately been aware of anything of"
+    },
+    {
+      "start_time": "00:09:24,220",
+      "end_time": "00:09:27,880",
+      "text": "interest to him something that he could"
+    },
+    {
+      "start_time": "00:09:25,840",
+      "end_time": "00:09:29,590",
+      "text": "use because if he finds some sort of"
+    },
+    {
+      "start_time": "00:09:27,880",
+      "end_time": "00:09:31,300",
+      "text": "unique Undead that he could then harness"
+    },
+    {
+      "start_time": "00:09:29,590",
+      "end_time": "00:09:33,910",
+      "text": "and maybe take their supernatural power"
+    },
+    {
+      "start_time": "00:09:31,300",
+      "end_time": "00:09:35,110",
+      "text": "and embed them into a flesh construct"
+    },
+    {
+      "start_time": "00:09:33,910",
+      "end_time": "00:09:36,520",
+      "text": "maybe that's what happened to Simon's"
+    },
+    {
+      "start_time": "00:09:35,110",
+      "end_time": "00:09:37,990",
+      "text": "mother that would just be another tool"
+    },
+    {
+      "start_time": "00:09:36,520",
+      "end_time": "00:09:40,360",
+      "text": "in his arsenal so that explains the"
+    },
+    {
+      "start_time": "00:09:37,990",
+      "end_time": "00:09:42,280",
+      "text": "reason why the zero tour was interested"
+    },
+    {
+      "start_time": "00:09:40,360",
+      "end_time": "00:09:45,700",
+      "text": "it also explains the unique nature of"
+    },
+    {
+      "start_time": "00:09:42,280",
+      "end_time": "00:09:47,680",
+      "text": "Simon's parents particular situation ok"
+    },
+    {
+      "start_time": "00:09:45,700",
+      "end_time": "00:09:52,420",
+      "text": "great thread closed now that Simon is"
+    },
+    {
+      "start_time": "00:09:47,680",
+      "end_time": "00:09:54,640",
+      "text": "aware that his father is in fact some"
+    },
+    {
+      "start_time": "00:09:52,420",
+      "end_time": "00:09:56,170",
+      "text": "sort of ghost that his father is dead I"
+    },
+    {
+      "start_time": "00:09:54,640",
+      "end_time": "00:09:58,150",
+      "text": "mean this is bad news I think that this"
+    },
+    {
+      "start_time": "00:09:56,170",
+      "end_time": "00:10:00,880",
+      "text": "is overwhelming for Simon if he stumbles"
+    },
+    {
+      "start_time": "00:09:58,150",
+      "end_time": "00:10:02,500",
+      "text": "back even further as his father is like"
+    },
+    {
+      "start_time": "00:10:00,880",
+      "end_time": "00:10:04,750",
+      "text": "you know basically coming towards him"
+    },
+    {
+      "start_time": "00:10:02,500",
+      "end_time": "00:10:06,010",
+      "text": "totally confused yeah he has no because"
+    },
+    {
+      "start_time": "00:10:04,750",
+      "end_time": "00:10:07,720",
+      "text": "he doesn't know he's dead he did so"
+    },
+    {
+      "start_time": "00:10:06,010",
+      "end_time": "00:10:09,940",
+      "text": "what's wrong he just knows that he can't"
+    },
+    {
+      "start_time": "00:10:07,720",
+      "end_time": "00:10:12,190",
+      "text": "remember in his mind he's been gone a"
+    },
+    {
+      "start_time": "00:10:09,940",
+      "end_time": "00:10:13,870",
+      "text": "week he went hunting there was some sort"
+    },
+    {
+      "start_time": "00:10:12,190",
+      "end_time": "00:10:16,240",
+      "text": "of accident next thing he knows he's in"
+    },
+    {
+      "start_time": "00:10:13,870",
+      "end_time": "00:10:17,680",
+      "text": "this temple his wife gets turned into"
+    },
+    {
+      "start_time": "00:10:16,240",
+      "end_time": "00:10:19,600",
+      "text": "this horrible creature he has to escape"
+    },
+    {
+      "start_time": "00:10:17,680",
+      "end_time": "00:10:21,160",
+      "text": "and his instinct tells him to go back"
+    },
+    {
+      "start_time": "00:10:19,600",
+      "end_time": "00:10:23,890",
+      "text": "home to check on her son all of that is"
+    },
+    {
+      "start_time": "00:10:21,160",
+      "end_time": "00:10:25,510",
+      "text": "true except also he's dead there's a"
+    },
+    {
+      "start_time": "00:10:23,890",
+      "end_time": "00:10:28,810",
+      "text": "number of things that immediately leap"
+    },
+    {
+      "start_time": "00:10:25,510",
+      "end_time": "00:10:30,610",
+      "text": "to mind here and that is what do all"
+    },
+    {
+      "start_time": "00:10:28,810",
+      "end_time": "00:10:32,320",
+      "text": "these characters want because this could"
+    },
+    {
+      "start_time": "00:10:30,610",
+      "end_time": "00:10:34,810",
+      "text": "become very important very shortly"
+    },
+    {
+      "start_time": "00:10:32,320",
+      "end_time": "00:10:36,610",
+      "text": "Simon obviously now that he knows his"
+    },
+    {
+      "start_time": "00:10:34,810",
+      "end_time": "00:10:38,010",
+      "text": "father is dead and once he recovers from"
+    },
+    {
+      "start_time": "00:10:36,610",
+      "end_time": "00:10:39,510",
+      "text": "the initial shock obvious"
+    },
+    {
+      "start_time": "00:10:38,010",
+      "end_time": "00:10:41,190",
+      "text": "he's gonna be reeling from this for some"
+    },
+    {
+      "start_time": "00:10:39,510",
+      "end_time": "00:10:42,360",
+      "text": "time but I do think that once he"
+    },
+    {
+      "start_time": "00:10:41,190",
+      "end_time": "00:10:43,920",
+      "text": "recovers from the initial shock he's"
+    },
+    {
+      "start_time": "00:10:42,360",
+      "end_time": "00:10:46,650",
+      "text": "gonna want to find a way to put his"
+    },
+    {
+      "start_time": "00:10:43,920",
+      "end_time": "00:10:48,540",
+      "text": "father to rest what is that good - a"
+    },
+    {
+      "start_time": "00:10:46,650",
+      "end_time": "00:10:50,430",
+      "text": "tail I don't know the the dice will"
+    },
+    {
+      "start_time": "00:10:48,540",
+      "end_time": "00:10:53,250",
+      "text": "decide so that's what he wants"
+    },
+    {
+      "start_time": "00:10:50,430",
+      "end_time": "00:10:54,060",
+      "text": "Arne wants to help Simon find his father"
+    },
+    {
+      "start_time": "00:10:53,250",
+      "end_time": "00:10:56,670",
+      "text": "which he's done"
+    },
+    {
+      "start_time": "00:10:54,060",
+      "end_time": "00:10:57,990",
+      "text": "I do think ultimately Arne's wishes are"
+    },
+    {
+      "start_time": "00:10:56,670",
+      "end_time": "00:10:59,280",
+      "text": "to help Simon clear his name in the city"
+    },
+    {
+      "start_time": "00:10:57,990",
+      "end_time": "00:11:00,330",
+      "text": "of chitin and we are very close to kite"
+    },
+    {
+      "start_time": "00:10:59,280",
+      "end_time": "00:11:02,490",
+      "text": "right now so I think that's gonna be"
+    },
+    {
+      "start_time": "00:11:00,330",
+      "end_time": "00:11:04,080",
+      "text": "thing for him ed Bert wants to get rid"
+    },
+    {
+      "start_time": "00:11:02,490",
+      "end_time": "00:11:05,700",
+      "text": "of Carolyn we still know that and he"
+    },
+    {
+      "start_time": "00:11:04,080",
+      "end_time": "00:11:07,620",
+      "text": "still got his eye on that crossbow"
+    },
+    {
+      "start_time": "00:11:05,700",
+      "end_time": "00:11:09,600",
+      "text": "and I think that any opportunity that ed"
+    },
+    {
+      "start_time": "00:11:07,620",
+      "end_time": "00:11:12,150",
+      "text": "Bert gets to grab that crossbow and take"
+    },
+    {
+      "start_time": "00:11:09,600",
+      "end_time": "00:11:14,910",
+      "text": "a shot at the nav now now visible"
+    },
+    {
+      "start_time": "00:11:12,150",
+      "end_time": "00:11:17,160",
+      "text": "cherylin he might take it so that could"
+    },
+    {
+      "start_time": "00:11:14,910",
+      "end_time": "00:11:18,110",
+      "text": "come into it sherilyn now this is a"
+    },
+    {
+      "start_time": "00:11:17,160",
+      "end_time": "00:11:20,870",
+      "text": "really interesting thing"
+    },
+    {
+      "start_time": "00:11:18,110",
+      "end_time": "00:11:23,850",
+      "text": "sherilyn is a ghost she immediately"
+    },
+    {
+      "start_time": "00:11:20,870",
+      "end_time": "00:11:25,380",
+      "text": "recognizes Roland for what he is which"
+    },
+    {
+      "start_time": "00:11:23,850",
+      "end_time": "00:11:27,120",
+      "text": "is a ghost but I think that she also"
+    },
+    {
+      "start_time": "00:11:25,380",
+      "end_time": "00:11:30,720",
+      "text": "recognizes that he's something different"
+    },
+    {
+      "start_time": "00:11:27,120",
+      "end_time": "00:11:33,090",
+      "text": "her entire purpose is to obliterate the"
+    },
+    {
+      "start_time": "00:11:30,720",
+      "end_time": "00:11:36,990",
+      "text": "undead so my question is how does"
+    },
+    {
+      "start_time": "00:11:33,090",
+      "end_time": "00:11:39,810",
+      "text": "cherylin respond to Simon's father she"
+    },
+    {
+      "start_time": "00:11:36,990",
+      "end_time": "00:11:42,750",
+      "text": "has just said he has my TAS does that"
+    },
+    {
+      "start_time": "00:11:39,810",
+      "end_time": "00:11:45,570",
+      "text": "mean that she is going to want to find a"
+    },
+    {
+      "start_time": "00:11:42,750",
+      "end_time": "00:11:47,940",
+      "text": "way to help Simon to lay him to rest to"
+    },
+    {
+      "start_time": "00:11:45,570",
+      "end_time": "00:11:50,130",
+      "text": "put him at peace or I mean we've seen"
+    },
+    {
+      "start_time": "00:11:47,940",
+      "end_time": "00:11:53,940",
+      "text": "what kind of person cherylin is at least"
+    },
+    {
+      "start_time": "00:11:50,130",
+      "end_time": "00:11:56,280",
+      "text": "in her unlife does she attack Roland I"
+    },
+    {
+      "start_time": "00:11:53,940",
+      "end_time": "00:12:00,000",
+      "text": "don't think it's likely I think that she"
+    },
+    {
+      "start_time": "00:11:56,280",
+      "end_time": "00:12:02,250",
+      "text": "would understand that Roland is not an"
+    },
+    {
+      "start_time": "00:12:00,000",
+      "end_time": "00:12:03,810",
+      "text": "immediate threat to them in this I think"
+    },
+    {
+      "start_time": "00:12:02,250",
+      "end_time": "00:12:05,490",
+      "text": "that she would want to find another way"
+    },
+    {
+      "start_time": "00:12:03,810",
+      "end_time": "00:12:09,180",
+      "text": "but let's find out I had to call it very"
+    },
+    {
+      "start_time": "00:12:05,490",
+      "end_time": "00:12:13,200",
+      "text": "unlikely that she just attacks oh okay"
+    },
+    {
+      "start_time": "00:12:09,180",
+      "end_time": "00:12:17,010",
+      "text": "well she does and we've rolled the"
+    },
+    {
+      "start_time": "00:12:13,200",
+      "end_time": "00:12:19,950",
+      "text": "doubles as Roland is walking down the"
+    },
+    {
+      "start_time": "00:12:17,010",
+      "end_time": "00:12:21,090",
+      "text": "garden path here towards his son and the"
+    },
+    {
+      "start_time": "00:12:19,950",
+      "end_time": "00:12:21,600",
+      "text": "rest of them are kind of freaking out a"
+    },
+    {
+      "start_time": "00:12:21,090",
+      "end_time": "00:12:24,270",
+      "text": "little bit"
+    },
+    {
+      "start_time": "00:12:21,600",
+      "end_time": "00:12:26,130",
+      "text": "sherilyn begins just sort of you know"
+    },
+    {
+      "start_time": "00:12:24,270",
+      "end_time": "00:12:28,920",
+      "text": "manifest even further and sort of rise"
+    },
+    {
+      "start_time": "00:12:26,130",
+      "end_time": "00:12:30,180",
+      "text": "up and begin to launch some sort of"
+    },
+    {
+      "start_time": "00:12:28,920",
+      "end_time": "00:12:31,590",
+      "text": "attack now a couple things happen at"
+    },
+    {
+      "start_time": "00:12:30,180",
+      "end_time": "00:12:32,820",
+      "text": "this moment we have a random event were"
+    },
+    {
+      "start_time": "00:12:31,590",
+      "end_time": "00:12:34,920",
+      "text": "to see what that is but I also think"
+    },
+    {
+      "start_time": "00:12:32,820",
+      "end_time": "00:12:37,140",
+      "text": "because Simon is reeling from the shock"
+    },
+    {
+      "start_time": "00:12:34,920",
+      "end_time": "00:12:38,580",
+      "text": "of this he's just like his eyes when he"
+    },
+    {
+      "start_time": "00:12:37,140",
+      "end_time": "00:12:40,770",
+      "text": "doesn't know what to do I think ed Bert"
+    },
+    {
+      "start_time": "00:12:38,580",
+      "end_time": "00:12:42,270",
+      "text": "Mike sees his opportunity and try and"
+    },
+    {
+      "start_time": "00:12:40,770",
+      "end_time": "00:12:44,520",
+      "text": "grab that crossbow to shoot Charlotte"
+    },
+    {
+      "start_time": "00:12:42,270",
+      "end_time": "00:12:47,670",
+      "text": "that is possible let's decide that first"
+    },
+    {
+      "start_time": "00:12:44,520",
+      "end_time": "00:12:48,499",
+      "text": "does ed Bert seize upon this opportunity"
+    },
+    {
+      "start_time": "00:12:47,670",
+      "end_time": "00:12:50,869",
+      "text": "to"
+    },
+    {
+      "start_time": "00:12:48,499",
+      "end_time": "00:12:53,929",
+      "text": "grab the crossbow also the stunned Simon"
+    },
+    {
+      "start_time": "00:12:50,869",
+      "end_time": "00:12:57,259",
+      "text": "and take a shot at cherylin very likely"
+    },
+    {
+      "start_time": "00:12:53,929",
+      "end_time": "00:12:59,809",
+      "text": "chaos vector 622 he does and there's"
+    },
+    {
+      "start_time": "00:12:57,259",
+      "end_time": "00:13:01,579",
+      "text": "another random event okay so he's"
+    },
+    {
+      "start_time": "00:12:59,809",
+      "end_time": "00:13:04,069",
+      "text": "definitely gonna make a play for that"
+    },
+    {
+      "start_time": "00:13:01,579",
+      "end_time": "00:13:06,169",
+      "text": "and he sees cherylin manifests all of"
+    },
+    {
+      "start_time": "00:13:04,069",
+      "end_time": "00:13:07,359",
+      "text": "her attention on roland coming down the"
+    },
+    {
+      "start_time": "00:13:06,169",
+      "end_time": "00:13:09,889",
+      "text": "garden path"
+    },
+    {
+      "start_time": "00:13:07,359",
+      "end_time": "00:13:12,379",
+      "text": "Simon's stepping back staggering back"
+    },
+    {
+      "start_time": "00:13:09,889",
+      "end_time": "00:13:14,299",
+      "text": "and for grabbing a crossbow off of"
+    },
+    {
+      "start_time": "00:13:12,379",
+      "end_time": "00:13:16,819",
+      "text": "Simon's back or side or wherever he's"
+    },
+    {
+      "start_time": "00:13:14,299",
+      "end_time": "00:13:18,859",
+      "text": "carrying it and Kapow random events two"
+    },
+    {
+      "start_time": "00:13:16,819",
+      "end_time": "00:13:25,099",
+      "text": "of them what's the event focus of the"
+    },
+    {
+      "start_time": "00:13:18,859",
+      "end_time": "00:13:26,899",
+      "text": "first one 84 NPC negative okay I want to"
+    },
+    {
+      "start_time": "00:13:25,099",
+      "end_time": "00:13:29,089",
+      "text": "that's gonna be the order of the"
+    },
+    {
+      "start_time": "00:13:26,899",
+      "end_time": "00:13:31,429",
+      "text": "purifying flame and this might be"
+    },
+    {
+      "start_time": "00:13:29,089",
+      "end_time": "00:13:33,139",
+      "text": "translated into cherylin because she was"
+    },
+    {
+      "start_time": "00:13:31,429",
+      "end_time": "00:13:36,039",
+      "text": "the leader of the order of the / fury"
+    },
+    {
+      "start_time": "00:13:33,139",
+      "end_time": "00:13:38,689",
+      "text": "flank but that's really hard to say fast"
+    },
+    {
+      "start_time": "00:13:36,039",
+      "end_time": "00:13:40,249",
+      "text": "the order themselves they were on the"
+    },
+    {
+      "start_time": "00:13:38,689",
+      "end_time": "00:13:42,229",
+      "text": "way to the temple and that was some time"
+    },
+    {
+      "start_time": "00:13:40,249",
+      "end_time": "00:13:45,199",
+      "text": "ago so and the likelihood of them being"
+    },
+    {
+      "start_time": "00:13:42,229",
+      "end_time": "00:13:46,699",
+      "text": "anywhere near it's possible before we"
+    },
+    {
+      "start_time": "00:13:45,199",
+      "end_time": "00:13:48,919",
+      "text": "get too far down that road let's just"
+    },
+    {
+      "start_time": "00:13:46,699",
+      "end_time": "00:13:50,989",
+      "text": "dumb find out the nature of this first"
+    },
+    {
+      "start_time": "00:13:48,919",
+      "end_time": "00:13:56,479",
+      "text": "NPC negative event order the purifying"
+    },
+    {
+      "start_time": "00:13:50,989",
+      "end_time": "00:14:00,169",
+      "text": "flame NPC action is 32 delay delay goals"
+    },
+    {
+      "start_time": "00:13:56,479",
+      "end_time": "00:14:01,699",
+      "text": "okay well that is obvious to me the NPC"
+    },
+    {
+      "start_time": "00:14:00,169",
+      "end_time": "00:14:05,989",
+      "text": "is in fact cherylin as the head of the"
+    },
+    {
+      "start_time": "00:14:01,699",
+      "end_time": "00:14:08,479",
+      "text": "order delay of goals of course it is her"
+    },
+    {
+      "start_time": "00:14:05,989",
+      "end_time": "00:14:10,970",
+      "text": "goal is to try and destroy Roland and"
+    },
+    {
+      "start_time": "00:14:08,479",
+      "end_time": "00:14:12,499",
+      "text": "how does it get delayed by Edberg"
+    },
+    {
+      "start_time": "00:14:10,970",
+      "end_time": "00:14:18,199",
+      "text": "grabbing the crossbow and taking a shot"
+    },
+    {
+      "start_time": "00:14:12,499",
+      "end_time": "00:14:23,209",
+      "text": "now the second event is 83 ambiguous"
+    },
+    {
+      "start_time": "00:14:18,199",
+      "end_time": "00:14:25,609",
+      "text": "event excitement subject 50 excitement"
+    },
+    {
+      "start_time": "00:14:23,209",
+      "end_time": "00:14:27,409",
+      "text": "travel it's a catch-all category for"
+    },
+    {
+      "start_time": "00:14:25,609",
+      "end_time": "00:14:29,299",
+      "text": "anything that does not directly impact"
+    },
+    {
+      "start_time": "00:14:27,409",
+      "end_time": "00:14:31,009",
+      "text": "characters or NPCs it's not necessarily"
+    },
+    {
+      "start_time": "00:14:29,299",
+      "end_time": "00:14:32,119",
+      "text": "bad or good this is a random event that"
+    },
+    {
+      "start_time": "00:14:31,009",
+      "end_time": "00:14:33,349",
+      "text": "has it doesn't have births shattering"
+    },
+    {
+      "start_time": "00:14:32,119",
+      "end_time": "00:14:35,589",
+      "text": "important so this is just sort of like"
+    },
+    {
+      "start_time": "00:14:33,349",
+      "end_time": "00:14:38,839",
+      "text": "an event of interest basically it's not"
+    },
+    {
+      "start_time": "00:14:35,589",
+      "end_time": "00:14:40,399",
+      "text": "excitement of travel oh actually the"
+    },
+    {
+      "start_time": "00:14:38,839",
+      "end_time": "00:14:41,899",
+      "text": "first thing that jumps to mind didn't"
+    },
+    {
+      "start_time": "00:14:40,399",
+      "end_time": "00:14:43,759",
+      "text": "this is really loosely interpreted of"
+    },
+    {
+      "start_time": "00:14:41,899",
+      "end_time": "00:14:45,739",
+      "text": "course as is my right to interpret how I"
+    },
+    {
+      "start_time": "00:14:43,759",
+      "end_time": "00:14:47,599",
+      "text": "want excitement of travel I think the"
+    },
+    {
+      "start_time": "00:14:45,739",
+      "end_time": "00:14:49,969",
+      "text": "excitement of this commotion on here out"
+    },
+    {
+      "start_time": "00:14:47,599",
+      "end_time": "00:14:52,819",
+      "text": "here as well as Simon coming back"
+    },
+    {
+      "start_time": "00:14:49,969",
+      "end_time": "00:14:54,919",
+      "text": "through the village has caused the other"
+    },
+    {
+      "start_time": "00:14:52,819",
+      "end_time": "00:14:56,269",
+      "text": "villagers to take an interest as what's"
+    },
+    {
+      "start_time": "00:14:54,919",
+      "end_time": "00:14:57,709",
+      "text": "going on so if you imagine that sort of"
+    },
+    {
+      "start_time": "00:14:56,269",
+      "end_time": "00:14:59,089",
+      "text": "all around here there's a couple of"
+    },
+    {
+      "start_time": "00:14:57,709",
+      "end_time": "00:15:00,610",
+      "text": "other cottages I think the other"
+    },
+    {
+      "start_time": "00:14:59,089",
+      "end_time": "00:15:03,130",
+      "text": "foresters the other Huntsman"
+    },
+    {
+      "start_time": "00:15:00,610",
+      "end_time": "00:15:04,660",
+      "text": "are coming out of their colleges sort of"
+    },
+    {
+      "start_time": "00:15:03,130",
+      "end_time": "00:15:06,430",
+      "text": "excited to see what's going on they're"
+    },
+    {
+      "start_time": "00:15:04,660",
+      "end_time": "00:15:07,510",
+      "text": "traveling their treads Ivan has traveled"
+    },
+    {
+      "start_time": "00:15:06,430",
+      "end_time": "00:15:09,190",
+      "text": "here and they are traveling out of their"
+    },
+    {
+      "start_time": "00:15:07,510",
+      "end_time": "00:15:12,250",
+      "text": "house so that's what's happening here so"
+    },
+    {
+      "start_time": "00:15:09,190",
+      "end_time": "00:15:15,670",
+      "text": "basically a crowd has been drawn as this"
+    },
+    {
+      "start_time": "00:15:12,250",
+      "end_time": "00:15:17,709",
+      "text": "happened so okay I didn't think this is"
+    },
+    {
+      "start_time": "00:15:15,670",
+      "end_time": "00:15:19,959",
+      "text": "gonna be a battle I just thought I was I"
+    },
+    {
+      "start_time": "00:15:17,709",
+      "end_time": "00:15:22,630",
+      "text": "just put the stuff your visual interest"
+    },
+    {
+      "start_time": "00:15:19,959",
+      "end_time": "00:15:25,870",
+      "text": "okay sherilyn she is going to attack"
+    },
+    {
+      "start_time": "00:15:22,630",
+      "end_time": "00:15:27,430",
+      "text": "Roland Roland totally unsuspecting"
+    },
+    {
+      "start_time": "00:15:25,870",
+      "end_time": "00:15:29,320",
+      "text": "remember he doesn't see here as a ghost"
+    },
+    {
+      "start_time": "00:15:27,430",
+      "end_time": "00:15:32,470",
+      "text": "she's just some woman and he's like hey"
+    },
+    {
+      "start_time": "00:15:29,320",
+      "end_time": "00:15:34,510",
+      "text": "it was your friend she opens up the"
+    },
+    {
+      "start_time": "00:15:32,470",
+      "end_time": "00:15:36,790",
+      "text": "floodgates of her power does she just"
+    },
+    {
+      "start_time": "00:15:34,510",
+      "end_time": "00:15:39,130",
+      "text": "basically leap on him and draw like a"
+    },
+    {
+      "start_time": "00:15:36,790",
+      "end_time": "00:15:40,630",
+      "text": "nice that like you know like a dagger"
+    },
+    {
+      "start_time": "00:15:39,130",
+      "end_time": "00:15:42,339",
+      "text": "that she would have had cuz you know I'm"
+    },
+    {
+      "start_time": "00:15:40,630",
+      "end_time": "00:15:44,019",
+      "text": "sort of imagining that when when you die"
+    },
+    {
+      "start_time": "00:15:42,339",
+      "end_time": "00:15:46,930",
+      "text": "in this world if you do come back to"
+    },
+    {
+      "start_time": "00:15:44,019",
+      "end_time": "00:15:48,550",
+      "text": "some sort of ghost you have the ethereal"
+    },
+    {
+      "start_time": "00:15:46,930",
+      "end_time": "00:15:49,839",
+      "text": "versions of all the stuff you had so I"
+    },
+    {
+      "start_time": "00:15:48,550",
+      "end_time": "00:15:51,700",
+      "text": "think it's a good bet that she had some"
+    },
+    {
+      "start_time": "00:15:49,839",
+      "end_time": "00:15:53,440",
+      "text": "you know knife with her she doesn't have"
+    },
+    {
+      "start_time": "00:15:51,700",
+      "end_time": "00:15:55,000",
+      "text": "access to her full powers otherwise she"
+    },
+    {
+      "start_time": "00:15:53,440",
+      "end_time": "00:15:56,500",
+      "text": "blasts him right well actually let's"
+    },
+    {
+      "start_time": "00:15:55,000",
+      "end_time": "00:15:58,360",
+      "text": "find out does she have some sort of"
+    },
+    {
+      "start_time": "00:15:56,500",
+      "end_time": "00:15:59,950",
+      "text": "power some sort of magic spell she can"
+    },
+    {
+      "start_time": "00:15:58,360",
+      "end_time": "00:16:02,370",
+      "text": "access right now that could directly"
+    },
+    {
+      "start_time": "00:15:59,950",
+      "end_time": "00:16:05,730",
+      "text": "affect him"
+    },
+    {
+      "start_time": "00:16:02,370",
+      "end_time": "00:16:08,459",
+      "text": "I'm gonna call it unlikely unlikely 74"
+    },
+    {
+      "start_time": "00:16:05,730",
+      "end_time": "00:16:11,249",
+      "text": "she does not so in fact she screeches"
+    },
+    {
+      "start_time": "00:16:08,459",
+      "end_time": "00:16:14,399",
+      "text": "towards Roland's drawing her dagger to"
+    },
+    {
+      "start_time": "00:16:11,249",
+      "end_time": "00:16:16,350",
+      "text": "Roland this dagger is absolutely real"
+    },
+    {
+      "start_time": "00:16:14,399",
+      "end_time": "00:16:18,089",
+      "text": "there's nothing ghostly about it it's a"
+    },
+    {
+      "start_time": "00:16:16,350",
+      "end_time": "00:16:19,800",
+      "text": "knife he kind of his eyes go wide and"
+    },
+    {
+      "start_time": "00:16:18,089",
+      "end_time": "00:16:21,720",
+      "text": "she comes in now here's my question and"
+    },
+    {
+      "start_time": "00:16:19,800",
+      "end_time": "00:16:25,589",
+      "text": "it's a simple one but it's an important"
+    },
+    {
+      "start_time": "00:16:21,720",
+      "end_time": "00:16:29,100",
+      "text": "one who acts first does cherylin stab"
+    },
+    {
+      "start_time": "00:16:25,589",
+      "end_time": "00:16:33,089",
+      "text": "Roland before ed Burt grabs that"
+    },
+    {
+      "start_time": "00:16:29,100",
+      "end_time": "00:16:36,420",
+      "text": "crossbow and fires now normally I would"
+    },
+    {
+      "start_time": "00:16:33,089",
+      "end_time": "00:16:38,430",
+      "text": "put this down to initiate an initiative"
+    },
+    {
+      "start_time": "00:16:36,420",
+      "end_time": "00:16:41,220",
+      "text": "card situation who goes first"
+    },
+    {
+      "start_time": "00:16:38,430",
+      "end_time": "00:16:43,769",
+      "text": "however because we had a random event"
+    },
+    {
+      "start_time": "00:16:41,220",
+      "end_time": "00:16:47,999",
+      "text": "generated that was clearly an NPC"
+    },
+    {
+      "start_time": "00:16:43,769",
+      "end_time": "00:16:50,689",
+      "text": "negative which is delay of goals and it"
+    },
+    {
+      "start_time": "00:16:47,999",
+      "end_time": "00:16:55,319",
+      "text": "was cherylin is the head of the order I"
+    },
+    {
+      "start_time": "00:16:50,689",
+      "end_time": "00:16:56,430",
+      "text": "think that automatically means that Ed"
+    },
+    {
+      "start_time": "00:16:55,319",
+      "end_time": "00:17:01,470",
+      "text": "Bert goes first"
+    },
+    {
+      "start_time": "00:16:56,430",
+      "end_time": "00:17:03,269",
+      "text": "so advert grabs the crossbow from Simon"
+    },
+    {
+      "start_time": "00:17:01,470",
+      "end_time": "00:17:06,000",
+      "text": "a stunned Simon so I'm it's like watch"
+    },
+    {
+      "start_time": "00:17:03,269",
+      "end_time": "00:17:06,449",
+      "text": "watch Edward grabs Simon's crossbow off"
+    },
+    {
+      "start_time": "00:17:06,000",
+      "end_time": "00:17:09,990",
+      "text": "of him"
+    },
+    {
+      "start_time": "00:17:06,449",
+      "end_time": "00:17:17,250",
+      "text": "spins blasts the bolt towards Sharon's"
+    },
+    {
+      "start_time": "00:17:09,990",
+      "end_time": "00:17:20,279",
+      "text": "back shouting Punk his shooting is d6"
+    },
+    {
+      "start_time": "00:17:17,250",
+      "end_time": "00:17:24,600",
+      "text": "and he's got to get four more he gets a"
+    },
+    {
+      "start_time": "00:17:20,279",
+      "end_time": "00:17:26,149",
+      "text": "five so he will hit cherylin right in"
+    },
+    {
+      "start_time": "00:17:24,600",
+      "end_time": "00:17:29,070",
+      "text": "the back as she's coming"
+    },
+    {
+      "start_time": "00:17:26,149",
+      "end_time": "00:17:31,049",
+      "text": "screeching towards Roland to end the"
+    },
+    {
+      "start_time": "00:17:29,070",
+      "end_time": "00:17:33,480",
+      "text": "supernatural aberration once and for all"
+    },
+    {
+      "start_time": "00:17:31,049",
+      "end_time": "00:17:36,510",
+      "text": "the magic of the crossbow will mean that"
+    },
+    {
+      "start_time": "00:17:33,480",
+      "end_time": "00:17:43,620",
+      "text": "the bolt does embed in their back and"
+    },
+    {
+      "start_time": "00:17:36,510",
+      "end_time": "00:17:45,960",
+      "text": "hurts her now her toughness is 5/5 okay"
+    },
+    {
+      "start_time": "00:17:43,620",
+      "end_time": "00:17:48,990",
+      "text": "she's about to splodge this dagger into"
+    },
+    {
+      "start_time": "00:17:45,960",
+      "end_time": "00:17:52,649",
+      "text": "Roland when her eyes go wide with pain"
+    },
+    {
+      "start_time": "00:17:48,990",
+      "end_time": "00:17:55,649",
+      "text": "as this crossbow bolt appears between"
+    },
+    {
+      "start_time": "00:17:52,649",
+      "end_time": "00:17:56,760",
+      "text": "her shoulder blades okay now we have to"
+    },
+    {
+      "start_time": "00:17:55,649",
+      "end_time": "00:17:58,890",
+      "text": "go to initiative this is gonna be a"
+    },
+    {
+      "start_time": "00:17:56,760",
+      "end_time": "00:18:00,299",
+      "text": "little weird because who's the enemy and"
+    },
+    {
+      "start_time": "00:17:58,890",
+      "end_time": "00:18:03,539",
+      "text": "who's the ally all right so what do we"
+    },
+    {
+      "start_time": "00:18:00,299",
+      "end_time": "00:18:07,799",
+      "text": "got here for Simon we've got Jack this"
+    },
+    {
+      "start_time": "00:18:03,539",
+      "end_time": "00:18:11,390",
+      "text": "is gonna be Arne and Roland are in for"
+    },
+    {
+      "start_time": "00:18:07,799",
+      "end_time": "00:18:13,120",
+      "text": "ed Bert is on his own car to five and"
+    },
+    {
+      "start_time": "00:18:11,390",
+      "end_time": "00:18:17,559",
+      "text": "cherylin East"
+    },
+    {
+      "start_time": "00:18:13,120",
+      "end_time": "00:18:21,580",
+      "text": "on ace okay she's got to break free of"
+    },
+    {
+      "start_time": "00:18:17,559",
+      "end_time": "00:18:23,500",
+      "text": "this shake does she do it her spirits a"
+    },
+    {
+      "start_time": "00:18:21,580",
+      "end_time": "00:18:25,809",
+      "text": "d-10 but she's not a wild card does she"
+    },
+    {
+      "start_time": "00:18:23,500",
+      "end_time": "00:18:27,460",
+      "text": "break free of the shake she does but"
+    },
+    {
+      "start_time": "00:18:25,809",
+      "end_time": "00:18:29,710",
+      "text": "it's not a raise so it takes her whole"
+    },
+    {
+      "start_time": "00:18:27,460",
+      "end_time": "00:18:31,660",
+      "text": "around so basically the crossbow bolt"
+    },
+    {
+      "start_time": "00:18:29,710",
+      "end_time": "00:18:34,780",
+      "text": "that embeds itself into her back she"
+    },
+    {
+      "start_time": "00:18:31,660",
+      "end_time": "00:18:38,020",
+      "text": "which cries out in in serial pain but"
+    },
+    {
+      "start_time": "00:18:34,780",
+      "end_time": "00:18:40,600",
+      "text": "then her eyes sort of go black she rises"
+    },
+    {
+      "start_time": "00:18:38,020",
+      "end_time": "00:18:44,020",
+      "text": "up the crossbow bolt crumbles into this"
+    },
+    {
+      "start_time": "00:18:40,600",
+      "end_time": "00:18:45,910",
+      "text": "fine black dust and disappears and she"
+    },
+    {
+      "start_time": "00:18:44,020",
+      "end_time": "00:18:50,700",
+      "text": "is back in action but it does take her"
+    },
+    {
+      "start_time": "00:18:45,910",
+      "end_time": "00:18:53,500",
+      "text": "whole round which brings us to Simon"
+    },
+    {
+      "start_time": "00:18:50,700",
+      "end_time": "00:18:56,770",
+      "text": "well here's the thing normally Simon"
+    },
+    {
+      "start_time": "00:18:53,500",
+      "end_time": "00:18:58,540",
+      "text": "would want to stop Ed Burt from"
+    },
+    {
+      "start_time": "00:18:56,770",
+      "end_time": "00:19:01,030",
+      "text": "attacking cherylin because cherylin has"
+    },
+    {
+      "start_time": "00:18:58,540",
+      "end_time": "00:19:05,140",
+      "text": "been a net benefit for them over this"
+    },
+    {
+      "start_time": "00:19:01,030",
+      "end_time": "00:19:07,150",
+      "text": "whole thing and he Simon's not the kind"
+    },
+    {
+      "start_time": "00:19:05,140",
+      "end_time": "00:19:10,650",
+      "text": "of guy to just attack an ally but that's"
+    },
+    {
+      "start_time": "00:19:07,150",
+      "end_time": "00:19:14,610",
+      "text": "she just attacked his dad does Simon"
+    },
+    {
+      "start_time": "00:19:10,650",
+      "end_time": "00:19:17,320",
+      "text": "stop at verse or does he help ed Burt"
+    },
+    {
+      "start_time": "00:19:14,610",
+      "end_time": "00:19:19,750",
+      "text": "this is his dad sherilyn is attacking"
+    },
+    {
+      "start_time": "00:19:17,320",
+      "end_time": "00:19:21,520",
+      "text": "his dad she also almost got them all"
+    },
+    {
+      "start_time": "00:19:19,750",
+      "end_time": "00:19:24,190",
+      "text": "killed in the temple when she brought"
+    },
+    {
+      "start_time": "00:19:21,520",
+      "end_time": "00:19:25,450",
+      "text": "the ceiling down on them I think Simon I"
+    },
+    {
+      "start_time": "00:19:24,190",
+      "end_time": "00:19:28,420",
+      "text": "think Simon may have had it with"
+    },
+    {
+      "start_time": "00:19:25,450",
+      "end_time": "00:19:31,780",
+      "text": "cherylin let's find out does he stop ed"
+    },
+    {
+      "start_time": "00:19:28,420",
+      "end_time": "00:19:37,990",
+      "text": "Burt from attacking further I think it's"
+    },
+    {
+      "start_time": "00:19:31,780",
+      "end_time": "00:19:39,880",
+      "text": "very unlikely ninety extreme no the"
+    },
+    {
+      "start_time": "00:19:37,990",
+      "end_time": "00:19:41,230",
+      "text": "crossbow ball hits her in the back he"
+    },
+    {
+      "start_time": "00:19:39,880",
+      "end_time": "00:19:43,059",
+      "text": "sees his father like sitting there"
+    },
+    {
+      "start_time": "00:19:41,230",
+      "end_time": "00:19:45,340",
+      "text": "there's no idea what's going on Simon"
+    },
+    {
+      "start_time": "00:19:43,059",
+      "end_time": "00:19:47,830",
+      "text": "turns to ed Burt gave me that crossbow"
+    },
+    {
+      "start_time": "00:19:45,340",
+      "end_time": "00:19:49,780",
+      "text": "no she's got to die she's got to die"
+    },
+    {
+      "start_time": "00:19:47,830",
+      "end_time": "00:19:53,020",
+      "text": "Simon I've had enough give me that"
+    },
+    {
+      "start_time": "00:19:49,780",
+      "end_time": "00:19:53,910",
+      "text": "crossbow ed but I shoot better than you"
+    },
+    {
+      "start_time": "00:19:53,020",
+      "end_time": "00:19:56,620",
+      "text": "do"
+    },
+    {
+      "start_time": "00:19:53,910",
+      "end_time": "00:19:59,350",
+      "text": "and he hands it over man she grabs it"
+    },
+    {
+      "start_time": "00:19:56,620",
+      "end_time": "00:20:01,240",
+      "text": "loads it spins around and fires now"
+    },
+    {
+      "start_time": "00:19:59,350",
+      "end_time": "00:20:02,590",
+      "text": "loading the crossbows - - but he is"
+    },
+    {
+      "start_time": "00:20:01,240",
+      "end_time": "00:20:03,580",
+      "text": "marksman witch busty which means he"
+    },
+    {
+      "start_time": "00:20:02,590",
+      "end_time": "00:20:06,760",
+      "text": "turns and fires"
+    },
+    {
+      "start_time": "00:20:03,580",
+      "end_time": "00:20:10,420",
+      "text": "normally at cherylin okay he's rolling"
+    },
+    {
+      "start_time": "00:20:06,760",
+      "end_time": "00:20:12,850",
+      "text": "his d8 and his shooting of a four so"
+    },
+    {
+      "start_time": "00:20:10,420",
+      "end_time": "00:20:23,620",
+      "text": "that's a hit the regular hit Punk"
+    },
+    {
+      "start_time": "00:20:12,850",
+      "end_time": "00:20:27,100",
+      "text": "regular hit 2 - 6 + 1 8 9 13 damage on"
+    },
+    {
+      "start_time": "00:20:23,620",
+      "end_time": "00:20:30,100",
+      "text": "toughness 5 is enough to completely"
+    },
+    {
+      "start_time": "00:20:27,100",
+      "end_time": "00:20:33,429",
+      "text": "dispel her but remember this happened"
+    },
+    {
+      "start_time": "00:20:30,100",
+      "end_time": "00:20:37,179",
+      "text": "once before she got shot by this thing"
+    },
+    {
+      "start_time": "00:20:33,429",
+      "end_time": "00:20:40,299",
+      "text": "but it was not enough to destroy her but"
+    },
+    {
+      "start_time": "00:20:37,179",
+      "end_time": "00:20:43,960",
+      "text": "it is enough to cause her to be"
+    },
+    {
+      "start_time": "00:20:40,299",
+      "end_time": "00:20:46,840",
+      "text": "completely disc or / ated for a time I"
+    },
+    {
+      "start_time": "00:20:43,960",
+      "end_time": "00:20:50,850",
+      "text": "think that they have to find another way"
+    },
+    {
+      "start_time": "00:20:46,840",
+      "end_time": "00:20:54,340",
+      "text": "to truly end the threat of the haunting"
+    },
+    {
+      "start_time": "00:20:50,850",
+      "end_time": "00:20:56,679",
+      "text": "what that is I'm not sure but Simon hits"
+    },
+    {
+      "start_time": "00:20:54,340",
+      "end_time": "00:21:00,790",
+      "text": "hard with that magic crossbow she"
+    },
+    {
+      "start_time": "00:20:56,679",
+      "end_time": "00:21:05,980",
+      "text": "screams in anger and vanishes in a puff"
+    },
+    {
+      "start_time": "00:21:00,790",
+      "end_time": "00:21:08,559",
+      "text": "of ethereal mist ed Burton collapses to"
+    },
+    {
+      "start_time": "00:21:05,980",
+      "end_time": "00:21:11,410",
+      "text": "his knees again able to breathe now that"
+    },
+    {
+      "start_time": "00:21:08,559",
+      "end_time": "00:21:13,200",
+      "text": "he's free of this haunting at least"
+    },
+    {
+      "start_time": "00:21:11,410",
+      "end_time": "00:21:16,090",
+      "text": "temporarily"
+    },
+    {
+      "start_time": "00:21:13,200",
+      "end_time": "00:21:18,250",
+      "text": "you did it Simon you're Dennis she's"
+    },
+    {
+      "start_time": "00:21:16,090",
+      "end_time": "00:21:18,700",
+      "text": "gone I could feel it I can feel she's"
+    },
+    {
+      "start_time": "00:21:18,250",
+      "end_time": "00:21:21,549",
+      "text": "gone"
+    },
+    {
+      "start_time": "00:21:18,700",
+      "end_time": "00:21:22,360",
+      "text": "calm down head but I don't think she's"
+    },
+    {
+      "start_time": "00:21:21,549",
+      "end_time": "00:21:25,299",
+      "text": "gone for good"
+    },
+    {
+      "start_time": "00:21:22,360",
+      "end_time": "00:21:26,679",
+      "text": "remember what happened last time now I"
+    },
+    {
+      "start_time": "00:21:25,299",
+      "end_time": "00:21:28,270",
+      "text": "think we must find a more permanent"
+    },
+    {
+      "start_time": "00:21:26,679",
+      "end_time": "00:21:31,179",
+      "text": "solution for your haunting but yes for"
+    },
+    {
+      "start_time": "00:21:28,270",
+      "end_time": "00:21:34,440",
+      "text": "the moment she is gone Simon's father"
+    },
+    {
+      "start_time": "00:21:31,179",
+      "end_time": "00:21:37,299",
+      "text": "comes down to him sort of Ian and out of"
+    },
+    {
+      "start_time": "00:21:34,440",
+      "end_time": "00:21:39,790",
+      "text": "corporality what was that what about why"
+    },
+    {
+      "start_time": "00:21:37,299",
+      "end_time": "00:21:42,790",
+      "text": "did you shoot that woman and where did"
+    },
+    {
+      "start_time": "00:21:39,790",
+      "end_time": "00:21:45,850",
+      "text": "she go he's just looking so so confused"
+    },
+    {
+      "start_time": "00:21:42,790",
+      "end_time": "00:21:48,400",
+      "text": "calm down father calm down I will try"
+    },
+    {
+      "start_time": "00:21:45,850",
+      "end_time": "00:21:51,130",
+      "text": "and explain everything just calm down"
+    },
+    {
+      "start_time": "00:21:48,400",
+      "end_time": "00:21:53,679",
+      "text": "Aaron notices the onlookers who are sort"
+    },
+    {
+      "start_time": "00:21:51,130",
+      "end_time": "00:21:55,120",
+      "text": "of looking outside of their their"
+    },
+    {
+      "start_time": "00:21:53,679",
+      "end_time": "00:21:56,380",
+      "text": "windows and their doors there's not a"
+    },
+    {
+      "start_time": "00:21:55,120",
+      "end_time": "00:21:57,340",
+      "text": "lot of them it's a very very small"
+    },
+    {
+      "start_time": "00:21:56,380",
+      "end_time": "00:21:58,900",
+      "text": "village and everybody knows everybody"
+    },
+    {
+      "start_time": "00:21:57,340",
+      "end_time": "00:22:00,220",
+      "text": "but I do think that they're all sort of"
+    },
+    {
+      "start_time": "00:21:58,900",
+      "end_time": "00:22:01,929",
+      "text": "looking and you know they're sort of"
+    },
+    {
+      "start_time": "00:22:00,220",
+      "end_time": "00:22:03,580",
+      "text": "whispering to each other this is gonna"
+    },
+    {
+      "start_time": "00:22:01,929",
+      "end_time": "00:22:04,960",
+      "text": "cause quite a stir I think in the"
+    },
+    {
+      "start_time": "00:22:03,580",
+      "end_time": "00:22:06,260",
+      "text": "village and that news may get back to"
+    },
+    {
+      "start_time": "00:22:04,960",
+      "end_time": "00:22:08,150",
+      "text": "somebody or"
+    },
+    {
+      "start_time": "00:22:06,260",
+      "end_time": "00:22:10,330",
+      "text": "comes up to Simon he kind of glances"
+    },
+    {
+      "start_time": "00:22:08,150",
+      "end_time": "00:22:14,090",
+      "text": "around at all the people looking Simon I"
+    },
+    {
+      "start_time": "00:22:10,330",
+      "end_time": "00:22:17,650",
+      "text": "fear you have made an enemy of cherylin"
+    },
+    {
+      "start_time": "00:22:14,090",
+      "end_time": "00:22:22,340",
+      "text": "this day and when she returns again as"
+    },
+    {
+      "start_time": "00:22:17,650",
+      "end_time": "00:22:23,150",
+      "text": "she will she will not be so friendly as"
+    },
+    {
+      "start_time": "00:22:22,340",
+      "end_time": "00:22:25,820",
+      "text": "she has been"
+    },
+    {
+      "start_time": "00:22:23,150",
+      "end_time": "00:22:28,370",
+      "text": "you mean as friendly as she was when she"
+    },
+    {
+      "start_time": "00:22:25,820",
+      "end_time": "00:22:33,830",
+      "text": "attacked my father for no reason your"
+    },
+    {
+      "start_time": "00:22:28,370",
+      "end_time": "00:22:37,580",
+      "text": "father is not your father anymore Simon"
+    },
+    {
+      "start_time": "00:22:33,830",
+      "end_time": "00:22:42,860",
+      "text": "if you want to help we must find a way"
+    },
+    {
+      "start_time": "00:22:37,580",
+      "end_time": "00:22:44,740",
+      "text": "to put him to rest put him to rest I've"
+    },
+    {
+      "start_time": "00:22:42,860",
+      "end_time": "00:22:46,940",
+      "text": "been searching for him for years"
+    },
+    {
+      "start_time": "00:22:44,740",
+      "end_time": "00:22:52,190",
+      "text": "and I have just found him and now you"
+    },
+    {
+      "start_time": "00:22:46,940",
+      "end_time": "00:22:55,700",
+      "text": "want me to give him up you know what I'm"
+    },
+    {
+      "start_time": "00:22:52,190",
+      "end_time": "00:22:58,550",
+      "text": "saying is right your father is in the"
+    },
+    {
+      "start_time": "00:22:55,700",
+      "end_time": "00:23:01,820",
+      "text": "state of suffering we must find a way to"
+    },
+    {
+      "start_time": "00:22:58,550",
+      "end_time": "00:23:03,680",
+      "text": "alleviate that suffering Edward still on"
+    },
+    {
+      "start_time": "00:23:01,820",
+      "end_time": "00:23:08,900",
+      "text": "the ground on his knees but I think he's"
+    },
+    {
+      "start_time": "00:23:03,680",
+      "end_time": "00:23:11,270",
+      "text": "laughing maniacally she's gone she's"
+    },
+    {
+      "start_time": "00:23:08,900",
+      "end_time": "00:23:12,980",
+      "text": "gone I can't sleep tonight"
+    },
+    {
+      "start_time": "00:23:11,270",
+      "end_time": "00:23:17,570",
+      "text": "I can sleep for the first time and I"
+    },
+    {
+      "start_time": "00:23:12,980",
+      "end_time": "00:23:18,290",
+      "text": "don't remember how long Roland again so"
+    },
+    {
+      "start_time": "00:23:17,570",
+      "end_time": "00:23:20,540",
+      "text": "confused"
+    },
+    {
+      "start_time": "00:23:18,290",
+      "end_time": "00:23:23,060",
+      "text": "Simon what does this white-haired man"
+    },
+    {
+      "start_time": "00:23:20,540",
+      "end_time": "00:23:27,800",
+      "text": "mean I do not need rest"
+    },
+    {
+      "start_time": "00:23:23,060",
+      "end_time": "00:23:29,410",
+      "text": "I feel air vigorous I do not need it"
+    },
+    {
+      "start_time": "00:23:27,800",
+      "end_time": "00:23:33,020",
+      "text": "more sleep"
+    },
+    {
+      "start_time": "00:23:29,410",
+      "end_time": "00:23:34,970",
+      "text": "come father come insight Simon now"
+    },
+    {
+      "start_time": "00:23:33,020",
+      "end_time": "00:23:36,770",
+      "text": "notices that the onlookers are sort of"
+    },
+    {
+      "start_time": "00:23:34,970",
+      "end_time": "00:23:38,690",
+      "text": "talking behind their hands and stuff let"
+    },
+    {
+      "start_time": "00:23:36,770",
+      "end_time": "00:23:40,460",
+      "text": "me deal with this looky-loos silent you"
+    },
+    {
+      "start_time": "00:23:38,690",
+      "end_time": "00:23:42,320",
+      "text": "go inside yes of course"
+    },
+    {
+      "start_time": "00:23:40,460",
+      "end_time": "00:23:43,910",
+      "text": "so aren't goes often he's talking to the"
+    },
+    {
+      "start_time": "00:23:42,320",
+      "end_time": "00:23:45,530",
+      "text": "village trying to convince them that you"
+    },
+    {
+      "start_time": "00:23:43,910",
+      "end_time": "00:23:46,910",
+      "text": "know nothing to see here nothing to see"
+    },
+    {
+      "start_time": "00:23:45,530",
+      "end_time": "00:23:48,650",
+      "text": "here that kind of stuff but as he's"
+    },
+    {
+      "start_time": "00:23:46,910",
+      "end_time": "00:23:51,200",
+      "text": "talking to the villagers you know they"
+    },
+    {
+      "start_time": "00:23:48,650",
+      "end_time": "00:23:53,060",
+      "text": "all knew Roland and they didn't know"
+    },
+    {
+      "start_time": "00:23:51,200",
+      "end_time": "00:23:54,860",
+      "text": "what was going on with him but they did"
+    },
+    {
+      "start_time": "00:23:53,060",
+      "end_time": "00:23:57,050",
+      "text": "suspect something was off they had to"
+    },
+    {
+      "start_time": "00:23:54,860",
+      "end_time": "00:23:58,670",
+      "text": "have he's been here for a week he's gone"
+    },
+    {
+      "start_time": "00:23:57,050",
+      "end_time": "00:24:00,440",
+      "text": "around to the villages and he's talked"
+    },
+    {
+      "start_time": "00:23:58,670",
+      "end_time": "00:24:01,670",
+      "text": "to them because he wanted to know what"
+    },
+    {
+      "start_time": "00:24:00,440",
+      "end_time": "00:24:02,960",
+      "text": "happened to his son in those moments of"
+    },
+    {
+      "start_time": "00:24:01,670",
+      "end_time": "00:24:05,570",
+      "text": "clarity that he had which he obviously"
+    },
+    {
+      "start_time": "00:24:02,960",
+      "end_time": "00:24:08,210",
+      "text": "had so they would have noticed something"
+    },
+    {
+      "start_time": "00:24:05,570",
+      "end_time": "00:24:09,950",
+      "text": "was off about him so a few minutes later"
+    },
+    {
+      "start_time": "00:24:08,210",
+      "end_time": "00:24:11,510",
+      "text": "Arne comes back and joins the rest of"
+    },
+    {
+      "start_time": "00:24:09,950",
+      "end_time": "00:24:13,520",
+      "text": "them in the cabin they sit down around"
+    },
+    {
+      "start_time": "00:24:11,510",
+      "end_time": "00:24:14,840",
+      "text": "the table I do not believe that cherylin"
+    },
+    {
+      "start_time": "00:24:13,520",
+      "end_time": "00:24:16,700",
+      "text": "will be gone for long"
+    },
+    {
+      "start_time": "00:24:14,840",
+      "end_time": "00:24:19,610",
+      "text": "the last time we disco operated her with"
+    },
+    {
+      "start_time": "00:24:16,700",
+      "end_time": "00:24:21,500",
+      "text": "a crossbow she emerged very soon after I"
+    },
+    {
+      "start_time": "00:24:19,610",
+      "end_time": "00:24:23,720",
+      "text": "do not know how long it will be until"
+    },
+    {
+      "start_time": "00:24:21,500",
+      "end_time": "00:24:26,330",
+      "text": "she emerges again but we must act before"
+    },
+    {
+      "start_time": "00:24:23,720",
+      "end_time": "00:24:28,280",
+      "text": "that happens Simon I do not understand"
+    },
+    {
+      "start_time": "00:24:26,330",
+      "end_time": "00:24:30,860",
+      "text": "what he was saying to me why don't you"
+    },
+    {
+      "start_time": "00:24:28,280",
+      "end_time": "00:24:36,770",
+      "text": "grab that bow and come hunting with me"
+    },
+    {
+      "start_time": "00:24:30,860",
+      "end_time": "00:24:40,610",
+      "text": "like we did last week no father not now"
+    },
+    {
+      "start_time": "00:24:36,770",
+      "end_time": "00:24:46,429",
+      "text": "just sit back try to relax"
+    },
+    {
+      "start_time": "00:24:40,610",
+      "end_time": "00:24:48,559",
+      "text": "if you can but I am relaxed Simon he"
+    },
+    {
+      "start_time": "00:24:46,429",
+      "end_time": "00:24:50,870",
+      "text": "gets up and he goes into the bedroom I"
+    },
+    {
+      "start_time": "00:24:48,559",
+      "end_time": "00:24:51,950",
+      "text": "cannot imagine what this must be like"
+    },
+    {
+      "start_time": "00:24:50,870",
+      "end_time": "00:24:55,760",
+      "text": "for your sight"
+    },
+    {
+      "start_time": "00:24:51,950",
+      "end_time": "00:24:57,500",
+      "text": "I am sorry I appreciate that on but"
+    },
+    {
+      "start_time": "00:24:55,760",
+      "end_time": "00:24:59,450",
+      "text": "there is no time as much as I would like"
+    },
+    {
+      "start_time": "00:24:57,500",
+      "end_time": "00:25:01,730",
+      "text": "to I do not think there is anything we"
+    },
+    {
+      "start_time": "00:24:59,450",
+      "end_time": "00:25:03,380",
+      "text": "could do about Sheridan right now unless"
+    },
+    {
+      "start_time": "00:25:01,730",
+      "end_time": "00:25:07,070",
+      "text": "you can think of something ed but yeah"
+    },
+    {
+      "start_time": "00:25:03,380",
+      "end_time": "00:25:08,570",
+      "text": "think of something you mean take us"
+    },
+    {
+      "start_time": "00:25:07,070",
+      "end_time": "00:25:10,370",
+      "text": "something like to make it permanent like"
+    },
+    {
+      "start_time": "00:25:08,570",
+      "end_time": "00:25:12,380",
+      "text": "every time there's been something weird"
+    },
+    {
+      "start_time": "00:25:10,370",
+      "end_time": "00:25:13,909",
+      "text": "or necromantic ed Bert has had the"
+    },
+    {
+      "start_time": "00:25:12,380",
+      "end_time": "00:25:16,580",
+      "text": "answer so there's a chance that maybe he"
+    },
+    {
+      "start_time": "00:25:13,909",
+      "end_time": "00:25:18,200",
+      "text": "does this time in his experience has ed"
+    },
+    {
+      "start_time": "00:25:16,580",
+      "end_time": "00:25:20,270",
+      "text": "bird ever found anything that could give"
+    },
+    {
+      "start_time": "00:25:18,200",
+      "end_time": "00:25:23,809",
+      "text": "him an answer as to how to permanently"
+    },
+    {
+      "start_time": "00:25:20,270",
+      "end_time": "00:25:26,179",
+      "text": "end the haunting I don't think so if he"
+    },
+    {
+      "start_time": "00:25:23,809",
+      "end_time": "00:25:27,679",
+      "text": "knew he would have had no reason to go"
+    },
+    {
+      "start_time": "00:25:26,179",
+      "end_time": "00:25:30,409",
+      "text": "to the temple in the first place with"
+    },
+    {
+      "start_time": "00:25:27,679",
+      "end_time": "00:25:32,870",
+      "text": "Simon to find a reason so I'm gonna say"
+    },
+    {
+      "start_time": "00:25:30,409",
+      "end_time": "00:25:35,090",
+      "text": "it's impossible it's impossible which in"
+    },
+    {
+      "start_time": "00:25:32,870",
+      "end_time": "00:25:36,710",
+      "text": "this case gives it a 10% chance it's"
+    },
+    {
+      "start_time": "00:25:35,090",
+      "end_time": "00:25:39,710",
+      "text": "impossible that ed Burt knows anything"
+    },
+    {
+      "start_time": "00:25:36,710",
+      "end_time": "00:25:41,600",
+      "text": "about how to put all seventeen so close"
+    },
+    {
+      "start_time": "00:25:39,710",
+      "end_time": "00:25:43,159",
+      "text": "but no he does not know I suppose the"
+    },
+    {
+      "start_time": "00:25:41,600",
+      "end_time": "00:25:45,110",
+      "text": "answer might be just keep that crossbow"
+    },
+    {
+      "start_time": "00:25:43,159",
+      "end_time": "00:25:46,730",
+      "text": "loaded so when she comes back we can put"
+    },
+    {
+      "start_time": "00:25:45,110",
+      "end_time": "00:25:48,549",
+      "text": "another one in there I don't think"
+    },
+    {
+      "start_time": "00:25:46,730",
+      "end_time": "00:25:51,230",
+      "text": "that's going to be a permanent solution"
+    },
+    {
+      "start_time": "00:25:48,549",
+      "end_time": "00:25:53,779",
+      "text": "we will eventually run out of boats and"
+    },
+    {
+      "start_time": "00:25:51,230",
+      "end_time": "00:25:55,370",
+      "text": "what what about you on do you know of"
+    },
+    {
+      "start_time": "00:25:53,779",
+      "end_time": "00:25:57,799",
+      "text": "anything that might help us in this case"
+    },
+    {
+      "start_time": "00:25:55,370",
+      "end_time": "00:26:00,260",
+      "text": "there's are no a permanent solution to"
+    },
+    {
+      "start_time": "00:25:57,799",
+      "end_time": "00:26:01,399",
+      "text": "deal with cherylin the answer is 53 so"
+    },
+    {
+      "start_time": "00:26:00,260",
+      "end_time": "00:26:04,580",
+      "text": "no he does not"
+    },
+    {
+      "start_time": "00:26:01,399",
+      "end_time": "00:26:08,210",
+      "text": "I'm sorry Simon I do not know how to"
+    },
+    {
+      "start_time": "00:26:04,580",
+      "end_time": "00:26:11,450",
+      "text": "deal with this well then we need to know"
+    },
+    {
+      "start_time": "00:26:08,210",
+      "end_time": "00:26:12,740",
+      "text": "how to deal with my father in every"
+    },
+    {
+      "start_time": "00:26:11,450",
+      "end_time": "00:26:15,679",
+      "text": "ghost story I've ever heard"
+    },
+    {
+      "start_time": "00:26:12,740",
+      "end_time": "00:26:18,140",
+      "text": "a spirit becomes unmoored from its body"
+    },
+    {
+      "start_time": "00:26:15,679",
+      "end_time": "00:26:21,289",
+      "text": "and it needs its physical remains to be"
+    },
+    {
+      "start_time": "00:26:18,140",
+      "end_time": "00:26:23,029",
+      "text": "buried perhaps that is the case here is"
+    },
+    {
+      "start_time": "00:26:21,289",
+      "end_time": "00:26:24,740",
+      "text": "it the case I think that's likely that"
+    },
+    {
+      "start_time": "00:26:23,029",
+      "end_time": "00:26:26,419",
+      "text": "makes sense it's all about trying to put"
+    },
+    {
+      "start_time": "00:26:24,740",
+      "end_time": "00:26:28,490",
+      "text": "the physical remains to rest so like"
+    },
+    {
+      "start_time": "00:26:26,419",
+      "end_time": "00:26:30,020",
+      "text": "maybe like entering them or burying them"
+    },
+    {
+      "start_time": "00:26:28,490",
+      "end_time": "00:26:32,059",
+      "text": "or burning them and saying a few words"
+    },
+    {
+      "start_time": "00:26:30,020",
+      "end_time": "00:26:34,039",
+      "text": "or respective prayers or something like"
+    },
+    {
+      "start_time": "00:26:32,059",
+      "end_time": "00:26:36,590",
+      "text": "that I'm going to say it's likely 89 it"
+    },
+    {
+      "start_time": "00:26:34,039",
+      "end_time": "00:26:38,870",
+      "text": "is not in this case no it's going to"
+    },
+    {
+      "start_time": "00:26:36,590",
+      "end_time": "00:26:40,460",
+      "text": "take something a little more I think it"
+    },
+    {
+      "start_time": "00:26:38,870",
+      "end_time": "00:26:42,020",
+      "text": "is that but I think there's something"
+    },
+    {
+      "start_time": "00:26:40,460",
+      "end_time": "00:26:43,640",
+      "text": "else that has to be done - that's all"
+    },
+    {
+      "start_time": "00:26:42,020",
+      "end_time": "00:26:45,529",
+      "text": "I'm interpreting there's no answer what"
+    },
+    {
+      "start_time": "00:26:43,640",
+      "end_time": "00:26:47,899",
+      "text": "is it that they have to do I'm just"
+    },
+    {
+      "start_time": "00:26:45,529",
+      "end_time": "00:26:50,480",
+      "text": "gonna randomly determine here in order"
+    },
+    {
+      "start_time": "00:26:47,899",
+      "end_time": "00:26:59,020",
+      "text": "to properly put Simon's father role into"
+    },
+    {
+      "start_time": "00:26:50,480",
+      "end_time": "00:27:00,200",
+      "text": "arrest 39 bestow 0-7 bestow a lies oh"
+    },
+    {
+      "start_time": "00:26:59,020",
+      "end_time": "00:27:03,799",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:27:00,200",
+      "end_time": "00:27:05,030",
+      "text": "huh I think because Roland doesn't know"
+    },
+    {
+      "start_time": "00:27:03,799",
+      "end_time": "00:27:07,190",
+      "text": "that he's dead"
+    },
+    {
+      "start_time": "00:27:05,030",
+      "end_time": "00:27:08,780",
+      "text": "the first thing that has to happen is he"
+    },
+    {
+      "start_time": "00:27:07,190",
+      "end_time": "00:27:10,280",
+      "text": "needs to be convinced that he's dead on"
+    },
+    {
+      "start_time": "00:27:08,780",
+      "end_time": "00:27:13,790",
+      "text": "the only way that's gonna happen is if"
+    },
+    {
+      "start_time": "00:27:10,280",
+      "end_time": "00:27:16,340",
+      "text": "they bring him to his body but it can't"
+    },
+    {
+      "start_time": "00:27:13,790",
+      "end_time": "00:27:17,929",
+      "text": "just be them it has to be the people who"
+    },
+    {
+      "start_time": "00:27:16,340",
+      "end_time": "00:27:21,169",
+      "text": "knew him in life in other words it has"
+    },
+    {
+      "start_time": "00:27:17,929",
+      "end_time": "00:27:27,140",
+      "text": "to be the people of this village that go"
+    },
+    {
+      "start_time": "00:27:21,169",
+      "end_time": "00:27:29,480",
+      "text": "with Roland to the body and convince him"
+    },
+    {
+      "start_time": "00:27:27,140",
+      "end_time": "00:27:32,090",
+      "text": "that he's dead okay so we have a"
+    },
+    {
+      "start_time": "00:27:29,480",
+      "end_time": "00:27:35,929",
+      "text": "two-part task here one Simon has to find"
+    },
+    {
+      "start_time": "00:27:32,090",
+      "end_time": "00:27:37,250",
+      "text": "the place where his father died he's"
+    },
+    {
+      "start_time": "00:27:35,929",
+      "end_time": "00:27:38,630",
+      "text": "gonna have to ask him about that so he's"
+    },
+    {
+      "start_time": "00:27:37,250",
+      "end_time": "00:27:39,740",
+      "text": "gonna he's gonna have to find where his"
+    },
+    {
+      "start_time": "00:27:38,630",
+      "end_time": "00:27:42,320",
+      "text": "father died and he's gonna have to"
+    },
+    {
+      "start_time": "00:27:39,740",
+      "end_time": "00:27:43,400",
+      "text": "convince the other people to do come now"
+    },
+    {
+      "start_time": "00:27:42,320",
+      "end_time": "00:27:44,360",
+      "text": "the other people gonna be freaked out"
+    },
+    {
+      "start_time": "00:27:43,400",
+      "end_time": "00:27:46,610",
+      "text": "because they just saw some weird"
+    },
+    {
+      "start_time": "00:27:44,360",
+      "end_time": "00:27:47,960",
+      "text": "spectral thing going on out here so"
+    },
+    {
+      "start_time": "00:27:46,610",
+      "end_time": "00:27:49,100",
+      "text": "that's gonna be a difficult thing so we"
+    },
+    {
+      "start_time": "00:27:47,960",
+      "end_time": "00:27:50,690",
+      "text": "have three news Reds you're convinced"
+    },
+    {
+      "start_time": "00:27:49,100",
+      "end_time": "00:27:52,820",
+      "text": "villages to come with them find Roland's"
+    },
+    {
+      "start_time": "00:27:50,690",
+      "end_time": "00:27:55,460",
+      "text": "remains and find a permanent solution to"
+    },
+    {
+      "start_time": "00:27:52,820",
+      "end_time": "00:27:57,500",
+      "text": "the ghost problem - sherrilyn situation"
+    },
+    {
+      "start_time": "00:27:55,460",
+      "end_time": "00:27:58,700",
+      "text": "okay so I think Simon goes into the"
+    },
+    {
+      "start_time": "00:27:57,500",
+      "end_time": "00:28:01,040",
+      "text": "other room where his father is sort of"
+    },
+    {
+      "start_time": "00:27:58,700",
+      "end_time": "00:28:04,100",
+      "text": "like standing confused he's again he's"
+    },
+    {
+      "start_time": "00:28:01,040",
+      "end_time": "00:28:08,720",
+      "text": "sort of phasing in and out of solidity"
+    },
+    {
+      "start_time": "00:28:04,100",
+      "end_time": "00:28:13,280",
+      "text": "right father when you went hunting last"
+    },
+    {
+      "start_time": "00:28:08,720",
+      "end_time": "00:28:14,080",
+      "text": "week with mother do you remember where"
+    },
+    {
+      "start_time": "00:28:13,280",
+      "end_time": "00:28:16,640",
+      "text": "you went"
+    },
+    {
+      "start_time": "00:28:14,080",
+      "end_time": "00:28:18,890",
+      "text": "does he I think it's a good bet he does"
+    },
+    {
+      "start_time": "00:28:16,640",
+      "end_time": "00:28:21,049",
+      "text": "I think it's a very good I don't know if"
+    },
+    {
+      "start_time": "00:28:18,890",
+      "end_time": "00:28:25,850",
+      "text": "he remembers the exact weight there 50"
+    },
+    {
+      "start_time": "00:28:21,049",
+      "end_time": "00:28:27,380",
+      "text": "50 99 it's not a random event because"
+    },
+    {
+      "start_time": "00:28:25,850",
+      "end_time": "00:28:30,110",
+      "text": "it's over the chaos factor but it is an"
+    },
+    {
+      "start_time": "00:28:27,380",
+      "end_time": "00:28:32,179",
+      "text": "extreme no these memories are completely"
+    },
+    {
+      "start_time": "00:28:30,110",
+      "end_time": "00:28:33,620",
+      "text": "twisted up you only remember certain"
+    },
+    {
+      "start_time": "00:28:32,179",
+      "end_time": "00:28:36,450",
+      "text": "things very vividly it's it's it's"
+    },
+    {
+      "start_time": "00:28:33,620",
+      "end_time": "00:28:39,330",
+      "text": "really a nightmare they got a"
+    },
+    {
+      "start_time": "00:28:36,450",
+      "end_time": "00:28:42,110",
+      "text": "poor guy what do you mean hunting with"
+    },
+    {
+      "start_time": "00:28:39,330",
+      "end_time": "00:28:46,680",
+      "text": "your mother I don't remember doing that"
+    },
+    {
+      "start_time": "00:28:42,110",
+      "end_time": "00:28:49,110",
+      "text": "did we go hunting I we normally do we"
+    },
+    {
+      "start_time": "00:28:46,680",
+      "end_time": "00:28:51,960",
+      "text": "well why don't you ask her is she here"
+    },
+    {
+      "start_time": "00:28:49,110",
+      "end_time": "00:28:54,210",
+      "text": "father I need you to just rest here for"
+    },
+    {
+      "start_time": "00:28:51,960",
+      "end_time": "00:28:55,650",
+      "text": "a moment but I'll be right back he goes"
+    },
+    {
+      "start_time": "00:28:54,210",
+      "end_time": "00:28:58,380",
+      "text": "back in the other room my father does"
+    },
+    {
+      "start_time": "00:28:55,650",
+      "end_time": "00:28:59,850",
+      "text": "not seem to recall anything at all about"
+    },
+    {
+      "start_time": "00:28:58,380",
+      "end_time": "00:29:01,860",
+      "text": "his life for his death"
+    },
+    {
+      "start_time": "00:28:59,850",
+      "end_time": "00:29:03,930",
+      "text": "I confess I don't know what I'm looking"
+    },
+    {
+      "start_time": "00:29:01,860",
+      "end_time": "00:29:05,970",
+      "text": "for but presumably we're looking for a"
+    },
+    {
+      "start_time": "00:29:03,930",
+      "end_time": "00:29:07,590",
+      "text": "body somewhere I don't know where it"
+    },
+    {
+      "start_time": "00:29:05,970",
+      "end_time": "00:29:08,610",
+      "text": "could be we will need all of our"
+    },
+    {
+      "start_time": "00:29:07,590",
+      "end_time": "00:29:10,950",
+      "text": "tracking skills"
+    },
+    {
+      "start_time": "00:29:08,610",
+      "end_time": "00:29:13,080",
+      "text": "I will obviously be able to help you"
+    },
+    {
+      "start_time": "00:29:10,950",
+      "end_time": "00:29:15,860",
+      "text": "with that Simon you should know that the"
+    },
+    {
+      "start_time": "00:29:13,080",
+      "end_time": "00:29:18,480",
+      "text": "people of our Castagna while they were"
+    },
+    {
+      "start_time": "00:29:15,860",
+      "end_time": "00:29:20,850",
+      "text": "noticeably upset that the supernatural"
+    },
+    {
+      "start_time": "00:29:18,480",
+      "end_time": "00:29:23,730",
+      "text": "events happening just outside the des"
+    },
+    {
+      "start_time": "00:29:20,850",
+      "end_time": "00:29:26,070",
+      "text": "store they also expressed a real desire"
+    },
+    {
+      "start_time": "00:29:23,730",
+      "end_time": "00:29:28,130",
+      "text": "to be able to help Roland they had great"
+    },
+    {
+      "start_time": "00:29:26,070",
+      "end_time": "00:29:31,100",
+      "text": "respect for him"
+    },
+    {
+      "start_time": "00:29:28,130",
+      "end_time": "00:29:33,559",
+      "text": "it might behoove us to enlist their aid"
+    },
+    {
+      "start_time": "00:29:31,100",
+      "end_time": "00:29:36,289",
+      "text": "in this as well the last time I traveled"
+    },
+    {
+      "start_time": "00:29:33,559",
+      "end_time": "00:29:38,450",
+      "text": "my father's forest hunting grounds I was"
+    },
+    {
+      "start_time": "00:29:36,289",
+      "end_time": "00:29:41,780",
+      "text": "a small child perhaps the other hunters"
+    },
+    {
+      "start_time": "00:29:38,450",
+      "end_time": "00:29:43,520",
+      "text": "know the region better than I would but"
+    },
+    {
+      "start_time": "00:29:41,780",
+      "end_time": "00:29:45,559",
+      "text": "perhaps we should go and persuade one of"
+    },
+    {
+      "start_time": "00:29:43,520",
+      "end_time": "00:29:47,720",
+      "text": "them to come to guide us if they are"
+    },
+    {
+      "start_time": "00:29:45,559",
+      "end_time": "00:29:50,660",
+      "text": "willing to help if they care about my"
+    },
+    {
+      "start_time": "00:29:47,720",
+      "end_time": "00:29:53,000",
+      "text": "father like you seem to suspect I think"
+    },
+    {
+      "start_time": "00:29:50,660",
+      "end_time": "00:29:54,740",
+      "text": "that is a good idea assignment they go"
+    },
+    {
+      "start_time": "00:29:53,000",
+      "end_time": "00:29:56,090",
+      "text": "out they leave that bird there who's"
+    },
+    {
+      "start_time": "00:29:54,740",
+      "end_time": "00:29:57,590",
+      "text": "still kind of like sitting in the show"
+    },
+    {
+      "start_time": "00:29:56,090",
+      "end_time": "00:29:59,270",
+      "text": "oh yeah they leave ed Burt there because"
+    },
+    {
+      "start_time": "00:29:57,590",
+      "end_time": "00:30:01,039",
+      "text": "when they turn to him to ask him to come"
+    },
+    {
+      "start_time": "00:29:59,270",
+      "end_time": "00:30:06,710",
+      "text": "he's slumped in the chair"
+    },
+    {
+      "start_time": "00:30:01,039",
+      "end_time": "00:30:12,169",
+      "text": "snoring asleep a dreamless sleep for the"
+    },
+    {
+      "start_time": "00:30:06,710",
+      "end_time": "00:30:15,830",
+      "text": "first time it forever Arne and Simon go"
+    },
+    {
+      "start_time": "00:30:12,169",
+      "end_time": "00:30:18,890",
+      "text": "from house to house asking if anyone can"
+    },
+    {
+      "start_time": "00:30:15,830",
+      "end_time": "00:30:21,110",
+      "text": "guide them along his father's hunting"
+    },
+    {
+      "start_time": "00:30:18,890",
+      "end_time": "00:30:23,390",
+      "text": "path Simon is going to roll his"
+    },
+    {
+      "start_time": "00:30:21,110",
+      "end_time": "00:30:25,850",
+      "text": "brand-spankin'-new persuasion skills"
+    },
+    {
+      "start_time": "00:30:23,390",
+      "end_time": "00:30:27,740",
+      "text": "good thing I took it and he is going to"
+    },
+    {
+      "start_time": "00:30:25,850",
+      "end_time": "00:30:32,570",
+      "text": "see if he can convince someone to come"
+    },
+    {
+      "start_time": "00:30:27,740",
+      "end_time": "00:30:35,240",
+      "text": "that is a success with one raise 10 so"
+    },
+    {
+      "start_time": "00:30:32,570",
+      "end_time": "00:30:38,120",
+      "text": "it's a success with a raise so not only"
+    },
+    {
+      "start_time": "00:30:35,240",
+      "end_time": "00:30:40,130",
+      "text": "does he convince someone to come that"
+    },
+    {
+      "start_time": "00:30:38,120",
+      "end_time": "00:30:42,409",
+      "text": "someone he convinces was actually one of"
+    },
+    {
+      "start_time": "00:30:40,130",
+      "end_time": "00:30:44,000",
+      "text": "Roland's great friends which is perfect"
+    },
+    {
+      "start_time": "00:30:42,409",
+      "end_time": "00:30:45,559",
+      "text": "because that's exactly what they need to"
+    },
+    {
+      "start_time": "00:30:44,000",
+      "end_time": "00:30:47,150",
+      "text": "put rolling to rest although they don't"
+    },
+    {
+      "start_time": "00:30:45,559",
+      "end_time": "00:30:50,360",
+      "text": "know it let's find out about this guy"
+    },
+    {
+      "start_time": "00:30:47,150",
+      "end_time": "00:30:51,740",
+      "text": "69 morally his name is morally and he's"
+    },
+    {
+      "start_time": "00:30:50,360",
+      "end_time": "00:30:53,750",
+      "text": "going to be as good to have a French"
+    },
+    {
+      "start_time": "00:30:51,740",
+      "end_time": "00:30:56,299",
+      "text": "accent because why not what do we know"
+    },
+    {
+      "start_time": "00:30:53,750",
+      "end_time": "00:30:57,590",
+      "text": "about moral a go to our own a we know"
+    },
+    {
+      "start_time": "00:30:56,299",
+      "end_time": "00:30:59,419",
+      "text": "that he was definitely a friend to"
+    },
+    {
+      "start_time": "00:30:57,590",
+      "end_time": "00:31:08,750",
+      "text": "Roland and that he's going to help them"
+    },
+    {
+      "start_time": "00:30:59,419",
+      "end_time": "00:31:11,330",
+      "text": "find Roland an addicted sniper okay that"
+    },
+    {
+      "start_time": "00:31:08,750",
+      "end_time": "00:31:13,309",
+      "text": "means he's great with his bow but he has"
+    },
+    {
+      "start_time": "00:31:11,330",
+      "end_time": "00:31:15,380",
+      "text": "an addiction he's a lone alcoholic who's"
+    },
+    {
+      "start_time": "00:31:13,309",
+      "end_time": "00:31:17,120",
+      "text": "lost his family years ago I don't know a"
+    },
+    {
+      "start_time": "00:31:15,380",
+      "end_time": "00:31:19,940",
+      "text": "bear mauled him or something but he's"
+    },
+    {
+      "start_time": "00:31:17,120",
+      "end_time": "00:31:21,230",
+      "text": "lived alone for as long as Symington"
+    },
+    {
+      "start_time": "00:31:19,940",
+      "end_time": "00:31:22,789",
+      "text": "remember and that's the reason why him"
+    },
+    {
+      "start_time": "00:31:21,230",
+      "end_time": "00:31:25,100",
+      "text": "in Roland were so friendly is because"
+    },
+    {
+      "start_time": "00:31:22,789",
+      "end_time": "00:31:27,200",
+      "text": "more they had no had no family so he was"
+    },
+    {
+      "start_time": "00:31:25,100",
+      "end_time": "00:31:28,850",
+      "text": "he was kind of a sad state but but"
+    },
+    {
+      "start_time": "00:31:27,200",
+      "end_time": "00:31:31,130",
+      "text": "Roland was able to sort of help him a"
+    },
+    {
+      "start_time": "00:31:28,850",
+      "end_time": "00:31:32,990",
+      "text": "number of times over over his life so"
+    },
+    {
+      "start_time": "00:31:31,130",
+      "end_time": "00:31:34,169",
+      "text": "morally as you'd feels very very loyal"
+    },
+    {
+      "start_time": "00:31:32,990",
+      "end_time": "00:31:35,850",
+      "text": "to roll"
+    },
+    {
+      "start_time": "00:31:34,169",
+      "end_time": "00:31:36,869",
+      "text": "for that I think they go to his Hut"
+    },
+    {
+      "start_time": "00:31:35,850",
+      "end_time": "00:31:38,669",
+      "text": "tonight they asked him about the"
+    },
+    {
+      "start_time": "00:31:36,869",
+      "end_time": "00:31:41,429",
+      "text": "father's the hunting grounds and such"
+    },
+    {
+      "start_time": "00:31:38,669",
+      "end_time": "00:31:44,999",
+      "text": "and moral a says yes Simon I know very"
+    },
+    {
+      "start_time": "00:31:41,429",
+      "end_time": "00:31:49,289",
+      "text": "well where your father used to hunt but"
+    },
+    {
+      "start_time": "00:31:44,999",
+      "end_time": "00:31:51,470",
+      "text": "I want to ask you what happened outside"
+    },
+    {
+      "start_time": "00:31:49,289",
+      "end_time": "00:31:54,119",
+      "text": "of his house just a little while ago"
+    },
+    {
+      "start_time": "00:31:51,470",
+      "end_time": "00:31:57,090",
+      "text": "there was some sort of commotion that"
+    },
+    {
+      "start_time": "00:31:54,119",
+      "end_time": "00:32:01,799",
+      "text": "looked unnatural to me what you have"
+    },
+    {
+      "start_time": "00:31:57,090",
+      "end_time": "00:32:06,269",
+      "text": "seen moral a is unnatural indeed that is"
+    },
+    {
+      "start_time": "00:32:01,799",
+      "end_time": "00:32:09,619",
+      "text": "not father it is his spirit that is"
+    },
+    {
+      "start_time": "00:32:06,269",
+      "end_time": "00:32:13,129",
+      "text": "still tied to the earth somehow I"
+    },
+    {
+      "start_time": "00:32:09,619",
+      "end_time": "00:32:17,159",
+      "text": "believe we need to find his body and"
+    },
+    {
+      "start_time": "00:32:13,129",
+      "end_time": "00:32:19,179",
+      "text": "bury it with honors and perhaps this"
+    },
+    {
+      "start_time": "00:32:17,159",
+      "end_time": "00:32:23,779",
+      "text": "will"
+    },
+    {
+      "start_time": "00:32:19,179",
+      "end_time": "00:32:26,690",
+      "text": "put him to rest he is a ghost yes I'm"
+    },
+    {
+      "start_time": "00:32:23,779",
+      "end_time": "00:32:28,429",
+      "text": "afraid so morally unfortunately the"
+    },
+    {
+      "start_time": "00:32:26,690",
+      "end_time": "00:32:32,299",
+      "text": "supernatural seems to follow me like"
+    },
+    {
+      "start_time": "00:32:28,429",
+      "end_time": "00:32:36,380",
+      "text": "storm clouds will you help us it's a bit"
+    },
+    {
+      "start_time": "00:32:32,299",
+      "end_time": "00:32:40,279",
+      "text": "early for me it's almost noon yes but I"
+    },
+    {
+      "start_time": "00:32:36,380",
+      "end_time": "00:32:43,669",
+      "text": "was I was up all night with some brandy"
+    },
+    {
+      "start_time": "00:32:40,279",
+      "end_time": "00:32:46,669",
+      "text": "I will come with you give me a moment to"
+    },
+    {
+      "start_time": "00:32:43,669",
+      "end_time": "00:32:48,230",
+      "text": "prepare and he does and they go back"
+    },
+    {
+      "start_time": "00:32:46,669",
+      "end_time": "00:32:50,330",
+      "text": "they wake Edward up who is very"
+    },
+    {
+      "start_time": "00:32:48,230",
+      "end_time": "00:32:52,730",
+      "text": "difficult to wake up he's at a very deep"
+    },
+    {
+      "start_time": "00:32:50,330",
+      "end_time": "00:32:55,039",
+      "text": "sleep for the first time ever and they"
+    },
+    {
+      "start_time": "00:32:52,730",
+      "end_time": "00:32:58,190",
+      "text": "go back to Roland and and Simon"
+    },
+    {
+      "start_time": "00:32:55,039",
+      "end_time": "00:33:00,919",
+      "text": "basically says to him father I would"
+    },
+    {
+      "start_time": "00:32:58,190",
+      "end_time": "00:33:04,429",
+      "text": "like to go hunting with you one last"
+    },
+    {
+      "start_time": "00:33:00,919",
+      "end_time": "00:33:08,210",
+      "text": "time would you enjoy that yes of course"
+    },
+    {
+      "start_time": "00:33:04,429",
+      "end_time": "00:33:08,950",
+      "text": "I'm let me just get my bow thank you"
+    },
+    {
+      "start_time": "00:33:08,210",
+      "end_time": "00:33:13,490",
+      "text": "Father"
+    },
+    {
+      "start_time": "00:33:08,950",
+      "end_time": "00:33:15,740",
+      "text": "it has been too long we're gonna end"
+    },
+    {
+      "start_time": "00:33:13,490",
+      "end_time": "00:33:17,299",
+      "text": "that scene there that was crazy stuff"
+    },
+    {
+      "start_time": "00:33:15,740",
+      "end_time": "00:33:19,399",
+      "text": "with Cheryl and I'm gonna crease the"
+    },
+    {
+      "start_time": "00:33:17,299",
+      "end_time": "00:33:21,590",
+      "text": "chaos factor to 7 we've added Simon's"
+    },
+    {
+      "start_time": "00:33:19,399",
+      "end_time": "00:33:24,470",
+      "text": "father Roland we've added more lay the"
+    },
+    {
+      "start_time": "00:33:21,590",
+      "end_time": "00:33:26,779",
+      "text": "Forester and with that the five of them"
+    },
+    {
+      "start_time": "00:33:24,470",
+      "end_time": "00:33:28,730",
+      "text": "leave our Gaston having only just"
+    },
+    {
+      "start_time": "00:33:26,779",
+      "end_time": "00:33:30,799",
+      "text": "arrived but knowing the time is of the"
+    },
+    {
+      "start_time": "00:33:28,730",
+      "end_time": "00:33:32,299",
+      "text": "essence because cherylin could reappear"
+    },
+    {
+      "start_time": "00:33:30,799",
+      "end_time": "00:33:35,330",
+      "text": "at any moment but when will that happen"
+    },
+    {
+      "start_time": "00:33:32,299",
+      "end_time": "00:33:38,720",
+      "text": "we will have to find out next time as"
+    },
+    {
+      "start_time": "00:33:35,330",
+      "end_time": "00:33:41,059",
+      "text": "our characters move into the black oak"
+    },
+    {
+      "start_time": "00:33:38,720",
+      "end_time": "00:33:44,480",
+      "text": "forest being led by Morel a the Forester"
+    },
+    {
+      "start_time": "00:33:41,059",
+      "end_time": "00:33:46,279",
+      "text": "looking for the body of Roland will they"
+    },
+    {
+      "start_time": "00:33:44,480",
+      "end_time": "00:33:48,080",
+      "text": "find Simon's father before cherylin"
+    },
+    {
+      "start_time": "00:33:46,279",
+      "end_time": "00:33:51,019",
+      "text": "shows up again will they be able to put"
+    },
+    {
+      "start_time": "00:33:48,080",
+      "end_time": "00:33:52,429",
+      "text": "him to rest and in so doing give Simon"
+    },
+    {
+      "start_time": "00:33:51,019",
+      "end_time": "00:33:54,529",
+      "text": "some measure of peace that he has never"
+    },
+    {
+      "start_time": "00:33:52,429",
+      "end_time": "00:33:56,210",
+      "text": "known once again you'll have to tune in"
+    },
+    {
+      "start_time": "00:33:54,529",
+      "end_time": "00:33:58,159",
+      "text": "next time to find out along with me"
+    },
+    {
+      "start_time": "00:33:56,210",
+      "end_time": "00:33:59,570",
+      "text": "thanks so much for watching if you like"
+    },
+    {
+      "start_time": "00:33:58,159",
+      "end_time": "00:34:02,149",
+      "text": "the show please hit like and subscribe"
+    },
+    {
+      "start_time": "00:33:59,570",
+      "end_time": "00:34:04,669",
+      "text": "and we will see you next time and find"
+    },
+    {
+      "start_time": "00:34:02,149",
+      "end_time": "00:34:10,450",
+      "text": "out what lies in store for Simon and"
+    },
+    {
+      "start_time": "00:34:04,669",
+      "end_time": "00:34:10,450",
+      "text": "Company here on me myself and die"
+    },
+    {
+      "start_time": "00:34:11,500",
+      "end_time": "00:34:15,460",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:34:18,270",
+      "end_time": "00:34:20,330",
+      "text": "you"
+    }
+  ],
+  "full_text": "I do like that so I'm gonna call it very\nlikely such is the power of the GM using\nthe chart I decide the likelihood\nhello and welcome back once again to me\nmyself and I I am as always your\nintrepid host GM and player Trevor to\nVal we have a few little announcement to\nstart first of all we're at a thousand\nsubscribers oh yeah I'm not exactly sure\nwhat that means\npresumably that'll get us some more\nattention on YouTube I have no idea I'm\na bit of a Luddite when it comes to this\nstuff thanks so much everybody for\nsubscribing and to continue to watch to\ncontinue to comment and as always if you\nenjoy the content here please do hit\nlike and subscribe if you haven't\nalready and helped promote the show that\nway before we get into the usual recap\nof things I should point out that Simon\nand company have leveled up so just a\nfew quick little things here nothing\nhuge no edges or anything like that it's\njust basically skills so Simon improved\nhis fight and his persuade in other\nwords he has the persuade skill now\nimagine that hahaha but his fight he\ngoes up to d8 is persuaded is a whopping\nbefore which is better than the whopping\nd0 that it was ed Bert he increased his\nfighting to d-10 so whoo that's pretty\ngood and Arne increased his fighting to\nd8 and his climb did he six the other\nlittle bit of housekeeping I wanted to\ndo last time we encountered Simon's\nfather before we go on with anything\nelse I think it's important we find out\nwhat his name was because I don't want\nto keep saying Simon's dads I'm his\nfather's I'm at the head so let's find\nout once again the old Zenith ours guide\nto everything here we're going to the\nEnglish name table because Simon's name\nis English so his father would have an\nEnglish name - I'm just going to assume\n83 Roland that's cool last time our\nSimon and company were ambushed but they\ncompletely wiped the floor with these\nwould-be assassins would-be kidnappers\nbounty hunters led by Isabel who was in\nthe employ of Manfred of day they\ncompletely didn't even take a scratch\nthey just wiped the floor with it with a\nnice changeup was my surprise actually\nSimon decided to leave Isabel and\nStratton alive tied to a tree in such a\nway that they could escape eventually\nbecause he did not want to execute them\nfor their crimes\nbecause dragon did surrender and throw\ndown his arms so those enemies may be\naround later who knows or they may not\nbe enemies anymore who can say I can't\nbut that ice will later so the point is\nthey won that battle quite handily and\nthen continue to track Simon's father\nall the way to the village of our Gaston\nwhich is just to the northeast\nof the city of Titan by the way very\nsoon I will have a map composed by my\nfriend and Ally Paul Ross who is also a\nwatcher of the show he's got a really\nreally cool map on Wonder draught I\nthink it's the name of the program it's\na map making software fairly inexpensive\nto buy anyway he's a bit of a master\nwith this thing so I said hey I've got a\nlittle map of Simon's adventures and he\nis obliging me so hopefully over the\nnext I don't know week or two we should\nhave some sort of visual representation\nthat I will obviously share with you\nbecause it's really cool so they did\ntrack Simon's father back to August an\nbut when they got there we learned a\nlittle bit more about Roland about\nSimon's father we learned that he had\nbeen in town for about a week and that\nhe had looked he had discovered that\nSimon was in trouble with Manfred of\ndubbed in in the nearby city of chiton\nhe had discovered that his son had a\nbasically a warrant out for his\nimmediate arrest and possibly execution\nif he ever returned to these lands of\nthe solicitor of kite Nana land\nsurrounded guidin oh he had also taken a\nwound a wound that Simon had been\nfollowing a trail of blood now this\nbecomes very interesting because we\nimmediately then discovered that in fact\nthe thing that made Simon's parents\nRoland and Simon's mother we don't have\na name for yet but she's dead the thing\nthat made Roland didn't mummy\nparticularly interested to see that\n the necromancer was the fact da da\nda that they were already dead\nthat in fact they were some sort of\nunique type of ghost a ghost that was in\nand out of corporeality corporal\nrealities at the word they sort of were\nphasing in and out of substance and not\nsubstance and it was very clear with the\nevents of last session that Roland did\nnot know he was dead we're gonna find it\na little bit more about Roland and us\nand the nature of his death and the\ndeath of his wife as well in the forest\nwhich originally got zero tours\nattention we're gonna find all that out\nin just a second but just to do a little\nbit of bookkeeping our chaos factor was\ngoing back up to six because the very\nend of last episode was a real shock to\nSimon so chaos factor back up to six\nalso we can close the thread track down\nSimon's father we have done that the\nthis thread here discovers zero torres\ninterest in Simon's parents well that's\nwhat we're about to basically get to the\nbottom of two so I think we will\nprobably wind up\nclosing that - but let's see so as Simon\nhas just backed away from the semi ghost\nof his father and a cherylin had\nmanifested and said he is one of us\nSimon you know back to a completely\nhorrified the father clearly had no idea\nwhat was wrong I don't think the father\nknows he's dead I also think that the\nfather the father spirit cuz he is a\nspirit he is dead he is a ghost he's\njust a very unique kind of ghost a ghost\nat pay as I said does not know he's dead\nand it's also sort of phasing in and out\nof corporeality\nthat's the reason why Simon who was\ninitially able to embrace him but then\nhis hands went through his shoulders so\nI think that Roland does not know he's\ndead and I think that Roland also has no\nsense of time so when Roland is looking\nat Simon I think two things happen\nSimon how have you grown so large such a\nshort period of time and who is that\nwoman beside you I I do not know her and\nSimon looks back to where sherrilyn has\nmanifest and she is fully visible now or\nand of course he's taking a step away\nbut it's time to grow growl and seize\ncherylin as just a woman because to his\neyes that's what she would appear as\njust a woman father do you not know how\nlong it has been no I mean I'm not sure\nhow long it's been Simon but there at\nleast a week a week brother\ndo you not remember I have difficulty\nremembering anything let's find out what\nhe remembers let's find out what\nhappened so first of all I think Roland\nand his wife\nthey're both hunters they're both\nforesters so they would have gone out\ntogether to hunt and to trap and do all\nthat kind of stuff so I think roll it at\nhis wife many many years ago left a\ncabin on an extended hunting trip into\nthe Black Forest but something happened\nI think some calamity befell them that\ngot them killed I think it was mundane\nthough I don't think there was anything\nspecial about the nature that as I think\nit was a quick thing but I do think that\nwhatever the nature of their death was\nit was such that they were trying to\nkeep each other alive so I'm sort of\npicturing like they fell down a crevasse\nor they were good they were crossing a\ncrevasse by a rope bridge and the rope\nbridge snap maybe the wife was going\nfirst again of the rope bridge fell down\nhit the side of the wall she was hanging\non for dear life and he was trying\neverything to try and climb down to her\nto help her up but the the rope bridge\nbroke and they both felt to the death\nkind of something like that\nso was it that I don't know I'm gonna\ncall it somewhat likely on KS factor 622\nwell doubles don't count for this\nbecause we're determining a backstory\nthing here so that is what happens so\nthey did basically fall to a mundane\ndeath I think the twist is I had this\nidea earlier before the show and I think\nI kind of think it's interesting because\nthere has to be some explanation as to\nwhy Simon's father Simon's parents\nactually became these unique style of\nghosts like it's not just a matter of\nthem dying and then their spirits come\nback to haunt the site or whatever the\ncase is something caused them to become\nthese unique creatures which is what got\nzero Tory's attention remember that's\nwhere this is all coming from he noticed\nthem for a reason I think the reason is\nwhen they fell to the bottom of that\nravine after the rope bridge broke at\nthe moment of their death they fell onto\nlike a field of plants or flowers kind\nof like a a the lists or kingsfoil in\nLord of the Rings which is a plant that\nAragorn uses to try and heal throat O's\nwound in that story so I think it's\nsomething like that I think there's some\nsort of herb or plant like a Fe a patch\nof it at the bottom of this ravine\nthat has some medicinal properties that\nbasically it's like a life preserver\nand I think when Rowland and his wife\nfell to their death they landed at the\nbottom of that ravine and somehow that\nplant maybe it was pollen that got\npuffed up who knows but but somehow that\nat that exact moment interacted with the\nmoment of their death and caused them to\nbasically become there because their\nspirits to become unmoored from their\nbodies it has to be unique so I kind of\nlike that let's ask if that's the case I\ndo like that so I'm gonna call it very\nlikely such is the power of the GM using\nthe chart are you decide the likelihood\nwere very likely that that is what\nhappened and 56 yes that is in fact what\nhappened so now we know the reason why\nthey are they became these unique Undead\nand we also know the reason why zero\ntour took an interest in them because I\nthink that zero tour using his Iraq\nEuler device in the temple would have\nimmediately been aware of anything of\ninterest to him something that he could\nuse because if he finds some sort of\nunique Undead that he could then harness\nand maybe take their supernatural power\nand embed them into a flesh construct\nmaybe that's what happened to Simon's\nmother that would just be another tool\nin his arsenal so that explains the\nreason why the zero tour was interested\nit also explains the unique nature of\nSimon's parents particular situation ok\ngreat thread closed now that Simon is\naware that his father is in fact some\nsort of ghost that his father is dead I\nmean this is bad news I think that this\nis overwhelming for Simon if he stumbles\nback even further as his father is like\nyou know basically coming towards him\ntotally confused yeah he has no because\nhe doesn't know he's dead he did so\nwhat's wrong he just knows that he can't\nremember in his mind he's been gone a\nweek he went hunting there was some sort\nof accident next thing he knows he's in\nthis temple his wife gets turned into\nthis horrible creature he has to escape\nand his instinct tells him to go back\nhome to check on her son all of that is\ntrue except also he's dead there's a\nnumber of things that immediately leap\nto mind here and that is what do all\nthese characters want because this could\nbecome very important very shortly\nSimon obviously now that he knows his\nfather is dead and once he recovers from\nthe initial shock obvious\nhe's gonna be reeling from this for some\ntime but I do think that once he\nrecovers from the initial shock he's\ngonna want to find a way to put his\nfather to rest what is that good - a\ntail I don't know the the dice will\ndecide so that's what he wants\nArne wants to help Simon find his father\nwhich he's done\nI do think ultimately Arne's wishes are\nto help Simon clear his name in the city\nof chitin and we are very close to kite\nright now so I think that's gonna be\nthing for him ed Bert wants to get rid\nof Carolyn we still know that and he\nstill got his eye on that crossbow\nand I think that any opportunity that ed\nBert gets to grab that crossbow and take\na shot at the nav now now visible\ncherylin he might take it so that could\ncome into it sherilyn now this is a\nreally interesting thing\nsherilyn is a ghost she immediately\nrecognizes Roland for what he is which\nis a ghost but I think that she also\nrecognizes that he's something different\nher entire purpose is to obliterate the\nundead so my question is how does\ncherylin respond to Simon's father she\nhas just said he has my TAS does that\nmean that she is going to want to find a\nway to help Simon to lay him to rest to\nput him at peace or I mean we've seen\nwhat kind of person cherylin is at least\nin her unlife does she attack Roland I\ndon't think it's likely I think that she\nwould understand that Roland is not an\nimmediate threat to them in this I think\nthat she would want to find another way\nbut let's find out I had to call it very\nunlikely that she just attacks oh okay\nwell she does and we've rolled the\ndoubles as Roland is walking down the\ngarden path here towards his son and the\nrest of them are kind of freaking out a\nlittle bit\nsherilyn begins just sort of you know\nmanifest even further and sort of rise\nup and begin to launch some sort of\nattack now a couple things happen at\nthis moment we have a random event were\nto see what that is but I also think\nbecause Simon is reeling from the shock\nof this he's just like his eyes when he\ndoesn't know what to do I think ed Bert\nMike sees his opportunity and try and\ngrab that crossbow to shoot Charlotte\nthat is possible let's decide that first\ndoes ed Bert seize upon this opportunity\nto\ngrab the crossbow also the stunned Simon\nand take a shot at cherylin very likely\nchaos vector 622 he does and there's\nanother random event okay so he's\ndefinitely gonna make a play for that\nand he sees cherylin manifests all of\nher attention on roland coming down the\ngarden path\nSimon's stepping back staggering back\nand for grabbing a crossbow off of\nSimon's back or side or wherever he's\ncarrying it and Kapow random events two\nof them what's the event focus of the\nfirst one 84 NPC negative okay I want to\nthat's gonna be the order of the\npurifying flame and this might be\ntranslated into cherylin because she was\nthe leader of the order of the / fury\nflank but that's really hard to say fast\nthe order themselves they were on the\nway to the temple and that was some time\nago so and the likelihood of them being\nanywhere near it's possible before we\nget too far down that road let's just\ndumb find out the nature of this first\nNPC negative event order the purifying\nflame NPC action is 32 delay delay goals\nokay well that is obvious to me the NPC\nis in fact cherylin as the head of the\norder delay of goals of course it is her\ngoal is to try and destroy Roland and\nhow does it get delayed by Edberg\ngrabbing the crossbow and taking a shot\nnow the second event is 83 ambiguous\nevent excitement subject 50 excitement\ntravel it's a catch-all category for\nanything that does not directly impact\ncharacters or NPCs it's not necessarily\nbad or good this is a random event that\nhas it doesn't have births shattering\nimportant so this is just sort of like\nan event of interest basically it's not\nexcitement of travel oh actually the\nfirst thing that jumps to mind didn't\nthis is really loosely interpreted of\ncourse as is my right to interpret how I\nwant excitement of travel I think the\nexcitement of this commotion on here out\nhere as well as Simon coming back\nthrough the village has caused the other\nvillagers to take an interest as what's\ngoing on so if you imagine that sort of\nall around here there's a couple of\nother cottages I think the other\nforesters the other Huntsman\nare coming out of their colleges sort of\nexcited to see what's going on they're\ntraveling their treads Ivan has traveled\nhere and they are traveling out of their\nhouse so that's what's happening here so\nbasically a crowd has been drawn as this\nhappened so okay I didn't think this is\ngonna be a battle I just thought I was I\njust put the stuff your visual interest\nokay sherilyn she is going to attack\nRoland Roland totally unsuspecting\nremember he doesn't see here as a ghost\nshe's just some woman and he's like hey\nit was your friend she opens up the\nfloodgates of her power does she just\nbasically leap on him and draw like a\nnice that like you know like a dagger\nthat she would have had cuz you know I'm\nsort of imagining that when when you die\nin this world if you do come back to\nsome sort of ghost you have the ethereal\nversions of all the stuff you had so I\nthink it's a good bet that she had some\nyou know knife with her she doesn't have\naccess to her full powers otherwise she\nblasts him right well actually let's\nfind out does she have some sort of\npower some sort of magic spell she can\naccess right now that could directly\naffect him\nI'm gonna call it unlikely unlikely 74\nshe does not so in fact she screeches\ntowards Roland's drawing her dagger to\nRoland this dagger is absolutely real\nthere's nothing ghostly about it it's a\nknife he kind of his eyes go wide and\nshe comes in now here's my question and\nit's a simple one but it's an important\none who acts first does cherylin stab\nRoland before ed Burt grabs that\ncrossbow and fires now normally I would\nput this down to initiate an initiative\ncard situation who goes first\nhowever because we had a random event\ngenerated that was clearly an NPC\nnegative which is delay of goals and it\nwas cherylin is the head of the order I\nthink that automatically means that Ed\nBert goes first\nso advert grabs the crossbow from Simon\na stunned Simon so I'm it's like watch\nwatch Edward grabs Simon's crossbow off\nof him\nspins blasts the bolt towards Sharon's\nback shouting Punk his shooting is d6\nand he's got to get four more he gets a\nfive so he will hit cherylin right in\nthe back as she's coming\nscreeching towards Roland to end the\nsupernatural aberration once and for all\nthe magic of the crossbow will mean that\nthe bolt does embed in their back and\nhurts her now her toughness is 5/5 okay\nshe's about to splodge this dagger into\nRoland when her eyes go wide with pain\nas this crossbow bolt appears between\nher shoulder blades okay now we have to\ngo to initiative this is gonna be a\nlittle weird because who's the enemy and\nwho's the ally all right so what do we\ngot here for Simon we've got Jack this\nis gonna be Arne and Roland are in for\ned Bert is on his own car to five and\ncherylin East\non ace okay she's got to break free of\nthis shake does she do it her spirits a\nd-10 but she's not a wild card does she\nbreak free of the shake she does but\nit's not a raise so it takes her whole\naround so basically the crossbow bolt\nthat embeds itself into her back she\nwhich cries out in in serial pain but\nthen her eyes sort of go black she rises\nup the crossbow bolt crumbles into this\nfine black dust and disappears and she\nis back in action but it does take her\nwhole round which brings us to Simon\nwell here's the thing normally Simon\nwould want to stop Ed Burt from\nattacking cherylin because cherylin has\nbeen a net benefit for them over this\nwhole thing and he Simon's not the kind\nof guy to just attack an ally but that's\nshe just attacked his dad does Simon\nstop at verse or does he help ed Burt\nthis is his dad sherilyn is attacking\nhis dad she also almost got them all\nkilled in the temple when she brought\nthe ceiling down on them I think Simon I\nthink Simon may have had it with\ncherylin let's find out does he stop ed\nBurt from attacking further I think it's\nvery unlikely ninety extreme no the\ncrossbow ball hits her in the back he\nsees his father like sitting there\nthere's no idea what's going on Simon\nturns to ed Burt gave me that crossbow\nno she's got to die she's got to die\nSimon I've had enough give me that\ncrossbow ed but I shoot better than you\ndo\nand he hands it over man she grabs it\nloads it spins around and fires now\nloading the crossbows - - but he is\nmarksman witch busty which means he\nturns and fires\nnormally at cherylin okay he's rolling\nhis d8 and his shooting of a four so\nthat's a hit the regular hit Punk\nregular hit 2 - 6 + 1 8 9 13 damage on\ntoughness 5 is enough to completely\ndispel her but remember this happened\nonce before she got shot by this thing\nbut it was not enough to destroy her but\nit is enough to cause her to be\ncompletely disc or / ated for a time I\nthink that they have to find another way\nto truly end the threat of the haunting\nwhat that is I'm not sure but Simon hits\nhard with that magic crossbow she\nscreams in anger and vanishes in a puff\nof ethereal mist ed Burton collapses to\nhis knees again able to breathe now that\nhe's free of this haunting at least\ntemporarily\nyou did it Simon you're Dennis she's\ngone I could feel it I can feel she's\ngone\ncalm down head but I don't think she's\ngone for good\nremember what happened last time now I\nthink we must find a more permanent\nsolution for your haunting but yes for\nthe moment she is gone Simon's father\ncomes down to him sort of Ian and out of\ncorporality what was that what about why\ndid you shoot that woman and where did\nshe go he's just looking so so confused\ncalm down father calm down I will try\nand explain everything just calm down\nAaron notices the onlookers who are sort\nof looking outside of their their\nwindows and their doors there's not a\nlot of them it's a very very small\nvillage and everybody knows everybody\nbut I do think that they're all sort of\nlooking and you know they're sort of\nwhispering to each other this is gonna\ncause quite a stir I think in the\nvillage and that news may get back to\nsomebody or\ncomes up to Simon he kind of glances\naround at all the people looking Simon I\nfear you have made an enemy of cherylin\nthis day and when she returns again as\nshe will she will not be so friendly as\nshe has been\nyou mean as friendly as she was when she\nattacked my father for no reason your\nfather is not your father anymore Simon\nif you want to help we must find a way\nto put him to rest put him to rest I've\nbeen searching for him for years\nand I have just found him and now you\nwant me to give him up you know what I'm\nsaying is right your father is in the\nstate of suffering we must find a way to\nalleviate that suffering Edward still on\nthe ground on his knees but I think he's\nlaughing maniacally she's gone she's\ngone I can't sleep tonight\nI can sleep for the first time and I\ndon't remember how long Roland again so\nconfused\nSimon what does this white-haired man\nmean I do not need rest\nI feel air vigorous I do not need it\nmore sleep\ncome father come insight Simon now\nnotices that the onlookers are sort of\ntalking behind their hands and stuff let\nme deal with this looky-loos silent you\ngo inside yes of course\nso aren't goes often he's talking to the\nvillage trying to convince them that you\nknow nothing to see here nothing to see\nhere that kind of stuff but as he's\ntalking to the villagers you know they\nall knew Roland and they didn't know\nwhat was going on with him but they did\nsuspect something was off they had to\nhave he's been here for a week he's gone\naround to the villages and he's talked\nto them because he wanted to know what\nhappened to his son in those moments of\nclarity that he had which he obviously\nhad so they would have noticed something\nwas off about him so a few minutes later\nArne comes back and joins the rest of\nthem in the cabin they sit down around\nthe table I do not believe that cherylin\nwill be gone for long\nthe last time we disco operated her with\na crossbow she emerged very soon after I\ndo not know how long it will be until\nshe emerges again but we must act before\nthat happens Simon I do not understand\nwhat he was saying to me why don't you\ngrab that bow and come hunting with me\nlike we did last week no father not now\njust sit back try to relax\nif you can but I am relaxed Simon he\ngets up and he goes into the bedroom I\ncannot imagine what this must be like\nfor your sight\nI am sorry I appreciate that on but\nthere is no time as much as I would like\nto I do not think there is anything we\ncould do about Sheridan right now unless\nyou can think of something ed but yeah\nthink of something you mean take us\nsomething like to make it permanent like\nevery time there's been something weird\nor necromantic ed Bert has had the\nanswer so there's a chance that maybe he\ndoes this time in his experience has ed\nbird ever found anything that could give\nhim an answer as to how to permanently\nend the haunting I don't think so if he\nknew he would have had no reason to go\nto the temple in the first place with\nSimon to find a reason so I'm gonna say\nit's impossible it's impossible which in\nthis case gives it a 10% chance it's\nimpossible that ed Burt knows anything\nabout how to put all seventeen so close\nbut no he does not know I suppose the\nanswer might be just keep that crossbow\nloaded so when she comes back we can put\nanother one in there I don't think\nthat's going to be a permanent solution\nwe will eventually run out of boats and\nwhat what about you on do you know of\nanything that might help us in this case\nthere's are no a permanent solution to\ndeal with cherylin the answer is 53 so\nno he does not\nI'm sorry Simon I do not know how to\ndeal with this well then we need to know\nhow to deal with my father in every\nghost story I've ever heard\na spirit becomes unmoored from its body\nand it needs its physical remains to be\nburied perhaps that is the case here is\nit the case I think that's likely that\nmakes sense it's all about trying to put\nthe physical remains to rest so like\nmaybe like entering them or burying them\nor burning them and saying a few words\nor respective prayers or something like\nthat I'm going to say it's likely 89 it\nis not in this case no it's going to\ntake something a little more I think it\nis that but I think there's something\nelse that has to be done - that's all\nI'm interpreting there's no answer what\nis it that they have to do I'm just\ngonna randomly determine here in order\nto properly put Simon's father role into\narrest 39 bestow 0-7 bestow a lies oh\nokay\nhuh I think because Roland doesn't know\nthat he's dead\nthe first thing that has to happen is he\nneeds to be convinced that he's dead on\nthe only way that's gonna happen is if\nthey bring him to his body but it can't\njust be them it has to be the people who\nknew him in life in other words it has\nto be the people of this village that go\nwith Roland to the body and convince him\nthat he's dead okay so we have a\ntwo-part task here one Simon has to find\nthe place where his father died he's\ngonna have to ask him about that so he's\ngonna he's gonna have to find where his\nfather died and he's gonna have to\nconvince the other people to do come now\nthe other people gonna be freaked out\nbecause they just saw some weird\nspectral thing going on out here so\nthat's gonna be a difficult thing so we\nhave three news Reds you're convinced\nvillages to come with them find Roland's\nremains and find a permanent solution to\nthe ghost problem - sherrilyn situation\nokay so I think Simon goes into the\nother room where his father is sort of\nlike standing confused he's again he's\nsort of phasing in and out of solidity\nright father when you went hunting last\nweek with mother do you remember where\nyou went\ndoes he I think it's a good bet he does\nI think it's a very good I don't know if\nhe remembers the exact weight there 50\n50 99 it's not a random event because\nit's over the chaos factor but it is an\nextreme no these memories are completely\ntwisted up you only remember certain\nthings very vividly it's it's it's\nreally a nightmare they got a\npoor guy what do you mean hunting with\nyour mother I don't remember doing that\ndid we go hunting I we normally do we\nwell why don't you ask her is she here\nfather I need you to just rest here for\na moment but I'll be right back he goes\nback in the other room my father does\nnot seem to recall anything at all about\nhis life for his death\nI confess I don't know what I'm looking\nfor but presumably we're looking for a\nbody somewhere I don't know where it\ncould be we will need all of our\ntracking skills\nI will obviously be able to help you\nwith that Simon you should know that the\npeople of our Castagna while they were\nnoticeably upset that the supernatural\nevents happening just outside the des\nstore they also expressed a real desire\nto be able to help Roland they had great\nrespect for him\nit might behoove us to enlist their aid\nin this as well the last time I traveled\nmy father's forest hunting grounds I was\na small child perhaps the other hunters\nknow the region better than I would but\nperhaps we should go and persuade one of\nthem to come to guide us if they are\nwilling to help if they care about my\nfather like you seem to suspect I think\nthat is a good idea assignment they go\nout they leave that bird there who's\nstill kind of like sitting in the show\noh yeah they leave ed Burt there because\nwhen they turn to him to ask him to come\nhe's slumped in the chair\nsnoring asleep a dreamless sleep for the\nfirst time it forever Arne and Simon go\nfrom house to house asking if anyone can\nguide them along his father's hunting\npath Simon is going to roll his\nbrand-spankin'-new persuasion skills\ngood thing I took it and he is going to\nsee if he can convince someone to come\nthat is a success with one raise 10 so\nit's a success with a raise so not only\ndoes he convince someone to come that\nsomeone he convinces was actually one of\nRoland's great friends which is perfect\nbecause that's exactly what they need to\nput rolling to rest although they don't\nknow it let's find out about this guy\n69 morally his name is morally and he's\ngoing to be as good to have a French\naccent because why not what do we know\nabout moral a go to our own a we know\nthat he was definitely a friend to\nRoland and that he's going to help them\nfind Roland an addicted sniper okay that\nmeans he's great with his bow but he has\nan addiction he's a lone alcoholic who's\nlost his family years ago I don't know a\nbear mauled him or something but he's\nlived alone for as long as Symington\nremember and that's the reason why him\nin Roland were so friendly is because\nmore they had no had no family so he was\nhe was kind of a sad state but but\nRoland was able to sort of help him a\nnumber of times over over his life so\nmorally as you'd feels very very loyal\nto roll\nfor that I think they go to his Hut\ntonight they asked him about the\nfather's the hunting grounds and such\nand moral a says yes Simon I know very\nwell where your father used to hunt but\nI want to ask you what happened outside\nof his house just a little while ago\nthere was some sort of commotion that\nlooked unnatural to me what you have\nseen moral a is unnatural indeed that is\nnot father it is his spirit that is\nstill tied to the earth somehow I\nbelieve we need to find his body and\nbury it with honors and perhaps this\nwill\nput him to rest he is a ghost yes I'm\nafraid so morally unfortunately the\nsupernatural seems to follow me like\nstorm clouds will you help us it's a bit\nearly for me it's almost noon yes but I\nwas I was up all night with some brandy\nI will come with you give me a moment to\nprepare and he does and they go back\nthey wake Edward up who is very\ndifficult to wake up he's at a very deep\nsleep for the first time ever and they\ngo back to Roland and and Simon\nbasically says to him father I would\nlike to go hunting with you one last\ntime would you enjoy that yes of course\nI'm let me just get my bow thank you\nFather\nit has been too long we're gonna end\nthat scene there that was crazy stuff\nwith Cheryl and I'm gonna crease the\nchaos factor to 7 we've added Simon's\nfather Roland we've added more lay the\nForester and with that the five of them\nleave our Gaston having only just\narrived but knowing the time is of the\nessence because cherylin could reappear\nat any moment but when will that happen\nwe will have to find out next time as\nour characters move into the black oak\nforest being led by Morel a the Forester\nlooking for the body of Roland will they\nfind Simon's father before cherylin\nshows up again will they be able to put\nhim to rest and in so doing give Simon\nsome measure of peace that he has never\nknown once again you'll have to tune in\nnext time to find out along with me\nthanks so much for watching if you like\nthe show please hit like and subscribe\nand we will see you next time and find\nout what lies in store for Simon and\nCompany here on me myself and die\n[Music]\nyou\n"
+}

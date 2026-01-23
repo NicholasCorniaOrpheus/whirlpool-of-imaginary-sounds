@@ -1,0 +1,4345 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,160",
+      "end_time": "00:00:03,439",
+      "text": "this week on nightlife we discuss game"
+    },
+    {
+      "start_time": "00:00:02,639",
+      "end_time": "00:00:06,560",
+      "text": "mechanics"
+    },
+    {
+      "start_time": "00:00:03,439",
+      "end_time": "00:00:06,560",
+      "text": "in social encounters"
+    },
+    {
+      "start_time": "00:00:07,040",
+      "end_time": "00:00:11,120",
+      "text": "welcome back to the nightlife my name is"
+    },
+    {
+      "start_time": "00:00:09,679",
+      "end_time": "00:00:13,360",
+      "text": "derek melinda the gm"
+    },
+    {
+      "start_time": "00:00:11,120",
+      "end_time": "00:00:14,960",
+      "text": "of the knights of last call in this"
+    },
+    {
+      "start_time": "00:00:13,360",
+      "end_time": "00:00:16,560",
+      "text": "week's episode of nightlife"
+    },
+    {
+      "start_time": "00:00:14,960",
+      "end_time": "00:00:18,160",
+      "text": "we're going to talk about game mechanics"
+    },
+    {
+      "start_time": "00:00:16,560",
+      "end_time": "00:00:21,680",
+      "text": "and their role within"
+    },
+    {
+      "start_time": "00:00:18,160",
+      "end_time": "00:00:24,160",
+      "text": "role playing do you use social mechanics"
+    },
+    {
+      "start_time": "00:00:21,680",
+      "end_time": "00:00:25,279",
+      "text": "to define how your social encounters go"
+    },
+    {
+      "start_time": "00:00:24,160",
+      "end_time": "00:00:27,599",
+      "text": "or do you just play it"
+    },
+    {
+      "start_time": "00:00:25,279",
+      "end_time": "00:00:28,800",
+      "text": "by ear as always i'm joined by the"
+    },
+    {
+      "start_time": "00:00:27,599",
+      "end_time": "00:00:31,359",
+      "text": "fellow knights"
+    },
+    {
+      "start_time": "00:00:28,800",
+      "end_time": "00:00:32,800",
+      "text": "bob how are you doing today excellent"
+    },
+    {
+      "start_time": "00:00:31,359",
+      "end_time": "00:00:35,520",
+      "text": "glad to be back here ready to play"
+    },
+    {
+      "start_time": "00:00:32,800",
+      "end_time": "00:00:36,800",
+      "text": "ready to do some night life happy bob"
+    },
+    {
+      "start_time": "00:00:35,520",
+      "end_time": "00:00:38,640",
+      "text": "who do you got in front of you today"
+    },
+    {
+      "start_time": "00:00:36,800",
+      "end_time": "00:00:40,320",
+      "text": "oh everyone this is uh marco from one"
+    },
+    {
+      "start_time": "00:00:38,640",
+      "end_time": "00:00:43,920",
+      "text": "piece the best anime"
+    },
+    {
+      "start_time": "00:00:40,320",
+      "end_time": "00:00:46,000",
+      "text": "everyone should know that nick uh"
+    },
+    {
+      "start_time": "00:00:43,920",
+      "end_time": "00:00:47,760",
+      "text": "do you agree that that is the best anime"
+    },
+    {
+      "start_time": "00:00:46,000",
+      "end_time": "00:00:49,360",
+      "text": "it is a great anime i'm not gonna lie"
+    },
+    {
+      "start_time": "00:00:47,760",
+      "end_time": "00:00:51,039",
+      "text": "i don't know if i'd go as far as best"
+    },
+    {
+      "start_time": "00:00:49,360",
+      "end_time": "00:00:52,000",
+      "text": "though it is good but it's not i"
+    },
+    {
+      "start_time": "00:00:51,039",
+      "end_time": "00:00:54,640",
+      "text": "wouldn't say the best"
+    },
+    {
+      "start_time": "00:00:52,000",
+      "end_time": "00:00:56,399",
+      "text": "i am not a huge anime fan but uh tim i"
+    },
+    {
+      "start_time": "00:00:54,640",
+      "end_time": "00:00:58,480",
+      "text": "will defer to your expertise tim"
+    },
+    {
+      "start_time": "00:00:56,399",
+      "end_time": "00:01:00,239",
+      "text": "uh i would also lean towards not the"
+    },
+    {
+      "start_time": "00:00:58,480",
+      "end_time": "00:01:01,920",
+      "text": "best it is excellent but"
+    },
+    {
+      "start_time": "00:01:00,239",
+      "end_time": "00:01:03,359",
+      "text": "there there are far better and more"
+    },
+    {
+      "start_time": "00:01:01,920",
+      "end_time": "00:01:05,360",
+      "text": "impactful animes out there"
+    },
+    {
+      "start_time": "00:01:03,359",
+      "end_time": "00:01:07,040",
+      "text": "wonderful i just i just enraged a lot of"
+    },
+    {
+      "start_time": "00:01:05,360",
+      "end_time": "00:01:08,560",
+      "text": "people but that's okay"
+    },
+    {
+      "start_time": "00:01:07,040",
+      "end_time": "00:01:10,799",
+      "text": "and uh matt i'm not gonna ask you i know"
+    },
+    {
+      "start_time": "00:01:08,560",
+      "end_time": "00:01:12,640",
+      "text": "you're not an anime fan so uh no"
+    },
+    {
+      "start_time": "00:01:10,799",
+      "end_time": "00:01:15,439",
+      "text": "i thought that was an anime version of"
+    },
+    {
+      "start_time": "00:01:12,640",
+      "end_time": "00:01:16,799",
+      "text": "frye from futurama oh"
+    },
+    {
+      "start_time": "00:01:15,439",
+      "end_time": "00:01:20,080",
+      "text": "i could see it i could see it that would"
+    },
+    {
+      "start_time": "00:01:16,799",
+      "end_time": "00:01:22,080",
+      "text": "be a cool concept art i like that"
+    },
+    {
+      "start_time": "00:01:20,080",
+      "end_time": "00:01:24,159",
+      "text": "all right well anime statues aside"
+    },
+    {
+      "start_time": "00:01:22,080",
+      "end_time": "00:01:26,560",
+      "text": "today's topic on the nightlife is"
+    },
+    {
+      "start_time": "00:01:24,159",
+      "end_time": "00:01:28,240",
+      "text": "game mechanics and uh specifically as it"
+    },
+    {
+      "start_time": "00:01:26,560",
+      "end_time": "00:01:29,840",
+      "text": "relates to social encounters or"
+    },
+    {
+      "start_time": "00:01:28,240",
+      "end_time": "00:01:31,439",
+      "text": "role-playing encounters that some people"
+    },
+    {
+      "start_time": "00:01:29,840",
+      "end_time": "00:01:34,320",
+      "text": "mistakenly call them"
+    },
+    {
+      "start_time": "00:01:31,439",
+      "end_time": "00:01:36,240",
+      "text": "yes mistakenly call them so this this"
+    },
+    {
+      "start_time": "00:01:34,320",
+      "end_time": "00:01:38,240",
+      "text": "topic actually came from our discord"
+    },
+    {
+      "start_time": "00:01:36,240",
+      "end_time": "00:01:40,799",
+      "text": "channel and from one of our patrons"
+    },
+    {
+      "start_time": "00:01:38,240",
+      "end_time": "00:01:42,479",
+      "text": "vigil keeper i had a special request for"
+    },
+    {
+      "start_time": "00:01:40,799",
+      "end_time": "00:01:43,680",
+      "text": "this nightlife topic to be discussed so"
+    },
+    {
+      "start_time": "00:01:42,479",
+      "end_time": "00:01:44,560",
+      "text": "vigil keeper here we are we're"
+    },
+    {
+      "start_time": "00:01:43,680",
+      "end_time": "00:01:46,880",
+      "text": "discussing it"
+    },
+    {
+      "start_time": "00:01:44,560",
+      "end_time": "00:01:47,759",
+      "text": "yes thank you patrons absolutely thank"
+    },
+    {
+      "start_time": "00:01:46,880",
+      "end_time": "00:01:50,000",
+      "text": "you guys everything"
+    },
+    {
+      "start_time": "00:01:47,759",
+      "end_time": "00:01:50,799",
+      "text": "absolutely um so thank you to all of our"
+    },
+    {
+      "start_time": "00:01:50,000",
+      "end_time": "00:01:53,280",
+      "text": "patrons"
+    },
+    {
+      "start_time": "00:01:50,799",
+      "end_time": "00:01:54,000",
+      "text": "especially our champion and hero tier"
+    },
+    {
+      "start_time": "00:01:53,280",
+      "end_time": "00:01:56,320",
+      "text": "members"
+    },
+    {
+      "start_time": "00:01:54,000",
+      "end_time": "00:01:57,920",
+      "text": "uh the the support has been incredible"
+    },
+    {
+      "start_time": "00:01:56,320",
+      "end_time": "00:01:59,360",
+      "text": "and amazing and everyone is doing a"
+    },
+    {
+      "start_time": "00:01:57,920",
+      "end_time": "00:02:01,200",
+      "text": "great job and if you're interested"
+    },
+    {
+      "start_time": "00:01:59,360",
+      "end_time": "00:02:02,640",
+      "text": "in getting involved in some pretty deep"
+    },
+    {
+      "start_time": "00:02:01,200",
+      "end_time": "00:02:04,000",
+      "text": "gaming conversations"
+    },
+    {
+      "start_time": "00:02:02,640",
+      "end_time": "00:02:05,520",
+      "text": "why don't you go over to our patrons"
+    },
+    {
+      "start_time": "00:02:04,000",
+      "end_time": "00:02:06,799",
+      "text": "sign up and get into our discord we're"
+    },
+    {
+      "start_time": "00:02:05,520",
+      "end_time": "00:02:08,239",
+      "text": "having some really great chats there"
+    },
+    {
+      "start_time": "00:02:06,799",
+      "end_time": "00:02:10,879",
+      "text": "every single day"
+    },
+    {
+      "start_time": "00:02:08,239",
+      "end_time": "00:02:12,000",
+      "text": "so the topic of conversation today"
+    },
+    {
+      "start_time": "00:02:10,879",
+      "end_time": "00:02:14,640",
+      "text": "really has to do with"
+    },
+    {
+      "start_time": "00:02:12,000",
+      "end_time": "00:02:16,239",
+      "text": "uh i mean any mechanic really in any"
+    },
+    {
+      "start_time": "00:02:14,640",
+      "end_time": "00:02:17,760",
+      "text": "sort of modern game from the last 20"
+    },
+    {
+      "start_time": "00:02:16,239",
+      "end_time": "00:02:18,560",
+      "text": "years usually one that has a skill"
+    },
+    {
+      "start_time": "00:02:17,760",
+      "end_time": "00:02:20,720",
+      "text": "system"
+    },
+    {
+      "start_time": "00:02:18,560",
+      "end_time": "00:02:22,400",
+      "text": "and within that skill system you"
+    },
+    {
+      "start_time": "00:02:20,720",
+      "end_time": "00:02:23,120",
+      "text": "typically have skills that are related"
+    },
+    {
+      "start_time": "00:02:22,400",
+      "end_time": "00:02:25,920",
+      "text": "to"
+    },
+    {
+      "start_time": "00:02:23,120",
+      "end_time": "00:02:27,440",
+      "text": "uh your character's persuasiveness or"
+    },
+    {
+      "start_time": "00:02:25,920",
+      "end_time": "00:02:30,560",
+      "text": "their deceitfulness"
+    },
+    {
+      "start_time": "00:02:27,440",
+      "end_time": "00:02:31,280",
+      "text": "basically their likability in d d or"
+    },
+    {
+      "start_time": "00:02:30,560",
+      "end_time": "00:02:33,280",
+      "text": "pathfinder"
+    },
+    {
+      "start_time": "00:02:31,280",
+      "end_time": "00:02:35,200",
+      "text": "these are your charisma based skills"
+    },
+    {
+      "start_time": "00:02:33,280",
+      "end_time": "00:02:38,720",
+      "text": "typically your diplomacy"
+    },
+    {
+      "start_time": "00:02:35,200",
+      "end_time": "00:02:39,840",
+      "text": "skill your bluff skill your intimidate"
+    },
+    {
+      "start_time": "00:02:38,720",
+      "end_time": "00:02:42,160",
+      "text": "skill"
+    },
+    {
+      "start_time": "00:02:39,840",
+      "end_time": "00:02:43,200",
+      "text": "and the question is um if you if you've"
+    },
+    {
+      "start_time": "00:02:42,160",
+      "end_time": "00:02:45,680",
+      "text": "watched our ap"
+    },
+    {
+      "start_time": "00:02:43,200",
+      "end_time": "00:02:46,720",
+      "text": "you'll know that uh i use the dice i use"
+    },
+    {
+      "start_time": "00:02:45,680",
+      "end_time": "00:02:50,400",
+      "text": "the skills"
+    },
+    {
+      "start_time": "00:02:46,720",
+      "end_time": "00:02:51,920",
+      "text": "to uh decide how effective your"
+    },
+    {
+      "start_time": "00:02:50,400",
+      "end_time": "00:02:53,920",
+      "text": "character is at say"
+    },
+    {
+      "start_time": "00:02:51,920",
+      "end_time": "00:02:55,040",
+      "text": "persuading another character in the game"
+    },
+    {
+      "start_time": "00:02:53,920",
+      "end_time": "00:02:56,720",
+      "text": "an npc"
+    },
+    {
+      "start_time": "00:02:55,040",
+      "end_time": "00:02:58,720",
+      "text": "uh whether or not you've convinced them"
+    },
+    {
+      "start_time": "00:02:56,720",
+      "end_time": "00:02:59,519",
+      "text": "to age you or whether they believe you"
+    },
+    {
+      "start_time": "00:02:58,720",
+      "end_time": "00:03:01,200",
+      "text": "or not"
+    },
+    {
+      "start_time": "00:02:59,519",
+      "end_time": "00:03:03,519",
+      "text": "and some people think that that takes"
+    },
+    {
+      "start_time": "00:03:01,200",
+      "end_time": "00:03:06,560",
+      "text": "away from the game"
+    },
+    {
+      "start_time": "00:03:03,519",
+      "end_time": "00:03:09,120",
+      "text": "i don't agree okay i i i"
+    },
+    {
+      "start_time": "00:03:06,560",
+      "end_time": "00:03:10,560",
+      "text": "i almost don't understand the other side"
+    },
+    {
+      "start_time": "00:03:09,120",
+      "end_time": "00:03:11,760",
+      "text": "like i think we've talked before where"
+    },
+    {
+      "start_time": "00:03:10,560",
+      "end_time": "00:03:13,599",
+      "text": "you just talk your way out of a"
+    },
+    {
+      "start_time": "00:03:11,760",
+      "end_time": "00:03:15,040",
+      "text": "situation and i'm like"
+    },
+    {
+      "start_time": "00:03:13,599",
+      "end_time": "00:03:16,000",
+      "text": "i don't know if we're just acting at"
+    },
+    {
+      "start_time": "00:03:15,040",
+      "end_time": "00:03:17,200",
+      "text": "that point i don't know if we're even"
+    },
+    {
+      "start_time": "00:03:16,000",
+      "end_time": "00:03:20,319",
+      "text": "playing a game"
+    },
+    {
+      "start_time": "00:03:17,200",
+      "end_time": "00:03:22,319",
+      "text": "yeah and how how come uh your charisma"
+    },
+    {
+      "start_time": "00:03:20,319",
+      "end_time": "00:03:24,319",
+      "text": "can bleed in from your purse or your"
+    },
+    {
+      "start_time": "00:03:22,319",
+      "end_time": "00:03:25,200",
+      "text": "player into your character"
+    },
+    {
+      "start_time": "00:03:24,319",
+      "end_time": "00:03:27,040",
+      "text": "because like yeah you're not"
+    },
+    {
+      "start_time": "00:03:25,200",
+      "end_time": "00:03:28,640",
+      "text": "role-playing at that point strength-wise"
+    },
+    {
+      "start_time": "00:03:27,040",
+      "end_time": "00:03:30,799",
+      "text": "could you do some extra push-ups"
+    },
+    {
+      "start_time": "00:03:28,640",
+      "end_time": "00:03:32,080",
+      "text": "yeah in real life just make you know"
+    },
+    {
+      "start_time": "00:03:30,799",
+      "end_time": "00:03:33,920",
+      "text": "your player stronger"
+    },
+    {
+      "start_time": "00:03:32,080",
+      "end_time": "00:03:35,360",
+      "text": "you know because if why do we allow"
+    },
+    {
+      "start_time": "00:03:33,920",
+      "end_time": "00:03:36,879",
+      "text": "charisma to affect it"
+    },
+    {
+      "start_time": "00:03:35,360",
+      "end_time": "00:03:38,239",
+      "text": "yeah i mean great can a dumb dumb"
+    },
+    {
+      "start_time": "00:03:36,879",
+      "end_time": "00:03:39,599",
+      "text": "character come up with a really good"
+    },
+    {
+      "start_time": "00:03:38,239",
+      "end_time": "00:03:41,120",
+      "text": "plan because i'm smart well"
+    },
+    {
+      "start_time": "00:03:39,599",
+      "end_time": "00:03:43,120",
+      "text": "so that kind of bleeds into not quite"
+    },
+    {
+      "start_time": "00:03:41,120",
+      "end_time": "00:03:43,840",
+      "text": "social encounters but if if there was a"
+    },
+    {
+      "start_time": "00:03:43,120",
+      "end_time": "00:03:45,360",
+      "text": "puzzle"
+    },
+    {
+      "start_time": "00:03:43,840",
+      "end_time": "00:03:47,599",
+      "text": "you know some sort of like and the dm"
+    },
+    {
+      "start_time": "00:03:45,360",
+      "end_time": "00:03:49,120",
+      "text": "took their time maybe they even you know"
+    },
+    {
+      "start_time": "00:03:47,599",
+      "end_time": "00:03:50,879",
+      "text": "brought some puzzle pieces and they have"
+    },
+    {
+      "start_time": "00:03:49,120",
+      "end_time": "00:03:52,080",
+      "text": "like this chess board and they put all"
+    },
+    {
+      "start_time": "00:03:50,879",
+      "end_time": "00:03:52,640",
+      "text": "the pieces out in front of you and"
+    },
+    {
+      "start_time": "00:03:52,080",
+      "end_time": "00:03:53,680",
+      "text": "they're like"
+    },
+    {
+      "start_time": "00:03:52,640",
+      "end_time": "00:03:55,599",
+      "text": "and then the player you know you guys"
+    },
+    {
+      "start_time": "00:03:53,680",
+      "end_time": "00:03:56,319",
+      "text": "realize like oh i get what we have to do"
+    },
+    {
+      "start_time": "00:03:55,599",
+      "end_time": "00:03:58,319",
+      "text": "we have to"
+    },
+    {
+      "start_time": "00:03:56,319",
+      "end_time": "00:04:00,560",
+      "text": "put the knights on the board so that"
+    },
+    {
+      "start_time": "00:03:58,319",
+      "end_time": "00:04:02,159",
+      "text": "every king is in check and you go"
+    },
+    {
+      "start_time": "00:04:00,560",
+      "end_time": "00:04:04,560",
+      "text": "uh can my character just make an"
+    },
+    {
+      "start_time": "00:04:02,159",
+      "end_time": "00:04:08,159",
+      "text": "intelligence check to solve this puzzle"
+    },
+    {
+      "start_time": "00:04:04,560",
+      "end_time": "00:04:11,200",
+      "text": "my character is smarter than i am"
+    },
+    {
+      "start_time": "00:04:08,159",
+      "end_time": "00:04:14,000",
+      "text": "i suck at puzzles but you know mathias"
+    },
+    {
+      "start_time": "00:04:11,200",
+      "end_time": "00:04:16,079",
+      "text": "my my wizard would be amazing at puzzles"
+    },
+    {
+      "start_time": "00:04:14,000",
+      "end_time": "00:04:17,280",
+      "text": "and to your point"
+    },
+    {
+      "start_time": "00:04:16,079",
+      "end_time": "00:04:19,120",
+      "text": "you know someone who could be i don't"
+    },
+    {
+      "start_time": "00:04:17,280",
+      "end_time": "00:04:20,799",
+      "text": "know an olympic level fencer"
+    },
+    {
+      "start_time": "00:04:19,120",
+      "end_time": "00:04:22,880",
+      "text": "would i ever allow them at my table to"
+    },
+    {
+      "start_time": "00:04:20,799",
+      "end_time": "00:04:25,440",
+      "text": "go uh let me describe for you this"
+    },
+    {
+      "start_time": "00:04:22,880",
+      "end_time": "00:04:27,040",
+      "text": "exquisite riposte and parry maneuver"
+    },
+    {
+      "start_time": "00:04:25,440",
+      "end_time": "00:04:28,560",
+      "text": "and then i'd go oh my you're right the"
+    },
+    {
+      "start_time": "00:04:27,040",
+      "end_time": "00:04:29,759",
+      "text": "critical hit yeah well i just don't"
+    },
+    {
+      "start_time": "00:04:28,560",
+      "end_time": "00:04:31,759",
+      "text": "understand because like that's why it's"
+    },
+    {
+      "start_time": "00:04:29,759",
+      "end_time": "00:04:33,600",
+      "text": "here right if not i can just cut this"
+    },
+    {
+      "start_time": "00:04:31,759",
+      "end_time": "00:04:35,759",
+      "text": "cut this section out of my book or my"
+    },
+    {
+      "start_time": "00:04:33,600",
+      "end_time": "00:04:38,400",
+      "text": "paper right there's a reason that it's"
+    },
+    {
+      "start_time": "00:04:35,759",
+      "end_time": "00:04:39,600",
+      "text": "that i invested to get to plus four or"
+    },
+    {
+      "start_time": "00:04:38,400",
+      "end_time": "00:04:41,040",
+      "text": "plus this is because"
+    },
+    {
+      "start_time": "00:04:39,600",
+      "end_time": "00:04:42,479",
+      "text": "my character is gonna be better at"
+    },
+    {
+      "start_time": "00:04:41,040",
+      "end_time": "00:04:43,440",
+      "text": "solving puzzles my character's gonna be"
+    },
+    {
+      "start_time": "00:04:42,479",
+      "end_time": "00:04:45,680",
+      "text": "better at moving"
+    },
+    {
+      "start_time": "00:04:43,440",
+      "end_time": "00:04:46,800",
+      "text": "doors or kicking stuff down i invested"
+    },
+    {
+      "start_time": "00:04:45,680",
+      "end_time": "00:04:48,880",
+      "text": "into this"
+    },
+    {
+      "start_time": "00:04:46,800",
+      "end_time": "00:04:50,560",
+      "text": "with skills or whatever because if the"
+    },
+    {
+      "start_time": "00:04:48,880",
+      "end_time": "00:04:51,360",
+      "text": "situation and the social atmosphere"
+    },
+    {
+      "start_time": "00:04:50,560",
+      "end_time": "00:04:52,960",
+      "text": "comes up"
+    },
+    {
+      "start_time": "00:04:51,360",
+      "end_time": "00:04:54,800",
+      "text": "you know i'm gonna intimidate that you"
+    },
+    {
+      "start_time": "00:04:52,960",
+      "end_time": "00:04:58,240",
+      "text": "were like um deceiving the"
+    },
+    {
+      "start_time": "00:04:54,800",
+      "end_time": "00:05:00,240",
+      "text": "guards in in our ap and it's like"
+    },
+    {
+      "start_time": "00:04:58,240",
+      "end_time": "00:05:01,280",
+      "text": "i mean i actually assume you couldn't"
+    },
+    {
+      "start_time": "00:05:00,240",
+      "end_time": "00:05:03,919",
+      "text": "persuade them as"
+    },
+    {
+      "start_time": "00:05:01,280",
+      "end_time": "00:05:05,600",
+      "text": "as matthew but uh i think it was awesome"
+    },
+    {
+      "start_time": "00:05:03,919",
+      "end_time": "00:05:07,520",
+      "text": "that burl was able to do it and i"
+    },
+    {
+      "start_time": "00:05:05,600",
+      "end_time": "00:05:09,600",
+      "text": "i prefer the way you like to do it which"
+    },
+    {
+      "start_time": "00:05:07,520",
+      "end_time": "00:05:12,479",
+      "text": "is you roll first"
+    },
+    {
+      "start_time": "00:05:09,600",
+      "end_time": "00:05:13,680",
+      "text": "and then if you succeeded how did you"
+    },
+    {
+      "start_time": "00:05:12,479",
+      "end_time": "00:05:15,440",
+      "text": "succeed and if you failed"
+    },
+    {
+      "start_time": "00:05:13,680",
+      "end_time": "00:05:17,039",
+      "text": "i'll tell you what happened well i think"
+    },
+    {
+      "start_time": "00:05:15,440",
+      "end_time": "00:05:17,680",
+      "text": "that's awesome absolutely agree because"
+    },
+    {
+      "start_time": "00:05:17,039",
+      "end_time": "00:05:19,199",
+      "text": "otherwise"
+    },
+    {
+      "start_time": "00:05:17,680",
+      "end_time": "00:05:20,960",
+      "text": "you talk yourself out of a paper bag"
+    },
+    {
+      "start_time": "00:05:19,199",
+      "end_time": "00:05:23,039",
+      "text": "right that's correct so"
+    },
+    {
+      "start_time": "00:05:20,960",
+      "end_time": "00:05:24,400",
+      "text": "the biggest whoopsie is when you like i"
+    },
+    {
+      "start_time": "00:05:23,039",
+      "end_time": "00:05:27,919",
+      "text": "mean a player might have a"
+    },
+    {
+      "start_time": "00:05:24,400",
+      "end_time": "00:05:30,160",
+      "text": "really strongly worded and totally makes"
+    },
+    {
+      "start_time": "00:05:27,919",
+      "end_time": "00:05:30,160",
+      "text": "sense"
+    },
+    {
+      "start_time": "00:05:30,320",
+      "end_time": "00:05:33,440",
+      "text": "and then they roll the two yeah and then"
+    },
+    {
+      "start_time": "00:05:31,440",
+      "end_time": "00:05:35,120",
+      "text": "they roll i'm sorry yep up yup you"
+    },
+    {
+      "start_time": "00:05:33,440",
+      "end_time": "00:05:37,600",
+      "text": "slipped you fell you looked like a man"
+    },
+    {
+      "start_time": "00:05:35,120",
+      "end_time": "00:05:39,280",
+      "text": "and i uh you know i think a lot of it"
+    },
+    {
+      "start_time": "00:05:37,600",
+      "end_time": "00:05:42,000",
+      "text": "comes down to the system"
+    },
+    {
+      "start_time": "00:05:39,280",
+      "end_time": "00:05:43,680",
+      "text": "um pathfinder two is clearly a crunchier"
+    },
+    {
+      "start_time": "00:05:42,000",
+      "end_time": "00:05:45,039",
+      "text": "system yeah it's gonna be more gamified"
+    },
+    {
+      "start_time": "00:05:43,680",
+      "end_time": "00:05:47,919",
+      "text": "i don't think gamifying things"
+    },
+    {
+      "start_time": "00:05:45,039",
+      "end_time": "00:05:49,039",
+      "text": "is a problem unless you've suddenly like"
+    },
+    {
+      "start_time": "00:05:47,919",
+      "end_time": "00:05:50,720",
+      "text": "gamified"
+    },
+    {
+      "start_time": "00:05:49,039",
+      "end_time": "00:05:52,960",
+      "text": "you know fiasco or mutants and"
+    },
+    {
+      "start_time": "00:05:50,720",
+      "end_time": "00:05:54,400",
+      "text": "masterminds or some super indie"
+    },
+    {
+      "start_time": "00:05:52,960",
+      "end_time": "00:05:56,319",
+      "text": "role playing where it is a lot more you"
+    },
+    {
+      "start_time": "00:05:54,400",
+      "end_time": "00:05:57,919",
+      "text": "know mutants and masterminds you know"
+    },
+    {
+      "start_time": "00:05:56,319",
+      "end_time": "00:05:59,120",
+      "text": "i'm a hero and you know we describe the"
+    },
+    {
+      "start_time": "00:05:57,919",
+      "end_time": "00:06:00,479",
+      "text": "scenes and we're all kind of making the"
+    },
+    {
+      "start_time": "00:05:59,120",
+      "end_time": "00:06:01,680",
+      "text": "story together which is"
+    },
+    {
+      "start_time": "00:06:00,479",
+      "end_time": "00:06:03,600",
+      "text": "you know what people also typically"
+    },
+    {
+      "start_time": "00:06:01,680",
+      "end_time": "00:06:04,960",
+      "text": "associate with 5e"
+    },
+    {
+      "start_time": "00:06:03,600",
+      "end_time": "00:06:06,639",
+      "text": "is you know making this story"
+    },
+    {
+      "start_time": "00:06:04,960",
+      "end_time": "00:06:08,160",
+      "text": "cooperatively except you know there's"
+    },
+    {
+      "start_time": "00:06:06,639",
+      "end_time": "00:06:09,520",
+      "text": "rolling in that as well right well"
+    },
+    {
+      "start_time": "00:06:08,160",
+      "end_time": "00:06:11,360",
+      "text": "they're supposed to be right they're"
+    },
+    {
+      "start_time": "00:06:09,520",
+      "end_time": "00:06:13,120",
+      "text": "supposed to be because 5e has charisma"
+    },
+    {
+      "start_time": "00:06:11,360",
+      "end_time": "00:06:14,960",
+      "text": "based skills and has diplomacy"
+    },
+    {
+      "start_time": "00:06:13,120",
+      "end_time": "00:06:16,560",
+      "text": "i mean i look the fact of the matter is"
+    },
+    {
+      "start_time": "00:06:14,960",
+      "end_time": "00:06:18,080",
+      "text": "the reason that well"
+    },
+    {
+      "start_time": "00:06:16,560",
+      "end_time": "00:06:20,240",
+      "text": "maybe i'm being a little bit cynical"
+    },
+    {
+      "start_time": "00:06:18,080",
+      "end_time": "00:06:21,360",
+      "text": "here but it's like nobody complains when"
+    },
+    {
+      "start_time": "00:06:20,240",
+      "end_time": "00:06:23,600",
+      "text": "their character is way"
+    },
+    {
+      "start_time": "00:06:21,360",
+      "end_time": "00:06:24,960",
+      "text": "stronger than they are no one ever"
+    },
+    {
+      "start_time": "00:06:23,600",
+      "end_time": "00:06:28,080",
+      "text": "complains when their character"
+    },
+    {
+      "start_time": "00:06:24,960",
+      "end_time": "00:06:30,080",
+      "text": "can cast magical spells but they can't"
+    },
+    {
+      "start_time": "00:06:28,080",
+      "end_time": "00:06:31,600",
+      "text": "right no no when do they complain they"
+    },
+    {
+      "start_time": "00:06:30,080",
+      "end_time": "00:06:32,560",
+      "text": "complain when they put charisma as a"
+    },
+    {
+      "start_time": "00:06:31,600",
+      "end_time": "00:06:33,840",
+      "text": "dump stat"
+    },
+    {
+      "start_time": "00:06:32,560",
+      "end_time": "00:06:35,440",
+      "text": "and their character has an eight"
+    },
+    {
+      "start_time": "00:06:33,840",
+      "end_time": "00:06:37,199",
+      "text": "charisma and then when they're at the"
+    },
+    {
+      "start_time": "00:06:35,440",
+      "end_time": "00:06:38,639",
+      "text": "table they don't want to role play"
+    },
+    {
+      "start_time": "00:06:37,199",
+      "end_time": "00:06:40,800",
+      "text": "because if you had a low charisma the"
+    },
+    {
+      "start_time": "00:06:38,639",
+      "end_time": "00:06:43,280",
+      "text": "way you would role play is by saying"
+    },
+    {
+      "start_time": "00:06:40,800",
+      "end_time": "00:06:45,280",
+      "text": "oh yeah my character is actually a bad"
+    },
+    {
+      "start_time": "00:06:43,280",
+      "end_time": "00:06:45,919",
+      "text": "person at convincing people and even if"
+    },
+    {
+      "start_time": "00:06:45,280",
+      "end_time": "00:06:48,479",
+      "text": "i"
+    },
+    {
+      "start_time": "00:06:45,919",
+      "end_time": "00:06:49,919",
+      "text": "think i have a great reason for you know"
+    },
+    {
+      "start_time": "00:06:48,479",
+      "end_time": "00:06:51,440",
+      "text": "talking to this person and i think i"
+    },
+    {
+      "start_time": "00:06:49,919",
+      "end_time": "00:06:52,080",
+      "text": "would be able to persuade them to join"
+    },
+    {
+      "start_time": "00:06:51,440",
+      "end_time": "00:06:53,759",
+      "text": "us"
+    },
+    {
+      "start_time": "00:06:52,080",
+      "end_time": "00:06:55,120",
+      "text": "that's not in character for me right"
+    },
+    {
+      "start_time": "00:06:53,759",
+      "end_time": "00:06:55,680",
+      "text": "that's not what your character says out"
+    },
+    {
+      "start_time": "00:06:55,120",
+      "end_time": "00:06:57,199",
+      "text": "loud and"
+    },
+    {
+      "start_time": "00:06:55,680",
+      "end_time": "00:06:58,880",
+      "text": "that goes back to our previous videos"
+    },
+    {
+      "start_time": "00:06:57,199",
+      "end_time": "00:06:59,440",
+      "text": "with role playing how not to be boring"
+    },
+    {
+      "start_time": "00:06:58,880",
+      "end_time": "00:07:02,560",
+      "text": "is it's"
+    },
+    {
+      "start_time": "00:06:59,440",
+      "end_time": "00:07:04,800",
+      "text": "you don't need to be that full narrative"
+    },
+    {
+      "start_time": "00:07:02,560",
+      "end_time": "00:07:05,919",
+      "text": "in order to try and get what you want"
+    },
+    {
+      "start_time": "00:07:04,800",
+      "end_time": "00:07:08,080",
+      "text": "you're trying to"
+    },
+    {
+      "start_time": "00:07:05,919",
+      "end_time": "00:07:09,440",
+      "text": "be your character and how you set them"
+    },
+    {
+      "start_time": "00:07:08,080",
+      "end_time": "00:07:10,800",
+      "text": "up how you create them and"
+    },
+    {
+      "start_time": "00:07:09,440",
+      "end_time": "00:07:12,880",
+      "text": "you know the skill sets you choose the"
+    },
+    {
+      "start_time": "00:07:10,800",
+      "end_time": "00:07:15,680",
+      "text": "choices that you make should matter"
+    },
+    {
+      "start_time": "00:07:12,880",
+      "end_time": "00:07:16,880",
+      "text": "so if you have a low charisma okay and"
+    },
+    {
+      "start_time": "00:07:15,680",
+      "end_time": "00:07:18,479",
+      "text": "you in real life might be able to"
+    },
+    {
+      "start_time": "00:07:16,880",
+      "end_time": "00:07:19,199",
+      "text": "persuade somebody to do something but"
+    },
+    {
+      "start_time": "00:07:18,479",
+      "end_time": "00:07:20,639",
+      "text": "that's not"
+    },
+    {
+      "start_time": "00:07:19,199",
+      "end_time": "00:07:22,400",
+      "text": "what you're playing that's not the"
+    },
+    {
+      "start_time": "00:07:20,639",
+      "end_time": "00:07:25,360",
+      "text": "character that you have created"
+    },
+    {
+      "start_time": "00:07:22,400",
+      "end_time": "00:07:26,880",
+      "text": "and if you don't like that this gives"
+    },
+    {
+      "start_time": "00:07:25,360",
+      "end_time": "00:07:28,639",
+      "text": "you the opportunity to try and change"
+    },
+    {
+      "start_time": "00:07:26,880",
+      "end_time": "00:07:30,479",
+      "text": "that in the future as well to grow like"
+    },
+    {
+      "start_time": "00:07:28,639",
+      "end_time": "00:07:32,880",
+      "text": "you would as a normal human being"
+    },
+    {
+      "start_time": "00:07:30,479",
+      "end_time": "00:07:34,720",
+      "text": "to take that and actually be your"
+    },
+    {
+      "start_time": "00:07:32,880",
+      "end_time": "00:07:36,080",
+      "text": "character make those choices that your"
+    },
+    {
+      "start_time": "00:07:34,720",
+      "end_time": "00:07:37,680",
+      "text": "character is going to do because"
+    },
+    {
+      "start_time": "00:07:36,080",
+      "end_time": "00:07:40,240",
+      "text": "those are the skill sets your character"
+    },
+    {
+      "start_time": "00:07:37,680",
+      "end_time": "00:07:42,160",
+      "text": "has in the world that has been created"
+    },
+    {
+      "start_time": "00:07:40,240",
+      "end_time": "00:07:43,599",
+      "text": "with the gm and their players the"
+    },
+    {
+      "start_time": "00:07:42,160",
+      "end_time": "00:07:45,039",
+      "text": "example i always think of is is and we"
+    },
+    {
+      "start_time": "00:07:43,599",
+      "end_time": "00:07:46,879",
+      "text": "may have mentioned it here before"
+    },
+    {
+      "start_time": "00:07:45,039",
+      "end_time": "00:07:48,400",
+      "text": "in uh previous nightlife is is your"
+    },
+    {
+      "start_time": "00:07:46,879",
+      "end_time": "00:07:50,560",
+      "text": "character acts"
+    },
+    {
+      "start_time": "00:07:48,400",
+      "end_time": "00:07:51,759",
+      "text": "who was a half work a half work fighter"
+    },
+    {
+      "start_time": "00:07:50,560",
+      "end_time": "00:07:53,280",
+      "text": "or a half barbarian"
+    },
+    {
+      "start_time": "00:07:51,759",
+      "end_time": "00:07:54,639",
+      "text": "barbarian it was third edition so you"
+    },
+    {
+      "start_time": "00:07:53,280",
+      "end_time": "00:07:55,680",
+      "text": "get a minus two to your intelligence and"
+    },
+    {
+      "start_time": "00:07:54,639",
+      "end_time": "00:07:58,800",
+      "text": "plus to your strength"
+    },
+    {
+      "start_time": "00:07:55,680",
+      "end_time": "00:08:00,000",
+      "text": "um and then um you rolled pretty bad so"
+    },
+    {
+      "start_time": "00:07:58,800",
+      "end_time": "00:08:01,599",
+      "text": "i think you had like two"
+    },
+    {
+      "start_time": "00:08:00,000",
+      "end_time": "00:08:03,520",
+      "text": "sixes or something that were really low"
+    },
+    {
+      "start_time": "00:08:01,599",
+      "end_time": "00:08:05,199",
+      "text": "it was i forget exactly but it was bad"
+    },
+    {
+      "start_time": "00:08:03,520",
+      "end_time": "00:08:06,479",
+      "text": "and you you just said you know okay and"
+    },
+    {
+      "start_time": "00:08:05,199",
+      "end_time": "00:08:07,120",
+      "text": "you put it into your wisdom and"
+    },
+    {
+      "start_time": "00:08:06,479",
+      "end_time": "00:08:08,720",
+      "text": "intelligence"
+    },
+    {
+      "start_time": "00:08:07,120",
+      "end_time": "00:08:10,639",
+      "text": "right so you were real dumb your name"
+    },
+    {
+      "start_time": "00:08:08,720",
+      "end_time": "00:08:10,960",
+      "text": "was axe because your character used an"
+    },
+    {
+      "start_time": "00:08:10,639",
+      "end_time": "00:08:12,720",
+      "text": "axe"
+    },
+    {
+      "start_time": "00:08:10,960",
+      "end_time": "00:08:14,479",
+      "text": "correct and half the words were acts"
+    },
+    {
+      "start_time": "00:08:12,720",
+      "end_time": "00:08:14,960",
+      "text": "correct but you played it and you you"
+    },
+    {
+      "start_time": "00:08:14,479",
+      "end_time": "00:08:16,960",
+      "text": "were like"
+    },
+    {
+      "start_time": "00:08:14,960",
+      "end_time": "00:08:18,400",
+      "text": "i'm a big dumb half-orc who just"
+    },
+    {
+      "start_time": "00:08:16,960",
+      "end_time": "00:08:19,759",
+      "text": "sometimes you know doesn't really know"
+    },
+    {
+      "start_time": "00:08:18,400",
+      "end_time": "00:08:21,680",
+      "text": "what's going on so you like you leaned"
+    },
+    {
+      "start_time": "00:08:19,759",
+      "end_time": "00:08:24,879",
+      "text": "into it i think that's a good way of"
+    },
+    {
+      "start_time": "00:08:21,680",
+      "end_time": "00:08:26,160",
+      "text": "you know like role-playing with the"
+    },
+    {
+      "start_time": "00:08:24,879",
+      "end_time": "00:08:28,639",
+      "text": "cards you're dealt in sort of"
+    },
+    {
+      "start_time": "00:08:26,160",
+      "end_time": "00:08:30,240",
+      "text": "sure yeah and i think the other thing is"
+    },
+    {
+      "start_time": "00:08:28,639",
+      "end_time": "00:08:31,680",
+      "text": "like you you know like we said"
+    },
+    {
+      "start_time": "00:08:30,240",
+      "end_time": "00:08:33,680",
+      "text": "you can build your character in these"
+    },
+    {
+      "start_time": "00:08:31,680",
+      "end_time": "00:08:35,919",
+      "text": "games to be good at combat well you can"
+    },
+    {
+      "start_time": "00:08:33,680",
+      "end_time": "00:08:38,000",
+      "text": "build your character to be good at"
+    },
+    {
+      "start_time": "00:08:35,919",
+      "end_time": "00:08:39,760",
+      "text": "talking to people too and i think"
+    },
+    {
+      "start_time": "00:08:38,000",
+      "end_time": "00:08:40,640",
+      "text": "specifically to answer a vigil keeper's"
+    },
+    {
+      "start_time": "00:08:39,760",
+      "end_time": "00:08:42,640",
+      "text": "question"
+    },
+    {
+      "start_time": "00:08:40,640",
+      "end_time": "00:08:43,680",
+      "text": "i think that if you just bypass those"
+    },
+    {
+      "start_time": "00:08:42,640",
+      "end_time": "00:08:45,519",
+      "text": "mechanics"
+    },
+    {
+      "start_time": "00:08:43,680",
+      "end_time": "00:08:47,600",
+      "text": "then you are completely invalidating as"
+    },
+    {
+      "start_time": "00:08:45,519",
+      "end_time": "00:08:49,040",
+      "text": "bob said that whole investment that you"
+    },
+    {
+      "start_time": "00:08:47,600",
+      "end_time": "00:08:49,920",
+      "text": "made in the yeah why do i why did i put"
+    },
+    {
+      "start_time": "00:08:49,040",
+      "end_time": "00:08:51,839",
+      "text": "anything into it yeah"
+    },
+    {
+      "start_time": "00:08:49,920",
+      "end_time": "00:08:53,040",
+      "text": "right well anything you know i also"
+    },
+    {
+      "start_time": "00:08:51,839",
+      "end_time": "00:08:54,000",
+      "text": "think you're denying yourself the"
+    },
+    {
+      "start_time": "00:08:53,040",
+      "end_time": "00:08:55,680",
+      "text": "opportunity to have some"
+    },
+    {
+      "start_time": "00:08:54,000",
+      "end_time": "00:08:57,120",
+      "text": "great moments absolutely yes because"
+    },
+    {
+      "start_time": "00:08:55,680",
+      "end_time": "00:08:57,680",
+      "text": "great points one of the things that i"
+    },
+    {
+      "start_time": "00:08:57,120",
+      "end_time": "00:08:59,200",
+      "text": "think of"
+    },
+    {
+      "start_time": "00:08:57,680",
+      "end_time": "00:09:00,880",
+      "text": "the most when i think of like really"
+    },
+    {
+      "start_time": "00:08:59,200",
+      "end_time": "00:09:04,320",
+      "text": "cool skill checks"
+    },
+    {
+      "start_time": "00:09:00,880",
+      "end_time": "00:09:07,040",
+      "text": "um is a long time ago our friend rich"
+    },
+    {
+      "start_time": "00:09:04,320",
+      "end_time": "00:09:07,920",
+      "text": "he uh he had a character that was really"
+    },
+    {
+      "start_time": "00:09:07,040",
+      "end_time": "00:09:10,320",
+      "text": "really strong in"
+    },
+    {
+      "start_time": "00:09:07,920",
+      "end_time": "00:09:11,680",
+      "text": "diplomacy it was probably a half elf"
+    },
+    {
+      "start_time": "00:09:10,320",
+      "end_time": "00:09:12,959",
+      "text": "from third edition with all the stacking"
+    },
+    {
+      "start_time": "00:09:11,680",
+      "end_time": "00:09:14,880",
+      "text": "skill bonuses"
+    },
+    {
+      "start_time": "00:09:12,959",
+      "end_time": "00:09:16,560",
+      "text": "um but anyway so we you know the party"
+    },
+    {
+      "start_time": "00:09:14,880",
+      "end_time": "00:09:18,399",
+      "text": "was in a situation with like a duke or a"
+    },
+    {
+      "start_time": "00:09:16,560",
+      "end_time": "00:09:20,720",
+      "text": "king or something like that and"
+    },
+    {
+      "start_time": "00:09:18,399",
+      "end_time": "00:09:22,399",
+      "text": "realistically there's no logical way"
+    },
+    {
+      "start_time": "00:09:20,720",
+      "end_time": "00:09:24,240",
+      "text": "that any single person at that table"
+    },
+    {
+      "start_time": "00:09:22,399",
+      "end_time": "00:09:26,320",
+      "text": "including the dm who knew everything"
+    },
+    {
+      "start_time": "00:09:24,240",
+      "end_time": "00:09:28,720",
+      "text": "could reason how we could possibly talk"
+    },
+    {
+      "start_time": "00:09:26,320",
+      "end_time": "00:09:30,959",
+      "text": "our way out of that situation"
+    },
+    {
+      "start_time": "00:09:28,720",
+      "end_time": "00:09:32,880",
+      "text": "but because it's a skill-based check in"
+    },
+    {
+      "start_time": "00:09:30,959",
+      "end_time": "00:09:35,120",
+      "text": "a skill-based system"
+    },
+    {
+      "start_time": "00:09:32,880",
+      "end_time": "00:09:36,399",
+      "text": "you know our half-health barred with the"
+    },
+    {
+      "start_time": "00:09:35,120",
+      "end_time": "00:09:37,920",
+      "text": "best diplomacy in the world right i"
+    },
+    {
+      "start_time": "00:09:36,399",
+      "end_time": "00:09:40,800",
+      "text": "threw out some like dc 40"
+    },
+    {
+      "start_time": "00:09:37,920",
+      "end_time": "00:09:42,560",
+      "text": "right and he rolls a 20 gets like a 56"
+    },
+    {
+      "start_time": "00:09:40,800",
+      "end_time": "00:09:44,800",
+      "text": "or something insane"
+    },
+    {
+      "start_time": "00:09:42,560",
+      "end_time": "00:09:45,680",
+      "text": "and we're just like okay he goes in the"
+    },
+    {
+      "start_time": "00:09:44,800",
+      "end_time": "00:09:48,160",
+      "text": "doors close"
+    },
+    {
+      "start_time": "00:09:45,680",
+      "end_time": "00:09:50,160",
+      "text": "and no one will ever know what was said"
+    },
+    {
+      "start_time": "00:09:48,160",
+      "end_time": "00:09:51,920",
+      "text": "behind those doors right it's like a"
+    },
+    {
+      "start_time": "00:09:50,160",
+      "end_time": "00:09:53,920",
+      "text": "hamilton but he agrees with you"
+    },
+    {
+      "start_time": "00:09:51,920",
+      "end_time": "00:09:55,440",
+      "text": "because the math of the game says that"
+    },
+    {
+      "start_time": "00:09:53,920",
+      "end_time": "00:09:57,360",
+      "text": "right right and that is"
+    },
+    {
+      "start_time": "00:09:55,440",
+      "end_time": "00:09:58,800",
+      "text": "awesome absolutely like i know and it's"
+    },
+    {
+      "start_time": "00:09:57,360",
+      "end_time": "00:10:00,160",
+      "text": "the same thing by the way like we don't"
+    },
+    {
+      "start_time": "00:09:58,800",
+      "end_time": "00:10:01,120",
+      "text": "really question it like you're like okay"
+    },
+    {
+      "start_time": "00:10:00,160",
+      "end_time": "00:10:04,320",
+      "text": "whole secret"
+    },
+    {
+      "start_time": "00:10:01,120",
+      "end_time": "00:10:09,839",
+      "text": "my three foot tall halfling"
+    },
+    {
+      "start_time": "00:10:04,320",
+      "end_time": "00:10:12,240",
+      "text": "uh just crit the 200 foot long dragon"
+    },
+    {
+      "start_time": "00:10:09,839",
+      "end_time": "00:10:13,040",
+      "text": "and did so much damage to it that the"
+    },
+    {
+      "start_time": "00:10:12,240",
+      "end_time": "00:10:15,839",
+      "text": "dragon"
+    },
+    {
+      "start_time": "00:10:13,040",
+      "end_time": "00:10:16,560",
+      "text": "is now dead even though i could only"
+    },
+    {
+      "start_time": "00:10:15,839",
+      "end_time": "00:10:19,040",
+      "text": "reach its"
+    },
+    {
+      "start_time": "00:10:16,560",
+      "end_time": "00:10:20,720",
+      "text": "toenail correct we don't sit there and"
+    },
+    {
+      "start_time": "00:10:19,040",
+      "end_time": "00:10:21,360",
+      "text": "go but how would that no we go look we"
+    },
+    {
+      "start_time": "00:10:20,720",
+      "end_time": "00:10:24,000",
+      "text": "don't know"
+    },
+    {
+      "start_time": "00:10:21,360",
+      "end_time": "00:10:25,440",
+      "text": "exactly what happened there but we just"
+    },
+    {
+      "start_time": "00:10:24,000",
+      "end_time": "00:10:26,880",
+      "text": "we just know that it happened"
+    },
+    {
+      "start_time": "00:10:25,440",
+      "end_time": "00:10:29,200",
+      "text": "right and i think that's part of the fun"
+    },
+    {
+      "start_time": "00:10:26,880",
+      "end_time": "00:10:31,120",
+      "text": "and the magic and i'll kind of"
+    },
+    {
+      "start_time": "00:10:29,200",
+      "end_time": "00:10:32,640",
+      "text": "counterpoint to tim's you know idea kind"
+    },
+    {
+      "start_time": "00:10:31,120",
+      "end_time": "00:10:33,920",
+      "text": "of combining what tim said with what bob"
+    },
+    {
+      "start_time": "00:10:32,640",
+      "end_time": "00:10:35,680",
+      "text": "said as bob mentioned"
+    },
+    {
+      "start_time": "00:10:33,920",
+      "end_time": "00:10:37,440",
+      "text": "i like to have my players roll the dice"
+    },
+    {
+      "start_time": "00:10:35,680",
+      "end_time": "00:10:38,720",
+      "text": "first this way"
+    },
+    {
+      "start_time": "00:10:37,440",
+      "end_time": "00:10:40,640",
+      "text": "we're we're dealing with the game"
+    },
+    {
+      "start_time": "00:10:38,720",
+      "end_time": "00:10:41,760",
+      "text": "mechanics first and then we're"
+    },
+    {
+      "start_time": "00:10:40,640",
+      "end_time": "00:10:44,079",
+      "text": "introducing the fiction"
+    },
+    {
+      "start_time": "00:10:41,760",
+      "end_time": "00:10:45,519",
+      "text": "and that's a lot of fun because if you"
+    },
+    {
+      "start_time": "00:10:44,079",
+      "end_time": "00:10:47,600",
+      "text": "roll poorly"
+    },
+    {
+      "start_time": "00:10:45,519",
+      "end_time": "00:10:48,640",
+      "text": "you know going into this upcoming"
+    },
+    {
+      "start_time": "00:10:47,600",
+      "end_time": "00:10:49,839",
+      "text": "role-playing moment"
+    },
+    {
+      "start_time": "00:10:48,640",
+      "end_time": "00:10:51,920",
+      "text": "where you're gonna be maybe doing some"
+    },
+    {
+      "start_time": "00:10:49,839",
+      "end_time": "00:10:52,880",
+      "text": "talking in character that you are going"
+    },
+    {
+      "start_time": "00:10:51,920",
+      "end_time": "00:10:55,279",
+      "text": "to play yourself"
+    },
+    {
+      "start_time": "00:10:52,880",
+      "end_time": "00:10:56,079",
+      "text": "very poorly that you are not going to"
+    },
+    {
+      "start_time": "00:10:55,279",
+      "end_time": "00:10:58,480",
+      "text": "succeed"
+    },
+    {
+      "start_time": "00:10:56,079",
+      "end_time": "00:10:59,839",
+      "text": "um if you've ever played fiasco it's"
+    },
+    {
+      "start_time": "00:10:58,480",
+      "end_time": "00:11:01,360",
+      "text": "like where you're having a a"
+    },
+    {
+      "start_time": "00:10:59,839",
+      "end_time": "00:11:03,279",
+      "text": "conversation in fiasco and then the"
+    },
+    {
+      "start_time": "00:11:01,360",
+      "end_time": "00:11:05,360",
+      "text": "the group of people that pick the black"
+    },
+    {
+      "start_time": "00:11:03,279",
+      "end_time": "00:11:06,880",
+      "text": "guy and so you know that this is gonna"
+    },
+    {
+      "start_time": "00:11:05,360",
+      "end_time": "00:11:08,880",
+      "text": "end badly for you"
+    },
+    {
+      "start_time": "00:11:06,880",
+      "end_time": "00:11:10,399",
+      "text": "and you get to have fun with that right"
+    },
+    {
+      "start_time": "00:11:08,880",
+      "end_time": "00:11:12,640",
+      "text": "failing can be fun"
+    },
+    {
+      "start_time": "00:11:10,399",
+      "end_time": "00:11:13,519",
+      "text": "and that's why we play these games you"
+    },
+    {
+      "start_time": "00:11:12,640",
+      "end_time": "00:11:14,959",
+      "text": "know if you just"
+    },
+    {
+      "start_time": "00:11:13,519",
+      "end_time": "00:11:16,320",
+      "text": "are just talking and ignoring your"
+    },
+    {
+      "start_time": "00:11:14,959",
+      "end_time": "00:11:18,399",
+      "text": "skills then it becomes a game of you"
+    },
+    {
+      "start_time": "00:11:16,320",
+      "end_time": "00:11:19,760",
+      "text": "know mother may i or dm may i"
+    },
+    {
+      "start_time": "00:11:18,399",
+      "end_time": "00:11:22,320",
+      "text": "and now you're not really trying to"
+    },
+    {
+      "start_time": "00:11:19,760",
+      "end_time": "00:11:24,320",
+      "text": "convince the npc"
+    },
+    {
+      "start_time": "00:11:22,320",
+      "end_time": "00:11:25,920",
+      "text": "you're trying to convince the dungeon"
+    },
+    {
+      "start_time": "00:11:24,320",
+      "end_time": "00:11:27,839",
+      "text": "master now would you"
+    },
+    {
+      "start_time": "00:11:25,920",
+      "end_time": "00:11:29,040",
+      "text": "as the dm if someone made a good"
+    },
+    {
+      "start_time": "00:11:27,839",
+      "end_time": "00:11:32,560",
+      "text": "argument for their player"
+    },
+    {
+      "start_time": "00:11:29,040",
+      "end_time": "00:11:33,760",
+      "text": "give bonuses um i think there's a world"
+    },
+    {
+      "start_time": "00:11:32,560",
+      "end_time": "00:11:35,440",
+      "text": "in which you give bonuses you know"
+    },
+    {
+      "start_time": "00:11:33,760",
+      "end_time": "00:11:37,600",
+      "text": "pathfinder second edition is a little"
+    },
+    {
+      "start_time": "00:11:35,440",
+      "end_time": "00:11:39,440",
+      "text": "uh stringent upon them mechanically i"
+    },
+    {
+      "start_time": "00:11:37,600",
+      "end_time": "00:11:40,000",
+      "text": "mean but officially like in pathfinder"
+    },
+    {
+      "start_time": "00:11:39,440",
+      "end_time": "00:11:41,360",
+      "text": "one"
+    },
+    {
+      "start_time": "00:11:40,000",
+      "end_time": "00:11:43,040",
+      "text": "uh if someone had a particularly good"
+    },
+    {
+      "start_time": "00:11:41,360",
+      "end_time": "00:11:44,560",
+      "text": "idea you might give them a plus two"
+    },
+    {
+      "start_time": "00:11:43,040",
+      "end_time": "00:11:46,480",
+      "text": "if someone has a bad idea you might give"
+    },
+    {
+      "start_time": "00:11:44,560",
+      "end_time": "00:11:47,120",
+      "text": "them a minus two yeah um you know you'll"
+    },
+    {
+      "start_time": "00:11:46,480",
+      "end_time": "00:11:49,120",
+      "text": "sometimes hear"
+    },
+    {
+      "start_time": "00:11:47,120",
+      "end_time": "00:11:51,040",
+      "text": "us uh as friends groups well if someone"
+    },
+    {
+      "start_time": "00:11:49,120",
+      "end_time": "00:11:52,800",
+      "text": "says something we'll say oh plus two"
+    },
+    {
+      "start_time": "00:11:51,040",
+      "end_time": "00:11:54,079",
+      "text": "because it's like an inside joke being"
+    },
+    {
+      "start_time": "00:11:52,800",
+      "end_time": "00:11:54,399",
+      "text": "like yeah we think it's a great idea"
+    },
+    {
+      "start_time": "00:11:54,079",
+      "end_time": "00:11:55,839",
+      "text": "yeah"
+    },
+    {
+      "start_time": "00:11:54,399",
+      "end_time": "00:11:57,440",
+      "text": "yeah i was thinking about that that's"
+    },
+    {
+      "start_time": "00:11:55,839",
+      "end_time": "00:12:00,639",
+      "text": "like a way that it's only"
+    },
+    {
+      "start_time": "00:11:57,440",
+      "end_time": "00:12:01,519",
+      "text": "it's not that you bob made a good idea i"
+    },
+    {
+      "start_time": "00:12:00,639",
+      "end_time": "00:12:04,639",
+      "text": "mean you'd be like"
+    },
+    {
+      "start_time": "00:12:01,519",
+      "end_time": "00:12:04,959",
+      "text": "i'm arguing on behalf of my character so"
+    },
+    {
+      "start_time": "00:12:04,639",
+      "end_time": "00:12:07,120",
+      "text": "i"
+    },
+    {
+      "start_time": "00:12:04,959",
+      "end_time": "00:12:09,040",
+      "text": "i will i'm gonna we got about maybe"
+    },
+    {
+      "start_time": "00:12:07,120",
+      "end_time": "00:12:10,560",
+      "text": "about 10 minutes left in this nightlife"
+    },
+    {
+      "start_time": "00:12:09,040",
+      "end_time": "00:12:11,600",
+      "text": "and i wanted to kind of take this second"
+    },
+    {
+      "start_time": "00:12:10,560",
+      "end_time": "00:12:13,760",
+      "text": "half here so i"
+    },
+    {
+      "start_time": "00:12:11,600",
+      "end_time": "00:12:16,240",
+      "text": "to summarize i think game mechanics are"
+    },
+    {
+      "start_time": "00:12:13,760",
+      "end_time": "00:12:18,959",
+      "text": "fun i think rolling dice is fun"
+    },
+    {
+      "start_time": "00:12:16,240",
+      "end_time": "00:12:19,680",
+      "text": "i think the unknown is fun i think being"
+    },
+    {
+      "start_time": "00:12:18,959",
+      "end_time": "00:12:21,839",
+      "text": "forced"
+    },
+    {
+      "start_time": "00:12:19,680",
+      "end_time": "00:12:23,600",
+      "text": "to role play something that you maybe"
+    },
+    {
+      "start_time": "00:12:21,839",
+      "end_time": "00:12:25,120",
+      "text": "didn't intend to role play"
+    },
+    {
+      "start_time": "00:12:23,600",
+      "end_time": "00:12:26,240",
+      "text": "is a lot of fun puts you out of your"
+    },
+    {
+      "start_time": "00:12:25,120",
+      "end_time": "00:12:26,800",
+      "text": "comfort zone or puts you out of what you"
+    },
+    {
+      "start_time": "00:12:26,240",
+      "end_time": "00:12:28,480",
+      "text": "expected"
+    },
+    {
+      "start_time": "00:12:26,800",
+      "end_time": "00:12:30,320",
+      "text": "absolutely and then takes the story in"
+    },
+    {
+      "start_time": "00:12:28,480",
+      "end_time": "00:12:32,880",
+      "text": "hilarious new direct especially like"
+    },
+    {
+      "start_time": "00:12:30,320",
+      "end_time": "00:12:33,760",
+      "text": "when the least charismatic person in the"
+    },
+    {
+      "start_time": "00:12:32,880",
+      "end_time": "00:12:35,040",
+      "text": "party rolls like"
+    },
+    {
+      "start_time": "00:12:33,760",
+      "end_time": "00:12:36,160",
+      "text": "i'll make a diplomacy check they roll in"
+    },
+    {
+      "start_time": "00:12:35,040",
+      "end_time": "00:12:37,839",
+      "text": "that 20 they're like a fighter and it's"
+    },
+    {
+      "start_time": "00:12:36,160",
+      "end_time": "00:12:39,680",
+      "text": "like turns out like this guy loves"
+    },
+    {
+      "start_time": "00:12:37,839",
+      "end_time": "00:12:40,959",
+      "text": "weapons and he's got a huge collection"
+    },
+    {
+      "start_time": "00:12:39,680",
+      "end_time": "00:12:42,320",
+      "text": "and then you they start bonding over"
+    },
+    {
+      "start_time": "00:12:40,959",
+      "end_time": "00:12:44,560",
+      "text": "right you make it up you make"
+    },
+    {
+      "start_time": "00:12:42,320",
+      "end_time": "00:12:46,000",
+      "text": "you make it why did that work exactly"
+    },
+    {
+      "start_time": "00:12:44,560",
+      "end_time": "00:12:48,000",
+      "text": "why it didn't work"
+    },
+    {
+      "start_time": "00:12:46,000",
+      "end_time": "00:12:50,000",
+      "text": "exactly right it did work why and then"
+    },
+    {
+      "start_time": "00:12:48,000",
+      "end_time": "00:12:51,120",
+      "text": "trying to collaboratively as a group"
+    },
+    {
+      "start_time": "00:12:50,000",
+      "end_time": "00:12:52,800",
+      "text": "figure that yeah it's not just on you"
+    },
+    {
+      "start_time": "00:12:51,120",
+      "end_time": "00:12:54,160",
+      "text": "like bob may have a great idea"
+    },
+    {
+      "start_time": "00:12:52,800",
+      "end_time": "00:12:55,200",
+      "text": "right if this isn't this i'm like that's"
+    },
+    {
+      "start_time": "00:12:54,160",
+      "end_time": "00:12:56,720",
+      "text": "a good idea all right so i'm gonna flip"
+    },
+    {
+      "start_time": "00:12:55,200",
+      "end_time": "00:12:57,519",
+      "text": "this around this is something that uh uh"
+    },
+    {
+      "start_time": "00:12:56,720",
+      "end_time": "00:13:00,399",
+      "text": "fellow dm"
+    },
+    {
+      "start_time": "00:12:57,519",
+      "end_time": "00:13:01,600",
+      "text": "uh and patron aaron and i have discussed"
+    },
+    {
+      "start_time": "00:13:00,399",
+      "end_time": "00:13:03,279",
+      "text": "at length and we were really"
+    },
+    {
+      "start_time": "00:13:01,600",
+      "end_time": "00:13:04,399",
+      "text": "we were originally very excited because"
+    },
+    {
+      "start_time": "00:13:03,279",
+      "end_time": "00:13:05,600",
+      "text": "we actually thought this worked in"
+    },
+    {
+      "start_time": "00:13:04,399",
+      "end_time": "00:13:06,720",
+      "text": "pathfinder second edition and then we"
+    },
+    {
+      "start_time": "00:13:05,600",
+      "end_time": "00:13:08,320",
+      "text": "found a little"
+    },
+    {
+      "start_time": "00:13:06,720",
+      "end_time": "00:13:09,760",
+      "text": "caveat in the rules that said that it"
+    },
+    {
+      "start_time": "00:13:08,320",
+      "end_time": "00:13:13,120",
+      "text": "does not"
+    },
+    {
+      "start_time": "00:13:09,760",
+      "end_time": "00:13:16,480",
+      "text": "but it could oh what do you feel"
+    },
+    {
+      "start_time": "00:13:13,120",
+      "end_time": "00:13:19,600",
+      "text": "or how do you feel as players if"
+    },
+    {
+      "start_time": "00:13:16,480",
+      "end_time": "00:13:23,279",
+      "text": "the same rules and the same skill checks"
+    },
+    {
+      "start_time": "00:13:19,600",
+      "end_time": "00:13:27,360",
+      "text": "that you make to influence"
+    },
+    {
+      "start_time": "00:13:23,279",
+      "end_time": "00:13:30,800",
+      "text": "npcs could be used"
+    },
+    {
+      "start_time": "00:13:27,360",
+      "end_time": "00:13:32,320",
+      "text": "against you oh which is to say if you"
+    },
+    {
+      "start_time": "00:13:30,800",
+      "end_time": "00:13:34,240",
+      "text": "met an npc"
+    },
+    {
+      "start_time": "00:13:32,320",
+      "end_time": "00:13:35,920",
+      "text": "and i said you know they start chatting"
+    },
+    {
+      "start_time": "00:13:34,240",
+      "end_time": "00:13:36,880",
+      "text": "you up and they they're trying to become"
+    },
+    {
+      "start_time": "00:13:35,920",
+      "end_time": "00:13:38,000",
+      "text": "your friend you're like no i don't want"
+    },
+    {
+      "start_time": "00:13:36,880",
+      "end_time": "00:13:38,639",
+      "text": "to be this guy's friend he's this guy's"
+    },
+    {
+      "start_time": "00:13:38,000",
+      "end_time": "00:13:40,160",
+      "text": "an"
+    },
+    {
+      "start_time": "00:13:38,639",
+      "end_time": "00:13:42,560",
+      "text": "and i go okay well they have a really"
+    },
+    {
+      "start_time": "00:13:40,160",
+      "end_time": "00:13:44,000",
+      "text": "high diplomacy"
+    },
+    {
+      "start_time": "00:13:42,560",
+      "end_time": "00:13:46,480",
+      "text": "and they put a lot of points into"
+    },
+    {
+      "start_time": "00:13:44,000",
+      "end_time": "00:13:47,120",
+      "text": "charisma so i'm going to roll this d20"
+    },
+    {
+      "start_time": "00:13:46,480",
+      "end_time": "00:13:49,920",
+      "text": "and oh"
+    },
+    {
+      "start_time": "00:13:47,120",
+      "end_time": "00:13:51,519",
+      "text": "i got a 30 so you are actually friendly"
+    },
+    {
+      "start_time": "00:13:49,920",
+      "end_time": "00:13:52,560",
+      "text": "with them"
+    },
+    {
+      "start_time": "00:13:51,519",
+      "end_time": "00:13:53,680",
+      "text": "i think it comes down to how much you"
+    },
+    {
+      "start_time": "00:13:52,560",
+      "end_time": "00:13:55,279",
+      "text": "want to like role play the character"
+    },
+    {
+      "start_time": "00:13:53,680",
+      "end_time": "00:13:57,040",
+      "text": "yeah i mean i'd roll with it"
+    },
+    {
+      "start_time": "00:13:55,279",
+      "end_time": "00:13:58,240",
+      "text": "yeah because right because like for"
+    },
+    {
+      "start_time": "00:13:57,040",
+      "end_time": "00:13:59,040",
+      "text": "example all the time when we're in"
+    },
+    {
+      "start_time": "00:13:58,240",
+      "end_time": "00:14:01,920",
+      "text": "combat"
+    },
+    {
+      "start_time": "00:13:59,040",
+      "end_time": "00:14:03,040",
+      "text": "i go my the monster intimidates you and"
+    },
+    {
+      "start_time": "00:14:01,920",
+      "end_time": "00:14:04,240",
+      "text": "you i roll a die and"
+    },
+    {
+      "start_time": "00:14:03,040",
+      "end_time": "00:14:06,000",
+      "text": "everything's one side and you and you're"
+    },
+    {
+      "start_time": "00:14:04,240",
+      "end_time": "00:14:06,639",
+      "text": "well no but that goes both ways yeah"
+    },
+    {
+      "start_time": "00:14:06,000",
+      "end_time": "00:14:07,600",
+      "text": "that's what i'm saying"
+    },
+    {
+      "start_time": "00:14:06,639",
+      "end_time": "00:14:08,800",
+      "text": "that's what i'm saying no no no no no"
+    },
+    {
+      "start_time": "00:14:07,600",
+      "end_time": "00:14:10,160",
+      "text": "before it's one-sided if you're"
+    },
+    {
+      "start_time": "00:14:08,800",
+      "end_time": "00:14:10,560",
+      "text": "introducing a second element we're not"
+    },
+    {
+      "start_time": "00:14:10,160",
+      "end_time": "00:14:13,040",
+      "text": "just"
+    },
+    {
+      "start_time": "00:14:10,560",
+      "end_time": "00:14:14,240",
+      "text": "i am not we can be intimidated oh yeah"
+    },
+    {
+      "start_time": "00:14:13,040",
+      "end_time": "00:14:15,519",
+      "text": "yeah no i see you're saying"
+    },
+    {
+      "start_time": "00:14:14,240",
+      "end_time": "00:14:17,199",
+      "text": "i'm telling you your character is"
+    },
+    {
+      "start_time": "00:14:15,519",
+      "end_time": "00:14:18,560",
+      "text": "intimidated by this guy and you're like"
+    },
+    {
+      "start_time": "00:14:17,199",
+      "end_time": "00:14:21,440",
+      "text": "no he's not my guy's brave"
+    },
+    {
+      "start_time": "00:14:18,560",
+      "end_time": "00:14:22,959",
+      "text": "but i'll tell you you're not social or"
+    },
+    {
+      "start_time": "00:14:21,440",
+      "end_time": "00:14:24,560",
+      "text": "oh i could if i cast a spell on you"
+    },
+    {
+      "start_time": "00:14:22,959",
+      "end_time": "00:14:26,720",
+      "text": "now you might say okay well that's magic"
+    },
+    {
+      "start_time": "00:14:24,560",
+      "end_time": "00:14:28,000",
+      "text": "yeah but intimidation intimidation"
+    },
+    {
+      "start_time": "00:14:26,720",
+      "end_time": "00:14:30,079",
+      "text": "is not in mathematics you're going more"
+    },
+    {
+      "start_time": "00:14:28,000",
+      "end_time": "00:14:31,920",
+      "text": "social i'm saying i'm saying this person"
+    },
+    {
+      "start_time": "00:14:30,079",
+      "end_time": "00:14:33,199",
+      "text": "is using their skill which is not"
+    },
+    {
+      "start_time": "00:14:31,920",
+      "end_time": "00:14:35,279",
+      "text": "magical intimidation"
+    },
+    {
+      "start_time": "00:14:33,199",
+      "end_time": "00:14:36,560",
+      "text": "to demoralize and frighten your"
+    },
+    {
+      "start_time": "00:14:35,279",
+      "end_time": "00:14:39,040",
+      "text": "character right so i am"
+    },
+    {
+      "start_time": "00:14:36,560",
+      "end_time": "00:14:40,720",
+      "text": "i am asserting control over your"
+    },
+    {
+      "start_time": "00:14:39,040",
+      "end_time": "00:14:42,639",
+      "text": "character's personality yeah but things"
+    },
+    {
+      "start_time": "00:14:40,720",
+      "end_time": "00:14:45,040",
+      "text": "i think like intimidation just happens"
+    },
+    {
+      "start_time": "00:14:42,639",
+      "end_time": "00:14:46,639",
+      "text": "but what diplomacy like you have to be"
+    },
+    {
+      "start_time": "00:14:45,040",
+      "end_time": "00:14:48,240",
+      "text": "somewhat open to the idea like if you're"
+    },
+    {
+      "start_time": "00:14:46,639",
+      "end_time": "00:14:49,680",
+      "text": "a hermit who doesn't like anyone"
+    },
+    {
+      "start_time": "00:14:48,240",
+      "end_time": "00:14:50,880",
+      "text": "sure you i don't know if it's reflected"
+    },
+    {
+      "start_time": "00:14:49,680",
+      "end_time": "00:14:51,440",
+      "text": "in the game where you have like a higher"
+    },
+    {
+      "start_time": "00:14:50,880",
+      "end_time": "00:14:53,360",
+      "text": "it's not yet"
+    },
+    {
+      "start_time": "00:14:51,440",
+      "end_time": "00:14:55,120",
+      "text": "it's not well it's not mind control"
+    },
+    {
+      "start_time": "00:14:53,360",
+      "end_time": "00:14:55,440",
+      "text": "right it's certainly not mind control"
+    },
+    {
+      "start_time": "00:14:55,120",
+      "end_time": "00:14:56,880",
+      "text": "but"
+    },
+    {
+      "start_time": "00:14:55,440",
+      "end_time": "00:14:58,320",
+      "text": "you know in in terms of what can you do"
+    },
+    {
+      "start_time": "00:14:56,880",
+      "end_time": "00:14:59,839",
+      "text": "with diplomacy and pathfinder well one"
+    },
+    {
+      "start_time": "00:14:58,320",
+      "end_time": "00:15:01,680",
+      "text": "of the two things you can do is change"
+    },
+    {
+      "start_time": "00:14:59,839",
+      "end_time": "00:15:03,199",
+      "text": "people's attitudes right"
+    },
+    {
+      "start_time": "00:15:01,680",
+      "end_time": "00:15:04,959",
+      "text": "there's a spectrum fifth edition has"
+    },
+    {
+      "start_time": "00:15:03,199",
+      "end_time": "00:15:07,279",
+      "text": "this too where you know"
+    },
+    {
+      "start_time": "00:15:04,959",
+      "end_time": "00:15:09,120",
+      "text": "a creature can be hostile they can be"
+    },
+    {
+      "start_time": "00:15:07,279",
+      "end_time": "00:15:09,920",
+      "text": "unfriendly they can be indifferent they"
+    },
+    {
+      "start_time": "00:15:09,120",
+      "end_time": "00:15:12,639",
+      "text": "can be friendly"
+    },
+    {
+      "start_time": "00:15:09,920",
+      "end_time": "00:15:13,279",
+      "text": "and they can be helpful right so a"
+    },
+    {
+      "start_time": "00:15:12,639",
+      "end_time": "00:15:15,920",
+      "text": "hermit"
+    },
+    {
+      "start_time": "00:15:13,279",
+      "end_time": "00:15:17,440",
+      "text": "might start an encounter at unfriendly"
+    },
+    {
+      "start_time": "00:15:15,920",
+      "end_time": "00:15:18,079",
+      "text": "you know but mechanically you can still"
+    },
+    {
+      "start_time": "00:15:17,440",
+      "end_time": "00:15:20,399",
+      "text": "upgrade them"
+    },
+    {
+      "start_time": "00:15:18,079",
+      "end_time": "00:15:21,519",
+      "text": "right but right because they say"
+    },
+    {
+      "start_time": "00:15:20,399",
+      "end_time": "00:15:24,880",
+      "text": "something to you right"
+    },
+    {
+      "start_time": "00:15:21,519",
+      "end_time": "00:15:28,480",
+      "text": "but in d d or in pathfinder i"
+    },
+    {
+      "start_time": "00:15:24,880",
+      "end_time": "00:15:29,839",
+      "text": "as the dm am completely like"
+    },
+    {
+      "start_time": "00:15:28,480",
+      "end_time": "00:15:32,240",
+      "text": "you know i could i could make a"
+    },
+    {
+      "start_time": "00:15:29,839",
+      "end_time": "00:15:33,519",
+      "text": "character an npc who was like the most"
+    },
+    {
+      "start_time": "00:15:32,240",
+      "end_time": "00:15:36,800",
+      "text": "charming"
+    },
+    {
+      "start_time": "00:15:33,519",
+      "end_time": "00:15:37,839",
+      "text": "like liar and suave smooth talkingest"
+    },
+    {
+      "start_time": "00:15:36,800",
+      "end_time": "00:15:40,480",
+      "text": "person in the world"
+    },
+    {
+      "start_time": "00:15:37,839",
+      "end_time": "00:15:41,600",
+      "text": "and i could be like um you know they're"
+    },
+    {
+      "start_time": "00:15:40,480",
+      "end_time": "00:15:42,240",
+      "text": "saying you stop they're telling you"
+    },
+    {
+      "start_time": "00:15:41,600",
+      "end_time": "00:15:44,000",
+      "text": "stuff and i"
+    },
+    {
+      "start_time": "00:15:42,240",
+      "end_time": "00:15:45,519",
+      "text": "secretly make a bluff check and you go"
+    },
+    {
+      "start_time": "00:15:44,000",
+      "end_time": "00:15:47,199",
+      "text": "uh you know derek i try to purse you"
+    },
+    {
+      "start_time": "00:15:45,519",
+      "end_time": "00:15:48,399",
+      "text": "know perceive and sense his motive"
+    },
+    {
+      "start_time": "00:15:47,199",
+      "end_time": "00:15:49,839",
+      "text": "you know do i think he's telling the"
+    },
+    {
+      "start_time": "00:15:48,399",
+      "end_time": "00:15:52,079",
+      "text": "truth and i know that unless you roll"
+    },
+    {
+      "start_time": "00:15:49,839",
+      "end_time": "00:15:54,320",
+      "text": "like double net 20s you'll never succeed"
+    },
+    {
+      "start_time": "00:15:52,079",
+      "end_time": "00:15:56,800",
+      "text": "and i go no no you believe him and you"
+    },
+    {
+      "start_time": "00:15:54,320",
+      "end_time": "00:15:58,720",
+      "text": "go yeah i don't believe him though"
+    },
+    {
+      "start_time": "00:15:56,800",
+      "end_time": "00:15:59,839",
+      "text": "yeah he i think he's lying would you ask"
+    },
+    {
+      "start_time": "00:15:58,720",
+      "end_time": "00:16:01,360",
+      "text": "us what our uh"
+    },
+    {
+      "start_time": "00:15:59,839",
+      "end_time": "00:16:03,199",
+      "text": "inclination is towards the person like"
+    },
+    {
+      "start_time": "00:16:01,360",
+      "end_time": "00:16:03,680",
+      "text": "would you be like okay he's going to try"
+    },
+    {
+      "start_time": "00:16:03,199",
+      "end_time": "00:16:05,680",
+      "text": "to"
+    },
+    {
+      "start_time": "00:16:03,680",
+      "end_time": "00:16:06,880",
+      "text": "well i have a diplomacy check on you no"
+    },
+    {
+      "start_time": "00:16:05,680",
+      "end_time": "00:16:08,240",
+      "text": "girl yeah"
+    },
+    {
+      "start_time": "00:16:06,880",
+      "end_time": "00:16:10,240",
+      "text": "what are you are you are you friendly"
+    },
+    {
+      "start_time": "00:16:08,240",
+      "end_time": "00:16:11,759",
+      "text": "with him are you indifferent"
+    },
+    {
+      "start_time": "00:16:10,240",
+      "end_time": "00:16:13,120",
+      "text": "i think we would i think number one i"
+    },
+    {
+      "start_time": "00:16:11,759",
+      "end_time": "00:16:13,920",
+      "text": "think based on the way you play your"
+    },
+    {
+      "start_time": "00:16:13,120",
+      "end_time": "00:16:15,199",
+      "text": "character"
+    },
+    {
+      "start_time": "00:16:13,920",
+      "end_time": "00:16:16,560",
+      "text": "we would already know you're starting"
+    },
+    {
+      "start_time": "00:16:15,199",
+      "end_time": "00:16:17,920",
+      "text": "reaction very very very terribly like i"
+    },
+    {
+      "start_time": "00:16:16,560",
+      "end_time": "00:16:18,399",
+      "text": "think for example azias would probably"
+    },
+    {
+      "start_time": "00:16:17,920",
+      "end_time": "00:16:20,399",
+      "text": "be"
+    },
+    {
+      "start_time": "00:16:18,399",
+      "end_time": "00:16:21,680",
+      "text": "automatically friendly towards females"
+    },
+    {
+      "start_time": "00:16:20,399",
+      "end_time": "00:16:23,360",
+      "text": "he tends"
+    },
+    {
+      "start_time": "00:16:21,680",
+      "end_time": "00:16:25,360",
+      "text": "a ladies man at the bar he's a little"
+    },
+    {
+      "start_time": "00:16:23,360",
+      "end_time": "00:16:27,440",
+      "text": "bit more of a ladies man eskenor maybe"
+    },
+    {
+      "start_time": "00:16:25,360",
+      "end_time": "00:16:30,399",
+      "text": "guild or a little bit more standoffish"
+    },
+    {
+      "start_time": "00:16:27,440",
+      "end_time": "00:16:31,519",
+      "text": "guilders kind of a cold literally yeah"
+    },
+    {
+      "start_time": "00:16:30,399",
+      "end_time": "00:16:33,759",
+      "text": "he's literally cold"
+    },
+    {
+      "start_time": "00:16:31,519",
+      "end_time": "00:16:35,680",
+      "text": "literally cold fellow so guild or might"
+    },
+    {
+      "start_time": "00:16:33,759",
+      "end_time": "00:16:38,160",
+      "text": "not warm up to people as much"
+    },
+    {
+      "start_time": "00:16:35,680",
+      "end_time": "00:16:38,800",
+      "text": "but as from a role-playing challenge if"
+    },
+    {
+      "start_time": "00:16:38,160",
+      "end_time": "00:16:41,279",
+      "text": "you go"
+    },
+    {
+      "start_time": "00:16:38,800",
+      "end_time": "00:16:42,639",
+      "text": "i want to hate this guy i think he's a"
+    },
+    {
+      "start_time": "00:16:41,279",
+      "end_time": "00:16:44,880",
+      "text": "bad guy"
+    },
+    {
+      "start_time": "00:16:42,639",
+      "end_time": "00:16:46,160",
+      "text": "right but like in a show where you have"
+    },
+    {
+      "start_time": "00:16:44,880",
+      "end_time": "00:16:49,519",
+      "text": "someone who's just"
+    },
+    {
+      "start_time": "00:16:46,160",
+      "end_time": "00:16:51,279",
+      "text": "so conniving and such a good manipulator"
+    },
+    {
+      "start_time": "00:16:49,519",
+      "end_time": "00:16:53,519",
+      "text": "can you also argue from the same"
+    },
+    {
+      "start_time": "00:16:51,279",
+      "end_time": "00:16:55,199",
+      "text": "part from from intimidation where we're"
+    },
+    {
+      "start_time": "00:16:53,519",
+      "end_time": "00:16:56,560",
+      "text": "all hanging out and one guy comes in and"
+    },
+    {
+      "start_time": "00:16:55,199",
+      "end_time": "00:16:58,720",
+      "text": "he's very charismatic"
+    },
+    {
+      "start_time": "00:16:56,560",
+      "end_time": "00:17:00,000",
+      "text": "but he's like he's a he's a he's a bunny"
+    },
+    {
+      "start_time": "00:16:58,720",
+      "end_time": "00:17:01,839",
+      "text": "he's a he's a rabbit"
+    },
+    {
+      "start_time": "00:17:00,000",
+      "end_time": "00:17:03,519",
+      "text": "and he's very easy he can talk he's very"
+    },
+    {
+      "start_time": "00:17:01,839",
+      "end_time": "00:17:05,280",
+      "text": "charismatic and he rolls a"
+    },
+    {
+      "start_time": "00:17:03,519",
+      "end_time": "00:17:06,640",
+      "text": "intimidation check against all of us yes"
+    },
+    {
+      "start_time": "00:17:05,280",
+      "end_time": "00:17:08,720",
+      "text": "like there's i"
+    },
+    {
+      "start_time": "00:17:06,640",
+      "end_time": "00:17:10,000",
+      "text": "mean he shows us his face i'm not afraid"
+    },
+    {
+      "start_time": "00:17:08,720",
+      "end_time": "00:17:11,360",
+      "text": "of that thing like even if it turns into"
+    },
+    {
+      "start_time": "00:17:10,000",
+      "end_time": "00:17:13,199",
+      "text": "a monster no i think it's funny"
+    },
+    {
+      "start_time": "00:17:11,360",
+      "end_time": "00:17:14,959",
+      "text": "if you are because then we're going to"
+    },
+    {
+      "start_time": "00:17:13,199",
+      "end_time": "00:17:18,559",
+      "text": "like rip on you about it like hey"
+    },
+    {
+      "start_time": "00:17:14,959",
+      "end_time": "00:17:18,559",
+      "text": "no but you're afraid of that rabbit but"
+    },
+    {
+      "start_time": "00:17:23,600",
+      "end_time": "00:17:26,880",
+      "text": "one of the rules of the game is that i"
+    },
+    {
+      "start_time": "00:17:25,600",
+      "end_time": "00:17:30,160",
+      "text": "as the dungeon master"
+    },
+    {
+      "start_time": "00:17:26,880",
+      "end_time": "00:17:32,480",
+      "text": "cannot use the same diplomacy skills to"
+    },
+    {
+      "start_time": "00:17:30,160",
+      "end_time": "00:17:33,200",
+      "text": "change your character's attitudes right"
+    },
+    {
+      "start_time": "00:17:32,480",
+      "end_time": "00:17:34,880",
+      "text": "i think"
+    },
+    {
+      "start_time": "00:17:33,200",
+      "end_time": "00:17:36,160",
+      "text": "you know kind of vigil keeper was like"
+    },
+    {
+      "start_time": "00:17:34,880",
+      "end_time": "00:17:36,960",
+      "text": "do you think it's okay to use social"
+    },
+    {
+      "start_time": "00:17:36,160",
+      "end_time": "00:17:38,960",
+      "text": "mechanics"
+    },
+    {
+      "start_time": "00:17:36,960",
+      "end_time": "00:17:40,080",
+      "text": "in any role-playing situation number one"
+    },
+    {
+      "start_time": "00:17:38,960",
+      "end_time": "00:17:41,440",
+      "text": "remember a lot of people use the term"
+    },
+    {
+      "start_time": "00:17:40,080",
+      "end_time": "00:17:42,480",
+      "text": "role-playing situation mean any sort of"
+    },
+    {
+      "start_time": "00:17:41,440",
+      "end_time": "00:17:44,559",
+      "text": "social combat"
+    },
+    {
+      "start_time": "00:17:42,480",
+      "end_time": "00:17:46,160",
+      "text": "he said social situation or social"
+    },
+    {
+      "start_time": "00:17:44,559",
+      "end_time": "00:17:47,520",
+      "text": "combat as some people call it i like"
+    },
+    {
+      "start_time": "00:17:46,160",
+      "end_time": "00:17:48,160",
+      "text": "that term better you're always role"
+    },
+    {
+      "start_time": "00:17:47,520",
+      "end_time": "00:17:51,200",
+      "text": "playing"
+    },
+    {
+      "start_time": "00:17:48,160",
+      "end_time": "00:17:53,039",
+      "text": "but i i would take it a step further i"
+    },
+    {
+      "start_time": "00:17:51,200",
+      "end_time": "00:17:55,440",
+      "text": "think the game would be"
+    },
+    {
+      "start_time": "00:17:53,039",
+      "end_time": "00:17:56,880",
+      "text": "completely right because net and then"
+    },
+    {
+      "start_time": "00:17:55,440",
+      "end_time": "00:17:59,679",
+      "text": "when you meet that person"
+    },
+    {
+      "start_time": "00:17:56,880",
+      "end_time": "00:18:00,559",
+      "text": "that person who's the known super"
+    },
+    {
+      "start_time": "00:17:59,679",
+      "end_time": "00:18:03,600",
+      "text": "charmer"
+    },
+    {
+      "start_time": "00:18:00,559",
+      "end_time": "00:18:04,480",
+      "text": "you know and you're like yeah this"
+    },
+    {
+      "start_time": "00:18:03,600",
+      "end_time": "00:18:05,919",
+      "text": "person kind of"
+    },
+    {
+      "start_time": "00:18:04,480",
+      "end_time": "00:18:07,840",
+      "text": "can convince me it reminds me one of the"
+    },
+    {
+      "start_time": "00:18:05,919",
+      "end_time": "00:18:09,280",
+      "text": "first one of the first advice"
+    },
+    {
+      "start_time": "00:18:07,840",
+      "end_time": "00:18:10,559",
+      "text": "piece of advice you gave me was when"
+    },
+    {
+      "start_time": "00:18:09,280",
+      "end_time": "00:18:13,039",
+      "text": "you're building a character don't think"
+    },
+    {
+      "start_time": "00:18:10,559",
+      "end_time": "00:18:15,200",
+      "text": "of it as like hey i'm building aragorn"
+    },
+    {
+      "start_time": "00:18:13,039",
+      "end_time": "00:18:16,640",
+      "text": "sure i'm building you know uh legolas"
+    },
+    {
+      "start_time": "00:18:15,200",
+      "end_time": "00:18:17,919",
+      "text": "i'm building legolas in here because"
+    },
+    {
+      "start_time": "00:18:16,640",
+      "end_time": "00:18:18,880",
+      "text": "you're gonna fail to meet your"
+    },
+    {
+      "start_time": "00:18:17,919",
+      "end_time": "00:18:20,799",
+      "text": "expectations"
+    },
+    {
+      "start_time": "00:18:18,880",
+      "end_time": "00:18:22,000",
+      "text": "but so that's a good point and i think"
+    },
+    {
+      "start_time": "00:18:20,799",
+      "end_time": "00:18:22,960",
+      "text": "that ties in because then if you're"
+    },
+    {
+      "start_time": "00:18:22,000",
+      "end_time": "00:18:24,640",
+      "text": "thinking about"
+    },
+    {
+      "start_time": "00:18:22,960",
+      "end_time": "00:18:25,840",
+      "text": "um you know what happens if you do do a"
+    },
+    {
+      "start_time": "00:18:24,640",
+      "end_time": "00:18:26,480",
+      "text": "social interaction and you're like"
+    },
+    {
+      "start_time": "00:18:25,840",
+      "end_time": "00:18:28,240",
+      "text": "you're angry"
+    },
+    {
+      "start_time": "00:18:26,480",
+      "end_time": "00:18:30,080",
+      "text": "matt you're angry at that player at that"
+    },
+    {
+      "start_time": "00:18:28,240",
+      "end_time": "00:18:31,120",
+      "text": "character the npc but he's done a"
+    },
+    {
+      "start_time": "00:18:30,080",
+      "end_time": "00:18:32,720",
+      "text": "diplomacy check"
+    },
+    {
+      "start_time": "00:18:31,120",
+      "end_time": "00:18:34,000",
+      "text": "you've got to be you're okay with them"
+    },
+    {
+      "start_time": "00:18:32,720",
+      "end_time": "00:18:35,360",
+      "text": "and you're like if you have a"
+    },
+    {
+      "start_time": "00:18:34,000",
+      "end_time": "00:18:36,880",
+      "text": "preconceived notion if i'm the main"
+    },
+    {
+      "start_time": "00:18:35,360",
+      "end_time": "00:18:38,160",
+      "text": "character in my movie that doesn't make"
+    },
+    {
+      "start_time": "00:18:36,880",
+      "end_time": "00:18:38,799",
+      "text": "sense but if i'm playing a role-playing"
+    },
+    {
+      "start_time": "00:18:38,160",
+      "end_time": "00:18:40,320",
+      "text": "game"
+    },
+    {
+      "start_time": "00:18:38,799",
+      "end_time": "00:18:41,840",
+      "text": "where i understand like i'm doing things"
+    },
+    {
+      "start_time": "00:18:40,320",
+      "end_time": "00:18:44,559",
+      "text": "that i wouldn't but"
+    },
+    {
+      "start_time": "00:18:41,840",
+      "end_time": "00:18:45,520",
+      "text": "but but we see this all the time in film"
+    },
+    {
+      "start_time": "00:18:44,559",
+      "end_time": "00:18:47,360",
+      "text": "and television"
+    },
+    {
+      "start_time": "00:18:45,520",
+      "end_time": "00:18:49,120",
+      "text": "right where you're like why are you"
+    },
+    {
+      "start_time": "00:18:47,360",
+      "end_time": "00:18:51,120",
+      "text": "trusting that character exactly or"
+    },
+    {
+      "start_time": "00:18:49,120",
+      "end_time": "00:18:53,039",
+      "text": "or why are you allying with that person"
+    },
+    {
+      "start_time": "00:18:51,120",
+      "end_time": "00:18:53,440",
+      "text": "or how could you possibly believe that"
+    },
+    {
+      "start_time": "00:18:53,039",
+      "end_time": "00:18:55,600",
+      "text": "right"
+    },
+    {
+      "start_time": "00:18:53,440",
+      "end_time": "00:18:56,480",
+      "text": "right we all know they're evil right and"
+    },
+    {
+      "start_time": "00:18:55,600",
+      "end_time": "00:18:58,720",
+      "text": "here's the thing"
+    },
+    {
+      "start_time": "00:18:56,480",
+      "end_time": "00:19:01,280",
+      "text": "you at the table the player may know"
+    },
+    {
+      "start_time": "00:18:58,720",
+      "end_time": "00:19:03,280",
+      "text": "that they are evil or race not good"
+    },
+    {
+      "start_time": "00:19:01,280",
+      "end_time": "00:19:04,559",
+      "text": "and yet the cool part of the game is you"
+    },
+    {
+      "start_time": "00:19:03,280",
+      "end_time": "00:19:06,559",
+      "text": "go but now you do"
+    },
+    {
+      "start_time": "00:19:04,559",
+      "end_time": "00:19:08,160",
+      "text": "it's the same way as if you really want"
+    },
+    {
+      "start_time": "00:19:06,559",
+      "end_time": "00:19:08,720",
+      "text": "to convince this person to join your"
+    },
+    {
+      "start_time": "00:19:08,160",
+      "end_time": "00:19:09,760",
+      "text": "team"
+    },
+    {
+      "start_time": "00:19:08,720",
+      "end_time": "00:19:12,080",
+      "text": "and you go okay i'm gonna make a"
+    },
+    {
+      "start_time": "00:19:09,760",
+      "end_time": "00:19:13,840",
+      "text": "diplomacy check and you roll a six"
+    },
+    {
+      "start_time": "00:19:12,080",
+      "end_time": "00:19:15,120",
+      "text": "and you know in a head in advance that"
+    },
+    {
+      "start_time": "00:19:13,840",
+      "end_time": "00:19:17,919",
+      "text": "you've failed"
+    },
+    {
+      "start_time": "00:19:15,120",
+      "end_time": "00:19:19,679",
+      "text": "then when we go and role play it you you"
+    },
+    {
+      "start_time": "00:19:17,919",
+      "end_time": "00:19:20,160",
+      "text": "have to do your part to make it a"
+    },
+    {
+      "start_time": "00:19:19,679",
+      "end_time": "00:19:22,480",
+      "text": "failure"
+    },
+    {
+      "start_time": "00:19:20,160",
+      "end_time": "00:19:23,840",
+      "text": "right you kind of have to go like listen"
+    },
+    {
+      "start_time": "00:19:22,480",
+      "end_time": "00:19:24,480",
+      "text": "fact is we don't really have a great"
+    },
+    {
+      "start_time": "00:19:23,840",
+      "end_time": "00:19:26,960",
+      "text": "plan"
+    },
+    {
+      "start_time": "00:19:24,480",
+      "end_time": "00:19:28,160",
+      "text": "and uh without a great plan we're"
+    },
+    {
+      "start_time": "00:19:26,960",
+      "end_time": "00:19:30,320",
+      "text": "destined to lose"
+    },
+    {
+      "start_time": "00:19:28,160",
+      "end_time": "00:19:32,080",
+      "text": "so i still don't like you and i still"
+    },
+    {
+      "start_time": "00:19:30,320",
+      "end_time": "00:19:33,919",
+      "text": "don't you know like you as a"
+    },
+    {
+      "start_time": "00:19:32,080",
+      "end_time": "00:19:34,960",
+      "text": "character but i think you've got a good"
+    },
+    {
+      "start_time": "00:19:33,919",
+      "end_time": "00:19:36,320",
+      "text": "point we're gonna go along right and"
+    },
+    {
+      "start_time": "00:19:34,960",
+      "end_time": "00:19:37,760",
+      "text": "that's the difference it's not a charm"
+    },
+    {
+      "start_time": "00:19:36,320",
+      "end_time": "00:19:39,760",
+      "text": "spell it's not a compulsion"
+    },
+    {
+      "start_time": "00:19:37,760",
+      "end_time": "00:19:41,280",
+      "text": "right the same way that if someone if"
+    },
+    {
+      "start_time": "00:19:39,760",
+      "end_time": "00:19:42,799",
+      "text": "someone like really you know"
+    },
+    {
+      "start_time": "00:19:41,280",
+      "end_time": "00:19:44,720",
+      "text": "made a great diplomacy check against one"
+    },
+    {
+      "start_time": "00:19:42,799",
+      "end_time": "00:19:45,840",
+      "text": "of my npcs and says okay give me all"
+    },
+    {
+      "start_time": "00:19:44,720",
+      "end_time": "00:19:48,000",
+      "text": "your money in your house"
+    },
+    {
+      "start_time": "00:19:45,840",
+      "end_time": "00:19:49,600",
+      "text": "i would never say like no even if"
+    },
+    {
+      "start_time": "00:19:48,000",
+      "end_time": "00:19:52,000",
+      "text": "they're helpful right"
+    },
+    {
+      "start_time": "00:19:49,600",
+      "end_time": "00:19:54,240",
+      "text": "and obviously one npc's helpful is"
+    },
+    {
+      "start_time": "00:19:52,000",
+      "end_time": "00:19:56,480",
+      "text": "different than another npc's helpful"
+    },
+    {
+      "start_time": "00:19:54,240",
+      "end_time": "00:19:57,600",
+      "text": "but to your point i mean how often we"
+    },
+    {
+      "start_time": "00:19:56,480",
+      "end_time": "00:19:59,360",
+      "text": "don't even think about it because we're"
+    },
+    {
+      "start_time": "00:19:57,600",
+      "end_time": "00:20:02,480",
+      "text": "not very self-reflective about that"
+    },
+    {
+      "start_time": "00:19:59,360",
+      "end_time": "00:20:03,840",
+      "text": "we are being influenced by people around"
+    },
+    {
+      "start_time": "00:20:02,480",
+      "end_time": "00:20:05,679",
+      "text": "us all the time"
+    },
+    {
+      "start_time": "00:20:03,840",
+      "end_time": "00:20:07,120",
+      "text": "right whenever you meet a salesman"
+    },
+    {
+      "start_time": "00:20:05,679",
+      "end_time": "00:20:09,520",
+      "text": "whenever you you know"
+    },
+    {
+      "start_time": "00:20:07,120",
+      "end_time": "00:20:10,240",
+      "text": "go to a meeting you are trying to you"
+    },
+    {
+      "start_time": "00:20:09,520",
+      "end_time": "00:20:12,799",
+      "text": "are making"
+    },
+    {
+      "start_time": "00:20:10,240",
+      "end_time": "00:20:13,919",
+      "text": "diplomacy checks against these people or"
+    },
+    {
+      "start_time": "00:20:12,799",
+      "end_time": "00:20:16,400",
+      "text": "more bluff checks"
+    },
+    {
+      "start_time": "00:20:13,919",
+      "end_time": "00:20:19,039",
+      "text": "um or intimidate checks i don't know man"
+    },
+    {
+      "start_time": "00:20:16,400",
+      "end_time": "00:20:21,520",
+      "text": "you do you you might have a"
+    },
+    {
+      "start_time": "00:20:19,039",
+      "end_time": "00:20:22,559",
+      "text": "work runway right and you're making them"
+    },
+    {
+      "start_time": "00:20:21,520",
+      "end_time": "00:20:25,120",
+      "text": "all the time"
+    },
+    {
+      "start_time": "00:20:22,559",
+      "end_time": "00:20:27,200",
+      "text": "and you know so there's this idea this"
+    },
+    {
+      "start_time": "00:20:25,120",
+      "end_time": "00:20:28,799",
+      "text": "sacrosanct idea that like it's like in"
+    },
+    {
+      "start_time": "00:20:27,200",
+      "end_time": "00:20:31,120",
+      "text": "role-playing games you know you are in"
+    },
+    {
+      "start_time": "00:20:28,799",
+      "end_time": "00:20:34,320",
+      "text": "control of your character"
+    },
+    {
+      "start_time": "00:20:31,120",
+      "end_time": "00:20:35,919",
+      "text": "except for like in combat or spells"
+    },
+    {
+      "start_time": "00:20:34,320",
+      "end_time": "00:20:37,600",
+      "text": "or anything roll the dice and anytime"
+    },
+    {
+      "start_time": "00:20:35,919",
+      "end_time": "00:20:39,200",
+      "text": "you roll the dice so"
+    },
+    {
+      "start_time": "00:20:37,600",
+      "end_time": "00:20:41,440",
+      "text": "yeah it doesn't really doesn't really"
+    },
+    {
+      "start_time": "00:20:39,200",
+      "end_time": "00:20:42,640",
+      "text": "make a whole lot of sense so i i think"
+    },
+    {
+      "start_time": "00:20:41,440",
+      "end_time": "00:20:45,440",
+      "text": "it would be actually"
+    },
+    {
+      "start_time": "00:20:42,640",
+      "end_time": "00:20:46,080",
+      "text": "really cool to allow those rules to work"
+    },
+    {
+      "start_time": "00:20:45,440",
+      "end_time": "00:20:49,440",
+      "text": "everywhere"
+    },
+    {
+      "start_time": "00:20:46,080",
+      "end_time": "00:20:51,520",
+      "text": "yeah and to really mechanicize"
+    },
+    {
+      "start_time": "00:20:49,440",
+      "end_time": "00:20:52,799",
+      "text": "the the elements of the game that relate"
+    },
+    {
+      "start_time": "00:20:51,520",
+      "end_time": "00:20:54,480",
+      "text": "to social interaction"
+    },
+    {
+      "start_time": "00:20:52,799",
+      "end_time": "00:20:55,760",
+      "text": "double down on the gamification"
+    },
+    {
+      "start_time": "00:20:54,480",
+      "end_time": "00:20:57,440",
+      "text": "absolutely but that's kind of what"
+    },
+    {
+      "start_time": "00:20:55,760",
+      "end_time": "00:20:59,200",
+      "text": "pathfinder two he's all about though too"
+    },
+    {
+      "start_time": "00:20:57,440",
+      "end_time": "00:21:00,799",
+      "text": "well it's not just the combat portion of"
+    },
+    {
+      "start_time": "00:20:59,200",
+      "end_time": "00:21:02,720",
+      "text": "it i agree it's that whole"
+    },
+    {
+      "start_time": "00:21:00,799",
+      "end_time": "00:21:05,039",
+      "text": "social aspect but they deliberately put"
+    },
+    {
+      "start_time": "00:21:02,720",
+      "end_time": "00:21:07,039",
+      "text": "into the the rule book that those uh"
+    },
+    {
+      "start_time": "00:21:05,039",
+      "end_time": "00:21:08,960",
+      "text": "diplomacy checks do not affect player"
+    },
+    {
+      "start_time": "00:21:07,039",
+      "end_time": "00:21:11,120",
+      "text": "case i'm just saying they could"
+    },
+    {
+      "start_time": "00:21:08,960",
+      "end_time": "00:21:12,480",
+      "text": "you could just try right let's try it we"
+    },
+    {
+      "start_time": "00:21:11,120",
+      "end_time": "00:21:14,320",
+      "text": "have to just get a little bit of white"
+    },
+    {
+      "start_time": "00:21:12,480",
+      "end_time": "00:21:17,200",
+      "text": "out"
+    },
+    {
+      "start_time": "00:21:14,320",
+      "end_time": "00:21:18,320",
+      "text": "now it's yeah so you know maybe that's"
+    },
+    {
+      "start_time": "00:21:17,200",
+      "end_time": "00:21:20,400",
+      "text": "something that we'll do maybe in a"
+    },
+    {
+      "start_time": "00:21:18,320",
+      "end_time": "00:21:22,400",
+      "text": "future campaign i don't know that um"
+    },
+    {
+      "start_time": "00:21:20,400",
+      "end_time": "00:21:24,000",
+      "text": "rise of the rune lords is the best ap"
+    },
+    {
+      "start_time": "00:21:22,400",
+      "end_time": "00:21:26,640",
+      "text": "for that but something like"
+    },
+    {
+      "start_time": "00:21:24,000",
+      "end_time": "00:21:28,000",
+      "text": "curse of crimson throne would be"
+    },
+    {
+      "start_time": "00:21:26,640",
+      "end_time": "00:21:31,200",
+      "text": "incredible for that right"
+    },
+    {
+      "start_time": "00:21:28,000",
+      "end_time": "00:21:33,280",
+      "text": "city-based intrigue and lots of uh"
+    },
+    {
+      "start_time": "00:21:31,200",
+      "end_time": "00:21:34,400",
+      "text": "moving pieces and parts i don't know"
+    },
+    {
+      "start_time": "00:21:33,280",
+      "end_time": "00:21:35,760",
+      "text": "funny situation where like"
+    },
+    {
+      "start_time": "00:21:34,400",
+      "end_time": "00:21:37,200",
+      "text": "i've got a good will save but everyone"
+    },
+    {
+      "start_time": "00:21:35,760",
+      "end_time": "00:21:37,679",
+      "text": "else in the party has pretty poor will"
+    },
+    {
+      "start_time": "00:21:37,200",
+      "end_time": "00:21:39,039",
+      "text": "saves"
+    },
+    {
+      "start_time": "00:21:37,679",
+      "end_time": "00:21:40,880",
+      "text": "and you convince all of them to turn"
+    },
+    {
+      "start_time": "00:21:39,039",
+      "end_time": "00:21:42,240",
+      "text": "against me and join like the bad guy"
+    },
+    {
+      "start_time": "00:21:40,880",
+      "end_time": "00:21:44,000",
+      "text": "yeah i mean you want to get you want"
+    },
+    {
+      "start_time": "00:21:42,240",
+      "end_time": "00:21:45,120",
+      "text": "it's a possibility though i mean i"
+    },
+    {
+      "start_time": "00:21:44,000",
+      "end_time": "00:21:47,440",
+      "text": "don't want to go too long but you want"
+    },
+    {
+      "start_time": "00:21:45,120",
+      "end_time": "00:21:49,520",
+      "text": "to get real real"
+    },
+    {
+      "start_time": "00:21:47,440",
+      "end_time": "00:21:52,960",
+      "text": "you start making checks against fellow"
+    },
+    {
+      "start_time": "00:21:49,520",
+      "end_time": "00:21:52,960",
+      "text": "party members oh my god oh my god"
+    },
+    {
+      "start_time": "00:21:53,039",
+      "end_time": "00:21:57,600",
+      "text": "we've been there if that campaign ended"
+    },
+    {
+      "start_time": "00:21:56,080",
+      "end_time": "00:21:58,559",
+      "text": "i feel like i feel like you'll be like"
+    },
+    {
+      "start_time": "00:21:57,600",
+      "end_time": "00:22:00,400",
+      "text": "all right i'm done with this it's got to"
+    },
+    {
+      "start_time": "00:21:58,559",
+      "end_time": "00:22:01,760",
+      "text": "be a pretty strong social contract"
+    },
+    {
+      "start_time": "00:22:00,400",
+      "end_time": "00:22:03,440",
+      "text": "beforehand"
+    },
+    {
+      "start_time": "00:22:01,760",
+      "end_time": "00:22:04,880",
+      "text": "yeah maybe that's just two next level i"
+    },
+    {
+      "start_time": "00:22:03,440",
+      "end_time": "00:22:07,039",
+      "text": "don't know you know so you know"
+    },
+    {
+      "start_time": "00:22:04,880",
+      "end_time": "00:22:08,480",
+      "text": "let us know in the comments below have"
+    },
+    {
+      "start_time": "00:22:07,039",
+      "end_time": "00:22:12,159",
+      "text": "you ever tried"
+    },
+    {
+      "start_time": "00:22:08,480",
+      "end_time": "00:22:14,240",
+      "text": "to you know use social mechanics against"
+    },
+    {
+      "start_time": "00:22:12,159",
+      "end_time": "00:22:15,600",
+      "text": "or i guess where social mechanics would"
+    },
+    {
+      "start_time": "00:22:14,240",
+      "end_time": "00:22:18,559",
+      "text": "work against the players"
+    },
+    {
+      "start_time": "00:22:15,600",
+      "end_time": "00:22:19,440",
+      "text": "and you know basically and it may sound"
+    },
+    {
+      "start_time": "00:22:18,559",
+      "end_time": "00:22:22,559",
+      "text": "weird"
+    },
+    {
+      "start_time": "00:22:19,440",
+      "end_time": "00:22:24,080",
+      "text": "but by really embracing the mechanics of"
+    },
+    {
+      "start_time": "00:22:22,559",
+      "end_time": "00:22:26,080",
+      "text": "social mechanics"
+    },
+    {
+      "start_time": "00:22:24,080",
+      "end_time": "00:22:27,120",
+      "text": "i think you take your role playing to"
+    },
+    {
+      "start_time": "00:22:26,080",
+      "end_time": "00:22:29,200",
+      "text": "the next level"
+    },
+    {
+      "start_time": "00:22:27,120",
+      "end_time": "00:22:30,880",
+      "text": "oh yeah right because now you're like oh"
+    },
+    {
+      "start_time": "00:22:29,200",
+      "end_time": "00:22:32,320",
+      "text": "my gosh like"
+    },
+    {
+      "start_time": "00:22:30,880",
+      "end_time": "00:22:33,679",
+      "text": "now you're constantly it's like for"
+    },
+    {
+      "start_time": "00:22:32,320",
+      "end_time": "00:22:34,960",
+      "text": "example i mean it's just like you'd be"
+    },
+    {
+      "start_time": "00:22:33,679",
+      "end_time": "00:22:37,600",
+      "text": "like an actor at that point"
+    },
+    {
+      "start_time": "00:22:34,960",
+      "end_time": "00:22:39,039",
+      "text": "where you go my character i had this"
+    },
+    {
+      "start_time": "00:22:37,600",
+      "end_time": "00:22:40,480",
+      "text": "idea who my character is and then the"
+    },
+    {
+      "start_time": "00:22:39,039",
+      "end_time": "00:22:42,000",
+      "text": "writers and the directors give you your"
+    },
+    {
+      "start_time": "00:22:40,480",
+      "end_time": "00:22:43,360",
+      "text": "lines in your script and they say"
+    },
+    {
+      "start_time": "00:22:42,000",
+      "end_time": "00:22:45,360",
+      "text": "okay so your character's doing this and"
+    },
+    {
+      "start_time": "00:22:43,360",
+      "end_time": "00:22:46,320",
+      "text": "you're like i don't agree with this"
+    },
+    {
+      "start_time": "00:22:45,360",
+      "end_time": "00:22:48,080",
+      "text": "decision"
+    },
+    {
+      "start_time": "00:22:46,320",
+      "end_time": "00:22:49,840",
+      "text": "this isn't how i would have played this"
+    },
+    {
+      "start_time": "00:22:48,080",
+      "end_time": "00:22:51,440",
+      "text": "character but i have to play them this"
+    },
+    {
+      "start_time": "00:22:49,840",
+      "end_time": "00:22:52,000",
+      "text": "way and i have to play them convincingly"
+    },
+    {
+      "start_time": "00:22:51,440",
+      "end_time": "00:22:54,320",
+      "text": "this way"
+    },
+    {
+      "start_time": "00:22:52,000",
+      "end_time": "00:22:55,360",
+      "text": "i mean i assume burl has a fur shop"
+    },
+    {
+      "start_time": "00:22:54,320",
+      "end_time": "00:22:56,960",
+      "text": "because"
+    },
+    {
+      "start_time": "00:22:55,360",
+      "end_time": "00:22:58,240",
+      "text": "he told that guard about it one time or"
+    },
+    {
+      "start_time": "00:22:56,960",
+      "end_time": "00:22:59,200",
+      "text": "the prisoner about it one time and i'm"
+    },
+    {
+      "start_time": "00:22:58,240",
+      "end_time": "00:23:02,480",
+      "text": "like"
+    },
+    {
+      "start_time": "00:22:59,200",
+      "end_time": "00:23:03,919",
+      "text": "sold yeah yeah if you if you want to"
+    },
+    {
+      "start_time": "00:23:02,480",
+      "end_time": "00:23:06,000",
+      "text": "hear another really fun story"
+    },
+    {
+      "start_time": "00:23:03,919",
+      "end_time": "00:23:07,919",
+      "text": "anecdotally we'll put this in the uh"
+    },
+    {
+      "start_time": "00:23:06,000",
+      "end_time": "00:23:09,679",
+      "text": "patreon we'll tell you about when uh one"
+    },
+    {
+      "start_time": "00:23:07,919",
+      "end_time": "00:23:11,679",
+      "text": "of our party members in dragon's delve"
+    },
+    {
+      "start_time": "00:23:09,679",
+      "end_time": "00:23:12,240",
+      "text": "had to be a doppelganger for multiple"
+    },
+    {
+      "start_time": "00:23:11,679",
+      "end_time": "00:23:13,600",
+      "text": "sessions"
+    },
+    {
+      "start_time": "00:23:12,240",
+      "end_time": "00:23:14,799",
+      "text": "i know this story a lot against the"
+    },
+    {
+      "start_time": "00:23:13,600",
+      "end_time": "00:23:15,600",
+      "text": "party that's right it's great it's a"
+    },
+    {
+      "start_time": "00:23:14,799",
+      "end_time": "00:23:17,919",
+      "text": "good story"
+    },
+    {
+      "start_time": "00:23:15,600",
+      "end_time": "00:23:19,120",
+      "text": "that's a great moment where the person"
+    },
+    {
+      "start_time": "00:23:17,919",
+      "end_time": "00:23:22,159",
+      "text": "who doesn't usually rp"
+    },
+    {
+      "start_time": "00:23:19,120",
+      "end_time": "00:23:24,720",
+      "text": "rp's the out of his character"
+    },
+    {
+      "start_time": "00:23:22,159",
+      "end_time": "00:23:26,000",
+      "text": "so that's what we have today for you"
+    },
+    {
+      "start_time": "00:23:24,720",
+      "end_time": "00:23:28,000",
+      "text": "know talking about social"
+    },
+    {
+      "start_time": "00:23:26,000",
+      "end_time": "00:23:29,280",
+      "text": "combat and social skills as it relates"
+    },
+    {
+      "start_time": "00:23:28,000",
+      "end_time": "00:23:30,559",
+      "text": "to role playing honestly we could"
+    },
+    {
+      "start_time": "00:23:29,280",
+      "end_time": "00:23:30,880",
+      "text": "probably do a couple of videos about"
+    },
+    {
+      "start_time": "00:23:30,559",
+      "end_time": "00:23:33,360",
+      "text": "this"
+    },
+    {
+      "start_time": "00:23:30,880",
+      "end_time": "00:23:34,559",
+      "text": "i have a lot of ideas about this i think"
+    },
+    {
+      "start_time": "00:23:33,360",
+      "end_time": "00:23:38,640",
+      "text": "strong mechanics"
+    },
+    {
+      "start_time": "00:23:34,559",
+      "end_time": "00:23:40,720",
+      "text": "can lead to better role-playing because"
+    },
+    {
+      "start_time": "00:23:38,640",
+      "end_time": "00:23:41,919",
+      "text": "you're being forced into directions it's"
+    },
+    {
+      "start_time": "00:23:40,720",
+      "end_time": "00:23:43,039",
+      "text": "just like what matt said you're being"
+    },
+    {
+      "start_time": "00:23:41,919",
+      "end_time": "00:23:44,799",
+      "text": "forced into unknown"
+    },
+    {
+      "start_time": "00:23:43,039",
+      "end_time": "00:23:46,320",
+      "text": "unexpected directions and i think that's"
+    },
+    {
+      "start_time": "00:23:44,799",
+      "end_time": "00:23:49,120",
+      "text": "what role-playing is all about"
+    },
+    {
+      "start_time": "00:23:46,320",
+      "end_time": "00:23:50,640",
+      "text": "let us know in the comments below and"
+    },
+    {
+      "start_time": "00:23:49,120",
+      "end_time": "00:23:51,440",
+      "text": "you know give us some uh some of your"
+    },
+    {
+      "start_time": "00:23:50,640",
+      "end_time": "00:23:53,919",
+      "text": "thoughts about"
+    },
+    {
+      "start_time": "00:23:51,440",
+      "end_time": "00:23:55,520",
+      "text": "social skills and role playing as it"
+    },
+    {
+      "start_time": "00:23:53,919",
+      "end_time": "00:23:56,400",
+      "text": "relates to dungeons and dragons or"
+    },
+    {
+      "start_time": "00:23:55,520",
+      "end_time": "00:23:58,480",
+      "text": "pathfinder"
+    },
+    {
+      "start_time": "00:23:56,400",
+      "end_time": "00:24:00,080",
+      "text": "or any other role-playing game any uh"
+    },
+    {
+      "start_time": "00:23:58,480",
+      "end_time": "00:24:02,320",
+      "text": "last thoughts from the knights"
+    },
+    {
+      "start_time": "00:24:00,080",
+      "end_time": "00:24:04,480",
+      "text": "no i i didn't even that was a pretty"
+    },
+    {
+      "start_time": "00:24:02,320",
+      "end_time": "00:24:06,640",
+      "text": "cool twist in the uh npc"
+    },
+    {
+      "start_time": "00:24:04,480",
+      "end_time": "00:24:07,840",
+      "text": "versus me yeah yeah i think it'd be a"
+    },
+    {
+      "start_time": "00:24:06,640",
+      "end_time": "00:24:10,480",
+      "text": "lot of fun to try that"
+    },
+    {
+      "start_time": "00:24:07,840",
+      "end_time": "00:24:11,520",
+      "text": "yeah yeah you say that now yeah until"
+    },
+    {
+      "start_time": "00:24:10,480",
+      "end_time": "00:24:13,039",
+      "text": "everybody's just like yeah where's my"
+    },
+    {
+      "start_time": "00:24:11,520",
+      "end_time": "00:24:15,120",
+      "text": "money here's my house yeah have fun"
+    },
+    {
+      "start_time": "00:24:13,039",
+      "end_time": "00:24:16,320",
+      "text": "yeah uh for me that's one of those"
+    },
+    {
+      "start_time": "00:24:15,120",
+      "end_time": "00:24:18,080",
+      "text": "things like it does sound fun it would"
+    },
+    {
+      "start_time": "00:24:16,320",
+      "end_time": "00:24:20,000",
+      "text": "definitely change how i played but"
+    },
+    {
+      "start_time": "00:24:18,080",
+      "end_time": "00:24:21,679",
+      "text": "uh i think there are better systems for"
+    },
+    {
+      "start_time": "00:24:20,000",
+      "end_time": "00:24:23,200",
+      "text": "that kind of thing personally like"
+    },
+    {
+      "start_time": "00:24:21,679",
+      "end_time": "00:24:26,320",
+      "text": "pathfinder and 5e"
+    },
+    {
+      "start_time": "00:24:23,200",
+      "end_time": "00:24:28,640",
+      "text": "not wouldn't be my go-to's for that"
+    },
+    {
+      "start_time": "00:24:26,320",
+      "end_time": "00:24:29,679",
+      "text": "uh throwback to the beginning if if uh"
+    },
+    {
+      "start_time": "00:24:28,640",
+      "end_time": "00:24:31,840",
+      "text": "you're into anime"
+    },
+    {
+      "start_time": "00:24:29,679",
+      "end_time": "00:24:33,279",
+      "text": "uh i've not watched any anime so"
+    },
+    {
+      "start_time": "00:24:31,840",
+      "end_time": "00:24:34,880",
+      "text": "recommend something for me to see so i"
+    },
+    {
+      "start_time": "00:24:33,279",
+      "end_time": "00:24:35,360",
+      "text": "can demonstrate what's a good what's a"
+    },
+    {
+      "start_time": "00:24:34,880",
+      "end_time": "00:24:38,480",
+      "text": "good uh"
+    },
+    {
+      "start_time": "00:24:35,360",
+      "end_time": "00:24:39,600",
+      "text": "one piece step unbiased unbiased don't"
+    },
+    {
+      "start_time": "00:24:38,480",
+      "end_time": "00:24:41,200",
+      "text": "don't let the knights judge you we'll"
+    },
+    {
+      "start_time": "00:24:39,600",
+      "end_time": "00:24:42,960",
+      "text": "let the viewers know okay"
+    },
+    {
+      "start_time": "00:24:41,200",
+      "end_time": "00:24:45,120",
+      "text": "fair enough well thank you so much for"
+    },
+    {
+      "start_time": "00:24:42,960",
+      "end_time": "00:24:47,120",
+      "text": "joining us if you enjoyed this content"
+    },
+    {
+      "start_time": "00:24:45,120",
+      "end_time": "00:24:48,320",
+      "text": "please like subscribe ring the bell as"
+    },
+    {
+      "start_time": "00:24:47,120",
+      "end_time": "00:24:50,320",
+      "text": "we are going to be posting multiple"
+    },
+    {
+      "start_time": "00:24:48,320",
+      "end_time": "00:24:52,159",
+      "text": "nightlifes each week in addition to our"
+    },
+    {
+      "start_time": "00:24:50,320",
+      "end_time": "00:24:53,200",
+      "text": "weekly rise of the rune lords actual"
+    },
+    {
+      "start_time": "00:24:52,159",
+      "end_time": "00:24:55,039",
+      "text": "play game"
+    },
+    {
+      "start_time": "00:24:53,200",
+      "end_time": "00:24:56,400",
+      "text": "and if you really want to support us and"
+    },
+    {
+      "start_time": "00:24:55,039",
+      "end_time": "00:24:56,960",
+      "text": "you want to talk to us on a more regular"
+    },
+    {
+      "start_time": "00:24:56,400",
+      "end_time": "00:24:58,559",
+      "text": "basis"
+    },
+    {
+      "start_time": "00:24:56,960",
+      "end_time": "00:25:00,240",
+      "text": "feel free to join our patreon so that"
+    },
+    {
+      "start_time": "00:24:58,559",
+      "end_time": "00:25:01,520",
+      "text": "you can hop into our discord as well as"
+    },
+    {
+      "start_time": "00:25:00,240",
+      "end_time": "00:25:04,799",
+      "text": "get access to some of our"
+    },
+    {
+      "start_time": "00:25:01,520",
+      "end_time": "00:25:06,240",
+      "text": "special events and offers all right well"
+    },
+    {
+      "start_time": "00:25:04,799",
+      "end_time": "00:25:08,320",
+      "text": "that's going to wrap it up for us"
+    },
+    {
+      "start_time": "00:25:06,240",
+      "end_time": "00:25:09,760",
+      "text": "wrap it up here for us for the nights of"
+    },
+    {
+      "start_time": "00:25:08,320",
+      "end_time": "00:25:11,120",
+      "text": "last call my name is derek melendez"
+    },
+    {
+      "start_time": "00:25:09,760",
+      "end_time": "00:25:15,840",
+      "text": "saying we'll see you next time"
+    },
+    {
+      "start_time": "00:25:11,120",
+      "end_time": "00:25:15,840",
+      "text": "and welcome to the knights of last call"
+    },
+    {
+      "start_time": "00:25:20,890",
+      "end_time": "00:25:33,760",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:25:31,679",
+      "end_time": "00:25:33,760",
+      "text": "you"
+    }
+  ],
+  "full_text": "this week on nightlife we discuss game\nmechanics\nin social encounters\nwelcome back to the nightlife my name is\nderek melinda the gm\nof the knights of last call in this\nweek's episode of nightlife\nwe're going to talk about game mechanics\nand their role within\nrole playing do you use social mechanics\nto define how your social encounters go\nor do you just play it\nby ear as always i'm joined by the\nfellow knights\nbob how are you doing today excellent\nglad to be back here ready to play\nready to do some night life happy bob\nwho do you got in front of you today\noh everyone this is uh marco from one\npiece the best anime\neveryone should know that nick uh\ndo you agree that that is the best anime\nit is a great anime i'm not gonna lie\ni don't know if i'd go as far as best\nthough it is good but it's not i\nwouldn't say the best\ni am not a huge anime fan but uh tim i\nwill defer to your expertise tim\nuh i would also lean towards not the\nbest it is excellent but\nthere there are far better and more\nimpactful animes out there\nwonderful i just i just enraged a lot of\npeople but that's okay\nand uh matt i'm not gonna ask you i know\nyou're not an anime fan so uh no\ni thought that was an anime version of\nfrye from futurama oh\ni could see it i could see it that would\nbe a cool concept art i like that\nall right well anime statues aside\ntoday's topic on the nightlife is\ngame mechanics and uh specifically as it\nrelates to social encounters or\nrole-playing encounters that some people\nmistakenly call them\nyes mistakenly call them so this this\ntopic actually came from our discord\nchannel and from one of our patrons\nvigil keeper i had a special request for\nthis nightlife topic to be discussed so\nvigil keeper here we are we're\ndiscussing it\nyes thank you patrons absolutely thank\nyou guys everything\nabsolutely um so thank you to all of our\npatrons\nespecially our champion and hero tier\nmembers\nuh the the support has been incredible\nand amazing and everyone is doing a\ngreat job and if you're interested\nin getting involved in some pretty deep\ngaming conversations\nwhy don't you go over to our patrons\nsign up and get into our discord we're\nhaving some really great chats there\nevery single day\nso the topic of conversation today\nreally has to do with\nuh i mean any mechanic really in any\nsort of modern game from the last 20\nyears usually one that has a skill\nsystem\nand within that skill system you\ntypically have skills that are related\nto\nuh your character's persuasiveness or\ntheir deceitfulness\nbasically their likability in d d or\npathfinder\nthese are your charisma based skills\ntypically your diplomacy\nskill your bluff skill your intimidate\nskill\nand the question is um if you if you've\nwatched our ap\nyou'll know that uh i use the dice i use\nthe skills\nto uh decide how effective your\ncharacter is at say\npersuading another character in the game\nan npc\nuh whether or not you've convinced them\nto age you or whether they believe you\nor not\nand some people think that that takes\naway from the game\ni don't agree okay i i i\ni almost don't understand the other side\nlike i think we've talked before where\nyou just talk your way out of a\nsituation and i'm like\ni don't know if we're just acting at\nthat point i don't know if we're even\nplaying a game\nyeah and how how come uh your charisma\ncan bleed in from your purse or your\nplayer into your character\nbecause like yeah you're not\nrole-playing at that point strength-wise\ncould you do some extra push-ups\nyeah in real life just make you know\nyour player stronger\nyou know because if why do we allow\ncharisma to affect it\nyeah i mean great can a dumb dumb\ncharacter come up with a really good\nplan because i'm smart well\nso that kind of bleeds into not quite\nsocial encounters but if if there was a\npuzzle\nyou know some sort of like and the dm\ntook their time maybe they even you know\nbrought some puzzle pieces and they have\nlike this chess board and they put all\nthe pieces out in front of you and\nthey're like\nand then the player you know you guys\nrealize like oh i get what we have to do\nwe have to\nput the knights on the board so that\nevery king is in check and you go\nuh can my character just make an\nintelligence check to solve this puzzle\nmy character is smarter than i am\ni suck at puzzles but you know mathias\nmy my wizard would be amazing at puzzles\nand to your point\nyou know someone who could be i don't\nknow an olympic level fencer\nwould i ever allow them at my table to\ngo uh let me describe for you this\nexquisite riposte and parry maneuver\nand then i'd go oh my you're right the\ncritical hit yeah well i just don't\nunderstand because like that's why it's\nhere right if not i can just cut this\ncut this section out of my book or my\npaper right there's a reason that it's\nthat i invested to get to plus four or\nplus this is because\nmy character is gonna be better at\nsolving puzzles my character's gonna be\nbetter at moving\ndoors or kicking stuff down i invested\ninto this\nwith skills or whatever because if the\nsituation and the social atmosphere\ncomes up\nyou know i'm gonna intimidate that you\nwere like um deceiving the\nguards in in our ap and it's like\ni mean i actually assume you couldn't\npersuade them as\nas matthew but uh i think it was awesome\nthat burl was able to do it and i\ni prefer the way you like to do it which\nis you roll first\nand then if you succeeded how did you\nsucceed and if you failed\ni'll tell you what happened well i think\nthat's awesome absolutely agree because\notherwise\nyou talk yourself out of a paper bag\nright that's correct so\nthe biggest whoopsie is when you like i\nmean a player might have a\nreally strongly worded and totally makes\nsense\nand then they roll the two yeah and then\nthey roll i'm sorry yep up yup you\nslipped you fell you looked like a man\nand i uh you know i think a lot of it\ncomes down to the system\num pathfinder two is clearly a crunchier\nsystem yeah it's gonna be more gamified\ni don't think gamifying things\nis a problem unless you've suddenly like\ngamified\nyou know fiasco or mutants and\nmasterminds or some super indie\nrole playing where it is a lot more you\nknow mutants and masterminds you know\ni'm a hero and you know we describe the\nscenes and we're all kind of making the\nstory together which is\nyou know what people also typically\nassociate with 5e\nis you know making this story\ncooperatively except you know there's\nrolling in that as well right well\nthey're supposed to be right they're\nsupposed to be because 5e has charisma\nbased skills and has diplomacy\ni mean i look the fact of the matter is\nthe reason that well\nmaybe i'm being a little bit cynical\nhere but it's like nobody complains when\ntheir character is way\nstronger than they are no one ever\ncomplains when their character\ncan cast magical spells but they can't\nright no no when do they complain they\ncomplain when they put charisma as a\ndump stat\nand their character has an eight\ncharisma and then when they're at the\ntable they don't want to role play\nbecause if you had a low charisma the\nway you would role play is by saying\noh yeah my character is actually a bad\nperson at convincing people and even if\ni\nthink i have a great reason for you know\ntalking to this person and i think i\nwould be able to persuade them to join\nus\nthat's not in character for me right\nthat's not what your character says out\nloud and\nthat goes back to our previous videos\nwith role playing how not to be boring\nis it's\nyou don't need to be that full narrative\nin order to try and get what you want\nyou're trying to\nbe your character and how you set them\nup how you create them and\nyou know the skill sets you choose the\nchoices that you make should matter\nso if you have a low charisma okay and\nyou in real life might be able to\npersuade somebody to do something but\nthat's not\nwhat you're playing that's not the\ncharacter that you have created\nand if you don't like that this gives\nyou the opportunity to try and change\nthat in the future as well to grow like\nyou would as a normal human being\nto take that and actually be your\ncharacter make those choices that your\ncharacter is going to do because\nthose are the skill sets your character\nhas in the world that has been created\nwith the gm and their players the\nexample i always think of is is and we\nmay have mentioned it here before\nin uh previous nightlife is is your\ncharacter acts\nwho was a half work a half work fighter\nor a half barbarian\nbarbarian it was third edition so you\nget a minus two to your intelligence and\nplus to your strength\num and then um you rolled pretty bad so\ni think you had like two\nsixes or something that were really low\nit was i forget exactly but it was bad\nand you you just said you know okay and\nyou put it into your wisdom and\nintelligence\nright so you were real dumb your name\nwas axe because your character used an\naxe\ncorrect and half the words were acts\ncorrect but you played it and you you\nwere like\ni'm a big dumb half-orc who just\nsometimes you know doesn't really know\nwhat's going on so you like you leaned\ninto it i think that's a good way of\nyou know like role-playing with the\ncards you're dealt in sort of\nsure yeah and i think the other thing is\nlike you you know like we said\nyou can build your character in these\ngames to be good at combat well you can\nbuild your character to be good at\ntalking to people too and i think\nspecifically to answer a vigil keeper's\nquestion\ni think that if you just bypass those\nmechanics\nthen you are completely invalidating as\nbob said that whole investment that you\nmade in the yeah why do i why did i put\nanything into it yeah\nright well anything you know i also\nthink you're denying yourself the\nopportunity to have some\ngreat moments absolutely yes because\ngreat points one of the things that i\nthink of\nthe most when i think of like really\ncool skill checks\num is a long time ago our friend rich\nhe uh he had a character that was really\nreally strong in\ndiplomacy it was probably a half elf\nfrom third edition with all the stacking\nskill bonuses\num but anyway so we you know the party\nwas in a situation with like a duke or a\nking or something like that and\nrealistically there's no logical way\nthat any single person at that table\nincluding the dm who knew everything\ncould reason how we could possibly talk\nour way out of that situation\nbut because it's a skill-based check in\na skill-based system\nyou know our half-health barred with the\nbest diplomacy in the world right i\nthrew out some like dc 40\nright and he rolls a 20 gets like a 56\nor something insane\nand we're just like okay he goes in the\ndoors close\nand no one will ever know what was said\nbehind those doors right it's like a\nhamilton but he agrees with you\nbecause the math of the game says that\nright right and that is\nawesome absolutely like i know and it's\nthe same thing by the way like we don't\nreally question it like you're like okay\nwhole secret\nmy three foot tall halfling\nuh just crit the 200 foot long dragon\nand did so much damage to it that the\ndragon\nis now dead even though i could only\nreach its\ntoenail correct we don't sit there and\ngo but how would that no we go look we\ndon't know\nexactly what happened there but we just\nwe just know that it happened\nright and i think that's part of the fun\nand the magic and i'll kind of\ncounterpoint to tim's you know idea kind\nof combining what tim said with what bob\nsaid as bob mentioned\ni like to have my players roll the dice\nfirst this way\nwe're we're dealing with the game\nmechanics first and then we're\nintroducing the fiction\nand that's a lot of fun because if you\nroll poorly\nyou know going into this upcoming\nrole-playing moment\nwhere you're gonna be maybe doing some\ntalking in character that you are going\nto play yourself\nvery poorly that you are not going to\nsucceed\num if you've ever played fiasco it's\nlike where you're having a a\nconversation in fiasco and then the\nthe group of people that pick the black\nguy and so you know that this is gonna\nend badly for you\nand you get to have fun with that right\nfailing can be fun\nand that's why we play these games you\nknow if you just\nare just talking and ignoring your\nskills then it becomes a game of you\nknow mother may i or dm may i\nand now you're not really trying to\nconvince the npc\nyou're trying to convince the dungeon\nmaster now would you\nas the dm if someone made a good\nargument for their player\ngive bonuses um i think there's a world\nin which you give bonuses you know\npathfinder second edition is a little\nuh stringent upon them mechanically i\nmean but officially like in pathfinder\none\nuh if someone had a particularly good\nidea you might give them a plus two\nif someone has a bad idea you might give\nthem a minus two yeah um you know you'll\nsometimes hear\nus uh as friends groups well if someone\nsays something we'll say oh plus two\nbecause it's like an inside joke being\nlike yeah we think it's a great idea\nyeah\nyeah i was thinking about that that's\nlike a way that it's only\nit's not that you bob made a good idea i\nmean you'd be like\ni'm arguing on behalf of my character so\ni\ni will i'm gonna we got about maybe\nabout 10 minutes left in this nightlife\nand i wanted to kind of take this second\nhalf here so i\nto summarize i think game mechanics are\nfun i think rolling dice is fun\ni think the unknown is fun i think being\nforced\nto role play something that you maybe\ndidn't intend to role play\nis a lot of fun puts you out of your\ncomfort zone or puts you out of what you\nexpected\nabsolutely and then takes the story in\nhilarious new direct especially like\nwhen the least charismatic person in the\nparty rolls like\ni'll make a diplomacy check they roll in\nthat 20 they're like a fighter and it's\nlike turns out like this guy loves\nweapons and he's got a huge collection\nand then you they start bonding over\nright you make it up you make\nyou make it why did that work exactly\nwhy it didn't work\nexactly right it did work why and then\ntrying to collaboratively as a group\nfigure that yeah it's not just on you\nlike bob may have a great idea\nright if this isn't this i'm like that's\na good idea all right so i'm gonna flip\nthis around this is something that uh uh\nfellow dm\nuh and patron aaron and i have discussed\nat length and we were really\nwe were originally very excited because\nwe actually thought this worked in\npathfinder second edition and then we\nfound a little\ncaveat in the rules that said that it\ndoes not\nbut it could oh what do you feel\nor how do you feel as players if\nthe same rules and the same skill checks\nthat you make to influence\nnpcs could be used\nagainst you oh which is to say if you\nmet an npc\nand i said you know they start chatting\nyou up and they they're trying to become\nyour friend you're like no i don't want\nto be this guy's friend he's this guy's\nan\nand i go okay well they have a really\nhigh diplomacy\nand they put a lot of points into\ncharisma so i'm going to roll this d20\nand oh\ni got a 30 so you are actually friendly\nwith them\ni think it comes down to how much you\nwant to like role play the character\nyeah i mean i'd roll with it\nyeah because right because like for\nexample all the time when we're in\ncombat\ni go my the monster intimidates you and\nyou i roll a die and\neverything's one side and you and you're\nwell no but that goes both ways yeah\nthat's what i'm saying\nthat's what i'm saying no no no no no\nbefore it's one-sided if you're\nintroducing a second element we're not\njust\ni am not we can be intimidated oh yeah\nyeah no i see you're saying\ni'm telling you your character is\nintimidated by this guy and you're like\nno he's not my guy's brave\nbut i'll tell you you're not social or\noh i could if i cast a spell on you\nnow you might say okay well that's magic\nyeah but intimidation intimidation\nis not in mathematics you're going more\nsocial i'm saying i'm saying this person\nis using their skill which is not\nmagical intimidation\nto demoralize and frighten your\ncharacter right so i am\ni am asserting control over your\ncharacter's personality yeah but things\ni think like intimidation just happens\nbut what diplomacy like you have to be\nsomewhat open to the idea like if you're\na hermit who doesn't like anyone\nsure you i don't know if it's reflected\nin the game where you have like a higher\nit's not yet\nit's not well it's not mind control\nright it's certainly not mind control\nbut\nyou know in in terms of what can you do\nwith diplomacy and pathfinder well one\nof the two things you can do is change\npeople's attitudes right\nthere's a spectrum fifth edition has\nthis too where you know\na creature can be hostile they can be\nunfriendly they can be indifferent they\ncan be friendly\nand they can be helpful right so a\nhermit\nmight start an encounter at unfriendly\nyou know but mechanically you can still\nupgrade them\nright but right because they say\nsomething to you right\nbut in d d or in pathfinder i\nas the dm am completely like\nyou know i could i could make a\ncharacter an npc who was like the most\ncharming\nlike liar and suave smooth talkingest\nperson in the world\nand i could be like um you know they're\nsaying you stop they're telling you\nstuff and i\nsecretly make a bluff check and you go\nuh you know derek i try to purse you\nknow perceive and sense his motive\nyou know do i think he's telling the\ntruth and i know that unless you roll\nlike double net 20s you'll never succeed\nand i go no no you believe him and you\ngo yeah i don't believe him though\nyeah he i think he's lying would you ask\nus what our uh\ninclination is towards the person like\nwould you be like okay he's going to try\nto\nwell i have a diplomacy check on you no\ngirl yeah\nwhat are you are you are you friendly\nwith him are you indifferent\ni think we would i think number one i\nthink based on the way you play your\ncharacter\nwe would already know you're starting\nreaction very very very terribly like i\nthink for example azias would probably\nbe\nautomatically friendly towards females\nhe tends\na ladies man at the bar he's a little\nbit more of a ladies man eskenor maybe\nguild or a little bit more standoffish\nguilders kind of a cold literally yeah\nhe's literally cold\nliterally cold fellow so guild or might\nnot warm up to people as much\nbut as from a role-playing challenge if\nyou go\ni want to hate this guy i think he's a\nbad guy\nright but like in a show where you have\nsomeone who's just\nso conniving and such a good manipulator\ncan you also argue from the same\npart from from intimidation where we're\nall hanging out and one guy comes in and\nhe's very charismatic\nbut he's like he's a he's a he's a bunny\nhe's a he's a rabbit\nand he's very easy he can talk he's very\ncharismatic and he rolls a\nintimidation check against all of us yes\nlike there's i\nmean he shows us his face i'm not afraid\nof that thing like even if it turns into\na monster no i think it's funny\nif you are because then we're going to\nlike rip on you about it like hey\nno but you're afraid of that rabbit but\none of the rules of the game is that i\nas the dungeon master\ncannot use the same diplomacy skills to\nchange your character's attitudes right\ni think\nyou know kind of vigil keeper was like\ndo you think it's okay to use social\nmechanics\nin any role-playing situation number one\nremember a lot of people use the term\nrole-playing situation mean any sort of\nsocial combat\nhe said social situation or social\ncombat as some people call it i like\nthat term better you're always role\nplaying\nbut i i would take it a step further i\nthink the game would be\ncompletely right because net and then\nwhen you meet that person\nthat person who's the known super\ncharmer\nyou know and you're like yeah this\nperson kind of\ncan convince me it reminds me one of the\nfirst one of the first advice\npiece of advice you gave me was when\nyou're building a character don't think\nof it as like hey i'm building aragorn\nsure i'm building you know uh legolas\ni'm building legolas in here because\nyou're gonna fail to meet your\nexpectations\nbut so that's a good point and i think\nthat ties in because then if you're\nthinking about\num you know what happens if you do do a\nsocial interaction and you're like\nyou're angry\nmatt you're angry at that player at that\ncharacter the npc but he's done a\ndiplomacy check\nyou've got to be you're okay with them\nand you're like if you have a\npreconceived notion if i'm the main\ncharacter in my movie that doesn't make\nsense but if i'm playing a role-playing\ngame\nwhere i understand like i'm doing things\nthat i wouldn't but\nbut but we see this all the time in film\nand television\nright where you're like why are you\ntrusting that character exactly or\nor why are you allying with that person\nor how could you possibly believe that\nright\nright we all know they're evil right and\nhere's the thing\nyou at the table the player may know\nthat they are evil or race not good\nand yet the cool part of the game is you\ngo but now you do\nit's the same way as if you really want\nto convince this person to join your\nteam\nand you go okay i'm gonna make a\ndiplomacy check and you roll a six\nand you know in a head in advance that\nyou've failed\nthen when we go and role play it you you\nhave to do your part to make it a\nfailure\nright you kind of have to go like listen\nfact is we don't really have a great\nplan\nand uh without a great plan we're\ndestined to lose\nso i still don't like you and i still\ndon't you know like you as a\ncharacter but i think you've got a good\npoint we're gonna go along right and\nthat's the difference it's not a charm\nspell it's not a compulsion\nright the same way that if someone if\nsomeone like really you know\nmade a great diplomacy check against one\nof my npcs and says okay give me all\nyour money in your house\ni would never say like no even if\nthey're helpful right\nand obviously one npc's helpful is\ndifferent than another npc's helpful\nbut to your point i mean how often we\ndon't even think about it because we're\nnot very self-reflective about that\nwe are being influenced by people around\nus all the time\nright whenever you meet a salesman\nwhenever you you know\ngo to a meeting you are trying to you\nare making\ndiplomacy checks against these people or\nmore bluff checks\num or intimidate checks i don't know man\nyou do you you might have a\nwork runway right and you're making them\nall the time\nand you know so there's this idea this\nsacrosanct idea that like it's like in\nrole-playing games you know you are in\ncontrol of your character\nexcept for like in combat or spells\nor anything roll the dice and anytime\nyou roll the dice so\nyeah it doesn't really doesn't really\nmake a whole lot of sense so i i think\nit would be actually\nreally cool to allow those rules to work\neverywhere\nyeah and to really mechanicize\nthe the elements of the game that relate\nto social interaction\ndouble down on the gamification\nabsolutely but that's kind of what\npathfinder two he's all about though too\nwell it's not just the combat portion of\nit i agree it's that whole\nsocial aspect but they deliberately put\ninto the the rule book that those uh\ndiplomacy checks do not affect player\ncase i'm just saying they could\nyou could just try right let's try it we\nhave to just get a little bit of white\nout\nnow it's yeah so you know maybe that's\nsomething that we'll do maybe in a\nfuture campaign i don't know that um\nrise of the rune lords is the best ap\nfor that but something like\ncurse of crimson throne would be\nincredible for that right\ncity-based intrigue and lots of uh\nmoving pieces and parts i don't know\nfunny situation where like\ni've got a good will save but everyone\nelse in the party has pretty poor will\nsaves\nand you convince all of them to turn\nagainst me and join like the bad guy\nyeah i mean you want to get you want\nit's a possibility though i mean i\ndon't want to go too long but you want\nto get real real\nyou start making checks against fellow\nparty members oh my god oh my god\nwe've been there if that campaign ended\ni feel like i feel like you'll be like\nall right i'm done with this it's got to\nbe a pretty strong social contract\nbeforehand\nyeah maybe that's just two next level i\ndon't know you know so you know\nlet us know in the comments below have\nyou ever tried\nto you know use social mechanics against\nor i guess where social mechanics would\nwork against the players\nand you know basically and it may sound\nweird\nbut by really embracing the mechanics of\nsocial mechanics\ni think you take your role playing to\nthe next level\noh yeah right because now you're like oh\nmy gosh like\nnow you're constantly it's like for\nexample i mean it's just like you'd be\nlike an actor at that point\nwhere you go my character i had this\nidea who my character is and then the\nwriters and the directors give you your\nlines in your script and they say\nokay so your character's doing this and\nyou're like i don't agree with this\ndecision\nthis isn't how i would have played this\ncharacter but i have to play them this\nway and i have to play them convincingly\nthis way\ni mean i assume burl has a fur shop\nbecause\nhe told that guard about it one time or\nthe prisoner about it one time and i'm\nlike\nsold yeah yeah if you if you want to\nhear another really fun story\nanecdotally we'll put this in the uh\npatreon we'll tell you about when uh one\nof our party members in dragon's delve\nhad to be a doppelganger for multiple\nsessions\ni know this story a lot against the\nparty that's right it's great it's a\ngood story\nthat's a great moment where the person\nwho doesn't usually rp\nrp's the out of his character\nso that's what we have today for you\nknow talking about social\ncombat and social skills as it relates\nto role playing honestly we could\nprobably do a couple of videos about\nthis\ni have a lot of ideas about this i think\nstrong mechanics\ncan lead to better role-playing because\nyou're being forced into directions it's\njust like what matt said you're being\nforced into unknown\nunexpected directions and i think that's\nwhat role-playing is all about\nlet us know in the comments below and\nyou know give us some uh some of your\nthoughts about\nsocial skills and role playing as it\nrelates to dungeons and dragons or\npathfinder\nor any other role-playing game any uh\nlast thoughts from the knights\nno i i didn't even that was a pretty\ncool twist in the uh npc\nversus me yeah yeah i think it'd be a\nlot of fun to try that\nyeah yeah you say that now yeah until\neverybody's just like yeah where's my\nmoney here's my house yeah have fun\nyeah uh for me that's one of those\nthings like it does sound fun it would\ndefinitely change how i played but\nuh i think there are better systems for\nthat kind of thing personally like\npathfinder and 5e\nnot wouldn't be my go-to's for that\nuh throwback to the beginning if if uh\nyou're into anime\nuh i've not watched any anime so\nrecommend something for me to see so i\ncan demonstrate what's a good what's a\ngood uh\none piece step unbiased unbiased don't\ndon't let the knights judge you we'll\nlet the viewers know okay\nfair enough well thank you so much for\njoining us if you enjoyed this content\nplease like subscribe ring the bell as\nwe are going to be posting multiple\nnightlifes each week in addition to our\nweekly rise of the rune lords actual\nplay game\nand if you really want to support us and\nyou want to talk to us on a more regular\nbasis\nfeel free to join our patreon so that\nyou can hop into our discord as well as\nget access to some of our\nspecial events and offers all right well\nthat's going to wrap it up for us\nwrap it up here for us for the nights of\nlast call my name is derek melendez\nsaying we'll see you next time\nand welcome to the knights of last call\n[Music]\nyou\n"
+}

@@ -1,0 +1,303 @@
+hey guys welcome back to the Channel I
+want to talk to you today about the
+combat system in the broken Empires role
+playing game so combat in this game is
+dangerous and definitive but not
+necessarily lethal when I swing a sword
+at you and I connect and I do a wound to
+you that's not abstracted away in hit
+points that wound has a very specific
+effect and it has immediate
+repercussions which could change the
+Tactical outcome of that situation right
+so I'm not going to get into all the
+weeds about how combat work works but
+for those of you who've been keeping
+track of things you'll know that in this
+game you roll percental obviously and
+you want it's blackjacks you want to
+roll under your skill but high and that
+tens die of your role counts as your
+success levels it can be modified by
+other things but that's the base so if
+my skill is 50 and I roll a 42 I've
+succeeded because I rolled under and
+I've succeeded with four success levels
+or SLS because I rolled that four now my
+attack role is going to be mitigated by
+the defender's role okay so the defense
+is going to reduce the quality of my
+attack but we'll get to that first of
+all yes there's surprise in this game
+and yes if you attack with surprise that
+is really good there's a lot of
+advantages to doing that uh there is an
+initiative system it is round by round
+the initiative system is based on a die
+type the players have a die type that
+ranges between D4 and D12 and they roll
+that against an enemy static initiative
+and if there are several players who go
+all before an enemy then it doesn't
+matter what specific order they're in so
+for example if there's three players and
+an enemy okay and the enemy static
+initiative is four let's say so one
+player rolls a seven another one rolls a
+six and another one rolls a one okay
+well the guy who rolled the one he's
+going to be after the enemy because the
+enem is on four the ones who rolled the
+sixth and the Seven they're going to be
+before the enemy because the enem is on
+four but which specific order they go in
+it's totally up to them so there might
+be tactical reasoning for that right
+like I I it's more important that you go
+first before I do and so you can you can
+make that uh discussion initiative is
+rerolled every round but it's only one
+die and it's it's very very quick
+because again the enemies do not roll
+they have static initiative when you
+take your turn you can basically do a
+move and do a thing what is that thing
+any proactive action that could be an
+attack it could be rumaging through your
+pack to produce a thing it could be
+reloading a bow a crossbow what whatever
+the case is you can move one zone
+because yes there are zones in this game
+it's not a hex based game uh zones are
+just an abstracted area of whether or
+not I'm close enough to hit the guy the
+enemy is essentially what it boils down
+to zones have descriptors though and
+those descriptors can be used
+technically by the players if they
+choose they don't have to spend any meta
+points it's not like fate you don't have
+to pay a fate point to use a descriptor
+of a Zone it's just there you can take
+advantage of it typically once per
+engagement but it depends on the
+situation when you take your turn as I
+said you can move up to one zone and do
+a thing that thing you do is very often
+an attack so an attack is rolling under
+your skill but High because it is a
+blackjack system the opponent's defense
+mitigates yours so any net SLS you have
+uh is going to do damage right or is
+going to be a successful attack so if I
+rolled 42 and you rolled 12 I succeed
+with three SLS okay providing we both
+rolled under our
+skills now my weapon damage is static
+and it adds to those SLS and that two
+hit roll tells you a lot it tells you
+did I hit it tells you how badly did I
+hit it tells me where did I hit and it
+tells me what kind of combat Maneuvers
+can I perform on that hit so if I hit
+you I already know how the damage is
+done right my sl's plus my weapon damage
+minus the armor in the location that
+I've hit but how do you know the
+location there are no extra charts or
+tables in this I mean there's one very
+simple hit location table but it's right
+in your character sheet and it's dead
+simple the ones die of your role
+determines the hit location so when I
+roll I compar mine to yours and I know
+did I hit you did I succeed how many SLS
+net did I get yet what's the damage I'm
+doing where am I doing that damage then
+I compare that damage to any armor you
+might have and whatever's left over
+becomes a wound and at that moment you
+have to make a wound die roll which
+could be modified by your toughness and
+if that wound die roll fails then that
+location is incapacitated so it doesn't
+necessarily mean that people are going
+to die all the time but it does mean
+that fights can be over quick with a
+solid definitive blow okay so this is
+just the basics I'm giving you the quick
+Basics over this uh and those of you
+who've been watching season 4 of Me
+Myself and I you will you will already
+be familiar with all of this stuff but
+that is essentially how that works now I
+can also use my success levels on combat
+Maneuvers and combat Maneuvers are all
+kinds of things they might knock you
+prone they might knock the weapon out of
+your hand they might compel you to
+surrender they might unbalance you to
+give you a a penalty on your next action
+um if it's a defensive maneuver I might
+be able to do a repost or I might be
+able to disengage from you if I succeed
+really really well the these combat
+Maneuvers are based on the quality of
+your outcome so if you've got three SLS
+that means you can pick any two combat
+Maneuvers as long as each one of those
+is three or less that's how that works
+and most of the time there's no
+resistance to these like if I hit you in
+the leg and I do a prone combat maneuver
+which is based on my weapon by the way
+the type of weapon I use is going to
+determine the ease or difficulty of
+those Maneuvers in most cases so if I do
+manage to knock you prone if I spend my
+successful hit against you and I use
+that combat maneuver to knock your
+you're going down boom you're not prone
+now yes you can have a specialty or a
+talent that allows you a resistance
+against such things but that's more
+character creation and less combat so uh
+that's essentially how it works wounds
+are a whole separate thing wounds can
+kill you uh if you get wounds Over The
+lethality level of a hit location uh
+that's when you might have to start
+rolling the death die and that's when
+things get really nasty wounds can also
+become infected and that's when you have
+to roll the infection die that can be
+really Nast nasty uh infection can kill
+you especially on the road so you have
+to be careful having a a decent healer
+in your party isoo very very important
+notice I said healer and not cleric
+clerics do exist in the game they're
+called godbound but all you need is like
+a physician someone who's really good at
+the heal skill uh they should be able to
+to help you not to die from Gang Green
+and various related illnesses like that
+um but yeah the the combat system is
+robust but it moves quickly this is this
+is really really the heart of what I'm
+talking about when I talk about Sim
+light simulation light it is a
+simulationist game in that it represents
+every blow every Parry every wound that
+is that is struck and and achieved on an
+opponent but it's light in that we don't
+bog down the uh the the combat with so
+many details that it takes forever to
+get through it so a combat Exchange in
+the game is really two roles you don't
+roll for damage you don't roll for hit
+location that's all contained in the
+attack roll into their defense Ro so
+things move a lot quicker and the
+consequences for being hit have an
+immediate effect this isn't just I do
+hit points hit points hit points you're
+fine you're fine you're fine you're dead
+that's not at all how this game works um
+so you can you can lose a fight without
+being killed and I think that's really
+important because that allows so many
+more tactical options for the players to
+deal with an opponent because sometimes
+what if you don't want to kill the enemy
+for all kinds of reasons well this game
+gives you very specific options that
+anybody can do you know you don't have
+to have some special ability to do it
+anybody can do it as long as you have
+the skill and the dice rolls to uh make
+that happen now there are critical
+results and critical failures that's
+just basically if you roll doubles under
+or doubles over that's going to be a
+critical result uh also if you roll your
+skill exactly that's a critical result
+the critical success uh but they're not
+instawin buttons they don't immediately
+mean that you win or lose it just means
+that you gain plus three success levels
+which doesn't sound like a lot but
+believe me that actually that can really
+change the the course of a battle so a
+critical result is important but it's
+not like oh my God I I I got a critical
+now I immediately win the world right so
+there's all kinds of other little
+details in here like attacking a prone
+opponent or reach weapons reach is
+accommodated for in this system but it's
+very very simple and I really like how
+it works uh basically if you have if
+you're if you're charging someone with
+reach on you um they're going to get a
+bonus based on the reach score of that
+weapon but they also get a free attack
+if you're charging them you don't have
+to charge someone to attack them you can
+move in and attack but then you forfeit
+that extra bonus you get from the charge
+so there's all kinds of little tactical
+things you can do in order to maximize
+your chances of survival in terms of
+weapons and armor weapons all have their
+own things they can do um so there's a
+bit of weapon porn going on uh armor
+mitigates damage per location so if I
+get hit in the left arm for five damage
+but I have three armor points I'm going
+to take a two-point wound in that arm uh
+you can use you can actually Sunder the
+armor you can you can actually have your
+armor shatter uh to avoid a wound but
+then the armor is destroyed that's very
+much inspired by the one ring as well
+you can do the same thing with the
+shield um you can split the shield if
+you want but of course that's a one-off
+thing once it's gone it's gone and it
+simulates destroying the shield and and
+damaging armor without having to track a
+bunch of armor hit points and things
+like that which are just really niggly
+and I don't really like doing that stuff
+armor and shields obviously encumber you
+and encumbrance eats into your total
+resolve which is your ability to
+mitigate your roles with uh extra
+bonuses and things so you don't want
+that res is crucial for a spellcaster
+but we're not of course talking about
+spellcasting cuz that will be another
+video which is forthcoming so that's a
+little taste of combat that's how it
+works again if you want to see it on
+action you can watch really some of the
+later episodes of season 4 on Me Myself
+and die uh because the first the first
+episode I'm still using a phase system
+which I was playing with and while phase
+systems work perfectly fine I just
+didn't it didn't do much for me in this
+particular case so I decided to go to a
+a more traditional initiative system
+although it is still unique right uh you
+still roll your die type again the
+static enemy initiative so uh I'm not
+trying to reinvent the wheel with this
+game but you know there are some
+interesting unique things that have come
+out of it so it's pretty cool anyway so
+that's a little taste of combat and uh I
+will see you next time on the next uh
+video thanks for joining me chiao van
+now

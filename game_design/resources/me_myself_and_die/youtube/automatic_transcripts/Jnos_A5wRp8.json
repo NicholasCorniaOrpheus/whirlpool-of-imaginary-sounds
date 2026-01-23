@@ -1,0 +1,1520 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,520",
+      "end_time": "00:00:03,719",
+      "text": "hey guys welcome back to the Channel I"
+    },
+    {
+      "start_time": "00:00:02,200",
+      "end_time": "00:00:06,240",
+      "text": "want to talk to you today about the"
+    },
+    {
+      "start_time": "00:00:03,719",
+      "end_time": "00:00:09,040",
+      "text": "combat system in the broken Empires role"
+    },
+    {
+      "start_time": "00:00:06,240",
+      "end_time": "00:00:10,759",
+      "text": "playing game so combat in this game is"
+    },
+    {
+      "start_time": "00:00:09,040",
+      "end_time": "00:00:13,320",
+      "text": "dangerous and definitive but not"
+    },
+    {
+      "start_time": "00:00:10,759",
+      "end_time": "00:00:16,080",
+      "text": "necessarily lethal when I swing a sword"
+    },
+    {
+      "start_time": "00:00:13,320",
+      "end_time": "00:00:18,480",
+      "text": "at you and I connect and I do a wound to"
+    },
+    {
+      "start_time": "00:00:16,080",
+      "end_time": "00:00:20,119",
+      "text": "you that's not abstracted away in hit"
+    },
+    {
+      "start_time": "00:00:18,480",
+      "end_time": "00:00:21,760",
+      "text": "points that wound has a very specific"
+    },
+    {
+      "start_time": "00:00:20,119",
+      "end_time": "00:00:23,640",
+      "text": "effect and it has immediate"
+    },
+    {
+      "start_time": "00:00:21,760",
+      "end_time": "00:00:26,560",
+      "text": "repercussions which could change the"
+    },
+    {
+      "start_time": "00:00:23,640",
+      "end_time": "00:00:28,279",
+      "text": "Tactical outcome of that situation right"
+    },
+    {
+      "start_time": "00:00:26,560",
+      "end_time": "00:00:30,920",
+      "text": "so I'm not going to get into all the"
+    },
+    {
+      "start_time": "00:00:28,279",
+      "end_time": "00:00:32,079",
+      "text": "weeds about how combat work works but"
+    },
+    {
+      "start_time": "00:00:30,920",
+      "end_time": "00:00:33,840",
+      "text": "for those of you who've been keeping"
+    },
+    {
+      "start_time": "00:00:32,079",
+      "end_time": "00:00:35,480",
+      "text": "track of things you'll know that in this"
+    },
+    {
+      "start_time": "00:00:33,840",
+      "end_time": "00:00:36,640",
+      "text": "game you roll percental obviously and"
+    },
+    {
+      "start_time": "00:00:35,480",
+      "end_time": "00:00:38,800",
+      "text": "you want it's blackjacks you want to"
+    },
+    {
+      "start_time": "00:00:36,640",
+      "end_time": "00:00:42,440",
+      "text": "roll under your skill but high and that"
+    },
+    {
+      "start_time": "00:00:38,800",
+      "end_time": "00:00:44,000",
+      "text": "tens die of your role counts as your"
+    },
+    {
+      "start_time": "00:00:42,440",
+      "end_time": "00:00:45,719",
+      "text": "success levels it can be modified by"
+    },
+    {
+      "start_time": "00:00:44,000",
+      "end_time": "00:00:48,120",
+      "text": "other things but that's the base so if"
+    },
+    {
+      "start_time": "00:00:45,719",
+      "end_time": "00:00:49,480",
+      "text": "my skill is 50 and I roll a 42 I've"
+    },
+    {
+      "start_time": "00:00:48,120",
+      "end_time": "00:00:51,480",
+      "text": "succeeded because I rolled under and"
+    },
+    {
+      "start_time": "00:00:49,480",
+      "end_time": "00:00:54,239",
+      "text": "I've succeeded with four success levels"
+    },
+    {
+      "start_time": "00:00:51,480",
+      "end_time": "00:00:55,920",
+      "text": "or SLS because I rolled that four now my"
+    },
+    {
+      "start_time": "00:00:54,239",
+      "end_time": "00:00:58,000",
+      "text": "attack role is going to be mitigated by"
+    },
+    {
+      "start_time": "00:00:55,920",
+      "end_time": "00:01:00,519",
+      "text": "the defender's role okay so the defense"
+    },
+    {
+      "start_time": "00:00:58,000",
+      "end_time": "00:01:01,840",
+      "text": "is going to reduce the quality of my"
+    },
+    {
+      "start_time": "00:01:00,519",
+      "end_time": "00:01:04,119",
+      "text": "attack but we'll get to that first of"
+    },
+    {
+      "start_time": "00:01:01,840",
+      "end_time": "00:01:05,680",
+      "text": "all yes there's surprise in this game"
+    },
+    {
+      "start_time": "00:01:04,119",
+      "end_time": "00:01:07,960",
+      "text": "and yes if you attack with surprise that"
+    },
+    {
+      "start_time": "00:01:05,680",
+      "end_time": "00:01:10,240",
+      "text": "is really good there's a lot of"
+    },
+    {
+      "start_time": "00:01:07,960",
+      "end_time": "00:01:12,360",
+      "text": "advantages to doing that uh there is an"
+    },
+    {
+      "start_time": "00:01:10,240",
+      "end_time": "00:01:14,080",
+      "text": "initiative system it is round by round"
+    },
+    {
+      "start_time": "00:01:12,360",
+      "end_time": "00:01:15,960",
+      "text": "the initiative system is based on a die"
+    },
+    {
+      "start_time": "00:01:14,080",
+      "end_time": "00:01:18,520",
+      "text": "type the players have a die type that"
+    },
+    {
+      "start_time": "00:01:15,960",
+      "end_time": "00:01:20,840",
+      "text": "ranges between D4 and D12 and they roll"
+    },
+    {
+      "start_time": "00:01:18,520",
+      "end_time": "00:01:23,840",
+      "text": "that against an enemy static initiative"
+    },
+    {
+      "start_time": "00:01:20,840",
+      "end_time": "00:01:26,840",
+      "text": "and if there are several players who go"
+    },
+    {
+      "start_time": "00:01:23,840",
+      "end_time": "00:01:29,320",
+      "text": "all before an enemy then it doesn't"
+    },
+    {
+      "start_time": "00:01:26,840",
+      "end_time": "00:01:31,520",
+      "text": "matter what specific order they're in so"
+    },
+    {
+      "start_time": "00:01:29,320",
+      "end_time": "00:01:33,079",
+      "text": "for example if there's three players and"
+    },
+    {
+      "start_time": "00:01:31,520",
+      "end_time": "00:01:35,000",
+      "text": "an enemy okay and the enemy static"
+    },
+    {
+      "start_time": "00:01:33,079",
+      "end_time": "00:01:37,399",
+      "text": "initiative is four let's say so one"
+    },
+    {
+      "start_time": "00:01:35,000",
+      "end_time": "00:01:39,880",
+      "text": "player rolls a seven another one rolls a"
+    },
+    {
+      "start_time": "00:01:37,399",
+      "end_time": "00:01:41,280",
+      "text": "six and another one rolls a one okay"
+    },
+    {
+      "start_time": "00:01:39,880",
+      "end_time": "00:01:42,520",
+      "text": "well the guy who rolled the one he's"
+    },
+    {
+      "start_time": "00:01:41,280",
+      "end_time": "00:01:44,439",
+      "text": "going to be after the enemy because the"
+    },
+    {
+      "start_time": "00:01:42,520",
+      "end_time": "00:01:45,600",
+      "text": "enem is on four the ones who rolled the"
+    },
+    {
+      "start_time": "00:01:44,439",
+      "end_time": "00:01:47,079",
+      "text": "sixth and the Seven they're going to be"
+    },
+    {
+      "start_time": "00:01:45,600",
+      "end_time": "00:01:49,600",
+      "text": "before the enemy because the enem is on"
+    },
+    {
+      "start_time": "00:01:47,079",
+      "end_time": "00:01:51,000",
+      "text": "four but which specific order they go in"
+    },
+    {
+      "start_time": "00:01:49,600",
+      "end_time": "00:01:52,680",
+      "text": "it's totally up to them so there might"
+    },
+    {
+      "start_time": "00:01:51,000",
+      "end_time": "00:01:54,560",
+      "text": "be tactical reasoning for that right"
+    },
+    {
+      "start_time": "00:01:52,680",
+      "end_time": "00:01:56,719",
+      "text": "like I I it's more important that you go"
+    },
+    {
+      "start_time": "00:01:54,560",
+      "end_time": "00:01:59,159",
+      "text": "first before I do and so you can you can"
+    },
+    {
+      "start_time": "00:01:56,719",
+      "end_time": "00:02:00,799",
+      "text": "make that uh discussion initiative is"
+    },
+    {
+      "start_time": "00:01:59,159",
+      "end_time": "00:02:02,880",
+      "text": "rerolled every round but it's only one"
+    },
+    {
+      "start_time": "00:02:00,799",
+      "end_time": "00:02:04,079",
+      "text": "die and it's it's very very quick"
+    },
+    {
+      "start_time": "00:02:02,880",
+      "end_time": "00:02:06,200",
+      "text": "because again the enemies do not roll"
+    },
+    {
+      "start_time": "00:02:04,079",
+      "end_time": "00:02:07,600",
+      "text": "they have static initiative when you"
+    },
+    {
+      "start_time": "00:02:06,200",
+      "end_time": "00:02:10,200",
+      "text": "take your turn you can basically do a"
+    },
+    {
+      "start_time": "00:02:07,600",
+      "end_time": "00:02:11,920",
+      "text": "move and do a thing what is that thing"
+    },
+    {
+      "start_time": "00:02:10,200",
+      "end_time": "00:02:14,000",
+      "text": "any proactive action that could be an"
+    },
+    {
+      "start_time": "00:02:11,920",
+      "end_time": "00:02:17,080",
+      "text": "attack it could be rumaging through your"
+    },
+    {
+      "start_time": "00:02:14,000",
+      "end_time": "00:02:19,239",
+      "text": "pack to produce a thing it could be"
+    },
+    {
+      "start_time": "00:02:17,080",
+      "end_time": "00:02:21,480",
+      "text": "reloading a bow a crossbow what whatever"
+    },
+    {
+      "start_time": "00:02:19,239",
+      "end_time": "00:02:22,840",
+      "text": "the case is you can move one zone"
+    },
+    {
+      "start_time": "00:02:21,480",
+      "end_time": "00:02:25,200",
+      "text": "because yes there are zones in this game"
+    },
+    {
+      "start_time": "00:02:22,840",
+      "end_time": "00:02:27,800",
+      "text": "it's not a hex based game uh zones are"
+    },
+    {
+      "start_time": "00:02:25,200",
+      "end_time": "00:02:30,319",
+      "text": "just an abstracted area of whether or"
+    },
+    {
+      "start_time": "00:02:27,800",
+      "end_time": "00:02:31,760",
+      "text": "not I'm close enough to hit the guy the"
+    },
+    {
+      "start_time": "00:02:30,319",
+      "end_time": "00:02:34,760",
+      "text": "enemy is essentially what it boils down"
+    },
+    {
+      "start_time": "00:02:31,760",
+      "end_time": "00:02:36,000",
+      "text": "to zones have descriptors though and"
+    },
+    {
+      "start_time": "00:02:34,760",
+      "end_time": "00:02:37,599",
+      "text": "those descriptors can be used"
+    },
+    {
+      "start_time": "00:02:36,000",
+      "end_time": "00:02:39,560",
+      "text": "technically by the players if they"
+    },
+    {
+      "start_time": "00:02:37,599",
+      "end_time": "00:02:41,519",
+      "text": "choose they don't have to spend any meta"
+    },
+    {
+      "start_time": "00:02:39,560",
+      "end_time": "00:02:43,720",
+      "text": "points it's not like fate you don't have"
+    },
+    {
+      "start_time": "00:02:41,519",
+      "end_time": "00:02:46,040",
+      "text": "to pay a fate point to use a descriptor"
+    },
+    {
+      "start_time": "00:02:43,720",
+      "end_time": "00:02:48,040",
+      "text": "of a Zone it's just there you can take"
+    },
+    {
+      "start_time": "00:02:46,040",
+      "end_time": "00:02:49,400",
+      "text": "advantage of it typically once per"
+    },
+    {
+      "start_time": "00:02:48,040",
+      "end_time": "00:02:51,120",
+      "text": "engagement but it depends on the"
+    },
+    {
+      "start_time": "00:02:49,400",
+      "end_time": "00:02:53,000",
+      "text": "situation when you take your turn as I"
+    },
+    {
+      "start_time": "00:02:51,120",
+      "end_time": "00:02:56,159",
+      "text": "said you can move up to one zone and do"
+    },
+    {
+      "start_time": "00:02:53,000",
+      "end_time": "00:02:59,280",
+      "text": "a thing that thing you do is very often"
+    },
+    {
+      "start_time": "00:02:56,159",
+      "end_time": "00:03:00,760",
+      "text": "an attack so an attack is rolling under"
+    },
+    {
+      "start_time": "00:02:59,280",
+      "end_time": "00:03:02,640",
+      "text": "your skill but High because it is a"
+    },
+    {
+      "start_time": "00:03:00,760",
+      "end_time": "00:03:05,480",
+      "text": "blackjack system the opponent's defense"
+    },
+    {
+      "start_time": "00:03:02,640",
+      "end_time": "00:03:07,040",
+      "text": "mitigates yours so any net SLS you have"
+    },
+    {
+      "start_time": "00:03:05,480",
+      "end_time": "00:03:09,080",
+      "text": "uh is going to do damage right or is"
+    },
+    {
+      "start_time": "00:03:07,040",
+      "end_time": "00:03:11,400",
+      "text": "going to be a successful attack so if I"
+    },
+    {
+      "start_time": "00:03:09,080",
+      "end_time": "00:03:14,080",
+      "text": "rolled 42 and you rolled 12 I succeed"
+    },
+    {
+      "start_time": "00:03:11,400",
+      "end_time": "00:03:15,599",
+      "text": "with three SLS okay providing we both"
+    },
+    {
+      "start_time": "00:03:14,080",
+      "end_time": "00:03:17,959",
+      "text": "rolled under our"
+    },
+    {
+      "start_time": "00:03:15,599",
+      "end_time": "00:03:20,680",
+      "text": "skills now my weapon damage is static"
+    },
+    {
+      "start_time": "00:03:17,959",
+      "end_time": "00:03:24,000",
+      "text": "and it adds to those SLS and that two"
+    },
+    {
+      "start_time": "00:03:20,680",
+      "end_time": "00:03:27,040",
+      "text": "hit roll tells you a lot it tells you"
+    },
+    {
+      "start_time": "00:03:24,000",
+      "end_time": "00:03:29,799",
+      "text": "did I hit it tells you how badly did I"
+    },
+    {
+      "start_time": "00:03:27,040",
+      "end_time": "00:03:31,640",
+      "text": "hit it tells me where did I hit and it"
+    },
+    {
+      "start_time": "00:03:29,799",
+      "end_time": "00:03:34,000",
+      "text": "tells me what kind of combat Maneuvers"
+    },
+    {
+      "start_time": "00:03:31,640",
+      "end_time": "00:03:35,439",
+      "text": "can I perform on that hit so if I hit"
+    },
+    {
+      "start_time": "00:03:34,000",
+      "end_time": "00:03:38,360",
+      "text": "you I already know how the damage is"
+    },
+    {
+      "start_time": "00:03:35,439",
+      "end_time": "00:03:40,959",
+      "text": "done right my sl's plus my weapon damage"
+    },
+    {
+      "start_time": "00:03:38,360",
+      "end_time": "00:03:42,000",
+      "text": "minus the armor in the location that"
+    },
+    {
+      "start_time": "00:03:40,959",
+      "end_time": "00:03:43,799",
+      "text": "I've hit but how do you know the"
+    },
+    {
+      "start_time": "00:03:42,000",
+      "end_time": "00:03:45,560",
+      "text": "location there are no extra charts or"
+    },
+    {
+      "start_time": "00:03:43,799",
+      "end_time": "00:03:47,159",
+      "text": "tables in this I mean there's one very"
+    },
+    {
+      "start_time": "00:03:45,560",
+      "end_time": "00:03:48,280",
+      "text": "simple hit location table but it's right"
+    },
+    {
+      "start_time": "00:03:47,159",
+      "end_time": "00:03:51,439",
+      "text": "in your character sheet and it's dead"
+    },
+    {
+      "start_time": "00:03:48,280",
+      "end_time": "00:03:53,799",
+      "text": "simple the ones die of your role"
+    },
+    {
+      "start_time": "00:03:51,439",
+      "end_time": "00:03:56,560",
+      "text": "determines the hit location so when I"
+    },
+    {
+      "start_time": "00:03:53,799",
+      "end_time": "00:03:59,040",
+      "text": "roll I compar mine to yours and I know"
+    },
+    {
+      "start_time": "00:03:56,560",
+      "end_time": "00:04:00,959",
+      "text": "did I hit you did I succeed how many SLS"
+    },
+    {
+      "start_time": "00:03:59,040",
+      "end_time": "00:04:02,840",
+      "text": "net did I get yet what's the damage I'm"
+    },
+    {
+      "start_time": "00:04:00,959",
+      "end_time": "00:04:04,480",
+      "text": "doing where am I doing that damage then"
+    },
+    {
+      "start_time": "00:04:02,840",
+      "end_time": "00:04:06,079",
+      "text": "I compare that damage to any armor you"
+    },
+    {
+      "start_time": "00:04:04,480",
+      "end_time": "00:04:08,000",
+      "text": "might have and whatever's left over"
+    },
+    {
+      "start_time": "00:04:06,079",
+      "end_time": "00:04:09,599",
+      "text": "becomes a wound and at that moment you"
+    },
+    {
+      "start_time": "00:04:08,000",
+      "end_time": "00:04:11,760",
+      "text": "have to make a wound die roll which"
+    },
+    {
+      "start_time": "00:04:09,599",
+      "end_time": "00:04:13,159",
+      "text": "could be modified by your toughness and"
+    },
+    {
+      "start_time": "00:04:11,760",
+      "end_time": "00:04:15,120",
+      "text": "if that wound die roll fails then that"
+    },
+    {
+      "start_time": "00:04:13,159",
+      "end_time": "00:04:16,359",
+      "text": "location is incapacitated so it doesn't"
+    },
+    {
+      "start_time": "00:04:15,120",
+      "end_time": "00:04:18,120",
+      "text": "necessarily mean that people are going"
+    },
+    {
+      "start_time": "00:04:16,359",
+      "end_time": "00:04:20,359",
+      "text": "to die all the time but it does mean"
+    },
+    {
+      "start_time": "00:04:18,120",
+      "end_time": "00:04:23,360",
+      "text": "that fights can be over quick with a"
+    },
+    {
+      "start_time": "00:04:20,359",
+      "end_time": "00:04:24,880",
+      "text": "solid definitive blow okay so this is"
+    },
+    {
+      "start_time": "00:04:23,360",
+      "end_time": "00:04:26,639",
+      "text": "just the basics I'm giving you the quick"
+    },
+    {
+      "start_time": "00:04:24,880",
+      "end_time": "00:04:28,280",
+      "text": "Basics over this uh and those of you"
+    },
+    {
+      "start_time": "00:04:26,639",
+      "end_time": "00:04:29,880",
+      "text": "who've been watching season 4 of Me"
+    },
+    {
+      "start_time": "00:04:28,280",
+      "end_time": "00:04:32,320",
+      "text": "Myself and I you will you will already"
+    },
+    {
+      "start_time": "00:04:29,880",
+      "end_time": "00:04:35,600",
+      "text": "be familiar with all of this stuff but"
+    },
+    {
+      "start_time": "00:04:32,320",
+      "end_time": "00:04:38,320",
+      "text": "that is essentially how that works now I"
+    },
+    {
+      "start_time": "00:04:35,600",
+      "end_time": "00:04:40,400",
+      "text": "can also use my success levels on combat"
+    },
+    {
+      "start_time": "00:04:38,320",
+      "end_time": "00:04:41,919",
+      "text": "Maneuvers and combat Maneuvers are all"
+    },
+    {
+      "start_time": "00:04:40,400",
+      "end_time": "00:04:43,600",
+      "text": "kinds of things they might knock you"
+    },
+    {
+      "start_time": "00:04:41,919",
+      "end_time": "00:04:45,360",
+      "text": "prone they might knock the weapon out of"
+    },
+    {
+      "start_time": "00:04:43,600",
+      "end_time": "00:04:48,440",
+      "text": "your hand they might compel you to"
+    },
+    {
+      "start_time": "00:04:45,360",
+      "end_time": "00:04:52,600",
+      "text": "surrender they might unbalance you to"
+    },
+    {
+      "start_time": "00:04:48,440",
+      "end_time": "00:04:54,880",
+      "text": "give you a a penalty on your next action"
+    },
+    {
+      "start_time": "00:04:52,600",
+      "end_time": "00:04:56,520",
+      "text": "um if it's a defensive maneuver I might"
+    },
+    {
+      "start_time": "00:04:54,880",
+      "end_time": "00:04:58,479",
+      "text": "be able to do a repost or I might be"
+    },
+    {
+      "start_time": "00:04:56,520",
+      "end_time": "00:05:00,960",
+      "text": "able to disengage from you if I succeed"
+    },
+    {
+      "start_time": "00:04:58,479",
+      "end_time": "00:05:03,160",
+      "text": "really really well the these combat"
+    },
+    {
+      "start_time": "00:05:00,960",
+      "end_time": "00:05:05,440",
+      "text": "Maneuvers are based on the quality of"
+    },
+    {
+      "start_time": "00:05:03,160",
+      "end_time": "00:05:07,199",
+      "text": "your outcome so if you've got three SLS"
+    },
+    {
+      "start_time": "00:05:05,440",
+      "end_time": "00:05:08,840",
+      "text": "that means you can pick any two combat"
+    },
+    {
+      "start_time": "00:05:07,199",
+      "end_time": "00:05:10,840",
+      "text": "Maneuvers as long as each one of those"
+    },
+    {
+      "start_time": "00:05:08,840",
+      "end_time": "00:05:12,199",
+      "text": "is three or less that's how that works"
+    },
+    {
+      "start_time": "00:05:10,840",
+      "end_time": "00:05:13,759",
+      "text": "and most of the time there's no"
+    },
+    {
+      "start_time": "00:05:12,199",
+      "end_time": "00:05:17,080",
+      "text": "resistance to these like if I hit you in"
+    },
+    {
+      "start_time": "00:05:13,759",
+      "end_time": "00:05:19,000",
+      "text": "the leg and I do a prone combat maneuver"
+    },
+    {
+      "start_time": "00:05:17,080",
+      "end_time": "00:05:20,479",
+      "text": "which is based on my weapon by the way"
+    },
+    {
+      "start_time": "00:05:19,000",
+      "end_time": "00:05:22,639",
+      "text": "the type of weapon I use is going to"
+    },
+    {
+      "start_time": "00:05:20,479",
+      "end_time": "00:05:25,080",
+      "text": "determine the ease or difficulty of"
+    },
+    {
+      "start_time": "00:05:22,639",
+      "end_time": "00:05:27,199",
+      "text": "those Maneuvers in most cases so if I do"
+    },
+    {
+      "start_time": "00:05:25,080",
+      "end_time": "00:05:29,960",
+      "text": "manage to knock you prone if I spend my"
+    },
+    {
+      "start_time": "00:05:27,199",
+      "end_time": "00:05:31,080",
+      "text": "successful hit against you and I use"
+    },
+    {
+      "start_time": "00:05:29,960",
+      "end_time": "00:05:33,080",
+      "text": "that combat maneuver to knock your"
+    },
+    {
+      "start_time": "00:05:31,080",
+      "end_time": "00:05:35,319",
+      "text": "you're going down boom you're not prone"
+    },
+    {
+      "start_time": "00:05:33,080",
+      "end_time": "00:05:37,520",
+      "text": "now yes you can have a specialty or a"
+    },
+    {
+      "start_time": "00:05:35,319",
+      "end_time": "00:05:38,919",
+      "text": "talent that allows you a resistance"
+    },
+    {
+      "start_time": "00:05:37,520",
+      "end_time": "00:05:41,759",
+      "text": "against such things but that's more"
+    },
+    {
+      "start_time": "00:05:38,919",
+      "end_time": "00:05:43,440",
+      "text": "character creation and less combat so uh"
+    },
+    {
+      "start_time": "00:05:41,759",
+      "end_time": "00:05:45,759",
+      "text": "that's essentially how it works wounds"
+    },
+    {
+      "start_time": "00:05:43,440",
+      "end_time": "00:05:48,080",
+      "text": "are a whole separate thing wounds can"
+    },
+    {
+      "start_time": "00:05:45,759",
+      "end_time": "00:05:50,800",
+      "text": "kill you uh if you get wounds Over The"
+    },
+    {
+      "start_time": "00:05:48,080",
+      "end_time": "00:05:51,960",
+      "text": "lethality level of a hit location uh"
+    },
+    {
+      "start_time": "00:05:50,800",
+      "end_time": "00:05:53,720",
+      "text": "that's when you might have to start"
+    },
+    {
+      "start_time": "00:05:51,960",
+      "end_time": "00:05:56,000",
+      "text": "rolling the death die and that's when"
+    },
+    {
+      "start_time": "00:05:53,720",
+      "end_time": "00:05:57,560",
+      "text": "things get really nasty wounds can also"
+    },
+    {
+      "start_time": "00:05:56,000",
+      "end_time": "00:05:59,240",
+      "text": "become infected and that's when you have"
+    },
+    {
+      "start_time": "00:05:57,560",
+      "end_time": "00:06:01,440",
+      "text": "to roll the infection die that can be"
+    },
+    {
+      "start_time": "00:05:59,240",
+      "end_time": "00:06:03,520",
+      "text": "really Nast nasty uh infection can kill"
+    },
+    {
+      "start_time": "00:06:01,440",
+      "end_time": "00:06:05,400",
+      "text": "you especially on the road so you have"
+    },
+    {
+      "start_time": "00:06:03,520",
+      "end_time": "00:06:07,599",
+      "text": "to be careful having a a decent healer"
+    },
+    {
+      "start_time": "00:06:05,400",
+      "end_time": "00:06:10,000",
+      "text": "in your party isoo very very important"
+    },
+    {
+      "start_time": "00:06:07,599",
+      "end_time": "00:06:11,240",
+      "text": "notice I said healer and not cleric"
+    },
+    {
+      "start_time": "00:06:10,000",
+      "end_time": "00:06:14,479",
+      "text": "clerics do exist in the game they're"
+    },
+    {
+      "start_time": "00:06:11,240",
+      "end_time": "00:06:15,840",
+      "text": "called godbound but all you need is like"
+    },
+    {
+      "start_time": "00:06:14,479",
+      "end_time": "00:06:18,479",
+      "text": "a physician someone who's really good at"
+    },
+    {
+      "start_time": "00:06:15,840",
+      "end_time": "00:06:21,160",
+      "text": "the heal skill uh they should be able to"
+    },
+    {
+      "start_time": "00:06:18,479",
+      "end_time": "00:06:24,520",
+      "text": "to help you not to die from Gang Green"
+    },
+    {
+      "start_time": "00:06:21,160",
+      "end_time": "00:06:27,000",
+      "text": "and various related illnesses like that"
+    },
+    {
+      "start_time": "00:06:24,520",
+      "end_time": "00:06:29,160",
+      "text": "um but yeah the the combat system is"
+    },
+    {
+      "start_time": "00:06:27,000",
+      "end_time": "00:06:30,639",
+      "text": "robust but it moves quickly this is this"
+    },
+    {
+      "start_time": "00:06:29,160",
+      "end_time": "00:06:32,199",
+      "text": "is really really the heart of what I'm"
+    },
+    {
+      "start_time": "00:06:30,639",
+      "end_time": "00:06:34,000",
+      "text": "talking about when I talk about Sim"
+    },
+    {
+      "start_time": "00:06:32,199",
+      "end_time": "00:06:36,199",
+      "text": "light simulation light it is a"
+    },
+    {
+      "start_time": "00:06:34,000",
+      "end_time": "00:06:39,520",
+      "text": "simulationist game in that it represents"
+    },
+    {
+      "start_time": "00:06:36,199",
+      "end_time": "00:06:41,880",
+      "text": "every blow every Parry every wound that"
+    },
+    {
+      "start_time": "00:06:39,520",
+      "end_time": "00:06:45,199",
+      "text": "is that is struck and and achieved on an"
+    },
+    {
+      "start_time": "00:06:41,880",
+      "end_time": "00:06:47,479",
+      "text": "opponent but it's light in that we don't"
+    },
+    {
+      "start_time": "00:06:45,199",
+      "end_time": "00:06:49,080",
+      "text": "bog down the uh the the combat with so"
+    },
+    {
+      "start_time": "00:06:47,479",
+      "end_time": "00:06:52,160",
+      "text": "many details that it takes forever to"
+    },
+    {
+      "start_time": "00:06:49,080",
+      "end_time": "00:06:54,360",
+      "text": "get through it so a combat Exchange in"
+    },
+    {
+      "start_time": "00:06:52,160",
+      "end_time": "00:06:56,080",
+      "text": "the game is really two roles you don't"
+    },
+    {
+      "start_time": "00:06:54,360",
+      "end_time": "00:06:58,800",
+      "text": "roll for damage you don't roll for hit"
+    },
+    {
+      "start_time": "00:06:56,080",
+      "end_time": "00:07:01,000",
+      "text": "location that's all contained in the"
+    },
+    {
+      "start_time": "00:06:58,800",
+      "end_time": "00:07:03,440",
+      "text": "attack roll into their defense Ro so"
+    },
+    {
+      "start_time": "00:07:01,000",
+      "end_time": "00:07:05,560",
+      "text": "things move a lot quicker and the"
+    },
+    {
+      "start_time": "00:07:03,440",
+      "end_time": "00:07:07,440",
+      "text": "consequences for being hit have an"
+    },
+    {
+      "start_time": "00:07:05,560",
+      "end_time": "00:07:09,080",
+      "text": "immediate effect this isn't just I do"
+    },
+    {
+      "start_time": "00:07:07,440",
+      "end_time": "00:07:10,840",
+      "text": "hit points hit points hit points you're"
+    },
+    {
+      "start_time": "00:07:09,080",
+      "end_time": "00:07:13,879",
+      "text": "fine you're fine you're fine you're dead"
+    },
+    {
+      "start_time": "00:07:10,840",
+      "end_time": "00:07:15,800",
+      "text": "that's not at all how this game works um"
+    },
+    {
+      "start_time": "00:07:13,879",
+      "end_time": "00:07:17,400",
+      "text": "so you can you can lose a fight without"
+    },
+    {
+      "start_time": "00:07:15,800",
+      "end_time": "00:07:19,199",
+      "text": "being killed and I think that's really"
+    },
+    {
+      "start_time": "00:07:17,400",
+      "end_time": "00:07:21,680",
+      "text": "important because that allows so many"
+    },
+    {
+      "start_time": "00:07:19,199",
+      "end_time": "00:07:23,639",
+      "text": "more tactical options for the players to"
+    },
+    {
+      "start_time": "00:07:21,680",
+      "end_time": "00:07:25,520",
+      "text": "deal with an opponent because sometimes"
+    },
+    {
+      "start_time": "00:07:23,639",
+      "end_time": "00:07:28,080",
+      "text": "what if you don't want to kill the enemy"
+    },
+    {
+      "start_time": "00:07:25,520",
+      "end_time": "00:07:30,639",
+      "text": "for all kinds of reasons well this game"
+    },
+    {
+      "start_time": "00:07:28,080",
+      "end_time": "00:07:32,400",
+      "text": "gives you very specific options that"
+    },
+    {
+      "start_time": "00:07:30,639",
+      "end_time": "00:07:34,319",
+      "text": "anybody can do you know you don't have"
+    },
+    {
+      "start_time": "00:07:32,400",
+      "end_time": "00:07:36,520",
+      "text": "to have some special ability to do it"
+    },
+    {
+      "start_time": "00:07:34,319",
+      "end_time": "00:07:39,560",
+      "text": "anybody can do it as long as you have"
+    },
+    {
+      "start_time": "00:07:36,520",
+      "end_time": "00:07:40,800",
+      "text": "the skill and the dice rolls to uh make"
+    },
+    {
+      "start_time": "00:07:39,560",
+      "end_time": "00:07:43,039",
+      "text": "that happen now there are critical"
+    },
+    {
+      "start_time": "00:07:40,800",
+      "end_time": "00:07:44,759",
+      "text": "results and critical failures that's"
+    },
+    {
+      "start_time": "00:07:43,039",
+      "end_time": "00:07:46,039",
+      "text": "just basically if you roll doubles under"
+    },
+    {
+      "start_time": "00:07:44,759",
+      "end_time": "00:07:48,280",
+      "text": "or doubles over that's going to be a"
+    },
+    {
+      "start_time": "00:07:46,039",
+      "end_time": "00:07:49,840",
+      "text": "critical result uh also if you roll your"
+    },
+    {
+      "start_time": "00:07:48,280",
+      "end_time": "00:07:51,840",
+      "text": "skill exactly that's a critical result"
+    },
+    {
+      "start_time": "00:07:49,840",
+      "end_time": "00:07:53,720",
+      "text": "the critical success uh but they're not"
+    },
+    {
+      "start_time": "00:07:51,840",
+      "end_time": "00:07:55,199",
+      "text": "instawin buttons they don't immediately"
+    },
+    {
+      "start_time": "00:07:53,720",
+      "end_time": "00:07:56,720",
+      "text": "mean that you win or lose it just means"
+    },
+    {
+      "start_time": "00:07:55,199",
+      "end_time": "00:07:58,039",
+      "text": "that you gain plus three success levels"
+    },
+    {
+      "start_time": "00:07:56,720",
+      "end_time": "00:08:00,440",
+      "text": "which doesn't sound like a lot but"
+    },
+    {
+      "start_time": "00:07:58,039",
+      "end_time": "00:08:02,800",
+      "text": "believe me that actually that can really"
+    },
+    {
+      "start_time": "00:08:00,440",
+      "end_time": "00:08:04,479",
+      "text": "change the the course of a battle so a"
+    },
+    {
+      "start_time": "00:08:02,800",
+      "end_time": "00:08:06,720",
+      "text": "critical result is important but it's"
+    },
+    {
+      "start_time": "00:08:04,479",
+      "end_time": "00:08:09,680",
+      "text": "not like oh my God I I I got a critical"
+    },
+    {
+      "start_time": "00:08:06,720",
+      "end_time": "00:08:10,840",
+      "text": "now I immediately win the world right so"
+    },
+    {
+      "start_time": "00:08:09,680",
+      "end_time": "00:08:12,759",
+      "text": "there's all kinds of other little"
+    },
+    {
+      "start_time": "00:08:10,840",
+      "end_time": "00:08:15,680",
+      "text": "details in here like attacking a prone"
+    },
+    {
+      "start_time": "00:08:12,759",
+      "end_time": "00:08:17,720",
+      "text": "opponent or reach weapons reach is"
+    },
+    {
+      "start_time": "00:08:15,680",
+      "end_time": "00:08:19,520",
+      "text": "accommodated for in this system but it's"
+    },
+    {
+      "start_time": "00:08:17,720",
+      "end_time": "00:08:21,960",
+      "text": "very very simple and I really like how"
+    },
+    {
+      "start_time": "00:08:19,520",
+      "end_time": "00:08:23,319",
+      "text": "it works uh basically if you have if"
+    },
+    {
+      "start_time": "00:08:21,960",
+      "end_time": "00:08:25,560",
+      "text": "you're if you're charging someone with"
+    },
+    {
+      "start_time": "00:08:23,319",
+      "end_time": "00:08:27,919",
+      "text": "reach on you um they're going to get a"
+    },
+    {
+      "start_time": "00:08:25,560",
+      "end_time": "00:08:29,879",
+      "text": "bonus based on the reach score of that"
+    },
+    {
+      "start_time": "00:08:27,919",
+      "end_time": "00:08:31,199",
+      "text": "weapon but they also get a free attack"
+    },
+    {
+      "start_time": "00:08:29,879",
+      "end_time": "00:08:32,519",
+      "text": "if you're charging them you don't have"
+    },
+    {
+      "start_time": "00:08:31,199",
+      "end_time": "00:08:34,080",
+      "text": "to charge someone to attack them you can"
+    },
+    {
+      "start_time": "00:08:32,519",
+      "end_time": "00:08:35,640",
+      "text": "move in and attack but then you forfeit"
+    },
+    {
+      "start_time": "00:08:34,080",
+      "end_time": "00:08:37,200",
+      "text": "that extra bonus you get from the charge"
+    },
+    {
+      "start_time": "00:08:35,640",
+      "end_time": "00:08:39,039",
+      "text": "so there's all kinds of little tactical"
+    },
+    {
+      "start_time": "00:08:37,200",
+      "end_time": "00:08:40,919",
+      "text": "things you can do in order to maximize"
+    },
+    {
+      "start_time": "00:08:39,039",
+      "end_time": "00:08:42,919",
+      "text": "your chances of survival in terms of"
+    },
+    {
+      "start_time": "00:08:40,919",
+      "end_time": "00:08:46,080",
+      "text": "weapons and armor weapons all have their"
+    },
+    {
+      "start_time": "00:08:42,919",
+      "end_time": "00:08:48,279",
+      "text": "own things they can do um so there's a"
+    },
+    {
+      "start_time": "00:08:46,080",
+      "end_time": "00:08:50,279",
+      "text": "bit of weapon porn going on uh armor"
+    },
+    {
+      "start_time": "00:08:48,279",
+      "end_time": "00:08:52,000",
+      "text": "mitigates damage per location so if I"
+    },
+    {
+      "start_time": "00:08:50,279",
+      "end_time": "00:08:53,240",
+      "text": "get hit in the left arm for five damage"
+    },
+    {
+      "start_time": "00:08:52,000",
+      "end_time": "00:08:55,880",
+      "text": "but I have three armor points I'm going"
+    },
+    {
+      "start_time": "00:08:53,240",
+      "end_time": "00:08:57,680",
+      "text": "to take a two-point wound in that arm uh"
+    },
+    {
+      "start_time": "00:08:55,880",
+      "end_time": "00:08:59,440",
+      "text": "you can use you can actually Sunder the"
+    },
+    {
+      "start_time": "00:08:57,680",
+      "end_time": "00:09:01,880",
+      "text": "armor you can you can actually have your"
+    },
+    {
+      "start_time": "00:08:59,440",
+      "end_time": "00:09:03,640",
+      "text": "armor shatter uh to avoid a wound but"
+    },
+    {
+      "start_time": "00:09:01,880",
+      "end_time": "00:09:04,959",
+      "text": "then the armor is destroyed that's very"
+    },
+    {
+      "start_time": "00:09:03,640",
+      "end_time": "00:09:05,800",
+      "text": "much inspired by the one ring as well"
+    },
+    {
+      "start_time": "00:09:04,959",
+      "end_time": "00:09:07,880",
+      "text": "you can do the same thing with the"
+    },
+    {
+      "start_time": "00:09:05,800",
+      "end_time": "00:09:09,160",
+      "text": "shield um you can split the shield if"
+    },
+    {
+      "start_time": "00:09:07,880",
+      "end_time": "00:09:10,600",
+      "text": "you want but of course that's a one-off"
+    },
+    {
+      "start_time": "00:09:09,160",
+      "end_time": "00:09:12,200",
+      "text": "thing once it's gone it's gone and it"
+    },
+    {
+      "start_time": "00:09:10,600",
+      "end_time": "00:09:13,720",
+      "text": "simulates destroying the shield and and"
+    },
+    {
+      "start_time": "00:09:12,200",
+      "end_time": "00:09:15,480",
+      "text": "damaging armor without having to track a"
+    },
+    {
+      "start_time": "00:09:13,720",
+      "end_time": "00:09:16,680",
+      "text": "bunch of armor hit points and things"
+    },
+    {
+      "start_time": "00:09:15,480",
+      "end_time": "00:09:18,640",
+      "text": "like that which are just really niggly"
+    },
+    {
+      "start_time": "00:09:16,680",
+      "end_time": "00:09:20,279",
+      "text": "and I don't really like doing that stuff"
+    },
+    {
+      "start_time": "00:09:18,640",
+      "end_time": "00:09:22,240",
+      "text": "armor and shields obviously encumber you"
+    },
+    {
+      "start_time": "00:09:20,279",
+      "end_time": "00:09:24,760",
+      "text": "and encumbrance eats into your total"
+    },
+    {
+      "start_time": "00:09:22,240",
+      "end_time": "00:09:27,240",
+      "text": "resolve which is your ability to"
+    },
+    {
+      "start_time": "00:09:24,760",
+      "end_time": "00:09:28,720",
+      "text": "mitigate your roles with uh extra"
+    },
+    {
+      "start_time": "00:09:27,240",
+      "end_time": "00:09:30,440",
+      "text": "bonuses and things so you don't want"
+    },
+    {
+      "start_time": "00:09:28,720",
+      "end_time": "00:09:31,720",
+      "text": "that res is crucial for a spellcaster"
+    },
+    {
+      "start_time": "00:09:30,440",
+      "end_time": "00:09:33,440",
+      "text": "but we're not of course talking about"
+    },
+    {
+      "start_time": "00:09:31,720",
+      "end_time": "00:09:36,040",
+      "text": "spellcasting cuz that will be another"
+    },
+    {
+      "start_time": "00:09:33,440",
+      "end_time": "00:09:37,480",
+      "text": "video which is forthcoming so that's a"
+    },
+    {
+      "start_time": "00:09:36,040",
+      "end_time": "00:09:38,760",
+      "text": "little taste of combat that's how it"
+    },
+    {
+      "start_time": "00:09:37,480",
+      "end_time": "00:09:40,160",
+      "text": "works again if you want to see it on"
+    },
+    {
+      "start_time": "00:09:38,760",
+      "end_time": "00:09:42,320",
+      "text": "action you can watch really some of the"
+    },
+    {
+      "start_time": "00:09:40,160",
+      "end_time": "00:09:44,600",
+      "text": "later episodes of season 4 on Me Myself"
+    },
+    {
+      "start_time": "00:09:42,320",
+      "end_time": "00:09:46,399",
+      "text": "and die uh because the first the first"
+    },
+    {
+      "start_time": "00:09:44,600",
+      "end_time": "00:09:48,200",
+      "text": "episode I'm still using a phase system"
+    },
+    {
+      "start_time": "00:09:46,399",
+      "end_time": "00:09:49,680",
+      "text": "which I was playing with and while phase"
+    },
+    {
+      "start_time": "00:09:48,200",
+      "end_time": "00:09:51,680",
+      "text": "systems work perfectly fine I just"
+    },
+    {
+      "start_time": "00:09:49,680",
+      "end_time": "00:09:53,519",
+      "text": "didn't it didn't do much for me in this"
+    },
+    {
+      "start_time": "00:09:51,680",
+      "end_time": "00:09:55,880",
+      "text": "particular case so I decided to go to a"
+    },
+    {
+      "start_time": "00:09:53,519",
+      "end_time": "00:09:58,120",
+      "text": "a more traditional initiative system"
+    },
+    {
+      "start_time": "00:09:55,880",
+      "end_time": "00:09:59,720",
+      "text": "although it is still unique right uh you"
+    },
+    {
+      "start_time": "00:09:58,120",
+      "end_time": "00:10:02,279",
+      "text": "still roll your die type again the"
+    },
+    {
+      "start_time": "00:09:59,720",
+      "end_time": "00:10:03,480",
+      "text": "static enemy initiative so uh I'm not"
+    },
+    {
+      "start_time": "00:10:02,279",
+      "end_time": "00:10:04,680",
+      "text": "trying to reinvent the wheel with this"
+    },
+    {
+      "start_time": "00:10:03,480",
+      "end_time": "00:10:05,760",
+      "text": "game but you know there are some"
+    },
+    {
+      "start_time": "00:10:04,680",
+      "end_time": "00:10:07,440",
+      "text": "interesting unique things that have come"
+    },
+    {
+      "start_time": "00:10:05,760",
+      "end_time": "00:10:09,120",
+      "text": "out of it so it's pretty cool anyway so"
+    },
+    {
+      "start_time": "00:10:07,440",
+      "end_time": "00:10:11,240",
+      "text": "that's a little taste of combat and uh I"
+    },
+    {
+      "start_time": "00:10:09,120",
+      "end_time": "00:10:13,640",
+      "text": "will see you next time on the next uh"
+    },
+    {
+      "start_time": "00:10:11,240",
+      "end_time": "00:10:16,279",
+      "text": "video thanks for joining me chiao van"
+    },
+    {
+      "start_time": "00:10:13,640",
+      "end_time": "00:10:16,279",
+      "text": "now"
+    }
+  ],
+  "full_text": "hey guys welcome back to the Channel I\nwant to talk to you today about the\ncombat system in the broken Empires role\nplaying game so combat in this game is\ndangerous and definitive but not\nnecessarily lethal when I swing a sword\nat you and I connect and I do a wound to\nyou that's not abstracted away in hit\npoints that wound has a very specific\neffect and it has immediate\nrepercussions which could change the\nTactical outcome of that situation right\nso I'm not going to get into all the\nweeds about how combat work works but\nfor those of you who've been keeping\ntrack of things you'll know that in this\ngame you roll percental obviously and\nyou want it's blackjacks you want to\nroll under your skill but high and that\ntens die of your role counts as your\nsuccess levels it can be modified by\nother things but that's the base so if\nmy skill is 50 and I roll a 42 I've\nsucceeded because I rolled under and\nI've succeeded with four success levels\nor SLS because I rolled that four now my\nattack role is going to be mitigated by\nthe defender's role okay so the defense\nis going to reduce the quality of my\nattack but we'll get to that first of\nall yes there's surprise in this game\nand yes if you attack with surprise that\nis really good there's a lot of\nadvantages to doing that uh there is an\ninitiative system it is round by round\nthe initiative system is based on a die\ntype the players have a die type that\nranges between D4 and D12 and they roll\nthat against an enemy static initiative\nand if there are several players who go\nall before an enemy then it doesn't\nmatter what specific order they're in so\nfor example if there's three players and\nan enemy okay and the enemy static\ninitiative is four let's say so one\nplayer rolls a seven another one rolls a\nsix and another one rolls a one okay\nwell the guy who rolled the one he's\ngoing to be after the enemy because the\nenem is on four the ones who rolled the\nsixth and the Seven they're going to be\nbefore the enemy because the enem is on\nfour but which specific order they go in\nit's totally up to them so there might\nbe tactical reasoning for that right\nlike I I it's more important that you go\nfirst before I do and so you can you can\nmake that uh discussion initiative is\nrerolled every round but it's only one\ndie and it's it's very very quick\nbecause again the enemies do not roll\nthey have static initiative when you\ntake your turn you can basically do a\nmove and do a thing what is that thing\nany proactive action that could be an\nattack it could be rumaging through your\npack to produce a thing it could be\nreloading a bow a crossbow what whatever\nthe case is you can move one zone\nbecause yes there are zones in this game\nit's not a hex based game uh zones are\njust an abstracted area of whether or\nnot I'm close enough to hit the guy the\nenemy is essentially what it boils down\nto zones have descriptors though and\nthose descriptors can be used\ntechnically by the players if they\nchoose they don't have to spend any meta\npoints it's not like fate you don't have\nto pay a fate point to use a descriptor\nof a Zone it's just there you can take\nadvantage of it typically once per\nengagement but it depends on the\nsituation when you take your turn as I\nsaid you can move up to one zone and do\na thing that thing you do is very often\nan attack so an attack is rolling under\nyour skill but High because it is a\nblackjack system the opponent's defense\nmitigates yours so any net SLS you have\nuh is going to do damage right or is\ngoing to be a successful attack so if I\nrolled 42 and you rolled 12 I succeed\nwith three SLS okay providing we both\nrolled under our\nskills now my weapon damage is static\nand it adds to those SLS and that two\nhit roll tells you a lot it tells you\ndid I hit it tells you how badly did I\nhit it tells me where did I hit and it\ntells me what kind of combat Maneuvers\ncan I perform on that hit so if I hit\nyou I already know how the damage is\ndone right my sl's plus my weapon damage\nminus the armor in the location that\nI've hit but how do you know the\nlocation there are no extra charts or\ntables in this I mean there's one very\nsimple hit location table but it's right\nin your character sheet and it's dead\nsimple the ones die of your role\ndetermines the hit location so when I\nroll I compar mine to yours and I know\ndid I hit you did I succeed how many SLS\nnet did I get yet what's the damage I'm\ndoing where am I doing that damage then\nI compare that damage to any armor you\nmight have and whatever's left over\nbecomes a wound and at that moment you\nhave to make a wound die roll which\ncould be modified by your toughness and\nif that wound die roll fails then that\nlocation is incapacitated so it doesn't\nnecessarily mean that people are going\nto die all the time but it does mean\nthat fights can be over quick with a\nsolid definitive blow okay so this is\njust the basics I'm giving you the quick\nBasics over this uh and those of you\nwho've been watching season 4 of Me\nMyself and I you will you will already\nbe familiar with all of this stuff but\nthat is essentially how that works now I\ncan also use my success levels on combat\nManeuvers and combat Maneuvers are all\nkinds of things they might knock you\nprone they might knock the weapon out of\nyour hand they might compel you to\nsurrender they might unbalance you to\ngive you a a penalty on your next action\num if it's a defensive maneuver I might\nbe able to do a repost or I might be\nable to disengage from you if I succeed\nreally really well the these combat\nManeuvers are based on the quality of\nyour outcome so if you've got three SLS\nthat means you can pick any two combat\nManeuvers as long as each one of those\nis three or less that's how that works\nand most of the time there's no\nresistance to these like if I hit you in\nthe leg and I do a prone combat maneuver\nwhich is based on my weapon by the way\nthe type of weapon I use is going to\ndetermine the ease or difficulty of\nthose Maneuvers in most cases so if I do\nmanage to knock you prone if I spend my\nsuccessful hit against you and I use\nthat combat maneuver to knock your\nyou're going down boom you're not prone\nnow yes you can have a specialty or a\ntalent that allows you a resistance\nagainst such things but that's more\ncharacter creation and less combat so uh\nthat's essentially how it works wounds\nare a whole separate thing wounds can\nkill you uh if you get wounds Over The\nlethality level of a hit location uh\nthat's when you might have to start\nrolling the death die and that's when\nthings get really nasty wounds can also\nbecome infected and that's when you have\nto roll the infection die that can be\nreally Nast nasty uh infection can kill\nyou especially on the road so you have\nto be careful having a a decent healer\nin your party isoo very very important\nnotice I said healer and not cleric\nclerics do exist in the game they're\ncalled godbound but all you need is like\na physician someone who's really good at\nthe heal skill uh they should be able to\nto help you not to die from Gang Green\nand various related illnesses like that\num but yeah the the combat system is\nrobust but it moves quickly this is this\nis really really the heart of what I'm\ntalking about when I talk about Sim\nlight simulation light it is a\nsimulationist game in that it represents\nevery blow every Parry every wound that\nis that is struck and and achieved on an\nopponent but it's light in that we don't\nbog down the uh the the combat with so\nmany details that it takes forever to\nget through it so a combat Exchange in\nthe game is really two roles you don't\nroll for damage you don't roll for hit\nlocation that's all contained in the\nattack roll into their defense Ro so\nthings move a lot quicker and the\nconsequences for being hit have an\nimmediate effect this isn't just I do\nhit points hit points hit points you're\nfine you're fine you're fine you're dead\nthat's not at all how this game works um\nso you can you can lose a fight without\nbeing killed and I think that's really\nimportant because that allows so many\nmore tactical options for the players to\ndeal with an opponent because sometimes\nwhat if you don't want to kill the enemy\nfor all kinds of reasons well this game\ngives you very specific options that\nanybody can do you know you don't have\nto have some special ability to do it\nanybody can do it as long as you have\nthe skill and the dice rolls to uh make\nthat happen now there are critical\nresults and critical failures that's\njust basically if you roll doubles under\nor doubles over that's going to be a\ncritical result uh also if you roll your\nskill exactly that's a critical result\nthe critical success uh but they're not\ninstawin buttons they don't immediately\nmean that you win or lose it just means\nthat you gain plus three success levels\nwhich doesn't sound like a lot but\nbelieve me that actually that can really\nchange the the course of a battle so a\ncritical result is important but it's\nnot like oh my God I I I got a critical\nnow I immediately win the world right so\nthere's all kinds of other little\ndetails in here like attacking a prone\nopponent or reach weapons reach is\naccommodated for in this system but it's\nvery very simple and I really like how\nit works uh basically if you have if\nyou're if you're charging someone with\nreach on you um they're going to get a\nbonus based on the reach score of that\nweapon but they also get a free attack\nif you're charging them you don't have\nto charge someone to attack them you can\nmove in and attack but then you forfeit\nthat extra bonus you get from the charge\nso there's all kinds of little tactical\nthings you can do in order to maximize\nyour chances of survival in terms of\nweapons and armor weapons all have their\nown things they can do um so there's a\nbit of weapon porn going on uh armor\nmitigates damage per location so if I\nget hit in the left arm for five damage\nbut I have three armor points I'm going\nto take a two-point wound in that arm uh\nyou can use you can actually Sunder the\narmor you can you can actually have your\narmor shatter uh to avoid a wound but\nthen the armor is destroyed that's very\nmuch inspired by the one ring as well\nyou can do the same thing with the\nshield um you can split the shield if\nyou want but of course that's a one-off\nthing once it's gone it's gone and it\nsimulates destroying the shield and and\ndamaging armor without having to track a\nbunch of armor hit points and things\nlike that which are just really niggly\nand I don't really like doing that stuff\narmor and shields obviously encumber you\nand encumbrance eats into your total\nresolve which is your ability to\nmitigate your roles with uh extra\nbonuses and things so you don't want\nthat res is crucial for a spellcaster\nbut we're not of course talking about\nspellcasting cuz that will be another\nvideo which is forthcoming so that's a\nlittle taste of combat that's how it\nworks again if you want to see it on\naction you can watch really some of the\nlater episodes of season 4 on Me Myself\nand die uh because the first the first\nepisode I'm still using a phase system\nwhich I was playing with and while phase\nsystems work perfectly fine I just\ndidn't it didn't do much for me in this\nparticular case so I decided to go to a\na more traditional initiative system\nalthough it is still unique right uh you\nstill roll your die type again the\nstatic enemy initiative so uh I'm not\ntrying to reinvent the wheel with this\ngame but you know there are some\ninteresting unique things that have come\nout of it so it's pretty cool anyway so\nthat's a little taste of combat and uh I\nwill see you next time on the next uh\nvideo thanks for joining me chiao van\nnow\n"
+}

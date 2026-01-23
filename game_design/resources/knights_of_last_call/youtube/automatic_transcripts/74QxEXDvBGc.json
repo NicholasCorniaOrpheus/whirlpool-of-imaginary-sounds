@@ -1,0 +1,3810 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,080",
+      "end_time": "00:00:06,960",
+      "text": "today on the night life combat and"
+    },
+    {
+      "start_time": "00:00:02,639",
+      "end_time": "00:00:06,960",
+      "text": "tactics volume three"
+    },
+    {
+      "start_time": "00:00:08,000",
+      "end_time": "00:00:13,120",
+      "text": "welcome back everyone to another episode"
+    },
+    {
+      "start_time": "00:00:10,160",
+      "end_time": "00:00:15,200",
+      "text": "of the nightlife i am derek melenda"
+    },
+    {
+      "start_time": "00:00:13,120",
+      "end_time": "00:00:18,080",
+      "text": "joined by just a couple members of the"
+    },
+    {
+      "start_time": "00:00:15,200",
+      "end_time": "00:00:19,439",
+      "text": "knights tonight we've got bob yep i'm"
+    },
+    {
+      "start_time": "00:00:18,080",
+      "end_time": "00:00:22,400",
+      "text": "here i made it"
+    },
+    {
+      "start_time": "00:00:19,439",
+      "end_time": "00:00:25,199",
+      "text": "you did i did nick how you doing"
+    },
+    {
+      "start_time": "00:00:22,400",
+      "end_time": "00:00:26,640",
+      "text": "all right i'm doing all right how are uh"
+    },
+    {
+      "start_time": "00:00:25,199",
+      "end_time": "00:00:28,800",
+      "text": "how's the car"
+    },
+    {
+      "start_time": "00:00:26,640",
+      "end_time": "00:00:30,800",
+      "text": "in one piece and up and operational now"
+    },
+    {
+      "start_time": "00:00:28,800",
+      "end_time": "00:00:33,200",
+      "text": "so we're having fun with it again that's"
+    },
+    {
+      "start_time": "00:00:30,800",
+      "end_time": "00:00:35,120",
+      "text": "great please continue to comment like"
+    },
+    {
+      "start_time": "00:00:33,200",
+      "end_time": "00:00:36,880",
+      "text": "and subscribe to this video if you want"
+    },
+    {
+      "start_time": "00:00:35,120",
+      "end_time": "00:00:38,480",
+      "text": "to see more from us we've really been"
+    },
+    {
+      "start_time": "00:00:36,880",
+      "end_time": "00:00:40,160",
+      "text": "enjoying getting to know the community"
+    },
+    {
+      "start_time": "00:00:38,480",
+      "end_time": "00:00:42,239",
+      "text": "better there's some of you that comment"
+    },
+    {
+      "start_time": "00:00:40,160",
+      "end_time": "00:00:44,399",
+      "text": "on seemingly most of our videos and i"
+    },
+    {
+      "start_time": "00:00:42,239",
+      "end_time": "00:00:45,760",
+      "text": "love it and of course we have some of"
+    },
+    {
+      "start_time": "00:00:44,399",
+      "end_time": "00:00:48,640",
+      "text": "you who have gone ahead and taken that"
+    },
+    {
+      "start_time": "00:00:45,760",
+      "end_time": "00:00:50,800",
+      "text": "extra step and joined our patreon"
+    },
+    {
+      "start_time": "00:00:48,640",
+      "end_time": "00:00:52,960",
+      "text": "a lot of thanks to that the link is down"
+    },
+    {
+      "start_time": "00:00:50,800",
+      "end_time": "00:00:54,719",
+      "text": "below we've got an exciting discord"
+    },
+    {
+      "start_time": "00:00:52,960",
+      "end_time": "00:00:56,320",
+      "text": "going on we've got some future things"
+    },
+    {
+      "start_time": "00:00:54,719",
+      "end_time": "00:00:57,360",
+      "text": "planned we're thinking about starting to"
+    },
+    {
+      "start_time": "00:00:56,320",
+      "end_time": "00:00:59,520",
+      "text": "make some"
+    },
+    {
+      "start_time": "00:00:57,360",
+      "end_time": "00:01:01,520",
+      "text": "pathfinder two content the discord is"
+    },
+    {
+      "start_time": "00:00:59,520",
+      "end_time": "00:01:04,879",
+      "text": "hot right now oh it is it takes up way"
+    },
+    {
+      "start_time": "00:01:01,520",
+      "end_time": "00:01:06,799",
+      "text": "too much of my time it is like"
+    },
+    {
+      "start_time": "00:01:04,879",
+      "end_time": "00:01:09,040",
+      "text": "but uh you know we really want to figure"
+    },
+    {
+      "start_time": "00:01:06,799",
+      "end_time": "00:01:11,119",
+      "text": "out what we can do for the community who"
+    },
+    {
+      "start_time": "00:01:09,040",
+      "end_time": "00:01:12,880",
+      "text": "uh are supporting us and if that means"
+    },
+    {
+      "start_time": "00:01:11,119",
+      "end_time": "00:01:15,840",
+      "text": "you know making some additional content"
+    },
+    {
+      "start_time": "00:01:12,880",
+      "end_time": "00:01:18,000",
+      "text": "maybe some pathfinder two specific items"
+    },
+    {
+      "start_time": "00:01:15,840",
+      "end_time": "00:01:19,360",
+      "text": "or creatures or adventures uh you know"
+    },
+    {
+      "start_time": "00:01:18,000",
+      "end_time": "00:01:20,320",
+      "text": "we'll start to do that we want to hear"
+    },
+    {
+      "start_time": "00:01:19,360",
+      "end_time": "00:01:22,000",
+      "text": "from you"
+    },
+    {
+      "start_time": "00:01:20,320",
+      "end_time": "00:01:24,080",
+      "text": "what what would you like to see from us"
+    },
+    {
+      "start_time": "00:01:22,000",
+      "end_time": "00:01:27,520",
+      "text": "that would you know sort of push you"
+    },
+    {
+      "start_time": "00:01:24,080",
+      "end_time": "00:01:29,360",
+      "text": "into that realm to decide to support us"
+    },
+    {
+      "start_time": "00:01:27,520",
+      "end_time": "00:01:32,159",
+      "text": "but i digress"
+    },
+    {
+      "start_time": "00:01:29,360",
+      "end_time": "00:01:34,000",
+      "text": "let's get into it so combat and tactics"
+    },
+    {
+      "start_time": "00:01:32,159",
+      "end_time": "00:01:36,320",
+      "text": "volume three"
+    },
+    {
+      "start_time": "00:01:34,000",
+      "end_time": "00:01:38,400",
+      "text": "so since we only have nick and bob with"
+    },
+    {
+      "start_time": "00:01:36,320",
+      "end_time": "00:01:41,759",
+      "text": "us today we thought we would cover some"
+    },
+    {
+      "start_time": "00:01:38,400",
+      "end_time": "00:01:43,840",
+      "text": "more combat and physical type marshall"
+    },
+    {
+      "start_time": "00:01:41,759",
+      "end_time": "00:01:46,799",
+      "text": "stuff some marshall stuff yeah keep it"
+    },
+    {
+      "start_time": "00:01:43,840",
+      "end_time": "00:01:48,240",
+      "text": "in my wheelhouse exactly so uh let's get"
+    },
+    {
+      "start_time": "00:01:46,799",
+      "end_time": "00:01:51,200",
+      "text": "started um"
+    },
+    {
+      "start_time": "00:01:48,240",
+      "end_time": "00:01:53,520",
+      "text": "all right well bob uh you uh you're a"
+    },
+    {
+      "start_time": "00:01:51,200",
+      "end_time": "00:01:56,479",
+      "text": "big fan of this you used it very uh very"
+    },
+    {
+      "start_time": "00:01:53,520",
+      "end_time": "00:01:58,640",
+      "text": "famously in uh is it the shove"
+    },
+    {
+      "start_time": "00:01:56,479",
+      "end_time": "00:02:00,719",
+      "text": "oh i knew it was that when i shoved that"
+    },
+    {
+      "start_time": "00:01:58,640",
+      "end_time": "00:02:03,040",
+      "text": "guy into that and it was like an open"
+    },
+    {
+      "start_time": "00:02:00,719",
+      "end_time": "00:02:06,000",
+      "text": "water area it was a lumber mill yeah you"
+    },
+    {
+      "start_time": "00:02:03,040",
+      "end_time": "00:02:09,599",
+      "text": "saw you you shoved him into a saw i mean"
+    },
+    {
+      "start_time": "00:02:06,000",
+      "end_time": "00:02:11,440",
+      "text": "it was pretty cool oh yeah like a movie"
+    },
+    {
+      "start_time": "00:02:09,599",
+      "end_time": "00:02:13,520",
+      "text": "what kind of movie are you"
+    },
+    {
+      "start_time": "00:02:11,440",
+      "end_time": "00:02:15,280",
+      "text": "saw"
+    },
+    {
+      "start_time": "00:02:13,520",
+      "end_time": "00:02:18,879",
+      "text": "now i'm imagining like aragorn kicking"
+    },
+    {
+      "start_time": "00:02:15,280",
+      "end_time": "00:02:20,840",
+      "text": "an orc into a buzz buzz chopper this is"
+    },
+    {
+      "start_time": "00:02:18,879",
+      "end_time": "00:02:23,440",
+      "text": "spata"
+    },
+    {
+      "start_time": "00:02:20,840",
+      "end_time": "00:02:25,680",
+      "text": "so so first thing i wanted now this is"
+    },
+    {
+      "start_time": "00:02:23,440",
+      "end_time": "00:02:27,360",
+      "text": "sort of a of a multi-phase tip because"
+    },
+    {
+      "start_time": "00:02:25,680",
+      "end_time": "00:02:29,280",
+      "text": "really what i want to talk about are the"
+    },
+    {
+      "start_time": "00:02:27,360",
+      "end_time": "00:02:32,000",
+      "text": "athletics"
+    },
+    {
+      "start_time": "00:02:29,280",
+      "end_time": "00:02:34,560",
+      "text": "skill actions and how they relate to"
+    },
+    {
+      "start_time": "00:02:32,000",
+      "end_time": "00:02:37,519",
+      "text": "combat now there are"
+    },
+    {
+      "start_time": "00:02:34,560",
+      "end_time": "00:02:38,560",
+      "text": "trip shove"
+    },
+    {
+      "start_time": "00:02:37,519",
+      "end_time": "00:02:40,080",
+      "text": "um"
+    },
+    {
+      "start_time": "00:02:38,560",
+      "end_time": "00:02:42,080",
+      "text": "keep going"
+    },
+    {
+      "start_time": "00:02:40,080",
+      "end_time": "00:02:43,040",
+      "text": "trip shove yup"
+    },
+    {
+      "start_time": "00:02:42,080",
+      "end_time": "00:02:44,239",
+      "text": "uh"
+    },
+    {
+      "start_time": "00:02:43,040",
+      "end_time": "00:02:46,319",
+      "text": "i i don't know"
+    },
+    {
+      "start_time": "00:02:44,239",
+      "end_time": "00:02:49,280",
+      "text": "in combat yep"
+    },
+    {
+      "start_time": "00:02:46,319",
+      "end_time": "00:02:51,440",
+      "text": "do you know them trip shove and"
+    },
+    {
+      "start_time": "00:02:49,280",
+      "end_time": "00:02:53,360",
+      "text": "those only two i ever use that well i'll"
+    },
+    {
+      "start_time": "00:02:51,440",
+      "end_time": "00:02:55,599",
+      "text": "i'll give you a hint one is not very"
+    },
+    {
+      "start_time": "00:02:53,360",
+      "end_time": "00:02:57,440",
+      "text": "used often because it's not very good oh"
+    },
+    {
+      "start_time": "00:02:55,599",
+      "end_time": "00:02:59,040",
+      "text": "i probably don't remember it i was"
+    },
+    {
+      "start_time": "00:02:57,440",
+      "end_time": "00:03:01,200",
+      "text": "thinking that's some kind of lift or"
+    },
+    {
+      "start_time": "00:02:59,040",
+      "end_time": "00:03:04,480",
+      "text": "grapple crap okay okay yeah i got that"
+    },
+    {
+      "start_time": "00:03:01,200",
+      "end_time": "00:03:06,080",
+      "text": "one um and the fourth one is disarmed"
+    },
+    {
+      "start_time": "00:03:04,480",
+      "end_time": "00:03:08,000",
+      "text": "i was getting ready for something"
+    },
+    {
+      "start_time": "00:03:06,080",
+      "end_time": "00:03:09,760",
+      "text": "yeah dang it disarming block yeah i knew"
+    },
+    {
+      "start_time": "00:03:08,000",
+      "end_time": "00:03:11,519",
+      "text": "grapple now and we can talk about this"
+    },
+    {
+      "start_time": "00:03:09,760",
+      "end_time": "00:03:13,760",
+      "text": "real quick um one of the reasons why you"
+    },
+    {
+      "start_time": "00:03:11,519",
+      "end_time": "00:03:15,920",
+      "text": "guys may not be as familiar"
+    },
+    {
+      "start_time": "00:03:13,760",
+      "end_time": "00:03:18,159",
+      "text": "with those and and i think this is true"
+    },
+    {
+      "start_time": "00:03:15,920",
+      "end_time": "00:03:19,599",
+      "text": "for a lot of people in pathfinder um"
+    },
+    {
+      "start_time": "00:03:18,159",
+      "end_time": "00:03:21,120",
+      "text": "unfortunately well"
+    },
+    {
+      "start_time": "00:03:19,599",
+      "end_time": "00:03:24,000",
+      "text": "i understand why they did it but"
+    },
+    {
+      "start_time": "00:03:21,120",
+      "end_time": "00:03:27,680",
+      "text": "unfortunately in order to use any of the"
+    },
+    {
+      "start_time": "00:03:24,000",
+      "end_time": "00:03:30,720",
+      "text": "athletic skill actions disarm trip shove"
+    },
+    {
+      "start_time": "00:03:27,680",
+      "end_time": "00:03:32,879",
+      "text": "or grapple you need to have"
+    },
+    {
+      "start_time": "00:03:30,720",
+      "end_time": "00:03:34,959",
+      "text": "yep a free hand and i'm wielding that"
+    },
+    {
+      "start_time": "00:03:32,879",
+      "end_time": "00:03:38,080",
+      "text": "two-handed maul and a lot of people in"
+    },
+    {
+      "start_time": "00:03:34,959",
+      "end_time": "00:03:40,560",
+      "text": "pathfinder 2 are either wielding a"
+    },
+    {
+      "start_time": "00:03:38,080",
+      "end_time": "00:03:41,680",
+      "text": "two-handed weapon they have a sword and"
+    },
+    {
+      "start_time": "00:03:40,560",
+      "end_time": "00:03:42,799",
+      "text": "a shield"
+    },
+    {
+      "start_time": "00:03:41,680",
+      "end_time": "00:03:45,280",
+      "text": "or"
+    },
+    {
+      "start_time": "00:03:42,799",
+      "end_time": "00:03:47,760",
+      "text": "they are wielding two weapons so that"
+    },
+    {
+      "start_time": "00:03:45,280",
+      "end_time": "00:03:49,519",
+      "text": "means they do not have a free hand now i"
+    },
+    {
+      "start_time": "00:03:47,760",
+      "end_time": "00:03:51,920",
+      "text": "should note that pathfinder two has"
+    },
+    {
+      "start_time": "00:03:49,519",
+      "end_time": "00:03:54,480",
+      "text": "tried really really hard in order to"
+    },
+    {
+      "start_time": "00:03:51,920",
+      "end_time": "00:03:56,480",
+      "text": "give people an incentive to go with only"
+    },
+    {
+      "start_time": "00:03:54,480",
+      "end_time": "00:03:57,439",
+      "text": "a one-handed weapon and the other hand"
+    },
+    {
+      "start_time": "00:03:56,480",
+      "end_time": "00:03:59,280",
+      "text": "free"
+    },
+    {
+      "start_time": "00:03:57,439",
+      "end_time": "00:04:01,680",
+      "text": "namely all these skill actions we're"
+    },
+    {
+      "start_time": "00:03:59,280",
+      "end_time": "00:04:03,439",
+      "text": "about to talk about but also too um"
+    },
+    {
+      "start_time": "00:04:01,680",
+      "end_time": "00:04:05,280",
+      "text": "there's even some fighter"
+    },
+    {
+      "start_time": "00:04:03,439",
+      "end_time": "00:04:08,720",
+      "text": "paths and builds that are sort of built"
+    },
+    {
+      "start_time": "00:04:05,280",
+      "end_time": "00:04:10,159",
+      "text": "around only having uh one hand or having"
+    },
+    {
+      "start_time": "00:04:08,720",
+      "end_time": "00:04:12,560",
+      "text": "a hand free i should say and they also"
+    },
+    {
+      "start_time": "00:04:10,159",
+      "end_time": "00:04:14,400",
+      "text": "have feats that allow you to for like"
+    },
+    {
+      "start_time": "00:04:12,560",
+      "end_time": "00:04:17,600",
+      "text": "the paladin has a feet where you"
+    },
+    {
+      "start_time": "00:04:14,400",
+      "end_time": "00:04:19,440",
+      "text": "actually have the shield kind of"
+    },
+    {
+      "start_time": "00:04:17,600",
+      "end_time": "00:04:20,560",
+      "text": "arbitrarily fastened to your arm like a"
+    },
+    {
+      "start_time": "00:04:19,440",
+      "end_time": "00:04:22,160",
+      "text": "buckler"
+    },
+    {
+      "start_time": "00:04:20,560",
+      "end_time": "00:04:24,000",
+      "text": "which gives you a free hand for some of"
+    },
+    {
+      "start_time": "00:04:22,160",
+      "end_time": "00:04:26,720",
+      "text": "those abilities does it not it does not"
+    },
+    {
+      "start_time": "00:04:24,000",
+      "end_time": "00:04:29,040",
+      "text": "ah it gives you a free hand to like hold"
+    },
+    {
+      "start_time": "00:04:26,720",
+      "end_time": "00:04:31,199",
+      "text": "a torch okay but it cannot be used for"
+    },
+    {
+      "start_time": "00:04:29,040",
+      "end_time": "00:04:32,800",
+      "text": "an attack action gotcha the other reason"
+    },
+    {
+      "start_time": "00:04:31,199",
+      "end_time": "00:04:35,360",
+      "text": "that some of these skills do not get"
+    },
+    {
+      "start_time": "00:04:32,800",
+      "end_time": "00:04:36,400",
+      "text": "used as often is because they are skills"
+    },
+    {
+      "start_time": "00:04:35,360",
+      "end_time": "00:04:39,280",
+      "text": "like"
+    },
+    {
+      "start_time": "00:04:36,400",
+      "end_time": "00:04:42,160",
+      "text": "intimidate is used for demoralize"
+    },
+    {
+      "start_time": "00:04:39,280",
+      "end_time": "00:04:44,560",
+      "text": "but they have the attack tag or the"
+    },
+    {
+      "start_time": "00:04:42,160",
+      "end_time": "00:04:48,080",
+      "text": "attack trait and that means they share"
+    },
+    {
+      "start_time": "00:04:44,560",
+      "end_time": "00:04:51,440",
+      "text": "in are affected by and increase your"
+    },
+    {
+      "start_time": "00:04:48,080",
+      "end_time": "00:04:54,639",
+      "text": "multiple attack penalty yep and"
+    },
+    {
+      "start_time": "00:04:51,440",
+      "end_time": "00:04:56,400",
+      "text": "you know i can speak for myself here but"
+    },
+    {
+      "start_time": "00:04:54,639",
+      "end_time": "00:04:57,759",
+      "text": "you know"
+    },
+    {
+      "start_time": "00:04:56,400",
+      "end_time": "00:04:59,919",
+      "text": "and and i'd love to hear you guys chime"
+    },
+    {
+      "start_time": "00:04:57,759",
+      "end_time": "00:05:01,039",
+      "text": "in on this as well"
+    },
+    {
+      "start_time": "00:04:59,919",
+      "end_time": "00:05:03,600",
+      "text": "it just doesn't seem fun to use your"
+    },
+    {
+      "start_time": "00:05:01,039",
+      "end_time": "00:05:06,240",
+      "text": "best attack to knock someone down no"
+    },
+    {
+      "start_time": "00:05:03,600",
+      "end_time": "00:05:07,520",
+      "text": "no you usually i'm hitting i'm hitting"
+    },
+    {
+      "start_time": "00:05:06,240",
+      "end_time": "00:05:09,680",
+      "text": "them and then i'm like what could i do"
+    },
+    {
+      "start_time": "00:05:07,520",
+      "end_time": "00:05:11,360",
+      "text": "with my third action right and by that"
+    },
+    {
+      "start_time": "00:05:09,680",
+      "end_time": "00:05:13,440",
+      "text": "shovel right and by that time your third"
+    },
+    {
+      "start_time": "00:05:11,360",
+      "end_time": "00:05:15,120",
+      "text": "action is minus 10. yeah i was gonna say"
+    },
+    {
+      "start_time": "00:05:13,440",
+      "end_time": "00:05:17,759",
+      "text": "and the payoff is not good enough so if"
+    },
+    {
+      "start_time": "00:05:15,120",
+      "end_time": "00:05:19,280",
+      "text": "you shove someone to take an action"
+    },
+    {
+      "start_time": "00:05:17,759",
+      "end_time": "00:05:21,199",
+      "text": "they're going to be flat-footed if they"
+    },
+    {
+      "start_time": "00:05:19,280",
+      "end_time": "00:05:22,320",
+      "text": "if they're prone right you trip if you"
+    },
+    {
+      "start_time": "00:05:21,199",
+      "end_time": "00:05:24,160",
+      "text": "trip sorry if you trip someone and"
+    },
+    {
+      "start_time": "00:05:22,320",
+      "end_time": "00:05:25,360",
+      "text": "they're prone yep that's only a minus"
+    },
+    {
+      "start_time": "00:05:24,160",
+      "end_time": "00:05:27,360",
+      "text": "two correct"
+    },
+    {
+      "start_time": "00:05:25,360",
+      "end_time": "00:05:28,800",
+      "text": "but my multiple attack penalty was going"
+    },
+    {
+      "start_time": "00:05:27,360",
+      "end_time": "00:05:30,560",
+      "text": "to drop two minus five correct for the"
+    },
+    {
+      "start_time": "00:05:28,800",
+      "end_time": "00:05:32,479",
+      "text": "next one right so"
+    },
+    {
+      "start_time": "00:05:30,560",
+      "end_time": "00:05:33,759",
+      "text": "yes i'm better"
+    },
+    {
+      "start_time": "00:05:32,479",
+      "end_time": "00:05:35,600",
+      "text": "but i'm still"
+    },
+    {
+      "start_time": "00:05:33,759",
+      "end_time": "00:05:36,800",
+      "text": "not gaining anything yep it's it's"
+    },
+    {
+      "start_time": "00:05:35,600",
+      "end_time": "00:05:37,600",
+      "text": "hurting you more than it's you're just"
+    },
+    {
+      "start_time": "00:05:36,800",
+      "end_time": "00:05:39,919",
+      "text": "helping"
+    },
+    {
+      "start_time": "00:05:37,600",
+      "end_time": "00:05:41,759",
+      "text": "oh how wrong nick is that's right bob"
+    },
+    {
+      "start_time": "00:05:39,919",
+      "end_time": "00:05:44,880",
+      "text": "that's exactly that's very true you are"
+    },
+    {
+      "start_time": "00:05:41,759",
+      "end_time": "00:05:46,479",
+      "text": "helping your team yeah yes and i think"
+    },
+    {
+      "start_time": "00:05:44,880",
+      "end_time": "00:05:47,840",
+      "text": "that's the important thing to note now"
+    },
+    {
+      "start_time": "00:05:46,479",
+      "end_time": "00:05:50,000",
+      "text": "and i'll give you a great example of"
+    },
+    {
+      "start_time": "00:05:47,840",
+      "end_time": "00:05:51,199",
+      "text": "this um boy man we could really go off"
+    },
+    {
+      "start_time": "00:05:50,000",
+      "end_time": "00:05:53,039",
+      "text": "on this uh"
+    },
+    {
+      "start_time": "00:05:51,199",
+      "end_time": "00:05:54,000",
+      "text": "that's why we're here um"
+    },
+    {
+      "start_time": "00:05:53,039",
+      "end_time": "00:05:56,319",
+      "text": "so"
+    },
+    {
+      "start_time": "00:05:54,000",
+      "end_time": "00:05:58,240",
+      "text": "here's the thing"
+    },
+    {
+      "start_time": "00:05:56,319",
+      "end_time": "00:06:00,560",
+      "text": "if we use nick and bob if we use two u2"
+    },
+    {
+      "start_time": "00:05:58,240",
+      "end_time": "00:06:02,720",
+      "text": "as examples now nick you're playing a"
+    },
+    {
+      "start_time": "00:06:00,560",
+      "end_time": "00:06:04,720",
+      "text": "champion yes let's ignore for a moment"
+    },
+    {
+      "start_time": "00:06:02,720",
+      "end_time": "00:06:06,240",
+      "text": "your shield so i dropped my shield let's"
+    },
+    {
+      "start_time": "00:06:04,720",
+      "end_time": "00:06:08,000",
+      "text": "say in battle let's just ignore it for"
+    },
+    {
+      "start_time": "00:06:06,240",
+      "end_time": "00:06:09,680",
+      "text": "this time let's say you had the ability"
+    },
+    {
+      "start_time": "00:06:08,000",
+      "end_time": "00:06:10,960",
+      "text": "to easily trip and shove and do all"
+    },
+    {
+      "start_time": "00:06:09,680",
+      "end_time": "00:06:11,919",
+      "text": "those things okay"
+    },
+    {
+      "start_time": "00:06:10,960",
+      "end_time": "00:06:14,319",
+      "text": "um"
+    },
+    {
+      "start_time": "00:06:11,919",
+      "end_time": "00:06:16,639",
+      "text": "your character does somewhere around the"
+    },
+    {
+      "start_time": "00:06:14,319",
+      "end_time": "00:06:19,600",
+      "text": "neighborhood of you know 2d eight points"
+    },
+    {
+      "start_time": "00:06:16,639",
+      "end_time": "00:06:22,560",
+      "text": "of damage plus six right not very much"
+    },
+    {
+      "start_time": "00:06:19,600",
+      "end_time": "00:06:24,960",
+      "text": "not a whole lot right now azias bob your"
+    },
+    {
+      "start_time": "00:06:22,560",
+      "end_time": "00:06:26,960",
+      "text": "barbarian who is giant instinct oh yeah"
+    },
+    {
+      "start_time": "00:06:24,960",
+      "end_time": "00:06:30,800",
+      "text": "he does a lot yeah plus eight uh plus"
+    },
+    {
+      "start_time": "00:06:26,960",
+      "end_time": "00:06:32,960",
+      "text": "16. right 2d8 2d 12 plus 16. 2d 12. yeah"
+    },
+    {
+      "start_time": "00:06:30,800",
+      "end_time": "00:06:35,360",
+      "text": "when he's raging right right so when"
+    },
+    {
+      "start_time": "00:06:32,960",
+      "end_time": "00:06:38,639",
+      "text": "you're not raging bob's character does"
+    },
+    {
+      "start_time": "00:06:35,360",
+      "end_time": "00:06:39,919",
+      "text": "on average 31 points of damage actually"
+    },
+    {
+      "start_time": "00:06:38,639",
+      "end_time": "00:06:42,000",
+      "text": "a little bit more because your rune is"
+    },
+    {
+      "start_time": "00:06:39,919",
+      "end_time": "00:06:45,680",
+      "text": "shocking but yeah"
+    },
+    {
+      "start_time": "00:06:42,000",
+      "end_time": "00:06:49,120",
+      "text": "31 damage well as esknore the champion"
+    },
+    {
+      "start_time": "00:06:45,680",
+      "end_time": "00:06:51,039",
+      "text": "he's only doing 15. so asius literally"
+    },
+    {
+      "start_time": "00:06:49,120",
+      "end_time": "00:06:53,039",
+      "text": "does twice as much damage as this that"
+    },
+    {
+      "start_time": "00:06:51,039",
+      "end_time": "00:06:55,280",
+      "text": "means escalator has to hit twice"
+    },
+    {
+      "start_time": "00:06:53,039",
+      "end_time": "00:06:59,520",
+      "text": "to do as much damage as azius does in"
+    },
+    {
+      "start_time": "00:06:55,280",
+      "end_time": "00:07:02,080",
+      "text": "one attack now that to me tells me yeah"
+    },
+    {
+      "start_time": "00:06:59,520",
+      "end_time": "00:07:04,479",
+      "text": "you know azius or character like him"
+    },
+    {
+      "start_time": "00:07:02,080",
+      "end_time": "00:07:06,720",
+      "text": "should not be probably using their"
+    },
+    {
+      "start_time": "00:07:04,479",
+      "end_time": "00:07:10,080",
+      "text": "attack to"
+    },
+    {
+      "start_time": "00:07:06,720",
+      "end_time": "00:07:12,240",
+      "text": "you know trip trip shove or push because"
+    },
+    {
+      "start_time": "00:07:10,080",
+      "end_time": "00:07:15,360",
+      "text": "your job in the party is to do that"
+    },
+    {
+      "start_time": "00:07:12,240",
+      "end_time": "00:07:16,800",
+      "text": "damage someone has to right and you know"
+    },
+    {
+      "start_time": "00:07:15,360",
+      "end_time": "00:07:18,560",
+      "text": "knocking someone prone and being making"
+    },
+    {
+      "start_time": "00:07:16,800",
+      "end_time": "00:07:20,479",
+      "text": "them flat-footed or intimidating them"
+    },
+    {
+      "start_time": "00:07:18,560",
+      "end_time": "00:07:23,520",
+      "text": "and making them frighten one those are"
+    },
+    {
+      "start_time": "00:07:20,479",
+      "end_time": "00:07:24,730",
+      "text": "all good things but the best status"
+    },
+    {
+      "start_time": "00:07:23,520",
+      "end_time": "00:07:26,479",
+      "text": "is dead"
+    },
+    {
+      "start_time": "00:07:24,730",
+      "end_time": "00:07:28,080",
+      "text": "[Laughter]"
+    },
+    {
+      "start_time": "00:07:26,479",
+      "end_time": "00:07:30,319",
+      "text": "because it turns out when the character"
+    },
+    {
+      "start_time": "00:07:28,080",
+      "end_time": "00:07:32,240",
+      "text": "is dead they're also prone you know um"
+    },
+    {
+      "start_time": "00:07:30,319",
+      "end_time": "00:07:34,319",
+      "text": "uh yeah six feet under prone and they"
+    },
+    {
+      "start_time": "00:07:32,240",
+      "end_time": "00:07:35,680",
+      "text": "can't hurt me yeah hypothetically so you"
+    },
+    {
+      "start_time": "00:07:34,319",
+      "end_time": "00:07:38,479",
+      "text": "know one of the things is understanding"
+    },
+    {
+      "start_time": "00:07:35,680",
+      "end_time": "00:07:40,639",
+      "text": "your role in a fight and whether or not"
+    },
+    {
+      "start_time": "00:07:38,479",
+      "end_time": "00:07:42,880",
+      "text": "you are this damage dealing character"
+    },
+    {
+      "start_time": "00:07:40,639",
+      "end_time": "00:07:44,160",
+      "text": "because if you're not and that's not"
+    },
+    {
+      "start_time": "00:07:42,880",
+      "end_time": "00:07:46,240",
+      "text": "what you're contributing then to your"
+    },
+    {
+      "start_time": "00:07:44,160",
+      "end_time": "00:07:47,840",
+      "text": "point nick yeah using your best attack"
+    },
+    {
+      "start_time": "00:07:46,240",
+      "end_time": "00:07:48,800",
+      "text": "to knock someone prone you're like well"
+    },
+    {
+      "start_time": "00:07:47,840",
+      "end_time": "00:07:50,160",
+      "text": "it doesn't really make that much of a"
+    },
+    {
+      "start_time": "00:07:48,800",
+      "end_time": "00:07:52,400",
+      "text": "payoff they get a minus two to their ac"
+    },
+    {
+      "start_time": "00:07:50,160",
+      "end_time": "00:07:55,759",
+      "text": "but i now have a minus five penalty to"
+    },
+    {
+      "start_time": "00:07:52,400",
+      "end_time": "00:07:58,160",
+      "text": "my next attack so i'm down right but no"
+    },
+    {
+      "start_time": "00:07:55,759",
+      "end_time": "00:07:59,520",
+      "text": "one else is right so it'll apply for the"
+    },
+    {
+      "start_time": "00:07:58,160",
+      "end_time": "00:08:01,759",
+      "text": "next round for everybody else so it"
+    },
+    {
+      "start_time": "00:07:59,520",
+      "end_time": "00:08:03,120",
+      "text": "would be it would behoove me to try to"
+    },
+    {
+      "start_time": "00:08:01,759",
+      "end_time": "00:08:05,280",
+      "text": "potentially trip"
+    },
+    {
+      "start_time": "00:08:03,120",
+      "end_time": "00:08:08,000",
+      "text": "if i know that asius is coming up next"
+    },
+    {
+      "start_time": "00:08:05,280",
+      "end_time": "00:08:10,000",
+      "text": "correct to also lay down that destiny if"
+    },
+    {
+      "start_time": "00:08:08,000",
+      "end_time": "00:08:12,400",
+      "text": "yeah if someone is tripped it means that"
+    },
+    {
+      "start_time": "00:08:10,000",
+      "end_time": "00:08:14,319",
+      "text": "um you know burl uh you know if he uses"
+    },
+    {
+      "start_time": "00:08:12,400",
+      "end_time": "00:08:15,680",
+      "text": "a spell attack role that character is"
+    },
+    {
+      "start_time": "00:08:14,319",
+      "end_time": "00:08:17,599",
+      "text": "flat-footed"
+    },
+    {
+      "start_time": "00:08:15,680",
+      "end_time": "00:08:19,199",
+      "text": "right they're ac's lower for purposes of"
+    },
+    {
+      "start_time": "00:08:17,599",
+      "end_time": "00:08:21,360",
+      "text": "hitting him with like a fireball or not"
+    },
+    {
+      "start_time": "00:08:19,199",
+      "end_time": "00:08:24,000",
+      "text": "a fireball sorry like a fire bolt if"
+    },
+    {
+      "start_time": "00:08:21,360",
+      "end_time": "00:08:25,919",
+      "text": "tim's arcane archer shoots an arrow the"
+    },
+    {
+      "start_time": "00:08:24,000",
+      "end_time": "00:08:27,599",
+      "text": "character is flat-footed if lucky burl's"
+    },
+    {
+      "start_time": "00:08:25,919",
+      "end_time": "00:08:29,440",
+      "text": "animal companion badger gets into it"
+    },
+    {
+      "start_time": "00:08:27,599",
+      "end_time": "00:08:31,360",
+      "text": "they're all flat-footed to that but they"
+    },
+    {
+      "start_time": "00:08:29,440",
+      "end_time": "00:08:34,080",
+      "text": "also have to use an action to get up you"
+    },
+    {
+      "start_time": "00:08:31,360",
+      "end_time": "00:08:35,360",
+      "text": "got it that is i think even more"
+    },
+    {
+      "start_time": "00:08:34,080",
+      "end_time": "00:08:38,800",
+      "text": "important now we talked about before"
+    },
+    {
+      "start_time": "00:08:35,360",
+      "end_time": "00:08:41,039",
+      "text": "about a tip about the action economy now"
+    },
+    {
+      "start_time": "00:08:38,800",
+      "end_time": "00:08:41,039",
+      "text": "yeah"
+    },
+    {
+      "start_time": "00:08:41,599",
+      "end_time": "00:08:45,040",
+      "text": "we're also talking about like a single"
+    },
+    {
+      "start_time": "00:08:43,200",
+      "end_time": "00:08:47,360",
+      "text": "enemy right yep"
+    },
+    {
+      "start_time": "00:08:45,040",
+      "end_time": "00:08:50,320",
+      "text": "sometimes i don't know is tripping the"
+    },
+    {
+      "start_time": "00:08:47,360",
+      "end_time": "00:08:51,600",
+      "text": "most ideal thing when there's a handful"
+    },
+    {
+      "start_time": "00:08:50,320",
+      "end_time": "00:08:53,760",
+      "text": "of because there's my action economy"
+    },
+    {
+      "start_time": "00:08:51,600",
+      "end_time": "00:08:54,959",
+      "text": "next and it's like yeah if they only"
+    },
+    {
+      "start_time": "00:08:53,760",
+      "end_time": "00:08:56,720",
+      "text": "have three actions and i took one of"
+    },
+    {
+      "start_time": "00:08:54,959",
+      "end_time": "00:08:58,880",
+      "text": "them so they have to step up that's huge"
+    },
+    {
+      "start_time": "00:08:56,720",
+      "end_time": "00:09:01,040",
+      "text": "but there's five of them and only one"
+    },
+    {
+      "start_time": "00:08:58,880",
+      "end_time": "00:09:02,480",
+      "text": "guy is it's maybe not the i don't know"
+    },
+    {
+      "start_time": "00:09:01,040",
+      "end_time": "00:09:04,800",
+      "text": "well we're going to go let me give you"
+    },
+    {
+      "start_time": "00:09:02,480",
+      "end_time": "00:09:07,519",
+      "text": "an example and again this is a this is a"
+    },
+    {
+      "start_time": "00:09:04,800",
+      "end_time": "00:09:09,040",
+      "text": "very um"
+    },
+    {
+      "start_time": "00:09:07,519",
+      "end_time": "00:09:11,440",
+      "text": "what's the word i'm looking for"
+    },
+    {
+      "start_time": "00:09:09,040",
+      "end_time": "00:09:14,560",
+      "text": "visual well it's a very simplistic"
+    },
+    {
+      "start_time": "00:09:11,440",
+      "end_time": "00:09:16,800",
+      "text": "example okay okay so we're going to use"
+    },
+    {
+      "start_time": "00:09:14,560",
+      "end_time": "00:09:19,760",
+      "text": "we've got our we got our three party"
+    },
+    {
+      "start_time": "00:09:16,800",
+      "end_time": "00:09:22,000",
+      "text": "members here yeah we've got eskenor"
+    },
+    {
+      "start_time": "00:09:19,760",
+      "end_time": "00:09:23,440",
+      "text": "we've got azias that's me uh we got"
+    },
+    {
+      "start_time": "00:09:22,000",
+      "end_time": "00:09:26,480",
+      "text": "guild or"
+    },
+    {
+      "start_time": "00:09:23,440",
+      "end_time": "00:09:26,480",
+      "text": "got somebody else around here"
+    },
+    {
+      "start_time": "00:09:27,040",
+      "end_time": "00:09:33,200",
+      "text": "we'll just put lucky in okay"
+    },
+    {
+      "start_time": "00:09:30,560",
+      "end_time": "00:09:34,399",
+      "text": "so this is our team of team good okay"
+    },
+    {
+      "start_time": "00:09:33,200",
+      "end_time": "00:09:36,000",
+      "text": "right"
+    },
+    {
+      "start_time": "00:09:34,399",
+      "end_time": "00:09:38,240",
+      "text": "now i'm gonna again this is a very"
+    },
+    {
+      "start_time": "00:09:36,000",
+      "end_time": "00:09:39,760",
+      "text": "simplistic example"
+    },
+    {
+      "start_time": "00:09:38,240",
+      "end_time": "00:09:42,560",
+      "text": "the party"
+    },
+    {
+      "start_time": "00:09:39,760",
+      "end_time": "00:09:43,839",
+      "text": "now this is an action economy play okay"
+    },
+    {
+      "start_time": "00:09:42,560",
+      "end_time": "00:09:45,360",
+      "text": "now remember"
+    },
+    {
+      "start_time": "00:09:43,839",
+      "end_time": "00:09:46,560",
+      "text": "we've talked about this at length but"
+    },
+    {
+      "start_time": "00:09:45,360",
+      "end_time": "00:09:48,080",
+      "text": "we're going to make it really simple and"
+    },
+    {
+      "start_time": "00:09:46,560",
+      "end_time": "00:09:49,120",
+      "text": "we're going to say that and bob i don't"
+    },
+    {
+      "start_time": "00:09:48,080",
+      "end_time": "00:09:50,480",
+      "text": "want you to get confused because i know"
+    },
+    {
+      "start_time": "00:09:49,120",
+      "end_time": "00:09:52,320",
+      "text": "you were always like but he has reach"
+    },
+    {
+      "start_time": "00:09:50,480",
+      "end_time": "00:09:53,760",
+      "text": "but he has reached well that sees what i"
+    },
+    {
+      "start_time": "00:09:52,320",
+      "end_time": "00:09:55,200",
+      "text": "think about okay so i'm gonna ignore"
+    },
+    {
+      "start_time": "00:09:53,760",
+      "end_time": "00:09:56,480",
+      "text": "that and we're gonna put it in there"
+    },
+    {
+      "start_time": "00:09:55,200",
+      "end_time": "00:09:58,959",
+      "text": "we're gonna put in this bug bear oh this"
+    },
+    {
+      "start_time": "00:09:56,480",
+      "end_time": "00:10:01,920",
+      "text": "isn't just some lone bug bear this is"
+    },
+    {
+      "start_time": "00:09:58,959",
+      "end_time": "00:10:04,880",
+      "text": "grothak chieftain of the orc eye tribe"
+    },
+    {
+      "start_time": "00:10:01,920",
+      "end_time": "00:10:06,399",
+      "text": "well i really want to kill him okay so"
+    },
+    {
+      "start_time": "00:10:04,880",
+      "end_time": "00:10:08,000",
+      "text": "we've talked about this before but you"
+    },
+    {
+      "start_time": "00:10:06,399",
+      "end_time": "00:10:09,839",
+      "text": "guys have"
+    },
+    {
+      "start_time": "00:10:08,000",
+      "end_time": "00:10:12,959",
+      "text": "three actions a piece so that means that"
+    },
+    {
+      "start_time": "00:10:09,839",
+      "end_time": "00:10:16,240",
+      "text": "there's 12 actions on team team good"
+    },
+    {
+      "start_time": "00:10:12,959",
+      "end_time": "00:10:17,440",
+      "text": "and three actions on team bad yup and"
+    },
+    {
+      "start_time": "00:10:16,240",
+      "end_time": "00:10:20,399",
+      "text": "one of the things that we talked about"
+    },
+    {
+      "start_time": "00:10:17,440",
+      "end_time": "00:10:22,240",
+      "text": "is how do we get you to use all those"
+    },
+    {
+      "start_time": "00:10:20,399",
+      "end_time": "00:10:25,120",
+      "text": "actions now again we're gonna make this"
+    },
+    {
+      "start_time": "00:10:22,240",
+      "end_time": "00:10:26,880",
+      "text": "a very simplistic example that let's say"
+    },
+    {
+      "start_time": "00:10:25,120",
+      "end_time": "00:10:28,959",
+      "text": "everybody in this party is a even even"
+    },
+    {
+      "start_time": "00:10:26,880",
+      "end_time": "00:10:30,640",
+      "text": "the wizard back here uh wants to get"
+    },
+    {
+      "start_time": "00:10:28,959",
+      "end_time": "00:10:34,240",
+      "text": "into combat and they want to swing their"
+    },
+    {
+      "start_time": "00:10:30,640",
+      "end_time": "00:10:35,600",
+      "text": "sword okay so"
+    },
+    {
+      "start_time": "00:10:34,240",
+      "end_time": "00:10:36,800",
+      "text": "you move in here"
+    },
+    {
+      "start_time": "00:10:35,600",
+      "end_time": "00:10:39,120",
+      "text": "you attack"
+    },
+    {
+      "start_time": "00:10:36,800",
+      "end_time": "00:10:40,480",
+      "text": "you move in here you attack"
+    },
+    {
+      "start_time": "00:10:39,120",
+      "end_time": "00:10:42,959",
+      "text": "you move in here"
+    },
+    {
+      "start_time": "00:10:40,480",
+      "end_time": "00:10:44,560",
+      "text": "you attack moves in here"
+    },
+    {
+      "start_time": "00:10:42,959",
+      "end_time": "00:10:47,120",
+      "text": "and attacks"
+    },
+    {
+      "start_time": "00:10:44,560",
+      "end_time": "00:10:48,800",
+      "text": "so nobody's flanking well well this is a"
+    },
+    {
+      "start_time": "00:10:47,120",
+      "end_time": "00:10:49,680",
+      "text": "simplistic example okay you would want a"
+    },
+    {
+      "start_time": "00:10:48,800",
+      "end_time": "00:10:52,000",
+      "text": "flank"
+    },
+    {
+      "start_time": "00:10:49,680",
+      "end_time": "00:10:53,519",
+      "text": "but in this example um"
+    },
+    {
+      "start_time": "00:10:52,000",
+      "end_time": "00:10:55,200",
+      "text": "you guys have used your attactions"
+    },
+    {
+      "start_time": "00:10:53,519",
+      "end_time": "00:10:57,519",
+      "text": "you've gone to him and attacked him a"
+    },
+    {
+      "start_time": "00:10:55,200",
+      "end_time": "00:10:59,519",
+      "text": "bunch yep now remember he's higher level"
+    },
+    {
+      "start_time": "00:10:57,519",
+      "end_time": "00:11:01,760",
+      "text": "than you yep he gets to go it's now his"
+    },
+    {
+      "start_time": "00:10:59,519",
+      "end_time": "00:11:03,600",
+      "text": "turn he's got three actions yep he's"
+    },
+    {
+      "start_time": "00:11:01,760",
+      "end_time": "00:11:05,760",
+      "text": "probably gonna crit with the first one"
+    },
+    {
+      "start_time": "00:11:03,600",
+      "end_time": "00:11:07,600",
+      "text": "more than likely he's got a good chance"
+    },
+    {
+      "start_time": "00:11:05,760",
+      "end_time": "00:11:09,360",
+      "text": "of critting and definitely probably"
+    },
+    {
+      "start_time": "00:11:07,600",
+      "end_time": "00:11:11,839",
+      "text": "hitting still with the second attack and"
+    },
+    {
+      "start_time": "00:11:09,360",
+      "end_time": "00:11:14,320",
+      "text": "that third attack could also hit correct"
+    },
+    {
+      "start_time": "00:11:11,839",
+      "end_time": "00:11:16,560",
+      "text": "and even his regular hits are like"
+    },
+    {
+      "start_time": "00:11:14,320",
+      "end_time": "00:11:18,880",
+      "text": "devastating devastating"
+    },
+    {
+      "start_time": "00:11:16,560",
+      "end_time": "00:11:20,959",
+      "text": "so you've played right into his hands"
+    },
+    {
+      "start_time": "00:11:18,880",
+      "end_time": "00:11:22,480",
+      "text": "we've came right next to him right he"
+    },
+    {
+      "start_time": "00:11:20,959",
+      "end_time": "00:11:23,600",
+      "text": "doesn't have to waste a move correct he"
+    },
+    {
+      "start_time": "00:11:22,480",
+      "end_time": "00:11:24,480",
+      "text": "doesn't have to waste a move or anything"
+    },
+    {
+      "start_time": "00:11:23,600",
+      "end_time": "00:11:26,399",
+      "text": "now"
+    },
+    {
+      "start_time": "00:11:24,480",
+      "end_time": "00:11:28,560",
+      "text": "you could say okay well let's try a"
+    },
+    {
+      "start_time": "00:11:26,399",
+      "end_time": "00:11:31,040",
+      "text": "different tact then right we want him to"
+    },
+    {
+      "start_time": "00:11:28,560",
+      "end_time": "00:11:33,839",
+      "text": "waste his actions so how about this how"
+    },
+    {
+      "start_time": "00:11:31,040",
+      "end_time": "00:11:34,959",
+      "text": "about we do this instead how about all"
+    },
+    {
+      "start_time": "00:11:33,839",
+      "end_time": "00:11:36,560",
+      "text": "of us"
+    },
+    {
+      "start_time": "00:11:34,959",
+      "end_time": "00:11:39,600",
+      "text": "i'm going to move in with my first"
+    },
+    {
+      "start_time": "00:11:36,560",
+      "end_time": "00:11:41,440",
+      "text": "action hit him once my best attack and"
+    },
+    {
+      "start_time": "00:11:39,600",
+      "end_time": "00:11:43,279",
+      "text": "then move back because not everyone has"
+    },
+    {
+      "start_time": "00:11:41,440",
+      "end_time": "00:11:44,640",
+      "text": "attacked opportunities as monsters and"
+    },
+    {
+      "start_time": "00:11:43,279",
+      "end_time": "00:11:46,640",
+      "text": "pathfinder that's correct and even if"
+    },
+    {
+      "start_time": "00:11:44,640",
+      "end_time": "00:11:48,000",
+      "text": "they do maybe escondor does it first"
+    },
+    {
+      "start_time": "00:11:46,640",
+      "end_time": "00:11:48,880",
+      "text": "yeah yeah and now the guy would pull it"
+    },
+    {
+      "start_time": "00:11:48,000",
+      "end_time": "00:11:50,480",
+      "text": "out now"
+    },
+    {
+      "start_time": "00:11:48,880",
+      "end_time": "00:11:52,160",
+      "text": "right and then escondor does the same"
+    },
+    {
+      "start_time": "00:11:50,480",
+      "end_time": "00:11:54,240",
+      "text": "thing he uses one action to move in he"
+    },
+    {
+      "start_time": "00:11:52,160",
+      "end_time": "00:11:55,920",
+      "text": "attacks he moves back quilder does the"
+    },
+    {
+      "start_time": "00:11:54,240",
+      "end_time": "00:11:58,320",
+      "text": "same thing lucky does the same thing"
+    },
+    {
+      "start_time": "00:11:55,920",
+      "end_time": "00:12:01,200",
+      "text": "moves in action attack"
+    },
+    {
+      "start_time": "00:11:58,320",
+      "end_time": "00:12:02,320",
+      "text": "now it's his turn yep now if he wants to"
+    },
+    {
+      "start_time": "00:12:01,200",
+      "end_time": "00:12:04,320",
+      "text": "go"
+    },
+    {
+      "start_time": "00:12:02,320",
+      "end_time": "00:12:07,360",
+      "text": "crush on someone he's got to burn an"
+    },
+    {
+      "start_time": "00:12:04,320",
+      "end_time": "00:12:08,240",
+      "text": "action right and he only gets two"
+    },
+    {
+      "start_time": "00:12:07,360",
+      "end_time": "00:12:10,880",
+      "text": "and"
+    },
+    {
+      "start_time": "00:12:08,240",
+      "end_time": "00:12:12,880",
+      "text": "you know he can only hit someone twice"
+    },
+    {
+      "start_time": "00:12:10,880",
+      "end_time": "00:12:17,680",
+      "text": "that's good right that's that's better"
+    },
+    {
+      "start_time": "00:12:12,880",
+      "end_time": "00:12:20,399",
+      "text": "but you all had to spend four actions"
+    },
+    {
+      "start_time": "00:12:17,680",
+      "end_time": "00:12:21,920",
+      "text": "as a group to get to that scenario right"
+    },
+    {
+      "start_time": "00:12:20,399",
+      "end_time": "00:12:23,279",
+      "text": "he had to you had to spend an action to"
+    },
+    {
+      "start_time": "00:12:21,920",
+      "end_time": "00:12:24,399",
+      "text": "move in then you had to spend an action"
+    },
+    {
+      "start_time": "00:12:23,279",
+      "end_time": "00:12:26,079",
+      "text": "to attack and then you had to spend that"
+    },
+    {
+      "start_time": "00:12:24,399",
+      "end_time": "00:12:27,600",
+      "text": "third action and move back"
+    },
+    {
+      "start_time": "00:12:26,079",
+      "end_time": "00:12:30,160",
+      "text": "use an action using it so you've used"
+    },
+    {
+      "start_time": "00:12:27,600",
+      "end_time": "00:12:32,160",
+      "text": "four actions to move back"
+    },
+    {
+      "start_time": "00:12:30,160",
+      "end_time": "00:12:34,480",
+      "text": "imagine this scenario"
+    },
+    {
+      "start_time": "00:12:32,160",
+      "end_time": "00:12:35,760",
+      "text": "you move in"
+    },
+    {
+      "start_time": "00:12:34,480",
+      "end_time": "00:12:38,800",
+      "text": "we'll make it easier we'll do we'll do"
+    },
+    {
+      "start_time": "00:12:35,760",
+      "end_time": "00:12:41,920",
+      "text": "you last bob you move lucky moves in"
+    },
+    {
+      "start_time": "00:12:38,800",
+      "end_time": "00:12:43,519",
+      "text": "attacks twice guild or moves in"
+    },
+    {
+      "start_time": "00:12:41,920",
+      "end_time": "00:12:46,399",
+      "text": "attacks twice"
+    },
+    {
+      "start_time": "00:12:43,519",
+      "end_time": "00:12:49,200",
+      "text": "escalador moves in attacks twice"
+    },
+    {
+      "start_time": "00:12:46,399",
+      "end_time": "00:12:49,200",
+      "text": "you move in"
+    },
+    {
+      "start_time": "00:12:49,760",
+      "end_time": "00:12:55,440",
+      "text": "trip you attack nope oh you attack"
+    },
+    {
+      "start_time": "00:12:53,279",
+      "end_time": "00:12:57,920",
+      "text": "and then you shove him"
+    },
+    {
+      "start_time": "00:12:55,440",
+      "end_time": "00:12:59,760",
+      "text": "oh five feet back now look"
+    },
+    {
+      "start_time": "00:12:57,920",
+      "end_time": "00:13:02,800",
+      "text": "he's still gotta make an ass he still"
+    },
+    {
+      "start_time": "00:12:59,760",
+      "end_time": "00:13:04,560",
+      "text": "has to use an action to move but now"
+    },
+    {
+      "start_time": "00:13:02,800",
+      "end_time": "00:13:08,320",
+      "text": "the pole party"
+    },
+    {
+      "start_time": "00:13:04,560",
+      "end_time": "00:13:09,680",
+      "text": "only had to waste one action"
+    },
+    {
+      "start_time": "00:13:08,320",
+      "end_time": "00:13:10,639",
+      "text": "instead of four instead of four"
+    },
+    {
+      "start_time": "00:13:09,680",
+      "end_time": "00:13:11,920",
+      "text": "movements it's actually really"
+    },
+    {
+      "start_time": "00:13:10,639",
+      "end_time": "00:13:14,240",
+      "text": "interesting"
+    },
+    {
+      "start_time": "00:13:11,920",
+      "end_time": "00:13:16,800",
+      "text": "so when you're against a single target"
+    },
+    {
+      "start_time": "00:13:14,240",
+      "end_time": "00:13:18,959",
+      "text": "it can actually be better huh"
+    },
+    {
+      "start_time": "00:13:16,800",
+      "end_time": "00:13:21,200",
+      "text": "for you to shove and my hammer can shove"
+    },
+    {
+      "start_time": "00:13:18,959",
+      "end_time": "00:13:22,959",
+      "text": "and your hammer can shove now"
+    },
+    {
+      "start_time": "00:13:21,200",
+      "end_time": "00:13:24,639",
+      "text": "does this shove so i know with attack of"
+    },
+    {
+      "start_time": "00:13:22,959",
+      "end_time": "00:13:26,160",
+      "text": "opportunity i know he's just has attack"
+    },
+    {
+      "start_time": "00:13:24,639",
+      "end_time": "00:13:28,560",
+      "text": "of opportunity so when they go into his"
+    },
+    {
+      "start_time": "00:13:26,160",
+      "end_time": "00:13:30,079",
+      "text": "field into his range and then exit it he"
+    },
+    {
+      "start_time": "00:13:28,560",
+      "end_time": "00:13:32,079",
+      "text": "has an opportunity"
+    },
+    {
+      "start_time": "00:13:30,079",
+      "end_time": "00:13:34,240",
+      "text": "does that shove also no shove never"
+    },
+    {
+      "start_time": "00:13:32,079",
+      "end_time": "00:13:36,240",
+      "text": "provokes a tax about opportunity yeah"
+    },
+    {
+      "start_time": "00:13:34,240",
+      "end_time": "00:13:37,519",
+      "text": "also too if you want to get you know in"
+    },
+    {
+      "start_time": "00:13:36,240",
+      "end_time": "00:13:39,440",
+      "text": "terms of um"
+    },
+    {
+      "start_time": "00:13:37,519",
+      "end_time": "00:13:40,880",
+      "text": "you know certain certain instances"
+    },
+    {
+      "start_time": "00:13:39,440",
+      "end_time": "00:13:43,199",
+      "text": "depending on your orion when you show"
+    },
+    {
+      "start_time": "00:13:40,880",
+      "end_time": "00:13:45,120",
+      "text": "somebody you can also move so he's here"
+    },
+    {
+      "start_time": "00:13:43,199",
+      "end_time": "00:13:46,839",
+      "text": "you could have shoved him like here and"
+    },
+    {
+      "start_time": "00:13:45,120",
+      "end_time": "00:13:49,199",
+      "text": "then moved with"
+    },
+    {
+      "start_time": "00:13:46,839",
+      "end_time": "00:13:51,360",
+      "text": "him and now if you have attack of"
+    },
+    {
+      "start_time": "00:13:49,199",
+      "end_time": "00:13:53,360",
+      "text": "opportunity if he wants to you know try"
+    },
+    {
+      "start_time": "00:13:51,360",
+      "end_time": "00:13:55,440",
+      "text": "to get away from him get away from you"
+    },
+    {
+      "start_time": "00:13:53,360",
+      "end_time": "00:13:57,199",
+      "text": "uh i mean he could step and attack lucky"
+    },
+    {
+      "start_time": "00:13:55,440",
+      "end_time": "00:14:00,079",
+      "text": "yeah yeah but he couldn't get to guild"
+    },
+    {
+      "start_time": "00:13:57,199",
+      "end_time": "00:14:01,519",
+      "text": "or yeah or eskenore without provoking an"
+    },
+    {
+      "start_time": "00:14:00,079",
+      "end_time": "00:14:03,440",
+      "text": "attack of opportunity for me first"
+    },
+    {
+      "start_time": "00:14:01,519",
+      "end_time": "00:14:05,920",
+      "text": "otherwise he's going to bring his pain"
+    },
+    {
+      "start_time": "00:14:03,440",
+      "end_time": "00:14:08,079",
+      "text": "on you yeah which you know we discussed"
+    },
+    {
+      "start_time": "00:14:05,920",
+      "end_time": "00:14:09,279",
+      "text": "maybe not be the best thing but but"
+    },
+    {
+      "start_time": "00:14:08,079",
+      "end_time": "00:14:11,440",
+      "text": "imagine if this"
+    },
+    {
+      "start_time": "00:14:09,279",
+      "end_time": "00:14:13,360",
+      "text": "was you with all your hit points in full"
+    },
+    {
+      "start_time": "00:14:11,440",
+      "end_time": "00:14:14,880",
+      "text": "temp and you don't i'm taking it right"
+    },
+    {
+      "start_time": "00:14:13,360",
+      "end_time": "00:14:15,920",
+      "text": "you're taking it for the team or if it's"
+    },
+    {
+      "start_time": "00:14:14,880",
+      "end_time": "00:14:18,480",
+      "text": "escond eskenor"
+    },
+    {
+      "start_time": "00:14:15,920",
+      "end_time": "00:14:21,519",
+      "text": "right with his very high armor class so"
+    },
+    {
+      "start_time": "00:14:18,480",
+      "end_time": "00:14:23,519",
+      "text": "now can you combine that can you so"
+    },
+    {
+      "start_time": "00:14:21,519",
+      "end_time": "00:14:26,399",
+      "text": "let's say so i went in before us or"
+    },
+    {
+      "start_time": "00:14:23,519",
+      "end_time": "00:14:29,440",
+      "text": "before azias did yeah if on my last"
+    },
+    {
+      "start_time": "00:14:26,399",
+      "end_time": "00:14:32,240",
+      "text": "action i tripped him right so he's prone"
+    },
+    {
+      "start_time": "00:14:29,440",
+      "end_time": "00:14:33,760",
+      "text": "but can he shove him as well he can but"
+    },
+    {
+      "start_time": "00:14:32,240",
+      "end_time": "00:14:35,279",
+      "text": "we're we're getting to the key point"
+    },
+    {
+      "start_time": "00:14:33,760",
+      "end_time": "00:14:36,560",
+      "text": "here okay sorry if you try to trip him"
+    },
+    {
+      "start_time": "00:14:35,279",
+      "end_time": "00:14:37,519",
+      "text": "with your last action it's not gonna"
+    },
+    {
+      "start_time": "00:14:36,560",
+      "end_time": "00:14:39,760",
+      "text": "work"
+    },
+    {
+      "start_time": "00:14:37,519",
+      "end_time": "00:14:41,279",
+      "text": "you have a minus yes yeah or minus five"
+    },
+    {
+      "start_time": "00:14:39,760",
+      "end_time": "00:14:43,120",
+      "text": "minus five if you really want these to"
+    },
+    {
+      "start_time": "00:14:41,279",
+      "end_time": "00:14:44,079",
+      "text": "work against the higher level opponents"
+    },
+    {
+      "start_time": "00:14:43,120",
+      "end_time": "00:14:45,920",
+      "text": "you gotta do it on the first one you"
+    },
+    {
+      "start_time": "00:14:44,079",
+      "end_time": "00:14:47,920",
+      "text": "gotta do it on the first one which means"
+    },
+    {
+      "start_time": "00:14:45,920",
+      "end_time": "00:14:49,839",
+      "text": "somebody needs to bite the bullet"
+    },
+    {
+      "start_time": "00:14:47,920",
+      "end_time": "00:14:51,440",
+      "text": "you know and be the person who"
+    },
+    {
+      "start_time": "00:14:49,839",
+      "end_time": "00:14:52,880",
+      "text": "pushes them back and then stands there"
+    },
+    {
+      "start_time": "00:14:51,440",
+      "end_time": "00:14:54,639",
+      "text": "yeah someone needs us to be the support"
+    },
+    {
+      "start_time": "00:14:52,880",
+      "end_time": "00:14:56,240",
+      "text": "class the support class it can't always"
+    },
+    {
+      "start_time": "00:14:54,639",
+      "end_time": "00:14:57,519",
+      "text": "be now sometimes depending on the"
+    },
+    {
+      "start_time": "00:14:56,240",
+      "end_time": "00:14:59,760",
+      "text": "texture of the battlefield it might have"
+    },
+    {
+      "start_time": "00:14:57,519",
+      "end_time": "00:15:00,959",
+      "text": "to be asian but i think the key here is"
+    },
+    {
+      "start_time": "00:14:59,760",
+      "end_time": "00:15:02,399",
+      "text": "when you look at shove when i first"
+    },
+    {
+      "start_time": "00:15:00,959",
+      "end_time": "00:15:03,839",
+      "text": "looked at pathfinder i said you know i"
+    },
+    {
+      "start_time": "00:15:02,399",
+      "end_time": "00:15:06,399",
+      "text": "don't really see where you would use"
+    },
+    {
+      "start_time": "00:15:03,839",
+      "end_time": "00:15:07,920",
+      "text": "shove that much right but i think the"
+    },
+    {
+      "start_time": "00:15:06,399",
+      "end_time": "00:15:09,199",
+      "text": "real advantage of shove is understanding"
+    },
+    {
+      "start_time": "00:15:07,920",
+      "end_time": "00:15:11,040",
+      "text": "that if you"
+    },
+    {
+      "start_time": "00:15:09,199",
+      "end_time": "00:15:12,399",
+      "text": "put even one square of distance and they"
+    },
+    {
+      "start_time": "00:15:11,040",
+      "end_time": "00:15:14,160",
+      "text": "don't have reach"
+    },
+    {
+      "start_time": "00:15:12,399",
+      "end_time": "00:15:16,240",
+      "text": "then they are going to have to burn one"
+    },
+    {
+      "start_time": "00:15:14,160",
+      "end_time": "00:15:19,120",
+      "text": "of their actions which is a lot more"
+    },
+    {
+      "start_time": "00:15:16,240",
+      "end_time": "00:15:21,279",
+      "text": "precious yeah you're using one"
+    },
+    {
+      "start_time": "00:15:19,120",
+      "end_time": "00:15:23,839",
+      "text": "they're using one because you go okay i"
+    },
+    {
+      "start_time": "00:15:21,279",
+      "end_time": "00:15:27,519",
+      "text": "shove them and then he just"
+    },
+    {
+      "start_time": "00:15:23,839",
+      "end_time": "00:15:29,759",
+      "text": "five foots and comes back okay so what"
+    },
+    {
+      "start_time": "00:15:27,519",
+      "end_time": "00:15:31,440",
+      "text": "it's like well yeah but yeah 33 percent"
+    },
+    {
+      "start_time": "00:15:29,759",
+      "end_time": "00:15:33,440",
+      "text": "of their actions that's 33 of their"
+    },
+    {
+      "start_time": "00:15:31,440",
+      "end_time": "00:15:35,440",
+      "text": "you've basically stunned them yeah"
+    },
+    {
+      "start_time": "00:15:33,440",
+      "end_time": "00:15:38,240",
+      "text": "without them getting to make a save yeah"
+    },
+    {
+      "start_time": "00:15:35,440",
+      "end_time": "00:15:40,720",
+      "text": "that's huge absolutely absolutely huge"
+    },
+    {
+      "start_time": "00:15:38,240",
+      "end_time": "00:15:42,959",
+      "text": "right so you know shove can be a very"
+    },
+    {
+      "start_time": "00:15:40,720",
+      "end_time": "00:15:47,040",
+      "text": "very powerful thing because of that"
+    },
+    {
+      "start_time": "00:15:42,959",
+      "end_time": "00:15:48,959",
+      "text": "reason um now trip to your point is also"
+    },
+    {
+      "start_time": "00:15:47,040",
+      "end_time": "00:15:50,880",
+      "text": "very very very powerful but it's more"
+    },
+    {
+      "start_time": "00:15:48,959",
+      "end_time": "00:15:52,880",
+      "text": "powerful when everyone's kind of leaving"
+    },
+    {
+      "start_time": "00:15:50,880",
+      "end_time": "00:15:55,040",
+      "text": "the monster rather than going to it"
+    },
+    {
+      "start_time": "00:15:52,880",
+      "end_time": "00:15:56,160",
+      "text": "because now if everyone's like okay well"
+    },
+    {
+      "start_time": "00:15:55,040",
+      "end_time": "00:15:57,680",
+      "text": "we're going to come over here and we"
+    },
+    {
+      "start_time": "00:15:56,160",
+      "end_time": "00:15:59,279",
+      "text": "want to go do other things and fight"
+    },
+    {
+      "start_time": "00:15:57,680",
+      "end_time": "00:16:00,800",
+      "text": "other monsters and you go okay well"
+    },
+    {
+      "start_time": "00:15:59,279",
+      "end_time": "00:16:02,639",
+      "text": "before i dip out i'm going to trip him"
+    },
+    {
+      "start_time": "00:16:00,800",
+      "end_time": "00:16:04,240",
+      "text": "and now i'm going to move away now in"
+    },
+    {
+      "start_time": "00:16:02,639",
+      "end_time": "00:16:06,160",
+      "text": "order to get back to the party he's"
+    },
+    {
+      "start_time": "00:16:04,240",
+      "end_time": "00:16:07,920",
+      "text": "going to stand up one action and move"
+    },
+    {
+      "start_time": "00:16:06,160",
+      "end_time": "00:16:09,120",
+      "text": "two actions so now when he gets there"
+    },
+    {
+      "start_time": "00:16:07,920",
+      "end_time": "00:16:10,320",
+      "text": "he's only making"
+    },
+    {
+      "start_time": "00:16:09,120",
+      "end_time": "00:16:12,240",
+      "text": "one action"
+    },
+    {
+      "start_time": "00:16:10,320",
+      "end_time": "00:16:13,360",
+      "text": "so as long as i can outpace him you mean"
+    },
+    {
+      "start_time": "00:16:12,240",
+      "end_time": "00:16:15,199",
+      "text": "because if not he could move and then"
+    },
+    {
+      "start_time": "00:16:13,360",
+      "end_time": "00:16:17,440",
+      "text": "hit me well no he would stand up move"
+    },
+    {
+      "start_time": "00:16:15,199",
+      "end_time": "00:16:18,880",
+      "text": "and hit you yeah yeah yeah but one only"
+    },
+    {
+      "start_time": "00:16:17,440",
+      "end_time": "00:16:20,480",
+      "text": "one attack yeah he's not gonna attack"
+    },
+    {
+      "start_time": "00:16:18,880",
+      "end_time": "00:16:22,720",
+      "text": "you twice because if he's still standing"
+    },
+    {
+      "start_time": "00:16:20,480",
+      "end_time": "00:16:24,880",
+      "text": "he could just move and then swing at you"
+    },
+    {
+      "start_time": "00:16:22,720",
+      "end_time": "00:16:25,839",
+      "text": "twice right and so you know shove"
+    },
+    {
+      "start_time": "00:16:24,880",
+      "end_time": "00:16:28,000",
+      "text": "especially if you have a tax of"
+    },
+    {
+      "start_time": "00:16:25,839",
+      "end_time": "00:16:30,720",
+      "text": "opportunity especially if you have reach"
+    },
+    {
+      "start_time": "00:16:28,000",
+      "end_time": "00:16:33,440",
+      "text": "um can be very very very powerful and"
+    },
+    {
+      "start_time": "00:16:30,720",
+      "end_time": "00:16:34,880",
+      "text": "furthermore uh if you're outnumbering"
+    },
+    {
+      "start_time": "00:16:33,440",
+      "end_time": "00:16:36,160",
+      "text": "your phone if the opponent you're"
+    },
+    {
+      "start_time": "00:16:34,880",
+      "end_time": "00:16:37,839",
+      "text": "outnumbering the opponent there could be"
+    },
+    {
+      "start_time": "00:16:36,160",
+      "end_time": "00:16:38,959",
+      "text": "a situation where the party wants to"
+    },
+    {
+      "start_time": "00:16:37,839",
+      "end_time": "00:16:40,720",
+      "text": "sort of"
+    },
+    {
+      "start_time": "00:16:38,959",
+      "end_time": "00:16:42,000",
+      "text": "surround the guy and wail on him but"
+    },
+    {
+      "start_time": "00:16:40,720",
+      "end_time": "00:16:44,480",
+      "text": "then you're playing right into that"
+    },
+    {
+      "start_time": "00:16:42,000",
+      "end_time": "00:16:46,320",
+      "text": "monster's right he got a question he"
+    },
+    {
+      "start_time": "00:16:44,480",
+      "end_time": "00:16:48,560",
+      "text": "wants you to surround him so that he can"
+    },
+    {
+      "start_time": "00:16:46,320",
+      "end_time": "00:16:50,399",
+      "text": "just completely wail on you but if one"
+    },
+    {
+      "start_time": "00:16:48,560",
+      "end_time": "00:16:52,240",
+      "text": "person if the party surrounds someone"
+    },
+    {
+      "start_time": "00:16:50,399",
+      "end_time": "00:16:54,160",
+      "text": "and then they shove him now he's got to"
+    },
+    {
+      "start_time": "00:16:52,240",
+      "end_time": "00:16:56,000",
+      "text": "burn in action and not everyone in the"
+    },
+    {
+      "start_time": "00:16:54,160",
+      "end_time": "00:16:58,160",
+      "text": "party has to move back so in this"
+    },
+    {
+      "start_time": "00:16:56,000",
+      "end_time": "00:17:01,199",
+      "text": "scenario yeah this reminds me of our"
+    },
+    {
+      "start_time": "00:16:58,160",
+      "end_time": "00:17:03,519",
+      "text": "last fight against the uh the ogres yep"
+    },
+    {
+      "start_time": "00:17:01,199",
+      "end_time": "00:17:06,160",
+      "text": "and i knocked the guy down yeah and i"
+    },
+    {
+      "start_time": "00:17:03,519",
+      "end_time": "00:17:07,679",
+      "text": "debated whether to stand by him"
+    },
+    {
+      "start_time": "00:17:06,160",
+      "end_time": "00:17:10,000",
+      "text": "so that if he stood up i would provoke"
+    },
+    {
+      "start_time": "00:17:07,679",
+      "end_time": "00:17:11,760",
+      "text": "the attack of opportunity or leave him"
+    },
+    {
+      "start_time": "00:17:10,000",
+      "end_time": "00:17:13,679",
+      "text": "so that he would have to stand up and"
+    },
+    {
+      "start_time": "00:17:11,760",
+      "end_time": "00:17:15,919",
+      "text": "then move yeah"
+    },
+    {
+      "start_time": "00:17:13,679",
+      "end_time": "00:17:18,240",
+      "text": "and i stood there and he just attacked"
+    },
+    {
+      "start_time": "00:17:15,919",
+      "end_time": "00:17:19,679",
+      "text": "me from the ground"
+    },
+    {
+      "start_time": "00:17:18,240",
+      "end_time": "00:17:22,079",
+      "text": "so i'm wondering if i should be moving"
+    },
+    {
+      "start_time": "00:17:19,679",
+      "end_time": "00:17:23,520",
+      "text": "more away from the monster no i mean"
+    },
+    {
+      "start_time": "00:17:22,079",
+      "end_time": "00:17:24,880",
+      "text": "when there was a very powerful monster"
+    },
+    {
+      "start_time": "00:17:23,520",
+      "end_time": "00:17:26,559",
+      "text": "remember that that was a boss yeah that"
+    },
+    {
+      "start_time": "00:17:24,880",
+      "end_time": "00:17:29,520",
+      "text": "guy was a boss he had a reaction he had"
+    },
+    {
+      "start_time": "00:17:26,559",
+      "end_time": "00:17:32,080",
+      "text": "attack of opportunity remember that um"
+    },
+    {
+      "start_time": "00:17:29,520",
+      "end_time": "00:17:34,320",
+      "text": "him getting to make an extra attack"
+    },
+    {
+      "start_time": "00:17:32,080",
+      "end_time": "00:17:36,480",
+      "text": "especially with his power his damage"
+    },
+    {
+      "start_time": "00:17:34,320",
+      "end_time": "00:17:39,120",
+      "text": "bonus his attack bonus"
+    },
+    {
+      "start_time": "00:17:36,480",
+      "end_time": "00:17:41,280",
+      "text": "his extra attack is worth a lot"
+    },
+    {
+      "start_time": "00:17:39,120",
+      "end_time": "00:17:42,799",
+      "text": "if you can avoid him making an attack of"
+    },
+    {
+      "start_time": "00:17:41,280",
+      "end_time": "00:17:44,480",
+      "text": "opportunity you're going to want to do"
+    },
+    {
+      "start_time": "00:17:42,799",
+      "end_time": "00:17:45,600",
+      "text": "that and get so getting away from him is"
+    },
+    {
+      "start_time": "00:17:44,480",
+      "end_time": "00:17:47,120",
+      "text": "kind of what you're what you're"
+    },
+    {
+      "start_time": "00:17:45,600",
+      "end_time": "00:17:48,480",
+      "text": "suggesting no i'm sorry you said you"
+    },
+    {
+      "start_time": "00:17:47,120",
+      "end_time": "00:17:49,520",
+      "text": "made the right move i thought you stayed"
+    },
+    {
+      "start_time": "00:17:48,480",
+      "end_time": "00:17:51,760",
+      "text": "there right i think you made the right"
+    },
+    {
+      "start_time": "00:17:49,520",
+      "end_time": "00:17:53,600",
+      "text": "move staying because you did not engage"
+    },
+    {
+      "start_time": "00:17:51,760",
+      "end_time": "00:17:55,520",
+      "text": "his attack of opportunity which would"
+    },
+    {
+      "start_time": "00:17:53,600",
+      "end_time": "00:17:56,480",
+      "text": "have done that much more damage to you"
+    },
+    {
+      "start_time": "00:17:55,520",
+      "end_time": "00:17:58,320",
+      "text": "right if you would that's right because"
+    },
+    {
+      "start_time": "00:17:56,480",
+      "end_time": "00:18:00,720",
+      "text": "if i yeah if you would be dead in that"
+    },
+    {
+      "start_time": "00:17:58,320",
+      "end_time": "00:18:02,320",
+      "text": "match if you're prone uh"
+    },
+    {
+      "start_time": "00:18:00,720",
+      "end_time": "00:18:04,080",
+      "text": "i love how you guys call like match"
+    },
+    {
+      "start_time": "00:18:02,320",
+      "end_time": "00:18:05,840",
+      "text": "sorry mission"
+    },
+    {
+      "start_time": "00:18:04,080",
+      "end_time": "00:18:07,919",
+      "text": "i corrected myself you did but i wonder"
+    },
+    {
+      "start_time": "00:18:05,840",
+      "end_time": "00:18:10,240",
+      "text": "how long you have to play before you i'm"
+    },
+    {
+      "start_time": "00:18:07,919",
+      "end_time": "00:18:13,200",
+      "text": "guessing a lot more years right shove"
+    },
+    {
+      "start_time": "00:18:10,240",
+      "end_time": "00:18:14,960",
+      "text": "and trip can not only be used uh or trip"
+    },
+    {
+      "start_time": "00:18:13,200",
+      "end_time": "00:18:16,480",
+      "text": "rather can be used to you know inflict"
+    },
+    {
+      "start_time": "00:18:14,960",
+      "end_time": "00:18:20,000",
+      "text": "the flat-footed condition but what they"
+    },
+    {
+      "start_time": "00:18:16,480",
+      "end_time": "00:18:22,400",
+      "text": "can really be used to do is eat up enemy"
+    },
+    {
+      "start_time": "00:18:20,000",
+      "end_time": "00:18:24,320",
+      "text": "actions yeah right now we talked about"
+    },
+    {
+      "start_time": "00:18:22,400",
+      "end_time": "00:18:26,160",
+      "text": "this before the unfortunate side effect"
+    },
+    {
+      "start_time": "00:18:24,320",
+      "end_time": "00:18:29,039",
+      "text": "is that in order to do these things you"
+    },
+    {
+      "start_time": "00:18:26,160",
+      "end_time": "00:18:32,400",
+      "text": "need to have a hand-free or you need to"
+    },
+    {
+      "start_time": "00:18:29,039",
+      "end_time": "00:18:34,080",
+      "text": "have a weapon that allows you to do that"
+    },
+    {
+      "start_time": "00:18:32,400",
+      "end_time": "00:18:37,280",
+      "text": "and so in the case of azias with his"
+    },
+    {
+      "start_time": "00:18:34,080",
+      "end_time": "00:18:38,880",
+      "text": "dire maul he has it has the shove"
+    },
+    {
+      "start_time": "00:18:37,280",
+      "end_time": "00:18:40,160",
+      "text": "you don't have that i got nothing which"
+    },
+    {
+      "start_time": "00:18:38,880",
+      "end_time": "00:18:42,160",
+      "text": "is kind of funny when you think about it"
+    },
+    {
+      "start_time": "00:18:40,160",
+      "end_time": "00:18:44,960",
+      "text": "because i'm carrying a shield i know and"
+    },
+    {
+      "start_time": "00:18:42,160",
+      "end_time": "00:18:47,039",
+      "text": "i can't shove with a shield i know like"
+    },
+    {
+      "start_time": "00:18:44,960",
+      "end_time": "00:18:49,440",
+      "text": "yeah that just doesn't seem right to me"
+    },
+    {
+      "start_time": "00:18:47,039",
+      "end_time": "00:18:50,720",
+      "text": "it doesn't seem right to me either uh"
+    },
+    {
+      "start_time": "00:18:49,440",
+      "end_time": "00:18:52,720",
+      "text": "but i'm sure"
+    },
+    {
+      "start_time": "00:18:50,720",
+      "end_time": "00:18:54,720",
+      "text": "it's done for a game balance reason i'm"
+    },
+    {
+      "start_time": "00:18:52,720",
+      "end_time": "00:18:55,760",
+      "text": "sure i understand that i mean i can"
+    },
+    {
+      "start_time": "00:18:54,720",
+      "end_time": "00:18:57,200",
+      "text": "understand with the mall you have a"
+    },
+    {
+      "start_time": "00:18:55,760",
+      "end_time": "00:18:58,640",
+      "text": "massive hammer that you're basically"
+    },
+    {
+      "start_time": "00:18:57,200",
+      "end_time": "00:18:59,679",
+      "text": "smacking into somebody knocking them"
+    },
+    {
+      "start_time": "00:18:58,640",
+      "end_time": "00:19:01,760",
+      "text": "back"
+    },
+    {
+      "start_time": "00:18:59,679",
+      "end_time": "00:19:02,880",
+      "text": "you know i have a shield right you know"
+    },
+    {
+      "start_time": "00:19:01,760",
+      "end_time": "00:19:04,160",
+      "text": "i would also say that you know there"
+    },
+    {
+      "start_time": "00:19:02,880",
+      "end_time": "00:19:06,160",
+      "text": "might be some instances where shoving"
+    },
+    {
+      "start_time": "00:19:04,160",
+      "end_time": "00:19:07,440",
+      "text": "someone could be tactically advantageous"
+    },
+    {
+      "start_time": "00:19:06,160",
+      "end_time": "00:19:09,039",
+      "text": "obviously the"
+    },
+    {
+      "start_time": "00:19:07,440",
+      "end_time": "00:19:10,720",
+      "text": "the no brainer is there's a pit or"
+    },
+    {
+      "start_time": "00:19:09,039",
+      "end_time": "00:19:12,320",
+      "text": "there's a wood chipper that was awesome"
+    },
+    {
+      "start_time": "00:19:10,720",
+      "end_time": "00:19:14,480",
+      "text": "and you shove them into that obviously"
+    },
+    {
+      "start_time": "00:19:12,320",
+      "end_time": "00:19:16,000",
+      "text": "that makes total sense but you might"
+    },
+    {
+      "start_time": "00:19:14,480",
+      "end_time": "00:19:18,160",
+      "text": "have two allies and there's a space"
+    },
+    {
+      "start_time": "00:19:16,000",
+      "end_time": "00:19:20,400",
+      "text": "between them and maybe all you need to"
+    },
+    {
+      "start_time": "00:19:18,160",
+      "end_time": "00:19:22,720",
+      "text": "do is shove the enemy and now your"
+    },
+    {
+      "start_time": "00:19:20,400",
+      "end_time": "00:19:24,320",
+      "text": "allies are flanking the enemy and they"
+    },
+    {
+      "start_time": "00:19:22,720",
+      "end_time": "00:19:26,160",
+      "text": "don't have to move right you're not they"
+    },
+    {
+      "start_time": "00:19:24,320",
+      "end_time": "00:19:27,760",
+      "text": "don't have to waste an action in order"
+    },
+    {
+      "start_time": "00:19:26,160",
+      "end_time": "00:19:30,080",
+      "text": "to set up a flag shove them within their"
+    },
+    {
+      "start_time": "00:19:27,760",
+      "end_time": "00:19:31,679",
+      "text": "reach you move them into the flank um"
+    },
+    {
+      "start_time": "00:19:30,080",
+      "end_time": "00:19:33,520",
+      "text": "another option might be that like"
+    },
+    {
+      "start_time": "00:19:31,679",
+      "end_time": "00:19:37,120",
+      "text": "someone might be threatening one of your"
+    },
+    {
+      "start_time": "00:19:33,520",
+      "end_time": "00:19:38,559",
+      "text": "casters now your caster could step"
+    },
+    {
+      "start_time": "00:19:37,120",
+      "end_time": "00:19:40,400",
+      "text": "and then cast a spell with their"
+    },
+    {
+      "start_time": "00:19:38,559",
+      "end_time": "00:19:44,080",
+      "text": "remaining two actions but they would"
+    },
+    {
+      "start_time": "00:19:40,400",
+      "end_time": "00:19:45,520",
+      "text": "rather stride and move you know 25 or 30"
+    },
+    {
+      "start_time": "00:19:44,080",
+      "end_time": "00:19:47,679",
+      "text": "feet away but if they do that they're"
+    },
+    {
+      "start_time": "00:19:45,520",
+      "end_time": "00:19:50,000",
+      "text": "going to attack an attack of opportunity"
+    },
+    {
+      "start_time": "00:19:47,679",
+      "end_time": "00:19:50,960",
+      "text": "so if you shove the monster off of your"
+    },
+    {
+      "start_time": "00:19:50,000",
+      "end_time": "00:19:53,520",
+      "text": "ally"
+    },
+    {
+      "start_time": "00:19:50,960",
+      "end_time": "00:19:56,000",
+      "text": "then your ally goes and your ally can"
+    },
+    {
+      "start_time": "00:19:53,520",
+      "end_time": "00:19:57,679",
+      "text": "move the 30 feet and not encourage them"
+    },
+    {
+      "start_time": "00:19:56,000",
+      "end_time": "00:19:59,760",
+      "text": "and then the attack opportunity and then"
+    },
+    {
+      "start_time": "00:19:57,679",
+      "end_time": "00:20:02,240",
+      "text": "cast a spell so this is also extremely"
+    },
+    {
+      "start_time": "00:19:59,760",
+      "end_time": "00:20:03,440",
+      "text": "beneficial then for a spellcaster that"
+    },
+    {
+      "start_time": "00:20:02,240",
+      "end_time": "00:20:05,919",
+      "text": "is"
+    },
+    {
+      "start_time": "00:20:03,440",
+      "end_time": "00:20:06,559",
+      "text": "unfortunately engaged in melee combat"
+    },
+    {
+      "start_time": "00:20:05,919",
+      "end_time": "00:20:07,919",
+      "text": "and"
+    },
+    {
+      "start_time": "00:20:06,559",
+      "end_time": "00:20:09,360",
+      "text": "well it's usually the case that a"
+    },
+    {
+      "start_time": "00:20:07,919",
+      "end_time": "00:20:11,679",
+      "text": "spellcaster should not be they should"
+    },
+    {
+      "start_time": "00:20:09,360",
+      "end_time": "00:20:13,760",
+      "text": "not what i'm just saying is if if the"
+    },
+    {
+      "start_time": "00:20:11,679",
+      "end_time": "00:20:15,280",
+      "text": "enemy goes around all of the melee"
+    },
+    {
+      "start_time": "00:20:13,760",
+      "end_time": "00:20:16,720",
+      "text": "characters and starts to go after the"
+    },
+    {
+      "start_time": "00:20:15,280",
+      "end_time": "00:20:18,400",
+      "text": "spellcasters because they realize that's"
+    },
+    {
+      "start_time": "00:20:16,720",
+      "end_time": "00:20:20,960",
+      "text": "where the damage is being dealt well and"
+    },
+    {
+      "start_time": "00:20:18,400",
+      "end_time": "00:20:22,000",
+      "text": "the paladin left 90 of the time it's"
+    },
+    {
+      "start_time": "00:20:20,960",
+      "end_time": "00:20:24,000",
+      "text": "going to be better for the spellcaster"
+    },
+    {
+      "start_time": "00:20:22,000",
+      "end_time": "00:20:24,960",
+      "text": "to just step because they're probably"
+    },
+    {
+      "start_time": "00:20:24,000",
+      "end_time": "00:20:25,760",
+      "text": "not going to have a high athletics"
+    },
+    {
+      "start_time": "00:20:24,960",
+      "end_time": "00:20:28,159",
+      "text": "they're probably not going to have"
+    },
+    {
+      "start_time": "00:20:25,760",
+      "end_time": "00:20:29,039",
+      "text": "that's true that's true and furthermore"
+    },
+    {
+      "start_time": "00:20:28,159",
+      "end_time": "00:20:30,880",
+      "text": "like you want to be able to"
+    },
+    {
+      "start_time": "00:20:29,039",
+      "end_time": "00:20:33,600",
+      "text": "automatically succeed that's why i wish"
+    },
+    {
+      "start_time": "00:20:30,880",
+      "end_time": "00:20:35,280",
+      "text": "my hammer could hook and pull but we"
+    },
+    {
+      "start_time": "00:20:33,600",
+      "end_time": "00:20:36,559",
+      "text": "discussed that that's not possible yeah"
+    },
+    {
+      "start_time": "00:20:35,280",
+      "end_time": "00:20:38,320",
+      "text": "i don't i don't even see how that would"
+    },
+    {
+      "start_time": "00:20:36,559",
+      "end_time": "00:20:39,919",
+      "text": "work i think it's just so cool sounding"
+    },
+    {
+      "start_time": "00:20:38,320",
+      "end_time": "00:20:42,000",
+      "text": "well also it's like it's a big heavy"
+    },
+    {
+      "start_time": "00:20:39,919",
+      "end_time": "00:20:43,919",
+      "text": "object yeah so i'm really strong it"
+    },
+    {
+      "start_time": "00:20:42,000",
+      "end_time": "00:20:45,440",
+      "text": "makes more sense to push away because"
+    },
+    {
+      "start_time": "00:20:43,919",
+      "end_time": "00:20:46,559",
+      "text": "you're like you're shoving them i want"
+    },
+    {
+      "start_time": "00:20:45,440",
+      "end_time": "00:20:47,919",
+      "text": "to grab them and pull them in because"
+    },
+    {
+      "start_time": "00:20:46,559",
+      "end_time": "00:20:49,600",
+      "text": "when you're pulling it now you have to"
+    },
+    {
+      "start_time": "00:20:47,919",
+      "end_time": "00:20:51,600",
+      "text": "work against the weight i know it's"
+    },
+    {
+      "start_time": "00:20:49,600",
+      "end_time": "00:20:53,440",
+      "text": "actually harder i know i still think"
+    },
+    {
+      "start_time": "00:20:51,600",
+      "end_time": "00:20:55,520",
+      "text": "it's cool a very light object like a"
+    },
+    {
+      "start_time": "00:20:53,440",
+      "end_time": "00:20:57,200",
+      "text": "whip we don't have any killing someone i"
+    },
+    {
+      "start_time": "00:20:55,520",
+      "end_time": "00:20:59,120",
+      "text": "know i'm wrong i still think it's cool"
+    },
+    {
+      "start_time": "00:20:57,200",
+      "end_time": "00:21:01,600",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:20:59,120",
+      "end_time": "00:21:03,360",
+      "text": "um so yeah so shove is obviously used"
+    },
+    {
+      "start_time": "00:21:01,600",
+      "end_time": "00:21:05,120",
+      "text": "for repositioning it can be used to eat"
+    },
+    {
+      "start_time": "00:21:03,360",
+      "end_time": "00:21:07,440",
+      "text": "up enemies actions by making them have"
+    },
+    {
+      "start_time": "00:21:05,120",
+      "end_time": "00:21:09,760",
+      "text": "to stride or step in extra time it can"
+    },
+    {
+      "start_time": "00:21:07,440",
+      "end_time": "00:21:11,360",
+      "text": "be used to reposition them into a flank"
+    },
+    {
+      "start_time": "00:21:09,760",
+      "end_time": "00:21:13,840",
+      "text": "it can also be used like i said to break"
+    },
+    {
+      "start_time": "00:21:11,360",
+      "end_time": "00:21:15,280",
+      "text": "them off of an ally to allow that allies"
+    },
+    {
+      "start_time": "00:21:13,840",
+      "end_time": "00:21:16,640",
+      "text": "some breathing room so that they can get"
+    },
+    {
+      "start_time": "00:21:15,280",
+      "end_time": "00:21:17,760",
+      "text": "away and not provoke an attack"
+    },
+    {
+      "start_time": "00:21:16,640",
+      "end_time": "00:21:20,320",
+      "text": "opportunity"
+    },
+    {
+      "start_time": "00:21:17,760",
+      "end_time": "00:21:21,919",
+      "text": "trip is just the nuts um it usually is"
+    },
+    {
+      "start_time": "00:21:20,320",
+      "end_time": "00:21:23,919",
+      "text": "going to end up eating it up in action"
+    },
+    {
+      "start_time": "00:21:21,919",
+      "end_time": "00:21:25,679",
+      "text": "um it can potentially provoke an attack"
+    },
+    {
+      "start_time": "00:21:23,919",
+      "end_time": "00:21:27,360",
+      "text": "of opportunity if you have a lot of"
+    },
+    {
+      "start_time": "00:21:25,679",
+      "end_time": "00:21:30,159",
+      "text": "people in your party with the attack of"
+    },
+    {
+      "start_time": "00:21:27,360",
+      "end_time": "00:21:31,520",
+      "text": "opportunity ability trip is oh yeah the"
+    },
+    {
+      "start_time": "00:21:30,159",
+      "end_time": "00:21:32,720",
+      "text": "best thing you could be doing especially"
+    },
+    {
+      "start_time": "00:21:31,520",
+      "end_time": "00:21:34,000",
+      "text": "if it's part of like your attack i know"
+    },
+    {
+      "start_time": "00:21:32,720",
+      "end_time": "00:21:35,200",
+      "text": "danny had that"
+    },
+    {
+      "start_time": "00:21:34,000",
+      "end_time": "00:21:37,280",
+      "text": "drag"
+    },
+    {
+      "start_time": "00:21:35,200",
+      "end_time": "00:21:39,440",
+      "text": "from the monk and that could make him"
+    },
+    {
+      "start_time": "00:21:37,280",
+      "end_time": "00:21:41,120",
+      "text": "trip afterwards i'm like pull things off"
+    },
+    {
+      "start_time": "00:21:39,440",
+      "end_time": "00:21:42,559",
+      "text": "yeah the other thing too"
+    },
+    {
+      "start_time": "00:21:41,120",
+      "end_time": "00:21:43,919",
+      "text": "sorry the other thing too was that he"
+    },
+    {
+      "start_time": "00:21:42,559",
+      "end_time": "00:21:45,440",
+      "text": "had the ability that if they tried to"
+    },
+    {
+      "start_time": "00:21:43,919",
+      "end_time": "00:21:46,880",
+      "text": "stand up oh yeah"
+    },
+    {
+      "start_time": "00:21:45,440",
+      "end_time": "00:21:48,799",
+      "text": "yeah he was able to interrupt that"
+    },
+    {
+      "start_time": "00:21:46,880",
+      "end_time": "00:21:50,880",
+      "text": "action and potentially stop them from"
+    },
+    {
+      "start_time": "00:21:48,799",
+      "end_time": "00:21:52,720",
+      "text": "doing it which would eat up basically"
+    },
+    {
+      "start_time": "00:21:50,880",
+      "end_time": "00:21:54,400",
+      "text": "use up their actions up their whole turn"
+    },
+    {
+      "start_time": "00:21:52,720",
+      "end_time": "00:21:56,640",
+      "text": "yeah but i mean i mean it's it's the"
+    },
+    {
+      "start_time": "00:21:54,400",
+      "end_time": "00:21:58,480",
+      "text": "case where let's say asia has attack of"
+    },
+    {
+      "start_time": "00:21:56,640",
+      "end_time": "00:22:00,320",
+      "text": "opportunity and then let's say that you"
+    },
+    {
+      "start_time": "00:21:58,480",
+      "end_time": "00:22:02,080",
+      "text": "had another person in the party like you"
+    },
+    {
+      "start_time": "00:22:00,320",
+      "end_time": "00:22:03,919",
+      "text": "know if gore came back our fighter and"
+    },
+    {
+      "start_time": "00:22:02,080",
+      "end_time": "00:22:05,679",
+      "text": "here and he had attack of opportunity"
+    },
+    {
+      "start_time": "00:22:03,919",
+      "end_time": "00:22:07,600",
+      "text": "and then you had danny who was playing a"
+    },
+    {
+      "start_time": "00:22:05,679",
+      "end_time": "00:22:09,440",
+      "text": "monk who had stand still which provokes"
+    },
+    {
+      "start_time": "00:22:07,600",
+      "end_time": "00:22:10,799",
+      "text": "the heck of a virginia movement if the"
+    },
+    {
+      "start_time": "00:22:09,440",
+      "end_time": "00:22:13,200",
+      "text": "three of you were surrounding someone"
+    },
+    {
+      "start_time": "00:22:10,799",
+      "end_time": "00:22:15,200",
+      "text": "and tripped them when they went to stand"
+    },
+    {
+      "start_time": "00:22:13,200",
+      "end_time": "00:22:17,280",
+      "text": "up oh god all three of you would get to"
+    },
+    {
+      "start_time": "00:22:15,200",
+      "end_time": "00:22:19,280",
+      "text": "make a text of opportunity that's deadly"
+    },
+    {
+      "start_time": "00:22:17,280",
+      "end_time": "00:22:21,280",
+      "text": "right there so prone is you know"
+    },
+    {
+      "start_time": "00:22:19,280",
+      "end_time": "00:22:23,280",
+      "text": "knocking someone you know and the and i"
+    },
+    {
+      "start_time": "00:22:21,280",
+      "end_time": "00:22:26,880",
+      "text": "also had this the other advantage of"
+    },
+    {
+      "start_time": "00:22:23,280",
+      "end_time": "00:22:28,720",
+      "text": "tripping is it targets their reflex"
+    },
+    {
+      "start_time": "00:22:26,880",
+      "end_time": "00:22:30,799",
+      "text": "right whereas shove targets are"
+    },
+    {
+      "start_time": "00:22:28,720",
+      "end_time": "00:22:32,400",
+      "text": "fortitude oh that okay that i wasn't"
+    },
+    {
+      "start_time": "00:22:30,799",
+      "end_time": "00:22:35,600",
+      "text": "even thinking about that stuff so a lot"
+    },
+    {
+      "start_time": "00:22:32,400",
+      "end_time": "00:22:37,200",
+      "text": "of times like the big heavy brutes"
+    },
+    {
+      "start_time": "00:22:35,600",
+      "end_time": "00:22:39,919",
+      "text": "are gonna have"
+    },
+    {
+      "start_time": "00:22:37,200",
+      "end_time": "00:22:41,360",
+      "text": "fortitude good fortune but a bad reflex"
+    },
+    {
+      "start_time": "00:22:39,919",
+      "end_time": "00:22:43,440",
+      "text": "that that makes it even better to want"
+    },
+    {
+      "start_time": "00:22:41,360",
+      "end_time": "00:22:46,400",
+      "text": "to trip like the big baddie yeah"
+    },
+    {
+      "start_time": "00:22:43,440",
+      "end_time": "00:22:47,919",
+      "text": "so wow okay i mean you know compare your"
+    },
+    {
+      "start_time": "00:22:46,400",
+      "end_time": "00:22:51,520",
+      "text": "character what's your fortitude versus"
+    },
+    {
+      "start_time": "00:22:47,919",
+      "end_time": "00:22:52,799",
+      "text": "your reflex do you know i think it's uh"
+    },
+    {
+      "start_time": "00:22:51,520",
+      "end_time": "00:22:54,720",
+      "text": "he's gonna look"
+    },
+    {
+      "start_time": "00:22:52,799",
+      "end_time": "00:22:56,400",
+      "text": "but uh you know so that could be 13 well"
+    },
+    {
+      "start_time": "00:22:54,720",
+      "end_time": "00:22:58,000",
+      "text": "it's 14 now"
+    },
+    {
+      "start_time": "00:22:56,400",
+      "end_time": "00:22:59,039",
+      "text": "point difference oh it's five point"
+    },
+    {
+      "start_time": "00:22:58,000",
+      "end_time": "00:23:00,000",
+      "text": "difference yeah five point difference"
+    },
+    {
+      "start_time": "00:22:59,039",
+      "end_time": "00:23:02,320",
+      "text": "that's huge right i mean that's"
+    },
+    {
+      "start_time": "00:23:00,000",
+      "end_time": "00:23:03,840",
+      "text": "absolutely huge and if you crit on the"
+    },
+    {
+      "start_time": "00:23:02,320",
+      "end_time": "00:23:06,159",
+      "text": "trip they take an extra couple points of"
+    },
+    {
+      "start_time": "00:23:03,840",
+      "end_time": "00:23:07,679",
+      "text": "damage oh like a fall yeah okay kind of"
+    },
+    {
+      "start_time": "00:23:06,159",
+      "end_time": "00:23:09,520",
+      "text": "silly bludgeoning damage should be more"
+    },
+    {
+      "start_time": "00:23:07,679",
+      "end_time": "00:23:11,440",
+      "text": "but yeah it's bludgeoning so trip is"
+    },
+    {
+      "start_time": "00:23:09,520",
+      "end_time": "00:23:13,679",
+      "text": "going to depend on how tall you are yeah"
+    },
+    {
+      "start_time": "00:23:11,440",
+      "end_time": "00:23:15,360",
+      "text": "so trip can make someone flat-footed it"
+    },
+    {
+      "start_time": "00:23:13,679",
+      "end_time": "00:23:16,640",
+      "text": "can make them flat-footed to not just"
+    },
+    {
+      "start_time": "00:23:15,360",
+      "end_time": "00:23:18,080",
+      "text": "you know the melee characters can make"
+    },
+    {
+      "start_time": "00:23:16,640",
+      "end_time": "00:23:19,039",
+      "text": "them flat-footed to the you know who are"
+    },
+    {
+      "start_time": "00:23:18,080",
+      "end_time": "00:23:20,480",
+      "text": "used to getting flat-footed from"
+    },
+    {
+      "start_time": "00:23:19,039",
+      "end_time": "00:23:23,360",
+      "text": "flanking but it can make them"
+    },
+    {
+      "start_time": "00:23:20,480",
+      "end_time": "00:23:24,880",
+      "text": "flat-footed uh to your range attackers"
+    },
+    {
+      "start_time": "00:23:23,360",
+      "end_time": "00:23:26,320",
+      "text": "to your spell casters who might be using"
+    },
+    {
+      "start_time": "00:23:24,880",
+      "end_time": "00:23:27,679",
+      "text": "spell attacks it could be very very"
+    },
+    {
+      "start_time": "00:23:26,320",
+      "end_time": "00:23:29,200",
+      "text": "powerful when they're on the ground they"
+    },
+    {
+      "start_time": "00:23:27,679",
+      "end_time": "00:23:30,640",
+      "text": "get a minus two penalty to attack when"
+    },
+    {
+      "start_time": "00:23:29,200",
+      "end_time": "00:23:31,520",
+      "text": "you're flanking someone"
+    },
+    {
+      "start_time": "00:23:30,640",
+      "end_time": "00:23:33,440",
+      "text": "and you"
+    },
+    {
+      "start_time": "00:23:31,520",
+      "end_time": "00:23:34,880",
+      "text": "have them flat-footed to those attacks"
+    },
+    {
+      "start_time": "00:23:33,440",
+      "end_time": "00:23:36,960",
+      "text": "that's great but they don't get a"
+    },
+    {
+      "start_time": "00:23:34,880",
+      "end_time": "00:23:39,679",
+      "text": "penalty to their attack roles if they're"
+    },
+    {
+      "start_time": "00:23:36,960",
+      "end_time": "00:23:41,039",
+      "text": "prone they do they do that's huge and"
+    },
+    {
+      "start_time": "00:23:39,679",
+      "end_time": "00:23:42,080",
+      "text": "then of course it takes an action to"
+    },
+    {
+      "start_time": "00:23:41,039",
+      "end_time": "00:23:43,360",
+      "text": "stand up"
+    },
+    {
+      "start_time": "00:23:42,080",
+      "end_time": "00:23:45,200",
+      "text": "and that could potentially provoke"
+    },
+    {
+      "start_time": "00:23:43,360",
+      "end_time": "00:23:48,799",
+      "text": "attacks of opportunity too"
+    },
+    {
+      "start_time": "00:23:45,200",
+      "end_time": "00:23:50,799",
+      "text": "prone can be brutal trip can be brutal"
+    },
+    {
+      "start_time": "00:23:48,799",
+      "end_time": "00:23:52,559",
+      "text": "yeah it's a great and you could stack"
+    },
+    {
+      "start_time": "00:23:50,799",
+      "end_time": "00:23:54,559",
+      "text": "other penalties on someone that's"
+    },
+    {
+      "start_time": "00:23:52,559",
+      "end_time": "00:23:56,080",
+      "text": "tripped that's prone now that makes them"
+    },
+    {
+      "start_time": "00:23:54,559",
+      "end_time": "00:23:58,400",
+      "text": "better like yeah they're prone the"
+    },
+    {
+      "start_time": "00:23:56,080",
+      "end_time": "00:24:00,799",
+      "text": "status they're they're moralized"
+    },
+    {
+      "start_time": "00:23:58,400",
+      "end_time": "00:24:03,360",
+      "text": "but also keep in mind right remember"
+    },
+    {
+      "start_time": "00:24:00,799",
+      "end_time": "00:24:05,039",
+      "text": "things like frightened or sickened also"
+    },
+    {
+      "start_time": "00:24:03,360",
+      "end_time": "00:24:07,360",
+      "text": "you know give you a minus one penalty to"
+    },
+    {
+      "start_time": "00:24:05,039",
+      "end_time": "00:24:08,799",
+      "text": "your um your saves your saves and your"
+    },
+    {
+      "start_time": "00:24:07,360",
+      "end_time": "00:24:10,640",
+      "text": "things but that also means that the save"
+    },
+    {
+      "start_time": "00:24:08,799",
+      "end_time": "00:24:12,559",
+      "text": "dc goes down"
+    },
+    {
+      "start_time": "00:24:10,640",
+      "end_time": "00:24:15,840",
+      "text": "so if someone yeah right so someone's"
+    },
+    {
+      "start_time": "00:24:12,559",
+      "end_time": "00:24:18,400",
+      "text": "reflex save is let's say 14 then the dc"
+    },
+    {
+      "start_time": "00:24:15,840",
+      "end_time": "00:24:21,600",
+      "text": "to trip them is 24. if you make them"
+    },
+    {
+      "start_time": "00:24:18,400",
+      "end_time": "00:24:24,000",
+      "text": "frightened it's 22. it's well 21"
+    },
+    {
+      "start_time": "00:24:21,600",
+      "end_time": "00:24:25,279",
+      "text": "depending on your sorry wow"
+    },
+    {
+      "start_time": "00:24:24,000",
+      "end_time": "00:24:26,880",
+      "text": "minus one every one yeah if they're"
+    },
+    {
+      "start_time": "00:24:25,279",
+      "end_time": "00:24:28,000",
+      "text": "frightened i didn't give a number so you"
+    },
+    {
+      "start_time": "00:24:26,880",
+      "end_time": "00:24:30,000",
+      "text": "any number you could have said would"
+    },
+    {
+      "start_time": "00:24:28,000",
+      "end_time": "00:24:32,159",
+      "text": "have been right there but uh if they're"
+    },
+    {
+      "start_time": "00:24:30,000",
+      "end_time": "00:24:35,600",
+      "text": "frightened one now their reflex bonus is"
+    },
+    {
+      "start_time": "00:24:32,159",
+      "end_time": "00:24:37,120",
+      "text": "only plus 13 so the dc is now 23. so"
+    },
+    {
+      "start_time": "00:24:35,600",
+      "end_time": "00:24:40,000",
+      "text": "it's easier to trip them because they're"
+    },
+    {
+      "start_time": "00:24:37,120",
+      "end_time": "00:24:41,840",
+      "text": "frightened so trip is"
+    },
+    {
+      "start_time": "00:24:40,000",
+      "end_time": "00:24:43,679",
+      "text": "powerful very powerful all right well"
+    },
+    {
+      "start_time": "00:24:41,840",
+      "end_time": "00:24:46,480",
+      "text": "thank you for joining us for this uh"
+    },
+    {
+      "start_time": "00:24:43,679",
+      "end_time": "00:24:47,760",
+      "text": "combat and tactics vol 3 athletics"
+    },
+    {
+      "start_time": "00:24:46,480",
+      "end_time": "00:24:49,600",
+      "text": "edition"
+    },
+    {
+      "start_time": "00:24:47,760",
+      "end_time": "00:24:50,960",
+      "text": "join us of course for future tips and"
+    },
+    {
+      "start_time": "00:24:49,600",
+      "end_time": "00:24:53,120",
+      "text": "tricks"
+    },
+    {
+      "start_time": "00:24:50,960",
+      "end_time": "00:24:54,960",
+      "text": "subscribe please leave a like if you"
+    },
+    {
+      "start_time": "00:24:53,120",
+      "end_time": "00:24:57,279",
+      "text": "enjoyed this comment leave some or sorry"
+    },
+    {
+      "start_time": "00:24:54,960",
+      "end_time": "00:24:58,400",
+      "text": "this content leave a comment below with"
+    },
+    {
+      "start_time": "00:24:57,279",
+      "end_time": "00:25:00,000",
+      "text": "other things that you think we should"
+    },
+    {
+      "start_time": "00:24:58,400",
+      "end_time": "00:25:01,360",
+      "text": "cover there's a lot of elements to"
+    },
+    {
+      "start_time": "00:25:00,000",
+      "end_time": "00:25:03,279",
+      "text": "pathfinder 2 and we'll get around to"
+    },
+    {
+      "start_time": "00:25:01,360",
+      "end_time": "00:25:05,360",
+      "text": "them eventually check out our discord"
+    },
+    {
+      "start_time": "00:25:03,279",
+      "end_time": "00:25:06,640",
+      "text": "the link is in the doobly-doo below and"
+    },
+    {
+      "start_time": "00:25:05,360",
+      "end_time": "00:25:08,799",
+      "text": "that'll kind of if you're interested in"
+    },
+    {
+      "start_time": "00:25:06,640",
+      "end_time": "00:25:10,159",
+      "text": "supporting us helping us or just uh you"
+    },
+    {
+      "start_time": "00:25:08,799",
+      "end_time": "00:25:11,520",
+      "text": "know joining us to tell us how wrong we"
+    },
+    {
+      "start_time": "00:25:10,159",
+      "end_time": "00:25:14,799",
+      "text": "are about everything we'd appreciate all"
+    },
+    {
+      "start_time": "00:25:11,520",
+      "end_time": "00:25:16,960",
+      "text": "of that yeah all right well for the"
+    },
+    {
+      "start_time": "00:25:14,799",
+      "end_time": "00:25:18,799",
+      "text": "knights of last call my name is derek"
+    },
+    {
+      "start_time": "00:25:16,960",
+      "end_time": "00:25:24,840",
+      "text": "melinda saying thank you for joining us"
+    },
+    {
+      "start_time": "00:25:18,799",
+      "end_time": "00:25:24,840",
+      "text": "and welcome to the nights of last call"
+    },
+    {
+      "start_time": "00:25:24,970",
+      "end_time": "00:25:42,240",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:25:40,159",
+      "end_time": "00:25:42,240",
+      "text": "you"
+    }
+  ],
+  "full_text": "today on the night life combat and\ntactics volume three\nwelcome back everyone to another episode\nof the nightlife i am derek melenda\njoined by just a couple members of the\nknights tonight we've got bob yep i'm\nhere i made it\nyou did i did nick how you doing\nall right i'm doing all right how are uh\nhow's the car\nin one piece and up and operational now\nso we're having fun with it again that's\ngreat please continue to comment like\nand subscribe to this video if you want\nto see more from us we've really been\nenjoying getting to know the community\nbetter there's some of you that comment\non seemingly most of our videos and i\nlove it and of course we have some of\nyou who have gone ahead and taken that\nextra step and joined our patreon\na lot of thanks to that the link is down\nbelow we've got an exciting discord\ngoing on we've got some future things\nplanned we're thinking about starting to\nmake some\npathfinder two content the discord is\nhot right now oh it is it takes up way\ntoo much of my time it is like\nbut uh you know we really want to figure\nout what we can do for the community who\nuh are supporting us and if that means\nyou know making some additional content\nmaybe some pathfinder two specific items\nor creatures or adventures uh you know\nwe'll start to do that we want to hear\nfrom you\nwhat what would you like to see from us\nthat would you know sort of push you\ninto that realm to decide to support us\nbut i digress\nlet's get into it so combat and tactics\nvolume three\nso since we only have nick and bob with\nus today we thought we would cover some\nmore combat and physical type marshall\nstuff some marshall stuff yeah keep it\nin my wheelhouse exactly so uh let's get\nstarted um\nall right well bob uh you uh you're a\nbig fan of this you used it very uh very\nfamously in uh is it the shove\noh i knew it was that when i shoved that\nguy into that and it was like an open\nwater area it was a lumber mill yeah you\nsaw you you shoved him into a saw i mean\nit was pretty cool oh yeah like a movie\nwhat kind of movie are you\nsaw\nnow i'm imagining like aragorn kicking\nan orc into a buzz buzz chopper this is\nspata\nso so first thing i wanted now this is\nsort of a of a multi-phase tip because\nreally what i want to talk about are the\nathletics\nskill actions and how they relate to\ncombat now there are\ntrip shove\num\nkeep going\ntrip shove yup\nuh\ni i don't know\nin combat yep\ndo you know them trip shove and\nthose only two i ever use that well i'll\ni'll give you a hint one is not very\nused often because it's not very good oh\ni probably don't remember it i was\nthinking that's some kind of lift or\ngrapple crap okay okay yeah i got that\none um and the fourth one is disarmed\ni was getting ready for something\nyeah dang it disarming block yeah i knew\ngrapple now and we can talk about this\nreal quick um one of the reasons why you\nguys may not be as familiar\nwith those and and i think this is true\nfor a lot of people in pathfinder um\nunfortunately well\ni understand why they did it but\nunfortunately in order to use any of the\nathletic skill actions disarm trip shove\nor grapple you need to have\nyep a free hand and i'm wielding that\ntwo-handed maul and a lot of people in\npathfinder 2 are either wielding a\ntwo-handed weapon they have a sword and\na shield\nor\nthey are wielding two weapons so that\nmeans they do not have a free hand now i\nshould note that pathfinder two has\ntried really really hard in order to\ngive people an incentive to go with only\na one-handed weapon and the other hand\nfree\nnamely all these skill actions we're\nabout to talk about but also too um\nthere's even some fighter\npaths and builds that are sort of built\naround only having uh one hand or having\na hand free i should say and they also\nhave feats that allow you to for like\nthe paladin has a feet where you\nactually have the shield kind of\narbitrarily fastened to your arm like a\nbuckler\nwhich gives you a free hand for some of\nthose abilities does it not it does not\nah it gives you a free hand to like hold\na torch okay but it cannot be used for\nan attack action gotcha the other reason\nthat some of these skills do not get\nused as often is because they are skills\nlike\nintimidate is used for demoralize\nbut they have the attack tag or the\nattack trait and that means they share\nin are affected by and increase your\nmultiple attack penalty yep and\nyou know i can speak for myself here but\nyou know\nand and i'd love to hear you guys chime\nin on this as well\nit just doesn't seem fun to use your\nbest attack to knock someone down no\nno you usually i'm hitting i'm hitting\nthem and then i'm like what could i do\nwith my third action right and by that\nshovel right and by that time your third\naction is minus 10. yeah i was gonna say\nand the payoff is not good enough so if\nyou shove someone to take an action\nthey're going to be flat-footed if they\nif they're prone right you trip if you\ntrip sorry if you trip someone and\nthey're prone yep that's only a minus\ntwo correct\nbut my multiple attack penalty was going\nto drop two minus five correct for the\nnext one right so\nyes i'm better\nbut i'm still\nnot gaining anything yep it's it's\nhurting you more than it's you're just\nhelping\noh how wrong nick is that's right bob\nthat's exactly that's very true you are\nhelping your team yeah yes and i think\nthat's the important thing to note now\nand i'll give you a great example of\nthis um boy man we could really go off\non this uh\nthat's why we're here um\nso\nhere's the thing\nif we use nick and bob if we use two u2\nas examples now nick you're playing a\nchampion yes let's ignore for a moment\nyour shield so i dropped my shield let's\nsay in battle let's just ignore it for\nthis time let's say you had the ability\nto easily trip and shove and do all\nthose things okay\num\nyour character does somewhere around the\nneighborhood of you know 2d eight points\nof damage plus six right not very much\nnot a whole lot right now azias bob your\nbarbarian who is giant instinct oh yeah\nhe does a lot yeah plus eight uh plus\n16. right 2d8 2d 12 plus 16. 2d 12. yeah\nwhen he's raging right right so when\nyou're not raging bob's character does\non average 31 points of damage actually\na little bit more because your rune is\nshocking but yeah\n31 damage well as esknore the champion\nhe's only doing 15. so asius literally\ndoes twice as much damage as this that\nmeans escalator has to hit twice\nto do as much damage as azius does in\none attack now that to me tells me yeah\nyou know azius or character like him\nshould not be probably using their\nattack to\nyou know trip trip shove or push because\nyour job in the party is to do that\ndamage someone has to right and you know\nknocking someone prone and being making\nthem flat-footed or intimidating them\nand making them frighten one those are\nall good things but the best status\nis dead\n[Laughter]\nbecause it turns out when the character\nis dead they're also prone you know um\nuh yeah six feet under prone and they\ncan't hurt me yeah hypothetically so you\nknow one of the things is understanding\nyour role in a fight and whether or not\nyou are this damage dealing character\nbecause if you're not and that's not\nwhat you're contributing then to your\npoint nick yeah using your best attack\nto knock someone prone you're like well\nit doesn't really make that much of a\npayoff they get a minus two to their ac\nbut i now have a minus five penalty to\nmy next attack so i'm down right but no\none else is right so it'll apply for the\nnext round for everybody else so it\nwould be it would behoove me to try to\npotentially trip\nif i know that asius is coming up next\ncorrect to also lay down that destiny if\nyeah if someone is tripped it means that\num you know burl uh you know if he uses\na spell attack role that character is\nflat-footed\nright they're ac's lower for purposes of\nhitting him with like a fireball or not\na fireball sorry like a fire bolt if\ntim's arcane archer shoots an arrow the\ncharacter is flat-footed if lucky burl's\nanimal companion badger gets into it\nthey're all flat-footed to that but they\nalso have to use an action to get up you\ngot it that is i think even more\nimportant now we talked about before\nabout a tip about the action economy now\nyeah\nwe're also talking about like a single\nenemy right yep\nsometimes i don't know is tripping the\nmost ideal thing when there's a handful\nof because there's my action economy\nnext and it's like yeah if they only\nhave three actions and i took one of\nthem so they have to step up that's huge\nbut there's five of them and only one\nguy is it's maybe not the i don't know\nwell we're going to go let me give you\nan example and again this is a this is a\nvery um\nwhat's the word i'm looking for\nvisual well it's a very simplistic\nexample okay okay so we're going to use\nwe've got our we got our three party\nmembers here yeah we've got eskenor\nwe've got azias that's me uh we got\nguild or\ngot somebody else around here\nwe'll just put lucky in okay\nso this is our team of team good okay\nright\nnow i'm gonna again this is a very\nsimplistic example\nthe party\nnow this is an action economy play okay\nnow remember\nwe've talked about this at length but\nwe're going to make it really simple and\nwe're going to say that and bob i don't\nwant you to get confused because i know\nyou were always like but he has reach\nbut he has reached well that sees what i\nthink about okay so i'm gonna ignore\nthat and we're gonna put it in there\nwe're gonna put in this bug bear oh this\nisn't just some lone bug bear this is\ngrothak chieftain of the orc eye tribe\nwell i really want to kill him okay so\nwe've talked about this before but you\nguys have\nthree actions a piece so that means that\nthere's 12 actions on team team good\nand three actions on team bad yup and\none of the things that we talked about\nis how do we get you to use all those\nactions now again we're gonna make this\na very simplistic example that let's say\neverybody in this party is a even even\nthe wizard back here uh wants to get\ninto combat and they want to swing their\nsword okay so\nyou move in here\nyou attack\nyou move in here you attack\nyou move in here\nyou attack moves in here\nand attacks\nso nobody's flanking well well this is a\nsimplistic example okay you would want a\nflank\nbut in this example um\nyou guys have used your attactions\nyou've gone to him and attacked him a\nbunch yep now remember he's higher level\nthan you yep he gets to go it's now his\nturn he's got three actions yep he's\nprobably gonna crit with the first one\nmore than likely he's got a good chance\nof critting and definitely probably\nhitting still with the second attack and\nthat third attack could also hit correct\nand even his regular hits are like\ndevastating devastating\nso you've played right into his hands\nwe've came right next to him right he\ndoesn't have to waste a move correct he\ndoesn't have to waste a move or anything\nnow\nyou could say okay well let's try a\ndifferent tact then right we want him to\nwaste his actions so how about this how\nabout we do this instead how about all\nof us\ni'm going to move in with my first\naction hit him once my best attack and\nthen move back because not everyone has\nattacked opportunities as monsters and\npathfinder that's correct and even if\nthey do maybe escondor does it first\nyeah yeah and now the guy would pull it\nout now\nright and then escondor does the same\nthing he uses one action to move in he\nattacks he moves back quilder does the\nsame thing lucky does the same thing\nmoves in action attack\nnow it's his turn yep now if he wants to\ngo\ncrush on someone he's got to burn an\naction right and he only gets two\nand\nyou know he can only hit someone twice\nthat's good right that's that's better\nbut you all had to spend four actions\nas a group to get to that scenario right\nhe had to you had to spend an action to\nmove in then you had to spend an action\nto attack and then you had to spend that\nthird action and move back\nuse an action using it so you've used\nfour actions to move back\nimagine this scenario\nyou move in\nwe'll make it easier we'll do we'll do\nyou last bob you move lucky moves in\nattacks twice guild or moves in\nattacks twice\nescalador moves in attacks twice\nyou move in\ntrip you attack nope oh you attack\nand then you shove him\noh five feet back now look\nhe's still gotta make an ass he still\nhas to use an action to move but now\nthe pole party\nonly had to waste one action\ninstead of four instead of four\nmovements it's actually really\ninteresting\nso when you're against a single target\nit can actually be better huh\nfor you to shove and my hammer can shove\nand your hammer can shove now\ndoes this shove so i know with attack of\nopportunity i know he's just has attack\nof opportunity so when they go into his\nfield into his range and then exit it he\nhas an opportunity\ndoes that shove also no shove never\nprovokes a tax about opportunity yeah\nalso too if you want to get you know in\nterms of um\nyou know certain certain instances\ndepending on your orion when you show\nsomebody you can also move so he's here\nyou could have shoved him like here and\nthen moved with\nhim and now if you have attack of\nopportunity if he wants to you know try\nto get away from him get away from you\nuh i mean he could step and attack lucky\nyeah yeah but he couldn't get to guild\nor yeah or eskenore without provoking an\nattack of opportunity for me first\notherwise he's going to bring his pain\non you yeah which you know we discussed\nmaybe not be the best thing but but\nimagine if this\nwas you with all your hit points in full\ntemp and you don't i'm taking it right\nyou're taking it for the team or if it's\nescond eskenor\nright with his very high armor class so\nnow can you combine that can you so\nlet's say so i went in before us or\nbefore azias did yeah if on my last\naction i tripped him right so he's prone\nbut can he shove him as well he can but\nwe're we're getting to the key point\nhere okay sorry if you try to trip him\nwith your last action it's not gonna\nwork\nyou have a minus yes yeah or minus five\nminus five if you really want these to\nwork against the higher level opponents\nyou gotta do it on the first one you\ngotta do it on the first one which means\nsomebody needs to bite the bullet\nyou know and be the person who\npushes them back and then stands there\nyeah someone needs us to be the support\nclass the support class it can't always\nbe now sometimes depending on the\ntexture of the battlefield it might have\nto be asian but i think the key here is\nwhen you look at shove when i first\nlooked at pathfinder i said you know i\ndon't really see where you would use\nshove that much right but i think the\nreal advantage of shove is understanding\nthat if you\nput even one square of distance and they\ndon't have reach\nthen they are going to have to burn one\nof their actions which is a lot more\nprecious yeah you're using one\nthey're using one because you go okay i\nshove them and then he just\nfive foots and comes back okay so what\nit's like well yeah but yeah 33 percent\nof their actions that's 33 of their\nyou've basically stunned them yeah\nwithout them getting to make a save yeah\nthat's huge absolutely absolutely huge\nright so you know shove can be a very\nvery powerful thing because of that\nreason um now trip to your point is also\nvery very very powerful but it's more\npowerful when everyone's kind of leaving\nthe monster rather than going to it\nbecause now if everyone's like okay well\nwe're going to come over here and we\nwant to go do other things and fight\nother monsters and you go okay well\nbefore i dip out i'm going to trip him\nand now i'm going to move away now in\norder to get back to the party he's\ngoing to stand up one action and move\ntwo actions so now when he gets there\nhe's only making\none action\nso as long as i can outpace him you mean\nbecause if not he could move and then\nhit me well no he would stand up move\nand hit you yeah yeah yeah but one only\none attack yeah he's not gonna attack\nyou twice because if he's still standing\nhe could just move and then swing at you\ntwice right and so you know shove\nespecially if you have a tax of\nopportunity especially if you have reach\num can be very very very powerful and\nfurthermore uh if you're outnumbering\nyour phone if the opponent you're\noutnumbering the opponent there could be\na situation where the party wants to\nsort of\nsurround the guy and wail on him but\nthen you're playing right into that\nmonster's right he got a question he\nwants you to surround him so that he can\njust completely wail on you but if one\nperson if the party surrounds someone\nand then they shove him now he's got to\nburn in action and not everyone in the\nparty has to move back so in this\nscenario yeah this reminds me of our\nlast fight against the uh the ogres yep\nand i knocked the guy down yeah and i\ndebated whether to stand by him\nso that if he stood up i would provoke\nthe attack of opportunity or leave him\nso that he would have to stand up and\nthen move yeah\nand i stood there and he just attacked\nme from the ground\nso i'm wondering if i should be moving\nmore away from the monster no i mean\nwhen there was a very powerful monster\nremember that that was a boss yeah that\nguy was a boss he had a reaction he had\nattack of opportunity remember that um\nhim getting to make an extra attack\nespecially with his power his damage\nbonus his attack bonus\nhis extra attack is worth a lot\nif you can avoid him making an attack of\nopportunity you're going to want to do\nthat and get so getting away from him is\nkind of what you're what you're\nsuggesting no i'm sorry you said you\nmade the right move i thought you stayed\nthere right i think you made the right\nmove staying because you did not engage\nhis attack of opportunity which would\nhave done that much more damage to you\nright if you would that's right because\nif i yeah if you would be dead in that\nmatch if you're prone uh\ni love how you guys call like match\nsorry mission\ni corrected myself you did but i wonder\nhow long you have to play before you i'm\nguessing a lot more years right shove\nand trip can not only be used uh or trip\nrather can be used to you know inflict\nthe flat-footed condition but what they\ncan really be used to do is eat up enemy\nactions yeah right now we talked about\nthis before the unfortunate side effect\nis that in order to do these things you\nneed to have a hand-free or you need to\nhave a weapon that allows you to do that\nand so in the case of azias with his\ndire maul he has it has the shove\nyou don't have that i got nothing which\nis kind of funny when you think about it\nbecause i'm carrying a shield i know and\ni can't shove with a shield i know like\nyeah that just doesn't seem right to me\nit doesn't seem right to me either uh\nbut i'm sure\nit's done for a game balance reason i'm\nsure i understand that i mean i can\nunderstand with the mall you have a\nmassive hammer that you're basically\nsmacking into somebody knocking them\nback\nyou know i have a shield right you know\ni would also say that you know there\nmight be some instances where shoving\nsomeone could be tactically advantageous\nobviously the\nthe no brainer is there's a pit or\nthere's a wood chipper that was awesome\nand you shove them into that obviously\nthat makes total sense but you might\nhave two allies and there's a space\nbetween them and maybe all you need to\ndo is shove the enemy and now your\nallies are flanking the enemy and they\ndon't have to move right you're not they\ndon't have to waste an action in order\nto set up a flag shove them within their\nreach you move them into the flank um\nanother option might be that like\nsomeone might be threatening one of your\ncasters now your caster could step\nand then cast a spell with their\nremaining two actions but they would\nrather stride and move you know 25 or 30\nfeet away but if they do that they're\ngoing to attack an attack of opportunity\nso if you shove the monster off of your\nally\nthen your ally goes and your ally can\nmove the 30 feet and not encourage them\nand then the attack opportunity and then\ncast a spell so this is also extremely\nbeneficial then for a spellcaster that\nis\nunfortunately engaged in melee combat\nand\nwell it's usually the case that a\nspellcaster should not be they should\nnot what i'm just saying is if if the\nenemy goes around all of the melee\ncharacters and starts to go after the\nspellcasters because they realize that's\nwhere the damage is being dealt well and\nthe paladin left 90 of the time it's\ngoing to be better for the spellcaster\nto just step because they're probably\nnot going to have a high athletics\nthey're probably not going to have\nthat's true that's true and furthermore\nlike you want to be able to\nautomatically succeed that's why i wish\nmy hammer could hook and pull but we\ndiscussed that that's not possible yeah\ni don't i don't even see how that would\nwork i think it's just so cool sounding\nwell also it's like it's a big heavy\nobject yeah so i'm really strong it\nmakes more sense to push away because\nyou're like you're shoving them i want\nto grab them and pull them in because\nwhen you're pulling it now you have to\nwork against the weight i know it's\nactually harder i know i still think\nit's cool a very light object like a\nwhip we don't have any killing someone i\nknow i'm wrong i still think it's cool\nokay\num so yeah so shove is obviously used\nfor repositioning it can be used to eat\nup enemies actions by making them have\nto stride or step in extra time it can\nbe used to reposition them into a flank\nit can also be used like i said to break\nthem off of an ally to allow that allies\nsome breathing room so that they can get\naway and not provoke an attack\nopportunity\ntrip is just the nuts um it usually is\ngoing to end up eating it up in action\num it can potentially provoke an attack\nof opportunity if you have a lot of\npeople in your party with the attack of\nopportunity ability trip is oh yeah the\nbest thing you could be doing especially\nif it's part of like your attack i know\ndanny had that\ndrag\nfrom the monk and that could make him\ntrip afterwards i'm like pull things off\nyeah the other thing too\nsorry the other thing too was that he\nhad the ability that if they tried to\nstand up oh yeah\nyeah he was able to interrupt that\naction and potentially stop them from\ndoing it which would eat up basically\nuse up their actions up their whole turn\nyeah but i mean i mean it's it's the\ncase where let's say asia has attack of\nopportunity and then let's say that you\nhad another person in the party like you\nknow if gore came back our fighter and\nhere and he had attack of opportunity\nand then you had danny who was playing a\nmonk who had stand still which provokes\nthe heck of a virginia movement if the\nthree of you were surrounding someone\nand tripped them when they went to stand\nup oh god all three of you would get to\nmake a text of opportunity that's deadly\nright there so prone is you know\nknocking someone you know and the and i\nalso had this the other advantage of\ntripping is it targets their reflex\nright whereas shove targets are\nfortitude oh that okay that i wasn't\neven thinking about that stuff so a lot\nof times like the big heavy brutes\nare gonna have\nfortitude good fortune but a bad reflex\nthat that makes it even better to want\nto trip like the big baddie yeah\nso wow okay i mean you know compare your\ncharacter what's your fortitude versus\nyour reflex do you know i think it's uh\nhe's gonna look\nbut uh you know so that could be 13 well\nit's 14 now\npoint difference oh it's five point\ndifference yeah five point difference\nthat's huge right i mean that's\nabsolutely huge and if you crit on the\ntrip they take an extra couple points of\ndamage oh like a fall yeah okay kind of\nsilly bludgeoning damage should be more\nbut yeah it's bludgeoning so trip is\ngoing to depend on how tall you are yeah\nso trip can make someone flat-footed it\ncan make them flat-footed to not just\nyou know the melee characters can make\nthem flat-footed to the you know who are\nused to getting flat-footed from\nflanking but it can make them\nflat-footed uh to your range attackers\nto your spell casters who might be using\nspell attacks it could be very very\npowerful when they're on the ground they\nget a minus two penalty to attack when\nyou're flanking someone\nand you\nhave them flat-footed to those attacks\nthat's great but they don't get a\npenalty to their attack roles if they're\nprone they do they do that's huge and\nthen of course it takes an action to\nstand up\nand that could potentially provoke\nattacks of opportunity too\nprone can be brutal trip can be brutal\nyeah it's a great and you could stack\nother penalties on someone that's\ntripped that's prone now that makes them\nbetter like yeah they're prone the\nstatus they're they're moralized\nbut also keep in mind right remember\nthings like frightened or sickened also\nyou know give you a minus one penalty to\nyour um your saves your saves and your\nthings but that also means that the save\ndc goes down\nso if someone yeah right so someone's\nreflex save is let's say 14 then the dc\nto trip them is 24. if you make them\nfrightened it's 22. it's well 21\ndepending on your sorry wow\nminus one every one yeah if they're\nfrightened i didn't give a number so you\nany number you could have said would\nhave been right there but uh if they're\nfrightened one now their reflex bonus is\nonly plus 13 so the dc is now 23. so\nit's easier to trip them because they're\nfrightened so trip is\npowerful very powerful all right well\nthank you for joining us for this uh\ncombat and tactics vol 3 athletics\nedition\njoin us of course for future tips and\ntricks\nsubscribe please leave a like if you\nenjoyed this comment leave some or sorry\nthis content leave a comment below with\nother things that you think we should\ncover there's a lot of elements to\npathfinder 2 and we'll get around to\nthem eventually check out our discord\nthe link is in the doobly-doo below and\nthat'll kind of if you're interested in\nsupporting us helping us or just uh you\nknow joining us to tell us how wrong we\nare about everything we'd appreciate all\nof that yeah all right well for the\nknights of last call my name is derek\nmelinda saying thank you for joining us\nand welcome to the nights of last call\n[Music]\nyou\n"
+}

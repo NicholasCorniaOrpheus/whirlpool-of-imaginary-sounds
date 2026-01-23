@@ -1,0 +1,5835 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,940",
+      "end_time": "00:00:27,599",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:26,240",
+      "end_time": "00:00:30,640",
+      "text": "hello i'm brad"
+    },
+    {
+      "start_time": "00:00:27,599",
+      "end_time": "00:00:31,679",
+      "text": "and i'm jason you are listening to dice"
+    },
+    {
+      "start_time": "00:00:30,640",
+      "end_time": "00:00:33,840",
+      "text": "and mind"
+    },
+    {
+      "start_time": "00:00:31,679",
+      "end_time": "00:00:35,200",
+      "text": "a monthly podcast in which we explore"
+    },
+    {
+      "start_time": "00:00:33,840",
+      "end_time": "00:00:38,079",
+      "text": "the meaning of life"
+    },
+    {
+      "start_time": "00:00:35,200",
+      "end_time": "00:00:38,719",
+      "text": "through the lens of rpgs we're lifelong"
+    },
+    {
+      "start_time": "00:00:38,079",
+      "end_time": "00:00:40,320",
+      "text": "friends"
+    },
+    {
+      "start_time": "00:00:38,719",
+      "end_time": "00:00:42,000",
+      "text": "a couple of guys in their forties who"
+    },
+    {
+      "start_time": "00:00:40,320",
+      "end_time": "00:00:43,360",
+      "text": "along the way had families and became"
+    },
+    {
+      "start_time": "00:00:42,000",
+      "end_time": "00:00:45,360",
+      "text": "professionals"
+    },
+    {
+      "start_time": "00:00:43,360",
+      "end_time": "00:00:46,559",
+      "text": "over the years we've talked about pretty"
+    },
+    {
+      "start_time": "00:00:45,360",
+      "end_time": "00:00:48,960",
+      "text": "much everything"
+    },
+    {
+      "start_time": "00:00:46,559",
+      "end_time": "00:00:50,559",
+      "text": "but recently we realized we both had an"
+    },
+    {
+      "start_time": "00:00:48,960",
+      "end_time": "00:00:53,760",
+      "text": "interest and some history"
+    },
+    {
+      "start_time": "00:00:50,559",
+      "end_time": "00:00:56,239",
+      "text": "with tabletop role-playing games so"
+    },
+    {
+      "start_time": "00:00:53,760",
+      "end_time": "00:00:58,559",
+      "text": "in each episode we will consider"
+    },
+    {
+      "start_time": "00:00:56,239",
+      "end_time": "00:01:01,440",
+      "text": "everyday stuff like science religion"
+    },
+    {
+      "start_time": "00:00:58,559",
+      "end_time": "00:01:02,960",
+      "text": "philosophy and economics all through the"
+    },
+    {
+      "start_time": "00:01:01,440",
+      "end_time": "00:01:05,600",
+      "text": "lens of a specific"
+    },
+    {
+      "start_time": "00:01:02,960",
+      "end_time": "00:01:07,040",
+      "text": "role-playing game and its dice mechanic"
+    },
+    {
+      "start_time": "00:01:05,600",
+      "end_time": "00:01:09,200",
+      "text": "for example"
+    },
+    {
+      "start_time": "00:01:07,040",
+      "end_time": "00:01:11,280",
+      "text": "what would i have to roll in the edge of"
+    },
+    {
+      "start_time": "00:01:09,200",
+      "end_time": "00:01:14,320",
+      "text": "the empire narrative dice system"
+    },
+    {
+      "start_time": "00:01:11,280",
+      "end_time": "00:01:15,840",
+      "text": "to get that promotion at work or would"
+    },
+    {
+      "start_time": "00:01:14,320",
+      "end_time": "00:01:18,240",
+      "text": "getting that paper published"
+    },
+    {
+      "start_time": "00:01:15,840",
+      "end_time": "00:01:20,080",
+      "text": "give me advantage on a subsequent d20"
+    },
+    {
+      "start_time": "00:01:18,240",
+      "end_time": "00:01:23,200",
+      "text": "role in dungeons and dragons"
+    },
+    {
+      "start_time": "00:01:20,080",
+      "end_time": "00:01:26,880",
+      "text": "if i were dm likely not but join us now"
+    },
+    {
+      "start_time": "00:01:23,200",
+      "end_time": "00:01:29,759",
+      "text": "and every month to think deeply geek out"
+    },
+    {
+      "start_time": "00:01:26,880",
+      "end_time": "00:01:30,560",
+      "text": "and explore how rpgs make the world just"
+    },
+    {
+      "start_time": "00:01:29,759",
+      "end_time": "00:01:40,950",
+      "text": "a little"
+    },
+    {
+      "start_time": "00:01:30,560",
+      "end_time": "00:01:42,399",
+      "text": "bit better this is"
+    },
+    {
+      "start_time": "00:01:40,950",
+      "end_time": "00:01:46,159",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:01:42,399",
+      "end_time": "00:01:49,360",
+      "text": "welcome to episode five of dyson mind"
+    },
+    {
+      "start_time": "00:01:46,159",
+      "end_time": "00:01:51,040",
+      "text": "we appreciate everybody listening we are"
+    },
+    {
+      "start_time": "00:01:49,360",
+      "end_time": "00:01:54,399",
+      "text": "now"
+    },
+    {
+      "start_time": "00:01:51,040",
+      "end_time": "00:01:57,680",
+      "text": "entering a discussion and"
+    },
+    {
+      "start_time": "00:01:54,399",
+      "end_time": "00:02:01,040",
+      "text": "a gaming system and a topic"
+    },
+    {
+      "start_time": "00:01:57,680",
+      "end_time": "00:02:03,600",
+      "text": "where if we're not careful um"
+    },
+    {
+      "start_time": "00:02:01,040",
+      "end_time": "00:02:05,040",
+      "text": "we could probably have 30 episodes on it"
+    },
+    {
+      "start_time": "00:02:03,600",
+      "end_time": "00:02:05,759",
+      "text": "and we're going to be talking about star"
+    },
+    {
+      "start_time": "00:02:05,040",
+      "end_time": "00:02:08,640",
+      "text": "trek"
+    },
+    {
+      "start_time": "00:02:05,759",
+      "end_time": "00:02:10,479",
+      "text": "and the star trek adventures"
+    },
+    {
+      "start_time": "00:02:08,640",
+      "end_time": "00:02:12,879",
+      "text": "role-playing game"
+    },
+    {
+      "start_time": "00:02:10,479",
+      "end_time": "00:02:14,080",
+      "text": "before we get in deep into the mechanic"
+    },
+    {
+      "start_time": "00:02:12,879",
+      "end_time": "00:02:16,080",
+      "text": "of it although that is"
+    },
+    {
+      "start_time": "00:02:14,080",
+      "end_time": "00:02:18,080",
+      "text": "really the reason for us doing this i"
+    },
+    {
+      "start_time": "00:02:16,080",
+      "end_time": "00:02:20,000",
+      "text": "think we want to stress"
+    },
+    {
+      "start_time": "00:02:18,080",
+      "end_time": "00:02:21,599",
+      "text": "and i think it's important you all kind"
+    },
+    {
+      "start_time": "00:02:20,000",
+      "end_time": "00:02:25,440",
+      "text": "of hear our background"
+    },
+    {
+      "start_time": "00:02:21,599",
+      "end_time": "00:02:29,280",
+      "text": "in terms of our love of star trek"
+    },
+    {
+      "start_time": "00:02:25,440",
+      "end_time": "00:02:33,280",
+      "text": "of the trek universe as a whole and"
+    },
+    {
+      "start_time": "00:02:29,280",
+      "end_time": "00:02:35,440",
+      "text": "the renaissance jason if i could"
+    },
+    {
+      "start_time": "00:02:33,280",
+      "end_time": "00:02:38,319",
+      "text": "plagiarize you the renaissance that is"
+    },
+    {
+      "start_time": "00:02:35,440",
+      "end_time": "00:02:40,800",
+      "text": "occurring within the trek universe"
+    },
+    {
+      "start_time": "00:02:38,319",
+      "end_time": "00:02:43,120",
+      "text": "that's going on right now and how that"
+    },
+    {
+      "start_time": "00:02:40,800",
+      "end_time": "00:02:43,120",
+      "text": "is"
+    },
+    {
+      "start_time": "00:02:43,200",
+      "end_time": "00:02:48,160",
+      "text": "redefining track role play trek has had"
+    },
+    {
+      "start_time": "00:02:46,239",
+      "end_time": "00:02:49,519",
+      "text": "different companies produce role-playing"
+    },
+    {
+      "start_time": "00:02:48,160",
+      "end_time": "00:02:51,840",
+      "text": "games over the years"
+    },
+    {
+      "start_time": "00:02:49,519",
+      "end_time": "00:02:52,879",
+      "text": "modiphius has the license now and is"
+    },
+    {
+      "start_time": "00:02:51,840",
+      "end_time": "00:02:56,480",
+      "text": "producing"
+    },
+    {
+      "start_time": "00:02:52,879",
+      "end_time": "00:02:58,480",
+      "text": "the trek rpg i just received um"
+    },
+    {
+      "start_time": "00:02:56,480",
+      "end_time": "00:03:00,080",
+      "text": "their first new core rulebook the"
+    },
+    {
+      "start_time": "00:02:58,480",
+      "end_time": "00:03:02,560",
+      "text": "klingon core rulebook"
+    },
+    {
+      "start_time": "00:03:00,080",
+      "end_time": "00:03:04,080",
+      "text": "and in future episodes we're going to"
+    },
+    {
+      "start_time": "00:03:02,560",
+      "end_time": "00:03:06,000",
+      "text": "talk about kind of the difference"
+    },
+    {
+      "start_time": "00:03:04,080",
+      "end_time": "00:03:07,840",
+      "text": "if there's mechanics changes and things"
+    },
+    {
+      "start_time": "00:03:06,000",
+      "end_time": "00:03:11,920",
+      "text": "and how that might affect"
+    },
+    {
+      "start_time": "00:03:07,840",
+      "end_time": "00:03:14,959",
+      "text": "so this is an interesting mechanic"
+    },
+    {
+      "start_time": "00:03:11,920",
+      "end_time": "00:03:18,239",
+      "text": "but what i'll do is jace if you if you"
+    },
+    {
+      "start_time": "00:03:14,959",
+      "end_time": "00:03:20,000",
+      "text": "would talk to us about kind of your"
+    },
+    {
+      "start_time": "00:03:18,239",
+      "end_time": "00:03:24,959",
+      "text": "history with trek and what"
+    },
+    {
+      "start_time": "00:03:20,000",
+      "end_time": "00:03:29,120",
+      "text": "um what trek means to you oh man brad"
+    },
+    {
+      "start_time": "00:03:24,959",
+      "end_time": "00:03:32,159",
+      "text": "i uh listeners it would be difficult to"
+    },
+    {
+      "start_time": "00:03:29,120",
+      "end_time": "00:03:34,400",
+      "text": "sadly overstate how much"
+    },
+    {
+      "start_time": "00:03:32,159",
+      "end_time": "00:03:35,519",
+      "text": "i've been looking forward to this"
+    },
+    {
+      "start_time": "00:03:34,400",
+      "end_time": "00:03:37,440",
+      "text": "sequence"
+    },
+    {
+      "start_time": "00:03:35,519",
+      "end_time": "00:03:39,280",
+      "text": "of episodes like brad said we're going"
+    },
+    {
+      "start_time": "00:03:37,440",
+      "end_time": "00:03:41,680",
+      "text": "to try to keep it under 30 of them"
+    },
+    {
+      "start_time": "00:03:39,280",
+      "end_time": "00:03:43,599",
+      "text": "so that we can get to other other gaming"
+    },
+    {
+      "start_time": "00:03:41,680",
+      "end_time": "00:03:45,680",
+      "text": "systems but seriously"
+    },
+    {
+      "start_time": "00:03:43,599",
+      "end_time": "00:03:47,200",
+      "text": "i think it's fair to say that brad you"
+    },
+    {
+      "start_time": "00:03:45,680",
+      "end_time": "00:03:50,239",
+      "text": "and i"
+    },
+    {
+      "start_time": "00:03:47,200",
+      "end_time": "00:03:52,799",
+      "text": "truly enjoy"
+    },
+    {
+      "start_time": "00:03:50,239",
+      "end_time": "00:03:53,920",
+      "text": "talking about planning recording this"
+    },
+    {
+      "start_time": "00:03:52,799",
+      "end_time": "00:03:56,560",
+      "text": "podcast"
+    },
+    {
+      "start_time": "00:03:53,920",
+      "end_time": "00:03:58,159",
+      "text": "um even if there aren't yet that many"
+    },
+    {
+      "start_time": "00:03:56,560",
+      "end_time": "00:04:01,200",
+      "text": "listening to us"
+    },
+    {
+      "start_time": "00:03:58,159",
+      "end_time": "00:04:03,760",
+      "text": "it's just a ridiculous amount of fun"
+    },
+    {
+      "start_time": "00:04:01,200",
+      "end_time": "00:04:06,000",
+      "text": "but on top of that then like brad said"
+    },
+    {
+      "start_time": "00:04:03,760",
+      "end_time": "00:04:08,000",
+      "text": "we have star trek something very close"
+    },
+    {
+      "start_time": "00:04:06,000",
+      "end_time": "00:04:11,200",
+      "text": "to to both of our hearts if you will"
+    },
+    {
+      "start_time": "00:04:08,000",
+      "end_time": "00:04:13,519",
+      "text": "um so my star trek history"
+    },
+    {
+      "start_time": "00:04:11,200",
+      "end_time": "00:04:14,560",
+      "text": "uh let me let me try to keep this brief"
+    },
+    {
+      "start_time": "00:04:13,519",
+      "end_time": "00:04:17,919",
+      "text": "for all of you"
+    },
+    {
+      "start_time": "00:04:14,560",
+      "end_time": "00:04:21,519",
+      "text": "because because i could easily like brad"
+    },
+    {
+      "start_time": "00:04:17,919",
+      "end_time": "00:04:25,040",
+      "text": "talk for hours about this"
+    },
+    {
+      "start_time": "00:04:21,519",
+      "end_time": "00:04:28,560",
+      "text": "i i probably like many of you grew up"
+    },
+    {
+      "start_time": "00:04:25,040",
+      "end_time": "00:04:31,919",
+      "text": "also on uh things like star wars"
+    },
+    {
+      "start_time": "00:04:28,560",
+      "end_time": "00:04:32,639",
+      "text": "right i was very little when uh a new"
+    },
+    {
+      "start_time": "00:04:31,919",
+      "end_time": "00:04:35,280",
+      "text": "hope"
+    },
+    {
+      "start_time": "00:04:32,639",
+      "end_time": "00:04:36,400",
+      "text": "uh came out for those youngans that's"
+    },
+    {
+      "start_time": "00:04:35,280",
+      "end_time": "00:04:39,440",
+      "text": "episode four"
+    },
+    {
+      "start_time": "00:04:36,400",
+      "end_time": "00:04:42,479",
+      "text": "um i was also quite little when"
+    },
+    {
+      "start_time": "00:04:39,440",
+      "end_time": "00:04:44,240",
+      "text": "the trek movies came out and so uh"
+    },
+    {
+      "start_time": "00:04:42,479",
+      "end_time": "00:04:44,800",
+      "text": "they've never left me so where did i"
+    },
+    {
+      "start_time": "00:04:44,240",
+      "end_time": "00:04:47,199",
+      "text": "start"
+    },
+    {
+      "start_time": "00:04:44,800",
+      "end_time": "00:04:48,880",
+      "text": "where did i begin with all this i"
+    },
+    {
+      "start_time": "00:04:47,199",
+      "end_time": "00:04:49,360",
+      "text": "actually was just talking to my younger"
+    },
+    {
+      "start_time": "00:04:48,880",
+      "end_time": "00:04:52,080",
+      "text": "daughter"
+    },
+    {
+      "start_time": "00:04:49,360",
+      "end_time": "00:04:53,600",
+      "text": "earlier today i don't know why probably"
+    },
+    {
+      "start_time": "00:04:52,080",
+      "end_time": "00:04:55,280",
+      "text": "because she made the mistake of making"
+    },
+    {
+      "start_time": "00:04:53,600",
+      "end_time": "00:04:58,479",
+      "text": "eye contact while passing"
+    },
+    {
+      "start_time": "00:04:55,280",
+      "end_time": "00:05:02,160",
+      "text": "and i started talking about"
+    },
+    {
+      "start_time": "00:04:58,479",
+      "end_time": "00:05:04,560",
+      "text": "star trek and how i actually got"
+    },
+    {
+      "start_time": "00:05:02,160",
+      "end_time": "00:05:05,360",
+      "text": "hooked i was introduced to star trek"
+    },
+    {
+      "start_time": "00:05:04,560",
+      "end_time": "00:05:08,479",
+      "text": "with the"
+    },
+    {
+      "start_time": "00:05:05,360",
+      "end_time": "00:05:11,280",
+      "text": "motion pictures in fact literally"
+    },
+    {
+      "start_time": "00:05:08,479",
+      "end_time": "00:05:12,240",
+      "text": "with the first one star trek the motion"
+    },
+    {
+      "start_time": "00:05:11,280",
+      "end_time": "00:05:15,759",
+      "text": "picture"
+    },
+    {
+      "start_time": "00:05:12,240",
+      "end_time": "00:05:19,199",
+      "text": "um i what was that 79"
+    },
+    {
+      "start_time": "00:05:15,759",
+      "end_time": "00:05:22,560",
+      "text": "uh i was five"
+    },
+    {
+      "start_time": "00:05:19,199",
+      "end_time": "00:05:24,639",
+      "text": "uh give or take when it came out um not"
+    },
+    {
+      "start_time": "00:05:22,560",
+      "end_time": "00:05:25,680",
+      "text": "all that far from when when star wars"
+    },
+    {
+      "start_time": "00:05:24,639",
+      "end_time": "00:05:29,280",
+      "text": "came out but"
+    },
+    {
+      "start_time": "00:05:25,680",
+      "end_time": "00:05:30,400",
+      "text": "i loved the movies even as a as a little"
+    },
+    {
+      "start_time": "00:05:29,280",
+      "end_time": "00:05:34,240",
+      "text": "kid"
+    },
+    {
+      "start_time": "00:05:30,400",
+      "end_time": "00:05:38,240",
+      "text": "i thought star trek the motion picture"
+    },
+    {
+      "start_time": "00:05:34,240",
+      "end_time": "00:05:41,440",
+      "text": "was absolutely fascinating"
+    },
+    {
+      "start_time": "00:05:38,240",
+      "end_time": "00:05:42,080",
+      "text": "i didn't understand why their clothes"
+    },
+    {
+      "start_time": "00:05:41,440",
+      "end_time": "00:05:44,960",
+      "text": "were a bit"
+    },
+    {
+      "start_time": "00:05:42,080",
+      "end_time": "00:05:47,440",
+      "text": "unnecessarily snug nor did i understand"
+    },
+    {
+      "start_time": "00:05:44,960",
+      "end_time": "00:05:50,720",
+      "text": "why the tall gal was bald"
+    },
+    {
+      "start_time": "00:05:47,440",
+      "end_time": "00:05:52,160",
+      "text": "but i absolutely understood what they"
+    },
+    {
+      "start_time": "00:05:50,720",
+      "end_time": "00:05:54,320",
+      "text": "were after"
+    },
+    {
+      "start_time": "00:05:52,160",
+      "end_time": "00:05:55,280",
+      "text": "i knew that glowing energy things were"
+    },
+    {
+      "start_time": "00:05:54,320",
+      "end_time": "00:05:57,199",
+      "text": "probably bad"
+    },
+    {
+      "start_time": "00:05:55,280",
+      "end_time": "00:05:58,479",
+      "text": "when things shifted to a minor mode of"
+    },
+    {
+      "start_time": "00:05:57,199",
+      "end_time": "00:06:00,720",
+      "text": "music and"
+    },
+    {
+      "start_time": "00:05:58,479",
+      "end_time": "00:06:01,680",
+      "text": "vegeta just made complete sense and of"
+    },
+    {
+      "start_time": "00:06:00,720",
+      "end_time": "00:06:04,000",
+      "text": "course what"
+    },
+    {
+      "start_time": "00:06:01,680",
+      "end_time": "00:06:06,800",
+      "text": "five-year-old or so wasn't familiar"
+    },
+    {
+      "start_time": "00:06:04,000",
+      "end_time": "00:06:08,720",
+      "text": "already with the voyager spacecraft"
+    },
+    {
+      "start_time": "00:06:06,800",
+      "end_time": "00:06:10,960",
+      "text": "both of them flying out toward the"
+    },
+    {
+      "start_time": "00:06:08,720",
+      "end_time": "00:06:14,639",
+      "text": "bounds of our actual solar system"
+    },
+    {
+      "start_time": "00:06:10,960",
+      "end_time": "00:06:15,919",
+      "text": "i i was hooked now uh by the time i"
+    },
+    {
+      "start_time": "00:06:14,639",
+      "end_time": "00:06:19,120",
+      "text": "started watching trek"
+    },
+    {
+      "start_time": "00:06:15,919",
+      "end_time": "00:06:22,240",
+      "text": "on tv you know tos the original series"
+    },
+    {
+      "start_time": "00:06:19,120",
+      "end_time": "00:06:23,520",
+      "text": "was uh already in syndication and"
+    },
+    {
+      "start_time": "00:06:22,240",
+      "end_time": "00:06:25,440",
+      "text": "we're not going to it we could have a"
+    },
+    {
+      "start_time": "00:06:23,520",
+      "end_time": "00:06:28,560",
+      "text": "whole little side discussion on how"
+    },
+    {
+      "start_time": "00:06:25,440",
+      "end_time": "00:06:31,280",
+      "text": "desilu studios pioneered syndication"
+    },
+    {
+      "start_time": "00:06:28,560",
+      "end_time": "00:06:32,800",
+      "text": "and how uh desi arnaz saved the"
+    },
+    {
+      "start_time": "00:06:31,280",
+      "end_time": "00:06:33,680",
+      "text": "franchise and on and on and on it's a"
+    },
+    {
+      "start_time": "00:06:32,800",
+      "end_time": "00:06:36,880",
+      "text": "really interesting"
+    },
+    {
+      "start_time": "00:06:33,680",
+      "end_time": "00:06:40,160",
+      "text": "history and um if if you're"
+    },
+    {
+      "start_time": "00:06:36,880",
+      "end_time": "00:06:41,759",
+      "text": "you're not familiar with it um i would"
+    },
+    {
+      "start_time": "00:06:40,160",
+      "end_time": "00:06:43,680",
+      "text": "strongly recommend"
+    },
+    {
+      "start_time": "00:06:41,759",
+      "end_time": "00:06:45,600",
+      "text": "um looking up some of the histories out"
+    },
+    {
+      "start_time": "00:06:43,680",
+      "end_time": "00:06:47,199",
+      "text": "there um maybe i'll say a little more"
+    },
+    {
+      "start_time": "00:06:45,600",
+      "end_time": "00:06:48,240",
+      "text": "about that in the gm corner as well as"
+    },
+    {
+      "start_time": "00:06:47,199",
+      "end_time": "00:06:52,000",
+      "text": "something else"
+    },
+    {
+      "start_time": "00:06:48,240",
+      "end_time": "00:06:55,120",
+      "text": "but um i i really became hooked"
+    },
+    {
+      "start_time": "00:06:52,000",
+      "end_time": "00:06:58,880",
+      "text": "completely hooked by the films"
+    },
+    {
+      "start_time": "00:06:55,120",
+      "end_time": "00:07:00,800",
+      "text": "uh i i mean i thought the motion picture"
+    },
+    {
+      "start_time": "00:06:58,880",
+      "end_time": "00:07:02,400",
+      "text": "was just fascinating and brilliant"
+    },
+    {
+      "start_time": "00:07:00,800",
+      "end_time": "00:07:03,919",
+      "text": "and and that was the world in which i"
+    },
+    {
+      "start_time": "00:07:02,400",
+      "end_time": "00:07:06,720",
+      "text": "wanted to live and grow up"
+    },
+    {
+      "start_time": "00:07:03,919",
+      "end_time": "00:07:07,520",
+      "text": "and then wrath of khan the second"
+    },
+    {
+      "start_time": "00:07:06,720",
+      "end_time": "00:07:10,639",
+      "text": "picture"
+    },
+    {
+      "start_time": "00:07:07,520",
+      "end_time": "00:07:14,160",
+      "text": "i realized there is debate about which"
+    },
+    {
+      "start_time": "00:07:10,639",
+      "end_time": "00:07:18,479",
+      "text": "is the best ever"
+    },
+    {
+      "start_time": "00:07:14,160",
+      "end_time": "00:07:22,000",
+      "text": "star trek film uh we're here to tell you"
+    },
+    {
+      "start_time": "00:07:18,479",
+      "end_time": "00:07:24,400",
+      "text": "rest it is on without question"
+    },
+    {
+      "start_time": "00:07:22,000",
+      "end_time": "00:07:25,440",
+      "text": "wrath of khan um others have other"
+    },
+    {
+      "start_time": "00:07:24,400",
+      "end_time": "00:07:28,479",
+      "text": "opinions"
+    },
+    {
+      "start_time": "00:07:25,440",
+      "end_time": "00:07:29,199",
+      "text": "but don't worry they're wrong it's wrath"
+    },
+    {
+      "start_time": "00:07:28,479",
+      "end_time": "00:07:32,400",
+      "text": "of khan"
+    },
+    {
+      "start_time": "00:07:29,199",
+      "end_time": "00:07:36,880",
+      "text": "um so i grew up watching uh"
+    },
+    {
+      "start_time": "00:07:32,400",
+      "end_time": "00:07:41,120",
+      "text": "reruns in syndication but with a mindset"
+    },
+    {
+      "start_time": "00:07:36,880",
+      "end_time": "00:07:45,440",
+      "text": "formed by the films um"
+    },
+    {
+      "start_time": "00:07:41,120",
+      "end_time": "00:07:48,800",
+      "text": "fast forward now i was in"
+    },
+    {
+      "start_time": "00:07:45,440",
+      "end_time": "00:07:52,000",
+      "text": "10th grade and uh a"
+    },
+    {
+      "start_time": "00:07:48,800",
+      "end_time": "00:07:55,120",
+      "text": "friend that year introduced me"
+    },
+    {
+      "start_time": "00:07:52,000",
+      "end_time": "00:07:58,639",
+      "text": "to the starfleet technical manual"
+    },
+    {
+      "start_time": "00:07:55,120",
+      "end_time": "00:08:01,759",
+      "text": "and if i look over i i can see it and"
+    },
+    {
+      "start_time": "00:07:58,639",
+      "end_time": "00:08:04,960",
+      "text": "let's face it several of its friends"
+    },
+    {
+      "start_time": "00:08:01,759",
+      "end_time": "00:08:06,479",
+      "text": "on my bookshelf and this this blew my"
+    },
+    {
+      "start_time": "00:08:04,960",
+      "end_time": "00:08:11,039",
+      "text": "mind that you could get"
+    },
+    {
+      "start_time": "00:08:06,479",
+      "end_time": "00:08:14,560",
+      "text": "in to all of that detail that people had"
+    },
+    {
+      "start_time": "00:08:11,039",
+      "end_time": "00:08:18,560",
+      "text": "thought about all of that detail"
+    },
+    {
+      "start_time": "00:08:14,560",
+      "end_time": "00:08:20,800",
+      "text": "um and it just made it so much more real"
+    },
+    {
+      "start_time": "00:08:18,560",
+      "end_time": "00:08:22,000",
+      "text": "um i never got into the role playing"
+    },
+    {
+      "start_time": "00:08:20,800",
+      "end_time": "00:08:23,599",
+      "text": "games because"
+    },
+    {
+      "start_time": "00:08:22,000",
+      "end_time": "00:08:26,639",
+      "text": "prior to star trek adventures by"
+    },
+    {
+      "start_time": "00:08:23,599",
+      "end_time": "00:08:28,639",
+      "text": "modiphius i'm strongly of the opinion"
+    },
+    {
+      "start_time": "00:08:26,639",
+      "end_time": "00:08:30,000",
+      "text": "that the former role-playing games"
+    },
+    {
+      "start_time": "00:08:28,639",
+      "end_time": "00:08:32,080",
+      "text": "basically sucked"
+    },
+    {
+      "start_time": "00:08:30,000",
+      "end_time": "00:08:33,039",
+      "text": "and i don't think i'm alone with that"
+    },
+    {
+      "start_time": "00:08:32,080",
+      "end_time": "00:08:37,039",
+      "text": "for me"
+    },
+    {
+      "start_time": "00:08:33,039",
+      "end_time": "00:08:40,719",
+      "text": "star trek was about the movies and then"
+    },
+    {
+      "start_time": "00:08:37,039",
+      "end_time": "00:08:41,839",
+      "text": "right after i turned 13 next generation"
+    },
+    {
+      "start_time": "00:08:40,719",
+      "end_time": "00:08:45,200",
+      "text": "came out"
+    },
+    {
+      "start_time": "00:08:41,839",
+      "end_time": "00:08:48,720",
+      "text": "and quite honestly guys my world"
+    },
+    {
+      "start_time": "00:08:45,200",
+      "end_time": "00:08:51,440",
+      "text": "my my sense of self"
+    },
+    {
+      "start_time": "00:08:48,720",
+      "end_time": "00:08:52,320",
+      "text": "almost and i'm really serious was"
+    },
+    {
+      "start_time": "00:08:51,440",
+      "end_time": "00:08:55,120",
+      "text": "changed"
+    },
+    {
+      "start_time": "00:08:52,320",
+      "end_time": "00:08:55,440",
+      "text": "i have i have never gone back from that"
+    },
+    {
+      "start_time": "00:08:55,120",
+      "end_time": "00:08:59,040",
+      "text": "i"
+    },
+    {
+      "start_time": "00:08:55,440",
+      "end_time": "00:09:00,800",
+      "text": "i am i am we are in our mid 40s deeply"
+    },
+    {
+      "start_time": "00:08:59,040",
+      "end_time": "00:09:04,240",
+      "text": "ensconced in our mid 40s"
+    },
+    {
+      "start_time": "00:09:00,800",
+      "end_time": "00:09:05,600",
+      "text": "right now and i don't think there has"
+    },
+    {
+      "start_time": "00:09:04,240",
+      "end_time": "00:09:09,519",
+      "text": "been a week"
+    },
+    {
+      "start_time": "00:09:05,600",
+      "end_time": "00:09:13,279",
+      "text": "in my life since i was 13"
+    },
+    {
+      "start_time": "00:09:09,519",
+      "end_time": "00:09:17,120",
+      "text": "that i have not thought of trek"
+    },
+    {
+      "start_time": "00:09:13,279",
+      "end_time": "00:09:19,680",
+      "text": "probably tng and not thought about"
+    },
+    {
+      "start_time": "00:09:17,120",
+      "end_time": "00:09:21,920",
+      "text": "something in real life through that lens"
+    },
+    {
+      "start_time": "00:09:19,680",
+      "end_time": "00:09:23,839",
+      "text": "i'm gonna stop now because i'm rambling"
+    },
+    {
+      "start_time": "00:09:21,920",
+      "end_time": "00:09:24,480",
+      "text": "and as brad knows i could just keep"
+    },
+    {
+      "start_time": "00:09:23,839",
+      "end_time": "00:09:28,160",
+      "text": "going"
+    },
+    {
+      "start_time": "00:09:24,480",
+      "end_time": "00:09:31,680",
+      "text": "but needless to say for me uh i"
+    },
+    {
+      "start_time": "00:09:28,160",
+      "end_time": "00:09:34,720",
+      "text": "i got into with the films i deeply fell"
+    },
+    {
+      "start_time": "00:09:31,680",
+      "end_time": "00:09:37,279",
+      "text": "in love uh with tng"
+    },
+    {
+      "start_time": "00:09:34,720",
+      "end_time": "00:09:38,000",
+      "text": "and um i'm really really looking forward"
+    },
+    {
+      "start_time": "00:09:37,279",
+      "end_time": "00:09:40,000",
+      "text": "to"
+    },
+    {
+      "start_time": "00:09:38,000",
+      "end_time": "00:09:41,920",
+      "text": "between this step and the next and maybe"
+    },
+    {
+      "start_time": "00:09:40,000",
+      "end_time": "00:09:43,440",
+      "text": "the next talking about"
+    },
+    {
+      "start_time": "00:09:41,920",
+      "end_time": "00:09:45,839",
+      "text": "what's up and coming but for now i'm"
+    },
+    {
+      "start_time": "00:09:43,440",
+      "end_time": "00:09:47,040",
+      "text": "gonna stop brad my friend i'm turning it"
+    },
+    {
+      "start_time": "00:09:45,839",
+      "end_time": "00:09:50,160",
+      "text": "over to you what's"
+    },
+    {
+      "start_time": "00:09:47,040",
+      "end_time": "00:09:52,399",
+      "text": "what's your uh initial history with the"
+    },
+    {
+      "start_time": "00:09:50,160",
+      "end_time": "00:09:54,800",
+      "text": "final frontier"
+    },
+    {
+      "start_time": "00:09:52,399",
+      "end_time": "00:09:56,880",
+      "text": "and and i have a i have a story that"
+    },
+    {
+      "start_time": "00:09:54,800",
+      "end_time": "00:09:59,839",
+      "text": "i'll tell that i didn't"
+    },
+    {
+      "start_time": "00:09:56,880",
+      "end_time": "00:10:01,279",
+      "text": "t jason up on as much as we've talked"
+    },
+    {
+      "start_time": "00:09:59,839",
+      "end_time": "00:10:04,000",
+      "text": "about this"
+    },
+    {
+      "start_time": "00:10:01,279",
+      "end_time": "00:10:04,880",
+      "text": "as much as we talk about trek amongst"
+    },
+    {
+      "start_time": "00:10:04,000",
+      "end_time": "00:10:10,399",
+      "text": "anything else and"
+    },
+    {
+      "start_time": "00:10:04,880",
+      "end_time": "00:10:13,120",
+      "text": "to to reinforce what jason was saying"
+    },
+    {
+      "start_time": "00:10:10,399",
+      "end_time": "00:10:14,959",
+      "text": "we've we talk about this podcast a lot"
+    },
+    {
+      "start_time": "00:10:13,120",
+      "end_time": "00:10:17,279",
+      "text": "and we talk about all the gaming systems"
+    },
+    {
+      "start_time": "00:10:14,959",
+      "end_time": "00:10:21,279",
+      "text": "and the gaming mechanics"
+    },
+    {
+      "start_time": "00:10:17,279",
+      "end_time": "00:10:25,120",
+      "text": "but the one where um we have"
+    },
+    {
+      "start_time": "00:10:21,279",
+      "end_time": "00:10:26,959",
+      "text": "had we really rabbit holes when we start"
+    },
+    {
+      "start_time": "00:10:25,120",
+      "end_time": "00:10:31,040",
+      "text": "talking about star trek"
+    },
+    {
+      "start_time": "00:10:26,959",
+      "end_time": "00:10:32,560",
+      "text": "and how in what way can they create a"
+    },
+    {
+      "start_time": "00:10:31,040",
+      "end_time": "00:10:36,880",
+      "text": "role-playing game"
+    },
+    {
+      "start_time": "00:10:32,560",
+      "end_time": "00:10:40,160",
+      "text": "that truly captures track i grew up"
+    },
+    {
+      "start_time": "00:10:36,880",
+      "end_time": "00:10:42,880",
+      "text": "watching the original series reruns"
+    },
+    {
+      "start_time": "00:10:40,160",
+      "end_time": "00:10:46,640",
+      "text": "um jason and i are of the same age so"
+    },
+    {
+      "start_time": "00:10:42,880",
+      "end_time": "00:10:48,160",
+      "text": "the the original series was not"
+    },
+    {
+      "start_time": "00:10:46,640",
+      "end_time": "00:10:49,920",
+      "text": "there weren't new episodes when i"
+    },
+    {
+      "start_time": "00:10:48,160",
+      "end_time": "00:10:51,680",
+      "text": "started watching um"
+    },
+    {
+      "start_time": "00:10:49,920",
+      "end_time": "00:10:54,959",
+      "text": "of all the people that got me interested"
+    },
+    {
+      "start_time": "00:10:51,680",
+      "end_time": "00:10:58,399",
+      "text": "in it it was my mother she was a sci-fi"
+    },
+    {
+      "start_time": "00:10:54,959",
+      "end_time": "00:11:01,440",
+      "text": "person so i remember"
+    },
+    {
+      "start_time": "00:10:58,399",
+      "end_time": "00:11:04,480",
+      "text": "her coming home early 80s"
+    },
+    {
+      "start_time": "00:11:01,440",
+      "end_time": "00:11:05,920",
+      "text": "my parents coming home and she looked"
+    },
+    {
+      "start_time": "00:11:04,480",
+      "end_time": "00:11:06,640",
+      "text": "like she was shocked and i still"
+    },
+    {
+      "start_time": "00:11:05,920",
+      "end_time": "00:11:08,560",
+      "text": "remember i"
+    },
+    {
+      "start_time": "00:11:06,640",
+      "end_time": "00:11:09,839",
+      "text": "remember this i was probably six seven"
+    },
+    {
+      "start_time": "00:11:08,560",
+      "end_time": "00:11:13,279",
+      "text": "eight years old"
+    },
+    {
+      "start_time": "00:11:09,839",
+      "end_time": "00:11:16,000",
+      "text": "um she was shocked that spock died"
+    },
+    {
+      "start_time": "00:11:13,279",
+      "end_time": "00:11:17,760",
+      "text": "um because back then there was no"
+    },
+    {
+      "start_time": "00:11:16,000",
+      "end_time": "00:11:19,200",
+      "text": "internet there weren't any spoilers"
+    },
+    {
+      "start_time": "00:11:17,760",
+      "end_time": "00:11:20,560",
+      "text": "there wasn't screen rant and some of"
+    },
+    {
+      "start_time": "00:11:19,200",
+      "end_time": "00:11:23,200",
+      "text": "these other sites"
+    },
+    {
+      "start_time": "00:11:20,560",
+      "end_time": "00:11:24,399",
+      "text": "um you didn't know what was going to"
+    },
+    {
+      "start_time": "00:11:23,200",
+      "end_time": "00:11:25,760",
+      "text": "happen in the movie until you went to"
+    },
+    {
+      "start_time": "00:11:24,399",
+      "end_time": "00:11:29,360",
+      "text": "the movie"
+    },
+    {
+      "start_time": "00:11:25,760",
+      "end_time": "00:11:32,560",
+      "text": "so i remember going to"
+    },
+    {
+      "start_time": "00:11:29,360",
+      "end_time": "00:11:34,880",
+      "text": "making a day of it to go to see um"
+    },
+    {
+      "start_time": "00:11:32,560",
+      "end_time": "00:11:36,079",
+      "text": "episode 4 when that came out the voyage"
+    },
+    {
+      "start_time": "00:11:34,880",
+      "end_time": "00:11:39,040",
+      "text": "home"
+    },
+    {
+      "start_time": "00:11:36,079",
+      "end_time": "00:11:40,640",
+      "text": "i agree with jason uh wrath of khan by"
+    },
+    {
+      "start_time": "00:11:39,040",
+      "end_time": "00:11:43,440",
+      "text": "far is the best"
+    },
+    {
+      "start_time": "00:11:40,640",
+      "end_time": "00:11:45,040",
+      "text": "there's always that that joking rule the"
+    },
+    {
+      "start_time": "00:11:43,440",
+      "end_time": "00:11:45,519",
+      "text": "even tracks were better than the odd"
+    },
+    {
+      "start_time": "00:11:45,040",
+      "end_time": "00:11:47,120",
+      "text": "tracks"
+    },
+    {
+      "start_time": "00:11:45,519",
+      "end_time": "00:11:49,120",
+      "text": "when it came to the original series"
+    },
+    {
+      "start_time": "00:11:47,120",
+      "end_time": "00:11:52,160",
+      "text": "movies so"
+    },
+    {
+      "start_time": "00:11:49,120",
+      "end_time": "00:11:54,880",
+      "text": "but um at"
+    },
+    {
+      "start_time": "00:11:52,160",
+      "end_time": "00:11:57,360",
+      "text": "college my freshman year college the"
+    },
+    {
+      "start_time": "00:11:54,880",
+      "end_time": "00:12:00,560",
+      "text": "year that i met jason"
+    },
+    {
+      "start_time": "00:11:57,360",
+      "end_time": "00:12:02,000",
+      "text": "i was walking the floor with"
+    },
+    {
+      "start_time": "00:12:00,560",
+      "end_time": "00:12:03,760",
+      "text": "a friend i knew from high school that"
+    },
+    {
+      "start_time": "00:12:02,000",
+      "end_time": "00:12:06,399",
+      "text": "was going to the college"
+    },
+    {
+      "start_time": "00:12:03,760",
+      "end_time": "00:12:08,079",
+      "text": "and i walked by this door that said"
+    },
+    {
+      "start_time": "00:12:06,399",
+      "end_time": "00:12:09,839",
+      "text": "engineering"
+    },
+    {
+      "start_time": "00:12:08,079",
+      "end_time": "00:12:11,120",
+      "text": "and i thought okay that person first of"
+    },
+    {
+      "start_time": "00:12:09,839",
+      "end_time": "00:12:14,320",
+      "text": "all one nerd"
+    },
+    {
+      "start_time": "00:12:11,120",
+      "end_time": "00:12:16,320",
+      "text": "and two um they must be an engineering"
+    },
+    {
+      "start_time": "00:12:14,320",
+      "end_time": "00:12:19,839",
+      "text": "major or something like that"
+    },
+    {
+      "start_time": "00:12:16,320",
+      "end_time": "00:12:22,000",
+      "text": "um so walked by didn't think much of it"
+    },
+    {
+      "start_time": "00:12:19,839",
+      "end_time": "00:12:24,000",
+      "text": "um had made another friend on the floor"
+    },
+    {
+      "start_time": "00:12:22,000",
+      "end_time": "00:12:25,519",
+      "text": "very similar and was walking through and"
+    },
+    {
+      "start_time": "00:12:24,000",
+      "end_time": "00:12:29,120",
+      "text": "saw that again"
+    },
+    {
+      "start_time": "00:12:25,519",
+      "end_time": "00:12:31,920",
+      "text": "and the door was open and i stopped and"
+    },
+    {
+      "start_time": "00:12:29,120",
+      "end_time": "00:12:32,880",
+      "text": "asked what that was about and the guy"
+    },
+    {
+      "start_time": "00:12:31,920",
+      "end_time": "00:12:34,160",
+      "text": "had indicated"
+    },
+    {
+      "start_time": "00:12:32,880",
+      "end_time": "00:12:35,920",
+      "text": "you know i don't remember the exact"
+    },
+    {
+      "start_time": "00:12:34,160",
+      "end_time": "00:12:38,720",
+      "text": "story of verbiage but it was related to"
+    },
+    {
+      "start_time": "00:12:35,920",
+      "end_time": "00:12:41,839",
+      "text": "the fact that it was trek"
+    },
+    {
+      "start_time": "00:12:38,720",
+      "end_time": "00:12:43,360",
+      "text": "so that's how you know there are maybe"
+    },
+    {
+      "start_time": "00:12:41,839",
+      "end_time": "00:12:46,560",
+      "text": "some other ways but that's the"
+    },
+    {
+      "start_time": "00:12:43,360",
+      "end_time": "00:12:49,519",
+      "text": "the that was almost 30 years ago so that"
+    },
+    {
+      "start_time": "00:12:46,560",
+      "end_time": "00:12:53,440",
+      "text": "was the fall of 1992 so we're talking"
+    },
+    {
+      "start_time": "00:12:49,519",
+      "end_time": "00:12:55,040",
+      "text": "29 years ago that was my the first time"
+    },
+    {
+      "start_time": "00:12:53,440",
+      "end_time": "00:12:58,399",
+      "text": "i met jason"
+    },
+    {
+      "start_time": "00:12:55,040",
+      "end_time": "00:12:59,440",
+      "text": "and how we started bonding with talking"
+    },
+    {
+      "start_time": "00:12:58,399",
+      "end_time": "00:13:02,639",
+      "text": "about trek"
+    },
+    {
+      "start_time": "00:12:59,440",
+      "end_time": "00:13:05,680",
+      "text": "and then jason's roommate in"
+    },
+    {
+      "start_time": "00:13:02,639",
+      "end_time": "00:13:08,480",
+      "text": "days of tapes"
+    },
+    {
+      "start_time": "00:13:05,680",
+      "end_time": "00:13:10,160",
+      "text": "we watched we started watching the six"
+    },
+    {
+      "start_time": "00:13:08,480",
+      "end_time": "00:13:12,639",
+      "text": "movies that were out at the time"
+    },
+    {
+      "start_time": "00:13:10,160",
+      "end_time": "00:13:14,320",
+      "text": "for the original series we started"
+    },
+    {
+      "start_time": "00:13:12,639",
+      "end_time": "00:13:15,279",
+      "text": "watching them through and through i"
+    },
+    {
+      "start_time": "00:13:14,320",
+      "end_time": "00:13:18,800",
+      "text": "think that"
+    },
+    {
+      "start_time": "00:13:15,279",
+      "end_time": "00:13:20,320",
+      "text": "that semester um jason was"
+    },
+    {
+      "start_time": "00:13:18,800",
+      "end_time": "00:13:21,760",
+      "text": "i mean there's a there's a running gag"
+    },
+    {
+      "start_time": "00:13:20,320",
+      "end_time": "00:13:24,079",
+      "text": "about that but jason was much more"
+    },
+    {
+      "start_time": "00:13:21,760",
+      "end_time": "00:13:26,639",
+      "text": "academic than i was at that point"
+    },
+    {
+      "start_time": "00:13:24,079",
+      "end_time": "00:13:27,760",
+      "text": "but um even while he would be doing"
+    },
+    {
+      "start_time": "00:13:26,639",
+      "end_time": "00:13:30,000",
+      "text": "school work"
+    },
+    {
+      "start_time": "00:13:27,760",
+      "end_time": "00:13:31,839",
+      "text": "um if i was doing schoolwork we were"
+    },
+    {
+      "start_time": "00:13:30,000",
+      "end_time": "00:13:33,600",
+      "text": "doing it in that dorm room"
+    },
+    {
+      "start_time": "00:13:31,839",
+      "end_time": "00:13:34,959",
+      "text": "with the trek movies on or in the"
+    },
+    {
+      "start_time": "00:13:33,600",
+      "end_time": "00:13:38,079",
+      "text": "background"
+    },
+    {
+      "start_time": "00:13:34,959",
+      "end_time": "00:13:39,680",
+      "text": "so trek is what originally and"
+    },
+    {
+      "start_time": "00:13:38,079",
+      "end_time": "00:13:41,279",
+      "text": "face i didn't tee you up on that because"
+    },
+    {
+      "start_time": "00:13:39,680",
+      "end_time": "00:13:42,959",
+      "text": "as you were talking um"
+    },
+    {
+      "start_time": "00:13:41,279",
+      "end_time": "00:13:44,800",
+      "text": "i remembered some of the story but the"
+    },
+    {
+      "start_time": "00:13:42,959",
+      "end_time": "00:13:47,440",
+      "text": "idea of us"
+    },
+    {
+      "start_time": "00:13:44,800",
+      "end_time": "00:13:48,720",
+      "text": "watching those movies over and over and"
+    },
+    {
+      "start_time": "00:13:47,440",
+      "end_time": "00:13:50,959",
+      "text": "over again"
+    },
+    {
+      "start_time": "00:13:48,720",
+      "end_time": "00:13:52,079",
+      "text": "to the point where if we hadn't been"
+    },
+    {
+      "start_time": "00:13:50,959",
+      "end_time": "00:13:54,560",
+      "text": "able to"
+    },
+    {
+      "start_time": "00:13:52,079",
+      "end_time": "00:13:55,519",
+      "text": "recite the script before we went to"
+    },
+    {
+      "start_time": "00:13:54,560",
+      "end_time": "00:13:59,120",
+      "text": "college we sure"
+    },
+    {
+      "start_time": "00:13:55,519",
+      "end_time": "00:14:02,720",
+      "text": "were able to after um"
+    },
+    {
+      "start_time": "00:13:59,120",
+      "end_time": "00:14:07,040",
+      "text": "for me um i didn't get into"
+    },
+    {
+      "start_time": "00:14:02,720",
+      "end_time": "00:14:10,720",
+      "text": "tng originally my mother did ironically"
+    },
+    {
+      "start_time": "00:14:07,040",
+      "end_time": "00:14:12,880",
+      "text": "she was the one that in effect"
+    },
+    {
+      "start_time": "00:14:10,720",
+      "end_time": "00:14:13,920",
+      "text": "kind of made me sit down to watch some"
+    },
+    {
+      "start_time": "00:14:12,880",
+      "end_time": "00:14:16,880",
+      "text": "of the episodes"
+    },
+    {
+      "start_time": "00:14:13,920",
+      "end_time": "00:14:17,760",
+      "text": "after it premiered so i watched some of"
+    },
+    {
+      "start_time": "00:14:16,880",
+      "end_time": "00:14:21,199",
+      "text": "it"
+    },
+    {
+      "start_time": "00:14:17,760",
+      "end_time": "00:14:24,639",
+      "text": "in high school but i really didn't start"
+    },
+    {
+      "start_time": "00:14:21,199",
+      "end_time": "00:14:25,279",
+      "text": "watching it until after that freshman"
+    },
+    {
+      "start_time": "00:14:24,639",
+      "end_time": "00:14:27,760",
+      "text": "year school"
+    },
+    {
+      "start_time": "00:14:25,279",
+      "end_time": "00:14:28,959",
+      "text": "just based off of the topics and the"
+    },
+    {
+      "start_time": "00:14:27,760",
+      "end_time": "00:14:30,880",
+      "text": "discussions"
+    },
+    {
+      "start_time": "00:14:28,959",
+      "end_time": "00:14:32,399",
+      "text": "that jason and i had my trek universe"
+    },
+    {
+      "start_time": "00:14:30,880",
+      "end_time": "00:14:35,360",
+      "text": "was original series"
+    },
+    {
+      "start_time": "00:14:32,399",
+      "end_time": "00:14:37,600",
+      "text": "i hadn't stepped into uh the next"
+    },
+    {
+      "start_time": "00:14:35,360",
+      "end_time": "00:14:41,680",
+      "text": "generation and this was before"
+    },
+    {
+      "start_time": "00:14:37,600",
+      "end_time": "00:14:41,680",
+      "text": "ds9 and this was before voyager"
+    },
+    {
+      "start_time": "00:14:42,240",
+      "end_time": "00:14:49,120",
+      "text": "so we have spent an enormous"
+    },
+    {
+      "start_time": "00:14:46,000",
+      "end_time": "00:14:51,920",
+      "text": "amount of time talking about trek"
+    },
+    {
+      "start_time": "00:14:49,120",
+      "end_time": "00:14:53,279",
+      "text": "um it is really what it's what"
+    },
+    {
+      "start_time": "00:14:51,920",
+      "end_time": "00:14:57,040",
+      "text": "introduced me"
+    },
+    {
+      "start_time": "00:14:53,279",
+      "end_time": "00:14:58,079",
+      "text": "to jace um it has been among so many"
+    },
+    {
+      "start_time": "00:14:57,040",
+      "end_time": "00:15:01,839",
+      "text": "other things it's been a"
+    },
+    {
+      "start_time": "00:14:58,079",
+      "end_time": "00:15:02,480",
+      "text": "binding discussion for us i also do have"
+    },
+    {
+      "start_time": "00:15:01,839",
+      "end_time": "00:15:05,360",
+      "text": "the"
+    },
+    {
+      "start_time": "00:15:02,480",
+      "end_time": "00:15:05,680",
+      "text": "technical manual many other books and i"
+    },
+    {
+      "start_time": "00:15:05,360",
+      "end_time": "00:15:07,920",
+      "text": "am"
+    },
+    {
+      "start_time": "00:15:05,680",
+      "end_time": "00:15:08,800",
+      "text": "quite glad that this is not a video cast"
+    },
+    {
+      "start_time": "00:15:07,920",
+      "end_time": "00:15:10,959",
+      "text": "because"
+    },
+    {
+      "start_time": "00:15:08,800",
+      "end_time": "00:15:13,040",
+      "text": "it would almost be embarrassing to show"
+    },
+    {
+      "start_time": "00:15:10,959",
+      "end_time": "00:15:15,920",
+      "text": "my rpg shelf"
+    },
+    {
+      "start_time": "00:15:13,040",
+      "end_time": "00:15:18,480",
+      "text": "and the percentage of it in which trek"
+    },
+    {
+      "start_time": "00:15:15,920",
+      "end_time": "00:15:22,160",
+      "text": "even the older"
+    },
+    {
+      "start_time": "00:15:18,480",
+      "end_time": "00:15:24,320",
+      "text": "older series older rpgs were"
+    },
+    {
+      "start_time": "00:15:22,160",
+      "end_time": "00:15:27,360",
+      "text": "the other thing that that jc forgot to"
+    },
+    {
+      "start_time": "00:15:24,320",
+      "end_time": "00:15:30,880",
+      "text": "mention was um"
+    },
+    {
+      "start_time": "00:15:27,360",
+      "end_time": "00:15:33,920",
+      "text": "i remember i i by that time i left"
+    },
+    {
+      "start_time": "00:15:30,880",
+      "end_time": "00:15:35,839",
+      "text": "the university but because jason"
+    },
+    {
+      "start_time": "00:15:33,920",
+      "end_time": "00:15:37,680",
+      "text": "and and one or two other people i'd"
+    },
+    {
+      "start_time": "00:15:35,839",
+      "end_time": "00:15:40,720",
+      "text": "become very close with"
+    },
+    {
+      "start_time": "00:15:37,680",
+      "end_time": "00:15:45,519",
+      "text": "we were in the same fraternity"
+    },
+    {
+      "start_time": "00:15:40,720",
+      "end_time": "00:15:47,600",
+      "text": "jace and had a very nice mac"
+    },
+    {
+      "start_time": "00:15:45,519",
+      "end_time": "00:15:49,920",
+      "text": "that had great sound back in the day pcs"
+    },
+    {
+      "start_time": "00:15:47,600",
+      "end_time": "00:15:52,880",
+      "text": "did not have the sound that max did"
+    },
+    {
+      "start_time": "00:15:49,920",
+      "end_time": "00:15:54,240",
+      "text": "and um jay she'll correct me it's the"
+    },
+    {
+      "start_time": "00:15:52,880",
+      "end_time": "00:15:55,759",
+      "text": "technical it's the star trek the"
+    },
+    {
+      "start_time": "00:15:54,240",
+      "end_time": "00:15:57,440",
+      "text": "enterprise technical manual or the"
+    },
+    {
+      "start_time": "00:15:55,759",
+      "end_time": "00:15:58,320",
+      "text": "enterprise tour you can correct me on"
+    },
+    {
+      "start_time": "00:15:57,440",
+      "end_time": "00:16:01,199",
+      "text": "that"
+    },
+    {
+      "start_time": "00:15:58,320",
+      "end_time": "00:16:02,079",
+      "text": "but going through putting that cd in the"
+    },
+    {
+      "start_time": "00:16:01,199",
+      "end_time": "00:16:04,000",
+      "text": "mac"
+    },
+    {
+      "start_time": "00:16:02,079",
+      "end_time": "00:16:05,519",
+      "text": "and then being able to walk through the"
+    },
+    {
+      "start_time": "00:16:04,000",
+      "end_time": "00:16:09,680",
+      "text": "enterprise"
+    },
+    {
+      "start_time": "00:16:05,519",
+      "end_time": "00:16:13,519",
+      "text": "and hearing that ambient sound"
+    },
+    {
+      "start_time": "00:16:09,680",
+      "end_time": "00:16:15,839",
+      "text": "like you would hear on the tv show"
+    },
+    {
+      "start_time": "00:16:13,519",
+      "end_time": "00:16:17,519",
+      "text": "without and you'd hear just that ambient"
+    },
+    {
+      "start_time": "00:16:15,839",
+      "end_time": "00:16:21,040",
+      "text": "sound"
+    },
+    {
+      "start_time": "00:16:17,519",
+      "end_time": "00:16:23,279",
+      "text": "i could still use that as"
+    },
+    {
+      "start_time": "00:16:21,040",
+      "end_time": "00:16:24,240",
+      "text": "an effect white noise going to sleep at"
+    },
+    {
+      "start_time": "00:16:23,279",
+      "end_time": "00:16:28,959",
+      "text": "night"
+    },
+    {
+      "start_time": "00:16:24,240",
+      "end_time": "00:16:31,440",
+      "text": "so um you know to this day"
+    },
+    {
+      "start_time": "00:16:28,959",
+      "end_time": "00:16:32,560",
+      "text": "um you know everyone has their own"
+    },
+    {
+      "start_time": "00:16:31,440",
+      "end_time": "00:16:35,279",
+      "text": "favorite series"
+    },
+    {
+      "start_time": "00:16:32,560",
+      "end_time": "00:16:36,399",
+      "text": "you know for me honestly my favorite is"
+    },
+    {
+      "start_time": "00:16:35,279",
+      "end_time": "00:16:39,519",
+      "text": "ds9"
+    },
+    {
+      "start_time": "00:16:36,399",
+      "end_time": "00:16:41,519",
+      "text": "i will every other year so"
+    },
+    {
+      "start_time": "00:16:39,519",
+      "end_time": "00:16:43,199",
+      "text": "um re-watch one of the series i will"
+    },
+    {
+      "start_time": "00:16:41,519",
+      "end_time": "00:16:44,959",
+      "text": "binge it through"
+    },
+    {
+      "start_time": "00:16:43,199",
+      "end_time": "00:16:46,880",
+      "text": "probably spent an inordinate amount of"
+    },
+    {
+      "start_time": "00:16:44,959",
+      "end_time": "00:16:50,079",
+      "text": "time not doing other things i should"
+    },
+    {
+      "start_time": "00:16:46,880",
+      "end_time": "00:16:52,639",
+      "text": "and watching them so"
+    },
+    {
+      "start_time": "00:16:50,079",
+      "end_time": "00:16:54,240",
+      "text": "and it always comes up in a conversation"
+    },
+    {
+      "start_time": "00:16:52,639",
+      "end_time": "00:16:55,759",
+      "text": "with us and i think it's because"
+    },
+    {
+      "start_time": "00:16:54,240",
+      "end_time": "00:16:58,079",
+      "text": "then i'm gonna pause here because i can"
+    },
+    {
+      "start_time": "00:16:55,759",
+      "end_time": "00:17:00,800",
+      "text": "ramble um"
+    },
+    {
+      "start_time": "00:16:58,079",
+      "end_time": "00:17:02,399",
+      "text": "i think it's because the you know we'll"
+    },
+    {
+      "start_time": "00:17:00,800",
+      "end_time": "00:17:05,600",
+      "text": "get into this with the mechanic"
+    },
+    {
+      "start_time": "00:17:02,399",
+      "end_time": "00:17:07,600",
+      "text": "but the idea of the universe"
+    },
+    {
+      "start_time": "00:17:05,600",
+      "end_time": "00:17:09,120",
+      "text": "up until the renaissance let's just talk"
+    },
+    {
+      "start_time": "00:17:07,600",
+      "end_time": "00:17:12,799",
+      "text": "up to that point"
+    },
+    {
+      "start_time": "00:17:09,120",
+      "end_time": "00:17:14,079",
+      "text": "the universe there was an idealistic"
+    },
+    {
+      "start_time": "00:17:12,799",
+      "end_time": "00:17:16,240",
+      "text": "future for us"
+    },
+    {
+      "start_time": "00:17:14,079",
+      "end_time": "00:17:18,400",
+      "text": "but it seemed so much more attainable"
+    },
+    {
+      "start_time": "00:17:16,240",
+      "end_time": "00:17:20,959",
+      "text": "than any other sci-fi"
+    },
+    {
+      "start_time": "00:17:18,400",
+      "end_time": "00:17:22,400",
+      "text": "or fantasy that's out there they wrote"
+    },
+    {
+      "start_time": "00:17:20,959",
+      "end_time": "00:17:27,360",
+      "text": "trek with the idea that"
+    },
+    {
+      "start_time": "00:17:22,400",
+      "end_time": "00:17:30,320",
+      "text": "if if we made all the right choices as"
+    },
+    {
+      "start_time": "00:17:27,360",
+      "end_time": "00:17:31,600",
+      "text": "in society that we could end up in that"
+    },
+    {
+      "start_time": "00:17:30,320",
+      "end_time": "00:17:34,320",
+      "text": "way shape or form"
+    },
+    {
+      "start_time": "00:17:31,600",
+      "end_time": "00:17:35,360",
+      "text": "and down the road versus you know no"
+    },
+    {
+      "start_time": "00:17:34,320",
+      "end_time": "00:17:37,440",
+      "text": "disrespect"
+    },
+    {
+      "start_time": "00:17:35,360",
+      "end_time": "00:17:38,720",
+      "text": "we're not going to find the force down"
+    },
+    {
+      "start_time": "00:17:37,440",
+      "end_time": "00:17:39,120",
+      "text": "in the future at least i don't think we"
+    },
+    {
+      "start_time": "00:17:38,720",
+      "end_time": "00:17:40,400",
+      "text": "will"
+    },
+    {
+      "start_time": "00:17:39,120",
+      "end_time": "00:17:41,760",
+      "text": "maybe a thousand years from now if"
+    },
+    {
+      "start_time": "00:17:40,400",
+      "end_time": "00:17:43,440",
+      "text": "someone happens to listen to this they"
+    },
+    {
+      "start_time": "00:17:41,760",
+      "end_time": "00:17:46,960",
+      "text": "may disagree"
+    },
+    {
+      "start_time": "00:17:43,440",
+      "end_time": "00:17:48,880",
+      "text": "but trek was an attainable future for us"
+    },
+    {
+      "start_time": "00:17:46,960",
+      "end_time": "00:17:50,480",
+      "text": "so it was almost like futurist"
+    },
+    {
+      "start_time": "00:17:48,880",
+      "end_time": "00:17:54,240",
+      "text": "television"
+    },
+    {
+      "start_time": "00:17:50,480",
+      "end_time": "00:17:54,559",
+      "text": "um and that is what originally attracted"
+    },
+    {
+      "start_time": "00:17:54,240",
+      "end_time": "00:17:58,840",
+      "text": "me"
+    },
+    {
+      "start_time": "00:17:54,559",
+      "end_time": "00:18:00,400",
+      "text": "to the the modiphius version of the game"
+    },
+    {
+      "start_time": "00:17:58,840",
+      "end_time": "00:18:04,640",
+      "text": "because"
+    },
+    {
+      "start_time": "00:18:00,400",
+      "end_time": "00:18:07,679",
+      "text": "mimicking society in the future"
+    },
+    {
+      "start_time": "00:18:04,640",
+      "end_time": "00:18:11,039",
+      "text": "and making it fun"
+    },
+    {
+      "start_time": "00:18:07,679",
+      "end_time": "00:18:11,679",
+      "text": "to be general making it fun i think has"
+    },
+    {
+      "start_time": "00:18:11,039",
+      "end_time": "00:18:14,880",
+      "text": "been the most"
+    },
+    {
+      "start_time": "00:18:11,679",
+      "end_time": "00:18:16,880",
+      "text": "difficult thing about rpging"
+    },
+    {
+      "start_time": "00:18:14,880",
+      "end_time": "00:18:18,720",
+      "text": "trek after all these years whether it"
+    },
+    {
+      "start_time": "00:18:16,880",
+      "end_time": "00:18:20,720",
+      "text": "was fafsa or"
+    },
+    {
+      "start_time": "00:18:18,720",
+      "end_time": "00:18:22,559",
+      "text": "um i can't remember the name of the"
+    },
+    {
+      "start_time": "00:18:20,720",
+      "end_time": "00:18:24,960",
+      "text": "other group um"
+    },
+    {
+      "start_time": "00:18:22,559",
+      "end_time": "00:18:26,640",
+      "text": "you can probably remind me jace but okay"
+    },
+    {
+      "start_time": "00:18:24,960",
+      "end_time": "00:18:28,240",
+      "text": "i'll pause there but yeah"
+    },
+    {
+      "start_time": "00:18:26,640",
+      "end_time": "00:18:30,640",
+      "text": "trek is what bound us together"
+    },
+    {
+      "start_time": "00:18:28,240",
+      "end_time": "00:18:32,880",
+      "text": "originally"
+    },
+    {
+      "start_time": "00:18:30,640",
+      "end_time": "00:18:34,640",
+      "text": "yes let's let's just let's let's riff on"
+    },
+    {
+      "start_time": "00:18:32,880",
+      "end_time": "00:18:36,400",
+      "text": "that for just a moment brad i"
+    },
+    {
+      "start_time": "00:18:34,640",
+      "end_time": "00:18:38,160",
+      "text": "i think i think you really hit the"
+    },
+    {
+      "start_time": "00:18:36,400",
+      "end_time": "00:18:42,080",
+      "text": "proverbial nail"
+    },
+    {
+      "start_time": "00:18:38,160",
+      "end_time": "00:18:44,240",
+      "text": "on the head so a few man a few things"
+    },
+    {
+      "start_time": "00:18:42,080",
+      "end_time": "00:18:46,400",
+      "text": "um and i'm trying to keep all my"
+    },
+    {
+      "start_time": "00:18:44,240",
+      "end_time": "00:18:47,840",
+      "text": "thoughts in order in my head here we'll"
+    },
+    {
+      "start_time": "00:18:46,400",
+      "end_time": "00:18:50,240",
+      "text": "see how that goes so"
+    },
+    {
+      "start_time": "00:18:47,840",
+      "end_time": "00:18:51,760",
+      "text": "i think i think dear listeners uh"
+    },
+    {
+      "start_time": "00:18:50,240",
+      "end_time": "00:18:53,679",
+      "text": "something else to consider and"
+    },
+    {
+      "start_time": "00:18:51,760",
+      "end_time": "00:18:55,039",
+      "text": "you'll see in a moment how this really"
+    },
+    {
+      "start_time": "00:18:53,679",
+      "end_time": "00:18:57,760",
+      "text": "connects for us"
+    },
+    {
+      "start_time": "00:18:55,039",
+      "end_time": "00:18:58,720",
+      "text": "and and also why to go back to what brad"
+    },
+    {
+      "start_time": "00:18:57,760",
+      "end_time": "00:19:01,039",
+      "text": "was just saying"
+    },
+    {
+      "start_time": "00:18:58,720",
+      "end_time": "00:19:02,000",
+      "text": "why we think trek has connected with so"
+    },
+    {
+      "start_time": "00:19:01,039",
+      "end_time": "00:19:04,880",
+      "text": "many"
+    },
+    {
+      "start_time": "00:19:02,000",
+      "end_time": "00:19:07,600",
+      "text": "for um now multiple generations with"
+    },
+    {
+      "start_time": "00:19:04,880",
+      "end_time": "00:19:09,679",
+      "text": "generations which is sort of unheard of"
+    },
+    {
+      "start_time": "00:19:07,600",
+      "end_time": "00:19:11,840",
+      "text": "in addition to all of the trek talk and"
+    },
+    {
+      "start_time": "00:19:09,679",
+      "end_time": "00:19:14,960",
+      "text": "all the smack talk and the other talk"
+    },
+    {
+      "start_time": "00:19:11,840",
+      "end_time": "00:19:18,559",
+      "text": "in college um brad and i also"
+    },
+    {
+      "start_time": "00:19:14,960",
+      "end_time": "00:19:22,160",
+      "text": "very much built our our friendship"
+    },
+    {
+      "start_time": "00:19:18,559",
+      "end_time": "00:19:25,360",
+      "text": "uh by just being two curious guys"
+    },
+    {
+      "start_time": "00:19:22,160",
+      "end_time": "00:19:28,559",
+      "text": "seeking truth with a capital t and so"
+    },
+    {
+      "start_time": "00:19:25,360",
+      "end_time": "00:19:32,160",
+      "text": "weekly we would have fun really"
+    },
+    {
+      "start_time": "00:19:28,559",
+      "end_time": "00:19:35,600",
+      "text": "serious discussions about belief"
+    },
+    {
+      "start_time": "00:19:32,160",
+      "end_time": "00:19:39,679",
+      "text": "meaning life etc probably not all that"
+    },
+    {
+      "start_time": "00:19:35,600",
+      "end_time": "00:19:43,200",
+      "text": "remarkable for people in college but"
+    },
+    {
+      "start_time": "00:19:39,679",
+      "end_time": "00:19:46,320",
+      "text": "typically perhaps not to the same extent"
+    },
+    {
+      "start_time": "00:19:43,200",
+      "end_time": "00:19:48,240",
+      "text": "and i i say this because all of these"
+    },
+    {
+      "start_time": "00:19:46,320",
+      "end_time": "00:19:50,880",
+      "text": "ideas for us were undoubtedly"
+    },
+    {
+      "start_time": "00:19:48,240",
+      "end_time": "00:19:51,280",
+      "text": "mixing back in the day like they still"
+    },
+    {
+      "start_time": "00:19:50,880",
+      "end_time": "00:19:54,160",
+      "text": "mix"
+    },
+    {
+      "start_time": "00:19:51,280",
+      "end_time": "00:19:56,080",
+      "text": "for us today when we chat and and like"
+    },
+    {
+      "start_time": "00:19:54,160",
+      "end_time": "00:19:59,120",
+      "text": "brad just said when we look at"
+    },
+    {
+      "start_time": "00:19:56,080",
+      "end_time": "00:20:03,280",
+      "text": "star trek yes it's the future"
+    },
+    {
+      "start_time": "00:19:59,120",
+      "end_time": "00:20:07,120",
+      "text": "but it's not the space opera future"
+    },
+    {
+      "start_time": "00:20:03,280",
+      "end_time": "00:20:07,679",
+      "text": "like uh star wars like books by asimov"
+    },
+    {
+      "start_time": "00:20:07,120",
+      "end_time": "00:20:10,320",
+      "text": "and others"
+    },
+    {
+      "start_time": "00:20:07,679",
+      "end_time": "00:20:11,280",
+      "text": "all of which i love dearly but trek"
+    },
+    {
+      "start_time": "00:20:10,320",
+      "end_time": "00:20:14,159",
+      "text": "seems"
+    },
+    {
+      "start_time": "00:20:11,280",
+      "end_time": "00:20:15,760",
+      "text": "just over the horizon right it's just"
+    },
+    {
+      "start_time": "00:20:14,159",
+      "end_time": "00:20:19,039",
+      "text": "it's just the next"
+    },
+    {
+      "start_time": "00:20:15,760",
+      "end_time": "00:20:21,360",
+      "text": "step away or the step past the next step"
+    },
+    {
+      "start_time": "00:20:19,039",
+      "end_time": "00:20:23,200",
+      "text": "away"
+    },
+    {
+      "start_time": "00:20:21,360",
+      "end_time": "00:20:24,400",
+      "text": "but brad said something really important"
+    },
+    {
+      "start_time": "00:20:23,200",
+      "end_time": "00:20:26,400",
+      "text": "as well that"
+    },
+    {
+      "start_time": "00:20:24,400",
+      "end_time": "00:20:27,440",
+      "text": "you know it offers a promise an"
+    },
+    {
+      "start_time": "00:20:26,400",
+      "end_time": "00:20:29,520",
+      "text": "opportunity"
+    },
+    {
+      "start_time": "00:20:27,440",
+      "end_time": "00:20:32,159",
+      "text": "a gift of a future that's better than"
+    },
+    {
+      "start_time": "00:20:29,520",
+      "end_time": "00:20:35,919",
+      "text": "today and so if we look at"
+    },
+    {
+      "start_time": "00:20:32,159",
+      "end_time": "00:20:39,440",
+      "text": "roddenberry's initial intent"
+    },
+    {
+      "start_time": "00:20:35,919",
+      "end_time": "00:20:42,240",
+      "text": "we see in the original series"
+    },
+    {
+      "start_time": "00:20:39,440",
+      "end_time": "00:20:44,080",
+      "text": "again we see it through our eyes today"
+    },
+    {
+      "start_time": "00:20:42,240",
+      "end_time": "00:20:47,200",
+      "text": "in 2021"
+    },
+    {
+      "start_time": "00:20:44,080",
+      "end_time": "00:20:49,840",
+      "text": "but if we look through the lens of 66 or"
+    },
+    {
+      "start_time": "00:20:47,200",
+      "end_time": "00:20:52,080",
+      "text": "so 66 67 6869"
+    },
+    {
+      "start_time": "00:20:49,840",
+      "end_time": "00:20:52,880",
+      "text": "one was being written planned produced"
+    },
+    {
+      "start_time": "00:20:52,080",
+      "end_time": "00:20:56,720",
+      "text": "capped"
+    },
+    {
+      "start_time": "00:20:52,880",
+      "end_time": "00:20:58,640",
+      "text": "then then we see an attempt to depict a"
+    },
+    {
+      "start_time": "00:20:56,720",
+      "end_time": "00:21:01,919",
+      "text": "utopia"
+    },
+    {
+      "start_time": "00:20:58,640",
+      "end_time": "00:21:03,120",
+      "text": "and and and that utopia was based"
+    },
+    {
+      "start_time": "00:21:01,919",
+      "end_time": "00:21:06,240",
+      "text": "blatantly"
+    },
+    {
+      "start_time": "00:21:03,120",
+      "end_time": "00:21:09,120",
+      "text": "on the enlightenment on true"
+    },
+    {
+      "start_time": "00:21:06,240",
+      "end_time": "00:21:10,320",
+      "text": "enlightenment thinking now yes the"
+    },
+    {
+      "start_time": "00:21:09,120",
+      "end_time": "00:21:14,400",
+      "text": "enlightenment"
+    },
+    {
+      "start_time": "00:21:10,320",
+      "end_time": "00:21:18,159",
+      "text": "of the uh 18th and 19th centuries"
+    },
+    {
+      "start_time": "00:21:14,400",
+      "end_time": "00:21:21,039",
+      "text": "had some issues it had bigoted"
+    },
+    {
+      "start_time": "00:21:18,159",
+      "end_time": "00:21:22,880",
+      "text": "and pre-bigotry and prejudice and and"
+    },
+    {
+      "start_time": "00:21:21,039",
+      "end_time": "00:21:25,919",
+      "text": "misogyny and these other things"
+    },
+    {
+      "start_time": "00:21:22,880",
+      "end_time": "00:21:28,720",
+      "text": "because it was still human and"
+    },
+    {
+      "start_time": "00:21:25,919",
+      "end_time": "00:21:30,000",
+      "text": "and it was obviously largely white"
+    },
+    {
+      "start_time": "00:21:28,720",
+      "end_time": "00:21:32,720",
+      "text": "eurocentric but"
+    },
+    {
+      "start_time": "00:21:30,000",
+      "end_time": "00:21:33,679",
+      "text": "that said the principles of the"
+    },
+    {
+      "start_time": "00:21:32,720",
+      "end_time": "00:21:36,720",
+      "text": "enlightenment"
+    },
+    {
+      "start_time": "00:21:33,679",
+      "end_time": "00:21:39,840",
+      "text": "which were never truly realized"
+    },
+    {
+      "start_time": "00:21:36,720",
+      "end_time": "00:21:43,280",
+      "text": "were the guideposts of trek"
+    },
+    {
+      "start_time": "00:21:39,840",
+      "end_time": "00:21:46,480",
+      "text": "the notion that intellect"
+    },
+    {
+      "start_time": "00:21:43,280",
+      "end_time": "00:21:48,799",
+      "text": "a compassionate intellect and"
+    },
+    {
+      "start_time": "00:21:46,480",
+      "end_time": "00:21:49,679",
+      "text": "and to look at the vulcan concept of"
+    },
+    {
+      "start_time": "00:21:48,799",
+      "end_time": "00:21:52,400",
+      "text": "idic"
+    },
+    {
+      "start_time": "00:21:49,679",
+      "end_time": "00:21:53,679",
+      "text": "infinite diversity through infinite"
+    },
+    {
+      "start_time": "00:21:52,400",
+      "end_time": "00:21:57,679",
+      "text": "combinations"
+    },
+    {
+      "start_time": "00:21:53,679",
+      "end_time": "00:22:00,080",
+      "text": "was the highest ideal to aspire to"
+    },
+    {
+      "start_time": "00:21:57,679",
+      "end_time": "00:22:01,360",
+      "text": "and the notion of the prime directive"
+    },
+    {
+      "start_time": "00:22:00,080",
+      "end_time": "00:22:04,480",
+      "text": "that essentially"
+    },
+    {
+      "start_time": "00:22:01,360",
+      "end_time": "00:22:06,799",
+      "text": "thou shalt not screw up a less"
+    },
+    {
+      "start_time": "00:22:04,480",
+      "end_time": "00:22:10,240",
+      "text": "technologically advanced culture"
+    },
+    {
+      "start_time": "00:22:06,799",
+      "end_time": "00:22:12,080",
+      "text": "that wasn't based on some antiquated 60s"
+    },
+    {
+      "start_time": "00:22:10,240",
+      "end_time": "00:22:14,799",
+      "text": "notion of primitivism"
+    },
+    {
+      "start_time": "00:22:12,080",
+      "end_time": "00:22:16,480",
+      "text": "that was the notion that that all"
+    },
+    {
+      "start_time": "00:22:14,799",
+      "end_time": "00:22:19,039",
+      "text": "cultures all peoples"
+    },
+    {
+      "start_time": "00:22:16,480",
+      "end_time": "00:22:20,320",
+      "text": "all ideas have the potential for this"
+    },
+    {
+      "start_time": "00:22:19,039",
+      "end_time": "00:22:22,559",
+      "text": "implicit sacredness"
+    },
+    {
+      "start_time": "00:22:20,320",
+      "end_time": "00:22:23,760",
+      "text": "and that we move and evolve together and"
+    },
+    {
+      "start_time": "00:22:22,559",
+      "end_time": "00:22:27,679",
+      "text": "then you get"
+    },
+    {
+      "start_time": "00:22:23,760",
+      "end_time": "00:22:28,960",
+      "text": "to tng which what was that bread like 91"
+    },
+    {
+      "start_time": "00:22:27,679",
+      "end_time": "00:22:32,080",
+      "text": "years in the future"
+    },
+    {
+      "start_time": "00:22:28,960",
+      "end_time": "00:22:34,559",
+      "text": "from tos or something like that uh we"
+    },
+    {
+      "start_time": "00:22:32,080",
+      "end_time": "00:22:36,159",
+      "text": "know because dr mccoy was super old by"
+    },
+    {
+      "start_time": "00:22:34,559",
+      "end_time": "00:22:40,320",
+      "text": "the time we saw him again"
+    },
+    {
+      "start_time": "00:22:36,159",
+      "end_time": "00:22:42,440",
+      "text": "um but but by tng then"
+    },
+    {
+      "start_time": "00:22:40,320",
+      "end_time": "00:22:43,919",
+      "text": "the federation had become a"
+    },
+    {
+      "start_time": "00:22:42,440",
+      "end_time": "00:22:46,799",
+      "text": "post-scarcity"
+    },
+    {
+      "start_time": "00:22:43,919",
+      "end_time": "00:22:47,280",
+      "text": "enlightened society where there were no"
+    },
+    {
+      "start_time": "00:22:46,799",
+      "end_time": "00:22:51,360",
+      "text": "more"
+    },
+    {
+      "start_time": "00:22:47,280",
+      "end_time": "00:22:54,400",
+      "text": "wants for the basic resources of life"
+    },
+    {
+      "start_time": "00:22:51,360",
+      "end_time": "00:22:57,360",
+      "text": "food fuel energy"
+    },
+    {
+      "start_time": "00:22:54,400",
+      "end_time": "00:22:59,039",
+      "text": "a reliable wi-fi signal and that allowed"
+    },
+    {
+      "start_time": "00:22:57,360",
+      "end_time": "00:23:00,000",
+      "text": "that enlightenment thinking to really"
+    },
+    {
+      "start_time": "00:22:59,039",
+      "end_time": "00:23:01,280",
+      "text": "blossom and then"
+    },
+    {
+      "start_time": "00:23:00,000",
+      "end_time": "00:23:03,840",
+      "text": "to pull it all back then and turn it"
+    },
+    {
+      "start_time": "00:23:01,280",
+      "end_time": "00:23:05,679",
+      "text": "back over to you my friend um i agree"
+    },
+    {
+      "start_time": "00:23:03,840",
+      "end_time": "00:23:06,880",
+      "text": "i think some of this makes star trek"
+    },
+    {
+      "start_time": "00:23:05,679",
+      "end_time": "00:23:10,799",
+      "text": "adventures"
+    },
+    {
+      "start_time": "00:23:06,880",
+      "end_time": "00:23:14,240",
+      "text": "difficult through the gm lens um"
+    },
+    {
+      "start_time": "00:23:10,799",
+      "end_time": "00:23:16,720",
+      "text": "but at the same time as um"
+    },
+    {
+      "start_time": "00:23:14,240",
+      "end_time": "00:23:17,760",
+      "text": "as it says like i have the starter rules"
+    },
+    {
+      "start_time": "00:23:16,720",
+      "end_time": "00:23:20,960",
+      "text": "in front of me"
+    },
+    {
+      "start_time": "00:23:17,760",
+      "end_time": "00:23:23,679",
+      "text": "and the the starter and i'm so i'm i'm"
+    },
+    {
+      "start_time": "00:23:20,960",
+      "end_time": "00:23:26,880",
+      "text": "blocking uh on the starter"
+    },
+    {
+      "start_time": "00:23:23,679",
+      "end_time": "00:23:28,480",
+      "text": "uh uh uh adventure uh something"
+    },
+    {
+      "start_time": "00:23:26,880",
+      "end_time": "00:23:29,520",
+      "text": "something something stars that's not"
+    },
+    {
+      "start_time": "00:23:28,480",
+      "end_time": "00:23:33,840",
+      "text": "very helpful guys"
+    },
+    {
+      "start_time": "00:23:29,520",
+      "end_time": "00:23:36,320",
+      "text": "but uh the the way it's written"
+    },
+    {
+      "start_time": "00:23:33,840",
+      "end_time": "00:23:38,400",
+      "text": "there are constant training reminders"
+    },
+    {
+      "start_time": "00:23:36,320",
+      "end_time": "00:23:39,600",
+      "text": "you know this is the future this is the"
+    },
+    {
+      "start_time": "00:23:38,400",
+      "end_time": "00:23:42,480",
+      "text": "federation this is"
+    },
+    {
+      "start_time": "00:23:39,600",
+      "end_time": "00:23:44,240",
+      "text": "trek this is this should be grounded in"
+    },
+    {
+      "start_time": "00:23:42,480",
+      "end_time": "00:23:47,679",
+      "text": "a future reality"
+    },
+    {
+      "start_time": "00:23:44,240",
+      "end_time": "00:23:51,760",
+      "text": "and and we should remember as gm's"
+    },
+    {
+      "start_time": "00:23:47,679",
+      "end_time": "00:23:55,600",
+      "text": "and as as as players that here"
+    },
+    {
+      "start_time": "00:23:51,760",
+      "end_time": "00:23:56,720",
+      "text": "everyone holds themselves to a higher"
+    },
+    {
+      "start_time": "00:23:55,600",
+      "end_time": "00:23:58,480",
+      "text": "standard"
+    },
+    {
+      "start_time": "00:23:56,720",
+      "end_time": "00:24:00,320",
+      "text": "and that in addition they've been"
+    },
+    {
+      "start_time": "00:23:58,480",
+      "end_time": "00:24:03,279",
+      "text": "through starfleet academy"
+    },
+    {
+      "start_time": "00:24:00,320",
+      "end_time": "00:24:04,000",
+      "text": "which is like the cal tech of the future"
+    },
+    {
+      "start_time": "00:24:03,279",
+      "end_time": "00:24:06,720",
+      "text": "except that they"
+    },
+    {
+      "start_time": "00:24:04,000",
+      "end_time": "00:24:08,960",
+      "text": "also have the arts so i'm done back to"
+    },
+    {
+      "start_time": "00:24:06,720",
+      "end_time": "00:24:08,960",
+      "text": "you"
+    },
+    {
+      "start_time": "00:24:10,159",
+      "end_time": "00:24:14,240",
+      "text": "as you can see folks we could we we will"
+    },
+    {
+      "start_time": "00:24:12,559",
+      "end_time": "00:24:16,480",
+      "text": "get into the mechanic of the game trust"
+    },
+    {
+      "start_time": "00:24:14,240",
+      "end_time": "00:24:17,520",
+      "text": "me i think we just want to emphasize"
+    },
+    {
+      "start_time": "00:24:16,480",
+      "end_time": "00:24:19,679",
+      "text": "kind of tell a little bit of the"
+    },
+    {
+      "start_time": "00:24:17,520",
+      "end_time": "00:24:23,760",
+      "text": "background as to why"
+    },
+    {
+      "start_time": "00:24:19,679",
+      "end_time": "00:24:24,400",
+      "text": "this game um was so important for us to"
+    },
+    {
+      "start_time": "00:24:23,760",
+      "end_time": "00:24:27,840",
+      "text": "look at"
+    },
+    {
+      "start_time": "00:24:24,400",
+      "end_time": "00:24:29,039",
+      "text": "and to talk about um you know i think"
+    },
+    {
+      "start_time": "00:24:27,840",
+      "end_time": "00:24:34,159",
+      "text": "like jason said"
+    },
+    {
+      "start_time": "00:24:29,039",
+      "end_time": "00:24:36,240",
+      "text": "um when um many were out"
+    },
+    {
+      "start_time": "00:24:34,159",
+      "end_time": "00:24:37,919",
+      "text": "enjoying the traditional social"
+    },
+    {
+      "start_time": "00:24:36,240",
+      "end_time": "00:24:40,000",
+      "text": "activities of college students"
+    },
+    {
+      "start_time": "00:24:37,919",
+      "end_time": "00:24:41,440",
+      "text": "and don't get me wrong we all we took"
+    },
+    {
+      "start_time": "00:24:40,000",
+      "end_time": "00:24:42,400",
+      "text": "part in them as well in some form or"
+    },
+    {
+      "start_time": "00:24:41,440",
+      "end_time": "00:24:44,799",
+      "text": "another"
+    },
+    {
+      "start_time": "00:24:42,400",
+      "end_time": "00:24:46,159",
+      "text": "um you know the running joke would be we"
+    },
+    {
+      "start_time": "00:24:44,799",
+      "end_time": "00:24:49,279",
+      "text": "could be up till 2 3"
+    },
+    {
+      "start_time": "00:24:46,159",
+      "end_time": "00:24:53,600",
+      "text": "4 in the morning and that could be"
+    },
+    {
+      "start_time": "00:24:49,279",
+      "end_time": "00:24:57,120",
+      "text": "discussions related to faith ethics"
+    },
+    {
+      "start_time": "00:24:53,600",
+      "end_time": "00:24:59,200",
+      "text": "star trek it really did it it really"
+    },
+    {
+      "start_time": "00:24:57,120",
+      "end_time": "00:25:00,240",
+      "text": "focused it ended up focusing more i hate"
+    },
+    {
+      "start_time": "00:24:59,200",
+      "end_time": "00:25:02,080",
+      "text": "to say it as much"
+    },
+    {
+      "start_time": "00:25:00,240",
+      "end_time": "00:25:03,600",
+      "text": "other than family and things like that"
+    },
+    {
+      "start_time": "00:25:02,080",
+      "end_time": "00:25:07,520",
+      "text": "when we would broaden"
+    },
+    {
+      "start_time": "00:25:03,600",
+      "end_time": "00:25:11,440",
+      "text": "it was really about faith and philosophy"
+    },
+    {
+      "start_time": "00:25:07,520",
+      "end_time": "00:25:14,000",
+      "text": "um and and not just focusing on"
+    },
+    {
+      "start_time": "00:25:11,440",
+      "end_time": "00:25:15,919",
+      "text": "what traditionally was our own was"
+    },
+    {
+      "start_time": "00:25:14,000",
+      "end_time": "00:25:18,400",
+      "text": "broadened both of us"
+    },
+    {
+      "start_time": "00:25:15,919",
+      "end_time": "00:25:18,960",
+      "text": "using that as a mechanism to broader our"
+    },
+    {
+      "start_time": "00:25:18,400",
+      "end_time": "00:25:20,159",
+      "text": "scope"
+    },
+    {
+      "start_time": "00:25:18,960",
+      "end_time": "00:25:22,320",
+      "text": "and brought it or broadened our"
+    },
+    {
+      "start_time": "00:25:20,159",
+      "end_time": "00:25:24,240",
+      "text": "knowledge and then it would go"
+    },
+    {
+      "start_time": "00:25:22,320",
+      "end_time": "00:25:26,000",
+      "text": "come to track because let's be honest"
+    },
+    {
+      "start_time": "00:25:24,240",
+      "end_time": "00:25:29,520",
+      "text": "you have you know"
+    },
+    {
+      "start_time": "00:25:26,000",
+      "end_time": "00:25:34,080",
+      "text": "um if you want to call it faith"
+    },
+    {
+      "start_time": "00:25:29,520",
+      "end_time": "00:25:36,000",
+      "text": "and you know"
+    },
+    {
+      "start_time": "00:25:34,080",
+      "end_time": "00:25:37,679",
+      "text": "for lack of a better term religion they"
+    },
+    {
+      "start_time": "00:25:36,000",
+      "end_time": "00:25:40,000",
+      "text": "finally attacked they finally went"
+    },
+    {
+      "start_time": "00:25:37,679",
+      "end_time": "00:25:41,440",
+      "text": "went at that in some form with ds9 with"
+    },
+    {
+      "start_time": "00:25:40,000",
+      "end_time": "00:25:43,679",
+      "text": "the bajorans"
+    },
+    {
+      "start_time": "00:25:41,440",
+      "end_time": "00:25:46,640",
+      "text": "um they kind of danced around with it in"
+    },
+    {
+      "start_time": "00:25:43,679",
+      "end_time": "00:25:50,960",
+      "text": "some forms or another sometimes with"
+    },
+    {
+      "start_time": "00:25:46,640",
+      "end_time": "00:25:52,400",
+      "text": "tng and jace what you were just saying"
+    },
+    {
+      "start_time": "00:25:50,960",
+      "end_time": "00:25:55,760",
+      "text": "in terms of"
+    },
+    {
+      "start_time": "00:25:52,400",
+      "end_time": "00:25:57,120",
+      "text": "of how the future played out i i think"
+    },
+    {
+      "start_time": "00:25:55,760",
+      "end_time": "00:26:00,960",
+      "text": "back to"
+    },
+    {
+      "start_time": "00:25:57,120",
+      "end_time": "00:26:04,000",
+      "text": "um that was at first contact"
+    },
+    {
+      "start_time": "00:26:00,960",
+      "end_time": "00:26:07,520",
+      "text": "when um patrick stewart"
+    },
+    {
+      "start_time": "00:26:04,000",
+      "end_time": "00:26:07,520",
+      "text": "as picard was"
+    },
+    {
+      "start_time": "00:26:08,400",
+      "end_time": "00:26:11,760",
+      "text": "being chased by the borg through the"
+    },
+    {
+      "start_time": "00:26:10,240",
+      "end_time": "00:26:14,880",
+      "text": "enterprise e"
+    },
+    {
+      "start_time": "00:26:11,760",
+      "end_time": "00:26:17,440",
+      "text": "and he was with alfred woodward um"
+    },
+    {
+      "start_time": "00:26:14,880",
+      "end_time": "00:26:18,640",
+      "text": "her character was very close to zeph"
+    },
+    {
+      "start_time": "00:26:17,440",
+      "end_time": "00:26:21,600",
+      "text": "from cochrane"
+    },
+    {
+      "start_time": "00:26:18,640",
+      "end_time": "00:26:22,159",
+      "text": "and he was explaining to her very"
+    },
+    {
+      "start_time": "00:26:21,600",
+      "end_time": "00:26:25,039",
+      "text": "quickly"
+    },
+    {
+      "start_time": "00:26:22,159",
+      "end_time": "00:26:25,760",
+      "text": "in a very harried manner what the future"
+    },
+    {
+      "start_time": "00:26:25,039",
+      "end_time": "00:26:28,799",
+      "text": "was"
+    },
+    {
+      "start_time": "00:26:25,760",
+      "end_time": "00:26:31,840",
+      "text": "the want for nothing there's no need to"
+    },
+    {
+      "start_time": "00:26:28,799",
+      "end_time": "00:26:33,919",
+      "text": "to look for wealth"
+    },
+    {
+      "start_time": "00:26:31,840",
+      "end_time": "00:26:36,400",
+      "text": "that little segment it was probably"
+    },
+    {
+      "start_time": "00:26:33,919",
+      "end_time": "00:26:39,440",
+      "text": "about 30 seconds of it"
+    },
+    {
+      "start_time": "00:26:36,400",
+      "end_time": "00:26:43,120",
+      "text": "to me succinctly gave"
+    },
+    {
+      "start_time": "00:26:39,440",
+      "end_time": "00:26:46,480",
+      "text": "us what the future looked like"
+    },
+    {
+      "start_time": "00:26:43,120",
+      "end_time": "00:26:48,880",
+      "text": "in that in the trek universe so you're"
+    },
+    {
+      "start_time": "00:26:46,480",
+      "end_time": "00:26:52,880",
+      "text": "all saying you're on some kind of"
+    },
+    {
+      "start_time": "00:26:48,880",
+      "end_time": "00:26:55,039",
+      "text": "star trek bingo"
+    },
+    {
+      "start_time": "00:26:52,880",
+      "end_time": "00:26:56,720",
+      "text": "james cromwell that was that's the first"
+    },
+    {
+      "start_time": "00:26:55,039",
+      "end_time": "00:27:00,159",
+      "text": "time in star trek where they"
+    },
+    {
+      "start_time": "00:26:56,720",
+      "end_time": "00:27:01,279",
+      "text": "plugged the name of the show or the"
+    },
+    {
+      "start_time": "00:27:00,159",
+      "end_time": "00:27:03,279",
+      "text": "movie"
+    },
+    {
+      "start_time": "00:27:01,279",
+      "end_time": "00:27:04,799",
+      "text": "somewhere in the series and there's"
+    },
+    {
+      "start_time": "00:27:03,279",
+      "end_time": "00:27:06,000",
+      "text": "always that running joke when you when"
+    },
+    {
+      "start_time": "00:27:04,799",
+      "end_time": "00:27:07,679",
+      "text": "you watch movies is are they"
+    },
+    {
+      "start_time": "00:27:06,000",
+      "end_time": "00:27:09,919",
+      "text": "going to you know if you watch the"
+    },
+    {
+      "start_time": "00:27:07,679",
+      "end_time": "00:27:11,760",
+      "text": "avengers movie they they say avengers"
+    },
+    {
+      "start_time": "00:27:09,919",
+      "end_time": "00:27:13,200",
+      "text": "once every minute and trust me i'm a big"
+    },
+    {
+      "start_time": "00:27:11,760",
+      "end_time": "00:27:14,960",
+      "text": "marvel fan but"
+    },
+    {
+      "start_time": "00:27:13,200",
+      "end_time": "00:27:17,039",
+      "text": "within the star trek universe that's the"
+    },
+    {
+      "start_time": "00:27:14,960",
+      "end_time": "00:27:17,360",
+      "text": "first time i think that i can recall"
+    },
+    {
+      "start_time": "00:27:17,039",
+      "end_time": "00:27:20,320",
+      "text": "them"
+    },
+    {
+      "start_time": "00:27:17,360",
+      "end_time": "00:27:21,039",
+      "text": "ever using the term star trek i think"
+    },
+    {
+      "start_time": "00:27:20,320",
+      "end_time": "00:27:23,440",
+      "text": "it's the"
+    },
+    {
+      "start_time": "00:27:21,039",
+      "end_time": "00:27:24,480",
+      "text": "i think it's the only time only to be"
+    },
+    {
+      "start_time": "00:27:23,440",
+      "end_time": "00:27:28,000",
+      "text": "surpassed"
+    },
+    {
+      "start_time": "00:27:24,480",
+      "end_time": "00:27:31,279",
+      "text": "by um by lower decks"
+    },
+    {
+      "start_time": "00:27:28,000",
+      "end_time": "00:27:34,720",
+      "text": "where ransom refers to"
+    },
+    {
+      "start_time": "00:27:31,279",
+      "end_time": "00:27:38,480",
+      "text": "the kirk era as tos"
+    },
+    {
+      "start_time": "00:27:34,720",
+      "end_time": "00:27:40,960",
+      "text": "era the original"
+    },
+    {
+      "start_time": "00:27:38,480",
+      "end_time": "00:27:42,720",
+      "text": "scientists and it's like you're trying"
+    },
+    {
+      "start_time": "00:27:40,960",
+      "end_time": "00:27:46,080",
+      "text": "too hard guys"
+    },
+    {
+      "start_time": "00:27:42,720",
+      "end_time": "00:27:48,320",
+      "text": "okay i forgot about that so"
+    },
+    {
+      "start_time": "00:27:46,080",
+      "end_time": "00:27:49,360",
+      "text": "you know we could go on and on and and"
+    },
+    {
+      "start_time": "00:27:48,320",
+      "end_time": "00:27:52,000",
+      "text": "as we"
+    },
+    {
+      "start_time": "00:27:49,360",
+      "end_time": "00:27:53,840",
+      "text": "we start to talk about this mechanic um"
+    },
+    {
+      "start_time": "00:27:52,000",
+      "end_time": "00:27:55,360",
+      "text": "you'll hear more of our history but"
+    },
+    {
+      "start_time": "00:27:53,840",
+      "end_time": "00:27:57,200",
+      "text": "let's be honest i don't think people"
+    },
+    {
+      "start_time": "00:27:55,360",
+      "end_time": "00:27:57,520",
+      "text": "come to listen to this podcast just to"
+    },
+    {
+      "start_time": "00:27:57,200",
+      "end_time": "00:28:00,000",
+      "text": "hear"
+    },
+    {
+      "start_time": "00:27:57,520",
+      "end_time": "00:28:01,520",
+      "text": "us talk about why we love trekking"
+    },
+    {
+      "start_time": "00:28:00,000",
+      "end_time": "00:28:02,720",
+      "text": "history we wanted to make sure that we"
+    },
+    {
+      "start_time": "00:28:01,520",
+      "end_time": "00:28:04,320",
+      "text": "set the ground"
+    },
+    {
+      "start_time": "00:28:02,720",
+      "end_time": "00:28:06,480",
+      "text": "set the kind of the groundwork for this"
+    },
+    {
+      "start_time": "00:28:04,320",
+      "end_time": "00:28:08,240",
+      "text": "discussion so"
+    },
+    {
+      "start_time": "00:28:06,480",
+      "end_time": "00:28:10,000",
+      "text": "what i'm interested in is now i've had"
+    },
+    {
+      "start_time": "00:28:08,240",
+      "end_time": "00:28:13,440",
+      "text": "this material for a while"
+    },
+    {
+      "start_time": "00:28:10,000",
+      "end_time": "00:28:16,640",
+      "text": "um you know jason picked up"
+    },
+    {
+      "start_time": "00:28:13,440",
+      "end_time": "00:28:18,000",
+      "text": "um you know he's had pdfs and materials"
+    },
+    {
+      "start_time": "00:28:16,640",
+      "end_time": "00:28:21,360",
+      "text": "we've talked about"
+    },
+    {
+      "start_time": "00:28:18,000",
+      "end_time": "00:28:23,600",
+      "text": "this material um but he pin picked up"
+    },
+    {
+      "start_time": "00:28:21,360",
+      "end_time": "00:28:25,600",
+      "text": "his first printed copy the the starter"
+    },
+    {
+      "start_time": "00:28:23,600",
+      "end_time": "00:28:28,720",
+      "text": "rules and everything like that"
+    },
+    {
+      "start_time": "00:28:25,600",
+      "end_time": "00:28:32,399",
+      "text": "and i think is a good discussion topic"
+    },
+    {
+      "start_time": "00:28:28,720",
+      "end_time": "00:28:32,399",
+      "text": "just to kind of start to transition"
+    },
+    {
+      "start_time": "00:28:32,640",
+      "end_time": "00:28:36,320",
+      "text": "what have been jace your first"
+    },
+    {
+      "start_time": "00:28:34,320",
+      "end_time": "00:28:40,399",
+      "text": "impressions as you've read"
+    },
+    {
+      "start_time": "00:28:36,320",
+      "end_time": "00:28:42,559",
+      "text": "through that starter material"
+    },
+    {
+      "start_time": "00:28:40,399",
+      "end_time": "00:28:44,559",
+      "text": "again we've talked about the game we've"
+    },
+    {
+      "start_time": "00:28:42,559",
+      "end_time": "00:28:48,240",
+      "text": "talked about the mechanic"
+    },
+    {
+      "start_time": "00:28:44,559",
+      "end_time": "00:28:49,919",
+      "text": "um but it it"
+    },
+    {
+      "start_time": "00:28:48,240",
+      "end_time": "00:28:51,279",
+      "text": "you having that in your hand that"
+    },
+    {
+      "start_time": "00:28:49,919",
+      "end_time": "00:28:53,440",
+      "text": "palatable"
+    },
+    {
+      "start_time": "00:28:51,279",
+      "end_time": "00:28:55,200",
+      "text": "paper in your hand and reading it even"
+    },
+    {
+      "start_time": "00:28:53,440",
+      "end_time": "00:28:56,240",
+      "text": "deeper than you probably have done and i"
+    },
+    {
+      "start_time": "00:28:55,200",
+      "end_time": "00:28:57,600",
+      "text": "don't want to speak for you may have"
+    },
+    {
+      "start_time": "00:28:56,240",
+      "end_time": "00:29:00,000",
+      "text": "done when you were"
+    },
+    {
+      "start_time": "00:28:57,600",
+      "end_time": "00:29:01,039",
+      "text": "looking at the electronic materials that"
+    },
+    {
+      "start_time": "00:29:00,000",
+      "end_time": "00:29:03,760",
+      "text": "you bought"
+    },
+    {
+      "start_time": "00:29:01,039",
+      "end_time": "00:29:05,440",
+      "text": "um what are your thoughts on it"
+    },
+    {
+      "start_time": "00:29:03,760",
+      "end_time": "00:29:08,320",
+      "text": "fascinating"
+    },
+    {
+      "start_time": "00:29:05,440",
+      "end_time": "00:29:09,440",
+      "text": "actually in in in all seriousness um i'm"
+    },
+    {
+      "start_time": "00:29:08,320",
+      "end_time": "00:29:12,960",
+      "text": "really impressed"
+    },
+    {
+      "start_time": "00:29:09,440",
+      "end_time": "00:29:16,960",
+      "text": "uh i i should explain guys uh that"
+    },
+    {
+      "start_time": "00:29:12,960",
+      "end_time": "00:29:17,679",
+      "text": "i i haven't guilty as charged i haven't"
+    },
+    {
+      "start_time": "00:29:16,960",
+      "end_time": "00:29:20,240",
+      "text": "bought"
+    },
+    {
+      "start_time": "00:29:17,679",
+      "end_time": "00:29:21,120",
+      "text": "the core rule book or in this case core"
+    },
+    {
+      "start_time": "00:29:20,240",
+      "end_time": "00:29:22,559",
+      "text": "rule books"
+    },
+    {
+      "start_time": "00:29:21,120",
+      "end_time": "00:29:25,039",
+      "text": "and i'm gonna put that within"
+    },
+    {
+      "start_time": "00:29:22,559",
+      "end_time": "00:29:28,159",
+      "text": "parentheses yet"
+    },
+    {
+      "start_time": "00:29:25,039",
+      "end_time": "00:29:29,600",
+      "text": "no promises brad but um because if you"
+    },
+    {
+      "start_time": "00:29:28,159",
+      "end_time": "00:29:31,840",
+      "text": "were to see my"
+    },
+    {
+      "start_time": "00:29:29,600",
+      "end_time": "00:29:33,600",
+      "text": "i will i will say jason wasn't it was"
+    },
+    {
+      "start_time": "00:29:31,840",
+      "end_time": "00:29:37,039",
+      "text": "not for the lack of cajoling"
+    },
+    {
+      "start_time": "00:29:33,600",
+      "end_time": "00:29:39,279",
+      "text": "and ridicule that you you held"
+    },
+    {
+      "start_time": "00:29:37,039",
+      "end_time": "00:29:41,039",
+      "text": "um your own and did not buy the core"
+    },
+    {
+      "start_time": "00:29:39,279",
+      "end_time": "00:29:42,960",
+      "text": "rule book i don't know i remember"
+    },
+    {
+      "start_time": "00:29:41,039",
+      "end_time": "00:29:44,559",
+      "text": "threatening you a number of ways as to"
+    },
+    {
+      "start_time": "00:29:42,960",
+      "end_time": "00:29:46,080",
+      "text": "what would happen if you didn't you know"
+    },
+    {
+      "start_time": "00:29:44,559",
+      "end_time": "00:29:48,799",
+      "text": "we're older we grow"
+    },
+    {
+      "start_time": "00:29:46,080",
+      "end_time": "00:29:49,760",
+      "text": "um yeah it's true brad really pushed and"
+    },
+    {
+      "start_time": "00:29:48,799",
+      "end_time": "00:29:52,799",
+      "text": "i finally"
+    },
+    {
+      "start_time": "00:29:49,760",
+      "end_time": "00:29:56,640",
+      "text": "i the problem is a"
+    },
+    {
+      "start_time": "00:29:52,799",
+      "end_time": "00:30:00,000",
+      "text": "um if you could see my my row of books"
+    },
+    {
+      "start_time": "00:29:56,640",
+      "end_time": "00:30:03,279",
+      "text": "it's not as um copious as brad's"
+    },
+    {
+      "start_time": "00:30:00,000",
+      "end_time": "00:30:06,399",
+      "text": "in terms of rpg material because i"
+    },
+    {
+      "start_time": "00:30:03,279",
+      "end_time": "00:30:10,080",
+      "text": "i do have limits but i have"
+    },
+    {
+      "start_time": "00:30:06,399",
+      "end_time": "00:30:13,600",
+      "text": "so many star trek books like actual"
+    },
+    {
+      "start_time": "00:30:10,080",
+      "end_time": "00:30:17,200",
+      "text": "canon material non-rpg"
+    },
+    {
+      "start_time": "00:30:13,600",
+      "end_time": "00:30:19,200",
+      "text": "that honestly i i have thought since man"
+    },
+    {
+      "start_time": "00:30:17,200",
+      "end_time": "00:30:21,120",
+      "text": "lake college early grad school wouldn't"
+    },
+    {
+      "start_time": "00:30:19,200",
+      "end_time": "00:30:22,240",
+      "text": "it be great to to use all of these for"
+    },
+    {
+      "start_time": "00:30:21,120",
+      "end_time": "00:30:25,919",
+      "text": "an rpg"
+    },
+    {
+      "start_time": "00:30:22,240",
+      "end_time": "00:30:28,799",
+      "text": "uh b i'm really cheap and uh"
+    },
+    {
+      "start_time": "00:30:25,919",
+      "end_time": "00:30:31,520",
+      "text": "the reality is that the um the mediphia"
+    },
+    {
+      "start_time": "00:30:28,799",
+      "end_time": "00:30:35,120",
+      "text": "star trek adventures core rule books"
+    },
+    {
+      "start_time": "00:30:31,520",
+      "end_time": "00:30:36,000",
+      "text": "are pricey um although right now i know"
+    },
+    {
+      "start_time": "00:30:35,120",
+      "end_time": "00:30:38,799",
+      "text": "you can get them"
+    },
+    {
+      "start_time": "00:30:36,000",
+      "end_time": "00:30:40,320",
+      "text": "for a pretty good deal okay so i do have"
+    },
+    {
+      "start_time": "00:30:38,799",
+      "end_time": "00:30:43,279",
+      "text": "the starter rules"
+    },
+    {
+      "start_time": "00:30:40,320",
+      "end_time": "00:30:45,520",
+      "text": "and that the the starter kit comes with"
+    },
+    {
+      "start_time": "00:30:43,279",
+      "end_time": "00:30:47,360",
+      "text": "honestly a number of things i don't"
+    },
+    {
+      "start_time": "00:30:45,520",
+      "end_time": "00:30:49,039",
+      "text": "personally care about for my style of"
+    },
+    {
+      "start_time": "00:30:47,360",
+      "end_time": "00:30:52,799",
+      "text": "play it comes with"
+    },
+    {
+      "start_time": "00:30:49,039",
+      "end_time": "00:30:53,520",
+      "text": "a couple maps uh and and i think brad"
+    },
+    {
+      "start_time": "00:30:52,799",
+      "end_time": "00:30:56,960",
+      "text": "and i"
+    },
+    {
+      "start_time": "00:30:53,520",
+      "end_time": "00:30:59,120",
+      "text": "like to play more theater of the mind"
+    },
+    {
+      "start_time": "00:30:56,960",
+      "end_time": "00:31:00,000",
+      "text": "and then we we sketch you know still the"
+    },
+    {
+      "start_time": "00:30:59,120",
+      "end_time": "00:31:02,080",
+      "text": "pandemic"
+    },
+    {
+      "start_time": "00:31:00,000",
+      "end_time": "00:31:03,840",
+      "text": "though looks like that's actually ending"
+    },
+    {
+      "start_time": "00:31:02,080",
+      "end_time": "00:31:05,840",
+      "text": "but we still we on a white on the"
+    },
+    {
+      "start_time": "00:31:03,840",
+      "end_time": "00:31:08,080",
+      "text": "whiteboard on zoom we'll maybe sketch"
+    },
+    {
+      "start_time": "00:31:05,840",
+      "end_time": "00:31:08,880",
+      "text": "you know the village we're in for dnd so"
+    },
+    {
+      "start_time": "00:31:08,080",
+      "end_time": "00:31:12,080",
+      "text": "that we we"
+    },
+    {
+      "start_time": "00:31:08,880",
+      "end_time": "00:31:13,760",
+      "text": "we're on the same page as it were but"
+    },
+    {
+      "start_time": "00:31:12,080",
+      "end_time": "00:31:15,760",
+      "text": "otherwise i don't care for that stuff"
+    },
+    {
+      "start_time": "00:31:13,760",
+      "end_time": "00:31:17,440",
+      "text": "too much so i don't it's still in a box"
+    },
+    {
+      "start_time": "00:31:15,760",
+      "end_time": "00:31:18,159",
+      "text": "in my office closet down here in the"
+    },
+    {
+      "start_time": "00:31:17,440",
+      "end_time": "00:31:20,640",
+      "text": "basement"
+    },
+    {
+      "start_time": "00:31:18,159",
+      "end_time": "00:31:21,360",
+      "text": "uh with some tokens and some other"
+    },
+    {
+      "start_time": "00:31:20,640",
+      "end_time": "00:31:25,760",
+      "text": "things"
+    },
+    {
+      "start_time": "00:31:21,360",
+      "end_time": "00:31:29,039",
+      "text": "um however the box comes with a a"
+    },
+    {
+      "start_time": "00:31:25,760",
+      "end_time": "00:31:31,120",
+      "text": "a um a stapled and i just so so you know"
+    },
+    {
+      "start_time": "00:31:29,039",
+      "end_time": "00:31:34,080",
+      "text": "it's not bound per se a stapled"
+    },
+    {
+      "start_time": "00:31:31,120",
+      "end_time": "00:31:35,039",
+      "text": "starter rules and then a starter"
+    },
+    {
+      "start_time": "00:31:34,080",
+      "end_time": "00:31:37,679",
+      "text": "adventure"
+    },
+    {
+      "start_time": "00:31:35,039",
+      "end_time": "00:31:38,399",
+      "text": "which is twice as thick as the rules how"
+    },
+    {
+      "start_time": "00:31:37,679",
+      "end_time": "00:31:42,159",
+      "text": "about that"
+    },
+    {
+      "start_time": "00:31:38,399",
+      "end_time": "00:31:45,760",
+      "text": "and it's written"
+    },
+    {
+      "start_time": "00:31:42,159",
+      "end_time": "00:31:46,720",
+      "text": "in a way to guide the gm through their"
+    },
+    {
+      "start_time": "00:31:45,760",
+      "end_time": "00:31:50,640",
+      "text": "first"
+    },
+    {
+      "start_time": "00:31:46,720",
+      "end_time": "00:31:52,880",
+      "text": "game um i am i've been telling brad this"
+    },
+    {
+      "start_time": "00:31:50,640",
+      "end_time": "00:31:55,679",
+      "text": "both this evening and then over the past"
+    },
+    {
+      "start_time": "00:31:52,880",
+      "end_time": "00:31:59,120",
+      "text": "weeks as we were prepping and gearing up"
+    },
+    {
+      "start_time": "00:31:55,679",
+      "end_time": "00:32:02,799",
+      "text": "for for this episode i am"
+    },
+    {
+      "start_time": "00:31:59,120",
+      "end_time": "00:32:05,840",
+      "text": "really impressed with the quality"
+    },
+    {
+      "start_time": "00:32:02,799",
+      "end_time": "00:32:09,360",
+      "text": "of this material the the"
+    },
+    {
+      "start_time": "00:32:05,840",
+      "end_time": "00:32:10,640",
+      "text": "print quality the paper everything the"
+    },
+    {
+      "start_time": "00:32:09,360",
+      "end_time": "00:32:13,039",
+      "text": "glossiness"
+    },
+    {
+      "start_time": "00:32:10,640",
+      "end_time": "00:32:13,679",
+      "text": "these and these are just the starter set"
+    },
+    {
+      "start_time": "00:32:13,039",
+      "end_time": "00:32:15,919",
+      "text": "material"
+    },
+    {
+      "start_time": "00:32:13,679",
+      "end_time": "00:32:17,840",
+      "text": "as you pointed out brad earlier to me"
+    },
+    {
+      "start_time": "00:32:15,919",
+      "end_time": "00:32:22,000",
+      "text": "before we started recording"
+    },
+    {
+      "start_time": "00:32:17,840",
+      "end_time": "00:32:25,679",
+      "text": "these are the most beautiful"
+    },
+    {
+      "start_time": "00:32:22,000",
+      "end_time": "00:32:26,640",
+      "text": "highest quality prints of any rpg"
+    },
+    {
+      "start_time": "00:32:25,679",
+      "end_time": "00:32:30,240",
+      "text": "material"
+    },
+    {
+      "start_time": "00:32:26,640",
+      "end_time": "00:32:33,440",
+      "text": "i own or or have seen"
+    },
+    {
+      "start_time": "00:32:30,240",
+      "end_time": "00:32:37,279",
+      "text": "i think they are very well written i'm"
+    },
+    {
+      "start_time": "00:32:33,440",
+      "end_time": "00:32:40,480",
+      "text": "i'm pleased with the starter rule"
+    },
+    {
+      "start_time": "00:32:37,279",
+      "end_time": "00:32:41,440",
+      "text": "the set i am or was when i read it back"
+    },
+    {
+      "start_time": "00:32:40,480",
+      "end_time": "00:32:43,840",
+      "text": "to back"
+    },
+    {
+      "start_time": "00:32:41,440",
+      "end_time": "00:32:44,640",
+      "text": "i'm really impressed with the starter"
+    },
+    {
+      "start_time": "00:32:43,840",
+      "end_time": "00:32:47,120",
+      "text": "game"
+    },
+    {
+      "start_time": "00:32:44,640",
+      "end_time": "00:32:47,679",
+      "text": "it's very well written um and i'm going"
+    },
+    {
+      "start_time": "00:32:47,120",
+      "end_time": "00:32:52,240",
+      "text": "to be really"
+    },
+    {
+      "start_time": "00:32:47,679",
+      "end_time": "00:32:55,360",
+      "text": "really honest here i think i found one"
+    },
+    {
+      "start_time": "00:32:52,240",
+      "end_time": "00:32:58,720",
+      "text": "typo slash more of a silly grammatical"
+    },
+    {
+      "start_time": "00:32:55,360",
+      "end_time": "00:33:03,200",
+      "text": "error and and you know look i'm sorry"
+    },
+    {
+      "start_time": "00:32:58,720",
+      "end_time": "00:33:03,200",
+      "text": "uh i i"
+    },
+    {
+      "start_time": "00:33:03,279",
+      "end_time": "00:33:08,960",
+      "text": "i don't think you should have lots of"
+    },
+    {
+      "start_time": "00:33:06,480",
+      "end_time": "00:33:10,720",
+      "text": "errors in your rpg material and when i"
+    },
+    {
+      "start_time": "00:33:08,960",
+      "end_time": "00:33:12,000",
+      "text": "look at some of the other major"
+    },
+    {
+      "start_time": "00:33:10,720",
+      "end_time": "00:33:14,320",
+      "text": "publishers"
+    },
+    {
+      "start_time": "00:33:12,000",
+      "end_time": "00:33:15,440",
+      "text": "i'm not calling on out fantasy flight"
+    },
+    {
+      "start_time": "00:33:14,320",
+      "end_time": "00:33:18,559",
+      "text": "games excuse me"
+    },
+    {
+      "start_time": "00:33:15,440",
+      "end_time": "00:33:21,679",
+      "text": "but for the caliber and the intellect"
+    },
+    {
+      "start_time": "00:33:18,559",
+      "end_time": "00:33:24,240",
+      "text": "they put into all of their material um"
+    },
+    {
+      "start_time": "00:33:21,679",
+      "end_time": "00:33:26,240",
+      "text": "they're just too many uh there are too"
+    },
+    {
+      "start_time": "00:33:24,240",
+      "end_time": "00:33:28,399",
+      "text": "many editorial oversights"
+    },
+    {
+      "start_time": "00:33:26,240",
+      "end_time": "00:33:29,760",
+      "text": "with sga star trek adventures just"
+    },
+    {
+      "start_time": "00:33:28,399",
+      "end_time": "00:33:33,120",
+      "text": "looking through the the"
+    },
+    {
+      "start_time": "00:33:29,760",
+      "end_time": "00:33:34,960",
+      "text": "starter equipment um i i just give it 10"
+    },
+    {
+      "start_time": "00:33:33,120",
+      "end_time": "00:33:37,919",
+      "text": "out of 10. i i have to say"
+    },
+    {
+      "start_time": "00:33:34,960",
+      "end_time": "00:33:40,080",
+      "text": "it reading i i don't think i've ever"
+    },
+    {
+      "start_time": "00:33:37,919",
+      "end_time": "00:33:41,120",
+      "text": "read through an entire adventure for any"
+    },
+    {
+      "start_time": "00:33:40,080",
+      "end_time": "00:33:42,880",
+      "text": "game before"
+    },
+    {
+      "start_time": "00:33:41,120",
+      "end_time": "00:33:44,960",
+      "text": "and by the time i got to the end of it"
+    },
+    {
+      "start_time": "00:33:42,880",
+      "end_time": "00:33:46,799",
+      "text": "it's like yeah i i want to try this"
+    },
+    {
+      "start_time": "00:33:44,960",
+      "end_time": "00:33:49,039",
+      "text": "how about you brad you have a bunch of"
+    },
+    {
+      "start_time": "00:33:46,799",
+      "end_time": "00:33:51,679",
+      "text": "the of the material now in hardcover"
+    },
+    {
+      "start_time": "00:33:49,039",
+      "end_time": "00:33:52,960",
+      "text": "what's your impression"
+    },
+    {
+      "start_time": "00:33:51,679",
+      "end_time": "00:33:54,399",
+      "text": "i was gonna ask i was gonna ask real"
+    },
+    {
+      "start_time": "00:33:52,960",
+      "end_time": "00:33:55,679",
+      "text": "quick just before i jump to that did it"
+    },
+    {
+      "start_time": "00:33:54,399",
+      "end_time": "00:33:59,519",
+      "text": "come with"
+    },
+    {
+      "start_time": "00:33:55,679",
+      "end_time": "00:34:01,360",
+      "text": "the the the dice it had to have right"
+    },
+    {
+      "start_time": "00:33:59,519",
+      "end_time": "00:34:03,039",
+      "text": "it came with yeah but the enclosed"
+    },
+    {
+      "start_time": "00:34:01,360",
+      "end_time": "00:34:04,240",
+      "text": "tribble had eaten them and they were"
+    },
+    {
+      "start_time": "00:34:03,039",
+      "end_time": "00:34:06,399",
+      "text": "partially digested"
+    },
+    {
+      "start_time": "00:34:04,240",
+      "end_time": "00:34:08,399",
+      "text": "actually it's a good point uh it's a"
+    },
+    {
+      "start_time": "00:34:06,399",
+      "end_time": "00:34:11,119",
+      "text": "good question you make about the dice"
+    },
+    {
+      "start_time": "00:34:08,399",
+      "end_time": "00:34:13,040",
+      "text": "um i actually have them uh in front of"
+    },
+    {
+      "start_time": "00:34:11,119",
+      "end_time": "00:34:14,240",
+      "text": "me right now i'm holding one of the two"
+    },
+    {
+      "start_time": "00:34:13,040",
+      "end_time": "00:34:16,720",
+      "text": "d20s"
+    },
+    {
+      "start_time": "00:34:14,240",
+      "end_time": "00:34:17,440",
+      "text": "we'll get into that next episode um it's"
+    },
+    {
+      "start_time": "00:34:16,720",
+      "end_time": "00:34:20,879",
+      "text": "a really"
+    },
+    {
+      "start_time": "00:34:17,440",
+      "end_time": "00:34:23,760",
+      "text": "interesting good and bad mechanic um"
+    },
+    {
+      "start_time": "00:34:20,879",
+      "end_time": "00:34:24,560",
+      "text": "i expected the dice in a starter set to"
+    },
+    {
+      "start_time": "00:34:23,760",
+      "end_time": "00:34:27,760",
+      "text": "be pretty"
+    },
+    {
+      "start_time": "00:34:24,560",
+      "end_time": "00:34:30,800",
+      "text": "cheap i mean that's the norm uh they"
+    },
+    {
+      "start_time": "00:34:27,760",
+      "end_time": "00:34:34,879",
+      "text": "they are not uh they are"
+    },
+    {
+      "start_time": "00:34:30,800",
+      "end_time": "00:34:38,560",
+      "text": "i would say 80 to 90 percent"
+    },
+    {
+      "start_time": "00:34:34,879",
+      "end_time": "00:34:41,760",
+      "text": "as nicely milled cut etc"
+    },
+    {
+      "start_time": "00:34:38,560",
+      "end_time": "00:34:43,919",
+      "text": "as the um the actual uh blue science"
+    },
+    {
+      "start_time": "00:34:41,760",
+      "end_time": "00:34:49,040",
+      "text": "dice i sent you how many months ago"
+    },
+    {
+      "start_time": "00:34:43,919",
+      "end_time": "00:34:49,040",
+      "text": "um and and that's 89 which by"
+    },
+    {
+      "start_time": "00:34:52,480",
+      "end_time": "00:34:56,639",
+      "text": "it's too late it's already out it's too"
+    },
+    {
+      "start_time": "00:34:54,000",
+      "end_time": "00:34:58,880",
+      "text": "late i'm already out the door"
+    },
+    {
+      "start_time": "00:34:56,639",
+      "end_time": "00:35:00,800",
+      "text": "so all right so i will say though they"
+    },
+    {
+      "start_time": "00:34:58,880",
+      "end_time": "00:35:02,640",
+      "text": "they are um the dice really impressed me"
+    },
+    {
+      "start_time": "00:35:00,800",
+      "end_time": "00:35:04,079",
+      "text": "i expected something pretty cheap"
+    },
+    {
+      "start_time": "00:35:02,640",
+      "end_time": "00:35:06,000",
+      "text": "because they can get away with it"
+    },
+    {
+      "start_time": "00:35:04,079",
+      "end_time": "00:35:07,119",
+      "text": "and they're not if you never had another"
+    },
+    {
+      "start_time": "00:35:06,000",
+      "end_time": "00:35:09,760",
+      "text": "pair of star trek"
+    },
+    {
+      "start_time": "00:35:07,119",
+      "end_time": "00:35:10,560",
+      "text": "dice for your game i think these would"
+    },
+    {
+      "start_time": "00:35:09,760",
+      "end_time": "00:35:12,320",
+      "text": "be"
+    },
+    {
+      "start_time": "00:35:10,560",
+      "end_time": "00:35:14,400",
+      "text": "more than ample so yeah from my"
+    },
+    {
+      "start_time": "00:35:12,320",
+      "end_time": "00:35:17,119",
+      "text": "perspective um"
+    },
+    {
+      "start_time": "00:35:14,400",
+      "end_time": "00:35:19,040",
+      "text": "i have bought um the corporal book i"
+    },
+    {
+      "start_time": "00:35:17,119",
+      "end_time": "00:35:22,160",
+      "text": "have bought the quadrant rule books"
+    },
+    {
+      "start_time": "00:35:19,040",
+      "end_time": "00:35:25,760",
+      "text": "and literally and i did get the klingon"
+    },
+    {
+      "start_time": "00:35:22,160",
+      "end_time": "00:35:29,520",
+      "text": "rule book and just this week um"
+    },
+    {
+      "start_time": "00:35:25,760",
+      "end_time": "00:35:32,079",
+      "text": "i received the klingon game master set"
+    },
+    {
+      "start_time": "00:35:29,520",
+      "end_time": "00:35:34,160",
+      "text": "and a set of the klingon dice which is"
+    },
+    {
+      "start_time": "00:35:32,079",
+      "end_time": "00:35:36,160",
+      "text": "why i sent the blue science dice back to"
+    },
+    {
+      "start_time": "00:35:34,160",
+      "end_time": "00:35:39,359",
+      "text": "jason because now i have the command"
+    },
+    {
+      "start_time": "00:35:36,160",
+      "end_time": "00:35:41,760",
+      "text": "set um when the game originally came out"
+    },
+    {
+      "start_time": "00:35:39,359",
+      "end_time": "00:35:44,160",
+      "text": "and now i have a klingon set"
+    },
+    {
+      "start_time": "00:35:41,760",
+      "end_time": "00:35:45,119",
+      "text": "brad has a problem with purchasing rpg"
+    },
+    {
+      "start_time": "00:35:44,160",
+      "end_time": "00:35:48,640",
+      "text": "things i do"
+    },
+    {
+      "start_time": "00:35:45,119",
+      "end_time": "00:35:52,160",
+      "text": "and if and you ever listen to this uh um"
+    },
+    {
+      "start_time": "00:35:48,640",
+      "end_time": "00:35:55,359",
+      "text": "yes i know so um"
+    },
+    {
+      "start_time": "00:35:52,160",
+      "end_time": "00:35:56,640",
+      "text": "but what i have found was what attracted"
+    },
+    {
+      "start_time": "00:35:55,359",
+      "end_time": "00:35:59,680",
+      "text": "me to the game"
+    },
+    {
+      "start_time": "00:35:56,640",
+      "end_time": "00:36:00,880",
+      "text": "was the source material that they put"
+    },
+    {
+      "start_time": "00:35:59,680",
+      "end_time": "00:36:04,320",
+      "text": "together"
+    },
+    {
+      "start_time": "00:36:00,880",
+      "end_time": "00:36:07,119",
+      "text": "within the quadrant books and so on um"
+    },
+    {
+      "start_time": "00:36:04,320",
+      "end_time": "00:36:07,680",
+      "text": "that have that has really it reminds me"
+    },
+    {
+      "start_time": "00:36:07,119",
+      "end_time": "00:36:11,920",
+      "text": "a lot"
+    },
+    {
+      "start_time": "00:36:07,680",
+      "end_time": "00:36:13,839",
+      "text": "of any of the series of dd i look over"
+    },
+    {
+      "start_time": "00:36:11,920",
+      "end_time": "00:36:16,640",
+      "text": "to my right and i can see"
+    },
+    {
+      "start_time": "00:36:13,839",
+      "end_time": "00:36:17,520",
+      "text": "classic a d and d two three and four and"
+    },
+    {
+      "start_time": "00:36:16,640",
+      "end_time": "00:36:19,920",
+      "text": "five"
+    },
+    {
+      "start_time": "00:36:17,520",
+      "end_time": "00:36:21,680",
+      "text": "um just the amount of material that"
+    },
+    {
+      "start_time": "00:36:19,920",
+      "end_time": "00:36:25,119",
+      "text": "they've compiled into these"
+    },
+    {
+      "start_time": "00:36:21,680",
+      "end_time": "00:36:26,960",
+      "text": "few books and it's not like um"
+    },
+    {
+      "start_time": "00:36:25,119",
+      "end_time": "00:36:28,720",
+      "text": "some role-playing systems in that where"
+    },
+    {
+      "start_time": "00:36:26,960",
+      "end_time": "00:36:32,320",
+      "text": "they're putting out a book"
+    },
+    {
+      "start_time": "00:36:28,720",
+      "end_time": "00:36:34,480",
+      "text": "a week to be a little facetious it"
+    },
+    {
+      "start_time": "00:36:32,320",
+      "end_time": "00:36:35,440",
+      "text": "the the material is relatively limited"
+    },
+    {
+      "start_time": "00:36:34,480",
+      "end_time": "00:36:38,640",
+      "text": "but it's it's"
+    },
+    {
+      "start_time": "00:36:35,440",
+      "end_time": "00:36:42,160",
+      "text": "very deep and good um"
+    },
+    {
+      "start_time": "00:36:38,640",
+      "end_time": "00:36:45,200",
+      "text": "and um from my perspective"
+    },
+    {
+      "start_time": "00:36:42,160",
+      "end_time": "00:36:48,640",
+      "text": "um i've had i've had just as much fun"
+    },
+    {
+      "start_time": "00:36:45,200",
+      "end_time": "00:36:51,520",
+      "text": "reading that material as i do"
+    },
+    {
+      "start_time": "00:36:48,640",
+      "end_time": "00:36:53,280",
+      "text": "reading um anything else that i do and i"
+    },
+    {
+      "start_time": "00:36:51,520",
+      "end_time": "00:36:55,440",
+      "text": "tend to be more of a"
+    },
+    {
+      "start_time": "00:36:53,280",
+      "end_time": "00:36:57,200",
+      "text": "non-fiction reader more than i am a"
+    },
+    {
+      "start_time": "00:36:55,440",
+      "end_time": "00:36:58,480",
+      "text": "fiction reader but star trek is one of"
+    },
+    {
+      "start_time": "00:36:57,200",
+      "end_time": "00:37:01,599",
+      "text": "those rare"
+    },
+    {
+      "start_time": "00:36:58,480",
+      "end_time": "00:37:02,480",
+      "text": "universes where i will read fiction or"
+    },
+    {
+      "start_time": "00:37:01,599",
+      "end_time": "00:37:04,720",
+      "text": "in my case"
+    },
+    {
+      "start_time": "00:37:02,480",
+      "end_time": "00:37:06,640",
+      "text": "um i spent an inordinate amount of time"
+    },
+    {
+      "start_time": "00:37:04,720",
+      "end_time": "00:37:10,160",
+      "text": "even though it wasn't canon"
+    },
+    {
+      "start_time": "00:37:06,640",
+      "end_time": "00:37:11,839",
+      "text": "playing star trek online um so"
+    },
+    {
+      "start_time": "00:37:10,160",
+      "end_time": "00:37:14,320",
+      "text": "um we'll get into more of the mechanic"
+    },
+    {
+      "start_time": "00:37:11,839",
+      "end_time": "00:37:16,480",
+      "text": "like jay said the 2d20 system"
+    },
+    {
+      "start_time": "00:37:14,320",
+      "end_time": "00:37:18,880",
+      "text": "um and coming up in the next episodes"
+    },
+    {
+      "start_time": "00:37:16,480",
+      "end_time": "00:37:21,440",
+      "text": "but just as kind of a teaser for it"
+    },
+    {
+      "start_time": "00:37:18,880",
+      "end_time": "00:37:22,079",
+      "text": "um you know just real briefly and then"
+    },
+    {
+      "start_time": "00:37:21,440",
+      "end_time": "00:37:25,200",
+      "text": "we'll go into"
+    },
+    {
+      "start_time": "00:37:22,079",
+      "end_time": "00:37:26,720",
+      "text": "our dm corner chase what is what you"
+    },
+    {
+      "start_time": "00:37:25,200",
+      "end_time": "00:37:28,880",
+      "text": "know if you could if you could break it"
+    },
+    {
+      "start_time": "00:37:26,720",
+      "end_time": "00:37:30,320",
+      "text": "down into like 30 seconds minute minute"
+    },
+    {
+      "start_time": "00:37:28,880",
+      "end_time": "00:37:32,320",
+      "text": "30 something like that"
+    },
+    {
+      "start_time": "00:37:30,320",
+      "end_time": "00:37:34,320",
+      "text": "what was your initial impression and"
+    },
+    {
+      "start_time": "00:37:32,320",
+      "end_time": "00:37:35,920",
+      "text": "this came before you got the starter set"
+    },
+    {
+      "start_time": "00:37:34,320",
+      "end_time": "00:37:38,400",
+      "text": "what was your initial impression of the"
+    },
+    {
+      "start_time": "00:37:35,920",
+      "end_time": "00:37:40,640",
+      "text": "mechanic um"
+    },
+    {
+      "start_time": "00:37:38,400",
+      "end_time": "00:37:42,000",
+      "text": "in the modiphius version of star trek"
+    },
+    {
+      "start_time": "00:37:40,640",
+      "end_time": "00:37:44,480",
+      "text": "versus something like"
+    },
+    {
+      "start_time": "00:37:42,000",
+      "end_time": "00:37:47,200",
+      "text": "um star wars or dnd as we've talked"
+    },
+    {
+      "start_time": "00:37:44,480",
+      "end_time": "00:37:49,680",
+      "text": "about previously"
+    },
+    {
+      "start_time": "00:37:47,200",
+      "end_time": "00:37:51,440",
+      "text": "my initial impression before i had this"
+    },
+    {
+      "start_time": "00:37:49,680",
+      "end_time": "00:37:54,480",
+      "text": "material in hand"
+    },
+    {
+      "start_time": "00:37:51,440",
+      "end_time": "00:37:58,079",
+      "text": "was what is this"
+    },
+    {
+      "start_time": "00:37:54,480",
+      "end_time": "00:38:01,280",
+      "text": "why do i need 2d 20 what's"
+    },
+    {
+      "start_time": "00:37:58,079",
+      "end_time": "00:38:02,880",
+      "text": "why why is one high and 20 low it"
+    },
+    {
+      "start_time": "00:38:01,280",
+      "end_time": "00:38:04,880",
+      "text": "and then and then what's up with these"
+    },
+    {
+      "start_time": "00:38:02,880",
+      "end_time": "00:38:06,720",
+      "text": "other d6s"
+    },
+    {
+      "start_time": "00:38:04,880",
+      "end_time": "00:38:09,280",
+      "text": "i thought it was very opaque and"
+    },
+    {
+      "start_time": "00:38:06,720",
+      "end_time": "00:38:09,280",
+      "text": "confusing"
+    },
+    {
+      "start_time": "00:38:11,200",
+      "end_time": "00:38:15,920",
+      "text": "and you're gonna and we're gonna see in"
+    },
+    {
+      "start_time": "00:38:13,280",
+      "end_time": "00:38:19,280",
+      "text": "in the subsequent episode or two how"
+    },
+    {
+      "start_time": "00:38:15,920",
+      "end_time": "00:38:21,200",
+      "text": "um how are and you'll probably hear our"
+    },
+    {
+      "start_time": "00:38:19,280",
+      "end_time": "00:38:22,320",
+      "text": "perspectives mature even as we talk"
+    },
+    {
+      "start_time": "00:38:21,200",
+      "end_time": "00:38:25,520",
+      "text": "about it"
+    },
+    {
+      "start_time": "00:38:22,320",
+      "end_time": "00:38:27,680",
+      "text": "so um from my perspective if if you're"
+    },
+    {
+      "start_time": "00:38:25,520",
+      "end_time": "00:38:29,280",
+      "text": "okay why don't we uh because i can segue"
+    },
+    {
+      "start_time": "00:38:27,680",
+      "end_time": "00:38:31,920",
+      "text": "myself into it"
+    },
+    {
+      "start_time": "00:38:29,280",
+      "end_time": "00:38:33,359",
+      "text": "um go to our go to the corner and talk"
+    },
+    {
+      "start_time": "00:38:31,920",
+      "end_time": "00:38:34,960",
+      "text": "about what we've been reading and what"
+    },
+    {
+      "start_time": "00:38:33,359",
+      "end_time": "00:38:37,440",
+      "text": "we've been working on"
+    },
+    {
+      "start_time": "00:38:34,960",
+      "end_time": "00:38:39,760",
+      "text": "um since the last episode or the last"
+    },
+    {
+      "start_time": "00:38:37,440",
+      "end_time": "00:38:42,400",
+      "text": "yeah the last episode of the cast"
+    },
+    {
+      "start_time": "00:38:39,760",
+      "end_time": "00:38:43,359",
+      "text": "um yeah for me oh go ahead no i was just"
+    },
+    {
+      "start_time": "00:38:42,400",
+      "end_time": "00:38:44,160",
+      "text": "gonna say why didn't you go ahead"
+    },
+    {
+      "start_time": "00:38:43,359",
+      "end_time": "00:38:47,440",
+      "text": "because i think i went"
+    },
+    {
+      "start_time": "00:38:44,160",
+      "end_time": "00:38:49,760",
+      "text": "okay yeah so uh for me"
+    },
+    {
+      "start_time": "00:38:47,440",
+      "end_time": "00:38:51,920",
+      "text": "because i have the the klingon core"
+    },
+    {
+      "start_time": "00:38:49,760",
+      "end_time": "00:38:56,000",
+      "text": "rubric i was just telling jason that"
+    },
+    {
+      "start_time": "00:38:51,920",
+      "end_time": "00:38:57,520",
+      "text": "um my project um for me the next couple"
+    },
+    {
+      "start_time": "00:38:56,000",
+      "end_time": "00:38:59,280",
+      "text": "weeks because i'm in a"
+    },
+    {
+      "start_time": "00:38:57,520",
+      "end_time": "00:39:00,560",
+      "text": "a professional transition i have some"
+    },
+    {
+      "start_time": "00:38:59,280",
+      "end_time": "00:39:03,599",
+      "text": "time"
+    },
+    {
+      "start_time": "00:39:00,560",
+      "end_time": "00:39:05,119",
+      "text": "is i'm going to re-read both books both"
+    },
+    {
+      "start_time": "00:39:03,599",
+      "end_time": "00:39:07,920",
+      "text": "core rule books"
+    },
+    {
+      "start_time": "00:39:05,119",
+      "end_time": "00:39:09,280",
+      "text": "and put together some information and"
+    },
+    {
+      "start_time": "00:39:07,920",
+      "end_time": "00:39:10,960",
+      "text": "some material"
+    },
+    {
+      "start_time": "00:39:09,280",
+      "end_time": "00:39:12,839",
+      "text": "that jason and i can talk about that"
+    },
+    {
+      "start_time": "00:39:10,960",
+      "end_time": "00:39:14,560",
+      "text": "i'll probably come up in subsequent"
+    },
+    {
+      "start_time": "00:39:12,839",
+      "end_time": "00:39:18,160",
+      "text": "episodes um"
+    },
+    {
+      "start_time": "00:39:14,560",
+      "end_time": "00:39:21,760",
+      "text": "of uh dyson mind so between that"
+    },
+    {
+      "start_time": "00:39:18,160",
+      "end_time": "00:39:23,520",
+      "text": "and um like i'd indicated i'm"
+    },
+    {
+      "start_time": "00:39:21,760",
+      "end_time": "00:39:25,200",
+      "text": "in a not a bad thing just in a"
+    },
+    {
+      "start_time": "00:39:23,520",
+      "end_time": "00:39:26,960",
+      "text": "professional transition i've i've kind"
+    },
+    {
+      "start_time": "00:39:25,200",
+      "end_time": "00:39:29,119",
+      "text": "of jumped back into because we've"
+    },
+    {
+      "start_time": "00:39:26,960",
+      "end_time": "00:39:30,079",
+      "text": "we've struggled a bit in and it's been"
+    },
+    {
+      "start_time": "00:39:29,119",
+      "end_time": "00:39:33,440",
+      "text": "on me"
+    },
+    {
+      "start_time": "00:39:30,079",
+      "end_time": "00:39:34,079",
+      "text": "um having time to play um i don't even"
+    },
+    {
+      "start_time": "00:39:33,440",
+      "end_time": "00:39:37,359",
+      "text": "think even"
+    },
+    {
+      "start_time": "00:39:34,079",
+      "end_time": "00:39:39,680",
+      "text": "i told jason this yet but i i uh"
+    },
+    {
+      "start_time": "00:39:37,359",
+      "end_time": "00:39:40,480",
+      "text": "i track a lot of my rpg information in"
+    },
+    {
+      "start_time": "00:39:39,680",
+      "end_time": "00:39:42,160",
+      "text": "onenote"
+    },
+    {
+      "start_time": "00:39:40,480",
+      "end_time": "00:39:44,160",
+      "text": "um on my computer because it's"
+    },
+    {
+      "start_time": "00:39:42,160",
+      "end_time": "00:39:47,680",
+      "text": "cross-platform and i'm a"
+    },
+    {
+      "start_time": "00:39:44,160",
+      "end_time": "00:39:50,960",
+      "text": "a geek nerd techno"
+    },
+    {
+      "start_time": "00:39:47,680",
+      "end_time": "00:39:51,760",
+      "text": "type of guy and so i went back in and"
+    },
+    {
+      "start_time": "00:39:50,960",
+      "end_time": "00:39:54,800",
+      "text": "started"
+    },
+    {
+      "start_time": "00:39:51,760",
+      "end_time": "00:39:56,240",
+      "text": "editing and rewriting and updating my"
+    },
+    {
+      "start_time": "00:39:54,800",
+      "end_time": "00:39:58,640",
+      "text": "material for our d d"
+    },
+    {
+      "start_time": "00:39:56,240",
+      "end_time": "00:39:59,920",
+      "text": "universe that i developed because the"
+    },
+    {
+      "start_time": "00:39:58,640",
+      "end_time": "00:40:03,200",
+      "text": "intent is"
+    },
+    {
+      "start_time": "00:39:59,920",
+      "end_time": "00:40:05,280",
+      "text": "um to start playing that again very soon"
+    },
+    {
+      "start_time": "00:40:03,200",
+      "end_time": "00:40:06,400",
+      "text": "our friend brian jason has known brian"
+    },
+    {
+      "start_time": "00:40:05,280",
+      "end_time": "00:40:10,000",
+      "text": "since"
+    },
+    {
+      "start_time": "00:40:06,400",
+      "end_time": "00:40:11,599",
+      "text": "my goodness since high school right um"
+    },
+    {
+      "start_time": "00:40:10,000",
+      "end_time": "00:40:13,040",
+      "text": "jace is going to interview him soon"
+    },
+    {
+      "start_time": "00:40:11,599",
+      "end_time": "00:40:16,720",
+      "text": "since junior high"
+    },
+    {
+      "start_time": "00:40:13,040",
+      "end_time": "00:40:19,920",
+      "text": "oh see and so brian is brian is our"
+    },
+    {
+      "start_time": "00:40:16,720",
+      "end_time": "00:40:20,640",
+      "text": "our um third musketeer when it comes to"
+    },
+    {
+      "start_time": "00:40:19,920",
+      "end_time": "00:40:24,000",
+      "text": "playing"
+    },
+    {
+      "start_time": "00:40:20,640",
+      "end_time": "00:40:25,760",
+      "text": "um d and d and so i've been"
+    },
+    {
+      "start_time": "00:40:24,000",
+      "end_time": "00:40:27,520",
+      "text": "unable to put together the time until"
+    },
+    {
+      "start_time": "00:40:25,760",
+      "end_time": "00:40:30,079",
+      "text": "now to"
+    },
+    {
+      "start_time": "00:40:27,520",
+      "end_time": "00:40:31,599",
+      "text": "um get things ready so that we three can"
+    },
+    {
+      "start_time": "00:40:30,079",
+      "end_time": "00:40:34,880",
+      "text": "sit down and play again"
+    },
+    {
+      "start_time": "00:40:31,599",
+      "end_time": "00:40:35,599",
+      "text": "and that is the goal um in the next few"
+    },
+    {
+      "start_time": "00:40:34,880",
+      "end_time": "00:40:38,720",
+      "text": "weeks"
+    },
+    {
+      "start_time": "00:40:35,599",
+      "end_time": "00:40:39,680",
+      "text": "at the latest for us to sit down and i"
+    },
+    {
+      "start_time": "00:40:38,720",
+      "end_time": "00:40:41,280",
+      "text": "know jace you're gonna"
+    },
+    {
+      "start_time": "00:40:39,680",
+      "end_time": "00:40:42,240",
+      "text": "you're gonna talk and then i'll let you"
+    },
+    {
+      "start_time": "00:40:41,280",
+      "end_time": "00:40:44,079",
+      "text": "talk about what you're talking about"
+    },
+    {
+      "start_time": "00:40:42,240",
+      "end_time": "00:40:45,359",
+      "text": "just as kind of a teaser you're gonna"
+    },
+    {
+      "start_time": "00:40:44,079",
+      "end_time": "00:40:47,280",
+      "text": "you're gonna sit down and talk with"
+    },
+    {
+      "start_time": "00:40:45,359",
+      "end_time": "00:40:50,000",
+      "text": "brian about"
+    },
+    {
+      "start_time": "00:40:47,280",
+      "end_time": "00:40:51,359",
+      "text": "rpgs and his experiences with them"
+    },
+    {
+      "start_time": "00:40:50,000",
+      "end_time": "00:40:54,240",
+      "text": "because i think"
+    },
+    {
+      "start_time": "00:40:51,359",
+      "end_time": "00:40:55,520",
+      "text": "brian as a member of the group um who"
+    },
+    {
+      "start_time": "00:40:54,240",
+      "end_time": "00:40:58,079",
+      "text": "has played"
+    },
+    {
+      "start_time": "00:40:55,520",
+      "end_time": "00:40:59,760",
+      "text": "um will bring will bring a unique third"
+    },
+    {
+      "start_time": "00:40:58,079",
+      "end_time": "00:41:03,359",
+      "text": "perspective to this"
+    },
+    {
+      "start_time": "00:40:59,760",
+      "end_time": "00:41:03,359",
+      "text": "in terms of how it has shaped him"
+    },
+    {
+      "start_time": "00:41:03,440",
+      "end_time": "00:41:07,280",
+      "text": "yeah i think i think that's absolutely"
+    },
+    {
+      "start_time": "00:41:05,920",
+      "end_time": "00:41:09,359",
+      "text": "right um"
+    },
+    {
+      "start_time": "00:41:07,280",
+      "end_time": "00:41:10,880",
+      "text": "so so yeah now that we're in the gm"
+    },
+    {
+      "start_time": "00:41:09,359",
+      "end_time": "00:41:13,680",
+      "text": "corner and starting to wrap up"
+    },
+    {
+      "start_time": "00:41:10,880",
+      "end_time": "00:41:15,119",
+      "text": "i am going to interview in fact the plan"
+    },
+    {
+      "start_time": "00:41:13,680",
+      "end_time": "00:41:18,160",
+      "text": "is tomorrow"
+    },
+    {
+      "start_time": "00:41:15,119",
+      "end_time": "00:41:21,760",
+      "text": "uh sit down across the"
+    },
+    {
+      "start_time": "00:41:18,160",
+      "end_time": "00:41:22,560",
+      "text": "uh either uh with brian and ask him some"
+    },
+    {
+      "start_time": "00:41:21,760",
+      "end_time": "00:41:24,319",
+      "text": "questions"
+    },
+    {
+      "start_time": "00:41:22,560",
+      "end_time": "00:41:26,079",
+      "text": "and uh you know he's a good friend of"
+    },
+    {
+      "start_time": "00:41:24,319",
+      "end_time": "00:41:30,000",
+      "text": "ours and i've"
+    },
+    {
+      "start_time": "00:41:26,079",
+      "end_time": "00:41:32,480",
+      "text": "i've i've well i was i've been playing"
+    },
+    {
+      "start_time": "00:41:30,000",
+      "end_time": "00:41:34,240",
+      "text": "uh rpgs with him since but of course"
+    },
+    {
+      "start_time": "00:41:32,480",
+      "end_time": "00:41:36,000",
+      "text": "that's not true we haven't"
+    },
+    {
+      "start_time": "00:41:34,240",
+      "end_time": "00:41:38,000",
+      "text": "we haven't played much lately and it's"
+    },
+    {
+      "start_time": "00:41:36,000",
+      "end_time": "00:41:39,520",
+      "text": "not like for the past 30 years i've been"
+    },
+    {
+      "start_time": "00:41:38,000",
+      "end_time": "00:41:42,880",
+      "text": "playing rpgs with him but"
+    },
+    {
+      "start_time": "00:41:39,520",
+      "end_time": "00:41:46,000",
+      "text": "um we started playing rpgs"
+    },
+    {
+      "start_time": "00:41:42,880",
+      "end_time": "00:41:46,640",
+      "text": "um really soon after we met and became"
+    },
+    {
+      "start_time": "00:41:46,000",
+      "end_time": "00:41:50,400",
+      "text": "friends"
+    },
+    {
+      "start_time": "00:41:46,640",
+      "end_time": "00:41:52,880",
+      "text": "in junior high um all the way"
+    },
+    {
+      "start_time": "00:41:50,400",
+      "end_time": "00:41:53,599",
+      "text": "uh sporadically with our other friend"
+    },
+    {
+      "start_time": "00:41:52,880",
+      "end_time": "00:41:56,079",
+      "text": "scott"
+    },
+    {
+      "start_time": "00:41:53,599",
+      "end_time": "00:41:56,720",
+      "text": "until i was in grad school early years"
+    },
+    {
+      "start_time": "00:41:56,079",
+      "end_time": "00:42:00,000",
+      "text": "of that"
+    },
+    {
+      "start_time": "00:41:56,720",
+      "end_time": "00:42:02,560",
+      "text": "so um yeah but no he brian is a"
+    },
+    {
+      "start_time": "00:42:00,000",
+      "end_time": "00:42:03,920",
+      "text": "is a great guy and i think it'll bring"
+    },
+    {
+      "start_time": "00:42:02,560",
+      "end_time": "00:42:05,359",
+      "text": "like brad said an interesting"
+    },
+    {
+      "start_time": "00:42:03,920",
+      "end_time": "00:42:08,800",
+      "text": "perspective"
+    },
+    {
+      "start_time": "00:42:05,359",
+      "end_time": "00:42:09,200",
+      "text": "um and uh i'm looking forward to that"
+    },
+    {
+      "start_time": "00:42:08,800",
+      "end_time": "00:42:11,359",
+      "text": "and"
+    },
+    {
+      "start_time": "00:42:09,200",
+      "end_time": "00:42:13,599",
+      "text": "you know we'll we're gonna try this out"
+    },
+    {
+      "start_time": "00:42:11,359",
+      "end_time": "00:42:15,520",
+      "text": "listeners we're we're gonna"
+    },
+    {
+      "start_time": "00:42:13,599",
+      "end_time": "00:42:16,880",
+      "text": "not gonna promise uh interviews"
+    },
+    {
+      "start_time": "00:42:15,520",
+      "end_time": "00:42:20,000",
+      "text": "regularly"
+    },
+    {
+      "start_time": "00:42:16,880",
+      "end_time": "00:42:23,280",
+      "text": "but as uh as things come"
+    },
+    {
+      "start_time": "00:42:20,000",
+      "end_time": "00:42:26,960",
+      "text": "up uh maybe we will try to work them"
+    },
+    {
+      "start_time": "00:42:23,280",
+      "end_time": "00:42:29,760",
+      "text": "in here or there in our gm corner"
+    },
+    {
+      "start_time": "00:42:26,960",
+      "end_time": "00:42:30,079",
+      "text": "um and and since since we've been"
+    },
+    {
+      "start_time": "00:42:29,760",
+      "end_time": "00:42:33,040",
+      "text": "talking"
+    },
+    {
+      "start_time": "00:42:30,079",
+      "end_time": "00:42:34,480",
+      "text": "all i'll track this this episode i'm"
+    },
+    {
+      "start_time": "00:42:33,040",
+      "end_time": "00:42:36,880",
+      "text": "just going to close with the"
+    },
+    {
+      "start_time": "00:42:34,480",
+      "end_time": "00:42:38,319",
+      "text": "total transition because we do brad and"
+    },
+    {
+      "start_time": "00:42:36,880",
+      "end_time": "00:42:39,920",
+      "text": "i do try to keep it"
+    },
+    {
+      "start_time": "00:42:38,319",
+      "end_time": "00:42:42,160",
+      "text": "well i guess current within the past"
+    },
+    {
+      "start_time": "00:42:39,920",
+      "end_time": "00:42:43,040",
+      "text": "month or so of what's going on that's"
+    },
+    {
+      "start_time": "00:42:42,160",
+      "end_time": "00:42:46,079",
+      "text": "relevant"
+    },
+    {
+      "start_time": "00:42:43,040",
+      "end_time": "00:42:49,440",
+      "text": "um as we record this uh"
+    },
+    {
+      "start_time": "00:42:46,079",
+      "end_time": "00:42:52,640",
+      "text": "disney plus has begun streaming"
+    },
+    {
+      "start_time": "00:42:49,440",
+      "end_time": "00:42:56,079",
+      "text": "uh their their newest star wars show"
+    },
+    {
+      "start_time": "00:42:52,640",
+      "end_time": "00:42:59,200",
+      "text": "the bad batch i've seen the"
+    },
+    {
+      "start_time": "00:42:56,079",
+      "end_time": "00:42:59,760",
+      "text": "first two episodes um i just wanted to"
+    },
+    {
+      "start_time": "00:42:59,200",
+      "end_time": "00:43:02,480",
+      "text": "address"
+    },
+    {
+      "start_time": "00:42:59,760",
+      "end_time": "00:43:03,680",
+      "text": "that it's out uh i'd be curious what all"
+    },
+    {
+      "start_time": "00:43:02,480",
+      "end_time": "00:43:07,040",
+      "text": "of you think"
+    },
+    {
+      "start_time": "00:43:03,680",
+      "end_time": "00:43:09,440",
+      "text": "um there are things i like about it"
+    },
+    {
+      "start_time": "00:43:07,040",
+      "end_time": "00:43:10,480",
+      "text": "i'm undecided whether i'm going to"
+    },
+    {
+      "start_time": "00:43:09,440",
+      "end_time": "00:43:12,079",
+      "text": "follow it"
+    },
+    {
+      "start_time": "00:43:10,480",
+      "end_time": "00:43:13,760",
+      "text": "um then i'll just i'll leave that i'll"
+    },
+    {
+      "start_time": "00:43:12,079",
+      "end_time": "00:43:16,720",
+      "text": "leave that there um"
+    },
+    {
+      "start_time": "00:43:13,760",
+      "end_time": "00:43:18,160",
+      "text": "uh much more on star trek adventures uh"
+    },
+    {
+      "start_time": "00:43:16,720",
+      "end_time": "00:43:20,960",
+      "text": "next episode when we"
+    },
+    {
+      "start_time": "00:43:18,160",
+      "end_time": "00:43:24,319",
+      "text": "dive into the mechanic and we try to"
+    },
+    {
+      "start_time": "00:43:20,960",
+      "end_time": "00:43:24,319",
+      "text": "connect that to real life"
+    },
+    {
+      "start_time": "00:43:24,400",
+      "end_time": "00:43:27,599",
+      "text": "i think as we as we close up this week"
+    },
+    {
+      "start_time": "00:43:26,400",
+      "end_time": "00:43:29,280",
+      "text": "folks this is probably a little bit of a"
+    },
+    {
+      "start_time": "00:43:27,599",
+      "end_time": "00:43:31,760",
+      "text": "longer episode and"
+    },
+    {
+      "start_time": "00:43:29,280",
+      "end_time": "00:43:32,720",
+      "text": "and it's as we expected because of the"
+    },
+    {
+      "start_time": "00:43:31,760",
+      "end_time": "00:43:36,319",
+      "text": "topic"
+    },
+    {
+      "start_time": "00:43:32,720",
+      "end_time": "00:43:39,839",
+      "text": "um just uh if you don't mind um"
+    },
+    {
+      "start_time": "00:43:36,319",
+      "end_time": "00:43:42,560",
+      "text": "look us up the dyson mind on facebook"
+    },
+    {
+      "start_time": "00:43:39,839",
+      "end_time": "00:43:43,359",
+      "text": "and like our page feel free to provide"
+    },
+    {
+      "start_time": "00:43:42,560",
+      "end_time": "00:43:45,839",
+      "text": "commentary"
+    },
+    {
+      "start_time": "00:43:43,359",
+      "end_time": "00:43:46,800",
+      "text": "comments um suggestions we'd love to"
+    },
+    {
+      "start_time": "00:43:45,839",
+      "end_time": "00:43:48,960",
+      "text": "hear your thoughts"
+    },
+    {
+      "start_time": "00:43:46,800",
+      "end_time": "00:43:50,319",
+      "text": "we're just we are two individuals"
+    },
+    {
+      "start_time": "00:43:48,960",
+      "end_time": "00:43:51,760",
+      "text": "providing our perspective we're"
+    },
+    {
+      "start_time": "00:43:50,319",
+      "end_time": "00:43:53,520",
+      "text": "always interested it's something that"
+    },
+    {
+      "start_time": "00:43:51,760",
+      "end_time": "00:43:56,400",
+      "text": "we've"
+    },
+    {
+      "start_time": "00:43:53,520",
+      "end_time": "00:43:58,160",
+      "text": "i've prided myself on as becoming a type"
+    },
+    {
+      "start_time": "00:43:56,400",
+      "end_time": "00:44:00,640",
+      "text": "of person like this because of"
+    },
+    {
+      "start_time": "00:43:58,160",
+      "end_time": "00:44:02,160",
+      "text": "jason and our core group i'm i'm always"
+    },
+    {
+      "start_time": "00:44:00,640",
+      "end_time": "00:44:03,359",
+      "text": "interested in different perspectives we"
+    },
+    {
+      "start_time": "00:44:02,160",
+      "end_time": "00:44:06,160",
+      "text": "both are"
+    },
+    {
+      "start_time": "00:44:03,359",
+      "end_time": "00:44:07,280",
+      "text": "um and if you happen by chance to be"
+    },
+    {
+      "start_time": "00:44:06,160",
+      "end_time": "00:44:09,040",
+      "text": "listening to this"
+    },
+    {
+      "start_time": "00:44:07,280",
+      "end_time": "00:44:11,440",
+      "text": "through some other means you can"
+    },
+    {
+      "start_time": "00:44:09,040",
+      "end_time": "00:44:14,800",
+      "text": "subscribe to our podcast through amazon"
+    },
+    {
+      "start_time": "00:44:11,440",
+      "end_time": "00:44:16,720",
+      "text": "through apple through podbeans website"
+    },
+    {
+      "start_time": "00:44:14,800",
+      "end_time": "00:44:18,960",
+      "text": "and we have a link to it out on"
+    },
+    {
+      "start_time": "00:44:16,720",
+      "end_time": "00:44:22,960",
+      "text": "our facebook page we are also building"
+    },
+    {
+      "start_time": "00:44:18,960",
+      "end_time": "00:44:25,599",
+      "text": "out our dyson mine website and"
+    },
+    {
+      "start_time": "00:44:22,960",
+      "end_time": "00:44:28,560",
+      "text": "we have links there as well and the hope"
+    },
+    {
+      "start_time": "00:44:25,599",
+      "end_time": "00:44:32,800",
+      "text": "maybe in the future is to provide"
+    },
+    {
+      "start_time": "00:44:28,560",
+      "end_time": "00:44:35,680",
+      "text": "some because we jason and i both like"
+    },
+    {
+      "start_time": "00:44:32,800",
+      "end_time": "00:44:36,000",
+      "text": "using the pen jason even more so than me"
+    },
+    {
+      "start_time": "00:44:35,680",
+      "end_time": "00:44:38,400",
+      "text": "maybe"
+    },
+    {
+      "start_time": "00:44:36,000",
+      "end_time": "00:44:39,440",
+      "text": "putting some material out there to spur"
+    },
+    {
+      "start_time": "00:44:38,400",
+      "end_time": "00:44:41,599",
+      "text": "discussion"
+    },
+    {
+      "start_time": "00:44:39,440",
+      "end_time": "00:44:44,160",
+      "text": "or to spur commentary either on the"
+    },
+    {
+      "start_time": "00:44:41,599",
+      "end_time": "00:44:47,280",
+      "text": "website or on our facebook page"
+    },
+    {
+      "start_time": "00:44:44,160",
+      "end_time": "00:44:49,839",
+      "text": "so that being said um i'll let"
+    },
+    {
+      "start_time": "00:44:47,280",
+      "end_time": "00:44:51,920",
+      "text": "jason i'll let you finish it off but um"
+    },
+    {
+      "start_time": "00:44:49,839",
+      "end_time": "00:44:54,079",
+      "text": "thanks everybody for listening"
+    },
+    {
+      "start_time": "00:44:51,920",
+      "end_time": "00:44:56,640",
+      "text": "i'm looking forward to the next episode"
+    },
+    {
+      "start_time": "00:44:54,079",
+      "end_time": "00:44:59,119",
+      "text": "um where we really dive into"
+    },
+    {
+      "start_time": "00:44:56,640",
+      "end_time": "00:45:01,359",
+      "text": "the the mechanic here i think it's going"
+    },
+    {
+      "start_time": "00:44:59,119",
+      "end_time": "00:45:02,000",
+      "text": "to be a very interesting discussion as"
+    },
+    {
+      "start_time": "00:45:01,359",
+      "end_time": "00:45:05,040",
+      "text": "to how we"
+    },
+    {
+      "start_time": "00:45:02,000",
+      "end_time": "00:45:05,599",
+      "text": "how we what we think it is how we think"
+    },
+    {
+      "start_time": "00:45:05,040",
+      "end_time": "00:45:08,000",
+      "text": "it works"
+    },
+    {
+      "start_time": "00:45:05,599",
+      "end_time": "00:45:09,040",
+      "text": "and then compare it to what we've"
+    },
+    {
+      "start_time": "00:45:08,000",
+      "end_time": "00:45:12,160",
+      "text": "already talked about"
+    },
+    {
+      "start_time": "00:45:09,040",
+      "end_time": "00:45:12,160",
+      "text": "with um"
+    },
+    {
+      "start_time": "00:45:13,760",
+      "end_time": "00:45:19,599",
+      "text": "dnd 5e as well as the ffg star wars"
+    },
+    {
+      "start_time": "00:45:17,599",
+      "end_time": "00:45:22,319",
+      "text": "series"
+    },
+    {
+      "start_time": "00:45:19,599",
+      "end_time": "00:45:22,960",
+      "text": "like brad said thanks so much for"
+    },
+    {
+      "start_time": "00:45:22,319",
+      "end_time": "00:45:25,040",
+      "text": "listening"
+    },
+    {
+      "start_time": "00:45:22,960",
+      "end_time": "00:45:26,640",
+      "text": "make sure to follow us on our"
+    },
+    {
+      "start_time": "00:45:25,040",
+      "end_time": "00:45:29,680",
+      "text": "increasingly diverse"
+    },
+    {
+      "start_time": "00:45:26,640",
+      "end_time": "00:45:30,560",
+      "text": "social threads subscribe subscribe"
+    },
+    {
+      "start_time": "00:45:29,680",
+      "end_time": "00:45:32,960",
+      "text": "subscribe"
+    },
+    {
+      "start_time": "00:45:30,560",
+      "end_time": "00:45:46,640",
+      "text": "subscribe and most importantly live long"
+    },
+    {
+      "start_time": "00:45:32,960",
+      "end_time": "00:46:00,070",
+      "text": "and prosper everybody"
+    },
+    {
+      "start_time": "00:45:46,640",
+      "end_time": "00:46:00,070",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:46:01,280",
+      "end_time": "00:46:03,359",
+      "text": "you"
+    }
+  ],
+  "full_text": "[Music]\nhello i'm brad\nand i'm jason you are listening to dice\nand mind\na monthly podcast in which we explore\nthe meaning of life\nthrough the lens of rpgs we're lifelong\nfriends\na couple of guys in their forties who\nalong the way had families and became\nprofessionals\nover the years we've talked about pretty\nmuch everything\nbut recently we realized we both had an\ninterest and some history\nwith tabletop role-playing games so\nin each episode we will consider\neveryday stuff like science religion\nphilosophy and economics all through the\nlens of a specific\nrole-playing game and its dice mechanic\nfor example\nwhat would i have to roll in the edge of\nthe empire narrative dice system\nto get that promotion at work or would\ngetting that paper published\ngive me advantage on a subsequent d20\nrole in dungeons and dragons\nif i were dm likely not but join us now\nand every month to think deeply geek out\nand explore how rpgs make the world just\na little\nbit better this is\n[Music]\nwelcome to episode five of dyson mind\nwe appreciate everybody listening we are\nnow\nentering a discussion and\na gaming system and a topic\nwhere if we're not careful um\nwe could probably have 30 episodes on it\nand we're going to be talking about star\ntrek\nand the star trek adventures\nrole-playing game\nbefore we get in deep into the mechanic\nof it although that is\nreally the reason for us doing this i\nthink we want to stress\nand i think it's important you all kind\nof hear our background\nin terms of our love of star trek\nof the trek universe as a whole and\nthe renaissance jason if i could\nplagiarize you the renaissance that is\noccurring within the trek universe\nthat's going on right now and how that\nis\nredefining track role play trek has had\ndifferent companies produce role-playing\ngames over the years\nmodiphius has the license now and is\nproducing\nthe trek rpg i just received um\ntheir first new core rulebook the\nklingon core rulebook\nand in future episodes we're going to\ntalk about kind of the difference\nif there's mechanics changes and things\nand how that might affect\nso this is an interesting mechanic\nbut what i'll do is jace if you if you\nwould talk to us about kind of your\nhistory with trek and what\num what trek means to you oh man brad\ni uh listeners it would be difficult to\nsadly overstate how much\ni've been looking forward to this\nsequence\nof episodes like brad said we're going\nto try to keep it under 30 of them\nso that we can get to other other gaming\nsystems but seriously\ni think it's fair to say that brad you\nand i\ntruly enjoy\ntalking about planning recording this\npodcast\num even if there aren't yet that many\nlistening to us\nit's just a ridiculous amount of fun\nbut on top of that then like brad said\nwe have star trek something very close\nto to both of our hearts if you will\num so my star trek history\nuh let me let me try to keep this brief\nfor all of you\nbecause because i could easily like brad\ntalk for hours about this\ni i probably like many of you grew up\nalso on uh things like star wars\nright i was very little when uh a new\nhope\nuh came out for those youngans that's\nepisode four\num i was also quite little when\nthe trek movies came out and so uh\nthey've never left me so where did i\nstart\nwhere did i begin with all this i\nactually was just talking to my younger\ndaughter\nearlier today i don't know why probably\nbecause she made the mistake of making\neye contact while passing\nand i started talking about\nstar trek and how i actually got\nhooked i was introduced to star trek\nwith the\nmotion pictures in fact literally\nwith the first one star trek the motion\npicture\num i what was that 79\nuh i was five\nuh give or take when it came out um not\nall that far from when when star wars\ncame out but\ni loved the movies even as a as a little\nkid\ni thought star trek the motion picture\nwas absolutely fascinating\ni didn't understand why their clothes\nwere a bit\nunnecessarily snug nor did i understand\nwhy the tall gal was bald\nbut i absolutely understood what they\nwere after\ni knew that glowing energy things were\nprobably bad\nwhen things shifted to a minor mode of\nmusic and\nvegeta just made complete sense and of\ncourse what\nfive-year-old or so wasn't familiar\nalready with the voyager spacecraft\nboth of them flying out toward the\nbounds of our actual solar system\ni i was hooked now uh by the time i\nstarted watching trek\non tv you know tos the original series\nwas uh already in syndication and\nwe're not going to it we could have a\nwhole little side discussion on how\ndesilu studios pioneered syndication\nand how uh desi arnaz saved the\nfranchise and on and on and on it's a\nreally interesting\nhistory and um if if you're\nyou're not familiar with it um i would\nstrongly recommend\num looking up some of the histories out\nthere um maybe i'll say a little more\nabout that in the gm corner as well as\nsomething else\nbut um i i really became hooked\ncompletely hooked by the films\nuh i i mean i thought the motion picture\nwas just fascinating and brilliant\nand and that was the world in which i\nwanted to live and grow up\nand then wrath of khan the second\npicture\ni realized there is debate about which\nis the best ever\nstar trek film uh we're here to tell you\nrest it is on without question\nwrath of khan um others have other\nopinions\nbut don't worry they're wrong it's wrath\nof khan\num so i grew up watching uh\nreruns in syndication but with a mindset\nformed by the films um\nfast forward now i was in\n10th grade and uh a\nfriend that year introduced me\nto the starfleet technical manual\nand if i look over i i can see it and\nlet's face it several of its friends\non my bookshelf and this this blew my\nmind that you could get\nin to all of that detail that people had\nthought about all of that detail\num and it just made it so much more real\num i never got into the role playing\ngames because\nprior to star trek adventures by\nmodiphius i'm strongly of the opinion\nthat the former role-playing games\nbasically sucked\nand i don't think i'm alone with that\nfor me\nstar trek was about the movies and then\nright after i turned 13 next generation\ncame out\nand quite honestly guys my world\nmy my sense of self\nalmost and i'm really serious was\nchanged\ni have i have never gone back from that\ni\ni am i am we are in our mid 40s deeply\nensconced in our mid 40s\nright now and i don't think there has\nbeen a week\nin my life since i was 13\nthat i have not thought of trek\nprobably tng and not thought about\nsomething in real life through that lens\ni'm gonna stop now because i'm rambling\nand as brad knows i could just keep\ngoing\nbut needless to say for me uh i\ni got into with the films i deeply fell\nin love uh with tng\nand um i'm really really looking forward\nto\nbetween this step and the next and maybe\nthe next talking about\nwhat's up and coming but for now i'm\ngonna stop brad my friend i'm turning it\nover to you what's\nwhat's your uh initial history with the\nfinal frontier\nand and i have a i have a story that\ni'll tell that i didn't\nt jason up on as much as we've talked\nabout this\nas much as we talk about trek amongst\nanything else and\nto to reinforce what jason was saying\nwe've we talk about this podcast a lot\nand we talk about all the gaming systems\nand the gaming mechanics\nbut the one where um we have\nhad we really rabbit holes when we start\ntalking about star trek\nand how in what way can they create a\nrole-playing game\nthat truly captures track i grew up\nwatching the original series reruns\num jason and i are of the same age so\nthe the original series was not\nthere weren't new episodes when i\nstarted watching um\nof all the people that got me interested\nin it it was my mother she was a sci-fi\nperson so i remember\nher coming home early 80s\nmy parents coming home and she looked\nlike she was shocked and i still\nremember i\nremember this i was probably six seven\neight years old\num she was shocked that spock died\num because back then there was no\ninternet there weren't any spoilers\nthere wasn't screen rant and some of\nthese other sites\num you didn't know what was going to\nhappen in the movie until you went to\nthe movie\nso i remember going to\nmaking a day of it to go to see um\nepisode 4 when that came out the voyage\nhome\ni agree with jason uh wrath of khan by\nfar is the best\nthere's always that that joking rule the\neven tracks were better than the odd\ntracks\nwhen it came to the original series\nmovies so\nbut um at\ncollege my freshman year college the\nyear that i met jason\ni was walking the floor with\na friend i knew from high school that\nwas going to the college\nand i walked by this door that said\nengineering\nand i thought okay that person first of\nall one nerd\nand two um they must be an engineering\nmajor or something like that\num so walked by didn't think much of it\num had made another friend on the floor\nvery similar and was walking through and\nsaw that again\nand the door was open and i stopped and\nasked what that was about and the guy\nhad indicated\nyou know i don't remember the exact\nstory of verbiage but it was related to\nthe fact that it was trek\nso that's how you know there are maybe\nsome other ways but that's the\nthe that was almost 30 years ago so that\nwas the fall of 1992 so we're talking\n29 years ago that was my the first time\ni met jason\nand how we started bonding with talking\nabout trek\nand then jason's roommate in\ndays of tapes\nwe watched we started watching the six\nmovies that were out at the time\nfor the original series we started\nwatching them through and through i\nthink that\nthat semester um jason was\ni mean there's a there's a running gag\nabout that but jason was much more\nacademic than i was at that point\nbut um even while he would be doing\nschool work\num if i was doing schoolwork we were\ndoing it in that dorm room\nwith the trek movies on or in the\nbackground\nso trek is what originally and\nface i didn't tee you up on that because\nas you were talking um\ni remembered some of the story but the\nidea of us\nwatching those movies over and over and\nover again\nto the point where if we hadn't been\nable to\nrecite the script before we went to\ncollege we sure\nwere able to after um\nfor me um i didn't get into\ntng originally my mother did ironically\nshe was the one that in effect\nkind of made me sit down to watch some\nof the episodes\nafter it premiered so i watched some of\nit\nin high school but i really didn't start\nwatching it until after that freshman\nyear school\njust based off of the topics and the\ndiscussions\nthat jason and i had my trek universe\nwas original series\ni hadn't stepped into uh the next\ngeneration and this was before\nds9 and this was before voyager\nso we have spent an enormous\namount of time talking about trek\num it is really what it's what\nintroduced me\nto jace um it has been among so many\nother things it's been a\nbinding discussion for us i also do have\nthe\ntechnical manual many other books and i\nam\nquite glad that this is not a video cast\nbecause\nit would almost be embarrassing to show\nmy rpg shelf\nand the percentage of it in which trek\neven the older\nolder series older rpgs were\nthe other thing that that jc forgot to\nmention was um\ni remember i i by that time i left\nthe university but because jason\nand and one or two other people i'd\nbecome very close with\nwe were in the same fraternity\njace and had a very nice mac\nthat had great sound back in the day pcs\ndid not have the sound that max did\nand um jay she'll correct me it's the\ntechnical it's the star trek the\nenterprise technical manual or the\nenterprise tour you can correct me on\nthat\nbut going through putting that cd in the\nmac\nand then being able to walk through the\nenterprise\nand hearing that ambient sound\nlike you would hear on the tv show\nwithout and you'd hear just that ambient\nsound\ni could still use that as\nan effect white noise going to sleep at\nnight\nso um you know to this day\num you know everyone has their own\nfavorite series\nyou know for me honestly my favorite is\nds9\ni will every other year so\num re-watch one of the series i will\nbinge it through\nprobably spent an inordinate amount of\ntime not doing other things i should\nand watching them so\nand it always comes up in a conversation\nwith us and i think it's because\nthen i'm gonna pause here because i can\nramble um\ni think it's because the you know we'll\nget into this with the mechanic\nbut the idea of the universe\nup until the renaissance let's just talk\nup to that point\nthe universe there was an idealistic\nfuture for us\nbut it seemed so much more attainable\nthan any other sci-fi\nor fantasy that's out there they wrote\ntrek with the idea that\nif if we made all the right choices as\nin society that we could end up in that\nway shape or form\nand down the road versus you know no\ndisrespect\nwe're not going to find the force down\nin the future at least i don't think we\nwill\nmaybe a thousand years from now if\nsomeone happens to listen to this they\nmay disagree\nbut trek was an attainable future for us\nso it was almost like futurist\ntelevision\num and that is what originally attracted\nme\nto the the modiphius version of the game\nbecause\nmimicking society in the future\nand making it fun\nto be general making it fun i think has\nbeen the most\ndifficult thing about rpging\ntrek after all these years whether it\nwas fafsa or\num i can't remember the name of the\nother group um\nyou can probably remind me jace but okay\ni'll pause there but yeah\ntrek is what bound us together\noriginally\nyes let's let's just let's let's riff on\nthat for just a moment brad i\ni think i think you really hit the\nproverbial nail\non the head so a few man a few things\num and i'm trying to keep all my\nthoughts in order in my head here we'll\nsee how that goes so\ni think i think dear listeners uh\nsomething else to consider and\nyou'll see in a moment how this really\nconnects for us\nand and also why to go back to what brad\nwas just saying\nwhy we think trek has connected with so\nmany\nfor um now multiple generations with\ngenerations which is sort of unheard of\nin addition to all of the trek talk and\nall the smack talk and the other talk\nin college um brad and i also\nvery much built our our friendship\nuh by just being two curious guys\nseeking truth with a capital t and so\nweekly we would have fun really\nserious discussions about belief\nmeaning life etc probably not all that\nremarkable for people in college but\ntypically perhaps not to the same extent\nand i i say this because all of these\nideas for us were undoubtedly\nmixing back in the day like they still\nmix\nfor us today when we chat and and like\nbrad just said when we look at\nstar trek yes it's the future\nbut it's not the space opera future\nlike uh star wars like books by asimov\nand others\nall of which i love dearly but trek\nseems\njust over the horizon right it's just\nit's just the next\nstep away or the step past the next step\naway\nbut brad said something really important\nas well that\nyou know it offers a promise an\nopportunity\na gift of a future that's better than\ntoday and so if we look at\nroddenberry's initial intent\nwe see in the original series\nagain we see it through our eyes today\nin 2021\nbut if we look through the lens of 66 or\nso 66 67 6869\none was being written planned produced\ncapped\nthen then we see an attempt to depict a\nutopia\nand and and that utopia was based\nblatantly\non the enlightenment on true\nenlightenment thinking now yes the\nenlightenment\nof the uh 18th and 19th centuries\nhad some issues it had bigoted\nand pre-bigotry and prejudice and and\nmisogyny and these other things\nbecause it was still human and\nand it was obviously largely white\neurocentric but\nthat said the principles of the\nenlightenment\nwhich were never truly realized\nwere the guideposts of trek\nthe notion that intellect\na compassionate intellect and\nand to look at the vulcan concept of\nidic\ninfinite diversity through infinite\ncombinations\nwas the highest ideal to aspire to\nand the notion of the prime directive\nthat essentially\nthou shalt not screw up a less\ntechnologically advanced culture\nthat wasn't based on some antiquated 60s\nnotion of primitivism\nthat was the notion that that all\ncultures all peoples\nall ideas have the potential for this\nimplicit sacredness\nand that we move and evolve together and\nthen you get\nto tng which what was that bread like 91\nyears in the future\nfrom tos or something like that uh we\nknow because dr mccoy was super old by\nthe time we saw him again\num but but by tng then\nthe federation had become a\npost-scarcity\nenlightened society where there were no\nmore\nwants for the basic resources of life\nfood fuel energy\na reliable wi-fi signal and that allowed\nthat enlightenment thinking to really\nblossom and then\nto pull it all back then and turn it\nback over to you my friend um i agree\ni think some of this makes star trek\nadventures\ndifficult through the gm lens um\nbut at the same time as um\nas it says like i have the starter rules\nin front of me\nand the the starter and i'm so i'm i'm\nblocking uh on the starter\nuh uh uh adventure uh something\nsomething something stars that's not\nvery helpful guys\nbut uh the the way it's written\nthere are constant training reminders\nyou know this is the future this is the\nfederation this is\ntrek this is this should be grounded in\na future reality\nand and we should remember as gm's\nand as as as players that here\neveryone holds themselves to a higher\nstandard\nand that in addition they've been\nthrough starfleet academy\nwhich is like the cal tech of the future\nexcept that they\nalso have the arts so i'm done back to\nyou\nas you can see folks we could we we will\nget into the mechanic of the game trust\nme i think we just want to emphasize\nkind of tell a little bit of the\nbackground as to why\nthis game um was so important for us to\nlook at\nand to talk about um you know i think\nlike jason said\num when um many were out\nenjoying the traditional social\nactivities of college students\nand don't get me wrong we all we took\npart in them as well in some form or\nanother\num you know the running joke would be we\ncould be up till 2 3\n4 in the morning and that could be\ndiscussions related to faith ethics\nstar trek it really did it it really\nfocused it ended up focusing more i hate\nto say it as much\nother than family and things like that\nwhen we would broaden\nit was really about faith and philosophy\num and and not just focusing on\nwhat traditionally was our own was\nbroadened both of us\nusing that as a mechanism to broader our\nscope\nand brought it or broadened our\nknowledge and then it would go\ncome to track because let's be honest\nyou have you know\num if you want to call it faith\nand you know\nfor lack of a better term religion they\nfinally attacked they finally went\nwent at that in some form with ds9 with\nthe bajorans\num they kind of danced around with it in\nsome forms or another sometimes with\ntng and jace what you were just saying\nin terms of\nof how the future played out i i think\nback to\num that was at first contact\nwhen um patrick stewart\nas picard was\nbeing chased by the borg through the\nenterprise e\nand he was with alfred woodward um\nher character was very close to zeph\nfrom cochrane\nand he was explaining to her very\nquickly\nin a very harried manner what the future\nwas\nthe want for nothing there's no need to\nto look for wealth\nthat little segment it was probably\nabout 30 seconds of it\nto me succinctly gave\nus what the future looked like\nin that in the trek universe so you're\nall saying you're on some kind of\nstar trek bingo\njames cromwell that was that's the first\ntime in star trek where they\nplugged the name of the show or the\nmovie\nsomewhere in the series and there's\nalways that running joke when you when\nyou watch movies is are they\ngoing to you know if you watch the\navengers movie they they say avengers\nonce every minute and trust me i'm a big\nmarvel fan but\nwithin the star trek universe that's the\nfirst time i think that i can recall\nthem\never using the term star trek i think\nit's the\ni think it's the only time only to be\nsurpassed\nby um by lower decks\nwhere ransom refers to\nthe kirk era as tos\nera the original\nscientists and it's like you're trying\ntoo hard guys\nokay i forgot about that so\nyou know we could go on and on and and\nas we\nwe start to talk about this mechanic um\nyou'll hear more of our history but\nlet's be honest i don't think people\ncome to listen to this podcast just to\nhear\nus talk about why we love trekking\nhistory we wanted to make sure that we\nset the ground\nset the kind of the groundwork for this\ndiscussion so\nwhat i'm interested in is now i've had\nthis material for a while\num you know jason picked up\num you know he's had pdfs and materials\nwe've talked about\nthis material um but he pin picked up\nhis first printed copy the the starter\nrules and everything like that\nand i think is a good discussion topic\njust to kind of start to transition\nwhat have been jace your first\nimpressions as you've read\nthrough that starter material\nagain we've talked about the game we've\ntalked about the mechanic\num but it it\nyou having that in your hand that\npalatable\npaper in your hand and reading it even\ndeeper than you probably have done and i\ndon't want to speak for you may have\ndone when you were\nlooking at the electronic materials that\nyou bought\num what are your thoughts on it\nfascinating\nactually in in in all seriousness um i'm\nreally impressed\nuh i i should explain guys uh that\ni i haven't guilty as charged i haven't\nbought\nthe core rule book or in this case core\nrule books\nand i'm gonna put that within\nparentheses yet\nno promises brad but um because if you\nwere to see my\ni will i will say jason wasn't it was\nnot for the lack of cajoling\nand ridicule that you you held\num your own and did not buy the core\nrule book i don't know i remember\nthreatening you a number of ways as to\nwhat would happen if you didn't you know\nwe're older we grow\num yeah it's true brad really pushed and\ni finally\ni the problem is a\num if you could see my my row of books\nit's not as um copious as brad's\nin terms of rpg material because i\ni do have limits but i have\nso many star trek books like actual\ncanon material non-rpg\nthat honestly i i have thought since man\nlake college early grad school wouldn't\nit be great to to use all of these for\nan rpg\nuh b i'm really cheap and uh\nthe reality is that the um the mediphia\nstar trek adventures core rule books\nare pricey um although right now i know\nyou can get them\nfor a pretty good deal okay so i do have\nthe starter rules\nand that the the starter kit comes with\nhonestly a number of things i don't\npersonally care about for my style of\nplay it comes with\na couple maps uh and and i think brad\nand i\nlike to play more theater of the mind\nand then we we sketch you know still the\npandemic\nthough looks like that's actually ending\nbut we still we on a white on the\nwhiteboard on zoom we'll maybe sketch\nyou know the village we're in for dnd so\nthat we we\nwe're on the same page as it were but\notherwise i don't care for that stuff\ntoo much so i don't it's still in a box\nin my office closet down here in the\nbasement\nuh with some tokens and some other\nthings\num however the box comes with a a\na um a stapled and i just so so you know\nit's not bound per se a stapled\nstarter rules and then a starter\nadventure\nwhich is twice as thick as the rules how\nabout that\nand it's written\nin a way to guide the gm through their\nfirst\ngame um i am i've been telling brad this\nboth this evening and then over the past\nweeks as we were prepping and gearing up\nfor for this episode i am\nreally impressed with the quality\nof this material the the\nprint quality the paper everything the\nglossiness\nthese and these are just the starter set\nmaterial\nas you pointed out brad earlier to me\nbefore we started recording\nthese are the most beautiful\nhighest quality prints of any rpg\nmaterial\ni own or or have seen\ni think they are very well written i'm\ni'm pleased with the starter rule\nthe set i am or was when i read it back\nto back\ni'm really impressed with the starter\ngame\nit's very well written um and i'm going\nto be really\nreally honest here i think i found one\ntypo slash more of a silly grammatical\nerror and and you know look i'm sorry\nuh i i\ni don't think you should have lots of\nerrors in your rpg material and when i\nlook at some of the other major\npublishers\ni'm not calling on out fantasy flight\ngames excuse me\nbut for the caliber and the intellect\nthey put into all of their material um\nthey're just too many uh there are too\nmany editorial oversights\nwith sga star trek adventures just\nlooking through the the\nstarter equipment um i i just give it 10\nout of 10. i i have to say\nit reading i i don't think i've ever\nread through an entire adventure for any\ngame before\nand by the time i got to the end of it\nit's like yeah i i want to try this\nhow about you brad you have a bunch of\nthe of the material now in hardcover\nwhat's your impression\ni was gonna ask i was gonna ask real\nquick just before i jump to that did it\ncome with\nthe the the dice it had to have right\nit came with yeah but the enclosed\ntribble had eaten them and they were\npartially digested\nactually it's a good point uh it's a\ngood question you make about the dice\num i actually have them uh in front of\nme right now i'm holding one of the two\nd20s\nwe'll get into that next episode um it's\na really\ninteresting good and bad mechanic um\ni expected the dice in a starter set to\nbe pretty\ncheap i mean that's the norm uh they\nthey are not uh they are\ni would say 80 to 90 percent\nas nicely milled cut etc\nas the um the actual uh blue science\ndice i sent you how many months ago\num and and that's 89 which by\nit's too late it's already out it's too\nlate i'm already out the door\nso all right so i will say though they\nthey are um the dice really impressed me\ni expected something pretty cheap\nbecause they can get away with it\nand they're not if you never had another\npair of star trek\ndice for your game i think these would\nbe\nmore than ample so yeah from my\nperspective um\ni have bought um the corporal book i\nhave bought the quadrant rule books\nand literally and i did get the klingon\nrule book and just this week um\ni received the klingon game master set\nand a set of the klingon dice which is\nwhy i sent the blue science dice back to\njason because now i have the command\nset um when the game originally came out\nand now i have a klingon set\nbrad has a problem with purchasing rpg\nthings i do\nand if and you ever listen to this uh um\nyes i know so um\nbut what i have found was what attracted\nme to the game\nwas the source material that they put\ntogether\nwithin the quadrant books and so on um\nthat have that has really it reminds me\na lot\nof any of the series of dd i look over\nto my right and i can see\nclassic a d and d two three and four and\nfive\num just the amount of material that\nthey've compiled into these\nfew books and it's not like um\nsome role-playing systems in that where\nthey're putting out a book\na week to be a little facetious it\nthe the material is relatively limited\nbut it's it's\nvery deep and good um\nand um from my perspective\num i've had i've had just as much fun\nreading that material as i do\nreading um anything else that i do and i\ntend to be more of a\nnon-fiction reader more than i am a\nfiction reader but star trek is one of\nthose rare\nuniverses where i will read fiction or\nin my case\num i spent an inordinate amount of time\neven though it wasn't canon\nplaying star trek online um so\num we'll get into more of the mechanic\nlike jay said the 2d20 system\num and coming up in the next episodes\nbut just as kind of a teaser for it\num you know just real briefly and then\nwe'll go into\nour dm corner chase what is what you\nknow if you could if you could break it\ndown into like 30 seconds minute minute\n30 something like that\nwhat was your initial impression and\nthis came before you got the starter set\nwhat was your initial impression of the\nmechanic um\nin the modiphius version of star trek\nversus something like\num star wars or dnd as we've talked\nabout previously\nmy initial impression before i had this\nmaterial in hand\nwas what is this\nwhy do i need 2d 20 what's\nwhy why is one high and 20 low it\nand then and then what's up with these\nother d6s\ni thought it was very opaque and\nconfusing\nand you're gonna and we're gonna see in\nin the subsequent episode or two how\num how are and you'll probably hear our\nperspectives mature even as we talk\nabout it\nso um from my perspective if if you're\nokay why don't we uh because i can segue\nmyself into it\num go to our go to the corner and talk\nabout what we've been reading and what\nwe've been working on\num since the last episode or the last\nyeah the last episode of the cast\num yeah for me oh go ahead no i was just\ngonna say why didn't you go ahead\nbecause i think i went\nokay yeah so uh for me\nbecause i have the the klingon core\nrubric i was just telling jason that\num my project um for me the next couple\nweeks because i'm in a\na professional transition i have some\ntime\nis i'm going to re-read both books both\ncore rule books\nand put together some information and\nsome material\nthat jason and i can talk about that\ni'll probably come up in subsequent\nepisodes um\nof uh dyson mind so between that\nand um like i'd indicated i'm\nin a not a bad thing just in a\nprofessional transition i've i've kind\nof jumped back into because we've\nwe've struggled a bit in and it's been\non me\num having time to play um i don't even\nthink even\ni told jason this yet but i i uh\ni track a lot of my rpg information in\nonenote\num on my computer because it's\ncross-platform and i'm a\na geek nerd techno\ntype of guy and so i went back in and\nstarted\nediting and rewriting and updating my\nmaterial for our d d\nuniverse that i developed because the\nintent is\num to start playing that again very soon\nour friend brian jason has known brian\nsince\nmy goodness since high school right um\njace is going to interview him soon\nsince junior high\noh see and so brian is brian is our\nour um third musketeer when it comes to\nplaying\num d and d and so i've been\nunable to put together the time until\nnow to\num get things ready so that we three can\nsit down and play again\nand that is the goal um in the next few\nweeks\nat the latest for us to sit down and i\nknow jace you're gonna\nyou're gonna talk and then i'll let you\ntalk about what you're talking about\njust as kind of a teaser you're gonna\nyou're gonna sit down and talk with\nbrian about\nrpgs and his experiences with them\nbecause i think\nbrian as a member of the group um who\nhas played\num will bring will bring a unique third\nperspective to this\nin terms of how it has shaped him\nyeah i think i think that's absolutely\nright um\nso so yeah now that we're in the gm\ncorner and starting to wrap up\ni am going to interview in fact the plan\nis tomorrow\nuh sit down across the\nuh either uh with brian and ask him some\nquestions\nand uh you know he's a good friend of\nours and i've\ni've i've well i was i've been playing\nuh rpgs with him since but of course\nthat's not true we haven't\nwe haven't played much lately and it's\nnot like for the past 30 years i've been\nplaying rpgs with him but\num we started playing rpgs\num really soon after we met and became\nfriends\nin junior high um all the way\nuh sporadically with our other friend\nscott\nuntil i was in grad school early years\nof that\nso um yeah but no he brian is a\nis a great guy and i think it'll bring\nlike brad said an interesting\nperspective\num and uh i'm looking forward to that\nand\nyou know we'll we're gonna try this out\nlisteners we're we're gonna\nnot gonna promise uh interviews\nregularly\nbut as uh as things come\nup uh maybe we will try to work them\nin here or there in our gm corner\num and and since since we've been\ntalking\nall i'll track this this episode i'm\njust going to close with the\ntotal transition because we do brad and\ni do try to keep it\nwell i guess current within the past\nmonth or so of what's going on that's\nrelevant\num as we record this uh\ndisney plus has begun streaming\nuh their their newest star wars show\nthe bad batch i've seen the\nfirst two episodes um i just wanted to\naddress\nthat it's out uh i'd be curious what all\nof you think\num there are things i like about it\ni'm undecided whether i'm going to\nfollow it\num then i'll just i'll leave that i'll\nleave that there um\nuh much more on star trek adventures uh\nnext episode when we\ndive into the mechanic and we try to\nconnect that to real life\ni think as we as we close up this week\nfolks this is probably a little bit of a\nlonger episode and\nand it's as we expected because of the\ntopic\num just uh if you don't mind um\nlook us up the dyson mind on facebook\nand like our page feel free to provide\ncommentary\ncomments um suggestions we'd love to\nhear your thoughts\nwe're just we are two individuals\nproviding our perspective we're\nalways interested it's something that\nwe've\ni've prided myself on as becoming a type\nof person like this because of\njason and our core group i'm i'm always\ninterested in different perspectives we\nboth are\num and if you happen by chance to be\nlistening to this\nthrough some other means you can\nsubscribe to our podcast through amazon\nthrough apple through podbeans website\nand we have a link to it out on\nour facebook page we are also building\nout our dyson mine website and\nwe have links there as well and the hope\nmaybe in the future is to provide\nsome because we jason and i both like\nusing the pen jason even more so than me\nmaybe\nputting some material out there to spur\ndiscussion\nor to spur commentary either on the\nwebsite or on our facebook page\nso that being said um i'll let\njason i'll let you finish it off but um\nthanks everybody for listening\ni'm looking forward to the next episode\num where we really dive into\nthe the mechanic here i think it's going\nto be a very interesting discussion as\nto how we\nhow we what we think it is how we think\nit works\nand then compare it to what we've\nalready talked about\nwith um\ndnd 5e as well as the ffg star wars\nseries\nlike brad said thanks so much for\nlistening\nmake sure to follow us on our\nincreasingly diverse\nsocial threads subscribe subscribe\nsubscribe\nsubscribe and most importantly live long\nand prosper everybody\n[Music]\nyou\n"
+}

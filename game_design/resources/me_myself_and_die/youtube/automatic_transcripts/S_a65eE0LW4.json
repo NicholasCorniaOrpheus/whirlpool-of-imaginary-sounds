@@ -1,0 +1,4200 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,480",
+      "end_time": "00:00:06,480",
+      "text": "now I'm not a D20 guy I'm certainly not"
+    },
+    {
+      "start_time": "00:00:03,179",
+      "end_time": "00:00:08,519",
+      "text": "a DND guy but I am a basic role playing"
+    },
+    {
+      "start_time": "00:00:06,480",
+      "end_time": "00:00:10,679",
+      "text": "guy and I am a runequest guy and so"
+    },
+    {
+      "start_time": "00:00:08,519",
+      "end_time": "00:00:13,620",
+      "text": "today I'm going to teach myself how to"
+    },
+    {
+      "start_time": "00:00:10,679",
+      "end_time": "00:00:16,740",
+      "text": "play a game that kind of takes its DNA"
+    },
+    {
+      "start_time": "00:00:13,620",
+      "end_time": "00:00:19,939",
+      "text": "from all of those games yes today I am"
+    },
+    {
+      "start_time": "00:00:16,740",
+      "end_time": "00:00:22,680",
+      "text": "going to learn how to play Dragon Bane"
+    },
+    {
+      "start_time": "00:00:19,939",
+      "end_time": "00:00:25,880",
+      "text": "by free League publishing here on the"
+    },
+    {
+      "start_time": "00:00:22,680",
+      "end_time": "00:00:25,880",
+      "text": "featureless gray plane"
+    },
+    {
+      "start_time": "00:00:26,470",
+      "end_time": "00:00:29,540",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:32,430",
+      "end_time": "00:00:38,100",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:35,400",
+      "end_time": "00:00:40,680",
+      "text": "[Applause]"
+    },
+    {
+      "start_time": "00:00:38,100",
+      "end_time": "00:00:43,200",
+      "text": "Dragon Bane is free League's latest game"
+    },
+    {
+      "start_time": "00:00:40,680",
+      "end_time": "00:00:44,760",
+      "text": "and it does take its DNA from d d you"
+    },
+    {
+      "start_time": "00:00:43,200",
+      "end_time": "00:00:46,620",
+      "text": "can see a lot of d d isms in there but"
+    },
+    {
+      "start_time": "00:00:44,760",
+      "end_time": "00:00:49,860",
+      "text": "it also takes us DNA from basic"
+    },
+    {
+      "start_time": "00:00:46,620",
+      "end_time": "00:00:52,140",
+      "text": "role-playing or runequest right here"
+    },
+    {
+      "start_time": "00:00:49,860",
+      "end_time": "00:00:56,280",
+      "text": "this is a copy of the very first edition"
+    },
+    {
+      "start_time": "00:00:52,140",
+      "end_time": "00:00:57,780",
+      "text": "of runequest and boy this uh this game I"
+    },
+    {
+      "start_time": "00:00:56,280",
+      "end_time": "00:00:59,640",
+      "text": "gotta be real careful with these Pages"
+    },
+    {
+      "start_time": "00:00:57,780",
+      "end_time": "00:01:02,879",
+      "text": "because they are delicate this"
+    },
+    {
+      "start_time": "00:00:59,640",
+      "end_time": "00:01:04,860",
+      "text": "particular printing is back from 19. I"
+    },
+    {
+      "start_time": "00:01:02,879",
+      "end_time": "00:01:06,119",
+      "text": "want to say 80 yes so I think this is"
+    },
+    {
+      "start_time": "00:01:04,860",
+      "end_time": "00:01:09,000",
+      "text": "the third printing of the first edition"
+    },
+    {
+      "start_time": "00:01:06,119",
+      "end_time": "00:01:11,939",
+      "text": "of runequest it is very very clear that"
+    },
+    {
+      "start_time": "00:01:09,000",
+      "end_time": "00:01:14,040",
+      "text": "Dragon Bane derives a lot of its"
+    },
+    {
+      "start_time": "00:01:11,939",
+      "end_time": "00:01:15,360",
+      "text": "philosophy a lot of its DNA from"
+    },
+    {
+      "start_time": "00:01:14,040",
+      "end_time": "00:01:17,580",
+      "text": "runequest"
+    },
+    {
+      "start_time": "00:01:15,360",
+      "end_time": "00:01:19,920",
+      "text": "except that it uses a D20 instead of"
+    },
+    {
+      "start_time": "00:01:17,580",
+      "end_time": "00:01:22,320",
+      "text": "percentiles but why do I say that well"
+    },
+    {
+      "start_time": "00:01:19,920",
+      "end_time": "00:01:24,420",
+      "text": "it's a game that uses skills instead of"
+    },
+    {
+      "start_time": "00:01:22,320",
+      "end_time": "00:01:25,860",
+      "text": "levels and classes you do have"
+    },
+    {
+      "start_time": "00:01:24,420",
+      "end_time": "00:01:27,420",
+      "text": "professions in dragonbane but they're"
+    },
+    {
+      "start_time": "00:01:25,860",
+      "end_time": "00:01:30,299",
+      "text": "basically like starting packages for"
+    },
+    {
+      "start_time": "00:01:27,420",
+      "end_time": "00:01:32,340",
+      "text": "characters to to to be made more more"
+    },
+    {
+      "start_time": "00:01:30,299",
+      "end_time": "00:01:33,780",
+      "text": "easily any character can become anything"
+    },
+    {
+      "start_time": "00:01:32,340",
+      "end_time": "00:01:35,159",
+      "text": "in this game it is skill based and I"
+    },
+    {
+      "start_time": "00:01:33,780",
+      "end_time": "00:01:37,560",
+      "text": "really love that you are rolling a D20"
+    },
+    {
+      "start_time": "00:01:35,159",
+      "end_time": "00:01:38,880",
+      "text": "you are rolling under your skill or your"
+    },
+    {
+      "start_time": "00:01:37,560",
+      "end_time": "00:01:41,400",
+      "text": "skill or under rather in order to"
+    },
+    {
+      "start_time": "00:01:38,880",
+      "end_time": "00:01:44,040",
+      "text": "succeed if you roll a one that is called"
+    },
+    {
+      "start_time": "00:01:41,400",
+      "end_time": "00:01:46,380",
+      "text": "a dragon and that's a very good thing a"
+    },
+    {
+      "start_time": "00:01:44,040",
+      "end_time": "00:01:48,600",
+      "text": "lot of critical hit effects and if you"
+    },
+    {
+      "start_time": "00:01:46,380",
+      "end_time": "00:01:50,340",
+      "text": "roll a 20 that is a demon and that is a"
+    },
+    {
+      "start_time": "00:01:48,600",
+      "end_time": "00:01:54,240",
+      "text": "very bad thing so it's the opposite from"
+    },
+    {
+      "start_time": "00:01:50,340",
+      "end_time": "00:01:56,520",
+      "text": "DND you want to roll low instead of high"
+    },
+    {
+      "start_time": "00:01:54,240",
+      "end_time": "00:01:58,200",
+      "text": "this is kind of similar to some bar room"
+    },
+    {
+      "start_time": "00:01:56,520",
+      "end_time": "00:01:59,520",
+      "text": "which is another game by free League"
+    },
+    {
+      "start_time": "00:01:58,200",
+      "end_time": "00:02:00,720",
+      "text": "which I am going to talk about it in the"
+    },
+    {
+      "start_time": "00:01:59,520",
+      "end_time": "00:02:02,280",
+      "text": "future because I really really love"
+    },
+    {
+      "start_time": "00:02:00,720",
+      "end_time": "00:02:04,500",
+      "text": "sambaram as well but when I first saw"
+    },
+    {
+      "start_time": "00:02:02,280",
+      "end_time": "00:02:05,880",
+      "text": "Dragon Bane uh when the quick start came"
+    },
+    {
+      "start_time": "00:02:04,500",
+      "end_time": "00:02:08,759",
+      "text": "out I dismissed it because I was like ah"
+    },
+    {
+      "start_time": "00:02:05,880",
+      "end_time": "00:02:11,340",
+      "text": "D20 it looks just like D and D but it's"
+    },
+    {
+      "start_time": "00:02:08,759",
+      "end_time": "00:02:13,140",
+      "text": "not it it shares way more in common with"
+    },
+    {
+      "start_time": "00:02:11,340",
+      "end_time": "00:02:14,580",
+      "text": "runequest than it does with d d although"
+    },
+    {
+      "start_time": "00:02:13,140",
+      "end_time": "00:02:16,860",
+      "text": "Dragon mate has taken a lot of ideas"
+    },
+    {
+      "start_time": "00:02:14,580",
+      "end_time": "00:02:18,900",
+      "text": "from fifth edition including the idea of"
+    },
+    {
+      "start_time": "00:02:16,860",
+      "end_time": "00:02:21,060",
+      "text": "advantages and disadvantages except it's"
+    },
+    {
+      "start_time": "00:02:18,900",
+      "end_time": "00:02:23,400",
+      "text": "called Boons and Banes by the way this"
+    },
+    {
+      "start_time": "00:02:21,060",
+      "end_time": "00:02:25,260",
+      "text": "product as a product is fantastic the"
+    },
+    {
+      "start_time": "00:02:23,400",
+      "end_time": "00:02:26,400",
+      "text": "box set is absolutely beautiful it comes"
+    },
+    {
+      "start_time": "00:02:25,260",
+      "end_time": "00:02:28,020",
+      "text": "with all kinds of things it comes with"
+    },
+    {
+      "start_time": "00:02:26,400",
+      "end_time": "00:02:29,760",
+      "text": "your stand-up minis it comes with a"
+    },
+    {
+      "start_time": "00:02:28,020",
+      "end_time": "00:02:32,040",
+      "text": "little battle mat it comes with your"
+    },
+    {
+      "start_time": "00:02:29,760",
+      "end_time": "00:02:34,800",
+      "text": "rules it also comes with a campaign book"
+    },
+    {
+      "start_time": "00:02:32,040",
+      "end_time": "00:02:36,660",
+      "text": "uh they sent me the DM screen as well"
+    },
+    {
+      "start_time": "00:02:34,800",
+      "end_time": "00:02:38,940",
+      "text": "which is really fantastic and a whole"
+    },
+    {
+      "start_time": "00:02:36,660",
+      "end_time": "00:02:41,640",
+      "text": "bunch of dice so and character sheets"
+    },
+    {
+      "start_time": "00:02:38,940",
+      "end_time": "00:02:44,640",
+      "text": "and pre-made characters and and and it's"
+    },
+    {
+      "start_time": "00:02:41,640",
+      "end_time": "00:02:46,739",
+      "text": "fantastic the art is amazing the layout"
+    },
+    {
+      "start_time": "00:02:44,640",
+      "end_time": "00:02:49,080",
+      "text": "is really good it's just it's just a"
+    },
+    {
+      "start_time": "00:02:46,739",
+      "end_time": "00:02:50,700",
+      "text": "another quality product another hit for"
+    },
+    {
+      "start_time": "00:02:49,080",
+      "end_time": "00:02:52,860",
+      "text": "free link so I'm gonna quickly roll up"
+    },
+    {
+      "start_time": "00:02:50,700",
+      "end_time": "00:02:54,120",
+      "text": "black J I'm not gonna do it right now on"
+    },
+    {
+      "start_time": "00:02:52,860",
+      "end_time": "00:02:55,560",
+      "text": "camera because that's kind of boring to"
+    },
+    {
+      "start_time": "00:02:54,120",
+      "end_time": "00:02:56,840",
+      "text": "see the butt through the magic of"
+    },
+    {
+      "start_time": "00:02:55,560",
+      "end_time": "00:02:59,519",
+      "text": "editing"
+    },
+    {
+      "start_time": "00:02:56,840",
+      "end_time": "00:03:01,260",
+      "text": "this is black Jay's character sheet"
+    },
+    {
+      "start_time": "00:02:59,519",
+      "end_time": "00:03:03,480",
+      "text": "these are his stats this is what's going"
+    },
+    {
+      "start_time": "00:03:01,260",
+      "end_time": "00:03:05,580",
+      "text": "to be relevant for the fight to come he"
+    },
+    {
+      "start_time": "00:03:03,480",
+      "end_time": "00:03:07,980",
+      "text": "has got pretty good skill he's got"
+    },
+    {
+      "start_time": "00:03:05,580",
+      "end_time": "00:03:10,019",
+      "text": "basically 14 skill and swords and"
+    },
+    {
+      "start_time": "00:03:07,980",
+      "end_time": "00:03:12,360",
+      "text": "essentially 14 skilled Perry as well"
+    },
+    {
+      "start_time": "00:03:10,019",
+      "end_time": "00:03:14,340",
+      "text": "he's got the ability of Shield block"
+    },
+    {
+      "start_time": "00:03:12,360",
+      "end_time": "00:03:16,080",
+      "text": "which means that he parries with a"
+    },
+    {
+      "start_time": "00:03:14,340",
+      "end_time": "00:03:18,060",
+      "text": "shield with a boon baboon of course as"
+    },
+    {
+      "start_time": "00:03:16,080",
+      "end_time": "00:03:20,099",
+      "text": "you roll 2d20 and you take the best role"
+    },
+    {
+      "start_time": "00:03:18,060",
+      "end_time": "00:03:21,360",
+      "text": "in this case it's the lower roll he's a"
+    },
+    {
+      "start_time": "00:03:20,099",
+      "end_time": "00:03:22,379",
+      "text": "knight he's wearing plate armor with a"
+    },
+    {
+      "start_time": "00:03:21,360",
+      "end_time": "00:03:24,120",
+      "text": "great helmet which means it's really"
+    },
+    {
+      "start_time": "00:03:22,379",
+      "end_time": "00:03:26,040",
+      "text": "hard to damage he's got essentially"
+    },
+    {
+      "start_time": "00:03:24,120",
+      "end_time": "00:03:27,780",
+      "text": "eight points of damage to come off any"
+    },
+    {
+      "start_time": "00:03:26,040",
+      "end_time": "00:03:30,180",
+      "text": "attack at him but he has a Bane on"
+    },
+    {
+      "start_time": "00:03:27,780",
+      "end_time": "00:03:32,220",
+      "text": "sneaking evading acrobatics awareness"
+    },
+    {
+      "start_time": "00:03:30,180",
+      "end_time": "00:03:33,120",
+      "text": "and a ranged attack so luckily he's not"
+    },
+    {
+      "start_time": "00:03:32,220",
+      "end_time": "00:03:35,459",
+      "text": "going to be worrying too much about that"
+    },
+    {
+      "start_time": "00:03:33,120",
+      "end_time": "00:03:37,500",
+      "text": "here in the future this great plane that"
+    },
+    {
+      "start_time": "00:03:35,459",
+      "end_time": "00:03:39,840",
+      "text": "is black Jay broadsword Shield Plate"
+    },
+    {
+      "start_time": "00:03:37,500",
+      "end_time": "00:03:43,620",
+      "text": "armor oh he has cut it out and he is"
+    },
+    {
+      "start_time": "00:03:39,840",
+      "end_time": "00:03:46,260",
+      "text": "ready to go now let's have a look at his"
+    },
+    {
+      "start_time": "00:03:43,620",
+      "end_time": "00:03:47,459",
+      "text": "enemy an orc orc is an orc is an orc we"
+    },
+    {
+      "start_time": "00:03:46,260",
+      "end_time": "00:03:49,980",
+      "text": "all know what an orc is this is going to"
+    },
+    {
+      "start_time": "00:03:47,459",
+      "end_time": "00:03:52,799",
+      "text": "be an orc Warrior his move is 10. he's"
+    },
+    {
+      "start_time": "00:03:49,980",
+      "end_time": "00:03:54,720",
+      "text": "gonna get a D4 damage bonus his armor"
+    },
+    {
+      "start_time": "00:03:52,799",
+      "end_time": "00:03:57,239",
+      "text": "his studded leather which means means"
+    },
+    {
+      "start_time": "00:03:54,720",
+      "end_time": "00:04:01,019",
+      "text": "it's two he's got 12 hit points he's got"
+    },
+    {
+      "start_time": "00:03:57,239",
+      "end_time": "00:04:03,840",
+      "text": "a scimitar at 12 and it does 2d6 plus D4"
+    },
+    {
+      "start_time": "00:04:01,019",
+      "end_time": "00:04:05,459",
+      "text": "he's very very comparable to Black J of"
+    },
+    {
+      "start_time": "00:04:03,840",
+      "end_time": "00:04:07,379",
+      "text": "course he doesn't have the same armor so"
+    },
+    {
+      "start_time": "00:04:05,459",
+      "end_time": "00:04:09,659",
+      "text": "blackj definitely has the advantage here"
+    },
+    {
+      "start_time": "00:04:07,379",
+      "end_time": "00:04:11,580",
+      "text": "all right so here's the deal featureless"
+    },
+    {
+      "start_time": "00:04:09,659",
+      "end_time": "00:04:14,700",
+      "text": "gray plane there's black J at one end"
+    },
+    {
+      "start_time": "00:04:11,580",
+      "end_time": "00:04:15,780",
+      "text": "there's the orc at the other haha yes"
+    },
+    {
+      "start_time": "00:04:14,700",
+      "end_time": "00:04:17,220",
+      "text": "these dandies aren't quite as"
+    },
+    {
+      "start_time": "00:04:15,780",
+      "end_time": "00:04:19,320",
+      "text": "interesting as Miniatures but you know"
+    },
+    {
+      "start_time": "00:04:17,220",
+      "end_time": "00:04:21,120",
+      "text": "whatever it's all fine and good when you"
+    },
+    {
+      "start_time": "00:04:19,320",
+      "end_time": "00:04:23,759",
+      "text": "do a combat in this game and remember"
+    },
+    {
+      "start_time": "00:04:21,120",
+      "end_time": "00:04:25,560",
+      "text": "I've never played this before so I might"
+    },
+    {
+      "start_time": "00:04:23,759",
+      "end_time": "00:04:27,240",
+      "text": "be doing things wrong who knows combat"
+    },
+    {
+      "start_time": "00:04:25,560",
+      "end_time": "00:04:29,759",
+      "text": "rounds an initiative we have these fancy"
+    },
+    {
+      "start_time": "00:04:27,240",
+      "end_time": "00:04:34,440",
+      "text": "Dancy initiative cards so we Shuffle"
+    },
+    {
+      "start_time": "00:04:29,759",
+      "end_time": "00:04:36,660",
+      "text": "these up and we see who draws the"
+    },
+    {
+      "start_time": "00:04:34,440",
+      "end_time": "00:04:39,780",
+      "text": "initiative like Jay it's gonna be on"
+    },
+    {
+      "start_time": "00:04:36,660",
+      "end_time": "00:04:41,400",
+      "text": "five and the orc grumas I believe the"
+    },
+    {
+      "start_time": "00:04:39,780",
+      "end_time": "00:04:42,960",
+      "text": "name of the orc was last time when I did"
+    },
+    {
+      "start_time": "00:04:41,400",
+      "end_time": "00:04:46,259",
+      "text": "the fantasy trip so this too will be"
+    },
+    {
+      "start_time": "00:04:42,960",
+      "end_time": "00:04:50,639",
+      "text": "gurumash is going to be on four okay"
+    },
+    {
+      "start_time": "00:04:46,259",
+      "end_time": "00:04:54,180",
+      "text": "well in this game we count up so that"
+    },
+    {
+      "start_time": "00:04:50,639",
+      "end_time": "00:04:55,740",
+      "text": "means the orc is going to go first so uh"
+    },
+    {
+      "start_time": "00:04:54,180",
+      "end_time": "00:04:57,180",
+      "text": "there's no surprise here it's the"
+    },
+    {
+      "start_time": "00:04:55,740",
+      "end_time": "00:04:59,160",
+      "text": "featureless grave plane everybody knows"
+    },
+    {
+      "start_time": "00:04:57,180",
+      "end_time": "00:05:00,960",
+      "text": "where everybody is actions and movement"
+    },
+    {
+      "start_time": "00:04:59,160",
+      "end_time": "00:05:03,419",
+      "text": "in this game basically you can move into"
+    },
+    {
+      "start_time": "00:05:00,960",
+      "end_time": "00:05:05,160",
+      "text": "a thing just like a lot of games now the"
+    },
+    {
+      "start_time": "00:05:03,419",
+      "end_time": "00:05:07,680",
+      "text": "other thing too is that you also have"
+    },
+    {
+      "start_time": "00:05:05,160",
+      "end_time": "00:05:10,860",
+      "text": "reactions which is pairing dodging but"
+    },
+    {
+      "start_time": "00:05:07,680",
+      "end_time": "00:05:12,419",
+      "text": "if you use a reaction that takes up your"
+    },
+    {
+      "start_time": "00:05:10,860",
+      "end_time": "00:05:15,180",
+      "text": "actions so in other words if I attack"
+    },
+    {
+      "start_time": "00:05:12,419",
+      "end_time": "00:05:17,759",
+      "text": "first so if the orc attacks first that"
+    },
+    {
+      "start_time": "00:05:15,180",
+      "end_time": "00:05:19,680",
+      "text": "he basically can't Parry or Dodge"
+    },
+    {
+      "start_time": "00:05:17,759",
+      "end_time": "00:05:22,139",
+      "text": "against any incoming attacks so one of"
+    },
+    {
+      "start_time": "00:05:19,680",
+      "end_time": "00:05:23,400",
+      "text": "the tactics in this game is to if it's a"
+    },
+    {
+      "start_time": "00:05:22,139",
+      "end_time": "00:05:25,259",
+      "text": "one-on-one situation like this is"
+    },
+    {
+      "start_time": "00:05:23,400",
+      "end_time": "00:05:26,520",
+      "text": "sometimes you might want to wait to see"
+    },
+    {
+      "start_time": "00:05:25,259",
+      "end_time": "00:05:28,320",
+      "text": "if the opponent's going to attack first"
+    },
+    {
+      "start_time": "00:05:26,520",
+      "end_time": "00:05:29,940",
+      "text": "because if he swings and misses then you"
+    },
+    {
+      "start_time": "00:05:28,320",
+      "end_time": "00:05:32,220",
+      "text": "don't have to expend your reaction to"
+    },
+    {
+      "start_time": "00:05:29,940",
+      "end_time": "00:05:35,039",
+      "text": "defend you can just hit him uh but if"
+    },
+    {
+      "start_time": "00:05:32,220",
+      "end_time": "00:05:36,960",
+      "text": "you go first like if the orc here on"
+    },
+    {
+      "start_time": "00:05:35,039",
+      "end_time": "00:05:39,360",
+      "text": "ninja defour wanted to wait what he"
+    },
+    {
+      "start_time": "00:05:36,960",
+      "end_time": "00:05:40,979",
+      "text": "would do is he would swap the card with"
+    },
+    {
+      "start_time": "00:05:39,360",
+      "end_time": "00:05:42,720",
+      "text": "the Enemy that's that's how that works"
+    },
+    {
+      "start_time": "00:05:40,979",
+      "end_time": "00:05:46,440",
+      "text": "but he's not going to do that he's an"
+    },
+    {
+      "start_time": "00:05:42,720",
+      "end_time": "00:05:48,300",
+      "text": "orc he's gonna move ten ten meters"
+    },
+    {
+      "start_time": "00:05:46,440",
+      "end_time": "00:05:50,880",
+      "text": "because of course this is made in Europe"
+    },
+    {
+      "start_time": "00:05:48,300",
+      "end_time": "00:05:52,620",
+      "text": "but here in America we use feet and"
+    },
+    {
+      "start_time": "00:05:50,880",
+      "end_time": "00:05:54,840",
+      "text": "yards so basically a meter is the same"
+    },
+    {
+      "start_time": "00:05:52,620",
+      "end_time": "00:05:56,340",
+      "text": "thing more or less as a yard which is"
+    },
+    {
+      "start_time": "00:05:54,840",
+      "end_time": "00:05:58,440",
+      "text": "three feet close enough for our purposes"
+    },
+    {
+      "start_time": "00:05:56,340",
+      "end_time": "00:06:01,620",
+      "text": "so what that means is 10 meters is going"
+    },
+    {
+      "start_time": "00:05:58,440",
+      "end_time": "00:06:03,419",
+      "text": "to be 10 yards or in this case 10. oh"
+    },
+    {
+      "start_time": "00:06:01,620",
+      "end_time": "00:06:06,600",
+      "text": "wait a minute each of these squares is"
+    },
+    {
+      "start_time": "00:06:03,419",
+      "end_time": "00:06:09,900",
+      "text": "two meters so he could go two four six"
+    },
+    {
+      "start_time": "00:06:06,600",
+      "end_time": "00:06:12,479",
+      "text": "eight ten if he wanted to Dash as his"
+    },
+    {
+      "start_time": "00:06:09,900",
+      "end_time": "00:06:13,800",
+      "text": "action he could he could double his"
+    },
+    {
+      "start_time": "00:06:12,479",
+      "end_time": "00:06:15,840",
+      "text": "movement but he's not going to do that"
+    },
+    {
+      "start_time": "00:06:13,800",
+      "end_time": "00:06:19,919",
+      "text": "because there's absolutely no reason he"
+    },
+    {
+      "start_time": "00:06:15,840",
+      "end_time": "00:06:23,220",
+      "text": "is moved and uh he is done so he's"
+    },
+    {
+      "start_time": "00:06:19,919",
+      "end_time": "00:06:24,900",
+      "text": "basically saving his does he have a"
+    },
+    {
+      "start_time": "00:06:23,220",
+      "end_time": "00:06:26,699",
+      "text": "shield he doesn't have a shield oh he"
+    },
+    {
+      "start_time": "00:06:24,900",
+      "end_time": "00:06:28,680",
+      "text": "could be in big trouble he could he"
+    },
+    {
+      "start_time": "00:06:26,699",
+      "end_time": "00:06:30,060",
+      "text": "carry with the sword but if you parry"
+    },
+    {
+      "start_time": "00:06:28,680",
+      "end_time": "00:06:32,220",
+      "text": "with the sword each weapon has a"
+    },
+    {
+      "start_time": "00:06:30,060",
+      "end_time": "00:06:33,660",
+      "text": "durability rating and sometimes uh the"
+    },
+    {
+      "start_time": "00:06:32,220",
+      "end_time": "00:06:35,340",
+      "text": "attacking weapon if it does more damage"
+    },
+    {
+      "start_time": "00:06:33,660",
+      "end_time": "00:06:36,539",
+      "text": "than the durability weapon it damages"
+    },
+    {
+      "start_time": "00:06:35,340",
+      "end_time": "00:06:39,660",
+      "text": "the weapon but we'll see if that happens"
+    },
+    {
+      "start_time": "00:06:36,539",
+      "end_time": "00:06:42,180",
+      "text": "so that was him he has not performed his"
+    },
+    {
+      "start_time": "00:06:39,660",
+      "end_time": "00:06:44,039",
+      "text": "actions so I do not flip this card yet"
+    },
+    {
+      "start_time": "00:06:42,180",
+      "end_time": "00:06:45,840",
+      "text": "because he has not yet performed his"
+    },
+    {
+      "start_time": "00:06:44,039",
+      "end_time": "00:06:48,660",
+      "text": "action it's still freely available now"
+    },
+    {
+      "start_time": "00:06:45,840",
+      "end_time": "00:06:51,000",
+      "text": "we go to round five where black J also"
+    },
+    {
+      "start_time": "00:06:48,660",
+      "end_time": "00:06:54,900",
+      "text": "has a move of 10 and he goes two four"
+    },
+    {
+      "start_time": "00:06:51,000",
+      "end_time": "00:06:59,400",
+      "text": "six eight ten but look at this he cannot"
+    },
+    {
+      "start_time": "00:06:54,900",
+      "end_time": "00:07:00,960",
+      "text": "attack the orc because he is uh you know"
+    },
+    {
+      "start_time": "00:06:59,400",
+      "end_time": "00:07:03,180",
+      "text": "10 feet away or six feet away whatever"
+    },
+    {
+      "start_time": "00:07:00,960",
+      "end_time": "00:07:04,199",
+      "text": "he's two two squares away four meters"
+    },
+    {
+      "start_time": "00:07:03,180",
+      "end_time": "00:07:05,639",
+      "text": "away"
+    },
+    {
+      "start_time": "00:07:04,199",
+      "end_time": "00:07:07,199",
+      "text": "I really shouldn't be so weird about"
+    },
+    {
+      "start_time": "00:07:05,639",
+      "end_time": "00:07:09,240",
+      "text": "meters I grew up in Canada but you know"
+    },
+    {
+      "start_time": "00:07:07,199",
+      "end_time": "00:07:10,620",
+      "text": "I'm I'm Gen X and Gen X is the last"
+    },
+    {
+      "start_time": "00:07:09,240",
+      "end_time": "00:07:12,180",
+      "text": "generation that you know could tell you"
+    },
+    {
+      "start_time": "00:07:10,620",
+      "end_time": "00:07:13,740",
+      "text": "how many kilometers away something is"
+    },
+    {
+      "start_time": "00:07:12,180",
+      "end_time": "00:07:16,199",
+      "text": "but not how many kilograms something is"
+    },
+    {
+      "start_time": "00:07:13,740",
+      "end_time": "00:07:19,199",
+      "text": "okay so he's gonna take his action boom"
+    },
+    {
+      "start_time": "00:07:16,199",
+      "end_time": "00:07:22,380",
+      "text": "to do that now he's engaged with York"
+    },
+    {
+      "start_time": "00:07:19,199",
+      "end_time": "00:07:24,660",
+      "text": "now the orc cannot use his action now to"
+    },
+    {
+      "start_time": "00:07:22,380",
+      "end_time": "00:07:26,340",
+      "text": "attack black Jay because he would have"
+    },
+    {
+      "start_time": "00:07:24,660",
+      "end_time": "00:07:28,259",
+      "text": "had to do that in his initiative he was"
+    },
+    {
+      "start_time": "00:07:26,340",
+      "end_time": "00:07:31,020",
+      "text": "only saving this for a potential defense"
+    },
+    {
+      "start_time": "00:07:28,259",
+      "end_time": "00:07:32,460",
+      "text": "but he didn't use it so that's the end"
+    },
+    {
+      "start_time": "00:07:31,020",
+      "end_time": "00:07:35,039",
+      "text": "of that so basically now that was the"
+    },
+    {
+      "start_time": "00:07:32,460",
+      "end_time": "00:07:37,740",
+      "text": "end of round one we go back now"
+    },
+    {
+      "start_time": "00:07:35,039",
+      "end_time": "00:07:39,300",
+      "text": "two initiatives so we reshuffled there's"
+    },
+    {
+      "start_time": "00:07:37,740",
+      "end_time": "00:07:41,639",
+      "text": "a different initiative every round"
+    },
+    {
+      "start_time": "00:07:39,300",
+      "end_time": "00:07:43,199",
+      "text": "unless you have a special heroic ability"
+    },
+    {
+      "start_time": "00:07:41,639",
+      "end_time": "00:07:44,819",
+      "text": "called veteran I think it's veteran"
+    },
+    {
+      "start_time": "00:07:43,199",
+      "end_time": "00:07:47,400",
+      "text": "which allows you to keep your initiative"
+    },
+    {
+      "start_time": "00:07:44,819",
+      "end_time": "00:07:49,259",
+      "text": "card we do new initiative every round"
+    },
+    {
+      "start_time": "00:07:47,400",
+      "end_time": "00:07:50,940",
+      "text": "which is important black J is going to"
+    },
+    {
+      "start_time": "00:07:49,259",
+      "end_time": "00:07:53,340",
+      "text": "be on nine and the orc is going to be on"
+    },
+    {
+      "start_time": "00:07:50,940",
+      "end_time": "00:07:57,000",
+      "text": "eight so the orc goes first so the orc"
+    },
+    {
+      "start_time": "00:07:53,340",
+      "end_time": "00:07:59,280",
+      "text": "is not smart enough to think tactically"
+    },
+    {
+      "start_time": "00:07:57,000",
+      "end_time": "00:08:00,360",
+      "text": "so he is just going to he's not going to"
+    },
+    {
+      "start_time": "00:07:59,280",
+      "end_time": "00:08:02,580",
+      "text": "move he's going to attack no"
+    },
+    {
+      "start_time": "00:08:00,360",
+      "end_time": "00:08:04,620",
+      "text": "incidentally if he did for whatever"
+    },
+    {
+      "start_time": "00:08:02,580",
+      "end_time": "00:08:06,660",
+      "text": "reason want to move out of the like the"
+    },
+    {
+      "start_time": "00:08:04,620",
+      "end_time": "00:08:08,819",
+      "text": "zone of control essentially of uh of"
+    },
+    {
+      "start_time": "00:08:06,660",
+      "end_time": "00:08:09,900",
+      "text": "black Jay here he would have to do he"
+    },
+    {
+      "start_time": "00:08:08,819",
+      "end_time": "00:08:12,300",
+      "text": "would move and he would have to do an"
+    },
+    {
+      "start_time": "00:08:09,900",
+      "end_time": "00:08:14,220",
+      "text": "evade role it doesn't count as an action"
+    },
+    {
+      "start_time": "00:08:12,300",
+      "end_time": "00:08:15,720",
+      "text": "but if he failed that role blackj would"
+    },
+    {
+      "start_time": "00:08:14,220",
+      "end_time": "00:08:16,919",
+      "text": "get a free Attack Just again like a lot"
+    },
+    {
+      "start_time": "00:08:15,720",
+      "end_time": "00:08:19,020",
+      "text": "of games but he's not going to do that"
+    },
+    {
+      "start_time": "00:08:16,919",
+      "end_time": "00:08:22,020",
+      "text": "he's not going to move he's just going"
+    },
+    {
+      "start_time": "00:08:19,020",
+      "end_time": "00:08:24,000",
+      "text": "to attack so the orc attacks on 12 which"
+    },
+    {
+      "start_time": "00:08:22,020",
+      "end_time": "00:08:27,360",
+      "text": "means he takes his handy dandy D20 is"
+    },
+    {
+      "start_time": "00:08:24,000",
+      "end_time": "00:08:30,300",
+      "text": "looking for 12 or under and does he hit"
+    },
+    {
+      "start_time": "00:08:27,360",
+      "end_time": "00:08:33,479",
+      "text": "he does he strikes with a scimitar now"
+    },
+    {
+      "start_time": "00:08:30,300",
+      "end_time": "00:08:35,640",
+      "text": "black J can either take the damage and"
+    },
+    {
+      "start_time": "00:08:33,479",
+      "end_time": "00:08:37,860",
+      "text": "allow his eight points of armor to soak"
+    },
+    {
+      "start_time": "00:08:35,640",
+      "end_time": "00:08:40,860",
+      "text": "it up and probably be okay or he can use"
+    },
+    {
+      "start_time": "00:08:37,860",
+      "end_time": "00:08:42,180",
+      "text": "his action to Parry for the purposes of"
+    },
+    {
+      "start_time": "00:08:40,860",
+      "end_time": "00:08:43,860",
+      "text": "demonstration he's going to use his"
+    },
+    {
+      "start_time": "00:08:42,180",
+      "end_time": "00:08:46,800",
+      "text": "action to Parry so the orc head and 11"
+    },
+    {
+      "start_time": "00:08:43,860",
+      "end_time": "00:08:49,019",
+      "text": "black J is going to flip his card"
+    },
+    {
+      "start_time": "00:08:46,800",
+      "end_time": "00:08:50,640",
+      "text": "because now he's used his action so too"
+    },
+    {
+      "start_time": "00:08:49,019",
+      "end_time": "00:08:52,560",
+      "text": "has the orc"
+    },
+    {
+      "start_time": "00:08:50,640",
+      "end_time": "00:08:54,360",
+      "text": "and blackj is going to Perry he's"
+    },
+    {
+      "start_time": "00:08:52,560",
+      "end_time": "00:08:57,000",
+      "text": "playing with the shield but he rolls by"
+    },
+    {
+      "start_time": "00:08:54,360",
+      "end_time": "00:09:00,000",
+      "text": "the way with a boon because he oh if oh"
+    },
+    {
+      "start_time": "00:08:57,000",
+      "end_time": "00:09:03,420",
+      "text": "if no no I lie uh he has the special"
+    },
+    {
+      "start_time": "00:09:00,000",
+      "end_time": "00:09:04,800",
+      "text": "ability of shield shield block but in"
+    },
+    {
+      "start_time": "00:09:03,420",
+      "end_time": "00:09:06,240",
+      "text": "order for him to roll with a boony def"
+    },
+    {
+      "start_time": "00:09:04,800",
+      "end_time": "00:09:08,160",
+      "text": "to spend willpower and he didn't call"
+    },
+    {
+      "start_time": "00:09:06,240",
+      "end_time": "00:09:12,300",
+      "text": "that that's a fine he succeeded anyway"
+    },
+    {
+      "start_time": "00:09:08,160",
+      "end_time": "00:09:15,300",
+      "text": "he succeeded the Perry against the hit"
+    },
+    {
+      "start_time": "00:09:12,300",
+      "end_time": "00:09:17,160",
+      "text": "which means he did Perry the hit however"
+    },
+    {
+      "start_time": "00:09:15,300",
+      "end_time": "00:09:19,019",
+      "text": "a couple things about Perry if your"
+    },
+    {
+      "start_time": "00:09:17,160",
+      "end_time": "00:09:20,700",
+      "text": "party succeeds the enemy's attack hits"
+    },
+    {
+      "start_time": "00:09:19,019",
+      "end_time": "00:09:22,980",
+      "text": "your weapon or shield and you suffer no"
+    },
+    {
+      "start_time": "00:09:20,700",
+      "end_time": "00:09:24,600",
+      "text": "damage however if the weapon exceeds"
+    },
+    {
+      "start_time": "00:09:22,980",
+      "end_time": "00:09:26,100",
+      "text": "your weapon's durability the weapon is"
+    },
+    {
+      "start_time": "00:09:24,600",
+      "end_time": "00:09:28,560",
+      "text": "damaged this is probably not going to"
+    },
+    {
+      "start_time": "00:09:26,100",
+      "end_time": "00:09:31,380",
+      "text": "happen but it might so the the orc is"
+    },
+    {
+      "start_time": "00:09:28,560",
+      "end_time": "00:09:33,839",
+      "text": "rolling 26 plus 2d4 damage against the"
+    },
+    {
+      "start_time": "00:09:31,380",
+      "end_time": "00:09:38,300",
+      "text": "durability of black Jay's Shield which"
+    },
+    {
+      "start_time": "00:09:33,839",
+      "end_time": "00:09:42,480",
+      "text": "is 15. so the damage comes in oh my God"
+    },
+    {
+      "start_time": "00:09:38,300",
+      "end_time": "00:09:45,240",
+      "text": "close uh 11 12 13. so The Shield is not"
+    },
+    {
+      "start_time": "00:09:42,480",
+      "end_time": "00:09:47,580",
+      "text": "damaged but if the orc actually uh"
+    },
+    {
+      "start_time": "00:09:45,240",
+      "end_time": "00:09:49,860",
+      "text": "rolled Max damage basically if he"
+    },
+    {
+      "start_time": "00:09:47,580",
+      "end_time": "00:09:51,540",
+      "text": "exceeded the durability then the weapon"
+    },
+    {
+      "start_time": "00:09:49,860",
+      "end_time": "00:09:52,860",
+      "text": "would be damaged be used until it's"
+    },
+    {
+      "start_time": "00:09:51,540",
+      "end_time": "00:09:55,140",
+      "text": "repaired so I quite like that it's it's"
+    },
+    {
+      "start_time": "00:09:52,860",
+      "end_time": "00:09:56,700",
+      "text": "a simple little way to to deal with"
+    },
+    {
+      "start_time": "00:09:55,140",
+      "end_time": "00:09:58,740",
+      "text": "weapons being damaged without getting"
+    },
+    {
+      "start_time": "00:09:56,700",
+      "end_time": "00:10:01,860",
+      "text": "too much in the weeds pretty cool uh The"
+    },
+    {
+      "start_time": "00:09:58,740",
+      "end_time": "00:10:03,839",
+      "text": "Shield is fine that was the orc and that"
+    },
+    {
+      "start_time": "00:10:01,860",
+      "end_time": "00:10:05,940",
+      "text": "was black Jay he goes next but he used"
+    },
+    {
+      "start_time": "00:10:03,839",
+      "end_time": "00:10:08,959",
+      "text": "his action so he is done we go into the"
+    },
+    {
+      "start_time": "00:10:05,940",
+      "end_time": "00:10:11,880",
+      "text": "new round so you can see how going first"
+    },
+    {
+      "start_time": "00:10:08,959",
+      "end_time": "00:10:12,899",
+      "text": "it could be a real Advantage because"
+    },
+    {
+      "start_time": "00:10:11,880",
+      "end_time": "00:10:14,279",
+      "text": "that would have been different if the"
+    },
+    {
+      "start_time": "00:10:12,899",
+      "end_time": "00:10:15,420",
+      "text": "orc had missed blackj would have been"
+    },
+    {
+      "start_time": "00:10:14,279",
+      "end_time": "00:10:17,160",
+      "text": "able to strike back and the orc would"
+    },
+    {
+      "start_time": "00:10:15,420",
+      "end_time": "00:10:19,080",
+      "text": "not have been able to defend alright"
+    },
+    {
+      "start_time": "00:10:17,160",
+      "end_time": "00:10:21,360",
+      "text": "black Jay is going on six the orc is"
+    },
+    {
+      "start_time": "00:10:19,080",
+      "end_time": "00:10:25,440",
+      "text": "going on eight black Jay goes first this"
+    },
+    {
+      "start_time": "00:10:21,360",
+      "end_time": "00:10:27,839",
+      "text": "time black J is in fact going to swap"
+    },
+    {
+      "start_time": "00:10:25,440",
+      "end_time": "00:10:30,720",
+      "text": "initiative cards with the orcas he wants"
+    },
+    {
+      "start_time": "00:10:27,839",
+      "end_time": "00:10:35,220",
+      "text": "the orc to attack first the orc does"
+    },
+    {
+      "start_time": "00:10:30,720",
+      "end_time": "00:10:38,040",
+      "text": "attack first and he's rolling on 12. the"
+    },
+    {
+      "start_time": "00:10:35,220",
+      "end_time": "00:10:40,500",
+      "text": "orc will miss this time which means"
+    },
+    {
+      "start_time": "00:10:38,040",
+      "end_time": "00:10:42,660",
+      "text": "blackj is going to attack the orc"
+    },
+    {
+      "start_time": "00:10:40,500",
+      "end_time": "00:10:44,940",
+      "text": "knowing the orc cannot defend this is"
+    },
+    {
+      "start_time": "00:10:42,660",
+      "end_time": "00:10:47,760",
+      "text": "very good for black Jay he is rolling"
+    },
+    {
+      "start_time": "00:10:44,940",
+      "end_time": "00:10:49,980",
+      "text": "with a skill of 14 on swords he rolls a"
+    },
+    {
+      "start_time": "00:10:47,760",
+      "end_time": "00:10:53,100",
+      "text": "nine that is a successful hit the orc"
+    },
+    {
+      "start_time": "00:10:49,980",
+      "end_time": "00:10:54,899",
+      "text": "cannot defend which means black Jay is"
+    },
+    {
+      "start_time": "00:10:53,100",
+      "end_time": "00:10:56,399",
+      "text": "going to roll his damage with his"
+    },
+    {
+      "start_time": "00:10:54,899",
+      "end_time": "00:10:58,620",
+      "text": "broadsword oh and he would have to pick"
+    },
+    {
+      "start_time": "00:10:56,399",
+      "end_time": "00:11:01,440",
+      "text": "he would have to pick the type of damage"
+    },
+    {
+      "start_time": "00:10:58,620",
+      "end_time": "00:11:03,000",
+      "text": "as well there's optional rules for like"
+    },
+    {
+      "start_time": "00:11:01,440",
+      "end_time": "00:11:04,019",
+      "text": "the sword is slashing or piercing you"
+    },
+    {
+      "start_time": "00:11:03,000",
+      "end_time": "00:11:06,060",
+      "text": "have to determine what you're going to"
+    },
+    {
+      "start_time": "00:11:04,019",
+      "end_time": "00:11:07,620",
+      "text": "do first because certain types of damage"
+    },
+    {
+      "start_time": "00:11:06,060",
+      "end_time": "00:11:09,300",
+      "text": "do different things against different"
+    },
+    {
+      "start_time": "00:11:07,620",
+      "end_time": "00:11:11,640",
+      "text": "armors so for example if the orc was"
+    },
+    {
+      "start_time": "00:11:09,300",
+      "end_time": "00:11:14,100",
+      "text": "wearing chainmail chainmail gets a bonus"
+    },
+    {
+      "start_time": "00:11:11,640",
+      "end_time": "00:11:15,839",
+      "text": "against slashing weapons so you want to"
+    },
+    {
+      "start_time": "00:11:14,100",
+      "end_time": "00:11:17,339",
+      "text": "pierce the other thing is if your role"
+    },
+    {
+      "start_time": "00:11:15,839",
+      "end_time": "00:11:20,700",
+      "text": "if you roll the critical if you roll a"
+    },
+    {
+      "start_time": "00:11:17,339",
+      "end_time": "00:11:22,260",
+      "text": "dragon which is a one in this game if"
+    },
+    {
+      "start_time": "00:11:20,700",
+      "end_time": "00:11:24,240",
+      "text": "you just declared that you were piercing"
+    },
+    {
+      "start_time": "00:11:22,260",
+      "end_time": "00:11:25,560",
+      "text": "or were using a piercing weapon then you"
+    },
+    {
+      "start_time": "00:11:24,240",
+      "end_time": "00:11:27,839",
+      "text": "could actually use that critical success"
+    },
+    {
+      "start_time": "00:11:25,560",
+      "end_time": "00:11:29,160",
+      "text": "to bypass the armor but only if it's"
+    },
+    {
+      "start_time": "00:11:27,839",
+      "end_time": "00:11:31,500",
+      "text": "piercing it's kind of cool anyway so"
+    },
+    {
+      "start_time": "00:11:29,160",
+      "end_time": "00:11:34,380",
+      "text": "black Jay strikes the orc and he's gonna"
+    },
+    {
+      "start_time": "00:11:31,500",
+      "end_time": "00:11:38,100",
+      "text": "do eight nine ten eleven minus the Orcs"
+    },
+    {
+      "start_time": "00:11:34,380",
+      "end_time": "00:11:40,800",
+      "text": "armor of two which is nine damage so the"
+    },
+    {
+      "start_time": "00:11:38,100",
+      "end_time": "00:11:43,200",
+      "text": "orc boom oh oh there was something else"
+    },
+    {
+      "start_time": "00:11:40,800",
+      "end_time": "00:11:45,300",
+      "text": "that I missed anyway the orc's gonna be"
+    },
+    {
+      "start_time": "00:11:43,200",
+      "end_time": "00:11:47,640",
+      "text": "down to three hit points I want to come"
+    },
+    {
+      "start_time": "00:11:45,300",
+      "end_time": "00:11:49,440",
+      "text": "back to that when you successfully Parry"
+    },
+    {
+      "start_time": "00:11:47,640",
+      "end_time": "00:11:51,600",
+      "text": "so going back to that that previous"
+    },
+    {
+      "start_time": "00:11:49,440",
+      "end_time": "00:11:53,160",
+      "text": "round when he paired with the shield you"
+    },
+    {
+      "start_time": "00:11:51,600",
+      "end_time": "00:11:55,079",
+      "text": "move you can move both yourself and the"
+    },
+    {
+      "start_time": "00:11:53,160",
+      "end_time": "00:11:57,839",
+      "text": "enemy two meters or one square in any"
+    },
+    {
+      "start_time": "00:11:55,079",
+      "end_time": "00:12:00,779",
+      "text": "direction it keeps it keeps the battle"
+    },
+    {
+      "start_time": "00:11:57,839",
+      "end_time": "00:12:02,339",
+      "text": "moving right so let's say he did that"
+    },
+    {
+      "start_time": "00:12:00,779",
+      "end_time": "00:12:04,440",
+      "text": "again it's a featureless great plane"
+    },
+    {
+      "start_time": "00:12:02,339",
+      "end_time": "00:12:06,540",
+      "text": "It's Not Really Gonna matter but on a"
+    },
+    {
+      "start_time": "00:12:04,440",
+      "end_time": "00:12:08,339",
+      "text": "successful Perry you can choose to do"
+    },
+    {
+      "start_time": "00:12:06,540",
+      "end_time": "00:12:10,380",
+      "text": "that if you want so clang and sort of"
+    },
+    {
+      "start_time": "00:12:08,339",
+      "end_time": "00:12:12,600",
+      "text": "like force the enemy back"
+    },
+    {
+      "start_time": "00:12:10,380",
+      "end_time": "00:12:14,220",
+      "text": "okay is there anything about damage when"
+    },
+    {
+      "start_time": "00:12:12,600",
+      "end_time": "00:12:16,260",
+      "text": "you take more than half or anything like"
+    },
+    {
+      "start_time": "00:12:14,220",
+      "end_time": "00:12:18,839",
+      "text": "that I can't remember"
+    },
+    {
+      "start_time": "00:12:16,260",
+      "end_time": "00:12:22,200",
+      "text": "I know there is another game I don't"
+    },
+    {
+      "start_time": "00:12:18,839",
+      "end_time": "00:12:23,820",
+      "text": "think there is you take severe injuries"
+    },
+    {
+      "start_time": "00:12:22,200",
+      "end_time": "00:12:25,860",
+      "text": "in this game if you're reduced to zero"
+    },
+    {
+      "start_time": "00:12:23,820",
+      "end_time": "00:12:27,899",
+      "text": "hit points which are like lingering"
+    },
+    {
+      "start_time": "00:12:25,860",
+      "end_time": "00:12:30,180",
+      "text": "injuries oh when there's pushing in this"
+    },
+    {
+      "start_time": "00:12:27,899",
+      "end_time": "00:12:31,860",
+      "text": "game as well uh so far everyone has"
+    },
+    {
+      "start_time": "00:12:30,180",
+      "end_time": "00:12:34,440",
+      "text": "succeeded or blackj succeeded but you"
+    },
+    {
+      "start_time": "00:12:31,860",
+      "end_time": "00:12:36,480",
+      "text": "can choose to push your role uh this"
+    },
+    {
+      "start_time": "00:12:34,440",
+      "end_time": "00:12:38,880",
+      "text": "obviously shares its DNA with a lot of"
+    },
+    {
+      "start_time": "00:12:36,480",
+      "end_time": "00:12:41,040",
+      "text": "other free League games too if if blackj"
+    },
+    {
+      "start_time": "00:12:38,880",
+      "end_time": "00:12:43,380",
+      "text": "had missed let's say he had rolled a 17"
+    },
+    {
+      "start_time": "00:12:41,040",
+      "end_time": "00:12:45,899",
+      "text": "okay on that attack you can choose to"
+    },
+    {
+      "start_time": "00:12:43,380",
+      "end_time": "00:12:47,519",
+      "text": "push what that means is you can pick up"
+    },
+    {
+      "start_time": "00:12:45,899",
+      "end_time": "00:12:50,339",
+      "text": "the dice and roll again to get another"
+    },
+    {
+      "start_time": "00:12:47,519",
+      "end_time": "00:12:52,260",
+      "text": "shot but you must take a condition a"
+    },
+    {
+      "start_time": "00:12:50,339",
+      "end_time": "00:12:53,940",
+      "text": "condition you mark on one of your stats"
+    },
+    {
+      "start_time": "00:12:52,260",
+      "end_time": "00:12:56,399",
+      "text": "so you can you know strength has"
+    },
+    {
+      "start_time": "00:12:53,940",
+      "end_time": "00:12:58,200",
+      "text": "exhausted con has sickly agility has"
+    },
+    {
+      "start_time": "00:12:56,399",
+      "end_time": "00:13:00,360",
+      "text": "days Etc you choose a condition and you"
+    },
+    {
+      "start_time": "00:12:58,200",
+      "end_time": "00:13:01,680",
+      "text": "sort of role play that right you've"
+    },
+    {
+      "start_time": "00:13:00,360",
+      "end_time": "00:13:03,000",
+      "text": "chosen to push now you suffer this"
+    },
+    {
+      "start_time": "00:13:01,680",
+      "end_time": "00:13:05,519",
+      "text": "condition which means anytime you use"
+    },
+    {
+      "start_time": "00:13:03,000",
+      "end_time": "00:13:07,680",
+      "text": "any skill that's based on that stat you"
+    },
+    {
+      "start_time": "00:13:05,519",
+      "end_time": "00:13:09,660",
+      "text": "roll with a bane okay so there's a"
+    },
+    {
+      "start_time": "00:13:07,680",
+      "end_time": "00:13:11,339",
+      "text": "little price to pay there but that never"
+    },
+    {
+      "start_time": "00:13:09,660",
+      "end_time": "00:13:13,620",
+      "text": "happened because he succeeded in his"
+    },
+    {
+      "start_time": "00:13:11,339",
+      "end_time": "00:13:15,300",
+      "text": "role there's no thing for taking like"
+    },
+    {
+      "start_time": "00:13:13,620",
+      "end_time": "00:13:16,860",
+      "text": "half your hits in one blow or anything"
+    },
+    {
+      "start_time": "00:13:15,300",
+      "end_time": "00:13:18,839",
+      "text": "like that so the Orcs down out of three"
+    },
+    {
+      "start_time": "00:13:16,860",
+      "end_time": "00:13:21,240",
+      "text": "now in this game everyone has very very"
+    },
+    {
+      "start_time": "00:13:18,839",
+      "end_time": "00:13:23,700",
+      "text": "few hit points as well so as you can see"
+    },
+    {
+      "start_time": "00:13:21,240",
+      "end_time": "00:13:26,220",
+      "text": "the orc has 12 hit points and black Jays"
+    },
+    {
+      "start_time": "00:13:23,700",
+      "end_time": "00:13:28,680",
+      "text": "striking with 2d6 plus a D4 that's big"
+    },
+    {
+      "start_time": "00:13:26,220",
+      "end_time": "00:13:30,660",
+      "text": "damage it is very possible to knock"
+    },
+    {
+      "start_time": "00:13:28,680",
+      "end_time": "00:13:33,480",
+      "text": "somebody down in one or two blows in"
+    },
+    {
+      "start_time": "00:13:30,660",
+      "end_time": "00:13:35,760",
+      "text": "fact it's probably the norm so combat is"
+    },
+    {
+      "start_time": "00:13:33,480",
+      "end_time": "00:13:37,620",
+      "text": "going to be pretty Grim pretty lethal"
+    },
+    {
+      "start_time": "00:13:35,760",
+      "end_time": "00:13:38,880",
+      "text": "but I shouldn't say lethal because if a"
+    },
+    {
+      "start_time": "00:13:37,620",
+      "end_time": "00:13:40,560",
+      "text": "PC gets knocked down he's not"
+    },
+    {
+      "start_time": "00:13:38,880",
+      "end_time": "00:13:42,180",
+      "text": "necessarily dead"
+    },
+    {
+      "start_time": "00:13:40,560",
+      "end_time": "00:13:44,100",
+      "text": "um there's these severe injuries and"
+    },
+    {
+      "start_time": "00:13:42,180",
+      "end_time": "00:13:45,959",
+      "text": "stuff and yada yada anyway so that was"
+    },
+    {
+      "start_time": "00:13:44,100",
+      "end_time": "00:13:48,300",
+      "text": "round two we go to round three now the"
+    },
+    {
+      "start_time": "00:13:45,959",
+      "end_time": "00:13:50,220",
+      "text": "orc has been hit pretty bad as we"
+    },
+    {
+      "start_time": "00:13:48,300",
+      "end_time": "00:13:52,079",
+      "text": "expected because he doesn't have much in"
+    },
+    {
+      "start_time": "00:13:50,220",
+      "end_time": "00:13:53,880",
+      "text": "the way of armor"
+    },
+    {
+      "start_time": "00:13:52,079",
+      "end_time": "00:13:55,620",
+      "text": "a lot of people don't like cards a lot"
+    },
+    {
+      "start_time": "00:13:53,880",
+      "end_time": "00:13:57,480",
+      "text": "of people don't like cards in their RPGs"
+    },
+    {
+      "start_time": "00:13:55,620",
+      "end_time": "00:13:59,579",
+      "text": "when I ran Savage worlds in season one"
+    },
+    {
+      "start_time": "00:13:57,480",
+      "end_time": "00:14:00,899",
+      "text": "of the main show on this channel uh The"
+    },
+    {
+      "start_time": "00:13:59,579",
+      "end_time": "00:14:02,880",
+      "text": "Savage will use his initial cards a lot"
+    },
+    {
+      "start_time": "00:14:00,899",
+      "end_time": "00:14:04,680",
+      "text": "of people say I don't like good I didn't"
+    },
+    {
+      "start_time": "00:14:02,880",
+      "end_time": "00:14:07,260",
+      "text": "think I would either but I can I kind of"
+    },
+    {
+      "start_time": "00:14:04,680",
+      "end_time": "00:14:08,940",
+      "text": "do I think they're they're quick and"
+    },
+    {
+      "start_time": "00:14:07,260",
+      "end_time": "00:14:10,139",
+      "text": "easy to understand where everybody is in"
+    },
+    {
+      "start_time": "00:14:08,940",
+      "end_time": "00:14:12,720",
+      "text": "the round especially using initiative"
+    },
+    {
+      "start_time": "00:14:10,139",
+      "end_time": "00:14:15,240",
+      "text": "cards uh pretty cool there anyway all"
+    },
+    {
+      "start_time": "00:14:12,720",
+      "end_time": "00:14:17,459",
+      "text": "right boom so black Jason seven the orc"
+    },
+    {
+      "start_time": "00:14:15,240",
+      "end_time": "00:14:18,959",
+      "text": "is on 10. now black Jay can choose to go"
+    },
+    {
+      "start_time": "00:14:17,459",
+      "end_time": "00:14:20,820",
+      "text": "first I think he will this time he's"
+    },
+    {
+      "start_time": "00:14:18,959",
+      "end_time": "00:14:23,880",
+      "text": "gonna press his opportunities rolling"
+    },
+    {
+      "start_time": "00:14:20,820",
+      "end_time": "00:14:26,519",
+      "text": "with a skill of 14 or less which is a"
+    },
+    {
+      "start_time": "00:14:23,880",
+      "end_time": "00:14:28,320",
+      "text": "five that is a hit so he strikes the orc"
+    },
+    {
+      "start_time": "00:14:26,519",
+      "end_time": "00:14:34,500",
+      "text": "the orc is going to try and Parry with"
+    },
+    {
+      "start_time": "00:14:28,320",
+      "end_time": "00:14:37,560",
+      "text": "his Scimitar of a skill of 12. he does"
+    },
+    {
+      "start_time": "00:14:34,500",
+      "end_time": "00:14:39,779",
+      "text": "not but let's say just for"
+    },
+    {
+      "start_time": "00:14:37,560",
+      "end_time": "00:14:42,060",
+      "text": "just for uh demonstrations like let's"
+    },
+    {
+      "start_time": "00:14:39,779",
+      "end_time": "00:14:43,920",
+      "text": "say he did let's say he rolled that a"
+    },
+    {
+      "start_time": "00:14:42,060",
+      "end_time": "00:14:47,399",
+      "text": "successful pair with the Scimitar the"
+    },
+    {
+      "start_time": "00:14:43,920",
+      "end_time": "00:14:49,380",
+      "text": "Scimitar has a durability score of 12."
+    },
+    {
+      "start_time": "00:14:47,399",
+      "end_time": "00:14:51,660",
+      "text": "so the orc let's say he successfully"
+    },
+    {
+      "start_time": "00:14:49,380",
+      "end_time": "00:14:54,120",
+      "text": "parried"
+    },
+    {
+      "start_time": "00:14:51,660",
+      "end_time": "00:14:57,779",
+      "text": "black Jay is rolling his damage 2d6 plus"
+    },
+    {
+      "start_time": "00:14:54,120",
+      "end_time": "00:14:57,779",
+      "text": "D4 against 12."
+    },
+    {
+      "start_time": "00:14:57,899",
+      "end_time": "00:15:01,620",
+      "text": "46 so 10. so the Scimitar would have"
+    },
+    {
+      "start_time": "00:14:59,940",
+      "end_time": "00:15:04,440",
+      "text": "been okay but if he had rolled better he"
+    },
+    {
+      "start_time": "00:15:01,620",
+      "end_time": "00:15:07,320",
+      "text": "might have actually damaged that"
+    },
+    {
+      "start_time": "00:15:04,440",
+      "end_time": "00:15:09,060",
+      "text": "Scimitar in in the Perry and then it"
+    },
+    {
+      "start_time": "00:15:07,320",
+      "end_time": "00:15:11,399",
+      "text": "would be useless until it gets repaired"
+    },
+    {
+      "start_time": "00:15:09,060",
+      "end_time": "00:15:12,360",
+      "text": "anyway in any event the orc missed his"
+    },
+    {
+      "start_time": "00:15:11,399",
+      "end_time": "00:15:13,980",
+      "text": "Perry"
+    },
+    {
+      "start_time": "00:15:12,360",
+      "end_time": "00:15:16,380",
+      "text": "so black Jay is going to do his damage"
+    },
+    {
+      "start_time": "00:15:13,980",
+      "end_time": "00:15:19,019",
+      "text": "again and probably gonna kill him this"
+    },
+    {
+      "start_time": "00:15:16,380",
+      "end_time": "00:15:20,339",
+      "text": "time five six uh nine minus two is seven"
+    },
+    {
+      "start_time": "00:15:19,019",
+      "end_time": "00:15:23,519",
+      "text": "nearly at three left so down goes the"
+    },
+    {
+      "start_time": "00:15:20,339",
+      "end_time": "00:15:26,100",
+      "text": "orc okay so that's pretty quick right I"
+    },
+    {
+      "start_time": "00:15:23,519",
+      "end_time": "00:15:28,380",
+      "text": "mean uh it's it it resolves very quickly"
+    },
+    {
+      "start_time": "00:15:26,100",
+      "end_time": "00:15:30,660",
+      "text": "but let's add a couple of interesting"
+    },
+    {
+      "start_time": "00:15:28,380",
+      "end_time": "00:15:31,740",
+      "text": "things into the mix now let's reset back"
+    },
+    {
+      "start_time": "00:15:30,660",
+      "end_time": "00:15:34,320",
+      "text": "here"
+    },
+    {
+      "start_time": "00:15:31,740",
+      "end_time": "00:15:37,320",
+      "text": "reset the initiative cards as well"
+    },
+    {
+      "start_time": "00:15:34,320",
+      "end_time": "00:15:38,639",
+      "text": "this is kind of neat I love this aspect"
+    },
+    {
+      "start_time": "00:15:37,320",
+      "end_time": "00:15:41,760",
+      "text": "that they include this in this game"
+    },
+    {
+      "start_time": "00:15:38,639",
+      "end_time": "00:15:43,860",
+      "text": "improvised weapons Forest right so you"
+    },
+    {
+      "start_time": "00:15:41,760",
+      "end_time": "00:15:46,199",
+      "text": "got Forest cave Tavern all this kind of"
+    },
+    {
+      "start_time": "00:15:43,860",
+      "end_time": "00:15:49,380",
+      "text": "stuff these are just random things that"
+    },
+    {
+      "start_time": "00:15:46,199",
+      "end_time": "00:15:51,600",
+      "text": "could be interacted with if you have the"
+    },
+    {
+      "start_time": "00:15:49,380",
+      "end_time": "00:15:52,860",
+      "text": "opportunity to grab it so here's what"
+    },
+    {
+      "start_time": "00:15:51,600",
+      "end_time": "00:15:54,720",
+      "text": "we're going to do we're gonna assume"
+    },
+    {
+      "start_time": "00:15:52,860",
+      "end_time": "00:15:57,000",
+      "text": "that at some point each of these"
+    },
+    {
+      "start_time": "00:15:54,720",
+      "end_time": "00:15:58,620",
+      "text": "characters can grab can move to an area"
+    },
+    {
+      "start_time": "00:15:57,000",
+      "end_time": "00:15:59,639",
+      "text": "and use an improvised weapon here in the"
+    },
+    {
+      "start_time": "00:15:58,620",
+      "end_time": "00:16:01,320",
+      "text": "force but we're also going to do"
+    },
+    {
+      "start_time": "00:15:59,639",
+      "end_time": "00:16:03,779",
+      "text": "something different I'm going to assume"
+    },
+    {
+      "start_time": "00:16:01,320",
+      "end_time": "00:16:06,240",
+      "text": "that this orc now also has a crossbow"
+    },
+    {
+      "start_time": "00:16:03,779",
+      "end_time": "00:16:09,240",
+      "text": "okay and I'm going to assume that he"
+    },
+    {
+      "start_time": "00:16:06,240",
+      "end_time": "00:16:11,160",
+      "text": "also has a skill of 12 in it damage 2d8"
+    },
+    {
+      "start_time": "00:16:09,240",
+      "end_time": "00:16:12,959",
+      "text": "as well as the Scimitar still no Shield"
+    },
+    {
+      "start_time": "00:16:11,160",
+      "end_time": "00:16:15,420",
+      "text": "perfectly fine blackj is going to start"
+    },
+    {
+      "start_time": "00:16:12,959",
+      "end_time": "00:16:16,740",
+      "text": "all the way back here again feature this"
+    },
+    {
+      "start_time": "00:16:15,420",
+      "end_time": "00:16:18,600",
+      "text": "gray plane except we're gonna now"
+    },
+    {
+      "start_time": "00:16:16,740",
+      "end_time": "00:16:21,180",
+      "text": "introduce some interesting improvised"
+    },
+    {
+      "start_time": "00:16:18,600",
+      "end_time": "00:16:22,620",
+      "text": "weapons into the situation all right so"
+    },
+    {
+      "start_time": "00:16:21,180",
+      "end_time": "00:16:24,959",
+      "text": "black Jay's initiative is going to be on"
+    },
+    {
+      "start_time": "00:16:22,620",
+      "end_time": "00:16:28,199",
+      "text": "three and the Orcs on five this is good"
+    },
+    {
+      "start_time": "00:16:24,959",
+      "end_time": "00:16:30,540",
+      "text": "black J wants to get there soon the"
+    },
+    {
+      "start_time": "00:16:28,199",
+      "end_time": "00:16:31,860",
+      "text": "Reign to the crossbow is 60. so the orc"
+    },
+    {
+      "start_time": "00:16:30,540",
+      "end_time": "00:16:33,660",
+      "text": "could hit him from anywhere from 30"
+    },
+    {
+      "start_time": "00:16:31,860",
+      "end_time": "00:16:36,779",
+      "text": "squares away basically blackj is gonna"
+    },
+    {
+      "start_time": "00:16:33,660",
+      "end_time": "00:16:38,399",
+      "text": "move two four six eight ten and then"
+    },
+    {
+      "start_time": "00:16:36,779",
+      "end_time": "00:16:40,440",
+      "text": "he's gonna move again two four six eight"
+    },
+    {
+      "start_time": "00:16:38,399",
+      "end_time": "00:16:41,820",
+      "text": "ten uh actually no he's not gonna do"
+    },
+    {
+      "start_time": "00:16:40,440",
+      "end_time": "00:16:43,680",
+      "text": "that he's gonna two four six eight ten"
+    },
+    {
+      "start_time": "00:16:41,820",
+      "end_time": "00:16:46,079",
+      "text": "and then he's gonna wait because he's"
+    },
+    {
+      "start_time": "00:16:43,680",
+      "end_time": "00:16:49,800",
+      "text": "got his shield which means he can try"
+    },
+    {
+      "start_time": "00:16:46,079",
+      "end_time": "00:16:52,380",
+      "text": "and Parry a arrow or a bolt in this case"
+    },
+    {
+      "start_time": "00:16:49,800",
+      "end_time": "00:16:54,120",
+      "text": "so the orc is going second so the"
+    },
+    {
+      "start_time": "00:16:52,380",
+      "end_time": "00:16:58,019",
+      "text": "orcasus crossbones and he's not gonna"
+    },
+    {
+      "start_time": "00:16:54,120",
+      "end_time": "00:17:00,720",
+      "text": "move but he's going to shoot now let's"
+    },
+    {
+      "start_time": "00:16:58,019",
+      "end_time": "00:17:03,300",
+      "text": "let's add into this mix just because we"
+    },
+    {
+      "start_time": "00:17:00,720",
+      "end_time": "00:17:04,620",
+      "text": "can it is a forest right so now we're"
+    },
+    {
+      "start_time": "00:17:03,300",
+      "end_time": "00:17:06,120",
+      "text": "going to assume that there's trees"
+    },
+    {
+      "start_time": "00:17:04,620",
+      "end_time": "00:17:07,199",
+      "text": "everywhere on this featureless great"
+    },
+    {
+      "start_time": "00:17:06,120",
+      "end_time": "00:17:08,280",
+      "text": "plane the feature this great plane now"
+    },
+    {
+      "start_time": "00:17:07,199",
+      "end_time": "00:17:09,600",
+      "text": "is features"
+    },
+    {
+      "start_time": "00:17:08,280",
+      "end_time": "00:17:11,100",
+      "text": "there's just trees and stuff we're gonna"
+    },
+    {
+      "start_time": "00:17:09,600",
+      "end_time": "00:17:13,140",
+      "text": "assume that everywhere in this you can"
+    },
+    {
+      "start_time": "00:17:11,100",
+      "end_time": "00:17:17,160",
+      "text": "sort of take cover which means that to"
+    },
+    {
+      "start_time": "00:17:13,140",
+      "end_time": "00:17:19,559",
+      "text": "shoot arranged opponent uh that opponent"
+    },
+    {
+      "start_time": "00:17:17,160",
+      "end_time": "00:17:21,240",
+      "text": "is obscured which means that the orc"
+    },
+    {
+      "start_time": "00:17:19,559",
+      "end_time": "00:17:22,799",
+      "text": "rolls with a bane so the Orcs rolling"
+    },
+    {
+      "start_time": "00:17:21,240",
+      "end_time": "00:17:24,839",
+      "text": "across let's get a skill of 12 but he"
+    },
+    {
+      "start_time": "00:17:22,799",
+      "end_time": "00:17:28,319",
+      "text": "has to take the higher one because high"
+    },
+    {
+      "start_time": "00:17:24,839",
+      "end_time": "00:17:31,320",
+      "text": "is bad and he shoots and look at that"
+    },
+    {
+      "start_time": "00:17:28,319",
+      "end_time": "00:17:33,660",
+      "text": "well that would have been that would"
+    },
+    {
+      "start_time": "00:17:31,320",
+      "end_time": "00:17:35,940",
+      "text": "have been a critical hit but he's got to"
+    },
+    {
+      "start_time": "00:17:33,660",
+      "end_time": "00:17:38,340",
+      "text": "take the worst one which is that so he"
+    },
+    {
+      "start_time": "00:17:35,940",
+      "end_time": "00:17:40,320",
+      "text": "still will hit the critical hit would"
+    },
+    {
+      "start_time": "00:17:38,340",
+      "end_time": "00:17:41,700",
+      "text": "have been interesting in fact again just"
+    },
+    {
+      "start_time": "00:17:40,320",
+      "end_time": "00:17:43,260",
+      "text": "for the purposes of demonstration let's"
+    },
+    {
+      "start_time": "00:17:41,700",
+      "end_time": "00:17:44,820",
+      "text": "assume that there was no trees let's"
+    },
+    {
+      "start_time": "00:17:43,260",
+      "end_time": "00:17:46,679",
+      "text": "assume that it was in fact a featureless"
+    },
+    {
+      "start_time": "00:17:44,820",
+      "end_time": "00:17:48,539",
+      "text": "great plane and he had just rolled that"
+    },
+    {
+      "start_time": "00:17:46,679",
+      "end_time": "00:17:52,020",
+      "text": "well that is a critical hit now in order"
+    },
+    {
+      "start_time": "00:17:48,539",
+      "end_time": "00:17:53,940",
+      "text": "for black J to Parry that he would have"
+    },
+    {
+      "start_time": "00:17:52,020",
+      "end_time": "00:17:55,440",
+      "text": "to roll a critical as well you cannot"
+    },
+    {
+      "start_time": "00:17:53,940",
+      "end_time": "00:17:57,299",
+      "text": "Parry critical unless you also roll the"
+    },
+    {
+      "start_time": "00:17:55,440",
+      "end_time": "00:17:59,880",
+      "text": "critical okay let's assume that that's"
+    },
+    {
+      "start_time": "00:17:57,299",
+      "end_time": "00:18:01,919",
+      "text": "what happens boom he fires across both"
+    },
+    {
+      "start_time": "00:17:59,880",
+      "end_time": "00:18:05,640",
+      "text": "zunk hits black J with a critical hit"
+    },
+    {
+      "start_time": "00:18:01,919",
+      "end_time": "00:18:07,740",
+      "text": "now he has an option here well a black"
+    },
+    {
+      "start_time": "00:18:05,640",
+      "end_time": "00:18:09,000",
+      "text": "Jay can try and and Perry with his"
+    },
+    {
+      "start_time": "00:18:07,740",
+      "end_time": "00:18:10,860",
+      "text": "shield so he's definitely going to try"
+    },
+    {
+      "start_time": "00:18:09,000",
+      "end_time": "00:18:13,559",
+      "text": "and do it he's basically got a really"
+    },
+    {
+      "start_time": "00:18:10,860",
+      "end_time": "00:18:15,539",
+      "text": "critical new he does not so we'll assume"
+    },
+    {
+      "start_time": "00:18:13,559",
+      "end_time": "00:18:19,500",
+      "text": "the orc roll a critical hit on black Jay"
+    },
+    {
+      "start_time": "00:18:15,539",
+      "end_time": "00:18:20,820",
+      "text": "so he has an option he can either bypass"
+    },
+    {
+      "start_time": "00:18:19,500",
+      "end_time": "00:18:24,059",
+      "text": "the armor because the weapon does"
+    },
+    {
+      "start_time": "00:18:20,820",
+      "end_time": "00:18:26,100",
+      "text": "piercing damage or he can double his"
+    },
+    {
+      "start_time": "00:18:24,059",
+      "end_time": "00:18:27,539",
+      "text": "rolled damage well if the orc is smart"
+    },
+    {
+      "start_time": "00:18:26,100",
+      "end_time": "00:18:28,980",
+      "text": "he's gonna bypass the armor because"
+    },
+    {
+      "start_time": "00:18:27,539",
+      "end_time": "00:18:31,620",
+      "text": "blackj has eight points of armor that's"
+    },
+    {
+      "start_time": "00:18:28,980",
+      "end_time": "00:18:34,260",
+      "text": "what he's gonna do two d8 damage comes"
+    },
+    {
+      "start_time": "00:18:31,620",
+      "end_time": "00:18:35,880",
+      "text": "in by passing the armor and I know the"
+    },
+    {
+      "start_time": "00:18:34,260",
+      "end_time": "00:18:38,160",
+      "text": "orc didn't really roll that he was"
+    },
+    {
+      "start_time": "00:18:35,880",
+      "end_time": "00:18:40,559",
+      "text": "rolling with a a bane but ah it doesn't"
+    },
+    {
+      "start_time": "00:18:38,160",
+      "end_time": "00:18:42,780",
+      "text": "matter boom and he's Gonna Roll eight to"
+    },
+    {
+      "start_time": "00:18:40,559",
+      "end_time": "00:18:46,380",
+      "text": "damage against black J he's down to"
+    },
+    {
+      "start_time": "00:18:42,780",
+      "end_time": "00:18:49,080",
+      "text": "seven from that critical hit oh bad news"
+    },
+    {
+      "start_time": "00:18:46,380",
+      "end_time": "00:18:52,500",
+      "text": "and that was the Orcs move now we go"
+    },
+    {
+      "start_time": "00:18:49,080",
+      "end_time": "00:18:55,020",
+      "text": "into a new round so it's quick it's very"
+    },
+    {
+      "start_time": "00:18:52,500",
+      "end_time": "00:18:57,120",
+      "text": "quick as you would expect sort of a"
+    },
+    {
+      "start_time": "00:18:55,020",
+      "end_time": "00:18:59,220",
+      "text": "rules lightish game like this to be but"
+    },
+    {
+      "start_time": "00:18:57,120",
+      "end_time": "00:19:00,960",
+      "text": "it also has some interesting details in"
+    },
+    {
+      "start_time": "00:18:59,220",
+      "end_time": "00:19:02,880",
+      "text": "combat which are kind of cool and"
+    },
+    {
+      "start_time": "00:19:00,960",
+      "end_time": "00:19:04,799",
+      "text": "they're quite elegantly applied all"
+    },
+    {
+      "start_time": "00:19:02,880",
+      "end_time": "00:19:06,600",
+      "text": "right blackj is going to be on two the"
+    },
+    {
+      "start_time": "00:19:04,799",
+      "end_time": "00:19:09,780",
+      "text": "Orcs gonna be on fire well black Jay is"
+    },
+    {
+      "start_time": "00:19:06,600",
+      "end_time": "00:19:11,640",
+      "text": "wounded now because of a cheating GM so"
+    },
+    {
+      "start_time": "00:19:09,780",
+      "end_time": "00:19:14,640",
+      "text": "he wants to get up there quick two four"
+    },
+    {
+      "start_time": "00:19:11,640",
+      "end_time": "00:19:18,179",
+      "text": "six eight ten two four six eight ten"
+    },
+    {
+      "start_time": "00:19:14,640",
+      "end_time": "00:19:21,600",
+      "text": "which is engages him now if the orc with"
+    },
+    {
+      "start_time": "00:19:18,179",
+      "end_time": "00:19:23,100",
+      "text": "his crossbow wanted to shoot he's got a"
+    },
+    {
+      "start_time": "00:19:21,600",
+      "end_time": "00:19:25,440",
+      "text": "crossbow oh does the crossbow take time"
+    },
+    {
+      "start_time": "00:19:23,100",
+      "end_time": "00:19:26,700",
+      "text": "to load that's a good question I don't"
+    },
+    {
+      "start_time": "00:19:25,440",
+      "end_time": "00:19:29,160",
+      "text": "see anything about loading so I guess he"
+    },
+    {
+      "start_time": "00:19:26,700",
+      "end_time": "00:19:31,440",
+      "text": "can shoot but if if he shoots then he's"
+    },
+    {
+      "start_time": "00:19:29,160",
+      "end_time": "00:19:32,940",
+      "text": "gonna fire with a bane I don't think"
+    },
+    {
+      "start_time": "00:19:31,440",
+      "end_time": "00:19:35,400",
+      "text": "he's gonna do that I think what he's"
+    },
+    {
+      "start_time": "00:19:32,940",
+      "end_time": "00:19:37,440",
+      "text": "gonna do he's going to use his free"
+    },
+    {
+      "start_time": "00:19:35,400",
+      "end_time": "00:19:41,280",
+      "text": "action to drop his crossbow and his"
+    },
+    {
+      "start_time": "00:19:37,440",
+      "end_time": "00:19:42,900",
+      "text": "regular action to draw his Scimitar okay"
+    },
+    {
+      "start_time": "00:19:41,280",
+      "end_time": "00:19:44,960",
+      "text": "so now we're sort of back into a"
+    },
+    {
+      "start_time": "00:19:42,900",
+      "end_time": "00:19:47,160",
+      "text": "situation where we were in the previous"
+    },
+    {
+      "start_time": "00:19:44,960",
+      "end_time": "00:19:49,200",
+      "text": "encounter all right so that is the end"
+    },
+    {
+      "start_time": "00:19:47,160",
+      "end_time": "00:19:50,880",
+      "text": "of that round so now I'm just gonna move"
+    },
+    {
+      "start_time": "00:19:49,200",
+      "end_time": "00:19:52,080",
+      "text": "them over here because it's a"
+    },
+    {
+      "start_time": "00:19:50,880",
+      "end_time": "00:19:53,760",
+      "text": "featureless gray plane and it doesn't"
+    },
+    {
+      "start_time": "00:19:52,080",
+      "end_time": "00:19:55,380",
+      "text": "really matter oh the improvised weapons"
+    },
+    {
+      "start_time": "00:19:53,760",
+      "end_time": "00:19:57,480",
+      "text": "now that they're in hand to hand let's"
+    },
+    {
+      "start_time": "00:19:55,380",
+      "end_time": "00:19:58,740",
+      "text": "see let's see not that it matters if"
+    },
+    {
+      "start_time": "00:19:57,480",
+      "end_time": "00:20:00,780",
+      "text": "their hand the hand you can use your"
+    },
+    {
+      "start_time": "00:19:58,740",
+      "end_time": "00:20:03,900",
+      "text": "improvised weapons anywhere blackj this"
+    },
+    {
+      "start_time": "00:20:00,780",
+      "end_time": "00:20:05,520",
+      "text": "time is going to be on four and the orc"
+    },
+    {
+      "start_time": "00:20:03,900",
+      "end_time": "00:20:07,679",
+      "text": "is going to be on one which means the"
+    },
+    {
+      "start_time": "00:20:05,520",
+      "end_time": "00:20:10,140",
+      "text": "orc is going to go first the orc is"
+    },
+    {
+      "start_time": "00:20:07,679",
+      "end_time": "00:20:13,559",
+      "text": "going to use his action to attack with"
+    },
+    {
+      "start_time": "00:20:10,140",
+      "end_time": "00:20:16,559",
+      "text": "his Scimitar skill level 12. four is a"
+    },
+    {
+      "start_time": "00:20:13,559",
+      "end_time": "00:20:18,840",
+      "text": "hit black J is going to try and block"
+    },
+    {
+      "start_time": "00:20:16,559",
+      "end_time": "00:20:22,020",
+      "text": "that with his shield and he's going to"
+    },
+    {
+      "start_time": "00:20:18,840",
+      "end_time": "00:20:25,620",
+      "text": "roll at 11 which is a success but it's"
+    },
+    {
+      "start_time": "00:20:22,020",
+      "end_time": "00:20:28,380",
+      "text": "possible the Scimitar still damages the"
+    },
+    {
+      "start_time": "00:20:25,620",
+      "end_time": "00:20:29,640",
+      "text": "shield although unlikely uh no no"
+    },
+    {
+      "start_time": "00:20:28,380",
+      "end_time": "00:20:31,500",
+      "text": "problem so the shield takes the hit"
+    },
+    {
+      "start_time": "00:20:29,640",
+      "end_time": "00:20:33,780",
+      "text": "blockchain successfully parried which"
+    },
+    {
+      "start_time": "00:20:31,500",
+      "end_time": "00:20:35,580",
+      "text": "means he can move the orc one square in"
+    },
+    {
+      "start_time": "00:20:33,780",
+      "end_time": "00:20:38,160",
+      "text": "any direction again feature the script"
+    },
+    {
+      "start_time": "00:20:35,580",
+      "end_time": "00:20:39,780",
+      "text": "plane doesn't matter there but uh that"
+    },
+    {
+      "start_time": "00:20:38,160",
+      "end_time": "00:20:41,220",
+      "text": "was his action and his action so no"
+    },
+    {
+      "start_time": "00:20:39,780",
+      "end_time": "00:20:43,320",
+      "text": "improvised weapons come into play"
+    },
+    {
+      "start_time": "00:20:41,220",
+      "end_time": "00:20:45,240",
+      "text": "because that was the end of the round we"
+    },
+    {
+      "start_time": "00:20:43,320",
+      "end_time": "00:20:46,620",
+      "text": "go to the next round now obviously you"
+    },
+    {
+      "start_time": "00:20:45,240",
+      "end_time": "00:20:48,179",
+      "text": "can see this would be a lot more"
+    },
+    {
+      "start_time": "00:20:46,620",
+      "end_time": "00:20:50,400",
+      "text": "technically sort of interesting if"
+    },
+    {
+      "start_time": "00:20:48,179",
+      "end_time": "00:20:52,380",
+      "text": "there's more people at play rather than"
+    },
+    {
+      "start_time": "00:20:50,400",
+      "end_time": "00:20:54,900",
+      "text": "just two two guys slugging it out in the"
+    },
+    {
+      "start_time": "00:20:52,380",
+      "end_time": "00:20:57,059",
+      "text": "woods but nonetheless I like to start to"
+    },
+    {
+      "start_time": "00:20:54,900",
+      "end_time": "00:20:59,220",
+      "text": "featureless gray plane very simply to"
+    },
+    {
+      "start_time": "00:20:57,059",
+      "end_time": "00:21:01,740",
+      "text": "learn the ABS basics of the game system"
+    },
+    {
+      "start_time": "00:20:59,220",
+      "end_time": "00:21:04,140",
+      "text": "first before I go adding other opponents"
+    },
+    {
+      "start_time": "00:21:01,740",
+      "end_time": "00:21:05,700",
+      "text": "alright the orc again goes first the orc"
+    },
+    {
+      "start_time": "00:21:04,140",
+      "end_time": "00:21:09,299",
+      "text": "is going to strike with the Scimitar"
+    },
+    {
+      "start_time": "00:21:05,700",
+      "end_time": "00:21:11,400",
+      "text": "skill level 12. three will hit black J"
+    },
+    {
+      "start_time": "00:21:09,299",
+      "end_time": "00:21:14,400",
+      "text": "again I sure hope I'm remembering to"
+    },
+    {
+      "start_time": "00:21:11,400",
+      "end_time": "00:21:17,640",
+      "text": "read that as role under uh"
+    },
+    {
+      "start_time": "00:21:14,400",
+      "end_time": "00:21:19,799",
+      "text": "anyway he does hit black J black J is"
+    },
+    {
+      "start_time": "00:21:17,640",
+      "end_time": "00:21:22,799",
+      "text": "wounded from the cheating GM's critical"
+    },
+    {
+      "start_time": "00:21:19,799",
+      "end_time": "00:21:27,179",
+      "text": "hit so he is pretty much has to try and"
+    },
+    {
+      "start_time": "00:21:22,799",
+      "end_time": "00:21:29,400",
+      "text": "and and Parry this and does he do it he"
+    },
+    {
+      "start_time": "00:21:27,179",
+      "end_time": "00:21:32,059",
+      "text": "does and he moves the orc back haha"
+    },
+    {
+      "start_time": "00:21:29,400",
+      "end_time": "00:21:36,600",
+      "text": "let's say he moves him this way"
+    },
+    {
+      "start_time": "00:21:32,059",
+      "end_time": "00:21:38,820",
+      "text": "like that but it costs his action to do"
+    },
+    {
+      "start_time": "00:21:36,600",
+      "end_time": "00:21:40,860",
+      "text": "so again the improvised weapon is not"
+    },
+    {
+      "start_time": "00:21:38,820",
+      "end_time": "00:21:42,480",
+      "text": "going to come into play oh he blocked so"
+    },
+    {
+      "start_time": "00:21:40,860",
+      "end_time": "00:21:45,000",
+      "text": "it's possible it's possible The Shield"
+    },
+    {
+      "start_time": "00:21:42,480",
+      "end_time": "00:21:46,500",
+      "text": "is hurt but no Shield's fine all right"
+    },
+    {
+      "start_time": "00:21:45,000",
+      "end_time": "00:21:47,640",
+      "text": "next round black J is going to be on"
+    },
+    {
+      "start_time": "00:21:46,500",
+      "end_time": "00:21:50,280",
+      "text": "seven"
+    },
+    {
+      "start_time": "00:21:47,640",
+      "end_time": "00:21:51,659",
+      "text": "and the orc is going to be on three of"
+    },
+    {
+      "start_time": "00:21:50,280",
+      "end_time": "00:21:52,980",
+      "text": "the orcas first again"
+    },
+    {
+      "start_time": "00:21:51,659",
+      "end_time": "00:21:55,140",
+      "text": "again and New York will strike with the"
+    },
+    {
+      "start_time": "00:21:52,980",
+      "end_time": "00:21:57,120",
+      "text": "skill level 12 again he'll hit this is"
+    },
+    {
+      "start_time": "00:21:55,140",
+      "end_time": "00:22:00,900",
+      "text": "really bad black Jay's gonna try and"
+    },
+    {
+      "start_time": "00:21:57,120",
+      "end_time": "00:22:03,600",
+      "text": "block he will roll a demon this is"
+    },
+    {
+      "start_time": "00:22:00,900",
+      "end_time": "00:22:07,860",
+      "text": "really bad this is a fumble on the Perry"
+    },
+    {
+      "start_time": "00:22:03,600",
+      "end_time": "00:22:09,720",
+      "text": "now when you go to roll a demon in melee"
+    },
+    {
+      "start_time": "00:22:07,860",
+      "end_time": "00:22:11,039",
+      "text": "actually I think when you're parrying I"
+    },
+    {
+      "start_time": "00:22:09,720",
+      "end_time": "00:22:13,740",
+      "text": "don't think it really matters I mean he"
+    },
+    {
+      "start_time": "00:22:11,039",
+      "end_time": "00:22:15,299",
+      "text": "just he just blows it what would be far"
+    },
+    {
+      "start_time": "00:22:13,740",
+      "end_time": "00:22:17,520",
+      "text": "more interesting is if he rolled a"
+    },
+    {
+      "start_time": "00:22:15,299",
+      "end_time": "00:22:19,440",
+      "text": "critical on the Perry yeah so in this"
+    },
+    {
+      "start_time": "00:22:17,520",
+      "end_time": "00:22:21,000",
+      "text": "case all it means rolling a Deanwood"
+    },
+    {
+      "start_time": "00:22:19,440",
+      "end_time": "00:22:22,440",
+      "text": "pairing it just means he fails so he'd"
+    },
+    {
+      "start_time": "00:22:21,000",
+      "end_time": "00:22:23,760",
+      "text": "be hit but let's say because I cheated"
+    },
+    {
+      "start_time": "00:22:22,440",
+      "end_time": "00:22:25,320",
+      "text": "in New York's favor and I'm gonna cheat"
+    },
+    {
+      "start_time": "00:22:23,760",
+      "end_time": "00:22:26,400",
+      "text": "in Black Jay's favor again just for the"
+    },
+    {
+      "start_time": "00:22:25,320",
+      "end_time": "00:22:29,159",
+      "text": "purpose of the demonstration let's see"
+    },
+    {
+      "start_time": "00:22:26,400",
+      "end_time": "00:22:31,620",
+      "text": "rule critical on his Parry what that"
+    },
+    {
+      "start_time": "00:22:29,159",
+      "end_time": "00:22:33,840",
+      "text": "means is when you roll a dragon which is"
+    },
+    {
+      "start_time": "00:22:31,620",
+      "end_time": "00:22:35,640",
+      "text": "what that is when parrying you"
+    },
+    {
+      "start_time": "00:22:33,840",
+      "end_time": "00:22:37,440",
+      "text": "immediately perform a counter attack in"
+    },
+    {
+      "start_time": "00:22:35,640",
+      "end_time": "00:22:39,299",
+      "text": "your opponent an automatic hit with your"
+    },
+    {
+      "start_time": "00:22:37,440",
+      "end_time": "00:22:41,460",
+      "text": "weapon that cannot be dodged a period"
+    },
+    {
+      "start_time": "00:22:39,299",
+      "end_time": "00:22:43,799",
+      "text": "does that mean that he automatically"
+    },
+    {
+      "start_time": "00:22:41,460",
+      "end_time": "00:22:45,000",
+      "text": "hits him or he gets a chance to hit him"
+    },
+    {
+      "start_time": "00:22:43,799",
+      "end_time": "00:22:49,080",
+      "text": "with the roll"
+    },
+    {
+      "start_time": "00:22:45,000",
+      "end_time": "00:22:51,240",
+      "text": "that suddenly is unclear hmm I don't"
+    },
+    {
+      "start_time": "00:22:49,080",
+      "end_time": "00:22:52,620",
+      "text": "think I have to roll for that uh free"
+    },
+    {
+      "start_time": "00:22:51,240",
+      "end_time": "00:22:54,720",
+      "text": "league if you're watching tell me if I'm"
+    },
+    {
+      "start_time": "00:22:52,620",
+      "end_time": "00:22:56,580",
+      "text": "wrong about that because I'm not exactly"
+    },
+    {
+      "start_time": "00:22:54,720",
+      "end_time": "00:22:58,020",
+      "text": "sure I I think it means that he"
+    },
+    {
+      "start_time": "00:22:56,580",
+      "end_time": "00:22:59,880",
+      "text": "automatically hits let's assume that's"
+    },
+    {
+      "start_time": "00:22:58,020",
+      "end_time": "00:23:01,380",
+      "text": "what I mean so again yes I know he will"
+    },
+    {
+      "start_time": "00:22:59,880",
+      "end_time": "00:23:02,520",
+      "text": "the fumble but I'm cheating in his favor"
+    },
+    {
+      "start_time": "00:23:01,380",
+      "end_time": "00:23:04,020",
+      "text": "just to get you in favor of New York"
+    },
+    {
+      "start_time": "00:23:02,520",
+      "end_time": "00:23:06,659",
+      "text": "just to demonstrate so he rolled in fact"
+    },
+    {
+      "start_time": "00:23:04,020",
+      "end_time": "00:23:09,780",
+      "text": "a critical so not only does he Parry off"
+    },
+    {
+      "start_time": "00:23:06,659",
+      "end_time": "00:23:11,880",
+      "text": "the the Orcs attack he immediately gets"
+    },
+    {
+      "start_time": "00:23:09,780",
+      "end_time": "00:23:15,659",
+      "text": "a free hit on the orc and he does his"
+    },
+    {
+      "start_time": "00:23:11,880",
+      "end_time": "00:23:18,539",
+      "text": "damage with his broadsword ha ha"
+    },
+    {
+      "start_time": "00:23:15,659",
+      "end_time": "00:23:20,760",
+      "text": "6 8 minus two is six damage to the orc"
+    },
+    {
+      "start_time": "00:23:18,539",
+      "end_time": "00:23:23,400",
+      "text": "knocks him down to half so you see even"
+    },
+    {
+      "start_time": "00:23:20,760",
+      "end_time": "00:23:24,780",
+      "text": "when you use your reaction to Parry if"
+    },
+    {
+      "start_time": "00:23:23,400",
+      "end_time": "00:23:27,299",
+      "text": "you roll a critical you can still wind"
+    },
+    {
+      "start_time": "00:23:24,780",
+      "end_time": "00:23:28,860",
+      "text": "up doing damage to the dude all right I"
+    },
+    {
+      "start_time": "00:23:27,299",
+      "end_time": "00:23:30,600",
+      "text": "really want to use these improvised"
+    },
+    {
+      "start_time": "00:23:28,860",
+      "end_time": "00:23:33,240",
+      "text": "weapons here but I want black Jake to"
+    },
+    {
+      "start_time": "00:23:30,600",
+      "end_time": "00:23:34,500",
+      "text": "get an initiative so he can choose to do"
+    },
+    {
+      "start_time": "00:23:33,240",
+      "end_time": "00:23:36,299",
+      "text": "that because York's not going to do it"
+    },
+    {
+      "start_time": "00:23:34,500",
+      "end_time": "00:23:38,280",
+      "text": "the enemies typically don't do anything"
+    },
+    {
+      "start_time": "00:23:36,299",
+      "end_time": "00:23:39,960",
+      "text": "like that this this stuff is reserved"
+    },
+    {
+      "start_time": "00:23:38,280",
+      "end_time": "00:23:42,000",
+      "text": "for the players you know for the player"
+    },
+    {
+      "start_time": "00:23:39,960",
+      "end_time": "00:23:44,340",
+      "text": "characters to do cool stuff black Jay is"
+    },
+    {
+      "start_time": "00:23:42,000",
+      "end_time": "00:23:46,280",
+      "text": "on nine orcas on one again unbelievable"
+    },
+    {
+      "start_time": "00:23:44,340",
+      "end_time": "00:23:48,720",
+      "text": "let's just cheat again"
+    },
+    {
+      "start_time": "00:23:46,280",
+      "end_time": "00:23:50,520",
+      "text": "again with the purposes of demonstration"
+    },
+    {
+      "start_time": "00:23:48,720",
+      "end_time": "00:23:52,620",
+      "text": "the blockchain is not gonna go to one"
+    },
+    {
+      "start_time": "00:23:50,520",
+      "end_time": "00:23:55,620",
+      "text": "let's see what the improvised weapon"
+    },
+    {
+      "start_time": "00:23:52,620",
+      "end_time": "00:23:58,080",
+      "text": "right near him is there's a wasp nest"
+    },
+    {
+      "start_time": "00:23:55,620",
+      "end_time": "00:23:59,820",
+      "text": "Royal Bushcraft to pick up the wasp's"
+    },
+    {
+      "start_time": "00:23:58,080",
+      "end_time": "00:24:01,679",
+      "text": "nest and hurl it at any moves in 10"
+    },
+    {
+      "start_time": "00:23:59,820",
+      "end_time": "00:24:03,360",
+      "text": "meters I think what I would do actually"
+    },
+    {
+      "start_time": "00:24:01,679",
+      "end_time": "00:24:05,700",
+      "text": "in a game I would put little markers"
+    },
+    {
+      "start_time": "00:24:03,360",
+      "end_time": "00:24:07,500",
+      "text": "where random improvised weapons are so"
+    },
+    {
+      "start_time": "00:24:05,700",
+      "end_time": "00:24:09,059",
+      "text": "if you're if you move next to it you can"
+    },
+    {
+      "start_time": "00:24:07,500",
+      "end_time": "00:24:11,460",
+      "text": "utilize this thing because this is"
+    },
+    {
+      "start_time": "00:24:09,059",
+      "end_time": "00:24:13,200",
+      "text": "obviously a ranged attack uh this is"
+    },
+    {
+      "start_time": "00:24:11,460",
+      "end_time": "00:24:15,600",
+      "text": "pretty cool this is this is how can a a"
+    },
+    {
+      "start_time": "00:24:13,200",
+      "end_time": "00:24:17,280",
+      "text": "wasp nest at the enemy to do damage and"
+    },
+    {
+      "start_time": "00:24:15,600",
+      "end_time": "00:24:19,260",
+      "text": "and giving them veins and all kinds of"
+    },
+    {
+      "start_time": "00:24:17,280",
+      "end_time": "00:24:20,220",
+      "text": "stuff that's really cool blackj's not"
+    },
+    {
+      "start_time": "00:24:19,260",
+      "end_time": "00:24:22,919",
+      "text": "going to make use of this however"
+    },
+    {
+      "start_time": "00:24:20,220",
+      "end_time": "00:24:25,140",
+      "text": "because his Bushcraft sucks it's five so"
+    },
+    {
+      "start_time": "00:24:22,919",
+      "end_time": "00:24:28,140",
+      "text": "he's better off just attacking which"
+    },
+    {
+      "start_time": "00:24:25,140",
+      "end_time": "00:24:30,480",
+      "text": "he's going to do now because I've given"
+    },
+    {
+      "start_time": "00:24:28,140",
+      "end_time": "00:24:33,659",
+      "text": "him the first attack he is going to"
+    },
+    {
+      "start_time": "00:24:30,480",
+      "end_time": "00:24:36,120",
+      "text": "attack a 12. he's going to hit the orc"
+    },
+    {
+      "start_time": "00:24:33,659",
+      "end_time": "00:24:38,820",
+      "text": "is going to try and Parry that with his"
+    },
+    {
+      "start_time": "00:24:36,120",
+      "end_time": "00:24:40,559",
+      "text": "Scimitar the orc will Parry with the"
+    },
+    {
+      "start_time": "00:24:38,820",
+      "end_time": "00:24:44,580",
+      "text": "Scimitar however does the Scimitar get"
+    },
+    {
+      "start_time": "00:24:40,559",
+      "end_time": "00:24:46,740",
+      "text": "damaged from black Jay's attack six uh a"
+    },
+    {
+      "start_time": "00:24:44,580",
+      "end_time": "00:24:49,559",
+      "text": "tan no it does not but the orc"
+    },
+    {
+      "start_time": "00:24:46,740",
+      "end_time": "00:24:51,840",
+      "text": "successfully s Buried Black J which"
+    },
+    {
+      "start_time": "00:24:49,559",
+      "end_time": "00:24:54,059",
+      "text": "means he pushes black J back because you"
+    },
+    {
+      "start_time": "00:24:51,840",
+      "end_time": "00:24:56,400",
+      "text": "move with a successful Perry anyway"
+    },
+    {
+      "start_time": "00:24:54,059",
+      "end_time": "00:25:00,299",
+      "text": "you're getting the idea here right with"
+    },
+    {
+      "start_time": "00:24:56,400",
+      "end_time": "00:25:03,659",
+      "text": "with sort of man-to-man combat here it's"
+    },
+    {
+      "start_time": "00:25:00,299",
+      "end_time": "00:25:05,880",
+      "text": "it moves very fast and it's really all"
+    },
+    {
+      "start_time": "00:25:03,659",
+      "end_time": "00:25:07,679",
+      "text": "about the timing let's just finish this"
+    },
+    {
+      "start_time": "00:25:05,880",
+      "end_time": "00:25:10,980",
+      "text": "boom nine and seven"
+    },
+    {
+      "start_time": "00:25:07,679",
+      "end_time": "00:25:13,200",
+      "text": "black J is gonna go last so the orc is"
+    },
+    {
+      "start_time": "00:25:10,980",
+      "end_time": "00:25:15,000",
+      "text": "going to strike I want to get to a push"
+    },
+    {
+      "start_time": "00:25:13,200",
+      "end_time": "00:25:17,880",
+      "text": "here I want to see if blackj can use a"
+    },
+    {
+      "start_time": "00:25:15,000",
+      "end_time": "00:25:20,340",
+      "text": "push the uh okay well the Orca is gonna"
+    },
+    {
+      "start_time": "00:25:17,880",
+      "end_time": "00:25:24,120",
+      "text": "strike black J is going to try and block"
+    },
+    {
+      "start_time": "00:25:20,340",
+      "end_time": "00:25:26,279",
+      "text": "with a shield okay great so he fails but"
+    },
+    {
+      "start_time": "00:25:24,120",
+      "end_time": "00:25:28,380",
+      "text": "he can't fail so he's going to push"
+    },
+    {
+      "start_time": "00:25:26,279",
+      "end_time": "00:25:30,539",
+      "text": "which means he rolls this die again and"
+    },
+    {
+      "start_time": "00:25:28,380",
+      "end_time": "00:25:33,000",
+      "text": "decides to take oh I don't know let's"
+    },
+    {
+      "start_time": "00:25:30,539",
+      "end_time": "00:25:35,279",
+      "text": "call it the angry condition which means"
+    },
+    {
+      "start_time": "00:25:33,000",
+      "end_time": "00:25:36,600",
+      "text": "that any skill he uses on his"
+    },
+    {
+      "start_time": "00:25:35,279",
+      "end_time": "00:25:39,000",
+      "text": "intelligence is going to be rolled with"
+    },
+    {
+      "start_time": "00:25:36,600",
+      "end_time": "00:25:41,460",
+      "text": "a bane because he's ah he's angered that"
+    },
+    {
+      "start_time": "00:25:39,000",
+      "end_time": "00:25:44,700",
+      "text": "he he's being driven back by this Orcs"
+    },
+    {
+      "start_time": "00:25:41,460",
+      "end_time": "00:25:47,159",
+      "text": "but he gets to roll again 14 or less he"
+    },
+    {
+      "start_time": "00:25:44,700",
+      "end_time": "00:25:50,279",
+      "text": "fails again so the orc is gonna hit him"
+    },
+    {
+      "start_time": "00:25:47,159",
+      "end_time": "00:25:52,860",
+      "text": "with his damage so matar he's gonna do"
+    },
+    {
+      "start_time": "00:25:50,279",
+      "end_time": "00:25:55,740",
+      "text": "five four seven minus eight points of"
+    },
+    {
+      "start_time": "00:25:52,860",
+      "end_time": "00:25:58,080",
+      "text": "armor no damage done there nobody moves"
+    },
+    {
+      "start_time": "00:25:55,740",
+      "end_time": "00:26:00,960",
+      "text": "because no successful Perrys were done"
+    },
+    {
+      "start_time": "00:25:58,080",
+      "end_time": "00:26:02,940",
+      "text": "next round so these these two opponents"
+    },
+    {
+      "start_time": "00:26:00,960",
+      "end_time": "00:26:05,640",
+      "text": "are quite damaged"
+    },
+    {
+      "start_time": "00:26:02,940",
+      "end_time": "00:26:08,400",
+      "text": "five and one again New York goes first"
+    },
+    {
+      "start_time": "00:26:05,640",
+      "end_time": "00:26:10,620",
+      "text": "out of curiosity let's see what the next"
+    },
+    {
+      "start_time": "00:26:08,400",
+      "end_time": "00:26:12,480",
+      "text": "this is kind of interesting okay so the"
+    },
+    {
+      "start_time": "00:26:10,620",
+      "end_time": "00:26:15,539",
+      "text": "orc is gonna attack the orc is gonna"
+    },
+    {
+      "start_time": "00:26:12,480",
+      "end_time": "00:26:17,159",
+      "text": "attack and he's gonna miss great which"
+    },
+    {
+      "start_time": "00:26:15,539",
+      "end_time": "00:26:19,500",
+      "text": "means that black J now has an"
+    },
+    {
+      "start_time": "00:26:17,159",
+      "end_time": "00:26:21,059",
+      "text": "opportunity we have a low Branch as an"
+    },
+    {
+      "start_time": "00:26:19,500",
+      "end_time": "00:26:22,200",
+      "text": "improvised weapon swing yourself from"
+    },
+    {
+      "start_time": "00:26:21,059",
+      "end_time": "00:26:23,640",
+      "text": "the branch should perform a melee attack"
+    },
+    {
+      "start_time": "00:26:22,200",
+      "end_time": "00:26:25,020",
+      "text": "you can make a normal move without"
+    },
+    {
+      "start_time": "00:26:23,640",
+      "end_time": "00:26:27,179",
+      "text": "triggering free attacks this would be"
+    },
+    {
+      "start_time": "00:26:25,020",
+      "end_time": "00:26:29,520",
+      "text": "really great if there's more opponents"
+    },
+    {
+      "start_time": "00:26:27,179",
+      "end_time": "00:26:31,260",
+      "text": "the melee attack must be unarmed but so"
+    },
+    {
+      "start_time": "00:26:29,520",
+      "end_time": "00:26:32,820",
+      "text": "he basically kicks him in the head but"
+    },
+    {
+      "start_time": "00:26:31,260",
+      "end_time": "00:26:34,200",
+      "text": "cannot be dodged to parried if the"
+    },
+    {
+      "start_time": "00:26:32,820",
+      "end_time": "00:26:35,700",
+      "text": "attack fails you follow the ground and"
+    },
+    {
+      "start_time": "00:26:34,200",
+      "end_time": "00:26:37,500",
+      "text": "take D6 bludgeoning damage this is an"
+    },
+    {
+      "start_time": "00:26:35,700",
+      "end_time": "00:26:39,179",
+      "text": "option right if there was more enemies"
+    },
+    {
+      "start_time": "00:26:37,500",
+      "end_time": "00:26:41,460",
+      "text": "around or do you wanted to swing on a"
+    },
+    {
+      "start_time": "00:26:39,179",
+      "end_time": "00:26:44,279",
+      "text": "low branch and crack his boot into an"
+    },
+    {
+      "start_time": "00:26:41,460",
+      "end_time": "00:26:46,140",
+      "text": "enemy's skull that would be an option I"
+    },
+    {
+      "start_time": "00:26:44,279",
+      "end_time": "00:26:47,940",
+      "text": "really like these I'm not going to use"
+    },
+    {
+      "start_time": "00:26:46,140",
+      "end_time": "00:26:50,100",
+      "text": "it right now because it doesn't help him"
+    },
+    {
+      "start_time": "00:26:47,940",
+      "end_time": "00:26:52,500",
+      "text": "but really really cool all right"
+    },
+    {
+      "start_time": "00:26:50,100",
+      "end_time": "00:26:54,299",
+      "text": "the orc swung and Mist which means"
+    },
+    {
+      "start_time": "00:26:52,500",
+      "end_time": "00:26:56,940",
+      "text": "blackj gets an opportunity to attack the"
+    },
+    {
+      "start_time": "00:26:54,299",
+      "end_time": "00:26:59,279",
+      "text": "orc cannot defend black Jay strikes he"
+    },
+    {
+      "start_time": "00:26:56,940",
+      "end_time": "00:27:01,799",
+      "text": "succeeds these dice are rolling very"
+    },
+    {
+      "start_time": "00:26:59,279",
+      "end_time": "00:27:03,120",
+      "text": "well for me very well this is probably"
+    },
+    {
+      "start_time": "00:27:01,799",
+      "end_time": "00:27:06,120",
+      "text": "the end of the orc he's only got two"
+    },
+    {
+      "start_time": "00:27:03,120",
+      "end_time": "00:27:08,159",
+      "text": "points of armor five six minus two is"
+    },
+    {
+      "start_time": "00:27:06,120",
+      "end_time": "00:27:11,760",
+      "text": "four the orc is still standing he's at"
+    },
+    {
+      "start_time": "00:27:08,159",
+      "end_time": "00:27:14,760",
+      "text": "two we go do the next round now"
+    },
+    {
+      "start_time": "00:27:11,760",
+      "end_time": "00:27:17,220",
+      "text": "wow little orc and this round 10 black"
+    },
+    {
+      "start_time": "00:27:14,760",
+      "end_time": "00:27:19,380",
+      "text": "Jay again wow this orc is just Mr Speedy"
+    },
+    {
+      "start_time": "00:27:17,220",
+      "end_time": "00:27:22,200",
+      "text": "he's going to swing and he's going to"
+    },
+    {
+      "start_time": "00:27:19,380",
+      "end_time": "00:27:24,900",
+      "text": "miss this time huzzah black Jay is going"
+    },
+    {
+      "start_time": "00:27:22,200",
+      "end_time": "00:27:26,820",
+      "text": "to now strike and he's gonna hit right"
+    },
+    {
+      "start_time": "00:27:24,900",
+      "end_time": "00:27:28,559",
+      "text": "on the button with the 12 and he's gonna"
+    },
+    {
+      "start_time": "00:27:26,820",
+      "end_time": "00:27:31,080",
+      "text": "do his damage this will probably take"
+    },
+    {
+      "start_time": "00:27:28,559",
+      "end_time": "00:27:32,940",
+      "text": "care of the orc I'm going to guess yes"
+    },
+    {
+      "start_time": "00:27:31,080",
+      "end_time": "00:27:35,220",
+      "text": "it does because there is armor and he"
+    },
+    {
+      "start_time": "00:27:32,940",
+      "end_time": "00:27:37,620",
+      "text": "takes eight and the Orca is dead great"
+    },
+    {
+      "start_time": "00:27:35,220",
+      "end_time": "00:27:39,419",
+      "text": "so that's two combats as we've seen now"
+    },
+    {
+      "start_time": "00:27:37,620",
+      "end_time": "00:27:41,159",
+      "text": "I haven't really delved into the magic"
+    },
+    {
+      "start_time": "00:27:39,419",
+      "end_time": "00:27:42,419",
+      "text": "rules but they're pretty cool you spend"
+    },
+    {
+      "start_time": "00:27:41,159",
+      "end_time": "00:27:44,159",
+      "text": "will power points and roll against your"
+    },
+    {
+      "start_time": "00:27:42,419",
+      "end_time": "00:27:45,900",
+      "text": "skill I've never liked fancy and Magic"
+    },
+    {
+      "start_time": "00:27:44,159",
+      "end_time": "00:27:47,700",
+      "text": "from d d whereas spells just work that"
+    },
+    {
+      "start_time": "00:27:45,900",
+      "end_time": "00:27:49,620",
+      "text": "always bugs me I really I've never liked"
+    },
+    {
+      "start_time": "00:27:47,700",
+      "end_time": "00:27:51,360",
+      "text": "the idea of saving throws they just it"
+    },
+    {
+      "start_time": "00:27:49,620",
+      "end_time": "00:27:53,940",
+      "text": "bugs me I would much rather have the the"
+    },
+    {
+      "start_time": "00:27:51,360",
+      "end_time": "00:27:56,100",
+      "text": "the skill be based on the caster and the"
+    },
+    {
+      "start_time": "00:27:53,940",
+      "end_time": "00:27:57,659",
+      "text": "Caster's ability to cast that spell so"
+    },
+    {
+      "start_time": "00:27:56,100",
+      "end_time": "00:27:59,880",
+      "text": "that's what this game does with that all"
+    },
+    {
+      "start_time": "00:27:57,659",
+      "end_time": "00:28:02,400",
+      "text": "right so that's basically the combat"
+    },
+    {
+      "start_time": "00:27:59,880",
+      "end_time": "00:28:03,720",
+      "text": "between one on one as you can see would"
+    },
+    {
+      "start_time": "00:28:02,400",
+      "end_time": "00:28:06,659",
+      "text": "be a lot more interesting with multiple"
+    },
+    {
+      "start_time": "00:28:03,720",
+      "end_time": "00:28:09,960",
+      "text": "foes and multiple members of a party but"
+    },
+    {
+      "start_time": "00:28:06,659",
+      "end_time": "00:28:11,400",
+      "text": "for solo play which this game comes with"
+    },
+    {
+      "start_time": "00:28:09,960",
+      "end_time": "00:28:12,720",
+      "text": "a component a solo play a little"
+    },
+    {
+      "start_time": "00:28:11,400",
+      "end_time": "00:28:14,220",
+      "text": "Campaign which I'm gonna run myself"
+    },
+    {
+      "start_time": "00:28:12,720",
+      "end_time": "00:28:15,419",
+      "text": "through at least a bit of to sort of"
+    },
+    {
+      "start_time": "00:28:14,220",
+      "end_time": "00:28:16,980",
+      "text": "demonstrate how that works because it"
+    },
+    {
+      "start_time": "00:28:15,419",
+      "end_time": "00:28:19,440",
+      "text": "comes with its own oracles it comes with"
+    },
+    {
+      "start_time": "00:28:16,980",
+      "end_time": "00:28:23,279",
+      "text": "its own charts and and it's really cool"
+    },
+    {
+      "start_time": "00:28:19,440",
+      "end_time": "00:28:25,919",
+      "text": "uh but for solo play this is really easy"
+    },
+    {
+      "start_time": "00:28:23,279",
+      "end_time": "00:28:28,799",
+      "text": "to keep track of things because there"
+    },
+    {
+      "start_time": "00:28:25,919",
+      "end_time": "00:28:30,600",
+      "text": "isn't a bunch of crazy details but there"
+    },
+    {
+      "start_time": "00:28:28,799",
+      "end_time": "00:28:31,980",
+      "text": "is enough details to keep the combat"
+    },
+    {
+      "start_time": "00:28:30,600",
+      "end_time": "00:28:33,240",
+      "text": "interesting like the fact that a"
+    },
+    {
+      "start_time": "00:28:31,980",
+      "end_time": "00:28:35,279",
+      "text": "successful Perry drives somebody back"
+    },
+    {
+      "start_time": "00:28:33,240",
+      "end_time": "00:28:37,679",
+      "text": "like the fact that if you get a critical"
+    },
+    {
+      "start_time": "00:28:35,279",
+      "end_time": "00:28:39,419",
+      "text": "pair you get a free counter attack like"
+    },
+    {
+      "start_time": "00:28:37,679",
+      "end_time": "00:28:41,820",
+      "text": "the fact that there are all these cool"
+    },
+    {
+      "start_time": "00:28:39,419",
+      "end_time": "00:28:43,799",
+      "text": "little improvised weapons and things"
+    },
+    {
+      "start_time": "00:28:41,820",
+      "end_time": "00:28:45,840",
+      "text": "like that around the battlefield like"
+    },
+    {
+      "start_time": "00:28:43,799",
+      "end_time": "00:28:48,179",
+      "text": "the fact that weapons can be damaged by"
+    },
+    {
+      "start_time": "00:28:45,840",
+      "end_time": "00:28:50,159",
+      "text": "parrying I really like that and it"
+    },
+    {
+      "start_time": "00:28:48,179",
+      "end_time": "00:28:52,320",
+      "text": "doesn't really get in the way of the"
+    },
+    {
+      "start_time": "00:28:50,159",
+      "end_time": "00:28:55,320",
+      "text": "flow of the game either so"
+    },
+    {
+      "start_time": "00:28:52,320",
+      "end_time": "00:28:56,760",
+      "text": "I quite like it I'm not a D20 guy if I"
+    },
+    {
+      "start_time": "00:28:55,320",
+      "end_time": "00:28:59,220",
+      "text": "was going to run sort of a D20 kind of"
+    },
+    {
+      "start_time": "00:28:56,760",
+      "end_time": "00:29:01,740",
+      "text": "Adventure classic kind of d d Style game"
+    },
+    {
+      "start_time": "00:28:59,220",
+      "end_time": "00:29:03,299",
+      "text": "it would probably be this game"
+    },
+    {
+      "start_time": "00:29:01,740",
+      "end_time": "00:29:06,059",
+      "text": "um in terms of advancement your"
+    },
+    {
+      "start_time": "00:29:03,299",
+      "end_time": "00:29:08,100",
+      "text": "characters can get better at skills and"
+    },
+    {
+      "start_time": "00:29:06,059",
+      "end_time": "00:29:09,240",
+      "text": "they can also buy themselves to"
+    },
+    {
+      "start_time": "00:29:08,100",
+      "end_time": "00:29:10,919",
+      "text": "experience"
+    },
+    {
+      "start_time": "00:29:09,240",
+      "end_time": "00:29:12,720",
+      "text": "heroic abilities which are again like"
+    },
+    {
+      "start_time": "00:29:10,919",
+      "end_time": "00:29:14,279",
+      "text": "your Feats right so you can improve your"
+    },
+    {
+      "start_time": "00:29:12,720",
+      "end_time": "00:29:17,100",
+      "text": "character however you want if blackj"
+    },
+    {
+      "start_time": "00:29:14,279",
+      "end_time": "00:29:19,500",
+      "text": "wanted to learn magic that technically"
+    },
+    {
+      "start_time": "00:29:17,100",
+      "end_time": "00:29:21,179",
+      "text": "is possible there is also cool like"
+    },
+    {
+      "start_time": "00:29:19,500",
+      "end_time": "00:29:23,940",
+      "text": "treasure cards and all kinds of good"
+    },
+    {
+      "start_time": "00:29:21,179",
+      "end_time": "00:29:26,399",
+      "text": "stuff that comes in this box set this is"
+    },
+    {
+      "start_time": "00:29:23,940",
+      "end_time": "00:29:28,500",
+      "text": "really really impressive"
+    },
+    {
+      "start_time": "00:29:26,399",
+      "end_time": "00:29:30,960",
+      "text": "I'm kind of looking forward to running"
+    },
+    {
+      "start_time": "00:29:28,500",
+      "end_time": "00:29:32,820",
+      "text": "this little solo campaign such as it is"
+    },
+    {
+      "start_time": "00:29:30,960",
+      "end_time": "00:29:34,620",
+      "text": "it's not really a campaign it's more of"
+    },
+    {
+      "start_time": "00:29:32,820",
+      "end_time": "00:29:35,580",
+      "text": "like a dungeon basically but it's a"
+    },
+    {
+      "start_time": "00:29:34,620",
+      "end_time": "00:29:36,899",
+      "text": "dungeon that is different for everyone"
+    },
+    {
+      "start_time": "00:29:35,580",
+      "end_time": "00:29:38,340",
+      "text": "that plays it because of course it is"
+    },
+    {
+      "start_time": "00:29:36,899",
+      "end_time": "00:29:41,399",
+      "text": "solo and it is randomly determined as"
+    },
+    {
+      "start_time": "00:29:38,340",
+      "end_time": "00:29:43,559",
+      "text": "you go it has a really cool setup as"
+    },
+    {
+      "start_time": "00:29:41,399",
+      "end_time": "00:29:45,480",
+      "text": "well there's basically this this Oracle"
+    },
+    {
+      "start_time": "00:29:43,559",
+      "end_time": "00:29:46,679",
+      "text": "who's who's who sort of lives at the"
+    },
+    {
+      "start_time": "00:29:45,480",
+      "end_time": "00:29:48,480",
+      "text": "entrance of the dungeon and he knows"
+    },
+    {
+      "start_time": "00:29:46,679",
+      "end_time": "00:29:50,399",
+      "text": "certain things about various rooms of"
+    },
+    {
+      "start_time": "00:29:48,480",
+      "end_time": "00:29:52,260",
+      "text": "the dungeon but not all of them so you"
+    },
+    {
+      "start_time": "00:29:50,399",
+      "end_time": "00:29:54,240",
+      "text": "get some tips as to what you might"
+    },
+    {
+      "start_time": "00:29:52,260",
+      "end_time": "00:29:55,679",
+      "text": "expect in your particular Excursion but"
+    },
+    {
+      "start_time": "00:29:54,240",
+      "end_time": "00:29:57,659",
+      "text": "you don't know everything really neat"
+    },
+    {
+      "start_time": "00:29:55,679",
+      "end_time": "00:29:59,640",
+      "text": "I'll go into that at some point uh soon"
+    },
+    {
+      "start_time": "00:29:57,659",
+      "end_time": "00:30:01,980",
+      "text": "in the future in the meantime uh yeah"
+    },
+    {
+      "start_time": "00:29:59,640",
+      "end_time": "00:30:04,440",
+      "text": "that's Dragon Bane so it's very simple"
+    },
+    {
+      "start_time": "00:30:01,980",
+      "end_time": "00:30:06,840",
+      "text": "very playable very quick and yet"
+    },
+    {
+      "start_time": "00:30:04,440",
+      "end_time": "00:30:08,100",
+      "text": "detailed in interesting ways I really"
+    },
+    {
+      "start_time": "00:30:06,840",
+      "end_time": "00:30:09,720",
+      "text": "dig it"
+    },
+    {
+      "start_time": "00:30:08,100",
+      "end_time": "00:30:11,820",
+      "text": "um looking forward to doing more with"
+    },
+    {
+      "start_time": "00:30:09,720",
+      "end_time": "00:30:14,159",
+      "text": "this again thank you uh freeleak for"
+    },
+    {
+      "start_time": "00:30:11,820",
+      "end_time": "00:30:15,899",
+      "text": "sending me this uh great stuff once"
+    },
+    {
+      "start_time": "00:30:14,159",
+      "end_time": "00:30:17,399",
+      "text": "again and thank you all for joining me"
+    },
+    {
+      "start_time": "00:30:15,899",
+      "end_time": "00:30:18,539",
+      "text": "here today if you want to help support"
+    },
+    {
+      "start_time": "00:30:17,399",
+      "end_time": "00:30:19,679",
+      "text": "the Channel please do hit like And"
+    },
+    {
+      "start_time": "00:30:18,539",
+      "end_time": "00:30:21,360",
+      "text": "subscribe or if you want to become a"
+    },
+    {
+      "start_time": "00:30:19,679",
+      "end_time": "00:30:23,399",
+      "text": "YouTube channel member or join us on"
+    },
+    {
+      "start_time": "00:30:21,360",
+      "end_time": "00:30:25,140",
+      "text": "patreon to help support the channel and"
+    },
+    {
+      "start_time": "00:30:23,399",
+      "end_time": "00:30:27,840",
+      "text": "make sure that I can continue producing"
+    },
+    {
+      "start_time": "00:30:25,140",
+      "end_time": "00:30:29,039",
+      "text": "things like this and others uh the"
+    },
+    {
+      "start_time": "00:30:27,840",
+      "end_time": "00:30:30,179",
+      "text": "information for all of that is in the"
+    },
+    {
+      "start_time": "00:30:29,039",
+      "end_time": "00:30:31,440",
+      "text": "video description below thanks for"
+    },
+    {
+      "start_time": "00:30:30,179",
+      "end_time": "00:30:33,840",
+      "text": "joining me here today and we will see"
+    },
+    {
+      "start_time": "00:30:31,440",
+      "end_time": "00:30:36,260",
+      "text": "you on the next episode of Me Myself and"
+    },
+    {
+      "start_time": "00:30:33,840",
+      "end_time": "00:30:36,260",
+      "text": "die"
+    },
+    {
+      "start_time": "00:30:39,800",
+      "end_time": "00:30:45,020",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:30:42,840",
+      "end_time": "00:30:45,020",
+      "text": "foreign"
+    }
+  ],
+  "full_text": "now I'm not a D20 guy I'm certainly not\na DND guy but I am a basic role playing\nguy and I am a runequest guy and so\ntoday I'm going to teach myself how to\nplay a game that kind of takes its DNA\nfrom all of those games yes today I am\ngoing to learn how to play Dragon Bane\nby free League publishing here on the\nfeatureless gray plane\n[Music]\n[Music]\n[Applause]\nDragon Bane is free League's latest game\nand it does take its DNA from d d you\ncan see a lot of d d isms in there but\nit also takes us DNA from basic\nrole-playing or runequest right here\nthis is a copy of the very first edition\nof runequest and boy this uh this game I\ngotta be real careful with these Pages\nbecause they are delicate this\nparticular printing is back from 19. I\nwant to say 80 yes so I think this is\nthe third printing of the first edition\nof runequest it is very very clear that\nDragon Bane derives a lot of its\nphilosophy a lot of its DNA from\nrunequest\nexcept that it uses a D20 instead of\npercentiles but why do I say that well\nit's a game that uses skills instead of\nlevels and classes you do have\nprofessions in dragonbane but they're\nbasically like starting packages for\ncharacters to to to be made more more\neasily any character can become anything\nin this game it is skill based and I\nreally love that you are rolling a D20\nyou are rolling under your skill or your\nskill or under rather in order to\nsucceed if you roll a one that is called\na dragon and that's a very good thing a\nlot of critical hit effects and if you\nroll a 20 that is a demon and that is a\nvery bad thing so it's the opposite from\nDND you want to roll low instead of high\nthis is kind of similar to some bar room\nwhich is another game by free League\nwhich I am going to talk about it in the\nfuture because I really really love\nsambaram as well but when I first saw\nDragon Bane uh when the quick start came\nout I dismissed it because I was like ah\nD20 it looks just like D and D but it's\nnot it it shares way more in common with\nrunequest than it does with d d although\nDragon mate has taken a lot of ideas\nfrom fifth edition including the idea of\nadvantages and disadvantages except it's\ncalled Boons and Banes by the way this\nproduct as a product is fantastic the\nbox set is absolutely beautiful it comes\nwith all kinds of things it comes with\nyour stand-up minis it comes with a\nlittle battle mat it comes with your\nrules it also comes with a campaign book\nuh they sent me the DM screen as well\nwhich is really fantastic and a whole\nbunch of dice so and character sheets\nand pre-made characters and and and it's\nfantastic the art is amazing the layout\nis really good it's just it's just a\nanother quality product another hit for\nfree link so I'm gonna quickly roll up\nblack J I'm not gonna do it right now on\ncamera because that's kind of boring to\nsee the butt through the magic of\nediting\nthis is black Jay's character sheet\nthese are his stats this is what's going\nto be relevant for the fight to come he\nhas got pretty good skill he's got\nbasically 14 skill and swords and\nessentially 14 skilled Perry as well\nhe's got the ability of Shield block\nwhich means that he parries with a\nshield with a boon baboon of course as\nyou roll 2d20 and you take the best role\nin this case it's the lower roll he's a\nknight he's wearing plate armor with a\ngreat helmet which means it's really\nhard to damage he's got essentially\neight points of damage to come off any\nattack at him but he has a Bane on\nsneaking evading acrobatics awareness\nand a ranged attack so luckily he's not\ngoing to be worrying too much about that\nhere in the future this great plane that\nis black Jay broadsword Shield Plate\narmor oh he has cut it out and he is\nready to go now let's have a look at his\nenemy an orc orc is an orc is an orc we\nall know what an orc is this is going to\nbe an orc Warrior his move is 10. he's\ngonna get a D4 damage bonus his armor\nhis studded leather which means means\nit's two he's got 12 hit points he's got\na scimitar at 12 and it does 2d6 plus D4\nhe's very very comparable to Black J of\ncourse he doesn't have the same armor so\nblackj definitely has the advantage here\nall right so here's the deal featureless\ngray plane there's black J at one end\nthere's the orc at the other haha yes\nthese dandies aren't quite as\ninteresting as Miniatures but you know\nwhatever it's all fine and good when you\ndo a combat in this game and remember\nI've never played this before so I might\nbe doing things wrong who knows combat\nrounds an initiative we have these fancy\nDancy initiative cards so we Shuffle\nthese up and we see who draws the\ninitiative like Jay it's gonna be on\nfive and the orc grumas I believe the\nname of the orc was last time when I did\nthe fantasy trip so this too will be\ngurumash is going to be on four okay\nwell in this game we count up so that\nmeans the orc is going to go first so uh\nthere's no surprise here it's the\nfeatureless grave plane everybody knows\nwhere everybody is actions and movement\nin this game basically you can move into\na thing just like a lot of games now the\nother thing too is that you also have\nreactions which is pairing dodging but\nif you use a reaction that takes up your\nactions so in other words if I attack\nfirst so if the orc attacks first that\nhe basically can't Parry or Dodge\nagainst any incoming attacks so one of\nthe tactics in this game is to if it's a\none-on-one situation like this is\nsometimes you might want to wait to see\nif the opponent's going to attack first\nbecause if he swings and misses then you\ndon't have to expend your reaction to\ndefend you can just hit him uh but if\nyou go first like if the orc here on\nninja defour wanted to wait what he\nwould do is he would swap the card with\nthe Enemy that's that's how that works\nbut he's not going to do that he's an\norc he's gonna move ten ten meters\nbecause of course this is made in Europe\nbut here in America we use feet and\nyards so basically a meter is the same\nthing more or less as a yard which is\nthree feet close enough for our purposes\nso what that means is 10 meters is going\nto be 10 yards or in this case 10. oh\nwait a minute each of these squares is\ntwo meters so he could go two four six\neight ten if he wanted to Dash as his\naction he could he could double his\nmovement but he's not going to do that\nbecause there's absolutely no reason he\nis moved and uh he is done so he's\nbasically saving his does he have a\nshield he doesn't have a shield oh he\ncould be in big trouble he could he\ncarry with the sword but if you parry\nwith the sword each weapon has a\ndurability rating and sometimes uh the\nattacking weapon if it does more damage\nthan the durability weapon it damages\nthe weapon but we'll see if that happens\nso that was him he has not performed his\nactions so I do not flip this card yet\nbecause he has not yet performed his\naction it's still freely available now\nwe go to round five where black J also\nhas a move of 10 and he goes two four\nsix eight ten but look at this he cannot\nattack the orc because he is uh you know\n10 feet away or six feet away whatever\nhe's two two squares away four meters\naway\nI really shouldn't be so weird about\nmeters I grew up in Canada but you know\nI'm I'm Gen X and Gen X is the last\ngeneration that you know could tell you\nhow many kilometers away something is\nbut not how many kilograms something is\nokay so he's gonna take his action boom\nto do that now he's engaged with York\nnow the orc cannot use his action now to\nattack black Jay because he would have\nhad to do that in his initiative he was\nonly saving this for a potential defense\nbut he didn't use it so that's the end\nof that so basically now that was the\nend of round one we go back now\ntwo initiatives so we reshuffled there's\na different initiative every round\nunless you have a special heroic ability\ncalled veteran I think it's veteran\nwhich allows you to keep your initiative\ncard we do new initiative every round\nwhich is important black J is going to\nbe on nine and the orc is going to be on\neight so the orc goes first so the orc\nis not smart enough to think tactically\nso he is just going to he's not going to\nmove he's going to attack no\nincidentally if he did for whatever\nreason want to move out of the like the\nzone of control essentially of uh of\nblack Jay here he would have to do he\nwould move and he would have to do an\nevade role it doesn't count as an action\nbut if he failed that role blackj would\nget a free Attack Just again like a lot\nof games but he's not going to do that\nhe's not going to move he's just going\nto attack so the orc attacks on 12 which\nmeans he takes his handy dandy D20 is\nlooking for 12 or under and does he hit\nhe does he strikes with a scimitar now\nblack J can either take the damage and\nallow his eight points of armor to soak\nit up and probably be okay or he can use\nhis action to Parry for the purposes of\ndemonstration he's going to use his\naction to Parry so the orc head and 11\nblack J is going to flip his card\nbecause now he's used his action so too\nhas the orc\nand blackj is going to Perry he's\nplaying with the shield but he rolls by\nthe way with a boon because he oh if oh\nif no no I lie uh he has the special\nability of shield shield block but in\norder for him to roll with a boony def\nto spend willpower and he didn't call\nthat that's a fine he succeeded anyway\nhe succeeded the Perry against the hit\nwhich means he did Perry the hit however\na couple things about Perry if your\nparty succeeds the enemy's attack hits\nyour weapon or shield and you suffer no\ndamage however if the weapon exceeds\nyour weapon's durability the weapon is\ndamaged this is probably not going to\nhappen but it might so the the orc is\nrolling 26 plus 2d4 damage against the\ndurability of black Jay's Shield which\nis 15. so the damage comes in oh my God\nclose uh 11 12 13. so The Shield is not\ndamaged but if the orc actually uh\nrolled Max damage basically if he\nexceeded the durability then the weapon\nwould be damaged be used until it's\nrepaired so I quite like that it's it's\na simple little way to to deal with\nweapons being damaged without getting\ntoo much in the weeds pretty cool uh The\nShield is fine that was the orc and that\nwas black Jay he goes next but he used\nhis action so he is done we go into the\nnew round so you can see how going first\nit could be a real Advantage because\nthat would have been different if the\norc had missed blackj would have been\nable to strike back and the orc would\nnot have been able to defend alright\nblack Jay is going on six the orc is\ngoing on eight black Jay goes first this\ntime black J is in fact going to swap\ninitiative cards with the orcas he wants\nthe orc to attack first the orc does\nattack first and he's rolling on 12. the\norc will miss this time which means\nblackj is going to attack the orc\nknowing the orc cannot defend this is\nvery good for black Jay he is rolling\nwith a skill of 14 on swords he rolls a\nnine that is a successful hit the orc\ncannot defend which means black Jay is\ngoing to roll his damage with his\nbroadsword oh and he would have to pick\nhe would have to pick the type of damage\nas well there's optional rules for like\nthe sword is slashing or piercing you\nhave to determine what you're going to\ndo first because certain types of damage\ndo different things against different\narmors so for example if the orc was\nwearing chainmail chainmail gets a bonus\nagainst slashing weapons so you want to\npierce the other thing is if your role\nif you roll the critical if you roll a\ndragon which is a one in this game if\nyou just declared that you were piercing\nor were using a piercing weapon then you\ncould actually use that critical success\nto bypass the armor but only if it's\npiercing it's kind of cool anyway so\nblack Jay strikes the orc and he's gonna\ndo eight nine ten eleven minus the Orcs\narmor of two which is nine damage so the\norc boom oh oh there was something else\nthat I missed anyway the orc's gonna be\ndown to three hit points I want to come\nback to that when you successfully Parry\nso going back to that that previous\nround when he paired with the shield you\nmove you can move both yourself and the\nenemy two meters or one square in any\ndirection it keeps it keeps the battle\nmoving right so let's say he did that\nagain it's a featureless great plane\nIt's Not Really Gonna matter but on a\nsuccessful Perry you can choose to do\nthat if you want so clang and sort of\nlike force the enemy back\nokay is there anything about damage when\nyou take more than half or anything like\nthat I can't remember\nI know there is another game I don't\nthink there is you take severe injuries\nin this game if you're reduced to zero\nhit points which are like lingering\ninjuries oh when there's pushing in this\ngame as well uh so far everyone has\nsucceeded or blackj succeeded but you\ncan choose to push your role uh this\nobviously shares its DNA with a lot of\nother free League games too if if blackj\nhad missed let's say he had rolled a 17\nokay on that attack you can choose to\npush what that means is you can pick up\nthe dice and roll again to get another\nshot but you must take a condition a\ncondition you mark on one of your stats\nso you can you know strength has\nexhausted con has sickly agility has\ndays Etc you choose a condition and you\nsort of role play that right you've\nchosen to push now you suffer this\ncondition which means anytime you use\nany skill that's based on that stat you\nroll with a bane okay so there's a\nlittle price to pay there but that never\nhappened because he succeeded in his\nrole there's no thing for taking like\nhalf your hits in one blow or anything\nlike that so the Orcs down out of three\nnow in this game everyone has very very\nfew hit points as well so as you can see\nthe orc has 12 hit points and black Jays\nstriking with 2d6 plus a D4 that's big\ndamage it is very possible to knock\nsomebody down in one or two blows in\nfact it's probably the norm so combat is\ngoing to be pretty Grim pretty lethal\nbut I shouldn't say lethal because if a\nPC gets knocked down he's not\nnecessarily dead\num there's these severe injuries and\nstuff and yada yada anyway so that was\nround two we go to round three now the\norc has been hit pretty bad as we\nexpected because he doesn't have much in\nthe way of armor\na lot of people don't like cards a lot\nof people don't like cards in their RPGs\nwhen I ran Savage worlds in season one\nof the main show on this channel uh The\nSavage will use his initial cards a lot\nof people say I don't like good I didn't\nthink I would either but I can I kind of\ndo I think they're they're quick and\neasy to understand where everybody is in\nthe round especially using initiative\ncards uh pretty cool there anyway all\nright boom so black Jason seven the orc\nis on 10. now black Jay can choose to go\nfirst I think he will this time he's\ngonna press his opportunities rolling\nwith a skill of 14 or less which is a\nfive that is a hit so he strikes the orc\nthe orc is going to try and Parry with\nhis Scimitar of a skill of 12. he does\nnot but let's say just for\njust for uh demonstrations like let's\nsay he did let's say he rolled that a\nsuccessful pair with the Scimitar the\nScimitar has a durability score of 12.\nso the orc let's say he successfully\nparried\nblack Jay is rolling his damage 2d6 plus\nD4 against 12.\n46 so 10. so the Scimitar would have\nbeen okay but if he had rolled better he\nmight have actually damaged that\nScimitar in in the Perry and then it\nwould be useless until it gets repaired\nanyway in any event the orc missed his\nPerry\nso black Jay is going to do his damage\nagain and probably gonna kill him this\ntime five six uh nine minus two is seven\nnearly at three left so down goes the\norc okay so that's pretty quick right I\nmean uh it's it it resolves very quickly\nbut let's add a couple of interesting\nthings into the mix now let's reset back\nhere\nreset the initiative cards as well\nthis is kind of neat I love this aspect\nthat they include this in this game\nimprovised weapons Forest right so you\ngot Forest cave Tavern all this kind of\nstuff these are just random things that\ncould be interacted with if you have the\nopportunity to grab it so here's what\nwe're going to do we're gonna assume\nthat at some point each of these\ncharacters can grab can move to an area\nand use an improvised weapon here in the\nforce but we're also going to do\nsomething different I'm going to assume\nthat this orc now also has a crossbow\nokay and I'm going to assume that he\nalso has a skill of 12 in it damage 2d8\nas well as the Scimitar still no Shield\nperfectly fine blackj is going to start\nall the way back here again feature this\ngray plane except we're gonna now\nintroduce some interesting improvised\nweapons into the situation all right so\nblack Jay's initiative is going to be on\nthree and the Orcs on five this is good\nblack J wants to get there soon the\nReign to the crossbow is 60. so the orc\ncould hit him from anywhere from 30\nsquares away basically blackj is gonna\nmove two four six eight ten and then\nhe's gonna move again two four six eight\nten uh actually no he's not gonna do\nthat he's gonna two four six eight ten\nand then he's gonna wait because he's\ngot his shield which means he can try\nand Parry a arrow or a bolt in this case\nso the orc is going second so the\norcasus crossbones and he's not gonna\nmove but he's going to shoot now let's\nlet's add into this mix just because we\ncan it is a forest right so now we're\ngoing to assume that there's trees\neverywhere on this featureless great\nplane the feature this great plane now\nis features\nthere's just trees and stuff we're gonna\nassume that everywhere in this you can\nsort of take cover which means that to\nshoot arranged opponent uh that opponent\nis obscured which means that the orc\nrolls with a bane so the Orcs rolling\nacross let's get a skill of 12 but he\nhas to take the higher one because high\nis bad and he shoots and look at that\nwell that would have been that would\nhave been a critical hit but he's got to\ntake the worst one which is that so he\nstill will hit the critical hit would\nhave been interesting in fact again just\nfor the purposes of demonstration let's\nassume that there was no trees let's\nassume that it was in fact a featureless\ngreat plane and he had just rolled that\nwell that is a critical hit now in order\nfor black J to Parry that he would have\nto roll a critical as well you cannot\nParry critical unless you also roll the\ncritical okay let's assume that that's\nwhat happens boom he fires across both\nzunk hits black J with a critical hit\nnow he has an option here well a black\nJay can try and and Perry with his\nshield so he's definitely going to try\nand do it he's basically got a really\ncritical new he does not so we'll assume\nthe orc roll a critical hit on black Jay\nso he has an option he can either bypass\nthe armor because the weapon does\npiercing damage or he can double his\nrolled damage well if the orc is smart\nhe's gonna bypass the armor because\nblackj has eight points of armor that's\nwhat he's gonna do two d8 damage comes\nin by passing the armor and I know the\norc didn't really roll that he was\nrolling with a a bane but ah it doesn't\nmatter boom and he's Gonna Roll eight to\ndamage against black J he's down to\nseven from that critical hit oh bad news\nand that was the Orcs move now we go\ninto a new round so it's quick it's very\nquick as you would expect sort of a\nrules lightish game like this to be but\nit also has some interesting details in\ncombat which are kind of cool and\nthey're quite elegantly applied all\nright blackj is going to be on two the\nOrcs gonna be on fire well black Jay is\nwounded now because of a cheating GM so\nhe wants to get up there quick two four\nsix eight ten two four six eight ten\nwhich is engages him now if the orc with\nhis crossbow wanted to shoot he's got a\ncrossbow oh does the crossbow take time\nto load that's a good question I don't\nsee anything about loading so I guess he\ncan shoot but if if he shoots then he's\ngonna fire with a bane I don't think\nhe's gonna do that I think what he's\ngonna do he's going to use his free\naction to drop his crossbow and his\nregular action to draw his Scimitar okay\nso now we're sort of back into a\nsituation where we were in the previous\nencounter all right so that is the end\nof that round so now I'm just gonna move\nthem over here because it's a\nfeatureless gray plane and it doesn't\nreally matter oh the improvised weapons\nnow that they're in hand to hand let's\nsee let's see not that it matters if\ntheir hand the hand you can use your\nimprovised weapons anywhere blackj this\ntime is going to be on four and the orc\nis going to be on one which means the\norc is going to go first the orc is\ngoing to use his action to attack with\nhis Scimitar skill level 12. four is a\nhit black J is going to try and block\nthat with his shield and he's going to\nroll at 11 which is a success but it's\npossible the Scimitar still damages the\nshield although unlikely uh no no\nproblem so the shield takes the hit\nblockchain successfully parried which\nmeans he can move the orc one square in\nany direction again feature the script\nplane doesn't matter there but uh that\nwas his action and his action so no\nimprovised weapons come into play\nbecause that was the end of the round we\ngo to the next round now obviously you\ncan see this would be a lot more\ntechnically sort of interesting if\nthere's more people at play rather than\njust two two guys slugging it out in the\nwoods but nonetheless I like to start to\nfeatureless gray plane very simply to\nlearn the ABS basics of the game system\nfirst before I go adding other opponents\nalright the orc again goes first the orc\nis going to strike with the Scimitar\nskill level 12. three will hit black J\nagain I sure hope I'm remembering to\nread that as role under uh\nanyway he does hit black J black J is\nwounded from the cheating GM's critical\nhit so he is pretty much has to try and\nand and Parry this and does he do it he\ndoes and he moves the orc back haha\nlet's say he moves him this way\nlike that but it costs his action to do\nso again the improvised weapon is not\ngoing to come into play oh he blocked so\nit's possible it's possible The Shield\nis hurt but no Shield's fine all right\nnext round black J is going to be on\nseven\nand the orc is going to be on three of\nthe orcas first again\nagain and New York will strike with the\nskill level 12 again he'll hit this is\nreally bad black Jay's gonna try and\nblock he will roll a demon this is\nreally bad this is a fumble on the Perry\nnow when you go to roll a demon in melee\nactually I think when you're parrying I\ndon't think it really matters I mean he\njust he just blows it what would be far\nmore interesting is if he rolled a\ncritical on the Perry yeah so in this\ncase all it means rolling a Deanwood\npairing it just means he fails so he'd\nbe hit but let's say because I cheated\nin New York's favor and I'm gonna cheat\nin Black Jay's favor again just for the\npurpose of the demonstration let's see\nrule critical on his Parry what that\nmeans is when you roll a dragon which is\nwhat that is when parrying you\nimmediately perform a counter attack in\nyour opponent an automatic hit with your\nweapon that cannot be dodged a period\ndoes that mean that he automatically\nhits him or he gets a chance to hit him\nwith the roll\nthat suddenly is unclear hmm I don't\nthink I have to roll for that uh free\nleague if you're watching tell me if I'm\nwrong about that because I'm not exactly\nsure I I think it means that he\nautomatically hits let's assume that's\nwhat I mean so again yes I know he will\nthe fumble but I'm cheating in his favor\njust to get you in favor of New York\njust to demonstrate so he rolled in fact\na critical so not only does he Parry off\nthe the Orcs attack he immediately gets\na free hit on the orc and he does his\ndamage with his broadsword ha ha\n6 8 minus two is six damage to the orc\nknocks him down to half so you see even\nwhen you use your reaction to Parry if\nyou roll a critical you can still wind\nup doing damage to the dude all right I\nreally want to use these improvised\nweapons here but I want black Jake to\nget an initiative so he can choose to do\nthat because York's not going to do it\nthe enemies typically don't do anything\nlike that this this stuff is reserved\nfor the players you know for the player\ncharacters to do cool stuff black Jay is\non nine orcas on one again unbelievable\nlet's just cheat again\nagain with the purposes of demonstration\nthe blockchain is not gonna go to one\nlet's see what the improvised weapon\nright near him is there's a wasp nest\nRoyal Bushcraft to pick up the wasp's\nnest and hurl it at any moves in 10\nmeters I think what I would do actually\nin a game I would put little markers\nwhere random improvised weapons are so\nif you're if you move next to it you can\nutilize this thing because this is\nobviously a ranged attack uh this is\npretty cool this is this is how can a a\nwasp nest at the enemy to do damage and\nand giving them veins and all kinds of\nstuff that's really cool blackj's not\ngoing to make use of this however\nbecause his Bushcraft sucks it's five so\nhe's better off just attacking which\nhe's going to do now because I've given\nhim the first attack he is going to\nattack a 12. he's going to hit the orc\nis going to try and Parry that with his\nScimitar the orc will Parry with the\nScimitar however does the Scimitar get\ndamaged from black Jay's attack six uh a\ntan no it does not but the orc\nsuccessfully s Buried Black J which\nmeans he pushes black J back because you\nmove with a successful Perry anyway\nyou're getting the idea here right with\nwith sort of man-to-man combat here it's\nit moves very fast and it's really all\nabout the timing let's just finish this\nboom nine and seven\nblack J is gonna go last so the orc is\ngoing to strike I want to get to a push\nhere I want to see if blackj can use a\npush the uh okay well the Orca is gonna\nstrike black J is going to try and block\nwith a shield okay great so he fails but\nhe can't fail so he's going to push\nwhich means he rolls this die again and\ndecides to take oh I don't know let's\ncall it the angry condition which means\nthat any skill he uses on his\nintelligence is going to be rolled with\na bane because he's ah he's angered that\nhe he's being driven back by this Orcs\nbut he gets to roll again 14 or less he\nfails again so the orc is gonna hit him\nwith his damage so matar he's gonna do\nfive four seven minus eight points of\narmor no damage done there nobody moves\nbecause no successful Perrys were done\nnext round so these these two opponents\nare quite damaged\nfive and one again New York goes first\nout of curiosity let's see what the next\nthis is kind of interesting okay so the\norc is gonna attack the orc is gonna\nattack and he's gonna miss great which\nmeans that black J now has an\nopportunity we have a low Branch as an\nimprovised weapon swing yourself from\nthe branch should perform a melee attack\nyou can make a normal move without\ntriggering free attacks this would be\nreally great if there's more opponents\nthe melee attack must be unarmed but so\nhe basically kicks him in the head but\ncannot be dodged to parried if the\nattack fails you follow the ground and\ntake D6 bludgeoning damage this is an\noption right if there was more enemies\naround or do you wanted to swing on a\nlow branch and crack his boot into an\nenemy's skull that would be an option I\nreally like these I'm not going to use\nit right now because it doesn't help him\nbut really really cool all right\nthe orc swung and Mist which means\nblackj gets an opportunity to attack the\norc cannot defend black Jay strikes he\nsucceeds these dice are rolling very\nwell for me very well this is probably\nthe end of the orc he's only got two\npoints of armor five six minus two is\nfour the orc is still standing he's at\ntwo we go do the next round now\nwow little orc and this round 10 black\nJay again wow this orc is just Mr Speedy\nhe's going to swing and he's going to\nmiss this time huzzah black Jay is going\nto now strike and he's gonna hit right\non the button with the 12 and he's gonna\ndo his damage this will probably take\ncare of the orc I'm going to guess yes\nit does because there is armor and he\ntakes eight and the Orca is dead great\nso that's two combats as we've seen now\nI haven't really delved into the magic\nrules but they're pretty cool you spend\nwill power points and roll against your\nskill I've never liked fancy and Magic\nfrom d d whereas spells just work that\nalways bugs me I really I've never liked\nthe idea of saving throws they just it\nbugs me I would much rather have the the\nthe skill be based on the caster and the\nCaster's ability to cast that spell so\nthat's what this game does with that all\nright so that's basically the combat\nbetween one on one as you can see would\nbe a lot more interesting with multiple\nfoes and multiple members of a party but\nfor solo play which this game comes with\na component a solo play a little\nCampaign which I'm gonna run myself\nthrough at least a bit of to sort of\ndemonstrate how that works because it\ncomes with its own oracles it comes with\nits own charts and and it's really cool\nuh but for solo play this is really easy\nto keep track of things because there\nisn't a bunch of crazy details but there\nis enough details to keep the combat\ninteresting like the fact that a\nsuccessful Perry drives somebody back\nlike the fact that if you get a critical\npair you get a free counter attack like\nthe fact that there are all these cool\nlittle improvised weapons and things\nlike that around the battlefield like\nthe fact that weapons can be damaged by\nparrying I really like that and it\ndoesn't really get in the way of the\nflow of the game either so\nI quite like it I'm not a D20 guy if I\nwas going to run sort of a D20 kind of\nAdventure classic kind of d d Style game\nit would probably be this game\num in terms of advancement your\ncharacters can get better at skills and\nthey can also buy themselves to\nexperience\nheroic abilities which are again like\nyour Feats right so you can improve your\ncharacter however you want if blackj\nwanted to learn magic that technically\nis possible there is also cool like\ntreasure cards and all kinds of good\nstuff that comes in this box set this is\nreally really impressive\nI'm kind of looking forward to running\nthis little solo campaign such as it is\nit's not really a campaign it's more of\nlike a dungeon basically but it's a\ndungeon that is different for everyone\nthat plays it because of course it is\nsolo and it is randomly determined as\nyou go it has a really cool setup as\nwell there's basically this this Oracle\nwho's who's who sort of lives at the\nentrance of the dungeon and he knows\ncertain things about various rooms of\nthe dungeon but not all of them so you\nget some tips as to what you might\nexpect in your particular Excursion but\nyou don't know everything really neat\nI'll go into that at some point uh soon\nin the future in the meantime uh yeah\nthat's Dragon Bane so it's very simple\nvery playable very quick and yet\ndetailed in interesting ways I really\ndig it\num looking forward to doing more with\nthis again thank you uh freeleak for\nsending me this uh great stuff once\nagain and thank you all for joining me\nhere today if you want to help support\nthe Channel please do hit like And\nsubscribe or if you want to become a\nYouTube channel member or join us on\npatreon to help support the channel and\nmake sure that I can continue producing\nthings like this and others uh the\ninformation for all of that is in the\nvideo description below thanks for\njoining me here today and we will see\nyou on the next episode of Me Myself and\ndie\n[Music]\nforeign\n"
+}

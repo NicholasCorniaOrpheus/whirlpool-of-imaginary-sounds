@@ -1,0 +1,2725 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,080",
+      "end_time": "00:00:03,600",
+      "text": "welcome to nightlife where the knights"
+    },
+    {
+      "start_time": "00:00:02,080",
+      "end_time": "00:00:04,880",
+      "text": "of last call get around"
+    },
+    {
+      "start_time": "00:00:03,600",
+      "end_time": "00:00:07,040",
+      "text": "and we kind of have a casual"
+    },
+    {
+      "start_time": "00:00:04,880",
+      "end_time": "00:00:09,920",
+      "text": "conversation about events"
+    },
+    {
+      "start_time": "00:00:07,040",
+      "end_time": "00:00:11,679",
+      "text": "topics relative to pathfinder tabletop"
+    },
+    {
+      "start_time": "00:00:09,920",
+      "end_time": "00:00:14,160",
+      "text": "role-playing games dungeons and dragons"
+    },
+    {
+      "start_time": "00:00:11,679",
+      "end_time": "00:00:16,080",
+      "text": "or just kind of gaming in general so"
+    },
+    {
+      "start_time": "00:00:14,160",
+      "end_time": "00:00:18,480",
+      "text": "today i thought we could start our"
+    },
+    {
+      "start_time": "00:00:16,080",
+      "end_time": "00:00:19,199",
+      "text": "nightlife off by talking about a recent"
+    },
+    {
+      "start_time": "00:00:18,480",
+      "end_time": "00:00:21,039",
+      "text": "video"
+    },
+    {
+      "start_time": "00:00:19,199",
+      "end_time": "00:00:23,840",
+      "text": "made by professor dungeon master of"
+    },
+    {
+      "start_time": "00:00:21,039",
+      "end_time": "00:00:26,560",
+      "text": "dungeoncraft where he talked about"
+    },
+    {
+      "start_time": "00:00:23,840",
+      "end_time": "00:00:27,920",
+      "text": "his view on pathfinder 2's relative"
+    },
+    {
+      "start_time": "00:00:26,560",
+      "end_time": "00:00:29,760",
+      "text": "financial success"
+    },
+    {
+      "start_time": "00:00:27,920",
+      "end_time": "00:00:31,119",
+      "text": "was it in trouble is there an option"
+    },
+    {
+      "start_time": "00:00:29,760",
+      "end_time": "00:00:34,399",
+      "text": "that wizards of the coast might"
+    },
+    {
+      "start_time": "00:00:31,119",
+      "end_time": "00:00:36,320",
+      "text": "buy paizo based on some of his"
+    },
+    {
+      "start_time": "00:00:34,399",
+      "end_time": "00:00:37,920",
+      "text": "uh analytics and sort of some of his"
+    },
+    {
+      "start_time": "00:00:36,320",
+      "end_time": "00:00:38,879",
+      "text": "feedback and some of the information"
+    },
+    {
+      "start_time": "00:00:37,920",
+      "end_time": "00:00:40,719",
+      "text": "that he has done"
+    },
+    {
+      "start_time": "00:00:38,879",
+      "end_time": "00:00:42,559",
+      "text": "and kind of talk about what that means"
+    },
+    {
+      "start_time": "00:00:40,719",
+      "end_time": "00:00:45,600",
+      "text": "and and why uh"
+    },
+    {
+      "start_time": "00:00:42,559",
+      "end_time": "00:00:47,680",
+      "text": "why that may or may not be true i agree"
+    },
+    {
+      "start_time": "00:00:45,600",
+      "end_time": "00:00:50,800",
+      "text": "so for those of you who have not seen"
+    },
+    {
+      "start_time": "00:00:47,680",
+      "end_time": "00:00:53,920",
+      "text": "the video and i will link it"
+    },
+    {
+      "start_time": "00:00:50,800",
+      "end_time": "00:00:55,360",
+      "text": "there um professor dungeon master of uh"
+    },
+    {
+      "start_time": "00:00:53,920",
+      "end_time": "00:00:57,920",
+      "text": "uh dungeoncraft who i enjoy"
+    },
+    {
+      "start_time": "00:00:55,360",
+      "end_time": "00:00:58,800",
+      "text": "uh awesome he's great he's mostly an old"
+    },
+    {
+      "start_time": "00:00:57,920",
+      "end_time": "00:01:01,600",
+      "text": "school guy"
+    },
+    {
+      "start_time": "00:00:58,800",
+      "end_time": "00:01:02,719",
+      "text": "um he plays fifth edition but with very"
+    },
+    {
+      "start_time": "00:01:01,600",
+      "end_time": "00:01:04,799",
+      "text": "stripped down rules"
+    },
+    {
+      "start_time": "00:01:02,719",
+      "end_time": "00:01:06,640",
+      "text": "very very very stripped down rules and"
+    },
+    {
+      "start_time": "00:01:04,799",
+      "end_time": "00:01:08,159",
+      "text": "uh he has some really really cool"
+    },
+    {
+      "start_time": "00:01:06,640",
+      "end_time": "00:01:09,920",
+      "text": "uh videos and i've watched him for a"
+    },
+    {
+      "start_time": "00:01:08,159",
+      "end_time": "00:01:10,880",
+      "text": "long time i think he's a great osr"
+    },
+    {
+      "start_time": "00:01:09,920",
+      "end_time": "00:01:12,640",
+      "text": "content producer"
+    },
+    {
+      "start_time": "00:01:10,880",
+      "end_time": "00:01:14,159",
+      "text": "and he makes some great stuff but he"
+    },
+    {
+      "start_time": "00:01:12,640",
+      "end_time": "00:01:16,960",
+      "text": "basically did a video where"
+    },
+    {
+      "start_time": "00:01:14,159",
+      "end_time": "00:01:19,680",
+      "text": "he said hey pathfinder second edition"
+    },
+    {
+      "start_time": "00:01:16,960",
+      "end_time": "00:01:22,799",
+      "text": "isn't selling as well as fifth edition"
+    },
+    {
+      "start_time": "00:01:19,680",
+      "end_time": "00:01:25,040",
+      "text": "uh is is the edition failing and"
+    },
+    {
+      "start_time": "00:01:22,799",
+      "end_time": "00:01:26,000",
+      "text": "his his premise was number one they just"
+    },
+    {
+      "start_time": "00:01:25,040",
+      "end_time": "00:01:27,040",
+      "text": "did a humble bundle"
+    },
+    {
+      "start_time": "00:01:26,000",
+      "end_time": "00:01:29,280",
+      "text": "so if you don't know what a humble"
+    },
+    {
+      "start_time": "00:01:27,040",
+      "end_time": "00:01:31,680",
+      "text": "bundle is it's basically an online"
+    },
+    {
+      "start_time": "00:01:29,280",
+      "end_time": "00:01:33,040",
+      "text": "thing where uh you know game designers"
+    },
+    {
+      "start_time": "00:01:31,680",
+      "end_time": "00:01:33,600",
+      "text": "and stuff usually associated with"
+    },
+    {
+      "start_time": "00:01:33,040",
+      "end_time": "00:01:34,880",
+      "text": "charity"
+    },
+    {
+      "start_time": "00:01:33,600",
+      "end_time": "00:01:36,720",
+      "text": "and they put together some of their game"
+    },
+    {
+      "start_time": "00:01:34,880",
+      "end_time": "00:01:38,799",
+      "text": "products or whatever they're selling"
+    },
+    {
+      "start_time": "00:01:36,720",
+      "end_time": "00:01:40,079",
+      "text": "pdf downloads sell it for a fairly"
+    },
+    {
+      "start_time": "00:01:38,799",
+      "end_time": "00:01:42,720",
+      "text": "reduced price"
+    },
+    {
+      "start_time": "00:01:40,079",
+      "end_time": "00:01:45,119",
+      "text": "in order to against a humble bundle um"
+    },
+    {
+      "start_time": "00:01:42,720",
+      "end_time": "00:01:46,320",
+      "text": "in order to you know sort of sell"
+    },
+    {
+      "start_time": "00:01:45,119",
+      "end_time": "00:01:48,399",
+      "text": "their products and somebody can go to"
+    },
+    {
+      "start_time": "00:01:46,320",
+      "end_time": "00:01:49,600",
+      "text": "charity secondly there were two members"
+    },
+    {
+      "start_time": "00:01:48,399",
+      "end_time": "00:01:51,280",
+      "text": "of the paiso staff"
+    },
+    {
+      "start_time": "00:01:49,600",
+      "end_time": "00:01:54,079",
+      "text": "which recently moved to wizards of the"
+    },
+    {
+      "start_time": "00:01:51,280",
+      "end_time": "00:01:55,600",
+      "text": "coast and his third point is simply just"
+    },
+    {
+      "start_time": "00:01:54,079",
+      "end_time": "00:01:56,560",
+      "text": "that based on some of those metrics from"
+    },
+    {
+      "start_time": "00:01:55,600",
+      "end_time": "00:01:58,000",
+      "text": "roll 20"
+    },
+    {
+      "start_time": "00:01:56,560",
+      "end_time": "00:01:59,680",
+      "text": "which is the online virtual tabletop"
+    },
+    {
+      "start_time": "00:01:58,000",
+      "end_time": "00:02:02,960",
+      "text": "that most people use that"
+    },
+    {
+      "start_time": "00:01:59,680",
+      "end_time": "00:02:04,960",
+      "text": "pathfinder has a fraction of just a few"
+    },
+    {
+      "start_time": "00:02:02,960",
+      "end_time": "00:02:06,479",
+      "text": "percent non-existence of players"
+    },
+    {
+      "start_time": "00:02:04,960",
+      "end_time": "00:02:08,000",
+      "text": "are our pathfinder second edition"
+    },
+    {
+      "start_time": "00:02:06,479",
+      "end_time": "00:02:09,759",
+      "text": "players yeah that's a tough"
+    },
+    {
+      "start_time": "00:02:08,000",
+      "end_time": "00:02:11,599",
+      "text": "question sorry no no this is open"
+    },
+    {
+      "start_time": "00:02:09,759",
+      "end_time": "00:02:13,920",
+      "text": "conversations yeah i mean it's like it's"
+    },
+    {
+      "start_time": "00:02:11,599",
+      "end_time": "00:02:16,160",
+      "text": "it's comparing to you know like like uh"
+    },
+    {
+      "start_time": "00:02:13,920",
+      "end_time": "00:02:17,200",
+      "text": "dungeons and dragons uh hasbro wizards"
+    },
+    {
+      "start_time": "00:02:16,160",
+      "end_time": "00:02:20,080",
+      "text": "of the coast"
+    },
+    {
+      "start_time": "00:02:17,200",
+      "end_time": "00:02:21,599",
+      "text": "huge i don't think wizards but huge uh"
+    },
+    {
+      "start_time": "00:02:20,080",
+      "end_time": "00:02:22,160",
+      "text": "influence i think pathfinder is much"
+    },
+    {
+      "start_time": "00:02:21,599",
+      "end_time": "00:02:24,080",
+      "text": "smaller so"
+    },
+    {
+      "start_time": "00:02:22,160",
+      "end_time": "00:02:25,520",
+      "text": "absolutely are we talking about ratio"
+    },
+    {
+      "start_time": "00:02:24,080",
+      "end_time": "00:02:26,000",
+      "text": "yeah i think compared to the size we're"
+    },
+    {
+      "start_time": "00:02:25,520",
+      "end_time": "00:02:28,160",
+      "text": "just like"
+    },
+    {
+      "start_time": "00:02:26,000",
+      "end_time": "00:02:29,440",
+      "text": "straight away i was saying that dnd 5e's"
+    },
+    {
+      "start_time": "00:02:28,160",
+      "end_time": "00:02:32,000",
+      "text": "got 800 million dollars"
+    },
+    {
+      "start_time": "00:02:29,440",
+      "end_time": "00:02:32,560",
+      "text": "in any sales and the pathway is 24"
+    },
+    {
+      "start_time": "00:02:32,000",
+      "end_time": "00:02:35,920",
+      "text": "million"
+    },
+    {
+      "start_time": "00:02:32,560",
+      "end_time": "00:02:37,040",
+      "text": "so therefore um they're they're failing"
+    },
+    {
+      "start_time": "00:02:35,920",
+      "end_time": "00:02:38,160",
+      "text": "yeah and the percentages are going"
+    },
+    {
+      "start_time": "00:02:37,040",
+      "end_time": "00:02:39,840",
+      "text": "towards dnd and"
+    },
+    {
+      "start_time": "00:02:38,160",
+      "end_time": "00:02:42,160",
+      "text": "is dnd going to buy out yeah and so i"
+    },
+    {
+      "start_time": "00:02:39,840",
+      "end_time": "00:02:43,200",
+      "text": "i'll interject right here i think it i"
+    },
+    {
+      "start_time": "00:02:42,160",
+      "end_time": "00:02:45,519",
+      "text": "think it was a fairly"
+    },
+    {
+      "start_time": "00:02:43,200",
+      "end_time": "00:02:46,879",
+      "text": "flawed argument uh i don't think it's in"
+    },
+    {
+      "start_time": "00:02:45,519",
+      "end_time": "00:02:48,879",
+      "text": "trouble at all"
+    },
+    {
+      "start_time": "00:02:46,879",
+      "end_time": "00:02:50,000",
+      "text": "um i think pathfinder you know a lot of"
+    },
+    {
+      "start_time": "00:02:48,879",
+      "end_time": "00:02:50,720",
+      "text": "people get confused because they think"
+    },
+    {
+      "start_time": "00:02:50,000",
+      "end_time": "00:02:54,080",
+      "text": "back to"
+    },
+    {
+      "start_time": "00:02:50,720",
+      "end_time": "00:02:55,920",
+      "text": "the era in around 2009 2010"
+    },
+    {
+      "start_time": "00:02:54,080",
+      "end_time": "00:02:57,840",
+      "text": "after fourth edition had released and"
+    },
+    {
+      "start_time": "00:02:55,920",
+      "end_time": "00:02:59,920",
+      "text": "kind of not to critical acclaim"
+    },
+    {
+      "start_time": "00:02:57,840",
+      "end_time": "00:03:01,040",
+      "text": "and pathfinder first edition actually"
+    },
+    {
+      "start_time": "00:02:59,920",
+      "end_time": "00:03:02,640",
+      "text": "all outsold"
+    },
+    {
+      "start_time": "00:03:01,040",
+      "end_time": "00:03:03,840",
+      "text": "d d during that because i went back to"
+    },
+    {
+      "start_time": "00:03:02,640",
+      "end_time": "00:03:05,040",
+      "text": "similar to third edition yeah it was"
+    },
+    {
+      "start_time": "00:03:03,840",
+      "end_time": "00:03:06,560",
+      "text": "very similar to three it's straight from"
+    },
+    {
+      "start_time": "00:03:05,040",
+      "end_time": "00:03:07,840",
+      "text": "where did this exactly was going to"
+    },
+    {
+      "start_time": "00:03:06,560",
+      "end_time": "00:03:09,599",
+      "text": "bring up because"
+    },
+    {
+      "start_time": "00:03:07,840",
+      "end_time": "00:03:11,120",
+      "text": "uh you would say it's not failing"
+    },
+    {
+      "start_time": "00:03:09,599",
+      "end_time": "00:03:12,480",
+      "text": "because you know pizza is still doing"
+    },
+    {
+      "start_time": "00:03:11,120",
+      "end_time": "00:03:13,360",
+      "text": "well and but five he's just doing"
+    },
+    {
+      "start_time": "00:03:12,480",
+      "end_time": "00:03:16,480",
+      "text": "incredibly well"
+    },
+    {
+      "start_time": "00:03:13,360",
+      "end_time": "00:03:19,680",
+      "text": "right but at one point paizo"
+    },
+    {
+      "start_time": "00:03:16,480",
+      "end_time": "00:03:21,840",
+      "text": "was outselling d and d and then 5e"
+    },
+    {
+      "start_time": "00:03:19,680",
+      "end_time": "00:03:23,120",
+      "text": "something happened they they did amazing"
+    },
+    {
+      "start_time": "00:03:21,840",
+      "end_time": "00:03:25,120",
+      "text": "we talked about this off air about"
+    },
+    {
+      "start_time": "00:03:23,120",
+      "end_time": "00:03:27,200",
+      "text": "critical role or just the ease of play"
+    },
+    {
+      "start_time": "00:03:25,120",
+      "end_time": "00:03:28,319",
+      "text": "yeah but well i i think that's so"
+    },
+    {
+      "start_time": "00:03:27,200",
+      "end_time": "00:03:29,519",
+      "text": "there's a couple important points there"
+    },
+    {
+      "start_time": "00:03:28,319",
+      "end_time": "00:03:31,760",
+      "text": "one number one yeah"
+    },
+    {
+      "start_time": "00:03:29,519",
+      "end_time": "00:03:34,560",
+      "text": "pathfinder was outselling fourth edition"
+    },
+    {
+      "start_time": "00:03:31,760",
+      "end_time": "00:03:37,680",
+      "text": "but the total market share was also"
+    },
+    {
+      "start_time": "00:03:34,560",
+      "end_time": "00:03:39,040",
+      "text": "way smaller meaning yeah fifth edition"
+    },
+    {
+      "start_time": "00:03:37,680",
+      "end_time": "00:03:39,920",
+      "text": "is selling more but that's because fifth"
+    },
+    {
+      "start_time": "00:03:39,040",
+      "end_time": "00:03:42,080",
+      "text": "edition is selling"
+    },
+    {
+      "start_time": "00:03:39,920",
+      "end_time": "00:03:43,280",
+      "text": "it's not a percentage thing it's selling"
+    },
+    {
+      "start_time": "00:03:42,080",
+      "end_time": "00:03:44,720",
+      "text": "a ton more"
+    },
+    {
+      "start_time": "00:03:43,280",
+      "end_time": "00:03:46,319",
+      "text": "yeah everywhere i don't know exactly"
+    },
+    {
+      "start_time": "00:03:44,720",
+      "end_time": "00:03:48,239",
+      "text": "what the figures were but back in that"
+    },
+    {
+      "start_time": "00:03:46,319",
+      "end_time": "00:03:49,519",
+      "text": "era where pathfinder one was outselling"
+    },
+    {
+      "start_time": "00:03:48,239",
+      "end_time": "00:03:51,440",
+      "text": "fourth edition"
+    },
+    {
+      "start_time": "00:03:49,519",
+      "end_time": "00:03:52,640",
+      "text": "yeah pathfinder one was still only doing"
+    },
+    {
+      "start_time": "00:03:51,440",
+      "end_time": "00:03:55,200",
+      "text": "15 million"
+    },
+    {
+      "start_time": "00:03:52,640",
+      "end_time": "00:03:57,040",
+      "text": "uh in sales you know like the idea that"
+    },
+    {
+      "start_time": "00:03:55,200",
+      "end_time": "00:03:58,159",
+      "text": "dunstan dragons is selling hundreds of"
+    },
+    {
+      "start_time": "00:03:57,040",
+      "end_time": "00:04:01,360",
+      "text": "millions of dollars"
+    },
+    {
+      "start_time": "00:03:58,159",
+      "end_time": "00:04:04,080",
+      "text": "that is all new growth it's you know so"
+    },
+    {
+      "start_time": "00:04:01,360",
+      "end_time": "00:04:05,599",
+      "text": "from uh from from paizo's perspective"
+    },
+    {
+      "start_time": "00:04:04,080",
+      "end_time": "00:04:06,319",
+      "text": "pathfinder second edition is selling"
+    },
+    {
+      "start_time": "00:04:05,599",
+      "end_time": "00:04:08,400",
+      "text": "great"
+    },
+    {
+      "start_time": "00:04:06,319",
+      "end_time": "00:04:09,920",
+      "text": "it's selling more than they used to sell"
+    },
+    {
+      "start_time": "00:04:08,400",
+      "end_time": "00:04:11,200",
+      "text": "i said it's like comparing your local"
+    },
+    {
+      "start_time": "00:04:09,920",
+      "end_time": "00:04:13,120",
+      "text": "coffee shop"
+    },
+    {
+      "start_time": "00:04:11,200",
+      "end_time": "00:04:15,280",
+      "text": "to starbucks yeah and saying starbucks"
+    },
+    {
+      "start_time": "00:04:13,120",
+      "end_time": "00:04:17,040",
+      "text": "made a ton more money starbucks"
+    },
+    {
+      "start_time": "00:04:15,280",
+      "end_time": "00:04:18,799",
+      "text": "starbucks did a billion dollars in sales"
+    },
+    {
+      "start_time": "00:04:17,040",
+      "end_time": "00:04:20,239",
+      "text": "i only did a couple million"
+    },
+    {
+      "start_time": "00:04:18,799",
+      "end_time": "00:04:22,160",
+      "text": "i guess my business is failing and i"
+    },
+    {
+      "start_time": "00:04:20,239",
+      "end_time": "00:04:23,680",
+      "text": "guess it doesn't matter"
+    },
+    {
+      "start_time": "00:04:22,160",
+      "end_time": "00:04:25,520",
+      "text": "and i guess starbucks is gonna buy me"
+    },
+    {
+      "start_time": "00:04:23,680",
+      "end_time": "00:04:27,360",
+      "text": "out no it doesn't"
+    },
+    {
+      "start_time": "00:04:25,520",
+      "end_time": "00:04:29,040",
+      "text": "and then for the humble bundle i think"
+    },
+    {
+      "start_time": "00:04:27,360",
+      "end_time": "00:04:32,000",
+      "text": "it's marketing absolutely"
+    },
+    {
+      "start_time": "00:04:29,040",
+      "end_time": "00:04:32,800",
+      "text": "right because look look if pathfinder"
+    },
+    {
+      "start_time": "00:04:32,000",
+      "end_time": "00:04:34,400",
+      "text": "second edition"
+    },
+    {
+      "start_time": "00:04:32,800",
+      "end_time": "00:04:36,160",
+      "text": "it has it look it has to get its toe in"
+    },
+    {
+      "start_time": "00:04:34,400",
+      "end_time": "00:04:38,720",
+      "text": "the door fifth edition has"
+    },
+    {
+      "start_time": "00:04:36,160",
+      "end_time": "00:04:39,759",
+      "text": "highly entrenched highly entrenched its"
+    },
+    {
+      "start_time": "00:04:38,720",
+      "end_time": "00:04:41,759",
+      "text": "players"
+    },
+    {
+      "start_time": "00:04:39,759",
+      "end_time": "00:04:43,600",
+      "text": "people are very very much bound to their"
+    },
+    {
+      "start_time": "00:04:41,759",
+      "end_time": "00:04:45,520",
+      "text": "dungeons i mean it's dnd"
+    },
+    {
+      "start_time": "00:04:43,600",
+      "end_time": "00:04:46,880",
+      "text": "yeah but even more so there was an era"
+    },
+    {
+      "start_time": "00:04:45,520",
+      "end_time": "00:04:48,240",
+      "text": "where people were being starting to get"
+    },
+    {
+      "start_time": "00:04:46,880",
+      "end_time": "00:04:49,680",
+      "text": "a lot more loosey-goosey"
+    },
+    {
+      "start_time": "00:04:48,240",
+      "end_time": "00:04:51,120",
+      "text": "with what role-playing games they would"
+    },
+    {
+      "start_time": "00:04:49,680",
+      "end_time": "00:04:51,680",
+      "text": "play but a lot of people now are like d"
+    },
+    {
+      "start_time": "00:04:51,120",
+      "end_time": "00:04:54,880",
+      "text": "and d"
+    },
+    {
+      "start_time": "00:04:51,680",
+      "end_time": "00:04:56,960",
+      "text": "5e ride or die oh wow and second edition"
+    },
+    {
+      "start_time": "00:04:54,880",
+      "end_time": "00:04:58,479",
+      "text": "pathfinder is trying to say hey look"
+    },
+    {
+      "start_time": "00:04:56,960",
+      "end_time": "00:04:58,880",
+      "text": "we're willing to sell this product by"
+    },
+    {
+      "start_time": "00:04:58,479",
+      "end_time": "00:05:02,160",
+      "text": "the way"
+    },
+    {
+      "start_time": "00:04:58,880",
+      "end_time": "00:05:03,840",
+      "text": "digital product yeah pdf yes huge"
+    },
+    {
+      "start_time": "00:05:02,160",
+      "end_time": "00:05:05,759",
+      "text": "remember just dnd and different editions"
+    },
+    {
+      "start_time": "00:05:03,840",
+      "end_time": "00:05:07,440",
+      "text": "have had like their online spend extra"
+    },
+    {
+      "start_time": "00:05:05,759",
+      "end_time": "00:05:11,360",
+      "text": "money for their online compendium and"
+    },
+    {
+      "start_time": "00:05:07,440",
+      "end_time": "00:05:11,360",
+      "text": "you can do the online"
+    },
+    {
+      "start_time": "00:05:19,520",
+      "end_time": "00:05:23,520",
+      "text": "it's amazing to get into pathfinder was"
+    },
+    {
+      "start_time": "00:05:21,199",
+      "end_time": "00:05:25,039",
+      "text": "already free yeah i give the the victory"
+    },
+    {
+      "start_time": "00:05:23,520",
+      "end_time": "00:05:26,479",
+      "text": "to pathfinder on that like the online"
+    },
+    {
+      "start_time": "00:05:25,039",
+      "end_time": "00:05:26,880",
+      "text": "experience it's so much easier to use"
+    },
+    {
+      "start_time": "00:05:26,479",
+      "end_time": "00:05:28,880",
+      "text": "than"
+    },
+    {
+      "start_time": "00:05:26,880",
+      "end_time": "00:05:30,160",
+      "text": "than do you need to be honest it's so"
+    },
+    {
+      "start_time": "00:05:28,880",
+      "end_time": "00:05:30,960",
+      "text": "expensive but keep that in mind though"
+    },
+    {
+      "start_time": "00:05:30,160",
+      "end_time": "00:05:33,840",
+      "text": "too"
+    },
+    {
+      "start_time": "00:05:30,960",
+      "end_time": "00:05:35,120",
+      "text": "you are giving out free stuff but yet"
+    },
+    {
+      "start_time": "00:05:33,840",
+      "end_time": "00:05:37,600",
+      "text": "you're still making"
+    },
+    {
+      "start_time": "00:05:35,120",
+      "end_time": "00:05:38,960",
+      "text": "millions of dollars in sales right so"
+    },
+    {
+      "start_time": "00:05:37,600",
+      "end_time": "00:05:39,919",
+      "text": "just just think about if they were to"
+    },
+    {
+      "start_time": "00:05:38,960",
+      "end_time": "00:05:41,520",
+      "text": "charge for everything"
+    },
+    {
+      "start_time": "00:05:39,919",
+      "end_time": "00:05:43,600",
+      "text": "would those numbers be more comparable"
+    },
+    {
+      "start_time": "00:05:41,520",
+      "end_time": "00:05:45,840",
+      "text": "right also paizo's you know look"
+    },
+    {
+      "start_time": "00:05:43,600",
+      "end_time": "00:05:47,360",
+      "text": "pi d d is a brand owned by wizards of"
+    },
+    {
+      "start_time": "00:05:45,840",
+      "end_time": "00:05:48,880",
+      "text": "coast which is a wholly owned subsidiary"
+    },
+    {
+      "start_time": "00:05:47,360",
+      "end_time": "00:05:49,520",
+      "text": "of hasbro which is a publicly traded"
+    },
+    {
+      "start_time": "00:05:48,880",
+      "end_time": "00:05:51,360",
+      "text": "stock"
+    },
+    {
+      "start_time": "00:05:49,520",
+      "end_time": "00:05:53,199",
+      "text": "their goal is to make as much money off"
+    },
+    {
+      "start_time": "00:05:51,360",
+      "end_time": "00:05:53,919",
+      "text": "of you as you can that is why they are"
+    },
+    {
+      "start_time": "00:05:53,199",
+      "end_time": "00:05:55,680",
+      "text": "selling you the"
+    },
+    {
+      "start_time": "00:05:53,919",
+      "end_time": "00:05:57,360",
+      "text": "physical book they sell you the digital"
+    },
+    {
+      "start_time": "00:05:55,680",
+      "end_time": "00:05:59,039",
+      "text": "book for the same price"
+    },
+    {
+      "start_time": "00:05:57,360",
+      "end_time": "00:06:00,639",
+      "text": "ridiculous as the physical book on the"
+    },
+    {
+      "start_time": "00:05:59,039",
+      "end_time": "00:06:02,960",
+      "text": "pdf then if you want to get the digital"
+    },
+    {
+      "start_time": "00:06:00,639",
+      "end_time": "00:06:04,319",
+      "text": "book for your roll 20 integration"
+    },
+    {
+      "start_time": "00:06:02,960",
+      "end_time": "00:06:06,479",
+      "text": "through d and d beyond you have to buy"
+    },
+    {
+      "start_time": "00:06:04,319",
+      "end_time": "00:06:08,639",
+      "text": "that digital book on roll 20."
+    },
+    {
+      "start_time": "00:06:06,479",
+      "end_time": "00:06:09,520",
+      "text": "so you might own the pdf you might own"
+    },
+    {
+      "start_time": "00:06:08,639",
+      "end_time": "00:06:11,840",
+      "text": "the physical book"
+    },
+    {
+      "start_time": "00:06:09,520",
+      "end_time": "00:06:13,120",
+      "text": "and then you own the book on roll 20 oh"
+    },
+    {
+      "start_time": "00:06:11,840",
+      "end_time": "00:06:16,400",
+      "text": "and that's when you can buy your"
+    },
+    {
+      "start_time": "00:06:13,120",
+      "end_time": "00:06:18,680",
+      "text": "digital virtual dice which costs 10 15."
+    },
+    {
+      "start_time": "00:06:16,400",
+      "end_time": "00:06:20,720",
+      "text": "that's expecting too much from they are"
+    },
+    {
+      "start_time": "00:06:18,680",
+      "end_time": "00:06:21,600",
+      "text": "microtransaction you into the graves i"
+    },
+    {
+      "start_time": "00:06:20,720",
+      "end_time": "00:06:24,800",
+      "text": "mean yeah is this"
+    },
+    {
+      "start_time": "00:06:21,600",
+      "end_time": "00:06:26,720",
+      "text": "ea sports or or apple yeah"
+    },
+    {
+      "start_time": "00:06:24,800",
+      "end_time": "00:06:27,840",
+      "text": "they're a corporation so they're doing"
+    },
+    {
+      "start_time": "00:06:26,720",
+      "end_time": "00:06:28,800",
+      "text": "what they're supposed to do they're"
+    },
+    {
+      "start_time": "00:06:27,840",
+      "end_time": "00:06:30,080",
+      "text": "trying to make as much"
+    },
+    {
+      "start_time": "00:06:28,800",
+      "end_time": "00:06:32,479",
+      "text": "they're trying to make as much money as"
+    },
+    {
+      "start_time": "00:06:30,080",
+      "end_time": "00:06:36,000",
+      "text": "possible for their shareholders"
+    },
+    {
+      "start_time": "00:06:32,479",
+      "end_time": "00:06:38,479",
+      "text": "paizo is not publicly held"
+    },
+    {
+      "start_time": "00:06:36,000",
+      "end_time": "00:06:39,120",
+      "text": "they are a private company who are very"
+    },
+    {
+      "start_time": "00:06:38,479",
+      "end_time": "00:06:42,560",
+      "text": "content"
+    },
+    {
+      "start_time": "00:06:39,120",
+      "end_time": "00:06:43,600",
+      "text": "to pay their staff reasonable reasonable"
+    },
+    {
+      "start_time": "00:06:42,560",
+      "end_time": "00:06:45,280",
+      "text": "wages"
+    },
+    {
+      "start_time": "00:06:43,600",
+      "end_time": "00:06:47,039",
+      "text": "uh probably make a small amount of"
+    },
+    {
+      "start_time": "00:06:45,280",
+      "end_time": "00:06:49,440",
+      "text": "profit for their owners"
+    },
+    {
+      "start_time": "00:06:47,039",
+      "end_time": "00:06:50,800",
+      "text": "and just make great content yep that's"
+    },
+    {
+      "start_time": "00:06:49,440",
+      "end_time": "00:06:52,800",
+      "text": "all they care about i think one of the"
+    },
+    {
+      "start_time": "00:06:50,800",
+      "end_time": "00:06:54,720",
+      "text": "two people that left i read on reddit"
+    },
+    {
+      "start_time": "00:06:52,800",
+      "end_time": "00:06:56,880",
+      "text": "uh took a senior position so it was a"
+    },
+    {
+      "start_time": "00:06:54,720",
+      "end_time": "00:06:58,960",
+      "text": "promotion yeah also too by the way"
+    },
+    {
+      "start_time": "00:06:56,880",
+      "end_time": "00:07:00,240",
+      "text": "you're crazy people who work for d d"
+    },
+    {
+      "start_time": "00:06:58,960",
+      "end_time": "00:07:01,759",
+      "text": "have worked for paizo people who work"
+    },
+    {
+      "start_time": "00:07:00,240",
+      "end_time": "00:07:03,759",
+      "text": "for paizo have worked for d d"
+    },
+    {
+      "start_time": "00:07:01,759",
+      "end_time": "00:07:04,880",
+      "text": "like they are in dc they always go back"
+    },
+    {
+      "start_time": "00:07:03,759",
+      "end_time": "00:07:06,800",
+      "text": "and forth their corporate headquarters"
+    },
+    {
+      "start_time": "00:07:04,880",
+      "end_time": "00:07:07,199",
+      "text": "are literally within like 10 to 15 miles"
+    },
+    {
+      "start_time": "00:07:06,800",
+      "end_time": "00:07:09,599",
+      "text": "really"
+    },
+    {
+      "start_time": "00:07:07,199",
+      "end_time": "00:07:11,199",
+      "text": "i've been to both oh wow and like yeah"
+    },
+    {
+      "start_time": "00:07:09,599",
+      "end_time": "00:07:13,280",
+      "text": "they're all from washington state"
+    },
+    {
+      "start_time": "00:07:11,199",
+      "end_time": "00:07:14,479",
+      "text": "they're all in that seattle area renton"
+    },
+    {
+      "start_time": "00:07:13,280",
+      "end_time": "00:07:16,319",
+      "text": "area"
+    },
+    {
+      "start_time": "00:07:14,479",
+      "end_time": "00:07:17,919",
+      "text": "tax rebate yeah exact discount you don't"
+    },
+    {
+      "start_time": "00:07:16,319",
+      "end_time": "00:07:19,039",
+      "text": "have to pay sales tax or"
+    },
+    {
+      "start_time": "00:07:17,919",
+      "end_time": "00:07:20,639",
+      "text": "i don't know the other thing sometimes"
+    },
+    {
+      "start_time": "00:07:19,039",
+      "end_time": "00:07:21,759",
+      "text": "they were talking about the role 20 and"
+    },
+    {
+      "start_time": "00:07:20,639",
+      "end_time": "00:07:24,000",
+      "text": "and you know this"
+    },
+    {
+      "start_time": "00:07:21,759",
+      "end_time": "00:07:25,039",
+      "text": "is that none of the pathfinder people"
+    },
+    {
+      "start_time": "00:07:24,000",
+      "end_time": "00:07:27,120",
+      "text": "are enrolled tomorrow that's right we"
+    },
+    {
+      "start_time": "00:07:25,039",
+      "end_time": "00:07:29,840",
+      "text": "don't use rule 20 anymore we use foundry"
+    },
+    {
+      "start_time": "00:07:27,120",
+      "end_time": "00:07:31,039",
+      "text": "we use foundry virtual tablets way to my"
+    },
+    {
+      "start_time": "00:07:29,840",
+      "end_time": "00:07:34,000",
+      "text": "favorite way to handle it"
+    },
+    {
+      "start_time": "00:07:31,039",
+      "end_time": "00:07:36,160",
+      "text": "is uh you know get vaccinated hang out"
+    },
+    {
+      "start_time": "00:07:34,000",
+      "end_time": "00:07:38,240",
+      "text": "with my friend right"
+    },
+    {
+      "start_time": "00:07:36,160",
+      "end_time": "00:07:39,520",
+      "text": "at the place but yeah it's it's uh"
+    },
+    {
+      "start_time": "00:07:38,240",
+      "end_time": "00:07:41,120",
+      "text": "foundry's way better and i think"
+    },
+    {
+      "start_time": "00:07:39,520",
+      "end_time": "00:07:43,759",
+      "text": "pathfinder second edition uh"
+    },
+    {
+      "start_time": "00:07:41,120",
+      "end_time": "00:07:45,599",
+      "text": "players are probably using alternative"
+    },
+    {
+      "start_time": "00:07:43,759",
+      "end_time": "00:07:47,440",
+      "text": "tables more than rule 20 because"
+    },
+    {
+      "start_time": "00:07:45,599",
+      "end_time": "00:07:49,919",
+      "text": "the integration isn't great i think role"
+    },
+    {
+      "start_time": "00:07:47,440",
+      "end_time": "00:07:52,160",
+      "text": "20 is not a good program"
+    },
+    {
+      "start_time": "00:07:49,919",
+      "end_time": "00:07:53,759",
+      "text": "i think it does agree very very well in"
+    },
+    {
+      "start_time": "00:07:52,160",
+      "end_time": "00:07:55,360",
+      "text": "both founders"
+    },
+    {
+      "start_time": "00:07:53,759",
+      "end_time": "00:07:57,759",
+      "text": "well it was a great idea when it came"
+    },
+    {
+      "start_time": "00:07:55,360",
+      "end_time": "00:07:59,280",
+      "text": "out you know 15 years ago and they have"
+    },
+    {
+      "start_time": "00:07:57,759",
+      "end_time": "00:08:00,879",
+      "text": "when you try to have it like"
+    },
+    {
+      "start_time": "00:07:59,280",
+      "end_time": "00:08:03,120",
+      "text": "you you're trying to just represent"
+    },
+    {
+      "start_time": "00:08:00,879",
+      "end_time": "00:08:05,599",
+      "text": "physics and the way the world works"
+    },
+    {
+      "start_time": "00:08:03,120",
+      "end_time": "00:08:06,960",
+      "text": "that makes it very hard for a to you're"
+    },
+    {
+      "start_time": "00:08:05,599",
+      "end_time": "00:08:08,240",
+      "text": "trying to do too many things and it's"
+    },
+    {
+      "start_time": "00:08:06,960",
+      "end_time": "00:08:08,720",
+      "text": "hard to be good at anything when you're"
+    },
+    {
+      "start_time": "00:08:08,240",
+      "end_time": "00:08:11,919",
+      "text": "trying to"
+    },
+    {
+      "start_time": "00:08:08,720",
+      "end_time": "00:08:14,160",
+      "text": "plus it's a monthly fee foundation"
+    },
+    {
+      "start_time": "00:08:11,919",
+      "end_time": "00:08:15,680",
+      "text": "is a one-time license only the game"
+    },
+    {
+      "start_time": "00:08:14,160",
+      "end_time": "00:08:18,240",
+      "text": "master has to buy it"
+    },
+    {
+      "start_time": "00:08:15,680",
+      "end_time": "00:08:18,879",
+      "text": "like roll 20 is a money sync and they"
+    },
+    {
+      "start_time": "00:08:18,240",
+      "end_time": "00:08:20,240",
+      "text": "have not put"
+    },
+    {
+      "start_time": "00:08:18,879",
+      "end_time": "00:08:22,240",
+      "text": "the time and the effort it makes sense"
+    },
+    {
+      "start_time": "00:08:20,240",
+      "end_time": "00:08:23,520",
+      "text": "and dnd is comparable right right"
+    },
+    {
+      "start_time": "00:08:22,240",
+      "end_time": "00:08:25,520",
+      "text": "because if we're playing d"
+    },
+    {
+      "start_time": "00:08:23,520",
+      "end_time": "00:08:26,879",
+      "text": "i have to buy like the monster manual or"
+    },
+    {
+      "start_time": "00:08:25,520",
+      "end_time": "00:08:27,919",
+      "text": "the like the thing and then i can get my"
+    },
+    {
+      "start_time": "00:08:26,879",
+      "end_time": "00:08:29,759",
+      "text": "players to play"
+    },
+    {
+      "start_time": "00:08:27,919",
+      "end_time": "00:08:31,280",
+      "text": "because i have everything you need yeah"
+    },
+    {
+      "start_time": "00:08:29,759",
+      "end_time": "00:08:33,279",
+      "text": "and so i think that's similar with uh"
+    },
+    {
+      "start_time": "00:08:31,280",
+      "end_time": "00:08:34,479",
+      "text": "you know so the fact that archives of"
+    },
+    {
+      "start_time": "00:08:33,279",
+      "end_time": "00:08:36,560",
+      "text": "netflix is free"
+    },
+    {
+      "start_time": "00:08:34,479",
+      "end_time": "00:08:37,919",
+      "text": "and that you can get not just the so"
+    },
+    {
+      "start_time": "00:08:36,560",
+      "end_time": "00:08:39,680",
+      "text": "searchable the only thing that you"
+    },
+    {
+      "start_time": "00:08:37,919",
+      "end_time": "00:08:41,360",
+      "text": "cannot get for free for pathfinder is"
+    },
+    {
+      "start_time": "00:08:39,680",
+      "end_time": "00:08:42,719",
+      "text": "the adventure path"
+    },
+    {
+      "start_time": "00:08:41,360",
+      "end_time": "00:08:44,399",
+      "text": "which makes sense because it like we"
+    },
+    {
+      "start_time": "00:08:42,719",
+      "end_time": "00:08:46,240",
+      "text": "create the world and that's free"
+    },
+    {
+      "start_time": "00:08:44,399",
+      "end_time": "00:08:47,519",
+      "text": "we additionally create adventures in"
+    },
+    {
+      "start_time": "00:08:46,240",
+      "end_time": "00:08:48,560",
+      "text": "that world you have to pay extra for"
+    },
+    {
+      "start_time": "00:08:47,519",
+      "end_time": "00:08:51,440",
+      "text": "well they create the world"
+    },
+    {
+      "start_time": "00:08:48,560",
+      "end_time": "00:08:52,800",
+      "text": "and they create all of the rules yep and"
+    },
+    {
+      "start_time": "00:08:51,440",
+      "end_time": "00:08:55,600",
+      "text": "that's all free right yeah"
+    },
+    {
+      "start_time": "00:08:52,800",
+      "end_time": "00:08:56,480",
+      "text": "it's incredible so absolutely so again"
+    },
+    {
+      "start_time": "00:08:55,600",
+      "end_time": "00:08:58,959",
+      "text": "you're comparing"
+    },
+    {
+      "start_time": "00:08:56,480",
+      "end_time": "00:09:00,640",
+      "text": "a corporate juggernaut who exists to"
+    },
+    {
+      "start_time": "00:08:58,959",
+      "end_time": "00:09:04,000",
+      "text": "suck money out of players"
+    },
+    {
+      "start_time": "00:09:00,640",
+      "end_time": "00:09:06,399",
+      "text": "to a small independent company"
+    },
+    {
+      "start_time": "00:09:04,000",
+      "end_time": "00:09:08,000",
+      "text": "who is happily paying its small staff of"
+    },
+    {
+      "start_time": "00:09:06,399",
+      "end_time": "00:09:10,640",
+      "text": "people to produce content"
+    },
+    {
+      "start_time": "00:09:08,000",
+      "end_time": "00:09:11,920",
+      "text": "and then in terms of you know falling"
+    },
+    {
+      "start_time": "00:09:10,640",
+      "end_time": "00:09:15,200",
+      "text": "over or whatever"
+    },
+    {
+      "start_time": "00:09:11,920",
+      "end_time": "00:09:16,320",
+      "text": "paizo has released like i don't know 12"
+    },
+    {
+      "start_time": "00:09:15,200",
+      "end_time": "00:09:17,760",
+      "text": "books this year"
+    },
+    {
+      "start_time": "00:09:16,320",
+      "end_time": "00:09:19,680",
+      "text": "i'm and actually i'm pretty excited to"
+    },
+    {
+      "start_time": "00:09:17,760",
+      "end_time": "00:09:22,320",
+      "text": "get some of them like they're"
+    },
+    {
+      "start_time": "00:09:19,680",
+      "end_time": "00:09:23,600",
+      "text": "going to get my money edition came out"
+    },
+    {
+      "start_time": "00:09:22,320",
+      "end_time": "00:09:24,880",
+      "text": "gen con 2019"
+    },
+    {
+      "start_time": "00:09:23,600",
+      "end_time": "00:09:26,480",
+      "text": "tim and i were there we bought it that"
+    },
+    {
+      "start_time": "00:09:24,880",
+      "end_time": "00:09:27,040",
+      "text": "day oh yeah they are on beast cherry"
+    },
+    {
+      "start_time": "00:09:26,480",
+      "end_time": "00:09:28,000",
+      "text": "three"
+    },
+    {
+      "start_time": "00:09:27,040",
+      "end_time": "00:09:30,560",
+      "text": "they're probably coming out with beats"
+    },
+    {
+      "start_time": "00:09:28,000",
+      "end_time": "00:09:32,560",
+      "text": "jerry four soon okay fifth edition has"
+    },
+    {
+      "start_time": "00:09:30,560",
+      "end_time": "00:09:34,320",
+      "text": "been out since 2014."
+    },
+    {
+      "start_time": "00:09:32,560",
+      "end_time": "00:09:36,240",
+      "text": "there's the monster manual there is"
+    },
+    {
+      "start_time": "00:09:34,320",
+      "end_time": "00:09:38,320",
+      "text": "morton kyan's tomafoes"
+    },
+    {
+      "start_time": "00:09:36,240",
+      "end_time": "00:09:40,000",
+      "text": "and there is uh volo's guide to monster"
+    },
+    {
+      "start_time": "00:09:38,320",
+      "end_time": "00:09:41,839",
+      "text": "they have three monster manuals"
+    },
+    {
+      "start_time": "00:09:40,000",
+      "end_time": "00:09:44,399",
+      "text": "pathfinder has been out for two years"
+    },
+    {
+      "start_time": "00:09:41,839",
+      "end_time": "00:09:45,519",
+      "text": "not even full two years and has two or"
+    },
+    {
+      "start_time": "00:09:44,399",
+      "end_time": "00:09:46,880",
+      "text": "three monster manuals"
+    },
+    {
+      "start_time": "00:09:45,519",
+      "end_time": "00:09:48,320",
+      "text": "and look i don't want to play some"
+    },
+    {
+      "start_time": "00:09:46,880",
+      "end_time": "00:09:49,920",
+      "text": "regular ass characters i want to play"
+    },
+    {
+      "start_time": "00:09:48,320",
+      "end_time": "00:09:51,760",
+      "text": "some weird stuff from like the third"
+    },
+    {
+      "start_time": "00:09:49,920",
+      "end_time": "00:09:52,640",
+      "text": "book where i'm a centaur trying to go up"
+    },
+    {
+      "start_time": "00:09:51,760",
+      "end_time": "00:09:55,839",
+      "text": "ropes"
+    },
+    {
+      "start_time": "00:09:52,640",
+      "end_time": "00:09:57,200",
+      "text": "like like you know in dungeons where you"
+    },
+    {
+      "start_time": "00:09:55,839",
+      "end_time": "00:09:59,360",
+      "text": "could try to go up like i want the"
+    },
+    {
+      "start_time": "00:09:57,200",
+      "end_time": "00:10:02,079",
+      "text": "weirder stuff yeah i want like the extra"
+    },
+    {
+      "start_time": "00:09:59,360",
+      "end_time": "00:10:03,360",
+      "text": "so no beastmaster four or five a compa a"
+    },
+    {
+      "start_time": "00:10:02,079",
+      "end_time": "00:10:04,560",
+      "text": "company that was going out of business"
+    },
+    {
+      "start_time": "00:10:03,360",
+      "end_time": "00:10:06,240",
+      "text": "or struggling would not have the"
+    },
+    {
+      "start_time": "00:10:04,560",
+      "end_time": "00:10:08,320",
+      "text": "production schedule that they have"
+    },
+    {
+      "start_time": "00:10:06,240",
+      "end_time": "00:10:10,320",
+      "text": "right they are making huge print runs"
+    },
+    {
+      "start_time": "00:10:08,320",
+      "end_time": "00:10:10,959",
+      "text": "they have an incredible library of"
+    },
+    {
+      "start_time": "00:10:10,320",
+      "end_time": "00:10:12,720",
+      "text": "adventures"
+    },
+    {
+      "start_time": "00:10:10,959",
+      "end_time": "00:10:14,320",
+      "text": "they're trying new things new product"
+    },
+    {
+      "start_time": "00:10:12,720",
+      "end_time": "00:10:16,240",
+      "text": "offerings like these one-shots"
+    },
+    {
+      "start_time": "00:10:14,320",
+      "end_time": "00:10:18,079",
+      "text": "the smaller adventure pass and they're"
+    },
+    {
+      "start_time": "00:10:16,240",
+      "end_time": "00:10:18,800",
+      "text": "producing books and they're producing"
+    },
+    {
+      "start_time": "00:10:18,079",
+      "end_time": "00:10:20,720",
+      "text": "supplements"
+    },
+    {
+      "start_time": "00:10:18,800",
+      "end_time": "00:10:22,240",
+      "text": "and they're producing adventures like"
+    },
+    {
+      "start_time": "00:10:20,720",
+      "end_time": "00:10:23,519",
+      "text": "yeah no this isn't a company though"
+    },
+    {
+      "start_time": "00:10:22,240",
+      "end_time": "00:10:25,360",
+      "text": "no nat made a good point too where he"
+    },
+    {
+      "start_time": "00:10:23,519",
+      "end_time": "00:10:28,079",
+      "text": "was like you can't say that"
+    },
+    {
+      "start_time": "00:10:25,360",
+      "end_time": "00:10:29,519",
+      "text": "paizo's share went down when the growth"
+    },
+    {
+      "start_time": "00:10:28,079",
+      "end_time": "00:10:31,680",
+      "text": "of the rpg in general just"
+    },
+    {
+      "start_time": "00:10:29,519",
+      "end_time": "00:10:32,880",
+      "text": "expanded so much so dnd just grabbed a"
+    },
+    {
+      "start_time": "00:10:31,680",
+      "end_time": "00:10:35,839",
+      "text": "lot of it of course"
+    },
+    {
+      "start_time": "00:10:32,880",
+      "end_time": "00:10:36,880",
+      "text": "went up too well the the huge the huge"
+    },
+    {
+      "start_time": "00:10:35,839",
+      "end_time": "00:10:39,760",
+      "text": "spike in the market"
+    },
+    {
+      "start_time": "00:10:36,880",
+      "end_time": "00:10:41,279",
+      "text": "occurred in the late you know 20 teens"
+    },
+    {
+      "start_time": "00:10:39,760",
+      "end_time": "00:10:42,160",
+      "text": "uh pathfinder second edition didn't did"
+    },
+    {
+      "start_time": "00:10:41,279",
+      "end_time": "00:10:45,279",
+      "text": "not come out till"
+    },
+    {
+      "start_time": "00:10:42,160",
+      "end_time": "00:10:46,800",
+      "text": "2019 and when d d grew maybe because of"
+    },
+    {
+      "start_time": "00:10:45,279",
+      "end_time": "00:10:47,920",
+      "text": "critical role maybe because of stranger"
+    },
+    {
+      "start_time": "00:10:46,800",
+      "end_time": "00:10:48,640",
+      "text": "things maybe just because of brand"
+    },
+    {
+      "start_time": "00:10:47,920",
+      "end_time": "00:10:51,279",
+      "text": "awareness"
+    },
+    {
+      "start_time": "00:10:48,640",
+      "end_time": "00:10:52,160",
+      "text": "rpgs grew let's just say they times 10."
+    },
+    {
+      "start_time": "00:10:51,279",
+      "end_time": "00:10:53,920",
+      "text": "yeah and yeah"
+    },
+    {
+      "start_time": "00:10:52,160",
+      "end_time": "00:10:55,200",
+      "text": "fifth edition grabbed the majority of"
+    },
+    {
+      "start_time": "00:10:53,920",
+      "end_time": "00:10:58,720",
+      "text": "that market share"
+    },
+    {
+      "start_time": "00:10:55,200",
+      "end_time": "00:11:01,440",
+      "text": "but a rising tide right lifts all boats"
+    },
+    {
+      "start_time": "00:10:58,720",
+      "end_time": "00:11:02,560",
+      "text": "right so paizo is likely doing probably"
+    },
+    {
+      "start_time": "00:11:01,440",
+      "end_time": "00:11:04,320",
+      "text": "my guess would be the best"
+    },
+    {
+      "start_time": "00:11:02,560",
+      "end_time": "00:11:06,240",
+      "text": "looking the best they've ever done ratio"
+    },
+    {
+      "start_time": "00:11:04,320",
+      "end_time": "00:11:06,720",
+      "text": "against itself as opposed to like in the"
+    },
+    {
+      "start_time": "00:11:06,240",
+      "end_time": "00:11:07,920",
+      "text": "market"
+    },
+    {
+      "start_time": "00:11:06,720",
+      "end_time": "00:11:09,680",
+      "text": "yeah like you should expect that"
+    },
+    {
+      "start_time": "00:11:07,920",
+      "end_time": "00:11:11,040",
+      "text": "coca-cola is always going to do the best"
+    },
+    {
+      "start_time": "00:11:09,680",
+      "end_time": "00:11:11,360",
+      "text": "yeah but like if you're dr pepper if"
+    },
+    {
+      "start_time": "00:11:11,040",
+      "end_time": "00:11:13,040",
+      "text": "you're a"
+    },
+    {
+      "start_time": "00:11:11,360",
+      "end_time": "00:11:14,800",
+      "text": "squirt or something uh if you're"
+    },
+    {
+      "start_time": "00:11:13,040",
+      "end_time": "00:11:16,240",
+      "text": "pathfinder like it doesn't mean that"
+    },
+    {
+      "start_time": "00:11:14,800",
+      "end_time": "00:11:18,240",
+      "text": "you're worse it just means that like"
+    },
+    {
+      "start_time": "00:11:16,240",
+      "end_time": "00:11:19,519",
+      "text": "there are there are so many more sure"
+    },
+    {
+      "start_time": "00:11:18,240",
+      "end_time": "00:11:21,680",
+      "text": "coca-cola's out there there's so many"
+    },
+    {
+      "start_time": "00:11:19,519",
+      "end_time": "00:11:23,839",
+      "text": "more d like it's the number one thing so"
+    },
+    {
+      "start_time": "00:11:21,680",
+      "end_time": "00:11:25,519",
+      "text": "seeing how you're doing with your"
+    },
+    {
+      "start_time": "00:11:23,839",
+      "end_time": "00:11:26,160",
+      "text": "history is more important than you with"
+    },
+    {
+      "start_time": "00:11:25,519",
+      "end_time": "00:11:27,440",
+      "text": "like the"
+    },
+    {
+      "start_time": "00:11:26,160",
+      "end_time": "00:11:29,120",
+      "text": "right judge against your past"
+    },
+    {
+      "start_time": "00:11:27,440",
+      "end_time": "00:11:29,839",
+      "text": "performance i mean i'm sure paisa would"
+    },
+    {
+      "start_time": "00:11:29,120",
+      "end_time": "00:11:32,800",
+      "text": "love to take"
+    },
+    {
+      "start_time": "00:11:29,839",
+      "end_time": "00:11:33,279",
+      "text": "fifth edition players but you know i i"
+    },
+    {
+      "start_time": "00:11:32,800",
+      "end_time": "00:11:35,920",
+      "text": "mean"
+    },
+    {
+      "start_time": "00:11:33,279",
+      "end_time": "00:11:37,360",
+      "text": "again it's it's just a huge market and"
+    },
+    {
+      "start_time": "00:11:35,920",
+      "end_time": "00:11:39,360",
+      "text": "they're doing fine and lastly"
+    },
+    {
+      "start_time": "00:11:37,360",
+      "end_time": "00:11:40,720",
+      "text": "the idea that okay the company is doing"
+    },
+    {
+      "start_time": "00:11:39,360",
+      "end_time": "00:11:42,640",
+      "text": "poorly"
+    },
+    {
+      "start_time": "00:11:40,720",
+      "end_time": "00:11:45,200",
+      "text": "so wizards will buy it it doesn't make"
+    },
+    {
+      "start_time": "00:11:42,640",
+      "end_time": "00:11:46,720",
+      "text": "any sense that was one of your points"
+    },
+    {
+      "start_time": "00:11:45,200",
+      "end_time": "00:11:48,720",
+      "text": "like if you buy out you buy out your"
+    },
+    {
+      "start_time": "00:11:46,720",
+      "end_time": "00:11:50,079",
+      "text": "competitor yeah if they are starting to"
+    },
+    {
+      "start_time": "00:11:48,720",
+      "end_time": "00:11:51,279",
+      "text": "steal too much of your marketing if"
+    },
+    {
+      "start_time": "00:11:50,079",
+      "end_time": "00:11:51,920",
+      "text": "you're concerned with them being a"
+    },
+    {
+      "start_time": "00:11:51,279",
+      "end_time": "00:11:53,600",
+      "text": "competitor"
+    },
+    {
+      "start_time": "00:11:51,920",
+      "end_time": "00:11:55,120",
+      "text": "if they're doing poorly you just let"
+    },
+    {
+      "start_time": "00:11:53,600",
+      "end_time": "00:11:57,440",
+      "text": "them go out of business"
+    },
+    {
+      "start_time": "00:11:55,120",
+      "end_time": "00:11:59,519",
+      "text": "you just let them die on their own yeah"
+    },
+    {
+      "start_time": "00:11:57,440",
+      "end_time": "00:12:00,800",
+      "text": "so i i just thought it was"
+    },
+    {
+      "start_time": "00:11:59,519",
+      "end_time": "00:12:02,560",
+      "text": "i don't know i just thought it was not a"
+    },
+    {
+      "start_time": "00:12:00,800",
+      "end_time": "00:12:04,480",
+      "text": "really great argument"
+    },
+    {
+      "start_time": "00:12:02,560",
+      "end_time": "00:12:05,920",
+      "text": "from such a good youtube yeah from such"
+    },
+    {
+      "start_time": "00:12:04,480",
+      "end_time": "00:12:08,000",
+      "text": "a uh i mean that being said"
+    },
+    {
+      "start_time": "00:12:05,920",
+      "end_time": "00:12:09,279",
+      "text": "did you do it on purpose well so there's"
+    },
+    {
+      "start_time": "00:12:08,000",
+      "end_time": "00:12:10,560",
+      "text": "a lot of drama because"
+    },
+    {
+      "start_time": "00:12:09,279",
+      "end_time": "00:12:12,399",
+      "text": "there have been a couple of channels"
+    },
+    {
+      "start_time": "00:12:10,560",
+      "end_time": "00:12:13,839",
+      "text": "that just like to on pathfinder"
+    },
+    {
+      "start_time": "00:12:12,399",
+      "end_time": "00:12:14,399",
+      "text": "second edition what's his face taking"
+    },
+    {
+      "start_time": "00:12:13,839",
+      "end_time": "00:12:15,839",
+      "text": "twenty"
+    },
+    {
+      "start_time": "00:12:14,399",
+      "end_time": "00:12:18,399",
+      "text": "twenty did the same thing and it's like"
+    },
+    {
+      "start_time": "00:12:15,839",
+      "end_time": "00:12:20,639",
+      "text": "dude come on like"
+    },
+    {
+      "start_time": "00:12:18,399",
+      "end_time": "00:12:22,320",
+      "text": "this game is already a you know a fringe"
+    },
+    {
+      "start_time": "00:12:20,639",
+      "end_time": "00:12:24,399",
+      "text": "game like we don't need"
+    },
+    {
+      "start_time": "00:12:22,320",
+      "end_time": "00:12:26,240",
+      "text": "all these youtubers who just want to get"
+    },
+    {
+      "start_time": "00:12:24,399",
+      "end_time": "00:12:27,600",
+      "text": "views and so they just dunk on this game"
+    },
+    {
+      "start_time": "00:12:26,240",
+      "end_time": "00:12:29,519",
+      "text": "because it's easier to dunk on"
+    },
+    {
+      "start_time": "00:12:27,600",
+      "end_time": "00:12:30,079",
+      "text": "pathfinder than it is to dunk on 5th"
+    },
+    {
+      "start_time": "00:12:29,519",
+      "end_time": "00:12:31,600",
+      "text": "edition"
+    },
+    {
+      "start_time": "00:12:30,079",
+      "end_time": "00:12:33,279",
+      "text": "because if you dunk on 5th edition"
+    },
+    {
+      "start_time": "00:12:31,600",
+      "end_time": "00:12:35,200",
+      "text": "you're going to have 10 000 people in"
+    },
+    {
+      "start_time": "00:12:33,279",
+      "end_time": "00:12:36,720",
+      "text": "your comments oh i'm ready screaming at"
+    },
+    {
+      "start_time": "00:12:35,200",
+      "end_time": "00:12:38,079",
+      "text": "you let me dunk on fire but if you dunk"
+    },
+    {
+      "start_time": "00:12:36,720",
+      "end_time": "00:12:39,839",
+      "text": "on pathfinder second edition"
+    },
+    {
+      "start_time": "00:12:38,079",
+      "end_time": "00:12:40,959",
+      "text": "all the people who play fifth edition"
+    },
+    {
+      "start_time": "00:12:39,839",
+      "end_time": "00:12:42,240",
+      "text": "are just gonna sit there and pat"
+    },
+    {
+      "start_time": "00:12:40,959",
+      "end_time": "00:12:44,320",
+      "text": "themselves on the back and say"
+    },
+    {
+      "start_time": "00:12:42,240",
+      "end_time": "00:12:45,760",
+      "text": "oh yeah i'm glad that they're dunking on"
+    },
+    {
+      "start_time": "00:12:44,320",
+      "end_time": "00:12:46,240",
+      "text": "that game because i feel better about"
+    },
+    {
+      "start_time": "00:12:45,760",
+      "end_time": "00:12:48,800",
+      "text": "myself"
+    },
+    {
+      "start_time": "00:12:46,240",
+      "end_time": "00:12:50,000",
+      "text": "i don't think that you know either game"
+    },
+    {
+      "start_time": "00:12:48,800",
+      "end_time": "00:12:50,639",
+      "text": "fifth edition or pathfinder is"
+    },
+    {
+      "start_time": "00:12:50,000",
+      "end_time": "00:12:51,920",
+      "text": "necessarily"
+    },
+    {
+      "start_time": "00:12:50,639",
+      "end_time": "00:12:53,680",
+      "text": "better than the other one i think"
+    },
+    {
+      "start_time": "00:12:51,920",
+      "end_time": "00:12:55,920",
+      "text": "they're just different but the idea that"
+    },
+    {
+      "start_time": "00:12:53,680",
+      "end_time": "00:12:57,920",
+      "text": "a game isn't doing as"
+    },
+    {
+      "start_time": "00:12:55,920",
+      "end_time": "00:12:59,440",
+      "text": "well because it's not doing hundreds of"
+    },
+    {
+      "start_time": "00:12:57,920",
+      "end_time": "00:13:01,120",
+      "text": "millions of dollars because it's not the"
+    },
+    {
+      "start_time": "00:12:59,440",
+      "end_time": "00:13:04,480",
+      "text": "biggest role-playing game in the world"
+    },
+    {
+      "start_time": "00:13:01,120",
+      "end_time": "00:13:06,079",
+      "text": "owned by a massive multi-national huge"
+    },
+    {
+      "start_time": "00:13:04,480",
+      "end_time": "00:13:08,480",
+      "text": "gaming mega corporation"
+    },
+    {
+      "start_time": "00:13:06,079",
+      "end_time": "00:13:09,760",
+      "text": "it's crazy yep i agree it's kind of"
+    },
+    {
+      "start_time": "00:13:08,480",
+      "end_time": "00:13:11,200",
+      "text": "funny because"
+    },
+    {
+      "start_time": "00:13:09,760",
+      "end_time": "00:13:12,639",
+      "text": "back in the day with world of warcraft"
+    },
+    {
+      "start_time": "00:13:11,200",
+      "end_time": "00:13:13,680",
+      "text": "and other mmos that were around it i"
+    },
+    {
+      "start_time": "00:13:12,639",
+      "end_time": "00:13:15,440",
+      "text": "remember having very similar"
+    },
+    {
+      "start_time": "00:13:13,680",
+      "end_time": "00:13:17,440",
+      "text": "conversations because"
+    },
+    {
+      "start_time": "00:13:15,440",
+      "end_time": "00:13:18,720",
+      "text": "every mmo started to judge success on"
+    },
+    {
+      "start_time": "00:13:17,440",
+      "end_time": "00:13:19,440",
+      "text": "did they make as much money as world of"
+    },
+    {
+      "start_time": "00:13:18,720",
+      "end_time": "00:13:20,880",
+      "text": "warcraft"
+    },
+    {
+      "start_time": "00:13:19,440",
+      "end_time": "00:13:23,360",
+      "text": "and that was a very stupid measure of"
+    },
+    {
+      "start_time": "00:13:20,880",
+      "end_time": "00:13:24,880",
+      "text": "success every game looked like a pile of"
+    },
+    {
+      "start_time": "00:13:23,360",
+      "end_time": "00:13:26,639",
+      "text": "steaming"
+    },
+    {
+      "start_time": "00:13:24,880",
+      "end_time": "00:13:28,399",
+      "text": "as far as sales go in comparison they"
+    },
+    {
+      "start_time": "00:13:26,639",
+      "end_time": "00:13:30,000",
+      "text": "were pulling in 500 000 to a million"
+    },
+    {
+      "start_time": "00:13:28,399",
+      "end_time": "00:13:30,800",
+      "text": "subscribers world workers like 15"
+    },
+    {
+      "start_time": "00:13:30,000",
+      "end_time": "00:13:33,440",
+      "text": "million"
+    },
+    {
+      "start_time": "00:13:30,800",
+      "end_time": "00:13:34,240",
+      "text": " like like it's nothing right and"
+    },
+    {
+      "start_time": "00:13:33,440",
+      "end_time": "00:13:35,920",
+      "text": "you know"
+    },
+    {
+      "start_time": "00:13:34,240",
+      "end_time": "00:13:37,360",
+      "text": "whereas realistically before world of"
+    },
+    {
+      "start_time": "00:13:35,920",
+      "end_time": "00:13:39,440",
+      "text": "warcraft ever entered the market"
+    },
+    {
+      "start_time": "00:13:37,360",
+      "end_time": "00:13:40,959",
+      "text": "everquest had like 500k that was like"
+    },
+    {
+      "start_time": "00:13:39,440",
+      "end_time": "00:13:44,320",
+      "text": "the thriving"
+    },
+    {
+      "start_time": "00:13:40,959",
+      "end_time": "00:13:45,519",
+      "text": "mmo of all time it was incredible right"
+    },
+    {
+      "start_time": "00:13:44,320",
+      "end_time": "00:13:47,600",
+      "text": "right and then like all these other new"
+    },
+    {
+      "start_time": "00:13:45,519",
+      "end_time": "00:13:49,199",
+      "text": "mmos yeah 500"
+    },
+    {
+      "start_time": "00:13:47,600",
+      "end_time": "00:13:51,360",
+      "text": "000 to a million like they're doing on"
+    },
+    {
+      "start_time": "00:13:49,199",
+      "end_time": "00:13:52,000",
+      "text": "par with what the previous best mmo ever"
+    },
+    {
+      "start_time": "00:13:51,360",
+      "end_time": "00:13:54,240",
+      "text": "was"
+    },
+    {
+      "start_time": "00:13:52,000",
+      "end_time": "00:13:55,600",
+      "text": "better than they've ever done yeah it's"
+    },
+    {
+      "start_time": "00:13:54,240",
+      "end_time": "00:13:56,959",
+      "text": "in multiple it's like comparing the"
+    },
+    {
+      "start_time": "00:13:55,600",
+      "end_time": "00:13:57,360",
+      "text": "success of your youtube video to"
+    },
+    {
+      "start_time": "00:13:56,959",
+      "end_time": "00:13:59,120",
+      "text": "something"
+    },
+    {
+      "start_time": "00:13:57,360",
+      "end_time": "00:14:00,639",
+      "text": "released by pewdiepie right you know"
+    },
+    {
+      "start_time": "00:13:59,120",
+      "end_time": "00:14:02,560",
+      "text": "they're like well our company's over"
+    },
+    {
+      "start_time": "00:14:00,639",
+      "end_time": "00:14:04,800",
+      "text": "because world warcraft still has"
+    },
+    {
+      "start_time": "00:14:02,560",
+      "end_time": "00:14:05,600",
+      "text": "10 times as many subs we better shut it"
+    },
+    {
+      "start_time": "00:14:04,800",
+      "end_time": "00:14:07,040",
+      "text": "down"
+    },
+    {
+      "start_time": "00:14:05,600",
+      "end_time": "00:14:08,720",
+      "text": "and that's happens and that's just"
+    },
+    {
+      "start_time": "00:14:07,040",
+      "end_time": "00:14:10,880",
+      "text": "foolish like the major league baseball"
+    },
+    {
+      "start_time": "00:14:08,720",
+      "end_time": "00:14:12,560",
+      "text": "team versus the little league team"
+    },
+    {
+      "start_time": "00:14:10,880",
+      "end_time": "00:14:14,079",
+      "text": "it's you're in totally different leagues"
+    },
+    {
+      "start_time": "00:14:12,560",
+      "end_time": "00:14:16,000",
+      "text": "but you're still playing the same sport"
+    },
+    {
+      "start_time": "00:14:14,079",
+      "end_time": "00:14:17,199",
+      "text": "right you got a decent audience for both"
+    },
+    {
+      "start_time": "00:14:16,000",
+      "end_time": "00:14:18,959",
+      "text": "but a different reason but i think"
+    },
+    {
+      "start_time": "00:14:17,199",
+      "end_time": "00:14:20,160",
+      "text": "i think that i think the i think that's"
+    },
+    {
+      "start_time": "00:14:18,959",
+      "end_time": "00:14:21,920",
+      "text": "a really good comparison with world of"
+    },
+    {
+      "start_time": "00:14:20,160",
+      "end_time": "00:14:23,040",
+      "text": "warcraft i think that's really good"
+    },
+    {
+      "start_time": "00:14:21,920",
+      "end_time": "00:14:24,800",
+      "text": "yeah because i didn't think about that"
+    },
+    {
+      "start_time": "00:14:23,040",
+      "end_time": "00:14:25,519",
+      "text": "yeah and i think it's i think it comes"
+    },
+    {
+      "start_time": "00:14:24,800",
+      "end_time": "00:14:27,839",
+      "text": "down to"
+    },
+    {
+      "start_time": "00:14:25,519",
+      "end_time": "00:14:29,360",
+      "text": "you know different companies exist for"
+    },
+    {
+      "start_time": "00:14:27,839",
+      "end_time": "00:14:31,920",
+      "text": "different reasons"
+    },
+    {
+      "start_time": "00:14:29,360",
+      "end_time": "00:14:32,480",
+      "text": "as much as i hate to say this wizards of"
+    },
+    {
+      "start_time": "00:14:31,920",
+      "end_time": "00:14:34,399",
+      "text": "the coast"
+    },
+    {
+      "start_time": "00:14:32,480",
+      "end_time": "00:14:36,240",
+      "text": "exists to make money for its"
+    },
+    {
+      "start_time": "00:14:34,399",
+      "end_time": "00:14:37,360",
+      "text": "shareholders that's the reason that"
+    },
+    {
+      "start_time": "00:14:36,240",
+      "end_time": "00:14:39,199",
+      "text": "company exists"
+    },
+    {
+      "start_time": "00:14:37,360",
+      "end_time": "00:14:40,560",
+      "text": "now that it yeah hasbro right hasbro"
+    },
+    {
+      "start_time": "00:14:39,199",
+      "end_time": "00:14:44,079",
+      "text": "zoned it for many years"
+    },
+    {
+      "start_time": "00:14:40,560",
+      "end_time": "00:14:45,360",
+      "text": "okay it was real sweet in the 90s though"
+    },
+    {
+      "start_time": "00:14:44,079",
+      "end_time": "00:14:48,000",
+      "text": "all right that's the end of the video"
+    },
+    {
+      "start_time": "00:14:45,360",
+      "end_time": "00:14:50,160",
+      "text": "see you guys next week"
+    },
+    {
+      "start_time": "00:14:48,000",
+      "end_time": "00:14:51,040",
+      "text": "uh so fifth edition exists in order to"
+    },
+    {
+      "start_time": "00:14:50,160",
+      "end_time": "00:14:52,880",
+      "text": "sell books"
+    },
+    {
+      "start_time": "00:14:51,040",
+      "end_time": "00:14:55,360",
+      "text": "so that their shareholders can make"
+    },
+    {
+      "start_time": "00:14:52,880",
+      "end_time": "00:14:58,079",
+      "text": "money paizo exists"
+    },
+    {
+      "start_time": "00:14:55,360",
+      "end_time": "00:14:58,720",
+      "text": "to pay its people probably make a small"
+    },
+    {
+      "start_time": "00:14:58,079",
+      "end_time": "00:15:00,560",
+      "text": "profit"
+    },
+    {
+      "start_time": "00:14:58,720",
+      "end_time": "00:15:02,160",
+      "text": "and make great content now i'm not"
+    },
+    {
+      "start_time": "00:15:00,560",
+      "end_time": "00:15:03,519",
+      "text": "suggesting that fifth edition's goal"
+    },
+    {
+      "start_time": "00:15:02,160",
+      "end_time": "00:15:04,560",
+      "text": "isn't to make great content because they"
+    },
+    {
+      "start_time": "00:15:03,519",
+      "end_time": "00:15:06,880",
+      "text": "might think to myself"
+    },
+    {
+      "start_time": "00:15:04,560",
+      "end_time": "00:15:07,760",
+      "text": "well we need to make money but the best"
+    },
+    {
+      "start_time": "00:15:06,880",
+      "end_time": "00:15:09,680",
+      "text": "way we do that"
+    },
+    {
+      "start_time": "00:15:07,760",
+      "end_time": "00:15:11,199",
+      "text": "is by making great content but their"
+    },
+    {
+      "start_time": "00:15:09,680",
+      "end_time": "00:15:14,079",
+      "text": "primary goal"
+    },
+    {
+      "start_time": "00:15:11,199",
+      "end_time": "00:15:15,839",
+      "text": "is to make money and that is not"
+    },
+    {
+      "start_time": "00:15:14,079",
+      "end_time": "00:15:17,760",
+      "text": "necessarily paizo's goal"
+    },
+    {
+      "start_time": "00:15:15,839",
+      "end_time": "00:15:19,519",
+      "text": "piso could be charging more money they"
+    },
+    {
+      "start_time": "00:15:17,760",
+      "end_time": "00:15:21,040",
+      "text": "could be selling their digital books"
+    },
+    {
+      "start_time": "00:15:19,519",
+      "end_time": "00:15:22,800",
+      "text": "for full value they could shut down"
+    },
+    {
+      "start_time": "00:15:21,040",
+      "end_time": "00:15:24,880",
+      "text": "archives of netherlands and make you buy"
+    },
+    {
+      "start_time": "00:15:22,800",
+      "end_time": "00:15:26,959",
+      "text": "a full value msrp book"
+    },
+    {
+      "start_time": "00:15:24,880",
+      "end_time": "00:15:28,320",
+      "text": "online or pay a subscription fee or pay"
+    },
+    {
+      "start_time": "00:15:26,959",
+      "end_time": "00:15:29,839",
+      "text": "a subscription fee to be able to play"
+    },
+    {
+      "start_time": "00:15:28,320",
+      "end_time": "00:15:31,279",
+      "text": "and access your dnd beyond they could"
+    },
+    {
+      "start_time": "00:15:29,839",
+      "end_time": "00:15:33,120",
+      "text": "have pathfinder beyond"
+    },
+    {
+      "start_time": "00:15:31,279",
+      "end_time": "00:15:36,000",
+      "text": "they don't instead they have a website"
+    },
+    {
+      "start_time": "00:15:33,120",
+      "end_time": "00:15:38,160",
+      "text": "which is amazing that is completely free"
+    },
+    {
+      "start_time": "00:15:36,000",
+      "end_time": "00:15:40,560",
+      "text": "so clearly they have different company"
+    },
+    {
+      "start_time": "00:15:38,160",
+      "end_time": "00:15:41,920",
+      "text": "goals so don't judge the success of a"
+    },
+    {
+      "start_time": "00:15:40,560",
+      "end_time": "00:15:44,639",
+      "text": "company based off of different"
+    },
+    {
+      "start_time": "00:15:41,920",
+      "end_time": "00:15:47,360",
+      "text": "goals and structures and certainly do"
+    },
+    {
+      "start_time": "00:15:44,639",
+      "end_time": "00:15:49,759",
+      "text": "not judge the quality of the game"
+    },
+    {
+      "start_time": "00:15:47,360",
+      "end_time": "00:15:52,000",
+      "text": "based on the financial decisions that"
+    },
+    {
+      "start_time": "00:15:49,759",
+      "end_time": "00:15:55,600",
+      "text": "two very different companies are making"
+    },
+    {
+      "start_time": "00:15:52,000",
+      "end_time": "00:15:58,880",
+      "text": "yeah yeah a great point checks out"
+    },
+    {
+      "start_time": "00:15:55,600",
+      "end_time": "00:16:01,040",
+      "text": "all right so for the nights of last call"
+    },
+    {
+      "start_time": "00:15:58,880",
+      "end_time": "00:16:02,880",
+      "text": "i'm derek melenda saying thank you for"
+    },
+    {
+      "start_time": "00:16:01,040",
+      "end_time": "00:16:09,839",
+      "text": "joining us and we'll see you next time"
+    },
+    {
+      "start_time": "00:16:02,880",
+      "end_time": "00:16:09,839",
+      "text": "on the nightlife"
+    },
+    {
+      "start_time": "00:16:21,759",
+      "end_time": "00:16:23,839",
+      "text": "you"
+    }
+  ],
+  "full_text": "welcome to nightlife where the knights\nof last call get around\nand we kind of have a casual\nconversation about events\ntopics relative to pathfinder tabletop\nrole-playing games dungeons and dragons\nor just kind of gaming in general so\ntoday i thought we could start our\nnightlife off by talking about a recent\nvideo\nmade by professor dungeon master of\ndungeoncraft where he talked about\nhis view on pathfinder 2's relative\nfinancial success\nwas it in trouble is there an option\nthat wizards of the coast might\nbuy paizo based on some of his\nuh analytics and sort of some of his\nfeedback and some of the information\nthat he has done\nand kind of talk about what that means\nand and why uh\nwhy that may or may not be true i agree\nso for those of you who have not seen\nthe video and i will link it\nthere um professor dungeon master of uh\nuh dungeoncraft who i enjoy\nuh awesome he's great he's mostly an old\nschool guy\num he plays fifth edition but with very\nstripped down rules\nvery very very stripped down rules and\nuh he has some really really cool\nuh videos and i've watched him for a\nlong time i think he's a great osr\ncontent producer\nand he makes some great stuff but he\nbasically did a video where\nhe said hey pathfinder second edition\nisn't selling as well as fifth edition\nuh is is the edition failing and\nhis his premise was number one they just\ndid a humble bundle\nso if you don't know what a humble\nbundle is it's basically an online\nthing where uh you know game designers\nand stuff usually associated with\ncharity\nand they put together some of their game\nproducts or whatever they're selling\npdf downloads sell it for a fairly\nreduced price\nin order to against a humble bundle um\nin order to you know sort of sell\ntheir products and somebody can go to\ncharity secondly there were two members\nof the paiso staff\nwhich recently moved to wizards of the\ncoast and his third point is simply just\nthat based on some of those metrics from\nroll 20\nwhich is the online virtual tabletop\nthat most people use that\npathfinder has a fraction of just a few\npercent non-existence of players\nare our pathfinder second edition\nplayers yeah that's a tough\nquestion sorry no no this is open\nconversations yeah i mean it's like it's\nit's comparing to you know like like uh\ndungeons and dragons uh hasbro wizards\nof the coast\nhuge i don't think wizards but huge uh\ninfluence i think pathfinder is much\nsmaller so\nabsolutely are we talking about ratio\nyeah i think compared to the size we're\njust like\nstraight away i was saying that dnd 5e's\ngot 800 million dollars\nin any sales and the pathway is 24\nmillion\nso therefore um they're they're failing\nyeah and the percentages are going\ntowards dnd and\nis dnd going to buy out yeah and so i\ni'll interject right here i think it i\nthink it was a fairly\nflawed argument uh i don't think it's in\ntrouble at all\num i think pathfinder you know a lot of\npeople get confused because they think\nback to\nthe era in around 2009 2010\nafter fourth edition had released and\nkind of not to critical acclaim\nand pathfinder first edition actually\nall outsold\nd d during that because i went back to\nsimilar to third edition yeah it was\nvery similar to three it's straight from\nwhere did this exactly was going to\nbring up because\nuh you would say it's not failing\nbecause you know pizza is still doing\nwell and but five he's just doing\nincredibly well\nright but at one point paizo\nwas outselling d and d and then 5e\nsomething happened they they did amazing\nwe talked about this off air about\ncritical role or just the ease of play\nyeah but well i i think that's so\nthere's a couple important points there\none number one yeah\npathfinder was outselling fourth edition\nbut the total market share was also\nway smaller meaning yeah fifth edition\nis selling more but that's because fifth\nedition is selling\nit's not a percentage thing it's selling\na ton more\nyeah everywhere i don't know exactly\nwhat the figures were but back in that\nera where pathfinder one was outselling\nfourth edition\nyeah pathfinder one was still only doing\n15 million\nuh in sales you know like the idea that\ndunstan dragons is selling hundreds of\nmillions of dollars\nthat is all new growth it's you know so\nfrom uh from from paizo's perspective\npathfinder second edition is selling\ngreat\nit's selling more than they used to sell\ni said it's like comparing your local\ncoffee shop\nto starbucks yeah and saying starbucks\nmade a ton more money starbucks\nstarbucks did a billion dollars in sales\ni only did a couple million\ni guess my business is failing and i\nguess it doesn't matter\nand i guess starbucks is gonna buy me\nout no it doesn't\nand then for the humble bundle i think\nit's marketing absolutely\nright because look look if pathfinder\nsecond edition\nit has it look it has to get its toe in\nthe door fifth edition has\nhighly entrenched highly entrenched its\nplayers\npeople are very very much bound to their\ndungeons i mean it's dnd\nyeah but even more so there was an era\nwhere people were being starting to get\na lot more loosey-goosey\nwith what role-playing games they would\nplay but a lot of people now are like d\nand d\n5e ride or die oh wow and second edition\npathfinder is trying to say hey look\nwe're willing to sell this product by\nthe way\ndigital product yeah pdf yes huge\nremember just dnd and different editions\nhave had like their online spend extra\nmoney for their online compendium and\nyou can do the online\nit's amazing to get into pathfinder was\nalready free yeah i give the the victory\nto pathfinder on that like the online\nexperience it's so much easier to use\nthan\nthan do you need to be honest it's so\nexpensive but keep that in mind though\ntoo\nyou are giving out free stuff but yet\nyou're still making\nmillions of dollars in sales right so\njust just think about if they were to\ncharge for everything\nwould those numbers be more comparable\nright also paizo's you know look\npi d d is a brand owned by wizards of\ncoast which is a wholly owned subsidiary\nof hasbro which is a publicly traded\nstock\ntheir goal is to make as much money off\nof you as you can that is why they are\nselling you the\nphysical book they sell you the digital\nbook for the same price\nridiculous as the physical book on the\npdf then if you want to get the digital\nbook for your roll 20 integration\nthrough d and d beyond you have to buy\nthat digital book on roll 20.\nso you might own the pdf you might own\nthe physical book\nand then you own the book on roll 20 oh\nand that's when you can buy your\ndigital virtual dice which costs 10 15.\nthat's expecting too much from they are\nmicrotransaction you into the graves i\nmean yeah is this\nea sports or or apple yeah\nthey're a corporation so they're doing\nwhat they're supposed to do they're\ntrying to make as much\nthey're trying to make as much money as\npossible for their shareholders\npaizo is not publicly held\nthey are a private company who are very\ncontent\nto pay their staff reasonable reasonable\nwages\nuh probably make a small amount of\nprofit for their owners\nand just make great content yep that's\nall they care about i think one of the\ntwo people that left i read on reddit\nuh took a senior position so it was a\npromotion yeah also too by the way\nyou're crazy people who work for d d\nhave worked for paizo people who work\nfor paizo have worked for d d\nlike they are in dc they always go back\nand forth their corporate headquarters\nare literally within like 10 to 15 miles\nreally\ni've been to both oh wow and like yeah\nthey're all from washington state\nthey're all in that seattle area renton\narea\ntax rebate yeah exact discount you don't\nhave to pay sales tax or\ni don't know the other thing sometimes\nthey were talking about the role 20 and\nand you know this\nis that none of the pathfinder people\nare enrolled tomorrow that's right we\ndon't use rule 20 anymore we use foundry\nwe use foundry virtual tablets way to my\nfavorite way to handle it\nis uh you know get vaccinated hang out\nwith my friend right\nat the place but yeah it's it's uh\nfoundry's way better and i think\npathfinder second edition uh\nplayers are probably using alternative\ntables more than rule 20 because\nthe integration isn't great i think role\n20 is not a good program\ni think it does agree very very well in\nboth founders\nwell it was a great idea when it came\nout you know 15 years ago and they have\nwhen you try to have it like\nyou you're trying to just represent\nphysics and the way the world works\nthat makes it very hard for a to you're\ntrying to do too many things and it's\nhard to be good at anything when you're\ntrying to\nplus it's a monthly fee foundation\nis a one-time license only the game\nmaster has to buy it\nlike roll 20 is a money sync and they\nhave not put\nthe time and the effort it makes sense\nand dnd is comparable right right\nbecause if we're playing d\ni have to buy like the monster manual or\nthe like the thing and then i can get my\nplayers to play\nbecause i have everything you need yeah\nand so i think that's similar with uh\nyou know so the fact that archives of\nnetflix is free\nand that you can get not just the so\nsearchable the only thing that you\ncannot get for free for pathfinder is\nthe adventure path\nwhich makes sense because it like we\ncreate the world and that's free\nwe additionally create adventures in\nthat world you have to pay extra for\nwell they create the world\nand they create all of the rules yep and\nthat's all free right yeah\nit's incredible so absolutely so again\nyou're comparing\na corporate juggernaut who exists to\nsuck money out of players\nto a small independent company\nwho is happily paying its small staff of\npeople to produce content\nand then in terms of you know falling\nover or whatever\npaizo has released like i don't know 12\nbooks this year\ni'm and actually i'm pretty excited to\nget some of them like they're\ngoing to get my money edition came out\ngen con 2019\ntim and i were there we bought it that\nday oh yeah they are on beast cherry\nthree\nthey're probably coming out with beats\njerry four soon okay fifth edition has\nbeen out since 2014.\nthere's the monster manual there is\nmorton kyan's tomafoes\nand there is uh volo's guide to monster\nthey have three monster manuals\npathfinder has been out for two years\nnot even full two years and has two or\nthree monster manuals\nand look i don't want to play some\nregular ass characters i want to play\nsome weird stuff from like the third\nbook where i'm a centaur trying to go up\nropes\nlike like you know in dungeons where you\ncould try to go up like i want the\nweirder stuff yeah i want like the extra\nso no beastmaster four or five a compa a\ncompany that was going out of business\nor struggling would not have the\nproduction schedule that they have\nright they are making huge print runs\nthey have an incredible library of\nadventures\nthey're trying new things new product\nofferings like these one-shots\nthe smaller adventure pass and they're\nproducing books and they're producing\nsupplements\nand they're producing adventures like\nyeah no this isn't a company though\nno nat made a good point too where he\nwas like you can't say that\npaizo's share went down when the growth\nof the rpg in general just\nexpanded so much so dnd just grabbed a\nlot of it of course\nwent up too well the the huge the huge\nspike in the market\noccurred in the late you know 20 teens\nuh pathfinder second edition didn't did\nnot come out till\n2019 and when d d grew maybe because of\ncritical role maybe because of stranger\nthings maybe just because of brand\nawareness\nrpgs grew let's just say they times 10.\nyeah and yeah\nfifth edition grabbed the majority of\nthat market share\nbut a rising tide right lifts all boats\nright so paizo is likely doing probably\nmy guess would be the best\nlooking the best they've ever done ratio\nagainst itself as opposed to like in the\nmarket\nyeah like you should expect that\ncoca-cola is always going to do the best\nyeah but like if you're dr pepper if\nyou're a\nsquirt or something uh if you're\npathfinder like it doesn't mean that\nyou're worse it just means that like\nthere are there are so many more sure\ncoca-cola's out there there's so many\nmore d like it's the number one thing so\nseeing how you're doing with your\nhistory is more important than you with\nlike the\nright judge against your past\nperformance i mean i'm sure paisa would\nlove to take\nfifth edition players but you know i i\nmean\nagain it's it's just a huge market and\nthey're doing fine and lastly\nthe idea that okay the company is doing\npoorly\nso wizards will buy it it doesn't make\nany sense that was one of your points\nlike if you buy out you buy out your\ncompetitor yeah if they are starting to\nsteal too much of your marketing if\nyou're concerned with them being a\ncompetitor\nif they're doing poorly you just let\nthem go out of business\nyou just let them die on their own yeah\nso i i just thought it was\ni don't know i just thought it was not a\nreally great argument\nfrom such a good youtube yeah from such\na uh i mean that being said\ndid you do it on purpose well so there's\na lot of drama because\nthere have been a couple of channels\nthat just like to on pathfinder\nsecond edition what's his face taking\ntwenty\ntwenty did the same thing and it's like\ndude come on like\nthis game is already a you know a fringe\ngame like we don't need\nall these youtubers who just want to get\nviews and so they just dunk on this game\nbecause it's easier to dunk on\npathfinder than it is to dunk on 5th\nedition\nbecause if you dunk on 5th edition\nyou're going to have 10 000 people in\nyour comments oh i'm ready screaming at\nyou let me dunk on fire but if you dunk\non pathfinder second edition\nall the people who play fifth edition\nare just gonna sit there and pat\nthemselves on the back and say\noh yeah i'm glad that they're dunking on\nthat game because i feel better about\nmyself\ni don't think that you know either game\nfifth edition or pathfinder is\nnecessarily\nbetter than the other one i think\nthey're just different but the idea that\na game isn't doing as\nwell because it's not doing hundreds of\nmillions of dollars because it's not the\nbiggest role-playing game in the world\nowned by a massive multi-national huge\ngaming mega corporation\nit's crazy yep i agree it's kind of\nfunny because\nback in the day with world of warcraft\nand other mmos that were around it i\nremember having very similar\nconversations because\nevery mmo started to judge success on\ndid they make as much money as world of\nwarcraft\nand that was a very stupid measure of\nsuccess every game looked like a pile of\nsteaming\nas far as sales go in comparison they\nwere pulling in 500 000 to a million\nsubscribers world workers like 15\nmillion\n like like it's nothing right and\nyou know\nwhereas realistically before world of\nwarcraft ever entered the market\neverquest had like 500k that was like\nthe thriving\nmmo of all time it was incredible right\nright and then like all these other new\nmmos yeah 500\n000 to a million like they're doing on\npar with what the previous best mmo ever\nwas\nbetter than they've ever done yeah it's\nin multiple it's like comparing the\nsuccess of your youtube video to\nsomething\nreleased by pewdiepie right you know\nthey're like well our company's over\nbecause world warcraft still has\n10 times as many subs we better shut it\ndown\nand that's happens and that's just\nfoolish like the major league baseball\nteam versus the little league team\nit's you're in totally different leagues\nbut you're still playing the same sport\nright you got a decent audience for both\nbut a different reason but i think\ni think that i think the i think that's\na really good comparison with world of\nwarcraft i think that's really good\nyeah because i didn't think about that\nyeah and i think it's i think it comes\ndown to\nyou know different companies exist for\ndifferent reasons\nas much as i hate to say this wizards of\nthe coast\nexists to make money for its\nshareholders that's the reason that\ncompany exists\nnow that it yeah hasbro right hasbro\nzoned it for many years\nokay it was real sweet in the 90s though\nall right that's the end of the video\nsee you guys next week\nuh so fifth edition exists in order to\nsell books\nso that their shareholders can make\nmoney paizo exists\nto pay its people probably make a small\nprofit\nand make great content now i'm not\nsuggesting that fifth edition's goal\nisn't to make great content because they\nmight think to myself\nwell we need to make money but the best\nway we do that\nis by making great content but their\nprimary goal\nis to make money and that is not\nnecessarily paizo's goal\npiso could be charging more money they\ncould be selling their digital books\nfor full value they could shut down\narchives of netherlands and make you buy\na full value msrp book\nonline or pay a subscription fee or pay\na subscription fee to be able to play\nand access your dnd beyond they could\nhave pathfinder beyond\nthey don't instead they have a website\nwhich is amazing that is completely free\nso clearly they have different company\ngoals so don't judge the success of a\ncompany based off of different\ngoals and structures and certainly do\nnot judge the quality of the game\nbased on the financial decisions that\ntwo very different companies are making\nyeah yeah a great point checks out\nall right so for the nights of last call\ni'm derek melenda saying thank you for\njoining us and we'll see you next time\non the nightlife\nyou\n"
+}

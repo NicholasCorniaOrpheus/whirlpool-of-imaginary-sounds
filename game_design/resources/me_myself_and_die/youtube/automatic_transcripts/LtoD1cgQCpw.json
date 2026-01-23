@@ -1,0 +1,2755 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,599",
+      "end_time": "00:00:04,680",
+      "text": "hey guys I want to talk to you today"
+    },
+    {
+      "start_time": "00:00:01,920",
+      "end_time": "00:00:06,720",
+      "text": "about the social encounter system I"
+    },
+    {
+      "start_time": "00:00:04,680",
+      "end_time": "00:00:09,960",
+      "text": "wanted to go into a little bit more well"
+    },
+    {
+      "start_time": "00:00:06,720",
+      "end_time": "00:00:12,960",
+      "text": "a lot more detail actually about um how"
+    },
+    {
+      "start_time": "00:00:09,960",
+      "end_time": "00:00:14,719",
+      "text": "it works about the philosophy behind it"
+    },
+    {
+      "start_time": "00:00:12,960",
+      "end_time": "00:00:18,000",
+      "text": "because that's really kind of a a key"
+    },
+    {
+      "start_time": "00:00:14,719",
+      "end_time": "00:00:21,000",
+      "text": "thing is the philosophy behind the whole"
+    },
+    {
+      "start_time": "00:00:18,000",
+      "end_time": "00:00:22,519",
+      "text": "inclusion of a social encounter system"
+    },
+    {
+      "start_time": "00:00:21,000",
+      "end_time": "00:00:25,400",
+      "text": "the the in the old"
+    },
+    {
+      "start_time": "00:00:22,519",
+      "end_time": "00:00:27,400",
+      "text": "days uh there W there wasn't any social"
+    },
+    {
+      "start_time": "00:00:25,400",
+      "end_time": "00:00:29,640",
+      "text": "conflict systems in place because in the"
+    },
+    {
+      "start_time": "00:00:27,400",
+      "end_time": "00:00:31,119",
+      "text": "very very earliest days of the game as"
+    },
+    {
+      "start_time": "00:00:29,640",
+      "end_time": "00:00:33,879",
+      "text": "some of you probably remember those of"
+    },
+    {
+      "start_time": "00:00:31,119",
+      "end_time": "00:00:36,680",
+      "text": "you who were there uh we didn't need"
+    },
+    {
+      "start_time": "00:00:33,879",
+      "end_time": "00:00:38,399",
+      "text": "anything so we thought right it was most"
+    },
+    {
+      "start_time": "00:00:36,680",
+      "end_time": "00:00:41,800",
+      "text": "of the time the conflicts were all"
+    },
+    {
+      "start_time": "00:00:38,399",
+      "end_time": "00:00:44,120",
+      "text": "violent most of the case in most cases"
+    },
+    {
+      "start_time": "00:00:41,800",
+      "end_time": "00:00:46,239",
+      "text": "so we didn't feel the need to have"
+    },
+    {
+      "start_time": "00:00:44,120",
+      "end_time": "00:00:47,840",
+      "text": "anything other than pure roleplaying"
+    },
+    {
+      "start_time": "00:00:46,239",
+      "end_time": "00:00:49,920",
+      "text": "right like I'm I'm sure a lot of us have"
+    },
+    {
+      "start_time": "00:00:47,840",
+      "end_time": "00:00:51,760",
+      "text": "had those sessions or at least at the"
+    },
+    {
+      "start_time": "00:00:49,920",
+      "end_time": "00:00:53,960",
+      "text": "very least uh if you haven't had the the"
+    },
+    {
+      "start_time": "00:00:51,760",
+      "end_time": "00:00:55,680",
+      "text": "sessions you've heard about the stories"
+    },
+    {
+      "start_time": "00:00:53,960",
+      "end_time": "00:00:58,199",
+      "text": "of people saying oh it was great we sat"
+    },
+    {
+      "start_time": "00:00:55,680",
+      "end_time": "00:01:00,440",
+      "text": "down to play the game and no one even"
+    },
+    {
+      "start_time": "00:00:58,199",
+      "end_time": "00:01:02,640",
+      "text": "rolled a die it was all just your role"
+    },
+    {
+      "start_time": "00:01:00,440",
+      "end_time": "00:01:04,720",
+      "text": "play and there's nothing wrong with that"
+    },
+    {
+      "start_time": "00:01:02,640",
+      "end_time": "00:01:06,040",
+      "text": "God knows I had endless hours of those"
+    },
+    {
+      "start_time": "00:01:04,720",
+      "end_time": "00:01:08,880",
+      "text": "kind of games over the years and they"
+    },
+    {
+      "start_time": "00:01:06,040",
+      "end_time": "00:01:11,920",
+      "text": "were super super fun however the goal of"
+    },
+    {
+      "start_time": "00:01:08,880",
+      "end_time": "00:01:15,240",
+      "text": "this game is to provide a different"
+    },
+    {
+      "start_time": "00:01:11,920",
+      "end_time": "00:01:17,600",
+      "text": "experience in a simulation I want the"
+    },
+    {
+      "start_time": "00:01:15,240",
+      "end_time": "00:01:20,600",
+      "text": "characters to matter and I want their"
+    },
+    {
+      "start_time": "00:01:17,600",
+      "end_time": "00:01:22,520",
+      "text": "skills to matter so what that means is"
+    },
+    {
+      "start_time": "00:01:20,600",
+      "end_time": "00:01:24,040",
+      "text": "if you're in a physical fight then the"
+    },
+    {
+      "start_time": "00:01:22,520",
+      "end_time": "00:01:26,799",
+      "text": "character is going to live or die based"
+    },
+    {
+      "start_time": "00:01:24,040",
+      "end_time": "00:01:28,759",
+      "text": "on their sword skill let's say or their"
+    },
+    {
+      "start_time": "00:01:26,799",
+      "end_time": "00:01:30,759",
+      "text": "weapon skill their ability to fight that"
+    },
+    {
+      "start_time": "00:01:28,759",
+      "end_time": "00:01:33,759",
+      "text": "is in no way reflect Ive of the skill of"
+    },
+    {
+      "start_time": "00:01:30,759",
+      "end_time": "00:01:36,720",
+      "text": "the player obviously right if I go into"
+    },
+    {
+      "start_time": "00:01:33,759",
+      "end_time": "00:01:39,200",
+      "text": "a fight I'm not relying on my knowledge"
+    },
+    {
+      "start_time": "00:01:36,720",
+      "end_time": "00:01:42,000",
+      "text": "of how to swing a sword in order to have"
+    },
+    {
+      "start_time": "00:01:39,200",
+      "end_time": "00:01:43,960",
+      "text": "my character swing a sword right the"
+    },
+    {
+      "start_time": "00:01:42,000",
+      "end_time": "00:01:46,560",
+      "text": "character is the one that actually"
+    },
+    {
+      "start_time": "00:01:43,960",
+      "end_time": "00:01:48,719",
+      "text": "swings a sword but I am the one that"
+    },
+    {
+      "start_time": "00:01:46,560",
+      "end_time": "00:01:50,680",
+      "text": "makes the Tactical decision to swing"
+    },
+    {
+      "start_time": "00:01:48,719",
+      "end_time": "00:01:52,520",
+      "text": "that sword and where to swing that sword"
+    },
+    {
+      "start_time": "00:01:50,680",
+      "end_time": "00:01:55,280",
+      "text": "and how to approach the enemy and all of"
+    },
+    {
+      "start_time": "00:01:52,520",
+      "end_time": "00:01:58,920",
+      "text": "that stuff so in combat we already have"
+    },
+    {
+      "start_time": "00:01:55,280",
+      "end_time": "00:02:01,320",
+      "text": "this blending of roleplay and mechanics"
+    },
+    {
+      "start_time": "00:01:58,920",
+      "end_time": "00:02:04,719",
+      "text": "right in a combat I say I draw my sword"
+    },
+    {
+      "start_time": "00:02:01,320",
+      "end_time": "00:02:07,439",
+      "text": "and and charge across the room uh"
+    },
+    {
+      "start_time": "00:02:04,719",
+      "end_time": "00:02:09,160",
+      "text": "knocking a table aside into the other"
+    },
+    {
+      "start_time": "00:02:07,439",
+      "end_time": "00:02:11,160",
+      "text": "guy before swinging My Sword whatever"
+    },
+    {
+      "start_time": "00:02:09,160",
+      "end_time": "00:02:12,640",
+      "text": "right that's me as the player"
+    },
+    {
+      "start_time": "00:02:11,160",
+      "end_time": "00:02:14,000",
+      "text": "determining what I'm going to do what my"
+    },
+    {
+      "start_time": "00:02:12,640",
+      "end_time": "00:02:16,280",
+      "text": "character is going to do but then I"
+    },
+    {
+      "start_time": "00:02:14,000",
+      "end_time": "00:02:19,239",
+      "text": "rolled ice and the die roll is based on"
+    },
+    {
+      "start_time": "00:02:16,280",
+      "end_time": "00:02:22,080",
+      "text": "the two hit values that the character"
+    },
+    {
+      "start_time": "00:02:19,239",
+      "end_time": "00:02:23,640",
+      "text": "has we do damage based on the weapon"
+    },
+    {
+      "start_time": "00:02:22,080",
+      "end_time": "00:02:26,000",
+      "text": "that the character is using none of that"
+    },
+    {
+      "start_time": "00:02:23,640",
+      "end_time": "00:02:27,560",
+      "text": "has anything to do with me Trevor Deval"
+    },
+    {
+      "start_time": "00:02:26,000",
+      "end_time": "00:02:30,480",
+      "text": "that has everything to do with Joe the"
+    },
+    {
+      "start_time": "00:02:27,560",
+      "end_time": "00:02:32,800",
+      "text": "fighter right his stats so already in"
+    },
+    {
+      "start_time": "00:02:30,480",
+      "end_time": "00:02:35,239",
+      "text": "combat we have this blending of roleplay"
+    },
+    {
+      "start_time": "00:02:32,800",
+      "end_time": "00:02:36,959",
+      "text": "and mechanics so all I'm doing with"
+    },
+    {
+      "start_time": "00:02:35,239",
+      "end_time": "00:02:38,319",
+      "text": "social encounters and I'm not the first"
+    },
+    {
+      "start_time": "00:02:36,959",
+      "end_time": "00:02:40,200",
+      "text": "one to do this by any stretch of the"
+    },
+    {
+      "start_time": "00:02:38,319",
+      "end_time": "00:02:41,800",
+      "text": "imagination uh but all I'm doing with"
+    },
+    {
+      "start_time": "00:02:40,200",
+      "end_time": "00:02:44,560",
+      "text": "social encounters is taking that exact"
+    },
+    {
+      "start_time": "00:02:41,800",
+      "end_time": "00:02:47,400",
+      "text": "same philosophy and applying it to a"
+    },
+    {
+      "start_time": "00:02:44,560",
+      "end_time": "00:02:49,319",
+      "text": "tense encounter where it's a battle of"
+    },
+    {
+      "start_time": "00:02:47,400",
+      "end_time": "00:02:52,440",
+      "text": "words instead of Battle of instead of a"
+    },
+    {
+      "start_time": "00:02:49,319",
+      "end_time": "00:02:55,920",
+      "text": "battle of blades and more specifically"
+    },
+    {
+      "start_time": "00:02:52,440",
+      "end_time": "00:02:58,959",
+      "text": "I'm designing a system that allows"
+    },
+    {
+      "start_time": "00:02:55,920",
+      "end_time": "00:03:00,640",
+      "text": "characters to achieve objectives in"
+    },
+    {
+      "start_time": "00:02:58,959",
+      "end_time": "00:03:04,879",
+      "text": "nonviolent"
+    },
+    {
+      "start_time": "00:03:00,640",
+      "end_time": "00:03:07,319",
+      "text": "means and yet to make that achievement"
+    },
+    {
+      "start_time": "00:03:04,879",
+      "end_time": "00:03:09,879",
+      "text": "of objectives in nonviolent means"
+    },
+    {
+      "start_time": "00:03:07,319",
+      "end_time": "00:03:12,599",
+      "text": "interesting mechanically as well as"
+    },
+    {
+      "start_time": "00:03:09,879",
+      "end_time": "00:03:13,560",
+      "text": "allowing people to still roleplay so"
+    },
+    {
+      "start_time": "00:03:12,599",
+      "end_time": "00:03:15,920",
+      "text": "that's something you have to keep in"
+    },
+    {
+      "start_time": "00:03:13,560",
+      "end_time": "00:03:18,319",
+      "text": "mind right off the bat"
+    },
+    {
+      "start_time": "00:03:15,920",
+      "end_time": "00:03:20,760",
+      "text": "is you are still role playing your"
+    },
+    {
+      "start_time": "00:03:18,319",
+      "end_time": "00:03:21,920",
+      "text": "character but specifically how it works"
+    },
+    {
+      "start_time": "00:03:20,760",
+      "end_time": "00:03:22,840",
+      "text": "is and I'm going to get into this"
+    },
+    {
+      "start_time": "00:03:21,920",
+      "end_time": "00:03:24,920",
+      "text": "because I'm going to read you a little"
+    },
+    {
+      "start_time": "00:03:22,840",
+      "end_time": "00:03:27,879",
+      "text": "bit from the book at least this this"
+    },
+    {
+      "start_time": "00:03:24,920",
+      "end_time": "00:03:30,400",
+      "text": "version uh this draft of the book but"
+    },
+    {
+      "start_time": "00:03:27,879",
+      "end_time": "00:03:32,400",
+      "text": "how it works is the player role plays"
+    },
+    {
+      "start_time": "00:03:30,400",
+      "end_time": "00:03:34,159",
+      "text": "their character in a situation and"
+    },
+    {
+      "start_time": "00:03:32,400",
+      "end_time": "00:03:37,000",
+      "text": "whatever words they say whatever"
+    },
+    {
+      "start_time": "00:03:34,159",
+      "end_time": "00:03:39,200",
+      "text": "approach they take will determine the"
+    },
+    {
+      "start_time": "00:03:37,000",
+      "end_time": "00:03:43,040",
+      "text": "skill that is rolled to see if the"
+    },
+    {
+      "start_time": "00:03:39,200",
+      "end_time": "00:03:45,000",
+      "text": "character succeeds okay so conflict"
+    },
+    {
+      "start_time": "00:03:43,040",
+      "end_time": "00:03:46,879",
+      "text": "Arena Intrigue is what I'm looking at"
+    },
+    {
+      "start_time": "00:03:45,000",
+      "end_time": "00:03:48,360",
+      "text": "currently this is chapter 10 of the book"
+    },
+    {
+      "start_time": "00:03:46,879",
+      "end_time": "00:03:51,040",
+      "text": "who knows what that'll be when the final"
+    },
+    {
+      "start_time": "00:03:48,360",
+      "end_time": "00:03:53,799",
+      "text": "a is done in this game there are many"
+    },
+    {
+      "start_time": "00:03:51,040",
+      "end_time": "00:03:55,040",
+      "text": "conflict Arenas there's combat there's"
+    },
+    {
+      "start_time": "00:03:53,799",
+      "end_time": "00:03:57,040",
+      "text": "travel all that kind of stuff so this"
+    },
+    {
+      "start_time": "00:03:55,040",
+      "end_time": "00:03:59,000",
+      "text": "one is conflict Arena Intrigue and"
+    },
+    {
+      "start_time": "00:03:57,040",
+      "end_time": "00:04:01,560",
+      "text": "specifically we're talking about the"
+    },
+    {
+      "start_time": "00:03:59,000",
+      "end_time": "00:04:03,040",
+      "text": "social encounter so there are many types"
+    },
+    {
+      "start_time": "00:04:01,560",
+      "end_time": "00:04:05,439",
+      "text": "of conflicts in the world of the broken"
+    },
+    {
+      "start_time": "00:04:03,040",
+      "end_time": "00:04:07,280",
+      "text": "Empires violent combat is but one way to"
+    },
+    {
+      "start_time": "00:04:05,439",
+      "end_time": "00:04:08,599",
+      "text": "produce exciting encounters when the"
+    },
+    {
+      "start_time": "00:04:07,280",
+      "end_time": "00:04:10,640",
+      "text": "characters are in desperate need to"
+    },
+    {
+      "start_time": "00:04:08,599",
+      "end_time": "00:04:13,159",
+      "text": "procure the help of an NPC in order to"
+    },
+    {
+      "start_time": "00:04:10,640",
+      "end_time": "00:04:15,000",
+      "text": "pursue their dearly held goals or to"
+    },
+    {
+      "start_time": "00:04:13,159",
+      "end_time": "00:04:16,600",
+      "text": "influence someone important to change"
+    },
+    {
+      "start_time": "00:04:15,000",
+      "end_time": "00:04:18,759",
+      "text": "their way of thinking about a situation"
+    },
+    {
+      "start_time": "00:04:16,600",
+      "end_time": "00:04:20,079",
+      "text": "related to the PCS or to do anything at"
+    },
+    {
+      "start_time": "00:04:18,759",
+      "end_time": "00:04:21,919",
+      "text": "all that relates to the objectives of"
+    },
+    {
+      "start_time": "00:04:20,079",
+      "end_time": "00:04:23,560",
+      "text": "the characters raises the stakes in a"
+    },
+    {
+      "start_time": "00:04:21,919",
+      "end_time": "00:04:25,479",
+      "text": "non-violent Manner and bears"
+    },
+    {
+      "start_time": "00:04:23,560",
+      "end_time": "00:04:28,360",
+      "text": "consequences of failure we can break out"
+    },
+    {
+      "start_time": "00:04:25,479",
+      "end_time": "00:04:30,080",
+      "text": "the social encounter system so the first"
+    },
+    {
+      "start_time": "00:04:28,360",
+      "end_time": "00:04:32,120",
+      "text": "thing you need to know is you don't use"
+    },
+    {
+      "start_time": "00:04:30,080",
+      "end_time": "00:04:33,440",
+      "text": "this with every encounter with every NPC"
+    },
+    {
+      "start_time": "00:04:32,120",
+      "end_time": "00:04:35,160",
+      "text": "if you're bribing a guard you don't have"
+    },
+    {
+      "start_time": "00:04:33,440",
+      "end_time": "00:04:37,080",
+      "text": "to go through a whole social encounter"
+    },
+    {
+      "start_time": "00:04:35,160",
+      "end_time": "00:04:39,120",
+      "text": "system you can make a role right and"
+    },
+    {
+      "start_time": "00:04:37,080",
+      "end_time": "00:04:40,680",
+      "text": "that is totally dependent on the GM and"
+    },
+    {
+      "start_time": "00:04:39,120",
+      "end_time": "00:04:42,720",
+      "text": "you know the the the context of the"
+    },
+    {
+      "start_time": "00:04:40,680",
+      "end_time": "00:04:45,759",
+      "text": "situation around the table there's no"
+    },
+    {
+      "start_time": "00:04:42,720",
+      "end_time": "00:04:48,800",
+      "text": "need to break out a mechanically"
+    },
+    {
+      "start_time": "00:04:45,759",
+      "end_time": "00:04:50,160",
+      "text": "complex uh set of rules for something"
+    },
+    {
+      "start_time": "00:04:48,800",
+      "end_time": "00:04:52,240",
+      "text": "that could be handled with one role or"
+    },
+    {
+      "start_time": "00:04:50,160",
+      "end_time": "00:04:53,919",
+      "text": "no roles right it it there's nothing"
+    },
+    {
+      "start_time": "00:04:52,240",
+      "end_time": "00:04:55,560",
+      "text": "stopping a GM from just listening to"
+    },
+    {
+      "start_time": "00:04:53,919",
+      "end_time": "00:04:56,680",
+      "text": "what the player is saying and going yeah"
+    },
+    {
+      "start_time": "00:04:55,560",
+      "end_time": "00:04:59,080",
+      "text": "okay that's good enough he buys that"
+    },
+    {
+      "start_time": "00:04:56,680",
+      "end_time": "00:05:00,360",
+      "text": "argument and a way you go this system is"
+    },
+    {
+      "start_time": "00:04:59,080",
+      "end_time": "00:05:02,360",
+      "text": "designed"
+    },
+    {
+      "start_time": "00:05:00,360",
+      "end_time": "00:05:03,840",
+      "text": "when there is something really at stake"
+    },
+    {
+      "start_time": "00:05:02,360",
+      "end_time": "00:05:04,919",
+      "text": "and where the where the players want to"
+    },
+    {
+      "start_time": "00:05:03,840",
+      "end_time": "00:05:07,360",
+      "text": "want to give their characters the"
+    },
+    {
+      "start_time": "00:05:04,919",
+      "end_time": "00:05:09,960",
+      "text": "opportunity to draw upon their specific"
+    },
+    {
+      "start_time": "00:05:07,360",
+      "end_time": "00:05:12,000",
+      "text": "skills that they can use in order to"
+    },
+    {
+      "start_time": "00:05:09,960",
+      "end_time": "00:05:14,600",
+      "text": "achieve an outcome in the way that they"
+    },
+    {
+      "start_time": "00:05:12,000",
+      "end_time": "00:05:17,440",
+      "text": "want to best do that"
+    },
+    {
+      "start_time": "00:05:14,600",
+      "end_time": "00:05:19,560",
+      "text": "so uh the social encounter system is"
+    },
+    {
+      "start_time": "00:05:17,440",
+      "end_time": "00:05:22,199",
+      "text": "designed to turn important conversations"
+    },
+    {
+      "start_time": "00:05:19,560",
+      "end_time": "00:05:24,840",
+      "text": "and audiences with influential NPCs into"
+    },
+    {
+      "start_time": "00:05:22,199",
+      "end_time": "00:05:26,840",
+      "text": "tense tactical conflicts that highlight"
+    },
+    {
+      "start_time": "00:05:24,840",
+      "end_time": "00:05:28,319",
+      "text": "what's at stake for the characters the"
+    },
+    {
+      "start_time": "00:05:26,840",
+      "end_time": "00:05:30,759",
+      "text": "players are given the opportunity to"
+    },
+    {
+      "start_time": "00:05:28,319",
+      "end_time": "00:05:32,400",
+      "text": "make meaningful tax iCal choices and how"
+    },
+    {
+      "start_time": "00:05:30,759",
+      "end_time": "00:05:34,560",
+      "text": "they approach each moment in the"
+    },
+    {
+      "start_time": "00:05:32,400",
+      "end_time": "00:05:37,160",
+      "text": "conversation in hopes of getting exactly"
+    },
+    {
+      "start_time": "00:05:34,560",
+      "end_time": "00:05:39,400",
+      "text": "what they want from that particular NPC"
+    },
+    {
+      "start_time": "00:05:37,160",
+      "end_time": "00:05:42,479",
+      "text": "and of course as everything in the game"
+    },
+    {
+      "start_time": "00:05:39,400",
+      "end_time": "00:05:43,919",
+      "text": "context is King context is king of"
+    },
+    {
+      "start_time": "00:05:42,479",
+      "end_time": "00:05:46,319",
+      "text": "everything"
+    },
+    {
+      "start_time": "00:05:43,919",
+      "end_time": "00:05:50,240",
+      "text": "because it doesn't matter what you rules"
+    },
+    {
+      "start_time": "00:05:46,319",
+      "end_time": "00:05:51,720",
+      "text": "are if if you are applying them in a way"
+    },
+    {
+      "start_time": "00:05:50,240",
+      "end_time": "00:05:53,199",
+      "text": "that doesn't make any sense within the"
+    },
+    {
+      "start_time": "00:05:51,720",
+      "end_time": "00:05:55,199",
+      "text": "the given circumstances it's not going"
+    },
+    {
+      "start_time": "00:05:53,199",
+      "end_time": "00:05:56,440",
+      "text": "to be satisfying and that's something"
+    },
+    {
+      "start_time": "00:05:55,199",
+      "end_time": "00:05:59,160",
+      "text": "that's really important about gming this"
+    },
+    {
+      "start_time": "00:05:56,440",
+      "end_time": "00:06:01,160",
+      "text": "game gming any game is is always keeping"
+    },
+    {
+      "start_time": "00:05:59,160",
+      "end_time": "00:06:03,199",
+      "text": "context in mind because that that really"
+    },
+    {
+      "start_time": "00:06:01,160",
+      "end_time": "00:06:06,280",
+      "text": "is going to determine everything"
+    },
+    {
+      "start_time": "00:06:03,199",
+      "end_time": "00:06:09,919",
+      "text": "so um what is of Paramount importance"
+    },
+    {
+      "start_time": "00:06:06,280",
+      "end_time": "00:06:11,360",
+      "text": "for the players to uh is to detail"
+    },
+    {
+      "start_time": "00:06:09,919",
+      "end_time": "00:06:13,400",
+      "text": "exactly what their characters hope to"
+    },
+    {
+      "start_time": "00:06:11,360",
+      "end_time": "00:06:15,599",
+      "text": "achieve in the encounter so the more"
+    },
+    {
+      "start_time": "00:06:13,400",
+      "end_time": "00:06:17,000",
+      "text": "specific their objectives in that"
+    },
+    {
+      "start_time": "00:06:15,599",
+      "end_time": "00:06:19,199",
+      "text": "encounter the social encounter the"
+    },
+    {
+      "start_time": "00:06:17,000",
+      "end_time": "00:06:20,960",
+      "text": "better and crucially there must be"
+    },
+    {
+      "start_time": "00:06:19,199",
+      "end_time": "00:06:22,400",
+      "text": "clearly defined consequences for both"
+    },
+    {
+      "start_time": "00:06:20,960",
+      "end_time": "00:06:24,919",
+      "text": "success and failure so basically"
+    },
+    {
+      "start_time": "00:06:22,400",
+      "end_time": "00:06:26,960",
+      "text": "characters who have nothing at stake and"
+    },
+    {
+      "start_time": "00:06:24,919",
+      "end_time": "00:06:28,960",
+      "text": "players who are uh uninvested in the"
+    },
+    {
+      "start_time": "00:06:26,960",
+      "end_time": "00:06:31,000",
+      "text": "outcome like you get in one shots for"
+    },
+    {
+      "start_time": "00:06:28,960",
+      "end_time": "00:06:32,919",
+      "text": "example most of the time uh they make"
+    },
+    {
+      "start_time": "00:06:31,000",
+      "end_time": "00:06:33,960",
+      "text": "for dull anticlimactic social encounters"
+    },
+    {
+      "start_time": "00:06:32,919",
+      "end_time": "00:06:36,599",
+      "text": "that can prove frustrating and"
+    },
+    {
+      "start_time": "00:06:33,960",
+      "end_time": "00:06:38,400",
+      "text": "ultimately a waste of time so you need"
+    },
+    {
+      "start_time": "00:06:36,599",
+      "end_time": "00:06:41,520",
+      "text": "to make sure that you know what you want"
+    },
+    {
+      "start_time": "00:06:38,400",
+      "end_time": "00:06:44,880",
+      "text": "going into the situation so as as this"
+    },
+    {
+      "start_time": "00:06:41,520",
+      "end_time": "00:06:47,000",
+      "text": "system is really most heavily influenced"
+    },
+    {
+      "start_time": "00:06:44,880",
+      "end_time": "00:06:49,160",
+      "text": "by the one ring at specifically the"
+    },
+    {
+      "start_time": "00:06:47,000",
+      "end_time": "00:06:52,080",
+      "text": "first edition of the One"
+    },
+    {
+      "start_time": "00:06:49,160",
+      "end_time": "00:06:53,360",
+      "text": "Ring um the example that I use because"
+    },
+    {
+      "start_time": "00:06:52,080",
+      "end_time": "00:06:55,240",
+      "text": "this is an example that happened many"
+    },
+    {
+      "start_time": "00:06:53,360",
+      "end_time": "00:06:57,840",
+      "text": "many times over the six-year campaign I"
+    },
+    {
+      "start_time": "00:06:55,240",
+      "end_time": "00:06:59,599",
+      "text": "ran in the One Ring let's say that the"
+    },
+    {
+      "start_time": "00:06:57,840",
+      "end_time": "00:07:02,400",
+      "text": "players are trying to cross the lands of"
+    },
+    {
+      "start_time": "00:06:59,599",
+      "end_time": "00:07:05,000",
+      "text": "bejor and they need permission to do so"
+    },
+    {
+      "start_time": "00:07:02,400",
+      "end_time": "00:07:07,560",
+      "text": "that's a very simple example but it"
+    },
+    {
+      "start_time": "00:07:05,000",
+      "end_time": "00:07:10,000",
+      "text": "works when they speak to beorn when they"
+    },
+    {
+      "start_time": "00:07:07,560",
+      "end_time": "00:07:11,840",
+      "text": "take an audience with beor they have a"
+    },
+    {
+      "start_time": "00:07:10,000",
+      "end_time": "00:07:13,800",
+      "text": "vested interest in the outcome and they"
+    },
+    {
+      "start_time": "00:07:11,840",
+      "end_time": "00:07:15,919",
+      "text": "know what their they know what their"
+    },
+    {
+      "start_time": "00:07:13,800",
+      "end_time": "00:07:19,440",
+      "text": "Optimum outcome is their Optimum outcome"
+    },
+    {
+      "start_time": "00:07:15,919",
+      "end_time": "00:07:21,240",
+      "text": "is we get permission to cross the lands"
+    },
+    {
+      "start_time": "00:07:19,440",
+      "end_time": "00:07:23,800",
+      "text": "by this big scary"
+    },
+    {
+      "start_time": "00:07:21,240",
+      "end_time": "00:07:26,000",
+      "text": "dude now if they fail at that there's"
+    },
+    {
+      "start_time": "00:07:23,800",
+      "end_time": "00:07:27,879",
+      "text": "going to be consequences right and they"
+    },
+    {
+      "start_time": "00:07:26,000",
+      "end_time": "00:07:30,160",
+      "text": "might have to go all the way around"
+    },
+    {
+      "start_time": "00:07:27,879",
+      "end_time": "00:07:31,840",
+      "text": "merkwood or whatever"
+    },
+    {
+      "start_time": "00:07:30,160",
+      "end_time": "00:07:34,319",
+      "text": "in order to achieve their objectives and"
+    },
+    {
+      "start_time": "00:07:31,840",
+      "end_time": "00:07:37,080",
+      "text": "that's a big setback if they succeed"
+    },
+    {
+      "start_time": "00:07:34,319",
+      "end_time": "00:07:39,440",
+      "text": "great but if they succeed really well"
+    },
+    {
+      "start_time": "00:07:37,080",
+      "end_time": "00:07:42,160",
+      "text": "there's going to be more benefits so"
+    },
+    {
+      "start_time": "00:07:39,440",
+      "end_time": "00:07:44,639",
+      "text": "their goal is to get as many benefits as"
+    },
+    {
+      "start_time": "00:07:42,160",
+      "end_time": "00:07:47,039",
+      "text": "possible without risking too much the"
+    },
+    {
+      "start_time": "00:07:44,639",
+      "end_time": "00:07:49,639",
+      "text": "social encounter system is a series of"
+    },
+    {
+      "start_time": "00:07:47,039",
+      "end_time": "00:07:51,400",
+      "text": "extended tests in other words tests"
+    },
+    {
+      "start_time": "00:07:49,639",
+      "end_time": "00:07:53,400",
+      "text": "where you are rolling and accumulating"
+    },
+    {
+      "start_time": "00:07:51,400",
+      "end_time": "00:07:55,159",
+      "text": "success levels where the players try to"
+    },
+    {
+      "start_time": "00:07:53,400",
+      "end_time": "00:07:57,080",
+      "text": "get as many success levels as they can"
+    },
+    {
+      "start_time": "00:07:55,159",
+      "end_time": "00:07:58,759",
+      "text": "using various social skills and any"
+    },
+    {
+      "start_time": "00:07:57,080",
+      "end_time": "00:08:01,440",
+      "text": "leverage they have attained they have"
+    },
+    {
+      "start_time": "00:07:58,759",
+      "end_time": "00:08:04,560",
+      "text": "attained before the NPC's tolerance"
+    },
+    {
+      "start_time": "00:08:01,440",
+      "end_time": "00:08:06,680",
+      "text": "threshold is reach reached I should"
+    },
+    {
+      "start_time": "00:08:04,560",
+      "end_time": "00:08:08,080",
+      "text": "learn how to speak reached uh what is"
+    },
+    {
+      "start_time": "00:08:06,680",
+      "end_time": "00:08:09,120",
+      "text": "crucial to understand and I'm just kind"
+    },
+    {
+      "start_time": "00:08:08,080",
+      "end_time": "00:08:11,039",
+      "text": "of I'm just kind of going through"
+    },
+    {
+      "start_time": "00:08:09,120",
+      "end_time": "00:08:12,319",
+      "text": "various large sections of this document"
+    },
+    {
+      "start_time": "00:08:11,039",
+      "end_time": "00:08:14,080",
+      "text": "I'm going to read the whole chapter to"
+    },
+    {
+      "start_time": "00:08:12,319",
+      "end_time": "00:08:16,280",
+      "text": "you but what is crucial to understand"
+    },
+    {
+      "start_time": "00:08:14,080",
+      "end_time": "00:08:18,560",
+      "text": "about this system is that social skills"
+    },
+    {
+      "start_time": "00:08:16,280",
+      "end_time": "00:08:21,360",
+      "text": "are designed to accommodate and enhance"
+    },
+    {
+      "start_time": "00:08:18,560",
+      "end_time": "00:08:23,919",
+      "text": "the role playing experience not replace"
+    },
+    {
+      "start_time": "00:08:21,360",
+      "end_time": "00:08:26,199",
+      "text": "it you don't roll a social skill to get"
+    },
+    {
+      "start_time": "00:08:23,919",
+      "end_time": "00:08:28,199",
+      "text": "out of having to roleplay your character"
+    },
+    {
+      "start_time": "00:08:26,199",
+      "end_time": "00:08:32,440",
+      "text": "you roll a certain skill directly"
+    },
+    {
+      "start_time": "00:08:28,199",
+      "end_time": "00:08:36,839",
+      "text": "because of how you just roleplayed the"
+    },
+    {
+      "start_time": "00:08:32,440",
+      "end_time": "00:08:38,599",
+      "text": "character so this is never intended to"
+    },
+    {
+      "start_time": "00:08:36,839",
+      "end_time": "00:08:40,880",
+      "text": "be just a series of die rolls okay I"
+    },
+    {
+      "start_time": "00:08:38,599",
+      "end_time": "00:08:43,640",
+      "text": "roll my persuade did I succeed okay all"
+    },
+    {
+      "start_time": "00:08:40,880",
+      "end_time": "00:08:45,480",
+      "text": "right now you roll your uh now you roll"
+    },
+    {
+      "start_time": "00:08:43,640",
+      "end_time": "00:08:47,240",
+      "text": "your your wit okay all right now you"
+    },
+    {
+      "start_time": "00:08:45,480",
+      "end_time": "00:08:49,320",
+      "text": "roll Inspire okay all right we rolled we"
+    },
+    {
+      "start_time": "00:08:47,240",
+      "end_time": "00:08:51,760",
+      "text": "got success I guess we win that's kind"
+    },
+    {
+      "start_time": "00:08:49,320",
+      "end_time": "00:08:53,519",
+      "text": "of like saying in a fight the player is"
+    },
+    {
+      "start_time": "00:08:51,760",
+      "end_time": "00:08:55,600",
+      "text": "just going I don't know uh I'm just"
+    },
+    {
+      "start_time": "00:08:53,519",
+      "end_time": "00:08:56,680",
+      "text": "going to roll to hit and um it doesn't"
+    },
+    {
+      "start_time": "00:08:55,600",
+      "end_time": "00:08:58,160",
+      "text": "really matter where I am I'm not going"
+    },
+    {
+      "start_time": "00:08:56,680",
+      "end_time": "00:08:59,640",
+      "text": "to make any choices in the combat cuz"
+    },
+    {
+      "start_time": "00:08:58,160",
+      "end_time": "00:09:01,560",
+      "text": "ultimately all that matters is what the"
+    },
+    {
+      "start_time": "00:08:59,640",
+      "end_time": "00:09:03,320",
+      "text": "numbers say so I'm just going to roll to"
+    },
+    {
+      "start_time": "00:09:01,560",
+      "end_time": "00:09:04,519",
+      "text": "hit and if I beat his Arma class I do"
+    },
+    {
+      "start_time": "00:09:03,320",
+      "end_time": "00:09:06,000",
+      "text": "hit points and we'll just we'll just"
+    },
+    {
+      "start_time": "00:09:04,519",
+      "end_time": "00:09:07,519",
+      "text": "keep doing that until he gets to zero"
+    },
+    {
+      "start_time": "00:09:06,000",
+      "end_time": "00:09:09,279",
+      "text": "and then we can move on well that's not"
+    },
+    {
+      "start_time": "00:09:07,519",
+      "end_time": "00:09:11,800",
+      "text": "playing the game that's just rolling"
+    },
+    {
+      "start_time": "00:09:09,279",
+      "end_time": "00:09:13,320",
+      "text": "dice so the same thing applies here"
+    },
+    {
+      "start_time": "00:09:11,800",
+      "end_time": "00:09:15,600",
+      "text": "you're not just rolling dice you are"
+    },
+    {
+      "start_time": "00:09:13,320",
+      "end_time": "00:09:16,640",
+      "text": "playing your character and the mechanics"
+    },
+    {
+      "start_time": "00:09:15,600",
+      "end_time": "00:09:20,040",
+      "text": "are"
+    },
+    {
+      "start_time": "00:09:16,640",
+      "end_time": "00:09:21,440",
+      "text": "facilitating your role-playing choices"
+    },
+    {
+      "start_time": "00:09:20,040",
+      "end_time": "00:09:23,720",
+      "text": "so the general structure of social"
+    },
+    {
+      "start_time": "00:09:21,440",
+      "end_time": "00:09:25,519",
+      "text": "conflicts is this what I just said"
+    },
+    {
+      "start_time": "00:09:23,720",
+      "end_time": "00:09:27,399",
+      "text": "players roleplay or otherwise detail"
+    },
+    {
+      "start_time": "00:09:25,519",
+      "end_time": "00:09:29,120",
+      "text": "what their characters say and the GM"
+    },
+    {
+      "start_time": "00:09:27,399",
+      "end_time": "00:09:30,760",
+      "text": "often with input from the whole table"
+    },
+    {
+      "start_time": "00:09:29,120",
+      "end_time": "00:09:33,440",
+      "text": "that tends to happen naturally a lot of"
+    },
+    {
+      "start_time": "00:09:30,760",
+      "end_time": "00:09:35,480",
+      "text": "the times uh decides on the appropriate"
+    },
+    {
+      "start_time": "00:09:33,440",
+      "end_time": "00:09:37,680",
+      "text": "social skill for them to roll based on"
+    },
+    {
+      "start_time": "00:09:35,480",
+      "end_time": "00:09:38,920",
+      "text": "their wording and their General approach"
+    },
+    {
+      "start_time": "00:09:37,680",
+      "end_time": "00:09:40,240",
+      "text": "we've separated the player and the"
+    },
+    {
+      "start_time": "00:09:38,920",
+      "end_time": "00:09:41,880",
+      "text": "character obviously but we're also"
+    },
+    {
+      "start_time": "00:09:40,240",
+      "end_time": "00:09:43,160",
+      "text": "bringing them together because the"
+    },
+    {
+      "start_time": "00:09:41,880",
+      "end_time": "00:09:44,839",
+      "text": "player is the one that picks the"
+    },
+    {
+      "start_time": "00:09:43,160",
+      "end_time": "00:09:45,880",
+      "text": "approach through their roleplay and it's"
+    },
+    {
+      "start_time": "00:09:44,839",
+      "end_time": "00:09:48,000",
+      "text": "the character that's got to make the"
+    },
+    {
+      "start_time": "00:09:45,880",
+      "end_time": "00:09:50,360",
+      "text": "role there was a thing that happened in"
+    },
+    {
+      "start_time": "00:09:48,000",
+      "end_time": "00:09:52,560",
+      "text": "in the uh YouTuber session of of the"
+    },
+    {
+      "start_time": "00:09:50,360",
+      "end_time": "00:09:55,440",
+      "text": "glooming pool that I did where somebody"
+    },
+    {
+      "start_time": "00:09:52,560",
+      "end_time": "00:09:57,279",
+      "text": "on YouTube said well and they just this"
+    },
+    {
+      "start_time": "00:09:55,440",
+      "end_time": "00:09:58,519",
+      "text": "was you know seeing a clip this is"
+    },
+    {
+      "start_time": "00:09:57,279",
+      "end_time": "00:10:00,160",
+      "text": "seeing like a two-minute clip or"
+    },
+    {
+      "start_time": "00:09:58,519",
+      "end_time": "00:10:01,279",
+      "text": "whatever and of course so of course they"
+    },
+    {
+      "start_time": "00:10:00,160",
+      "end_time": "00:10:04,320",
+      "text": "took it out of context they didn't have"
+    },
+    {
+      "start_time": "00:10:01,279",
+      "end_time": "00:10:07,920",
+      "text": "the context to to make a a more accurate"
+    },
+    {
+      "start_time": "00:10:04,320",
+      "end_time": "00:10:10,360",
+      "text": "uh observation but they said well it"
+    },
+    {
+      "start_time": "00:10:07,920",
+      "end_time": "00:10:13,040",
+      "text": "looked like Kelsey there made a really"
+    },
+    {
+      "start_time": "00:10:10,360",
+      "end_time": "00:10:15,640",
+      "text": "intimidating statement um but"
+    },
+    {
+      "start_time": "00:10:13,040",
+      "end_time": "00:10:18,480",
+      "text": "her you know she she only had a 10%"
+    },
+    {
+      "start_time": "00:10:15,640",
+      "end_time": "00:10:20,800",
+      "text": "chance of success wh why and I tried to"
+    },
+    {
+      "start_time": "00:10:18,480",
+      "end_time": "00:10:24,839",
+      "text": "explain to them it's because Kelsey in"
+    },
+    {
+      "start_time": "00:10:20,800",
+      "end_time": "00:10:27,920",
+      "text": "that moment played her character very"
+    },
+    {
+      "start_time": "00:10:24,839",
+      "end_time": "00:10:30,000",
+      "text": "intimidatingly but the character is no"
+    },
+    {
+      "start_time": "00:10:27,920",
+      "end_time": "00:10:32,640",
+      "text": "good at intimidation"
+    },
+    {
+      "start_time": "00:10:30,000",
+      "end_time": "00:10:36,720",
+      "text": "so that's why she rolled so badly it"
+    },
+    {
+      "start_time": "00:10:32,640",
+      "end_time": "00:10:38,760",
+      "text": "doesn't matter what Kelsey's"
+    },
+    {
+      "start_time": "00:10:36,720",
+      "end_time": "00:10:40,000",
+      "text": "intimidating it's kind of makes me laugh"
+    },
+    {
+      "start_time": "00:10:38,760",
+      "end_time": "00:10:41,360",
+      "text": "thinking about Kelsey Dion being"
+    },
+    {
+      "start_time": "00:10:40,000",
+      "end_time": "00:10:44,320",
+      "text": "intimidating because she's like the most"
+    },
+    {
+      "start_time": "00:10:41,360",
+      "end_time": "00:10:45,920",
+      "text": "lovely person ever but it makes no it"
+    },
+    {
+      "start_time": "00:10:44,320",
+      "end_time": "00:10:51,040",
+      "text": "makes no difference how intimidating"
+    },
+    {
+      "start_time": "00:10:45,920",
+      "end_time": "00:10:52,360",
+      "text": "Kelsey is all that matters is did she"
+    },
+    {
+      "start_time": "00:10:51,040",
+      "end_time": "00:10:53,880",
+      "text": "did she roleplay the character"
+    },
+    {
+      "start_time": "00:10:52,360",
+      "end_time": "00:10:56,680",
+      "text": "intimidating and if so then it's going"
+    },
+    {
+      "start_time": "00:10:53,880",
+      "end_time": "00:10:58,399",
+      "text": "to trigger the intimidation skill if she"
+    },
+    {
+      "start_time": "00:10:56,680",
+      "end_time": "00:11:00,279",
+      "text": "had played that exact same moment in a"
+    },
+    {
+      "start_time": "00:10:58,399",
+      "end_time": "00:11:02,639",
+      "text": "more persuasive way or in a more witty"
+    },
+    {
+      "start_time": "00:11:00,279",
+      "end_time": "00:11:04,399",
+      "text": "way or in a more inspiring way or"
+    },
+    {
+      "start_time": "00:11:02,639",
+      "end_time": "00:11:05,760",
+      "text": "whatever the ways that she has on her"
+    },
+    {
+      "start_time": "00:11:04,399",
+      "end_time": "00:11:07,519",
+      "text": "character sheet then that would have"
+    },
+    {
+      "start_time": "00:11:05,760",
+      "end_time": "00:11:09,040",
+      "text": "triggered a different skill so this"
+    },
+    {
+      "start_time": "00:11:07,519",
+      "end_time": "00:11:10,519",
+      "text": "becomes and this is really the most"
+    },
+    {
+      "start_time": "00:11:09,040",
+      "end_time": "00:11:14,720",
+      "text": "important thing about the social system"
+    },
+    {
+      "start_time": "00:11:10,519",
+      "end_time": "00:11:17,760",
+      "text": "is that it it requires players to be"
+    },
+    {
+      "start_time": "00:11:14,720",
+      "end_time": "00:11:20,079",
+      "text": "very careful about how they approach"
+    },
+    {
+      "start_time": "00:11:17,760",
+      "end_time": "00:11:22,800",
+      "text": "what they're saying you know very often"
+    },
+    {
+      "start_time": "00:11:20,079",
+      "end_time": "00:11:25,440",
+      "text": "you'll have cases around the table where"
+    },
+    {
+      "start_time": "00:11:22,800",
+      "end_time": "00:11:27,440",
+      "text": "especially when people are learning this"
+    },
+    {
+      "start_time": "00:11:25,440",
+      "end_time": "00:11:29,720",
+      "text": "uh someone will just start to open their"
+    },
+    {
+      "start_time": "00:11:27,440",
+      "end_time": "00:11:31,240",
+      "text": "mouth and I'll say okay uh roll"
+    },
+    {
+      "start_time": "00:11:29,720",
+      "end_time": "00:11:34,320",
+      "text": "intimidate or whatever and they'll be"
+    },
+    {
+      "start_time": "00:11:31,240",
+      "end_time": "00:11:35,720",
+      "text": "like what well I thought I was yeah what"
+    },
+    {
+      "start_time": "00:11:34,320",
+      "end_time": "00:11:37,800",
+      "text": "do you mean and everyone goes yeah dude"
+    },
+    {
+      "start_time": "00:11:35,720",
+      "end_time": "00:11:39,639",
+      "text": "that was super intimidating well but I'm"
+    },
+    {
+      "start_time": "00:11:37,800",
+      "end_time": "00:11:40,760",
+      "text": "no good at intimidation well then you"
+    },
+    {
+      "start_time": "00:11:39,639",
+      "end_time": "00:11:42,600",
+      "text": "should have thought of that before you"
+    },
+    {
+      "start_time": "00:11:40,760",
+      "end_time": "00:11:45,920",
+      "text": "opened your mouth that happens all the"
+    },
+    {
+      "start_time": "00:11:42,600",
+      "end_time": "00:11:47,480",
+      "text": "time and what you get is sort of this in"
+    },
+    {
+      "start_time": "00:11:45,920",
+      "end_time": "00:11:49,519",
+      "text": "my experience what what we've always got"
+    },
+    {
+      "start_time": "00:11:47,480",
+      "end_time": "00:11:51,680",
+      "text": "is sort of this beautiful consensus"
+    },
+    {
+      "start_time": "00:11:49,519",
+      "end_time": "00:11:53,839",
+      "text": "around the table like okay guys you"
+    },
+    {
+      "start_time": "00:11:51,680",
+      "end_time": "00:11:55,600",
+      "text": "can't just open your mouth and the table"
+    },
+    {
+      "start_time": "00:11:53,839",
+      "end_time": "00:11:58,279",
+      "text": "enforces its own discipline on the"
+    },
+    {
+      "start_time": "00:11:55,600",
+      "end_time": "00:12:00,320",
+      "text": "proceedings so now you have players that"
+    },
+    {
+      "start_time": "00:11:58,279",
+      "end_time": "00:12:02,480",
+      "text": "they might be champing at the bit yes"
+    },
+    {
+      "start_time": "00:12:00,320",
+      "end_time": "00:12:05,279",
+      "text": "champing not chomping champing at the"
+    },
+    {
+      "start_time": "00:12:02,480",
+      "end_time": "00:12:07,240",
+      "text": "bit to say something in a very"
+    },
+    {
+      "start_time": "00:12:05,279",
+      "end_time": "00:12:09,360",
+      "text": "particular way but they know that their"
+    },
+    {
+      "start_time": "00:12:07,240",
+      "end_time": "00:12:11,079",
+      "text": "character is not skilled in that"
+    },
+    {
+      "start_time": "00:12:09,360",
+      "end_time": "00:12:13,959",
+      "text": "approach so either they just shut the"
+    },
+    {
+      "start_time": "00:12:11,079",
+      "end_time": "00:12:17,040",
+      "text": "hell up or they try and word it to take"
+    },
+    {
+      "start_time": "00:12:13,959",
+      "end_time": "00:12:18,680",
+      "text": "a different approach and it's great"
+    },
+    {
+      "start_time": "00:12:17,040",
+      "end_time": "00:12:20,920",
+      "text": "because it really elevates the"
+    },
+    {
+      "start_time": "00:12:18,680",
+      "end_time": "00:12:22,839",
+      "text": "experience of the roleplay it really it"
+    },
+    {
+      "start_time": "00:12:20,920",
+      "end_time": "00:12:24,600",
+      "text": "really engages the players in those"
+    },
+    {
+      "start_time": "00:12:22,839",
+      "end_time": "00:12:26,639",
+      "text": "social moments where now they are"
+    },
+    {
+      "start_time": "00:12:24,600",
+      "end_time": "00:12:29,880",
+      "text": "actively engaged and actively thinking"
+    },
+    {
+      "start_time": "00:12:26,639",
+      "end_time": "00:12:32,199",
+      "text": "about how do I get what I want using the"
+    },
+    {
+      "start_time": "00:12:29,880",
+      "end_time": "00:12:34,920",
+      "text": "tools that I have which are my character"
+    },
+    {
+      "start_time": "00:12:32,199",
+      "end_time": "00:12:37,519",
+      "text": "skills it's it's a wonderful blending of"
+    },
+    {
+      "start_time": "00:12:34,920",
+      "end_time": "00:12:42,600",
+      "text": "of uh pure roleplay and mechanics to to"
+    },
+    {
+      "start_time": "00:12:37,519",
+      "end_time": "00:12:46,839",
+      "text": "generate the result um so also crucially"
+    },
+    {
+      "start_time": "00:12:42,600",
+      "end_time": "00:12:49,480",
+      "text": "also crucially two more points here um"
+    },
+    {
+      "start_time": "00:12:46,839",
+      "end_time": "00:12:51,160",
+      "text": "this system naturally relies on Fair"
+    },
+    {
+      "start_time": "00:12:49,480",
+      "end_time": "00:12:53,839",
+      "text": "honest and accommodating judgment from"
+    },
+    {
+      "start_time": "00:12:51,160",
+      "end_time": "00:12:56,680",
+      "text": "the GM in interpretating inter"
+    },
+    {
+      "start_time": "00:12:53,839",
+      "end_time": "00:12:58,720",
+      "text": "interpretating interpreting the players"
+    },
+    {
+      "start_time": "00:12:56,680",
+      "end_time": "00:13:00,440",
+      "text": "roleplayed statements and deciding which"
+    },
+    {
+      "start_time": "00:12:58,720",
+      "end_time": "00:13:02,560",
+      "text": "skill the role let me say that again"
+    },
+    {
+      "start_time": "00:13:00,440",
+      "end_time": "00:13:04,360",
+      "text": "this system relies on Fair honest and"
+    },
+    {
+      "start_time": "00:13:02,560",
+      "end_time": "00:13:06,399",
+      "text": "accommodating judgment from the GM in"
+    },
+    {
+      "start_time": "00:13:04,360",
+      "end_time": "00:13:08,720",
+      "text": "interpreting the players roleplayed"
+    },
+    {
+      "start_time": "00:13:06,399",
+      "end_time": "00:13:12,160",
+      "text": "statements and deciding which skill to"
+    },
+    {
+      "start_time": "00:13:08,720",
+      "end_time": "00:13:15,199",
+      "text": "roll crucial you have to be grown-ups"
+    },
+    {
+      "start_time": "00:13:12,160",
+      "end_time": "00:13:17,120",
+      "text": "you have you can't be a dick right which"
+    },
+    {
+      "start_time": "00:13:15,199",
+      "end_time": "00:13:20,600",
+      "text": "is the rule in any game one would"
+    },
+    {
+      "start_time": "00:13:17,120",
+      "end_time": "00:13:22,720",
+      "text": "hope you need to be fair and honest"
+    },
+    {
+      "start_time": "00:13:20,600",
+      "end_time": "00:13:24,760",
+      "text": "about those things as the GM and as the"
+    },
+    {
+      "start_time": "00:13:22,720",
+      "end_time": "00:13:26,880",
+      "text": "player however in many cases the whole"
+    },
+    {
+      "start_time": "00:13:24,760",
+      "end_time": "00:13:28,639",
+      "text": "table often becomes actively involved in"
+    },
+    {
+      "start_time": "00:13:26,880",
+      "end_time": "00:13:30,199",
+      "text": "carefully listening to and judging which"
+    },
+    {
+      "start_time": "00:13:28,639",
+      "end_time": "00:13:31,880",
+      "text": "skill they think the player should roll"
+    },
+    {
+      "start_time": "00:13:30,199",
+      "end_time": "00:13:33,800",
+      "text": "based on how he or she just played that"
+    },
+    {
+      "start_time": "00:13:31,880",
+      "end_time": "00:13:35,720",
+      "text": "moment in the conversation so providing"
+    },
+    {
+      "start_time": "00:13:33,800",
+      "end_time": "00:13:37,880",
+      "text": "the players are approaching it honestly"
+    },
+    {
+      "start_time": "00:13:35,720",
+      "end_time": "00:13:39,519",
+      "text": "a good GM takes their input into account"
+    },
+    {
+      "start_time": "00:13:37,880",
+      "end_time": "00:13:42,040",
+      "text": "when making a"
+    },
+    {
+      "start_time": "00:13:39,519",
+      "end_time": "00:13:44,279",
+      "text": "decision that's what makes the the"
+    },
+    {
+      "start_time": "00:13:42,040",
+      "end_time": "00:13:45,560",
+      "text": "system so fun too is that you'll see a"
+    },
+    {
+      "start_time": "00:13:44,279",
+      "end_time": "00:13:46,839",
+      "text": "character say something and then"
+    },
+    {
+      "start_time": "00:13:45,560",
+      "end_time": "00:13:48,079",
+      "text": "immediately the rest of the table would"
+    },
+    {
+      "start_time": "00:13:46,839",
+      "end_time": "00:13:51,160",
+      "text": "be like dude what are you doing why did"
+    },
+    {
+      "start_time": "00:13:48,079",
+      "end_time": "00:13:53,800",
+      "text": "you say it that way well I thought I"
+    },
+    {
+      "start_time": "00:13:51,160",
+      "end_time": "00:13:56,160",
+      "text": "was whatever it could be hilarious but"
+    },
+    {
+      "start_time": "00:13:53,800",
+      "end_time": "00:13:57,720",
+      "text": "it could also be extremely tense right"
+    },
+    {
+      "start_time": "00:13:56,160",
+      "end_time": "00:14:00,199",
+      "text": "if the if the characters if the player"
+    },
+    {
+      "start_time": "00:13:57,720",
+      "end_time": "00:14:02,639",
+      "text": "characters are uh"
+    },
+    {
+      "start_time": "00:14:00,199",
+      "end_time": "00:14:03,680",
+      "text": "engaged in the outcome or if they're"
+    },
+    {
+      "start_time": "00:14:02,639",
+      "end_time": "00:14:04,720",
+      "text": "they have a vested interest in the"
+    },
+    {
+      "start_time": "00:14:03,680",
+      "end_time": "00:14:06,360",
+      "text": "outcome which of course they should"
+    },
+    {
+      "start_time": "00:14:04,720",
+      "end_time": "00:14:08,120",
+      "text": "there's no point even engaging in the"
+    },
+    {
+      "start_time": "00:14:06,360",
+      "end_time": "00:14:11,120",
+      "text": "subsystem unless the characters have a"
+    },
+    {
+      "start_time": "00:14:08,120",
+      "end_time": "00:14:13,839",
+      "text": "have something at stake right uh but but"
+    },
+    {
+      "start_time": "00:14:11,120",
+      "end_time": "00:14:17,680",
+      "text": "if they do this becomes a really really"
+    },
+    {
+      "start_time": "00:14:13,839",
+      "end_time": "00:14:19,399",
+      "text": "tense uh situation it is a type of"
+    },
+    {
+      "start_time": "00:14:17,680",
+      "end_time": "00:14:22,440",
+      "text": "combat actually as long as there's"
+    },
+    {
+      "start_time": "00:14:19,399",
+      "end_time": "00:14:24,880",
+      "text": "Stakes um now another hugely important"
+    },
+    {
+      "start_time": "00:14:22,440",
+      "end_time": "00:14:27,759",
+      "text": "thing to note here is that none of this"
+    },
+    {
+      "start_time": "00:14:24,880",
+      "end_time": "00:14:30,440",
+      "text": "requires acting or putting on a funny"
+    },
+    {
+      "start_time": "00:14:27,759",
+      "end_time": "00:14:33,199",
+      "text": "voice or doing an AC or even speaking in"
+    },
+    {
+      "start_time": "00:14:30,440",
+      "end_time": "00:14:35,240",
+      "text": "the first person it merely requires an"
+    },
+    {
+      "start_time": "00:14:33,199",
+      "end_time": "00:14:36,959",
+      "text": "honest attempt by the player to speak"
+    },
+    {
+      "start_time": "00:14:35,240",
+      "end_time": "00:14:38,759",
+      "text": "the words the character would say in"
+    },
+    {
+      "start_time": "00:14:36,959",
+      "end_time": "00:14:43,320",
+      "text": "that moment based on what they are"
+    },
+    {
+      "start_time": "00:14:38,759",
+      "end_time": "00:14:45,639",
+      "text": "trying to achieve socially so that's"
+    },
+    {
+      "start_time": "00:14:43,320",
+      "end_time": "00:14:47,160",
+      "text": "pretty crucial a lot of people have the"
+    },
+    {
+      "start_time": "00:14:45,639",
+      "end_time": "00:14:49,040",
+      "text": "misunderstanding when they see a system"
+    },
+    {
+      "start_time": "00:14:47,160",
+      "end_time": "00:14:51,279",
+      "text": "like this they say oh well so I got to I"
+    },
+    {
+      "start_time": "00:14:49,040",
+      "end_time": "00:14:53,000",
+      "text": "got to act all inspiring if I want to"
+    },
+    {
+      "start_time": "00:14:51,279",
+      "end_time": "00:14:55,399",
+      "text": "make an Inspire Ro I'm not an inspiring"
+    },
+    {
+      "start_time": "00:14:53,000",
+      "end_time": "00:14:57,120",
+      "text": "person no you don't but you do have to"
+    },
+    {
+      "start_time": "00:14:55,399",
+      "end_time": "00:14:59,600",
+      "text": "think about the words you choose because"
+    },
+    {
+      "start_time": "00:14:57,120",
+      "end_time": "00:15:01,839",
+      "text": "when a character is role playing an"
+    },
+    {
+      "start_time": "00:14:59,600",
+      "end_time": "00:15:05,120",
+      "text": "inspiring moment to to pick one of the"
+    },
+    {
+      "start_time": "00:15:01,839",
+      "end_time": "00:15:08,399",
+      "text": "many skills yes it it's not predicated"
+    },
+    {
+      "start_time": "00:15:05,120",
+      "end_time": "00:15:10,560",
+      "text": "upon that player's natural Charisma to"
+    },
+    {
+      "start_time": "00:15:08,399",
+      "end_time": "00:15:12,959",
+      "text": "be inspiring because again it's about"
+    },
+    {
+      "start_time": "00:15:10,560",
+      "end_time": "00:15:15,959",
+      "text": "what the character roles so all the"
+    },
+    {
+      "start_time": "00:15:12,959",
+      "end_time": "00:15:17,639",
+      "text": "player has to do is choose words that"
+    },
+    {
+      "start_time": "00:15:15,959",
+      "end_time": "00:15:18,959",
+      "text": "are inspiring and again I say they don't"
+    },
+    {
+      "start_time": "00:15:17,639",
+      "end_time": "00:15:20,600",
+      "text": "even have to do that in the first person"
+    },
+    {
+      "start_time": "00:15:18,959",
+      "end_time": "00:15:21,959",
+      "text": "a lot of you don't play in the first"
+    },
+    {
+      "start_time": "00:15:20,600",
+      "end_time": "00:15:24,680",
+      "text": "person a lot of you are third person"
+    },
+    {
+      "start_time": "00:15:21,959",
+      "end_time": "00:15:27,440",
+      "text": "players you say you know Jim the fighter"
+    },
+    {
+      "start_time": "00:15:24,680",
+      "end_time": "00:15:29,040",
+      "text": "says this and that's perfectly fine but"
+    },
+    {
+      "start_time": "00:15:27,440",
+      "end_time": "00:15:31,839",
+      "text": "you have to choose the words carefully"
+    },
+    {
+      "start_time": "00:15:29,040",
+      "end_time": "00:15:34,040",
+      "text": "because it's going to be the words that"
+    },
+    {
+      "start_time": "00:15:31,839",
+      "end_time": "00:15:36,079",
+      "text": "dictate the approach which the GM will"
+    },
+    {
+      "start_time": "00:15:34,040",
+      "end_time": "00:15:38,079",
+      "text": "then interpret which leads me to the"
+    },
+    {
+      "start_time": "00:15:36,079",
+      "end_time": "00:15:39,480",
+      "text": "next Point here obviously understanding"
+    },
+    {
+      "start_time": "00:15:38,079",
+      "end_time": "00:15:41,319",
+      "text": "the differences between the social"
+    },
+    {
+      "start_time": "00:15:39,480",
+      "end_time": "00:15:43,759",
+      "text": "skills is going to be crucial there are"
+    },
+    {
+      "start_time": "00:15:41,319",
+      "end_time": "00:15:45,480",
+      "text": "I think nine or 10 social skills and"
+    },
+    {
+      "start_time": "00:15:43,759",
+      "end_time": "00:15:46,920",
+      "text": "they are different right they all have"
+    },
+    {
+      "start_time": "00:15:45,480",
+      "end_time": "00:15:48,959",
+      "text": "specific meanings which I outlined in"
+    },
+    {
+      "start_time": "00:15:46,920",
+      "end_time": "00:15:50,199",
+      "text": "the book it's very clear however"
+    },
+    {
+      "start_time": "00:15:48,959",
+      "end_time": "00:15:51,880",
+      "text": "different people will interpret the"
+    },
+    {
+      "start_time": "00:15:50,199",
+      "end_time": "00:15:54,480",
+      "text": "meaning of social skill applications in"
+    },
+    {
+      "start_time": "00:15:51,880",
+      "end_time": "00:15:56,399",
+      "text": "different ways one GM might suggest that"
+    },
+    {
+      "start_time": "00:15:54,480",
+      "end_time": "00:15:57,920",
+      "text": "telling a simple truth to a general"
+    },
+    {
+      "start_time": "00:15:56,399",
+      "end_time": "00:16:00,519",
+      "text": "about the impending threat to his army"
+    },
+    {
+      "start_time": "00:15:57,920",
+      "end_time": "00:16:03,000",
+      "text": "is a persuade while another GM might"
+    },
+    {
+      "start_time": "00:16:00,519",
+      "end_time": "00:16:06,000",
+      "text": "consider that a protocol skill such as"
+    },
+    {
+      "start_time": "00:16:03,000",
+      "end_time": "00:16:07,600",
+      "text": "the spice a variety in game mastering"
+    },
+    {
+      "start_time": "00:16:06,000",
+      "end_time": "00:16:10,040",
+      "text": "what counts is that the GM remains"
+    },
+    {
+      "start_time": "00:16:07,600",
+      "end_time": "00:16:11,800",
+      "text": "internally consistent on his or her"
+    },
+    {
+      "start_time": "00:16:10,040",
+      "end_time": "00:16:13,880",
+      "text": "rulings if you believe that"
+    },
+    {
+      "start_time": "00:16:11,800",
+      "end_time": "00:16:16,120",
+      "text": "impersonating a foreign Envoy is a"
+    },
+    {
+      "start_time": "00:16:13,880",
+      "end_time": "00:16:17,639",
+      "text": "perform role instead of a deceive make"
+    },
+    {
+      "start_time": "00:16:16,120",
+      "end_time": "00:16:19,399",
+      "text": "sure you don't turn around and demand a"
+    },
+    {
+      "start_time": "00:16:17,639",
+      "end_time": "00:16:20,920",
+      "text": "deceive role when that charact when that"
+    },
+    {
+      "start_time": "00:16:19,399",
+      "end_time": "00:16:23,000",
+      "text": "character later tries to pass themselves"
+    },
+    {
+      "start_time": "00:16:20,920",
+      "end_time": "00:16:24,600",
+      "text": "off as someone else players require"
+    },
+    {
+      "start_time": "00:16:23,000",
+      "end_time": "00:16:26,120",
+      "text": "consistent judgment from their GMS in"
+    },
+    {
+      "start_time": "00:16:24,600",
+      "end_time": "00:16:28,120",
+      "text": "order to make meaningful choices this is"
+    },
+    {
+      "start_time": "00:16:26,120",
+      "end_time": "00:16:29,959",
+      "text": "something I go on and on about in the GM"
+    },
+    {
+      "start_time": "00:16:28,120",
+      "end_time": "00:16:32,360",
+      "text": "section the GM section of this book"
+    },
+    {
+      "start_time": "00:16:29,959",
+      "end_time": "00:16:33,959",
+      "text": "isn't just here's how to interpret"
+    },
+    {
+      "start_time": "00:16:32,360",
+      "end_time": "00:16:37,600",
+      "text": "certain rules the GM section of This"
+    },
+    {
+      "start_time": "00:16:33,959",
+      "end_time": "00:16:40,440",
+      "text": "Book Is Here is how to run a game in"
+    },
+    {
+      "start_time": "00:16:37,600",
+      "end_time": "00:16:42,000",
+      "text": "this system in this world hopefully"
+    },
+    {
+      "start_time": "00:16:40,440",
+      "end_time": "00:16:43,680",
+      "text": "allowing you opportunities to try and"
+    },
+    {
+      "start_time": "00:16:42,000",
+      "end_time": "00:16:45,440",
+      "text": "elevate your own role playing"
+    },
+    {
+      "start_time": "00:16:43,680",
+      "end_time": "00:16:47,079",
+      "text": "experiences I don't mean that to be"
+    },
+    {
+      "start_time": "00:16:45,440",
+      "end_time": "00:16:49,079",
+      "text": "condescending or one true wayist or"
+    },
+    {
+      "start_time": "00:16:47,079",
+      "end_time": "00:16:51,160",
+      "text": "anything like that I'm just saying that"
+    },
+    {
+      "start_time": "00:16:49,079",
+      "end_time": "00:16:53,399",
+      "text": "it really is designed to be a tool to"
+    },
+    {
+      "start_time": "00:16:51,160",
+      "end_time": "00:16:54,920",
+      "text": "help GMS think about things in a"
+    },
+    {
+      "start_time": "00:16:53,399",
+      "end_time": "00:16:58,440",
+      "text": "different way and to try and make them"
+    },
+    {
+      "start_time": "00:16:54,920",
+      "end_time": "00:17:00,800",
+      "text": "better GMS um I do that all the time I'm"
+    },
+    {
+      "start_time": "00:16:58,440",
+      "end_time": "00:17:03,079",
+      "text": "always learning right I'm not some Guru"
+    },
+    {
+      "start_time": "00:17:00,800",
+      "end_time": "00:17:05,280",
+      "text": "who knows all the all the answers but I"
+    },
+    {
+      "start_time": "00:17:03,079",
+      "end_time": "00:17:06,720",
+      "text": "do know a few things and all of those"
+    },
+    {
+      "start_time": "00:17:05,280",
+      "end_time": "00:17:10,559",
+      "text": "things are in the GM section of this"
+    },
+    {
+      "start_time": "00:17:06,720",
+      "end_time": "00:17:12,520",
+      "text": "book so anyway uh it goes on into the"
+    },
+    {
+      "start_time": "00:17:10,559",
+      "end_time": "00:17:14,039",
+      "text": "details about how the system works but"
+    },
+    {
+      "start_time": "00:17:12,520",
+      "end_time": "00:17:16,559",
+      "text": "you guys have kind of got a taste of"
+    },
+    {
+      "start_time": "00:17:14,039",
+      "end_time": "00:17:18,199",
+      "text": "that if you've been watching the show on"
+    },
+    {
+      "start_time": "00:17:16,559",
+      "end_time": "00:17:20,600",
+      "text": "me and myself and die anyway I just"
+    },
+    {
+      "start_time": "00:17:18,199",
+      "end_time": "00:17:22,880",
+      "text": "wanted to get that crucial concept out"
+    },
+    {
+      "start_time": "00:17:20,600",
+      "end_time": "00:17:25,839",
+      "text": "to you because I think that is well it's"
+    },
+    {
+      "start_time": "00:17:22,880",
+      "end_time": "00:17:28,000",
+      "text": "crucial uh but it's it's it really is"
+    },
+    {
+      "start_time": "00:17:25,839",
+      "end_time": "00:17:30,720",
+      "text": "what separates this game from a lot of"
+    },
+    {
+      "start_time": "00:17:28,000",
+      "end_time": "00:17:33,640",
+      "text": "other games um for those of you who know"
+    },
+    {
+      "start_time": "00:17:30,720",
+      "end_time": "00:17:36,000",
+      "text": "Burning Wheel Burning Wheel is a"
+    },
+    {
+      "start_time": "00:17:33,640",
+      "end_time": "00:17:38,000",
+      "text": "sometimes absurdly complex system"
+    },
+    {
+      "start_time": "00:17:36,000",
+      "end_time": "00:17:40,400",
+      "text": "sometimes that tries to do a lot of the"
+    },
+    {
+      "start_time": "00:17:38,000",
+      "end_time": "00:17:43,640",
+      "text": "same things but where I feel Burning"
+    },
+    {
+      "start_time": "00:17:40,400",
+      "end_time": "00:17:46,360",
+      "text": "Wheel fails is that Burning"
+    },
+    {
+      "start_time": "00:17:43,640",
+      "end_time": "00:17:49,200",
+      "text": "Wheel uh"
+    },
+    {
+      "start_time": "00:17:46,360",
+      "end_time": "00:17:50,960",
+      "text": "overemphasizes the mechanical aspect"
+    },
+    {
+      "start_time": "00:17:49,200",
+      "end_time": "00:17:53,320",
+      "text": "while kind of weirdly ignoring the"
+    },
+    {
+      "start_time": "00:17:50,960",
+      "end_time": "00:17:54,360",
+      "text": "roleplay in a way again I don't want to"
+    },
+    {
+      "start_time": "00:17:53,320",
+      "end_time": "00:17:56,039",
+      "text": "I don't want to come down a burning"
+    },
+    {
+      "start_time": "00:17:54,360",
+      "end_time": "00:17:58,360",
+      "text": "wheel or anything it's a it's a really"
+    },
+    {
+      "start_time": "00:17:56,039",
+      "end_time": "00:18:00,760",
+      "text": "really cool game but for example in"
+    },
+    {
+      "start_time": "00:17:58,360",
+      "end_time": "00:18:03,200",
+      "text": "their in their Duel of wit system which"
+    },
+    {
+      "start_time": "00:18:00,760",
+      "end_time": "00:18:07,679",
+      "text": "is like a social combat"
+    },
+    {
+      "start_time": "00:18:03,200",
+      "end_time": "00:18:09,720",
+      "text": "system you basically plan your attack"
+    },
+    {
+      "start_time": "00:18:07,679",
+      "end_time": "00:18:11,760",
+      "text": "three steps ahead so you might say oh"
+    },
+    {
+      "start_time": "00:18:09,720",
+      "end_time": "00:18:13,440",
+      "text": "I'm going to to use the nen clature for"
+    },
+    {
+      "start_time": "00:18:11,760",
+      "end_time": "00:18:14,840",
+      "text": "the broken Empires just for purposes of"
+    },
+    {
+      "start_time": "00:18:13,440",
+      "end_time": "00:18:16,760",
+      "text": "example you might say I'm going to do a"
+    },
+    {
+      "start_time": "00:18:14,840",
+      "end_time": "00:18:17,520",
+      "text": "wit roll and then then Inspire and then"
+    },
+    {
+      "start_time": "00:18:16,760",
+      "end_time": "00:18:21,440",
+      "text": "to"
+    },
+    {
+      "start_time": "00:18:17,520",
+      "end_time": "00:18:24,520",
+      "text": "persuade and then that'll be compared to"
+    },
+    {
+      "start_time": "00:18:21,440",
+      "end_time": "00:18:27,320",
+      "text": "what the opponent does in that moment"
+    },
+    {
+      "start_time": "00:18:24,520",
+      "end_time": "00:18:29,520",
+      "text": "and then you come up with the result but"
+    },
+    {
+      "start_time": "00:18:27,320",
+      "end_time": "00:18:31,720",
+      "text": "the problem with that is that people"
+    },
+    {
+      "start_time": "00:18:29,520",
+      "end_time": "00:18:33,880",
+      "text": "don't have conversations like that"
+    },
+    {
+      "start_time": "00:18:31,720",
+      "end_time": "00:18:36,360",
+      "text": "people don't converse three steps ahead"
+    },
+    {
+      "start_time": "00:18:33,880",
+      "end_time": "00:18:40,480",
+      "text": "people aren't playing chess I mean in a"
+    },
+    {
+      "start_time": "00:18:36,360",
+      "end_time": "00:18:42,440",
+      "text": "debate maybe they are but the fact is a"
+    },
+    {
+      "start_time": "00:18:40,480",
+      "end_time": "00:18:46,200",
+      "text": "a conversation between people is very"
+    },
+    {
+      "start_time": "00:18:42,440",
+      "end_time": "00:18:48,120",
+      "text": "much like a sword duel in that if you"
+    },
+    {
+      "start_time": "00:18:46,200",
+      "end_time": "00:18:50,480",
+      "text": "are planning your next attack three"
+    },
+    {
+      "start_time": "00:18:48,120",
+      "end_time": "00:18:53,080",
+      "text": "steps ahead you're going to get stabbed"
+    },
+    {
+      "start_time": "00:18:50,480",
+      "end_time": "00:18:54,720",
+      "text": "believe me I fenced for years trust me a"
+    },
+    {
+      "start_time": "00:18:53,080",
+      "end_time": "00:18:56,400",
+      "text": "sword fight is not only trying to take"
+    },
+    {
+      "start_time": "00:18:54,720",
+      "end_time": "00:18:58,240",
+      "text": "advantage of your opponent's weaknesses"
+    },
+    {
+      "start_time": "00:18:56,400",
+      "end_time": "00:19:00,559",
+      "text": "it's about responding to what they just"
+    },
+    {
+      "start_time": "00:18:58,240",
+      "end_time": "00:19:02,559",
+      "text": "did and then trying to you know make"
+    },
+    {
+      "start_time": "00:19:00,559",
+      "end_time": "00:19:04,000",
+      "text": "your move if you plan your move three"
+    },
+    {
+      "start_time": "00:19:02,559",
+      "end_time": "00:19:06,760",
+      "text": "steps ahead of time that's a good way to"
+    },
+    {
+      "start_time": "00:19:04,000",
+      "end_time": "00:19:08,240",
+      "text": "get killed and so in a social situation"
+    },
+    {
+      "start_time": "00:19:06,760",
+      "end_time": "00:19:10,000",
+      "text": "if you're trying to plan your attack"
+    },
+    {
+      "start_time": "00:19:08,240",
+      "end_time": "00:19:13,400",
+      "text": "three steps ahead that is not taking"
+    },
+    {
+      "start_time": "00:19:10,000",
+      "end_time": "00:19:15,159",
+      "text": "into consideration the repost or the the"
+    },
+    {
+      "start_time": "00:19:13,400",
+      "end_time": "00:19:17,679",
+      "text": "response of your opponent and therefore"
+    },
+    {
+      "start_time": "00:19:15,159",
+      "end_time": "00:19:19,320",
+      "text": "you could get so all of that to say that"
+    },
+    {
+      "start_time": "00:19:17,679",
+      "end_time": "00:19:21,480",
+      "text": "it is it's a little artificial and a"
+    },
+    {
+      "start_time": "00:19:19,320",
+      "end_time": "00:19:23,799",
+      "text": "little clunky whereas my system is"
+    },
+    {
+      "start_time": "00:19:21,480",
+      "end_time": "00:19:26,360",
+      "text": "designed to be a little more free"
+    },
+    {
+      "start_time": "00:19:23,799",
+      "end_time": "00:19:29,799",
+      "text": "flowing a little more natural but you do"
+    },
+    {
+      "start_time": "00:19:26,360",
+      "end_time": "00:19:31,760",
+      "text": "have to get used to it like anything in"
+    },
+    {
+      "start_time": "00:19:29,799",
+      "end_time": "00:19:33,360",
+      "text": "this game There are rules and you have"
+    },
+    {
+      "start_time": "00:19:31,760",
+      "end_time": "00:19:36,679",
+      "text": "to learn the rules and internalize them"
+    },
+    {
+      "start_time": "00:19:33,360",
+      "end_time": "00:19:38,400",
+      "text": "before the game really starts to flow uh"
+    },
+    {
+      "start_time": "00:19:36,679",
+      "end_time": "00:19:40,159",
+      "text": "I could see a lot of people trying this"
+    },
+    {
+      "start_time": "00:19:38,400",
+      "end_time": "00:19:44,080",
+      "text": "the first time and Going H this is too"
+    },
+    {
+      "start_time": "00:19:40,159",
+      "end_time": "00:19:47,480",
+      "text": "clunky and weird but trust me believe me"
+    },
+    {
+      "start_time": "00:19:44,080",
+      "end_time": "00:19:49,840",
+      "text": "when I say that these rules as soon as"
+    },
+    {
+      "start_time": "00:19:47,480",
+      "end_time": "00:19:52,200",
+      "text": "you internalize them everything flows"
+    },
+    {
+      "start_time": "00:19:49,840",
+      "end_time": "00:19:54,159",
+      "text": "like water um anyway I just wanted to"
+    },
+    {
+      "start_time": "00:19:52,200",
+      "end_time": "00:19:55,760",
+      "text": "give you a little uh little Deep dive"
+    },
+    {
+      "start_time": "00:19:54,159",
+      "end_time": "00:19:57,159",
+      "text": "there on the philosophy of the social"
+    },
+    {
+      "start_time": "00:19:55,760",
+      "end_time": "00:19:59,760",
+      "text": "system because it is something that"
+    },
+    {
+      "start_time": "00:19:57,159",
+      "end_time": "00:20:01,559",
+      "text": "really does separate the game um and"
+    },
+    {
+      "start_time": "00:19:59,760",
+      "end_time": "00:20:02,840",
+      "text": "like I said it it in my estimation"
+    },
+    {
+      "start_time": "00:20:01,559",
+      "end_time": "00:20:05,640",
+      "text": "anyway what I'm tempted to do is to"
+    },
+    {
+      "start_time": "00:20:02,840",
+      "end_time": "00:20:07,960",
+      "text": "bring pure role play uh hand inand with"
+    },
+    {
+      "start_time": "00:20:05,640",
+      "end_time": "00:20:10,200",
+      "text": "mechanics at the same time to be able to"
+    },
+    {
+      "start_time": "00:20:07,960",
+      "end_time": "00:20:12,039",
+      "text": "allow the players and the characters to"
+    },
+    {
+      "start_time": "00:20:10,200",
+      "end_time": "00:20:14,200",
+      "text": "uh sort of mix and meld in a in a very"
+    },
+    {
+      "start_time": "00:20:12,039",
+      "end_time": "00:20:18,440",
+      "text": "satisfying and tactical way anyway"
+    },
+    {
+      "start_time": "00:20:14,200",
+      "end_time": "00:20:18,440",
+      "text": "onwards and upwards thanks guys"
+    }
+  ],
+  "full_text": "hey guys I want to talk to you today\nabout the social encounter system I\nwanted to go into a little bit more well\na lot more detail actually about um how\nit works about the philosophy behind it\nbecause that's really kind of a a key\nthing is the philosophy behind the whole\ninclusion of a social encounter system\nthe the in the old\ndays uh there W there wasn't any social\nconflict systems in place because in the\nvery very earliest days of the game as\nsome of you probably remember those of\nyou who were there uh we didn't need\nanything so we thought right it was most\nof the time the conflicts were all\nviolent most of the case in most cases\nso we didn't feel the need to have\nanything other than pure roleplaying\nright like I'm I'm sure a lot of us have\nhad those sessions or at least at the\nvery least uh if you haven't had the the\nsessions you've heard about the stories\nof people saying oh it was great we sat\ndown to play the game and no one even\nrolled a die it was all just your role\nplay and there's nothing wrong with that\nGod knows I had endless hours of those\nkind of games over the years and they\nwere super super fun however the goal of\nthis game is to provide a different\nexperience in a simulation I want the\ncharacters to matter and I want their\nskills to matter so what that means is\nif you're in a physical fight then the\ncharacter is going to live or die based\non their sword skill let's say or their\nweapon skill their ability to fight that\nis in no way reflect Ive of the skill of\nthe player obviously right if I go into\na fight I'm not relying on my knowledge\nof how to swing a sword in order to have\nmy character swing a sword right the\ncharacter is the one that actually\nswings a sword but I am the one that\nmakes the Tactical decision to swing\nthat sword and where to swing that sword\nand how to approach the enemy and all of\nthat stuff so in combat we already have\nthis blending of roleplay and mechanics\nright in a combat I say I draw my sword\nand and charge across the room uh\nknocking a table aside into the other\nguy before swinging My Sword whatever\nright that's me as the player\ndetermining what I'm going to do what my\ncharacter is going to do but then I\nrolled ice and the die roll is based on\nthe two hit values that the character\nhas we do damage based on the weapon\nthat the character is using none of that\nhas anything to do with me Trevor Deval\nthat has everything to do with Joe the\nfighter right his stats so already in\ncombat we have this blending of roleplay\nand mechanics so all I'm doing with\nsocial encounters and I'm not the first\none to do this by any stretch of the\nimagination uh but all I'm doing with\nsocial encounters is taking that exact\nsame philosophy and applying it to a\ntense encounter where it's a battle of\nwords instead of Battle of instead of a\nbattle of blades and more specifically\nI'm designing a system that allows\ncharacters to achieve objectives in\nnonviolent\nmeans and yet to make that achievement\nof objectives in nonviolent means\ninteresting mechanically as well as\nallowing people to still roleplay so\nthat's something you have to keep in\nmind right off the bat\nis you are still role playing your\ncharacter but specifically how it works\nis and I'm going to get into this\nbecause I'm going to read you a little\nbit from the book at least this this\nversion uh this draft of the book but\nhow it works is the player role plays\ntheir character in a situation and\nwhatever words they say whatever\napproach they take will determine the\nskill that is rolled to see if the\ncharacter succeeds okay so conflict\nArena Intrigue is what I'm looking at\ncurrently this is chapter 10 of the book\nwho knows what that'll be when the final\na is done in this game there are many\nconflict Arenas there's combat there's\ntravel all that kind of stuff so this\none is conflict Arena Intrigue and\nspecifically we're talking about the\nsocial encounter so there are many types\nof conflicts in the world of the broken\nEmpires violent combat is but one way to\nproduce exciting encounters when the\ncharacters are in desperate need to\nprocure the help of an NPC in order to\npursue their dearly held goals or to\ninfluence someone important to change\ntheir way of thinking about a situation\nrelated to the PCS or to do anything at\nall that relates to the objectives of\nthe characters raises the stakes in a\nnon-violent Manner and bears\nconsequences of failure we can break out\nthe social encounter system so the first\nthing you need to know is you don't use\nthis with every encounter with every NPC\nif you're bribing a guard you don't have\nto go through a whole social encounter\nsystem you can make a role right and\nthat is totally dependent on the GM and\nyou know the the the context of the\nsituation around the table there's no\nneed to break out a mechanically\ncomplex uh set of rules for something\nthat could be handled with one role or\nno roles right it it there's nothing\nstopping a GM from just listening to\nwhat the player is saying and going yeah\nokay that's good enough he buys that\nargument and a way you go this system is\ndesigned\nwhen there is something really at stake\nand where the where the players want to\nwant to give their characters the\nopportunity to draw upon their specific\nskills that they can use in order to\nachieve an outcome in the way that they\nwant to best do that\nso uh the social encounter system is\ndesigned to turn important conversations\nand audiences with influential NPCs into\ntense tactical conflicts that highlight\nwhat's at stake for the characters the\nplayers are given the opportunity to\nmake meaningful tax iCal choices and how\nthey approach each moment in the\nconversation in hopes of getting exactly\nwhat they want from that particular NPC\nand of course as everything in the game\ncontext is King context is king of\neverything\nbecause it doesn't matter what you rules\nare if if you are applying them in a way\nthat doesn't make any sense within the\nthe given circumstances it's not going\nto be satisfying and that's something\nthat's really important about gming this\ngame gming any game is is always keeping\ncontext in mind because that that really\nis going to determine everything\nso um what is of Paramount importance\nfor the players to uh is to detail\nexactly what their characters hope to\nachieve in the encounter so the more\nspecific their objectives in that\nencounter the social encounter the\nbetter and crucially there must be\nclearly defined consequences for both\nsuccess and failure so basically\ncharacters who have nothing at stake and\nplayers who are uh uninvested in the\noutcome like you get in one shots for\nexample most of the time uh they make\nfor dull anticlimactic social encounters\nthat can prove frustrating and\nultimately a waste of time so you need\nto make sure that you know what you want\ngoing into the situation so as as this\nsystem is really most heavily influenced\nby the one ring at specifically the\nfirst edition of the One\nRing um the example that I use because\nthis is an example that happened many\nmany times over the six-year campaign I\nran in the One Ring let's say that the\nplayers are trying to cross the lands of\nbejor and they need permission to do so\nthat's a very simple example but it\nworks when they speak to beorn when they\ntake an audience with beor they have a\nvested interest in the outcome and they\nknow what their they know what their\nOptimum outcome is their Optimum outcome\nis we get permission to cross the lands\nby this big scary\ndude now if they fail at that there's\ngoing to be consequences right and they\nmight have to go all the way around\nmerkwood or whatever\nin order to achieve their objectives and\nthat's a big setback if they succeed\ngreat but if they succeed really well\nthere's going to be more benefits so\ntheir goal is to get as many benefits as\npossible without risking too much the\nsocial encounter system is a series of\nextended tests in other words tests\nwhere you are rolling and accumulating\nsuccess levels where the players try to\nget as many success levels as they can\nusing various social skills and any\nleverage they have attained they have\nattained before the NPC's tolerance\nthreshold is reach reached I should\nlearn how to speak reached uh what is\ncrucial to understand and I'm just kind\nof I'm just kind of going through\nvarious large sections of this document\nI'm going to read the whole chapter to\nyou but what is crucial to understand\nabout this system is that social skills\nare designed to accommodate and enhance\nthe role playing experience not replace\nit you don't roll a social skill to get\nout of having to roleplay your character\nyou roll a certain skill directly\nbecause of how you just roleplayed the\ncharacter so this is never intended to\nbe just a series of die rolls okay I\nroll my persuade did I succeed okay all\nright now you roll your uh now you roll\nyour your wit okay all right now you\nroll Inspire okay all right we rolled we\ngot success I guess we win that's kind\nof like saying in a fight the player is\njust going I don't know uh I'm just\ngoing to roll to hit and um it doesn't\nreally matter where I am I'm not going\nto make any choices in the combat cuz\nultimately all that matters is what the\nnumbers say so I'm just going to roll to\nhit and if I beat his Arma class I do\nhit points and we'll just we'll just\nkeep doing that until he gets to zero\nand then we can move on well that's not\nplaying the game that's just rolling\ndice so the same thing applies here\nyou're not just rolling dice you are\nplaying your character and the mechanics\nare\nfacilitating your role-playing choices\nso the general structure of social\nconflicts is this what I just said\nplayers roleplay or otherwise detail\nwhat their characters say and the GM\noften with input from the whole table\nthat tends to happen naturally a lot of\nthe times uh decides on the appropriate\nsocial skill for them to roll based on\ntheir wording and their General approach\nwe've separated the player and the\ncharacter obviously but we're also\nbringing them together because the\nplayer is the one that picks the\napproach through their roleplay and it's\nthe character that's got to make the\nrole there was a thing that happened in\nin the uh YouTuber session of of the\nglooming pool that I did where somebody\non YouTube said well and they just this\nwas you know seeing a clip this is\nseeing like a two-minute clip or\nwhatever and of course so of course they\ntook it out of context they didn't have\nthe context to to make a a more accurate\nuh observation but they said well it\nlooked like Kelsey there made a really\nintimidating statement um but\nher you know she she only had a 10%\nchance of success wh why and I tried to\nexplain to them it's because Kelsey in\nthat moment played her character very\nintimidatingly but the character is no\ngood at intimidation\nso that's why she rolled so badly it\ndoesn't matter what Kelsey's\nintimidating it's kind of makes me laugh\nthinking about Kelsey Dion being\nintimidating because she's like the most\nlovely person ever but it makes no it\nmakes no difference how intimidating\nKelsey is all that matters is did she\ndid she roleplay the character\nintimidating and if so then it's going\nto trigger the intimidation skill if she\nhad played that exact same moment in a\nmore persuasive way or in a more witty\nway or in a more inspiring way or\nwhatever the ways that she has on her\ncharacter sheet then that would have\ntriggered a different skill so this\nbecomes and this is really the most\nimportant thing about the social system\nis that it it requires players to be\nvery careful about how they approach\nwhat they're saying you know very often\nyou'll have cases around the table where\nespecially when people are learning this\nuh someone will just start to open their\nmouth and I'll say okay uh roll\nintimidate or whatever and they'll be\nlike what well I thought I was yeah what\ndo you mean and everyone goes yeah dude\nthat was super intimidating well but I'm\nno good at intimidation well then you\nshould have thought of that before you\nopened your mouth that happens all the\ntime and what you get is sort of this in\nmy experience what what we've always got\nis sort of this beautiful consensus\naround the table like okay guys you\ncan't just open your mouth and the table\nenforces its own discipline on the\nproceedings so now you have players that\nthey might be champing at the bit yes\nchamping not chomping champing at the\nbit to say something in a very\nparticular way but they know that their\ncharacter is not skilled in that\napproach so either they just shut the\nhell up or they try and word it to take\na different approach and it's great\nbecause it really elevates the\nexperience of the roleplay it really it\nreally engages the players in those\nsocial moments where now they are\nactively engaged and actively thinking\nabout how do I get what I want using the\ntools that I have which are my character\nskills it's it's a wonderful blending of\nof uh pure roleplay and mechanics to to\ngenerate the result um so also crucially\nalso crucially two more points here um\nthis system naturally relies on Fair\nhonest and accommodating judgment from\nthe GM in interpretating inter\ninterpretating interpreting the players\nroleplayed statements and deciding which\nskill the role let me say that again\nthis system relies on Fair honest and\naccommodating judgment from the GM in\ninterpreting the players roleplayed\nstatements and deciding which skill to\nroll crucial you have to be grown-ups\nyou have you can't be a dick right which\nis the rule in any game one would\nhope you need to be fair and honest\nabout those things as the GM and as the\nplayer however in many cases the whole\ntable often becomes actively involved in\ncarefully listening to and judging which\nskill they think the player should roll\nbased on how he or she just played that\nmoment in the conversation so providing\nthe players are approaching it honestly\na good GM takes their input into account\nwhen making a\ndecision that's what makes the the\nsystem so fun too is that you'll see a\ncharacter say something and then\nimmediately the rest of the table would\nbe like dude what are you doing why did\nyou say it that way well I thought I\nwas whatever it could be hilarious but\nit could also be extremely tense right\nif the if the characters if the player\ncharacters are uh\nengaged in the outcome or if they're\nthey have a vested interest in the\noutcome which of course they should\nthere's no point even engaging in the\nsubsystem unless the characters have a\nhave something at stake right uh but but\nif they do this becomes a really really\ntense uh situation it is a type of\ncombat actually as long as there's\nStakes um now another hugely important\nthing to note here is that none of this\nrequires acting or putting on a funny\nvoice or doing an AC or even speaking in\nthe first person it merely requires an\nhonest attempt by the player to speak\nthe words the character would say in\nthat moment based on what they are\ntrying to achieve socially so that's\npretty crucial a lot of people have the\nmisunderstanding when they see a system\nlike this they say oh well so I got to I\ngot to act all inspiring if I want to\nmake an Inspire Ro I'm not an inspiring\nperson no you don't but you do have to\nthink about the words you choose because\nwhen a character is role playing an\ninspiring moment to to pick one of the\nmany skills yes it it's not predicated\nupon that player's natural Charisma to\nbe inspiring because again it's about\nwhat the character roles so all the\nplayer has to do is choose words that\nare inspiring and again I say they don't\neven have to do that in the first person\na lot of you don't play in the first\nperson a lot of you are third person\nplayers you say you know Jim the fighter\nsays this and that's perfectly fine but\nyou have to choose the words carefully\nbecause it's going to be the words that\ndictate the approach which the GM will\nthen interpret which leads me to the\nnext Point here obviously understanding\nthe differences between the social\nskills is going to be crucial there are\nI think nine or 10 social skills and\nthey are different right they all have\nspecific meanings which I outlined in\nthe book it's very clear however\ndifferent people will interpret the\nmeaning of social skill applications in\ndifferent ways one GM might suggest that\ntelling a simple truth to a general\nabout the impending threat to his army\nis a persuade while another GM might\nconsider that a protocol skill such as\nthe spice a variety in game mastering\nwhat counts is that the GM remains\ninternally consistent on his or her\nrulings if you believe that\nimpersonating a foreign Envoy is a\nperform role instead of a deceive make\nsure you don't turn around and demand a\ndeceive role when that charact when that\ncharacter later tries to pass themselves\noff as someone else players require\nconsistent judgment from their GMS in\norder to make meaningful choices this is\nsomething I go on and on about in the GM\nsection the GM section of this book\nisn't just here's how to interpret\ncertain rules the GM section of This\nBook Is Here is how to run a game in\nthis system in this world hopefully\nallowing you opportunities to try and\nelevate your own role playing\nexperiences I don't mean that to be\ncondescending or one true wayist or\nanything like that I'm just saying that\nit really is designed to be a tool to\nhelp GMS think about things in a\ndifferent way and to try and make them\nbetter GMS um I do that all the time I'm\nalways learning right I'm not some Guru\nwho knows all the all the answers but I\ndo know a few things and all of those\nthings are in the GM section of this\nbook so anyway uh it goes on into the\ndetails about how the system works but\nyou guys have kind of got a taste of\nthat if you've been watching the show on\nme and myself and die anyway I just\nwanted to get that crucial concept out\nto you because I think that is well it's\ncrucial uh but it's it's it really is\nwhat separates this game from a lot of\nother games um for those of you who know\nBurning Wheel Burning Wheel is a\nsometimes absurdly complex system\nsometimes that tries to do a lot of the\nsame things but where I feel Burning\nWheel fails is that Burning\nWheel uh\noveremphasizes the mechanical aspect\nwhile kind of weirdly ignoring the\nroleplay in a way again I don't want to\nI don't want to come down a burning\nwheel or anything it's a it's a really\nreally cool game but for example in\ntheir in their Duel of wit system which\nis like a social combat\nsystem you basically plan your attack\nthree steps ahead so you might say oh\nI'm going to to use the nen clature for\nthe broken Empires just for purposes of\nexample you might say I'm going to do a\nwit roll and then then Inspire and then\nto\npersuade and then that'll be compared to\nwhat the opponent does in that moment\nand then you come up with the result but\nthe problem with that is that people\ndon't have conversations like that\npeople don't converse three steps ahead\npeople aren't playing chess I mean in a\ndebate maybe they are but the fact is a\na conversation between people is very\nmuch like a sword duel in that if you\nare planning your next attack three\nsteps ahead you're going to get stabbed\nbelieve me I fenced for years trust me a\nsword fight is not only trying to take\nadvantage of your opponent's weaknesses\nit's about responding to what they just\ndid and then trying to you know make\nyour move if you plan your move three\nsteps ahead of time that's a good way to\nget killed and so in a social situation\nif you're trying to plan your attack\nthree steps ahead that is not taking\ninto consideration the repost or the the\nresponse of your opponent and therefore\nyou could get so all of that to say that\nit is it's a little artificial and a\nlittle clunky whereas my system is\ndesigned to be a little more free\nflowing a little more natural but you do\nhave to get used to it like anything in\nthis game There are rules and you have\nto learn the rules and internalize them\nbefore the game really starts to flow uh\nI could see a lot of people trying this\nthe first time and Going H this is too\nclunky and weird but trust me believe me\nwhen I say that these rules as soon as\nyou internalize them everything flows\nlike water um anyway I just wanted to\ngive you a little uh little Deep dive\nthere on the philosophy of the social\nsystem because it is something that\nreally does separate the game um and\nlike I said it it in my estimation\nanyway what I'm tempted to do is to\nbring pure role play uh hand inand with\nmechanics at the same time to be able to\nallow the players and the characters to\nuh sort of mix and meld in a in a very\nsatisfying and tactical way anyway\nonwards and upwards thanks guys\n"
+}

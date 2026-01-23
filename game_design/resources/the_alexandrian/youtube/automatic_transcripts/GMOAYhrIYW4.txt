@@ -1,0 +1,2581 @@
+we are going to be doing a let's read of
+the original 1974 edition of dungeons
+and dragons by dave arneson and gary
+gygax all right so how is this going to
+work well we're going to kind of be
+diving into this original edition of d
+the very first edition of d d that was
+ever published the way the story goes is
+that in 1970 or 1971 dave arneson had
+been running a napoleonics war game
+campaign for his players in the basement
+of his house in saint paul minnesota one
+day his players came over and rather
+than finding the napoleonics campaign
+set up on dave's sand table actually i
+should stop there for a second one of
+the cool things that you may not be
+familiar with are sand tables that are
+used by miniature war gamers these are
+actually basically what they sound like
+they are tables with
+raised edges that are filled with sand
+and the sand can be molded like a sand
+castle to represent the terrain of a
+battlefield
+sometimes you will be able to just sort
+of fight your battles on the sand itself
+in other cases it will be accented with
+various types of terrain trees and
+buildings and so forth and obviously the
+advantage of this is that rather than
+having a flat map on the table with
+topographical features inked onto it you
+can instead actually literally see those
+topographical features in real life and
+if you're playing with miniatures you
+can get a really sort of an immediate
+feel for how the line of sight and
+everything else it's a very much more
+immersive experience and so hardcore war
+gamers would build these custom sand
+tables and dave arneson had one in his
+basement that he was running his
+napoleonics campaign on so his players
+come over they go down to his basement
+and rather than finding the napoleonics
+campaign set up or so the story goes
+they instead find a miniature model of a
+medieval castle and dave arneson tells
+him that they're going to be doing
+something
+a little different this evening they're
+going to be creating individual
+characters and they are going to be
+delving into the dungeons beneath castle
+blackmore
+dave arneson had created the
+first
+modern role-playing game
+now skip forward a couple of months a
+couple of years rather and dave arneson
+has loaded up a bunch of his castle
+blackmoore material and he's driving
+down to lake geneva wisconsin where he
+is going to run a session of castle
+blackmore for his friend and co-designer
+gary gygax the co-owner and publisher of
+tactical studies rules incorporated dave
+runs the game for gary and some of his
+friends and they love it and gary gygax
+begins running the game too gary's
+players delve into the dungeons beneath
+castle greyhawk both of these games are
+incredibly popular attracting many many
+players dave arneson and gary gagax
+can't keep up with the demand and they
+begin recruiting code gms to begin
+running the games as well to help
+satisfy all the people who want to play
+this cool new game eventually the two of
+them realize if the game is this popular
+we should try to publish this and offer
+it to other people they work together
+for a while and they develop a game and
+they call it
+dungeons and dragons
+and they published that game in
+1974
+now the original edition of dungeons and
+dragons was released in a boxed set
+originally a wood grain box with the
+cover image of the game actually just
+pasted onto the top of this sort of
+mass-produced wood grain box now when
+this edition of the game almost
+immediately sells out the game is
+reprinted in a much higher quantity and
+in this case they are able to actually
+print a custom box which is largely
+white in color which is why this edition
+of the game this 1974 edition of the
+game is often referred to as the white
+box edition of dnd because most people
+who saw the game on the shelves who were
+playing the game were familiar with this
+white box edition very few people had
+actually had a chance to see or interact
+with that original limited edition first
+printing with the wood grain box on it
+so this becomes known as the the white
+box we also refer to it as od ind for
+original dungeons and dragons but it's
+the 1974
+edition of dnd the later reprints have a
+number of errata and changes we'll be
+talking about some of those as we kind
+of go through the book at least the ones
+that i'm aware of but regardless as you
+can see uh this is a box set and it is a
+three volume set there's actually four
+things in the box there are three books
+which are titled men and magic volume
+two is monsters and treasure and volume
+3 is underworld and wilderness
+adventures but there's also a reference
+sheet now i do not own this game
+physically much to my regret but i do
+own pdf copies that have been released
+by wizards of the coast and you can find
+those pdf copies on drive through
+rpg those pdfs do not include the
+reference sheets unfortunately so we
+will be taking a look at those reference
+sheets this evening now i do have some
+other pdf copies as well that are
+actually the original first printing and
+we'll be taking a look actually at those
+first printings and so as we take a peek
+actually inside the box we can see
+volume one men and magic of dungeons and
+dragons critical failsafe says i think
+the story goes that gigax asked his kids
+what they should call the game and one
+of them said dungeons and dragons and
+eye gaxx was like that's kind of lame
+that's the story that guy gax tells um
+and uh it's a good story the wildest the
+wind says where does chainmail come into
+play that is a great question let's talk
+a little bit about chainmail i'm not
+going to go through chainmail today
+we'll do that at some point if this if
+this whole thing works
+but chainmail is a single man miniatures
+war game that was designed uh and
+published by tsr in i want to say
+71 or 72. the exact relationship between
+chainmail and dave arneson's blackmore
+game and dungeons and dragons can be a
+somewhat contentious topic
+several years after the events i just
+described there was a falling out
+between dave arneson and gay gagax there
+were lawsuits involved and everyone's
+stories uh both changed and solidified
+in response to money and lawsuits being
+on the line uh obviously gary gygax and
+those who supported gary gygax in the
+company uh their narrative was that the
+game was heavily derivative of chainmail
+uh dave arneson's version became that
+chainmail was almost in a relevant side
+note that didn't really matter to the
+game at all the truth almost certainly
+lies somewhere in between we'll kind of
+dive in that a little bit more too as we
+dive into the book going back to men in
+magic here we may notice that the cover
+of the book the min and magic book in
+this first printing is the same as that
+on the front cover of the box in the
+reprints this illustration was actually
+changed we've already seen how it
+changed for the white box itself we have
+a new illustration there but it was also
+changed on the book inside it was
+changed to look like this now both of
+these images these new pieces of art
+were done by an artist named david c
+sutherland iii the original pieces were
+done by greg bell who also did a lot of
+the art that we'll see inside the books
+one of the reasons why this change may
+have come about is that it turns out
+that greg bell's illustrations several
+of greg bell's illustrations were in
+fact
+heavily inspired by some would say post
+swiped and others would uncharitably say
+traced from a marvel comic book actually
+a dr strange story found in strange
+tales number
+167 so this is the cover of d d
+obviously from 1974 and this is page 22
+from strange tales number 167 as drawn
+by dan adkins is the artist of this
+piece and you can see pretty clearly
+here if you look at that horse in the
+upper right hand corner you can see
+pretty clearly the heavy inspiration
+that was taken from that piece of art
+and then used on the cover of the book
+as well as obviously the cover of the
+box itself which may be the reason why
+this particular piece of art as dramatic
+as it is was yanked from the cover of
+the box yanked from the cover of the
+book and replaced with these alternative
+pieces of art who get which were again
+by david c sutherland iii david
+sutherland would go on to do a number of
+pieces of art for other d d products
+throughout the following years in those
+early days of the game
+now as i mentioned there's a number of
+other pieces inside the books also done
+by greg bell some of them are perfectly
+original but there are actually several
+other
+post swipes from marvel comic books and
+other comic books as well over the years
+various researchers and fans have
+identified a number of the original
+sources for these pieces the the sources
+of inspiration
+let us say and this you can find various
+fan articles about this uh if you do
+some google searches about it we'll kind
+of be visiting some of those other
+pieces as we go through as well one of
+the things i was actually surprised to
+discover as i was hunting down the
+original sources for these pieces and
+which doesn't seem to be well commented
+on a lot of these fan articles many of
+which are derivative of each other
+ultimately is that it turns out almost
+all of these pieces of art are actually
+from one comic book they are actually
+all from uh strange tales number 167
+back in this time period early marvel
+comics as well silver age marvel comics
+strange tales was actually an anthology
+title they would actually print two
+stories in there one taking up the first
+half of the issue and the other taking
+up the back half of the issue strange
+tales originally started as a as a
+horror comic which is what was actually
+called strange tales it became a
+superhero comic for a while it had human
+torch stories in it it uh probably had
+its its height when it was a doctor
+strange comic book later on as you can
+see in this case it actually is a nick
+fury agent of shield and doctor strange
+comic book it was just jim sturranko was
+doing the nick fury stories in this time
+frame really classic jim stranko work
+here and quite a bit of the art that
+greg bell post swiped for dungeons and
+dragons was actually jim steranko's art
+but like i said the cover was actually
+taken from the dr strange story in the
+back of the comic and that that horse
+that we saw earlier uh which i guess we
+can pull back up in the form of dnd now
+is actually from dan atkins drawing for
+that that strange tales issue so
+one of those weird little quirks of the
+history of d d there
+okay so we're looking at dungeons and
+dragons and we can see that it's rules
+for fantastic medieval war game
+campaigns playable with paper and pencil
+and miniature figures by gigax and
+arneson you see this is men in magic
+volume one of three booklets and it's
+published by tactical studies rules with
+a individual price of three dollars and
+fifty cents uh for the book printed on
+the front cover here the other thing you
+may notice as we take a peek at this
+cover is this uh gk logo uh for tsr
+games uh g actually does stand for gygax
+k obviously does not stand for arneson
+which makes sense because of course
+arneson was in no kind of ownership or
+leadership role at tsr he was the
+co-designer of dnd the originator of the
+modern tabletop role-playing game but he
+wasn't actually like an owner or partner
+in tsr at all tsr had actually been
+founded to print and publish war games
+by gary gygax and gary gagax's friend
+don k
+who were later joined by brian bloom who
+was brought in as an investor for the
+company in december
+1973. so the g is gigax and the k is for
+don k
+tragically don k would actually die at
+the age of 36 in january 1975 of a fatal
+heart attack just a few days before he
+was scheduled to go in for heart surgery
+this is um this is actually a
+sad story in its immediate sense and a
+significant story for dnd because of
+what happened next don k owned basically
+a third of the company with gary gygax
+and brian bloom at that time but don k's
+widow wasn't interested in being part of
+the company wanted to sell don shares at
+the time gigax couldn't afford to buy
+those shares back if she had been
+willing to wait a little bit longer
+dungeons and dragon success probably
+would have allowed him to do that but he
+couldn't do it at the time brian bloom
+convinced guy gax to let his father
+melvin bloom buy the shares and the
+company was then reorganized with the
+blooms in the majority position as tsr
+hobbies incorporated this would all
+later set the stage for how gygax would
+ultimately lose control of the company
+and be forced out in the 1980s because
+he was not a majority shareholder or in
+control of the company as a result of
+these events in 1975 just after d came
+out for the first time the other thing
+we can notice we look at this cover is
+the term role playing game does not
+appear on the cover in fact it will not
+appear anywhere in these books that term
+hadn't been invented yet dungeons and
+dragons was
+in 1974 really seen as a variant or a
+sub genre of the war game
+hobby in much the same fashion that
+collectible card games originally seen
+as just a sub genre of board games and
+in much the same way that storytelling
+games were just seen as a subgenre of
+role-playing games before they were kind
+of fully explored and people began
+understanding that something new and and
+amazing had been created and needed a
+separate identity but yeah so you won't
+do the term role playing game in here
+you will notice the word campaign we
+still use that word describing all
+role-playing campaigns the reason we do
+that is because of the relationship to
+war games as i mentioned at the
+beginning dave arneson's regular play
+group had been playing a
+napoleonics-based war game campaign the
+word campaign was pulled from military
+campaigns meaning a series of battles
+and this is what war gamers would do
+they would fight a number of individual
+battles individual game sessions that
+were all connected to each other in a
+campaign as the circumstances of that
+war evolved over the courses of the
+battles that were being played out and
+and fought in these miniature war games
+and so that term campaign then carried
+over into the blackmoore game and as you
+can see now into dungeons and dragons as
+well as a term for
+a
+series of individual sessions
+that would build together in a common
+continuity over time and that's
+obviously a major part of
+how we play and think about role-playing
+games
+today as well let's uh flip open our our
+virtual cover here and take a peek
+inside well our first peek inside here
+is obviously the interior pages
+inquiries regarding rules should be
+accompanied by a stamped return envelope
+and sent to tactical studies rules 542
+sage street lake geneva wisconsin 53-147
+zip code if you send a says to that
+address i guarantee you you will not get
+any answers back to your dnd questions
+title page here dungeons and dragons
+volume one men and magic by gary gygax
+and dave arneson dedicated to all the
+fantasy war gamers who have
+enthusiastically played and expanded
+upon the chainmail fantasy rules with
+thanks and gratitude here is something
+better special thanks to the midwest
+military simulation association the lake
+geneva tactical cities association rob
+kuntz and tim co in memoriam
+illustrations inside by keenan powell
+greg bell we've been talking about mr
+bell c cory dave arneson also contribute
+illustrations and tco as well copyright
+1974 tactical studies rules there uh so
+we talked about chainmail this is a pdf
+of the third edition of chainmail which
+came out you can see that gk logo there
+we're not going to dive too deep into
+this but i just want to kind of show the
+cover off here this is obviously
+chainmail rules for medieval miniatures
+by gary gygax and jeff parham this
+originally came out a couple years
+before dnd came out was primarily
+designed as a medieval warfare at a
+one-to-one ratio where one miniature
+figure on the table would represent one
+soldier on the battlefield as opposed to
+games where you might have one figure on
+the table represent a hundred soldiers
+or ten soldiers or something like that
+we're talking about chain a little bit
+we'll kind of dive in a little bit more
+as we go a little bit deeper in here all
+right so we have the index which is
+actually a table of contents and we can
+take a peek here we're gonna have an
+introduction we're gonna scope
+equipment preparations for the campaign
+characters which will apparently include
+character alignment including monsters
+determination of abilities languages
+non-player characters basic equipment
+and costs encumbrance weights and
+equivalents levels and the number of
+experience points necessary to attain
+them statistics regarding classes the
+alternative combat system the saving
+throw matrix the spells tables for magic
+users and clerics the explanation of
+spells magical research and the books of
+spells at the very end there drow double
+07 mentioned that david wesley was my
+neighbor for 15 years the creator of
+braunstein if we begin cracking open
+all of this
+i'll basically be reenacting the secrets
+of blackmore movie or john peterson's
+amazing playing at the game book both of
+which i recommend uh as awesome sources
+for those interesting diving into this i
+don't know what i want to say here too
+is a little bit of my background with od
+and d as we're taking a peek at all this
+back in 2009 just over 12 years ago now
+i picked up these pts for the first time
+i read through them i thought they were
+really fascinating and i and a few
+gaming friends decided that we wanted to
+run
+a one shot of the original 1974 rules
+for
+dnd that would be a really interesting
+way of getting a unique perspective on
+the game so
+we made a couple of decisions for that
+session that influenced a lot of things
+one of them was that if we were going to
+do this we're going to do this
+experiment and kind of see to the best
+of our ability what it would be like to
+play od and d then we want to lean into
+it and we decided that we were going to
+play with the conceit that it was 1974.
+we had just found this weird box on the
+shelf called dungeons and dragons we had
+opened it up we found these three books
+inside and that was all that we had we
+were not people who like knew about the
+you know 30-plus years of role-playing
+games that came after that and so it was
+really just that can see because most
+people in the mid-70s came to d we've
+been talking about chain mail and how
+guy gacks especially kind of assumed
+that people would have chain mail but
+the reality is that the white box
+edition of dnd outsold chain mail by a
+factor of at least ten to one i think it
+might have actually been like a hundred
+to one by the end so the vast majority
+of people who were playing dnd never
+actually owned chainmail they just owned
+this this little box set with these
+three books inside and they had to
+figure out the game from that you're
+gonna see some bias and some vestige of
+that being my approach to this game is
+to is to journey back to 1974.
+imagine that you found this game imagine
+that you have no idea where this game is
+going to end up now 40 years later you
+have no idea about any anything about
+role-playing games as general you just
+know it's in this box i think it's
+really interesting to look at the game
+uh from that angle and something we're
+going to be doing here this evening in
+particular is that as we read through
+this going to be places where we're
+going to encounter things and we're
+going to think oh i get that i
+understand that but if you take a second
+look and assume that you don't know how
+the game would evolve sometimes your
+first impressions biased by ad or second
+edition the third edition or fourth
+edition or fifth edition biased by that
+later understanding of how the game
+evolved you'll discover that sometimes
+your first impression of od and d
+isn't actually what's on the page in od
+and d and there's some really really
+interesting things that you can discover
+to kind of finish the story of my own
+experience with od d i ran that one shot
+back in 2009 and the players enjoyed it
+so much and i enjoyed it so much that
+they demanded that we play another
+session and so we did and then we played
+another session and another session and
+that actually evolved into an open table
+campaign that eventually at its height
+involved as many as 45 different players
+and
+ran for several dozen sessions and
+completely transformed my local gaming
+circle and the kinds of of games i've
+been able to run as a result and so a
+very important game to me personally
+is that od and d game i ran like i say
+just over a decade ago i was not born
+until 1979 and so technically i was
+there in the 70s but not in the
+meaningful sense so this much of what i
+say should be viewed as well within the
+limitations of my own perspectives as a
+gamer i came to dnd in 1989 uh the year
+that second edition add second edition
+came out and 15 years after the game
+that we're looking at here today came
+out which at the time in 1989 it felt
+like d and d had always been there was
+this vast institution uh and now looking
+back i'm like oh it was just a baby when
+i got into it it was just the the
+babiest of babies of of games and
+role-playing games were less than a
+generation old all right let's turn the
+page again here take a closer look we
+are in the forward
+once upon a time long long ago there was
+a little group known as the castle and
+crusade society their fantasy rules were
+published into this writer's knowledge
+brought about much of the current
+interest in fantasy wargaming for a time
+the group grew and prospered and dave
+arneson decided to begin a medieval
+fantasy campaign game for his active
+twin cities club from the map of the
+land of the great kingdom and environs
+the territory of the cnc society dave
+located a nice bog wherein to nest the
+weird enclave of blackmore a spot
+between the great kingdom and the
+fearsome egg of coot
+from the chainmail fantasy rules he drew
+ideas for a far more complex and
+exciting game and thus began a campaign
+which still thrives as of this writing
+in due course that's an exclamation
+point in due course the news reached my
+ears and the result is what you have in
+your hands at this moment well the cnc
+society is no longer spirit lives on and
+we believe that all war gamers who are
+interested in the medieval period not
+just fantasy buffs will enjoy playing
+dungeons and dragons its possibilities
+go far beyond any previous offerings
+anywhere so take a pause there real
+quick and talk a little bit about this
+so the castle and crusade society was a
+war gaming group that was not local to a
+specific location they communicated by
+fanzine and by well by letter by mail
+and they would swap letters back and
+forth and communicate and they had
+developed kind of a shared little
+continuity of their world here that dave
+blackmore had inserted blackmoore into
+as well this comment uh gygax makes her
+about we believe all war gamers who are
+interested in the medieval period not
+just fantasy buffs will enjoy playing
+dungeons and dragons that reflects uh
+what i understand to be a fairly central
+tension in the 70s in this time late 60s
+early 70s where there were a number of
+of young turks so to speak who were
+really
+interested in bringing fantasy elements
+into wargaming they were inspired by
+things like the battle of the five
+armies and j.r tolkien's hobbit and the
+lord of the rings and robert e howard's
+conan stories and all those fantasy
+battles and they wanted to bring these
+elements the magic and the fantastical
+creatures in
+the old guard of the wargaming community
+much of their appeal was much more based
+in simulation and accurately
+representing historical events and so
+fantasy was kind of an aftermath of what
+they were interested in so you had kind
+of these two different schools of
+thought about what wargaming was
+supposed to be uh and guy gaxx had found
+himself kind of in in the middle of this
+controversy as a result of chainmail
+which had been originally developed as a
+medieval skirmish game
+and then had also included as sort of an
+addendum at the back rules for a fantasy
+and gygax had found these to be very
+popular and
+commercially lucrative but he was aware
+of this sort of tension and this is
+clearly his attempt to
+to bridge that gap and say no no all
+everyone's welcome big tent time guys d
+big tent which is where d d has always
+lived is in a place with a big tent
+welcoming as many people as possible and
+trying to support as many different game
+styles as possible
+while it is possible to play a single
+game unrelated to any other game events
+past or future it is the campaign for
+which these rules are designed it is
+relatively simple to set up a fantasy
+campaign and better still it will cost
+almost nothing in fact you will not even
+need miniature figures although their
+occasional employment is recommended for
+real spectacle when battles are fought a
+quick glance at the equipment section of
+this booklet will reveal just how little
+is required the most extensive
+requirement is time the campaign referee
+will have to have sufficient time to
+meet the demands of his players he will
+have to devote a number of hours to
+laying out the maps of his dungeons and
+upper terrain before the affair begins
+so i've been emphasizing these quotation
+marks that gigax has been dropping into
+the pros you'll actually see these
+throughout these od and d books it is a
+way that guy gax uses in these books to
+signify somewhat inconsistently but to
+signify elements which exist within the
+game world in our modern jargon we'd
+refer to those as the diegetic elements
+of the game world it's supposed to be
+non-diegetic elements of the game world
+i do find the usage of these quotation
+marks interesting because it's such an
+interesting and early example of trying
+to struggle with you know what is it
+that we're actually creating what is the
+division between this fantastical game
+world that we're imagining and the
+reality of us sitting around the table
+how do we define the game from the
+metagame the diegetic from the
+non-diegetic and and what do those lines
+even necessarily mean these are still
+issues that we are grappling with today
+albeit i think in a more sophisticated
+way with decades of rhetoric and tools
+and experience to help inform some of
+our decisions about how those divisions
+are made the third booklet of this set
+will be great help in this aspect of
+creating the game world uh great help in
+this respect for a number of helpful
+suggestions regarding how to accomplish
+it all have been given in order to help
+you accomplish the task with a minimum
+of time and effort there should be no
+want of players for there is
+unquestionably a fascination in this
+fantasy game evidenced even by those who
+could not by any stretch of the
+imagination be termed ardent wargamers
+the longevity of existing campaigns
+notably blackmore in the twin cities and
+greyhawk in lake geneva and the demand
+for these rules from people outside
+these campaigns point towards a
+fantastic
+future
+tactical studies rules believes that of
+all forms of war gaming fantasy will
+soon become the major contender for
+first place the section of this booklet
+entitled scope will provide an idea of
+just how many possibilities are inherent
+in dungeons and dragons now there's a
+couple of interesting things there to my
+eye he's commenting on this backstory
+we've talked about about how popular
+these games had rapidly become just
+through kind of a viral word of mouth
+campaign guy gax knew he had something
+going on here and he was right the other
+thing kind of jumps out at me too is is
+he mentions tactical studies rules
+believe that all forms of war gaming
+fantasy will soon become the major
+contender for first place and this is
+really interesting so i was talking
+about this division between fantasy and
+historical war gaming he's trying to big
+tent it but he's also gary gygax is also
+a proponent for fantasy and games uh has
+been for years before this obviously
+we'll do so for the rest of his life
+this idea of fantasy and what is fantasy
+versus historical is really interesting
+partially because of how dungeons and
+dragons will end up warping that
+discussion for several years um i talked
+about the fact that the term
+role-playing game doesn't actually
+appear inside this book or this box set
+because that term not only did the
+turnout exist but the understanding of
+exactly what this game was
+didn't exist yet and for a while in the
+in the mid 70s here the idea that what
+made dungeons and dragons special was
+the fantasy would become an operant idea
+and so you can actually find in the
+fanzines of the time a number of times
+in which what we would think of as role
+playing is referred to as fantasy
+because that was a convenient term to
+try to distinguish this from other war
+games and experiences that war gamers
+had had and that's really um really
+interesting as people kind of tried it
+no not only struggled to come up with a
+term for this you have to realize that
+they were struggling to figure out
+what it is it even is that we're trying
+to put a term on uh these rules are
+strictly fantasy those wargamers who
+lack imagination those who don't care
+for borough's martian adventures where
+john carter is groping through black
+pits who feel no thrill upon reading
+howard's conan saiga who do not enjoy
+the decamp and prat fantasies of fritz
+libras farford and the grey mouser
+pitting their swords against evil
+sorceries will not be likely to find
+dungeons and dragons to their taste but
+those whose imaginations know no bounds
+will find that these rules are the
+answer to their prayers with this last
+bit of advice we invite you to read on
+and enjoy a world where the fantastic is
+fact and magic really works e gary gagax
+tactical studies rules editor 1st of
+november 1973 uh lake geneva wisconsin
+the interesting thing i jump out to is
+early on we talked about how it was big
+tent everybody's welcome come give us a
+try in this last paragraph he really
+just kind of you know fire shots across
+the bow though he's like if you don't
+like the game
+you suck and you're the wrong kind of
+fan and you should feel bad about
+yourself all right we come to the the
+introduction here we can see our first
+piece of interior not a greg bell piece
+you can see some wizards various and
+this is actually just something sort of
+multicultural look at different
+traditions of magic right you've got the
+you have a western wizard there with his
+star top wand actually has a pointed cap
+i'm pretty sure kind of of laying down
+across his back there in the big gray
+beard you've also got some kind of
+eastern swami being represented there as
+well and what looks to me to be i think
+egyptian um or possibly that might
+actually be aztec it's it's a crude
+drawing i think we can all agree on that
+but i think it's really interesting that
+if you think about this is actually this
+way you have you have the cover image of
+the guy on the horse
+uh but like in terms of the interior of
+the book this is your first image it is
+a kitchen sink of fantasy
+introduction these rules are as complete
+as possible within the limitations
+imposed by the space of three booklets
+that is they cover the major aspects of
+fantasy campaigns but still remain
+flexible as with any other set of
+miniature rules there are guidelines to
+follow in designing your own fantastic
+medieval campaign they provide the
+framework around which you will build a
+game of simplicity or tremendous
+complexity your time and imagination are
+about the only limiting factors and the
+fact that you have purchased these rules
+tends to indicate that there is no lack
+of imagination the fascination of the
+game will tend to make participants find
+more and more time we advise however
+that a campaign be begun slowly
+following the steps outlined herein so
+as to avoid becoming too bogged down
+with unfamiliar details at first okay
+let's let's time out there because
+there's a lot to unpack in the very
+first paragraph of our introduction here
+i sometimes see people talk about how
+one of the big divisions of dnd from
+what came before
+was this flexibility where the rules
+became kind of flexible and interpreted
+but that was actually a tradition that
+had been part of the war gaming
+community for a long time now the modern
+dungeon master role evolves out of the
+referee role we'll see the word referee
+used in these books uh and the referee
+had been the one who in in war gaming
+would be present not one of the players
+to make rulings about the situation and
+the ideological tradition of that
+referee actually dates all the way back
+to german war games the progression and
+history of this is really fascinating
+it's really laid out in john peterson's
+book playing at the world which again i
+mentioned earlier i highly recommend
+this book if you're interested in kind
+of tracking this i am only glancing over
+the top layer of some of this this
+history that we have but dates all the
+way back to 19th century german war
+games run by the german military where
+the referee was there to basically do
+what we expect game masters to do today
+which was if an action was taken that
+wasn't properly covered by the rules
+they could override the rules or
+supplement the rules and make a ruling
+uh to reflect that and by the time
+you're getting up to blackmoore
+that referee role in the in the american
+tradition that um david wesley and dave
+arneson and gary gygax and mike carr and
+all these other founders that tradition
+had really taken that to the next level
+and we're really beginning to experiment
+with the idea that all the rules were
+just guidelines and the referee was
+there to mediate the world and dnd was
+just another step along that progression
+an important step that crossed a
+threshold and became like i said the
+first modern role-playing game it became
+something different dave arneson created
+something something unique that hadn't
+existed before but it it didn't spring
+full-blown from his brow it was part of
+a community of ideas that had been
+developing for a while so next thing
+next thing he does is having really
+interesting from kind of a marketing
+perspective is he says your time and
+imagination are about the only limiting
+factors and the fact you have purchased
+these rules tends to indicate that there
+is no lack of imagination you know the
+previous page has the thing about like
+you know if you don't like these rules
+you suck this page though similar
+similar idea but the way he's phrasing
+is very much welcome to the secret club
+of special people we are now part of an
+elite and you have joined us here in
+this grand adventure if there was one
+thing guy actually really good at was
+building the sense of community through
+this welcome to the secret club we are
+all in this together this game is
+something special and you're special
+because you play it and that's that's
+basically marketing 101 is buy our
+product consume our product you are
+special because you consume our product
+uh and then the third thing he says here
+too is of course we advise however that
+the campaign be begun slowly even from
+this early date he is cautioning against
+something that many of us experience
+these days which is to prep for more
+than we need to get that first session
+up and going i think guy gax recognizes
+and at this point she'll be said too
+that guy gax himself had potentially
+experienced this having prepped his
+first campaign from the example of dave
+arneson don't quote me on this but i'm
+pretty sure by this point gary had also
+begun teaching new game masters out of
+his play group uh rob kuntz actually
+whose name we saw on the title page here
+with special thanks to rob rob
+kuntz would later draw on to become the
+co-gm
+of the castle greyhawk campaign he and
+gary would actually run it together he
+would actually go and design his own
+mega dungeon uh called el raja key and a
+few years back he released all of his
+original notes in an archival dvd where
+he'd scanned them in maybe we'll take a
+peek at this someday as well but el raja
+key so rob kuntz uh so gary gygax had
+experience at this point uh nascent
+experience new experience uh not fully
+developed experience brainstorm
+imagination but experience with people
+trying to like wrap their heads around
+how to run this game for the first time
+and i think he also understood very well
+that if new game masters new referees
+couldn't figure out how to set up a
+campaign and begin running it then the
+game was going nowhere you needed
+referees to understand how to run the
+game if anyone was going to play it if
+you are a player purchasing the dungeons
+and dragons rules in order to improve
+your situation in an existing campaign
+you will find that there is a great
+advantage in knowing what is herein if
+your referee has made changes to the
+basic rules under tables simply note
+them in pencil for who knows when some
+flux of the cosmos will make things
+shift once again and keep the rules
+nearby you as you play a quick check of
+some rule or table may bring hidden
+treasure or save your game life men in
+magic volume 1 details what characters
+can be played potentials limitations and
+various magic spells
+monsters and treasure
+volume 2 describes the beasts and
+creatures which will be encountered as
+well as the kind and amount of treasure
+they are likely to guard including
+magical items
+finally the underworld in wilderness
+adventures vol 3 tells how to set up and
+actually play the campaign it is
+presented last in order to allow the
+reader to gain the perspective necessary
+the understanding of the two preceding
+booklets read through the entire work in
+the order presented before you attempt
+to play
+and here we have the very first example
+of a role-playing game telling you what
+order to read the rule book in but the
+trick with any rule book that you're
+writing speaking as a game designer
+myself in the case of a role-playing
+game the rule book has to satisfy three
+different audiences in the same person
+over time you have to have a rule book
+that teaches the game to the new player
+you have to have a rulebook that is
+useful for character creation and makes
+character creation easy and you have to
+have a rulebook that is easy to use and
+reference during the actual running and
+playing of the game and those are three
+different agendas that in an ideal world
+would all be aligned with each other in
+a practical world they often are not and
+the real trick the trickiest part of
+that is a game design and i think gigax
+is kind of recognizing this as well here
+is that the if your game is successful
+and people play it and play it and play
+it then the the biggest use case for
+your book the the amount of time people
+spend engaging with the book will be the
+actual playing of the game at the table
+that is where most of the use of the
+book
+will happen
+but you only get to that point if people
+can successfully learn the game in the
+first place and so if you're faced with
+a compromise between a formatting or
+organization of the book to make it
+easier to learn versus making it easier
+to run and play
+that is a really difficult crux to solve
+do you solve for for the for the table
+use and hope that people get to that
+point even if you make it harder to
+learn or do you make it easier to learn
+and get into but then more difficult to
+use the rule book at the table these are
+tricky questions that we've been
+struggling with as you can see
+from the beginning
+scope
+with the various equipage listed in the
+following sections dungeons and dragons
+will provide a basically complete nearly
+endless campaign of all levels of
+fantastic medieval war game play
+actually the scope need not be
+restricted to the medieval it can
+stretch from the prehistoric to the
+imagined future but such expansion is
+recommended only at such time as the
+possibilities in the medieval aspect
+have been thoroughly explored the use of
+paper pencil and map boards are standard
+miniature figures can be added if the
+players have them available and so
+desire but miniatures are not required
+only aesthetically pleasing similarly
+unit counters can be employed with or
+without figures although by themselves
+the bits of cardboard lack the eye
+appeal of the varied and brightly
+painted miniature figures
+age level 12 years and up
+number of players at least one referee
+and from four to fifty players can be
+handled in a single campaign but the
+referee to player ratio should be about
+one to twenty or thereabout
+so
+if you are not familiar with old-school
+dnd play if you are only familiar with
+modern role-playing games and the way we
+typically play modern role-playing games
+today which i refer to as a dedicated
+campaign that statement
+sounds crazy 50 players at one table
+that's
+crazy 1 to 20 as your base ratio what
+does it even mean 20 players at the same
+time with one gm and you have 50 players
+there but you have like two or three how
+does that was it what does it even look
+like
+well
+he's not talking about a single session
+is basically the spoiler version of what
+the heck is going on here you'll find
+comments like this in other early role
+playing games as well you can look at
+the original black box edition of
+traveler from 1977 for example has a
+very similar like number of players i
+think it's 60 in that book again don't
+quote me on that that's just off the top
+of my head i think they say like you can
+have 60 players in a traveler campaign
+and i remember as a kid in 19 probably
+90s when i first got my first traveler
+black box reading that and being like i
+do not understand i am confused and i
+don't understand what's going on what
+what they're actually talking about
+there is the totality of the campaign
+and the campaign again is to be
+understood as the world and the
+persistence of events within that world
+as determined by the events that happen
+during the session and so generally
+speaking any given session you'd have a
+much smaller group of people four to
+eight let's say a typical group that you
+might see even today at a table but
+every session of your campaign would
+have a different set of players
+potentially as many as 50. i mentioned
+earlier that my own open table a term i
+coined to describe this type of play my
+own open table of of od and from 2009 to
+2012 eventually feature as many as 45
+players so the point is actually and
+there's lots of cool things i'm not
+going to go fully into like open tables
+all the cool things but this is a really
+important point to keep in mind when
+you're thinking about what these rules
+were designed for and the type of play
+that they were experiencing they were
+not experiencing play where four to five
+players sit down every week or every
+other week on the regular for a year or
+two years playing through a single story
+that everyone's there for every moment
+of that campaign they're playing in a
+shared world where the stuff that people
+on tuesday night did changes with the
+people on thursday night are
+experiencing and a constant interaction
+and flow between all of those characters
+it's a really interesting alternative
+way to look at it keep this in mind
+though as we go through the book
+equipment dungeons and dragons you have
+it we do
+outdoor survival available from your
+hobby dealer or directly from avalon
+hill company 4517 hartford road
+baltimore maryland 21 to 14. i love this
+entry i love it so outdoor survival was
+a board game from avalon hill company
+the reason it's being recommended here
+is that outdoor survival was a game that
+came with a hex map and the concept of
+outdoor survival was everyone was
+playing someone who'd been who'd been
+lost in the world in se and you needed
+to survive outdoors to escape and win
+the game but the reasons being where i'm
+in here is that is that specifically
+that hex map gigax and arneson arneson
+originally used the outdoor survival hex
+map as a basis for part of of the
+blackmore campaign world and that's
+where the origins of hex crawls come
+from is actually this outdoor survival
+board game the thing i find particularly
+fascinating about this is that really
+this reveals how much the original rules
+for d and d are really just a collection
+of house rules that have been bundled
+together and you see a little bit later
+on here too is it you know outdoor
+survival also listed here is chainmail
+miniature rules latest edition available
+from your hobby dealer or directly from
+guiding games po box c belfast main zero
+four nine one five here's our game but
+like go buy these other games from other
+companies and just kit bash them
+together dice the following different
+kinds of dice are needed one pair four
+sided dice one pair eight sided dice
+four to twenty pairs of six sided dice
+one pair of 20-sided dice and one pair
+of 12 sided dice you may notice missing
+from this list is a reference to
+ten-sided dice or percentile dice this
+is because they hadn't been made yet
+ten-sided dice didn't exist and as a
+result neither did percentile dice the
+way people would roll percentiles at the
+time was they would actually have d20s
+numbered from zero to nine twice and so
+you would roll that special d20 other
+people would just roll the d20 twice and
+only look at the ones digit but there
+was a lot of actually early d20 dice
+that were just zero to nine twice over
+and a number of stories of people who
+would be rolling actually rolling their
+percentile or d10 d20s for attack rolls
+and the like and and they couldn't
+figure out why things weren't working
+out for them wilder's the wind asks how
+easy was it to find these dice at the
+time it was becoming easier but not easy
+people that guy gax thought he was
+writing the game for would have been
+relatively easy-ish when the game first
+came out and the reason for that
+was that there had been a long pursuit
+of ways of generating percentile results
+for war games for a long time the way
+that would take place is a lot of war
+games would actually come published with
+a table that would show you how to roll
+various numbers of d6s to generate
+percentage accurate numbers but in the
+late 60s mid to late 60s the war game
+community became aware of a
+company in california that was selling i
+believe import dice from japan although
+they would later do domestic production
+as well of polyhedral dice that were
+designed for educational purposes teach
+about the platonic solids and
+educational environments but they were
+printed as dice with numbered sides that
+was when they became aware of these
+20-sided dice numbered from zero to nine
+that could be used to generate
+percentile results in the way that we
+are familiar with rolling one for the
+tens digit and one for the ones digit
+and this was hugely valuable for the
+design of war games and a number of war
+games were coming out in the late 60s oh
+not at least these early 70s i believe
+that we're assuming you would have
+access to this percentile dice and the
+trick was that this company didn't sell
+individual dice they only sold
+the sets so if you wanted your awesome
+d20s that you could use to generate
+accurate percentages i just went why did
+they want accurate percentages well
+because for war games a lot of primary
+source material in terms of like
+military analysis of equipment and
+troops and so forth would actually use
+actual percentages so if you had
+percentages that you could plug into
+your game mechanics you could actually
+pull data straight from things like
+jane's reference books on military
+vessels and ammunition and weapons and
+you could pull those figures directly
+into your mechanics so
+percentile dice were incredibly useful
+which is why world game is one of them
+but now you had all these war gamers who
+bought these sets of dice and they had
+these four-sided and eight-sided
+12-sided dice that didn't have any
+function it's actually kind of of an
+inspiration that d showed up and
+basically said well
+let's see what can we do with these
+things well can we just arbitrarily put
+them in the game in different places oh
+damage dice but it turns out that's not
+what they use them for we'll get to that
+later i say that was kind of true at the
+beginning of the game being published
+but what quickly happened is d d's
+popularity went through an explosive
+curve cycle so the demand for these dice
+outstripped the producer and
+additionally that but also as the
+populated dnd grew was also reaching out
+to a more casual audience who had no
+idea about the war game community that
+it had come out of and also no idea
+where these dice could be gotten from so
+tsr began packaging the dice into the
+games a tradition that followed through
+all of their box sets up until today tsr
+itself began running into difficulties
+with getting the specialty dice they
+they just were more copies of d d than
+there were dice being produced at the
+time and so what tsr would begin doing
+is recommending people do another
+technique that war gamers had done which
+was to put chits in a cup like if you
+wanted to represent a 20-sided dice you
+take chits numbered 1 through 20 you'd
+put them in a cup and draw randomly to
+get your result and so a number of early
+dnd games actually did ship with just
+sheets of chits that you could punch out
+and use for your dice rolls okay let's
+continue on with our list of equipment
+here so we have the dies we talked about
+chainmail already let me get down to one
+three-wing notebook uh referee and each
+player graph paper six lines per inch is
+best sheet protectors the heaviest
+possible three-ring lined paper drafting
+equipment and colored pencils scratch
+paper and pencils your imagination
+one patient referee and players so we
+get a little tongue-in-cheek there with
+that equipment list preparation for the
+campaign the referee bears the entire
+burden here but if karen thought or used
+the reward will more than repay him
+first the referee must draw at a minimum
+of half a dozen maps of the levels of
+his underworld people then with monsters
+of various horrid aspect distribute
+treasures accordingly and note the
+location of the latter two on keys each
+corresponding to the appropriate level
+this operation will be more fully
+described in the third volume of these
+rules when this task is completed the
+participants can then be allowed to make
+their first ascent into the dungeons
+beneath the huge ruined pile a vast
+castle built by generations of mad
+wizards and insane geniuses
+before they begin players must decide
+what role they will play in the campaign
+human or otherwise fighter cleric or
+magic user thereafter they will work
+upwards if they survive as they gain
+experience first however it is necessary
+to describe fully the roles possible
+mccasey 64 mentioned i never thought
+about how specific the scope of virginal
+dnd was and that's actually interesting
+to dive into is actually arneson and
+gygax and their players in the community
+trying to grapple with what the scope of
+the game was what we're actually reading
+here is interesting because it basically
+says make your dungeon and go in there
+but as we begin getting into book three
+particularly we'll skip it there was a
+lot more to the campaign than just that
+but i think there's the key thing that
+geigax is doing here is it actually goes
+back to what he was saying uh back here
+in the introduction where he said you
+want to take it slow you want to not
+bite off more than you can chew and one
+of the easiest ways for a new gm to do
+that design a few levels of a dungeon
+key them up and start playing and then
+see where the campaign takes you from
+there
+characters
+there are three main classes of
+characters fighting men
+magic users and clerics
+one things i find fascinating about
+modern dungeons and dragons is how only
+one of those classes has survived with
+its name intact obviously fighting men
+have become fighters and magic users or
+wizards or sorcerers depending which way
+you choose to bifurcate that branch and
+of course clerics are the ones that have
+survived and are still still clerics
+fighting men includes the characters of
+elves and dwarves and even hobbits magic
+users includes only men and elves
+clerics are limited to men only all
+non-human players are restricted in some
+aspects and gifted in others this will
+be dealt with in the paragraphs
+pertaining to each non-human type if you
+have some familiarity with older
+editions of dnd basic dnd has race and
+class as being the same thing and so
+somewhere along the way when od and d
+was less available and people couldn't
+actually see the original rule books
+anymore the idea kind of got planted in
+there that odnd
+featured racist class and it was a d and
+d that innovated and had racing classes
+two separate choices but we can see that
+that isn't actually the case here there
+are the classes of fighting men magic
+users and clerics and we can see that
+fighting men can be elves and dwarves
+and and even hobbits uh hobbits are
+still hobbits the reason for that is
+that hobbits became halflings in dnd
+only when the token estate sued tsr and
+at that point hobbits became halflings
+balrogs became balors and ants became
+treants among other changes to at least
+dilute the token influence on the game
+where did race as class become a thing
+actually became a thing in 1977 j eric
+holmes designed the first basic set of
+dnd and he did a number of things to
+streamline and clean up the rules in
+much the same fashion that retro clones
+and later years would do and one of the
+things he did to try and simplify the
+rules and make them clearer particularly
+to a younger audience was to basically
+make a single choice of being a fighter
+a magic user a cleric or an elf or a
+dwarf or a halfling rather than making
+those two separate choices and we'll see
+some of the reasons for why that worked
+pretty well in basic dnd in a moment
+fighting men all magical weaponry is
+usable by fighters and this in itself is
+a big advantage in addition they gain
+the advantage of more hit dice the score
+which determines how many points of
+damage can be taken before a character
+is killed they can use only a very
+limited number of magical items of the
+non-weaponry variety however and they
+can use no spells top level fighters
+lords and above who build castles are
+considered barrens and as such they may
+invest in their holdings in order to
+increase their income see the
+investments section of volume three base
+income for a baron is a tax rate of
+10 gold pieces per inhabitant of the
+barony per game year this is the whole
+class description of the fighting man in
+od and d this is not a brief summary
+this is it mechanically now there's a
+there's an experience table someplace
+else and there's an attack table that
+shows their attack values along with the
+other character classes but this is it
+for the rules and it's really
+interesting to look at them in that
+context because the rules boil down to
+they can use magical weaponry they can't
+use other magical stuff but half of the
+rules here half of the rules are given
+over to top level play and the castles
+that fighters get when they level up and
+that's going to be a consistent theme
+you're going to see through all three of
+these character classes which is that
+most of the description of the class is
+you know when you get up to what we
+would now consider mid-tier levels
+you're going to be a baron you're going
+to have a wizard's tower you're going to
+be the leader of a religion and you're
+going to have followers and the game is
+going to evolve out of the dungeon we're
+talking about the scope of the game
+earlier and how we talked about guy
+saying start small
+and then get bigger and so he says start
+with this dungeon key at the top of this
+page but you get into character creation
+and he immediately says yes start with
+the dungeon but we are going to leave
+the dungeon you are going to be a baron
+you are going to have followers you're
+going to be tracking tax rates you're
+going to be managing a kingdom you are
+going to be king arthur and charlemagne
+you're going to be these things and
+that's a really interesting and enticing
+element which of course has exited dnd
+largely over the years magic users top
+level magic users are perhaps the most
+powerful characters in the game but it
+is a long hard road to the top and to
+begin with they are weak so survival is
+often the question unless fighters
+protect the low level magical types
+until they have worked up
+i love the implication of teamwork which
+is built right into this character the
+whole plethora of enchanted items lies
+at the magic user's back and call save
+the arms and armor of the fighters see
+however elves but magic users may arm
+themselves with daggers only wizards and
+above may manufacture for their own use
+or for sale such items as potions
+scrolls and just about anything else
+magical costs are commensurate with the
+value of the item as is the amount of
+game time required to enchant it
+this was a really interesting section of
+the game the item creation rules
+specifically at the time i was playing
+this which was at the tail end of third
+edition fourth edition was happening the
+meme sphere of the time had decided that
+like the whole idea of wizards being
+able to create magical items was some
+sort of newfangled new school kind of
+idea but you can see here that the idea
+of wizards being able to create magical
+items was there from the beginning the
+list is meager but that's because the
+game was new and the list was meager
+these are also just presented as an
+example and the dm was assumed to be
+providing other examples if the player
+should wish to create more elaborate
+items oh the other thing i was going to
+say about wizards as well i mentioned
+the teamwork thing but i think the thing
+i think is really interesting about that
+is not just the teamwork but the
+implication of long-term strategy
+fighting man has the advantage up front
+but the expectation is that if you can
+keep your magic user alive it will pay
+dividends for the whole group down the
+line and i think that element of we're
+in this together we are a group who are
+trying to build our resources together
+so that we can collectively keep gaining
+larger and larger rewards and eventually
+become barons and so forth i think that
+something that gets lost in a lot of
+modern design ideology which focuses
+entirely on the idea that players will
+become angry if that kind of thinking of
+we're in this together that everybody
+needs to be in their own little silo of
+special
+and that's not that that shouldn't be a
+consideration of game design to make
+sure that everyone's having a good time
+but i think there is there is something
+lost in
+if you forget
+that the group as a whole
+is working together and that when you
+get into that mindset the group's
+successes are more important than
+necessarily you know who dealt the most
+damage in that last fight versus who was
+most influential in seducing the duke we
+have a list here that's uh you can
+create scrolls of spells potion of
+healing potion of giant strength you can
+enchant 20 arrows you can enchant armor
+to plus one you can create a wand of
+cold uh x-ray vision ring and so forth i
+know someone in chat mentioning too that
+like the idea of being able to create
+items is something that the fifth
+edition is very much deprecated uh
+largely for balance reasons it should be
+noted that fifth edition was not the
+first edition to do that the first
+edition to do that was actually the
+first edition of a d and d which
+sidelined a lot of these rules for being
+able to create magic items for a similar
+design concern you give players a bunch
+of money and suddenly the wizards can
+create everything on their wish list and
+that becomes very difficult for to
+balance and for the dungeon master to
+stay in control of their game research
+by magical types can be done at any
+level of experience but the level of
+magic involved dictates the possibility
+of success as well as the amount of
+money necessary to invest assume that a
+magic user can use a fourth level spell
+explained later therefore he could
+develop a new spell provided it was
+equal to or less than fourth level all
+this will be fully explained in the
+section dealing with spells some of that
+is true they never actually give the
+guidelines for
+making
+magical items but in terms of
+specifically like researching or how
+much money was involved needed to be
+invested in those if i recall correctly
+but they they do dive of course into you
+know spell levels clerics
+clerics gain some of the advantages from
+both of the other two classes fighting
+men and magic users and that they have
+the use of magic armor and all non-edged
+magic weapons no arrows plus they have
+numbers of their own spells in addition
+they are able to use more of the magical
+items than other fighting men when
+clerics reach the top level of patriarch
+they may opt to build their own
+stronghold and when doing so receive
+help from above
+thus if they spend a hundred thousand
+gold pieces in castle construction they
+may build a fortress of double that cost
+finally faithful men will come to such a
+castle being fanatically loyal and they
+will serve at no cost they will be from
+10 to 60 heavy cavalry 10 to 60 horsed
+crossbowmen turcopol type and 30 to 180
+heavy foot this is a good example of
+something we're going to see a lot in od
+and d which is frequently rules are
+given not in the form of rules but only
+in the form of an example so here you
+have a rule that is thus if they spend
+100 000 gold pieces in castle
+construction they may build a fortress
+of double that cost
+and there's no general rule
+given for that example we know that
+they're supposed to receive help from
+above that's obviously not a rule that's
+just what the rules going to be about
+and then the example is given as the
+rule why is that significant well it
+creates a lot of interpretive hurdles in
+addition to the gygaxium pros in this
+case for example okay so what is the
+rule here is it that
+any fortress you build you can basically
+get twice the value for that so if i
+build a 50 000 gold piece fortress i get
+a hundred thousand gold pieces worth of
+fortress building credit at 100 000 i
+get 200 000 if i spend 250 000 i get 500
+000. is that the rule or is a hundred
+thousand gold pieces
+the base minimum i have to spend at
+least a hundred thousand gold pieces to
+double my investment or
+is a hundred thousand gold pieces the
+maximum doubling you see i'm saying like
+because it's given as an example that we
+as readers and and and referees are
+forced to try to figure out how we're
+going to interpret that example back
+into a rule that is never given and
+we'll find that a lot as we're reading
+through and creates a lot of the
+interesting i refer to them as cruxes
+that you that you almost have to figure
+out in order to make your version of od
+and d in order to play od and d in some
+senses there is no
+od and d there is no
+true origin point of the game that you
+can point to because anyone reading this
+set of books would end up with their own
+unique set of rules based on how they
+interpreted passages like this one and
+this is a relatively simple example of
+it the other thing to note here is the
+faithful men that will come and assist
+you which are defined as heavy cavalry
+hoarse crossbowmen and heavy foot these
+terms i'm pretty sure are never
+technically defined in the odnd book
+they are part of the wider war game
+community which there would be meaning
+to these terms in terms of the war games
+that you would kind of plug into note
+that clerics are either law or chaos and
+there is a sharp distinction between
+them if a patriarch receiving the above
+benefits changes signs all the benefits
+will immediately be removed when we talk
+about the the patriarch for example or i
+think earlier we'd seen the fighters who
+had reached top level lords and above
+this is actually because levels in the
+game that we'll we'll see this later on
+the um the level tables maybe i should
+skip ahead a little clear with the
+actual example here here here we go
+there are no numbers in this edition
+until you get to the higher levels you
+can see that fighting men started as
+veterans at second level they are
+warriors at third level they are
+swordsmen we would later refer to these
+as the level names and so when they talk
+about a patriarch they are talking about
+an eighth level cleric what we would now
+call an eighth level cleric
+clerics with castles of their own will
+have control of a territory similar to
+the barony of fighters and they will
+receive tides equal to 20 gold pieces
+per inhabitant per year
+that ends the character classes we then
+aligned directly into the races and we
+can begin to see here from just a layout
+standpoint why holmes in his 1977 basic
+set rules may have begun alighting the
+concept of race and class together
+because
+there is no separate
+section labeled races or species
+i'm actually curious if the term one i'm
+sure the term race must appear in here
+somewhere but we haven't seen it yet
+dwarves dwarves may opt only for the
+fighting class and they may never
+progress beyond the sixth level myrmidon
+their advantages are one that they have
+a high level of magic resistance and
+they thus add four levels when rolling
+saving throws a sixth level dwarf equals
+a tenth level human two they are the
+only characters able to fully employ the
+plus three magic warhammer explained in
+volume two which is such an incredibly
+specific class ability three they note
+slanting passages traps shifting walls
+and new construction in underground
+settings and four they are able to speak
+the language of gnomes kobolds and
+goblins in addition to the usual tongues
+c languages in this volume couple things
+about dwarves the first thing you'll
+notice here of course is the level limit
+that you can't progress beyond sixth
+level meridon we'll see that's true of
+all of the non-human races one key thing
+about that if you notice those these
+level limits and how they combine
+with these high-level abilities we're
+talking about the fighters who are lords
+and above who build castles are
+considered barrens well you never become
+a lord if you're a dwarf you never get
+to play the endgame of the fighting men
+of becoming barons and ruling these
+kingdoms and ruling these baronnes
+if you are playing as a dwarf at least
+in later years gygax had talked about
+how he didn't really want these fantasy
+creatures in his game because he has the
+dwarves and he has the elves and he has
+the hobbit now you have to take those
+later statements with a grain of salt
+because as i mentioned earlier tsr and
+gagax got sued by the token estate for
+obvious copyright infringement basically
+if you look at guy gax's fanzine
+writings before this he's very excited
+about token he talks about how awesome
+it is to bring these things into his
+games he gets sued by token and
+immediately hit the story becomes well
+i you know i never really wanted those
+things
+in the game to begin with those things
+the players wanted and i thought it
+would be really popular with the
+audience and and maybe that's true and
+the token estate lawsuit just kind of
+gave him carte blanche to say the things
+he'd always been thinking uh with that
+being said it is clear that for whatever
+design reason arnesson and or gygax
+there's not really a clear answer from
+exactly where these level limits came
+from felt that people who were playing
+non-human races got other benefits that
+meant that they should not be allowed to
+advance to the higher levels this is
+another example of that long-term
+strategic play that we saw with the
+magic user much like protect the magic
+users at low level so they can get those
+awesome spells that will let you do
+really amazing things and score the
+really big treasures at the bottom of
+the dungeon as a group here too we kind
+of see long-term strategic play you can
+get a short-term benefit of being a
+really kick-ass dwarf or a really
+kick-ass elf but you the long-term cost
+is that you never actually get access to
+those higher levels
+now with that being said this is also an
+example i think of where the game is
+written and the game is played strongly
+diverged in a way that remained true of
+d that there was a huge divergence
+between gamers written and game is
+played that i think remained true of the
+d fandom all the way up to third edition
+where third edition for whatever
+strengths or flaws you may feel it holds
+in general one of the things third
+edition did was basically look at how
+the game was actually being played and
+put those rules in the rule book more
+than anything else sometimes the
+consequences of that were good and
+sometimes they were bad but it was at
+least starting starting the third
+edition there was a lot less divergence
+here there was a significant fraction
+and i would probably think probably a
+majority they did not enforce the level
+limits on the dwarves the yells and the
+hobbits
+and as a result some extent dwarves and
+hobbits were just better than humans uh
+in those games and and always would be
+one other thing i should mention here uh
+while we're on this page this is a case
+where
+you probably just glossed over this
+unless you've heard me talk about it
+before
+clerics gain some of the advantages from
+both of the other classes they have the
+use of magic armor and all non-edged
+magic weapons no arrows plus they have a
+number of their own spells the
+limitations on clerics using edged
+weapons
+only applies to magical
+edged weapons
+in the original edition of d d later
+editions of d d would prevent clerics
+from using edged weapons
+but
+here is only a limitation on magical
+equipment the only limitation on
+non-magical equipment from character
+class in od d technically rules is
+written is that the magic users can only
+use daggers and nothing else which is a
+really interesting limitation because it
+you know fortunately people would you
+know you can throw daggers but like yeah
+magic users can't even use crossbows
+just daggers nothing else that's the
+only non-magical limitation on equipment
+everything else is about what magic
+items what super cool items can you and
+can you not use based on the class that
+you are elves okay we're about to go on
+an adventure of confusing rules prepare
+yourselves
+elves can begin as either fighting men
+or magic users and freely switch class
+whenever they choose from adventure to
+adventure but not during the course of a
+single game thus they gain the benefits
+of both classes and may use both
+weaponry and spells they may use magic
+armor and still act as magic users
+however they may not progress beyond
+fourth level fighting man hero nor 8th
+level magic user warlock elves are more
+able to note secret and hidden doors
+they also gain the advantages noted in
+the chainmail rules when fighting
+certain fantastic creatures finally
+elves are able to speak the languages of
+orcs hobgoblins and knolls in addition
+to their own elvish and the other usual
+tongues
+elves can freely switch clashes they're
+not both classes at once with a couple
+of exceptions which are spelled out in
+the text but they're not both classes at
+once you just decide which class you are
+going to be
+at the beginning of each session
+maybe that made sense to you but this is
+a very confusing set of rules in terms
+of exactly what did that actually mean
+so like you're an eighth level magic
+user one day and then you become a
+fourth level fighting man well for
+starters how many hit points do you have
+at that point if we jump back to the
+back of the book here and take a look at
+here we go on the level tables so you
+can see dice view accumulative hits
+we'll dive in that later but you can see
+if you are a fourth level fighter you
+have four hit dice but if you're an
+eighth level magic user one two three
+four five six seven eight you have
+five hit dies so if you swap back and
+forth how many hit points do you have
+i don't know
+like right like i don't know like how
+is it changed do you roll fresh at the
+top of every session this is actually
+one of the reasons why if you look back
+at early apas of fanzines you actually
+find some people who would roll their
+hip points for their characters at the
+beginning of every session because if
+that was the way you did it for elves
+and had to do it for elves apparently
+that suggested that maybe that's the way
+you did it for all character classes and
+so that was actually another sort of
+divergence in the rules where you had a
+sizeable number of people who were
+rolling their hit points before every
+session other players would actually be
+rolling their hit points before every
+fight
+there's a couple of old school products
+most notably carcosa that picked up
+variations of this technique as well
+into their into their strains it tends
+to not be something that a lot of old
+school people get into but i think it's
+a really interesting version and one of
+the only ways to make these elf rules
+make sense in terms of being coherent
+within the text hobbits
+should any player wish to be one he will
+be limited to the fighting men class as
+a hobbit hobbits cannot progress beyond
+the fourth level hero but they will have
+magic resistance equal to dwarves and
+four levels for saving throws and they
+will have deadly accuracy with missiles
+as detailed in chainmail i should
+mention that that add four levels for
+saving throws can be a huge benefit in
+terms of your survivability in a dungeon
+in this game where characters are fairly
+fragile with that being said the entire
+hobbit section here is very much gigax
+saying you can play a hobbit but you
+really really shouldn't like technically
+you can choose to do this but it's a
+really terrible idea there's absolutely
+no reason why you should ever play a
+hobbit in my game thus pressaging the
+reaction many of us had to kender in
+later years
+other character types here we go there
+is no reason that players cannot be
+allowed to play as virtually anything
+provided that they begin relatively weak
+and work up to the top i.e a player
+wishing to be a ballrog would have to
+begin as let us say a young one and
+progress upwards in the usual manner
+steps being predetermined by the
+campaign referee and this is what i was
+talking about earlier in terms of the
+rule books very much embracing the you
+can play anything i don't think i've
+ever seen another dnd rulebook that was
+like hey if you want to play a ballrog
+at first level here's what you can do
+you should make that happen for the
+player character alignment including
+various monsters and creatures before
+the game begins it is not only necessary
+to select a role but it is also
+necessary to determine which stance the
+character will take law neutrality or
+chaos character types are limited as
+follows by this alignment so one
+interesting thing here is that original
+dnd only has law neutrality and chaos as
+alignments it doesn't have the full
+three by three nine alignment system of
+uh later editions advanced dungeons and
+dragons specifically but we do know from
+stories told about those days that
+arneson's three alignments were actually
+good neutral and evil and it was guy
+gacks that swapped good neutral and evil
+to law neutrality and chaos one of the
+interesting things about arneson's
+campaign is not only they have
+alignments of good neutral and evil but
+there was actually a team good and a
+team evil both of which were played by
+pcs and both of which were antagonistic
+towards each other and would build
+resources towards building up their army
+so they could actually fight each other
+in a war game style campaign later in
+the game the the early dungeon delving
+of blackmore was done to build up
+resources to do the eventual war game
+campaign and it was really just the fact
+that the dungeon was so much fun that
+players increasingly spent more and more
+time in those dungeons so gygax was the
+one who swapped it to law neutrality and
+chaos and the obvious influence there is
+michael morcock's works particularly his
+elric books where law and chaos are the
+two major axes there i've always been
+curious about who exactly brought back
+in the good versus evil axis for a d and
+d and combined them into the i guess you
+can call the unified blackmoore greyhawk
+alignment system do you see the three
+alignments you can see the the really
+fascinating breakdown of where people
+fall in these categories i find
+interesting not only where they kind of
+class different monster types but also
+that you have so the asterisk indicates
+that the name appears in both the lower
+neutrality columns and an underline
+indicates the name appears in both
+neutrality and chaos columns and those
+can be combined in the cases of both men
+and lycanthropes and actually only men
+in lycanthropes as the only creatures
+that can belong to all three of the
+teams so to speak changing character
+plans
+while changing class for other than
+elves is not recommended the following
+rules should be applied in order for men
+to change class they must have a score
+of 16 or better in the prime requisite
+see below of the class they wish to
+change to and this score must be
+unmodified a cleric with a strength of
+15 for example could not become a
+fighting man in any event magic users
+cannot become clerics and vice versa
+which realistically really limits your
+class switching abilities there because
+there's only three classes so when you
+say magic users and clerics can't swap
+you're really just limiting it to a
+fighter to spell caster or vice versa
+axis okay now we dive into the
+determination of abilities prior to the
+character selection by players it is
+necessary for the referee to roll three
+six-sided dice in order to rate each as
+to various abilities and thus aid them
+in selecting a role first off it's
+interesting that the game says that the
+referee is the one who rolls this i also
+like that idea of the fact that you roll
+these dice and this aids the player in
+selecting a role this is one of the sort
+of undervalued virtues of rolling 3d6 in
+order for ability scores is that it very
+much says this is the character which
+has been generated and now you are going
+to play
+this character which has been handed to
+you it's a different mindset i i think
+of them in terms of like generating
+characters versus creating characters
+and a generated character is one that
+the system to some extent generates for
+you and hands to you and a created
+character is one that you get to like
+mold to whatever you want it to be and
+obviously there's usually gray area in
+between those two things but it is a
+different mindset to say here are the
+six ability scores they tell you
+something about this character now you
+make the decisions for him and one of
+the reasons why this idea
+works in od and d and the form of play
+we were talking about remember we talked
+about in the equipment of the number of
+players that you have four to fifty
+players this vast open table with lots
+of different players who mix and match
+into different configurations as the
+campaign goes on one of the reasons that
+this generation of ability scores works
+in od and d in a way that it doesn't in
+the more common dedicated tables that we
+play in today in fifth edition well two
+things first off because you had such a
+large play group usually players end up
+playing multiple characters you might
+have a low level character and a
+mid-level character and a high level
+character and which character you're
+playing would depend on what type of
+adventures we're doing tonight and to
+some extent who are you going on
+adventures with and what are you trying
+to accomplish and as a result if you
+have a whole stable of characters the
+fact that you rolled poorly on the
+ability scores for one of your
+characters just doesn't matter as much
+because you have other opportunities to
+play other types of characters where you
+may have rolled better and the other
+thing too is that of course the
+deadliness of old school play compared
+to a dedicated table was much higher
+there was no script immunity so to speak
+it wasn't anticipated that the dm would
+arrange things so that you wouldn't die
+the anticipation wasn't even that you'd
+be playing the same character for 50
+sessions in a row if you rolled a poor
+character one of two things would be
+true either one the character would die
+and you'd have a character to play
+somebody new great or b even if the
+characters seemed handicapped by low
+ability scores your success with that
+character was now kind of a unique
+challenge you weren't bound into that
+character as your only experience with
+the game and therefore you could accept
+it as a unique challenge to take a set
+of poor roles and succeed
+anyway the categories of ability are
+strength intelligence wisdom
+constitution dexterity and charisma the
+classic six each player notes his
+appropriate scores obtains a similar
+role of three dice to determine the
+number of gold pieces dice score times
+10 he starts with and then opts for a
+roll a sample of the record of a
+character appears like this so this is
+going to be the first stat block in dnd
+ever
+that in terms of published dnd
+and also the first character sheet
+there's no characters here at the back
+of this book there's no pre-printed
+character sheet you take your three-wing
+binder full of notebook paper you take
+one of those sheets and you you write
+your stats down
+uh in this case we see the name is
+xylithin he is a magic user he has a
+strength six intelligence 11 wisdom 13
+constitution 12 dexterity 9 charisma 8
+70 gold pieces and nil experience
+because he hasn't started
+play yet looking at xylophone uh honest
+and slash guy gax says this supposed
+player would have progressed faster as a
+cleric but because of a personal
+preference for magic opted for that
+class with a strength of only six there
+was no real chance for him to become a
+fighter his constitutional score
+indicates good health and the ability to
+take punishment of most forms a
+dexterity of nine low average means he
+will not be particularly fast nor
+accurate he is below averaging charisma
+but not hopelessly so the choice to have
+this first published example be a
+non-optimized character
+is really fascinating when was the last
+time
+you saw a wizard
+whose intelligence was not their highest
+score
+and here it is right we have a magic
+user there was a deliberate choice i
+want to play a magic user even though i
+rolled these dice scores and i'm okay
+not being optimized one of those reasons
+as we'll see here is that compared to
+later editions the effect of ability
+scores on your character and your
+character's performance in the game was
+fairly minor we say he's not optimized
+but the level of optimization we're
+talking about here is is going to be
+fairly minor in fact we're going to get
+into that right now an explanation of
+abilities the first three categories are
+the prime requisites for each of the
+three classes fighting men magic users
+and clerics see the bonuses and
+penalties to advancement due to
+abilities table which appears here after
+let's actually skip ahead real quick
+we're going to take a peek at this
+bonuses and penalties to advancement due
+to abilities table but you can see here
+that the if your prime requisite is 17
+or higher you're going to add a 10
+a bonus to earned experience so any
+experience you get you'll get plus 10
+you're in 100 xp you get 110 instead at
+a 13 or 14 you get a 5 bonus
+uh 9 to 12 no bonus a penalty and then a
+negative 20 or negative 20 percent
+xp if your prime requisite is low and so
+those of them just kind of keep in mind
+that basically the effect of a prime
+requisite in od and d is to give you a
+bonus or a penalty to to xp or no
+modifier uh at all okay so we now stand
+so the basic function of prime
+requisites now we're going to get into
+some of the most confusing rules in the
+rule book this is another
+rules are about to get about to get
+whack warning as we head in here
+strength is the prime requisite for
+fighters clerics can use strength on a
+three for one basis in their prime
+requisite area wisdom strength will also
+aid in opening traps and so on
+intelligence is the prime requisite for
+magical types both fighters and clerics
+can use it in their prime requisite
+areas strength and wisdom respectively
+on a two-for-one basis intelligence will
+also affect referees decisions as to
+whether or not certain action could be
+taken and it allows additional languages
+to be spoken
+wisdom is the prime requisite for
+clerics it may be used on a
+three-for-one basis by fighters and on a
+two-for-one basis for magic users in
+their respective prime requisite areas
+wisdom rating will act much as does that
+for intelligence okay so
+what does for example clerics can use
+strength on a three for one basis in
+their prime requisite area
+mean
+and i don't actually know what the
+intention was
+with those rules at first glance you're
+like oh well it just means that if you
+have a strength of 12 then you can get a
+three for one that's a plus four bonus
+to your wisdom for the prime record the
+problem is once you start actually like
+putting that into place you quickly find
+that every single character has maxed
+out their experience bonus all you have
+to do is get to a combined total of 17
+and if you're a cleric you can grab
+strength on a three for one basis and
+you can grab intelligence on a
+two-for-one basis
+even if you roll terribly on those
+and average on your wisdom let's say the
+wisdom of ten and your strength is a
+nine
+and your intelligence is a six well the
+nine strength gives you a plus three and
+the six intelligence gives you a plus
+three as well so ten plus six you're now
+maxed out with ten percent to an
+experience
+one option here is to simply look at it
+from the standpoint of well maybe it's
+just numbers in excess of 10 but then it
+almost never has any relevance another
+interpretation is okay well maybe the
+maybe the cleric's really bad at wisdom
+but their intelligence is super high so
+they can use that instead but like what
+scenario like okay even 18 intelligence
+so the cleric has a as a prime requisite
+of nine so that gives them an average i
+get just none of these things seem to
+make any sense
+the solution i came up with for my game
+i don't think this is the way that it's
+actually meant to be played
+is uh we actually said okay you know
+what there's actually going to be
+another stat and we're going to call
+that your prime requisite and your prime
+requisite is set to whatever the base
+number is if you're a fighter you can
+set your prime requisite is
+automatically equal to your strength
+and then the other will take take note
+of over here is actually on page 11. so
+at the bottom of this table it says note
+average scores are 9 to 12.
+units so indicated above may be used to
+increase prime requisite total in so far
+as this does not bring that category
+below average i.e below a score of nine
+and once you add that rule in it seems
+like you're actually subtracting numbers
+from the other prime
+requisites in order to increase the
+prime requisite score long story short
+it's basically the question item was i
+said there's a separate prime requisite
+score you set it to whatever your prime
+requisite is and then if you have a
+sufficiently high score in one of the
+others you can permanently reduce those
+to increase your prime requisite score
+which at least at my table
+was slightly better than maybe seen
+because we also used prime requisite
+scores as basically a rudimentary skill
+check system roll a d20 equal to a below
+your prime requisite basically it's not
+really clear
+exactly how those rules are intended to
+be used i think there's two or three
+different interpretations that mostly
+work the most literal interpretation of
+the rules at least to my eyes doesn't
+work at all in practice it must not be
+what they meant constitution is a
+combination of health and endurance it
+will influence such things as the number
+of hits which can be taken and how well
+the character can withstand being
+paralyzed turned to stone etc if you're
+above 12 you will withstand adversity if
+you're at a plus 3 over 12 you'll get
+plus 1 to each hit die nine to twelve is
+sixty to ninety percent chance of
+survival so sixty at nine seventy at
+eight and uh actually wait that doesn't
+actually quite work bad does it nine ten
+eleven no does work
+math it's late here sixty sixty percent
+at nine seventy percent at ten eighty
+percent at eleven and ninety percent at
+twelve and then your number drops below
+that and eventually you're actually
+taking a negative one to each hit die
+with a minimum score of one on any die
+dexterity applies to both manual speed
+and conjuration it will indicate the
+character's missile ability and speed
+with actions such as firing first
+getting off a spell etc and down here
+you can see that dexterity above 12 lets
+you fire any missile at plus one and a
+dexterity under nine allows you to fire
+any missile at negative one next up we
+have charisma charisma is a combination
+of appearance personality and so forth
+its primary function is to determine how
+many hirelings of unusual nature a
+character can attract this is not to say
+that he cannot hire minute arms and
+imply mercenaries but the charisma
+function will affect loyalty of even
+these men players will in all
+probabilities seek to hire fighting men
+magic users and or clerics in order to
+strengthen their roles in the campaign a
+player character can employ only as many
+as indicated by his charisma score and
+so you can see high charismas here let
+you increase the maximum number of
+hirelings and then you also have the
+loyalty base as well which affects how
+likely the highlands are to stay with
+you versus potentially betraying you but
+more likely just leaving your employee
+or running away if things get tough one
+thing i love about od and d in this
+regard is if you look at sort of the
+relative importance of ability scores
+charisma which for a long time has been
+derided as a drop stat a dump stat
+rather in later editions of the game
+with great efforts being spent over
+about the last 12 years of wizard design
+of dungeons and dragons trying to find
+ways to make sure that charisma isn't so
+much of a dumb stat is that if you go
+back to this original version of the
+game it's actually one of the most
+valuable stats and its function is not
+only explained at much greater length
+here but it turns out an actual play
+incredibly important the other thing
+happens too
+is that it's not that d ever got rid of
+the rules for hiring hirelings it's been
+there in every edition of the game more
+or less in some form but one thing that
+happens is when you have a very short
+rulebook and in the middle of character
+creation you devote half a page to
+saying one of your ability scores is
+specifically useful to hire people that
+puts that element of the game front and
+center in a way that i don't know it's
+ever been front and center in the same
+way since then the closest it's probably
+first edition a d and d where at least
+the charisma table still had sort of
+maximum number of hirings on the table
+so to speak but frontlining it like this
+it was really interesting looking
+through this rulebook walking through
+character creation with players players
+who i gm'd in third edition and at the
+time fourth edition and who had never
+thought about hiring higher links before
+those same players walking through this
+book immediately like well we need to
+find some people to hire and once they
+did that several really crazy things
+happen as a result first off levality
+drops if you go out with a low level od
+and d party with low hip points as we'll
+see in a moment you can die really
+quickly things can turn south for you
+really fast but if you double your
+number by hiring some minute arms your
+odds of success on an expedition go up
+probably exponentially the other thing
+that happens is once you have that
+number of higher lengths suddenly you
+need to supply for those higher lengths
+and now there's a whole logistical chain
+that becomes necessary to provide food
+and water and other supplies for those
+hirings on the expedition particularly
+as the number of highlands grow i mean
+if you've got a 17 charisma and you can
+get six hirelings and somebody else can
+only get three well you're going to take
+advantage of your advantage and you're
+going to hire six guys as soon as you
+can right so once you begin increasing
+those numbers the complexity of the
+expedition increases you now need to
+carry more supplies which ironically
+leads you to higher more henchmen or
+higher links to haul all of those extra
+supplies and this gets back to like the
+exploration pillar of the game where you
+really are mounting expeditions out into
+the wilderness or down into the dungeons
+and attempting to maximize your payoffs
+from the resources that you are
+investing in each one of these
+expeditions it's a very interesting
+effect that just the choice of putting
+this table here frontlining it and
+making frankly charisma look like the
+single most important ability in the
+game and i think it might be in this
+edition has on the game as a whole
+languages
+this is another favorite if you
+interpret these rules as written
+strictly you get some amazing gameplay
+out of it the common tongue spoken
+throughout the continent is known by
+most humans all other creatures and
+monsters which can speak have their own
+language although some 20
+also know the common one law chaos and
+neutrality also have common languages
+spoken by each respectively one can
+attempt to communicate through the
+common tongue a language particular to a
+creature class or one of the divisional
+languages law etc while not
+understanding the language creatures who
+speak a divisional tongue will recognize
+a hostile one and attack
+characters with an intelligence above 10
+may learn additional languages one
+language for every point above 10
+intelligence factors thus a man with an
+intelligence level of 15 could speak
+seven languages i.e the common tongue
+his divisional language and five
+creature languages magic users spells
+and some magic items will enable the
+speaking and understanding of languages
+so the common tongue is known by most
+humans we can mean that as all pc humans
+for our purposes but all other creatures
+and monsters which can speak have their
+own language although some 20
+also know the common one this means if
+you take the rules as written if you are
+playing an elf a dwarf or a hobbit in
+dnd you only have a 20 chance of
+speaking the common language and so in
+my games i would make people roll for it
+and see if they rolled 20 or lower on
+percentile dice and if they didn't they
+didn't know the common tongue now this
+might seem like a small thing and just
+kind of silly but what happens in
+practice at the table is that the
+question of can we all speak the same
+language suddenly becomes part of play
+there have been several sessions where
+it turns out that we can't all speak the
+same language we're going to have to
+hire a translator now in practice
+usually if you're all rolling up
+characters together somebody probably
+has a high enough intelligence score
+that they get the bonus languages and
+they can make sure they've selected the
+right languages to talk to everybody
+else in the group or you can all make a
+choice to be the same alignment and that
+will also solve the problem for you with
+the divisional tongues which we'll talk
+about in a second but what's interesting
+is if you create a group of characters
+and one of them has the high
+intelligence and becomes the character
+who can sort of translate within the
+group and then say you know a goblin
+shoots that character and they die you
+can suddenly find yourself on the fourth
+level of the dungeon and realize that
+that half of the table and that half of
+the table can no longer talk to each
+other and that has happened in my game
+and that was a very memorable and kind
+of awesome session as they all tried to
+figure out how to get out of the dungeon
+without being able to clearly
+communicate with each other that's the
+kind of interesting emergent play that
+can come from sort of simulation rules
+like this
+[Music]

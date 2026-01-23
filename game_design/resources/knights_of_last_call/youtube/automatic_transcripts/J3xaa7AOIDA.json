@@ -1,0 +1,1975 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,240",
+      "end_time": "00:00:04,160",
+      "text": "Hey everyone, welcome to the nights of"
+    },
+    {
+      "start_time": "00:00:02,080",
+      "end_time": "00:00:05,839",
+      "text": "last call. My name is Derek Melinda."
+    },
+    {
+      "start_time": "00:00:04,160",
+      "end_time": "00:00:07,919",
+      "text": "What you're about to watch is a recent"
+    },
+    {
+      "start_time": "00:00:05,839",
+      "end_time": "00:00:10,480",
+      "text": "clip from a Daggerheart live stream"
+    },
+    {
+      "start_time": "00:00:07,919",
+      "end_time": "00:00:12,160",
+      "text": "where we gave advice to firsttime GMs"
+    },
+    {
+      "start_time": "00:00:10,480",
+      "end_time": "00:00:14,320",
+      "text": "who may need a little help with running"
+    },
+    {
+      "start_time": "00:00:12,160",
+      "end_time": "00:00:15,599",
+      "text": "Daggerheart. Enjoy. There's a lot of"
+    },
+    {
+      "start_time": "00:00:14,320",
+      "end_time": "00:00:18,240",
+      "text": "there's a couple of things I want to"
+    },
+    {
+      "start_time": "00:00:15,599",
+      "end_time": "00:00:20,160",
+      "text": "talk about from a GMing perspective. And"
+    },
+    {
+      "start_time": "00:00:18,240",
+      "end_time": "00:00:22,320",
+      "text": "the second topic I want to talk cover is"
+    },
+    {
+      "start_time": "00:00:20,160",
+      "end_time": "00:00:25,519",
+      "text": "working with the spotlight and what I"
+    },
+    {
+      "start_time": "00:00:22,320",
+      "end_time": "00:00:27,519",
+      "text": "call dynamic spotlight management. This"
+    },
+    {
+      "start_time": "00:00:25,519",
+      "end_time": "00:00:30,960",
+      "text": "is where I am going to break with the"
+    },
+    {
+      "start_time": "00:00:27,519",
+      "end_time": "00:00:33,040",
+      "text": "Daggerheart folks a little bit. And I"
+    },
+    {
+      "start_time": "00:00:30,960",
+      "end_time": "00:00:34,640",
+      "text": "believe that you are going to be better"
+    },
+    {
+      "start_time": "00:00:33,040",
+      "end_time": "00:00:36,160",
+      "text": "served."
+    },
+    {
+      "start_time": "00:00:34,640",
+      "end_time": "00:00:38,160",
+      "text": "Your game is going to be better served."
+    },
+    {
+      "start_time": "00:00:36,160",
+      "end_time": "00:00:40,239",
+      "text": "And I think your players, especially new"
+    },
+    {
+      "start_time": "00:00:38,160",
+      "end_time": "00:00:44,559",
+      "text": "players, are going to be better served"
+    },
+    {
+      "start_time": "00:00:40,239",
+      "end_time": "00:00:47,360",
+      "text": "if you use the following guidelines"
+    },
+    {
+      "start_time": "00:00:44,559",
+      "end_time": "00:00:50,239",
+      "text": "for managing the spotlight. So the first"
+    },
+    {
+      "start_time": "00:00:47,360",
+      "end_time": "00:00:54,399",
+      "text": "thing to realize is the spotlight is not"
+    },
+    {
+      "start_time": "00:00:50,239",
+      "end_time": "00:00:55,920",
+      "text": "really the same thing as a turn."
+    },
+    {
+      "start_time": "00:00:54,399",
+      "end_time": "00:00:59,520",
+      "text": "You know, we think of the turn in D and"
+    },
+    {
+      "start_time": "00:00:55,920",
+      "end_time": "00:01:01,520",
+      "text": "D as being very, very discreet, okay?"
+    },
+    {
+      "start_time": "00:00:59,520",
+      "end_time": "00:01:05,280",
+      "text": "Which is, you know, my turn starts, my"
+    },
+    {
+      "start_time": "00:01:01,520",
+      "end_time": "00:01:07,200",
+      "text": "turn ends, and nothing in between."
+    },
+    {
+      "start_time": "00:01:05,280",
+      "end_time": "00:01:09,119",
+      "text": "I don't think of the spotlight in that"
+    },
+    {
+      "start_time": "00:01:07,200",
+      "end_time": "00:01:12,320",
+      "text": "way. I think of the spotlight as more of"
+    },
+    {
+      "start_time": "00:01:09,119",
+      "end_time": "00:01:15,520",
+      "text": "who is controlling the narrative at this"
+    },
+    {
+      "start_time": "00:01:12,320",
+      "end_time": "00:01:18,080",
+      "text": "moment. Um, it's very like a I've got"
+    },
+    {
+      "start_time": "00:01:15,520",
+      "end_time": "00:01:20,400",
+      "text": "the conch, right? Uh if you've if you've"
+    },
+    {
+      "start_time": "00:01:18,080",
+      "end_time": "00:01:22,560",
+      "text": "ever read Lord of the Flies, you are"
+    },
+    {
+      "start_time": "00:01:20,400",
+      "end_time": "00:01:24,320",
+      "text": "sort of controlling the action and that"
+    },
+    {
+      "start_time": "00:01:22,560",
+      "end_time": "00:01:28,240",
+      "text": "can change."
+    },
+    {
+      "start_time": "00:01:24,320",
+      "end_time": "00:01:31,040",
+      "text": "The camera is on you. It's your time to"
+    },
+    {
+      "start_time": "00:01:28,240",
+      "end_time": "00:01:33,680",
+      "text": "make a quippy oneliner. It's your time"
+    },
+    {
+      "start_time": "00:01:31,040",
+      "end_time": "00:01:37,439",
+      "text": "to do some sort of dramatic cool Avenger"
+    },
+    {
+      "start_time": "00:01:33,680",
+      "end_time": "00:01:41,280",
+      "text": "style move, but ultimately that camera"
+    },
+    {
+      "start_time": "00:01:37,439",
+      "end_time": "00:01:43,840",
+      "text": "is going to shift. Now,"
+    },
+    {
+      "start_time": "00:01:41,280",
+      "end_time": "00:01:46,560",
+      "text": "in the normal Dagger Heart game, the way"
+    },
+    {
+      "start_time": "00:01:43,840",
+      "end_time": "00:01:48,640",
+      "text": "that the spotlight rules work is very"
+    },
+    {
+      "start_time": "00:01:46,560",
+      "end_time": "00:01:51,280",
+      "text": "written very discreetly, and I think"
+    },
+    {
+      "start_time": "00:01:48,640",
+      "end_time": "00:01:53,280",
+      "text": "some people have taken this too"
+    },
+    {
+      "start_time": "00:01:51,280",
+      "end_time": "00:01:56,240",
+      "text": "literally"
+    },
+    {
+      "start_time": "00:01:53,280",
+      "end_time": "00:01:59,280",
+      "text": "where the players have the spotlight."
+    },
+    {
+      "start_time": "00:01:56,240",
+      "end_time": "00:02:03,119",
+      "text": "They pass it between them until somebody"
+    },
+    {
+      "start_time": "00:01:59,280",
+      "end_time": "00:02:06,079",
+      "text": "rolls with fear or fails a roll or the"
+    },
+    {
+      "start_time": "00:02:03,119",
+      "end_time": "00:02:08,399",
+      "text": "GM spends a fear. And I've seen a lot of"
+    },
+    {
+      "start_time": "00:02:06,079",
+      "end_time": "00:02:09,679",
+      "text": "people write it just like that. I've"
+    },
+    {
+      "start_time": "00:02:08,399",
+      "end_time": "00:02:11,440",
+      "text": "seen that in Reddit. I've seen that in"
+    },
+    {
+      "start_time": "00:02:09,679",
+      "end_time": "00:02:14,080",
+      "text": "examples even on the internet, even on"
+    },
+    {
+      "start_time": "00:02:11,440",
+      "end_time": "00:02:17,120",
+      "text": "YouTube, I should say. For starters,"
+    },
+    {
+      "start_time": "00:02:14,080",
+      "end_time": "00:02:22,319",
+      "text": "that is patently not the case. The real"
+    },
+    {
+      "start_time": "00:02:17,120",
+      "end_time": "00:02:24,800",
+      "text": "answer is that the GM can and should uh"
+    },
+    {
+      "start_time": "00:02:22,319",
+      "end_time": "00:02:26,319",
+      "text": "take the spotlight whenever they want,"
+    },
+    {
+      "start_time": "00:02:24,800",
+      "end_time": "00:02:28,160",
+      "text": "but they could take the spotlight and"
+    },
+    {
+      "start_time": "00:02:26,319",
+      "end_time": "00:02:29,440",
+      "text": "they will take the spotlight not only"
+    },
+    {
+      "start_time": "00:02:28,160",
+      "end_time": "00:02:31,440",
+      "text": "when they spend a fear or when the"
+    },
+    {
+      "start_time": "00:02:29,440",
+      "end_time": "00:02:34,239",
+      "text": "players roll with fear or when the"
+    },
+    {
+      "start_time": "00:02:31,440",
+      "end_time": "00:02:35,760",
+      "text": "players fail a roll, but also whenever"
+    },
+    {
+      "start_time": "00:02:34,239",
+      "end_time": "00:02:37,920",
+      "text": "the players are looking to you to see"
+    },
+    {
+      "start_time": "00:02:35,760",
+      "end_time": "00:02:40,480",
+      "text": "what happens. whenever the players give"
+    },
+    {
+      "start_time": "00:02:37,920",
+      "end_time": "00:02:42,239",
+      "text": "you a golden opportunity or whenever"
+    },
+    {
+      "start_time": "00:02:40,480",
+      "end_time": "00:02:44,080",
+      "text": "there are natural consequences that"
+    },
+    {
+      "start_time": "00:02:42,239",
+      "end_time": "00:02:45,760",
+      "text": "would follow from the player's actions."
+    },
+    {
+      "start_time": "00:02:44,080",
+      "end_time": "00:02:47,920",
+      "text": "Now, I know that might seem weird to"
+    },
+    {
+      "start_time": "00:02:45,760",
+      "end_time": "00:02:50,800",
+      "text": "consider these things GM moves. The term"
+    },
+    {
+      "start_time": "00:02:47,920",
+      "end_time": "00:02:53,040",
+      "text": "GM move is a it's an old PBTA framework,"
+    },
+    {
+      "start_time": "00:02:50,800",
+      "end_time": "00:02:54,800",
+      "text": "but really what it means is the GM is"
+    },
+    {
+      "start_time": "00:02:53,040",
+      "end_time": "00:02:57,040",
+      "text": "telling you what's happening and what is"
+    },
+    {
+      "start_time": "00:02:54,800",
+      "end_time": "00:03:00,879",
+      "text": "going on."
+    },
+    {
+      "start_time": "00:02:57,040",
+      "end_time": "00:03:05,200",
+      "text": "My core cons, my core belief is that as"
+    },
+    {
+      "start_time": "00:03:00,879",
+      "end_time": "00:03:07,840",
+      "text": "the director of this story, the GM can"
+    },
+    {
+      "start_time": "00:03:05,200",
+      "end_time": "00:03:10,000",
+      "text": "do a lot better of a job of sending the"
+    },
+    {
+      "start_time": "00:03:07,840",
+      "end_time": "00:03:12,159",
+      "text": "spotlight to where it needs to be. And"
+    },
+    {
+      "start_time": "00:03:10,000",
+      "end_time": "00:03:15,360",
+      "text": "what that means is a couple of things."
+    },
+    {
+      "start_time": "00:03:12,159",
+      "end_time": "00:03:19,440",
+      "text": "Number one, during combat or during"
+    },
+    {
+      "start_time": "00:03:15,360",
+      "end_time": "00:03:20,959",
+      "text": "moments of extreme tension, I like"
+    },
+    {
+      "start_time": "00:03:19,440",
+      "end_time": "00:03:23,920",
+      "text": "to"
+    },
+    {
+      "start_time": "00:03:20,959",
+      "end_time": "00:03:25,680",
+      "text": "control the spotlight. I view giving the"
+    },
+    {
+      "start_time": "00:03:23,920",
+      "end_time": "00:03:28,560",
+      "text": "players the opportunity to sort of"
+    },
+    {
+      "start_time": "00:03:25,680",
+      "end_time": "00:03:31,360",
+      "text": "decide amongst themselves"
+    },
+    {
+      "start_time": "00:03:28,560",
+      "end_time": "00:03:34,480",
+      "text": "who should do what is almost more of"
+    },
+    {
+      "start_time": "00:03:31,360",
+      "end_time": "00:03:37,120",
+      "text": "like a an indication that we aren't in a"
+    },
+    {
+      "start_time": "00:03:34,480",
+      "end_time": "00:03:38,480",
+      "text": "very tense situation that we have a lot"
+    },
+    {
+      "start_time": "00:03:37,120",
+      "end_time": "00:03:40,400",
+      "text": "of time. You could think of it as in"
+    },
+    {
+      "start_time": "00:03:38,480",
+      "end_time": "00:03:42,239",
+      "text": "character and out of character. We have"
+    },
+    {
+      "start_time": "00:03:40,400",
+      "end_time": "00:03:44,400",
+      "text": "time to sort of discuss our options and"
+    },
+    {
+      "start_time": "00:03:42,239",
+      "end_time": "00:03:47,760",
+      "text": "figure out what the best move is and all"
+    },
+    {
+      "start_time": "00:03:44,400",
+      "end_time": "00:03:49,599",
+      "text": "these other factors. Okay. I don't think"
+    },
+    {
+      "start_time": "00:03:47,760",
+      "end_time": "00:03:52,480",
+      "text": "that moments of combat or, you know,"
+    },
+    {
+      "start_time": "00:03:49,599",
+      "end_time": "00:03:56,400",
+      "text": "tension, a chase are those times. So, as"
+    },
+    {
+      "start_time": "00:03:52,480",
+      "end_time": "00:04:01,760",
+      "text": "a GM, what I like to do is I control the"
+    },
+    {
+      "start_time": "00:03:56,400",
+      "end_time": "00:04:03,680",
+      "text": "spotlight. So, for example, after a uh"
+    },
+    {
+      "start_time": "00:04:01,760",
+      "end_time": "00:04:06,000",
+      "text": "player, whether it's me or another"
+    },
+    {
+      "start_time": "00:04:03,680",
+      "end_time": "00:04:07,680",
+      "text": "player, PC, uh finishes a move or does"
+    },
+    {
+      "start_time": "00:04:06,000",
+      "end_time": "00:04:08,640",
+      "text": "something, you know, similarly, I'm"
+    },
+    {
+      "start_time": "00:04:07,680",
+      "end_time": "00:04:12,159",
+      "text": "thinking about it in terms of a"
+    },
+    {
+      "start_time": "00:04:08,640",
+      "end_time": "00:04:14,640",
+      "text": "director, and I might cut to Aaron and I"
+    },
+    {
+      "start_time": "00:04:12,159",
+      "end_time": "00:04:16,720",
+      "text": "might say, you know, all right, Aaron,"
+    },
+    {
+      "start_time": "00:04:14,640",
+      "end_time": "00:04:18,639",
+      "text": "you finish casting the fireball and it"
+    },
+    {
+      "start_time": "00:04:16,720",
+      "end_time": "00:04:21,040",
+      "text": "rips through the ranks of the minions."
+    },
+    {
+      "start_time": "00:04:18,639",
+      "end_time": "00:04:22,479",
+      "text": "Ker, what are you doing? cuz Aaron"
+    },
+    {
+      "start_time": "00:04:21,040",
+      "end_time": "00:04:24,160",
+      "text": "rolled with hope and I want to keep the,"
+    },
+    {
+      "start_time": "00:04:22,479",
+      "end_time": "00:04:26,320",
+      "text": "you know, thing the sort of the story"
+    },
+    {
+      "start_time": "00:04:24,160",
+      "end_time": "00:04:28,400",
+      "text": "moving. And I go, Kister, the fireball"
+    },
+    {
+      "start_time": "00:04:26,320",
+      "end_time": "00:04:30,400",
+      "text": "is streaking towards through the air"
+    },
+    {
+      "start_time": "00:04:28,400",
+      "end_time": "00:04:33,120",
+      "text": "about to rip apart the minions. What are"
+    },
+    {
+      "start_time": "00:04:30,400",
+      "end_time": "00:04:36,080",
+      "text": "you doing? And Kristor's like, oh, okay."
+    },
+    {
+      "start_time": "00:04:33,120",
+      "end_time": "00:04:38,639",
+      "text": "I I I need to go. Instead of the action"
+    },
+    {
+      "start_time": "00:04:36,080",
+      "end_time": "00:04:40,639",
+      "text": "stopping and the player's going, uh, who"
+    },
+    {
+      "start_time": "00:04:38,639",
+      "end_time": "00:04:42,080",
+      "text": "should go next? Who should keep going?"
+    },
+    {
+      "start_time": "00:04:40,639",
+      "end_time": "00:04:43,680",
+      "text": "Uh, do you want to go? No. Do you want"
+    },
+    {
+      "start_time": "00:04:42,080",
+      "end_time": "00:04:45,520",
+      "text": "to Who wants to go? Do you want to go?"
+    },
+    {
+      "start_time": "00:04:43,680",
+      "end_time": "00:04:47,360",
+      "text": "Do you do you want to go? Well, I I just"
+    },
+    {
+      "start_time": "00:04:45,520",
+      "end_time": "00:04:48,880",
+      "text": "went, but I would go again. And I would"
+    },
+    {
+      "start_time": "00:04:47,360",
+      "end_time": "00:04:50,639",
+      "text": "also go again. And I would also go"
+    },
+    {
+      "start_time": "00:04:48,880",
+      "end_time": "00:04:52,080",
+      "text": "again. I see a lot of people having all"
+    },
+    {
+      "start_time": "00:04:50,639",
+      "end_time": "00:04:53,280",
+      "text": "these debates about it and then the game"
+    },
+    {
+      "start_time": "00:04:52,080",
+      "end_time": "00:04:55,840",
+      "text": "says things like, \"Oh, maybe you should"
+    },
+    {
+      "start_time": "00:04:53,280",
+      "end_time": "00:04:57,280",
+      "text": "use an action card tracker and track how"
+    },
+    {
+      "start_time": "00:04:55,840",
+      "end_time": "00:05:00,240",
+      "text": "many actions people have taken or just"
+    },
+    {
+      "start_time": "00:04:57,280",
+      "end_time": "00:05:02,639",
+      "text": "do none of that and just control the"
+    },
+    {
+      "start_time": "00:05:00,240",
+      "end_time": "00:05:04,160",
+      "text": "spotlight as the GM.\""
+    },
+    {
+      "start_time": "00:05:02,639",
+      "end_time": "00:05:06,000",
+      "text": "Now, you can keep a mind towards"
+    },
+    {
+      "start_time": "00:05:04,160",
+      "end_time": "00:05:08,880",
+      "text": "fairness. If you really need help, you"
+    },
+    {
+      "start_time": "00:05:06,000",
+      "end_time": "00:05:10,960",
+      "text": "can maybe make little check marks about"
+    },
+    {
+      "start_time": "00:05:08,880",
+      "end_time": "00:05:13,520",
+      "text": "how many times a given player has taken"
+    },
+    {
+      "start_time": "00:05:10,960",
+      "end_time": "00:05:15,919",
+      "text": "an action, but I don't even necessarily"
+    },
+    {
+      "start_time": "00:05:13,520",
+      "end_time": "00:05:17,360",
+      "text": "like doing that. Man, there's a lot to"
+    },
+    {
+      "start_time": "00:05:15,919",
+      "end_time": "00:05:19,680",
+      "text": "talk about talk talk about in this this"
+    },
+    {
+      "start_time": "00:05:17,360",
+      "end_time": "00:05:21,360",
+      "text": "15-minute segment because one of the"
+    },
+    {
+      "start_time": "00:05:19,680",
+      "end_time": "00:05:23,759",
+      "text": "things that I measure, I don't measure"
+    },
+    {
+      "start_time": "00:05:21,360",
+      "end_time": "00:05:26,560",
+      "text": "turns. I don't measure actions. I"
+    },
+    {
+      "start_time": "00:05:23,759",
+      "end_time": "00:05:29,919",
+      "text": "measure impact,"
+    },
+    {
+      "start_time": "00:05:26,560",
+      "end_time": "00:05:31,520",
+      "text": "right? I measure impact. You know, in"
+    },
+    {
+      "start_time": "00:05:29,919",
+      "end_time": "00:05:32,880",
+      "text": "complete fairness, I mean, this isn't"
+    },
+    {
+      "start_time": "00:05:31,520",
+      "end_time": "00:05:36,000",
+      "text": "really true, but let's say that you had"
+    },
+    {
+      "start_time": "00:05:32,880",
+      "end_time": "00:05:37,600",
+      "text": "a rogue character and you give them the"
+    },
+    {
+      "start_time": "00:05:36,000",
+      "end_time": "00:05:39,120",
+      "text": "spotlight and they take an action and,"
+    },
+    {
+      "start_time": "00:05:37,600",
+      "end_time": "00:05:40,560",
+      "text": "you know, they miss and nothing happens,"
+    },
+    {
+      "start_time": "00:05:39,120",
+      "end_time": "00:05:41,759",
+      "text": "right? Or something like that. And then"
+    },
+    {
+      "start_time": "00:05:40,560",
+      "end_time": "00:05:43,039",
+      "text": "you give them another action and they"
+    },
+    {
+      "start_time": "00:05:41,759",
+      "end_time": "00:05:44,639",
+      "text": "miss and nothing happens. and you give"
+    },
+    {
+      "start_time": "00:05:43,039",
+      "end_time": "00:05:46,080",
+      "text": "them another action and they miss and"
+    },
+    {
+      "start_time": "00:05:44,639",
+      "end_time": "00:05:48,639",
+      "text": "nothing happens. So they've taken three"
+    },
+    {
+      "start_time": "00:05:46,080",
+      "end_time": "00:05:50,560",
+      "text": "turns and they've done nothing. And then"
+    },
+    {
+      "start_time": "00:05:48,639",
+      "end_time": "00:05:52,240",
+      "text": "meanwhile, you've spotlighted the wizard"
+    },
+    {
+      "start_time": "00:05:50,560",
+      "end_time": "00:05:54,560",
+      "text": "three times and they have casted"
+    },
+    {
+      "start_time": "00:05:52,240",
+      "end_time": "00:05:56,960",
+      "text": "fireball three times and they have"
+    },
+    {
+      "start_time": "00:05:54,560",
+      "end_time": "00:05:59,440",
+      "text": "ripped through a group of minions. They"
+    },
+    {
+      "start_time": "00:05:56,960",
+      "end_time": "00:06:00,720",
+      "text": "blew up a bunch of uh standard monsters"
+    },
+    {
+      "start_time": "00:05:59,440",
+      "end_time": "00:06:03,120",
+      "text": "that were standing too close to each"
+    },
+    {
+      "start_time": "00:06:00,720",
+      "end_time": "00:06:04,720",
+      "text": "other and they wiped out an a siege"
+    },
+    {
+      "start_time": "00:06:03,120",
+      "end_time": "00:06:06,080",
+      "text": "engine that was being brought to bear"
+    },
+    {
+      "start_time": "00:06:04,720",
+      "end_time": "00:06:08,720",
+      "text": "during the fire. And you're like, \"Okay,"
+    },
+    {
+      "start_time": "00:06:06,080",
+      "end_time": "00:06:11,440",
+      "text": "so they've each taken three actions."
+    },
+    {
+      "start_time": "00:06:08,720",
+      "end_time": "00:06:13,759",
+      "text": "They've each taken three moves,"
+    },
+    {
+      "start_time": "00:06:11,440",
+      "end_time": "00:06:15,680",
+      "text": "but did they have equal weight? And the"
+    },
+    {
+      "start_time": "00:06:13,759",
+      "end_time": "00:06:19,199",
+      "text": "answer is no. So, we need to divorce"
+    },
+    {
+      "start_time": "00:06:15,680",
+      "end_time": "00:06:22,319",
+      "text": "ourselves from that D&D uh mentality. Dn"
+    },
+    {
+      "start_time": "00:06:19,199",
+      "end_time": "00:06:24,000",
+      "text": "D mentality is very um it's almost it's"
+    },
+    {
+      "start_time": "00:06:22,319",
+      "end_time": "00:06:25,840",
+      "text": "very like it's almost very"
+    },
+    {
+      "start_time": "00:06:24,000",
+      "end_time": "00:06:28,639",
+      "text": "conservativism, right? Like it's like,"
+    },
+    {
+      "start_time": "00:06:25,840",
+      "end_time": "00:06:30,720",
+      "text": "hey, I gave everybody an equal chance."
+    },
+    {
+      "start_time": "00:06:28,639",
+      "end_time": "00:06:32,720",
+      "text": "You had three turns. You had three"
+    },
+    {
+      "start_time": "00:06:30,720",
+      "end_time": "00:06:34,240",
+      "text": "turns. Not my fault that you didn't take"
+    },
+    {
+      "start_time": "00:06:32,720",
+      "end_time": "00:06:35,840",
+      "text": "advantage of those three turns and that"
+    },
+    {
+      "start_time": "00:06:34,240",
+      "end_time": "00:06:38,720",
+      "text": "you missed a lot. Maybe you should make"
+    },
+    {
+      "start_time": "00:06:35,840",
+      "end_time": "00:06:40,639",
+      "text": "a better character and get good, son."
+    },
+    {
+      "start_time": "00:06:38,720",
+      "end_time": "00:06:46,080",
+      "text": "that mentality"
+    },
+    {
+      "start_time": "00:06:40,639",
+      "end_time": "00:06:48,560",
+      "text": "very bad. So this is this is not about"
+    },
+    {
+      "start_time": "00:06:46,080",
+      "end_time": "00:06:51,919",
+      "text": "giving the players opportunities. It's"
+    },
+    {
+      "start_time": "00:06:48,560",
+      "end_time": "00:06:54,080",
+      "text": "about giving the players actual impact."
+    },
+    {
+      "start_time": "00:06:51,919",
+      "end_time": "00:06:55,759",
+      "text": "So for me as a GM, this is why just"
+    },
+    {
+      "start_time": "00:06:54,080",
+      "end_time": "00:06:58,319",
+      "text": "keeping check marks I don't think is a"
+    },
+    {
+      "start_time": "00:06:55,759",
+      "end_time": "00:07:02,960",
+      "text": "very accurate way to do this. I'm paying"
+    },
+    {
+      "start_time": "00:06:58,319",
+      "end_time": "00:07:06,479",
+      "text": "attention and I want to see how much"
+    },
+    {
+      "start_time": "00:07:02,960",
+      "end_time": "00:07:09,360",
+      "text": "satisfaction and engagement that"
+    },
+    {
+      "start_time": "00:07:06,479",
+      "end_time": "00:07:12,080",
+      "text": "particular player has."
+    },
+    {
+      "start_time": "00:07:09,360",
+      "end_time": "00:07:14,479",
+      "text": "If I'm watching the table and I see that"
+    },
+    {
+      "start_time": "00:07:12,080",
+      "end_time": "00:07:15,759",
+      "text": "somebody is their attention is starting"
+    },
+    {
+      "start_time": "00:07:14,479",
+      "end_time": "00:07:17,520",
+      "text": "to flag, maybe they're starting to look"
+    },
+    {
+      "start_time": "00:07:15,759",
+      "end_time": "00:07:19,919",
+      "text": "a little bored, boom, I might give them"
+    },
+    {
+      "start_time": "00:07:17,520",
+      "end_time": "00:07:21,360",
+      "text": "the spotlight right away. I was going to"
+    },
+    {
+      "start_time": "00:07:19,919",
+      "end_time": "00:07:23,280",
+      "text": "take a bunch of fear moves. Instead, I"
+    },
+    {
+      "start_time": "00:07:21,360",
+      "end_time": "00:07:25,360",
+      "text": "throw the spotlight back to them and I"
+    },
+    {
+      "start_time": "00:07:23,280",
+      "end_time": "00:07:27,759",
+      "text": "ask them what they're doing. If somebody"
+    },
+    {
+      "start_time": "00:07:25,360",
+      "end_time": "00:07:30,800",
+      "text": "has an unbelievable turn and they have a"
+    },
+    {
+      "start_time": "00:07:27,759",
+      "end_time": "00:07:32,319",
+      "text": "huge impact on the the battlefield and"
+    },
+    {
+      "start_time": "00:07:30,800",
+      "end_time": "00:07:34,160",
+      "text": "there's another player who hasn't really"
+    },
+    {
+      "start_time": "00:07:32,319",
+      "end_time": "00:07:36,319",
+      "text": "done a lot, I'm going to go to that"
+    },
+    {
+      "start_time": "00:07:34,160",
+      "end_time": "00:07:38,800",
+      "text": "player. I don't care how many moves"
+    },
+    {
+      "start_time": "00:07:36,319",
+      "end_time": "00:07:40,319",
+      "text": "they've taken, right? I don't care that"
+    },
+    {
+      "start_time": "00:07:38,800",
+      "end_time": "00:07:42,080",
+      "text": "the last time I gave them the spotlight,"
+    },
+    {
+      "start_time": "00:07:40,319",
+      "end_time": "00:07:43,919",
+      "text": "they tried to move across the the"
+    },
+    {
+      "start_time": "00:07:42,080",
+      "end_time": "00:07:45,840",
+      "text": "battle. You know, their action was I"
+    },
+    {
+      "start_time": "00:07:43,919",
+      "end_time": "00:07:47,039",
+      "text": "move across the the the battlefield."
+    },
+    {
+      "start_time": "00:07:45,840",
+      "end_time": "00:07:48,560",
+      "text": "Yeah, you didn't really do anything."
+    },
+    {
+      "start_time": "00:07:47,039",
+      "end_time": "00:07:51,360",
+      "text": "Cool. You succeeded. You succeeded with"
+    },
+    {
+      "start_time": "00:07:48,560",
+      "end_time": "00:07:53,120",
+      "text": "hope, but I'm going to respot that"
+    },
+    {
+      "start_time": "00:07:51,360",
+      "end_time": "00:07:57,360",
+      "text": "player. I'm going to keep the I want to"
+    },
+    {
+      "start_time": "00:07:53,120",
+      "end_time": "00:08:00,080",
+      "text": "keep the camera on them. Okay?"
+    },
+    {
+      "start_time": "00:07:57,360",
+      "end_time": "00:08:02,000",
+      "text": "You know, because they didn't do"
+    },
+    {
+      "start_time": "00:08:00,080",
+      "end_time": "00:08:04,479",
+      "text": "anything. Imagine in a movie if you just"
+    },
+    {
+      "start_time": "00:08:02,000",
+      "end_time": "00:08:07,120",
+      "text": "sh you know, the camera pans over to a"
+    },
+    {
+      "start_time": "00:08:04,479",
+      "end_time": "00:08:09,280",
+      "text": "character and you're like, and then it,"
+    },
+    {
+      "start_time": "00:08:07,120",
+      "end_time": "00:08:11,280",
+      "text": "you know, it's an exciting action scene"
+    },
+    {
+      "start_time": "00:08:09,280",
+      "end_time": "00:08:15,280",
+      "text": "and it pans over to a character and they"
+    },
+    {
+      "start_time": "00:08:11,280",
+      "end_time": "00:08:16,560",
+      "text": "don't really do anything and then it"
+    },
+    {
+      "start_time": "00:08:15,280",
+      "end_time": "00:08:19,039",
+      "text": "cuts back and you're like, wait, what"
+    },
+    {
+      "start_time": "00:08:16,560",
+      "end_time": "00:08:21,280",
+      "text": "was the point of that scene? you know,"
+    },
+    {
+      "start_time": "00:08:19,039",
+      "end_time": "00:08:23,280",
+      "text": "so I think it's really important to"
+    },
+    {
+      "start_time": "00:08:21,280",
+      "end_time": "00:08:25,199",
+      "text": "realize that you need to sort of manage"
+    },
+    {
+      "start_time": "00:08:23,280",
+      "end_time": "00:08:28,720",
+      "text": "the spotlight and take advantage of that"
+    },
+    {
+      "start_time": "00:08:25,199",
+      "end_time": "00:08:31,360",
+      "text": "and it makes it feel much more punchy,"
+    },
+    {
+      "start_time": "00:08:28,720",
+      "end_time": "00:08:33,519",
+      "text": "you know, and yes, you are entrusting"
+    },
+    {
+      "start_time": "00:08:31,360",
+      "end_time": "00:08:35,360",
+      "text": "the GM to have control. Now, as I've"
+    },
+    {
+      "start_time": "00:08:33,519",
+      "end_time": "00:08:38,320",
+      "text": "said before, you can use this as a"
+    },
+    {
+      "start_time": "00:08:35,360",
+      "end_time": "00:08:39,760",
+      "text": "lever. Let's say the the enemies are on"
+    },
+    {
+      "start_time": "00:08:38,320",
+      "end_time": "00:08:41,760",
+      "text": "their back foot, maybe they're starting"
+    },
+    {
+      "start_time": "00:08:39,760",
+      "end_time": "00:08:43,200",
+      "text": "to fall back, and the players, you can"
+    },
+    {
+      "start_time": "00:08:41,760",
+      "end_time": "00:08:44,720",
+      "text": "even think of it in the fiction, right?"
+    },
+    {
+      "start_time": "00:08:43,200",
+      "end_time": "00:08:46,080",
+      "text": "the players are kind of they they almost"
+    },
+    {
+      "start_time": "00:08:44,720",
+      "end_time": "00:08:47,600",
+      "text": "have a moment to take a breather, you"
+    },
+    {
+      "start_time": "00:08:46,080",
+      "end_time": "00:08:49,120",
+      "text": "know, they kind of like Avengers"
+    },
+    {
+      "start_time": "00:08:47,600",
+      "end_time": "00:08:50,720",
+      "text": "assembled, you know, they kind of have"
+    },
+    {
+      "start_time": "00:08:49,120",
+      "end_time": "00:08:52,720",
+      "text": "landed, you know, on the hill, my, you"
+    },
+    {
+      "start_time": "00:08:50,720",
+      "end_time": "00:08:54,320",
+      "text": "know, to me, my X-Men, and they actually"
+    },
+    {
+      "start_time": "00:08:52,720",
+      "end_time": "00:08:56,720",
+      "text": "have a brief moment to sort of do like"
+    },
+    {
+      "start_time": "00:08:54,320",
+      "end_time": "00:08:58,240",
+      "text": "that scene in the first Avengers movie"
+    },
+    {
+      "start_time": "00:08:56,720",
+      "end_time": "00:09:00,720",
+      "text": "where they're in the middle of a combat,"
+    },
+    {
+      "start_time": "00:08:58,240",
+      "end_time": "00:09:02,160",
+      "text": "but they kind of regroup and, you know,"
+    },
+    {
+      "start_time": "00:09:00,720",
+      "end_time": "00:09:04,080",
+      "text": "Captain America calls out the things,"
+    },
+    {
+      "start_time": "00:09:02,160",
+      "end_time": "00:09:06,320",
+      "text": "you know, you know, Hawkeye call out"
+    },
+    {
+      "start_time": "00:09:04,080",
+      "end_time": "00:09:09,839",
+      "text": "strays, Stark blasted or turned to ash,"
+    },
+    {
+      "start_time": "00:09:06,320",
+      "end_time": "00:09:11,519",
+      "text": "Hulk smash, right? In that world, the"
+    },
+    {
+      "start_time": "00:09:09,839",
+      "end_time": "00:09:13,440",
+      "text": "the adventures have sort of gained the"
+    },
+    {
+      "start_time": "00:09:11,519",
+      "end_time": "00:09:15,760",
+      "text": "initiative. they've gained the momentum"
+    },
+    {
+      "start_time": "00:09:13,440",
+      "end_time": "00:09:18,160",
+      "text": "and now as a GM I might turn to the"
+    },
+    {
+      "start_time": "00:09:15,760",
+      "end_time": "00:09:21,360",
+      "text": "player group and kind of give them in"
+    },
+    {
+      "start_time": "00:09:18,160",
+      "end_time": "00:09:24,240",
+      "text": "game and out of game a moment to sort of"
+    },
+    {
+      "start_time": "00:09:21,360",
+      "end_time": "00:09:26,480",
+      "text": "strategize and table talk and it'll feel"
+    },
+    {
+      "start_time": "00:09:24,240",
+      "end_time": "00:09:28,240",
+      "text": "like okay we have a breather here we"
+    },
+    {
+      "start_time": "00:09:26,480",
+      "end_time": "00:09:29,920",
+      "text": "have a moment to discuss it's not as"
+    },
+    {
+      "start_time": "00:09:28,240",
+      "end_time": "00:09:30,880",
+      "text": "hectic it's not as panicked we can"
+    },
+    {
+      "start_time": "00:09:29,920",
+      "end_time": "00:09:34,480",
+      "text": "actually kind of think about our"
+    },
+    {
+      "start_time": "00:09:30,880",
+      "end_time": "00:09:39,040",
+      "text": "strategy a little bit okay and then and"
+    },
+    {
+      "start_time": "00:09:34,480",
+      "end_time": "00:09:41,360",
+      "text": "then we can press into it but if you run"
+    },
+    {
+      "start_time": "00:09:39,040",
+      "end_time": "00:09:44,080",
+      "text": "uh you know we have uh IA chat who says"
+    },
+    {
+      "start_time": "00:09:41,360",
+      "end_time": "00:09:45,760",
+      "text": "if run spotlight by committee. I promise"
+    },
+    {
+      "start_time": "00:09:44,080",
+      "end_time": "00:09:47,279",
+      "text": "you combat is going to slow down and"
+    },
+    {
+      "start_time": "00:09:45,760",
+      "end_time": "00:09:49,040",
+      "text": "it's going to be a horrible, terrible"
+    },
+    {
+      "start_time": "00:09:47,279",
+      "end_time": "00:09:51,279",
+      "text": "grind. It's one of the reasons I don't"
+    },
+    {
+      "start_time": "00:09:49,040",
+      "end_time": "00:09:52,880",
+      "text": "like some of some of the popcorn"
+    },
+    {
+      "start_time": "00:09:51,279",
+      "end_time": "00:09:54,720",
+      "text": "initiative systems where it's like, oh,"
+    },
+    {
+      "start_time": "00:09:52,880",
+      "end_time": "00:09:58,080",
+      "text": "the players will decide who goes next."
+    },
+    {
+      "start_time": "00:09:54,720",
+      "end_time": "00:10:00,880",
+      "text": "That's great in theory, but it tends to"
+    },
+    {
+      "start_time": "00:09:58,080",
+      "end_time": "00:10:04,000",
+      "text": "lead to a lot of, you know, consensus."
+    },
+    {
+      "start_time": "00:10:00,880",
+      "end_time": "00:10:05,680",
+      "text": "Um, and uh, you know, so as a result of"
+    },
+    {
+      "start_time": "00:10:04,000",
+      "end_time": "00:10:06,800",
+      "text": "that, I think that's really important."
+    },
+    {
+      "start_time": "00:10:05,680",
+      "end_time": "00:10:09,680",
+      "text": "But the other thing that's really"
+    },
+    {
+      "start_time": "00:10:06,800",
+      "end_time": "00:10:11,839",
+      "text": "important is as a GM"
+    },
+    {
+      "start_time": "00:10:09,680",
+      "end_time": "00:10:14,880",
+      "text": "when you're managing that spotlight,"
+    },
+    {
+      "start_time": "00:10:11,839",
+      "end_time": "00:10:16,800",
+      "text": "realize that just because it's a just"
+    },
+    {
+      "start_time": "00:10:14,880",
+      "end_time": "00:10:18,560",
+      "text": "because it's a player's turn doesn't"
+    },
+    {
+      "start_time": "00:10:16,800",
+      "end_time": "00:10:19,839",
+      "text": "mean that you can't interrupt them and"
+    },
+    {
+      "start_time": "00:10:18,560",
+      "end_time": "00:10:21,120",
+      "text": "ask another player what they're doing."
+    },
+    {
+      "start_time": "00:10:19,839",
+      "end_time": "00:10:23,519",
+      "text": "So another thing that I do with my"
+    },
+    {
+      "start_time": "00:10:21,120",
+      "end_time": "00:10:25,519",
+      "text": "spotlight management is I kind of do"
+    },
+    {
+      "start_time": "00:10:23,519",
+      "end_time": "00:10:29,600",
+      "text": "what I will call uh you know half"
+    },
+    {
+      "start_time": "00:10:25,519",
+      "end_time": "00:10:32,800",
+      "text": "activations where I might give the turn"
+    },
+    {
+      "start_time": "00:10:29,600",
+      "end_time": "00:10:34,560",
+      "text": "you know give give the spotlight to Alia"
+    },
+    {
+      "start_time": "00:10:32,800",
+      "end_time": "00:10:36,320",
+      "text": "and I say you know Alia what are you"
+    },
+    {
+      "start_time": "00:10:34,560",
+      "end_time": "00:10:37,519",
+      "text": "doing and Alia says I'm going to move"
+    },
+    {
+      "start_time": "00:10:36,320",
+      "end_time": "00:10:38,720",
+      "text": "forward and I'm going to start to cast"
+    },
+    {
+      "start_time": "00:10:37,519",
+      "end_time": "00:10:40,640",
+      "text": "I'm going to cast fireball and I'm going"
+    },
+    {
+      "start_time": "00:10:38,720",
+      "end_time": "00:10:42,800",
+      "text": "to ripen through those ranks of minions."
+    },
+    {
+      "start_time": "00:10:40,640",
+      "end_time": "00:10:45,200",
+      "text": "Now, normally the spotlight would stay"
+    },
+    {
+      "start_time": "00:10:42,800",
+      "end_time": "00:10:48,480",
+      "text": "on her and we would resolve her duality"
+    },
+    {
+      "start_time": "00:10:45,200",
+      "end_time": "00:10:50,800",
+      "text": "role and we would see what result it"
+    },
+    {
+      "start_time": "00:10:48,480",
+      "end_time": "00:10:52,640",
+      "text": "got. Fear, hope, success, whatever. Then"
+    },
+    {
+      "start_time": "00:10:50,800",
+      "end_time": "00:10:54,320",
+      "text": "we would proceed to the next player."
+    },
+    {
+      "start_time": "00:10:52,640",
+      "end_time": "00:10:56,000",
+      "text": "That's the way that standard D and D"
+    },
+    {
+      "start_time": "00:10:54,320",
+      "end_time": "00:10:57,279",
+      "text": "terms. But we don't have to think like"
+    },
+    {
+      "start_time": "00:10:56,000",
+      "end_time": "00:10:59,120",
+      "text": "that anymore because there's no"
+    },
+    {
+      "start_time": "00:10:57,279",
+      "end_time": "00:11:02,959",
+      "text": "initiative order. So now that I've"
+    },
+    {
+      "start_time": "00:10:59,120",
+      "end_time": "00:11:04,720",
+      "text": "confirmed what Alia's doing, right? And"
+    },
+    {
+      "start_time": "00:11:02,959",
+      "end_time": "00:11:06,959",
+      "text": "we can think of it in the fiction. She's"
+    },
+    {
+      "start_time": "00:11:04,720",
+      "end_time": "00:11:08,959",
+      "text": "starting to weave fire magic. It's"
+    },
+    {
+      "start_time": "00:11:06,959",
+      "end_time": "00:11:13,040",
+      "text": "starting to gather around her. I can"
+    },
+    {
+      "start_time": "00:11:08,959",
+      "end_time": "00:11:16,560",
+      "text": "then whip pan and I can cut to, you"
+    },
+    {
+      "start_time": "00:11:13,040",
+      "end_time": "00:11:18,240",
+      "text": "know, Zen bullet and I can say, \"Zen,"
+    },
+    {
+      "start_time": "00:11:16,560",
+      "end_time": "00:11:20,160",
+      "text": "Alia's beginning to draw fire into"
+    },
+    {
+      "start_time": "00:11:18,240",
+      "end_time": "00:11:22,959",
+      "text": "herself to cast a fireball on those"
+    },
+    {
+      "start_time": "00:11:20,160",
+      "end_time": "00:11:25,360",
+      "text": "minions. What are you doing while she's"
+    },
+    {
+      "start_time": "00:11:22,959",
+      "end_time": "00:11:27,839",
+      "text": "doing that?\""
+    },
+    {
+      "start_time": "00:11:25,360",
+      "end_time": "00:11:30,560",
+      "text": "And then Zen Bullet tells me what he's"
+    },
+    {
+      "start_time": "00:11:27,839",
+      "end_time": "00:11:32,240",
+      "text": "doing. And then I cut back to Alia and"
+    },
+    {
+      "start_time": "00:11:30,560",
+      "end_time": "00:11:34,560",
+      "text": "have her make her roll. And then we see"
+    },
+    {
+      "start_time": "00:11:32,240",
+      "end_time": "00:11:36,320",
+      "text": "the result of that. And that informs the"
+    },
+    {
+      "start_time": "00:11:34,560",
+      "end_time": "00:11:38,560",
+      "text": "fiction of what happens with what Zen"
+    },
+    {
+      "start_time": "00:11:36,320",
+      "end_time": "00:11:40,560",
+      "text": "Bullet's doing. And we can use our"
+    },
+    {
+      "start_time": "00:11:38,560",
+      "end_time": "00:11:43,279",
+      "text": "spotlight management not just as a way"
+    },
+    {
+      "start_time": "00:11:40,560",
+      "end_time": "00:11:46,640",
+      "text": "to manage initiative, but as a way to"
+    },
+    {
+      "start_time": "00:11:43,279",
+      "end_time": "00:11:52,399",
+      "text": "manage the camera and a way to to frame"
+    },
+    {
+      "start_time": "00:11:46,640",
+      "end_time": "00:11:55,200",
+      "text": "this story in a way that is is exciting"
+    },
+    {
+      "start_time": "00:11:52,399",
+      "end_time": "00:11:58,160",
+      "text": "and and you know, it's going to make the"
+    },
+    {
+      "start_time": "00:11:55,200",
+      "end_time": "00:12:01,440",
+      "text": "players feel engaged and active. And if"
+    },
+    {
+      "start_time": "00:11:58,160",
+      "end_time": "00:12:02,800",
+      "text": "you don't know if the GM is just going"
+    },
+    {
+      "start_time": "00:12:01,440",
+      "end_time": "00:12:04,240",
+      "text": "to point at you suddenly and ask you"
+    },
+    {
+      "start_time": "00:12:02,800",
+      "end_time": "00:12:06,399",
+      "text": "what you're doing, you bet your ass"
+    },
+    {
+      "start_time": "00:12:04,240",
+      "end_time": "00:12:09,920",
+      "text": "you're going to be engaged because at"
+    },
+    {
+      "start_time": "00:12:06,399",
+      "end_time": "00:12:13,279",
+      "text": "any minute you could suddenly be on the"
+    },
+    {
+      "start_time": "00:12:09,920",
+      "end_time": "00:12:14,639",
+      "text": "spot and that means you need to pay"
+    },
+    {
+      "start_time": "00:12:13,279",
+      "end_time": "00:12:17,519",
+      "text": "attention and that means you need to be"
+    },
+    {
+      "start_time": "00:12:14,639",
+      "end_time": "00:12:19,200",
+      "text": "engaged. So, you know, as the spotlight,"
+    },
+    {
+      "start_time": "00:12:17,519",
+      "end_time": "00:12:21,680",
+      "text": "sure, it's your turn, but it's more of"
+    },
+    {
+      "start_time": "00:12:19,200",
+      "end_time": "00:12:24,320",
+      "text": "like your moment to make an impact. And"
+    },
+    {
+      "start_time": "00:12:21,680",
+      "end_time": "00:12:26,320",
+      "text": "as a GM, during very intense scenes"
+    },
+    {
+      "start_time": "00:12:24,320",
+      "end_time": "00:12:27,760",
+      "text": "where I want to keep the pacing fast and"
+    },
+    {
+      "start_time": "00:12:26,320",
+      "end_time": "00:12:30,320",
+      "text": "furious, where I want to make"
+    },
+    {
+      "start_time": "00:12:27,760",
+      "end_time": "00:12:33,279",
+      "text": "uncertainty a part of the attention a"
+    },
+    {
+      "start_time": "00:12:30,320",
+      "end_time": "00:12:36,720",
+      "text": "part of the feeling of the scene, I tend"
+    },
+    {
+      "start_time": "00:12:33,279",
+      "end_time": "00:12:38,399",
+      "text": "to manage the spotlight. So that doesn't"
+    },
+    {
+      "start_time": "00:12:36,720",
+      "end_time": "00:12:40,720",
+      "text": "mean necessarily that the player should"
+    },
+    {
+      "start_time": "00:12:38,399",
+      "end_time": "00:12:43,200",
+      "text": "have no impact on it, but it should be"
+    },
+    {
+      "start_time": "00:12:40,720",
+      "end_time": "00:12:46,560",
+      "text": "something that they earn in those scenes"
+    },
+    {
+      "start_time": "00:12:43,200",
+      "end_time": "00:12:48,480",
+      "text": "rather than uh you know sort of"
+    },
+    {
+      "start_time": "00:12:46,560",
+      "end_time": "00:12:50,480",
+      "text": "uh uh you know have to fight for it and"
+    },
+    {
+      "start_time": "00:12:48,480",
+      "end_time": "00:12:51,519",
+      "text": "sort of you know advocate on behalf of"
+    },
+    {
+      "start_time": "00:12:50,480",
+      "end_time": "00:12:53,279",
+      "text": "the players."
+    },
+    {
+      "start_time": "00:12:51,519",
+      "end_time": "00:12:54,560",
+      "text": "Some player groups, they may be totally"
+    },
+    {
+      "start_time": "00:12:53,279",
+      "end_time": "00:12:56,079",
+      "text": "fine and they might say, \"Oh, I do this"
+    },
+    {
+      "start_time": "00:12:54,560",
+      "end_time": "00:12:58,720",
+      "text": "thing and then oh, you go next and you"
+    },
+    {
+      "start_time": "00:12:56,079",
+      "end_time": "00:13:01,600",
+      "text": "go next and you go next.\" That's fine."
+    },
+    {
+      "start_time": "00:12:58,720",
+      "end_time": "00:13:03,519",
+      "text": "But also realize something. Every time a"
+    },
+    {
+      "start_time": "00:13:01,600",
+      "end_time": "00:13:04,560",
+      "text": "player finishes a move, this is the last"
+    },
+    {
+      "start_time": "00:13:03,519",
+      "end_time": "00:13:07,200",
+      "text": "thing I'm going to say about dynam"
+    },
+    {
+      "start_time": "00:13:04,560",
+      "end_time": "00:13:10,240",
+      "text": "spotlight movement. I promise you, every"
+    },
+    {
+      "start_time": "00:13:07,200",
+      "end_time": "00:13:12,000",
+      "text": "time that a player finishes a move, even"
+    },
+    {
+      "start_time": "00:13:10,240",
+      "end_time": "00:13:14,720",
+      "text": "if they roll success with hope, even if"
+    },
+    {
+      "start_time": "00:13:12,000",
+      "end_time": "00:13:17,600",
+      "text": "they roll a critical success,"
+    },
+    {
+      "start_time": "00:13:14,720",
+      "end_time": "00:13:19,360",
+      "text": "per the rules of the game, the spotlight"
+    },
+    {
+      "start_time": "00:13:17,600",
+      "end_time": "00:13:23,040",
+      "text": "stays with the players. It doesn't go to"
+    },
+    {
+      "start_time": "00:13:19,360",
+      "end_time": "00:13:26,320",
+      "text": "the GM. and then the next player goes,"
+    },
+    {
+      "start_time": "00:13:23,040",
+      "end_time": "00:13:29,040",
+      "text": "\"That's wrong.\" I promise you, after a"
+    },
+    {
+      "start_time": "00:13:26,320",
+      "end_time": "00:13:30,800",
+      "text": "player completes their action, I promise"
+    },
+    {
+      "start_time": "00:13:29,040",
+      "end_time": "00:13:32,560",
+      "text": "you, they are going to look to you to"
+    },
+    {
+      "start_time": "00:13:30,800",
+      "end_time": "00:13:35,279",
+      "text": "see what happens because they're going"
+    },
+    {
+      "start_time": "00:13:32,560",
+      "end_time": "00:13:38,240",
+      "text": "to want to know, uh, did did the did the"
+    },
+    {
+      "start_time": "00:13:35,279",
+      "end_time": "00:13:40,240",
+      "text": "monsters did it die?"
+    },
+    {
+      "start_time": "00:13:38,240",
+      "end_time": "00:13:42,639",
+      "text": "Uh, you know, did uh did the bridge I"
+    },
+    {
+      "start_time": "00:13:40,240",
+      "end_time": "00:13:44,160",
+      "text": "shot a fireball at blow up? They are"
+    },
+    {
+      "start_time": "00:13:42,639",
+      "end_time": "00:13:46,639",
+      "text": "going to look to you to see what"
+    },
+    {
+      "start_time": "00:13:44,160",
+      "end_time": "00:13:49,040",
+      "text": "happens. And that means almost by def"
+    },
+    {
+      "start_time": "00:13:46,639",
+      "end_time": "00:13:50,560",
+      "text": "definition, every time the players do"
+    },
+    {
+      "start_time": "00:13:49,040",
+      "end_time": "00:13:52,720",
+      "text": "anything, even if they succeed with"
+    },
+    {
+      "start_time": "00:13:50,560",
+      "end_time": "00:13:53,839",
+      "text": "hope, even if they critically hit,"
+    },
+    {
+      "start_time": "00:13:52,720",
+      "end_time": "00:13:56,160",
+      "text": "they're going to look to you, see what"
+    },
+    {
+      "start_time": "00:13:53,839",
+      "end_time": "00:13:58,000",
+      "text": "happens, which means you can make a GM"
+    },
+    {
+      "start_time": "00:13:56,160",
+      "end_time": "00:13:59,360",
+      "text": "move."
+    },
+    {
+      "start_time": "00:13:58,000",
+      "end_time": "00:14:00,800",
+      "text": "So again, you can make a GM move"
+    },
+    {
+      "start_time": "00:13:59,360",
+      "end_time": "00:14:03,120",
+      "text": "whenever you want. But what I'm saying"
+    },
+    {
+      "start_time": "00:14:00,800",
+      "end_time": "00:14:05,040",
+      "text": "is the the world in which the spotlight"
+    },
+    {
+      "start_time": "00:14:03,120",
+      "end_time": "00:14:07,279",
+      "text": "stays with the players continuously"
+    },
+    {
+      "start_time": "00:14:05,040",
+      "end_time": "00:14:09,519",
+      "text": "doesn't exist. Whether you know it or"
+    },
+    {
+      "start_time": "00:14:07,279",
+      "end_time": "00:14:10,720",
+      "text": "not, the spotlight is always bouncing"
+    },
+    {
+      "start_time": "00:14:09,519",
+      "end_time": "00:14:12,959",
+      "text": "back and forth between you and the"
+    },
+    {
+      "start_time": "00:14:10,720",
+      "end_time": "00:14:14,880",
+      "text": "players. So, as a GM, you have that"
+    },
+    {
+      "start_time": "00:14:12,959",
+      "end_time": "00:14:17,440",
+      "text": "ability. When the players complete a"
+    },
+    {
+      "start_time": "00:14:14,880",
+      "end_time": "00:14:19,920",
+      "text": "move and it's and they look to you, to"
+    },
+    {
+      "start_time": "00:14:17,440",
+      "end_time": "00:14:21,440",
+      "text": "see what happens, make a move. You could"
+    },
+    {
+      "start_time": "00:14:19,920",
+      "end_time": "00:14:23,120",
+      "text": "technically make whatever move you want."
+    },
+    {
+      "start_time": "00:14:21,440",
+      "end_time": "00:14:26,079",
+      "text": "I recommend making a soft move. We'll"
+    },
+    {
+      "start_time": "00:14:23,120",
+      "end_time": "00:14:29,440",
+      "text": "talk about that in a later video, but"
+    },
+    {
+      "start_time": "00:14:26,079",
+      "end_time": "00:14:32,720",
+      "text": "ultimately, your job is to update and"
+    },
+    {
+      "start_time": "00:14:29,440",
+      "end_time": "00:14:37,760",
+      "text": "reinforce and change the fiction and"
+    },
+    {
+      "start_time": "00:14:32,720",
+      "end_time": "00:14:39,440",
+      "text": "then push the spotlight back. So again,"
+    },
+    {
+      "start_time": "00:14:37,760",
+      "end_time": "00:14:41,199",
+      "text": "even in a world where you're following"
+    },
+    {
+      "start_time": "00:14:39,440",
+      "end_time": "00:14:42,880",
+      "text": "quote unquote the rules, I promise you"
+    },
+    {
+      "start_time": "00:14:41,199",
+      "end_time": "00:14:45,199",
+      "text": "the spotlight is bouncing around a lot"
+    },
+    {
+      "start_time": "00:14:42,880",
+      "end_time": "00:14:49,040",
+      "text": "more than you think it is. And uh as a"
+    },
+    {
+      "start_time": "00:14:45,199",
+      "end_time": "00:14:50,639",
+      "text": "result, the game, especially your"
+    },
+    {
+      "start_time": "00:14:49,040",
+      "end_time": "00:14:52,399",
+      "text": "combats, which is an important part of"
+    },
+    {
+      "start_time": "00:14:50,639",
+      "end_time": "00:14:54,800",
+      "text": "Daggerheart, it doesn't, you know, it's"
+    },
+    {
+      "start_time": "00:14:52,399",
+      "end_time": "00:14:57,199",
+      "text": "very honest about that. Uh will feel way"
+    },
+    {
+      "start_time": "00:14:54,800",
+      "end_time": "00:14:59,839",
+      "text": "more dynamic and it's going to feel much"
+    },
+    {
+      "start_time": "00:14:57,199",
+      "end_time": "00:15:02,959",
+      "text": "more like an action movie and it's going"
+    },
+    {
+      "start_time": "00:14:59,839",
+      "end_time": "00:15:06,079",
+      "text": "to feel a lot more high-paced,"
+    },
+    {
+      "start_time": "00:15:02,959",
+      "end_time": "00:15:08,320",
+      "text": "tensionfilled, and dramatic. And in this"
+    },
+    {
+      "start_time": "00:15:06,079",
+      "end_time": "00:15:11,199",
+      "text": "game, that is definitely what we want to"
+    },
+    {
+      "start_time": "00:15:08,320",
+      "end_time": "00:15:11,199",
+      "text": "accomplish."
+    }
+  ],
+  "full_text": "Hey everyone, welcome to the nights of\nlast call. My name is Derek Melinda.\nWhat you're about to watch is a recent\nclip from a Daggerheart live stream\nwhere we gave advice to firsttime GMs\nwho may need a little help with running\nDaggerheart. Enjoy. There's a lot of\nthere's a couple of things I want to\ntalk about from a GMing perspective. And\nthe second topic I want to talk cover is\nworking with the spotlight and what I\ncall dynamic spotlight management. This\nis where I am going to break with the\nDaggerheart folks a little bit. And I\nbelieve that you are going to be better\nserved.\nYour game is going to be better served.\nAnd I think your players, especially new\nplayers, are going to be better served\nif you use the following guidelines\nfor managing the spotlight. So the first\nthing to realize is the spotlight is not\nreally the same thing as a turn.\nYou know, we think of the turn in D and\nD as being very, very discreet, okay?\nWhich is, you know, my turn starts, my\nturn ends, and nothing in between.\nI don't think of the spotlight in that\nway. I think of the spotlight as more of\nwho is controlling the narrative at this\nmoment. Um, it's very like a I've got\nthe conch, right? Uh if you've if you've\never read Lord of the Flies, you are\nsort of controlling the action and that\ncan change.\nThe camera is on you. It's your time to\nmake a quippy oneliner. It's your time\nto do some sort of dramatic cool Avenger\nstyle move, but ultimately that camera\nis going to shift. Now,\nin the normal Dagger Heart game, the way\nthat the spotlight rules work is very\nwritten very discreetly, and I think\nsome people have taken this too\nliterally\nwhere the players have the spotlight.\nThey pass it between them until somebody\nrolls with fear or fails a roll or the\nGM spends a fear. And I've seen a lot of\npeople write it just like that. I've\nseen that in Reddit. I've seen that in\nexamples even on the internet, even on\nYouTube, I should say. For starters,\nthat is patently not the case. The real\nanswer is that the GM can and should uh\ntake the spotlight whenever they want,\nbut they could take the spotlight and\nthey will take the spotlight not only\nwhen they spend a fear or when the\nplayers roll with fear or when the\nplayers fail a roll, but also whenever\nthe players are looking to you to see\nwhat happens. whenever the players give\nyou a golden opportunity or whenever\nthere are natural consequences that\nwould follow from the player's actions.\nNow, I know that might seem weird to\nconsider these things GM moves. The term\nGM move is a it's an old PBTA framework,\nbut really what it means is the GM is\ntelling you what's happening and what is\ngoing on.\nMy core cons, my core belief is that as\nthe director of this story, the GM can\ndo a lot better of a job of sending the\nspotlight to where it needs to be. And\nwhat that means is a couple of things.\nNumber one, during combat or during\nmoments of extreme tension, I like\nto\ncontrol the spotlight. I view giving the\nplayers the opportunity to sort of\ndecide amongst themselves\nwho should do what is almost more of\nlike a an indication that we aren't in a\nvery tense situation that we have a lot\nof time. You could think of it as in\ncharacter and out of character. We have\ntime to sort of discuss our options and\nfigure out what the best move is and all\nthese other factors. Okay. I don't think\nthat moments of combat or, you know,\ntension, a chase are those times. So, as\na GM, what I like to do is I control the\nspotlight. So, for example, after a uh\nplayer, whether it's me or another\nplayer, PC, uh finishes a move or does\nsomething, you know, similarly, I'm\nthinking about it in terms of a\ndirector, and I might cut to Aaron and I\nmight say, you know, all right, Aaron,\nyou finish casting the fireball and it\nrips through the ranks of the minions.\nKer, what are you doing? cuz Aaron\nrolled with hope and I want to keep the,\nyou know, thing the sort of the story\nmoving. And I go, Kister, the fireball\nis streaking towards through the air\nabout to rip apart the minions. What are\nyou doing? And Kristor's like, oh, okay.\nI I I need to go. Instead of the action\nstopping and the player's going, uh, who\nshould go next? Who should keep going?\nUh, do you want to go? No. Do you want\nto Who wants to go? Do you want to go?\nDo you do you want to go? Well, I I just\nwent, but I would go again. And I would\nalso go again. And I would also go\nagain. I see a lot of people having all\nthese debates about it and then the game\nsays things like, \"Oh, maybe you should\nuse an action card tracker and track how\nmany actions people have taken or just\ndo none of that and just control the\nspotlight as the GM.\"\nNow, you can keep a mind towards\nfairness. If you really need help, you\ncan maybe make little check marks about\nhow many times a given player has taken\nan action, but I don't even necessarily\nlike doing that. Man, there's a lot to\ntalk about talk talk about in this this\n15-minute segment because one of the\nthings that I measure, I don't measure\nturns. I don't measure actions. I\nmeasure impact,\nright? I measure impact. You know, in\ncomplete fairness, I mean, this isn't\nreally true, but let's say that you had\na rogue character and you give them the\nspotlight and they take an action and,\nyou know, they miss and nothing happens,\nright? Or something like that. And then\nyou give them another action and they\nmiss and nothing happens. and you give\nthem another action and they miss and\nnothing happens. So they've taken three\nturns and they've done nothing. And then\nmeanwhile, you've spotlighted the wizard\nthree times and they have casted\nfireball three times and they have\nripped through a group of minions. They\nblew up a bunch of uh standard monsters\nthat were standing too close to each\nother and they wiped out an a siege\nengine that was being brought to bear\nduring the fire. And you're like, \"Okay,\nso they've each taken three actions.\nThey've each taken three moves,\nbut did they have equal weight? And the\nanswer is no. So, we need to divorce\nourselves from that D&D uh mentality. Dn\nD mentality is very um it's almost it's\nvery like it's almost very\nconservativism, right? Like it's like,\nhey, I gave everybody an equal chance.\nYou had three turns. You had three\nturns. Not my fault that you didn't take\nadvantage of those three turns and that\nyou missed a lot. Maybe you should make\na better character and get good, son.\nthat mentality\nvery bad. So this is this is not about\ngiving the players opportunities. It's\nabout giving the players actual impact.\nSo for me as a GM, this is why just\nkeeping check marks I don't think is a\nvery accurate way to do this. I'm paying\nattention and I want to see how much\nsatisfaction and engagement that\nparticular player has.\nIf I'm watching the table and I see that\nsomebody is their attention is starting\nto flag, maybe they're starting to look\na little bored, boom, I might give them\nthe spotlight right away. I was going to\ntake a bunch of fear moves. Instead, I\nthrow the spotlight back to them and I\nask them what they're doing. If somebody\nhas an unbelievable turn and they have a\nhuge impact on the the battlefield and\nthere's another player who hasn't really\ndone a lot, I'm going to go to that\nplayer. I don't care how many moves\nthey've taken, right? I don't care that\nthe last time I gave them the spotlight,\nthey tried to move across the the\nbattle. You know, their action was I\nmove across the the the battlefield.\nYeah, you didn't really do anything.\nCool. You succeeded. You succeeded with\nhope, but I'm going to respot that\nplayer. I'm going to keep the I want to\nkeep the camera on them. Okay?\nYou know, because they didn't do\nanything. Imagine in a movie if you just\nsh you know, the camera pans over to a\ncharacter and you're like, and then it,\nyou know, it's an exciting action scene\nand it pans over to a character and they\ndon't really do anything and then it\ncuts back and you're like, wait, what\nwas the point of that scene? you know,\nso I think it's really important to\nrealize that you need to sort of manage\nthe spotlight and take advantage of that\nand it makes it feel much more punchy,\nyou know, and yes, you are entrusting\nthe GM to have control. Now, as I've\nsaid before, you can use this as a\nlever. Let's say the the enemies are on\ntheir back foot, maybe they're starting\nto fall back, and the players, you can\neven think of it in the fiction, right?\nthe players are kind of they they almost\nhave a moment to take a breather, you\nknow, they kind of like Avengers\nassembled, you know, they kind of have\nlanded, you know, on the hill, my, you\nknow, to me, my X-Men, and they actually\nhave a brief moment to sort of do like\nthat scene in the first Avengers movie\nwhere they're in the middle of a combat,\nbut they kind of regroup and, you know,\nCaptain America calls out the things,\nyou know, you know, Hawkeye call out\nstrays, Stark blasted or turned to ash,\nHulk smash, right? In that world, the\nthe adventures have sort of gained the\ninitiative. they've gained the momentum\nand now as a GM I might turn to the\nplayer group and kind of give them in\ngame and out of game a moment to sort of\nstrategize and table talk and it'll feel\nlike okay we have a breather here we\nhave a moment to discuss it's not as\nhectic it's not as panicked we can\nactually kind of think about our\nstrategy a little bit okay and then and\nthen we can press into it but if you run\nuh you know we have uh IA chat who says\nif run spotlight by committee. I promise\nyou combat is going to slow down and\nit's going to be a horrible, terrible\ngrind. It's one of the reasons I don't\nlike some of some of the popcorn\ninitiative systems where it's like, oh,\nthe players will decide who goes next.\nThat's great in theory, but it tends to\nlead to a lot of, you know, consensus.\nUm, and uh, you know, so as a result of\nthat, I think that's really important.\nBut the other thing that's really\nimportant is as a GM\nwhen you're managing that spotlight,\nrealize that just because it's a just\nbecause it's a player's turn doesn't\nmean that you can't interrupt them and\nask another player what they're doing.\nSo another thing that I do with my\nspotlight management is I kind of do\nwhat I will call uh you know half\nactivations where I might give the turn\nyou know give give the spotlight to Alia\nand I say you know Alia what are you\ndoing and Alia says I'm going to move\nforward and I'm going to start to cast\nI'm going to cast fireball and I'm going\nto ripen through those ranks of minions.\nNow, normally the spotlight would stay\non her and we would resolve her duality\nrole and we would see what result it\ngot. Fear, hope, success, whatever. Then\nwe would proceed to the next player.\nThat's the way that standard D and D\nterms. But we don't have to think like\nthat anymore because there's no\ninitiative order. So now that I've\nconfirmed what Alia's doing, right? And\nwe can think of it in the fiction. She's\nstarting to weave fire magic. It's\nstarting to gather around her. I can\nthen whip pan and I can cut to, you\nknow, Zen bullet and I can say, \"Zen,\nAlia's beginning to draw fire into\nherself to cast a fireball on those\nminions. What are you doing while she's\ndoing that?\"\nAnd then Zen Bullet tells me what he's\ndoing. And then I cut back to Alia and\nhave her make her roll. And then we see\nthe result of that. And that informs the\nfiction of what happens with what Zen\nBullet's doing. And we can use our\nspotlight management not just as a way\nto manage initiative, but as a way to\nmanage the camera and a way to to frame\nthis story in a way that is is exciting\nand and you know, it's going to make the\nplayers feel engaged and active. And if\nyou don't know if the GM is just going\nto point at you suddenly and ask you\nwhat you're doing, you bet your ass\nyou're going to be engaged because at\nany minute you could suddenly be on the\nspot and that means you need to pay\nattention and that means you need to be\nengaged. So, you know, as the spotlight,\nsure, it's your turn, but it's more of\nlike your moment to make an impact. And\nas a GM, during very intense scenes\nwhere I want to keep the pacing fast and\nfurious, where I want to make\nuncertainty a part of the attention a\npart of the feeling of the scene, I tend\nto manage the spotlight. So that doesn't\nmean necessarily that the player should\nhave no impact on it, but it should be\nsomething that they earn in those scenes\nrather than uh you know sort of\nuh uh you know have to fight for it and\nsort of you know advocate on behalf of\nthe players.\nSome player groups, they may be totally\nfine and they might say, \"Oh, I do this\nthing and then oh, you go next and you\ngo next and you go next.\" That's fine.\nBut also realize something. Every time a\nplayer finishes a move, this is the last\nthing I'm going to say about dynam\nspotlight movement. I promise you, every\ntime that a player finishes a move, even\nif they roll success with hope, even if\nthey roll a critical success,\nper the rules of the game, the spotlight\nstays with the players. It doesn't go to\nthe GM. and then the next player goes,\n\"That's wrong.\" I promise you, after a\nplayer completes their action, I promise\nyou, they are going to look to you to\nsee what happens because they're going\nto want to know, uh, did did the did the\nmonsters did it die?\nUh, you know, did uh did the bridge I\nshot a fireball at blow up? They are\ngoing to look to you to see what\nhappens. And that means almost by def\ndefinition, every time the players do\nanything, even if they succeed with\nhope, even if they critically hit,\nthey're going to look to you, see what\nhappens, which means you can make a GM\nmove.\nSo again, you can make a GM move\nwhenever you want. But what I'm saying\nis the the world in which the spotlight\nstays with the players continuously\ndoesn't exist. Whether you know it or\nnot, the spotlight is always bouncing\nback and forth between you and the\nplayers. So, as a GM, you have that\nability. When the players complete a\nmove and it's and they look to you, to\nsee what happens, make a move. You could\ntechnically make whatever move you want.\nI recommend making a soft move. We'll\ntalk about that in a later video, but\nultimately, your job is to update and\nreinforce and change the fiction and\nthen push the spotlight back. So again,\neven in a world where you're following\nquote unquote the rules, I promise you\nthe spotlight is bouncing around a lot\nmore than you think it is. And uh as a\nresult, the game, especially your\ncombats, which is an important part of\nDaggerheart, it doesn't, you know, it's\nvery honest about that. Uh will feel way\nmore dynamic and it's going to feel much\nmore like an action movie and it's going\nto feel a lot more high-paced,\ntensionfilled, and dramatic. And in this\ngame, that is definitely what we want to\naccomplish.\n"
+}

@@ -1,0 +1,24 @@
+[
+	{"label": "tercet",
+	"aliases": ["terzina", "terza rima"],
+	"qid": "Q1353779",
+	"number_of_verses": 3
+	},
+	{"label": "quatrain",
+	"aliases": ["quartina"],
+	"qid": "Q570948",
+	"number_of_verses": 4
+	},
+	{"label": "cinquain",
+	"aliases": ["cinquina"],
+	"qid": "Q878026",
+	"number_of_verses": 5
+	},
+	{"label": "sizain",
+	"aliases": ["cinquina"],
+	"qid": "Q131575844",
+	"number_of_verses": 6
+	},
+
+
+]

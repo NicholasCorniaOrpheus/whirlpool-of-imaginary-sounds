@@ -1,0 +1,627 @@
+All right, now that we've blown up that
+room, let's go through the next door. As
+you open the door, you see four goblins
+crouched in the center of the next
+chamber. They're gathered around a crude
+fire, cooking a pot of stew. A thick,
+meaty smell wafts over you. But as the
+hinges of the door creek, the goblins
+whirl around, drawing their sword on a
+sec. If they heard the door creek, how
+did they not hear the giant explosion in
+the room next door 30 seconds ago? What?
+or the fight before that, right? I mean,
+why didn't they come help their friends
+or or fetch reinforcements or or run
+away? Oh crap, I think we broke the
+[Music]
+DM. As a game master, the great thing
+about a dungeon is that it's firewalled.
+When you're running a dungeon, the only
+thing you need to look at is the room
+the PCs are currently in. It's super
+simple. Everything you need is right at
+your fingertips. The drawback, of
+course, is that this results in a very
+static scenario. If the PCs are fighting
+goblins in area 43, it feels like the
+goblins in area 44 should hear them and
+come rushing over to help, but because
+they're behind the firewall because the
+GM is only looking at area 43, they
+don't. That's the limitation of a static
+dungeon. So, you want to be a game
+master, on the other hand, teaches you
+how to run dynamic dungeons. This seems
+pretty simple. You think to yourself,
+"Okay, when there's a fight, I should
+scan nearby rooms to see if there's
+anyone who might hear what's happening."
+And if you've gained enough experience
+as a game master, and if there are only
+one or two rooms nearby, you can
+probably make that work. It's definitely
+harder. You're you're having to flip
+back and forth between different room
+keys, but it's manageable. But what if
+there are more rooms? What if there are
+five or six or or 10 rooms within
+Airshot? And what if instead of being
+areas 43 and 44 right next to each other
+in your notes, there's also areas 52,
+63, 57, and 84. That's getting a lot
+harder to juggle. And we've just gotten
+started because so far we've only
+considered the simple case of having the
+bad guys hear the fight and then come
+rushing to help. But what if the modron
+over in Area 57 decides the most logical
+course of action is to fetch
+reinforcements? Where would it go to
+find them? And now you're not just
+flipping around trying to find nearby
+bad guys to activate. You're flipping
+through the whole dungeon trying to
+figure out where the nearest barracks
+are. And and what would the response of
+the goblins in the barracks be and what
+other areas will be affected by them as
+they start looking for the PCs. You can
+see how quickly this becomes completely
+impossible even for the most experienced
+game masters. We separated these rooms
+because we can't run them all at the
+same time. The firewall is too valuable
+to run a truly dynamic dungeon. a
+dungeon teeming with life and activity
+and strategic complexity, you know,
+without driving ourselves crazy. We need
+a fundamentally different approach and a
+new set of tools. Now, one tool we could
+use is a random encounter table. Rolling
+a random encounter won't make the
+goblins in Area 44 check out what's
+going on next door, but it will add
+active monsters to your dungeon. It'll
+break up the idea that the monsters are
+just, you know, sitting in their rooms
+passively waiting for the PCs to come
+and kick down their door. We'll talk
+more about breathing life into your
+random encounters in an upcoming video.
+So, hit the subscribe button in the font
+of all knowledge to make sure you don't
+miss out on that. But what we're going
+to talk about today are adversary
+rosters. When we add monsters to a
+dungeon, we add them to our adventure
+key. And because the primary thing that
+we key or describe in a dungeon scenario
+is the room, we add our monsters to
+specific rooms. These are the goblins in
+the library. These are the security
+guards in the op center. And when we do
+this, it's easy to fall into the trap of
+thinking of the monsters as belonging to
+that room. But our whole goal with a
+dynamic dungeon is to not have the
+denisins tied down to a specific room.
+We want them free to move around and
+respond to events in the way that real
+people do. So, we shouldn't key them to
+specific rooms. We need a different way
+of keying them, of adding them to our
+adventure notes. And that's the
+adversary roster. I mean, it's
+ultimately just a list of dungeon
+denisens separate from the room key. The
+basic building block of the adversary
+roster is the action group. Now, you
+really want to track every single
+individual in the dungeon, so you group
+them together for easier management. Of
+course, some of your action groups can
+be just a single guy if that's what's
+most useful or makes the most sense for
+the scenario. You'll also list the
+starting location for each action group.
+Most of the time, an action group will
+consist of of all the adversaries in a
+single location at the beginning of the
+adventure. But sometimes you'll want to
+take a really big group and split it up
+into smaller units. For example, maybe
+there are a dozen goblins in the
+barracks. Rather than one big group of
+12, it it might make more sense to have
+two action groups of six. And now
+figuring out whether to use one action
+group or multiple action groups is is
+pretty much entirely utilitarian. Do you
+think that the group is likely to split
+up and take independent action? Well,
+then it should be two action groups. And
+if not, then it should be one. The other
+key thing here is that the action groups
+are only listed on the adversary roster.
+They're not listed in the room keys
+anymore. Instead, when you're running
+the adventure, you look up both the room
+key, which describes the room, and then
+check the adversary roster to see if
+there's an action group there. And if
+there is, then you you obviously just
+include the action group in your
+description of the room. And the great
+thing, of course, is that you can use
+the adversary roster to very quickly
+figure out where everyone is in the
+dungeon. And you can also easily move
+those action groups around, actively
+responding to the PCs and their actions.
+All you have to do is periodically
+update the adversary roster with the
+group's current location. Now, this
+does, of course, increase the complexity
+of running the scenario, but but it's
+not the exponential cascading increase
+that we saw before. You're no longer
+looking at just one room key at a time.
+But instead of trying to juggle five
+dozen room keys all at once, you can
+usually limit yourself to looking at
+just the dungeon map, the current room
+key, and the adversary roster. You can
+still keep all the information you need
+right at your fingertips. Now, when I'm
+actually running my action groups, I
+tend to think of them as belonging to
+one of several types. First, you've got
+mobile groups. These are kind of the
+default. They're keyed to a specific
+location, but are are generally willing
+and able to respond to the activities of
+the PCs, wherever they may be. An
+example of this is when one of the
+goblins from area 4 flees to tell the
+ogre in area 14 what's happening. Uh,
+the ogre and his two henchmen are
+another action group, and while they
+start setting up an ambush for the PCs,
+the ogre orders the goblin to fetch the
+scale mages from area 8. Now, the second
+type of action group is the patrol.
+These groups make regular circuits
+through a dungeon. Uh, for example, when
+the goblin survivor arrives in area 8, I
+might note that in addition to the scale
+mages, there's also a guard patrol that
+passes through this area. While the
+scale mages go to answer the ogre king's
+call, the guard patrol, alerted to the
+PC's presence, rushes off to fetch their
+battle or maybe something completely
+different, right? I mean, these aren't
+scripted events. The whole point is that
+the adversary roster empowers you to
+actively play the dungeon in response to
+the PC's actions. I mean, if the PCs had
+stopped that original goblin from
+escaping, none of this would be
+happening. Now, now, as far as patrols
+are concerned, though, you can indicate
+the areas they're patrolling in the
+notes section of your adversary roster.
+You can use these notes for for all
+kinds of useful stuff. Uh, for example,
+uh maybe this action group is carrying a
+key to the dwarven vault in area 23, or
+or maybe one of your action groups is
+currently asleep. When we're talking
+about patrols, I'll often list their
+specific route. uh for example, they
+might go from area 8 to area 9 to area
+12 to the vault in area 23 and then back
+to area 8. Now, our third type of action
+group is mostly stationary. These groups
+are unlikely to leave the area they're
+keyed to. They they just won't respond
+when the alarm is raised for for
+whatever reason. This might be a choice
+on their part or or it might not. Our
+battle wars are an example of this. the
+the goblins keep them in a kennel. So
+unless some of the goblins go and fetch
+them, the wars will stay where they are
+until the PCs show up. Adversaries
+waiting in ambush are another common
+example of this type. They might go on
+the move if it makes sense, but they're
+far more likely to wait until the PCs
+come to them so that they can spring the
+ambush they have planned. Now, because
+it's still very possible for mostly
+stationary action groups to become
+mobile, I'll definitely list them on my
+adversary roster. But because they're
+less likely to move, I'll indent their
+entries to clearly distinguish them from
+more active groups. Finally, we have
+stationary adversaries. These are groups
+which will never leave the location
+they're in. And because they'll never
+leave the location they start in, I
+actually won't include these adversaries
+on the roster. Instead, I'll just list
+them in the appropriate room key. I
+mean, after all, if they'll only be
+encountered in that room no matter what,
+there's no reason to clutter up the
+roster with them. Stationary groups
+might include uh literally immobile
+creatures, uh those simply uninterested
+in the rest of the complex, or creatures
+that are sealed away until the PCs
+disturb them. Of course, if the PCs
+unleash the mummy queen sealed within
+the lower vault and then run away, I
+might add the now very active mummy
+queen to my adversary roster for the
+rest of the adventure. And this is
+actually another cool thing about
+adversary rosters. They make it super
+easy to restock your dungeons as the
+denisins are are killed, replaced, or
+retasked. Because you've separated the
+denisins from the key, you don't need to
+go through and rekey every room with new
+monsters. You can just create a new
+adversary roster, often using the exact
+same room key or a key with minimal
+changes. For example, the PCs attack the
+ogre king's domain and they retreat. The
+ogre knows they're coming back, so he
+calls in the goblin hunting parties from
+the surrounding countryside. When the
+PCs do in fact return, they find the
+whole layer reinforced and all you
+needed to do was spend five minutes
+creating a new roster listing the
+reinforcements. I mean, that's so easy
+you could do it in the middle of a
+session. And maybe on the second
+expedition, harried by goblin patrols
+and scale mages, the PCs are forced to
+flee into the lower vault. And there
+they awake the mummy queen before making
+their escape once more. And this time
+when they come back, they discover that
+the mummy queen has slain the ogre king,
+usurped his rule, and raised the goblin
+dead as scarab zombies. And at this
+point, the dungeon is anything but
+static. But but we've also got lots and
+lots of action groups running around. So
+So how do we keep track of them all?
+Now, most of the time, you can just use
+the adversary roster itself, writing
+down each group's location, then
+updating it when they move. Uh but here,
+come take a peek at this. If you print
+out a copy of your dungeon map, you can
+lay it out on the table in front of you,
+just like a table map. And then you can
+use numbered chits like this to identify
+the location of each action group. All
+you need to do is number each of your
+action groups on the adversary roster.
+And you can even move them around the
+dungeon like you were playing a board
+game or something like that. Now, in
+this case, we have a caravansery, a
+two-story building with balconies
+looking down onto lower floors and and
+windows looking down into the courtyard.
+If a fight breaks out down here in the
+courtyard, which of the bad guys inside
+the building will be able to see what's
+happening? Now, with the counters and
+the adversary roster, it becomes easy
+for you to see that there are archers in
+area 15, and area 20 who have windows
+that look down into the courtyard. You
+can also see that there are
+reinforcements in the stables in area 7,
+and the dining hall in area 3 who can
+come rushing out to help reinforce the
+gate guards at the front of the
+caravansai. The entire Kuravanserai is
+trivially transformed into a dynamic
+multi-level theater of operations. In
+fact, is this whole fight here in the
+courtyard just a distraction to pull the
+guards from the rear gate in area 9 up
+and around into the courtyard while a
+different group of PCs sneaks in through
+the back gate and tries to gain secret
+entrance into the caravansery? And if
+so, will the guards up here in area 16
+be able to look out the windows and see
+the PCs passing below? Maybe. Numbered
+counters are pretty easy to find. You
+can also make your own by printing out
+numbers and gluing them to washers or
+quarters or something like that. You
+want something with a little bit of
+weight, though, so that your action
+groups don't get blown away by a passing
+wind elemental. If you're using a
+virtual tabletop, of course, it can be
+even easier to set this up. If you do
+the prep work to place all your monsters
+on the scenario map before play begins,
+you can just zoom out and manage them in
+real time. It can also help to prep stat
+block sheets for your action groups.
+Depending on the role playing game
+you're using, you might be able to put
+the stats for all of your action groups
+on a single sheet, but if you're playing
+a game with more complicated stat
+blocks, you might need to do a separate
+sheet for each action group. Either way,
+no matter where the PCs encounter the
+action group, you'll be able to easily
+grab the relevant stat blocks. In fact,
+you can put that sheet on the table
+right next to your dungeon map. Now that
+you've got all your action groups on the
+move, though, one pitfall you can fall
+into is having everybody in the dungeon
+immediately swarm the PCs. Now,
+sometimes that's the logical outcome of
+the PC's actions, and that's fine. Your
+players will quickly learn to take
+approaches that don't result in that
+happening and to retreat and regroup if
+it does. But in running a dynamic
+dungeon, you should bear in mind the fog
+of war. Even if the PCs attack one
+action group, it doesn't necessarily
+mean that everyone in the dungeon will
+immediately know what's happening. And
+even if the alarm does go up, some
+action groups may be assigned to guard
+other areas or simply have no idea
+exactly where the crisis is happening,
+particularly if the PCs are on the move.
+The adversary roster gives you the
+opportunity to roleplay the entire
+dungeon. Seize that opportunity. Really
+think about what each adversary or group
+of adversaries knows and what they would
+do with that knowledge. And while you're
+role-playing each action group, look for
+opportunities to seek the new status quo
+for them. In other words, just because
+an action group has been set in motion,
+it doesn't mean they have to stay in
+motion. When the ogre king sends a squad
+of goblins to guard the dwarven vault,
+those goblins will go to the vault and
+then they'll stay at the vault. Once
+that happens, you can stop thinking
+about them, or at least you can stop
+thinking about them until the PCs do
+something to set them into motion again,
+right? Finding this new status quo and
+letting action groups uh settle down is
+a vital technique for keeping the number
+of action groups you're currently
+juggling under control down to a
+manageable number. In fact, if you're
+ever in a situation where you feel like
+your adversary roster is getting out of
+control, that just means that you need
+to identify which action groups can
+logically go back into a holding
+pattern. Whether that's stopping in one
+room, establishing a new patrol pattern,
+or going back to their original one. Of
+course, the more practice you get
+running scenarios with adversary
+rosters, the more action groups will
+become comfortable running at the same
+time. There are also a bunch of advanced
+adversary techniques that I share. And
+so you want to be a game master and
+you'll be able to take advantage of
+those after you master basic adversary
+rosters. Once you start running dynamic
+dungeons, one of the things you'll
+discover is that you'll also need to
+start thinking differently about
+encounter design. When you're running
+static dungeons with isolated
+encounters, you need each individual
+encounter to be challenging in its own
+right. Because the players are more or
+less free to reset their resources after
+every encounter. Every fight needs to
+push the PCs to the brink and threaten
+disastrous defeat because otherwise what
+would be the point? When you're running
+a dynamic dungeon, on the other hand,
+the primary challenge comes not from the
+tactics of the individual encounter,
+although these are still important, but
+from the strategy of the entire dungeon.
+It's not enough to win the battle. You
+have to win the war. It's a richer and
+deeper style of play. And the core
+concept here is combining encounters.
+Obviously, when you're running dynamic
+dungeons, whether you're using adversary
+rosters or some other tool, multiple
+action groups can join together into a
+single encounter. If you design each
+action group as if it were a skin of
+your teeth static encounter, then when
+two or more of those action groups merge
+into a single dynamic encounter, they'll
+annihilate your PCs. What you generally
+want instead are action groups that if
+encountered alone are relatively easy
+encounters, but that can become
+increasingly dangerous encounters if
+they are allowed to join together. This
+means that you as the game master don't
+need to pull the bad guys punches, which
+in turn creates a strategically
+interesting scenario, baking in the
+default strategic goal of don't let them
+gang up on us. This is a fairly basic
+goal of course, but one that can support
+a lot of different solutions depending
+on the circumstances. The players might
+use stealth, overwhelming strikes,
+negotiation, or you know, anything else
+they can imagine. More importantly, it
+builds a firm foundation on which more
+complicated and custom strategies can be
+built. The principles of dynamic
+encounter design are are pretty
+straightforward. First, you usually
+don't want an encounter with one big bad
+guy. These can be a nice change of pace,
+but single opponents are difficult to
+keep balanced and tactically interesting
+against a gaggle of PCs. It's better to
+have encounters with lots of opponents
+to provide tactical complexity. Second,
+encounters with a single action group
+will likely have little immediate risk,
+but they'll still require some strategic
+ablation of resources. In other words,
+an encounter with one action group
+should be able to wear the group down.
+The PC should lose a few hit points,
+need to cast some of their spells for
+the day, and that sort of thing. An
+encounter with two or three action
+groups, on the other hand, should be a
+challenge encounter, but a risky one.
+When four or five action groups all join
+together, however, that's when things
+are going to get tough. The PC should
+still be able to win the fight, but it
+may be touchandgo for a while or require
+some clever thinking by the players.
+You'll be helped here because such
+encounters usually develop over time
+with the fourth or fifth action groups
+joining in the middle of combat, which
+means the PCs won't be facing all the
+bad guys at the same time. Now, what you
+can see from these principles is that a
+dynamic dungeon empowers you to have a
+larger range of potential encounters,
+ranging from the easy to the extremely
+difficult without any of those
+encounters becoming meaningless filler.
+Exactly how these principles will apply
+in a specific role- playinging game will
+depend on exactly how that game is
+designed. In D&D fifth edition, for
+example, most of your action groups
+should be designed as low difficulty
+encounters. Use moderate difficulty
+action groups sparingly. Uh the key
+thing to remember is that a couple of
+moderate difficulty action groups
+joining up together can very easily
+become an ultra lethal encounter. That's
+why you want to use them as a as a light
+spice. High difficulty action group
+should almost never be used. You're
+almost always better off letting such
+encounters emerge from the strategic
+flow of the scenario. But this does mean
+that when you roll out the very rare
+high difficulty encounter, particularly
+in non-dynamic situations, you're going
+to get real bang for your buck. They
+have a cave troll. Now, if you're
+playing a different role playing game
+and and the game gives you similar
+concrete guidelines for gauging
+difficulty, you can probably use those
+as a basis for dialing in the encounter
+design that you need. If it doesn't,
+then you'll need to experiment a bit to
+figure out what easy, challenging, and
+potentially overwhelming encounters look
+like and the various ways you can split
+them apart into effective action groups.
+Now, as always, your group's mileage may
+vary. Clever and resourceful players may
+find ways to dominate your dungeons. If
+that's happening regularly at your
+table, feel free to crank things up a
+bit until you find the sweet spot for
+you and yours. Now, it may help to keep
+in mind that you have to miss by a lot
+and for a very long time before too easy
+will ruin your campaign, but you only
+have to miss once and by a little bit
+for too hard to cause a TPK. It may also
+be useful to remember that successfully
+slipping through a situation unscathed
+that you know could have turned into a
+complete cluster can be a thrilling
+edge of your seat thrill ride for your
+players and perhaps a welcome change of
+pace from all the cluster that
+will inevitably happen in every other
+scenario. Now, one of the key things to
+really grock about dynamic dungeons is
+that to at least some extent, it gives
+the players a degree of control over the
+encounters they face. With sufficient
+strategic cleverness, they can even
+design their own encounters, keeping
+encounters easy by preventing action
+groups from joining together, luring
+enemies to locations of their choosing,
+and so forth. This is very different
+from a static dungeon where the
+encounters are are locked to specific
+rooms and you as the game master are
+solely responsible for designing every
+single aspect of them. In a dynamic
+dungeon, it's not your job to crush the
+PCs. It's your job to set the stakes
+high and give them the opportunity to
+screw up and push themselves to the
+breaking point. Now, on the other hand,
+not every dungeon needs to be or should
+be a dynamic one. Adversary rosters are
+a technique for locations with active
+bad guys. Not every dungeon needs a
+roster. Sometimes the PCs really are
+cracking open dusty tombs that have lain
+undisturbed for centuries, and they have
+only themselves to blame when they
+awaken the Eldrich horrors within.
+Variety is the spice of life, after all,
+and good scenario design is often about
+finding the right tool for the job.
+We'll be exploring more ways to advance
+your dungeons in future five-star
+dungeon videos. So, make sure to hit the
+subscribe button before it fetches
+reinforcements and grab your own copy of
+So You Want to Be a Game Master at the
+links below. Good gaming. This is Justin
+Alexander and I'll see
+you at the

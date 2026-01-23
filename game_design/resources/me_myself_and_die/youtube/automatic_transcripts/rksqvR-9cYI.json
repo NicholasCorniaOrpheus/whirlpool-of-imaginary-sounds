@@ -1,0 +1,1955 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:05,960",
+      "end_time": "00:00:09,030",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:11,620",
+      "end_time": "00:00:16,430",
+      "text": "well hello again everyone long time no"
+    },
+    {
+      "start_time": "00:00:14,420",
+      "end_time": "00:00:19,250",
+      "text": "see I am Trevor to Val this is me myself"
+    },
+    {
+      "start_time": "00:00:16,430",
+      "end_time": "00:00:21,050",
+      "text": "and I this is a little supplemental"
+    },
+    {
+      "start_time": "00:00:19,250",
+      "end_time": "00:00:23,000",
+      "text": "series I'm doing that's going to address"
+    },
+    {
+      "start_time": "00:00:21,050",
+      "end_time": "00:00:25,160",
+      "text": "some of the behind the scenes elements"
+    },
+    {
+      "start_time": "00:00:23,000",
+      "end_time": "00:00:27,080",
+      "text": "of the supplements that I used during"
+    },
+    {
+      "start_time": "00:00:25,160",
+      "end_time": "00:00:29,029",
+      "text": "the show a lot of you had asked about"
+    },
+    {
+      "start_time": "00:00:27,080",
+      "end_time": "00:00:31,419",
+      "text": "you know how did the emulator work have"
+    },
+    {
+      "start_time": "00:00:29,029",
+      "end_time": "00:00:34,129",
+      "text": "the perilous wilds work and the GM"
+    },
+    {
+      "start_time": "00:00:31,419",
+      "end_time": "00:00:36,050",
+      "text": "source books and all the stuff I use so"
+    },
+    {
+      "start_time": "00:00:34,129",
+      "end_time": "00:00:38,360",
+      "text": "basically before we get rolling into"
+    },
+    {
+      "start_time": "00:00:36,050",
+      "end_time": "00:00:41,120",
+      "text": "season 2 and we are going to get rolling"
+    },
+    {
+      "start_time": "00:00:38,360",
+      "end_time": "00:00:42,410",
+      "text": "into season 2 make no mistake but I"
+    },
+    {
+      "start_time": "00:00:41,120",
+      "end_time": "00:00:44,989",
+      "text": "thought I'd address some of these things"
+    },
+    {
+      "start_time": "00:00:42,410",
+      "end_time": "00:00:47,000",
+      "text": "whilst I have some time on my hands as I"
+    },
+    {
+      "start_time": "00:00:44,989",
+      "end_time": "00:00:49,790",
+      "text": "think we all do with the miramont most"
+    },
+    {
+      "start_time": "00:00:47,000",
+      "end_time": "00:00:51,680",
+      "text": "of us anyway so I thought I would look a"
+    },
+    {
+      "start_time": "00:00:49,790",
+      "end_time": "00:00:53,239",
+      "text": "little deeper into some of the"
+    },
+    {
+      "start_time": "00:00:51,680",
+      "end_time": "00:00:56,030",
+      "text": "supplements I used kind of do like a"
+    },
+    {
+      "start_time": "00:00:53,239",
+      "end_time": "00:00:58,489",
+      "text": "mini capsule review of some of them some"
+    },
+    {
+      "start_time": "00:00:56,030",
+      "end_time": "00:00:59,869",
+      "text": "of the more major ones just answer some"
+    },
+    {
+      "start_time": "00:00:58,489",
+      "end_time": "00:01:02,180",
+      "text": "of your questions to give you a sense of"
+    },
+    {
+      "start_time": "00:00:59,869",
+      "end_time": "00:01:03,290",
+      "text": "how these things actually work behind"
+    },
+    {
+      "start_time": "00:01:02,180",
+      "end_time": "00:01:06,350",
+      "text": "the scenes so the first one we're using"
+    },
+    {
+      "start_time": "00:01:03,290",
+      "end_time": "00:01:08,240",
+      "text": "is of course the mythic Game Master"
+    },
+    {
+      "start_time": "00:01:06,350",
+      "end_time": "00:01:10,869",
+      "text": "emulator this is the granddaddy of them"
+    },
+    {
+      "start_time": "00:01:08,240",
+      "end_time": "00:01:12,979",
+      "text": "all this is the one that determines"
+    },
+    {
+      "start_time": "00:01:10,869",
+      "end_time": "00:01:13,850",
+      "text": "everything else basically we'll just"
+    },
+    {
+      "start_time": "00:01:12,979",
+      "end_time": "00:01:15,619",
+      "text": "kind of go through it I'm not going to"
+    },
+    {
+      "start_time": "00:01:13,850",
+      "end_time": "00:01:17,450",
+      "text": "go through every page or anything like"
+    },
+    {
+      "start_time": "00:01:15,619",
+      "end_time": "00:01:19,340",
+      "text": "that I'm just gonna hit on what I feel"
+    },
+    {
+      "start_time": "00:01:17,450",
+      "end_time": "00:01:22,789",
+      "text": "to be sort of the most important things"
+    },
+    {
+      "start_time": "00:01:19,340",
+      "end_time": "00:01:26,060",
+      "text": "that that I felt was necessary for my"
+    },
+    {
+      "start_time": "00:01:22,789",
+      "end_time": "00:01:27,679",
+      "text": "game in my show so first of all mythic"
+    },
+    {
+      "start_time": "00:01:26,060",
+      "end_time": "00:01:29,210",
+      "text": "adventures there are three different"
+    },
+    {
+      "start_time": "00:01:27,679",
+      "end_time": "00:01:31,009",
+      "text": "kind of ways you can use this one you"
+    },
+    {
+      "start_time": "00:01:29,210",
+      "end_time": "00:01:33,950",
+      "text": "can use it solo like I did during the"
+    },
+    {
+      "start_time": "00:01:31,009",
+      "end_time": "00:01:37,520",
+      "text": "the story of Simon another way you can"
+    },
+    {
+      "start_time": "00:01:33,950",
+      "end_time": "00:01:39,950",
+      "text": "use it is in a proper live-action game"
+    },
+    {
+      "start_time": "00:01:37,520",
+      "end_time": "00:01:41,719",
+      "text": "where you're running a bunch of other"
+    },
+    {
+      "start_time": "00:01:39,950",
+      "end_time": "00:01:44,060",
+      "text": "players it's really great for that I use"
+    },
+    {
+      "start_time": "00:01:41,719",
+      "end_time": "00:01:46,130",
+      "text": "it all the time in my games with my"
+    },
+    {
+      "start_time": "00:01:44,060",
+      "end_time": "00:01:49,009",
+      "text": "friends in other cities where we get"
+    },
+    {
+      "start_time": "00:01:46,130",
+      "end_time": "00:01:51,079",
+      "text": "together online or even here when I run"
+    },
+    {
+      "start_time": "00:01:49,009",
+      "end_time": "00:01:52,909",
+      "text": "games in person remember that remember"
+    },
+    {
+      "start_time": "00:01:51,079",
+      "end_time": "00:01:59,719",
+      "text": "running games in person remember being"
+    },
+    {
+      "start_time": "00:01:52,909",
+      "end_time": "00:02:01,880",
+      "text": "able to see other people world anyway"
+    },
+    {
+      "start_time": "00:01:59,719",
+      "end_time": "00:02:03,530",
+      "text": "it's a great tool because if I don't"
+    },
+    {
+      "start_time": "00:02:01,880",
+      "end_time": "00:02:05,210",
+      "text": "know what I want to run if I don't have"
+    },
+    {
+      "start_time": "00:02:03,530",
+      "end_time": "00:02:07,130",
+      "text": "any ideas if I'm like I'm not sure what"
+    },
+    {
+      "start_time": "00:02:05,210",
+      "end_time": "00:02:08,840",
+      "text": "the adventure is gonna be the emulator"
+    },
+    {
+      "start_time": "00:02:07,130",
+      "end_time": "00:02:10,940",
+      "text": "saves me every single time I just make"
+    },
+    {
+      "start_time": "00:02:08,840",
+      "end_time": "00:02:12,350",
+      "text": "some rolls and go with it and boom"
+    },
+    {
+      "start_time": "00:02:10,940",
+      "end_time": "00:02:14,150",
+      "text": "instant adventure it's really great it's"
+    },
+    {
+      "start_time": "00:02:12,350",
+      "end_time": "00:02:15,920",
+      "text": "a great tool the other way you can play"
+    },
+    {
+      "start_time": "00:02:14,150",
+      "end_time": "00:02:18,260",
+      "text": "it of course is with everybody's sort of"
+    },
+    {
+      "start_time": "00:02:15,920",
+      "end_time": "00:02:20,120",
+      "text": "cooperatively jamming themselves I've"
+    },
+    {
+      "start_time": "00:02:18,260",
+      "end_time": "00:02:21,530",
+      "text": "never really done that I'm not a fan of"
+    },
+    {
+      "start_time": "00:02:20,120",
+      "end_time": "00:02:22,790",
+      "text": "like too many cooks in the kitchen I"
+    },
+    {
+      "start_time": "00:02:21,530",
+      "end_time": "00:02:24,140",
+      "text": "don't like the past the stick kind of"
+    },
+    {
+      "start_time": "00:02:22,790",
+      "end_time": "00:02:25,850",
+      "text": "story game stuff typically"
+    },
+    {
+      "start_time": "00:02:24,140",
+      "end_time": "00:02:29,600",
+      "text": "speaking so I'm more of a you know"
+    },
+    {
+      "start_time": "00:02:25,850",
+      "end_time": "00:02:32,480",
+      "text": "Viking hack GM anyway this is a crucial"
+    },
+    {
+      "start_time": "00:02:29,600",
+      "end_time": "00:02:34,790",
+      "text": "aspect the logic of the importance of"
+    },
+    {
+      "start_time": "00:02:32,480",
+      "end_time": "00:02:36,890",
+      "text": "logic and interpretation this is what"
+    },
+    {
+      "start_time": "00:02:34,790",
+      "end_time": "00:02:39,800",
+      "text": "makes my game different than your game"
+    },
+    {
+      "start_time": "00:02:36,890",
+      "end_time": "00:02:43,930",
+      "text": "different than anybody else's game this"
+    },
+    {
+      "start_time": "00:02:39,800",
+      "end_time": "00:02:47,150",
+      "text": "tool the emulator is entirely focused on"
+    },
+    {
+      "start_time": "00:02:43,930",
+      "end_time": "00:02:48,980",
+      "text": "your own interpretation of events so"
+    },
+    {
+      "start_time": "00:02:47,150",
+      "end_time": "00:02:51,290",
+      "text": "your instinct your your instinctual"
+    },
+    {
+      "start_time": "00:02:48,980",
+      "end_time": "00:02:52,970",
+      "text": "response to what you see first is so"
+    },
+    {
+      "start_time": "00:02:51,290",
+      "end_time": "00:02:55,490",
+      "text": "crucial you got to go with your first"
+    },
+    {
+      "start_time": "00:02:52,970",
+      "end_time": "00:02:57,590",
+      "text": "gut instinct if you stop and think about"
+    },
+    {
+      "start_time": "00:02:55,490",
+      "end_time": "00:02:59,660",
+      "text": "it too much you start to tie yourself up"
+    },
+    {
+      "start_time": "00:02:57,590",
+      "end_time": "00:03:01,610",
+      "text": "so you know as a GM you know what's"
+    },
+    {
+      "start_time": "00:02:59,660",
+      "end_time": "00:03:03,709",
+      "text": "possible what's impossible you know what"
+    },
+    {
+      "start_time": "00:03:01,610",
+      "end_time": "00:03:05,540",
+      "text": "is likely what's not likely you know the"
+    },
+    {
+      "start_time": "00:03:03,709",
+      "end_time": "00:03:07,250",
+      "text": "rules of the physics of the you of your"
+    },
+    {
+      "start_time": "00:03:05,540",
+      "end_time": "00:03:08,900",
+      "text": "world typically speaking logical"
+    },
+    {
+      "start_time": "00:03:07,250",
+      "end_time": "00:03:10,610",
+      "text": "interpretation is so crucial because"
+    },
+    {
+      "start_time": "00:03:08,900",
+      "end_time": "00:03:14,690",
+      "text": "everybody's gonna Terp rrett things"
+    },
+    {
+      "start_time": "00:03:10,610",
+      "end_time": "00:03:18,020",
+      "text": "differently many of you had great"
+    },
+    {
+      "start_time": "00:03:14,690",
+      "end_time": "00:03:19,520",
+      "text": "comments on episodes of my show where"
+    },
+    {
+      "start_time": "00:03:18,020",
+      "end_time": "00:03:22,160",
+      "text": "you saw things happening differently"
+    },
+    {
+      "start_time": "00:03:19,520",
+      "end_time": "00:03:23,450",
+      "text": "that's good that's okay because in your"
+    },
+    {
+      "start_time": "00:03:22,160",
+      "end_time": "00:03:25,580",
+      "text": "version of the game that that's how it"
+    },
+    {
+      "start_time": "00:03:23,450",
+      "end_time": "00:03:26,840",
+      "text": "would have played out but it was my"
+    },
+    {
+      "start_time": "00:03:25,580",
+      "end_time": "00:03:29,360",
+      "text": "version of the game and so that's what"
+    },
+    {
+      "start_time": "00:03:26,840",
+      "end_time": "00:03:31,910",
+      "text": "you saw then we come to this the fate"
+    },
+    {
+      "start_time": "00:03:29,360",
+      "end_time": "00:03:34,850",
+      "text": "chart the fate chart really is the"
+    },
+    {
+      "start_time": "00:03:31,910",
+      "end_time": "00:03:38,600",
+      "text": "backbone of this game you saw me use it"
+    },
+    {
+      "start_time": "00:03:34,850",
+      "end_time": "00:03:40,670",
+      "text": "all the time I would roll personals but"
+    },
+    {
+      "start_time": "00:03:38,600",
+      "end_time": "00:03:42,080",
+      "text": "look at my chaos factor decide the"
+    },
+    {
+      "start_time": "00:03:40,670",
+      "end_time": "00:03:44,390",
+      "text": "likelihood and then and then come up"
+    },
+    {
+      "start_time": "00:03:42,080",
+      "end_time": "00:03:47,390",
+      "text": "with a yes or no answer so as we know"
+    },
+    {
+      "start_time": "00:03:44,390",
+      "end_time": "00:03:49,400",
+      "text": "there are four possible results okay"
+    },
+    {
+      "start_time": "00:03:47,390",
+      "end_time": "00:03:51,970",
+      "text": "there's yes there's extreme yes no an"
+    },
+    {
+      "start_time": "00:03:49,400",
+      "end_time": "00:03:55,160",
+      "text": "extreme no how do you determine that I"
+    },
+    {
+      "start_time": "00:03:51,970",
+      "end_time": "00:03:57,200",
+      "text": "am an adventurer and I come to the door"
+    },
+    {
+      "start_time": "00:03:55,160",
+      "end_time": "00:03:59,480",
+      "text": "of the dungeon and my question is is"
+    },
+    {
+      "start_time": "00:03:57,200",
+      "end_time": "00:04:00,739",
+      "text": "there a monster on the other side well"
+    },
+    {
+      "start_time": "00:03:59,480",
+      "end_time": "00:04:01,820",
+      "text": "that's what we go to the Fate chart it's"
+    },
+    {
+      "start_time": "00:04:00,739",
+      "end_time": "00:04:05,299",
+      "text": "based on a few things here"
+    },
+    {
+      "start_time": "00:04:01,820",
+      "end_time": "00:04:07,640",
+      "text": "chaos rank is the level of chaos and the"
+    },
+    {
+      "start_time": "00:04:05,299",
+      "end_time": "00:04:09,790",
+      "text": "adventure is life basically it starts at"
+    },
+    {
+      "start_time": "00:04:07,640",
+      "end_time": "00:04:12,890",
+      "text": "5 which is right down the middle"
+    },
+    {
+      "start_time": "00:04:09,790",
+      "end_time": "00:04:14,959",
+      "text": "chaos rank determines how often a"
+    },
+    {
+      "start_time": "00:04:12,890",
+      "end_time": "00:04:17,930",
+      "text": "question is going to result in a yes"
+    },
+    {
+      "start_time": "00:04:14,959",
+      "end_time": "00:04:20,690",
+      "text": "answer so the the greater the chaos rank"
+    },
+    {
+      "start_time": "00:04:17,930",
+      "end_time": "00:04:21,829",
+      "text": "the more likely it's gonna be yes so you"
+    },
+    {
+      "start_time": "00:04:20,690",
+      "end_time": "00:04:24,650",
+      "text": "got to keep that in mind when you're"
+    },
+    {
+      "start_time": "00:04:21,829",
+      "end_time": "00:04:26,750",
+      "text": "when you're asking questions like I did"
+    },
+    {
+      "start_time": "00:04:24,650",
+      "end_time": "00:04:29,360",
+      "text": "with Simon I knew that at the care if"
+    },
+    {
+      "start_time": "00:04:26,750",
+      "end_time": "00:04:31,610",
+      "text": "the chaos rank was super high that was"
+    },
+    {
+      "start_time": "00:04:29,360",
+      "end_time": "00:04:34,099",
+      "text": "gonna mean a yes result so I wanted to"
+    },
+    {
+      "start_time": "00:04:31,610",
+      "end_time": "00:04:37,010",
+      "text": "phrase my questions in such a way as to"
+    },
+    {
+      "start_time": "00:04:34,099",
+      "end_time": "00:04:37,950",
+      "text": "provide an interesting result ok so you"
+    },
+    {
+      "start_time": "00:04:37,010",
+      "end_time": "00:04:40,560",
+      "text": "got the chaos where"
+    },
+    {
+      "start_time": "00:04:37,950",
+      "end_time": "00:04:42,450",
+      "text": "here it goes from one to nine and then"
+    },
+    {
+      "start_time": "00:04:40,560",
+      "end_time": "00:04:43,920",
+      "text": "you've got the odds the odds again are"
+    },
+    {
+      "start_time": "00:04:42,450",
+      "end_time": "00:04:46,980",
+      "text": "totally up to you and your"
+    },
+    {
+      "start_time": "00:04:43,920",
+      "end_time": "00:04:48,900",
+      "text": "interpretation and logic based on the"
+    },
+    {
+      "start_time": "00:04:46,980",
+      "end_time": "00:04:51,480",
+      "text": "events of what's going on 50/50 is the"
+    },
+    {
+      "start_time": "00:04:48,900",
+      "end_time": "00:04:53,490",
+      "text": "baseline obviously but sometimes it's"
+    },
+    {
+      "start_time": "00:04:51,480",
+      "end_time": "00:04:55,620",
+      "text": "gonna be obvious and I and you saw it in"
+    },
+    {
+      "start_time": "00:04:53,490",
+      "end_time": "00:04:57,420",
+      "text": "my show again where it just seems like"
+    },
+    {
+      "start_time": "00:04:55,620",
+      "end_time": "00:04:59,220",
+      "text": "no it's impossible that this is good"
+    },
+    {
+      "start_time": "00:04:57,420",
+      "end_time": "00:05:01,140",
+      "text": "that this could happen or that's an ear"
+    },
+    {
+      "start_time": "00:04:59,220",
+      "end_time": "00:05:02,340",
+      "text": "sure thing or oh I think it's somewhat"
+    },
+    {
+      "start_time": "00:05:01,140",
+      "end_time": "00:05:04,110",
+      "text": "likely basically it's just an"
+    },
+    {
+      "start_time": "00:05:02,340",
+      "end_time": "00:05:06,690",
+      "text": "instinctual response it's a gut response"
+    },
+    {
+      "start_time": "00:05:04,110",
+      "end_time": "00:05:08,940",
+      "text": "you go with it you would sign an odds"
+    },
+    {
+      "start_time": "00:05:06,690",
+      "end_time": "00:05:10,680",
+      "text": "you roll against the chaos factor and"
+    },
+    {
+      "start_time": "00:05:08,940",
+      "end_time": "00:05:13,500",
+      "text": "then you get something so if you have a"
+    },
+    {
+      "start_time": "00:05:10,680",
+      "end_time": "00:05:15,570",
+      "text": "likely odds and your cast factor 7 then"
+    },
+    {
+      "start_time": "00:05:13,500",
+      "end_time": "00:05:17,820",
+      "text": "you get this string of numbers here so"
+    },
+    {
+      "start_time": "00:05:15,570",
+      "end_time": "00:05:19,620",
+      "text": "what we have is 1890 and 99 what this"
+    },
+    {
+      "start_time": "00:05:17,820",
+      "end_time": "00:05:21,750",
+      "text": "means is if I roll on those personal"
+    },
+    {
+      "start_time": "00:05:19,620",
+      "end_time": "00:05:25,070",
+      "text": "dice if i roll between 1 and 18 that's"
+    },
+    {
+      "start_time": "00:05:21,750",
+      "end_time": "00:05:28,140",
+      "text": "an extreme yes if i roll between 19 and"
+    },
+    {
+      "start_time": "00:05:25,070",
+      "end_time": "00:05:31,710",
+      "text": "90 that's a yes"
+    },
+    {
+      "start_time": "00:05:28,140",
+      "end_time": "00:05:34,380",
+      "text": "91 to 98 is a no 199 and 100 that's an"
+    },
+    {
+      "start_time": "00:05:31,710",
+      "end_time": "00:05:36,720",
+      "text": "extreme no okay but let's say that I"
+    },
+    {
+      "start_time": "00:05:34,380",
+      "end_time": "00:05:40,410",
+      "text": "said that the odds were very unlikely in"
+    },
+    {
+      "start_time": "00:05:36,720",
+      "end_time": "00:05:43,220",
+      "text": "my case factor was 3 well here now if I"
+    },
+    {
+      "start_time": "00:05:40,410",
+      "end_time": "00:05:47,550",
+      "text": "rolled a 1 or a 2 that's an extreme yes"
+    },
+    {
+      "start_time": "00:05:43,220",
+      "end_time": "00:05:50,310",
+      "text": "3 to 10 is going to be a yes 11 to 82 is"
+    },
+    {
+      "start_time": "00:05:47,550",
+      "end_time": "00:05:52,890",
+      "text": "gonna be a no and 83 to 100 is extreme"
+    },
+    {
+      "start_time": "00:05:50,310",
+      "end_time": "00:05:55,410",
+      "text": "no so you can see the higher your chaos"
+    },
+    {
+      "start_time": "00:05:52,890",
+      "end_time": "00:05:58,980",
+      "text": "rank the more likely you're gonna get a"
+    },
+    {
+      "start_time": "00:05:55,410",
+      "end_time": "00:06:01,380",
+      "text": "yes result okay so that's basically how"
+    },
+    {
+      "start_time": "00:05:58,980",
+      "end_time": "00:06:03,210",
+      "text": "that guy works there now the second part"
+    },
+    {
+      "start_time": "00:06:01,380",
+      "end_time": "00:06:06,240",
+      "text": "to this this is the part that I love the"
+    },
+    {
+      "start_time": "00:06:03,210",
+      "end_time": "00:06:09,480",
+      "text": "most random events you can use this kind"
+    },
+    {
+      "start_time": "00:06:06,240",
+      "end_time": "00:06:11,910",
+      "text": "of in two ways one is if you just want"
+    },
+    {
+      "start_time": "00:06:09,480",
+      "end_time": "00:06:14,550",
+      "text": "to ask a question that isn't yes or no"
+    },
+    {
+      "start_time": "00:06:11,910",
+      "end_time": "00:06:16,560",
+      "text": "question like what is the nature of that"
+    },
+    {
+      "start_time": "00:06:14,550",
+      "end_time": "00:06:18,990",
+      "text": "NPCs motivations for example or or"
+    },
+    {
+      "start_time": "00:06:16,560",
+      "end_time": "00:06:20,730",
+      "text": "what's the reason behind the strange"
+    },
+    {
+      "start_time": "00:06:18,990",
+      "end_time": "00:06:23,430",
+      "text": "weather that this valley is experiencing"
+    },
+    {
+      "start_time": "00:06:20,730",
+      "end_time": "00:06:26,370",
+      "text": "right then you can roll a random event"
+    },
+    {
+      "start_time": "00:06:23,430",
+      "end_time": "00:06:28,320",
+      "text": "just to give you a sense of you know an"
+    },
+    {
+      "start_time": "00:06:26,370",
+      "end_time": "00:06:30,600",
+      "text": "explanation the other way you can use it"
+    },
+    {
+      "start_time": "00:06:28,320",
+      "end_time": "00:06:31,890",
+      "text": "of course is if you roll doubles anytime"
+    },
+    {
+      "start_time": "00:06:30,600",
+      "end_time": "00:06:34,650",
+      "text": "you're asking a question on the Fate"
+    },
+    {
+      "start_time": "00:06:31,890",
+      "end_time": "00:06:36,360",
+      "text": "chart and the the double that the number"
+    },
+    {
+      "start_time": "00:06:34,650",
+      "end_time": "00:06:38,400",
+      "text": "of the doubles is equal to or less than"
+    },
+    {
+      "start_time": "00:06:36,360",
+      "end_time": "00:06:42,420",
+      "text": "your chaos factor so if it's a chaos"
+    },
+    {
+      "start_time": "00:06:38,400",
+      "end_time": "00:06:45,570",
+      "text": "spectre-6 then 6655 34 33 32 and 11 all"
+    },
+    {
+      "start_time": "00:06:42,420",
+      "end_time": "00:06:47,730",
+      "text": "would indicate a random event which you"
+    },
+    {
+      "start_time": "00:06:45,570",
+      "end_time": "00:06:51,889",
+      "text": "immediately determine so what we do here"
+    },
+    {
+      "start_time": "00:06:47,730",
+      "end_time": "00:06:54,020",
+      "text": "is we determine the first thing is the"
+    },
+    {
+      "start_time": "00:06:51,889",
+      "end_time": "00:06:56,990",
+      "text": "focus so right here we've got the event"
+    },
+    {
+      "start_time": "00:06:54,020",
+      "end_time": "00:06:58,759",
+      "text": "focus table so if I roll doubles what's"
+    },
+    {
+      "start_time": "00:06:56,990",
+      "end_time": "00:07:00,889",
+      "text": "the event focus well you can see there's"
+    },
+    {
+      "start_time": "00:06:58,759",
+      "end_time": "00:07:03,169",
+      "text": "a whole bunch right remote event NPC"
+    },
+    {
+      "start_time": "00:07:00,889",
+      "end_time": "00:07:04,939",
+      "text": "action introduced to no NPC move toward"
+    },
+    {
+      "start_time": "00:07:03,169",
+      "end_time": "00:07:07,249",
+      "text": "a thread move away from a thread close"
+    },
+    {
+      "start_time": "00:07:04,939",
+      "end_time": "00:07:09,110",
+      "text": "the thread pc- bc- was a very very"
+    },
+    {
+      "start_time": "00:07:07,249",
+      "end_time": "00:07:12,680",
+      "text": "common one and in the story assignment"
+    },
+    {
+      "start_time": "00:07:09,110",
+      "end_time": "00:07:15,229",
+      "text": "if you recall pc+ ambiguous event NPC"
+    },
+    {
+      "start_time": "00:07:12,680",
+      "end_time": "00:07:20,029",
+      "text": "negative NPC positive all of this allows"
+    },
+    {
+      "start_time": "00:07:15,229",
+      "end_time": "00:07:21,919",
+      "text": "you to focus the narrative so that"
+    },
+    {
+      "start_time": "00:07:20,029",
+      "end_time": "00:07:26,090",
+      "text": "you're not just creating willy-nilly you"
+    },
+    {
+      "start_time": "00:07:21,919",
+      "end_time": "00:07:27,110",
+      "text": "know out of the ether right so that's"
+    },
+    {
+      "start_time": "00:07:26,090",
+      "end_time": "00:07:30,050",
+      "text": "the first thing you do what's the event"
+    },
+    {
+      "start_time": "00:07:27,110",
+      "end_time": "00:07:32,629",
+      "text": "focus you role at 23 and 23 in this case"
+    },
+    {
+      "start_time": "00:07:30,050",
+      "end_time": "00:07:34,520",
+      "text": "would be an NPC action okay so we know"
+    },
+    {
+      "start_time": "00:07:32,629",
+      "end_time": "00:07:36,409",
+      "text": "that if the list of NPCs and we're going"
+    },
+    {
+      "start_time": "00:07:34,520",
+      "end_time": "00:07:38,389",
+      "text": "to get to the list in a second out of"
+    },
+    {
+      "start_time": "00:07:36,409",
+      "end_time": "00:07:40,580",
+      "text": "those NPCs on that list one of them is"
+    },
+    {
+      "start_time": "00:07:38,389",
+      "end_time": "00:07:43,250",
+      "text": "going to take an action we don't know"
+    },
+    {
+      "start_time": "00:07:40,580",
+      "end_time": "00:07:45,589",
+      "text": "what that action is yet which is why we"
+    },
+    {
+      "start_time": "00:07:43,250",
+      "end_time": "00:07:48,469",
+      "text": "go to the next page event meeting and"
+    },
+    {
+      "start_time": "00:07:45,589",
+      "end_time": "00:07:50,930",
+      "text": "subject action I'm sorry action and"
+    },
+    {
+      "start_time": "00:07:48,469",
+      "end_time": "00:07:53,210",
+      "text": "subject this table action is subject"
+    },
+    {
+      "start_time": "00:07:50,930",
+      "end_time": "00:07:54,919",
+      "text": "this this one is my favorite table so"
+    },
+    {
+      "start_time": "00:07:53,210",
+      "end_time": "00:07:56,719",
+      "text": "you determine your event focus in this"
+    },
+    {
+      "start_time": "00:07:54,919",
+      "end_time": "00:07:58,879",
+      "text": "case it's NPC action and then you"
+    },
+    {
+      "start_time": "00:07:56,719",
+      "end_time": "00:08:00,680",
+      "text": "determine your action and subject"
+    },
+    {
+      "start_time": "00:07:58,879",
+      "end_time": "00:08:03,919",
+      "text": "it's an NPC action what does that mean"
+    },
+    {
+      "start_time": "00:08:00,680",
+      "end_time": "00:08:11,330",
+      "text": "well let's say he rolls the action is 23"
+    },
+    {
+      "start_time": "00:08:03,919",
+      "end_time": "00:08:13,430",
+      "text": "and 46 ok so 23 is judge and 46 is food"
+    },
+    {
+      "start_time": "00:08:11,330",
+      "end_time": "00:08:15,649",
+      "text": "judge food you can also phrase it as"
+    },
+    {
+      "start_time": "00:08:13,430",
+      "end_time": "00:08:16,669",
+      "text": "judgement of food right you can do that"
+    },
+    {
+      "start_time": "00:08:15,649",
+      "end_time": "00:08:19,879",
+      "text": "if you want if that helps you"
+    },
+    {
+      "start_time": "00:08:16,669",
+      "end_time": "00:08:22,189",
+      "text": "judge food well I don't know anything"
+    },
+    {
+      "start_time": "00:08:19,879",
+      "end_time": "00:08:25,759",
+      "text": "about an NPC right now but for me"
+    },
+    {
+      "start_time": "00:08:22,189",
+      "end_time": "00:08:27,229",
+      "text": "judge food would would depend on the"
+    },
+    {
+      "start_time": "00:08:25,759",
+      "end_time": "00:08:29,360",
+      "text": "situation would depend on the NPC you're"
+    },
+    {
+      "start_time": "00:08:27,229",
+      "end_time": "00:08:32,870",
+      "text": "talking about you know if you're talking"
+    },
+    {
+      "start_time": "00:08:29,360",
+      "end_time": "00:08:34,849",
+      "text": "about an NPC that's let's say you've"
+    },
+    {
+      "start_time": "00:08:32,870",
+      "end_time": "00:08:37,640",
+      "text": "hired a hireling and you've got an NPC"
+    },
+    {
+      "start_time": "00:08:34,849",
+      "end_time": "00:08:40,159",
+      "text": "with you and the random event comes up"
+    },
+    {
+      "start_time": "00:08:37,640",
+      "end_time": "00:08:43,669",
+      "text": "judge food well again it's all"
+    },
+    {
+      "start_time": "00:08:40,159",
+      "end_time": "00:08:45,320",
+      "text": "situational depends on what context the"
+    },
+    {
+      "start_time": "00:08:43,669",
+      "end_time": "00:08:48,910",
+      "text": "players or the characters find"
+    },
+    {
+      "start_time": "00:08:45,320",
+      "end_time": "00:08:52,370",
+      "text": "themselves in judge food could mean that"
+    },
+    {
+      "start_time": "00:08:48,910",
+      "end_time": "00:08:54,800",
+      "text": "he's the the this character this NPC has"
+    },
+    {
+      "start_time": "00:08:52,370",
+      "end_time": "00:08:56,480",
+      "text": "decided that he's going on a hunger"
+    },
+    {
+      "start_time": "00:08:54,800",
+      "end_time": "00:08:59,300",
+      "text": "strike until he gets paid more or it"
+    },
+    {
+      "start_time": "00:08:56,480",
+      "end_time": "00:09:01,699",
+      "text": "could mean that he becomes violently ill"
+    },
+    {
+      "start_time": "00:08:59,300",
+      "end_time": "00:09:03,740",
+      "text": "or it because of something he ate or it"
+    },
+    {
+      "start_time": "00:09:01,699",
+      "end_time": "00:09:04,830",
+      "text": "could mean that he's decided he's not"
+    },
+    {
+      "start_time": "00:09:03,740",
+      "end_time": "00:09:06,540",
+      "text": "going to eat what"
+    },
+    {
+      "start_time": "00:09:04,830",
+      "end_time": "00:09:08,820",
+      "text": "the cook is preparing at Camp that night"
+    },
+    {
+      "start_time": "00:09:06,540",
+      "end_time": "00:09:10,589",
+      "text": "because he's suspicious of the cook it"
+    },
+    {
+      "start_time": "00:09:08,820",
+      "end_time": "00:09:12,990",
+      "text": "the sky's the limit and it's all about"
+    },
+    {
+      "start_time": "00:09:10,589",
+      "end_time": "00:09:15,089",
+      "text": "your interpretation of it based on the"
+    },
+    {
+      "start_time": "00:09:12,990",
+      "end_time": "00:09:18,480",
+      "text": "logic of your situation it was all"
+    },
+    {
+      "start_time": "00:09:15,089",
+      "end_time": "00:09:22,500",
+      "text": "context based okay it's an incredible"
+    },
+    {
+      "start_time": "00:09:18,480",
+      "end_time": "00:09:24,600",
+      "text": "tool and again it established so much of"
+    },
+    {
+      "start_time": "00:09:22,500",
+      "end_time": "00:09:27,060",
+      "text": "the of the baseline story for for Simon"
+    },
+    {
+      "start_time": "00:09:24,600",
+      "end_time": "00:09:30,930",
+      "text": "and company then we get into the"
+    },
+    {
+      "start_time": "00:09:27,060",
+      "end_time": "00:09:32,850",
+      "text": "adventure here scenes and the setup and"
+    },
+    {
+      "start_time": "00:09:30,930",
+      "end_time": "00:09:36,779",
+      "text": "lists and this is really crucial because"
+    },
+    {
+      "start_time": "00:09:32,850",
+      "end_time": "00:09:40,380",
+      "text": "if we look way down here this is not"
+    },
+    {
+      "start_time": "00:09:36,779",
+      "end_time": "00:09:43,560",
+      "text": "that this this list is how you organize"
+    },
+    {
+      "start_time": "00:09:40,380",
+      "end_time": "00:09:46,410",
+      "text": "everything this list is how you keep"
+    },
+    {
+      "start_time": "00:09:43,560",
+      "end_time": "00:09:48,000",
+      "text": "track of the players of the characters"
+    },
+    {
+      "start_time": "00:09:46,410",
+      "end_time": "00:09:50,190",
+      "text": "they meet of the things that happen to"
+    },
+    {
+      "start_time": "00:09:48,000",
+      "end_time": "00:09:52,410",
+      "text": "them and what's going on in the scenes"
+    },
+    {
+      "start_time": "00:09:50,190",
+      "end_time": "00:09:54,500",
+      "text": "as well as the chaos factor okay so list"
+    },
+    {
+      "start_time": "00:09:52,410",
+      "end_time": "00:09:58,230",
+      "text": "compose are are composed of characters"
+    },
+    {
+      "start_time": "00:09:54,500",
+      "end_time": "00:10:00,060",
+      "text": "okay so all of the NPCs and all the PCs"
+    },
+    {
+      "start_time": "00:09:58,230",
+      "end_time": "00:10:01,829",
+      "text": "go on that list anytime you meet someone"
+    },
+    {
+      "start_time": "00:10:00,060",
+      "end_time": "00:10:05,480",
+      "text": "new they're added to the list so the"
+    },
+    {
+      "start_time": "00:10:01,829",
+      "end_time": "00:10:08,730",
+      "text": "first time that Simon met Mord the orc"
+    },
+    {
+      "start_time": "00:10:05,480",
+      "end_time": "00:10:09,899",
+      "text": "who he found him in he found him in that"
+    },
+    {
+      "start_time": "00:10:08,730",
+      "end_time": "00:10:12,800",
+      "text": "cabin I think it episode 2"
+    },
+    {
+      "start_time": "00:10:09,899",
+      "end_time": "00:10:16,410",
+      "text": "Mord became a character on a list and"
+    },
+    {
+      "start_time": "00:10:12,800",
+      "end_time": "00:10:17,820",
+      "text": "Mord came back later because he was on"
+    },
+    {
+      "start_time": "00:10:16,410",
+      "end_time": "00:10:19,800",
+      "text": "that less than Episode four whatever to"
+    },
+    {
+      "start_time": "00:10:17,820",
+      "end_time": "00:10:21,839",
+      "text": "save Simon outside the temple of throws"
+    },
+    {
+      "start_time": "00:10:19,800",
+      "end_time": "00:10:24,779",
+      "text": "a anyway so you've got the list of"
+    },
+    {
+      "start_time": "00:10:21,839",
+      "end_time": "00:10:26,070",
+      "text": "characters you've got chaos factor of"
+    },
+    {
+      "start_time": "00:10:24,779",
+      "end_time": "00:10:27,660",
+      "text": "course which we already talked about and"
+    },
+    {
+      "start_time": "00:10:26,070",
+      "end_time": "00:10:30,120",
+      "text": "then you've got threads threads are"
+    },
+    {
+      "start_time": "00:10:27,660",
+      "end_time": "00:10:33,690",
+      "text": "story threads threads are things that"
+    },
+    {
+      "start_time": "00:10:30,120",
+      "end_time": "00:10:35,279",
+      "text": "come up naturally that you think this is"
+    },
+    {
+      "start_time": "00:10:33,690",
+      "end_time": "00:10:36,270",
+      "text": "now important to the characters in some"
+    },
+    {
+      "start_time": "00:10:35,279",
+      "end_time": "00:10:38,310",
+      "text": "way and they're probably gonna want to"
+    },
+    {
+      "start_time": "00:10:36,270",
+      "end_time": "00:10:39,570",
+      "text": "follow that or maybe it's a story thread"
+    },
+    {
+      "start_time": "00:10:38,310",
+      "end_time": "00:10:42,480",
+      "text": "of something happening in the background"
+    },
+    {
+      "start_time": "00:10:39,570",
+      "end_time": "00:10:44,279",
+      "text": "right like at one point in Simon's story"
+    },
+    {
+      "start_time": "00:10:42,480",
+      "end_time": "00:10:46,589",
+      "text": "there was a story thread about Sharon's"
+    },
+    {
+      "start_time": "00:10:44,279",
+      "end_time": "00:10:49,709",
+      "text": "group that the group of undead hunters"
+    },
+    {
+      "start_time": "00:10:46,589",
+      "end_time": "00:10:52,410",
+      "text": "that were going after ed Burt that was a"
+    },
+    {
+      "start_time": "00:10:49,709",
+      "end_time": "00:10:55,110",
+      "text": "thread that you know was early on added"
+    },
+    {
+      "start_time": "00:10:52,410",
+      "end_time": "00:10:57,360",
+      "text": "to the list at any point that thread"
+    },
+    {
+      "start_time": "00:10:55,110",
+      "end_time": "00:10:58,949",
+      "text": "could have been acted upon at any point"
+    },
+    {
+      "start_time": "00:10:57,360",
+      "end_time": "00:11:01,440",
+      "text": "we could have seen you know move toward"
+    },
+    {
+      "start_time": "00:10:58,949",
+      "end_time": "00:11:03,300",
+      "text": "a thread as a vent focus or a closer"
+    },
+    {
+      "start_time": "00:11:01,440",
+      "end_time": "00:11:04,829",
+      "text": "thread or anything like that as it"
+    },
+    {
+      "start_time": "00:11:03,300",
+      "end_time": "00:11:06,750",
+      "text": "turned out it never happened but it was"
+    },
+    {
+      "start_time": "00:11:04,829",
+      "end_time": "00:11:10,740",
+      "text": "there the whole time so story threads"
+    },
+    {
+      "start_time": "00:11:06,750",
+      "end_time": "00:11:13,050",
+      "text": "are how you always move your game back"
+    },
+    {
+      "start_time": "00:11:10,740",
+      "end_time": "00:11:15,240",
+      "text": "to sort of a centrally focused narrative"
+    },
+    {
+      "start_time": "00:11:13,050",
+      "end_time": "00:11:17,160",
+      "text": "so it's not it's not like you're writing"
+    },
+    {
+      "start_time": "00:11:15,240",
+      "end_time": "00:11:18,720",
+      "text": "a book and you're not you're not"
+    },
+    {
+      "start_time": "00:11:17,160",
+      "end_time": "00:11:21,300",
+      "text": "railroading yourself so does"
+    },
+    {
+      "start_time": "00:11:18,720",
+      "end_time": "00:11:22,470",
+      "text": "speak down 1 you know the players must"
+    },
+    {
+      "start_time": "00:11:21,300",
+      "end_time": "00:11:24,300",
+      "text": "do this thing because this is the threat"
+    },
+    {
+      "start_time": "00:11:22,470",
+      "end_time": "00:11:25,860",
+      "text": "but the threads are literally that"
+    },
+    {
+      "start_time": "00:11:24,300",
+      "end_time": "00:11:28,019",
+      "text": "they're like threads wafting in the air"
+    },
+    {
+      "start_time": "00:11:25,860",
+      "end_time": "00:11:29,490",
+      "text": "that you can grab and go ah let's weave"
+    },
+    {
+      "start_time": "00:11:28,019",
+      "end_time": "00:11:32,100",
+      "text": "these threads into a much greater"
+    },
+    {
+      "start_time": "00:11:29,490",
+      "end_time": "00:11:33,629",
+      "text": "tapestry so you set up the scene and as"
+    },
+    {
+      "start_time": "00:11:32,100",
+      "end_time": "00:11:35,399",
+      "text": "you saw me do in the show one of the"
+    },
+    {
+      "start_time": "00:11:33,629",
+      "end_time": "00:11:37,170",
+      "text": "things you do first is to decide if the"
+    },
+    {
+      "start_time": "00:11:35,399",
+      "end_time": "00:11:39,360",
+      "text": "scene is is altered so the first thing"
+    },
+    {
+      "start_time": "00:11:37,170",
+      "end_time": "00:11:41,069",
+      "text": "you do is you say okay what is this"
+    },
+    {
+      "start_time": "00:11:39,360",
+      "end_time": "00:11:43,529",
+      "text": "scene all about Simon has just walked"
+    },
+    {
+      "start_time": "00:11:41,069",
+      "end_time": "00:11:45,750",
+      "text": "into the town of Hoonah tarah he's"
+    },
+    {
+      "start_time": "00:11:43,529",
+      "end_time": "00:11:47,639",
+      "text": "decided to go to the inn and and look"
+    },
+    {
+      "start_time": "00:11:45,750",
+      "end_time": "00:11:49,680",
+      "text": "for help okay we know that's the the"
+    },
+    {
+      "start_time": "00:11:47,639",
+      "end_time": "00:11:51,779",
+      "text": "perceived opening of the scene but now"
+    },
+    {
+      "start_time": "00:11:49,680",
+      "end_time": "00:11:52,949",
+      "text": "we determine based on the chaos factor"
+    },
+    {
+      "start_time": "00:11:51,779",
+      "end_time": "00:11:54,360",
+      "text": "whether that scene is modified or"
+    },
+    {
+      "start_time": "00:11:52,949",
+      "end_time": "00:11:56,149",
+      "text": "altered and that's what this is here you"
+    },
+    {
+      "start_time": "00:11:54,360",
+      "end_time": "00:11:57,509",
+      "text": "can either alter a scene or modify it"
+    },
+    {
+      "start_time": "00:11:56,149",
+      "end_time": "00:11:59,189",
+      "text": "I'm sorry"
+    },
+    {
+      "start_time": "00:11:57,509",
+      "end_time": "00:12:01,589",
+      "text": "ultra scene or interrupt and you roll"
+    },
+    {
+      "start_time": "00:11:59,189",
+      "end_time": "00:12:04,319",
+      "text": "the d-10 against the chaos factor if you"
+    },
+    {
+      "start_time": "00:12:01,589",
+      "end_time": "00:12:06,089",
+      "text": "roll the Kass factor or less than the"
+    },
+    {
+      "start_time": "00:12:04,319",
+      "end_time": "00:12:09,000",
+      "text": "scene is changed in some way if it's an"
+    },
+    {
+      "start_time": "00:12:06,089",
+      "end_time": "00:12:11,220",
+      "text": "odd number then the scene setup is"
+    },
+    {
+      "start_time": "00:12:09,000",
+      "end_time": "00:12:12,480",
+      "text": "modified into an altered scene but if"
+    },
+    {
+      "start_time": "00:12:11,220",
+      "end_time": "00:12:14,009",
+      "text": "it's an even number then it's an"
+    },
+    {
+      "start_time": "00:12:12,480",
+      "end_time": "00:12:14,399",
+      "text": "interrupt scene so if my cares factor is"
+    },
+    {
+      "start_time": "00:12:14,009",
+      "end_time": "00:12:17,279",
+      "text": "6"
+    },
+    {
+      "start_time": "00:12:14,399",
+      "end_time": "00:12:19,350",
+      "text": "if I roll 5 3 or 1 that means it's going"
+    },
+    {
+      "start_time": "00:12:17,279",
+      "end_time": "00:12:21,029",
+      "text": "to alter the scene but if I roll the 2 4"
+    },
+    {
+      "start_time": "00:12:19,350",
+      "end_time": "00:12:23,459",
+      "text": "or 6 on that D 10 before the scene"
+    },
+    {
+      "start_time": "00:12:21,029",
+      "end_time": "00:12:24,959",
+      "text": "that's gonna interrupt the scene what is"
+    },
+    {
+      "start_time": "00:12:23,459",
+      "end_time": "00:12:26,939",
+      "text": "the difference again it's a matter of"
+    },
+    {
+      "start_time": "00:12:24,959",
+      "end_time": "00:12:29,100",
+      "text": "interpretation for me an altered scene"
+    },
+    {
+      "start_time": "00:12:26,939",
+      "end_time": "00:12:31,110",
+      "text": "means the scene plays out very similar"
+    },
+    {
+      "start_time": "00:12:29,100",
+      "end_time": "00:12:34,319",
+      "text": "to the way was going to but there's some"
+    },
+    {
+      "start_time": "00:12:31,110",
+      "end_time": "00:12:37,800",
+      "text": "aspect the most logical aspect that gets"
+    },
+    {
+      "start_time": "00:12:34,319",
+      "end_time": "00:12:39,300",
+      "text": "just twisted a little bit and again you"
+    },
+    {
+      "start_time": "00:12:37,800",
+      "end_time": "00:12:41,309",
+      "text": "go with your first instinct on that but"
+    },
+    {
+      "start_time": "00:12:39,300",
+      "end_time": "00:12:43,350",
+      "text": "interrupts scene is a random event it's"
+    },
+    {
+      "start_time": "00:12:41,309",
+      "end_time": "00:12:45,540",
+      "text": "something that comes out of the blue and"
+    },
+    {
+      "start_time": "00:12:43,350",
+      "end_time": "00:12:47,100",
+      "text": "you determine it exactly as you would a"
+    },
+    {
+      "start_time": "00:12:45,540",
+      "end_time": "00:12:49,100",
+      "text": "normal interrupt scene you roll the"
+    },
+    {
+      "start_time": "00:12:47,100",
+      "end_time": "00:12:52,680",
+      "text": "event focus then you roll the event"
+    },
+    {
+      "start_time": "00:12:49,100",
+      "end_time": "00:12:53,850",
+      "text": "action and and all that stuff and then"
+    },
+    {
+      "start_time": "00:12:52,680",
+      "end_time": "00:12:55,589",
+      "text": "you play out the scene and see what"
+    },
+    {
+      "start_time": "00:12:53,850",
+      "end_time": "00:12:57,629",
+      "text": "happens and that's where the actual game"
+    },
+    {
+      "start_time": "00:12:55,589",
+      "end_time": "00:12:59,490",
+      "text": "bit comes in and then at the end of the"
+    },
+    {
+      "start_time": "00:12:57,629",
+      "end_time": "00:13:01,319",
+      "text": "scene however it ends you update your"
+    },
+    {
+      "start_time": "00:12:59,490",
+      "end_time": "00:13:03,420",
+      "text": "list so you add characters or you"
+    },
+    {
+      "start_time": "00:13:01,319",
+      "end_time": "00:13:05,250",
+      "text": "subtract them if people got killed or or"
+    },
+    {
+      "start_time": "00:13:03,420",
+      "end_time": "00:13:07,529",
+      "text": "no longer part of that story you"
+    },
+    {
+      "start_time": "00:13:05,250",
+      "end_time": "00:13:09,329",
+      "text": "determine your chaos factor and how that"
+    },
+    {
+      "start_time": "00:13:07,529",
+      "end_time": "00:13:10,829",
+      "text": "works is if you feel that the main"
+    },
+    {
+      "start_time": "00:13:09,329",
+      "end_time": "00:13:13,050",
+      "text": "characters were more or less in control"
+    },
+    {
+      "start_time": "00:13:10,829",
+      "end_time": "00:13:14,790",
+      "text": "of that scene that just happened then"
+    },
+    {
+      "start_time": "00:13:13,050",
+      "end_time": "00:13:16,170",
+      "text": "the chaos factor goes down if you feel"
+    },
+    {
+      "start_time": "00:13:14,790",
+      "end_time": "00:13:17,910",
+      "text": "that they were more or less out of"
+    },
+    {
+      "start_time": "00:13:16,170",
+      "end_time": "00:13:20,819",
+      "text": "control than it goes up again what does"
+    },
+    {
+      "start_time": "00:13:17,910",
+      "end_time": "00:13:22,920",
+      "text": "that mean it's totally up to you your"
+    },
+    {
+      "start_time": "00:13:20,819",
+      "end_time": "00:13:25,230",
+      "text": "interpretation of it and then you update"
+    },
+    {
+      "start_time": "00:13:22,920",
+      "end_time": "00:13:27,420",
+      "text": "your threads you remove the old threads"
+    },
+    {
+      "start_time": "00:13:25,230",
+      "end_time": "00:13:32,390",
+      "text": "that get closed and add new ones that"
+    },
+    {
+      "start_time": "00:13:27,420",
+      "end_time": "00:13:35,460",
+      "text": "that come up so that is basically the"
+    },
+    {
+      "start_time": "00:13:32,390",
+      "end_time": "00:13:38,820",
+      "text": "entirety of the emulator the author goes"
+    },
+    {
+      "start_time": "00:13:35,460",
+      "end_time": "00:13:41,040",
+      "text": "on here to talk about various specific"
+    },
+    {
+      "start_time": "00:13:38,820",
+      "end_time": "00:13:43,980",
+      "text": "edge cases and gives a really great"
+    },
+    {
+      "start_time": "00:13:41,040",
+      "end_time": "00:13:45,480",
+      "text": "example of how this whole thing can play"
+    },
+    {
+      "start_time": "00:13:43,980",
+      "end_time": "00:13:48,450",
+      "text": "out there's a chapter on world creation"
+    },
+    {
+      "start_time": "00:13:45,480",
+      "end_time": "00:13:50,640",
+      "text": "here and then a bunch of Q&A questions"
+    },
+    {
+      "start_time": "00:13:48,450",
+      "end_time": "00:13:53,279",
+      "text": "here which is fantastic tips for better"
+    },
+    {
+      "start_time": "00:13:50,640",
+      "end_time": "00:13:54,990",
+      "text": "play and then a great extended example"
+    },
+    {
+      "start_time": "00:13:53,279",
+      "end_time": "00:13:57,450",
+      "text": "of chapter 8 that really goes into all"
+    },
+    {
+      "start_time": "00:13:54,990",
+      "end_time": "00:14:00,270",
+      "text": "of the details of this it's it's really"
+    },
+    {
+      "start_time": "00:13:57,450",
+      "end_time": "00:14:03,180",
+      "text": "well worth reading it so that is the"
+    },
+    {
+      "start_time": "00:14:00,270",
+      "end_time": "00:14:05,810",
+      "text": "emulator that is the main thing that I"
+    },
+    {
+      "start_time": "00:14:03,180",
+      "end_time": "00:14:07,890",
+      "text": "use to tell the story of Simon and"
+    },
+    {
+      "start_time": "00:14:05,810",
+      "end_time": "00:14:09,900",
+      "text": "ironically it won't be the thing I use"
+    },
+    {
+      "start_time": "00:14:07,890",
+      "end_time": "00:14:11,790",
+      "text": "in season two because in season 2 we're"
+    },
+    {
+      "start_time": "00:14:09,900",
+      "end_time": "00:14:14,070",
+      "text": "using iron sworn an iron sworn I don't"
+    },
+    {
+      "start_time": "00:14:11,790",
+      "end_time": "00:14:16,770",
+      "text": "actually need the GM mythic emulator"
+    },
+    {
+      "start_time": "00:14:14,070",
+      "end_time": "00:14:19,470",
+      "text": "because iron sworn has its own GM"
+    },
+    {
+      "start_time": "00:14:16,770",
+      "end_time": "00:14:23,220",
+      "text": "emulator built into the game in fact I'm"
+    },
+    {
+      "start_time": "00:14:19,470",
+      "end_time": "00:14:25,290",
+      "text": "going to try to use no other supplements"
+    },
+    {
+      "start_time": "00:14:23,220",
+      "end_time": "00:14:27,630",
+      "text": "in season 2 other than the iron sworn"
+    },
+    {
+      "start_time": "00:14:25,290",
+      "end_time": "00:14:29,430",
+      "text": "book which the author was wonderful"
+    },
+    {
+      "start_time": "00:14:27,630",
+      "end_time": "00:14:30,870",
+      "text": "enough to send me a copy of as well as"
+    },
+    {
+      "start_time": "00:14:29,430",
+      "end_time": "00:14:33,029",
+      "text": "the the delve book which is about"
+    },
+    {
+      "start_time": "00:14:30,870",
+      "end_time": "00:14:35,040",
+      "text": "dungeoneering and all of the cards that"
+    },
+    {
+      "start_time": "00:14:33,029",
+      "end_time": "00:14:37,830",
+      "text": "are helpful to play the game so I'm"
+    },
+    {
+      "start_time": "00:14:35,040",
+      "end_time": "00:14:39,990",
+      "text": "thanks a lot for that man super excited"
+    },
+    {
+      "start_time": "00:14:37,830",
+      "end_time": "00:14:41,640",
+      "text": "to start that so that's the emulator I"
+    },
+    {
+      "start_time": "00:14:39,990",
+      "end_time": "00:14:44,310",
+      "text": "hope that answers some questions about"
+    },
+    {
+      "start_time": "00:14:41,640",
+      "end_time": "00:14:45,810",
+      "text": "how things work when we come back in our"
+    },
+    {
+      "start_time": "00:14:44,310",
+      "end_time": "00:14:48,990",
+      "text": "next little supplementary series we're"
+    },
+    {
+      "start_time": "00:14:45,810",
+      "end_time": "00:14:50,790",
+      "text": "gonna talk about I think perilous wilds"
+    },
+    {
+      "start_time": "00:14:48,990",
+      "end_time": "00:14:53,490",
+      "text": "which is a dungeon world supplement but"
+    },
+    {
+      "start_time": "00:14:50,790",
+      "end_time": "00:14:56,790",
+      "text": "one that I do upon fairly fairly"
+    },
+    {
+      "start_time": "00:14:53,490",
+      "end_time": "00:14:59,670",
+      "text": "regularly but I drew upon mostly for"
+    },
+    {
+      "start_time": "00:14:56,790",
+      "end_time": "00:15:01,350",
+      "text": "dungeon crafting and stuff anyway thanks"
+    },
+    {
+      "start_time": "00:14:59,670",
+      "end_time": "00:15:03,000",
+      "text": "for watching and as always hit like and"
+    },
+    {
+      "start_time": "00:15:01,350",
+      "end_time": "00:15:04,890",
+      "text": "subscribe and notifications and blah"
+    },
+    {
+      "start_time": "00:15:03,000",
+      "end_time": "00:15:07,290",
+      "text": "blah blah blah blah stay safe out there"
+    },
+    {
+      "start_time": "00:15:04,890",
+      "end_time": "00:15:08,220",
+      "text": "and we'll see you next time on are me"
+    },
+    {
+      "start_time": "00:15:07,290",
+      "end_time": "00:15:11,810",
+      "text": "myself and I"
+    },
+    {
+      "start_time": "00:15:08,220",
+      "end_time": "00:15:11,810",
+      "text": "supplemental series okay Joe"
+    }
+  ],
+  "full_text": "[Music]\nwell hello again everyone long time no\nsee I am Trevor to Val this is me myself\nand I this is a little supplemental\nseries I'm doing that's going to address\nsome of the behind the scenes elements\nof the supplements that I used during\nthe show a lot of you had asked about\nyou know how did the emulator work have\nthe perilous wilds work and the GM\nsource books and all the stuff I use so\nbasically before we get rolling into\nseason 2 and we are going to get rolling\ninto season 2 make no mistake but I\nthought I'd address some of these things\nwhilst I have some time on my hands as I\nthink we all do with the miramont most\nof us anyway so I thought I would look a\nlittle deeper into some of the\nsupplements I used kind of do like a\nmini capsule review of some of them some\nof the more major ones just answer some\nof your questions to give you a sense of\nhow these things actually work behind\nthe scenes so the first one we're using\nis of course the mythic Game Master\nemulator this is the granddaddy of them\nall this is the one that determines\neverything else basically we'll just\nkind of go through it I'm not going to\ngo through every page or anything like\nthat I'm just gonna hit on what I feel\nto be sort of the most important things\nthat that I felt was necessary for my\ngame in my show so first of all mythic\nadventures there are three different\nkind of ways you can use this one you\ncan use it solo like I did during the\nthe story of Simon another way you can\nuse it is in a proper live-action game\nwhere you're running a bunch of other\nplayers it's really great for that I use\nit all the time in my games with my\nfriends in other cities where we get\ntogether online or even here when I run\ngames in person remember that remember\nrunning games in person remember being\nable to see other people world anyway\nit's a great tool because if I don't\nknow what I want to run if I don't have\nany ideas if I'm like I'm not sure what\nthe adventure is gonna be the emulator\nsaves me every single time I just make\nsome rolls and go with it and boom\ninstant adventure it's really great it's\na great tool the other way you can play\nit of course is with everybody's sort of\ncooperatively jamming themselves I've\nnever really done that I'm not a fan of\nlike too many cooks in the kitchen I\ndon't like the past the stick kind of\nstory game stuff typically\nspeaking so I'm more of a you know\nViking hack GM anyway this is a crucial\naspect the logic of the importance of\nlogic and interpretation this is what\nmakes my game different than your game\ndifferent than anybody else's game this\ntool the emulator is entirely focused on\nyour own interpretation of events so\nyour instinct your your instinctual\nresponse to what you see first is so\ncrucial you got to go with your first\ngut instinct if you stop and think about\nit too much you start to tie yourself up\nso you know as a GM you know what's\npossible what's impossible you know what\nis likely what's not likely you know the\nrules of the physics of the you of your\nworld typically speaking logical\ninterpretation is so crucial because\neverybody's gonna Terp rrett things\ndifferently many of you had great\ncomments on episodes of my show where\nyou saw things happening differently\nthat's good that's okay because in your\nversion of the game that that's how it\nwould have played out but it was my\nversion of the game and so that's what\nyou saw then we come to this the fate\nchart the fate chart really is the\nbackbone of this game you saw me use it\nall the time I would roll personals but\nlook at my chaos factor decide the\nlikelihood and then and then come up\nwith a yes or no answer so as we know\nthere are four possible results okay\nthere's yes there's extreme yes no an\nextreme no how do you determine that I\nam an adventurer and I come to the door\nof the dungeon and my question is is\nthere a monster on the other side well\nthat's what we go to the Fate chart it's\nbased on a few things here\nchaos rank is the level of chaos and the\nadventure is life basically it starts at\n5 which is right down the middle\nchaos rank determines how often a\nquestion is going to result in a yes\nanswer so the the greater the chaos rank\nthe more likely it's gonna be yes so you\ngot to keep that in mind when you're\nwhen you're asking questions like I did\nwith Simon I knew that at the care if\nthe chaos rank was super high that was\ngonna mean a yes result so I wanted to\nphrase my questions in such a way as to\nprovide an interesting result ok so you\ngot the chaos where\nhere it goes from one to nine and then\nyou've got the odds the odds again are\ntotally up to you and your\ninterpretation and logic based on the\nevents of what's going on 50/50 is the\nbaseline obviously but sometimes it's\ngonna be obvious and I and you saw it in\nmy show again where it just seems like\nno it's impossible that this is good\nthat this could happen or that's an ear\nsure thing or oh I think it's somewhat\nlikely basically it's just an\ninstinctual response it's a gut response\nyou go with it you would sign an odds\nyou roll against the chaos factor and\nthen you get something so if you have a\nlikely odds and your cast factor 7 then\nyou get this string of numbers here so\nwhat we have is 1890 and 99 what this\nmeans is if I roll on those personal\ndice if i roll between 1 and 18 that's\nan extreme yes if i roll between 19 and\n90 that's a yes\n91 to 98 is a no 199 and 100 that's an\nextreme no okay but let's say that I\nsaid that the odds were very unlikely in\nmy case factor was 3 well here now if I\nrolled a 1 or a 2 that's an extreme yes\n3 to 10 is going to be a yes 11 to 82 is\ngonna be a no and 83 to 100 is extreme\nno so you can see the higher your chaos\nrank the more likely you're gonna get a\nyes result okay so that's basically how\nthat guy works there now the second part\nto this this is the part that I love the\nmost random events you can use this kind\nof in two ways one is if you just want\nto ask a question that isn't yes or no\nquestion like what is the nature of that\nNPCs motivations for example or or\nwhat's the reason behind the strange\nweather that this valley is experiencing\nright then you can roll a random event\njust to give you a sense of you know an\nexplanation the other way you can use it\nof course is if you roll doubles anytime\nyou're asking a question on the Fate\nchart and the the double that the number\nof the doubles is equal to or less than\nyour chaos factor so if it's a chaos\nspectre-6 then 6655 34 33 32 and 11 all\nwould indicate a random event which you\nimmediately determine so what we do here\nis we determine the first thing is the\nfocus so right here we've got the event\nfocus table so if I roll doubles what's\nthe event focus well you can see there's\na whole bunch right remote event NPC\naction introduced to no NPC move toward\na thread move away from a thread close\nthe thread pc- bc- was a very very\ncommon one and in the story assignment\nif you recall pc+ ambiguous event NPC\nnegative NPC positive all of this allows\nyou to focus the narrative so that\nyou're not just creating willy-nilly you\nknow out of the ether right so that's\nthe first thing you do what's the event\nfocus you role at 23 and 23 in this case\nwould be an NPC action okay so we know\nthat if the list of NPCs and we're going\nto get to the list in a second out of\nthose NPCs on that list one of them is\ngoing to take an action we don't know\nwhat that action is yet which is why we\ngo to the next page event meeting and\nsubject action I'm sorry action and\nsubject this table action is subject\nthis this one is my favorite table so\nyou determine your event focus in this\ncase it's NPC action and then you\ndetermine your action and subject\nit's an NPC action what does that mean\nwell let's say he rolls the action is 23\nand 46 ok so 23 is judge and 46 is food\njudge food you can also phrase it as\njudgement of food right you can do that\nif you want if that helps you\njudge food well I don't know anything\nabout an NPC right now but for me\njudge food would would depend on the\nsituation would depend on the NPC you're\ntalking about you know if you're talking\nabout an NPC that's let's say you've\nhired a hireling and you've got an NPC\nwith you and the random event comes up\njudge food well again it's all\nsituational depends on what context the\nplayers or the characters find\nthemselves in judge food could mean that\nhe's the the this character this NPC has\ndecided that he's going on a hunger\nstrike until he gets paid more or it\ncould mean that he becomes violently ill\nor it because of something he ate or it\ncould mean that he's decided he's not\ngoing to eat what\nthe cook is preparing at Camp that night\nbecause he's suspicious of the cook it\nthe sky's the limit and it's all about\nyour interpretation of it based on the\nlogic of your situation it was all\ncontext based okay it's an incredible\ntool and again it established so much of\nthe of the baseline story for for Simon\nand company then we get into the\nadventure here scenes and the setup and\nlists and this is really crucial because\nif we look way down here this is not\nthat this this list is how you organize\neverything this list is how you keep\ntrack of the players of the characters\nthey meet of the things that happen to\nthem and what's going on in the scenes\nas well as the chaos factor okay so list\ncompose are are composed of characters\nokay so all of the NPCs and all the PCs\ngo on that list anytime you meet someone\nnew they're added to the list so the\nfirst time that Simon met Mord the orc\nwho he found him in he found him in that\ncabin I think it episode 2\nMord became a character on a list and\nMord came back later because he was on\nthat less than Episode four whatever to\nsave Simon outside the temple of throws\na anyway so you've got the list of\ncharacters you've got chaos factor of\ncourse which we already talked about and\nthen you've got threads threads are\nstory threads threads are things that\ncome up naturally that you think this is\nnow important to the characters in some\nway and they're probably gonna want to\nfollow that or maybe it's a story thread\nof something happening in the background\nright like at one point in Simon's story\nthere was a story thread about Sharon's\ngroup that the group of undead hunters\nthat were going after ed Burt that was a\nthread that you know was early on added\nto the list at any point that thread\ncould have been acted upon at any point\nwe could have seen you know move toward\na thread as a vent focus or a closer\nthread or anything like that as it\nturned out it never happened but it was\nthere the whole time so story threads\nare how you always move your game back\nto sort of a centrally focused narrative\nso it's not it's not like you're writing\na book and you're not you're not\nrailroading yourself so does\nspeak down 1 you know the players must\ndo this thing because this is the threat\nbut the threads are literally that\nthey're like threads wafting in the air\nthat you can grab and go ah let's weave\nthese threads into a much greater\ntapestry so you set up the scene and as\nyou saw me do in the show one of the\nthings you do first is to decide if the\nscene is is altered so the first thing\nyou do is you say okay what is this\nscene all about Simon has just walked\ninto the town of Hoonah tarah he's\ndecided to go to the inn and and look\nfor help okay we know that's the the\nperceived opening of the scene but now\nwe determine based on the chaos factor\nwhether that scene is modified or\naltered and that's what this is here you\ncan either alter a scene or modify it\nI'm sorry\nultra scene or interrupt and you roll\nthe d-10 against the chaos factor if you\nroll the Kass factor or less than the\nscene is changed in some way if it's an\nodd number then the scene setup is\nmodified into an altered scene but if\nit's an even number then it's an\ninterrupt scene so if my cares factor is\n6\nif I roll 5 3 or 1 that means it's going\nto alter the scene but if I roll the 2 4\nor 6 on that D 10 before the scene\nthat's gonna interrupt the scene what is\nthe difference again it's a matter of\ninterpretation for me an altered scene\nmeans the scene plays out very similar\nto the way was going to but there's some\naspect the most logical aspect that gets\njust twisted a little bit and again you\ngo with your first instinct on that but\ninterrupts scene is a random event it's\nsomething that comes out of the blue and\nyou determine it exactly as you would a\nnormal interrupt scene you roll the\nevent focus then you roll the event\naction and and all that stuff and then\nyou play out the scene and see what\nhappens and that's where the actual game\nbit comes in and then at the end of the\nscene however it ends you update your\nlist so you add characters or you\nsubtract them if people got killed or or\nno longer part of that story you\ndetermine your chaos factor and how that\nworks is if you feel that the main\ncharacters were more or less in control\nof that scene that just happened then\nthe chaos factor goes down if you feel\nthat they were more or less out of\ncontrol than it goes up again what does\nthat mean it's totally up to you your\ninterpretation of it and then you update\nyour threads you remove the old threads\nthat get closed and add new ones that\nthat come up so that is basically the\nentirety of the emulator the author goes\non here to talk about various specific\nedge cases and gives a really great\nexample of how this whole thing can play\nout there's a chapter on world creation\nhere and then a bunch of Q&A questions\nhere which is fantastic tips for better\nplay and then a great extended example\nof chapter 8 that really goes into all\nof the details of this it's it's really\nwell worth reading it so that is the\nemulator that is the main thing that I\nuse to tell the story of Simon and\nironically it won't be the thing I use\nin season two because in season 2 we're\nusing iron sworn an iron sworn I don't\nactually need the GM mythic emulator\nbecause iron sworn has its own GM\nemulator built into the game in fact I'm\ngoing to try to use no other supplements\nin season 2 other than the iron sworn\nbook which the author was wonderful\nenough to send me a copy of as well as\nthe the delve book which is about\ndungeoneering and all of the cards that\nare helpful to play the game so I'm\nthanks a lot for that man super excited\nto start that so that's the emulator I\nhope that answers some questions about\nhow things work when we come back in our\nnext little supplementary series we're\ngonna talk about I think perilous wilds\nwhich is a dungeon world supplement but\none that I do upon fairly fairly\nregularly but I drew upon mostly for\ndungeon crafting and stuff anyway thanks\nfor watching and as always hit like and\nsubscribe and notifications and blah\nblah blah blah blah stay safe out there\nand we'll see you next time on are me\nmyself and I\nsupplemental series okay Joe\n"
+}

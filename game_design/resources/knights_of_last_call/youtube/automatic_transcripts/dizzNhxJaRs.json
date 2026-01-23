@@ -1,0 +1,1965 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,240",
+      "end_time": "00:00:04,160",
+      "text": "Hey everyone, welcome to the nights of"
+    },
+    {
+      "start_time": "00:00:02,080",
+      "end_time": "00:00:05,839",
+      "text": "last call. My name is Derek Melinda."
+    },
+    {
+      "start_time": "00:00:04,160",
+      "end_time": "00:00:07,919",
+      "text": "What you're about to watch is a recent"
+    },
+    {
+      "start_time": "00:00:05,839",
+      "end_time": "00:00:10,480",
+      "text": "clip from a Daggerheart live stream"
+    },
+    {
+      "start_time": "00:00:07,919",
+      "end_time": "00:00:12,160",
+      "text": "where we gave advice to firsttime GMs"
+    },
+    {
+      "start_time": "00:00:10,480",
+      "end_time": "00:00:16,320",
+      "text": "who may need a little help with running"
+    },
+    {
+      "start_time": "00:00:12,160",
+      "end_time": "00:00:18,400",
+      "text": "Daggerheart. Enjoy. Topic the first is"
+    },
+    {
+      "start_time": "00:00:16,320",
+      "end_time": "00:00:21,039",
+      "text": "understanding what Daggerheart isn't,"
+    },
+    {
+      "start_time": "00:00:18,400",
+      "end_time": "00:00:23,359",
+      "text": "right? What is Daggerheart not? And this"
+    },
+    {
+      "start_time": "00:00:21,039",
+      "end_time": "00:00:25,519",
+      "text": "really came up to me during the uh tag"
+    },
+    {
+      "start_time": "00:00:23,359",
+      "end_time": "00:00:27,599",
+      "text": "during the uh Draw Steel streams where"
+    },
+    {
+      "start_time": "00:00:25,519",
+      "end_time": "00:00:30,320",
+      "text": "Draw Steel did a really great job of"
+    },
+    {
+      "start_time": "00:00:27,599",
+      "end_time": "00:00:32,239",
+      "text": "highlighting what this game is not about"
+    },
+    {
+      "start_time": "00:00:30,320",
+      "end_time": "00:00:34,559",
+      "text": "and even gave suggestions about going"
+    },
+    {
+      "start_time": "00:00:32,239",
+      "end_time": "00:00:36,640",
+      "text": "and doing playing other games if you"
+    },
+    {
+      "start_time": "00:00:34,559",
+      "end_time": "00:00:39,360",
+      "text": "wanted to uh engage in those sort of"
+    },
+    {
+      "start_time": "00:00:36,640",
+      "end_time": "00:00:42,960",
+      "text": "activities. Now, like all game systems,"
+    },
+    {
+      "start_time": "00:00:39,360",
+      "end_time": "00:00:45,760",
+      "text": "Dagger Heart can be bent or broken uh in"
+    },
+    {
+      "start_time": "00:00:42,960",
+      "end_time": "00:00:48,559",
+      "text": "certain places, but ultimately, you"
+    },
+    {
+      "start_time": "00:00:45,760",
+      "end_time": "00:00:50,239",
+      "text": "know, there is a core ethos to the game,"
+    },
+    {
+      "start_time": "00:00:48,559",
+      "end_time": "00:00:52,000",
+      "text": "and the further and further you go"
+    },
+    {
+      "start_time": "00:00:50,239",
+      "end_time": "00:00:53,680",
+      "text": "astray from that, the more and more"
+    },
+    {
+      "start_time": "00:00:52,000",
+      "end_time": "00:00:55,760",
+      "text": "difficulty that difficulty you're going"
+    },
+    {
+      "start_time": "00:00:53,680",
+      "end_time": "00:01:00,079",
+      "text": "to encounter. So, I really want to sort"
+    },
+    {
+      "start_time": "00:00:55,760",
+      "end_time": "00:01:02,640",
+      "text": "of focus on what Daggerheart is not and"
+    },
+    {
+      "start_time": "00:01:00,079",
+      "end_time": "00:01:04,799",
+      "text": "understand why you may not want to play"
+    },
+    {
+      "start_time": "00:01:02,640",
+      "end_time": "00:01:07,439",
+      "text": "Daggerheart or may or why Dagger Hart"
+    },
+    {
+      "start_time": "00:01:04,799",
+      "end_time": "00:01:10,400",
+      "text": "may not be right for you. What is"
+    },
+    {
+      "start_time": "00:01:07,439",
+      "end_time": "00:01:14,080",
+      "text": "Daggerahart not? So Daggerart is not"
+    },
+    {
+      "start_time": "00:01:10,400",
+      "end_time": "00:01:17,840",
+      "text": "just D and D with some narrative tokens."
+    },
+    {
+      "start_time": "00:01:14,080",
+      "end_time": "00:01:21,119",
+      "text": "Okay, I fundamentally believe that games"
+    },
+    {
+      "start_time": "00:01:17,840",
+      "end_time": "00:01:23,759",
+      "text": "like Dungeons and Dragons and games like"
+    },
+    {
+      "start_time": "00:01:21,119",
+      "end_time": "00:01:25,680",
+      "text": "Pathfinder 2 and to a certain extent,"
+    },
+    {
+      "start_time": "00:01:23,759",
+      "end_time": "00:01:27,680",
+      "text": "you know, even games like Draw Steel are"
+    },
+    {
+      "start_time": "00:01:25,680",
+      "end_time": "00:01:29,840",
+      "text": "fundamentally based around this idea of"
+    },
+    {
+      "start_time": "00:01:27,680",
+      "end_time": "00:01:31,280",
+      "text": "campaign as a competition. Now, I may"
+    },
+    {
+      "start_time": "00:01:29,840",
+      "end_time": "00:01:33,200",
+      "text": "know it may not seem that way and not"
+    },
+    {
+      "start_time": "00:01:31,280",
+      "end_time": "00:01:36,479",
+      "text": "everybody uses the mechanics for that,"
+    },
+    {
+      "start_time": "00:01:33,200",
+      "end_time": "00:01:39,759",
+      "text": "but the game itself is built around this"
+    },
+    {
+      "start_time": "00:01:36,479",
+      "end_time": "00:01:42,799",
+      "text": "idea of the dungeon master or the game"
+    },
+    {
+      "start_time": "00:01:39,759",
+      "end_time": "00:01:45,520",
+      "text": "master setting a series of challenges"
+    },
+    {
+      "start_time": "00:01:42,799",
+      "end_time": "00:01:47,360",
+      "text": "that are sort of codified and balanced"
+    },
+    {
+      "start_time": "00:01:45,520",
+      "end_time": "00:01:50,079",
+      "text": "within the context of the system. The"
+    },
+    {
+      "start_time": "00:01:47,360",
+      "end_time": "00:01:51,920",
+      "text": "players then go and try to defeat those"
+    },
+    {
+      "start_time": "00:01:50,079",
+      "end_time": "00:01:53,920",
+      "text": "challenges so that they can overcome"
+    },
+    {
+      "start_time": "00:01:51,920",
+      "end_time": "00:01:57,600",
+      "text": "their goals uh or sorry, so they can"
+    },
+    {
+      "start_time": "00:01:53,920",
+      "end_time": "00:01:59,840",
+      "text": "achieve their goals. So that fundamental"
+    },
+    {
+      "start_time": "00:01:57,600",
+      "end_time": "00:02:02,240",
+      "text": "construct places the game master and the"
+    },
+    {
+      "start_time": "00:01:59,840",
+      "end_time": "00:02:06,880",
+      "text": "dungeon master sort of in a role of my"
+    },
+    {
+      "start_time": "00:02:02,240",
+      "end_time": "00:02:08,879",
+      "text": "job here is to provide a challenge to"
+    },
+    {
+      "start_time": "00:02:06,880",
+      "end_time": "00:02:10,959",
+      "text": "make this a difficult process. Now the"
+    },
+    {
+      "start_time": "00:02:08,879",
+      "end_time": "00:02:12,560",
+      "text": "games have done a lot of lifting over"
+    },
+    {
+      "start_time": "00:02:10,959",
+      "end_time": "00:02:14,080",
+      "text": "the years to try to make it so that the"
+    },
+    {
+      "start_time": "00:02:12,560",
+      "end_time": "00:02:15,680",
+      "text": "players feel like they're challenged but"
+    },
+    {
+      "start_time": "00:02:14,080",
+      "end_time": "00:02:16,959",
+      "text": "they're not actually being challenged."
+    },
+    {
+      "start_time": "00:02:15,680",
+      "end_time": "00:02:20,160",
+      "text": "But I'm going to go out here and say"
+    },
+    {
+      "start_time": "00:02:16,959",
+      "end_time": "00:02:23,280",
+      "text": "that Daggerheart is not that. It is"
+    },
+    {
+      "start_time": "00:02:20,160",
+      "end_time": "00:02:27,040",
+      "text": "built fundamentally for narrative and"
+    },
+    {
+      "start_time": "00:02:23,280",
+      "end_time": "00:02:30,319",
+      "text": "emotional storytelling. The duality dice"
+    },
+    {
+      "start_time": "00:02:27,040",
+      "end_time": "00:02:32,800",
+      "text": "system is first and foremost designed to"
+    },
+    {
+      "start_time": "00:02:30,319",
+      "end_time": "00:02:35,360",
+      "text": "guide your characters through character"
+    },
+    {
+      "start_time": "00:02:32,800",
+      "end_time": "00:02:38,080",
+      "text": "arcs. The whole game is based around"
+    },
+    {
+      "start_time": "00:02:35,360",
+      "end_time": "00:02:43,840",
+      "text": "this idea of not"
+    },
+    {
+      "start_time": "00:02:38,080",
+      "end_time": "00:02:47,760",
+      "text": "will we achieve our victories but how."
+    },
+    {
+      "start_time": "00:02:43,840",
+      "end_time": "00:02:49,680",
+      "text": "Uh so yeah, so Daggerheart is not"
+    },
+    {
+      "start_time": "00:02:47,760",
+      "end_time": "00:02:53,200",
+      "text": "uh it's not designed for that. It's not"
+    },
+    {
+      "start_time": "00:02:49,680",
+      "end_time": "00:02:56,080",
+      "text": "about tactical precision. It is not"
+    },
+    {
+      "start_time": "00:02:53,200",
+      "end_time": "00:02:59,200",
+      "text": "about grid-based combat. It is not about"
+    },
+    {
+      "start_time": "00:02:56,080",
+      "end_time": "00:03:01,040",
+      "text": "hard balance. And while I'm not going to"
+    },
+    {
+      "start_time": "00:02:59,200",
+      "end_time": "00:03:04,560",
+      "text": "tell you to completely ignore the rules"
+    },
+    {
+      "start_time": "00:03:01,040",
+      "end_time": "00:03:06,640",
+      "text": "of the game, I think or I find that even"
+    },
+    {
+      "start_time": "00:03:04,560",
+      "end_time": "00:03:08,640",
+      "text": "some of the fiddliness like with the"
+    },
+    {
+      "start_time": "00:03:06,640",
+      "end_time": "00:03:10,000",
+      "text": "range ruler, you know, I see a lot of"
+    },
+    {
+      "start_time": "00:03:08,640",
+      "end_time": "00:03:11,760",
+      "text": "people on Reddit, well-intentioned,"
+    },
+    {
+      "start_time": "00:03:10,000",
+      "end_time": "00:03:16,480",
+      "text": "they're making these range rulers, you"
+    },
+    {
+      "start_time": "00:03:11,760",
+      "end_time": "00:03:19,280",
+      "text": "know, very close, close, far. I I think"
+    },
+    {
+      "start_time": "00:03:16,480",
+      "end_time": "00:03:21,519",
+      "text": "those are fine. I think using miniatures"
+    },
+    {
+      "start_time": "00:03:19,280",
+      "end_time": "00:03:24,480",
+      "text": "is fine. I may I'm probably going to use"
+    },
+    {
+      "start_time": "00:03:21,519",
+      "end_time": "00:03:27,200",
+      "text": "miniatures myself,"
+    },
+    {
+      "start_time": "00:03:24,480",
+      "end_time": "00:03:28,800",
+      "text": "but I think that that can"
+    },
+    {
+      "start_time": "00:03:27,200",
+      "end_time": "00:03:32,159",
+      "text": "distract you from what the focus and the"
+    },
+    {
+      "start_time": "00:03:28,800",
+      "end_time": "00:03:34,959",
+      "text": "emphasis is on. And I want people to"
+    },
+    {
+      "start_time": "00:03:32,159",
+      "end_time": "00:03:38,720",
+      "text": "realize that this is not about creating"
+    },
+    {
+      "start_time": "00:03:34,959",
+      "end_time": "00:03:41,840",
+      "text": "a tactically rich, rewarding, uh, you"
+    },
+    {
+      "start_time": "00:03:38,720",
+      "end_time": "00:03:44,239",
+      "text": "know, challengebased experience. I've"
+    },
+    {
+      "start_time": "00:03:41,840",
+      "end_time": "00:03:47,120",
+      "text": "seen a lot of people on Reddit complain"
+    },
+    {
+      "start_time": "00:03:44,239",
+      "end_time": "00:03:49,120",
+      "text": "about, um, you know, my guardian uh,"
+    },
+    {
+      "start_time": "00:03:47,120",
+      "end_time": "00:03:51,280",
+      "text": "used their, you know, their class"
+    },
+    {
+      "start_time": "00:03:49,120",
+      "end_time": "00:03:52,959",
+      "text": "feature and they became unstoppable."
+    },
+    {
+      "start_time": "00:03:51,280",
+      "end_time": "00:03:56,319",
+      "text": "There was no way for me to challenge"
+    },
+    {
+      "start_time": "00:03:52,959",
+      "end_time": "00:03:57,920",
+      "text": "them. Yes. Uh, you know, think about"
+    },
+    {
+      "start_time": "00:03:56,319",
+      "end_time": "00:04:00,640",
+      "text": "your average D and D game in Pathfinder"
+    },
+    {
+      "start_time": "00:03:57,920",
+      "end_time": "00:04:02,799",
+      "text": "2 game. How often do your players lose?"
+    },
+    {
+      "start_time": "00:04:00,640",
+      "end_time": "00:04:04,879",
+      "text": "The answer is very rarely. And that is"
+    },
+    {
+      "start_time": "00:04:02,799",
+      "end_time": "00:04:07,120",
+      "text": "supposed to be a game that is"
+    },
+    {
+      "start_time": "00:04:04,879",
+      "end_time": "00:04:09,680",
+      "text": "challengebased. Daggerheart is not that"
+    },
+    {
+      "start_time": "00:04:07,120",
+      "end_time": "00:04:12,000",
+      "text": "game. Those aren't the stakes that we"
+    },
+    {
+      "start_time": "00:04:09,680",
+      "end_time": "00:04:13,599",
+      "text": "are going up against. If you want a game"
+    },
+    {
+      "start_time": "00:04:12,000",
+      "end_time": "00:04:16,239",
+      "text": "that's really going to push your players"
+    },
+    {
+      "start_time": "00:04:13,599",
+      "end_time": "00:04:18,000",
+      "text": "to sort of minmax car op, you know, have"
+    },
+    {
+      "start_time": "00:04:16,239",
+      "end_time": "00:04:20,160",
+      "text": "to really rack their brains and think"
+    },
+    {
+      "start_time": "00:04:18,000",
+      "end_time": "00:04:22,000",
+      "text": "hard, this is probably not the best game"
+    },
+    {
+      "start_time": "00:04:20,160",
+      "end_time": "00:04:23,759",
+      "text": "for it. Now, Dagger Hart is a great game"
+    },
+    {
+      "start_time": "00:04:22,000",
+      "end_time": "00:04:25,360",
+      "text": "because it it gives us these fun little"
+    },
+    {
+      "start_time": "00:04:23,759",
+      "end_time": "00:04:27,280",
+      "text": "tools and these fun little toys and fun"
+    },
+    {
+      "start_time": "00:04:25,360",
+      "end_time": "00:04:29,040",
+      "text": "little levers that we can play with, but"
+    },
+    {
+      "start_time": "00:04:27,280",
+      "end_time": "00:04:31,280",
+      "text": "it is not about that kind of precision."
+    },
+    {
+      "start_time": "00:04:29,040",
+      "end_time": "00:04:33,600",
+      "text": "The same thing is about initiative order"
+    },
+    {
+      "start_time": "00:04:31,280",
+      "end_time": "00:04:35,199",
+      "text": "and the lack thereof. This isn't"
+    },
+    {
+      "start_time": "00:04:33,600",
+      "end_time": "00:04:38,080",
+      "text": "necessarily a game that is about"
+    },
+    {
+      "start_time": "00:04:35,199",
+      "end_time": "00:04:39,919",
+      "text": "complete and total fairness and balance"
+    },
+    {
+      "start_time": "00:04:38,080",
+      "end_time": "00:04:41,600",
+      "text": "in every single situation and in every"
+    },
+    {
+      "start_time": "00:04:39,919",
+      "end_time": "00:04:44,080",
+      "text": "single encounter. I've talked before"
+    },
+    {
+      "start_time": "00:04:41,600",
+      "end_time": "00:04:46,080",
+      "text": "that there may be a combat where one"
+    },
+    {
+      "start_time": "00:04:44,080",
+      "end_time": "00:04:47,680",
+      "text": "particular character has a lot more at"
+    },
+    {
+      "start_time": "00:04:46,080",
+      "end_time": "00:04:50,000",
+      "text": "stake"
+    },
+    {
+      "start_time": "00:04:47,680",
+      "end_time": "00:04:52,320",
+      "text": "than the other characters. You can bet"
+    },
+    {
+      "start_time": "00:04:50,000",
+      "end_time": "00:04:55,040",
+      "text": "your ass that that character is going to"
+    },
+    {
+      "start_time": "00:04:52,320",
+      "end_time": "00:04:57,440",
+      "text": "get more spotlight time from me as the"
+    },
+    {
+      "start_time": "00:04:55,040",
+      "end_time": "00:04:59,520",
+      "text": "game master than they would maybe in"
+    },
+    {
+      "start_time": "00:04:57,440",
+      "end_time": "00:05:02,000",
+      "text": "another fight or another encounter"
+    },
+    {
+      "start_time": "00:04:59,520",
+      "end_time": "00:05:03,520",
+      "text": "because this is about them. So, you"
+    },
+    {
+      "start_time": "00:05:02,000",
+      "end_time": "00:05:06,080",
+      "text": "can't think of it in terms of initiative"
+    },
+    {
+      "start_time": "00:05:03,520",
+      "end_time": "00:05:07,680",
+      "text": "order. You need to think in terms of the"
+    },
+    {
+      "start_time": "00:05:06,080",
+      "end_time": "00:05:10,320",
+      "text": "lens of a director. You need to think"
+    },
+    {
+      "start_time": "00:05:07,680",
+      "end_time": "00:05:13,440",
+      "text": "about it in terms of a storyteller. This"
+    },
+    {
+      "start_time": "00:05:10,320",
+      "end_time": "00:05:15,680",
+      "text": "is a game about bringing these narrative"
+    },
+    {
+      "start_time": "00:05:13,440",
+      "end_time": "00:05:18,400",
+      "text": "arcs to life, but instead of it being"
+    },
+    {
+      "start_time": "00:05:15,680",
+      "end_time": "00:05:20,720",
+      "text": "pre-written, we are"
+    },
+    {
+      "start_time": "00:05:18,400",
+      "end_time": "00:05:21,759",
+      "text": "we are uh we're figuring it out and"
+    },
+    {
+      "start_time": "00:05:20,720",
+      "end_time": "00:05:26,880",
+      "text": "we're playing it together and we're"
+    },
+    {
+      "start_time": "00:05:21,759",
+      "end_time": "00:05:29,600",
+      "text": "we're discovering it together. So if"
+    },
+    {
+      "start_time": "00:05:26,880",
+      "end_time": "00:05:31,840",
+      "text": "if Dungeons and Dragons and Pathfinder 2"
+    },
+    {
+      "start_time": "00:05:29,600",
+      "end_time": "00:05:34,720",
+      "text": "at their fundamental"
+    },
+    {
+      "start_time": "00:05:31,840",
+      "end_time": "00:05:38,160",
+      "text": "base are a game that is a question of"
+    },
+    {
+      "start_time": "00:05:34,720",
+      "end_time": "00:05:41,120",
+      "text": "about there are great problems, terrible"
+    },
+    {
+      "start_time": "00:05:38,160",
+      "end_time": "00:05:45,600",
+      "text": "evils in the world. And the question"
+    },
+    {
+      "start_time": "00:05:41,120",
+      "end_time": "00:05:50,560",
+      "text": "posed by the game is will the characters"
+    },
+    {
+      "start_time": "00:05:45,600",
+      "end_time": "00:05:54,560",
+      "text": "be able to succeed? Right? uh can our"
+    },
+    {
+      "start_time": "00:05:50,560",
+      "end_time": "00:05:56,479",
+      "text": "characters stop the great evil?"
+    },
+    {
+      "start_time": "00:05:54,560",
+      "end_time": "00:05:58,000",
+      "text": "Now that is that is that is technically"
+    },
+    {
+      "start_time": "00:05:56,479",
+      "end_time": "00:05:59,520",
+      "text": "the premise that is assumed right that"
+    },
+    {
+      "start_time": "00:05:58,000",
+      "end_time": "00:06:03,280",
+      "text": "we go into that game the players"
+    },
+    {
+      "start_time": "00:05:59,520",
+      "end_time": "00:06:05,120",
+      "text": "believing that if they don't play right"
+    },
+    {
+      "start_time": "00:06:03,280",
+      "end_time": "00:06:07,120",
+      "text": "or if they don't play well enough right"
+    },
+    {
+      "start_time": "00:06:05,120",
+      "end_time": "00:06:08,639",
+      "text": "that they can lose and that the game the"
+    },
+    {
+      "start_time": "00:06:07,120",
+      "end_time": "00:06:10,720",
+      "text": "game master will win right and that's"
+    },
+    {
+      "start_time": "00:06:08,639",
+      "end_time": "00:06:12,560",
+      "text": "what I mean by campaign is competition"
+    },
+    {
+      "start_time": "00:06:10,720",
+      "end_time": "00:06:14,400",
+      "text": "now we all know that again these games"
+    },
+    {
+      "start_time": "00:06:12,560",
+      "end_time": "00:06:16,400",
+      "text": "are fairly tightly balanced especially"
+    },
+    {
+      "start_time": "00:06:14,400",
+      "end_time": "00:06:17,600",
+      "text": "nowadays modern games so that that"
+    },
+    {
+      "start_time": "00:06:16,400",
+      "end_time": "00:06:19,600",
+      "text": "actually doesn't really happen that"
+    },
+    {
+      "start_time": "00:06:17,600",
+      "end_time": "00:06:21,680",
+      "text": "often and then even in situations where"
+    },
+    {
+      "start_time": "00:06:19,600",
+      "end_time": "00:06:24,240",
+      "text": "it might happen we have a lot of stories"
+    },
+    {
+      "start_time": "00:06:21,680",
+      "end_time": "00:06:25,440",
+      "text": "on Reddit of people and YouTube of"
+    },
+    {
+      "start_time": "00:06:24,240",
+      "end_time": "00:06:27,280",
+      "text": "people saying, \"Well, that's why I"
+    },
+    {
+      "start_time": "00:06:25,440",
+      "end_time": "00:06:28,560",
+      "text": "fudge, right? Because I don't want my"
+    },
+    {
+      "start_time": "00:06:27,280",
+      "end_time": "00:06:31,199",
+      "text": "players to lose. I want my players to"
+    },
+    {
+      "start_time": "00:06:28,560",
+      "end_time": "00:06:33,440",
+      "text": "win.\" So, the game itself is built"
+    },
+    {
+      "start_time": "00:06:31,199",
+      "end_time": "00:06:37,199",
+      "text": "around this fundamental premise of can"
+    },
+    {
+      "start_time": "00:06:33,440",
+      "end_time": "00:06:39,919",
+      "text": "the players win? Will the players win?"
+    },
+    {
+      "start_time": "00:06:37,199",
+      "end_time": "00:06:41,840",
+      "text": "If the players win,"
+    },
+    {
+      "start_time": "00:06:39,919",
+      "end_time": "00:06:44,880",
+      "text": "I believe that Dagger Heart isn't that"
+    },
+    {
+      "start_time": "00:06:41,840",
+      "end_time": "00:06:49,039",
+      "text": "game. It's not a question of winning or"
+    },
+    {
+      "start_time": "00:06:44,880",
+      "end_time": "00:06:50,639",
+      "text": "losing. It's more of a question of"
+    },
+    {
+      "start_time": "00:06:49,039",
+      "end_time": "00:06:54,000",
+      "text": "how will the characters how will this"
+    },
+    {
+      "start_time": "00:06:50,639",
+      "end_time": "00:06:55,280",
+      "text": "experience change the characters? Maybe"
+    },
+    {
+      "start_time": "00:06:54,000",
+      "end_time": "00:06:59,039",
+      "text": "the fact that the characters are going"
+    },
+    {
+      "start_time": "00:06:55,280",
+      "end_time": "00:07:00,400",
+      "text": "to win is a given. The the system is I"
+    },
+    {
+      "start_time": "00:06:59,039",
+      "end_time": "00:07:02,240",
+      "text": "mean look right off the bat the"
+    },
+    {
+      "start_time": "00:07:00,400",
+      "end_time": "00:07:03,919",
+      "text": "characters can't die. They can always"
+    },
+    {
+      "start_time": "00:07:02,240",
+      "end_time": "00:07:05,840",
+      "text": "avoid death. If nothing else should"
+    },
+    {
+      "start_time": "00:07:03,919",
+      "end_time": "00:07:07,840",
+      "text": "convince you that this game isn't about"
+    },
+    {
+      "start_time": "00:07:05,840",
+      "end_time": "00:07:09,840",
+      "text": "winning or losing. It should be that"
+    },
+    {
+      "start_time": "00:07:07,840",
+      "end_time": "00:07:11,840",
+      "text": "characters if they, you know, get taken"
+    },
+    {
+      "start_time": "00:07:09,840",
+      "end_time": "00:07:13,520",
+      "text": "out and killed, they can go, \"Yeah, I'll"
+    },
+    {
+      "start_time": "00:07:11,840",
+      "end_time": "00:07:15,840",
+      "text": "avoid death. I'm going to choose to"
+    },
+    {
+      "start_time": "00:07:13,520",
+      "end_time": "00:07:17,599",
+      "text": "avoid death.\" Um, hell, as a GM, you"
+    },
+    {
+      "start_time": "00:07:15,840",
+      "end_time": "00:07:19,199",
+      "text": "could pour all of your efforts into"
+    },
+    {
+      "start_time": "00:07:17,599",
+      "end_time": "00:07:20,479",
+      "text": "trying to kill a character and then they"
+    },
+    {
+      "start_time": "00:07:19,199",
+      "end_time": "00:07:22,400",
+      "text": "might go, you know what, I'm going to"
+    },
+    {
+      "start_time": "00:07:20,479",
+      "end_time": "00:07:24,160",
+      "text": "risk it all. And they roll a 10 on the"
+    },
+    {
+      "start_time": "00:07:22,400",
+      "end_time": "00:07:25,599",
+      "text": "hope and a two on the fear and suddenly"
+    },
+    {
+      "start_time": "00:07:24,160",
+      "end_time": "00:07:27,039",
+      "text": "like they're back in the fight with max"
+    },
+    {
+      "start_time": "00:07:25,599",
+      "end_time": "00:07:27,919",
+      "text": "hit points and and no, you know, with"
+    },
+    {
+      "start_time": "00:07:27,039",
+      "end_time": "00:07:32,240",
+      "text": "all their hit points and all their"
+    },
+    {
+      "start_time": "00:07:27,919",
+      "end_time": "00:07:33,919",
+      "text": "stress cleared. So clearly balance and"
+    },
+    {
+      "start_time": "00:07:32,240",
+      "end_time": "00:07:36,080",
+      "text": "the question of can the players overcome"
+    },
+    {
+      "start_time": "00:07:33,919",
+      "end_time": "00:07:38,240",
+      "text": "this challenge is irrelevant. What's"
+    },
+    {
+      "start_time": "00:07:36,080",
+      "end_time": "00:07:40,479",
+      "text": "really at stake here is how will the"
+    },
+    {
+      "start_time": "00:07:38,240",
+      "end_time": "00:07:42,800",
+      "text": "characters change? What sacrifices are"
+    },
+    {
+      "start_time": "00:07:40,479",
+      "end_time": "00:07:45,039",
+      "text": "they willing to make in order to achieve"
+    },
+    {
+      "start_time": "00:07:42,800",
+      "end_time": "00:07:47,759",
+      "text": "their goals? How will you challenge"
+    },
+    {
+      "start_time": "00:07:45,039",
+      "end_time": "00:07:49,599",
+      "text": "their beliefs? Can they mold can they"
+    },
+    {
+      "start_time": "00:07:47,759",
+      "end_time": "00:07:52,080",
+      "text": "maintain and and keep up with their"
+    },
+    {
+      "start_time": "00:07:49,599",
+      "end_time": "00:07:54,160",
+      "text": "beliefs despite the challenges and the"
+    },
+    {
+      "start_time": "00:07:52,080",
+      "end_time": "00:07:57,599",
+      "text": "adversities being thrown before them?"
+    },
+    {
+      "start_time": "00:07:54,160",
+      "end_time": "00:08:00,720",
+      "text": "What what prices will they pay in order"
+    },
+    {
+      "start_time": "00:07:57,599",
+      "end_time": "00:08:03,759",
+      "text": "to achieve their goals? What compromises"
+    },
+    {
+      "start_time": "00:08:00,720",
+      "end_time": "00:08:06,080",
+      "text": "are they willing to make? And we learn"
+    },
+    {
+      "start_time": "00:08:03,759",
+      "end_time": "00:08:08,400",
+      "text": "about those characters and we discover"
+    },
+    {
+      "start_time": "00:08:06,080",
+      "end_time": "00:08:10,400",
+      "text": "the story of those characters together."
+    },
+    {
+      "start_time": "00:08:08,400",
+      "end_time": "00:08:12,560",
+      "text": "It's not pre-written. We discover it"
+    },
+    {
+      "start_time": "00:08:10,400",
+      "end_time": "00:08:16,479",
+      "text": "together. The dice help guide that"
+    },
+    {
+      "start_time": "00:08:12,560",
+      "end_time": "00:08:19,520",
+      "text": "story. So, it is essentially"
+    },
+    {
+      "start_time": "00:08:16,479",
+      "end_time": "00:08:22,160",
+      "text": "a a storytelling game in that kind of"
+    },
+    {
+      "start_time": "00:08:19,520",
+      "end_time": "00:08:24,240",
+      "text": "weird wonky narrative sense. Um, it"
+    },
+    {
+      "start_time": "00:08:22,160",
+      "end_time": "00:08:26,639",
+      "text": "still uses these mechanical concepts"
+    },
+    {
+      "start_time": "00:08:24,240",
+      "end_time": "00:08:28,560",
+      "text": "like hit points and armor class and your"
+    },
+    {
+      "start_time": "00:08:26,639",
+      "end_time": "00:08:31,440",
+      "text": "character can still quote unquote die by"
+    },
+    {
+      "start_time": "00:08:28,560",
+      "end_time": "00:08:33,919",
+      "text": "going to zero hit points, but because of"
+    },
+    {
+      "start_time": "00:08:31,440",
+      "end_time": "00:08:36,959",
+      "text": "the mechanics like fear and because of"
+    },
+    {
+      "start_time": "00:08:33,919",
+      "end_time": "00:08:39,519",
+      "text": "the mechanics like avoid death, those"
+    },
+    {
+      "start_time": "00:08:36,959",
+      "end_time": "00:08:41,839",
+      "text": "consequences are very much mitigated in"
+    },
+    {
+      "start_time": "00:08:39,519",
+      "end_time": "00:08:45,519",
+      "text": "a way that our traditional D20 fantasies"
+    },
+    {
+      "start_time": "00:08:41,839",
+      "end_time": "00:08:47,600",
+      "text": "don't. So really thinking about how can"
+    },
+    {
+      "start_time": "00:08:45,519",
+      "end_time": "00:08:48,720",
+      "text": "I make the fight harder? You might put"
+    },
+    {
+      "start_time": "00:08:47,600",
+      "end_time": "00:08:51,040",
+      "text": "all this effort into making the fight"
+    },
+    {
+      "start_time": "00:08:48,720",
+      "end_time": "00:08:52,959",
+      "text": "harder. You succeed, I guess, in wiping"
+    },
+    {
+      "start_time": "00:08:51,040",
+      "end_time": "00:08:55,360",
+      "text": "out the characters and then they might"
+    },
+    {
+      "start_time": "00:08:52,959",
+      "end_time": "00:08:57,360",
+      "text": "all choose to avoid death. And so what"
+    },
+    {
+      "start_time": "00:08:55,360",
+      "end_time": "00:08:59,279",
+      "text": "was really the point of that? It sounds"
+    },
+    {
+      "start_time": "00:08:57,360",
+      "end_time": "00:09:00,640",
+      "text": "like you were just taking control of the"
+    },
+    {
+      "start_time": "00:08:59,279",
+      "end_time": "00:09:01,839",
+      "text": "of the situation and control of the"
+    },
+    {
+      "start_time": "00:09:00,640",
+      "end_time": "00:09:03,920",
+      "text": "narrative. You need to be more freeing"
+    },
+    {
+      "start_time": "00:09:01,839",
+      "end_time": "00:09:06,880",
+      "text": "and more open to experiences than that."
+    },
+    {
+      "start_time": "00:09:03,920",
+      "end_time": "00:09:08,880",
+      "text": "There isn't all of the systems, the"
+    },
+    {
+      "start_time": "00:09:06,880",
+      "end_time": "00:09:12,720",
+      "text": "mechanics, the resources, the character"
+    },
+    {
+      "start_time": "00:09:08,880",
+      "end_time": "00:09:17,440",
+      "text": "choices, they are framed through drama"
+    },
+    {
+      "start_time": "00:09:12,720",
+      "end_time": "00:09:21,040",
+      "text": "and fiction, not math and not balance."
+    },
+    {
+      "start_time": "00:09:17,440",
+      "end_time": "00:09:23,200",
+      "text": "Um, you know, it's it it values this"
+    },
+    {
+      "start_time": "00:09:21,040",
+      "end_time": "00:09:25,600",
+      "text": "idea of the fiction. When when we refer"
+    },
+    {
+      "start_time": "00:09:23,200",
+      "end_time": "00:09:26,959",
+      "text": "to the fiction, we refer to the the"
+    },
+    {
+      "start_time": "00:09:25,600",
+      "end_time": "00:09:29,760",
+      "text": "world in which our characters are"
+    },
+    {
+      "start_time": "00:09:26,959",
+      "end_time": "00:09:32,160",
+      "text": "inhabiting. But there's also another"
+    },
+    {
+      "start_time": "00:09:29,760",
+      "end_time": "00:09:34,480",
+      "text": "element. See, if we were playing a very"
+    },
+    {
+      "start_time": "00:09:32,160",
+      "end_time": "00:09:37,839",
+      "text": "fully simulationist game, we would be"
+    },
+    {
+      "start_time": "00:09:34,480",
+      "end_time": "00:09:38,880",
+      "text": "worried about the fiction."
+    },
+    {
+      "start_time": "00:09:37,839",
+      "end_time": "00:09:40,160",
+      "text": "And you might say, \"Oh, wait, wait,"
+    },
+    {
+      "start_time": "00:09:38,880",
+      "end_time": "00:09:41,600",
+      "text": "fiction. Isn't that have to do with like"
+    },
+    {
+      "start_time": "00:09:40,160",
+      "end_time": "00:09:44,560",
+      "text": "narrative and storytelling and arcs?\""
+    },
+    {
+      "start_time": "00:09:41,600",
+      "end_time": "00:09:46,800",
+      "text": "No, no, no. When PBTA style and PBTA"
+    },
+    {
+      "start_time": "00:09:44,560",
+      "end_time": "00:09:49,440",
+      "text": "adjacent games talk about the fiction,"
+    },
+    {
+      "start_time": "00:09:46,800",
+      "end_time": "00:09:51,120",
+      "text": "what they mean is what is the world in"
+    },
+    {
+      "start_time": "00:09:49,440",
+      "end_time": "00:09:53,040",
+      "text": "which our characters are inhabiting? How"
+    },
+    {
+      "start_time": "00:09:51,120",
+      "end_time": "00:09:54,560",
+      "text": "does it work? If I light a bridge on"
+    },
+    {
+      "start_time": "00:09:53,040",
+      "end_time": "00:09:56,399",
+      "text": "fire, then the bridge should probably"
+    },
+    {
+      "start_time": "00:09:54,560",
+      "end_time": "00:09:58,080",
+      "text": "burn down unless someone puts it out."
+    },
+    {
+      "start_time": "00:09:56,399",
+      "end_time": "00:09:59,440",
+      "text": "And when the players come back there a"
+    },
+    {
+      "start_time": "00:09:58,080",
+      "end_time": "00:10:01,600",
+      "text": "couple weeks later, maybe the bridge is"
+    },
+    {
+      "start_time": "00:09:59,440",
+      "end_time": "00:10:03,279",
+      "text": "still destroyed or maybe the town has"
+    },
+    {
+      "start_time": "00:10:01,600",
+      "end_time": "00:10:04,399",
+      "text": "started a new project to rebuild the"
+    },
+    {
+      "start_time": "00:10:03,279",
+      "end_time": "00:10:06,320",
+      "text": "bridge and they're very mad at the"
+    },
+    {
+      "start_time": "00:10:04,399",
+      "end_time": "00:10:08,160",
+      "text": "players because they wantingly destroyed"
+    },
+    {
+      "start_time": "00:10:06,320",
+      "end_time": "00:10:09,279",
+      "text": "the bridge in their fight and they were"
+    },
+    {
+      "start_time": "00:10:08,160",
+      "end_time": "00:10:10,320",
+      "text": "throwing fireballs around when they"
+    },
+    {
+      "start_time": "00:10:09,279",
+      "end_time": "00:10:11,519",
+      "text": "shouldn't have been or something like to"
+    },
+    {
+      "start_time": "00:10:10,320",
+      "end_time": "00:10:14,160",
+      "text": "that nature, right? The world has this"
+    },
+    {
+      "start_time": "00:10:11,519",
+      "end_time": "00:10:16,000",
+      "text": "sort of internal consistency. So that's"
+    },
+    {
+      "start_time": "00:10:14,160",
+      "end_time": "00:10:18,560",
+      "text": "the fiction and believe it or not that"
+    },
+    {
+      "start_time": "00:10:16,000",
+      "end_time": "00:10:21,120",
+      "text": "is really important to simulation style"
+    },
+    {
+      "start_time": "00:10:18,560",
+      "end_time": "00:10:24,000",
+      "text": "games to verimilitude, right? To the"
+    },
+    {
+      "start_time": "00:10:21,120",
+      "end_time": "00:10:25,519",
+      "text": "suspension of disbelief. Dagger Hurt has"
+    },
+    {
+      "start_time": "00:10:24,000",
+      "end_time": "00:10:27,760",
+      "text": "that. It calls itself a fiction first"
+    },
+    {
+      "start_time": "00:10:25,519",
+      "end_time": "00:10:30,160",
+      "text": "game and you should respect that. But"
+    },
+    {
+      "start_time": "00:10:27,760",
+      "end_time": "00:10:32,240",
+      "text": "that term is a little bit misleading"
+    },
+    {
+      "start_time": "00:10:30,160",
+      "end_time": "00:10:35,600",
+      "text": "because Dagger Hart has another pillar"
+    },
+    {
+      "start_time": "00:10:32,240",
+      "end_time": "00:10:38,079",
+      "text": "and the other pillar is narrativism."
+    },
+    {
+      "start_time": "00:10:35,600",
+      "end_time": "00:10:40,720",
+      "text": "Dagger Hart wants you to make decisions"
+    },
+    {
+      "start_time": "00:10:38,079",
+      "end_time": "00:10:42,399",
+      "text": "that not only respect the fiction but"
+    },
+    {
+      "start_time": "00:10:40,720",
+      "end_time": "00:10:45,279",
+      "text": "fill the characters lives with"
+    },
+    {
+      "start_time": "00:10:42,399",
+      "end_time": "00:10:46,399",
+      "text": "excitement and adventure and danger. You"
+    },
+    {
+      "start_time": "00:10:45,279",
+      "end_time": "00:10:47,600",
+      "text": "want to make sure that things don't"
+    },
+    {
+      "start_time": "00:10:46,399",
+      "end_time": "00:10:49,519",
+      "text": "like, you know, literally seem like"
+    },
+    {
+      "start_time": "00:10:47,600",
+      "end_time": "00:10:50,880",
+      "text": "they're doo machina and, you know,"
+    },
+    {
+      "start_time": "00:10:49,519",
+      "end_time": "00:10:52,640",
+      "text": "things are dropping out of the skies"
+    },
+    {
+      "start_time": "00:10:50,880",
+      "end_time": "00:10:53,920",
+      "text": "just in order to, you know, uh, uh,"
+    },
+    {
+      "start_time": "00:10:52,640",
+      "end_time": "00:10:56,240",
+      "text": "ratchet up the tension and ratchet up"
+    },
+    {
+      "start_time": "00:10:53,920",
+      "end_time": "00:10:59,279",
+      "text": "the stress. But make no mistake, as a"
+    },
+    {
+      "start_time": "00:10:56,240",
+      "end_time": "00:11:01,760",
+      "text": "game master, your job is to create high"
+    },
+    {
+      "start_time": "00:10:59,279",
+      "end_time": "00:11:04,480",
+      "text": "drama. Your job is to create high"
+    },
+    {
+      "start_time": "00:11:01,760",
+      "end_time": "00:11:07,040",
+      "text": "stakes. As a player, your job is to"
+    },
+    {
+      "start_time": "00:11:04,480",
+      "end_time": "00:11:09,279",
+      "text": "embrace that. Your job isn't to try to"
+    },
+    {
+      "start_time": "00:11:07,040",
+      "end_time": "00:11:11,360",
+      "text": "make the situation automatic and easy."
+    },
+    {
+      "start_time": "00:11:09,279",
+      "end_time": "00:11:14,880",
+      "text": "You want to create conflicted"
+    },
+    {
+      "start_time": "00:11:11,360",
+      "end_time": "00:11:16,959",
+      "text": "characters, tense moments, dramatic"
+    },
+    {
+      "start_time": "00:11:14,880",
+      "end_time": "00:11:18,560",
+      "text": "moments, and you should be leaning into"
+    },
+    {
+      "start_time": "00:11:16,959",
+      "end_time": "00:11:19,920",
+      "text": "that, not trying to avoid that, and"
+    },
+    {
+      "start_time": "00:11:18,560",
+      "end_time": "00:11:21,279",
+      "text": "certainly not trying to optimize your"
+    },
+    {
+      "start_time": "00:11:19,920",
+      "end_time": "00:11:22,800",
+      "text": "way out of it. And we'll get into some"
+    },
+    {
+      "start_time": "00:11:21,279",
+      "end_time": "00:11:24,399",
+      "text": "of these in some of the the later tips"
+    },
+    {
+      "start_time": "00:11:22,800",
+      "end_time": "00:11:28,640",
+      "text": "and hint uh hints, but I think"
+    },
+    {
+      "start_time": "00:11:24,399",
+      "end_time": "00:11:30,480",
+      "text": "fundamentally reframing this is a way of"
+    },
+    {
+      "start_time": "00:11:28,640",
+      "end_time": "00:11:33,120",
+      "text": "contextualizing it. I think a lot of"
+    },
+    {
+      "start_time": "00:11:30,480",
+      "end_time": "00:11:36,160",
+      "text": "players and a lot of GMs think about"
+    },
+    {
+      "start_time": "00:11:33,120",
+      "end_time": "00:11:38,000",
+      "text": "RPGs as winning. You know, am I winning"
+    },
+    {
+      "start_time": "00:11:36,160",
+      "end_time": "00:11:40,480",
+      "text": "or am I losing? You know, some players"
+    },
+    {
+      "start_time": "00:11:38,000",
+      "end_time": "00:11:41,760",
+      "text": "think my job is to win. Some GMs think"
+    },
+    {
+      "start_time": "00:11:40,480",
+      "end_time": "00:11:44,320",
+      "text": "their job is to win. I guess that's"
+    },
+    {
+      "start_time": "00:11:41,760",
+      "end_time": "00:11:46,800",
+      "text": "pretty bad. Uh but most GMs think it's"
+    },
+    {
+      "start_time": "00:11:44,320",
+      "end_time": "00:11:49,200",
+      "text": "their job to lose."
+    },
+    {
+      "start_time": "00:11:46,800",
+      "end_time": "00:11:51,519",
+      "text": "And I don't you shouldn't be thinking in"
+    },
+    {
+      "start_time": "00:11:49,200",
+      "end_time": "00:11:53,200",
+      "text": "terms of winning or losing or planning"
+    },
+    {
+      "start_time": "00:11:51,519",
+      "end_time": "00:11:56,480",
+      "text": "tightly and trying to keep things in a"
+    },
+    {
+      "start_time": "00:11:53,200",
+      "end_time": "00:11:58,640",
+      "text": "specific. You should just react. What is"
+    },
+    {
+      "start_time": "00:11:56,480",
+      "end_time": "00:12:01,279",
+      "text": "happening? What is going on? What is the"
+    },
+    {
+      "start_time": "00:11:58,640",
+      "end_time": "00:12:03,680",
+      "text": "logical step that follows? Make the move"
+    },
+    {
+      "start_time": "00:12:01,279",
+      "end_time": "00:12:06,160",
+      "text": "that follows. That's a old I don't know"
+    },
+    {
+      "start_time": "00:12:03,680",
+      "end_time": "00:12:08,000",
+      "text": "if it's in Daggerart, but it's in PBTA."
+    },
+    {
+      "start_time": "00:12:06,160",
+      "end_time": "00:12:13,440",
+      "text": "uh you know make the move that follows"
+    },
+    {
+      "start_time": "00:12:08,000",
+      "end_time": "00:12:15,920",
+      "text": "and do it with a mindset of respecting"
+    },
+    {
+      "start_time": "00:12:13,440",
+      "end_time": "00:12:18,160",
+      "text": "the reality that you guys are the shared"
+    },
+    {
+      "start_time": "00:12:15,920",
+      "end_time": "00:12:22,040",
+      "text": "reality that you're creating but also do"
+    },
+    {
+      "start_time": "00:12:18,160",
+      "end_time": "00:12:22,040",
+      "text": "it with a mind towards"
+    },
+    {
+      "start_time": "00:12:22,160",
+      "end_time": "00:12:29,839",
+      "text": "creating excitement, adventure, magic,"
+    },
+    {
+      "start_time": "00:12:25,360",
+      "end_time": "00:12:32,320",
+      "text": "drama, tension, um emotional investment."
+    },
+    {
+      "start_time": "00:12:29,839",
+      "end_time": "00:12:35,760",
+      "text": "uh you know make it funny, make it"
+    },
+    {
+      "start_time": "00:12:32,320",
+      "end_time": "00:12:37,519",
+      "text": "endearing, make it uh uh revolting, but"
+    },
+    {
+      "start_time": "00:12:35,760",
+      "end_time": "00:12:39,279",
+      "text": "create these sort of you know moments"
+    },
+    {
+      "start_time": "00:12:37,519",
+      "end_time": "00:12:40,560",
+      "text": "that your players can react to. You"
+    },
+    {
+      "start_time": "00:12:39,279",
+      "end_time": "00:12:42,399",
+      "text": "might not be able to control how your"
+    },
+    {
+      "start_time": "00:12:40,560",
+      "end_time": "00:12:44,399",
+      "text": "players react, but you can at least try"
+    },
+    {
+      "start_time": "00:12:42,399",
+      "end_time": "00:12:46,639",
+      "text": "to create situations that will give them"
+    },
+    {
+      "start_time": "00:12:44,399",
+      "end_time": "00:12:48,320",
+      "text": "something to really ponder about. And so"
+    },
+    {
+      "start_time": "00:12:46,639",
+      "end_time": "00:12:51,360",
+      "text": "ultimately I really want to highlight"
+    },
+    {
+      "start_time": "00:12:48,320",
+      "end_time": "00:12:54,000",
+      "text": "that that Daggerheart is not even though"
+    },
+    {
+      "start_time": "00:12:51,360",
+      "end_time": "00:12:55,920",
+      "text": "you might be playing your D and D game"
+    },
+    {
+      "start_time": "00:12:54,000",
+      "end_time": "00:12:57,760",
+      "text": "and you're trying to lean into that"
+    },
+    {
+      "start_time": "00:12:55,920",
+      "end_time": "00:13:00,480",
+      "text": "style of play realize that the system at"
+    },
+    {
+      "start_time": "00:12:57,760",
+      "end_time": "00:13:02,720",
+      "text": "its forefront is a game in my opinion"
+    },
+    {
+      "start_time": "00:13:00,480",
+      "end_time": "00:13:05,360",
+      "text": "about winning and losing. They may have"
+    },
+    {
+      "start_time": "00:13:02,720",
+      "end_time": "00:13:07,519",
+      "text": "changed the math a lot since 1974 and"
+    },
+    {
+      "start_time": "00:13:05,360",
+      "end_time": "00:13:09,920",
+      "text": "they've really tried to create a lot of"
+    },
+    {
+      "start_time": "00:13:07,519",
+      "end_time": "00:13:11,760",
+      "text": "we'll call them safety nets, right? Uh"
+    },
+    {
+      "start_time": "00:13:09,920",
+      "end_time": "00:13:13,440",
+      "text": "deathsaving throws and three deaths"
+    },
+    {
+      "start_time": "00:13:11,760",
+      "end_time": "00:13:14,639",
+      "text": "saving you die but no n you're not dead."
+    },
+    {
+      "start_time": "00:13:13,440",
+      "end_time": "00:13:16,480",
+      "text": "You have to fail three deaths saving"
+    },
+    {
+      "start_time": "00:13:14,639",
+      "end_time": "00:13:19,040",
+      "text": "throws, right? um you know they they've"
+    },
+    {
+      "start_time": "00:13:16,480",
+      "end_time": "00:13:20,800",
+      "text": "added all these layers on top of the"
+    },
+    {
+      "start_time": "00:13:19,040",
+      "end_time": "00:13:22,720",
+      "text": "game to try to keep it so that you you"
+    },
+    {
+      "start_time": "00:13:20,800",
+      "end_time": "00:13:25,519",
+      "text": "know it's harder to die but the fact of"
+    },
+    {
+      "start_time": "00:13:22,720",
+      "end_time": "00:13:27,279",
+      "text": "the matter is you can and players have"
+    },
+    {
+      "start_time": "00:13:25,519",
+      "end_time": "00:13:29,200",
+      "text": "really become very triggered to that and"
+    },
+    {
+      "start_time": "00:13:27,279",
+      "end_time": "00:13:32,320",
+      "text": "a lot of times a TPK or something to"
+    },
+    {
+      "start_time": "00:13:29,200",
+      "end_time": "00:13:36,639",
+      "text": "that nature um can end a campaign and it"
+    },
+    {
+      "start_time": "00:13:32,320",
+      "end_time": "00:13:38,560",
+      "text": "is very I respect the hell out of GMs"
+    },
+    {
+      "start_time": "00:13:36,639",
+      "end_time": "00:13:41,360",
+      "text": "who really struggle with this issue"
+    },
+    {
+      "start_time": "00:13:38,560",
+      "end_time": "00:13:43,519",
+      "text": "because they feel like their job is to"
+    },
+    {
+      "start_time": "00:13:41,360",
+      "end_time": "00:13:45,279",
+      "text": "push the players to challenge the"
+    },
+    {
+      "start_time": "00:13:43,519",
+      "end_time": "00:13:48,000",
+      "text": "players especially in the combat that"
+    },
+    {
+      "start_time": "00:13:45,279",
+      "end_time": "00:13:49,680",
+      "text": "mode of their game, but they also know"
+    },
+    {
+      "start_time": "00:13:48,000",
+      "end_time": "00:13:52,320",
+      "text": "in the back of their mind or maybe even"
+    },
+    {
+      "start_time": "00:13:49,680",
+      "end_time": "00:13:54,720",
+      "text": "at the forefront that if I do succeed at"
+    },
+    {
+      "start_time": "00:13:52,320",
+      "end_time": "00:13:58,000",
+      "text": "killing these players, I may destroy my"
+    },
+    {
+      "start_time": "00:13:54,720",
+      "end_time": "00:13:59,680",
+      "text": "game with it. That's a very strong"
+    },
+    {
+      "start_time": "00:13:58,000",
+      "end_time": "00:14:01,839",
+      "text": "that's a very tough tight rope to walk."
+    },
+    {
+      "start_time": "00:13:59,680",
+      "end_time": "00:14:05,519",
+      "text": "And it's a reason why I think so many"
+    },
+    {
+      "start_time": "00:14:01,839",
+      "end_time": "00:14:07,279",
+      "text": "GMs embrace fudging."
+    },
+    {
+      "start_time": "00:14:05,519",
+      "end_time": "00:14:09,839",
+      "text": "So, the last thing I'm going to say on"
+    },
+    {
+      "start_time": "00:14:07,279",
+      "end_time": "00:14:14,639",
+      "text": "this topic is this is a game where you"
+    },
+    {
+      "start_time": "00:14:09,839",
+      "end_time": "00:14:17,120",
+      "text": "absolutely have no reason to fudge. This"
+    },
+    {
+      "start_time": "00:14:14,639",
+      "end_time": "00:14:20,160",
+      "text": "is not that game. This is a game where"
+    },
+    {
+      "start_time": "00:14:17,120",
+      "end_time": "00:14:23,199",
+      "text": "you can do all of your fudging"
+    },
+    {
+      "start_time": "00:14:20,160",
+      "end_time": "00:14:24,959",
+      "text": "out in front of the screen and and"
+    },
+    {
+      "start_time": "00:14:23,199",
+      "end_time": "00:14:26,880",
+      "text": "really just let people see what's going"
+    },
+    {
+      "start_time": "00:14:24,959",
+      "end_time": "00:14:28,560",
+      "text": "on. And and we'll talk about this when"
+    },
+    {
+      "start_time": "00:14:26,880",
+      "end_time": "00:14:31,040",
+      "text": "we get into the topic about, you know,"
+    },
+    {
+      "start_time": "00:14:28,560",
+      "end_time": "00:14:32,720",
+      "text": "learning to love failure, but when your"
+    },
+    {
+      "start_time": "00:14:31,040",
+      "end_time": "00:14:34,000",
+      "text": "players realize that it's not about"
+    },
+    {
+      "start_time": "00:14:32,720",
+      "end_time": "00:14:36,959",
+      "text": "winning and losing, and it's going to"
+    },
+    {
+      "start_time": "00:14:34,000",
+      "end_time": "00:14:38,880",
+      "text": "take time. It's going to take time but"
+    },
+    {
+      "start_time": "00:14:36,959",
+      "end_time": "00:14:42,480",
+      "text": "slowly but surely you need to rebuild"
+    },
+    {
+      "start_time": "00:14:38,880",
+      "end_time": "00:14:45,440",
+      "text": "that trust so that the players can feel"
+    },
+    {
+      "start_time": "00:14:42,480",
+      "end_time": "00:14:46,959",
+      "text": "uh that they are in a place where they"
+    },
+    {
+      "start_time": "00:14:45,440",
+      "end_time": "00:14:48,959",
+      "text": "can express themselves and it's not"
+    },
+    {
+      "start_time": "00:14:46,959",
+      "end_time": "00:14:50,800",
+      "text": "about feeling like they need to perform"
+    },
+    {
+      "start_time": "00:14:48,959",
+      "end_time": "00:14:52,320",
+      "text": "at a certain level or the entire"
+    },
+    {
+      "start_time": "00:14:50,800",
+      "end_time": "00:14:54,240",
+      "text": "campaign may end and maybe it's their"
+    },
+    {
+      "start_time": "00:14:52,320",
+      "end_time": "00:14:56,079",
+      "text": "fault because they chose the wrong spell"
+    },
+    {
+      "start_time": "00:14:54,240",
+      "end_time": "00:14:58,160",
+      "text": "or they didn't take a feat that they"
+    },
+    {
+      "start_time": "00:14:56,079",
+      "end_time": "00:15:00,639",
+      "text": "were supposed to take. So, Daggerheart"
+    },
+    {
+      "start_time": "00:14:58,160",
+      "end_time": "00:15:03,120",
+      "text": "is really about exploring that space and"
+    },
+    {
+      "start_time": "00:15:00,639",
+      "end_time": "00:15:05,519",
+      "text": "being more interested in storytelling"
+    },
+    {
+      "start_time": "00:15:03,120",
+      "end_time": "00:15:06,880",
+      "text": "than it is winning."
+    },
+    {
+      "start_time": "00:15:05,519",
+      "end_time": "00:15:10,880",
+      "text": "So, that's what I have to say about"
+    },
+    {
+      "start_time": "00:15:06,880",
+      "end_time": "00:15:14,240",
+      "text": "understanding what Daggerart isn't. And"
+    },
+    {
+      "start_time": "00:15:10,880",
+      "end_time": "00:15:16,240",
+      "text": "for, you know, for context on that,"
+    },
+    {
+      "start_time": "00:15:14,240",
+      "end_time": "00:15:17,920",
+      "text": "Daggerart goes into great great detail"
+    },
+    {
+      "start_time": "00:15:16,240",
+      "end_time": "00:15:20,000",
+      "text": "about what it is, but I really want to"
+    },
+    {
+      "start_time": "00:15:17,920",
+      "end_time": "00:15:21,040",
+      "text": "highlight what it's not. And draw steel"
+    },
+    {
+      "start_time": "00:15:20,000",
+      "end_time": "00:15:23,920",
+      "text": "did a great job of this and I really"
+    },
+    {
+      "start_time": "00:15:21,040",
+      "end_time": "00:15:23,920",
+      "text": "wanted to highlight that as"
+    }
+  ],
+  "full_text": "Hey everyone, welcome to the nights of\nlast call. My name is Derek Melinda.\nWhat you're about to watch is a recent\nclip from a Daggerheart live stream\nwhere we gave advice to firsttime GMs\nwho may need a little help with running\nDaggerheart. Enjoy. Topic the first is\nunderstanding what Daggerheart isn't,\nright? What is Daggerheart not? And this\nreally came up to me during the uh tag\nduring the uh Draw Steel streams where\nDraw Steel did a really great job of\nhighlighting what this game is not about\nand even gave suggestions about going\nand doing playing other games if you\nwanted to uh engage in those sort of\nactivities. Now, like all game systems,\nDagger Heart can be bent or broken uh in\ncertain places, but ultimately, you\nknow, there is a core ethos to the game,\nand the further and further you go\nastray from that, the more and more\ndifficulty that difficulty you're going\nto encounter. So, I really want to sort\nof focus on what Daggerheart is not and\nunderstand why you may not want to play\nDaggerheart or may or why Dagger Hart\nmay not be right for you. What is\nDaggerahart not? So Daggerart is not\njust D and D with some narrative tokens.\nOkay, I fundamentally believe that games\nlike Dungeons and Dragons and games like\nPathfinder 2 and to a certain extent,\nyou know, even games like Draw Steel are\nfundamentally based around this idea of\ncampaign as a competition. Now, I may\nknow it may not seem that way and not\neverybody uses the mechanics for that,\nbut the game itself is built around this\nidea of the dungeon master or the game\nmaster setting a series of challenges\nthat are sort of codified and balanced\nwithin the context of the system. The\nplayers then go and try to defeat those\nchallenges so that they can overcome\ntheir goals uh or sorry, so they can\nachieve their goals. So that fundamental\nconstruct places the game master and the\ndungeon master sort of in a role of my\njob here is to provide a challenge to\nmake this a difficult process. Now the\ngames have done a lot of lifting over\nthe years to try to make it so that the\nplayers feel like they're challenged but\nthey're not actually being challenged.\nBut I'm going to go out here and say\nthat Daggerheart is not that. It is\nbuilt fundamentally for narrative and\nemotional storytelling. The duality dice\nsystem is first and foremost designed to\nguide your characters through character\narcs. The whole game is based around\nthis idea of not\nwill we achieve our victories but how.\nUh so yeah, so Daggerheart is not\nuh it's not designed for that. It's not\nabout tactical precision. It is not\nabout grid-based combat. It is not about\nhard balance. And while I'm not going to\ntell you to completely ignore the rules\nof the game, I think or I find that even\nsome of the fiddliness like with the\nrange ruler, you know, I see a lot of\npeople on Reddit, well-intentioned,\nthey're making these range rulers, you\nknow, very close, close, far. I I think\nthose are fine. I think using miniatures\nis fine. I may I'm probably going to use\nminiatures myself,\nbut I think that that can\ndistract you from what the focus and the\nemphasis is on. And I want people to\nrealize that this is not about creating\na tactically rich, rewarding, uh, you\nknow, challengebased experience. I've\nseen a lot of people on Reddit complain\nabout, um, you know, my guardian uh,\nused their, you know, their class\nfeature and they became unstoppable.\nThere was no way for me to challenge\nthem. Yes. Uh, you know, think about\nyour average D and D game in Pathfinder\n2 game. How often do your players lose?\nThe answer is very rarely. And that is\nsupposed to be a game that is\nchallengebased. Daggerheart is not that\ngame. Those aren't the stakes that we\nare going up against. If you want a game\nthat's really going to push your players\nto sort of minmax car op, you know, have\nto really rack their brains and think\nhard, this is probably not the best game\nfor it. Now, Dagger Hart is a great game\nbecause it it gives us these fun little\ntools and these fun little toys and fun\nlittle levers that we can play with, but\nit is not about that kind of precision.\nThe same thing is about initiative order\nand the lack thereof. This isn't\nnecessarily a game that is about\ncomplete and total fairness and balance\nin every single situation and in every\nsingle encounter. I've talked before\nthat there may be a combat where one\nparticular character has a lot more at\nstake\nthan the other characters. You can bet\nyour ass that that character is going to\nget more spotlight time from me as the\ngame master than they would maybe in\nanother fight or another encounter\nbecause this is about them. So, you\ncan't think of it in terms of initiative\norder. You need to think in terms of the\nlens of a director. You need to think\nabout it in terms of a storyteller. This\nis a game about bringing these narrative\narcs to life, but instead of it being\npre-written, we are\nwe are uh we're figuring it out and\nwe're playing it together and we're\nwe're discovering it together. So if\nif Dungeons and Dragons and Pathfinder 2\nat their fundamental\nbase are a game that is a question of\nabout there are great problems, terrible\nevils in the world. And the question\nposed by the game is will the characters\nbe able to succeed? Right? uh can our\ncharacters stop the great evil?\nNow that is that is that is technically\nthe premise that is assumed right that\nwe go into that game the players\nbelieving that if they don't play right\nor if they don't play well enough right\nthat they can lose and that the game the\ngame master will win right and that's\nwhat I mean by campaign is competition\nnow we all know that again these games\nare fairly tightly balanced especially\nnowadays modern games so that that\nactually doesn't really happen that\noften and then even in situations where\nit might happen we have a lot of stories\non Reddit of people and YouTube of\npeople saying, \"Well, that's why I\nfudge, right? Because I don't want my\nplayers to lose. I want my players to\nwin.\" So, the game itself is built\naround this fundamental premise of can\nthe players win? Will the players win?\nIf the players win,\nI believe that Dagger Heart isn't that\ngame. It's not a question of winning or\nlosing. It's more of a question of\nhow will the characters how will this\nexperience change the characters? Maybe\nthe fact that the characters are going\nto win is a given. The the system is I\nmean look right off the bat the\ncharacters can't die. They can always\navoid death. If nothing else should\nconvince you that this game isn't about\nwinning or losing. It should be that\ncharacters if they, you know, get taken\nout and killed, they can go, \"Yeah, I'll\navoid death. I'm going to choose to\navoid death.\" Um, hell, as a GM, you\ncould pour all of your efforts into\ntrying to kill a character and then they\nmight go, you know what, I'm going to\nrisk it all. And they roll a 10 on the\nhope and a two on the fear and suddenly\nlike they're back in the fight with max\nhit points and and no, you know, with\nall their hit points and all their\nstress cleared. So clearly balance and\nthe question of can the players overcome\nthis challenge is irrelevant. What's\nreally at stake here is how will the\ncharacters change? What sacrifices are\nthey willing to make in order to achieve\ntheir goals? How will you challenge\ntheir beliefs? Can they mold can they\nmaintain and and keep up with their\nbeliefs despite the challenges and the\nadversities being thrown before them?\nWhat what prices will they pay in order\nto achieve their goals? What compromises\nare they willing to make? And we learn\nabout those characters and we discover\nthe story of those characters together.\nIt's not pre-written. We discover it\ntogether. The dice help guide that\nstory. So, it is essentially\na a storytelling game in that kind of\nweird wonky narrative sense. Um, it\nstill uses these mechanical concepts\nlike hit points and armor class and your\ncharacter can still quote unquote die by\ngoing to zero hit points, but because of\nthe mechanics like fear and because of\nthe mechanics like avoid death, those\nconsequences are very much mitigated in\na way that our traditional D20 fantasies\ndon't. So really thinking about how can\nI make the fight harder? You might put\nall this effort into making the fight\nharder. You succeed, I guess, in wiping\nout the characters and then they might\nall choose to avoid death. And so what\nwas really the point of that? It sounds\nlike you were just taking control of the\nof the situation and control of the\nnarrative. You need to be more freeing\nand more open to experiences than that.\nThere isn't all of the systems, the\nmechanics, the resources, the character\nchoices, they are framed through drama\nand fiction, not math and not balance.\nUm, you know, it's it it values this\nidea of the fiction. When when we refer\nto the fiction, we refer to the the\nworld in which our characters are\ninhabiting. But there's also another\nelement. See, if we were playing a very\nfully simulationist game, we would be\nworried about the fiction.\nAnd you might say, \"Oh, wait, wait,\nfiction. Isn't that have to do with like\nnarrative and storytelling and arcs?\"\nNo, no, no. When PBTA style and PBTA\nadjacent games talk about the fiction,\nwhat they mean is what is the world in\nwhich our characters are inhabiting? How\ndoes it work? If I light a bridge on\nfire, then the bridge should probably\nburn down unless someone puts it out.\nAnd when the players come back there a\ncouple weeks later, maybe the bridge is\nstill destroyed or maybe the town has\nstarted a new project to rebuild the\nbridge and they're very mad at the\nplayers because they wantingly destroyed\nthe bridge in their fight and they were\nthrowing fireballs around when they\nshouldn't have been or something like to\nthat nature, right? The world has this\nsort of internal consistency. So that's\nthe fiction and believe it or not that\nis really important to simulation style\ngames to verimilitude, right? To the\nsuspension of disbelief. Dagger Hurt has\nthat. It calls itself a fiction first\ngame and you should respect that. But\nthat term is a little bit misleading\nbecause Dagger Hart has another pillar\nand the other pillar is narrativism.\nDagger Hart wants you to make decisions\nthat not only respect the fiction but\nfill the characters lives with\nexcitement and adventure and danger. You\nwant to make sure that things don't\nlike, you know, literally seem like\nthey're doo machina and, you know,\nthings are dropping out of the skies\njust in order to, you know, uh, uh,\nratchet up the tension and ratchet up\nthe stress. But make no mistake, as a\ngame master, your job is to create high\ndrama. Your job is to create high\nstakes. As a player, your job is to\nembrace that. Your job isn't to try to\nmake the situation automatic and easy.\nYou want to create conflicted\ncharacters, tense moments, dramatic\nmoments, and you should be leaning into\nthat, not trying to avoid that, and\ncertainly not trying to optimize your\nway out of it. And we'll get into some\nof these in some of the the later tips\nand hint uh hints, but I think\nfundamentally reframing this is a way of\ncontextualizing it. I think a lot of\nplayers and a lot of GMs think about\nRPGs as winning. You know, am I winning\nor am I losing? You know, some players\nthink my job is to win. Some GMs think\ntheir job is to win. I guess that's\npretty bad. Uh but most GMs think it's\ntheir job to lose.\nAnd I don't you shouldn't be thinking in\nterms of winning or losing or planning\ntightly and trying to keep things in a\nspecific. You should just react. What is\nhappening? What is going on? What is the\nlogical step that follows? Make the move\nthat follows. That's a old I don't know\nif it's in Daggerart, but it's in PBTA.\nuh you know make the move that follows\nand do it with a mindset of respecting\nthe reality that you guys are the shared\nreality that you're creating but also do\nit with a mind towards\ncreating excitement, adventure, magic,\ndrama, tension, um emotional investment.\nuh you know make it funny, make it\nendearing, make it uh uh revolting, but\ncreate these sort of you know moments\nthat your players can react to. You\nmight not be able to control how your\nplayers react, but you can at least try\nto create situations that will give them\nsomething to really ponder about. And so\nultimately I really want to highlight\nthat that Daggerheart is not even though\nyou might be playing your D and D game\nand you're trying to lean into that\nstyle of play realize that the system at\nits forefront is a game in my opinion\nabout winning and losing. They may have\nchanged the math a lot since 1974 and\nthey've really tried to create a lot of\nwe'll call them safety nets, right? Uh\ndeathsaving throws and three deaths\nsaving you die but no n you're not dead.\nYou have to fail three deaths saving\nthrows, right? um you know they they've\nadded all these layers on top of the\ngame to try to keep it so that you you\nknow it's harder to die but the fact of\nthe matter is you can and players have\nreally become very triggered to that and\na lot of times a TPK or something to\nthat nature um can end a campaign and it\nis very I respect the hell out of GMs\nwho really struggle with this issue\nbecause they feel like their job is to\npush the players to challenge the\nplayers especially in the combat that\nmode of their game, but they also know\nin the back of their mind or maybe even\nat the forefront that if I do succeed at\nkilling these players, I may destroy my\ngame with it. That's a very strong\nthat's a very tough tight rope to walk.\nAnd it's a reason why I think so many\nGMs embrace fudging.\nSo, the last thing I'm going to say on\nthis topic is this is a game where you\nabsolutely have no reason to fudge. This\nis not that game. This is a game where\nyou can do all of your fudging\nout in front of the screen and and\nreally just let people see what's going\non. And and we'll talk about this when\nwe get into the topic about, you know,\nlearning to love failure, but when your\nplayers realize that it's not about\nwinning and losing, and it's going to\ntake time. It's going to take time but\nslowly but surely you need to rebuild\nthat trust so that the players can feel\nuh that they are in a place where they\ncan express themselves and it's not\nabout feeling like they need to perform\nat a certain level or the entire\ncampaign may end and maybe it's their\nfault because they chose the wrong spell\nor they didn't take a feat that they\nwere supposed to take. So, Daggerheart\nis really about exploring that space and\nbeing more interested in storytelling\nthan it is winning.\nSo, that's what I have to say about\nunderstanding what Daggerart isn't. And\nfor, you know, for context on that,\nDaggerart goes into great great detail\nabout what it is, but I really want to\nhighlight what it's not. And draw steel\ndid a great job of this and I really\nwanted to highlight that as\n"
+}

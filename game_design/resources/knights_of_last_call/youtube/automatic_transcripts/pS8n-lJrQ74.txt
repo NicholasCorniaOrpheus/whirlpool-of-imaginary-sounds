@@ -1,0 +1,2688 @@
+[Music]
+welcome back everyone to another episode
+of night school bob how are you doing
+good ready to learn yeah and so bob
+since we've uh since we last had our
+conversation uh you've been running a
+little bit of you've been running a
+little bit of pathfinder to a little bit
+of dungeons and dragons i am i've been i
+am a gm in training and a dm in training
+for sure there you go i've run one
+session of dungeon dragons i think since
+and two sessions of um actually one more
+since our last video of uh northern
+reaches which is our path two mega
+multiplayer online path iron two game
+yeah it's very very cool and you've
+gotten pretty pretty good results uh as
+i as i understand it the people people
+seem to like it they do i don't know if
+that's because i give out probably too
+much gold but uh maybe they just like
+that but uh i think they're liking the
+the ideas that i'm putting down
+especially the evolution of what my
+campaign
+uh adventure was uh session one the
+first one which is just a tomb single
+stand alone uh they could do that in one
+session one sitting and then my second
+one which had a lot of story elements
+that were like starting to develop and
+they're like oh there's some stuff going
+on here that we actually take lots of
+notes for to bring back to town to tell
+people about
+um i think they really enjoyed that part
+but that one was only like a single
+level but a
+multi-adventure campaign so it really
+kind of jumped it up a notch yeah for
+sure well it sounds like it sounds like
+you might not need our tips anymore bob
+but i don't know because i think there
+was some things i could learn from
+especially on what we were talking about
+today which is encounter design well
+there's a lot of different types of
+encounters but the one that we're going
+to talk about today is combat encounters
+and
+there's a lot of different kind of
+schools of thought when you think about
+a combat encounter right so there's this
+idea of sort of uh of sort of combat as
+war right um and then combat as sport
+okay
+i've heard those cast and call
+and so again this is kind of combat as
+war and this is combat as sport um and
+so you know
+generally speaking this is sort of
+associated with
+sort of the old school renaissance old
+school revival and really you're talking
+about like you know first edition second
+edition old school d d basic d d
+um you know basic
+okay
+uh combat is a sport and and basically
+the idea of combat as a war a communist
+war is
+the game mechanics aren't themselves
+interesting
+um but what is interesting is the fact
+that like in real life you can kind of
+do anything you could you know uh you
+know
+you're not really interested in
+counterbalance if if the group goes into
+a layer of ten trolls there's ten trolls
+there
+if the group fills a hundred barrels
+with gunpowder and lures an army into a
+cavern and you blow up all the gunpowder
+you kill all the enemies right like
+combat as war is this idea that we're
+not really thinking about combat or
+encounters in a sort of
+balanced way we're thinking about it in
+war where the objective is to to you
+know have as much unfair advantage as
+you could possibly have
+is there also a little bit of like
+there's not the most defined rules for
+combat as war yeah i mean is that not
+true no that i mean i think that's
+that's true you're gonna well because
+you're gonna be doing a lot more things
+that are sort of outside of the rule's
+purview and you're gonna be relying a
+lot more on the gm to create a ruling
+um right and a ruling is different than
+a house rule and i should make that make
+a note of that but
+um you know because if you do something
+that's outside the purview of the game
+you're gonna have to basically make up a
+decision how what kind of
+dice what kind of check are we gonna
+have to do in order to do this
+now
+the concept of combat as a sport is this
+idea that within the role-playing game
+you start to have think about encounters
+in terms of
+of of balance
+and you start thinking about them in
+terms
+of them more like like a game
+right like a like a board game right and
+when you sit down to play somebody in
+you know battleship or you sit down to
+play somebody in risk it's not like
+they show up oh and they have uh you
+know all they have 26 ships and you only
+have three right no you both start with
+the same number of battleships
+because it's interested in being a
+balanced and fair game
+and the idea then becomes it's more
+about playing the game
+and playing the game well
+to sort of gain an advantage over your
+opponent
+and sort of beat them and one and one of
+the hallmarks of combat as sport is sort
+of you know
+robust
+mechanics
+surrounding
+uh combat
+that means there's a lot of rules about
+what x does what y does what can you do
+on your turn how many actions can you
+take how far can you move uh how much xp
+do you have what is considered fair what
+is considered unfair what should you put
+into your you know dungeon what
+shouldn't you put into your dungeon and
+if that sounds familiar
+that's because that's what pathfinder
+two is yeah right and it does it really
+well uh yes and they actually had done
+they actually have done a good job of
+getting that math um you know pretty
+well and truly taken care of so
+you know we understand now what what is
+the nature of our of our situation here
+we've got a combat as
+we got to combat as um
+as sport game and so that means we need
+to think about these fights
+well as dnd also combat a sport
+their big person that's the other big
+three rpg in the room there's eight
+editions of dungeons and dragons well 5e
+the one that's the the most current so
+5e i would say
+it's less
+than pathfinder 2
+um because there's not as many rules
+okay um the
+fifth edition i mean it's one of those
+it's kind of a catch-22 right um
+not having a rule for something is sort
+of like saying there's two ways to view
+it it's either saying well you can't do
+that thing
+or it's saying you can do that thing but
+the gm is gonna have to make a ruling on
+the spot about how that action gets you
+know interpreted
+yeah um bit but paradoxically it does
+not work the other way when you have
+more rules that define things
+now when that situation comes up now the
+gm isn't if the gm wants to do something
+different they technically still can
+because the gm can do whatever they want
+theoretically but that is no longer a
+ruling that is a house rule
+yeah and that's different
+those are different concepts um and we
+won't get into that today but that's
+that's more of a live stream thing but
+so one of the key takeaways though is in
+pathfinder 2 um you should be thinking
+of your combat encounters like um
+like uh like a game i don't want to say
+a video game or you know bore you i mean
+you could certainly get
+you could certainly create what's wrong
+with those
+well nothing but they they do have a bad
+reputation within the the tt rpg space
+and
+maybe not you know maybe not unfairly
+but i i definitely think it's a
+situation where it's a case where
+there's going to be a lot if you have a
+very combat focused game
+which is most people's games if you're
+playing aps um and when i say combat
+focused i don't mean 90 but i mean if
+your game is even 50 plus percent combat
+that's pretty combat focused
+um you know the players have a lot of
+abilities
+they get a feat every other level a lot
+of people are using free archetype so
+you're essentially getting one class
+feet per level
+they might have up to
+12 or 13 magical items
+between
+stuff that they can hold the stuff that
+they invest
+they are gonna have seven up to seven
+general feats up to seven ancestry feats
+ten skill feats there's something like
+19 or 20 skills in the games a lot of
+which have combat applications
+and when you kind of add that all up you
+know the players have a lot of of tools
+at their disposal to usually most of
+those things that we just described tend
+to do things in combat
+and
+so if your game is just
+stride strike strike strike stride
+strike strike strike
+you know you're not really taking full
+advantage of what a combat encounter
+could be in pathfinder 2. now
+this doesn't mean you have to do it this
+way but it it's my belief that people
+should play into a system strength and i
+think pathfinder too like another way to
+think of it is this you could play dn
+dungeon dragons with no grid
+right yeah and everything is theater the
+mind right and you're moving around but
+in pathfinder two you know you have
+items and feats that give you things
+like
+plus five feet of movement plus 10 feet
+of movement and your character and and
+armor which if you know you're wearing
+heavier armor you get a minus five spa
+well technically a minus 10 speed
+penalty but if you're strong enough it's
+only a minus five speed penalty
+and your base speed is 25 feet so now
+it's down to 20 feet and then it's up to
+30 feet
+well that either matters or it doesn't
+well it doesn't they have speed in dnd
+too
+they do as well again there's seven
+there's eight or nine editions of the
+game so you do have to be
+5e is what i'll be describing unless i'd
+say something differently that's correct
+but consider the following
+in a game like fifth edition they don't
+even have flanking
+not in the base game yeah i mean they
+don't have faking in fifth edition
+full stop
+there's some weird optional rules that
+you can do
+there's always an optional rule there's
+also probably an optional role that
+players can fly at first level but you
+know i'm talking about the actual game
+so my my point is but but but i'll
+actually to to your point
+if a group
+were to use the flanking optional rule
+in dungeons dragon fifth edition my
+guess would be they would want to start
+playing on
+a miniature grid or a grid they would
+want to know where their where they are
+located on the map yeah because suddenly
+if i'm here
+versus
+here
+that makes a big difference
+right whereas before it didn't matter i
+mean
+i agree but also i've i have flanked in
+theater the mind so you could say i'm
+gonna move up behind him and you know
+get his flank uh i do agree though that
+um
+[Music]
+pf2 is so uh
+strategic
+in the combat that it almost has to be
+done on the grid or a map just because
+you you sort of have to be able to play
+it that way you have to be able to move
+those incremental distances and how the
+strategy is lining up and where things
+are exactly a little more i would say a
+little a lot more specific than say d
+and d5e so uh yes but also i mean again
+consider that the the game of dungeons
+dragons fifth edition is designed to
+support a you know non-tactical gridless
+player
+pathfinder two is not
+yeah uh because in under two a lot of
+your abilities a lot of your ability uh
+things tie specifically to how far away
+you are
+um
+which is a long and short way of saying
+you should make your combats and
+pathfinder two interesting
+yeah okay
+and
+there's a couple different ways you
+could do that
+but my
+this is where i need to pay attention
+well that'll make them interesting yeah
+but but you know what it really comes
+down to is um and we'll kind of cover
+all three of these uh as quickly as
+quickly as we possibly can
+um there are sort of three components to
+a fight or to a combat encounter
+the first is
+the foes
+the second is
+the terrain
+okay
+and the third
+is
+the objective
+does environment also land in terrain
+sure
+okay i just didn't know if it was
+separate i don't know what else it would
+be if it's not terrain so
+well i'm thinking more like
+it's raining sure yeah okay fine yeah
+terrain a slash environment
+so these are the three things that
+should could
+and if you want to be successful
+a must
+vary
+from every fight to fight
+what do you mean like some are stronger
+than the others no meaning each of these
+things should be different in almost
+every single fight otherwise your game
+will become very stale and repetitive
+okay keep going while i'm thinking no no
+no i i i mean this is a i was trying to
+think like
+um i had a fight where i was sort of
+putting goblins in an area yep
+as sort of a
+low encounter to stepping into the uh
+dungeon uh cave system uh there wasn't a
+big deal with these goblins they sort
+they certainly have sort of started to
+take over this area it wasn't a huge
+objective with them yep um
+so i i don't i had the foes yeah there
+was the terrain because they were in
+this cave system that was dark they'd be
+able to see
+but the objective was kind of like yeah
+they can just kill these guys or not
+kill these guys well there was
+there was no greater purpose of them
+other than sort of establishing there's
+some goblins there i guess i don't know
+okay so you're conflating two different
+things
+okay okay so that's why i'm confused
+yeah so you are conflating um the game
+objective
+with the combat objective
+oh okay now okay yep so
+uh you know for for a lot of people out
+there 99 of the time
+this is kill all your foes
+okay
+that's that's what it is now i'm not
+saying that's bad but that is bad um
+because it's boring
+quite frankly it's it it gets very
+repetitive and gets really bored and if
+it feels sometimes like you're trapped
+into only doing this you would also be
+correct um because the game
+most games don't really support anything
+else anymore
+and so this is actually the hardest one
+to deal with
+okay but
+but if you can figure out a way
+to change this
+you will create you know legendary
+things because because we talked about
+these are the three levers that we can
+pull right so what are what are our
+objectives you know what are the
+objective of a combat
+right well it's it's simple right we
+want to
+challenge the players
+we want to challenge
+the pcs
+right yep yeah players as in the person
+playing right we want to we want we want
+to challenge bob
+yep okay but we also want to challenge
+bob's character yep and that means
+giving so
+bob should be having to make decisions
+and remember for a decision to make a
+difference
+that means you need to one be aware that
+you are making a decision
+two you uh understand what are the
+potential risks or rewards the costs the
+benefits of that decision and three
+when you make that decision it if it's a
+good decision it should result in good
+things for you and if you make a bad
+decision it should result in bad things
+for you right the decision should matter
+you know if i if i chew if i go
+so i'll give
+to kind of give it an illustration here
+um we'll take a you know we'll take a
+very simplistic fight let's say there's
+a fight in a room
+okay
+and the party is entering
+from here
+and there is a zombie and a zombie and a
+zombie and a zombie
+okay
+very symmetrical
+it looks like one of your encounters
+something that was fantastic um
+so right off the bat we have removed any
+ability for the player to make a
+decision
+right because what am i going to do are
+you going to fight the zombie are you
+going to fight the zombie maybe
+maybe you'll go fight the zombie
+right there's there's no texture to this
+combat
+this combat is just
+four things that are the same
+in an otherwise empty room
+so so what is this combat doing
+this combat is strictly challenging the
+pc
+right can your characters do enough
+damage to these four zombies before they
+die
+and so what the combat will feel like
+maybe not at first you know when you're
+playing with new people or whatever but
+you've been playing for a while you've
+been playing my game you've been playing
+smith game if a combat challenges the
+pcs
+what it will start to feel like is like
+you're just rolling dice
+yeah it'll seem like a video game at
+that board game or something like that
+not but not even right because well
+unless it's a bad video game or a bad uh
+of because
+those are the games i play the ones that
+don't i don't think too much
+um
+maybe it'll start to feel like uh you
+know like a diablo on easy mode
+i was thinking like uh
+what's that old uh
+uh destiny warriors whatever it was oh
+uh dynasty warriors dinosaurs i just
+spam a and just swing in a circle right
+everybody uh like they're sort of a goal
+yeah so you know but i mean it's like
+okay after you killed the 700th guy
+aren't you just kind of bored you're
+like no
+no i keep going
+right um and again you know props to you
+like if you have a group of players who
+are just very satisfied with just
+repeating and rinsing and repeating
+um and then you know more props to you
+um but this this combat here where we
+have sort of four zombies
+is already very
+bad
+because it doesn't challenge the players
+okay um it only challenges the pcs so
+our objective is to challenge the
+players challenge the pcs and i'm going
+to make it really confusing by putting
+it right here just so i can use my
+screen real estate the third objective
+is for it to be fun
+and memorable
+all right you could easily have an
+encounter which is challenging but it
+isn't necessarily fun or memorable
+particularly memorable
+and
+let me give you a great example
+just real quick i'll sauce this up okay
+oh yeah you ready okay sauce it sauce it
+up here we go
+this is a this is an example of how i
+can change these three things
+again we don't know the relative size of
+these right we're just going with this
+okay so this is a zombie
+this is a zombie and this is a zombie
+okay now let's change this into some
+sort of uh um necromancer
+or lich right some sort of caster
+okay that's dynamic okay now
+the
+party probably wants to get to this guy
+they probably want to go kill him right
+because
+you know he's a tough fight he's the
+caster he's powerful but if all the
+strong barbarians and fighters run over
+to fight this glitch
+then the zombies are gonna come in and
+munch munch on all the you know clerics
+and wizards and sorcerers you may
+remember from our rise of the rulers
+campaign where this happened this has
+happened to you where you and and the
+other frontline combatants rushed off to
+go fight the uh sort of the evil cleric
+wizard guy and your party your casters
+your your wizard and your sorcerer got
+set upon by a gang of lesser people okay
+so right off the bat you have these
+zombies who want to come and eat you
+know everybody but
+maybe the zombies aren't too much of a
+threat
+to you know the big fighter but they are
+a threat to the rogue or the wizard or
+the cleric i mean meanwhile the lich is
+standing back but that will add an extra
+you know sort of dynamic to it let's say
+that there is a bubbling pit
+of acid in this room
+okay
+now suddenly you the fighter make a
+decision
+you say
+i am going to go for the lich you guys
+stay back on defense you guys got this
+someone has to take out that lich we
+can't just sit here and fight the zombie
+which are clearly just like throw away
+minions
+cannon fodder well kion and fodder well
+this guy is sitting here casting evil
+spells on us but now you have to make
+another decision
+which will also test your pc
+do you take the long way around maybe
+it'll take you a whole extra turn to go
+around the pit of acid or do you try to
+jump that
+yeah right and if you then you start
+thinking what's my athletic what's my
+and but then most importantly right
+you're rewarding the player hey i took
+quick jump or i have some sort of feat
+that makes me a better jumper than
+someone else in the party or maybe i
+don't have to go maybe i don't have a
+good athletics but i have invested so
+much into my speed or i took a feat like
+sudden charge i'm going to be able to
+move
+move move and still attack so i'm going
+to be able to get to the lich in one
+round
+and still may able to make an attack
+this round so
+by adding these kind of extra elements
+now we add the fun and memorable part
+what if these zombies we've established
+before what did you call them cannon
+yeah okay what if we give them ability
+when they come in they grab people
+right and then the lich has the zombies
+drag the person including the zombie and
+hurl them into the pit of acid like the
+zombie just sacrifice yeah like a
+suicide the zombie just grabs people
+starts dragging them towards the acid
+and then the zombie
+in a full bear hug just plummets over
+the edge to sort of just drown dissolve
+him and his victim in the acid
+so suddenly this fight's crazy because
+people are being dragged screaming
+across the ground towards the pit of
+acid the fighter has to leap back across
+the acid pit kill the zombie before the
+helpless halfling cleric gets dragged
+into the acid pit the lich cackles
+maniacally and sends another wave of
+fire you know suddenly this fight is a
+whole hell of a lot more dynamic and
+more importantly really fun and
+rememberable
+hey remember that time we fought that
+one guy in that one campaign that one
+time no
+do you remember that fight with the
+zombies in the acid pit yeah i don't
+even remember our character's names that
+was 10 years ago but i remember that
+fight
+and i remember it was awesome and and
+and i remember
+it's you know you get into this zone
+which i'm like with a lot of my my
+closest and oldest friends where it's
+like no i don't even remember your
+character's name all i know in my mind
+is that
+not my character
+me
+i was getting dragged into the acid pit
+and you bob
+saved me not your character it's you and
+it's like and like the way your mind
+works the way your memory works my my
+brain thinks like yeah it's like bob and
+i've been through hell and back he did
+save me that time i know i can rely on
+him you're like wait no he didn't do
+anything he just made an athletic check
+and then a striker but but your brain
+really does remember these things and
+this is why i like role playing games so
+much
+but my point is is that by using
+a variety of foes
+some interesting terrain or environment
+and by having asymmetrical objectives
+you've created a much more interesting
+combat is that just pushing and pulling
+i like that dynamic of the combat as
+well
+like
+four zombies is there's no dynamic there
+oh 100 i mean i mean that's like
+basically
+yeah they're not pushing and pulling
+different creatures we talked about the
+rule of three last time right um but
+like
+now i'm putting an environment but also
+like you said about turning memorable
+that's that's another dynamical shift
+tone it's almost a tonal shift of what
+was happening now not just they're
+attacking me uh which is just a it's
+like a one-on-one fight but now i might
+have to go save somebody that's being
+dragged there's a that's a whole nother
+tonal shift right exactly now i mean
+when i say about objectives right
+because there's a couple of things here
+number one
+you could make something else or you
+could say hey listen
+when the lich dies
+all the other creatures die
+they were bound to his will oh okay yeah
+yeah and maybe someone figures that out
+in the middle of the combat maybe they
+with a recall knowledge or maybe there's
+something cut off the head and right
+so now suddenly now suddenly the fight
+is like okay yeah we should totally
+focus on the lich because fighting these
+zombies is sort of a waste of our time
+but
+getting to the lich is difficult and we
+can't just ignore the zombies because
+they're trying to pull people into the
+acid or they're doing some other kind of
+crazy nonsense or we're just going to
+let them eat up our our wizards and our
+sorcerers and our clerics so
+the objective suddenly changes but also
+the like i said asymmetrical objectives
+the zombies aren't trying to reduce you
+to zero hit points their objective is to
+grab you and pull you
+using like some sort of weird force
+movement and pull you into this acid pit
+and suddenly they're not operating on
+the same
+basis that maybe you're used to because
+now the fight isn't about getting to
+zero hit points it's about not getting
+dragged over the edge
+and it becomes a much more like suddenly
+you're thinking of things and you're
+looking at your sheet you're looking
+inside your brain you're like how can i
+escape this grapple versus smacking
+attacking them
+exactly
+exactly um and and and i think you just
+get more bang for your buck because
+well quite frankly uh
+you know these these these fights they
+alright they already take a while to get
+through um but if you make them
+interesting and memorable then at least
+you get something cool out of it
+i had a dnd fight just recently lasted
+two hours and i don't even know if i
+remember everything about it
+no did it but but but did it take two
+hours because it was really you know now
+because here's the thing it was a great
+it was just there was a lot of
+characters to manage yeah i i do
+monsters you know i do want to sort of
+make sure that i i i stress this that
+this is complex
+it's not necessarily complicated
+right does that make sense
+yes like it's not like you need to have
+some sort of crazy elaborate oh i
+generated a whole new subsystem just to
+be able to have this fight
+you know you were talking about creating
+one action that's different well yeah
+not even uh that might just be something
+that zombie has you know it's it's
+called like a it's called like a zombie
+kazi or something you know and like
+that's that's a pretty good name you
+know
+sounds like a drink right and um and you
+just give it this ability where if it
+can land a grab uh
+on its turn it can like move half its
+speed and you get pulled along with it
+or something like that right and then it
+it tries to fling fling you and it over
+the edge um
+and
+that's how in my opinion you make
+combats more interesting is by sort of
+taking foes terrain object and now of
+course in pathfinder 2 we want these
+things to be balanced and this is kind
+of where
+we talked about this in a previous
+episode so i'm going to clear this if
+you're all right with that oh yeah
+hopefully you focus it hopefully you
+folks at home are okay with that being
+clear if not pause the video and then
+take your notes really quick yeah um
+so
+if you remember what we talked about uh
+maybe one or two episodes ago i talked
+about the idea that you should have
+encounters
+okay
+in my opinion
+when we were talking about
+the numerical side of it you know
+severes moderates you know um
+low okay it's called low okay got it so
+it's like why isn't why low moderate
+severe why is it called low moderate
+high anyways um
+bad bad editing um
+so
+we talked about the need
+that i personally felt like a good
+majority of your fights by the way not
+variety is the spice of life
+sometimes it is fine
+right if to have a fight that is just
+four zombies in a room
+and it and you know what it'll feel like
+oh cool we uh
+brains turned off
+right like this is just
+we come in there there's four zombies we
+kill them and we move on right that can
+be a nice change of pace you don't
+always have to make everything to be
+this kind of like you know uh sudoku
+word jumble of a fight
+i was wondering about that because
+people were wondering like why were
+these goblins here they just they were
+so easy to kill there wasn't really any
+story to them well that is my point was
+just because they they established
+themselves in the area yeah but there
+wasn't more puzzle to it
+and this is sort of a
+this is sort of a contentious point
+right and and not to get off on a
+tangent but if you're a fan of this
+channel you know i talk about gns theory
+a lot
+and
+you know goblins live here and this
+fight wasn't that hard
+but that's because there was only a
+couple of goblins here that is a very
+simulationist
+mindset these goblins are here they're
+not here to be a balanced encounter
+they're not here to be a challenging
+encounter specifically designed for your
+party members they're just here and you
+got to kill them right so that's a very
+simulationist mindset a a gayness
+mindset is thinking like shouldn't all
+these fights be an appropriate level
+challenge and shouldn't they all like
+you know be something that really you
+know uh you know stresses our characters
+out and and causes us to have to you
+know
+you know uh really really you know be
+tough but like what i was saying before
+though is that
+uh some percentage i think i think i
+might have said 50
+i felt like 50 of your fights
+should be what i called uh
+you know severe
+but
+i can't exactly remember what i called
+them challenging if might have been the
+other thing that i called them
+challenging
+if
+and the idea here is that you have a
+tough fight
+but that if the party
+can
+approach it the correct way
+suddenly the fight really feels more
+like a moderate
+right or something that isn't as
+difficult so for example
+let's say you go into a room
+and there's these zombies and there's
+this necromancer and there's this pool
+of acid
+right that might be a challenging fight
+but if the party very quickly realizes
+hey
+let's ignore the zombies we'll go
+straight for the lich
+we'll stay away from the zombies so none
+of us get grabbed because they might
+pull us into the acid suddenly that
+fight and then when we kill the lich the
+zombies will die so we don't have to
+fight him
+suddenly you're like yep that fight felt
+like it was real easy
+yeah because it was because you made
+good decisions and you were rewarded for
+those good decisions so a lot of times
+this kind of design methodology
+basically says
+if the party can figure out how to beat
+this encounter in a good way
+it will resolve much quickly and much
+more easily in their favor if they can't
+then it will be
+you know heart of them mechanically
+as they have to sort of fight and slog
+their way through all of these different
+you know um you know creatures and and
+stuff like that
+so
+to that end
+let's talk about foes now
+should come as no surprise but to be
+clear pathfinder 2 does have these
+one of the biggest
+failings of pathfinder 2 in my
+particular in my opinion
+is that and this is a failing of fifth
+edition as well fourth edition d and d
+um 13th age does this as well
+introduced this idea of a monster having
+a role
+okay
+something that is the gm without ever
+even reading the monster's description
+you understand what this creature's
+job is in a combat encounter now as a
+role-playing perspective it's a living
+breathing creature but
+in the context of the game it has
+certain key abilities that allow it to
+fulfill a role and if this sounds
+familiar it's because yeah that's what
+character classes do
+right if we are playing pathfinder two
+bob my cleric you know they're not there
+to do damage
+they're there to heal they're there to
+heal right um
+in right in our uh night to last call
+game rise of ruler game esquinor was not
+there to do damage he was there to
+protect
+yep right so we understand that we have
+these clear delineations of of roles and
+responsibilities well
+monsters should have these too
+and fourth edition dnd did a really good
+job of this
+and actually pathfinder kind of sort of
+has this
+if you look in the monster creation
+guidelines
+as well as on pf2.tools
+you will see that they have these sort
+of statistical breakdowns for different
+categories of monster okay things the
+gmg
+uh i think it is in the gmg um but the
+pathfinder two game talks about things
+like uh brutes magical strikers spell
+casters etc
+as different kind of categories of
+monsters that have different varying
+abilities and varying traits
+but
+i'm a softie and i i i i love fourth
+editions uh roles okay
+and before we get into the roles though
+we should talk about
+what is it that a monster what can a
+monster do
+in a fight
+right and in my opinion they can do
+uh they can only do three things
+okay they can do damage
+they can
+control
+which means they make your life harder
+right they make the party's life harder
+and
+they can support
+support each other support each other
+right so another way to think about
+control is it don't think of it exactly
+like this but think of it as debuffing
+and think about support as buffing
+right
+and that's kind of it
+right
+a fight becomes a lot more interesting
+when
+there are not just different creatures
+but creatures with different roles
+yeah i was thinking like a scout someone
+that comes up checks out what's going on
+oh reports back to the
+monsters well but that is still very
+simulationist i'm talking about inside
+of a combat you're talking about how to
+the monster itself yes i'm talking about
+what does this monster's abilities do
+because that's where pathfinder 2 i
+think misses the mark a little bit
+which is there are obviously ways when
+you're building a monster or when you're
+looking at a monster that you can adjust
+its statistics to support this concept
+but
+you it's not just about the stats it's
+also about
+the
+abilities that that monster has
+do you are you giving it the tools
+that it needs in order to fulfill its
+role it also is very important because
+as a gm
+this makes this a whole hell of a lot
+easier
+okay
+just to run the monster
+now unfortunately what do i need in this
+fight right this this and this
+well but it's like it's like it's like a
+shortcut it's like a hand of
+instructions right like what is this
+character you know what does this
+monster do
+now unfortunately
+we don't have that now maybe someday the
+night's the last call will go through
+every single monster and sort of assign
+them a category but right now what i
+would encourage you to do unfortunately
+is
+read through a monster's description
+and if i'll make another
+criticism
+unfortunately some monsters in my
+opinion
+are all over the place
+right
+they read like
+is it trying to do too many things yeah
+they're just trying to do too many
+things
+and and it's it's like uh
+you know it's like a sorcerer with a
+really high strength with the dragon
+claw spell
+you know and has gauntlets or uh hand
+wraps of mighty blows but then it sounds
+like you're talking about my character i
+i am
+but yet cast magic whistle all the time
+it took dangerous sorcery it's like well
+which is it what
+because here's the thing you know what
+to do you know you've been playing this
+character for many many many months now
+but if i sat down and played your
+character would i be like i is this
+thing supposed to go into melee
+uh
+am i a ranged stay back cast magic
+missiles and fireball what am i doing
+with this character it has so many
+abilities and they are all over the
+place yeah it's almost like complex for
+no reason kind of i mean i'm not trying
+to like belittle that i think that in a
+character versatility could be very
+powerful because unlike a monster i mean
+unless you're one of these very special
+rare few people fact of the matter is
+most of the time monsters have a life
+expectancy of exactly about five rounds
+right and you're never gonna see them
+again oh it's the npc the villain of the
+entire yeah okay less than ten rounds
+are dead right you're never going to see
+them again a monster doesn't have to be
+versatile because a monster is only
+going to be played and in that one fight
+right so you don't have to worry about
+that
+does that make sense oh yeah
+so
+uh pcs could be versatile but
+you know monsters not so much
+uh i prefer
+i was thinking like you're running this
+thing for three to five rounds why is it
+overly complex it has a purpose sure and
+what is that purpose and let's do that
+purpose really well
+and then that's it right and i'm a
+bigger fan of that because i think it's
+easier for the for the gm to play
+and
+it's easy for the pc to figure out you
+got it exactly the pcs could quickly
+understand oh i get it this is this kind
+of monster
+i'm not gonna you know and it avoids
+those gotchas that i always talk about
+where you know you're fighting this
+creature and then suddenly it pulls out
+this ability like what why the hell does
+that creature have that ability it
+doesn't even make sense
+no i mean there's you know it's there's
+room for little you know fun little you
+know changes but for the most part i
+think that you're your best it should be
+the it shouldn't be the norm it should
+be something special correct
+so
+um
+and you know so we talked about sort of
+damage
+control and support those are kind of
+like the three you know the the triangle
+of what does this
+um
+you know what is this creature what's
+its job right
+and then
+they're sort of the
+you know sort of uh of another
+i guess i would say uh uh
+triangle
+which is
+how does it achieve
+its
+superiority
+right like what is its advantage
+what does it have
+okay
+that gives it something
+special
+okay so
+what do i mean by that so let's take a
+look at damage
+okay
+in in my mind there are
+kind of
+three
+uh
+three ways that you can sort of do
+damage
+right and have an advantage okay the
+first
+is to use arranged attack
+right okay
+if i have a bow or i shoot fire from a
+far away well not all most people don't
+have bows or shoot arrows right
+a lot of snakes are on the monster side
+right now yep okay
+okay so this gives the monster a sort of
+an advantage
+right it also it also lets you
+understand oh i get what this monster is
+trying to do
+right it's trying to stay away and shoot
+people
+the other advantage or the other way
+that a creature could have an advantage
+on damage is by just doing what i would
+clay you know to say it's just doing a
+lot of it
+okay
+um and this could be
+everything from a you know a big hulking
+creature that just smashes people to
+something more like an assassin or a
+rogue right where
+the damage is whatever but if you're
+flat-footed
+right they're going to light you up
+they're going to light you up right
+um
+and then the third way is what i would
+describe as aoe
+where maybe the damage itself isn't that
+high but because it's doing it to many
+people right it's like oh yeah that
+damage only did 25. okay but it hit five
+people that's 125 damage right that's a
+ton
+so those are sort of like the three ways
+in my opinion that a creature can be
+threatening with damage by the way
+if a creature isn't there to do damage
+it doesn't need
+these three things it does make sense
+okay i was throwing would you like to do
+things like flying and invisibility all
+in that like
+okay that's not even in this it's not
+even that's not because that's not
+really the type of damage yeah no we're
+not we're not we're not talking about
+there okay we're not there so who's in
+my head though no no that's fine all
+right so we get to control debuffing
+in my mind there are sort of
+two main ways that a creature can sort
+of do this kind of can control things
+right
+the first
+is by literally you know i put it in you
+know parentheses but literally by
+debuffing
+right
+slow casting slow on the party uh
+casting a spell that immobilizes them
+they can't move around casting a spell
+that paralyzes them or fear frightens
+them right you're literally debuffing
+them but what you're really doing is you
+are limiting what they can do you're
+making it more difficult for the party
+to achieve their objective
+right
+the other way that you could control the
+party is
+and for lack of a better word
+is
+attack of opportunity
+right
+so what about physical control uh
+physical control like grabbing
+or mind control things like that um
+so i called it attack of opportunity but
+that's sort of kind of where i was going
+with this okay okay you know what i
+would say is like literally physical
+control okay
+so um you know what maybe that's even a
+better maybe that's a better way to
+describe it is physical control okay
+so for example the the tentacle monster
+comes in and it grabs two people
+right you you know that monster might
+not even be doing that much damage okay
+suddenly imagine a fight
+okay it's a pain in the butt a man okay
+imagine a fight you are you enter into
+this ancient temple the walls are slick
+with slime and water there's sewer
+grates sort of pouring into everywhere
+and in the center of this room running
+down the length of it is some sort of
+like ancient
+uh channel or canal which is filled with
+a brackish water and then as you enter
+at the far end of this room maybe
+100 feet away 120 feet away right far
+outside the range of most caster spells
+and maybe take two
+maybe even three turns for a melee
+character to cross that distance
+um suddenly you see two of the horrible
+kuatoa which are like evil frog people
+uh i know you're not superversed in d d
+lore i am not okay so you see two kuatoa
+okay at the far end now
+already
+and remember
+that that 120 feet of distance along the
+banks of this brackish dark canal
+the the stones are
+slick covered in slime and muck
+there's your environment what what do
+you think might happen if you move
+across that
+uh i would think you have to make a
+balance check or an x check i think you
+would have to as well so that 120 feet
+might actually
+be 120 feet as the crow flies but
+it might be a lot more challenging right
+now
+you've got at the bad the far end of
+this chamber though the the two evil
+frog people the kuatoa um you know are
+there standing there
+what are you gonna make what are you
+gonna do you're gonna make them you're
+gonna make them melees
+fireball right
+they have you know they they
+summon bolts of electricity or they have
+you know ancient bows or
+they're throwing spells right because
+you know again one you could argue
+simulationless wise these creatures live
+here why why would they stand at the far
+end they're like yeah i've got a big
+great axe now i gotta close the 120 feet
+of [ __ ] distance you know like no
+like they are gonna take advantage of
+the space you are entering into their
+domain it's a little bit of combat is
+war
+it is so there's a combat of war there
+but the real thing is the combat is
+sport aspect i'm trying to create a
+situation where i
+want to create a
+challenge to my players and to my pcs
+that's two monsters right now that's
+clearly our damage component right
+damage
+ranged right heck maybe it's two maybe
+it's ranged and it's aoe
+yes
+or maybe it's single target it's range
+and it's a lot
+right like these crackling dark bolts
+maybe they're dark priests okay
+but
+how would we spice this fight up now
+remember what is because again what you
+want to do is imagine a scenario okay
+we'll draw it out here bob okay
+we've got
+our long room
+okay
+this direction
+indicates where the pcs are coming from
+okay
+you've got
+your
+kuatoa whips here okay
+and they are
+blasting
+yeah and then we said we have this kind
+of
+long
+canal that runs down the length of the
+room and you know splatterings of gunk
+and debris all over the place
+now naturally what is the if you think
+about it objectively think about it as a
+third party
+what are the pcs gonna do
+cast fireball okay how many pcs have
+fireball
+and just to just pry the sorcerer with
+our okay
+so the other three characters are just
+gonna actually you know what everyone
+has it because fireball necklace okay
+well good news is these creatures are
+outside the range of the fireball
+necklace oh that's good point
+um
+i would think the the characters that
+have the
+best uh acrobatics could move forward
+but the rest of them might take out the
+ranged weapons and try to shoot if they
+can right and now you know for a fact
+that in pathfinder two unless you are an
+18 dex master class weapon you might as
+well not shoot your bow
+yeah
+right so you're doing nothing right so
+shooting your bow is nothing so if this
+party consisted of a barbarian with a
+great axe a swashbuckler with a rapier
+right some sort of wizard or sorcerer
+who had some spells okay and then some
+sort of you know cleric
+odds are pretty good that the barbarian
+the sorcerer or sorry the barbarian and
+the swashbuckler they're charging in
+they're gonna try to close in right yep
+now so we know
+we know what the party's gonna do
+so what do we do we counter it well
+we're not done yet we haven't spent all
+this fights xp and we need something
+that isn't just damage so what do we add
+control so what do you think is waiting
+in this canal you guessed it big scary
+tentacle monster okay oh that's where
+you're going with it now what does this
+creature do it grabs people
+right it's it's not even there to do
+damage
+i mean it of course it's almost like
+it's a
+hazard yeah but it don't mean it could
+it could you could do this as a hazard
+by the way that's what one of the
+strengths of pathfinder 2 is you could
+totally do this as a hazard and we'll
+talk about that actually that kind of
+gets to that third point which was the
+objective point
+i love hazards okay but but we're
+keeping a little bit simpler here but
+you put in this big now grant it's
+pathfinder two so this creature will
+still
+have some baseline damage
+but that's not its thing
+right um are you familiar with the gmg
+uh creature creation rules
+yeah okay i i couldn't tell you off top
+of my head but i read through them okay
+well so when you build a monster right
+uh you know for each level they give you
+damage expressions basically for like
+low
+average high
+and extreme
+right for how much damage it does so a
+creature like this might just do low
+damage
+right just you know it's like oh it's
+something but you're like
+you're like oh that's more annoying than
+it is anything it's not just annoying
+now suddenly these characters are
+grabbed that means they are sitting
+ducks
+that means they are flat-footed
+that means that they are going to just
+be lit up by these
+uh powerful kuatoa whips uh you know
+these kind of artillery
+that are sitting here raining down or
+you know as a gm
+you get the barbarian grab you get the
+swashbuckler grabbed and they go cool we
+don't have to deal with them we'll just
+focus fire down on the wizard and the
+clerk
+yeah then you're in real trouble and you
+guys were counting on the barbarian and
+the swashbuckler closing the distance
+and you know ending these creatures
+probably the good damage
+and now you're kind of removed from the
+encounter and my two artillery you know
+back here my sort of my howitzers right
+can just rain down
+on your sort of softer targets with
+impunity while the big scary creature
+now you might say okay well we're gonna
+have to kill this thing right so the
+swashbuckler starts killing this thing
+and the barbarian starts killing this
+thing good that's wasted turns i mean
+you have to i guess
+you have to deal with it but that's fine
+that thing's not what's doing the damage
+that thing is what's going to kill you
+right that's just what's keeping you
+controlled but that was your talk about
+the decisions now i'm testing the pc's
+decision making what they want to do as
+well as the pc skill to be able to do
+those things exactly so it's like a
+two-step process step one is the player
+has to make a strategy or a tactic and
+then the second step is okay but then in
+path under two there's usually some sort
+of die roll or check or attack role and
+then we get to test you're the mechanics
+of it did you
+you know do you have the right feats and
+do you have the right abilities did you
+cast the right bus spells did you aid
+did you do everything you can to give
+yourself the highest chance of actually
+succeeding
+at that situation
+um and of course here's the thing you
+know no matter how much of a good gmg gm
+you are you know
+you get to a point where you you you
+know if i'm designing this encounter i
+go all right so these two creatures are
+lighting them up if the party holds back
+great
+i know that they don't have strong
+ranged combat most part most parties
+tend to be pretty physic um
+melee focused i mean you've seen that
+right in every single party you've been
+a part of right yep um
+the people who do have ranged attacks um
+you know they tend to be 30 foot 60 foot
+range right fireball probably breaks
+that paradigm to be clear every time
+you're asking a question like fireball
+because i know it does something like
+500 feet and you know you want to hear
+it i mean you could you could really you
+could do it this way guess how wide this
+corridor guess how wide this chamber is
+i know 30 feet uh that's great
+uh uh i'm sorry not 30 feet you make it
+50 feet
+okay do you know why
+because a thing is only 30 feet
+sorry you lost your screen derek uh no
+okay you lost the screen though oh i
+lost the screen so 50 feet because the
+normal range of a spell is 30 feet no
+and normal movement's 30 feet no no no
+i'm okay i said tell me why i said the
+width yeah yeah
+so i guess i'm confused why it would be
+50 feet then because the diameter of a
+fireball is 40 feet
+so you couldn't hit both yeah cause 20
+foot burst right yep 20 foot burst so
+if they cast a fireball in the middle
+it'll hit neither
+that's a good idea that's a good thing
+and then so we'll get it i can already
+see like the player going son of a bee i
+can't hit them both right but here's
+what do we do but here's the key
+you're not cheating
+as a gm you're not fudging
+right you are
+you know part of the part of the nature
+of this you created a challenging
+exactly being there right exactly but
+here's the thing eventually you get to a
+point where you go okay so if they if
+they just step back and they try to
+trade with these creatures well only one
+person in the party maybe the wizard
+maybe like the ranger with a bow
+isn't even capable of really dealing
+damage to this range okay so i have the
+advantage so my weakness though because
+here's the other thing you got to give
+the players do you cannot create super
+characters okay you cannot i'm sorry you
+cannot create super monsters all right
+you have to avoid that at all costs okay
+we creating like basically immune to
+everything well not just a mute
+everything but if we created these guys
+as these sort of frail lizard frog
+people who can rain down these ungodly
+powerful bolts of electricity okay from
+500 hp don't give them 500 hp give them
+low ac low hit points make them glass
+cannons if the party can figure out a
+way
+because that that is the correct
+strategy the strategy is get to those
+two creatures and take them out if you
+could do that right like and as you know
+this is where pathfinder two and d and d
+and stuff can become really fun because
+you know you're sitting here going haha
+you know and then the first round like
+the magus dimension doors next to one of
+these things
+you know and then you're like oh [ __ ]
+and then he just like drops a huge spell
+strike on it and you go well played you
+know well played yeah look i'm not tr
+i'm not trying to tpk you
+right yeah i don't know it's impossible
+for me to truly understand the outcomes
+i can i can assume certain likelihood
+you know scenarios what makes the game
+fun
+is when someone busts out some ability
+or some magical item or some crazy thing
+and you go
+oh man that's that that's perfect and it
+sounds like shenanigans a little bit it
+does sound a little bit like shenanigans
+but listen to our last part but most
+importantly you want to hear about it
+yeah if i'm setting up this fight you
+know when i was first setting up this
+fight you at home might be thinking okay
+so let me get this straight dirk you
+created this encounter it's a long
+chamber to to neutralize the party's
+ability to move in range the ground is
+difficult to move through requiring
+checks these creatures deal a lot of
+damage but they go down really quickly
+but it's hard to get to them and then
+when you do try to get to them another
+creature pulls out that's really good at
+grabbing and immobilizing you that's
+correct this fight is hard
+but
+if for whatever reason in the first
+round the magus dimension doors across
+the room and then kills one of them
+and
+the party has some other way and they
+they kill the other creature you go oh i
+guess that fight was actually really
+easy severe but it's a severe
+challenging if challenging if severe
+butt now here's the the fun part for me
+as a gm getting back to the why we gm
+i get to a certain point you know you
+play some back and forth and eventually
+you get to a point where you kind of go
+let's say ignore the dimension door
+thing for a moment but you're like okay
+these two creatures are in the back
+they're raining down their dark energy
+electrical bolts uh the ground is
+difficult they move forward the creature
+comes out it's emerging them if they
+fight it i'm blasting them if they don't
+fight it then they're not going anywhere
+and then you're like i don't know how
+they could possibly win
+and then when you said that to you
+though and that's right i don't know
+what's gonna happen
+and then when i sit down and play
+and the polarity comes up with some
+crazy thing that i never expected i get
+to go
+holy [ __ ] guys that was awesome
+um i didn't see that and you made it a
+super monster it's almost like to the
+pcs you feel like you they you you've
+been cheated like how was i supposed to
+even do anything well it's also about
+decisions making a difference right so
+a creature needs that sort of achilles
+heel and when i say achilles heel that's
+not even a fair assessment because
+achilles heals the idea of like this one
+very specific thing
+i mean like the creat weakness isn't
+even the right term a creature just
+needs to have an ability where it's like
+okay my decisions matter and it should
+be obvious what it is if it's like oh
+you had to use sonic damage
+you're kind of like
+how would we have ever known that yeah
+that seems like a gotcha it is like it's
+like a anti-gotcha right it's some weird
+thing but it's very apparent what the
+situation is here and the party is going
+to pull out some crazy weird array of
+abilities and they're going to astound
+you with what they do and they might
+start thinking a little bit outside the
+box and you might have to make a couple
+rulings
+and and what's most important is you're
+going to challenge the players because
+they actually have to think what are we
+going to do you're going to make it does
+it make it less challenging if like you
+were some of these rolls
+like when i see them i go i know
+this is a low ac
+low hit point kind of artillery
+range attacker does it diminish the
+challenge
+that you're trying to set up by the pc
+well i guess you you always say you like
+having the pc's having as much knowledge
+as possible yeah i mean
+i mean i was just wondering like there's
+like a part of you goes i i i need to
+know more about these guys do recall
+knowledge do you do do you bob know
+anything about them derek do you know
+anything about these guys like i it's
+something to that too i i don't know
+yeah i i'm a little obviously i i have a
+very different feeling about recall
+knowledge than a lot of people um
+which is to say that you know i i think
+that the players should have a good
+baseline of understanding
+without even using recall knowledge what
+it is that they are up against what it
+is that they are fighting um
+now granted a lot of times through your
+description you don't have to be so
+perfunctory you know you
+you don't have to be like this thing is
+a level four artillery monster
+right you can describe it as being
+doesn't wear any armor yes it's you know
+it's wearing a primitive robes it you
+know and it's thin and it's frail but
+you know its body is wracked by the uh
+dark electricity that is channeling and
+then you can even say just to be clear
+just so there's no ambiguity be like you
+get this cool description he goes guys
+these are these are two artillery
+monsters give your players a break i
+mean if your players are expert super
+pros and you want them to play on double
+heart extreme elden ring dark souls
+style okay you can do that but
+i don't know i like for my players to
+have a better idea of kind of what
+they're up against the
+is the fun of the fight really figuring
+out oh they were artillery
+no
+like i don't think so no but there is a
+part of it that if you feel like you
+discovered the secret
+to beating the fight there's a little
+bit of that sense but there's a
+difference between the the way that you
+discover the secret to beating the fight
+should rest with the players not the pcs
+cor no i that's i get that right that's
+awesome but there is something to that i
+i think it's very minor i honestly i
+don't think it's i don't think it's i
+think i i i guess in my experiences
+there has never been a cool recall
+knowledge check
+i i
+i
+yeah i agree
+recall knowledge is just a vehicle to
+allow us to actually play the game
+it doesn't actually do anything it
+doesn't do anything cool
+um i mean if recall knowledge um
+you know if if if players knew more
+about the monsters and then recall
+knowledge let you know like that it did
+have an achilles heel
+right then that would be cool
+unless i was thinking like oh that troll
+doesn't regenerate with fire right like
+like oh that's a pretty good big thing
+to know yeah like um
+we should switch up and start
+fireballing that's probably when recall
+knowledge is cool
+okay uh but like knowing that that
+creature has ranged attacks and has low
+hit points not i don't think that's cool
+i don't think that's cool what what the
+hell does that even recall knowledge
+mean
+oh i know that that creature's an
+artillery like we're already talking
+about this being a gameist thing right
+like wha what is your character
+recalling i've read about these
+creatures they're artillery like what
+does that even mean it doesn't mean
+anything so i i tend to just try to
+you know either really communicate it to
+my players through the style of play um
+or just be straight up with them and
+fourth edition d this was very easy
+because these creatures literally had
+these um these rolls
+um
+so
+uh the last part of the triangle support
+yeah we'll go over support and this this
+is probably a two-parter um
+man there's more than this too oh way
+more than this we didn't cover anything
+oh man bob we didn't cover anything so
+much to learn we didn't cover anything
+um all right so we'll do support and
+wrap it up yeah we'll do support then
+we'll wrap it up um
+okay so uh and of course as always if
+you're interested in in more discussions
+about this check out our patreon link
+below it's awesome i'm not going to plug
+it too hard because uh
+you you should already know by now um
+you should already be in it by now
+that's right um okay so
+support you have to be
+very
+very
+careful with
+okay okay
+because when when i say support what's
+the first thing that you think of
+buff
+i was thinking like heroism or um like
+bless sure okay buffing what's the
+second thing you think of
+um
+uh i guess i was thinking more like
+healing there you go okay okay
+these can be
+absolutely
+horrifically
+devastating to your player's morale
+yeah you want to see a fun heel see when
+derek was doing rise of the rune lords
+and healed the monster to full a boss
+monster
+as a general rule
+okay let me let me explain to why these
+things are problematic
+the problem with the buff is
+the way that most people think of buffs
+they think of pathfinder two buffs
+okay
+so you're thinking of spells
+yeah i think i'm plus one
+uh
+well no specifically you're thinking of
+spells
+right like you're thinking of heroism
+right correct which gives a plus one
+you're you're thinking of haste
+uh you're thinking actions you're right
+you're thinking of um you know things
+like that nature
+here's the problem uh enlarge
+invisibility okay here's the problem
+with these
+most of these spells um
+have a duration of a minute or ten
+minutes aka the rest of the monster's
+life
+yep and that means
+that once the monster
+casts
+their spell
+on their ally
+the monster
+you're like okay well
+i'm not gonna go attack the monster
+because it already did the thing that it
+was gonna do
+i can't can't cast heroism on the
+monster the other monster again
+right
+and then what am i going to do about it
+it casts heroism on that creature
+if i go and kill the caster the support
+it's still there it's still there so the
+damage has been done in other words
+it kind of doesn't matter what i do
+right
+healing is kind of the same except
+obviously a creature might have the
+ability to make multiple heals and so
+you say okay i gotta kill it but it is
+extremely demoralizing
+for a player
+to have a monster be healed especially
+if you use like a two action pathfinder
+two style heel
+generally speaking i almost always say
+avoid monsters that heal
+unless it is
+a monster casting heal or do you mean
+like regeneration i mean heal
+i mean like i mean like
+you play with me right like my cleric i
+think does 7 d-10 plus
+60. yeah you like roll a lot of dice
+when he heals when he heals somebody
+right
+we should never be fighting a monster
+and then some other monster in it heals
+it for 7 d10 plus 60. yeah okay things
+like regeneration or fast healing i
+think are okay
+okay you know so when you're building a
+monster to regenerate itself especially
+if there's a way to turn it off right so
+i just think well okay so but so now but
+what we haven't
+we're getting off the point here
+uh okay i don't want to take it too far
+off the rails um no no the point is
+the the
+the
+unfortunately this is another weakness
+of pathfinder two uh that i think needs
+to be addressed maybe maybe you'll be
+the one to address it if you
+leave a comment below let us know what
+what your thoughts are here
+the problem is most creatures that would
+fall into the support category in
+pathfinder ii tend to be spell casters
+and then spell casters cast these heals
+they cast these buffs okay because
+remember we don't want to talk about
+regeneration this is a creature that is
+the giving support
+okay does that make sense yes right it
+if it has regeneration that's not doing
+[ __ ] for anybody else
+the the the class to think about
+that you should be trying to emulate
+maybe not
+exactly emulate but emulate its style
+is
+which core class bob the bard you got it
+that's exactly right that's all i could
+think about that's that's exactly right
+because the bard
+has these amazing abilities these
+composition can trips which give a
+really cool bonus right inspire courage
+is a 60 foot emanation i think that
+gives the creatures plus one to hit but
+it lasts one round
+and that means that every round the bard
+has to re
+this aura
+now we have something a lot more
+interesting
+because now
+that creature needs to be alive to keep
+doing that buff
+but that that creature in and of itself
+isn't actually killing your party
+it's not actually you know keeping you
+down it's just helping its allies so if
+you go and fight it
+well then you're not fighting the damage
+dealers you're not fighting the other
+monsters that might be controlling you
+yeah so now you gotta make choices but
+if you do kill that bard
+that buff that it's been helping out the
+whole group with well it goes away in
+one round and the part the enemies won't
+get it anymore because it doesn't last
+for one minute or ten minutes it lasts
+one round
+um
+so same thing with healing
+imagine a inspire courage ability okay
+but it was like healing
+10 hit points or imagine a creature that
+had an aura and all allies within its
+aura gain regeneration 10.
+seems pretty pretty strong wow that the
+all right we gotta go kill this guy well
+what are we gonna do that sounds awful
+are we gonna go kill this guy while the
+the other creatures are left unimpeded
+and ravage apart our lines well we can't
+just ignore this guy yeah but he's not
+really doing right now we're getting
+into interesting things
+right now we're getting into an
+interesting world where we're suddenly
+having to make decisions and those
+decisions matter and maybe there is no
+right or wrong answer and maybe it will
+depend on what your classes uh
+what your ancestries are what feats
+you've taken that is really going to be
+the deciding factor
+i would no don't get me wrong i know
+what you're saying yes i'm sure there
+are plenty of monsters plenty of
+examples within the best jerry one two
+three battle zoo bestiary where you have
+creatures that clearly fall into these
+abilities that have these sort of
+um bardic like abilities but in my field
+by like the like the rallying cries
+like those are some of my favorite like
+like a barbarian that that almost like a
+terrifying howl but like he he yells and
+is he sort of buffs all those parties so
+he's not a spell caster oh yeah no no
+that's my point
+i love those kind i like getting up you
+know don't think of you know just like
+how we said here for the control for the
+debuff you know you don't just have to
+think about um
+you know a spell caster you could think
+about a tentacle monster or you could
+think about a a a brute grappling you or
+wrestling with you right well it's the
+same thing true for these support
+characters don't just think about um you
+know don't just think about
+uh
+you know
+spellcasters i think i think you should
+think of non-magical
+actions and again there are some
+examples of this inside of the game i
+think the ogre the ogre boss or
+something uh can like um
+can like use an action to like yell at
+all of his other ogres who then
+immediately can use their reaction to
+like take a stride
+oh that's yeah right the one i just ran
+one in dnd and i think it was an orc
+chief or something like that and it gave
+like himself like advantage and like the
+people around him an advantage and i was
+like oh man that's awesome one of the
+mistakes though that is frequently made
+though is like you'll you'll have a
+creature that'll have that ability
+okay but that creature will also be like
+a super damage dealer
+super tough right and and have your
+right like let me give you an exa great
+example of this in pathfinder two this
+is an example of where you could fail
+this this this this is where we'll end
+it okay okay
+is like and again i i'm
+i'm critiquing pathfinder two so that
+you know we know this better okay so you
+have a fight and let's say you're
+fighting uh you know like let's say
+you're fighting three ogre
+gluttons okay
+you've fought these before bob yes uh
+let me move this over here so we can see
+it okay so you have three ogre gluttons
+all right these are you know
+brutish close the distance attack you
+and melee type monsters okay
+and then you're like oh okay i'm gonna
+add in an ogre
+war boss i think is the name of it what
+it's called
+okay
+now
+we good bob
+it is call i was looking it up
+just ogre boss yeah maybe yeah ogre boss
+okay yep
+and uh what level is the ogre boss you
+have a seven okay seven and i think the
+gluttons are four can you confirm the
+gluttons are four okay great okay so
+right this might be uh i don't know
+probably like a level eight or something
+severe encounter or something um
+we don't know what exactly what it would
+be but maybe it depends on the party it
+depends on the part that is true um but
+here's the problem with pathfinder two
+and other things as well
+this ogre boss
+well
+it's higher level
+than the ogre cluttons um it's
+pathfinder two it's an ogre this guy
+probably hits and hits hard
+okay
+yeah he's uh so he's doing a lot of
+damage yep okay
+but then
+he also has this war cry ability or
+something like that right
+it's it's loading archives is being slow
+but i can tell you in a minute
+don't worry about it and even if it
+doesn't have this but um yeah i mean you
+can following commands that's the one
+bellowing plus a command that hastens
+their fellows each ogre ally who hears
+and understands this command becomes
+quickened until the end of the allies
+next turn right but can use an extra
+action only to step or stride there you
+go so they can't strike with it they can
+step and stride with it right that's
+great so you know it has some bellowing
+command and then
+i'm assuming i think it does does it
+have attack of opportunity
+oh yeah yes it has attack of opportunity
+do you see the problem
+this creature does good damage
+and it provides support
+and it provides battlefield control
+because it limits what you can do
+because it has attack of opportunity
+this creature is just too good
+this cr this this creature doesn't have
+any dimensionality because it just can
+do damn near everything
+right also that uh attack or tuning uh
+can also trip yeah so
+that's right that's pretty strong okay
+and and and so the problem which i think
+has reached okay oh yeah yeah yeah yeah
+well it's i think the overhook is done
+but it's it's a large creature so he has
+reach okay
+so the problem with this creature
+is that it does
+all three
+things
+and obviously that makes it a very tough
+foe but it also makes the party go i
+what
+what is this how am i supposed to
+engage with this monster because it does
+everything and then it becomes really
+easy because you're like well obviously
+this is the thing we need to kill
+because it's the it's the support and
+the control and the damage but then the
+battle
+you know monsters like this make the
+battle less interesting
+because there is no decision there's no
+decision this thing is made for you this
+thing is just the ultimate uber thing
+right and there's no you know shades of
+grey it's much more interesting when the
+creature that is yellowing out yelling
+out bellowing commands or uh you know
+inspiring courage or something like that
+is a creature that is doing something
+else in the battlefield
+it's not doing damage it's not locking
+the creatures down right um it's way
+more interesting in that regard because
+then you get to make these cool
+decisions when a creature can do all
+three of these things at once also
+as a gm
+you're like what the hell is this
+monster
+like what am i supposed to do with this
+creature should it be striding and
+smashing people with its hook or should
+he be bellowing every turn
+yes i guess you could make that decision
+everything because they're only one
+action right
+well no but that's my point should it
+should stride strike strike or should it
+stride strike bellow and you're like
+yeah i mean that's cool we could think
+about that and as a player character
+with your pc that might be a really
+interesting decision but like look you
+might have just opened this up today
+right now and the combat encounter is
+starting right now and we're having this
+conversation we're already having a lot
+more time to think about it than you
+normally would during a session
+and that's the real reality of the
+situation is right you don't get the
+kind of time that you would want to
+normally have to to you know to create
+these things
+so
+i find creatures like this to be almost
+you know as opposed to being uh um
+do we ever fight an ogre blast i don't
+think so i think so for sure you had to
+we did yeah um i don't remember because
+if this would have been a [ __ ]
+and you know generally speaking as well
+i am kind of against
+creatures having
+and it's unfortunate i mean this is just
+kind of a problem in general pathfinder
+too but like i i don't like the idea of
+having creatures having high damage and
+having attack of opportunity
+interesting a lot of boss stuff has
+those uh yes and i don't like it
+um i i think that those should be
+different things unfortunately for the
+attack of opportunity to be effective
+you have to have high damage
+does that make sense i wonder if
+yeah i mean if not you're just a your
+attack continue weekly yeah unless you
+were doing something fancy with the
+attack training like tripping well no
+but then technically it's not attack of
+opportunity right now that doesn't mean
+that you can't have a cool reaction
+okay
+like i'll give you a great example so
+when would you use tech opportunity then
+for
+for creatures that
+okay like let me give an example um
+attack of opportunity should be for a
+creature that is what i would call
+sticky
+it's trying to stay in combat it wants
+you to fight it
+so that its
+allies
+can go do their thing
+it's not there to do damage it's not
+there to buff its allies it's there to
+keep your heavy hitters
+akupato
+yeah right you're using attack
+opportunity for that but reactions can
+be used for bosses to do cool things
+well i mean boss is a sort of a lukewarm
+term because i'm in pathfinder too a
+creature that's a boss might just be a
+it's just a regular creature a couple
+levels later so you know you have this
+100 actually this exact case right so
+you know you you can't say that a
+creature is a boss in pathfinder 2
+because there is no template for solo or
+boss i disagree this one's called ogre
+boss okay well all right you you you you
+got me there um
+at level like 13 or maybe even 12 i'd be
+killing this thing with like one blow
+with it but my former barbarian correct
+so
+long story short
+one thing that i think needs to happen
+and maybe the knights are the people to
+do it is i do think that it helps for
+just not only for uh understanding
+quickly what a monster's role is but i
+do think that having
+creatures having a role in combat is
+very valuable and it's important not
+just for the gm but for the players as
+well um and if you're not familiar with
+them in
+dungeons dragon fourth edition uh the
+roles were you had
+you had artillery monsters
+okay i also like the names of these
+things okay and and this is not exactly
+ex you know this is not exactly accurate
+but we'll hey we'll have damage
+all right we will have
+ac
+we'll have hit points
+and we'll have
+what i'm going to call
+mobility
+okay
+so an artillery had high damage
+low ac
+low hit points and we'll say moderate
+mobility okay and we had i think let's
+see if i can member some of these brute
+yeah so bro
+so let's go down what do we think of the
+brood house that's probably got high
+damage yep high hit points for sure prob
+i don't know about ac that one medium
+maybe low and low oh ac oh okay
+interesting right it's a big lumbering
+brute
+right
+it does a lot of damage but it's slow
+it's easy to hit it's you know those
+type of things but it has a lot of hit
+points
+all right next now
+what we'll start with the damage dealers
+from from fourth to uh from uh from four
+east perspectives for a uh
+lurker
+i think these are the only three that i
+remember besides minion the rest of them
+might get confused about yep
+well minion was a sub type so
+okay so something like a lurker okay is
+going to have medium to high damage
+all right it's ac it's probably going to
+be medium
+okay um it's hit points are going to be
+low to medium but its mobility is going
+to be high
+like rogue uh think yes
+think rogue but think of it in terms of
+like um
+striking in striking out
+right
+this is wha i use the term mobility but
+this is where like maybe this creature
+can hide maybe this creature can cast
+darkness maybe this creature could turn
+invisible right um when you think about
+this creature think about a creature
+that
+if you're flat-footed you're in trouble
+mm-hmm right so so yeah i guess rogue
+yeah
+that's always that's a lurker okay so
+these are kind of like your primary
+damage dealers
+right then you have what i consider to
+be the sort of the middle of the road
+the skirmisher
+okay
+right medium damage
+medium icy
+medium hit points
+and actually kind of high mobility the
+skirt now the skirmisher mobility is
+different skirmisher's mobility is more
+like speed
+right or or flight
+the the danger of the skirmisher is
+their ability to move quickly you know
+if you're a barbarian or a fighter or a
+champion you know a creature coming at
+you with medium ac medium hit points
+medium damage may not be that much of a
+threat
+but if you're a low hit point character
+class and this creature is fast enough
+or can fly or has all sorts of
+teleportation abilities and it can
+quickly move around the battlefield
+right you might spend a couple of turns
+getting in melee with it and then it
+it's able to in two actions be on the
+other side of the battlefield and and
+engaging with your you know your your
+source or your wizard in in a typical d
+party you might think of this as
+something like the monk
+right that's a good example yeah so
+that's sort of your middle of the road
+and then
+you get to the last two which are sort
+of more of your uh you know support and
+controlling type creatures you have
+the controller
+and you have
+the soldier
+i thought there was yeah i thought it
+was like a soldier or warrior right and
+and the controller is someone who is a
+creature or a spell caster that is using
+abilities to you know actually debuff
+the ally you know enemies slow them
+immobilize them frighten them sicken
+them right they are controlling the pc's
+actions you could think of these as
+people as people who inflict conditions
+right the soldier is kind of like um a
+fighter or a champion right they make
+your life difficult they're not going to
+do a lot of damage right they're
+damaging their high ac high hp right in
+fact you almost don't want to attack
+them
+interesting right because you're like
+this thing isn't even a threat
+right think about think about night's
+last call or just getting in the way
+think about rise think about rise of the
+rune boards
+right naked
+think about escondor our champion right
+he didn't do any damage
+right
+but you never wanted to attack him
+correct but at the same time if you
+didn't attack him right and he was you
+know uh you know absorbing damage from
+you with his champion's reaction or you
+know if attack of opportunity you're
+like i can't just
+i can't just ignore this guy completely
+because he will make me ineffective what
+if he you know what if we had built that
+you know
+we were going to retrain but before that
+like he was grabbing people oh yeah
+that'd been awesome and now suddenly
+you're grabbed by the champion in full
+plate and you're like okay great well i
+guess i attacked the champion and you're
+like okay
+like this yeah you're way i'm winning
+i'm winning right now you're attacking
+me right um and so the soldier
+is a kind of a frustrating thing because
+you don't want to fight but at the same
+time if the soldier has nobody to
+protect you know
+he's never going to kill you right he
+just doesn't have that he just doesn't
+have the damage he doesn't have the
+ability to deal with it um and the same
+thing true with um with our sort of uh
+with our controller their damage can be
+sort of low to medium because you know
+fireball can do some damage but it's not
+like the type of damage that a brute or
+an artillery is doing but they have
+these sort of you know uh lower acs and
+these low to medium hit points and their
+mobility is probably also pretty you
+know average but their danger is their
+ability to affect you affect you
+possibly at range possibly aoe
+and they can really bring you down
+and then the the third of the last type
+is leader
+and this is that bard type again oh okay
+right the damage might be medium the ac
+might be medium the hit points might be
+medium even the mobility might be medium
+so in a sense they kind of look a lot
+like the skirmisher
+but they do they do something totally
+different but they're they do something
+totally different their thing is helping
+out and buffing and helping out
+everybody else in their group
+and again you're like well do i go and
+fight the leader
+but the leader isn't what's killing me
+but the leader is also what's enabling
+them to kill me and so it creates this
+really interesting you know sort of
+challenge
+and those are sort of your your
+archetypes a fourth edition and
+that's that's kind of a lost art that i
+think even though those things don't
+exactly exist in pathfinder 2 although
+again
+if you look in the gmg and you look
+under this concept of like a monster
+role
+you will see uh let me take a look here
+actually let me bring it up here if you
+go to pathfinder
+pf2 dot tools
+okay and you take a look
+at um the monster tool
+you will see in the upper hand uh upper
+left hand corner um when you go to and
+i'll put a screenshot i'll put a
+screenshot of this on here but when you
+go to you know create a new monster
+one of the options that you can choose
+from is called the base road map
+okay and the base road maps which path
+under two provides are for a brute a
+magical striker a skirmisher a sniper a
+soldier a spells caster and a skill
+paragon
+skill paragon doesn't really have as
+much practical benefit in a combat
+encounter but the brute the magical
+striker the skirmisher the sniper the
+soldier the spellcaster kind of roughly
+align with fourth edition it's roles so
+that dna is there one's called complete
+nonsense
+that's that literally just randomly
+generates things but but the important
+thing to take away from this is what
+these do is set the baseline
+um armor class fortitude hit points
+damage attack roll
+they step the stats but what they don't
+set are the abilities and the abilities
+are what really allow these rolls to
+make a difference if you have a creature
+which is a big heavy brute and has a
+high damage and low speed low armor
+class high hit points but then you give
+it an ability to heal
+it
+it's going to feel really dissonant
+right give that brute you know an
+ability that makes it feel like a brute
+you know that makes absolutely you know
+that that's knocking you to the crushing
+you and and ripping you apart and you
+know tearing you apart with damage and
+make sure that the party understands hey
+that's what this creature does this
+creature
+did you did you talk about that it also
+tells you what the brute is
+after you click it
+so after you click on the on the tools
+thing below it tells you brute high high
+or extreme strength high to moderate
+constitution correct well that's
+well that's what we're talking about
+right what's nice is it tells you that
+too yeah exactly it it gives you low
+perception right it's giving you the
+baseline for the stats but it doesn't
+tell you
+the other things right because when you
+think about if i was going to add a
+couple of abilities to a brute
+right they should be abilities that
+feel brutish that should be yeah high
+damage compelling
+that's what's lacking from this and
+that's what's like well yeah and that's
+what the that's what the art of monster
+design and pathfinder two is all about
+but different topic
+which is a completely different topic of
+correct so um you know i i will i will
+i'll put a link here for uh in the i'll
+put a link in the notes but also you
+know we'll have a screenshot here but
+but long story short
+when you are
+designing an encounter for pathfinder 2
+a combat encounter i should say you want
+to make sure that you are thinking about
+what are
+under my eraser on here what are the
+foes
+what is the terrain or the environment
+and what are
+the objectives
+and
+if you can
+vary these from fight to fight or within
+a fight you're going to create more fun
+and memorable combats that are going to
+allow you to challenge the pcs
+and the players
+and ultimately leave you with something
+that is going to be fun
+and memorable
+both tonight and for years to come and
+that's really kind of what you want from
+a good combat encounter and
+that not saying that every fight needs
+to be something that gets remembered for
+25 years but i'm willing to bet that if
+you had the fight with the zombies that
+were playing flinging characters into
+the pool of acid if you had the fight
+with the uh kuatoa whips crackling
+lightning bolts down the lines and then
+the big skel a big tentacle monster came
+out and grabbed the one guy and he was
+you know wailing around in the sky
+getting ripped around
+chances are better that you are going to
+go i remember that fight i may not
+remember the campaign i may not remember
+the characters but i'll remember that
+moment and i'll remember who i am and
+i'll remember who i who i overcame that
+challenge with and it'll form these sort
+of bonds of of fellowship and and and
+brotherhood and sisterhood that i don't
+think you can get from any other type of
+gaming experience um except for maybe
+like you know some of those
+wow raids where people get really really
+attached to their guild mates
+because it does feel like you you know
+you went through something and it was
+challenging because
+those type of fights
+don't just challenge the pcs
+they challenge the player and that means
+that you are going to feel personally
+invested in that combat that you
+and your actions really did make a
+difference
+so
+that's where we're at bob yeah so stay
+tuned to part two of this and then we
+can assign homework on par after part
+two that's correct so for part two we're
+gonna get into some of the terrain and
+environment component we're gonna talk a
+little bit about the objective component
+as well uh and then we'll we'll have
+some homework for bob about and for you
+yeah um about basically designing a
+better combat encounter you might
+already have some gear spinning in which
+case good on you um yeah yeah so
+quick quickly here at the end before we
+wrap up uh we the night's the last call
+uh are live every other tuesday um
+actually we're live every tuesday but
+we're starting up a brand new ap which
+may be going on by the time you watch
+this but check us out tuesdays on our
+youtube channel 7 pm eastern standard
+time where we'll be doing some sort of
+actual play could be pathfinder two
+could be a different game
+maybe uh dungeon world or blaze in the
+dark uh and of course we also have a
+live stream on thursdays where we cover
+a variety of different topics we have a
+bunch of videos that get released every
+time and
+we have a killer patreon where you can
+join up for oh yeah ton of behind the
+scenes content bonus content bonus
+footage access to our award-winning it's
+not award-winning but uh our legendary
+discord and um and have a lot of fun
+with that so check that out below if
+you're interested in that bob any final
+thing bob any final thoughts no i i like
+this because i think it expanded um all
+i could think about during this was how
+to tweak some of my games that i was
+running so my encounters uh i think were
+a little boring yep i don't think
+they're very memorable especially
+there are some that i don't need to be
+memorable but there are some that i feel
+like could have been more memorable if i
+would have added a little bit more to it
+and that's what i'm looking at just this
+part part one of this and saying
+okay how how would i have changed
+something like i ran some spider fights
+how would i have changed that and i'm i
+did do some terrain and hazards but i
+think i fell a little flat on the
+objectives and that's kind of where i
+wanna uh i think focus on on building uh
+myself as a gm and building my
+encounters and that's what we're here
+and that is what we are here to do so on
+behalf of bob and myself uh i wanna say
+thank you for joining us and we'll see
+you next time on knights of last call
+[Music]
+[Music]
+you

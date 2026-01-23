@@ -1,0 +1,2492 @@
+[Music]
+Welcome to Dyson Mind, a podcast hosted
+by Brad Brown and Jason Kaufman to
+explore the intersection of life, games,
+science, science, music, philosophy, and
+creativity through interviews with
+leading creatives. All are welcome in
+this space.
+[Music]
+I'm in the midst of um doing some
+reorganization as I'm working on my
+bookshelf, ironically, as we talk about
+our new guest. Um, I came across my two
+uh sets of uh Sanderson books.
+>> Never heard of them.
+>> My two Sanderson
+>> uh
+>> So, which one's
+>> trilogies? The Misborn trilogy
+>> and the Stormlight, right?
+>> And the Stormlight trilogy. And the
+original intent was to start reading
+>> when I took my job, but not realizing
+that lunch would be a a a fleeting
+>> and wistful dream.
+>> Lunch would be a let's ask Brad
+questions unless he closes his door.
+>> Yeah. Yeah. And I'm not one to
+necessarily close my door. No, you're
+not.
+>> Um even if I'm in a meeting, if if I
+have a meeting where I'm talking about
+something sensitive, then I'll close my
+door. Right. But um and our and our
+offices are glass front. Um
+>> Oh, they are. Yeah. So there's really no
+escaping.
+>> No. So I mean I'll put like today I had
+I had some sensitive topics I had to
+discuss.
+>> Yeah.
+>> Um so even if I'm my door is closed,
+people will walk by and then look in to
+see if I'm actually like
+>> Yeah.
+>> like busy or not. So I've had to take to
+getting white earbuds.
+um
+>> and putting white earbuds in my ears
+>> and that way they will look and see if I
+have earbuds in.
+>> You're really assuming people are paying
+attention.
+>> I am.
+>> Okay.
+>> I am. And um
+>> and people will look and see and if they
+see the white earbuds in then they then
+they know that I am um
+>> yeah that's I mean that is a clever
+solution. If is it working?
+>> Yeah, I think I think for the most part
+it is. I think today was one of those
+unique circumstances where um it was a
+it was a sensitive discussion that
+>> you truly had to have privacy.
+>> Yeah.
+>> And so um and I needed to have it before
+another meeting and so people were
+trying to um
+>> Yeah. get you before the meeting
+>> access get to me before the meeting and
+I couldn't have it happen. So I had to
+put the earbuds in even though I wasn't
+in a meeting but I needed that time
+>> now that the cat's out of the bag. Um,
+but I needed that time because I needed
+to accomplish a couple items before the
+meeting.
+>> Sometimes false signaling is the better
+part of Valor.
+>> How How did I know how we got on this
+topic, but going back to the Sanderson
+thing?
+>> Yeah.
+>> Um, it's funny cuz I I took um the
+Stormlight Trilogy off the shelf and
+brought it upstairs because I've decided
+that it's been a while since I've had a
+non
+>> RPG book.
+um
+>> like upstairs
+>> paperback book in front of me.
+>> Yeah.
+>> To read.
+>> Um I have been reading for the most
+part. I'll be quite honest with you. Um
+what's been in front of me for the most
+Well, I'll save what's been in front of
+me. I'll save that for Lon Cafe.
+>> Okay, fair.
+>> But but um
+>> and I probably should have saved the
+Stormlight stuff for it, too. But
+regardless, no, the Stormlight the
+Stormlight stuff, especially now that um
+>> it's out available in PDF right now.
+>> Yep.
+>> Um and it's coming and we'll talk about
+with Ross when it's going to be
+available in print form when we discuss
+with him.
+>> That's right. Um but um it's actually
+really great to have him back now that
+um the material is available for
+everyone and they can start actually
+playing the public can start playing in
+the
+>> cosmir in the cosmir. So So if you
+haven't figured it out by now, dear
+listener, a that's unfortunate and b we
+are thrilled to
+>> slow down on the treadmill.
+We are Eric, stop yelling at your your
+iPhone.
+>> Um or us through the iPhone,
+>> which by the way, I talked with Eric, by
+the way. I haven't told you that. It was
+>> You have not?
+>> Yes. So, good conversation.
+>> Oh, excellent. Excellent. Um we we have
+Ross Lizer back on Dyson Mind. Uh, and
+like you said, Brad, this time we were
+able to talk really candidly
+about what's coming out, what's out for
+Cosmir. And we got to geek out about the
+mechanics.
+>> Yes.
+>> And that's something you and I have been
+really curious about since he was on the
+first time.
+>> The whole dice mechanic, you know, you
+know us and dice mechanics. So,
+>> which is which is also going to come
+back for the Lon Cafe on my end.
+>> Oh, it is. Although just on my radar,
+don't know anything about it yet, but
+but to be continued. Um, so yeah, so we
+have Ross back. We're going to do uh I
+think a fairly deep dive into the cosmir
+into where it is a little bit into where
+it's going. certainly into the dice
+mechanics and and as promised I I should
+say as Ross promised us when first we
+chatted with him on the show. Uh we
+spend a fair amount of time on the magic
+dice mechanics which are just really
+interesting because both Stormlight and
+Misborn are hard magic. And I would say
+if you're not familiar with Sanderson,
+and let's be honest, as of not that long
+ago, neither of us really were.
+>> No, we I don't know where we were, but
+we were not.
+>> We were not. Um, you know, don't let
+that give you any pause because
+>> No. Um, you don't have to be to and the
+game itself, even if you're not uh a
+Sanderson fanatic of any form, I think
+the game itself should show
+>> Yeah,
+>> the game itself shows enough promise
+that it should be something that should
+be of interest to you.
+>> And Ross will get into that. Yeah, we
+he'll explain the logic. So, we've got a
+fairly lengthy interview with him. So,
+let's hop over and we'll be back.
+[Music]
+Rosser is an asexual geek, mathloving
+theater and choir kid, and forever GM by
+choice who specializes in playerf facing
+design. He's worked many jobs from math
+teacher to grocery store pizza maker to
+flooring wholesaler to landscaper, but
+he's a lot happier making games
+full-time. Since March of 2017, he's
+operated under the brand Outlandish
+Adventure Productions with products that
+spark whimsy and capture the
+imagination, but with a serious focus on
+system syntax, narrative, mechanical
+cohesion, interparty balance, and
+positive gameplay experiences for both
+the player and game master. His body of
+work primarily includes independent
+third-party supplemental products for
+D&D 5e on the Dungeons Masters Guild,
+but now he's a senior designer on the
+core design team of the award-winning
+cosmir RPG as a decade long Sander fan
+who's utterly obsessed with the cosmir's
+magic systems and having an absolute
+blast working alongside the most
+wonderful team in the world.
+[Music]
+Well, we don't even need to. We We've
+done introductions before. Ross, thank
+you for joining us. We've already been
+talking. Jason just needed to pause us
+long enough to hit record.
+>> Um,
+>> literally true.
+>> It's my absolute pleasure. I'm so
+excited to be back. I had so much fun
+with you both the first time and it's
+really nice now that the books are out
+that we get to really get like get into
+the meat of the game and I'm very
+>> excited and thank you for having such
+poor judgment andor tastes and friends
+but but
+we are thrilled you are here and yeah
+we've been chomping at the bit to get
+into the mechanics with you and so when
+you have reached out we were just
+delighted
+>> we were glad that that the that the veil
+could come off now and we can talk a bit
+more about
+>> kind of the meat and potatoes
+of the game. Um, and you know, we don't
+want to we don't want to necessarily
+like hyperfocus on one area or the
+other, but I'm fascinated kind of by
+like the dice mechanic.
+>> Yeah, we totally want to hyperfocus on
+the mechanic.
+>> Yeah, we do. Yeah, that's why
+>> uh Yeah, a lot of people like talking
+about the plot die because it's it's
+something that's so unassuming but
+really makes a huge difference in play.
+So maybe if you don't mind, Ross,
+because like like like Brad had said,
+seeing behind the veil, but you know,
+total honesty for all of our listeners,
+all four of you, maybe five these days.
+Um uh I mean we have one of our
+listeners actually listens while he's on
+the treadmill, so he does actually exert
+himself while
+>> at least he's at least there's something
+that Brian's getting out of the
+experience.
+>> Exactly.
+>> Um but
+>> but we like we we haven't seen anything
+behind the veil. So, especially given
+just how newly released this is, and I
+know right before we clicked record, you
+said that the the printed copies,
+they're just starting to percolate.
+>> Yeah. So, yeah, as of recording, uh the
+uh the digital materials have been out
+for about a month now, and fulfillment
+has begun
+>> uh on the physical materials, which is
+awesome. Which means that if we this
+episode follows the same timeline as the
+one I was on last time, it probably
+means that a vast majority of the film
+will be finished and the the physical
+books will be in backer's hands by the
+time this episode comes out.
+>> You are absolutely right. So maybe for
+everyone's sake, because like you said,
+uh Sanderson has a huge fan base, but a
+lot of people have not yet actually seen
+the game. Maybe walk us through the
+mechanic and then we'll just geek
+wherever you want to geek.
+>> Yeah.
+>> All right. Uh so uh one of the big
+things about our system is we had a huge
+design goal of we wanted an easy on-ramp
+for TTRPG players to get into Sanderson
+books, right? And Sanderson book fans
+have an easy on-ramp to get into TTRPGs.
+>> Uh so we actually designed with a lot of
+touch points to very familiar D20 RPG
+mechanics that a lot of tabletop role
+playing game fans will be very very
+familiar with. Uh, so we have advantage
+and disadvantage from Dn D, but with a
+bit of a twist. We have action, an
+action point system for combat, like
+Pathfinder, but with a twist. We have
+talent trees like from the uh Genesis
+Star Wars game.
+>> Awesome. Awesome.
+>> But with a with our own twist on it. Uh
+so our game is very focused on
+innovation and just taking existing
+pieces that people would be familiar
+with, people understand, and kind of
+combining what we think are the best
+versions of all of them uh into uh
+something that I think will be able to
+be familiar to a lot of different
+players
+>> and and basically it's a way to your D
+and D friends to interact with the
+cosmir for the first time. Yeah. or it's
+a way for your cosmir people who are
+very familiar with the world to get into
+a TTRPG for the first time.
+>> So this is fundamentally d20.
+>> Yes, it is a d20 system. Uh you have
+your six ability scores which we call
+attributes in this system. Uh then you
+have skills. Uh we don't use proficiency
+like D&D 5e does. We instead have a
+skill rank system where uh you start at
+level one with five skill ranks that you
+can basically place as you want
+>> and you can have a maximum of two ranks
+in a single skill at tier one and then
+every tier it goes up and then you
+combine your attribute and your ranks to
+form your modifier.
+>> Yeah.
+>> For each individual skill.
+>> That's awesome.
+>> Yeah.
+So
+>> you've given you've given people who
+have touched multiple different systems
+some familiar familiarity.
+>> Yeah.
+>> Wow. I can't believe I didn't pronounce
+that.
+>> And taking the best pieces of a whole
+bunch of those different approaches.
+>> Yeah. And you've given them all the
+ability to find an ingress point into
+the game.
+>> That's that's really our goal was to
+make this game very approachable. There
+there were sometimes people in beta said
+that our game was very very crunchy and
+to a certain extent they're right
+because that gets into another of our
+design principles which is that in
+between sessions the game is very
+crunchy. You have a lot of options like
+that. That's the inherent nature of
+talent trees
+>> because you can like really scour your
+options, right?
+>> And then look to see like what talent
+you have you can you can access
+>> and then which one you want to pick for
+your level up. Yeah.
+>> Because our game is designed around
+multipaththing. We do not punish you for
+multiclassing in any way, shape, or
+form.
+>> Yeah.
+>> Um and uh and so but it can be a lot of
+cognitive load, especially when you're
+making your first character. Yeah.
+>> Uh to have so many different options
+staring you in the face, but when you
+actually play, it's a very smooth
+narrative focused experience.
+>> Okay. So, the plot dice. I know you you
+mentioned those a moment ago and and
+that last time the first time you were
+on,
+>> you teased it and you were really honest
+that you just can't say more, but you
+really want to say more because it's
+unique. Now, we can talk about it.
+>> Yeah. So, I I believe I described the
+different facets of the plot die. It is
+a special d6. It has two blank phases,
+two faces with an what we call the
+opportunity symbol and then a plus two
+and a plus4 complication.
+Now, uh, so when you get, so when the DM
+determines the right thing or when a
+talent tells you to add this to the test
+by saying raise the stakes, you roll it
+with your d20 and any other dice
+involved in the test, that would be your
+damage dice for an attack. Uh, for the
+surgeon specialties field medicine
+talent, you add the targets recovery dye
+to the test to heal them. Mhm.
+>> Um, but so our whenever you make a test,
+you roll all the dice at the same time.
+>> This actually feeds into a couple
+different mechanics that we use. One of
+which is our system has stacking
+advantages and disadvantages.
+>> Oh.
+>> Um, so if you have three different
+sources of advantage on a test, you can
+use all three of them. The way it works
+is that you choose for each advantage
+you have, you choose one die in the
+test. You roll that die twice and you
+choose the result you want from that
+die.
+>> Oh, that's interesting.
+>> So, if you have a d20, a plot die, and
+three damage dice, you could choose to
+have advantage on the on the d20, the
+plot die, and one of those three damage
+dice
+>> and hilarity ensues. I mean, that re
+that really
+that's unique and that seriously affects
+story like it could go in all kinds of
+ways from the same situation.
+>> Yes. Uh, and then the plot die is just
+this wonderful, wonderful tool. Um, I
+remember when I first came on with the
+project, I was really skeptical of it.
+>> Yeah.
+>> Because I'm like, I I I am a consmate
+GM. I I I've been a forever GM for over
+a decade now. Why would I need something
+to tell me how to dictate the results of
+my of my skill check?
+>> Yeah.
+>> And I know that a lot of people have
+that same gut reaction to it. But the
+thing that I've grown to love about it
+is that one, it keeps me on my toes. I'm
+a very improvisational
+GM. So, uh, if I determine there's a
+significant enough moment as the GM to
+add this style test, I know that there
+could be a positive side effect or a
+negative side effect that occurs and
+changes the direction of the story in a
+way that makes me feel like I don't know
+entirely what's going to happen as the
+GM, which is fun.
+Um,
+>> yeah, that that's
+>> I will say that's No, no, I'm sorry. I
+was just I think hearkening back that's
+one of the elements I most enjoy about
+the Genesis dice system.
+>> Yes.
+>> That it right. Especially the way it's
+tuned like mathematically and
+statistically that it nudges you
+not out of your comfort zone, but like
+it almost forces creativity for the GM
+of this is going this direction or this
+direction, good, bad, or otherwise. And
+now you have to come up with something.
+>> Yes. I I will say that um we did have
+the benefit of having Andrew Fischer,
+who is a major part of the Genesis Star
+Wars system, uh be our lead designer for
+the Stormlight aspect.
+>> Yeah.
+>> And also his long-term collaborator, Max
+Brookke, who was also on the Genesis
+system, was also a consulting designer
+on our project the entire way through.
+Um, and so we once again we took that
+idea of this narrative die and we put a
+little bit of a twist on it,
+>> that innovation that I was hinting at
+earlier where so we give tools for
+mechanical things that you can always
+spend those spaces on if you don't want
+to slow down play like bring it to a
+like a a screeching vault and you just
+cannot think of something to happen to
+the narrative. So for an opportunity
+that a player generates, you could
+always they could always choose to
+regain one focus which is our mental
+resource or they could choose to give
+advantage to one of their friends next
+tests.
+>> Nice.
+>> So that's always a and they choose how
+they want to spend their opportunity. So
+they can choose one of those two things.
+A whole bunch of our talents in our
+various trees have effect you can spend
+opportunity on. Um, so specialized uses.
+Uh, and then there's also the
+opportunity to influence the narrative.
+And that's when we get more of that like
+your GM is a little bit on their toes.
+They have to figure out what they want
+to do. And we also have explicit
+guidance in our game mastering section
+to allow people to like to suggest
+things like it's it's explicit
+permission for it to be a collaborative
+thing and not just entirely on the GM
+which is what I know of some people are
+worried about with the plot diet that
+will increase their load as the GM in a
+way they're not comfortable with. But we
+we want collab TTRBGs. The magic of them
+is the collaborative storytelling,
+>> right? And so we we encourage that. And
+then the complication when a player
+generates complication, that's the GMs
+to spend.
+>> Nice.
+>> And certain effects have specific
+complications, complication effects you
+can spend them on. But there's always
+the the player loses one focus or that
+player has disadvantage on their next
+test that you can always put on in
+addition to the negative influence, the
+narrative. Uh so we so there's defin we
+want to put safety rails on because we
+know people are going to be coming from
+less narrative systems like your
+pathfinder DND
+>> right
+>> and we want to make sure that they have
+things that they're more comfortable
+using and uh we also didn't want to
+overload things like you can't really
+bank your complications or
+opportunities. They're always used in
+the moment outside of a specific
+mechanic that is called the events
+system.
+>> Okay. Now uh let's just give a bit of an
+example.
+>> Yeah.
+>> In on the world of Roshar, which is the
+planet that the Stormlight books take
+place on, there is a super hurricane
+that rolls through at semi at
+semi-regular intervals. If you are
+getting to a place in your narrative
+where a high storm could be bearing down
+and they don't the players don't know
+how quickly it's going to hit, you could
+introduce an event track
+and then and then this would be a
+negative event. So every time a player
+generates a complication,
+you can then add this to the event track
+and when the event track fills, boom,
+high score.
+>> Oh, that's you know, so so now now that
+strikes me as truly original. I will say
+though, like as you're describing this,
+I also, maybe this is totally
+unintentional, but I also hear echoes of
+the Medifius D20, especially the Star
+Trek approach in terms of like tracking
+and events and a little bit of the
+complications being handed back to the
+GM to just mess with them. Very cool.
+>> Yeah. Uh, so yeah, as I said, there's so
+we have I mean, Merrick Moyer, who I
+know you've had on this podcast, has
+done work for the Star Trek RPG.
+>> Yeah. Uh like we we we really did ch
+like seek to just take our favorite
+things from many different systems.
+>> So cool.
+>> And repurpose them into a package that
+really represents the cosmir and the
+narrative stylings of Brandon Sanderson.
+>> Yeah. So I know I've been and then I'll
+shut up. Sorry Brad, because I know I'm
+enough.
+>> No, no, this is good. This is good.
+>> But I
+>> I have a different I have a different
+vein I want to take. So good. So this is
+so kind of a last last question on this
+note. Maybe this is so much more
+interesting than I expected, Russ. I
+mean, it's there's so much here
+apparently. But the question that I've
+been wondering since we chatted with you
+last, and of course that you brought up
+that time, magic.
+>> Yes.
+>> Right. Cuz you you had said, look, it's
+really special. And I'm paraphrasing
+what you had said, but it's really
+special. It's really unique. Of course,
+it is too in the books like in that
+world is it's between Stormlight and
+Misborn. It's just it's really creative.
+It's different. And for those for those
+that don't know, it's it's it's hard
+magic is what terminology is.
+>> Thank you. Hard. And you had said you
+all had figured out a way to do it
+really well.
+>> At least we think so. I mean, we did a
+whole bunch of play testing. Um, so the
+thing about Brandon Sanderson, the way
+he writes his characters, his magic
+systems, is you can't really handle them
+via the spell slot rigid spell approach,
+>> right?
+>> It just doesn't work. characters get way
+too creative with how they use their
+core abilities in the books. Uh it just
+it wouldn't and and also people only
+ever run out of magic when the narrative
+requires them to in the books. We wanted
+to capture this as well. Uh and the
+thing for people who aren't aware of the
+cosmir, uh there's there's an entire
+idea of every single planet, every
+single setting in the cosmir, which is a
+farreaching galaxy has a different form
+of magic. So, every time we release a
+core book or create a new magic system,
+uh for when we're releasing core books,
+the magic's going to look a bit
+different to reflect that world.
+>> Um, and they can't say anything yet
+because they're still under NDA, right?
+But the alpha play testers who are play
+testing the mistorn materials right now
+can attest that alammancy and feruami
+which are two different magic systems in
+those books feel very different from
+surge binding and radiance which are in
+stormlight.
+>> Uh but for those who don't know uh there
+is this magical resource called
+stormlight which is what the stormlight
+archive is named after. Basically, when
+that super hurricane called the high
+storm passes through, people put out
+little glass spheres with gemstones in
+them and as a storm passes overhead,
+those gemstones are filled with literal
+energy that glows, which is why it's
+called storm light.
+>> And then, uh, people in the world have
+figured out how to use these infused
+gemstones, they're called, to power
+magitech devices called fabriels. And
+then slight spoiler for the books, as
+the lost magic system of the radiance is
+rediscovered in the modern day, uh
+people learn that radiance can breathe
+in stormlight, literally draw them out,
+draw out of gemstones into their own
+bodies and they glow, hence the term
+radiance.
+>> And then every order of radiant, of
+which there are 10, and nine of them are
+playable in this book. The 10th one is
+not playable because there's only ever
+three of them at one time in the world,
+and they're all plot devices. Yeah,
+fair.
+>> Uh, but the nine playable orders of
+radiant, all of all of them get access
+to two different fundamental magic
+powers. These are called the surges. And
+every single one of them in some way
+allows you to control a fundamental
+force of nature.
+Gravitation, for example,
+literally lets you change the direction
+of gravity on yourself, objects you
+infuse, and other people.
+>> Brad can never be allowed to have that
+power. I'm just
+>> You would be in big trouble if I had
+that power.
+>> Yeah.
+>> Yeah. Uh but then there's nine others.
+There's illumination, which is literally
+being able to bend light uh and
+electromagnetic waves. Uh there is the
+surge of transformation which lets you
+go and talk to the cognitive aspect of
+an object and you try to convince it to
+change from one material into another
+material.
+>> Wood to stone or from stone to rock
+sorry or from stone to water or from
+water to clear air or when you get more
+skilled with the surge from from any of
+those to fire. uh uh and so and these
+and all of them do these fundamentally
+physics breaking things right
+>> and they are very very fun. So the way
+we translated this,
+>> yeah,
+>> it was we were a able to do it
+relatively directly with the idea of the
+radiance where once you swear your
+radiant ideals uh and it's very Paladin
+like in that way to gain increased
+power, gain increased magic, you have to
+swear ideals that relate to your order.
+>> Uh but once you unlock your two surges,
+it's skill-based magic. So when you
+become a windr runner, for example, you
+will gain the gravitation skill and the
+adhesion skill on your character sheet,
+and you can put ranks into it like any
+other skill.
+>> Interesting.
+>> To get better at using your magic.
+>> Uhhuh.
+>> Um, and then you'll unlock further
+abilities, the later ideals you are able
+to swear.
+>> Uh, but
+on your character sheet, I kind of
+mentioned briefly the idea of a
+cognitive resource in our game. Yeah.
+>> And the reason for that is another
+reflection of the way the cosmir works.
+Basically, there's three layered almost
+dimensions or realms in the cosmir.
+There is the physical realm which is
+where we flesh and blood beings exist.
+>> There's the cognitive realm where ideas
+exist. And finally, there's the
+spiritual realm where souls exist.
+>> Interesting. Okay. Uh and so our
+physical resource is health. That
+represents both the amount of damage
+you're able to take and your stamina.
+>> Yeah.
+>> Uh there's the our cognitive resource is
+focus.
+>> And our spiritual resource is
+investature which is the kind of magical
+energy that suffuses the cosmir.
+>> You know how like there's that idea of
+matter and energy cannot be created or
+destroyed. They can only be converted.
+>> Right?
+um in the cosmir investature is added as
+a third element to that.
+>> Okay.
+>> So mass uh can be converted into energy
+can be into that investature and back.
+>> Yep.
+>> Um
+so uh so our investature resource you
+have a relatively small pool from it.
+Like usually most level two characters
+which is the earliest you can become
+radiant in our system. Uh so you'll
+always have mundane skills first. Mhm.
+>> Um
+you you have roughly somewhere between
+three and five is the average starting
+out and you can spend this to fuel your
+magical abilities uh your your the use
+of your surges. And when you run out of
+of that, as long as you have access to
+enough infused spheres, which for the
+most part you're going to, other than
+when the narrative requires you to be
+limited,
+>> you can just take the breathe Stormlight
+actions, spend two actions, read that,
+go back up to fool, and you're back to
+it.
+I it it sounds very I mean obviously
+there are a lot of moving pieces
+conceptually but it sounds like it ought
+to be a pretty efficient mechanic at the
+table.
+>> Yes. As I said very crunchy between
+sessions.
+>> Right. Right.
+>> Very smooth at the table.
+>> I like that.
+Are there have you just in so obviously
+as a as a design team and everything
+like that now that now that you know the
+the
+um the book is out there to backers and
+or it's it's you know by the time this
+comes out it's it's going to be out
+there to backers and full and everything
+like that.
+>> Um
+>> you know
+you're getting feedback from reviews and
+everything like that. Um, are there
+people going to cons and and putting
+together gaming sessions and things like
+that? And have you seen that and heard
+that? And
+>> um, so yeah, uh, we we had I mean other
+than at Con when we had our own room,
+um, there are already actual plays on
+YouTube of people playing through the
+Stonew Walkers Adventure or running
+their own campaigns. like Sanderson fans
+are have been deeply deeply excited
+about this uh and are very happy about
+our uh fan content policy being overall
+very like we even have like a free kit
+that you can download for overlays uh on
+streams uh if you want to use it for
+your actual plays.
+>> Very cool.
+>> Oh, cool.
+That's that's our uh that's our
+brilliance uh uh marketing manager uh
+Jillian Schemacher uh who who who who
+created that because she came from a
+video creation a content creation
+background. Uh
+>> that's that's actually like genius
+because that takes a lot of creative
+effort in many ways for for people that
+want to do live plays to put that type
+of material together to do live plays
+and for you to provide that as an
+organization
+to be able to do that. I mean, wow. So
+kudos to her for for putting that
+together and for you all to making that
+available. Um yeah, that just that just
+generates and that just that that
+you know that's just going to to gender
+others to want to to put together out
+and and
+show the content.
+>> That's our hope uh that we we want as I
+said one of our big design goals was to
+make the barrier of entry as small as
+possible.
+Uh,
+>> that was a that was something that I was
+thinking about and maybe there's not a
+question. Maybe it's more a comment.
+There's a question hidden in there
+because I was thinking about this
+because I I know of people maybe me
+maybe maybe me me in some way. Oh, not
+not maybe me as much just because I I've
+started doing some reading. Jason has
+done some of the reading, but I'm a late
+bloomer to
+>> Anything you want to add to that blink?
+Oh, sorry. Go ahead.
+>> Stop it. Stop it. Um, but but the idea
+and obviously I'm I I was too late to
+get into the backing because I didn't
+know it existed at the time. But by the
+time I will get the material
+um you know I will have read some of his
+obviously some of the m you know I will
+have read some of the Stormlight
+Archive. I started reading that first
+because that's the first that's the
+first RPG that came out. So I wanted to
+read that first. But I'm thinking about
+folks that are like out there and have
+seen like have heard that this is coming
+out, have heard of him, maybe maybe
+haven't read a book
+or and
+haven't obviously seen the RPG and
+they're thinking to themselves, wow, you
+know, where do I start with this? you
+know, do I wait for the RPG or do I
+grab, you know, the first book in the
+series and start reading? Um, and how
+does, and you've talked about, and maybe
+this is a little bit of a rehash of what
+we talked about at in the first in the
+first time you were here, so I
+apologize, but how does the RPG fit into
+the series of into the Stormlight series
+of books? So um the timeline for our
+books uh yes our world guide does
+acknowledge books beyond this uh for
+people for people who want to run their
+own campaigns but the timeline that we
+set our handbook and world guide
+primarily in is in the year of space
+between books three and four. Uh so
+that's between Oathbrer and Rhythm of
+War. Uh because we we want we want the
+big war that happens to be happening.
+That's a very fun setting to be in. We
+want most of the radiance to have been
+rediscovered and for people to be able
+to engage with any of the nine wars,
+nine playable orders they want to be
+able to play. We want to be able to
+introduce some of the most iconic
+adversaries known as the fused. And they
+and let me tell you, we have some
+incredible art in these books of the
+fused. uh in many cases their first like
+canonical depiction in like fully
+rendered art.
+>> Well, so they're going to so people who
+have read the books, they're going to go
+to the RPG and they're going to be able
+to visually see some of these that are
+sanctioned for the first time.
+>> Yeah, we we have a we have the first
+canonical art of a number of the book
+characters.
+>> It's really cool
+>> for people to be able to see like what
+they look like and of course all vetted
+by Dragon Steel team. the the just I
+mean I said this last time we were
+together, but the the living RPG idea,
+it's just it's just neat. Like it's I
+I'm
+>> I hope that other IPs think about doing
+something similar so they can crossfeed.
+>> So yeah, uh but getting back to your
+question of where to begin, that's
+really going to depend on your play
+group. If you have a GM who's very
+experienced with like the cosmir books
+like the novels,
+>> yeah,
+>> then honestly you don't have to have
+read a thing.
+>> Uh you will get to experience the world
+diagetically the way a reader would like
+being introduced to concepts for the
+first time. And then you also have this
+wonderful magic of of of this real world
+magic of having that diagetic experience
+with your character of what is this
+weird little floating thing that's
+following me around and seems to play
+pranks on me like what is this? Why is
+this happening?
+>> Yeah.
+>> And then discovering just like the
+characters did what it all means and
+where it's going from there. Uh and I I
+think there's there's a real magic to
+that. Um, I have run uh several oneshots
+at conventions where uh people who are
+very invested in the cosmir uh have
+brought their significant other to a
+demo session. They have no idea what's
+going on. They play D and D maybe once
+or twice and then they get the
+experience of wait this thing that I did
+seems to make get catch this thing's
+attention more than it's catching more
+than it's paying attention to anyone
+else. Why why is that happening? And
+then this whole concept of like when
+of just this absolute thing of they have
+no idea what's going on just like the
+characters in the books and then
+eventually they start getting it enough
+that you as the GM can just say to them
+speak the words your character like what
+words what words uh and
+>> and then you can just like do a
+disembodied voice of
+>> life
+strength before weakness, journey before
+destination. And then when they say it,
+you say they just burst a light suddenly
+filled with stormlight and radiance and
+suddenly they can use magic. Uh and and
+just and I literally have seen people at
+tables like fans like fans especially
+when they see new players do this that
+have no idea what's going on. I've seen
+established fans break down into tears.
+>> That's cool. of of of like not even
+their character but someone else at the
+table getting to experience the magic of
+Stormlight the first time.
+>> See, that's cool.
+>> That's pretty cool.
+>> Yeah, that's
+>> And before fans get me, I did misspoke.
+It's life before death, not life after
+death. I got too into it and too
+excited.
+>> And if they're bringing their
+significant others, it could be marriage
+before divorce.
+So
+>> what, you know, on to each their own.
+>> I mean, if they enjoyed the game, could
+be
+>> Yeah, this is true. or or if you buy a
+lot of the books,
+>> then that could be divorce before
+marriage. But
+>> but you never know.
+>> Um,
+>> you know, I want to pause here because I
+want to ask for you personally now that
+the books are coming out,
+>> what has it been like for you, watching
+this
+>> happen and watching all of the feedback
+and what have you been doing since this
+has started to come out? And I know you
+probably are working on and we're not
+asking you for things that you can't
+talk about, but what have what have you
+been working on and doing as you've been
+watching all of this?
+>> Uh, so the the really weird part is that
+these Stormlight materials have been out
+of my hands for almost a year.
+>> Wow.
+>> Oh, wow.
+>> Because we had to get them off to the
+printers. We had to ship we had to we
+had to print $15 million worth of books.
+Um and and so like we we had to give a
+lot of lead time. Um and so throughout
+all of that uh we have been continuing
+to chug along on Misborn.
+>> Yeah.
+>> Uh like we we start we started Misborn
+Design before Gen Con last year. Uh so
+we like literally January of 2024.
+Misborn has been in development since.
+>> Wow. Um uh so uh and of course we've
+done other side projects like there I
+I'm working on a project that is based
+on fan feedback right now.
+>> Um neat
+>> uh which is a quick start character
+guide uh where like we received some
+feedback that for new players like first
+level character creation is a little bit
+overwhelming. So, we are creating 20
+preens that you can then roll a d20,
+determine which one you want to play,
+then roll for your name, character's
+purpose, obstacle, goals, all of that.
+So, I'm literally that's what I was
+working on today.
+>> Uh,
+>> uh, but we've been working on Misborn.
+Like, we've been really listening to fan
+feedback. Uh we've we're we're
+developing an FAQ like internally that
+we that we're going to be releasing at
+some point where we're we're looking at
+people's feedback for a because with
+books this size, mistakes are bound to
+slip through,
+>> right?
+>> Especially with a team our size.
+>> How big is the book?
+>> How big is the core?
+>> 391 pages.
+>> It's chunky.
+>> Nice.
+>> Now granted, it would be a lot shorter
+if our art pieces weren't as big,
+>> but uh but our art pieces are also
+really good. Yeah,
+>> art counts. I'm sorry coming for I'm art
+counts.
+>> Yeah,
+>> uh uh so but yeah uh but my reaction uh
+has been uh very joyous. Um we kind of
+talked a little bit before uh we about
+how we are big enough that we are
+getting attacked by the anti-woke crowd
+which is kind of fantastic.
+>> Congratulations.
+>> Yes.
+>> Uh it means you've made it whenever they
+start attacking you. That's right.
+>> Um, and also, uh, like this is a book
+series, uh, where literally it is
+explicitly stated if you have, if you
+use Stormlight for long enough and you
+are trans, your body will naturally
+begin to transition because the way
+Stormlight healing works is that it
+makes your physical body match your
+cognitive and spiritual self.
+>> Oh, cool. So your perception of yourself
+and who you truly are, your body will
+naturally begin to mold itself towards
+that. So if you're trans, your
+Stormlight will transition you over time
+>> without the hassle of an HMO. Brilliant.
+>> Yeah. Like that that is explicitly
+stated in the books.
+So like, yes, we are social justice
+warriors. We love this series for being
+like that beautifully progressive. And
+so if if they're attacking us, we're a
+big enough deal that it's monetarily
+worth it for them to attack us. That's
+fantastic. That's awesome.
+>> It means It means that we did our job.
+>> Yeah, that's right.
+>> They got it. And if if they really feel
+like they have Well, okay.
+>> We just
+focusing on the positive stuff.
+>> No, no, no, no. I'm I'm just saying I'm
+just saying that I I think it's funny
+that that that that they I I that should
+be a blue ribbon for you all that that
+they have to that they have to do that
+and and the idea that there's that that
+again it goes to our point that
+regardless of what anyone believes there
+should be inclusivity at the table.
+>> You know we just generates that.
+>> I mean before you were born we had the
+satanic panic. You know God willing
+we'll get to the storm life right and
+you'll sell even more. Ah ah ah Ross got
+to go trademark that.
+>> Yeah,
+I'll let Johnny know. I'll let Johnny
+know.
+>> The Stormlight Fright. There you go.
+>> Yeah. Then you know you hit.
+>> But for on a personal level, um I I am
+the person who wrote the vast majority
+of the pros and mechanics in the magical
+chapters.
+>> So cool.
+>> Uh that that's chapter five, Radiant
+Paths, uh and chapter six, searches. Um,
+and so literally the most nerve-wracking
+thing I had to do on this entire project
+was write the radiant paths chapter. Uh,
+that's because and in particular, uh, it
+was the there are certain oaths that
+have not been spoken on on screen, quote
+unquote, in the books yet.
+>> And so I had to come up with them. Oh,
+>> did they have to did they have to pass
+through the master's filter?
+>> Yes.
+>> That's like like I had to I had to look
+at all the material he released about
+every rate every rated orders
+philosophies what their own are supposed
+to be. look at the progression of how
+they've worked for the orders that are
+well established in the books and try to
+reverse engineer where the lesser known
+orders ods might go from there and then
+like write the words and then pitch them
+to Dragon Steel. Uh, and I was so
+afraid.
+>> No pressure. Uh I like I I spent quite a
+bit of time and researched on trying to
+get these right and I am very fortunate
+that the only notes that we got back was
+do not include specific words for the
+fourth ideal because it is so
+personalized to each radiant that we do
+not want to have specific words listed
+here.
+>> Wow.
+Uh but otherwise uh I got kudos and it
+was and so it is amazing having done
+that having been through all of that
+seeing people who had never seen their
+personal orders like their the one they
+most associate with.
+>> Yeah.
+>> Go into the book see the words see the
+ideals and uh and react to how much they
+love them.
+>> Uh and so that that for me is a very
+personal triumph. Uh, and especially
+because um, one of my personal order,
+The Stone Ward, like this is a book this
+are very very cool radiance. Like we've
+heard very cool things about them in the
+books. They've barely been on screen.
+Um, and so seeing fellow stone wards
+react to how cool the stone ward is both
+to play and both mechanically and
+narratively with their oaths has been a
+really personal triumph for me and a
+very joyous uh note whenever I see
+people talk about how much they love it.
+>> That's wonderful.
+>> Have you have you done any con
+traveling, you know, over the past
+months or
+>> not yet. Okay. Um, so, uh, I I was not
+able to go to Gen Con this year. I would
+really love to, uh, because the energy
+would have been fantastic. Uh, the books
+were literally released digitally right
+before Gen Con.
+>> Um, and so, uh, I I've heard incredible
+things from people who were able to go,
+but I will be at Dragon Steel Nexus in
+an official capacity this year. And in
+an unofficial capacity, I'm going to be
+at PAXU in Philly because I live
+actually pretty close to Philly. Yeah.
+Uh, and just very coincidentally, a
+number of Cosmir people are going Cosmir
+RPG people are going to be at PAX
+Unplugged uh, in a completely not Cosmir
+RPG capacity, but we're all going to get
+together and hang out.
+>> Very cool. Oh, cool.
+Um, and so yeah, uh, I can't wait to
+experience in person because by the time
+that Packs Unplugged happens.
+>> Yeah.
+>> Um, the, uh, it'll be in retail.
+>> That's pretty cool.
+>> Yeah, because it says October, right,
+that the book
+>> October 29th is the official date.
+>> Okay. that I'm and I'm allowed to give
+that now because they uh the the press
+embargo has been lifted and and uh like
+Reactor Mag I think has published it out
+out there. But yeah, October 29th is
+when officially it'll be in game stores
+and Barnes & Noble nationwide.
+>> That's huge. God, that's so big. Uh oh.
+Uh Barnes & Noble I I've heard from our
+higherups um has been so excited to
+partner with us on this because uh
+they're plan from what I understand they
+plan on putting us like right next to
+>> like like have a little cosmir shelf
+>> good
+>> and put our TTRPG in amongst the novels
+>> like putting an end.
+>> Outstanding.
+>> Yeah. So, I mean that's that's I I know
+that Barnes & Noble has been doing a lot
+to kind of increase their shelf space
+dedicated to gaming.
+>> Yeah, you you can I was in a brand,
+believe it or not, there are new ones. I
+was in a brand new Barnes & Noble here
+in town yesterday. Brand new. It's
+>> a 394 not far from my dad's house.
+>> Oh.
+>> Uh it's beautiful. and and but but
+they're all this was and this was the
+biggest RPG shelf I've seen at a Barnes
+& Noble yet, but they're all over like
+they are growing. But I think nesting
+the cosmir RPG material with the novels
+will seed this with all of those readers
+who wouldn't know or maybe have not
+gamed. I mean, talk about introducing it
+to a new a new audience.
+>> This this plays into something. We've
+we've talked about this. We we we
+probably talked a little bit about this
+with you in the first episode and maybe
+even offline about this idea of of RPG
+is lit lit RPG
+>> and the idea of of putting the RPG next
+to the literature
+>> and let's be honest I mean his book we
+talk about him as books but his what he
+writes is literature
+>> and um you can take the story. What you
+can take the adventures sitting down
+there at the table and playing these
+games and
+>> in theory. Yeah,
+>> you can you can take those stories and
+use and we've seen this with our friends
+who have done this with other games.
+>> Um you can use a transcription tool, you
+could use AI, you could use whatever you
+want. You could take the the adventure
+that you generate as a GM and as those
+characters and turn those into in effect
+like fanfiction. Isn't that kind of what
+happened with Dungeon Crawler Carl,
+which has been blowing up recently?
+>> I don't know that. Me neither. I don't
+know.
+>> Uh, so I've had these books recommended
+to me and like by a number of different
+people. I don't I haven't read them, but
+from what I understand, it's basically a
+guy took his solo campaign that he ran
+>> and novelized it.
+>> There you go.
+>> And and it's a running series now, and
+apparently it's very, very good.
+>> Amazing. Yeah. See, that's what and and
+again, you know, we're not we're not
+advocating people like try to try to
+publish stuff that's from copyrighted
+material like from the cosmir and
+everything like that.
+>> That's what plot will be for.
+>> What's that?
+>> That's what plot weaver will be for.
+>> Oh yeah, but it but
+>> I want to come back to that though in a
+sec.
+>> Yeah, I Yeah, you you just said
+something and I don't want you you're
+not gonna get you're not going to get
+past this with that.
+>> No, no, no. Uh yeah,
+>> but but ultimately you could be this is
+a way of sparking
+future writers and things like that.
+Just the creativity from it. Now I'm
+going to pause there and go back to what
+you just said.
+>> Plotwaver.
+>> Plot.
+>> Go on.
+>> So plotw weaver is the name of the
+underlying system of when you scrape off
+all of the the the cosmir the cosmir IP
+>> the open the open RPG system. Yes.
+Awesome.
+>> Um, so, uh, it, so you had Merrick Moyer
+on the show a number of months ago. Yep.
+>> Uh, he was recently promoted to the
+Plotweaver RPG director.
+>> Outstanding.
+>> And so he is now basically working
+behind the scenes to uh to build out
+this uh this functionally
+open-source almost game called
+Plotwaver. the from what I understand
+the idea is the idea to have an OSR have
+an OGL
+uh that is very rewarding to fans
+because the whole idea of plotw weaver
+is that it's about worlds collide uh and
+that basically that settings can overlap
+and smash into each other so you can
+create your own setting
+>> for plotw weaver your own magic system
+and uh and you will be able to market it
+so you'll have generic fantasy you'll
+have you'll have true sci-fi you'll be
+able to You'll have horror. You'll be
+able to take any genre you want and use
+our uh game system with the plot die and
+our initiative system and all of our
+core mechanics and be able to create the
+worlds and stories you want to play and
+make money off of.
+>> Okay. So, two things, a quick a comment
+and a question. The comment, you guys
+are all going to need another tattoo.
+The question the question
+like when within what you can tell us
+like ballpark when does this become
+available?
+>> Uh so I don't think I can comment on
+timeline. I am not involved with that
+team.
+>> Um I I asked if I could split my time
+and I was told I was too valuable to the
+Cosmir RPG to work on Plotw Weaver, but
+it is in very good hands with Merrick.
+>> Oh yeah. and I will he and I I'll be
+back channeling. Don't tell Joanie.
+>> No joke. Yeah.
+>> Yeah. When when they actually hear this
+story, when they actually hear that
+during the episode, they'll just hear
+Jason will scramble it.
+>> I want
+>> Oh, I so want to see Well, I know what
+book I'm
+like system, but that the cosmir is a
+very it it's it's a high barrier to
+entry for a lot of people. There's just
+so much and we understand that. Uh but
+we are confident enough in our
+underlying system that we think that we
+can just we can release a generic
+version uh that that is going to have
+like its own worlds, its own setting.
+It's own magic systems. That's part of
+what America is going to be building a
+team to work on.
+>> It sounds I it sounds like an OS. I love
+the name Plotwaver.
+>> That sounds like Dreamw Weaver. Like the
+old the old
+>> I know the music's in my head, but
+>> Well, no. Not like we came up with that
+name
+>> at last year's uh Brotherwise uh Dragon
+Steel Design Summit.
+>> Cool.
+>> Where where we were all it literally
+almost the entire team was in one Airbnb
+and for and for like eight hours one day
+we just sat down and talked about future
+Cosm RPG stuff. And part of that was uh
+brainstorm for plotw weaver. and we came
+up with that name
+>> uh like in that name we just uh
+>> uh but yeah we're we're very excited
+about it. I can't wait to play it. Uh I
+have so many ideas that I'm going to be
+sending to Merrick, but yeah, that team
+is still being uh is still being crafted
+behind the scenes right now.
+>> That's awesome.
+>> Just as a side note, Misborn still
+expected next year.
+>> Yes.
+>> Yeah. Uh we we are currently on track.
+We don't know what's going to happen
+with tariffs. We thought tariffs were
+going to force the delay of Stormlight.
+Luckily, we were able to squeak by
+through that.
+>> That's very uncertain politically right
+now. But uh current but from the back
+end, the design standpoint, production
+standpoint, we are on track for
+releasing this ordinance.
+>> Like like almost everyone else, your all
+of your printing is overseas, right?
+>> Yes.
+>> Yeah.
+sheer volume of what you need to print.
+>> Yeah.
+>> Just the United States does not have the
+manufacturing facilities there. There
+would be such a bottleneck.
+>> Yeah.
+>> Of everyone trying to use the same. But
+>> I mean, we were we also have really good
+partners. Uh
+>> I have not been able to hold one in my
+hands yet, but our physical books are
+ridiculously gorgeous.
+>> Um I've I've seen them over camera. Uh
+like they have a gilded edge.
+The pages have a gilded edge and like
+gilded edges. I'm not surprised based on
+the covers and the art online.
+>> That's the Kickstarter version. I don't
+know what the retail one's going to look
+like, but I think Kickstarter backers
+are going to be real happy about how
+>> so cool.
+>> Let's either display it on their coffee
+tables or on their shelf because yeah,
+every Kickstarter book, every hardcover
+Kickstarter book has a gilded has gilded
+edge pages.
+>> Oh, that's phenomenal.
+>> But again, October 29, uh that is the
+retail. Yeah.
+>> Really?
+>> I don't know if those will have the
+guild to death. I actually think they
+might not. Kickstarter backers at least
+will be very very
+>> well. Even if they don't, you just you
+never know down the road. I I know other
+publishing companies have come out with
+limited edition versions at some point
+down the road. You just never know. But
+again, to your point, you know, you can
+only do what you can do based off of the
+economic conditions. And to what we
+talked about earlier,
+um the political climate makes it very
+difficult to
+>> Yeah, we have been
+>> we've been working on a lot of smaller
+digital products.
+>> Nice.
+>> Like Catherine magazine number two. We
+wrote uh a uh a a level three oneshot
+called Speak the Words that has been
+that is going to be released digitally.
+Uh the Advanced Adversaries Kickstarter
+supplement uh and the Stormlight
+Scenarios Kickstarter supplement are
+both coming digitally alongside the
+physical release in September. Uh so
+>> do the digital versions come out sooner
+for those that are not Kickstarter
+backers? Um do the digital versions come
+out earlier than the print versions or
+do you need to wait for October for
+those? So, there are certain products
+that we just we do not intend to get a
+physical release just because they're
+they're they're small enough.
+>> They're really just for PDFs. Uh I mean,
+you can purchase a lot of our materials
+on drive-through RPG right now.
+>> Uh and I'm pretty sure that speak the uh
+sorry that uh Stormlight Scenarios and
+Advanced Adversaries will be going up on
+Drive through RPG as well.
+>> Um also, I want to jump back to like I
+think it's either 20 minutes or half an
+hour ago. Yeah,
+>> the conversation took its own life. Uh,
+but talking about um, well, it took on a
+life of its own was a better way to
+phrase that.
+>> Uh, but getting back to the question
+that Brad had about how does a person
+begin playing the RPG.
+>> We have a few supplements for that
+purpose. Uh we have uh the first steps
+which is uh it it plays like a choose
+your own adventure book but it's
+designed to be played with your group
+where uh it will help you you will
+create characters in actual play.
+>> Yeah. Right there 10 bucks. Uh uh and
+there's also the first step solo mode
+which you can uh build your character by
+yourself if you want to. It plays very
+much
+>> like a
+>> uh we also have a pamphlet that's about
+30 pages called welcome to Roshar. This
+is basically just an art and setting
+primer book. Nice. Like it's more than
+half art. It's really 15 pages. Yeah.
+>> Really cool.
+>> Um but that's just like a primer on the
+world you can hand to a player that's
+curious. So, but with no spoilers, they
+won't get they won't get anything. It's
+a very base knowledge about the world,
+some of its cultures, the ecology, that
+kind of thing.
+>> So, we as I said, we want the on-ramp to
+be as easy and accessible as possible.
+>> So, we there's been a lot of focus on
+products and as I said, the thing I'm
+working on right now, the quick start
+characters,
+>> uh that's a working title. Uh, but just
+to just but just to make it as easy as
+possible for people to just get in,
+start playing.
+>> I think they should call it the the co
+the Stormlight Recyclopedia of
+Characters.
+>> Oh, encyclopedia. That's good.
+>> So, the fun thing about this this quick
+start uh thing is uh we have in our
+heroic paths chapter, chapter 4 of the
+Stormlight Handbook.
+>> Yeah. Uh we have what what we what we
+refer to internally as the iconic builds
+uh where uh we like for example in the
+agent there is
+uh the Asish constable, the street
+urchin and the undercover work form. Uh,
+and basically it gives you some lore
+about where these different archetypes
+exist in the world. And then we give you
+a literal guide as to how to build them
+at level one and what you might want to
+consider ch like picking as you level up
+to like to really feel like that
+character archetype as they appear in in
+the novels. Uh, and so the quick start
+characters, 18 of the 20 are those
+iconic builds. Like literally just
+putting those onto a character sheet uh
+for you. And then we came up with two
+more uh to round out the nice roll of
+D20 to select your character.
+>> It's it's so Okay, so this sounds a
+little naive. Uh and I recognize that.
+Obviously, you all have been working on
+this for a considerable amount of time.
+It's not like you just a few, you know,
+it's not like 13 months ago it's like,
+hey, we should do this. We we know that.
+That said though, to
+roll out so much
+and to roll out so many
+both like literature and mechanics and
+financially accessible digital options
+like there's there is a lot. This is
+like most
+ignoring the fact that it was just a
+Kickstarter for $50 million Kickstarter.
+Um th this is a lot of material. This is
+a remarkable amount of content and
+content beautifully woven together right
+out of the gate.
+>> Well, thank you. Uh it it does help that
+it has been in development for so long.
+>> Uh like this, as far as I'm aware, the
+first meetings, like the the actual
+brainstorming meetings of what this is
+going to be happened late 2022.
+Uh I joined the team in May of 2023.
+uh and uh and so that that's how long
+Stormlight has been in development and
+just to make sure that we get it right
+and Mistborn has luckily went a bit
+smoother in certain areas because we
+weren't designing a core system just uh
+just new things to work with it and on
+top of it.
+>> We didn't have to blaze the trail the
+same way,
+>> right? I I do have
+>> Yeah, we didn't have to deal with core
+rules shifting because those core rules
+were set in stone.
+>> Yeah. Since since you said that, thank
+you. Then I think I can ask this
+question, but if I can't, you'll just
+shut me up. But
+>> shut up.
+>> No, you get to do that later when it's
+less relevant.
+>> Oh, got it.
+>> Yeah, like normal.
+>> Um, and then I ignore you like normal.
+Um,
+>> is this later?
+>> Not yet. Wait for it. Okay,
+>> I'll call you. I'll call you.
+>> Okay.
+>> Um, the Misborn. I mean, I I'm ass
+obviously there are going to have to be
+some differences, but presumably Mistorn
+and then the ones that come after uh
+will still sit on the same mechanic uh
+assuming there are some I mean like the
+magic's different, etc.
+>> Yes. Uh so uh it'll be the same six
+heroic paths but some of the Stormlight
+specialties especially like the really
+specific ones like the shard barrel
+>> of course right
+>> are coming out and being replaced with a
+misborn specific ones.
+>> And so that's that's going to be the
+idea whenever we go to a new world. It's
+going to be the same like core heroic
+paths but with like a new subclass
+functionally. We call them specialties.
+So, so once you're in
+>> subbed in
+>> once you're into any of the lines,
+you're really into all of it if you want
+it.
+>> Yes.
+>> Yeah.
+>> The mag the really beautiful thing about
+the cosmir is that especially as the
+timeline advances and stormlight is is
+is kind of close to what we'd call the
+present day of the cosmir. Uh is that
+there is an idea of world hoppers. these
+people that travel through the cognitive
+realm literally letting them walk from
+one planet to another over a series of
+months and you can show up anywhere
+functionally.
+>> Uh so so yeah, you can absolutely when
+you get the books you can mix and match
+uh like your specialties
+>> from different worlds. Um, you can do
+what a particular character named Hoy is
+doing where you can uh collect different
+magic systems as you go to different
+worlds if you want to. Now, don't get me
+wrong, that's going to be very talent
+and reward expensive because most of our
+barrier to entry for magic is
+>> what we using our goals and rewards
+system.
+>> Yeah.
+>> Uh, which
+is not a thing I could talk about for a
+long time. Uh but
+but yeah, so they're all very
+interconnected. There are going to be
+certain similarities
+>> amongst all the magic systems, but
+they're also going to feel very
+different,
+>> right?
+>> Uh I can't get into specifics in this
+form.
+>> Uh but like for example, Stormlight,
+most of your abilities are either flat
+costs or you put more investature into
+them to extend duration.
+So infusions we call them are a very
+core part of a lot of things. So if you
+want to change something's gravity for a
+long time you have to put a bunch of uh
+investature into it initially and then
+it will go until the investor runs out.
+>> Sure. Whereas in mist investor with
+alommancy is used a different way right
+>> where is no real extending of durations
+because everything in misborn is very
+internal in a way that uh stormlight is
+very external
+>> in in its effects in uh at least with
+when it affects other things. So usually
+you're spending more in messenger to
+increase the magnitude of something
+notation
+>> just like books.
+>> Okay. Doesn't use in messenger at all.
+>> Interesting.
+>> You said and and and you you had
+indicated earlier that and I'm not
+asking for anything beside it. You just
+said it indicated that that the
+Misborn's in NDA alpha right now. So
+there's some alpha gameplay. So very
+cool that you've gotten that far along
+already.
+>> Oh yeah. Um, yeah, we have been play
+testing it since April of this.
+>> Wow. Wow. Okay.
+>> Uh, so, uh, yeah, we are we're getting
+we've been dialing it in a lot. Uh, and
+so, yeah, we we're actually not too far
+off now from sending that off to
+printers.
+>> That's so cool. You really are. I'm I'm
+impressed because it's hard to keep some
+of these things on schedule. You really
+are on schedule. I mean that that is
+major kudos to the Brother Wise team.
+They are incredibly organized and also
+to our project manager uh Liza McBe
+Fujiwara. Uh she is a rock star at just
+keeping everything moving.
+>> Yeah.
+>> Uh and it it also helps that we are
+partnered with Dragon Steel and they
+know a lot about how to fulfill like
+multi-million dollar
+concerned
+>> uh especially where hardcover books are
+concerned.
+uh call off the 42 million Kickstarter
+for uh The Wars of Brilliance.
+>> Amazing.
+>> So now that was a $20 million one. The
+$42 million one was the uh Secret
+Project's Kickstarter.
+>> Amazing.
+>> The Mad The Mad knows Kickstarter. Their
+Their company knows Kickstarter very
+well.
+>> Yeah. Yeah.
+What do you So I gota I gotta ask you
+know what do you you know if you're not
+working on
+brotherwise cosmir stuff
+what do you have time to do?
+Uh so I am professionally uh I'm I'm
+still a freelancer although I have I
+have uh I have my fingers crossed that
+uh maybe pending success that uh that I
+might get a more permanent position.
+>> But functionally I work full-time on
+Cosmo RPG. Yeah.
+>> Uh
+>> I I I'm one of the few members of the
+team that does not work on anything
+else.
+>> Uh and this because I have a lot of
+passion. I have a lot of capability uh
+and a lot of knowledge of the system
+that there are certain things that I can
+just do that other people would not be
+able to do nearly sufficiently.
+>> And so, but uh yeah, so I do a lot of
+reading. Uh I when I'm not reading, I
+sometimes reread uh rapid books for when
+we're like when when we're working on a
+particular thing. Uh but uh but I read a
+lot of urban fantasy for uh is is a big
+genre for me.
+>> Okay. Okay.
+>> Um and uh I do Pokemon nuzlocking as I
+as I'm waiting for it's basically a
+challenge run for for to make Pokemon
+games it's like self-imposed rules and
+restrictions to make the main series
+Pokemon games more challenging.
+>> Okay. Uh, and also gives you a lot of
+respect for Pokemon you would never have
+used otherwise because you figure out
+like what they were designed to do.
+>> Interesting.
+>> So, not to go on too much of a tangent
+about this, but uh, basically the the
+the rule the core rules are this. You
+are only allowed to catch the first
+Pokemon you encounter on each route.
+Um, so whatever what so if you
+accidentally faint that, you have no
+encounter. You're not allowed to catch
+anything on that route. Okay. Uh, you
+must nickname every one of your Pokemon
+so you get emotionally attached to them.
+>> Uh, and if they faint, you must release
+them. They're gone forever.
+>> Interesting.
+>> And so, so, um, and then I play with an
+additional list of rules where I can't
+use items in battle except for held
+items. Uh, I must abide by level caps.
+So, I if my Pokemon levels up past uh
+the next gym leader ace Pokemon, I have
+to put them in the box until I have to
+get the next level cap. I can't use them
+anymore. Uh and and it's just it's it's
+a way of really making Pokemon fresh
+again. I I
+>> Wow.
+>> I've I've I've never played
+>> I've watched I've never played, but I've
+watched
+>> seen it. Yeah.
+>> I've I've seen it and I've watched
+people play. I I grew up with it. Like I
+I I was at that perfect formative age
+when Red and Blue came out where it was
+one of my first games.
+>> Yeah.
+>> I have a I I recognize the series's
+flaws because it has a number of them.
+Uh but I adore them. Uh
+>> I think that's great.
+Do you ever talk to people in your free
+time or is it all just games?
+>> Oh, I mean, yeah. Uh, I mean it works
+for us. He works for I'm kidding. But I
+mean, you are so immersed
+>> now. Can I tell you to shut up?
+>> No, not yet. I'll call you.
+>> Okay.
+>> Uh, but yeah. Um, I I do have friends
+that uh that I I have one friend that
+I'm that I'm introducing to the world of
+Freein Beyond Journeys End, that anime,
+which is fantastic.
+>> Um, I have another friend that I'm doing
+a Balders Gate 3 couch co-op playthrough
+with.
+>> Oh.
+>> Um,
+>> nice. Um, I also uh am I I'm also, as I
+said, a consmate GM where I have a
+custom world of D and D 5e that I have
+been playing with the same group of
+people for several years now.
+>> Awesome.
+>> And they are like getting into the deep
+lore. I am very excited for what I have
+been with to actually run a cosmir RPG
+game for my friends. I've done play
+tests
+>> uh sessions with my friends, but I have
+not been able to get into a campaign yet
+and I really want to. But I I also play
+in our team internal play tests quite a
+lot.
+>> But let me tell you, Misborn has been an
+absolute riot.
+>> That's so cool.
+>> I have to imagine playing internally.
+>> Yeah. you know, whe whatever whether it
+was Stormlight or Mistorn had to have
+been a blast playing with the teams.
+>> Oh, yeah. Oh, yeah. Uh, it I'm I am a
+very mathematically minded person.
+>> So, I'm one of the members of the team
+where they tell me to play something
+because they know I will try to break
+it. Uh, and that's how we find a lot of
+our exploits is me and another member of
+the team are very, very good at breaking
+builds. Um
+uh and but
+>> well you'd be a good QA engineer for
+software then that would be good.
+>> But yeah uh we are we've been testing
+Misborn Legacy
+>> uh which is our ninechapter campaign uh
+like full campaign adventure
+>> uh for Misborn. And the coolest thing
+about Misborn Legacy is that it takes
+place in both eras.
+>> Interesting.
+So yeah, um, every odd chapter,
+>> yeah,
+>> uh, you play in era one. Every even
+chapter you play in era two. And usually
+you'll see the ramifications of what the
+era one people did.
+>> That's clever. I have to say I I'm
+really really not to in any way bismerch
+Stormland. I am really
+>> You read Misborn?
+>> Yeah. And I'm just really really looking
+forward to playing Misborn because I'm
+so I I just like I said the first time
+we ever chatted I I find the hard magic
+in Misborn so compelling.
+>> Yeah.
+>> Um it's just it reates very much.
+>> You're very much not alone that
+lot of feedback from people about they
+are that they are that they books are
+really cool but they can't wait for Mr.
+>> Yeah. Yeah.
+>> And that's and that's because Misborn,
+especially the original trilogy starting
+with Final Empire.
+>> Yeah.
+>> Was the introduction point to Sanderson
+for many, many, many people.
+>> Yeah, that makes sense.
+>> Uh people uh hold that series extremely
+close to their hearts. And I'll be
+honest, that's how I got into Sanderson.
+That was the first Sanderson book I've
+read.
+>> Yep.
+>> Uh was Misborn the Final Empire. And I
+have I've been obsessed with alammancy
+and ferrochmi and uh hem allergy uh for
+a long time uh
+>> I just you know it just I love as a
+scientist I love the science
+in it like that that hard scientific
+magic and how somehow it's not an
+oxymoron and that just that just and of
+course I mean like it's so like yeah I
+can just see having a great deal of fun
+playing org GMing in that.
+>> Yeah. Uh I I can tell you uh I am
+playing an er in the in the internal
+test. I'm playing a twinborn character.
+Uh he he's just a massive bop of a
+character. He's like he he's the he's
+the very bestial like fourth son of a of
+a noble house. And so he was no one paid
+attention to him his entire life. So now
+he's he just finds ways to spend his
+time. But he is a twin born that is a
+cadmium alammancer. So it puts up the
+slowing time bubbles and a pewtor
+fairing so he can store and then later
+tap his physical strength. Uh and I
+cannot tell you how much fun I have had
+playing this character. Uh just like
+putting up time bubbles for full for
+just fullon area denial has been so much
+more fun than I ever would have thought
+it was going to be. Uh
+>> uh.
+>> Wow. So
+>> do you how when you do internal tests,
+do you all rotate as GMs or does someone
+traditionally like GM or
+>> So it in Stormlight we had much more of
+a rotation going
+>> uh in Misborn especially running the
+legacy campaign adventure to we we've
+had a consistency of GM. Merrick is
+actually GMing for us. He's a phenomen
+of actual plays. Uh uh but yeah, I I
+have been having an enormous amount of
+fun with with Misborn Legacy and the two
+characters that I built for that.
+>> Uh but we have kind of like um a a a tap
+in tap out
+>> uh like people have different
+availabilities. I I'm a person that
+because I'm full-time on the team, I
+usually make sure to put three hours
+aside on a Wednesday evening uh to play.
+Uh but yeah, we we kind of built
+internal regens that are the same
+character and then we just whoever is
+available will play whatever character
+needs player.
+>> Oh, cool. Okay.
+>> We are our own business
+>> on the
+>> Yeah, we are.
+>> Yeah.
+[Laughter]
+>> I live such I I live I work in such a
+boring realm. No offense to where I work
+and everything now. I'm very grateful,
+but I just I work in such a boring
+realm.
+>> So, forever grateful for the
+positionally
+just this is a phenomenal team. It's a
+wonderful work environment just filled
+with just not only incredible
+professionals but just beautiful human
+beings.
+>> That's so like we all really support and
+look out for each other. We all share a
+lot of like those values of just of of
+making sure that we are representing
+different voices and and being very
+conscious about how we present
+information. Mhm.
+>> And and just the the the support and
+feedback of people listening to each
+other. It is just it's just a wonderful
+environment. An incredible people and I
+cannot wait to see them at Pax.
+>> That's outstanding.
+>> And then and then two weeks later at
+Dragon Steel Nexus like honestly these
+people are legitimate friends
+>> that I work
+it's it's wonderful to be a part of it
+really. Well, it's and it's been
+wonderful to have you back. Uh and
+hopefully you'll come back a third time
+when we're allowed to talk about more.
+Um
+uh thank you so much for coming back.
+Chatting with you is always just a great
+deal of fun and and more than that and
+just to see and hear about your
+successes and hear about the game
+mechanics and geek out together and know
+that there's more coming and there's
+more for you. Uh it's just really
+lovely. We really appreciate it.
+>> Yeah. Thank you. We'd love it.
+>> Thank you. Uh, I I I really love just
+coming on to shows like this and just
+and talking shop and just getting to
+geek out and you all are just have
+created a wonderful environment to just
+come on and just be a nerd.
+>> Well, we appreciate that and you are
+always welcome.
+>> Always.
+[Music]
+>> That discussion was was absolutely what
+I expected to be, which was
+>> a lot of fun.
+>> A lot of fun.
+deep got into a lot of the mechanic
+stuff and I think we probably even left
+a lot on the table. That means Ross, we
+have to have you come back.
+>> Oh yeah.
+>> Especially, you know, we could have you
+back even before you're ready and able
+to talk about Misborn.
+>> Um,
+>> you know,
+>> he's just he's such a he's such a a neat
+person and it's such a fascinating
+system that he is so deeply involved in
+designing.
+>> Yeah. Yeah. And it's just one of those
+things where we start talking and you
+just lose track of time and
+>> Oh, yeah. That was a quick hour.
+>> Yeah. You just lose track of time and
+you and you just forget that we've been
+going for an hour and you suddenly
+realize, wow, there's like five topics
+that I made a note of that I wanted to
+hit on and we just did I just did not
+get to ask about or we just didn't get a
+chance to chat about.
+>> So, there there will be more.
+>> Yes. Oh,
+>> undoubtedly. Definitely. as we head over
+to to Luen Cafe. Um
+I had alluded to some things early on
+but but you had mentioned something
+about mechanics or
+>> so I don't have any details about this
+yet. Uh I presumably we received emails
+just hours ago maybe maybe it was
+actually quite a few hours ago earlier
+today. I haven't had a chance to look
+into it. I haven't seen emails, so this
+might be a surprise to me as
+>> Okay, so Okay, excellent. I just hadn't
+had a You were obviously busy today. I
+hadn't had a chance to to even look at
+this, so I don't know anything about it,
+but I am intrigued. So, email
+announcement from Green Ronin.
+>> Oh, the sage thing.
+>> The sage thing.
+>> I did see something. I saw Sage and I
+didn't open it yet.
+>> Simple age mechanic. Uh, and so their
+simple age system, it's an engine
+magazine. Number three, it's a special
+double-sized issue, 66 pages where
+you've got the rules, you've got um uh
+adventures, etc., etc., etc. So, I
+I Oh, you can get it in print. So, that
+is tempting. So, I'm I'm
+curious about this. This is what's on my
+mind. Um, and I I I'm half tempted on
+ordering the print so that I can
+>> I'm very tempted once once things settle
+for me over the next couple weeks to to
+look at that especially because I you
+know I love universal systems like that.
+>> Well, I mean, you got me into it, right?
+We've played a bit.
+>> Yes.
+>> Um with with with modern
+>> and I love the 3D and I love the 3D6
+system.
+>> Yes. And so I'm just I I don't I don't
+know anything about it other I'm just
+looking at it right now other than um
+I'm really curious here is it's a light
+quote a lightweight implementation of
+the age system rules and and the uh what
+is this engine number three uh they it
+it's everything like that is the
+apparently the
+>> I need to message I need to message our
+friend Troy Roina here over on their um
+>> yeah as we just talk out talk out loud
+off the cuff you know that's the way we
+operate wall broken yet again but yeah I
+think definitely let's um I definitely
+want to have them back uh but you and I
+need to do some research first but so
+that's uh that's just very
+contemporaneous if you will the email
+came through earlier today I was in the
+process of deleting it as I realized
+what it said I didn't have time to go
+back So, I just like this evening just
+went back to look. So, like when we're
+done recording this evening, I will
+probably take a bit of a deeper dive
+into it to uh to take a look cuz we've
+like you said, we both uh really really
+appreciate the age 3D6 system. Uh, I
+think it's one of and I I think it's one
+of the cleanest I think it's one of the
+cleanest dice mechanics out there of any
+>> I mean, let's be honest, we we both have
+like a a bit of nostalgia.
+>> Nostalgia. Yeah.
+>> Any anything for a d6.
+>> So, you throw at, you know, put 3d6
+together
+>> d6 to d6 my kingdom for a d6. Yeah.
+>> Yeah. So, I mean, and and we've played
+it and um it's just a it's a beautiful
+system. Plus, it's one of the first
+systems that non-D20 systems that I
+watched a lot of um YouTube videos on.
+>> See, now you could be a simple luminary,
+which makes so much more sense to me.
+>> Oh boy, I'm never going to let that
+down.
+>> No, you are not going to live that down.
+>> Um, moving on.
+>> I am I am basking in the glow that is
+giving me a tan. But okay, what's on
+your desk?
+>> Moving on. Yeah, I am luminescent. Um,
+>> yeah, that's one word.
+>> Yeah. I uh so it's interesting that um
+I'm you know I'm
+>> doing some moving of materials and as I
+was organizing
+>> um
+I had um
+been
+>> moving
+>> and I and I'm sorry I came back to it
+but it's just because the books were on
+it was the books were on top because of
+my recent trip to Dyson Mine Studios
+North.
+>> Yeah. um some of my STA, Star Trek
+Adventure stuff. And um I had the
+Shackleton Expanse book.
+>> Oh.
+>> That I had temporarily moved upstairs as
+I was um moving materials
+from one location to the other.
+>> Yeah.
+>> Um because I was putting up bookshelves.
+>> Yep. And um
+so one night I was I was just it was
+Sunday night. I was just kind of like
+wiped out tired.
+>> Yeah. And um my eyes were a little tired
+from looking at computer screens and so
+Shackleton was sitting there staring at
+me and I'm like, you know,
+>> um so I started looking at Shackleton a
+little bit and then I had Utopia right
+there next to me and Captain's Log was
+next to me
+>> and it just had me thinking that that um
+you know the next two and a half weeks
+for me are going to be extremely hectic.
+>> Yeah, there were times to transition.
+Yeah, but ultimately after that, um I do
+want to
+>> fly a starship.
+>> Um
+>> Well, you're going to get your chance.
+>> Yeah, that's what that's
+>> and we we we pushed it. We we we had to
+I mean, as you know, we we had to push
+back the recording of our upcoming
+actual play.
+>> Yep.
+>> Of Sta.
+>> Well, that's for a good reason. Good
+guess.
+>> For a great reason. Yeah. We have new
+and returning guests. We are scheduled
+almost to the end of the year. I I mean
+essentially through the end of the year.
+So that is coming. I think that's going
+to drop in November.
+>> Uh Iber, early November.
+>> I have to go back. But no, it is my
+friend that is happening. I told you
+I've got I've got the outline and I
+think I think you're going to enjoy the
+sandbox although you'll be on a
+starship. But the funny thing is is as I
+was maneuvering stuff, um, I very very
+deliberately
+have put my midnight books
+>> on my desk.
+>> Don't toy with me.
+>> Um, away from the shelf right now
+because that's my priority project.
+>> Um,
+outside of being a player in STA,
+>> um, Midnight is going to be one of those
+projects that I'm working on.
+>> You are going to GM?
+>> Yes. Yeah, I I told I'm really I don't
+know that I've ever looked so forward to
+playing a PC before.
+>> And and it and it and it was funny, too,
+cuz we saw some midnight stuff, some of
+the older Midnight stuff when we stopped
+at Game Center up in um
+>> up in Roseville.
+>> Roseville. Thank you.
+>> Um up in Roseville, Minnesota, the
+former
+>> the former FFG complex.
+>> Yep.
+>> So um
+>> now across the parking lot from Asthma
+Day.
+>> Yeah. Yeah. Which was kind of cool to
+see.
+>> Yeah. Yeah. So, um, but yeah, that's
+really what's I haven't had a lot of
+time for books, but ultimately,
+>> um, it I will say in my move, um, I have
+an obscene amount of RPG stuff. I really
+do.
+>> So, I want See, you you've already been
+packing it though, haven't you?
+>> I But I'm not packing it in the
+traditional sense. I am very carefully
+moving it from um bookshelf to car, car
+to bookshelf.
+>> I want a picture of this obscenity.
+>> Oh yeah. Once it's done once it's done,
+you have you're going to get I mean once
+once you're moved.
+>> Yes.
+>> I want shelf porn.
+>> Oh yeah. Once it's done, you will have
+Yes, it will.
+>> I I I haven't seen
+>> The challenge I have is
+>> is I bought some shelves. Yeah.
+>> And um
+>> I'm not as happy with them as I would
+like.
+>> So, I'm going to keep them, but they're
+not going to do as well for like really
+nice
+to
+>> But they're going to work in some for
+some other areas that I need.
+>> Yeah. But um I have some other shelving
+that I have in back in another room that
+I'm going to um in effect utilize
+temporarily
+>> because um
+>> I'm literally, you know, I'm moving a
+lot of stuff into a small amount of
+space,
+>> right?
+>> Um and so I rather than
+>> buy additional shelving, I'm just going
+to reuse the stuff I have temporarily so
+I can make more room. So, I'm gonna have
+a temporary solution
+>> until I can make room and then I'm going
+to have a permanent solution. So,
+there's going to be a phase one which
+won't be very pretty, but it'll be
+functional.
+>> That's why it's phase one.
+>> Yeah.
+>> Y
+>> um and then I'll have a different phase
+approach.
+>> And you know, when I'm when I'm when I
+come out this winter to visit, I can
+always come in like a day early. I we
+can just like work on the shelves. Like,
+if you want help reorganizing once
+you're settled, I'm game.
+>> Yeah. I the shelves that I'm going to
+temporarily use aren't traditionally
+like good bookshelves. They're more like
+storage shelves, but
+>> Oh, okay.
+>> But I have found that um I have found
+some material that I can use to lay down
+that would make them good temporary
+bookshelves because and what I think I
+might have to do, this gets real, this
+gets real detailed and for the for
+people that are listening, probably
+overly boring. I might have to lay some
+of the books
+>> flat versus on their side. Yeah, that's
+what I was imagining. Look, I'm guessing
+that a number of our listeners are
+totally paying attention right now
+because we're talking about books and
+shelves. And come on, people, be glad
+we're not getting into desks tonight.
+>> Yeah, I'm I'm I'm actually going to have
+to lay the books flat, I think, for the
+time being, which is fine. That's good
+way of of protecting them. Um, and
+protecting the binding and everything
+like that. So, um, but it's not going to
+look as pretty as I want.
+>> I got to phase one.
+>> Yeah. So, I just have to accept that.
+But to me, that that makes that that's
+kind of like it kind of like gives me
+the itchies a little bit.
+>> Yeah. No, I get it that way. But,
+>> um,
+>> yeah, but it'll be worth it.
+>> I just I need to get the stuff over
+there.
+>> You need to transfer everything to the
+new location. Then you'll have the time
+>> to to do it. Yeah.
+>> So, um, so that comes that comes Friday
+and then Saturday and Sunday. So, I have
+a three-day weekend to work on doing
+that.
+>> Excellent. And then over the next couple
+weeks and then I obviously I have the
+winter to the the you know the winter's
+here and
+>> which is the perfect time to hold up
+some shelving. That's right.
+>> And reorganize.
+>> That's right.
+>> So
+>> and I'm living out further in the
+country. So
+>> Oh yeah.
+>> You know if we get if we get a storm or
+something like that, it's not going to
+be one of those things where
+>> you know you could just hop in the car.
+If we get hit,
+>> you know, I'm there. So
+>> you're there. That's pretty cool,
+actually.
+>> All right, everybody. You heard it here
+first. We will see you when
+>> porn book.
+>> Yeah, we will see you in two weeks.
+>> Shelf porn. Shelf. Other one. That other
+one didn't sound right, did it?
+>> Well, no, it does. I' I've seen that
+before. Like, that's a thing, too. Like,
+I mean, actually, if you like, if you go
+to a Barnes & Noble and you look at some
+of the uh they've changed the terms, ya,
+but now there's
+there's another category. It's split. I
+don't remember what it's called, like
+for the 20somes, late teens, like the
+high school college crowd. Um, but if
+you look at some of the printings, the
+bindings,
+>> uh, just absolutely gorgeous, like the
+Lord of the Rings we have.
+>> Oh, yeah.
+>> The fan. But they're doing that now with
+all kinds of fiction. Yeah. Uh, shadow
+printing. Uh, the the, you know, they're
+not just gilding edges, they're shadow
+printing. just I mean almost works of
+art that like like it's like okay you
+almost want to put the books binding
+back on the shelf because they're just
+gorgeous
+>> just to show it. Yes.
+>> Just to show it. Yeah. So speaking of
+showing it. So in a couple weeks we'll
+be back with Brad's Wonderful World of
+Bookshelves
+>> episode 154. No. Uh you know the deal
+everybody.
+>> Shelf porn. Shelf pork.
+>> That's not the deal everybody. Be well.
+Stay well. We'll see you in a couple of
+weeks.
+[Music]

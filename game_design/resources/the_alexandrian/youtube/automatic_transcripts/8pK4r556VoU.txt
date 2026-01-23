@@ -1,0 +1,743 @@
+what the heck is an open gaming license
+and why should you care
+well the open gaming license or ogl is
+what lets people sell DND compatible
+adventures and supplements without
+getting Hasbro's specific permission to
+do so so if you're someone making DND
+compatible stuff you should probably
+care about the ogl quite a bit since
+it's one of the only two ways to do that
+the other being the dungeon Masters
+Guild which we'll talk about later but
+most of you watching this probably
+aren't trying to sell DND compatible
+stuff you're probably just trying to run
+and play in your Saturday night sessions
+so why should you care
+probably because a lot of the stuff you
+love and use in your games has been
+produced using the ogl and if it isn't
+then there's a ton of really amazing
+stuff out there that you should really
+check out for example maybe you're a fan
+of critical role if so you may be
+familiar with the taldori campaign
+setting they were only able to publish
+that as a book because of the ogl or
+maybe you've played adventures in Middle
+Earth the 5th edition compatible Lord of
+the Rings role-playing game again that's
+ogl maybe you're a fan of my work in
+which case you might be familiar with
+the adventures I've published with
+Fantasy Flight games Atlas games and
+others again none of these would exist
+without the LGL there's a lot of content
+on my website the alexandrian that
+wouldn't exist without the ogl okay so
+the ogl makes cool stuff possible so
+where does it come from how does it work
+why is everyone screaming and yelling
+about it well the ogl has been around
+for about 20 years now it was first
+released in 2000 but to really
+understand its roots we have to go back
+a few years before it existed
+in 1997 a company called tactical
+studies rules TSR Incorporated was going
+bankrupt there were a lot of complicated
+reasons for this and we're not we're not
+going to dive into all of it here but
+this was a significant moment because
+TSR was the original publisher and still
+owner of Dungeons and Dragons now the
+thing to understand is that d d was in
+real Jeopardy here tsr's assets were
+going to be hacked up and its parts
+divvied Out Among its many many
+creditors it was very possible that
+someone would end up owning DND who had
+no interest in publishing a tabletop
+role-playing game they'd exploit the IP
+for novels video games TV shows or
+whatever else they could imagine but
+they wouldn't necessarily publish a
+role-playing game d d as we know it
+would be dead fortunately a company
+called Wizards of the Coast had
+published a little Indie card game
+called Magic the Gathering a few years
+earlier you may have heard of it they
+used the money they'd gained from Magic
+to purchase TSR outright d d was now in
+the hands of people who loved the
+role-playing game d d was saved now at
+this point a couple things happened
+pretty fast first Wizards of the Coast
+begins developing the Third Edition of
+Dungeons and Dragons second in 1999 just
+a couple years later Wizards itself is
+bought out by Hasbro a huge toy and game
+conglomerate a year later in 2000 the
+Third Edition of d d is released and a
+major pillar of its marketing campaign
+is the open gaming license anyone could
+now publish third-party supplements that
+were compatible with the official
+version of d d
+and they did when the player's handbook
+was released at Gen Con in the summer of
+2000 two compatible modules were
+immediately available the same day Atlas
+games Three Days to Kill by John tynes
+and green ronin's death in Freeport by
+Chris pramus the ogl can actually apply
+to a lot of different types of products
+but to keep things simple we're just
+going to talk in terms of RPG
+supplements published as books there are
+three key things to understand about the
+OG Hill first not everything in a book
+published under the ogl is free to use
+with the license instead the publisher
+must explicitly declare what content in
+the book is open game content this is
+material that other people can use in
+their own ogl books the only requirement
+is that any open game content you use
+from someone else must be declared as
+open content and credited in the
+copyright section of the copy of the ogl
+you print in your book second the
+publisher of an ogl book can also choose
+to declare product identity this might
+be trademarks or character names or
+artwork there's lots of stuff that can
+be product identity the key thing is
+that product identity can never be open
+game content even if the Declaration of
+open game content would otherwise apply
+this provides a safety net that makes it
+easy for Publishers to avoid
+accidentally opening their trademarks or
+other IP for example if they declare
+that trouble womps are product identity
+and they declare that everything in
+Chapter 2 is open content then truggle
+whomps wouldn't be open content even if
+they appear in chapter 2. this is good
+because it will encourage Publishers to
+use the ogl since they won't have to
+worry about accidentally voiding their
+IP rights it's also good because it
+encourages liberal and clear
+Declarations of open game content if
+product identity didn't exist in the
+license for example a publisher might
+only declare very small parts of chapter
+2 open content to make sure they didn't
+you know accidentally put truggle wamps
+onto the open market now the third thing
+to understand is that the DND Coral Rule
+books were not released under the ogl
+instead Wizards of the Coast copied some
+of the rules and lore from the core rule
+books into a digital file called the
+system reference document it was this
+system reference document or SRD that
+was released under the ogl and thus made
+available to other Publishers using the
+ogl now the final thing to know is that
+according to Wizards of the Coast the
+ogl is unrevocable once you release open
+game content under the ogl it will
+always be open game content There's No
+undo button not even for Hasbro so why
+did Wizards do this well they had two
+goals first Ryan Dancy who is in charge
+of DnD at the time and schemed up the
+ogl believe that with Wizards needed to
+be publishing a lot fewer supplements
+and Adventures for d d he'd seen tsr's
+Financial books and he believed flooding
+the market with official DND supplements
+had been a major factor in the company's
+failure and bankruptcy there were
+certain core titles including the core
+Rule books which Were Far and Away the
+most profitable books TSR published
+Dancy believed Wizards should focus on
+producing those books the most
+profitable ones and he called them
+Evergreen titles but he also knew that
+supplement support was important for an
+RPG to thrive the open gaming license
+would get other Publishers Publishers
+who didn't have the huge overhead of
+wizards and would be much more
+successful in turning profits on smaller
+print runs to provide a constant flow of
+Adventures and other support material
+for DND that support material would make
+more people interested in buying and
+playing DND and this in turn would grow
+the network externality of DnD now I'm
+not going to dive into Network
+externality at length but the short
+version version is that the more people
+there are playing DND the more likely it
+is that someone looking to play a
+role-playing game will find a group
+playing D and D that will make it more
+likely that they become a DND player
+which increases the number of DnD
+players and therefore increases the
+likelihood that the next player will
+also become a DND player dancy's
+argument in short is that D D's biggest
+strength is that it's the role-playing
+game you're most likely to find when you
+go looking for a role-playing game and
+the open gaming license was designed to
+make that even more true second the ogl
+meant that DND would never again be at
+risk of being killed due to corporate
+malfeasance remember that just a couple
+years earlier d d had almost died as a
+result of tsr's bankruptcy and now it
+was owned by Hasbro who could decide at
+any time that they weren't interested in
+publishing a tabletop role-playing game
+but the OG Hill Has No undo button once
+the rules of DnD were placed under the
+LGL Dancy believed it could never be
+taken out of print by the actions of a
+single Corporation in addition to the
+ogl Wizards also released the D20 system
+trademark license basically they wanted
+a method by which third-party Publishers
+could indicate their compatibility with
+DND but they didn't want to let them use
+the DND trademark so they created a new
+D20 system trademark including logo and
+let the Publishers use that instead the
+D20 system trademark license required
+Publishers to use the ogl but it added a
+number of restrictions for example books
+published under the D20 system trademark
+license couldn't include any rules for
+character creation Now the most notable
+of these restrictions was that the D20
+system trademark license could be
+unilaterally canceled by Wizards of the
+Coast at any time after which Publishers
+would have to stop selling any books
+that use the D20 system trademark
+spoilers this will be significant later
+the ogl ended up being more successful
+than anyone could have imagined dozens
+of companies began publishing
+third-party support for DND entirely new
+companies were founded many of which
+have become major players in the RPG
+industry and for players and DMS there
+was an unprecedented wealth of amazing
+material new adventures new classes new
+settings all of this fueled a DND
+Renaissance
+but not everything was going according
+to plan
+first dancy's Evergreen books like the
+Epic Level handbook and the psionics
+handbook weren't selling the way he had
+hoped they would and second the thing
+about a plan to design and publish fewer
+books is that you can downsize the
+design department and the design
+Department of Wizards of the Coast had
+some strong opinions about being
+downsized
+third competition between third-party
+Publishers was driving a radical
+Improvement in production values Wizards
+of the Coast was still making the soft
+cover of black and white books they'd
+always been publishing ogl Publishers on
+the other hand were producing full-color
+books and hardcover Wizards books which
+should have been Premier Products
+instead looked cheap in second rate
+by 2003 leadership at Wizards of the
+Coast was also changing most of the
+designers of Third Edition were gone and
+dance he had also left the company the
+new leadership was at best skeptical of
+the ogl according to many accounts they
+were actively hostile to it but of
+course they had a problem the ogl
+couldn't be revoked it had been designed
+so that it could not be canceled D was
+sitting at the top of and benefiting
+from this this huge pyramid of support
+material and there was no way to shut
+that down
+what they could do though was reboot the
+game and that's exactly what they did in
+2003 releasing the revised 3.5 edition
+of DnD
+now the way in which they did this was
+significant before 3.5 was released
+Wizards made a big deal in all of its
+marketing about how the game was going
+to be backwards compatible it wasn't
+going to make your existing 3.0 books
+Obsolete and players should have no
+qualms about continuing to buy 3.0 books
+because they would still work with the
+new 3.5 Rule books but when 3.5 was
+actually released a switch was flipped
+in the marketing the 3.0 books were now
+worthless those black and white soft
+covers we were selling get rid of them
+time to buy the new full-color hardcover
+Splat books The Evergreen strategy was
+out and the Splat book strategy was back
+with Wizards using the 3.5 reboot to
+upgrade their Splat books so that they
+could compete with the high quality
+third-party supplements others were
+producing but it wasn't just the
+customers who had been caught
+flat-footed by this abrupt 180 in
+marketing ogl Publishers had taken
+Wizards at their word and continued
+developing writing play testing and
+printing 3.0 supplements that they had
+been told would be completely compatible
+with the new rule books but which the
+customers were now being told were
+worthless and it wasn't just the
+Publishers it was the local game stores
+too who had continued investing their
+capital in merchandise they thought they
+could sell but which wizard was now
+telling their customers should be left
+to rot on the shell
+hundreds of game stores went out of
+business dozens of Publishers followed
+the D20 bubble had burst having been
+either accidentally or According to some
+deliberately popped by wizards but 3.5
+was in fact pretty similar to 3.0 even
+if wattsy hadn't released an updated SRD
+for the 3.5 rules which they did
+third-party Publishers would have been
+able to continue producing compatible
+books using the existing ogl for now at
+least Wizards decided it made more sense
+to stay on top of the pyramid that would
+change however five years later with the
+release of fourth edition
+the story of the release and many many
+failures of fourth edition is a saga in
+its own right so I'm going to try to
+keep it as simple as possible and also
+stay focused on the ogl throughout the
+short version is around 2005 Hasbro
+decided to split its Brands into core
+Brands which had more than 50 million
+dollars in annual sales and non-core
+Brands which didn't core Brands would
+get investments in development marketing
+and Licensing non-core Brands would not
+and in fact many of them would be
+mothballed allowed to lie dormant for
+years before being potentially brought
+back for a fresh start down the line
+DND was not a 50 million dollar brand
+DND was a 30 million dollar brand so
+they came up with a big plan for saving
+DND by growing its annual revenues this
+included a virtual tabletop digital DLC
+increased miniature and merge sales and
+a subscription platform to get regular
+monthly income from their fans just like
+an MMO they also believed that they
+needed to kill all outside licensing
+including the ogl so that they could
+claw back as much of that Revenue as
+they could
+but of course the ogl could not be
+revoked
+now do I know for an absolute fact that
+the design team of fourth edition d d
+was given a corporate directive to
+design a game that required the use of
+either Miniatures or virtual tabletop
+both of which Wizards would sell to
+strongly encourage the use of a digital
+character creation subscription service
+and so fundamentally alter the core
+gameplay of DnD that the ogl could no
+longer be used to create compatible
+supplements
+I don't
+so you can make up your own mind about
+that
+what we do know is that Hasbro killed
+the ogl for fourth edition and we also
+know that Wizards didn't really want to
+publicly admit that so they spent a lot
+of time before fourth edition came out
+hemming and hawing they talked a lot
+about their commitment to open gaming
+and assured people that a license for
+third party and fan Creations would
+definitely be made available for fourth
+edition there's a lot of back and forth
+here and the timeline has made a lot
+muddier because they were both public
+announcements being made and private
+meetings with third-party Publishers
+shielded with ndas there are a few key
+Milestones that are probably worth
+establishing though first Wizards
+eventually admitted that fourth edition
+would not use the ogl instead they were
+creating a new gaming system license or
+GSL but the details of this new license
+still weren't being made public Wizards
+then announced that people could pay
+them five thousand dollars in order to
+get early access to the fourth edition
+SRD and GSL but they still didn't tell
+anyone what the terms of the GSL were
+this went over like a lead Loom and the
+program was in fact canceled so when the
+gso was finally released it contained a
+poisoned pill if you use the GSL you
+could not publish anything in the same
+product line using the ogl it also
+contained a termination Clause just like
+the one used in the D20 system trademark
+license Hasbro could unilaterally cancel
+the GSL at any time at which point you
+would need to immediately delist your
+books and Pulp your inventory
+after even more public outcry and
+pressure they eventually dropped the
+poison pill but the termination Clause
+stuck that was after all more or less
+the whole point of the exercise now
+ironically as far as I know that
+termination Clause has never actually
+been activated even though fifth edition
+now exists at this point though Wizards
+had a few problems first their GSL
+Shenanigans were just one of several
+ways in which they'd alienated large
+chunks of their fan base second even
+though they willfully abandoned their
+position on top of the vast the vast
+pyramid of Third Edition support
+material that pyramid was still there
+and people were still free to create
+more of it and third
+they pushed a company called Piezo
+publishing into a desperate situation
+when Wizards decided they didn't want to
+keep publishing dragon and dungeon
+magazine in 2002 they licensed those
+magazines to paizo a company which had
+been founded by former Wizards
+Executives to specifically do that in
+preparation for fourth edition Wizards
+announced that paiser's license would
+not be renewed and in fact that dragon
+and dungeon would no longer be published
+as physical magazines at all paizo of
+course still had the subscription list
+so they started publishing the
+Pathfinder Adventure path as a new
+monthly periodical for their customers
+paizo's intention was to transition the
+Pathfinder Adventure path to 4th edition
+when the new game came out but Wizards
+lengthy delays in making the GSL
+available put paizo in a bind which only
+became worse when it became clear that
+whatever the top secret terms of the new
+license were going to be they certainly
+weren't going to be particularly
+friendly the result was the Pathfinder
+role-playing game published by Paisa it
+was essentially a um a 3.75 edition of
+DnD that because of the subscription
+list could be marketed directly to the
+most hardcore of dnd's fans by a company
+that had already spent several years
+selling them Premier adventures and
+support material it also became a banner
+for all those disaffected by Wizards
+actions the gameplay of 4th edition or
+both
+Wizards had completely blown their
+Dismount from the ogl and managed to
+create their single largest competitor
+and furthermore Pathfinder made it
+certain that the ogl and the wealth of
+third-party support made possible by the
+ogl would continue through The Long
+Winter of fourth edition
+let's fast forward now to 2015. whatever
+your personal opinion of fourth edition
+is a game there's little question that
+it was a failure for Wizards of the
+Coast they attempted to relaunch the
+game in late 2011 and then canceled it
+entirely in 2012. the leadership
+responsible for fourth edition was fired
+and development began what would
+eventually become fifth edition which
+was released in the fall of 2014.
+a lot of the marketing around 5th
+edition took the form of um Mia culpas
+as we've noted Wizards had burnt a lot
+of bridges in 2008 and they were now
+working overtime to repair them for
+example whereas fourth edition had seen
+them cancel all their third-party
+licenses they would now reach out to
+third-party companies to develop their
+first official campaigns for the new
+edition in the spirit of bridge building
+they similarly announced in May 2014
+that fifth edition will be returning to
+the LGL unlike in 2000 they said this
+wouldn't happen on the day of the game's
+release in September 2014 but would
+instead follow in the spring of 2015. as
+it turned out the new SRD would not be
+released until January 2016. but either
+way there would also be no trademark
+license this time but the approach to
+the LGL itself would be similar an SRD
+would be released under the license
+containing all of the open game content
+required to make 5th edition compatible
+adventures and supplements now behind
+the scenes this detent had actually
+acquired a Titanic struggle with
+Hasbro's lawyers the compromise that was
+made was that nothing would be included
+in the fifth edition SRD unless it had
+already been included in the Third
+Edition SRD so for example the the magic
+Missile spell had appeared in Third
+Edition so it was also in the 5th
+edition SRD Arcane gate on the other
+hand wasn't a spell in Third Edition so
+it doesn't appear in the 5th edition SRD
+this also means that the 5th edition SRD
+contains enough material to allow for
+the creation of 5th edition compatible
+supplements but not so much that
+something like the Pathfinder
+role-playing game could be easily
+created by another company
+in terms of community content however
+the SRD and the ogl weren't the whole
+story for 5th edition there's also the
+dungeon Masters Guild now to understand
+the origins of the DM's Guild we
+actually need to go back in time to the
+early days of Third Edition during this
+time a company called RPG now had signed
+an agreement with Wizards of the Coast
+to sell DND PDFs this included PDF
+versions of the older books too going
+all the way back to the original 1974
+game RPG now would eventually merge with
+drive through RPG to form a company
+called one bookshelf which continued
+selling the DND PDFs when Wizards
+started yanking all their external
+licenses with the release of fourth
+edition however this eventually included
+one bookshelf's license this was rather
+infamously done without any prior
+announcement and included preventing
+people who had previously purchased the
+books from downloading them in 2012 with
+leadership changing in the wake of
+fourth edition's failure and the
+corporate strategy switching from no one
+shall play with our toys to um you all
+come back now you hear one bookshelf was
+able to renegotiate a new license
+launching DND Classics in 2013 to once
+again offer PDFs of all previous
+editions of DnD
+in 2016 d d Classics was rebranded the
+dungeon Masters Guild and a community
+content program was launched independent
+creators could now create and sell
+content based not only on the SRD but on
+all official DND 5th edition books this
+included the Forgotten Realms and has
+since expanded to include other official
+settings including ravenloft eberron
+Ravnica Theros and dragon lands now the
+license for the dungeon master skill has
+nothing to do with the ogl and those
+using this license can only sell their
+books through the dungeon Masters Guild
+website a furthermore if you publish a
+book through the DM's Guild you are
+prohibited from publishing any
+derivative work so for example you could
+not publish a book through the DM's
+Guild then remove all the DND related
+material and publish it using a
+different set of rules nor could you
+publish a novel or comic book based on
+your DM's guild book
+finally unlike the ogl the DM's Guild
+license can once again be unilaterally
+terminated by Hasbro this does not
+crucially end the exclusivity agreement
+so you would still be unable to remove
+the DND IP and publish your work
+somewhere else this means that there
+will come a day when Hasbro decides to
+shut down the DM's Guild and everything
+on the site will simply
+vanish
+forever
+now you'll hear some people say that
+this this will never happen because
+Hasbro would never want to deal with the
+huge public backlash that would follow
+but as we've seen this isn't really a
+hypothetical Hasbro has canceled
+licenses just like this one it's not a
+question of if they'll do it again it's
+just a question of of when
+now does this mean that no one should
+publish on the DM's Guild not
+necessarily being able to commercially
+access the entire lore of dnd's official
+campaign settings and produce tie-ins
+and support products for their most
+recent Adventure modules is an
+incredibly unique and creatively special
+privilege
+but unless you're doing that you may
+want to take that whole someday you'll
+never be able to show anyone your work
+ever again thing you know into
+consideration
+regardless with the ogl and the DM's
+Guild fifth edition ushered in a second
+golden age of third-party content for
+DND as with the ogl and D20 system
+trademark license for Third Edition you
+can argue about exactly how much this
+openness has contributed to the success
+of the game but there's no question that
+the game has succeeded brilliantly with
+5th edition exceeding all expectations
+and finally achieving the lofty Revenue
+goals that 4th edition tried so
+desperately to grasp
+now in the early days of 2023
+preparations are being made for dnd's
+next chapter a new edition of the game
+currently referred to as one DND has
+entered public play testing and is
+scheduled for release in 2024 during the
+game's 50th anniversary
+a few days ago as I wrote this script
+Wizards of the Coast announced that one
+DND like fourth edition before it would
+not be using the ogl instead a new
+version of the license currently
+referred to as the ogl version 1.1 will
+be used we don't know a lot about this
+license but we do know that those using
+the license will need to file their
+documents with Hasbro those using the
+license who have at least fifty thousand
+dollars in ogl related Revenue will need
+to start reporting their income to
+Hasbro and those who have 750 000 in
+revenue or more will need to start
+paying a royalty to Hasbro we also know
+there are other changes in the terms of
+the license which have not yet been
+announced
+any or all of this of course might still
+change and what the final form of this
+1.1 license will be when it's finally
+released is something we can really only
+speculate about for right now
+okay so life comes at you real fast
+sometimes uh I wrote the script for this
+video just before Christmas uh and by
+the time I had it in editing at least
+copies of version 1.1 of the new ogl
+were coming out and uh it's bad it's
+it's it's real bad it's it's it's much
+worse than I think even the most
+pessimistic of us had believed was was
+possible
+um so I I initially decided not to
+release this video uh because it felt
+like particularly the end of it had
+become very outdated already but then I
+had several of my patrons ask me to
+release it and after thinking about it
+for a bit I realized
+I think I think they're right and I
+think they're right because what this
+video is really about is the history of
+how we got to here to right now and I
+and I think actually right now that may
+be more important than ever I think it's
+important to think about where we've
+been and the history of it so that we
+don't that we don't repeat the mistakes
+of it or at least we can try not to
+repeat the mistakes of it
+so you know I don't know what we're
+going to end up with all this I don't
+think uh here at the beginning of
+January that any of us really knows
+where we're going to end up
+but I the only thing I guess I can
+really say is that when the time comes
+to write the next chapter of this
+history
+you will find it right here so subscribe
+I guess uh I'm not going anywhere
+will it have one or more poison pills
+will it give Hasbro the right to make
+unilateral changes to the license or
+otherwise be revocable
+as we look back over the history of the
+open gaming license it seems as if we're
+in a period of time quite similar to
+2008 new leadership has taken control of
+wizards they have a new addition coming
+out corporate leadership is calling for
+increased monetization of the DND
+property after hemming and hawing
+wizards has been forced to make a public
+statement about the future of the open
+gaming license and what we know for
+certain right now is that their
+intention is for one DND to be less open
+than 5th edition
+how much less open
+that's the unanswered question

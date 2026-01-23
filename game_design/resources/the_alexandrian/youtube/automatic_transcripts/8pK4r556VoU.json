@@ -1,0 +1,3720 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,359",
+      "end_time": "00:00:04,500",
+      "text": "what the heck is an open gaming license"
+    },
+    {
+      "start_time": "00:00:02,220",
+      "end_time": "00:00:07,799",
+      "text": "and why should you care"
+    },
+    {
+      "start_time": "00:00:04,500",
+      "end_time": "00:00:09,660",
+      "text": "well the open gaming license or ogl is"
+    },
+    {
+      "start_time": "00:00:07,799",
+      "end_time": "00:00:11,219",
+      "text": "what lets people sell DND compatible"
+    },
+    {
+      "start_time": "00:00:09,660",
+      "end_time": "00:00:13,380",
+      "text": "adventures and supplements without"
+    },
+    {
+      "start_time": "00:00:11,219",
+      "end_time": "00:00:15,900",
+      "text": "getting Hasbro's specific permission to"
+    },
+    {
+      "start_time": "00:00:13,380",
+      "end_time": "00:00:17,640",
+      "text": "do so so if you're someone making DND"
+    },
+    {
+      "start_time": "00:00:15,900",
+      "end_time": "00:00:19,619",
+      "text": "compatible stuff you should probably"
+    },
+    {
+      "start_time": "00:00:17,640",
+      "end_time": "00:00:21,539",
+      "text": "care about the ogl quite a bit since"
+    },
+    {
+      "start_time": "00:00:19,619",
+      "end_time": "00:00:23,820",
+      "text": "it's one of the only two ways to do that"
+    },
+    {
+      "start_time": "00:00:21,539",
+      "end_time": "00:00:26,160",
+      "text": "the other being the dungeon Masters"
+    },
+    {
+      "start_time": "00:00:23,820",
+      "end_time": "00:00:27,480",
+      "text": "Guild which we'll talk about later but"
+    },
+    {
+      "start_time": "00:00:26,160",
+      "end_time": "00:00:29,519",
+      "text": "most of you watching this probably"
+    },
+    {
+      "start_time": "00:00:27,480",
+      "end_time": "00:00:31,500",
+      "text": "aren't trying to sell DND compatible"
+    },
+    {
+      "start_time": "00:00:29,519",
+      "end_time": "00:00:33,300",
+      "text": "stuff you're probably just trying to run"
+    },
+    {
+      "start_time": "00:00:31,500",
+      "end_time": "00:00:35,340",
+      "text": "and play in your Saturday night sessions"
+    },
+    {
+      "start_time": "00:00:33,300",
+      "end_time": "00:00:37,079",
+      "text": "so why should you care"
+    },
+    {
+      "start_time": "00:00:35,340",
+      "end_time": "00:00:38,760",
+      "text": "probably because a lot of the stuff you"
+    },
+    {
+      "start_time": "00:00:37,079",
+      "end_time": "00:00:41,640",
+      "text": "love and use in your games has been"
+    },
+    {
+      "start_time": "00:00:38,760",
+      "end_time": "00:00:43,379",
+      "text": "produced using the ogl and if it isn't"
+    },
+    {
+      "start_time": "00:00:41,640",
+      "end_time": "00:00:44,520",
+      "text": "then there's a ton of really amazing"
+    },
+    {
+      "start_time": "00:00:43,379",
+      "end_time": "00:00:47,100",
+      "text": "stuff out there that you should really"
+    },
+    {
+      "start_time": "00:00:44,520",
+      "end_time": "00:00:49,200",
+      "text": "check out for example maybe you're a fan"
+    },
+    {
+      "start_time": "00:00:47,100",
+      "end_time": "00:00:50,700",
+      "text": "of critical role if so you may be"
+    },
+    {
+      "start_time": "00:00:49,200",
+      "end_time": "00:00:52,500",
+      "text": "familiar with the taldori campaign"
+    },
+    {
+      "start_time": "00:00:50,700",
+      "end_time": "00:00:55,500",
+      "text": "setting they were only able to publish"
+    },
+    {
+      "start_time": "00:00:52,500",
+      "end_time": "00:00:56,820",
+      "text": "that as a book because of the ogl or"
+    },
+    {
+      "start_time": "00:00:55,500",
+      "end_time": "00:00:59,219",
+      "text": "maybe you've played adventures in Middle"
+    },
+    {
+      "start_time": "00:00:56,820",
+      "end_time": "00:01:01,739",
+      "text": "Earth the 5th edition compatible Lord of"
+    },
+    {
+      "start_time": "00:00:59,219",
+      "end_time": "00:01:04,860",
+      "text": "the Rings role-playing game again that's"
+    },
+    {
+      "start_time": "00:01:01,739",
+      "end_time": "00:01:06,119",
+      "text": "ogl maybe you're a fan of my work in"
+    },
+    {
+      "start_time": "00:01:04,860",
+      "end_time": "00:01:07,380",
+      "text": "which case you might be familiar with"
+    },
+    {
+      "start_time": "00:01:06,119",
+      "end_time": "00:01:09,780",
+      "text": "the adventures I've published with"
+    },
+    {
+      "start_time": "00:01:07,380",
+      "end_time": "00:01:12,119",
+      "text": "Fantasy Flight games Atlas games and"
+    },
+    {
+      "start_time": "00:01:09,780",
+      "end_time": "00:01:14,580",
+      "text": "others again none of these would exist"
+    },
+    {
+      "start_time": "00:01:12,119",
+      "end_time": "00:01:16,860",
+      "text": "without the LGL there's a lot of content"
+    },
+    {
+      "start_time": "00:01:14,580",
+      "end_time": "00:01:19,979",
+      "text": "on my website the alexandrian that"
+    },
+    {
+      "start_time": "00:01:16,860",
+      "end_time": "00:01:23,400",
+      "text": "wouldn't exist without the ogl okay so"
+    },
+    {
+      "start_time": "00:01:19,979",
+      "end_time": "00:01:25,500",
+      "text": "the ogl makes cool stuff possible so"
+    },
+    {
+      "start_time": "00:01:23,400",
+      "end_time": "00:01:27,720",
+      "text": "where does it come from how does it work"
+    },
+    {
+      "start_time": "00:01:25,500",
+      "end_time": "00:01:30,360",
+      "text": "why is everyone screaming and yelling"
+    },
+    {
+      "start_time": "00:01:27,720",
+      "end_time": "00:01:32,939",
+      "text": "about it well the ogl has been around"
+    },
+    {
+      "start_time": "00:01:30,360",
+      "end_time": "00:01:35,340",
+      "text": "for about 20 years now it was first"
+    },
+    {
+      "start_time": "00:01:32,939",
+      "end_time": "00:01:37,259",
+      "text": "released in 2000 but to really"
+    },
+    {
+      "start_time": "00:01:35,340",
+      "end_time": "00:01:39,720",
+      "text": "understand its roots we have to go back"
+    },
+    {
+      "start_time": "00:01:37,259",
+      "end_time": "00:01:42,360",
+      "text": "a few years before it existed"
+    },
+    {
+      "start_time": "00:01:39,720",
+      "end_time": "00:01:45,299",
+      "text": "in 1997 a company called tactical"
+    },
+    {
+      "start_time": "00:01:42,360",
+      "end_time": "00:01:47,820",
+      "text": "studies rules TSR Incorporated was going"
+    },
+    {
+      "start_time": "00:01:45,299",
+      "end_time": "00:01:49,619",
+      "text": "bankrupt there were a lot of complicated"
+    },
+    {
+      "start_time": "00:01:47,820",
+      "end_time": "00:01:51,540",
+      "text": "reasons for this and we're not we're not"
+    },
+    {
+      "start_time": "00:01:49,619",
+      "end_time": "00:01:53,759",
+      "text": "going to dive into all of it here but"
+    },
+    {
+      "start_time": "00:01:51,540",
+      "end_time": "00:01:56,399",
+      "text": "this was a significant moment because"
+    },
+    {
+      "start_time": "00:01:53,759",
+      "end_time": "00:01:59,340",
+      "text": "TSR was the original publisher and still"
+    },
+    {
+      "start_time": "00:01:56,399",
+      "end_time": "00:02:01,619",
+      "text": "owner of Dungeons and Dragons now the"
+    },
+    {
+      "start_time": "00:01:59,340",
+      "end_time": "00:02:04,140",
+      "text": "thing to understand is that d d was in"
+    },
+    {
+      "start_time": "00:02:01,619",
+      "end_time": "00:02:05,640",
+      "text": "real Jeopardy here tsr's assets were"
+    },
+    {
+      "start_time": "00:02:04,140",
+      "end_time": "00:02:07,979",
+      "text": "going to be hacked up and its parts"
+    },
+    {
+      "start_time": "00:02:05,640",
+      "end_time": "00:02:10,619",
+      "text": "divvied Out Among its many many"
+    },
+    {
+      "start_time": "00:02:07,979",
+      "end_time": "00:02:13,020",
+      "text": "creditors it was very possible that"
+    },
+    {
+      "start_time": "00:02:10,619",
+      "end_time": "00:02:15,000",
+      "text": "someone would end up owning DND who had"
+    },
+    {
+      "start_time": "00:02:13,020",
+      "end_time": "00:02:17,340",
+      "text": "no interest in publishing a tabletop"
+    },
+    {
+      "start_time": "00:02:15,000",
+      "end_time": "00:02:20,340",
+      "text": "role-playing game they'd exploit the IP"
+    },
+    {
+      "start_time": "00:02:17,340",
+      "end_time": "00:02:22,080",
+      "text": "for novels video games TV shows or"
+    },
+    {
+      "start_time": "00:02:20,340",
+      "end_time": "00:02:23,700",
+      "text": "whatever else they could imagine but"
+    },
+    {
+      "start_time": "00:02:22,080",
+      "end_time": "00:02:26,220",
+      "text": "they wouldn't necessarily publish a"
+    },
+    {
+      "start_time": "00:02:23,700",
+      "end_time": "00:02:29,099",
+      "text": "role-playing game d d as we know it"
+    },
+    {
+      "start_time": "00:02:26,220",
+      "end_time": "00:02:30,599",
+      "text": "would be dead fortunately a company"
+    },
+    {
+      "start_time": "00:02:29,099",
+      "end_time": "00:02:32,520",
+      "text": "called Wizards of the Coast had"
+    },
+    {
+      "start_time": "00:02:30,599",
+      "end_time": "00:02:34,560",
+      "text": "published a little Indie card game"
+    },
+    {
+      "start_time": "00:02:32,520",
+      "end_time": "00:02:36,900",
+      "text": "called Magic the Gathering a few years"
+    },
+    {
+      "start_time": "00:02:34,560",
+      "end_time": "00:02:38,520",
+      "text": "earlier you may have heard of it they"
+    },
+    {
+      "start_time": "00:02:36,900",
+      "end_time": "00:02:41,940",
+      "text": "used the money they'd gained from Magic"
+    },
+    {
+      "start_time": "00:02:38,520",
+      "end_time": "00:02:43,680",
+      "text": "to purchase TSR outright d d was now in"
+    },
+    {
+      "start_time": "00:02:41,940",
+      "end_time": "00:02:46,920",
+      "text": "the hands of people who loved the"
+    },
+    {
+      "start_time": "00:02:43,680",
+      "end_time": "00:02:48,180",
+      "text": "role-playing game d d was saved now at"
+    },
+    {
+      "start_time": "00:02:46,920",
+      "end_time": "00:02:50,640",
+      "text": "this point a couple things happened"
+    },
+    {
+      "start_time": "00:02:48,180",
+      "end_time": "00:02:52,560",
+      "text": "pretty fast first Wizards of the Coast"
+    },
+    {
+      "start_time": "00:02:50,640",
+      "end_time": "00:02:56,040",
+      "text": "begins developing the Third Edition of"
+    },
+    {
+      "start_time": "00:02:52,560",
+      "end_time": "00:02:58,260",
+      "text": "Dungeons and Dragons second in 1999 just"
+    },
+    {
+      "start_time": "00:02:56,040",
+      "end_time": "00:03:00,959",
+      "text": "a couple years later Wizards itself is"
+    },
+    {
+      "start_time": "00:02:58,260",
+      "end_time": "00:03:04,440",
+      "text": "bought out by Hasbro a huge toy and game"
+    },
+    {
+      "start_time": "00:03:00,959",
+      "end_time": "00:03:06,900",
+      "text": "conglomerate a year later in 2000 the"
+    },
+    {
+      "start_time": "00:03:04,440",
+      "end_time": "00:03:08,700",
+      "text": "Third Edition of d d is released and a"
+    },
+    {
+      "start_time": "00:03:06,900",
+      "end_time": "00:03:11,819",
+      "text": "major pillar of its marketing campaign"
+    },
+    {
+      "start_time": "00:03:08,700",
+      "end_time": "00:03:13,860",
+      "text": "is the open gaming license anyone could"
+    },
+    {
+      "start_time": "00:03:11,819",
+      "end_time": "00:03:15,420",
+      "text": "now publish third-party supplements that"
+    },
+    {
+      "start_time": "00:03:13,860",
+      "end_time": "00:03:17,099",
+      "text": "were compatible with the official"
+    },
+    {
+      "start_time": "00:03:15,420",
+      "end_time": "00:03:19,680",
+      "text": "version of d d"
+    },
+    {
+      "start_time": "00:03:17,099",
+      "end_time": "00:03:21,480",
+      "text": "and they did when the player's handbook"
+    },
+    {
+      "start_time": "00:03:19,680",
+      "end_time": "00:03:23,940",
+      "text": "was released at Gen Con in the summer of"
+    },
+    {
+      "start_time": "00:03:21,480",
+      "end_time": "00:03:26,340",
+      "text": "2000 two compatible modules were"
+    },
+    {
+      "start_time": "00:03:23,940",
+      "end_time": "00:03:28,560",
+      "text": "immediately available the same day Atlas"
+    },
+    {
+      "start_time": "00:03:26,340",
+      "end_time": "00:03:30,900",
+      "text": "games Three Days to Kill by John tynes"
+    },
+    {
+      "start_time": "00:03:28,560",
+      "end_time": "00:03:33,720",
+      "text": "and green ronin's death in Freeport by"
+    },
+    {
+      "start_time": "00:03:30,900",
+      "end_time": "00:03:35,340",
+      "text": "Chris pramus the ogl can actually apply"
+    },
+    {
+      "start_time": "00:03:33,720",
+      "end_time": "00:03:37,140",
+      "text": "to a lot of different types of products"
+    },
+    {
+      "start_time": "00:03:35,340",
+      "end_time": "00:03:38,700",
+      "text": "but to keep things simple we're just"
+    },
+    {
+      "start_time": "00:03:37,140",
+      "end_time": "00:03:41,340",
+      "text": "going to talk in terms of RPG"
+    },
+    {
+      "start_time": "00:03:38,700",
+      "end_time": "00:03:43,500",
+      "text": "supplements published as books there are"
+    },
+    {
+      "start_time": "00:03:41,340",
+      "end_time": "00:03:46,200",
+      "text": "three key things to understand about the"
+    },
+    {
+      "start_time": "00:03:43,500",
+      "end_time": "00:03:48,720",
+      "text": "OG Hill first not everything in a book"
+    },
+    {
+      "start_time": "00:03:46,200",
+      "end_time": "00:03:50,819",
+      "text": "published under the ogl is free to use"
+    },
+    {
+      "start_time": "00:03:48,720",
+      "end_time": "00:03:53,099",
+      "text": "with the license instead the publisher"
+    },
+    {
+      "start_time": "00:03:50,819",
+      "end_time": "00:03:56,040",
+      "text": "must explicitly declare what content in"
+    },
+    {
+      "start_time": "00:03:53,099",
+      "end_time": "00:03:58,080",
+      "text": "the book is open game content this is"
+    },
+    {
+      "start_time": "00:03:56,040",
+      "end_time": "00:04:00,780",
+      "text": "material that other people can use in"
+    },
+    {
+      "start_time": "00:03:58,080",
+      "end_time": "00:04:02,879",
+      "text": "their own ogl books the only requirement"
+    },
+    {
+      "start_time": "00:04:00,780",
+      "end_time": "00:04:04,980",
+      "text": "is that any open game content you use"
+    },
+    {
+      "start_time": "00:04:02,879",
+      "end_time": "00:04:06,959",
+      "text": "from someone else must be declared as"
+    },
+    {
+      "start_time": "00:04:04,980",
+      "end_time": "00:04:09,180",
+      "text": "open content and credited in the"
+    },
+    {
+      "start_time": "00:04:06,959",
+      "end_time": "00:04:11,760",
+      "text": "copyright section of the copy of the ogl"
+    },
+    {
+      "start_time": "00:04:09,180",
+      "end_time": "00:04:14,340",
+      "text": "you print in your book second the"
+    },
+    {
+      "start_time": "00:04:11,760",
+      "end_time": "00:04:16,919",
+      "text": "publisher of an ogl book can also choose"
+    },
+    {
+      "start_time": "00:04:14,340",
+      "end_time": "00:04:19,139",
+      "text": "to declare product identity this might"
+    },
+    {
+      "start_time": "00:04:16,919",
+      "end_time": "00:04:21,180",
+      "text": "be trademarks or character names or"
+    },
+    {
+      "start_time": "00:04:19,139",
+      "end_time": "00:04:23,699",
+      "text": "artwork there's lots of stuff that can"
+    },
+    {
+      "start_time": "00:04:21,180",
+      "end_time": "00:04:25,680",
+      "text": "be product identity the key thing is"
+    },
+    {
+      "start_time": "00:04:23,699",
+      "end_time": "00:04:28,320",
+      "text": "that product identity can never be open"
+    },
+    {
+      "start_time": "00:04:25,680",
+      "end_time": "00:04:31,020",
+      "text": "game content even if the Declaration of"
+    },
+    {
+      "start_time": "00:04:28,320",
+      "end_time": "00:04:33,300",
+      "text": "open game content would otherwise apply"
+    },
+    {
+      "start_time": "00:04:31,020",
+      "end_time": "00:04:34,740",
+      "text": "this provides a safety net that makes it"
+    },
+    {
+      "start_time": "00:04:33,300",
+      "end_time": "00:04:36,960",
+      "text": "easy for Publishers to avoid"
+    },
+    {
+      "start_time": "00:04:34,740",
+      "end_time": "00:04:39,720",
+      "text": "accidentally opening their trademarks or"
+    },
+    {
+      "start_time": "00:04:36,960",
+      "end_time": "00:04:42,000",
+      "text": "other IP for example if they declare"
+    },
+    {
+      "start_time": "00:04:39,720",
+      "end_time": "00:04:43,500",
+      "text": "that trouble womps are product identity"
+    },
+    {
+      "start_time": "00:04:42,000",
+      "end_time": "00:04:46,259",
+      "text": "and they declare that everything in"
+    },
+    {
+      "start_time": "00:04:43,500",
+      "end_time": "00:04:48,660",
+      "text": "Chapter 2 is open content then truggle"
+    },
+    {
+      "start_time": "00:04:46,259",
+      "end_time": "00:04:50,940",
+      "text": "whomps wouldn't be open content even if"
+    },
+    {
+      "start_time": "00:04:48,660",
+      "end_time": "00:04:52,680",
+      "text": "they appear in chapter 2. this is good"
+    },
+    {
+      "start_time": "00:04:50,940",
+      "end_time": "00:04:54,540",
+      "text": "because it will encourage Publishers to"
+    },
+    {
+      "start_time": "00:04:52,680",
+      "end_time": "00:04:56,520",
+      "text": "use the ogl since they won't have to"
+    },
+    {
+      "start_time": "00:04:54,540",
+      "end_time": "00:04:58,860",
+      "text": "worry about accidentally voiding their"
+    },
+    {
+      "start_time": "00:04:56,520",
+      "end_time": "00:05:00,360",
+      "text": "IP rights it's also good because it"
+    },
+    {
+      "start_time": "00:04:58,860",
+      "end_time": "00:05:03,660",
+      "text": "encourages liberal and clear"
+    },
+    {
+      "start_time": "00:05:00,360",
+      "end_time": "00:05:05,340",
+      "text": "Declarations of open game content if"
+    },
+    {
+      "start_time": "00:05:03,660",
+      "end_time": "00:05:07,259",
+      "text": "product identity didn't exist in the"
+    },
+    {
+      "start_time": "00:05:05,340",
+      "end_time": "00:05:09,240",
+      "text": "license for example a publisher might"
+    },
+    {
+      "start_time": "00:05:07,259",
+      "end_time": "00:05:11,340",
+      "text": "only declare very small parts of chapter"
+    },
+    {
+      "start_time": "00:05:09,240",
+      "end_time": "00:05:13,380",
+      "text": "2 open content to make sure they didn't"
+    },
+    {
+      "start_time": "00:05:11,340",
+      "end_time": "00:05:15,960",
+      "text": "you know accidentally put truggle wamps"
+    },
+    {
+      "start_time": "00:05:13,380",
+      "end_time": "00:05:18,000",
+      "text": "onto the open market now the third thing"
+    },
+    {
+      "start_time": "00:05:15,960",
+      "end_time": "00:05:20,460",
+      "text": "to understand is that the DND Coral Rule"
+    },
+    {
+      "start_time": "00:05:18,000",
+      "end_time": "00:05:23,400",
+      "text": "books were not released under the ogl"
+    },
+    {
+      "start_time": "00:05:20,460",
+      "end_time": "00:05:25,380",
+      "text": "instead Wizards of the Coast copied some"
+    },
+    {
+      "start_time": "00:05:23,400",
+      "end_time": "00:05:27,180",
+      "text": "of the rules and lore from the core rule"
+    },
+    {
+      "start_time": "00:05:25,380",
+      "end_time": "00:05:29,520",
+      "text": "books into a digital file called the"
+    },
+    {
+      "start_time": "00:05:27,180",
+      "end_time": "00:05:32,400",
+      "text": "system reference document it was this"
+    },
+    {
+      "start_time": "00:05:29,520",
+      "end_time": "00:05:34,740",
+      "text": "system reference document or SRD that"
+    },
+    {
+      "start_time": "00:05:32,400",
+      "end_time": "00:05:37,020",
+      "text": "was released under the ogl and thus made"
+    },
+    {
+      "start_time": "00:05:34,740",
+      "end_time": "00:05:39,840",
+      "text": "available to other Publishers using the"
+    },
+    {
+      "start_time": "00:05:37,020",
+      "end_time": "00:05:42,060",
+      "text": "ogl now the final thing to know is that"
+    },
+    {
+      "start_time": "00:05:39,840",
+      "end_time": "00:05:45,300",
+      "text": "according to Wizards of the Coast the"
+    },
+    {
+      "start_time": "00:05:42,060",
+      "end_time": "00:05:47,639",
+      "text": "ogl is unrevocable once you release open"
+    },
+    {
+      "start_time": "00:05:45,300",
+      "end_time": "00:05:50,460",
+      "text": "game content under the ogl it will"
+    },
+    {
+      "start_time": "00:05:47,639",
+      "end_time": "00:05:54,000",
+      "text": "always be open game content There's No"
+    },
+    {
+      "start_time": "00:05:50,460",
+      "end_time": "00:05:56,340",
+      "text": "undo button not even for Hasbro so why"
+    },
+    {
+      "start_time": "00:05:54,000",
+      "end_time": "00:05:59,280",
+      "text": "did Wizards do this well they had two"
+    },
+    {
+      "start_time": "00:05:56,340",
+      "end_time": "00:06:01,500",
+      "text": "goals first Ryan Dancy who is in charge"
+    },
+    {
+      "start_time": "00:05:59,280",
+      "end_time": "00:06:03,780",
+      "text": "of DnD at the time and schemed up the"
+    },
+    {
+      "start_time": "00:06:01,500",
+      "end_time": "00:06:05,520",
+      "text": "ogl believe that with Wizards needed to"
+    },
+    {
+      "start_time": "00:06:03,780",
+      "end_time": "00:06:08,520",
+      "text": "be publishing a lot fewer supplements"
+    },
+    {
+      "start_time": "00:06:05,520",
+      "end_time": "00:06:10,259",
+      "text": "and Adventures for d d he'd seen tsr's"
+    },
+    {
+      "start_time": "00:06:08,520",
+      "end_time": "00:06:12,240",
+      "text": "Financial books and he believed flooding"
+    },
+    {
+      "start_time": "00:06:10,259",
+      "end_time": "00:06:14,460",
+      "text": "the market with official DND supplements"
+    },
+    {
+      "start_time": "00:06:12,240",
+      "end_time": "00:06:16,680",
+      "text": "had been a major factor in the company's"
+    },
+    {
+      "start_time": "00:06:14,460",
+      "end_time": "00:06:18,479",
+      "text": "failure and bankruptcy there were"
+    },
+    {
+      "start_time": "00:06:16,680",
+      "end_time": "00:06:20,460",
+      "text": "certain core titles including the core"
+    },
+    {
+      "start_time": "00:06:18,479",
+      "end_time": "00:06:22,560",
+      "text": "Rule books which Were Far and Away the"
+    },
+    {
+      "start_time": "00:06:20,460",
+      "end_time": "00:06:25,080",
+      "text": "most profitable books TSR published"
+    },
+    {
+      "start_time": "00:06:22,560",
+      "end_time": "00:06:26,940",
+      "text": "Dancy believed Wizards should focus on"
+    },
+    {
+      "start_time": "00:06:25,080",
+      "end_time": "00:06:28,740",
+      "text": "producing those books the most"
+    },
+    {
+      "start_time": "00:06:26,940",
+      "end_time": "00:06:31,560",
+      "text": "profitable ones and he called them"
+    },
+    {
+      "start_time": "00:06:28,740",
+      "end_time": "00:06:33,660",
+      "text": "Evergreen titles but he also knew that"
+    },
+    {
+      "start_time": "00:06:31,560",
+      "end_time": "00:06:36,539",
+      "text": "supplement support was important for an"
+    },
+    {
+      "start_time": "00:06:33,660",
+      "end_time": "00:06:38,580",
+      "text": "RPG to thrive the open gaming license"
+    },
+    {
+      "start_time": "00:06:36,539",
+      "end_time": "00:06:40,440",
+      "text": "would get other Publishers Publishers"
+    },
+    {
+      "start_time": "00:06:38,580",
+      "end_time": "00:06:41,819",
+      "text": "who didn't have the huge overhead of"
+    },
+    {
+      "start_time": "00:06:40,440",
+      "end_time": "00:06:43,800",
+      "text": "wizards and would be much more"
+    },
+    {
+      "start_time": "00:06:41,819",
+      "end_time": "00:06:46,259",
+      "text": "successful in turning profits on smaller"
+    },
+    {
+      "start_time": "00:06:43,800",
+      "end_time": "00:06:48,060",
+      "text": "print runs to provide a constant flow of"
+    },
+    {
+      "start_time": "00:06:46,259",
+      "end_time": "00:06:51,180",
+      "text": "Adventures and other support material"
+    },
+    {
+      "start_time": "00:06:48,060",
+      "end_time": "00:06:53,220",
+      "text": "for DND that support material would make"
+    },
+    {
+      "start_time": "00:06:51,180",
+      "end_time": "00:06:55,560",
+      "text": "more people interested in buying and"
+    },
+    {
+      "start_time": "00:06:53,220",
+      "end_time": "00:06:59,220",
+      "text": "playing DND and this in turn would grow"
+    },
+    {
+      "start_time": "00:06:55,560",
+      "end_time": "00:07:00,539",
+      "text": "the network externality of DnD now I'm"
+    },
+    {
+      "start_time": "00:06:59,220",
+      "end_time": "00:07:02,580",
+      "text": "not going to dive into Network"
+    },
+    {
+      "start_time": "00:07:00,539",
+      "end_time": "00:07:04,440",
+      "text": "externality at length but the short"
+    },
+    {
+      "start_time": "00:07:02,580",
+      "end_time": "00:07:06,720",
+      "text": "version version is that the more people"
+    },
+    {
+      "start_time": "00:07:04,440",
+      "end_time": "00:07:08,100",
+      "text": "there are playing DND the more likely it"
+    },
+    {
+      "start_time": "00:07:06,720",
+      "end_time": "00:07:09,780",
+      "text": "is that someone looking to play a"
+    },
+    {
+      "start_time": "00:07:08,100",
+      "end_time": "00:07:11,940",
+      "text": "role-playing game will find a group"
+    },
+    {
+      "start_time": "00:07:09,780",
+      "end_time": "00:07:13,860",
+      "text": "playing D and D that will make it more"
+    },
+    {
+      "start_time": "00:07:11,940",
+      "end_time": "00:07:15,840",
+      "text": "likely that they become a DND player"
+    },
+    {
+      "start_time": "00:07:13,860",
+      "end_time": "00:07:17,880",
+      "text": "which increases the number of DnD"
+    },
+    {
+      "start_time": "00:07:15,840",
+      "end_time": "00:07:20,340",
+      "text": "players and therefore increases the"
+    },
+    {
+      "start_time": "00:07:17,880",
+      "end_time": "00:07:23,639",
+      "text": "likelihood that the next player will"
+    },
+    {
+      "start_time": "00:07:20,340",
+      "end_time": "00:07:25,620",
+      "text": "also become a DND player dancy's"
+    },
+    {
+      "start_time": "00:07:23,639",
+      "end_time": "00:07:27,720",
+      "text": "argument in short is that D D's biggest"
+    },
+    {
+      "start_time": "00:07:25,620",
+      "end_time": "00:07:29,940",
+      "text": "strength is that it's the role-playing"
+    },
+    {
+      "start_time": "00:07:27,720",
+      "end_time": "00:07:31,919",
+      "text": "game you're most likely to find when you"
+    },
+    {
+      "start_time": "00:07:29,940",
+      "end_time": "00:07:34,020",
+      "text": "go looking for a role-playing game and"
+    },
+    {
+      "start_time": "00:07:31,919",
+      "end_time": "00:07:37,500",
+      "text": "the open gaming license was designed to"
+    },
+    {
+      "start_time": "00:07:34,020",
+      "end_time": "00:07:39,360",
+      "text": "make that even more true second the ogl"
+    },
+    {
+      "start_time": "00:07:37,500",
+      "end_time": "00:07:41,400",
+      "text": "meant that DND would never again be at"
+    },
+    {
+      "start_time": "00:07:39,360",
+      "end_time": "00:07:43,440",
+      "text": "risk of being killed due to corporate"
+    },
+    {
+      "start_time": "00:07:41,400",
+      "end_time": "00:07:45,900",
+      "text": "malfeasance remember that just a couple"
+    },
+    {
+      "start_time": "00:07:43,440",
+      "end_time": "00:07:48,240",
+      "text": "years earlier d d had almost died as a"
+    },
+    {
+      "start_time": "00:07:45,900",
+      "end_time": "00:07:50,220",
+      "text": "result of tsr's bankruptcy and now it"
+    },
+    {
+      "start_time": "00:07:48,240",
+      "end_time": "00:07:51,900",
+      "text": "was owned by Hasbro who could decide at"
+    },
+    {
+      "start_time": "00:07:50,220",
+      "end_time": "00:07:53,759",
+      "text": "any time that they weren't interested in"
+    },
+    {
+      "start_time": "00:07:51,900",
+      "end_time": "00:07:57,419",
+      "text": "publishing a tabletop role-playing game"
+    },
+    {
+      "start_time": "00:07:53,759",
+      "end_time": "00:07:59,220",
+      "text": "but the OG Hill Has No undo button once"
+    },
+    {
+      "start_time": "00:07:57,419",
+      "end_time": "00:08:01,560",
+      "text": "the rules of DnD were placed under the"
+    },
+    {
+      "start_time": "00:07:59,220",
+      "end_time": "00:08:03,660",
+      "text": "LGL Dancy believed it could never be"
+    },
+    {
+      "start_time": "00:08:01,560",
+      "end_time": "00:08:05,819",
+      "text": "taken out of print by the actions of a"
+    },
+    {
+      "start_time": "00:08:03,660",
+      "end_time": "00:08:08,759",
+      "text": "single Corporation in addition to the"
+    },
+    {
+      "start_time": "00:08:05,819",
+      "end_time": "00:08:11,099",
+      "text": "ogl Wizards also released the D20 system"
+    },
+    {
+      "start_time": "00:08:08,759",
+      "end_time": "00:08:13,020",
+      "text": "trademark license basically they wanted"
+    },
+    {
+      "start_time": "00:08:11,099",
+      "end_time": "00:08:15,000",
+      "text": "a method by which third-party Publishers"
+    },
+    {
+      "start_time": "00:08:13,020",
+      "end_time": "00:08:17,039",
+      "text": "could indicate their compatibility with"
+    },
+    {
+      "start_time": "00:08:15,000",
+      "end_time": "00:08:20,220",
+      "text": "DND but they didn't want to let them use"
+    },
+    {
+      "start_time": "00:08:17,039",
+      "end_time": "00:08:22,740",
+      "text": "the DND trademark so they created a new"
+    },
+    {
+      "start_time": "00:08:20,220",
+      "end_time": "00:08:25,319",
+      "text": "D20 system trademark including logo and"
+    },
+    {
+      "start_time": "00:08:22,740",
+      "end_time": "00:08:27,599",
+      "text": "let the Publishers use that instead the"
+    },
+    {
+      "start_time": "00:08:25,319",
+      "end_time": "00:08:30,240",
+      "text": "D20 system trademark license required"
+    },
+    {
+      "start_time": "00:08:27,599",
+      "end_time": "00:08:32,940",
+      "text": "Publishers to use the ogl but it added a"
+    },
+    {
+      "start_time": "00:08:30,240",
+      "end_time": "00:08:35,099",
+      "text": "number of restrictions for example books"
+    },
+    {
+      "start_time": "00:08:32,940",
+      "end_time": "00:08:37,260",
+      "text": "published under the D20 system trademark"
+    },
+    {
+      "start_time": "00:08:35,099",
+      "end_time": "00:08:39,719",
+      "text": "license couldn't include any rules for"
+    },
+    {
+      "start_time": "00:08:37,260",
+      "end_time": "00:08:41,640",
+      "text": "character creation Now the most notable"
+    },
+    {
+      "start_time": "00:08:39,719",
+      "end_time": "00:08:43,500",
+      "text": "of these restrictions was that the D20"
+    },
+    {
+      "start_time": "00:08:41,640",
+      "end_time": "00:08:45,660",
+      "text": "system trademark license could be"
+    },
+    {
+      "start_time": "00:08:43,500",
+      "end_time": "00:08:48,540",
+      "text": "unilaterally canceled by Wizards of the"
+    },
+    {
+      "start_time": "00:08:45,660",
+      "end_time": "00:08:50,519",
+      "text": "Coast at any time after which Publishers"
+    },
+    {
+      "start_time": "00:08:48,540",
+      "end_time": "00:08:53,360",
+      "text": "would have to stop selling any books"
+    },
+    {
+      "start_time": "00:08:50,519",
+      "end_time": "00:08:56,580",
+      "text": "that use the D20 system trademark"
+    },
+    {
+      "start_time": "00:08:53,360",
+      "end_time": "00:08:58,920",
+      "text": "spoilers this will be significant later"
+    },
+    {
+      "start_time": "00:08:56,580",
+      "end_time": "00:09:01,080",
+      "text": "the ogl ended up being more successful"
+    },
+    {
+      "start_time": "00:08:58,920",
+      "end_time": "00:09:02,459",
+      "text": "than anyone could have imagined dozens"
+    },
+    {
+      "start_time": "00:09:01,080",
+      "end_time": "00:09:05,279",
+      "text": "of companies began publishing"
+    },
+    {
+      "start_time": "00:09:02,459",
+      "end_time": "00:09:06,959",
+      "text": "third-party support for DND entirely new"
+    },
+    {
+      "start_time": "00:09:05,279",
+      "end_time": "00:09:09,000",
+      "text": "companies were founded many of which"
+    },
+    {
+      "start_time": "00:09:06,959",
+      "end_time": "00:09:11,100",
+      "text": "have become major players in the RPG"
+    },
+    {
+      "start_time": "00:09:09,000",
+      "end_time": "00:09:13,680",
+      "text": "industry and for players and DMS there"
+    },
+    {
+      "start_time": "00:09:11,100",
+      "end_time": "00:09:16,440",
+      "text": "was an unprecedented wealth of amazing"
+    },
+    {
+      "start_time": "00:09:13,680",
+      "end_time": "00:09:19,800",
+      "text": "material new adventures new classes new"
+    },
+    {
+      "start_time": "00:09:16,440",
+      "end_time": "00:09:21,959",
+      "text": "settings all of this fueled a DND"
+    },
+    {
+      "start_time": "00:09:19,800",
+      "end_time": "00:09:24,000",
+      "text": "Renaissance"
+    },
+    {
+      "start_time": "00:09:21,959",
+      "end_time": "00:09:25,440",
+      "text": "but not everything was going according"
+    },
+    {
+      "start_time": "00:09:24,000",
+      "end_time": "00:09:28,560",
+      "text": "to plan"
+    },
+    {
+      "start_time": "00:09:25,440",
+      "end_time": "00:09:30,360",
+      "text": "first dancy's Evergreen books like the"
+    },
+    {
+      "start_time": "00:09:28,560",
+      "end_time": "00:09:32,459",
+      "text": "Epic Level handbook and the psionics"
+    },
+    {
+      "start_time": "00:09:30,360",
+      "end_time": "00:09:34,800",
+      "text": "handbook weren't selling the way he had"
+    },
+    {
+      "start_time": "00:09:32,459",
+      "end_time": "00:09:37,200",
+      "text": "hoped they would and second the thing"
+    },
+    {
+      "start_time": "00:09:34,800",
+      "end_time": "00:09:39,600",
+      "text": "about a plan to design and publish fewer"
+    },
+    {
+      "start_time": "00:09:37,200",
+      "end_time": "00:09:41,519",
+      "text": "books is that you can downsize the"
+    },
+    {
+      "start_time": "00:09:39,600",
+      "end_time": "00:09:43,380",
+      "text": "design department and the design"
+    },
+    {
+      "start_time": "00:09:41,519",
+      "end_time": "00:09:45,360",
+      "text": "Department of Wizards of the Coast had"
+    },
+    {
+      "start_time": "00:09:43,380",
+      "end_time": "00:09:46,920",
+      "text": "some strong opinions about being"
+    },
+    {
+      "start_time": "00:09:45,360",
+      "end_time": "00:09:49,440",
+      "text": "downsized"
+    },
+    {
+      "start_time": "00:09:46,920",
+      "end_time": "00:09:51,060",
+      "text": "third competition between third-party"
+    },
+    {
+      "start_time": "00:09:49,440",
+      "end_time": "00:09:53,640",
+      "text": "Publishers was driving a radical"
+    },
+    {
+      "start_time": "00:09:51,060",
+      "end_time": "00:09:55,140",
+      "text": "Improvement in production values Wizards"
+    },
+    {
+      "start_time": "00:09:53,640",
+      "end_time": "00:09:56,940",
+      "text": "of the Coast was still making the soft"
+    },
+    {
+      "start_time": "00:09:55,140",
+      "end_time": "00:09:59,760",
+      "text": "cover of black and white books they'd"
+    },
+    {
+      "start_time": "00:09:56,940",
+      "end_time": "00:10:01,680",
+      "text": "always been publishing ogl Publishers on"
+    },
+    {
+      "start_time": "00:09:59,760",
+      "end_time": "00:10:04,019",
+      "text": "the other hand were producing full-color"
+    },
+    {
+      "start_time": "00:10:01,680",
+      "end_time": "00:10:05,459",
+      "text": "books and hardcover Wizards books which"
+    },
+    {
+      "start_time": "00:10:04,019",
+      "end_time": "00:10:08,399",
+      "text": "should have been Premier Products"
+    },
+    {
+      "start_time": "00:10:05,459",
+      "end_time": "00:10:11,040",
+      "text": "instead looked cheap in second rate"
+    },
+    {
+      "start_time": "00:10:08,399",
+      "end_time": "00:10:13,080",
+      "text": "by 2003 leadership at Wizards of the"
+    },
+    {
+      "start_time": "00:10:11,040",
+      "end_time": "00:10:14,700",
+      "text": "Coast was also changing most of the"
+    },
+    {
+      "start_time": "00:10:13,080",
+      "end_time": "00:10:17,220",
+      "text": "designers of Third Edition were gone and"
+    },
+    {
+      "start_time": "00:10:14,700",
+      "end_time": "00:10:20,040",
+      "text": "dance he had also left the company the"
+    },
+    {
+      "start_time": "00:10:17,220",
+      "end_time": "00:10:22,560",
+      "text": "new leadership was at best skeptical of"
+    },
+    {
+      "start_time": "00:10:20,040",
+      "end_time": "00:10:25,019",
+      "text": "the ogl according to many accounts they"
+    },
+    {
+      "start_time": "00:10:22,560",
+      "end_time": "00:10:27,180",
+      "text": "were actively hostile to it but of"
+    },
+    {
+      "start_time": "00:10:25,019",
+      "end_time": "00:10:29,220",
+      "text": "course they had a problem the ogl"
+    },
+    {
+      "start_time": "00:10:27,180",
+      "end_time": "00:10:32,220",
+      "text": "couldn't be revoked it had been designed"
+    },
+    {
+      "start_time": "00:10:29,220",
+      "end_time": "00:10:33,899",
+      "text": "so that it could not be canceled D was"
+    },
+    {
+      "start_time": "00:10:32,220",
+      "end_time": "00:10:36,120",
+      "text": "sitting at the top of and benefiting"
+    },
+    {
+      "start_time": "00:10:33,899",
+      "end_time": "00:10:38,040",
+      "text": "from this this huge pyramid of support"
+    },
+    {
+      "start_time": "00:10:36,120",
+      "end_time": "00:10:39,180",
+      "text": "material and there was no way to shut"
+    },
+    {
+      "start_time": "00:10:38,040",
+      "end_time": "00:10:41,940",
+      "text": "that down"
+    },
+    {
+      "start_time": "00:10:39,180",
+      "end_time": "00:10:44,040",
+      "text": "what they could do though was reboot the"
+    },
+    {
+      "start_time": "00:10:41,940",
+      "end_time": "00:10:47,339",
+      "text": "game and that's exactly what they did in"
+    },
+    {
+      "start_time": "00:10:44,040",
+      "end_time": "00:10:48,779",
+      "text": "2003 releasing the revised 3.5 edition"
+    },
+    {
+      "start_time": "00:10:47,339",
+      "end_time": "00:10:50,760",
+      "text": "of DnD"
+    },
+    {
+      "start_time": "00:10:48,779",
+      "end_time": "00:10:53,459",
+      "text": "now the way in which they did this was"
+    },
+    {
+      "start_time": "00:10:50,760",
+      "end_time": "00:10:55,740",
+      "text": "significant before 3.5 was released"
+    },
+    {
+      "start_time": "00:10:53,459",
+      "end_time": "00:10:57,240",
+      "text": "Wizards made a big deal in all of its"
+    },
+    {
+      "start_time": "00:10:55,740",
+      "end_time": "00:11:00,120",
+      "text": "marketing about how the game was going"
+    },
+    {
+      "start_time": "00:10:57,240",
+      "end_time": "00:11:02,399",
+      "text": "to be backwards compatible it wasn't"
+    },
+    {
+      "start_time": "00:11:00,120",
+      "end_time": "00:11:04,380",
+      "text": "going to make your existing 3.0 books"
+    },
+    {
+      "start_time": "00:11:02,399",
+      "end_time": "00:11:07,320",
+      "text": "Obsolete and players should have no"
+    },
+    {
+      "start_time": "00:11:04,380",
+      "end_time": "00:11:09,000",
+      "text": "qualms about continuing to buy 3.0 books"
+    },
+    {
+      "start_time": "00:11:07,320",
+      "end_time": "00:11:13,079",
+      "text": "because they would still work with the"
+    },
+    {
+      "start_time": "00:11:09,000",
+      "end_time": "00:11:15,360",
+      "text": "new 3.5 Rule books but when 3.5 was"
+    },
+    {
+      "start_time": "00:11:13,079",
+      "end_time": "00:11:17,760",
+      "text": "actually released a switch was flipped"
+    },
+    {
+      "start_time": "00:11:15,360",
+      "end_time": "00:11:19,920",
+      "text": "in the marketing the 3.0 books were now"
+    },
+    {
+      "start_time": "00:11:17,760",
+      "end_time": "00:11:21,899",
+      "text": "worthless those black and white soft"
+    },
+    {
+      "start_time": "00:11:19,920",
+      "end_time": "00:11:24,060",
+      "text": "covers we were selling get rid of them"
+    },
+    {
+      "start_time": "00:11:21,899",
+      "end_time": "00:11:26,100",
+      "text": "time to buy the new full-color hardcover"
+    },
+    {
+      "start_time": "00:11:24,060",
+      "end_time": "00:11:28,140",
+      "text": "Splat books The Evergreen strategy was"
+    },
+    {
+      "start_time": "00:11:26,100",
+      "end_time": "00:11:30,839",
+      "text": "out and the Splat book strategy was back"
+    },
+    {
+      "start_time": "00:11:28,140",
+      "end_time": "00:11:32,579",
+      "text": "with Wizards using the 3.5 reboot to"
+    },
+    {
+      "start_time": "00:11:30,839",
+      "end_time": "00:11:34,079",
+      "text": "upgrade their Splat books so that they"
+    },
+    {
+      "start_time": "00:11:32,579",
+      "end_time": "00:11:36,000",
+      "text": "could compete with the high quality"
+    },
+    {
+      "start_time": "00:11:34,079",
+      "end_time": "00:11:38,160",
+      "text": "third-party supplements others were"
+    },
+    {
+      "start_time": "00:11:36,000",
+      "end_time": "00:11:39,360",
+      "text": "producing but it wasn't just the"
+    },
+    {
+      "start_time": "00:11:38,160",
+      "end_time": "00:11:42,420",
+      "text": "customers who had been caught"
+    },
+    {
+      "start_time": "00:11:39,360",
+      "end_time": "00:11:45,180",
+      "text": "flat-footed by this abrupt 180 in"
+    },
+    {
+      "start_time": "00:11:42,420",
+      "end_time": "00:11:46,920",
+      "text": "marketing ogl Publishers had taken"
+    },
+    {
+      "start_time": "00:11:45,180",
+      "end_time": "00:11:49,380",
+      "text": "Wizards at their word and continued"
+    },
+    {
+      "start_time": "00:11:46,920",
+      "end_time": "00:11:52,140",
+      "text": "developing writing play testing and"
+    },
+    {
+      "start_time": "00:11:49,380",
+      "end_time": "00:11:54,300",
+      "text": "printing 3.0 supplements that they had"
+    },
+    {
+      "start_time": "00:11:52,140",
+      "end_time": "00:11:56,399",
+      "text": "been told would be completely compatible"
+    },
+    {
+      "start_time": "00:11:54,300",
+      "end_time": "00:11:58,260",
+      "text": "with the new rule books but which the"
+    },
+    {
+      "start_time": "00:11:56,399",
+      "end_time": "00:12:00,300",
+      "text": "customers were now being told were"
+    },
+    {
+      "start_time": "00:11:58,260",
+      "end_time": "00:12:02,339",
+      "text": "worthless and it wasn't just the"
+    },
+    {
+      "start_time": "00:12:00,300",
+      "end_time": "00:12:04,620",
+      "text": "Publishers it was the local game stores"
+    },
+    {
+      "start_time": "00:12:02,339",
+      "end_time": "00:12:06,720",
+      "text": "too who had continued investing their"
+    },
+    {
+      "start_time": "00:12:04,620",
+      "end_time": "00:12:08,579",
+      "text": "capital in merchandise they thought they"
+    },
+    {
+      "start_time": "00:12:06,720",
+      "end_time": "00:12:10,140",
+      "text": "could sell but which wizard was now"
+    },
+    {
+      "start_time": "00:12:08,579",
+      "end_time": "00:12:11,940",
+      "text": "telling their customers should be left"
+    },
+    {
+      "start_time": "00:12:10,140",
+      "end_time": "00:12:14,040",
+      "text": "to rot on the shell"
+    },
+    {
+      "start_time": "00:12:11,940",
+      "end_time": "00:12:16,440",
+      "text": "hundreds of game stores went out of"
+    },
+    {
+      "start_time": "00:12:14,040",
+      "end_time": "00:12:19,680",
+      "text": "business dozens of Publishers followed"
+    },
+    {
+      "start_time": "00:12:16,440",
+      "end_time": "00:12:22,700",
+      "text": "the D20 bubble had burst having been"
+    },
+    {
+      "start_time": "00:12:19,680",
+      "end_time": "00:12:26,519",
+      "text": "either accidentally or According to some"
+    },
+    {
+      "start_time": "00:12:22,700",
+      "end_time": "00:12:29,820",
+      "text": "deliberately popped by wizards but 3.5"
+    },
+    {
+      "start_time": "00:12:26,519",
+      "end_time": "00:12:32,220",
+      "text": "was in fact pretty similar to 3.0 even"
+    },
+    {
+      "start_time": "00:12:29,820",
+      "end_time": "00:12:34,339",
+      "text": "if wattsy hadn't released an updated SRD"
+    },
+    {
+      "start_time": "00:12:32,220",
+      "end_time": "00:12:36,180",
+      "text": "for the 3.5 rules which they did"
+    },
+    {
+      "start_time": "00:12:34,339",
+      "end_time": "00:12:37,860",
+      "text": "third-party Publishers would have been"
+    },
+    {
+      "start_time": "00:12:36,180",
+      "end_time": "00:12:41,160",
+      "text": "able to continue producing compatible"
+    },
+    {
+      "start_time": "00:12:37,860",
+      "end_time": "00:12:43,200",
+      "text": "books using the existing ogl for now at"
+    },
+    {
+      "start_time": "00:12:41,160",
+      "end_time": "00:12:45,959",
+      "text": "least Wizards decided it made more sense"
+    },
+    {
+      "start_time": "00:12:43,200",
+      "end_time": "00:12:47,820",
+      "text": "to stay on top of the pyramid that would"
+    },
+    {
+      "start_time": "00:12:45,959",
+      "end_time": "00:12:49,620",
+      "text": "change however five years later with the"
+    },
+    {
+      "start_time": "00:12:47,820",
+      "end_time": "00:12:53,519",
+      "text": "release of fourth edition"
+    },
+    {
+      "start_time": "00:12:49,620",
+      "end_time": "00:12:55,980",
+      "text": "the story of the release and many many"
+    },
+    {
+      "start_time": "00:12:53,519",
+      "end_time": "00:12:57,600",
+      "text": "failures of fourth edition is a saga in"
+    },
+    {
+      "start_time": "00:12:55,980",
+      "end_time": "00:12:59,639",
+      "text": "its own right so I'm going to try to"
+    },
+    {
+      "start_time": "00:12:57,600",
+      "end_time": "00:13:02,940",
+      "text": "keep it as simple as possible and also"
+    },
+    {
+      "start_time": "00:12:59,639",
+      "end_time": "00:13:05,760",
+      "text": "stay focused on the ogl throughout the"
+    },
+    {
+      "start_time": "00:13:02,940",
+      "end_time": "00:13:07,500",
+      "text": "short version is around 2005 Hasbro"
+    },
+    {
+      "start_time": "00:13:05,760",
+      "end_time": "00:13:09,420",
+      "text": "decided to split its Brands into core"
+    },
+    {
+      "start_time": "00:13:07,500",
+      "end_time": "00:13:11,760",
+      "text": "Brands which had more than 50 million"
+    },
+    {
+      "start_time": "00:13:09,420",
+      "end_time": "00:13:14,399",
+      "text": "dollars in annual sales and non-core"
+    },
+    {
+      "start_time": "00:13:11,760",
+      "end_time": "00:13:16,440",
+      "text": "Brands which didn't core Brands would"
+    },
+    {
+      "start_time": "00:13:14,399",
+      "end_time": "00:13:19,019",
+      "text": "get investments in development marketing"
+    },
+    {
+      "start_time": "00:13:16,440",
+      "end_time": "00:13:20,279",
+      "text": "and Licensing non-core Brands would not"
+    },
+    {
+      "start_time": "00:13:19,019",
+      "end_time": "00:13:22,620",
+      "text": "and in fact many of them would be"
+    },
+    {
+      "start_time": "00:13:20,279",
+      "end_time": "00:13:24,360",
+      "text": "mothballed allowed to lie dormant for"
+    },
+    {
+      "start_time": "00:13:22,620",
+      "end_time": "00:13:26,839",
+      "text": "years before being potentially brought"
+    },
+    {
+      "start_time": "00:13:24,360",
+      "end_time": "00:13:30,320",
+      "text": "back for a fresh start down the line"
+    },
+    {
+      "start_time": "00:13:26,839",
+      "end_time": "00:13:34,200",
+      "text": "DND was not a 50 million dollar brand"
+    },
+    {
+      "start_time": "00:13:30,320",
+      "end_time": "00:13:36,120",
+      "text": "DND was a 30 million dollar brand so"
+    },
+    {
+      "start_time": "00:13:34,200",
+      "end_time": "00:13:39,060",
+      "text": "they came up with a big plan for saving"
+    },
+    {
+      "start_time": "00:13:36,120",
+      "end_time": "00:13:41,700",
+      "text": "DND by growing its annual revenues this"
+    },
+    {
+      "start_time": "00:13:39,060",
+      "end_time": "00:13:44,220",
+      "text": "included a virtual tabletop digital DLC"
+    },
+    {
+      "start_time": "00:13:41,700",
+      "end_time": "00:13:46,139",
+      "text": "increased miniature and merge sales and"
+    },
+    {
+      "start_time": "00:13:44,220",
+      "end_time": "00:13:48,420",
+      "text": "a subscription platform to get regular"
+    },
+    {
+      "start_time": "00:13:46,139",
+      "end_time": "00:13:50,940",
+      "text": "monthly income from their fans just like"
+    },
+    {
+      "start_time": "00:13:48,420",
+      "end_time": "00:13:53,100",
+      "text": "an MMO they also believed that they"
+    },
+    {
+      "start_time": "00:13:50,940",
+      "end_time": "00:13:55,139",
+      "text": "needed to kill all outside licensing"
+    },
+    {
+      "start_time": "00:13:53,100",
+      "end_time": "00:13:57,240",
+      "text": "including the ogl so that they could"
+    },
+    {
+      "start_time": "00:13:55,139",
+      "end_time": "00:13:58,139",
+      "text": "claw back as much of that Revenue as"
+    },
+    {
+      "start_time": "00:13:57,240",
+      "end_time": "00:14:01,139",
+      "text": "they could"
+    },
+    {
+      "start_time": "00:13:58,139",
+      "end_time": "00:14:02,279",
+      "text": "but of course the ogl could not be"
+    },
+    {
+      "start_time": "00:14:01,139",
+      "end_time": "00:14:05,399",
+      "text": "revoked"
+    },
+    {
+      "start_time": "00:14:02,279",
+      "end_time": "00:14:07,380",
+      "text": "now do I know for an absolute fact that"
+    },
+    {
+      "start_time": "00:14:05,399",
+      "end_time": "00:14:09,660",
+      "text": "the design team of fourth edition d d"
+    },
+    {
+      "start_time": "00:14:07,380",
+      "end_time": "00:14:11,519",
+      "text": "was given a corporate directive to"
+    },
+    {
+      "start_time": "00:14:09,660",
+      "end_time": "00:14:13,680",
+      "text": "design a game that required the use of"
+    },
+    {
+      "start_time": "00:14:11,519",
+      "end_time": "00:14:15,959",
+      "text": "either Miniatures or virtual tabletop"
+    },
+    {
+      "start_time": "00:14:13,680",
+      "end_time": "00:14:17,940",
+      "text": "both of which Wizards would sell to"
+    },
+    {
+      "start_time": "00:14:15,959",
+      "end_time": "00:14:19,500",
+      "text": "strongly encourage the use of a digital"
+    },
+    {
+      "start_time": "00:14:17,940",
+      "end_time": "00:14:21,899",
+      "text": "character creation subscription service"
+    },
+    {
+      "start_time": "00:14:19,500",
+      "end_time": "00:14:24,660",
+      "text": "and so fundamentally alter the core"
+    },
+    {
+      "start_time": "00:14:21,899",
+      "end_time": "00:14:26,459",
+      "text": "gameplay of DnD that the ogl could no"
+    },
+    {
+      "start_time": "00:14:24,660",
+      "end_time": "00:14:28,200",
+      "text": "longer be used to create compatible"
+    },
+    {
+      "start_time": "00:14:26,459",
+      "end_time": "00:14:29,579",
+      "text": "supplements"
+    },
+    {
+      "start_time": "00:14:28,200",
+      "end_time": "00:14:31,860",
+      "text": "I don't"
+    },
+    {
+      "start_time": "00:14:29,579",
+      "end_time": "00:14:32,760",
+      "text": "so you can make up your own mind about"
+    },
+    {
+      "start_time": "00:14:31,860",
+      "end_time": "00:14:35,459",
+      "text": "that"
+    },
+    {
+      "start_time": "00:14:32,760",
+      "end_time": "00:14:37,620",
+      "text": "what we do know is that Hasbro killed"
+    },
+    {
+      "start_time": "00:14:35,459",
+      "end_time": "00:14:39,600",
+      "text": "the ogl for fourth edition and we also"
+    },
+    {
+      "start_time": "00:14:37,620",
+      "end_time": "00:14:41,699",
+      "text": "know that Wizards didn't really want to"
+    },
+    {
+      "start_time": "00:14:39,600",
+      "end_time": "00:14:43,500",
+      "text": "publicly admit that so they spent a lot"
+    },
+    {
+      "start_time": "00:14:41,699",
+      "end_time": "00:14:46,079",
+      "text": "of time before fourth edition came out"
+    },
+    {
+      "start_time": "00:14:43,500",
+      "end_time": "00:14:47,820",
+      "text": "hemming and hawing they talked a lot"
+    },
+    {
+      "start_time": "00:14:46,079",
+      "end_time": "00:14:49,500",
+      "text": "about their commitment to open gaming"
+    },
+    {
+      "start_time": "00:14:47,820",
+      "end_time": "00:14:51,480",
+      "text": "and assured people that a license for"
+    },
+    {
+      "start_time": "00:14:49,500",
+      "end_time": "00:14:53,339",
+      "text": "third party and fan Creations would"
+    },
+    {
+      "start_time": "00:14:51,480",
+      "end_time": "00:14:55,740",
+      "text": "definitely be made available for fourth"
+    },
+    {
+      "start_time": "00:14:53,339",
+      "end_time": "00:14:57,300",
+      "text": "edition there's a lot of back and forth"
+    },
+    {
+      "start_time": "00:14:55,740",
+      "end_time": "00:14:58,920",
+      "text": "here and the timeline has made a lot"
+    },
+    {
+      "start_time": "00:14:57,300",
+      "end_time": "00:15:01,019",
+      "text": "muddier because they were both public"
+    },
+    {
+      "start_time": "00:14:58,920",
+      "end_time": "00:15:02,639",
+      "text": "announcements being made and private"
+    },
+    {
+      "start_time": "00:15:01,019",
+      "end_time": "00:15:05,880",
+      "text": "meetings with third-party Publishers"
+    },
+    {
+      "start_time": "00:15:02,639",
+      "end_time": "00:15:07,320",
+      "text": "shielded with ndas there are a few key"
+    },
+    {
+      "start_time": "00:15:05,880",
+      "end_time": "00:15:09,720",
+      "text": "Milestones that are probably worth"
+    },
+    {
+      "start_time": "00:15:07,320",
+      "end_time": "00:15:10,980",
+      "text": "establishing though first Wizards"
+    },
+    {
+      "start_time": "00:15:09,720",
+      "end_time": "00:15:13,740",
+      "text": "eventually admitted that fourth edition"
+    },
+    {
+      "start_time": "00:15:10,980",
+      "end_time": "00:15:16,260",
+      "text": "would not use the ogl instead they were"
+    },
+    {
+      "start_time": "00:15:13,740",
+      "end_time": "00:15:18,779",
+      "text": "creating a new gaming system license or"
+    },
+    {
+      "start_time": "00:15:16,260",
+      "end_time": "00:15:21,480",
+      "text": "GSL but the details of this new license"
+    },
+    {
+      "start_time": "00:15:18,779",
+      "end_time": "00:15:22,620",
+      "text": "still weren't being made public Wizards"
+    },
+    {
+      "start_time": "00:15:21,480",
+      "end_time": "00:15:24,839",
+      "text": "then announced that people could pay"
+    },
+    {
+      "start_time": "00:15:22,620",
+      "end_time": "00:15:26,399",
+      "text": "them five thousand dollars in order to"
+    },
+    {
+      "start_time": "00:15:24,839",
+      "end_time": "00:15:29,459",
+      "text": "get early access to the fourth edition"
+    },
+    {
+      "start_time": "00:15:26,399",
+      "end_time": "00:15:31,380",
+      "text": "SRD and GSL but they still didn't tell"
+    },
+    {
+      "start_time": "00:15:29,459",
+      "end_time": "00:15:33,540",
+      "text": "anyone what the terms of the GSL were"
+    },
+    {
+      "start_time": "00:15:31,380",
+      "end_time": "00:15:35,820",
+      "text": "this went over like a lead Loom and the"
+    },
+    {
+      "start_time": "00:15:33,540",
+      "end_time": "00:15:37,920",
+      "text": "program was in fact canceled so when the"
+    },
+    {
+      "start_time": "00:15:35,820",
+      "end_time": "00:15:40,920",
+      "text": "gso was finally released it contained a"
+    },
+    {
+      "start_time": "00:15:37,920",
+      "end_time": "00:15:42,720",
+      "text": "poisoned pill if you use the GSL you"
+    },
+    {
+      "start_time": "00:15:40,920",
+      "end_time": "00:15:45,420",
+      "text": "could not publish anything in the same"
+    },
+    {
+      "start_time": "00:15:42,720",
+      "end_time": "00:15:47,459",
+      "text": "product line using the ogl it also"
+    },
+    {
+      "start_time": "00:15:45,420",
+      "end_time": "00:15:49,740",
+      "text": "contained a termination Clause just like"
+    },
+    {
+      "start_time": "00:15:47,459",
+      "end_time": "00:15:52,440",
+      "text": "the one used in the D20 system trademark"
+    },
+    {
+      "start_time": "00:15:49,740",
+      "end_time": "00:15:54,959",
+      "text": "license Hasbro could unilaterally cancel"
+    },
+    {
+      "start_time": "00:15:52,440",
+      "end_time": "00:15:56,579",
+      "text": "the GSL at any time at which point you"
+    },
+    {
+      "start_time": "00:15:54,959",
+      "end_time": "00:15:58,800",
+      "text": "would need to immediately delist your"
+    },
+    {
+      "start_time": "00:15:56,579",
+      "end_time": "00:16:01,139",
+      "text": "books and Pulp your inventory"
+    },
+    {
+      "start_time": "00:15:58,800",
+      "end_time": "00:16:02,880",
+      "text": "after even more public outcry and"
+    },
+    {
+      "start_time": "00:16:01,139",
+      "end_time": "00:16:05,100",
+      "text": "pressure they eventually dropped the"
+    },
+    {
+      "start_time": "00:16:02,880",
+      "end_time": "00:16:08,220",
+      "text": "poison pill but the termination Clause"
+    },
+    {
+      "start_time": "00:16:05,100",
+      "end_time": "00:16:10,500",
+      "text": "stuck that was after all more or less"
+    },
+    {
+      "start_time": "00:16:08,220",
+      "end_time": "00:16:12,720",
+      "text": "the whole point of the exercise now"
+    },
+    {
+      "start_time": "00:16:10,500",
+      "end_time": "00:16:14,160",
+      "text": "ironically as far as I know that"
+    },
+    {
+      "start_time": "00:16:12,720",
+      "end_time": "00:16:15,899",
+      "text": "termination Clause has never actually"
+    },
+    {
+      "start_time": "00:16:14,160",
+      "end_time": "00:16:18,959",
+      "text": "been activated even though fifth edition"
+    },
+    {
+      "start_time": "00:16:15,899",
+      "end_time": "00:16:21,660",
+      "text": "now exists at this point though Wizards"
+    },
+    {
+      "start_time": "00:16:18,959",
+      "end_time": "00:16:23,399",
+      "text": "had a few problems first their GSL"
+    },
+    {
+      "start_time": "00:16:21,660",
+      "end_time": "00:16:25,320",
+      "text": "Shenanigans were just one of several"
+    },
+    {
+      "start_time": "00:16:23,399",
+      "end_time": "00:16:27,839",
+      "text": "ways in which they'd alienated large"
+    },
+    {
+      "start_time": "00:16:25,320",
+      "end_time": "00:16:29,699",
+      "text": "chunks of their fan base second even"
+    },
+    {
+      "start_time": "00:16:27,839",
+      "end_time": "00:16:32,100",
+      "text": "though they willfully abandoned their"
+    },
+    {
+      "start_time": "00:16:29,699",
+      "end_time": "00:16:33,540",
+      "text": "position on top of the vast the vast"
+    },
+    {
+      "start_time": "00:16:32,100",
+      "end_time": "00:16:35,820",
+      "text": "pyramid of Third Edition support"
+    },
+    {
+      "start_time": "00:16:33,540",
+      "end_time": "00:16:37,620",
+      "text": "material that pyramid was still there"
+    },
+    {
+      "start_time": "00:16:35,820",
+      "end_time": "00:16:40,019",
+      "text": "and people were still free to create"
+    },
+    {
+      "start_time": "00:16:37,620",
+      "end_time": "00:16:42,180",
+      "text": "more of it and third"
+    },
+    {
+      "start_time": "00:16:40,019",
+      "end_time": "00:16:44,040",
+      "text": "they pushed a company called Piezo"
+    },
+    {
+      "start_time": "00:16:42,180",
+      "end_time": "00:16:46,079",
+      "text": "publishing into a desperate situation"
+    },
+    {
+      "start_time": "00:16:44,040",
+      "end_time": "00:16:47,820",
+      "text": "when Wizards decided they didn't want to"
+    },
+    {
+      "start_time": "00:16:46,079",
+      "end_time": "00:16:50,699",
+      "text": "keep publishing dragon and dungeon"
+    },
+    {
+      "start_time": "00:16:47,820",
+      "end_time": "00:16:53,040",
+      "text": "magazine in 2002 they licensed those"
+    },
+    {
+      "start_time": "00:16:50,699",
+      "end_time": "00:16:54,660",
+      "text": "magazines to paizo a company which had"
+    },
+    {
+      "start_time": "00:16:53,040",
+      "end_time": "00:16:57,240",
+      "text": "been founded by former Wizards"
+    },
+    {
+      "start_time": "00:16:54,660",
+      "end_time": "00:16:59,220",
+      "text": "Executives to specifically do that in"
+    },
+    {
+      "start_time": "00:16:57,240",
+      "end_time": "00:17:00,779",
+      "text": "preparation for fourth edition Wizards"
+    },
+    {
+      "start_time": "00:16:59,220",
+      "end_time": "00:17:02,820",
+      "text": "announced that paiser's license would"
+    },
+    {
+      "start_time": "00:17:00,779",
+      "end_time": "00:17:04,740",
+      "text": "not be renewed and in fact that dragon"
+    },
+    {
+      "start_time": "00:17:02,820",
+      "end_time": "00:17:07,140",
+      "text": "and dungeon would no longer be published"
+    },
+    {
+      "start_time": "00:17:04,740",
+      "end_time": "00:17:08,699",
+      "text": "as physical magazines at all paizo of"
+    },
+    {
+      "start_time": "00:17:07,140",
+      "end_time": "00:17:10,319",
+      "text": "course still had the subscription list"
+    },
+    {
+      "start_time": "00:17:08,699",
+      "end_time": "00:17:12,660",
+      "text": "so they started publishing the"
+    },
+    {
+      "start_time": "00:17:10,319",
+      "end_time": "00:17:14,660",
+      "text": "Pathfinder Adventure path as a new"
+    },
+    {
+      "start_time": "00:17:12,660",
+      "end_time": "00:17:17,339",
+      "text": "monthly periodical for their customers"
+    },
+    {
+      "start_time": "00:17:14,660",
+      "end_time": "00:17:19,559",
+      "text": "paizo's intention was to transition the"
+    },
+    {
+      "start_time": "00:17:17,339",
+      "end_time": "00:17:21,959",
+      "text": "Pathfinder Adventure path to 4th edition"
+    },
+    {
+      "start_time": "00:17:19,559",
+      "end_time": "00:17:23,699",
+      "text": "when the new game came out but Wizards"
+    },
+    {
+      "start_time": "00:17:21,959",
+      "end_time": "00:17:26,339",
+      "text": "lengthy delays in making the GSL"
+    },
+    {
+      "start_time": "00:17:23,699",
+      "end_time": "00:17:28,140",
+      "text": "available put paizo in a bind which only"
+    },
+    {
+      "start_time": "00:17:26,339",
+      "end_time": "00:17:30,600",
+      "text": "became worse when it became clear that"
+    },
+    {
+      "start_time": "00:17:28,140",
+      "end_time": "00:17:32,520",
+      "text": "whatever the top secret terms of the new"
+    },
+    {
+      "start_time": "00:17:30,600",
+      "end_time": "00:17:34,020",
+      "text": "license were going to be they certainly"
+    },
+    {
+      "start_time": "00:17:32,520",
+      "end_time": "00:17:37,080",
+      "text": "weren't going to be particularly"
+    },
+    {
+      "start_time": "00:17:34,020",
+      "end_time": "00:17:39,900",
+      "text": "friendly the result was the Pathfinder"
+    },
+    {
+      "start_time": "00:17:37,080",
+      "end_time": "00:17:42,960",
+      "text": "role-playing game published by Paisa it"
+    },
+    {
+      "start_time": "00:17:39,900",
+      "end_time": "00:17:44,820",
+      "text": "was essentially a um a 3.75 edition of"
+    },
+    {
+      "start_time": "00:17:42,960",
+      "end_time": "00:17:47,460",
+      "text": "DnD that because of the subscription"
+    },
+    {
+      "start_time": "00:17:44,820",
+      "end_time": "00:17:50,160",
+      "text": "list could be marketed directly to the"
+    },
+    {
+      "start_time": "00:17:47,460",
+      "end_time": "00:17:51,660",
+      "text": "most hardcore of dnd's fans by a company"
+    },
+    {
+      "start_time": "00:17:50,160",
+      "end_time": "00:17:53,700",
+      "text": "that had already spent several years"
+    },
+    {
+      "start_time": "00:17:51,660",
+      "end_time": "00:17:56,520",
+      "text": "selling them Premier adventures and"
+    },
+    {
+      "start_time": "00:17:53,700",
+      "end_time": "00:17:58,679",
+      "text": "support material it also became a banner"
+    },
+    {
+      "start_time": "00:17:56,520",
+      "end_time": "00:18:01,380",
+      "text": "for all those disaffected by Wizards"
+    },
+    {
+      "start_time": "00:17:58,679",
+      "end_time": "00:18:02,220",
+      "text": "actions the gameplay of 4th edition or"
+    },
+    {
+      "start_time": "00:18:01,380",
+      "end_time": "00:18:04,380",
+      "text": "both"
+    },
+    {
+      "start_time": "00:18:02,220",
+      "end_time": "00:18:06,480",
+      "text": "Wizards had completely blown their"
+    },
+    {
+      "start_time": "00:18:04,380",
+      "end_time": "00:18:08,760",
+      "text": "Dismount from the ogl and managed to"
+    },
+    {
+      "start_time": "00:18:06,480",
+      "end_time": "00:18:11,039",
+      "text": "create their single largest competitor"
+    },
+    {
+      "start_time": "00:18:08,760",
+      "end_time": "00:18:13,140",
+      "text": "and furthermore Pathfinder made it"
+    },
+    {
+      "start_time": "00:18:11,039",
+      "end_time": "00:18:15,299",
+      "text": "certain that the ogl and the wealth of"
+    },
+    {
+      "start_time": "00:18:13,140",
+      "end_time": "00:18:17,940",
+      "text": "third-party support made possible by the"
+    },
+    {
+      "start_time": "00:18:15,299",
+      "end_time": "00:18:20,160",
+      "text": "ogl would continue through The Long"
+    },
+    {
+      "start_time": "00:18:17,940",
+      "end_time": "00:18:23,760",
+      "text": "Winter of fourth edition"
+    },
+    {
+      "start_time": "00:18:20,160",
+      "end_time": "00:18:25,440",
+      "text": "let's fast forward now to 2015. whatever"
+    },
+    {
+      "start_time": "00:18:23,760",
+      "end_time": "00:18:27,299",
+      "text": "your personal opinion of fourth edition"
+    },
+    {
+      "start_time": "00:18:25,440",
+      "end_time": "00:18:29,039",
+      "text": "is a game there's little question that"
+    },
+    {
+      "start_time": "00:18:27,299",
+      "end_time": "00:18:31,200",
+      "text": "it was a failure for Wizards of the"
+    },
+    {
+      "start_time": "00:18:29,039",
+      "end_time": "00:18:33,480",
+      "text": "Coast they attempted to relaunch the"
+    },
+    {
+      "start_time": "00:18:31,200",
+      "end_time": "00:18:35,820",
+      "text": "game in late 2011 and then canceled it"
+    },
+    {
+      "start_time": "00:18:33,480",
+      "end_time": "00:18:37,860",
+      "text": "entirely in 2012. the leadership"
+    },
+    {
+      "start_time": "00:18:35,820",
+      "end_time": "00:18:39,480",
+      "text": "responsible for fourth edition was fired"
+    },
+    {
+      "start_time": "00:18:37,860",
+      "end_time": "00:18:41,340",
+      "text": "and development began what would"
+    },
+    {
+      "start_time": "00:18:39,480",
+      "end_time": "00:18:44,100",
+      "text": "eventually become fifth edition which"
+    },
+    {
+      "start_time": "00:18:41,340",
+      "end_time": "00:18:45,780",
+      "text": "was released in the fall of 2014."
+    },
+    {
+      "start_time": "00:18:44,100",
+      "end_time": "00:18:48,960",
+      "text": "a lot of the marketing around 5th"
+    },
+    {
+      "start_time": "00:18:45,780",
+      "end_time": "00:18:51,240",
+      "text": "edition took the form of um Mia culpas"
+    },
+    {
+      "start_time": "00:18:48,960",
+      "end_time": "00:18:53,400",
+      "text": "as we've noted Wizards had burnt a lot"
+    },
+    {
+      "start_time": "00:18:51,240",
+      "end_time": "00:18:55,919",
+      "text": "of bridges in 2008 and they were now"
+    },
+    {
+      "start_time": "00:18:53,400",
+      "end_time": "00:18:57,960",
+      "text": "working overtime to repair them for"
+    },
+    {
+      "start_time": "00:18:55,919",
+      "end_time": "00:18:59,640",
+      "text": "example whereas fourth edition had seen"
+    },
+    {
+      "start_time": "00:18:57,960",
+      "end_time": "00:19:01,500",
+      "text": "them cancel all their third-party"
+    },
+    {
+      "start_time": "00:18:59,640",
+      "end_time": "00:19:03,480",
+      "text": "licenses they would now reach out to"
+    },
+    {
+      "start_time": "00:19:01,500",
+      "end_time": "00:19:05,220",
+      "text": "third-party companies to develop their"
+    },
+    {
+      "start_time": "00:19:03,480",
+      "end_time": "00:19:07,559",
+      "text": "first official campaigns for the new"
+    },
+    {
+      "start_time": "00:19:05,220",
+      "end_time": "00:19:09,960",
+      "text": "edition in the spirit of bridge building"
+    },
+    {
+      "start_time": "00:19:07,559",
+      "end_time": "00:19:12,179",
+      "text": "they similarly announced in May 2014"
+    },
+    {
+      "start_time": "00:19:09,960",
+      "end_time": "00:19:15,360",
+      "text": "that fifth edition will be returning to"
+    },
+    {
+      "start_time": "00:19:12,179",
+      "end_time": "00:19:16,860",
+      "text": "the LGL unlike in 2000 they said this"
+    },
+    {
+      "start_time": "00:19:15,360",
+      "end_time": "00:19:19,140",
+      "text": "wouldn't happen on the day of the game's"
+    },
+    {
+      "start_time": "00:19:16,860",
+      "end_time": "00:19:22,200",
+      "text": "release in September 2014 but would"
+    },
+    {
+      "start_time": "00:19:19,140",
+      "end_time": "00:19:24,299",
+      "text": "instead follow in the spring of 2015. as"
+    },
+    {
+      "start_time": "00:19:22,200",
+      "end_time": "00:19:27,600",
+      "text": "it turned out the new SRD would not be"
+    },
+    {
+      "start_time": "00:19:24,299",
+      "end_time": "00:19:29,640",
+      "text": "released until January 2016. but either"
+    },
+    {
+      "start_time": "00:19:27,600",
+      "end_time": "00:19:31,679",
+      "text": "way there would also be no trademark"
+    },
+    {
+      "start_time": "00:19:29,640",
+      "end_time": "00:19:34,380",
+      "text": "license this time but the approach to"
+    },
+    {
+      "start_time": "00:19:31,679",
+      "end_time": "00:19:35,760",
+      "text": "the LGL itself would be similar an SRD"
+    },
+    {
+      "start_time": "00:19:34,380",
+      "end_time": "00:19:38,340",
+      "text": "would be released under the license"
+    },
+    {
+      "start_time": "00:19:35,760",
+      "end_time": "00:19:40,320",
+      "text": "containing all of the open game content"
+    },
+    {
+      "start_time": "00:19:38,340",
+      "end_time": "00:19:43,500",
+      "text": "required to make 5th edition compatible"
+    },
+    {
+      "start_time": "00:19:40,320",
+      "end_time": "00:19:45,960",
+      "text": "adventures and supplements now behind"
+    },
+    {
+      "start_time": "00:19:43,500",
+      "end_time": "00:19:48,000",
+      "text": "the scenes this detent had actually"
+    },
+    {
+      "start_time": "00:19:45,960",
+      "end_time": "00:19:50,520",
+      "text": "acquired a Titanic struggle with"
+    },
+    {
+      "start_time": "00:19:48,000",
+      "end_time": "00:19:52,380",
+      "text": "Hasbro's lawyers the compromise that was"
+    },
+    {
+      "start_time": "00:19:50,520",
+      "end_time": "00:19:54,900",
+      "text": "made was that nothing would be included"
+    },
+    {
+      "start_time": "00:19:52,380",
+      "end_time": "00:19:56,580",
+      "text": "in the fifth edition SRD unless it had"
+    },
+    {
+      "start_time": "00:19:54,900",
+      "end_time": "00:19:59,700",
+      "text": "already been included in the Third"
+    },
+    {
+      "start_time": "00:19:56,580",
+      "end_time": "00:20:01,320",
+      "text": "Edition SRD so for example the the magic"
+    },
+    {
+      "start_time": "00:19:59,700",
+      "end_time": "00:20:03,360",
+      "text": "Missile spell had appeared in Third"
+    },
+    {
+      "start_time": "00:20:01,320",
+      "end_time": "00:20:06,360",
+      "text": "Edition so it was also in the 5th"
+    },
+    {
+      "start_time": "00:20:03,360",
+      "end_time": "00:20:08,520",
+      "text": "edition SRD Arcane gate on the other"
+    },
+    {
+      "start_time": "00:20:06,360",
+      "end_time": "00:20:11,039",
+      "text": "hand wasn't a spell in Third Edition so"
+    },
+    {
+      "start_time": "00:20:08,520",
+      "end_time": "00:20:13,919",
+      "text": "it doesn't appear in the 5th edition SRD"
+    },
+    {
+      "start_time": "00:20:11,039",
+      "end_time": "00:20:15,900",
+      "text": "this also means that the 5th edition SRD"
+    },
+    {
+      "start_time": "00:20:13,919",
+      "end_time": "00:20:17,700",
+      "text": "contains enough material to allow for"
+    },
+    {
+      "start_time": "00:20:15,900",
+      "end_time": "00:20:19,919",
+      "text": "the creation of 5th edition compatible"
+    },
+    {
+      "start_time": "00:20:17,700",
+      "end_time": "00:20:21,240",
+      "text": "supplements but not so much that"
+    },
+    {
+      "start_time": "00:20:19,919",
+      "end_time": "00:20:22,919",
+      "text": "something like the Pathfinder"
+    },
+    {
+      "start_time": "00:20:21,240",
+      "end_time": "00:20:24,960",
+      "text": "role-playing game could be easily"
+    },
+    {
+      "start_time": "00:20:22,919",
+      "end_time": "00:20:27,000",
+      "text": "created by another company"
+    },
+    {
+      "start_time": "00:20:24,960",
+      "end_time": "00:20:29,460",
+      "text": "in terms of community content however"
+    },
+    {
+      "start_time": "00:20:27,000",
+      "end_time": "00:20:31,740",
+      "text": "the SRD and the ogl weren't the whole"
+    },
+    {
+      "start_time": "00:20:29,460",
+      "end_time": "00:20:33,900",
+      "text": "story for 5th edition there's also the"
+    },
+    {
+      "start_time": "00:20:31,740",
+      "end_time": "00:20:35,940",
+      "text": "dungeon Masters Guild now to understand"
+    },
+    {
+      "start_time": "00:20:33,900",
+      "end_time": "00:20:37,440",
+      "text": "the origins of the DM's Guild we"
+    },
+    {
+      "start_time": "00:20:35,940",
+      "end_time": "00:20:39,960",
+      "text": "actually need to go back in time to the"
+    },
+    {
+      "start_time": "00:20:37,440",
+      "end_time": "00:20:42,720",
+      "text": "early days of Third Edition during this"
+    },
+    {
+      "start_time": "00:20:39,960",
+      "end_time": "00:20:43,860",
+      "text": "time a company called RPG now had signed"
+    },
+    {
+      "start_time": "00:20:42,720",
+      "end_time": "00:20:47,160",
+      "text": "an agreement with Wizards of the Coast"
+    },
+    {
+      "start_time": "00:20:43,860",
+      "end_time": "00:20:49,140",
+      "text": "to sell DND PDFs this included PDF"
+    },
+    {
+      "start_time": "00:20:47,160",
+      "end_time": "00:20:51,600",
+      "text": "versions of the older books too going"
+    },
+    {
+      "start_time": "00:20:49,140",
+      "end_time": "00:20:54,600",
+      "text": "all the way back to the original 1974"
+    },
+    {
+      "start_time": "00:20:51,600",
+      "end_time": "00:20:56,340",
+      "text": "game RPG now would eventually merge with"
+    },
+    {
+      "start_time": "00:20:54,600",
+      "end_time": "00:20:58,440",
+      "text": "drive through RPG to form a company"
+    },
+    {
+      "start_time": "00:20:56,340",
+      "end_time": "00:21:01,440",
+      "text": "called one bookshelf which continued"
+    },
+    {
+      "start_time": "00:20:58,440",
+      "end_time": "00:21:02,820",
+      "text": "selling the DND PDFs when Wizards"
+    },
+    {
+      "start_time": "00:21:01,440",
+      "end_time": "00:21:04,320",
+      "text": "started yanking all their external"
+    },
+    {
+      "start_time": "00:21:02,820",
+      "end_time": "00:21:06,360",
+      "text": "licenses with the release of fourth"
+    },
+    {
+      "start_time": "00:21:04,320",
+      "end_time": "00:21:09,600",
+      "text": "edition however this eventually included"
+    },
+    {
+      "start_time": "00:21:06,360",
+      "end_time": "00:21:11,700",
+      "text": "one bookshelf's license this was rather"
+    },
+    {
+      "start_time": "00:21:09,600",
+      "end_time": "00:21:13,200",
+      "text": "infamously done without any prior"
+    },
+    {
+      "start_time": "00:21:11,700",
+      "end_time": "00:21:14,880",
+      "text": "announcement and included preventing"
+    },
+    {
+      "start_time": "00:21:13,200",
+      "end_time": "00:21:17,820",
+      "text": "people who had previously purchased the"
+    },
+    {
+      "start_time": "00:21:14,880",
+      "end_time": "00:21:19,260",
+      "text": "books from downloading them in 2012 with"
+    },
+    {
+      "start_time": "00:21:17,820",
+      "end_time": "00:21:20,820",
+      "text": "leadership changing in the wake of"
+    },
+    {
+      "start_time": "00:21:19,260",
+      "end_time": "00:21:22,919",
+      "text": "fourth edition's failure and the"
+    },
+    {
+      "start_time": "00:21:20,820",
+      "end_time": "00:21:25,860",
+      "text": "corporate strategy switching from no one"
+    },
+    {
+      "start_time": "00:21:22,919",
+      "end_time": "00:21:28,559",
+      "text": "shall play with our toys to um you all"
+    },
+    {
+      "start_time": "00:21:25,860",
+      "end_time": "00:21:30,419",
+      "text": "come back now you hear one bookshelf was"
+    },
+    {
+      "start_time": "00:21:28,559",
+      "end_time": "00:21:34,140",
+      "text": "able to renegotiate a new license"
+    },
+    {
+      "start_time": "00:21:30,419",
+      "end_time": "00:21:36,179",
+      "text": "launching DND Classics in 2013 to once"
+    },
+    {
+      "start_time": "00:21:34,140",
+      "end_time": "00:21:38,280",
+      "text": "again offer PDFs of all previous"
+    },
+    {
+      "start_time": "00:21:36,179",
+      "end_time": "00:21:41,820",
+      "text": "editions of DnD"
+    },
+    {
+      "start_time": "00:21:38,280",
+      "end_time": "00:21:43,679",
+      "text": "in 2016 d d Classics was rebranded the"
+    },
+    {
+      "start_time": "00:21:41,820",
+      "end_time": "00:21:46,380",
+      "text": "dungeon Masters Guild and a community"
+    },
+    {
+      "start_time": "00:21:43,679",
+      "end_time": "00:21:48,299",
+      "text": "content program was launched independent"
+    },
+    {
+      "start_time": "00:21:46,380",
+      "end_time": "00:21:51,179",
+      "text": "creators could now create and sell"
+    },
+    {
+      "start_time": "00:21:48,299",
+      "end_time": "00:21:54,000",
+      "text": "content based not only on the SRD but on"
+    },
+    {
+      "start_time": "00:21:51,179",
+      "end_time": "00:21:55,740",
+      "text": "all official DND 5th edition books this"
+    },
+    {
+      "start_time": "00:21:54,000",
+      "end_time": "00:21:57,419",
+      "text": "included the Forgotten Realms and has"
+    },
+    {
+      "start_time": "00:21:55,740",
+      "end_time": "00:21:59,580",
+      "text": "since expanded to include other official"
+    },
+    {
+      "start_time": "00:21:57,419",
+      "end_time": "00:22:02,820",
+      "text": "settings including ravenloft eberron"
+    },
+    {
+      "start_time": "00:21:59,580",
+      "end_time": "00:22:04,559",
+      "text": "Ravnica Theros and dragon lands now the"
+    },
+    {
+      "start_time": "00:22:02,820",
+      "end_time": "00:22:06,780",
+      "text": "license for the dungeon master skill has"
+    },
+    {
+      "start_time": "00:22:04,559",
+      "end_time": "00:22:09,000",
+      "text": "nothing to do with the ogl and those"
+    },
+    {
+      "start_time": "00:22:06,780",
+      "end_time": "00:22:10,679",
+      "text": "using this license can only sell their"
+    },
+    {
+      "start_time": "00:22:09,000",
+      "end_time": "00:22:12,900",
+      "text": "books through the dungeon Masters Guild"
+    },
+    {
+      "start_time": "00:22:10,679",
+      "end_time": "00:22:14,760",
+      "text": "website a furthermore if you publish a"
+    },
+    {
+      "start_time": "00:22:12,900",
+      "end_time": "00:22:16,080",
+      "text": "book through the DM's Guild you are"
+    },
+    {
+      "start_time": "00:22:14,760",
+      "end_time": "00:22:18,900",
+      "text": "prohibited from publishing any"
+    },
+    {
+      "start_time": "00:22:16,080",
+      "end_time": "00:22:20,520",
+      "text": "derivative work so for example you could"
+    },
+    {
+      "start_time": "00:22:18,900",
+      "end_time": "00:22:22,679",
+      "text": "not publish a book through the DM's"
+    },
+    {
+      "start_time": "00:22:20,520",
+      "end_time": "00:22:24,419",
+      "text": "Guild then remove all the DND related"
+    },
+    {
+      "start_time": "00:22:22,679",
+      "end_time": "00:22:26,400",
+      "text": "material and publish it using a"
+    },
+    {
+      "start_time": "00:22:24,419",
+      "end_time": "00:22:28,500",
+      "text": "different set of rules nor could you"
+    },
+    {
+      "start_time": "00:22:26,400",
+      "end_time": "00:22:30,000",
+      "text": "publish a novel or comic book based on"
+    },
+    {
+      "start_time": "00:22:28,500",
+      "end_time": "00:22:33,120",
+      "text": "your DM's guild book"
+    },
+    {
+      "start_time": "00:22:30,000",
+      "end_time": "00:22:35,100",
+      "text": "finally unlike the ogl the DM's Guild"
+    },
+    {
+      "start_time": "00:22:33,120",
+      "end_time": "00:22:37,679",
+      "text": "license can once again be unilaterally"
+    },
+    {
+      "start_time": "00:22:35,100",
+      "end_time": "00:22:40,500",
+      "text": "terminated by Hasbro this does not"
+    },
+    {
+      "start_time": "00:22:37,679",
+      "end_time": "00:22:42,299",
+      "text": "crucially end the exclusivity agreement"
+    },
+    {
+      "start_time": "00:22:40,500",
+      "end_time": "00:22:44,280",
+      "text": "so you would still be unable to remove"
+    },
+    {
+      "start_time": "00:22:42,299",
+      "end_time": "00:22:46,200",
+      "text": "the DND IP and publish your work"
+    },
+    {
+      "start_time": "00:22:44,280",
+      "end_time": "00:22:48,360",
+      "text": "somewhere else this means that there"
+    },
+    {
+      "start_time": "00:22:46,200",
+      "end_time": "00:22:50,400",
+      "text": "will come a day when Hasbro decides to"
+    },
+    {
+      "start_time": "00:22:48,360",
+      "end_time": "00:22:52,620",
+      "text": "shut down the DM's Guild and everything"
+    },
+    {
+      "start_time": "00:22:50,400",
+      "end_time": "00:22:54,299",
+      "text": "on the site will simply"
+    },
+    {
+      "start_time": "00:22:52,620",
+      "end_time": "00:22:56,100",
+      "text": "vanish"
+    },
+    {
+      "start_time": "00:22:54,299",
+      "end_time": "00:22:57,780",
+      "text": "forever"
+    },
+    {
+      "start_time": "00:22:56,100",
+      "end_time": "00:22:59,580",
+      "text": "now you'll hear some people say that"
+    },
+    {
+      "start_time": "00:22:57,780",
+      "end_time": "00:23:01,620",
+      "text": "this this will never happen because"
+    },
+    {
+      "start_time": "00:22:59,580",
+      "end_time": "00:23:04,020",
+      "text": "Hasbro would never want to deal with the"
+    },
+    {
+      "start_time": "00:23:01,620",
+      "end_time": "00:23:06,659",
+      "text": "huge public backlash that would follow"
+    },
+    {
+      "start_time": "00:23:04,020",
+      "end_time": "00:23:09,240",
+      "text": "but as we've seen this isn't really a"
+    },
+    {
+      "start_time": "00:23:06,659",
+      "end_time": "00:23:11,880",
+      "text": "hypothetical Hasbro has canceled"
+    },
+    {
+      "start_time": "00:23:09,240",
+      "end_time": "00:23:13,860",
+      "text": "licenses just like this one it's not a"
+    },
+    {
+      "start_time": "00:23:11,880",
+      "end_time": "00:23:16,140",
+      "text": "question of if they'll do it again it's"
+    },
+    {
+      "start_time": "00:23:13,860",
+      "end_time": "00:23:17,520",
+      "text": "just a question of of when"
+    },
+    {
+      "start_time": "00:23:16,140",
+      "end_time": "00:23:19,559",
+      "text": "now does this mean that no one should"
+    },
+    {
+      "start_time": "00:23:17,520",
+      "end_time": "00:23:21,840",
+      "text": "publish on the DM's Guild not"
+    },
+    {
+      "start_time": "00:23:19,559",
+      "end_time": "00:23:24,720",
+      "text": "necessarily being able to commercially"
+    },
+    {
+      "start_time": "00:23:21,840",
+      "end_time": "00:23:26,700",
+      "text": "access the entire lore of dnd's official"
+    },
+    {
+      "start_time": "00:23:24,720",
+      "end_time": "00:23:28,140",
+      "text": "campaign settings and produce tie-ins"
+    },
+    {
+      "start_time": "00:23:26,700",
+      "end_time": "00:23:30,179",
+      "text": "and support products for their most"
+    },
+    {
+      "start_time": "00:23:28,140",
+      "end_time": "00:23:32,520",
+      "text": "recent Adventure modules is an"
+    },
+    {
+      "start_time": "00:23:30,179",
+      "end_time": "00:23:33,780",
+      "text": "incredibly unique and creatively special"
+    },
+    {
+      "start_time": "00:23:32,520",
+      "end_time": "00:23:36,360",
+      "text": "privilege"
+    },
+    {
+      "start_time": "00:23:33,780",
+      "end_time": "00:23:38,520",
+      "text": "but unless you're doing that you may"
+    },
+    {
+      "start_time": "00:23:36,360",
+      "end_time": "00:23:40,200",
+      "text": "want to take that whole someday you'll"
+    },
+    {
+      "start_time": "00:23:38,520",
+      "end_time": "00:23:42,539",
+      "text": "never be able to show anyone your work"
+    },
+    {
+      "start_time": "00:23:40,200",
+      "end_time": "00:23:43,980",
+      "text": "ever again thing you know into"
+    },
+    {
+      "start_time": "00:23:42,539",
+      "end_time": "00:23:46,980",
+      "text": "consideration"
+    },
+    {
+      "start_time": "00:23:43,980",
+      "end_time": "00:23:48,900",
+      "text": "regardless with the ogl and the DM's"
+    },
+    {
+      "start_time": "00:23:46,980",
+      "end_time": "00:23:51,240",
+      "text": "Guild fifth edition ushered in a second"
+    },
+    {
+      "start_time": "00:23:48,900",
+      "end_time": "00:23:54,240",
+      "text": "golden age of third-party content for"
+    },
+    {
+      "start_time": "00:23:51,240",
+      "end_time": "00:23:56,820",
+      "text": "DND as with the ogl and D20 system"
+    },
+    {
+      "start_time": "00:23:54,240",
+      "end_time": "00:23:58,679",
+      "text": "trademark license for Third Edition you"
+    },
+    {
+      "start_time": "00:23:56,820",
+      "end_time": "00:24:01,020",
+      "text": "can argue about exactly how much this"
+    },
+    {
+      "start_time": "00:23:58,679",
+      "end_time": "00:24:03,179",
+      "text": "openness has contributed to the success"
+    },
+    {
+      "start_time": "00:24:01,020",
+      "end_time": "00:24:05,760",
+      "text": "of the game but there's no question that"
+    },
+    {
+      "start_time": "00:24:03,179",
+      "end_time": "00:24:07,620",
+      "text": "the game has succeeded brilliantly with"
+    },
+    {
+      "start_time": "00:24:05,760",
+      "end_time": "00:24:10,140",
+      "text": "5th edition exceeding all expectations"
+    },
+    {
+      "start_time": "00:24:07,620",
+      "end_time": "00:24:12,059",
+      "text": "and finally achieving the lofty Revenue"
+    },
+    {
+      "start_time": "00:24:10,140",
+      "end_time": "00:24:14,760",
+      "text": "goals that 4th edition tried so"
+    },
+    {
+      "start_time": "00:24:12,059",
+      "end_time": "00:24:17,720",
+      "text": "desperately to grasp"
+    },
+    {
+      "start_time": "00:24:14,760",
+      "end_time": "00:24:20,460",
+      "text": "now in the early days of 2023"
+    },
+    {
+      "start_time": "00:24:17,720",
+      "end_time": "00:24:23,100",
+      "text": "preparations are being made for dnd's"
+    },
+    {
+      "start_time": "00:24:20,460",
+      "end_time": "00:24:25,620",
+      "text": "next chapter a new edition of the game"
+    },
+    {
+      "start_time": "00:24:23,100",
+      "end_time": "00:24:27,539",
+      "text": "currently referred to as one DND has"
+    },
+    {
+      "start_time": "00:24:25,620",
+      "end_time": "00:24:29,820",
+      "text": "entered public play testing and is"
+    },
+    {
+      "start_time": "00:24:27,539",
+      "end_time": "00:24:32,039",
+      "text": "scheduled for release in 2024 during the"
+    },
+    {
+      "start_time": "00:24:29,820",
+      "end_time": "00:24:34,260",
+      "text": "game's 50th anniversary"
+    },
+    {
+      "start_time": "00:24:32,039",
+      "end_time": "00:24:36,120",
+      "text": "a few days ago as I wrote this script"
+    },
+    {
+      "start_time": "00:24:34,260",
+      "end_time": "00:24:38,940",
+      "text": "Wizards of the Coast announced that one"
+    },
+    {
+      "start_time": "00:24:36,120",
+      "end_time": "00:24:41,700",
+      "text": "DND like fourth edition before it would"
+    },
+    {
+      "start_time": "00:24:38,940",
+      "end_time": "00:24:43,320",
+      "text": "not be using the ogl instead a new"
+    },
+    {
+      "start_time": "00:24:41,700",
+      "end_time": "00:24:46,200",
+      "text": "version of the license currently"
+    },
+    {
+      "start_time": "00:24:43,320",
+      "end_time": "00:24:48,419",
+      "text": "referred to as the ogl version 1.1 will"
+    },
+    {
+      "start_time": "00:24:46,200",
+      "end_time": "00:24:51,240",
+      "text": "be used we don't know a lot about this"
+    },
+    {
+      "start_time": "00:24:48,419",
+      "end_time": "00:24:52,559",
+      "text": "license but we do know that those using"
+    },
+    {
+      "start_time": "00:24:51,240",
+      "end_time": "00:24:54,900",
+      "text": "the license will need to file their"
+    },
+    {
+      "start_time": "00:24:52,559",
+      "end_time": "00:24:56,640",
+      "text": "documents with Hasbro those using the"
+    },
+    {
+      "start_time": "00:24:54,900",
+      "end_time": "00:24:58,860",
+      "text": "license who have at least fifty thousand"
+    },
+    {
+      "start_time": "00:24:56,640",
+      "end_time": "00:25:00,419",
+      "text": "dollars in ogl related Revenue will need"
+    },
+    {
+      "start_time": "00:24:58,860",
+      "end_time": "00:25:04,140",
+      "text": "to start reporting their income to"
+    },
+    {
+      "start_time": "00:25:00,419",
+      "end_time": "00:25:05,880",
+      "text": "Hasbro and those who have 750 000 in"
+    },
+    {
+      "start_time": "00:25:04,140",
+      "end_time": "00:25:09,179",
+      "text": "revenue or more will need to start"
+    },
+    {
+      "start_time": "00:25:05,880",
+      "end_time": "00:25:10,860",
+      "text": "paying a royalty to Hasbro we also know"
+    },
+    {
+      "start_time": "00:25:09,179",
+      "end_time": "00:25:12,539",
+      "text": "there are other changes in the terms of"
+    },
+    {
+      "start_time": "00:25:10,860",
+      "end_time": "00:25:13,559",
+      "text": "the license which have not yet been"
+    },
+    {
+      "start_time": "00:25:12,539",
+      "end_time": "00:25:16,380",
+      "text": "announced"
+    },
+    {
+      "start_time": "00:25:13,559",
+      "end_time": "00:25:18,960",
+      "text": "any or all of this of course might still"
+    },
+    {
+      "start_time": "00:25:16,380",
+      "end_time": "00:25:21,539",
+      "text": "change and what the final form of this"
+    },
+    {
+      "start_time": "00:25:18,960",
+      "end_time": "00:25:23,400",
+      "text": "1.1 license will be when it's finally"
+    },
+    {
+      "start_time": "00:25:21,539",
+      "end_time": "00:25:26,760",
+      "text": "released is something we can really only"
+    },
+    {
+      "start_time": "00:25:23,400",
+      "end_time": "00:25:28,740",
+      "text": "speculate about for right now"
+    },
+    {
+      "start_time": "00:25:26,760",
+      "end_time": "00:25:31,620",
+      "text": "okay so life comes at you real fast"
+    },
+    {
+      "start_time": "00:25:28,740",
+      "end_time": "00:25:34,860",
+      "text": "sometimes uh I wrote the script for this"
+    },
+    {
+      "start_time": "00:25:31,620",
+      "end_time": "00:25:37,320",
+      "text": "video just before Christmas uh and by"
+    },
+    {
+      "start_time": "00:25:34,860",
+      "end_time": "00:25:40,679",
+      "text": "the time I had it in editing at least"
+    },
+    {
+      "start_time": "00:25:37,320",
+      "end_time": "00:25:45,600",
+      "text": "copies of version 1.1 of the new ogl"
+    },
+    {
+      "start_time": "00:25:40,679",
+      "end_time": "00:25:48,299",
+      "text": "were coming out and uh it's bad it's"
+    },
+    {
+      "start_time": "00:25:45,600",
+      "end_time": "00:25:49,860",
+      "text": "it's it's real bad it's it's it's much"
+    },
+    {
+      "start_time": "00:25:48,299",
+      "end_time": "00:25:52,860",
+      "text": "worse than I think even the most"
+    },
+    {
+      "start_time": "00:25:49,860",
+      "end_time": "00:25:54,600",
+      "text": "pessimistic of us had believed was was"
+    },
+    {
+      "start_time": "00:25:52,860",
+      "end_time": "00:25:57,059",
+      "text": "possible"
+    },
+    {
+      "start_time": "00:25:54,600",
+      "end_time": "00:25:59,880",
+      "text": "um so I I initially decided not to"
+    },
+    {
+      "start_time": "00:25:57,059",
+      "end_time": "00:26:01,200",
+      "text": "release this video uh because it felt"
+    },
+    {
+      "start_time": "00:25:59,880",
+      "end_time": "00:26:04,320",
+      "text": "like particularly the end of it had"
+    },
+    {
+      "start_time": "00:26:01,200",
+      "end_time": "00:26:06,480",
+      "text": "become very outdated already but then I"
+    },
+    {
+      "start_time": "00:26:04,320",
+      "end_time": "00:26:08,520",
+      "text": "had several of my patrons ask me to"
+    },
+    {
+      "start_time": "00:26:06,480",
+      "end_time": "00:26:10,740",
+      "text": "release it and after thinking about it"
+    },
+    {
+      "start_time": "00:26:08,520",
+      "end_time": "00:26:12,840",
+      "text": "for a bit I realized"
+    },
+    {
+      "start_time": "00:26:10,740",
+      "end_time": "00:26:13,980",
+      "text": "I think I think they're right and I"
+    },
+    {
+      "start_time": "00:26:12,840",
+      "end_time": "00:26:16,260",
+      "text": "think they're right because what this"
+    },
+    {
+      "start_time": "00:26:13,980",
+      "end_time": "00:26:19,500",
+      "text": "video is really about is the history of"
+    },
+    {
+      "start_time": "00:26:16,260",
+      "end_time": "00:26:22,260",
+      "text": "how we got to here to right now and I"
+    },
+    {
+      "start_time": "00:26:19,500",
+      "end_time": "00:26:24,480",
+      "text": "and I think actually right now that may"
+    },
+    {
+      "start_time": "00:26:22,260",
+      "end_time": "00:26:26,340",
+      "text": "be more important than ever I think it's"
+    },
+    {
+      "start_time": "00:26:24,480",
+      "end_time": "00:26:28,679",
+      "text": "important to think about where we've"
+    },
+    {
+      "start_time": "00:26:26,340",
+      "end_time": "00:26:31,440",
+      "text": "been and the history of it so that we"
+    },
+    {
+      "start_time": "00:26:28,679",
+      "end_time": "00:26:34,860",
+      "text": "don't that we don't repeat the mistakes"
+    },
+    {
+      "start_time": "00:26:31,440",
+      "end_time": "00:26:37,260",
+      "text": "of it or at least we can try not to"
+    },
+    {
+      "start_time": "00:26:34,860",
+      "end_time": "00:26:39,179",
+      "text": "repeat the mistakes of it"
+    },
+    {
+      "start_time": "00:26:37,260",
+      "end_time": "00:26:40,919",
+      "text": "so you know I don't know what we're"
+    },
+    {
+      "start_time": "00:26:39,179",
+      "end_time": "00:26:42,659",
+      "text": "going to end up with all this I don't"
+    },
+    {
+      "start_time": "00:26:40,919",
+      "end_time": "00:26:44,880",
+      "text": "think uh here at the beginning of"
+    },
+    {
+      "start_time": "00:26:42,659",
+      "end_time": "00:26:46,440",
+      "text": "January that any of us really knows"
+    },
+    {
+      "start_time": "00:26:44,880",
+      "end_time": "00:26:48,299",
+      "text": "where we're going to end up"
+    },
+    {
+      "start_time": "00:26:46,440",
+      "end_time": "00:26:49,860",
+      "text": "but I the only thing I guess I can"
+    },
+    {
+      "start_time": "00:26:48,299",
+      "end_time": "00:26:51,779",
+      "text": "really say is that when the time comes"
+    },
+    {
+      "start_time": "00:26:49,860",
+      "end_time": "00:26:52,740",
+      "text": "to write the next chapter of this"
+    },
+    {
+      "start_time": "00:26:51,779",
+      "end_time": "00:26:56,340",
+      "text": "history"
+    },
+    {
+      "start_time": "00:26:52,740",
+      "end_time": "00:26:59,820",
+      "text": "you will find it right here so subscribe"
+    },
+    {
+      "start_time": "00:26:56,340",
+      "end_time": "00:27:02,159",
+      "text": "I guess uh I'm not going anywhere"
+    },
+    {
+      "start_time": "00:26:59,820",
+      "end_time": "00:27:04,200",
+      "text": "will it have one or more poison pills"
+    },
+    {
+      "start_time": "00:27:02,159",
+      "end_time": "00:27:06,240",
+      "text": "will it give Hasbro the right to make"
+    },
+    {
+      "start_time": "00:27:04,200",
+      "end_time": "00:27:08,100",
+      "text": "unilateral changes to the license or"
+    },
+    {
+      "start_time": "00:27:06,240",
+      "end_time": "00:27:10,140",
+      "text": "otherwise be revocable"
+    },
+    {
+      "start_time": "00:27:08,100",
+      "end_time": "00:27:12,480",
+      "text": "as we look back over the history of the"
+    },
+    {
+      "start_time": "00:27:10,140",
+      "end_time": "00:27:14,340",
+      "text": "open gaming license it seems as if we're"
+    },
+    {
+      "start_time": "00:27:12,480",
+      "end_time": "00:27:17,580",
+      "text": "in a period of time quite similar to"
+    },
+    {
+      "start_time": "00:27:14,340",
+      "end_time": "00:27:19,620",
+      "text": "2008 new leadership has taken control of"
+    },
+    {
+      "start_time": "00:27:17,580",
+      "end_time": "00:27:22,200",
+      "text": "wizards they have a new addition coming"
+    },
+    {
+      "start_time": "00:27:19,620",
+      "end_time": "00:27:24,179",
+      "text": "out corporate leadership is calling for"
+    },
+    {
+      "start_time": "00:27:22,200",
+      "end_time": "00:27:26,580",
+      "text": "increased monetization of the DND"
+    },
+    {
+      "start_time": "00:27:24,179",
+      "end_time": "00:27:28,320",
+      "text": "property after hemming and hawing"
+    },
+    {
+      "start_time": "00:27:26,580",
+      "end_time": "00:27:30,120",
+      "text": "wizards has been forced to make a public"
+    },
+    {
+      "start_time": "00:27:28,320",
+      "end_time": "00:27:32,640",
+      "text": "statement about the future of the open"
+    },
+    {
+      "start_time": "00:27:30,120",
+      "end_time": "00:27:34,620",
+      "text": "gaming license and what we know for"
+    },
+    {
+      "start_time": "00:27:32,640",
+      "end_time": "00:27:37,260",
+      "text": "certain right now is that their"
+    },
+    {
+      "start_time": "00:27:34,620",
+      "end_time": "00:27:39,179",
+      "text": "intention is for one DND to be less open"
+    },
+    {
+      "start_time": "00:27:37,260",
+      "end_time": "00:27:41,700",
+      "text": "than 5th edition"
+    },
+    {
+      "start_time": "00:27:39,179",
+      "end_time": "00:27:45,260",
+      "text": "how much less open"
+    },
+    {
+      "start_time": "00:27:41,700",
+      "end_time": "00:27:45,260",
+      "text": "that's the unanswered question"
+    }
+  ],
+  "full_text": "what the heck is an open gaming license\nand why should you care\nwell the open gaming license or ogl is\nwhat lets people sell DND compatible\nadventures and supplements without\ngetting Hasbro's specific permission to\ndo so so if you're someone making DND\ncompatible stuff you should probably\ncare about the ogl quite a bit since\nit's one of the only two ways to do that\nthe other being the dungeon Masters\nGuild which we'll talk about later but\nmost of you watching this probably\naren't trying to sell DND compatible\nstuff you're probably just trying to run\nand play in your Saturday night sessions\nso why should you care\nprobably because a lot of the stuff you\nlove and use in your games has been\nproduced using the ogl and if it isn't\nthen there's a ton of really amazing\nstuff out there that you should really\ncheck out for example maybe you're a fan\nof critical role if so you may be\nfamiliar with the taldori campaign\nsetting they were only able to publish\nthat as a book because of the ogl or\nmaybe you've played adventures in Middle\nEarth the 5th edition compatible Lord of\nthe Rings role-playing game again that's\nogl maybe you're a fan of my work in\nwhich case you might be familiar with\nthe adventures I've published with\nFantasy Flight games Atlas games and\nothers again none of these would exist\nwithout the LGL there's a lot of content\non my website the alexandrian that\nwouldn't exist without the ogl okay so\nthe ogl makes cool stuff possible so\nwhere does it come from how does it work\nwhy is everyone screaming and yelling\nabout it well the ogl has been around\nfor about 20 years now it was first\nreleased in 2000 but to really\nunderstand its roots we have to go back\na few years before it existed\nin 1997 a company called tactical\nstudies rules TSR Incorporated was going\nbankrupt there were a lot of complicated\nreasons for this and we're not we're not\ngoing to dive into all of it here but\nthis was a significant moment because\nTSR was the original publisher and still\nowner of Dungeons and Dragons now the\nthing to understand is that d d was in\nreal Jeopardy here tsr's assets were\ngoing to be hacked up and its parts\ndivvied Out Among its many many\ncreditors it was very possible that\nsomeone would end up owning DND who had\nno interest in publishing a tabletop\nrole-playing game they'd exploit the IP\nfor novels video games TV shows or\nwhatever else they could imagine but\nthey wouldn't necessarily publish a\nrole-playing game d d as we know it\nwould be dead fortunately a company\ncalled Wizards of the Coast had\npublished a little Indie card game\ncalled Magic the Gathering a few years\nearlier you may have heard of it they\nused the money they'd gained from Magic\nto purchase TSR outright d d was now in\nthe hands of people who loved the\nrole-playing game d d was saved now at\nthis point a couple things happened\npretty fast first Wizards of the Coast\nbegins developing the Third Edition of\nDungeons and Dragons second in 1999 just\na couple years later Wizards itself is\nbought out by Hasbro a huge toy and game\nconglomerate a year later in 2000 the\nThird Edition of d d is released and a\nmajor pillar of its marketing campaign\nis the open gaming license anyone could\nnow publish third-party supplements that\nwere compatible with the official\nversion of d d\nand they did when the player's handbook\nwas released at Gen Con in the summer of\n2000 two compatible modules were\nimmediately available the same day Atlas\ngames Three Days to Kill by John tynes\nand green ronin's death in Freeport by\nChris pramus the ogl can actually apply\nto a lot of different types of products\nbut to keep things simple we're just\ngoing to talk in terms of RPG\nsupplements published as books there are\nthree key things to understand about the\nOG Hill first not everything in a book\npublished under the ogl is free to use\nwith the license instead the publisher\nmust explicitly declare what content in\nthe book is open game content this is\nmaterial that other people can use in\ntheir own ogl books the only requirement\nis that any open game content you use\nfrom someone else must be declared as\nopen content and credited in the\ncopyright section of the copy of the ogl\nyou print in your book second the\npublisher of an ogl book can also choose\nto declare product identity this might\nbe trademarks or character names or\nartwork there's lots of stuff that can\nbe product identity the key thing is\nthat product identity can never be open\ngame content even if the Declaration of\nopen game content would otherwise apply\nthis provides a safety net that makes it\neasy for Publishers to avoid\naccidentally opening their trademarks or\nother IP for example if they declare\nthat trouble womps are product identity\nand they declare that everything in\nChapter 2 is open content then truggle\nwhomps wouldn't be open content even if\nthey appear in chapter 2. this is good\nbecause it will encourage Publishers to\nuse the ogl since they won't have to\nworry about accidentally voiding their\nIP rights it's also good because it\nencourages liberal and clear\nDeclarations of open game content if\nproduct identity didn't exist in the\nlicense for example a publisher might\nonly declare very small parts of chapter\n2 open content to make sure they didn't\nyou know accidentally put truggle wamps\nonto the open market now the third thing\nto understand is that the DND Coral Rule\nbooks were not released under the ogl\ninstead Wizards of the Coast copied some\nof the rules and lore from the core rule\nbooks into a digital file called the\nsystem reference document it was this\nsystem reference document or SRD that\nwas released under the ogl and thus made\navailable to other Publishers using the\nogl now the final thing to know is that\naccording to Wizards of the Coast the\nogl is unrevocable once you release open\ngame content under the ogl it will\nalways be open game content There's No\nundo button not even for Hasbro so why\ndid Wizards do this well they had two\ngoals first Ryan Dancy who is in charge\nof DnD at the time and schemed up the\nogl believe that with Wizards needed to\nbe publishing a lot fewer supplements\nand Adventures for d d he'd seen tsr's\nFinancial books and he believed flooding\nthe market with official DND supplements\nhad been a major factor in the company's\nfailure and bankruptcy there were\ncertain core titles including the core\nRule books which Were Far and Away the\nmost profitable books TSR published\nDancy believed Wizards should focus on\nproducing those books the most\nprofitable ones and he called them\nEvergreen titles but he also knew that\nsupplement support was important for an\nRPG to thrive the open gaming license\nwould get other Publishers Publishers\nwho didn't have the huge overhead of\nwizards and would be much more\nsuccessful in turning profits on smaller\nprint runs to provide a constant flow of\nAdventures and other support material\nfor DND that support material would make\nmore people interested in buying and\nplaying DND and this in turn would grow\nthe network externality of DnD now I'm\nnot going to dive into Network\nexternality at length but the short\nversion version is that the more people\nthere are playing DND the more likely it\nis that someone looking to play a\nrole-playing game will find a group\nplaying D and D that will make it more\nlikely that they become a DND player\nwhich increases the number of DnD\nplayers and therefore increases the\nlikelihood that the next player will\nalso become a DND player dancy's\nargument in short is that D D's biggest\nstrength is that it's the role-playing\ngame you're most likely to find when you\ngo looking for a role-playing game and\nthe open gaming license was designed to\nmake that even more true second the ogl\nmeant that DND would never again be at\nrisk of being killed due to corporate\nmalfeasance remember that just a couple\nyears earlier d d had almost died as a\nresult of tsr's bankruptcy and now it\nwas owned by Hasbro who could decide at\nany time that they weren't interested in\npublishing a tabletop role-playing game\nbut the OG Hill Has No undo button once\nthe rules of DnD were placed under the\nLGL Dancy believed it could never be\ntaken out of print by the actions of a\nsingle Corporation in addition to the\nogl Wizards also released the D20 system\ntrademark license basically they wanted\na method by which third-party Publishers\ncould indicate their compatibility with\nDND but they didn't want to let them use\nthe DND trademark so they created a new\nD20 system trademark including logo and\nlet the Publishers use that instead the\nD20 system trademark license required\nPublishers to use the ogl but it added a\nnumber of restrictions for example books\npublished under the D20 system trademark\nlicense couldn't include any rules for\ncharacter creation Now the most notable\nof these restrictions was that the D20\nsystem trademark license could be\nunilaterally canceled by Wizards of the\nCoast at any time after which Publishers\nwould have to stop selling any books\nthat use the D20 system trademark\nspoilers this will be significant later\nthe ogl ended up being more successful\nthan anyone could have imagined dozens\nof companies began publishing\nthird-party support for DND entirely new\ncompanies were founded many of which\nhave become major players in the RPG\nindustry and for players and DMS there\nwas an unprecedented wealth of amazing\nmaterial new adventures new classes new\nsettings all of this fueled a DND\nRenaissance\nbut not everything was going according\nto plan\nfirst dancy's Evergreen books like the\nEpic Level handbook and the psionics\nhandbook weren't selling the way he had\nhoped they would and second the thing\nabout a plan to design and publish fewer\nbooks is that you can downsize the\ndesign department and the design\nDepartment of Wizards of the Coast had\nsome strong opinions about being\ndownsized\nthird competition between third-party\nPublishers was driving a radical\nImprovement in production values Wizards\nof the Coast was still making the soft\ncover of black and white books they'd\nalways been publishing ogl Publishers on\nthe other hand were producing full-color\nbooks and hardcover Wizards books which\nshould have been Premier Products\ninstead looked cheap in second rate\nby 2003 leadership at Wizards of the\nCoast was also changing most of the\ndesigners of Third Edition were gone and\ndance he had also left the company the\nnew leadership was at best skeptical of\nthe ogl according to many accounts they\nwere actively hostile to it but of\ncourse they had a problem the ogl\ncouldn't be revoked it had been designed\nso that it could not be canceled D was\nsitting at the top of and benefiting\nfrom this this huge pyramid of support\nmaterial and there was no way to shut\nthat down\nwhat they could do though was reboot the\ngame and that's exactly what they did in\n2003 releasing the revised 3.5 edition\nof DnD\nnow the way in which they did this was\nsignificant before 3.5 was released\nWizards made a big deal in all of its\nmarketing about how the game was going\nto be backwards compatible it wasn't\ngoing to make your existing 3.0 books\nObsolete and players should have no\nqualms about continuing to buy 3.0 books\nbecause they would still work with the\nnew 3.5 Rule books but when 3.5 was\nactually released a switch was flipped\nin the marketing the 3.0 books were now\nworthless those black and white soft\ncovers we were selling get rid of them\ntime to buy the new full-color hardcover\nSplat books The Evergreen strategy was\nout and the Splat book strategy was back\nwith Wizards using the 3.5 reboot to\nupgrade their Splat books so that they\ncould compete with the high quality\nthird-party supplements others were\nproducing but it wasn't just the\ncustomers who had been caught\nflat-footed by this abrupt 180 in\nmarketing ogl Publishers had taken\nWizards at their word and continued\ndeveloping writing play testing and\nprinting 3.0 supplements that they had\nbeen told would be completely compatible\nwith the new rule books but which the\ncustomers were now being told were\nworthless and it wasn't just the\nPublishers it was the local game stores\ntoo who had continued investing their\ncapital in merchandise they thought they\ncould sell but which wizard was now\ntelling their customers should be left\nto rot on the shell\nhundreds of game stores went out of\nbusiness dozens of Publishers followed\nthe D20 bubble had burst having been\neither accidentally or According to some\ndeliberately popped by wizards but 3.5\nwas in fact pretty similar to 3.0 even\nif wattsy hadn't released an updated SRD\nfor the 3.5 rules which they did\nthird-party Publishers would have been\nable to continue producing compatible\nbooks using the existing ogl for now at\nleast Wizards decided it made more sense\nto stay on top of the pyramid that would\nchange however five years later with the\nrelease of fourth edition\nthe story of the release and many many\nfailures of fourth edition is a saga in\nits own right so I'm going to try to\nkeep it as simple as possible and also\nstay focused on the ogl throughout the\nshort version is around 2005 Hasbro\ndecided to split its Brands into core\nBrands which had more than 50 million\ndollars in annual sales and non-core\nBrands which didn't core Brands would\nget investments in development marketing\nand Licensing non-core Brands would not\nand in fact many of them would be\nmothballed allowed to lie dormant for\nyears before being potentially brought\nback for a fresh start down the line\nDND was not a 50 million dollar brand\nDND was a 30 million dollar brand so\nthey came up with a big plan for saving\nDND by growing its annual revenues this\nincluded a virtual tabletop digital DLC\nincreased miniature and merge sales and\na subscription platform to get regular\nmonthly income from their fans just like\nan MMO they also believed that they\nneeded to kill all outside licensing\nincluding the ogl so that they could\nclaw back as much of that Revenue as\nthey could\nbut of course the ogl could not be\nrevoked\nnow do I know for an absolute fact that\nthe design team of fourth edition d d\nwas given a corporate directive to\ndesign a game that required the use of\neither Miniatures or virtual tabletop\nboth of which Wizards would sell to\nstrongly encourage the use of a digital\ncharacter creation subscription service\nand so fundamentally alter the core\ngameplay of DnD that the ogl could no\nlonger be used to create compatible\nsupplements\nI don't\nso you can make up your own mind about\nthat\nwhat we do know is that Hasbro killed\nthe ogl for fourth edition and we also\nknow that Wizards didn't really want to\npublicly admit that so they spent a lot\nof time before fourth edition came out\nhemming and hawing they talked a lot\nabout their commitment to open gaming\nand assured people that a license for\nthird party and fan Creations would\ndefinitely be made available for fourth\nedition there's a lot of back and forth\nhere and the timeline has made a lot\nmuddier because they were both public\nannouncements being made and private\nmeetings with third-party Publishers\nshielded with ndas there are a few key\nMilestones that are probably worth\nestablishing though first Wizards\neventually admitted that fourth edition\nwould not use the ogl instead they were\ncreating a new gaming system license or\nGSL but the details of this new license\nstill weren't being made public Wizards\nthen announced that people could pay\nthem five thousand dollars in order to\nget early access to the fourth edition\nSRD and GSL but they still didn't tell\nanyone what the terms of the GSL were\nthis went over like a lead Loom and the\nprogram was in fact canceled so when the\ngso was finally released it contained a\npoisoned pill if you use the GSL you\ncould not publish anything in the same\nproduct line using the ogl it also\ncontained a termination Clause just like\nthe one used in the D20 system trademark\nlicense Hasbro could unilaterally cancel\nthe GSL at any time at which point you\nwould need to immediately delist your\nbooks and Pulp your inventory\nafter even more public outcry and\npressure they eventually dropped the\npoison pill but the termination Clause\nstuck that was after all more or less\nthe whole point of the exercise now\nironically as far as I know that\ntermination Clause has never actually\nbeen activated even though fifth edition\nnow exists at this point though Wizards\nhad a few problems first their GSL\nShenanigans were just one of several\nways in which they'd alienated large\nchunks of their fan base second even\nthough they willfully abandoned their\nposition on top of the vast the vast\npyramid of Third Edition support\nmaterial that pyramid was still there\nand people were still free to create\nmore of it and third\nthey pushed a company called Piezo\npublishing into a desperate situation\nwhen Wizards decided they didn't want to\nkeep publishing dragon and dungeon\nmagazine in 2002 they licensed those\nmagazines to paizo a company which had\nbeen founded by former Wizards\nExecutives to specifically do that in\npreparation for fourth edition Wizards\nannounced that paiser's license would\nnot be renewed and in fact that dragon\nand dungeon would no longer be published\nas physical magazines at all paizo of\ncourse still had the subscription list\nso they started publishing the\nPathfinder Adventure path as a new\nmonthly periodical for their customers\npaizo's intention was to transition the\nPathfinder Adventure path to 4th edition\nwhen the new game came out but Wizards\nlengthy delays in making the GSL\navailable put paizo in a bind which only\nbecame worse when it became clear that\nwhatever the top secret terms of the new\nlicense were going to be they certainly\nweren't going to be particularly\nfriendly the result was the Pathfinder\nrole-playing game published by Paisa it\nwas essentially a um a 3.75 edition of\nDnD that because of the subscription\nlist could be marketed directly to the\nmost hardcore of dnd's fans by a company\nthat had already spent several years\nselling them Premier adventures and\nsupport material it also became a banner\nfor all those disaffected by Wizards\nactions the gameplay of 4th edition or\nboth\nWizards had completely blown their\nDismount from the ogl and managed to\ncreate their single largest competitor\nand furthermore Pathfinder made it\ncertain that the ogl and the wealth of\nthird-party support made possible by the\nogl would continue through The Long\nWinter of fourth edition\nlet's fast forward now to 2015. whatever\nyour personal opinion of fourth edition\nis a game there's little question that\nit was a failure for Wizards of the\nCoast they attempted to relaunch the\ngame in late 2011 and then canceled it\nentirely in 2012. the leadership\nresponsible for fourth edition was fired\nand development began what would\neventually become fifth edition which\nwas released in the fall of 2014.\na lot of the marketing around 5th\nedition took the form of um Mia culpas\nas we've noted Wizards had burnt a lot\nof bridges in 2008 and they were now\nworking overtime to repair them for\nexample whereas fourth edition had seen\nthem cancel all their third-party\nlicenses they would now reach out to\nthird-party companies to develop their\nfirst official campaigns for the new\nedition in the spirit of bridge building\nthey similarly announced in May 2014\nthat fifth edition will be returning to\nthe LGL unlike in 2000 they said this\nwouldn't happen on the day of the game's\nrelease in September 2014 but would\ninstead follow in the spring of 2015. as\nit turned out the new SRD would not be\nreleased until January 2016. but either\nway there would also be no trademark\nlicense this time but the approach to\nthe LGL itself would be similar an SRD\nwould be released under the license\ncontaining all of the open game content\nrequired to make 5th edition compatible\nadventures and supplements now behind\nthe scenes this detent had actually\nacquired a Titanic struggle with\nHasbro's lawyers the compromise that was\nmade was that nothing would be included\nin the fifth edition SRD unless it had\nalready been included in the Third\nEdition SRD so for example the the magic\nMissile spell had appeared in Third\nEdition so it was also in the 5th\nedition SRD Arcane gate on the other\nhand wasn't a spell in Third Edition so\nit doesn't appear in the 5th edition SRD\nthis also means that the 5th edition SRD\ncontains enough material to allow for\nthe creation of 5th edition compatible\nsupplements but not so much that\nsomething like the Pathfinder\nrole-playing game could be easily\ncreated by another company\nin terms of community content however\nthe SRD and the ogl weren't the whole\nstory for 5th edition there's also the\ndungeon Masters Guild now to understand\nthe origins of the DM's Guild we\nactually need to go back in time to the\nearly days of Third Edition during this\ntime a company called RPG now had signed\nan agreement with Wizards of the Coast\nto sell DND PDFs this included PDF\nversions of the older books too going\nall the way back to the original 1974\ngame RPG now would eventually merge with\ndrive through RPG to form a company\ncalled one bookshelf which continued\nselling the DND PDFs when Wizards\nstarted yanking all their external\nlicenses with the release of fourth\nedition however this eventually included\none bookshelf's license this was rather\ninfamously done without any prior\nannouncement and included preventing\npeople who had previously purchased the\nbooks from downloading them in 2012 with\nleadership changing in the wake of\nfourth edition's failure and the\ncorporate strategy switching from no one\nshall play with our toys to um you all\ncome back now you hear one bookshelf was\nable to renegotiate a new license\nlaunching DND Classics in 2013 to once\nagain offer PDFs of all previous\neditions of DnD\nin 2016 d d Classics was rebranded the\ndungeon Masters Guild and a community\ncontent program was launched independent\ncreators could now create and sell\ncontent based not only on the SRD but on\nall official DND 5th edition books this\nincluded the Forgotten Realms and has\nsince expanded to include other official\nsettings including ravenloft eberron\nRavnica Theros and dragon lands now the\nlicense for the dungeon master skill has\nnothing to do with the ogl and those\nusing this license can only sell their\nbooks through the dungeon Masters Guild\nwebsite a furthermore if you publish a\nbook through the DM's Guild you are\nprohibited from publishing any\nderivative work so for example you could\nnot publish a book through the DM's\nGuild then remove all the DND related\nmaterial and publish it using a\ndifferent set of rules nor could you\npublish a novel or comic book based on\nyour DM's guild book\nfinally unlike the ogl the DM's Guild\nlicense can once again be unilaterally\nterminated by Hasbro this does not\ncrucially end the exclusivity agreement\nso you would still be unable to remove\nthe DND IP and publish your work\nsomewhere else this means that there\nwill come a day when Hasbro decides to\nshut down the DM's Guild and everything\non the site will simply\nvanish\nforever\nnow you'll hear some people say that\nthis this will never happen because\nHasbro would never want to deal with the\nhuge public backlash that would follow\nbut as we've seen this isn't really a\nhypothetical Hasbro has canceled\nlicenses just like this one it's not a\nquestion of if they'll do it again it's\njust a question of of when\nnow does this mean that no one should\npublish on the DM's Guild not\nnecessarily being able to commercially\naccess the entire lore of dnd's official\ncampaign settings and produce tie-ins\nand support products for their most\nrecent Adventure modules is an\nincredibly unique and creatively special\nprivilege\nbut unless you're doing that you may\nwant to take that whole someday you'll\nnever be able to show anyone your work\never again thing you know into\nconsideration\nregardless with the ogl and the DM's\nGuild fifth edition ushered in a second\ngolden age of third-party content for\nDND as with the ogl and D20 system\ntrademark license for Third Edition you\ncan argue about exactly how much this\nopenness has contributed to the success\nof the game but there's no question that\nthe game has succeeded brilliantly with\n5th edition exceeding all expectations\nand finally achieving the lofty Revenue\ngoals that 4th edition tried so\ndesperately to grasp\nnow in the early days of 2023\npreparations are being made for dnd's\nnext chapter a new edition of the game\ncurrently referred to as one DND has\nentered public play testing and is\nscheduled for release in 2024 during the\ngame's 50th anniversary\na few days ago as I wrote this script\nWizards of the Coast announced that one\nDND like fourth edition before it would\nnot be using the ogl instead a new\nversion of the license currently\nreferred to as the ogl version 1.1 will\nbe used we don't know a lot about this\nlicense but we do know that those using\nthe license will need to file their\ndocuments with Hasbro those using the\nlicense who have at least fifty thousand\ndollars in ogl related Revenue will need\nto start reporting their income to\nHasbro and those who have 750 000 in\nrevenue or more will need to start\npaying a royalty to Hasbro we also know\nthere are other changes in the terms of\nthe license which have not yet been\nannounced\nany or all of this of course might still\nchange and what the final form of this\n1.1 license will be when it's finally\nreleased is something we can really only\nspeculate about for right now\nokay so life comes at you real fast\nsometimes uh I wrote the script for this\nvideo just before Christmas uh and by\nthe time I had it in editing at least\ncopies of version 1.1 of the new ogl\nwere coming out and uh it's bad it's\nit's it's real bad it's it's it's much\nworse than I think even the most\npessimistic of us had believed was was\npossible\num so I I initially decided not to\nrelease this video uh because it felt\nlike particularly the end of it had\nbecome very outdated already but then I\nhad several of my patrons ask me to\nrelease it and after thinking about it\nfor a bit I realized\nI think I think they're right and I\nthink they're right because what this\nvideo is really about is the history of\nhow we got to here to right now and I\nand I think actually right now that may\nbe more important than ever I think it's\nimportant to think about where we've\nbeen and the history of it so that we\ndon't that we don't repeat the mistakes\nof it or at least we can try not to\nrepeat the mistakes of it\nso you know I don't know what we're\ngoing to end up with all this I don't\nthink uh here at the beginning of\nJanuary that any of us really knows\nwhere we're going to end up\nbut I the only thing I guess I can\nreally say is that when the time comes\nto write the next chapter of this\nhistory\nyou will find it right here so subscribe\nI guess uh I'm not going anywhere\nwill it have one or more poison pills\nwill it give Hasbro the right to make\nunilateral changes to the license or\notherwise be revocable\nas we look back over the history of the\nopen gaming license it seems as if we're\nin a period of time quite similar to\n2008 new leadership has taken control of\nwizards they have a new addition coming\nout corporate leadership is calling for\nincreased monetization of the DND\nproperty after hemming and hawing\nwizards has been forced to make a public\nstatement about the future of the open\ngaming license and what we know for\ncertain right now is that their\nintention is for one DND to be less open\nthan 5th edition\nhow much less open\nthat's the unanswered question\n"
+}

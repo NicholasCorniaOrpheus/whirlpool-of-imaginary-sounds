@@ -1,0 +1,4890 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:04,420",
+      "end_time": "00:00:08,920",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:10,000",
+      "end_time": "00:00:13,759",
+      "text": "hey guys how you doing trevor here from"
+    },
+    {
+      "start_time": "00:00:11,599",
+      "end_time": "00:00:15,759",
+      "text": "me myself and i have a little experiment"
+    },
+    {
+      "start_time": "00:00:13,759",
+      "end_time": "00:00:18,880",
+      "text": "for you i'm going to be running a game"
+    },
+    {
+      "start_time": "00:00:15,759",
+      "end_time": "00:00:21,039",
+      "text": "of d5e i know the horror the horror but"
+    },
+    {
+      "start_time": "00:00:18,880",
+      "end_time": "00:00:22,640",
+      "text": "i'm going to be running d with a couple"
+    },
+    {
+      "start_time": "00:00:21,039",
+      "end_time": "00:00:24,720",
+      "text": "of friends of mine up in vancouver"
+    },
+    {
+      "start_time": "00:00:22,640",
+      "end_time": "00:00:26,320",
+      "text": "online but i'm going to be totally"
+    },
+    {
+      "start_time": "00:00:24,720",
+      "end_time": "00:00:28,560",
+      "text": "improvising and randomly creating the"
+    },
+    {
+      "start_time": "00:00:26,320",
+      "end_time": "00:00:30,720",
+      "text": "adventure using the mythic gm emulator"
+    },
+    {
+      "start_time": "00:00:28,560",
+      "end_time": "00:00:32,559",
+      "text": "exactly as i do in my show except this"
+    },
+    {
+      "start_time": "00:00:30,720",
+      "end_time": "00:00:35,360",
+      "text": "time the purpose is to show you that you"
+    },
+    {
+      "start_time": "00:00:32,559",
+      "end_time": "00:00:37,120",
+      "text": "can use the emulator in a real live game"
+    },
+    {
+      "start_time": "00:00:35,360",
+      "end_time": "00:00:39,120",
+      "text": "with real live people i know other"
+    },
+    {
+      "start_time": "00:00:37,120",
+      "end_time": "00:00:40,559",
+      "text": "people how strange how strange and"
+    },
+    {
+      "start_time": "00:00:39,120",
+      "end_time": "00:00:42,399",
+      "text": "frightening but that's what we're gonna"
+    },
+    {
+      "start_time": "00:00:40,559",
+      "end_time": "00:00:44,559",
+      "text": "do here so what's gonna happen is i'm"
+    },
+    {
+      "start_time": "00:00:42,399",
+      "end_time": "00:00:45,680",
+      "text": "gonna be running the game on roll 20 but"
+    },
+    {
+      "start_time": "00:00:44,559",
+      "end_time": "00:00:47,520",
+      "text": "every time i need to consult the"
+    },
+    {
+      "start_time": "00:00:45,680",
+      "end_time": "00:00:49,280",
+      "text": "emulator and interpret a result i'm"
+    },
+    {
+      "start_time": "00:00:47,520",
+      "end_time": "00:00:51,360",
+      "text": "going to turn to you and i'm going to"
+    },
+    {
+      "start_time": "00:00:49,280",
+      "end_time": "00:00:52,719",
+      "text": "tell you how i interpret the role and"
+    },
+    {
+      "start_time": "00:00:51,360",
+      "end_time": "00:00:55,460",
+      "text": "you get to see it in action so hopefully"
+    },
+    {
+      "start_time": "00:00:52,719",
+      "end_time": "00:00:56,840",
+      "text": "this all works okay okay so um"
+    },
+    {
+      "start_time": "00:00:55,460",
+      "end_time": "00:00:58,879",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:00:56,840",
+      "end_time": "00:01:00,800",
+      "text": "characters let's do fighter i know how"
+    },
+    {
+      "start_time": "00:00:58,879",
+      "end_time": "00:01:02,800",
+      "text": "to play fighters"
+    },
+    {
+      "start_time": "00:01:00,800",
+      "end_time": "00:01:03,760",
+      "text": "perfect what are you uh looking at there"
+    },
+    {
+      "start_time": "00:01:02,800",
+      "end_time": "00:01:08,000",
+      "text": "jared"
+    },
+    {
+      "start_time": "00:01:03,760",
+      "end_time": "00:01:10,240",
+      "text": "i think i'm going for a human rogue at"
+    },
+    {
+      "start_time": "00:01:08,000",
+      "end_time": "00:01:12,479",
+      "text": "third level i"
+    },
+    {
+      "start_time": "00:01:10,240",
+      "end_time": "00:01:14,560",
+      "text": "choose a roguish archetype i went with"
+    },
+    {
+      "start_time": "00:01:12,479",
+      "end_time": "00:01:17,119",
+      "text": "swashbuckler cool i'm not going to go"
+    },
+    {
+      "start_time": "00:01:14,560",
+      "end_time": "00:01:19,119",
+      "text": "into all the things here but just some"
+    },
+    {
+      "start_time": "00:01:17,119",
+      "end_time": "00:01:21,360",
+      "text": "stuff that can sort of sort of get us"
+    },
+    {
+      "start_time": "00:01:19,119",
+      "end_time": "00:01:23,439",
+      "text": "kick-started here because of course the"
+    },
+    {
+      "start_time": "00:01:21,360",
+      "end_time": "00:01:24,880",
+      "text": "idea is when you generate random"
+    },
+    {
+      "start_time": "00:01:23,439",
+      "end_time": "00:01:26,640",
+      "text": "backgrounds for characters like this"
+    },
+    {
+      "start_time": "00:01:24,880",
+      "end_time": "00:01:28,080",
+      "text": "that gives you adventure ideas of where"
+    },
+    {
+      "start_time": "00:01:26,640",
+      "end_time": "00:01:30,799",
+      "text": "to start them so that's kind of"
+    },
+    {
+      "start_time": "00:01:28,080",
+      "end_time": "00:01:32,400",
+      "text": "important hey guys post edit trev here"
+    },
+    {
+      "start_time": "00:01:30,799",
+      "end_time": "00:01:34,079",
+      "text": "just wanted to give you a quick brief"
+    },
+    {
+      "start_time": "00:01:32,400",
+      "end_time": "00:01:35,439",
+      "text": "intro to the characters that we created"
+    },
+    {
+      "start_time": "00:01:34,079",
+      "end_time": "00:01:37,200",
+      "text": "if you want to see the full character"
+    },
+    {
+      "start_time": "00:01:35,439",
+      "end_time": "00:01:38,479",
+      "text": "generation if you want to check out how"
+    },
+    {
+      "start_time": "00:01:37,200",
+      "end_time": "00:01:40,240",
+      "text": "we built all these characters from"
+    },
+    {
+      "start_time": "00:01:38,479",
+      "end_time": "00:01:42,000",
+      "text": "scratch using total random stuff that's"
+    },
+    {
+      "start_time": "00:01:40,240",
+      "end_time": "00:01:44,079",
+      "text": "all on patreon but for the purposes of"
+    },
+    {
+      "start_time": "00:01:42,000",
+      "end_time": "00:01:45,759",
+      "text": "this video just know that we created two"
+    },
+    {
+      "start_time": "00:01:44,079",
+      "end_time": "00:01:47,680",
+      "text": "third level characters one was a fighter"
+    },
+    {
+      "start_time": "00:01:45,759",
+      "end_time": "00:01:50,240",
+      "text": "who was a champion and the other was a"
+    },
+    {
+      "start_time": "00:01:47,680",
+      "end_time": "00:01:51,200",
+      "text": "rogue swashbuckler they grew up together"
+    },
+    {
+      "start_time": "00:01:50,240",
+      "end_time": "00:01:53,119",
+      "text": "mostly"
+    },
+    {
+      "start_time": "00:01:51,200",
+      "end_time": "00:01:54,399",
+      "text": "the the rogue was kind of like he ran"
+    },
+    {
+      "start_time": "00:01:53,119",
+      "end_time": "00:01:55,520",
+      "text": "off to join the circus as a kid"
+    },
+    {
+      "start_time": "00:01:54,399",
+      "end_time": "00:01:57,040",
+      "text": "basically"
+    },
+    {
+      "start_time": "00:01:55,520",
+      "end_time": "00:01:58,719",
+      "text": "and the fighter grew up in a temple he"
+    },
+    {
+      "start_time": "00:01:57,040",
+      "end_time": "00:02:00,880",
+      "text": "was a very devoutly religious kind of"
+    },
+    {
+      "start_time": "00:01:58,719",
+      "end_time": "00:02:02,880",
+      "text": "guy who served a god named kodos or"
+    },
+    {
+      "start_time": "00:02:00,880",
+      "end_time": "00:02:04,640",
+      "text": "kronos or something like that it'll show"
+    },
+    {
+      "start_time": "00:02:02,880",
+      "end_time": "00:02:06,240",
+      "text": "up in the episode very soon but the two"
+    },
+    {
+      "start_time": "00:02:04,640",
+      "end_time": "00:02:07,439",
+      "text": "big hooks they they came up with was"
+    },
+    {
+      "start_time": "00:02:06,240",
+      "end_time": "00:02:09,280",
+      "text": "that the fighter"
+    },
+    {
+      "start_time": "00:02:07,439",
+      "end_time": "00:02:11,360",
+      "text": "was protecting this holy book from a"
+    },
+    {
+      "start_time": "00:02:09,280",
+      "end_time": "00:02:13,120",
+      "text": "cult that was that was after his church"
+    },
+    {
+      "start_time": "00:02:11,360",
+      "end_time": "00:02:14,640",
+      "text": "trying to destabilize his church and"
+    },
+    {
+      "start_time": "00:02:13,120",
+      "end_time": "00:02:16,800",
+      "text": "that they had a common enemy by the name"
+    },
+    {
+      "start_time": "00:02:14,640",
+      "end_time": "00:02:18,959",
+      "text": "of lord wren who tried to frame the"
+    },
+    {
+      "start_time": "00:02:16,800",
+      "end_time": "00:02:21,040",
+      "text": "thief for a crime he didn't commit and"
+    },
+    {
+      "start_time": "00:02:18,959",
+      "end_time": "00:02:22,640",
+      "text": "uh the two characters wound up gaining"
+    },
+    {
+      "start_time": "00:02:21,040",
+      "end_time": "00:02:24,080",
+      "text": "the enmity of this particular character"
+    },
+    {
+      "start_time": "00:02:22,640",
+      "end_time": "00:02:25,520",
+      "text": "anyway that's just sort of the general"
+    },
+    {
+      "start_time": "00:02:24,080",
+      "end_time": "00:02:26,640",
+      "text": "basics of who these characters are like"
+    },
+    {
+      "start_time": "00:02:25,520",
+      "end_time": "00:02:28,160",
+      "text": "i said if you want to see the full"
+    },
+    {
+      "start_time": "00:02:26,640",
+      "end_time": "00:02:29,680",
+      "text": "character creation process we did"
+    },
+    {
+      "start_time": "00:02:28,160",
+      "end_time": "00:02:31,840",
+      "text": "totally randomly"
+    },
+    {
+      "start_time": "00:02:29,680",
+      "end_time": "00:02:34,800",
+      "text": "you can check it out on the patreon i"
+    },
+    {
+      "start_time": "00:02:31,840",
+      "end_time": "00:02:36,959",
+      "text": "seek to preserve a sacred text that my"
+    },
+    {
+      "start_time": "00:02:34,800",
+      "end_time": "00:02:38,720",
+      "text": "enemies consider heretical and seek to"
+    },
+    {
+      "start_time": "00:02:36,959",
+      "end_time": "00:02:40,080",
+      "text": "destroy well that sounds like a that"
+    },
+    {
+      "start_time": "00:02:38,720",
+      "end_time": "00:02:43,200",
+      "text": "sounds like a hook right there doesn't"
+    },
+    {
+      "start_time": "00:02:40,080",
+      "end_time": "00:02:44,480",
+      "text": "it yep fuel i've got another one for you"
+    },
+    {
+      "start_time": "00:02:43,200",
+      "end_time": "00:02:47,680",
+      "text": "i once"
+    },
+    {
+      "start_time": "00:02:44,480",
+      "end_time": "00:02:50,160",
+      "text": "satirized a noble who still wants my"
+    },
+    {
+      "start_time": "00:02:47,680",
+      "end_time": "00:02:52,640",
+      "text": "head it was a mistake i will likely"
+    },
+    {
+      "start_time": "00:02:50,160",
+      "end_time": "00:02:54,560",
+      "text": "repeat okay so"
+    },
+    {
+      "start_time": "00:02:52,640",
+      "end_time": "00:02:56,319",
+      "text": "we've got our characters you're all"
+    },
+    {
+      "start_time": "00:02:54,560",
+      "end_time": "00:02:58,159",
+      "text": "kitted out you've got your backgrounds"
+    },
+    {
+      "start_time": "00:02:56,319",
+      "end_time": "00:03:00,080",
+      "text": "we know how you've met we know why"
+    },
+    {
+      "start_time": "00:02:58,159",
+      "end_time": "00:03:02,800",
+      "text": "you're friends we're going to say we're"
+    },
+    {
+      "start_time": "00:03:00,080",
+      "end_time": "00:03:06,080",
+      "text": "starting in the city of avison that's"
+    },
+    {
+      "start_time": "00:03:02,800",
+      "end_time": "00:03:08,400",
+      "text": "all i know um that's all anybody knows"
+    },
+    {
+      "start_time": "00:03:06,080",
+      "end_time": "00:03:10,239",
+      "text": "so first of all let's see how we start"
+    },
+    {
+      "start_time": "00:03:08,400",
+      "end_time": "00:03:13,040",
+      "text": "this thing so the first thing i'm going"
+    },
+    {
+      "start_time": "00:03:10,239",
+      "end_time": "00:03:14,400",
+      "text": "to do is create a situation in media res"
+    },
+    {
+      "start_time": "00:03:13,040",
+      "end_time": "00:03:17,599",
+      "text": "how am i going to do that i'm going to"
+    },
+    {
+      "start_time": "00:03:14,400",
+      "end_time": "00:03:19,200",
+      "text": "go to the trusty mythic gm emulator"
+    },
+    {
+      "start_time": "00:03:17,599",
+      "end_time": "00:03:21,360",
+      "text": "coming up coming up with the scene is"
+    },
+    {
+      "start_time": "00:03:19,200",
+      "end_time": "00:03:23,680",
+      "text": "the first thing so i'm going to totally"
+    },
+    {
+      "start_time": "00:03:21,360",
+      "end_time": "00:03:26,159",
+      "text": "randomly determine that using"
+    },
+    {
+      "start_time": "00:03:23,680",
+      "end_time": "00:03:30,879",
+      "text": "rolls of d100 and the first one is going"
+    },
+    {
+      "start_time": "00:03:26,159",
+      "end_time": "00:03:33,440",
+      "text": "to be 40 which is postpone 93 postpone"
+    },
+    {
+      "start_time": "00:03:30,879",
+      "end_time": "00:03:35,280",
+      "text": "weather i think what that means is that"
+    },
+    {
+      "start_time": "00:03:33,440",
+      "end_time": "00:03:36,400",
+      "text": "they are going to be they're not"
+    },
+    {
+      "start_time": "00:03:35,280",
+      "end_time": "00:03:38,640",
+      "text": "actually in the city they're on the"
+    },
+    {
+      "start_time": "00:03:36,400",
+      "end_time": "00:03:41,920",
+      "text": "outskirts of the city and they are on"
+    },
+    {
+      "start_time": "00:03:38,640",
+      "end_time": "00:03:43,840",
+      "text": "the run from this enemy lord wren but"
+    },
+    {
+      "start_time": "00:03:41,920",
+      "end_time": "00:03:46,799",
+      "text": "they've been they've had to they've had"
+    },
+    {
+      "start_time": "00:03:43,840",
+      "end_time": "00:03:49,120",
+      "text": "to hole up in an old cave or an old uh"
+    },
+    {
+      "start_time": "00:03:46,799",
+      "end_time": "00:03:51,360",
+      "text": "uh an inn or a broken down ruin or"
+    },
+    {
+      "start_time": "00:03:49,120",
+      "end_time": "00:03:52,799",
+      "text": "something like that yeah that's it uh"
+    },
+    {
+      "start_time": "00:03:51,360",
+      "end_time": "00:03:55,120",
+      "text": "they're they're holed up in a broken"
+    },
+    {
+      "start_time": "00:03:52,799",
+      "end_time": "00:03:56,480",
+      "text": "down ruin they're being chased by lord"
+    },
+    {
+      "start_time": "00:03:55,120",
+      "end_time": "00:03:58,720",
+      "text": "wren who's coming after them with a"
+    },
+    {
+      "start_time": "00:03:56,480",
+      "end_time": "00:04:00,799",
+      "text": "bunch of guys they're on the run but a"
+    },
+    {
+      "start_time": "00:03:58,720",
+      "end_time": "00:04:03,040",
+      "text": "terrible storm has rolled in and forced"
+    },
+    {
+      "start_time": "00:04:00,799",
+      "end_time": "00:04:04,640",
+      "text": "them to to take shelter in this ruin ah"
+    },
+    {
+      "start_time": "00:04:03,040",
+      "end_time": "00:04:07,599",
+      "text": "that's cool okay"
+    },
+    {
+      "start_time": "00:04:04,640",
+      "end_time": "00:04:10,080",
+      "text": "so here's the deal both of you now have"
+    },
+    {
+      "start_time": "00:04:07,599",
+      "end_time": "00:04:12,319",
+      "text": "this shared enemy of lord ren okay lord"
+    },
+    {
+      "start_time": "00:04:10,080",
+      "end_time": "00:04:13,680",
+      "text": "ren is coming after you rat because of"
+    },
+    {
+      "start_time": "00:04:12,319",
+      "end_time": "00:04:14,480",
+      "text": "obviously what we talked about the fact"
+    },
+    {
+      "start_time": "00:04:13,680",
+      "end_time": "00:04:16,400",
+      "text": "that"
+    },
+    {
+      "start_time": "00:04:14,480",
+      "end_time": "00:04:18,560",
+      "text": "uh you made fun of him and he's tried"
+    },
+    {
+      "start_time": "00:04:16,400",
+      "end_time": "00:04:20,560",
+      "text": "many things to come after you but the"
+    },
+    {
+      "start_time": "00:04:18,560",
+      "end_time": "00:04:22,400",
+      "text": "the the straw has broken the camel's"
+    },
+    {
+      "start_time": "00:04:20,560",
+      "end_time": "00:04:24,000",
+      "text": "back and you've got very solid"
+    },
+    {
+      "start_time": "00:04:22,400",
+      "end_time": "00:04:26,000",
+      "text": "information that he is sending he"
+    },
+    {
+      "start_time": "00:04:24,000",
+      "end_time": "00:04:28,479",
+      "text": "himself is coming after you with a bunch"
+    },
+    {
+      "start_time": "00:04:26,000",
+      "end_time": "00:04:31,040",
+      "text": "of thugs and heavies um the two of you"
+    },
+    {
+      "start_time": "00:04:28,479",
+      "end_time": "00:04:33,680",
+      "text": "had that information you also know uh uh"
+    },
+    {
+      "start_time": "00:04:31,040",
+      "end_time": "00:04:36,160",
+      "text": "sir vincent that he is traveling with"
+    },
+    {
+      "start_time": "00:04:33,680",
+      "end_time": "00:04:37,840",
+      "text": "one of the heads of this cult that is uh"
+    },
+    {
+      "start_time": "00:04:36,160",
+      "end_time": "00:04:40,080",
+      "text": "hell bent on getting his hands on this"
+    },
+    {
+      "start_time": "00:04:37,840",
+      "end_time": "00:04:42,960",
+      "text": "book and destroying it to further damage"
+    },
+    {
+      "start_time": "00:04:40,080",
+      "end_time": "00:04:45,199",
+      "text": "and degrade the the sway of of of kodos"
+    },
+    {
+      "start_time": "00:04:42,960",
+      "end_time": "00:04:47,360",
+      "text": "in the city however you got some"
+    },
+    {
+      "start_time": "00:04:45,199",
+      "end_time": "00:04:49,360",
+      "text": "information at the last second which"
+    },
+    {
+      "start_time": "00:04:47,360",
+      "end_time": "00:04:51,919",
+      "text": "which basically told you that ren was"
+    },
+    {
+      "start_time": "00:04:49,360",
+      "end_time": "00:04:53,680",
+      "text": "about to descend on your inn"
+    },
+    {
+      "start_time": "00:04:51,919",
+      "end_time": "00:04:55,040",
+      "text": "you had just a few minutes to grab your"
+    },
+    {
+      "start_time": "00:04:53,680",
+      "end_time": "00:04:57,120",
+      "text": "stuff and get the hell out of this out"
+    },
+    {
+      "start_time": "00:04:55,040",
+      "end_time": "00:04:58,720",
+      "text": "of town to formulate a plan but you had"
+    },
+    {
+      "start_time": "00:04:57,120",
+      "end_time": "00:05:00,960",
+      "text": "to escape so you basically got on your"
+    },
+    {
+      "start_time": "00:04:58,720",
+      "end_time": "00:05:03,520",
+      "text": "horses and you fled out of town"
+    },
+    {
+      "start_time": "00:05:00,960",
+      "end_time": "00:05:04,960",
+      "text": "just again trying to find a place to to"
+    },
+    {
+      "start_time": "00:05:03,520",
+      "end_time": "00:05:07,280",
+      "text": "regroup yourselves and see if you can"
+    },
+    {
+      "start_time": "00:05:04,960",
+      "end_time": "00:05:09,520",
+      "text": "you know figure out what to do but"
+    },
+    {
+      "start_time": "00:05:07,280",
+      "end_time": "00:05:12,479",
+      "text": "you know that ren and his thugs are are"
+    },
+    {
+      "start_time": "00:05:09,520",
+      "end_time": "00:05:13,600",
+      "text": "hot on your tails but as you as you left"
+    },
+    {
+      "start_time": "00:05:12,479",
+      "end_time": "00:05:16,320",
+      "text": "the city"
+    },
+    {
+      "start_time": "00:05:13,600",
+      "end_time": "00:05:18,880",
+      "text": "uh a massive massive storm rolled in a"
+    },
+    {
+      "start_time": "00:05:16,320",
+      "end_time": "00:05:20,400",
+      "text": "big massive lightning storm hail the"
+    },
+    {
+      "start_time": "00:05:18,880",
+      "end_time": "00:05:22,160",
+      "text": "whole bit to the point where you had to"
+    },
+    {
+      "start_time": "00:05:20,400",
+      "end_time": "00:05:24,960",
+      "text": "take shelter as soon as you possibly"
+    },
+    {
+      "start_time": "00:05:22,160",
+      "end_time": "00:05:26,960",
+      "text": "could and off the road way off the road"
+    },
+    {
+      "start_time": "00:05:24,960",
+      "end_time": "00:05:29,120",
+      "text": "on the slopes of this giant hill was"
+    },
+    {
+      "start_time": "00:05:26,960",
+      "end_time": "00:05:31,520",
+      "text": "this old broken down ruin it it almost"
+    },
+    {
+      "start_time": "00:05:29,120",
+      "end_time": "00:05:34,320",
+      "text": "looked like it was um some sort of tower"
+    },
+    {
+      "start_time": "00:05:31,520",
+      "end_time": "00:05:36,320",
+      "text": "maybe or some sort of uh keep but it's"
+    },
+    {
+      "start_time": "00:05:34,320",
+      "end_time": "00:05:39,039",
+      "text": "completely it ruins but you were able to"
+    },
+    {
+      "start_time": "00:05:36,320",
+      "end_time": "00:05:41,440",
+      "text": "guide your horses across the quickly"
+    },
+    {
+      "start_time": "00:05:39,039",
+      "end_time": "00:05:42,720",
+      "text": "uh um"
+    },
+    {
+      "start_time": "00:05:41,440",
+      "end_time": "00:05:45,520",
+      "text": "the fields that are quickly becoming"
+    },
+    {
+      "start_time": "00:05:42,720",
+      "end_time": "00:05:48,080",
+      "text": "waterlogged and and take some shelter in"
+    },
+    {
+      "start_time": "00:05:45,520",
+      "end_time": "00:05:50,160",
+      "text": "the in the broken down kind of uh"
+    },
+    {
+      "start_time": "00:05:48,080",
+      "end_time": "00:05:51,440",
+      "text": "courtyard of this old ruin okay so"
+    },
+    {
+      "start_time": "00:05:50,160",
+      "end_time": "00:05:52,800",
+      "text": "that's basically"
+    },
+    {
+      "start_time": "00:05:51,440",
+      "end_time": "00:05:54,720",
+      "text": "what happens so"
+    },
+    {
+      "start_time": "00:05:52,800",
+      "end_time": "00:05:56,800",
+      "text": "as you move your your horses in you're"
+    },
+    {
+      "start_time": "00:05:54,720",
+      "end_time": "00:05:58,319",
+      "text": "not exactly sure how far back lord ren"
+    },
+    {
+      "start_time": "00:05:56,800",
+      "end_time": "00:06:00,240",
+      "text": "is but you know that he's definitely on"
+    },
+    {
+      "start_time": "00:05:58,319",
+      "end_time": "00:06:01,759",
+      "text": "the way you don't know what powers he"
+    },
+    {
+      "start_time": "00:06:00,240",
+      "end_time": "00:06:02,800",
+      "text": "has to track you or anything like that"
+    },
+    {
+      "start_time": "00:06:01,759",
+      "end_time": "00:06:04,560",
+      "text": "you've been you've managed to take"
+    },
+    {
+      "start_time": "00:06:02,800",
+      "end_time": "00:06:07,440",
+      "text": "shelter in this broken down old ruin as"
+    },
+    {
+      "start_time": "00:06:04,560",
+      "end_time": "00:06:09,680",
+      "text": "i said now uh the courtyard itself is"
+    },
+    {
+      "start_time": "00:06:07,440",
+      "end_time": "00:06:11,680",
+      "text": "wide open so the the rain the hail is"
+    },
+    {
+      "start_time": "00:06:09,680",
+      "end_time": "00:06:13,039",
+      "text": "still falling down pelting the the"
+    },
+    {
+      "start_time": "00:06:11,680",
+      "end_time": "00:06:15,919",
+      "text": "decayed broken down stones of the"
+    },
+    {
+      "start_time": "00:06:13,039",
+      "end_time": "00:06:17,759",
+      "text": "courtyard but there are a number of uh"
+    },
+    {
+      "start_time": "00:06:15,919",
+      "end_time": "00:06:18,960",
+      "text": "inner buildings in the courtyard one"
+    },
+    {
+      "start_time": "00:06:17,759",
+      "end_time": "00:06:20,880",
+      "text": "looks like it might have been a stable"
+    },
+    {
+      "start_time": "00:06:18,960",
+      "end_time": "00:06:23,520",
+      "text": "at one time one looks maybe with some"
+    },
+    {
+      "start_time": "00:06:20,880",
+      "end_time": "00:06:25,840",
+      "text": "sort of kitchen uh maybe a guard"
+    },
+    {
+      "start_time": "00:06:23,520",
+      "end_time": "00:06:27,680",
+      "text": "a guards building so there's a bunch of"
+    },
+    {
+      "start_time": "00:06:25,840",
+      "end_time": "00:06:29,919",
+      "text": "little buildings in the inside and then"
+    },
+    {
+      "start_time": "00:06:27,680",
+      "end_time": "00:06:32,720",
+      "text": "there's a central tower as well the top"
+    },
+    {
+      "start_time": "00:06:29,919",
+      "end_time": "00:06:34,880",
+      "text": "of the tower is kind of broken down"
+    },
+    {
+      "start_time": "00:06:32,720",
+      "end_time": "00:06:36,240",
+      "text": "but the the middle sections of it maybe"
+    },
+    {
+      "start_time": "00:06:34,880",
+      "end_time": "00:06:38,400",
+      "text": "the first two or three stories look to"
+    },
+    {
+      "start_time": "00:06:36,240",
+      "end_time": "00:06:41,039",
+      "text": "be largely intact you can see as well"
+    },
+    {
+      "start_time": "00:06:38,400",
+      "end_time": "00:06:44,560",
+      "text": "that there's a large double doors"
+    },
+    {
+      "start_time": "00:06:41,039",
+      "end_time": "00:06:46,960",
+      "text": "to the tower that um appear to be again"
+    },
+    {
+      "start_time": "00:06:44,560",
+      "end_time": "00:06:48,800",
+      "text": "intact and actually rather well"
+    },
+    {
+      "start_time": "00:06:46,960",
+      "end_time": "00:06:50,560",
+      "text": "maintained which is sort of an odd thing"
+    },
+    {
+      "start_time": "00:06:48,800",
+      "end_time": "00:06:53,759",
+      "text": "considering that this is a ruin but the"
+    },
+    {
+      "start_time": "00:06:50,560",
+      "end_time": "00:06:55,039",
+      "text": "the doors seem to be well maintained"
+    },
+    {
+      "start_time": "00:06:53,759",
+      "end_time": "00:06:56,800",
+      "text": "so what i've just done here is make a"
+    },
+    {
+      "start_time": "00:06:55,039",
+      "end_time": "00:06:58,639",
+      "text": "bunch of stuff up i don't know any i"
+    },
+    {
+      "start_time": "00:06:56,800",
+      "end_time": "00:07:00,800",
+      "text": "have no reason to to add that detail"
+    },
+    {
+      "start_time": "00:06:58,639",
+      "end_time": "00:07:02,639",
+      "text": "about the doors it's just i was going"
+    },
+    {
+      "start_time": "00:07:00,800",
+      "end_time": "00:07:03,919",
+      "text": "with my instinct i was going with what i"
+    },
+    {
+      "start_time": "00:07:02,639",
+      "end_time": "00:07:05,280",
+      "text": "first thought and just painting the"
+    },
+    {
+      "start_time": "00:07:03,919",
+      "end_time": "00:07:07,039",
+      "text": "picture as i go so now we'll see what"
+    },
+    {
+      "start_time": "00:07:05,280",
+      "end_time": "00:07:09,440",
+      "text": "they do with it"
+    },
+    {
+      "start_time": "00:07:07,039",
+      "end_time": "00:07:11,120",
+      "text": "okay the rain and the hell falls you're"
+    },
+    {
+      "start_time": "00:07:09,440",
+      "end_time": "00:07:13,280",
+      "text": "in the courtyard your horses are"
+    },
+    {
+      "start_time": "00:07:11,120",
+      "end_time": "00:07:17,560",
+      "text": "wickering and naying at being pelted by"
+    },
+    {
+      "start_time": "00:07:13,280",
+      "end_time": "00:07:17,560",
+      "text": "rain and hail what do you do"
+    },
+    {
+      "start_time": "00:07:18,000",
+      "end_time": "00:07:22,400",
+      "text": "well let's let us go and get the uh"
+    },
+    {
+      "start_time": "00:07:20,000",
+      "end_time": "00:07:25,520",
+      "text": "horses to this stable uh type thing and"
+    },
+    {
+      "start_time": "00:07:22,400",
+      "end_time": "00:07:26,400",
+      "text": "uh we can take shelter under this uh"
+    },
+    {
+      "start_time": "00:07:25,520",
+      "end_time": "00:07:28,880",
+      "text": "uh"
+    },
+    {
+      "start_time": "00:07:26,400",
+      "end_time": "00:07:28,880",
+      "text": "place"
+    },
+    {
+      "start_time": "00:07:29,039",
+      "end_time": "00:07:33,520",
+      "text": "sounds good to me uh"
+    },
+    {
+      "start_time": "00:07:31,599",
+      "end_time": "00:07:35,919",
+      "text": "do you think we should"
+    },
+    {
+      "start_time": "00:07:33,520",
+      "end_time": "00:07:37,440",
+      "text": "make our stand there or we should just"
+    },
+    {
+      "start_time": "00:07:35,919",
+      "end_time": "00:07:40,160",
+      "text": "hide"
+    },
+    {
+      "start_time": "00:07:37,440",
+      "end_time": "00:07:42,960",
+      "text": "i think we should just hide"
+    },
+    {
+      "start_time": "00:07:40,160",
+      "end_time": "00:07:45,520",
+      "text": "until we know what is better coming"
+    },
+    {
+      "start_time": "00:07:42,960",
+      "end_time": "00:07:47,520",
+      "text": "after us i think maybe stealth is the"
+    },
+    {
+      "start_time": "00:07:45,520",
+      "end_time": "00:07:49,440",
+      "text": "best order"
+    },
+    {
+      "start_time": "00:07:47,520",
+      "end_time": "00:07:50,800",
+      "text": "all right"
+    },
+    {
+      "start_time": "00:07:49,440",
+      "end_time": "00:07:52,400",
+      "text": "so that's what you're trying right now"
+    },
+    {
+      "start_time": "00:07:50,800",
+      "end_time": "00:07:55,199",
+      "text": "stuff oh yeah yeah no you're doing a"
+    },
+    {
+      "start_time": "00:07:52,400",
+      "end_time": "00:07:55,199",
+      "text": "good job very good"
+    },
+    {
+      "start_time": "00:07:55,599",
+      "end_time": "00:07:59,039",
+      "text": "so you're moving towards the stables is"
+    },
+    {
+      "start_time": "00:07:57,440",
+      "end_time": "00:08:01,120",
+      "text": "that what i heard you say yeah we're"
+    },
+    {
+      "start_time": "00:07:59,039",
+      "end_time": "00:08:03,039",
+      "text": "gonna uh tie off these horses in the"
+    },
+    {
+      "start_time": "00:08:01,120",
+      "end_time": "00:08:04,160",
+      "text": "stables and uh"
+    },
+    {
+      "start_time": "00:08:03,039",
+      "end_time": "00:08:06,479",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:08:04,160",
+      "end_time": "00:08:08,080",
+      "text": "take some shelter so my first thought is"
+    },
+    {
+      "start_time": "00:08:06,479",
+      "end_time": "00:08:09,599",
+      "text": "is there a danger in the stables i've"
+    },
+    {
+      "start_time": "00:08:08,080",
+      "end_time": "00:08:11,680",
+      "text": "already described it as an old stables"
+    },
+    {
+      "start_time": "00:08:09,599",
+      "end_time": "00:08:13,280",
+      "text": "and this is obviously a ruin so"
+    },
+    {
+      "start_time": "00:08:11,680",
+      "end_time": "00:08:14,639",
+      "text": "i'm going to presume that there's a roof"
+    },
+    {
+      "start_time": "00:08:13,280",
+      "end_time": "00:08:16,000",
+      "text": "so that they are actually going to be"
+    },
+    {
+      "start_time": "00:08:14,639",
+      "end_time": "00:08:17,360",
+      "text": "able to put the horses in there and keep"
+    },
+    {
+      "start_time": "00:08:16,000",
+      "end_time": "00:08:18,879",
+      "text": "them covered but what i want to know is"
+    },
+    {
+      "start_time": "00:08:17,360",
+      "end_time": "00:08:21,199",
+      "text": "is there an obstacle of some sort is"
+    },
+    {
+      "start_time": "00:08:18,879",
+      "end_time": "00:08:23,680",
+      "text": "there some sort of danger in there so"
+    },
+    {
+      "start_time": "00:08:21,199",
+      "end_time": "00:08:25,919",
+      "text": "because our chaos factor is at five and"
+    },
+    {
+      "start_time": "00:08:23,680",
+      "end_time": "00:08:27,520",
+      "text": "right now the opening scene is hide from"
+    },
+    {
+      "start_time": "00:08:25,919",
+      "end_time": "00:08:29,520",
+      "text": "lord wren"
+    },
+    {
+      "start_time": "00:08:27,520",
+      "end_time": "00:08:31,039",
+      "text": "what we want to do is ask our first"
+    },
+    {
+      "start_time": "00:08:29,520",
+      "end_time": "00:08:32,719",
+      "text": "question of the chart which is going to"
+    },
+    {
+      "start_time": "00:08:31,039",
+      "end_time": "00:08:34,800",
+      "text": "be"
+    },
+    {
+      "start_time": "00:08:32,719",
+      "end_time": "00:08:37,680",
+      "text": "is there a danger in the stable our"
+    },
+    {
+      "start_time": "00:08:34,800",
+      "end_time": "00:08:40,159",
+      "text": "chaos rank is at five i am going to say"
+    },
+    {
+      "start_time": "00:08:37,680",
+      "end_time": "00:08:42,640",
+      "text": "using my judgment that it's probably"
+    },
+    {
+      "start_time": "00:08:40,159",
+      "end_time": "00:08:46,399",
+      "text": "unlikely so i've got a 35 chance of yes"
+    },
+    {
+      "start_time": "00:08:42,640",
+      "end_time": "00:08:49,519",
+      "text": "response and i roll 83 which is a no"
+    },
+    {
+      "start_time": "00:08:46,399",
+      "end_time": "00:08:52,160",
+      "text": "okay you open the doors of the stable uh"
+    },
+    {
+      "start_time": "00:08:49,519",
+      "end_time": "00:08:54,959",
+      "text": "the building is largely intact the roof"
+    },
+    {
+      "start_time": "00:08:52,160",
+      "end_time": "00:08:56,880",
+      "text": "interestingly enough and uh and um uh"
+    },
+    {
+      "start_time": "00:08:54,959",
+      "end_time": "00:08:59,040",
+      "text": "positively enough is also intact so it's"
+    },
+    {
+      "start_time": "00:08:56,880",
+      "end_time": "00:09:02,000",
+      "text": "going to give your horses certainly uh a"
+    },
+    {
+      "start_time": "00:08:59,040",
+      "end_time": "00:09:04,000",
+      "text": "respite from the storm uh the stalls are"
+    },
+    {
+      "start_time": "00:09:02,000",
+      "end_time": "00:09:06,160",
+      "text": "are still intact as well uh it looks"
+    },
+    {
+      "start_time": "00:09:04,000",
+      "end_time": "00:09:08,160",
+      "text": "like the principal damage to the keep"
+    },
+    {
+      "start_time": "00:09:06,160",
+      "end_time": "00:09:09,839",
+      "text": "was done or i'm sorry the principal"
+    },
+    {
+      "start_time": "00:09:08,160",
+      "end_time": "00:09:12,800",
+      "text": "damage to the to the castle was done to"
+    },
+    {
+      "start_time": "00:09:09,839",
+      "end_time": "00:09:14,560",
+      "text": "the tower itself the outbuildings are"
+    },
+    {
+      "start_time": "00:09:12,800",
+      "end_time": "00:09:16,320",
+      "text": "are not so much damage so"
+    },
+    {
+      "start_time": "00:09:14,560",
+      "end_time": "00:09:18,480",
+      "text": "whatever caused the downfall of this"
+    },
+    {
+      "start_time": "00:09:16,320",
+      "end_time": "00:09:20,720",
+      "text": "particular castle it probably wasn't an"
+    },
+    {
+      "start_time": "00:09:18,480",
+      "end_time": "00:09:22,320",
+      "text": "assault or an attack from without"
+    },
+    {
+      "start_time": "00:09:20,720",
+      "end_time": "00:09:23,519",
+      "text": "because then these wooden buildings"
+    },
+    {
+      "start_time": "00:09:22,320",
+      "end_time": "00:09:26,000",
+      "text": "probably would have been reduced to"
+    },
+    {
+      "start_time": "00:09:23,519",
+      "end_time": "00:09:28,399",
+      "text": "ruins right but they are all intact so"
+    },
+    {
+      "start_time": "00:09:26,000",
+      "end_time": "00:09:30,640",
+      "text": "um yeah you open the stables you're able"
+    },
+    {
+      "start_time": "00:09:28,399",
+      "end_time": "00:09:33,600",
+      "text": "to tie off the horses um"
+    },
+    {
+      "start_time": "00:09:30,640",
+      "end_time": "00:09:35,200",
+      "text": "there's old moldy straw in here but"
+    },
+    {
+      "start_time": "00:09:33,600",
+      "end_time": "00:09:37,200",
+      "text": "basically everything you would imagine"
+    },
+    {
+      "start_time": "00:09:35,200",
+      "end_time": "00:09:39,040",
+      "text": "there would be in a stables in an old"
+    },
+    {
+      "start_time": "00:09:37,200",
+      "end_time": "00:09:40,320",
+      "text": "keep essentially is what you see with"
+    },
+    {
+      "start_time": "00:09:39,040",
+      "end_time": "00:09:42,640",
+      "text": "your first with your first kind of"
+    },
+    {
+      "start_time": "00:09:40,320",
+      "end_time": "00:09:46,480",
+      "text": "glance"
+    },
+    {
+      "start_time": "00:09:42,640",
+      "end_time": "00:09:48,720",
+      "text": "okay is this a stable that has the loft"
+    },
+    {
+      "start_time": "00:09:46,480",
+      "end_time": "00:09:51,600",
+      "text": "area up above yes"
+    },
+    {
+      "start_time": "00:09:48,720",
+      "end_time": "00:09:54,320",
+      "text": "okay i would like um"
+    },
+    {
+      "start_time": "00:09:51,600",
+      "end_time": "00:09:57,200",
+      "text": "vincent mind if i borrow that crossbow"
+    },
+    {
+      "start_time": "00:09:54,320",
+      "end_time": "00:09:59,200",
+      "text": "yours uh i'm gonna try and get up high"
+    },
+    {
+      "start_time": "00:09:57,200",
+      "end_time": "00:10:02,480",
+      "text": "and see if i can get a better look at"
+    },
+    {
+      "start_time": "00:09:59,200",
+      "end_time": "00:10:04,399",
+      "text": "what's coming for us be my guest"
+    },
+    {
+      "start_time": "00:10:02,480",
+      "end_time": "00:10:06,800",
+      "text": "okay well there's a ladder that goes up"
+    },
+    {
+      "start_time": "00:10:04,399",
+      "end_time": "00:10:09,440",
+      "text": "to the loft uh as you climb up there"
+    },
+    {
+      "start_time": "00:10:06,800",
+      "end_time": "00:10:10,959",
+      "text": "it's an old rickety ladder but"
+    },
+    {
+      "start_time": "00:10:09,440",
+      "end_time": "00:10:12,880",
+      "text": "holds your weight no problem when you"
+    },
+    {
+      "start_time": "00:10:10,959",
+      "end_time": "00:10:16,079",
+      "text": "get up to the top loft once again"
+    },
+    {
+      "start_time": "00:10:12,880",
+      "end_time": "00:10:18,959",
+      "text": "covered in old stale moldy straw but you"
+    },
+    {
+      "start_time": "00:10:16,079",
+      "end_time": "00:10:21,519",
+      "text": "can certainly see that there is a window"
+    },
+    {
+      "start_time": "00:10:18,959",
+      "end_time": "00:10:22,880",
+      "text": "with kind of a half broken shutter on"
+    },
+    {
+      "start_time": "00:10:21,519",
+      "end_time": "00:10:24,880",
+      "text": "the uh"
+    },
+    {
+      "start_time": "00:10:22,880",
+      "end_time": "00:10:27,519",
+      "text": "on the far side of the the loft area so"
+    },
+    {
+      "start_time": "00:10:24,880",
+      "end_time": "00:10:29,920",
+      "text": "it would afford you a vantage point to"
+    },
+    {
+      "start_time": "00:10:27,519",
+      "end_time": "00:10:32,640",
+      "text": "look out back the way you came"
+    },
+    {
+      "start_time": "00:10:29,920",
+      "end_time": "00:10:35,279",
+      "text": "perfect i just i have the crossbow so"
+    },
+    {
+      "start_time": "00:10:32,640",
+      "end_time": "00:10:37,600",
+      "text": "i'm watching to see who is coming after"
+    },
+    {
+      "start_time": "00:10:35,279",
+      "end_time": "00:10:40,240",
+      "text": "us uh so i can okay"
+    },
+    {
+      "start_time": "00:10:37,600",
+      "end_time": "00:10:42,480",
+      "text": "warning if necessary the rain is falling"
+    },
+    {
+      "start_time": "00:10:40,240",
+      "end_time": "00:10:44,480",
+      "text": "in sheets it's the middle of the day so"
+    },
+    {
+      "start_time": "00:10:42,480",
+      "end_time": "00:10:46,480",
+      "text": "it's very gray but your visibility is"
+    },
+    {
+      "start_time": "00:10:44,480",
+      "end_time": "00:10:48,480",
+      "text": "very much um"
+    },
+    {
+      "start_time": "00:10:46,480",
+      "end_time": "00:10:50,880",
+      "text": "occluded is that the word occluded by"
+    },
+    {
+      "start_time": "00:10:48,480",
+      "end_time": "00:10:53,360",
+      "text": "the uh the the sheets of water falling"
+    },
+    {
+      "start_time": "00:10:50,880",
+      "end_time": "00:10:55,440",
+      "text": "from the sky that said make a perception"
+    },
+    {
+      "start_time": "00:10:53,360",
+      "end_time": "00:10:58,240",
+      "text": "with disadvantage"
+    },
+    {
+      "start_time": "00:10:55,440",
+      "end_time": "00:11:01,120",
+      "text": "look at me playing d and d"
+    },
+    {
+      "start_time": "00:10:58,240",
+      "end_time": "00:11:02,800",
+      "text": "so good at it two"
+    },
+    {
+      "start_time": "00:11:01,120",
+      "end_time": "00:11:03,600",
+      "text": "two i got a two"
+    },
+    {
+      "start_time": "00:11:02,800",
+      "end_time": "00:11:04,880",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:11:03,600",
+      "end_time": "00:11:06,560",
+      "text": "right because disadvantage you take the"
+    },
+    {
+      "start_time": "00:11:04,880",
+      "end_time": "00:11:08,880",
+      "text": "lower i knew that"
+    },
+    {
+      "start_time": "00:11:06,560",
+      "end_time": "00:11:08,880",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:11:09,120",
+      "end_time": "00:11:12,399",
+      "text": "well"
+    },
+    {
+      "start_time": "00:11:10,560",
+      "end_time": "00:11:15,360",
+      "text": "if there was something to see you would"
+    },
+    {
+      "start_time": "00:11:12,399",
+      "end_time": "00:11:17,760",
+      "text": "see it it's just the rain man it's like"
+    },
+    {
+      "start_time": "00:11:15,360",
+      "end_time": "00:11:19,680",
+      "text": "it's like a an impenetrable wall of"
+    },
+    {
+      "start_time": "00:11:17,760",
+      "end_time": "00:11:20,959",
+      "text": "water that's reducing your visibility to"
+    },
+    {
+      "start_time": "00:11:19,680",
+      "end_time": "00:11:22,959",
+      "text": "maybe like"
+    },
+    {
+      "start_time": "00:11:20,959",
+      "end_time": "00:11:24,320",
+      "text": "maybe 30 feet so"
+    },
+    {
+      "start_time": "00:11:22,959",
+      "end_time": "00:11:26,240",
+      "text": "you can definitely see back the way you"
+    },
+    {
+      "start_time": "00:11:24,320",
+      "end_time": "00:11:29,120",
+      "text": "came up to 30 feet but past that it's"
+    },
+    {
+      "start_time": "00:11:26,240",
+      "end_time": "00:11:30,720",
+      "text": "just sheets of rain and the thunder is"
+    },
+    {
+      "start_time": "00:11:29,120",
+      "end_time": "00:11:32,160",
+      "text": "rolling and there's lightning flashing"
+    },
+    {
+      "start_time": "00:11:30,720",
+      "end_time": "00:11:34,320",
+      "text": "in the sky"
+    },
+    {
+      "start_time": "00:11:32,160",
+      "end_time": "00:11:36,480",
+      "text": "i'm gonna where when he's doing that i'm"
+    },
+    {
+      "start_time": "00:11:34,320",
+      "end_time": "00:11:39,040",
+      "text": "gonna go back through the the gate that"
+    },
+    {
+      "start_time": "00:11:36,480",
+      "end_time": "00:11:39,920",
+      "text": "we came and see if i can secure it some"
+    },
+    {
+      "start_time": "00:11:39,040",
+      "end_time": "00:11:43,040",
+      "text": "way"
+    },
+    {
+      "start_time": "00:11:39,920",
+      "end_time": "00:11:44,320",
+      "text": "uh the ruin gate to the uh to the um"
+    },
+    {
+      "start_time": "00:11:43,040",
+      "end_time": "00:11:45,920",
+      "text": "courtyard"
+    },
+    {
+      "start_time": "00:11:44,320",
+      "end_time": "00:11:47,200",
+      "text": "yeah the the yeah the you have to get to"
+    },
+    {
+      "start_time": "00:11:45,920",
+      "end_time": "00:11:48,399",
+      "text": "the court here so we're like we we came"
+    },
+    {
+      "start_time": "00:11:47,200",
+      "end_time": "00:11:50,639",
+      "text": "in we're in this keep i don't want"
+    },
+    {
+      "start_time": "00:11:48,399",
+      "end_time": "00:11:52,639",
+      "text": "someone just coming up behind us uh easy"
+    },
+    {
+      "start_time": "00:11:50,639",
+      "end_time": "00:11:53,440",
+      "text": "enough you know i want to okay borrow it"
+    },
+    {
+      "start_time": "00:11:52,639",
+      "end_time": "00:11:54,880",
+      "text": "or"
+    },
+    {
+      "start_time": "00:11:53,440",
+      "end_time": "00:11:56,480",
+      "text": "do something so that at least we'll hear"
+    },
+    {
+      "start_time": "00:11:54,880",
+      "end_time": "00:11:58,560",
+      "text": "them coming through it so what i want to"
+    },
+    {
+      "start_time": "00:11:56,480",
+      "end_time": "00:12:00,959",
+      "text": "do now is ask the chart if there's"
+    },
+    {
+      "start_time": "00:11:58,560",
+      "end_time": "00:12:03,600",
+      "text": "enough of the gate left to be able to"
+    },
+    {
+      "start_time": "00:12:00,959",
+      "end_time": "00:12:05,360",
+      "text": "actually use as a defensive position"
+    },
+    {
+      "start_time": "00:12:03,600",
+      "end_time": "00:12:06,560",
+      "text": "like like what sebastian's asking so i"
+    },
+    {
+      "start_time": "00:12:05,360",
+      "end_time": "00:12:09,120",
+      "text": "think there's a probably pretty good"
+    },
+    {
+      "start_time": "00:12:06,560",
+      "end_time": "00:12:10,480",
+      "text": "chance i did just say that the the ruin"
+    },
+    {
+      "start_time": "00:12:09,120",
+      "end_time": "00:12:12,240",
+      "text": "is largely intact in terms of its"
+    },
+    {
+      "start_time": "00:12:10,480",
+      "end_time": "00:12:14,720",
+      "text": "outbuildings so i'm going to say it's"
+    },
+    {
+      "start_time": "00:12:12,240",
+      "end_time": "00:12:16,639",
+      "text": "very likely that this will be uh that he"
+    },
+    {
+      "start_time": "00:12:14,720",
+      "end_time": "00:12:18,480",
+      "text": "will be able to use the doors as a"
+    },
+    {
+      "start_time": "00:12:16,639",
+      "end_time": "00:12:20,399",
+      "text": "defensive position as he's asking and"
+    },
+    {
+      "start_time": "00:12:18,480",
+      "end_time": "00:12:23,120",
+      "text": "the answer is yes"
+    },
+    {
+      "start_time": "00:12:20,399",
+      "end_time": "00:12:25,839",
+      "text": "uh yeah it looks like um the gates are"
+    },
+    {
+      "start_time": "00:12:23,120",
+      "end_time": "00:12:27,760",
+      "text": "still intact much as the other"
+    },
+    {
+      "start_time": "00:12:25,839",
+      "end_time": "00:12:29,600",
+      "text": "outbuildings in the in the courtyard are"
+    },
+    {
+      "start_time": "00:12:27,760",
+      "end_time": "00:12:31,760",
+      "text": "so again further evidence that this this"
+    },
+    {
+      "start_time": "00:12:29,600",
+      "end_time": "00:12:33,519",
+      "text": "place was not destroyed by an assault or"
+    },
+    {
+      "start_time": "00:12:31,760",
+      "end_time": "00:12:35,839",
+      "text": "anything like that so yeah you're able"
+    },
+    {
+      "start_time": "00:12:33,519",
+      "end_time": "00:12:38,399",
+      "text": "to to haul the gates shut and there's"
+    },
+    {
+      "start_time": "00:12:35,839",
+      "end_time": "00:12:41,360",
+      "text": "even um there's even a rusted old series"
+    },
+    {
+      "start_time": "00:12:38,399",
+      "end_time": "00:12:43,279",
+      "text": "of brackets to put a big bar in"
+    },
+    {
+      "start_time": "00:12:41,360",
+      "end_time": "00:12:44,720",
+      "text": "great and i do what is your strength by"
+    },
+    {
+      "start_time": "00:12:43,279",
+      "end_time": "00:12:46,320",
+      "text": "the way"
+    },
+    {
+      "start_time": "00:12:44,720",
+      "end_time": "00:12:48,639",
+      "text": "my strength is"
+    },
+    {
+      "start_time": "00:12:46,320",
+      "end_time": "00:12:51,120",
+      "text": "16. okay no problem you're able to grab"
+    },
+    {
+      "start_time": "00:12:48,639",
+      "end_time": "00:12:52,959",
+      "text": "that bar and just kind of put it inside"
+    },
+    {
+      "start_time": "00:12:51,120",
+      "end_time": "00:12:54,320",
+      "text": "you're not sure how that would law uh"
+    },
+    {
+      "start_time": "00:12:52,959",
+      "end_time": "00:12:56,160",
+      "text": "how long that would last against the"
+    },
+    {
+      "start_time": "00:12:54,320",
+      "end_time": "00:12:58,560",
+      "text": "sustained assault by a group of armed"
+    },
+    {
+      "start_time": "00:12:56,160",
+      "end_time": "00:12:59,760",
+      "text": "men but certainly it'll buy you some"
+    },
+    {
+      "start_time": "00:12:58,560",
+      "end_time": "00:13:00,720",
+      "text": "time"
+    },
+    {
+      "start_time": "00:12:59,760",
+      "end_time": "00:13:02,720",
+      "text": "great"
+    },
+    {
+      "start_time": "00:13:00,720",
+      "end_time": "00:13:05,040",
+      "text": "and then i will once having done that i"
+    },
+    {
+      "start_time": "00:13:02,720",
+      "end_time": "00:13:08,560",
+      "text": "will go back to the stable and take care"
+    },
+    {
+      "start_time": "00:13:05,040",
+      "end_time": "00:13:11,760",
+      "text": "of my horse okay better you know uh tack"
+    },
+    {
+      "start_time": "00:13:08,560",
+      "end_time": "00:13:12,800",
+      "text": "them down okay so while sir vincent is"
+    },
+    {
+      "start_time": "00:13:11,760",
+      "end_time": "00:13:14,160",
+      "text": "uh uh"
+    },
+    {
+      "start_time": "00:13:12,800",
+      "end_time": "00:13:16,639",
+      "text": "you know brushing the horse down all"
+    },
+    {
+      "start_time": "00:13:14,160",
+      "end_time": "00:13:18,240",
+      "text": "that kind of stuff um is dusk rats still"
+    },
+    {
+      "start_time": "00:13:16,639",
+      "end_time": "00:13:21,120",
+      "text": "up are you still up in the loft or are"
+    },
+    {
+      "start_time": "00:13:18,240",
+      "end_time": "00:13:22,320",
+      "text": "you changing your your tactics no i i"
+    },
+    {
+      "start_time": "00:13:21,120",
+      "end_time": "00:13:24,480",
+      "text": "think this is"
+    },
+    {
+      "start_time": "00:13:22,320",
+      "end_time": "00:13:26,959",
+      "text": "as good a vantage point as we're likely"
+    },
+    {
+      "start_time": "00:13:24,480",
+      "end_time": "00:13:29,360",
+      "text": "to get from this window"
+    },
+    {
+      "start_time": "00:13:26,959",
+      "end_time": "00:13:30,160",
+      "text": "is there any chance that my luck holds"
+    },
+    {
+      "start_time": "00:13:29,360",
+      "end_time": "00:13:32,639",
+      "text": "to"
+    },
+    {
+      "start_time": "00:13:30,160",
+      "end_time": "00:13:34,800",
+      "text": "be able to see the direction of the gate"
+    },
+    {
+      "start_time": "00:13:32,639",
+      "end_time": "00:13:36,800",
+      "text": "that was just barred as well as the"
+    },
+    {
+      "start_time": "00:13:34,800",
+      "end_time": "00:13:39,120",
+      "text": "tower"
+    },
+    {
+      "start_time": "00:13:36,800",
+      "end_time": "00:13:41,199",
+      "text": "well i think that's um i'm not even"
+    },
+    {
+      "start_time": "00:13:39,120",
+      "end_time": "00:13:43,120",
+      "text": "going to roll for this i'm just going to"
+    },
+    {
+      "start_time": "00:13:41,199",
+      "end_time": "00:13:44,720",
+      "text": "use my common sense and say yes you"
+    },
+    {
+      "start_time": "00:13:43,120",
+      "end_time": "00:13:46,240",
+      "text": "could look out and you can see the bard"
+    },
+    {
+      "start_time": "00:13:44,720",
+      "end_time": "00:13:47,040",
+      "text": "gate and you can also see past it as"
+    },
+    {
+      "start_time": "00:13:46,240",
+      "end_time": "00:13:48,720",
+      "text": "well"
+    },
+    {
+      "start_time": "00:13:47,040",
+      "end_time": "00:13:51,279",
+      "text": "the only reason why you can see past the"
+    },
+    {
+      "start_time": "00:13:48,720",
+      "end_time": "00:13:53,519",
+      "text": "gate is of course you're up high in the"
+    },
+    {
+      "start_time": "00:13:51,279",
+      "end_time": "00:13:55,440",
+      "text": "stable that allows you to see over the"
+    },
+    {
+      "start_time": "00:13:53,519",
+      "end_time": "00:13:57,519",
+      "text": "gate it's a low gate but you know and"
+    },
+    {
+      "start_time": "00:13:55,440",
+      "end_time": "00:13:59,600",
+      "text": "and i'm hoping that the the rain that's"
+    },
+    {
+      "start_time": "00:13:57,519",
+      "end_time": "00:14:01,279",
+      "text": "compromising my vision will compromise"
+    },
+    {
+      "start_time": "00:13:59,600",
+      "end_time": "00:14:04,959",
+      "text": "any pursuers so"
+    },
+    {
+      "start_time": "00:14:01,279",
+      "end_time": "00:14:06,399",
+      "text": "seems like this is a pretty good spot um"
+    },
+    {
+      "start_time": "00:14:04,959",
+      "end_time": "00:14:08,320",
+      "text": "i think"
+    },
+    {
+      "start_time": "00:14:06,399",
+      "end_time": "00:14:11,760",
+      "text": "rat"
+    },
+    {
+      "start_time": "00:14:08,320",
+      "end_time": "00:14:13,519",
+      "text": "he's a wiry skinny guy"
+    },
+    {
+      "start_time": "00:14:11,760",
+      "end_time": "00:14:14,959",
+      "text": "but he eats all the time so i think"
+    },
+    {
+      "start_time": "00:14:13,519",
+      "end_time": "00:14:16,560",
+      "text": "that's you know"
+    },
+    {
+      "start_time": "00:14:14,959",
+      "end_time": "00:14:18,000",
+      "text": "i'll take this opportunity i've got the"
+    },
+    {
+      "start_time": "00:14:16,560",
+      "end_time": "00:14:20,800",
+      "text": "crossbow"
+    },
+    {
+      "start_time": "00:14:18,000",
+      "end_time": "00:14:22,560",
+      "text": "in a good handy spot and i'm definitely"
+    },
+    {
+      "start_time": "00:14:20,800",
+      "end_time": "00:14:24,320",
+      "text": "paying attention but i'll also you know"
+    },
+    {
+      "start_time": "00:14:22,560",
+      "end_time": "00:14:26,160",
+      "text": "crack out some rations and"
+    },
+    {
+      "start_time": "00:14:24,320",
+      "end_time": "00:14:28,000",
+      "text": "have a little snack okay"
+    },
+    {
+      "start_time": "00:14:26,160",
+      "end_time": "00:14:30,720",
+      "text": "um i assume"
+    },
+    {
+      "start_time": "00:14:28,000",
+      "end_time": "00:14:33,040",
+      "text": "that uh sir vincent will will notice"
+    },
+    {
+      "start_time": "00:14:30,720",
+      "end_time": "00:14:35,040",
+      "text": "that my horse needs care as well he you"
+    },
+    {
+      "start_time": "00:14:33,040",
+      "end_time": "00:14:36,639",
+      "text": "know he's that kind of guy and that way"
+    },
+    {
+      "start_time": "00:14:35,040",
+      "end_time": "00:14:39,120",
+      "text": "i avoid work"
+    },
+    {
+      "start_time": "00:14:36,639",
+      "end_time": "00:14:40,720",
+      "text": "okay so at this point i've decided to"
+    },
+    {
+      "start_time": "00:14:39,120",
+      "end_time": "00:14:42,399",
+      "text": "end the scene here since the first scene"
+    },
+    {
+      "start_time": "00:14:40,720",
+      "end_time": "00:14:44,079",
+      "text": "was escape lord ren they've basically"
+    },
+    {
+      "start_time": "00:14:42,399",
+      "end_time": "00:14:45,440",
+      "text": "done that the next phase is going into"
+    },
+    {
+      "start_time": "00:14:44,079",
+      "end_time": "00:14:47,199",
+      "text": "exploration of this ruin because that's"
+    },
+    {
+      "start_time": "00:14:45,440",
+      "end_time": "00:14:48,240",
+      "text": "kind of what i what i want to see happen"
+    },
+    {
+      "start_time": "00:14:47,199",
+      "end_time": "00:14:49,920",
+      "text": "here because i think it's pretty cool so"
+    },
+    {
+      "start_time": "00:14:48,240",
+      "end_time": "00:14:51,519",
+      "text": "there's a couple things one i think that"
+    },
+    {
+      "start_time": "00:14:49,920",
+      "end_time": "00:14:53,120",
+      "text": "jared's observation is absolutely right"
+    },
+    {
+      "start_time": "00:14:51,519",
+      "end_time": "00:14:54,560",
+      "text": "i don't think that lord wren is going to"
+    },
+    {
+      "start_time": "00:14:53,120",
+      "end_time": "00:14:56,480",
+      "text": "be able to come after them because of"
+    },
+    {
+      "start_time": "00:14:54,560",
+      "end_time": "00:14:57,680",
+      "text": "the same rain that's preventing them"
+    },
+    {
+      "start_time": "00:14:56,480",
+      "end_time": "00:14:58,959",
+      "text": "from seeing out"
+    },
+    {
+      "start_time": "00:14:57,680",
+      "end_time": "00:15:00,399",
+      "text": "but also"
+    },
+    {
+      "start_time": "00:14:58,959",
+      "end_time": "00:15:02,320",
+      "text": "my next scene is going to be about"
+    },
+    {
+      "start_time": "00:15:00,399",
+      "end_time": "00:15:04,720",
+      "text": "exploring the tower so my first thing is"
+    },
+    {
+      "start_time": "00:15:02,320",
+      "end_time": "00:15:06,720",
+      "text": "i'm going to update our threads and i'm"
+    },
+    {
+      "start_time": "00:15:04,720",
+      "end_time": "00:15:08,480",
+      "text": "going to update our npc list well we've"
+    },
+    {
+      "start_time": "00:15:06,720",
+      "end_time": "00:15:10,240",
+      "text": "already got our npcs here we've got"
+    },
+    {
+      "start_time": "00:15:08,480",
+      "end_time": "00:15:12,720",
+      "text": "we've got dusk rat"
+    },
+    {
+      "start_time": "00:15:10,240",
+      "end_time": "00:15:14,399",
+      "text": "which is our first pc we've also got sir"
+    },
+    {
+      "start_time": "00:15:12,720",
+      "end_time": "00:15:16,720",
+      "text": "vincent"
+    },
+    {
+      "start_time": "00:15:14,399",
+      "end_time": "00:15:19,440",
+      "text": "and we've got lord wren and we've got"
+    },
+    {
+      "start_time": "00:15:16,720",
+      "end_time": "00:15:21,519",
+      "text": "the uh the temple of kodos and i think"
+    },
+    {
+      "start_time": "00:15:19,440",
+      "end_time": "00:15:24,480",
+      "text": "that's about it for now so are there new"
+    },
+    {
+      "start_time": "00:15:21,519",
+      "end_time": "00:15:27,120",
+      "text": "characters to add to this list um"
+    },
+    {
+      "start_time": "00:15:24,480",
+      "end_time": "00:15:29,920",
+      "text": "i don't think so are there any threads"
+    },
+    {
+      "start_time": "00:15:27,120",
+      "end_time": "00:15:31,199",
+      "text": "to add to this list yes well uh the"
+    },
+    {
+      "start_time": "00:15:29,920",
+      "end_time": "00:15:34,320",
+      "text": "threads that we would have added at the"
+    },
+    {
+      "start_time": "00:15:31,199",
+      "end_time": "00:15:35,680",
+      "text": "very top of this is protect the tome"
+    },
+    {
+      "start_time": "00:15:34,320",
+      "end_time": "00:15:38,000",
+      "text": "which is the book that sebastian's"
+    },
+    {
+      "start_time": "00:15:35,680",
+      "end_time": "00:15:39,120",
+      "text": "character is uh"
+    },
+    {
+      "start_time": "00:15:38,000",
+      "end_time": "00:15:40,639",
+      "text": "carrying"
+    },
+    {
+      "start_time": "00:15:39,120",
+      "end_time": "00:15:43,199",
+      "text": "i think a threat as well is probably"
+    },
+    {
+      "start_time": "00:15:40,639",
+      "end_time": "00:15:45,360",
+      "text": "going to be escape lord ren depending on"
+    },
+    {
+      "start_time": "00:15:43,199",
+      "end_time": "00:15:47,120",
+      "text": "how they want to handle that hard to say"
+    },
+    {
+      "start_time": "00:15:45,360",
+      "end_time": "00:15:49,440",
+      "text": "because it might turn into"
+    },
+    {
+      "start_time": "00:15:47,120",
+      "end_time": "00:15:51,600",
+      "text": "kill lord ren or events lord avenge"
+    },
+    {
+      "start_time": "00:15:49,440",
+      "end_time": "00:15:52,800",
+      "text": "yourselves against lord run or something"
+    },
+    {
+      "start_time": "00:15:51,600",
+      "end_time": "00:15:54,160",
+      "text": "but right now we have a threat that"
+    },
+    {
+      "start_time": "00:15:52,800",
+      "end_time": "00:15:55,600",
+      "text": "we're adding for this new scene and that"
+    },
+    {
+      "start_time": "00:15:54,160",
+      "end_time": "00:15:57,040",
+      "text": "thread is going to be"
+    },
+    {
+      "start_time": "00:15:55,600",
+      "end_time": "00:15:58,800",
+      "text": "explore the ruin"
+    },
+    {
+      "start_time": "00:15:57,040",
+      "end_time": "00:16:00,880",
+      "text": "now i'm not going to force their hand"
+    },
+    {
+      "start_time": "00:15:58,800",
+      "end_time": "00:16:02,720",
+      "text": "obviously but i'm going to ask some"
+    },
+    {
+      "start_time": "00:16:00,880",
+      "end_time": "00:16:03,920",
+      "text": "questions to see if there's anything"
+    },
+    {
+      "start_time": "00:16:02,720",
+      "end_time": "00:16:05,120",
+      "text": "that happens in the tower that sort of"
+    },
+    {
+      "start_time": "00:16:03,920",
+      "end_time": "00:16:07,759",
+      "text": "gets their attention so we'll see what"
+    },
+    {
+      "start_time": "00:16:05,120",
+      "end_time": "00:16:10,079",
+      "text": "happens which leads us to scene two our"
+    },
+    {
+      "start_time": "00:16:07,759",
+      "end_time": "00:16:11,279",
+      "text": "chaos factor is going to go up to six"
+    },
+    {
+      "start_time": "00:16:10,079",
+      "end_time": "00:16:12,959",
+      "text": "because things are pretty chaotic the"
+    },
+    {
+      "start_time": "00:16:11,279",
+      "end_time": "00:16:14,000",
+      "text": "first thing i want to do"
+    },
+    {
+      "start_time": "00:16:12,959",
+      "end_time": "00:16:15,360",
+      "text": "we've got our next scene which is"
+    },
+    {
+      "start_time": "00:16:14,000",
+      "end_time": "00:16:17,120",
+      "text": "explore the ruin"
+    },
+    {
+      "start_time": "00:16:15,360",
+      "end_time": "00:16:19,920",
+      "text": "but what i want to do now is roll the"
+    },
+    {
+      "start_time": "00:16:17,120",
+      "end_time": "00:16:21,680",
+      "text": "d10 against the chaos factor to see if"
+    },
+    {
+      "start_time": "00:16:19,920",
+      "end_time": "00:16:23,759",
+      "text": "the scene is interrupted or altered"
+    },
+    {
+      "start_time": "00:16:21,680",
+      "end_time": "00:16:26,079",
+      "text": "chaos factor six and i roll a ten so it"
+    },
+    {
+      "start_time": "00:16:23,759",
+      "end_time": "00:16:27,920",
+      "text": "is not so because we're starting without"
+    },
+    {
+      "start_time": "00:16:26,079",
+      "end_time": "00:16:29,279",
+      "text": "an interrupt scene or an altered scene"
+    },
+    {
+      "start_time": "00:16:27,920",
+      "end_time": "00:16:31,839",
+      "text": "i'm gonna ask my first question the"
+    },
+    {
+      "start_time": "00:16:29,279",
+      "end_time": "00:16:34,079",
+      "text": "scene is is there a sound that comes"
+    },
+    {
+      "start_time": "00:16:31,839",
+      "end_time": "00:16:36,240",
+      "text": "from the tower that gets their attention"
+    },
+    {
+      "start_time": "00:16:34,079",
+      "end_time": "00:16:37,920",
+      "text": "well because i really like that idea or"
+    },
+    {
+      "start_time": "00:16:36,240",
+      "end_time": "00:16:40,560",
+      "text": "chaos factor six i'm going to say that"
+    },
+    {
+      "start_time": "00:16:37,920",
+      "end_time": "00:16:43,040",
+      "text": "that is a near sure thing"
+    },
+    {
+      "start_time": "00:16:40,560",
+      "end_time": "00:16:45,040",
+      "text": "and i'm going to roll with a 33. okay"
+    },
+    {
+      "start_time": "00:16:43,040",
+      "end_time": "00:16:46,160",
+      "text": "this is interesting i have a yes answer"
+    },
+    {
+      "start_time": "00:16:45,040",
+      "end_time": "00:16:48,399",
+      "text": "they're going to hear something but"
+    },
+    {
+      "start_time": "00:16:46,160",
+      "end_time": "00:16:50,800",
+      "text": "there's also a random event so they're"
+    },
+    {
+      "start_time": "00:16:48,399",
+      "end_time": "00:16:53,360",
+      "text": "definitely going to hear something um"
+    },
+    {
+      "start_time": "00:16:50,800",
+      "end_time": "00:16:56,160",
+      "text": "let's deal with that first"
+    },
+    {
+      "start_time": "00:16:53,360",
+      "end_time": "00:16:57,920",
+      "text": "as duskratt is eating your your your"
+    },
+    {
+      "start_time": "00:16:56,160",
+      "end_time": "00:16:59,920",
+      "text": "food up there and as sir vincent you're"
+    },
+    {
+      "start_time": "00:16:57,920",
+      "end_time": "00:17:02,240",
+      "text": "taking care of your horse you hear a"
+    },
+    {
+      "start_time": "00:16:59,920",
+      "end_time": "00:17:04,559",
+      "text": "sound over the din of the storm and over"
+    },
+    {
+      "start_time": "00:17:02,240",
+      "end_time": "00:17:07,039",
+      "text": "the patter of the rain as it falls down"
+    },
+    {
+      "start_time": "00:17:04,559",
+      "end_time": "00:17:09,039",
+      "text": "on the broken flagstones of the exterior"
+    },
+    {
+      "start_time": "00:17:07,039",
+      "end_time": "00:17:11,039",
+      "text": "courtyard what you hear"
+    },
+    {
+      "start_time": "00:17:09,039",
+      "end_time": "00:17:12,400",
+      "text": "is"
+    },
+    {
+      "start_time": "00:17:11,039",
+      "end_time": "00:17:13,520",
+      "text": "the sound"
+    },
+    {
+      "start_time": "00:17:12,400",
+      "end_time": "00:17:16,720",
+      "text": "of"
+    },
+    {
+      "start_time": "00:17:13,520",
+      "end_time": "00:17:19,199",
+      "text": "wood banging against wood and of course"
+    },
+    {
+      "start_time": "00:17:16,720",
+      "end_time": "00:17:21,199",
+      "text": "you know dusk right as you're looking"
+    },
+    {
+      "start_time": "00:17:19,199",
+      "end_time": "00:17:23,520",
+      "text": "out at that gate you don't see any"
+    },
+    {
+      "start_time": "00:17:21,199",
+      "end_time": "00:17:25,839",
+      "text": "evidence that anybody is battering on"
+    },
+    {
+      "start_time": "00:17:23,520",
+      "end_time": "00:17:27,679",
+      "text": "that gate from the outside"
+    },
+    {
+      "start_time": "00:17:25,839",
+      "end_time": "00:17:30,240",
+      "text": "in fact as you're looking out from your"
+    },
+    {
+      "start_time": "00:17:27,679",
+      "end_time": "00:17:32,320",
+      "text": "vantage point eating your rations you"
+    },
+    {
+      "start_time": "00:17:30,240",
+      "end_time": "00:17:33,840",
+      "text": "definitely here as you're looking out"
+    },
+    {
+      "start_time": "00:17:32,320",
+      "end_time": "00:17:34,960",
+      "text": "you're sort of you know pinpointing"
+    },
+    {
+      "start_time": "00:17:33,840",
+      "end_time": "00:17:36,480",
+      "text": "where the sound is coming from and it"
+    },
+    {
+      "start_time": "00:17:34,960",
+      "end_time": "00:17:39,600",
+      "text": "seems to be coming from"
+    },
+    {
+      "start_time": "00:17:36,480",
+      "end_time": "00:17:41,440",
+      "text": "inside the double doors of the tower"
+    },
+    {
+      "start_time": "00:17:39,600",
+      "end_time": "00:17:43,360",
+      "text": "that and as you kind of glance over you"
+    },
+    {
+      "start_time": "00:17:41,440",
+      "end_time": "00:17:44,799",
+      "text": "can see that that sound is being"
+    },
+    {
+      "start_time": "00:17:43,360",
+      "end_time": "00:17:47,440",
+      "text": "produced by"
+    },
+    {
+      "start_time": "00:17:44,799",
+      "end_time": "00:17:48,559",
+      "text": "something on the inside of that tower is"
+    },
+    {
+      "start_time": "00:17:47,440",
+      "end_time": "00:17:51,840",
+      "text": "banging"
+    },
+    {
+      "start_time": "00:17:48,559",
+      "end_time": "00:17:51,840",
+      "text": "banging against the doors"
+    },
+    {
+      "start_time": "00:17:53,280",
+      "end_time": "00:17:56,320",
+      "text": "uh"
+    },
+    {
+      "start_time": "00:17:54,640",
+      "end_time": "00:17:58,559",
+      "text": "vincent"
+    },
+    {
+      "start_time": "00:17:56,320",
+      "end_time": "00:18:01,280",
+      "text": "do you hear that"
+    },
+    {
+      "start_time": "00:17:58,559",
+      "end_time": "00:18:03,520",
+      "text": "i do yes that is time to go i think we"
+    },
+    {
+      "start_time": "00:18:01,280",
+      "end_time": "00:18:06,799",
+      "text": "need to leave now ghosts are not the"
+    },
+    {
+      "start_time": "00:18:03,520",
+      "end_time": "00:18:09,600",
+      "text": "thing that i do it so we go now"
+    },
+    {
+      "start_time": "00:18:06,799",
+      "end_time": "00:18:10,799",
+      "text": "okay yeah um"
+    },
+    {
+      "start_time": "00:18:09,600",
+      "end_time": "00:18:15,200",
+      "text": "so"
+    },
+    {
+      "start_time": "00:18:10,799",
+      "end_time": "00:18:16,960",
+      "text": "why choice i guess while you maul that"
+    },
+    {
+      "start_time": "00:18:15,200",
+      "end_time": "00:18:18,559",
+      "text": "okay so sebastian has brought up the"
+    },
+    {
+      "start_time": "00:18:16,960",
+      "end_time": "00:18:19,840",
+      "text": "idea of a ghost that's possible we'll"
+    },
+    {
+      "start_time": "00:18:18,559",
+      "end_time": "00:18:21,760",
+      "text": "keep that in mind but what i want to do"
+    },
+    {
+      "start_time": "00:18:19,840",
+      "end_time": "00:18:23,520",
+      "text": "first is determine the random event so"
+    },
+    {
+      "start_time": "00:18:21,760",
+      "end_time": "00:18:24,960",
+      "text": "the first thing we do is determine the"
+    },
+    {
+      "start_time": "00:18:23,520",
+      "end_time": "00:18:28,640",
+      "text": "source of the event and that's going to"
+    },
+    {
+      "start_time": "00:18:24,960",
+      "end_time": "00:18:30,000",
+      "text": "be 26 which is an npc action which npc"
+    },
+    {
+      "start_time": "00:18:28,640",
+      "end_time": "00:18:32,400",
+      "text": "is it we have"
+    },
+    {
+      "start_time": "00:18:30,000",
+      "end_time": "00:18:34,320",
+      "text": "uh we have"
+    },
+    {
+      "start_time": "00:18:32,400",
+      "end_time": "00:18:36,640",
+      "text": "four of them actually we've only got two"
+    },
+    {
+      "start_time": "00:18:34,320",
+      "end_time": "00:18:39,760",
+      "text": "of them so we're going to roll at e6 and"
+    },
+    {
+      "start_time": "00:18:36,640",
+      "end_time": "00:18:41,919",
+      "text": "see what comes up two which is"
+    },
+    {
+      "start_time": "00:18:39,760",
+      "end_time": "00:18:44,000",
+      "text": "the lord wren so the lord is going to"
+    },
+    {
+      "start_time": "00:18:41,919",
+      "end_time": "00:18:47,440",
+      "text": "take an action that makes sense what is"
+    },
+    {
+      "start_time": "00:18:44,000",
+      "end_time": "00:18:49,440",
+      "text": "the uh action and subject of that action"
+    },
+    {
+      "start_time": "00:18:47,440",
+      "end_time": "00:18:51,120",
+      "text": "lord wren is going to be taking an"
+    },
+    {
+      "start_time": "00:18:49,440",
+      "end_time": "00:18:56,320",
+      "text": "action agree"
+    },
+    {
+      "start_time": "00:18:51,120",
+      "end_time": "00:18:58,960",
+      "text": "86 agree and hope agree of hope what"
+    },
+    {
+      "start_time": "00:18:56,320",
+      "end_time": "00:18:59,919",
+      "text": "that means to me is"
+    },
+    {
+      "start_time": "00:18:58,960",
+      "end_time": "00:19:02,480",
+      "text": "that"
+    },
+    {
+      "start_time": "00:18:59,919",
+      "end_time": "00:19:04,000",
+      "text": "agreement of hope he i what that means"
+    },
+    {
+      "start_time": "00:19:02,480",
+      "end_time": "00:19:06,480",
+      "text": "to me right away my instinct tells me is"
+    },
+    {
+      "start_time": "00:19:04,000",
+      "end_time": "00:19:08,160",
+      "text": "that he has found very quickly"
+    },
+    {
+      "start_time": "00:19:06,480",
+      "end_time": "00:19:11,280",
+      "text": "disintegrating tracks of the horse"
+    },
+    {
+      "start_time": "00:19:08,160",
+      "end_time": "00:19:13,679",
+      "text": "that's going to lead him to the"
+    },
+    {
+      "start_time": "00:19:11,280",
+      "end_time": "00:19:15,200",
+      "text": "ruin where they are so"
+    },
+    {
+      "start_time": "00:19:13,679",
+      "end_time": "00:19:18,080",
+      "text": "that's going to happen very very quickly"
+    },
+    {
+      "start_time": "00:19:15,200",
+      "end_time": "00:19:20,320",
+      "text": "let's see how the players deal with this"
+    },
+    {
+      "start_time": "00:19:18,080",
+      "end_time": "00:19:22,240",
+      "text": "right so the sound of"
+    },
+    {
+      "start_time": "00:19:20,320",
+      "end_time": "00:19:24,160",
+      "text": "something"
+    },
+    {
+      "start_time": "00:19:22,240",
+      "end_time": "00:19:25,679",
+      "text": "banging from the inside those those"
+    },
+    {
+      "start_time": "00:19:24,160",
+      "end_time": "00:19:27,440",
+      "text": "double doors from the tower that's"
+    },
+    {
+      "start_time": "00:19:25,679",
+      "end_time": "00:19:28,720",
+      "text": "that's what you're hearing uh trevor at"
+    },
+    {
+      "start_time": "00:19:27,440",
+      "end_time": "00:19:32,080",
+      "text": "this point i'd like to ask some"
+    },
+    {
+      "start_time": "00:19:28,720",
+      "end_time": "00:19:34,559",
+      "text": "questions about kodos sure uh is kodos"
+    },
+    {
+      "start_time": "00:19:32,080",
+      "end_time": "00:19:35,840",
+      "text": "uh a kind of god that is uh"
+    },
+    {
+      "start_time": "00:19:34,559",
+      "end_time": "00:19:38,720",
+      "text": "um"
+    },
+    {
+      "start_time": "00:19:35,840",
+      "end_time": "00:19:40,240",
+      "text": "against the undead against uh"
+    },
+    {
+      "start_time": "00:19:38,720",
+      "end_time": "00:19:42,480",
+      "text": "ghosts and zombies and evil is it a"
+    },
+    {
+      "start_time": "00:19:40,240",
+      "end_time": "00:19:44,400",
+      "text": "ghost of ha is he a god of hospitality"
+    },
+    {
+      "start_time": "00:19:42,480",
+      "end_time": "00:19:46,559",
+      "text": "or you know what how do i feel about"
+    },
+    {
+      "start_time": "00:19:44,400",
+      "end_time": "00:19:50,559",
+      "text": "intruding on this uh"
+    },
+    {
+      "start_time": "00:19:46,559",
+      "end_time": "00:19:54,160",
+      "text": "sure well um uh is he is he a god that"
+    },
+    {
+      "start_time": "00:19:50,559",
+      "end_time": "00:19:55,520",
+      "text": "sort of respects the dead is is that uh"
+    },
+    {
+      "start_time": "00:19:54,160",
+      "end_time": "00:19:57,280",
+      "text": "that's a great question yeah is it a god"
+    },
+    {
+      "start_time": "00:19:55,520",
+      "end_time": "00:20:00,320",
+      "text": "the god that respects the dead or god"
+    },
+    {
+      "start_time": "00:19:57,280",
+      "end_time": "00:20:01,039",
+      "text": "perhaps cleanses the dead or"
+    },
+    {
+      "start_time": "00:20:00,320",
+      "end_time": "00:20:02,559",
+      "text": "well"
+    },
+    {
+      "start_time": "00:20:01,039",
+      "end_time": "00:20:04,080",
+      "text": "he has brought this up so i'm just going"
+    },
+    {
+      "start_time": "00:20:02,559",
+      "end_time": "00:20:07,440",
+      "text": "to ask the chart i'm going to give it a"
+    },
+    {
+      "start_time": "00:20:04,080",
+      "end_time": "00:20:09,919",
+      "text": "50 50 chance here so there's a 65 chance"
+    },
+    {
+      "start_time": "00:20:07,440",
+      "end_time": "00:20:12,240",
+      "text": "of a yes and in fact we do get a yes"
+    },
+    {
+      "start_time": "00:20:09,919",
+      "end_time": "00:20:14,960",
+      "text": "it's not an extreme yes"
+    },
+    {
+      "start_time": "00:20:12,240",
+      "end_time": "00:20:16,720",
+      "text": "um kodos is a god that"
+    },
+    {
+      "start_time": "00:20:14,960",
+      "end_time": "00:20:18,720",
+      "text": "he's a god of the nobility he's a god of"
+    },
+    {
+      "start_time": "00:20:16,720",
+      "end_time": "00:20:21,120",
+      "text": "knights he's a god of you know noble"
+    },
+    {
+      "start_time": "00:20:18,720",
+      "end_time": "00:20:24,640",
+      "text": "warriors and and also uh the court"
+    },
+    {
+      "start_time": "00:20:21,120",
+      "end_time": "00:20:29,200",
+      "text": "things like this um so anything that"
+    },
+    {
+      "start_time": "00:20:24,640",
+      "end_time": "00:20:30,480",
+      "text": "devalues ritual or devalues uh um"
+    },
+    {
+      "start_time": "00:20:29,200",
+      "end_time": "00:20:32,799",
+      "text": "kind of"
+    },
+    {
+      "start_time": "00:20:30,480",
+      "end_time": "00:20:34,960",
+      "text": "uh what's the term like um"
+    },
+    {
+      "start_time": "00:20:32,799",
+      "end_time": "00:20:37,120",
+      "text": "and you think yeah yeah anything that"
+    },
+    {
+      "start_time": "00:20:34,960",
+      "end_time": "00:20:39,280",
+      "text": "devalues formalities is typically"
+    },
+    {
+      "start_time": "00:20:37,120",
+      "end_time": "00:20:40,799",
+      "text": "frowned upon so kodos would definitely"
+    },
+    {
+      "start_time": "00:20:39,280",
+      "end_time": "00:20:42,960",
+      "text": "frown upon"
+    },
+    {
+      "start_time": "00:20:40,799",
+      "end_time": "00:20:44,240",
+      "text": "disturbing a grave or looting a tomb or"
+    },
+    {
+      "start_time": "00:20:42,960",
+      "end_time": "00:20:46,640",
+      "text": "something like that"
+    },
+    {
+      "start_time": "00:20:44,240",
+      "end_time": "00:20:49,120",
+      "text": "but perhaps checking to make sure it's"
+    },
+    {
+      "start_time": "00:20:46,640",
+      "end_time": "00:20:50,960",
+      "text": "been disturbed and returning it to its"
+    },
+    {
+      "start_time": "00:20:49,120",
+      "end_time": "00:20:52,799",
+      "text": "rightful uh would be"
+    },
+    {
+      "start_time": "00:20:50,960",
+      "end_time": "00:20:54,400",
+      "text": "something that's smiled upon so i would"
+    },
+    {
+      "start_time": "00:20:52,799",
+      "end_time": "00:20:56,159",
+      "text": "imagine yeah yeah that sounds that"
+    },
+    {
+      "start_time": "00:20:54,400",
+      "end_time": "00:20:58,159",
+      "text": "sounds logical to me"
+    },
+    {
+      "start_time": "00:20:56,159",
+      "end_time": "00:20:59,200",
+      "text": "perfect i know how to act"
+    },
+    {
+      "start_time": "00:20:58,159",
+      "end_time": "00:21:01,919",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:20:59,200",
+      "end_time": "00:21:04,000",
+      "text": "well i think we may have should go and"
+    },
+    {
+      "start_time": "00:21:01,919",
+      "end_time": "00:21:06,000",
+      "text": "investigate this banging and"
+    },
+    {
+      "start_time": "00:21:04,000",
+      "end_time": "00:21:08,480",
+      "text": "see if"
+    },
+    {
+      "start_time": "00:21:06,000",
+      "end_time": "00:21:08,480",
+      "text": "come with me"
+    },
+    {
+      "start_time": "00:21:10,720",
+      "end_time": "00:21:14,720",
+      "text": "are you sure maybe"
+    },
+    {
+      "start_time": "00:21:12,880",
+      "end_time": "00:21:16,720",
+      "text": "maybe hear me out"
+    },
+    {
+      "start_time": "00:21:14,720",
+      "end_time": "00:21:19,840",
+      "text": "and i'm like peering over the side of"
+    },
+    {
+      "start_time": "00:21:16,720",
+      "end_time": "00:21:22,080",
+      "text": "the of the loft hear me out what if we"
+    },
+    {
+      "start_time": "00:21:19,840",
+      "end_time": "00:21:24,640",
+      "text": "stay here"
+    },
+    {
+      "start_time": "00:21:22,080",
+      "end_time": "00:21:26,000",
+      "text": "and then surrender his guys show up"
+    },
+    {
+      "start_time": "00:21:24,640",
+      "end_time": "00:21:28,720",
+      "text": "they'll hear the banging and go"
+    },
+    {
+      "start_time": "00:21:26,000",
+      "end_time": "00:21:31,600",
+      "text": "investigate and maybe they'll take care"
+    },
+    {
+      "start_time": "00:21:28,720",
+      "end_time": "00:21:34,240",
+      "text": "of this problem themselves"
+    },
+    {
+      "start_time": "00:21:31,600",
+      "end_time": "00:21:37,520",
+      "text": "nirat i am wet i'm cold"
+    },
+    {
+      "start_time": "00:21:34,240",
+      "end_time": "00:21:41,120",
+      "text": "i'm in a stable for animals and horses"
+    },
+    {
+      "start_time": "00:21:37,520",
+      "end_time": "00:21:42,720",
+      "text": "this is not meant for men and i am a man"
+    },
+    {
+      "start_time": "00:21:41,120",
+      "end_time": "00:21:44,080",
+      "text": "yeah yeah"
+    },
+    {
+      "start_time": "00:21:42,720",
+      "end_time": "00:21:45,679",
+      "text": "yeah i should have known i should have"
+    },
+    {
+      "start_time": "00:21:44,080",
+      "end_time": "00:21:46,880",
+      "text": "known all right i'm coming down coming"
+    },
+    {
+      "start_time": "00:21:45,679",
+      "end_time": "00:21:49,360",
+      "text": "down"
+    },
+    {
+      "start_time": "00:21:46,880",
+      "end_time": "00:21:51,120",
+      "text": "okay so you scrabble down the ladder"
+    },
+    {
+      "start_time": "00:21:49,360",
+      "end_time": "00:21:53,280",
+      "text": "and do what"
+    },
+    {
+      "start_time": "00:21:51,120",
+      "end_time": "00:21:55,840",
+      "text": "uh and i guess i'm going to"
+    },
+    {
+      "start_time": "00:21:53,280",
+      "end_time": "00:21:58,159",
+      "text": "lead the way and cross this courtyard"
+    },
+    {
+      "start_time": "00:21:55,840",
+      "end_time": "00:22:00,159",
+      "text": "okay my chain mail investments and go"
+    },
+    {
+      "start_time": "00:21:58,159",
+      "end_time": "00:22:03,520",
+      "text": "towards where i where the door guy where"
+    },
+    {
+      "start_time": "00:22:00,159",
+      "end_time": "00:22:05,120",
+      "text": "i hear this bang it's well oiled okay uh"
+    },
+    {
+      "start_time": "00:22:03,520",
+      "end_time": "00:22:07,919",
+      "text": "as you're crossing the courtyard both of"
+    },
+    {
+      "start_time": "00:22:05,120",
+      "end_time": "00:22:12,520",
+      "text": "you give me perception rules please"
+    },
+    {
+      "start_time": "00:22:07,919",
+      "end_time": "00:22:12,520",
+      "text": "uh disadvantage or no just regular"
+    },
+    {
+      "start_time": "00:22:16,240",
+      "end_time": "00:22:20,240",
+      "text": "ten"
+    },
+    {
+      "start_time": "00:22:17,120",
+      "end_time": "00:22:22,799",
+      "text": "okay so uh vincent as you are leading"
+    },
+    {
+      "start_time": "00:22:20,240",
+      "end_time": "00:22:24,960",
+      "text": "the way through the rain uh moving"
+    },
+    {
+      "start_time": "00:22:22,799",
+      "end_time": "00:22:29,440",
+      "text": "towards the tower is that correct"
+    },
+    {
+      "start_time": "00:22:24,960",
+      "end_time": "00:22:31,919",
+      "text": "yep um you hear very clearly but faintly"
+    },
+    {
+      "start_time": "00:22:29,440",
+      "end_time": "00:22:35,840",
+      "text": "the sound of naying horses"
+    },
+    {
+      "start_time": "00:22:31,919",
+      "end_time": "00:22:35,840",
+      "text": "from the outside of the keep"
+    },
+    {
+      "start_time": "00:22:37,840",
+      "end_time": "00:22:43,360",
+      "text": "i don't like this"
+    },
+    {
+      "start_time": "00:22:39,200",
+      "end_time": "00:22:43,360",
+      "text": "dude i told you i told you"
+    },
+    {
+      "start_time": "00:22:43,679",
+      "end_time": "00:22:48,559",
+      "text": "yes yes yes yes yes but fine you are"
+    },
+    {
+      "start_time": "00:22:46,320",
+      "end_time": "00:22:50,799",
+      "text": "right fine you are light"
+    },
+    {
+      "start_time": "00:22:48,559",
+      "end_time": "00:22:52,240",
+      "text": "goody for you you are"
+    },
+    {
+      "start_time": "00:22:50,799",
+      "end_time": "00:22:56,159",
+      "text": "okay well let's go back to this table"
+    },
+    {
+      "start_time": "00:22:52,240",
+      "end_time": "00:22:57,919",
+      "text": "then right right yes we must always undo"
+    },
+    {
+      "start_time": "00:22:56,159",
+      "end_time": "00:23:01,440",
+      "text": "everything we've already done this is a"
+    },
+    {
+      "start_time": "00:22:57,919",
+      "end_time": "00:23:03,120",
+      "text": "way of road playing games"
+    },
+    {
+      "start_time": "00:23:01,440",
+      "end_time": "00:23:06,400",
+      "text": "okay so you head back to the stable you"
+    },
+    {
+      "start_time": "00:23:03,120",
+      "end_time": "00:23:08,960",
+      "text": "can still hear the sound of banging on"
+    },
+    {
+      "start_time": "00:23:06,400",
+      "end_time": "00:23:11,120",
+      "text": "the inside of the door"
+    },
+    {
+      "start_time": "00:23:08,960",
+      "end_time": "00:23:12,960",
+      "text": "so my question is now that this undead"
+    },
+    {
+      "start_time": "00:23:11,120",
+      "end_time": "00:23:15,520",
+      "text": "thing has been brought up is this an"
+    },
+    {
+      "start_time": "00:23:12,960",
+      "end_time": "00:23:17,840",
+      "text": "undead thing i don't know i kind of like"
+    },
+    {
+      "start_time": "00:23:15,520",
+      "end_time": "00:23:19,520",
+      "text": "the idea of that and it's kind of scary"
+    },
+    {
+      "start_time": "00:23:17,840",
+      "end_time": "00:23:21,760",
+      "text": "we're going to make that somewhat likely"
+    },
+    {
+      "start_time": "00:23:19,520",
+      "end_time": "00:23:23,760",
+      "text": "on ks factor of 6 which gives an 80"
+    },
+    {
+      "start_time": "00:23:21,760",
+      "end_time": "00:23:26,640",
+      "text": "chance and the answer is yes so this is"
+    },
+    {
+      "start_time": "00:23:23,760",
+      "end_time": "00:23:29,679",
+      "text": "some undead spirit that's trying to get"
+    },
+    {
+      "start_time": "00:23:26,640",
+      "end_time": "00:23:31,520",
+      "text": "out and i think maybe it might be"
+    },
+    {
+      "start_time": "00:23:29,679",
+      "end_time": "00:23:33,280",
+      "text": "it might be like uh the spirit of the"
+    },
+    {
+      "start_time": "00:23:31,520",
+      "end_time": "00:23:34,720",
+      "text": "fallen lord of this castle who senses"
+    },
+    {
+      "start_time": "00:23:33,280",
+      "end_time": "00:23:36,240",
+      "text": "intruders that would be interesting"
+    },
+    {
+      "start_time": "00:23:34,720",
+      "end_time": "00:23:38,320",
+      "text": "because that could be a really bad enemy"
+    },
+    {
+      "start_time": "00:23:36,240",
+      "end_time": "00:23:39,440",
+      "text": "for all parties concerned let's go with"
+    },
+    {
+      "start_time": "00:23:38,320",
+      "end_time": "00:23:41,919",
+      "text": "that"
+    },
+    {
+      "start_time": "00:23:39,440",
+      "end_time": "00:23:44,480",
+      "text": "and let's build on that here"
+    },
+    {
+      "start_time": "00:23:41,919",
+      "end_time": "00:23:46,720",
+      "text": "so as you guys are moving back you still"
+    },
+    {
+      "start_time": "00:23:44,480",
+      "end_time": "00:23:48,240",
+      "text": "hear the banging from the from the"
+    },
+    {
+      "start_time": "00:23:46,720",
+      "end_time": "00:23:51,440",
+      "text": "inside of the tower but there is an"
+    },
+    {
+      "start_time": "00:23:48,240",
+      "end_time": "00:23:53,679",
+      "text": "additional sound now that rises up and"
+    },
+    {
+      "start_time": "00:23:51,440",
+      "end_time": "00:23:55,559",
+      "text": "emanates through the open windows of the"
+    },
+    {
+      "start_time": "00:23:53,679",
+      "end_time": "00:23:57,200",
+      "text": "tower and it is a"
+    },
+    {
+      "start_time": "00:23:55,559",
+      "end_time": "00:23:59,440",
+      "text": "bone-chilling"
+    },
+    {
+      "start_time": "00:23:57,200",
+      "end_time": "00:24:04,000",
+      "text": "howl a whale"
+    },
+    {
+      "start_time": "00:23:59,440",
+      "end_time": "00:24:05,360",
+      "text": "of of frustration and a whale of rage"
+    },
+    {
+      "start_time": "00:24:04,000",
+      "end_time": "00:24:08,080",
+      "text": "that comes all the way through give me"
+    },
+    {
+      "start_time": "00:24:05,360",
+      "end_time": "00:24:10,640",
+      "text": "some sort of saving throw against fear"
+    },
+    {
+      "start_time": "00:24:08,080",
+      "end_time": "00:24:12,640",
+      "text": "or however that works indeed"
+    },
+    {
+      "start_time": "00:24:10,640",
+      "end_time": "00:24:13,520",
+      "text": "uh wisdom i guess"
+    },
+    {
+      "start_time": "00:24:12,640",
+      "end_time": "00:24:15,360",
+      "text": "sure"
+    },
+    {
+      "start_time": "00:24:13,520",
+      "end_time": "00:24:20,159",
+      "text": "wisdom saving throne yeah give me a"
+    },
+    {
+      "start_time": "00:24:15,360",
+      "end_time": "00:24:21,679",
+      "text": "wisdom saving throw against this 18."
+    },
+    {
+      "start_time": "00:24:20,159",
+      "end_time": "00:24:23,279",
+      "text": "okay so"
+    },
+    {
+      "start_time": "00:24:21,679",
+      "end_time": "00:24:27,120",
+      "text": "um"
+    },
+    {
+      "start_time": "00:24:23,279",
+      "end_time": "00:24:29,279",
+      "text": "sir vincent that sound is particularly"
+    },
+    {
+      "start_time": "00:24:27,120",
+      "end_time": "00:24:32,240",
+      "text": "startling to you because"
+    },
+    {
+      "start_time": "00:24:29,279",
+      "end_time": "00:24:33,919",
+      "text": "as soon as you specifically hear it"
+    },
+    {
+      "start_time": "00:24:32,240",
+      "end_time": "00:24:35,600",
+      "text": "there's something that is communicated"
+    },
+    {
+      "start_time": "00:24:33,919",
+      "end_time": "00:24:37,440",
+      "text": "to you through that sound which which"
+    },
+    {
+      "start_time": "00:24:35,600",
+      "end_time": "00:24:39,039",
+      "text": "goes over duskrat's head but you"
+    },
+    {
+      "start_time": "00:24:37,440",
+      "end_time": "00:24:40,799",
+      "text": "definitely get it and it chills you to"
+    },
+    {
+      "start_time": "00:24:39,039",
+      "end_time": "00:24:42,560",
+      "text": "the to the bone"
+    },
+    {
+      "start_time": "00:24:40,799",
+      "end_time": "00:24:43,919",
+      "text": "that is the sound of"
+    },
+    {
+      "start_time": "00:24:42,560",
+      "end_time": "00:24:47,279",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:24:43,919",
+      "end_time": "00:24:50,480",
+      "text": "nobility that has been stolen that is"
+    },
+    {
+      "start_time": "00:24:47,279",
+      "end_time": "00:24:53,200",
+      "text": "the that is the rage of being cast down"
+    },
+    {
+      "start_time": "00:24:50,480",
+      "end_time": "00:24:56,240",
+      "text": "from a great height that is the sound of"
+    },
+    {
+      "start_time": "00:24:53,200",
+      "end_time": "00:24:59,360",
+      "text": "of of injustice being done to the"
+    },
+    {
+      "start_time": "00:24:56,240",
+      "end_time": "00:25:02,640",
+      "text": "rightful uh to the rightful ruler kind"
+    },
+    {
+      "start_time": "00:24:59,360",
+      "end_time": "00:25:05,120",
+      "text": "of thing and it just absolutely shakes"
+    },
+    {
+      "start_time": "00:25:02,640",
+      "end_time": "00:25:06,640",
+      "text": "you to the core uh white creatures"
+    },
+    {
+      "start_time": "00:25:05,120",
+      "end_time": "00:25:08,240",
+      "text": "disadvantage and ability checks and"
+    },
+    {
+      "start_time": "00:25:06,640",
+      "end_time": "00:25:10,320",
+      "text": "attack roles while the source of its"
+    },
+    {
+      "start_time": "00:25:08,240",
+      "end_time": "00:25:12,480",
+      "text": "fear is within line of sight and i can't"
+    },
+    {
+      "start_time": "00:25:10,320",
+      "end_time": "00:25:14,240",
+      "text": "willingly move closer to the source of"
+    },
+    {
+      "start_time": "00:25:12,480",
+      "end_time": "00:25:16,640",
+      "text": "my feet okay so it's not line of sight"
+    },
+    {
+      "start_time": "00:25:14,240",
+      "end_time": "00:25:18,880",
+      "text": "this time so much as it is line of uh uh"
+    },
+    {
+      "start_time": "00:25:16,640",
+      "end_time": "00:25:20,640",
+      "text": "hearing but so so that's you you're"
+    },
+    {
+      "start_time": "00:25:18,880",
+      "end_time": "00:25:22,799",
+      "text": "technically frightened but it's"
+    },
+    {
+      "start_time": "00:25:20,640",
+      "end_time": "00:25:24,559",
+      "text": "yeah it's this terrible whale that's"
+    },
+    {
+      "start_time": "00:25:22,799",
+      "end_time": "00:25:26,799",
+      "text": "coming from inside the tower and it"
+    },
+    {
+      "start_time": "00:25:24,559",
+      "end_time": "00:25:29,600",
+      "text": "continues it's not and it continues yes"
+    },
+    {
+      "start_time": "00:25:26,799",
+      "end_time": "00:25:30,480",
+      "text": "it's intermittent but it does continue"
+    },
+    {
+      "start_time": "00:25:29,600",
+      "end_time": "00:25:31,679",
+      "text": "i think you're all right i think we"
+    },
+    {
+      "start_time": "00:25:30,480",
+      "end_time": "00:25:32,720",
+      "text": "should go back to the table right now i"
+    },
+    {
+      "start_time": "00:25:31,679",
+      "end_time": "00:25:34,159",
+      "text": "think we should go back to this table"
+    },
+    {
+      "start_time": "00:25:32,720",
+      "end_time": "00:25:36,320",
+      "text": "and that's where she will make our last"
+    },
+    {
+      "start_time": "00:25:34,159",
+      "end_time": "00:25:36,320",
+      "text": "time"
+    },
+    {
+      "start_time": "00:25:37,760",
+      "end_time": "00:25:42,559",
+      "text": "okay yeah and i am leading the way back"
+    },
+    {
+      "start_time": "00:25:39,919",
+      "end_time": "00:25:45,039",
+      "text": "to the stables okay you get back to the"
+    },
+    {
+      "start_time": "00:25:42,559",
+      "end_time": "00:25:46,960",
+      "text": "stable and now as you get back to the"
+    },
+    {
+      "start_time": "00:25:45,039",
+      "end_time": "00:25:49,200",
+      "text": "stable both of you without a need for"
+    },
+    {
+      "start_time": "00:25:46,960",
+      "end_time": "00:25:51,039",
+      "text": "perception roles can hear the sound of"
+    },
+    {
+      "start_time": "00:25:49,200",
+      "end_time": "00:25:53,840",
+      "text": "several horses"
+    },
+    {
+      "start_time": "00:25:51,039",
+      "end_time": "00:25:56,159",
+      "text": "naying and being rained up on the far"
+    },
+    {
+      "start_time": "00:25:53,840",
+      "end_time": "00:25:59,440",
+      "text": "side of the closed and barred gate you"
+    },
+    {
+      "start_time": "00:25:56,159",
+      "end_time": "00:26:00,880",
+      "text": "don't hear voices you just hear uh uh"
+    },
+    {
+      "start_time": "00:25:59,440",
+      "end_time": "00:26:02,159",
+      "text": "horses actually do either of you have"
+    },
+    {
+      "start_time": "00:26:00,880",
+      "end_time": "00:26:04,559",
+      "text": "like animal handling or anything like"
+    },
+    {
+      "start_time": "00:26:02,159",
+      "end_time": "00:26:05,600",
+      "text": "that not trained in it okay"
+    },
+    {
+      "start_time": "00:26:04,559",
+      "end_time": "00:26:08,159",
+      "text": "all right"
+    },
+    {
+      "start_time": "00:26:05,600",
+      "end_time": "00:26:09,760",
+      "text": "uh yeah that's what you hear um"
+    },
+    {
+      "start_time": "00:26:08,159",
+      "end_time": "00:26:12,080",
+      "text": "i guess we'll we'll need a little a"
+    },
+    {
+      "start_time": "00:26:09,760",
+      "end_time": "00:26:14,720",
+      "text": "little map here so the stable doors are"
+    },
+    {
+      "start_time": "00:26:12,080",
+      "end_time": "00:26:17,360",
+      "text": "they are they open or are they shut"
+    },
+    {
+      "start_time": "00:26:14,720",
+      "end_time": "00:26:18,880",
+      "text": "uh i've shut them behind us i'm keeping"
+    },
+    {
+      "start_time": "00:26:17,360",
+      "end_time": "00:26:21,919",
+      "text": "our horses in here i'm trying to get"
+    },
+    {
+      "start_time": "00:26:18,880",
+      "end_time": "00:26:25,320",
+      "text": "them to sort of bed down and that's a"
+    },
+    {
+      "start_time": "00:26:21,919",
+      "end_time": "00:26:25,320",
+      "text": "hideous horse"
+    },
+    {
+      "start_time": "00:26:27,279",
+      "end_time": "00:26:29,600",
+      "text": "it is"
+    },
+    {
+      "start_time": "00:26:28,240",
+      "end_time": "00:26:31,600",
+      "text": "what's my digger the"
+    },
+    {
+      "start_time": "00:26:29,600",
+      "end_time": "00:26:34,240",
+      "text": "shaded area is obviously the upper"
+    },
+    {
+      "start_time": "00:26:31,600",
+      "end_time": "00:26:36,880",
+      "text": "upper loft and there's a little uh"
+    },
+    {
+      "start_time": "00:26:34,240",
+      "end_time": "00:26:39,840",
+      "text": "little window up there too okay so you"
+    },
+    {
+      "start_time": "00:26:36,880",
+      "end_time": "00:26:41,440",
+      "text": "guys move into the stables the the the"
+    },
+    {
+      "start_time": "00:26:39,840",
+      "end_time": "00:26:43,760",
+      "text": "horses are"
+    },
+    {
+      "start_time": "00:26:41,440",
+      "end_time": "00:26:45,760",
+      "text": "tended uh the doors are shut behind you"
+    },
+    {
+      "start_time": "00:26:43,760",
+      "end_time": "00:26:48,000",
+      "text": "you can still hear this wailing coming"
+    },
+    {
+      "start_time": "00:26:45,760",
+      "end_time": "00:26:50,240",
+      "text": "from over the sound of the rain uh and"
+    },
+    {
+      "start_time": "00:26:48,000",
+      "end_time": "00:26:52,960",
+      "text": "now you can't hear anything further from"
+    },
+    {
+      "start_time": "00:26:50,240",
+      "end_time": "00:26:55,120",
+      "text": "outside the gate i think back up to my"
+    },
+    {
+      "start_time": "00:26:52,960",
+      "end_time": "00:26:58,480",
+      "text": "um sniper post"
+    },
+    {
+      "start_time": "00:26:55,120",
+      "end_time": "00:27:00,480",
+      "text": "okay yep and i will uh"
+    },
+    {
+      "start_time": "00:26:58,480",
+      "end_time": "00:27:03,520",
+      "text": "uh i will"
+    },
+    {
+      "start_time": "00:27:00,480",
+      "end_time": "00:27:07,200",
+      "text": "uh unsheath my glaive and uh"
+    },
+    {
+      "start_time": "00:27:03,520",
+      "end_time": "00:27:09,360",
+      "text": "stand stand by the door and hopefully"
+    },
+    {
+      "start_time": "00:27:07,200",
+      "end_time": "00:27:11,279",
+      "text": "just watch as"
+    },
+    {
+      "start_time": "00:27:09,360",
+      "end_time": "00:27:13,039",
+      "text": "other people deal with things"
+    },
+    {
+      "start_time": "00:27:11,279",
+      "end_time": "00:27:14,799",
+      "text": "so watching through the the you know"
+    },
+    {
+      "start_time": "00:27:13,039",
+      "end_time": "00:27:16,640",
+      "text": "like the slats of the wood kind of thing"
+    },
+    {
+      "start_time": "00:27:14,799",
+      "end_time": "00:27:18,880",
+      "text": "and through the knot holes in the in the"
+    },
+    {
+      "start_time": "00:27:16,640",
+      "end_time": "00:27:21,120",
+      "text": "old doors we're doing everything we can"
+    },
+    {
+      "start_time": "00:27:18,880",
+      "end_time": "00:27:23,600",
+      "text": "here to make it this the least"
+    },
+    {
+      "start_time": "00:27:21,120",
+      "end_time": "00:27:24,640",
+      "text": "interesting place somebody would come"
+    },
+    {
+      "start_time": "00:27:23,600",
+      "end_time": "00:27:26,320",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:27:24,640",
+      "end_time": "00:27:28,720",
+      "text": "all right so you will be doing a stealth"
+    },
+    {
+      "start_time": "00:27:26,320",
+      "end_time": "00:27:32,080",
+      "text": "when the time comes but for now"
+    },
+    {
+      "start_time": "00:27:28,720",
+      "end_time": "00:27:33,520",
+      "text": "um as you vincent are looking through oh"
+    },
+    {
+      "start_time": "00:27:32,080",
+      "end_time": "00:27:35,200",
+      "text": "the the doors to the stable are on the"
+    },
+    {
+      "start_time": "00:27:33,520",
+      "end_time": "00:27:35,919",
+      "text": "other side so you wouldn't be able to"
+    },
+    {
+      "start_time": "00:27:35,200",
+      "end_time": "00:27:38,640",
+      "text": "see"
+    },
+    {
+      "start_time": "00:27:35,919",
+      "end_time": "00:27:41,200",
+      "text": "uh the gates but rat from your vantage"
+    },
+    {
+      "start_time": "00:27:38,640",
+      "end_time": "00:27:44,399",
+      "text": "point you can see the gates and you can"
+    },
+    {
+      "start_time": "00:27:41,200",
+      "end_time": "00:27:46,640",
+      "text": "see that there's another sound of"
+    },
+    {
+      "start_time": "00:27:44,399",
+      "end_time": "00:27:48,960",
+      "text": "what what sounds like bodies throwing"
+    },
+    {
+      "start_time": "00:27:46,640",
+      "end_time": "00:27:50,399",
+      "text": "themselves against the outside gate and"
+    },
+    {
+      "start_time": "00:27:48,960",
+      "end_time": "00:27:53,120",
+      "text": "you can see now"
+    },
+    {
+      "start_time": "00:27:50,399",
+      "end_time": "00:27:54,960",
+      "text": "the gate kind of buckling against uh uh"
+    },
+    {
+      "start_time": "00:27:53,120",
+      "end_time": "00:27:57,760",
+      "text": "some force from the other side and now"
+    },
+    {
+      "start_time": "00:27:54,960",
+      "end_time": "00:27:59,840",
+      "text": "you hear voices to ri rising up uh"
+    },
+    {
+      "start_time": "00:27:57,760",
+      "end_time": "00:28:02,480",
+      "text": "they're the voices of gruff sounding men"
+    },
+    {
+      "start_time": "00:27:59,840",
+      "end_time": "00:28:03,919",
+      "text": "get it open get it all right"
+    },
+    {
+      "start_time": "00:28:02,480",
+      "end_time": "00:28:05,919",
+      "text": "and they appear to be throwing their"
+    },
+    {
+      "start_time": "00:28:03,919",
+      "end_time": "00:28:07,279",
+      "text": "weight against the gate at this moment"
+    },
+    {
+      "start_time": "00:28:05,919",
+      "end_time": "00:28:09,039",
+      "text": "they don't appear to be doing much"
+    },
+    {
+      "start_time": "00:28:07,279",
+      "end_time": "00:28:11,120",
+      "text": "against it because they're just guys"
+    },
+    {
+      "start_time": "00:28:09,039",
+      "end_time": "00:28:12,640",
+      "text": "against a barred gate but given enough"
+    },
+    {
+      "start_time": "00:28:11,120",
+      "end_time": "00:28:15,520",
+      "text": "time they will eventually get through it"
+    },
+    {
+      "start_time": "00:28:12,640",
+      "end_time": "00:28:18,559",
+      "text": "the wailing from the tower intensifies"
+    },
+    {
+      "start_time": "00:28:15,520",
+      "end_time": "00:28:21,360",
+      "text": "do we get a sense of uh of how many men"
+    },
+    {
+      "start_time": "00:28:18,559",
+      "end_time": "00:28:22,799",
+      "text": "there are here is it five is it thirty"
+    },
+    {
+      "start_time": "00:28:21,360",
+      "end_time": "00:28:24,399",
+      "text": "do we get a sense and that's what i'm"
+    },
+    {
+      "start_time": "00:28:22,799",
+      "end_time": "00:28:26,640",
+      "text": "looking for um"
+    },
+    {
+      "start_time": "00:28:24,399",
+      "end_time": "00:28:27,600",
+      "text": "did we know that before we left did you"
+    },
+    {
+      "start_time": "00:28:26,640",
+      "end_time": "00:28:29,919",
+      "text": "have a sense"
+    },
+    {
+      "start_time": "00:28:27,600",
+      "end_time": "00:28:33,440",
+      "text": "did i notice along the way how many"
+    },
+    {
+      "start_time": "00:28:29,919",
+      "end_time": "00:28:33,440",
+      "text": "people are pursuing this sure yeah"
+    },
+    {
+      "start_time": "00:28:33,679",
+      "end_time": "00:28:37,520",
+      "text": "insight might be another uh yeah"
+    },
+    {
+      "start_time": "00:28:35,760",
+      "end_time": "00:28:39,279",
+      "text": "actually both of those are applicable uh"
+    },
+    {
+      "start_time": "00:28:37,520",
+      "end_time": "00:28:41,440",
+      "text": "perception to see if you literally did"
+    },
+    {
+      "start_time": "00:28:39,279",
+      "end_time": "00:28:42,880",
+      "text": "notice how many were coming after you an"
+    },
+    {
+      "start_time": "00:28:41,440",
+      "end_time": "00:28:44,480",
+      "text": "insight to know"
+    },
+    {
+      "start_time": "00:28:42,880",
+      "end_time": "00:28:45,919",
+      "text": "you know lord wren"
+    },
+    {
+      "start_time": "00:28:44,480",
+      "end_time": "00:28:48,000",
+      "text": "you know the kind of men that he would"
+    },
+    {
+      "start_time": "00:28:45,919",
+      "end_time": "00:28:49,120",
+      "text": "assemble and how quickly he could get"
+    },
+    {
+      "start_time": "00:28:48,000",
+      "end_time": "00:28:51,360",
+      "text": "all that kind of stuff so both of those"
+    },
+    {
+      "start_time": "00:28:49,120",
+      "end_time": "00:28:52,480",
+      "text": "are applicable uh this is retroactive so"
+    },
+    {
+      "start_time": "00:28:51,360",
+      "end_time": "00:28:54,320",
+      "text": "you don't have to roll this with this"
+    },
+    {
+      "start_time": "00:28:52,480",
+      "end_time": "00:28:57,320",
+      "text": "advantage for fear obviously uh"
+    },
+    {
+      "start_time": "00:28:54,320",
+      "end_time": "00:28:57,320",
+      "text": "sebastian"
+    },
+    {
+      "start_time": "00:29:03,040",
+      "end_time": "00:29:09,360",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:29:05,279",
+      "end_time": "00:29:09,360",
+      "text": "okay so both of you know that there are"
+    },
+    {
+      "start_time": "00:29:09,760",
+      "end_time": "00:29:13,520",
+      "text": "the good question how many men are there"
+    },
+    {
+      "start_time": "00:29:11,679",
+      "end_time": "00:29:15,279",
+      "text": "well i'm going to go to the chart is"
+    },
+    {
+      "start_time": "00:29:13,520",
+      "end_time": "00:29:16,720",
+      "text": "there"
+    },
+    {
+      "start_time": "00:29:15,279",
+      "end_time": "00:29:17,919",
+      "text": "five kind of lower level guys because"
+    },
+    {
+      "start_time": "00:29:16,720",
+      "end_time": "00:29:20,320",
+      "text": "these are only third level characters i"
+    },
+    {
+      "start_time": "00:29:17,919",
+      "end_time": "00:29:22,799",
+      "text": "don't want to over overwhelm them um"
+    },
+    {
+      "start_time": "00:29:20,320",
+      "end_time": "00:29:25,279",
+      "text": "are there five i'm going to say that's"
+    },
+    {
+      "start_time": "00:29:22,799",
+      "end_time": "00:29:27,200",
+      "text": "probably very likely i just well we'll"
+    },
+    {
+      "start_time": "00:29:25,279",
+      "end_time": "00:29:30,559",
+      "text": "call it likely are there five and i'm"
+    },
+    {
+      "start_time": "00:29:27,200",
+      "end_time": "00:29:33,200",
+      "text": "rolling on that 21 is yes so"
+    },
+    {
+      "start_time": "00:29:30,559",
+      "end_time": "00:29:35,760",
+      "text": "you are pretty sure both of you"
+    },
+    {
+      "start_time": "00:29:33,200",
+      "end_time": "00:29:37,760",
+      "text": "through your various uh um abilities to"
+    },
+    {
+      "start_time": "00:29:35,760",
+      "end_time": "00:29:40,159",
+      "text": "know this insight and perception that"
+    },
+    {
+      "start_time": "00:29:37,760",
+      "end_time": "00:29:42,640",
+      "text": "it's probably going to be lord ren"
+    },
+    {
+      "start_time": "00:29:40,159",
+      "end_time": "00:29:45,679",
+      "text": "the representative of the cult that's"
+    },
+    {
+      "start_time": "00:29:42,640",
+      "end_time": "00:29:47,440",
+      "text": "after the book and three other"
+    },
+    {
+      "start_time": "00:29:45,679",
+      "end_time": "00:29:49,600",
+      "text": "thugs however"
+    },
+    {
+      "start_time": "00:29:47,440",
+      "end_time": "00:29:51,679",
+      "text": "lord wren is not hugely influential and"
+    },
+    {
+      "start_time": "00:29:49,600",
+      "end_time": "00:29:53,760",
+      "text": "he's not hugely rich so it's very likely"
+    },
+    {
+      "start_time": "00:29:51,679",
+      "end_time": "00:29:55,360",
+      "text": "that the quality of mercenary or thug"
+    },
+    {
+      "start_time": "00:29:53,760",
+      "end_time": "00:29:58,240",
+      "text": "that he was able to quickly hire for"
+    },
+    {
+      "start_time": "00:29:55,360",
+      "end_time": "00:30:00,399",
+      "text": "this little outing is probably not great"
+    },
+    {
+      "start_time": "00:29:58,240",
+      "end_time": "00:30:02,720",
+      "text": "so it's a good assumption to make that"
+    },
+    {
+      "start_time": "00:30:00,399",
+      "end_time": "00:30:05,200",
+      "text": "those three thugs with them are not"
+    },
+    {
+      "start_time": "00:30:02,720",
+      "end_time": "00:30:08,080",
+      "text": "going to be like haha we are super"
+    },
+    {
+      "start_time": "00:30:05,200",
+      "end_time": "00:30:09,520",
+      "text": "skilled assassins"
+    },
+    {
+      "start_time": "00:30:08,080",
+      "end_time": "00:30:11,520",
+      "text": "but yeah you you definitely hear the"
+    },
+    {
+      "start_time": "00:30:09,520",
+      "end_time": "00:30:13,440",
+      "text": "voices of these men on the other side"
+    },
+    {
+      "start_time": "00:30:11,520",
+      "end_time": "00:30:16,080",
+      "text": "you know throwing themselves at the gate"
+    },
+    {
+      "start_time": "00:30:13,440",
+      "end_time": "00:30:18,320",
+      "text": "ineffectually trying to break it down um"
+    },
+    {
+      "start_time": "00:30:16,080",
+      "end_time": "00:30:20,080",
+      "text": "you still hear this wailing coming from"
+    },
+    {
+      "start_time": "00:30:18,320",
+      "end_time": "00:30:22,399",
+      "text": "the tower and now it seems to you that"
+    },
+    {
+      "start_time": "00:30:20,080",
+      "end_time": "00:30:24,240",
+      "text": "every time you hear the men"
+    },
+    {
+      "start_time": "00:30:22,399",
+      "end_time": "00:30:27,279",
+      "text": "hurl themselves against the gate and the"
+    },
+    {
+      "start_time": "00:30:24,240",
+      "end_time": "00:30:30,080",
+      "text": "gate buckle the whale intensifies almost"
+    },
+    {
+      "start_time": "00:30:27,279",
+      "end_time": "00:30:32,480",
+      "text": "as if the attempt on breaching the gate"
+    },
+    {
+      "start_time": "00:30:30,080",
+      "end_time": "00:30:34,399",
+      "text": "is somehow affecting"
+    },
+    {
+      "start_time": "00:30:32,480",
+      "end_time": "00:30:37,120",
+      "text": "whatever is causing that wailing on the"
+    },
+    {
+      "start_time": "00:30:34,399",
+      "end_time": "00:30:39,679",
+      "text": "inside it's almost like an affront to"
+    },
+    {
+      "start_time": "00:30:37,120",
+      "end_time": "00:30:43,279",
+      "text": "that which is causing the wailing"
+    },
+    {
+      "start_time": "00:30:39,679",
+      "end_time": "00:30:45,600",
+      "text": "uh trav i would like to uh sort of use a"
+    },
+    {
+      "start_time": "00:30:43,279",
+      "end_time": "00:30:48,320",
+      "text": "bit of meditation of something that i"
+    },
+    {
+      "start_time": "00:30:45,600",
+      "end_time": "00:30:52,000",
+      "text": "would uh have learned in my uh years of"
+    },
+    {
+      "start_time": "00:30:48,320",
+      "end_time": "00:30:54,559",
+      "text": "the temple uh i am terrified of this uh"
+    },
+    {
+      "start_time": "00:30:52,000",
+      "end_time": "00:30:57,760",
+      "text": "of this whaling but i want to see if i"
+    },
+    {
+      "start_time": "00:30:54,559",
+      "end_time": "00:30:58,720",
+      "text": "can somehow transform my terror into"
+    },
+    {
+      "start_time": "00:30:57,760",
+      "end_time": "00:31:01,919",
+      "text": "anger"
+    },
+    {
+      "start_time": "00:30:58,720",
+      "end_time": "00:31:04,559",
+      "text": "and i want to i want to focus on the the"
+    },
+    {
+      "start_time": "00:31:01,919",
+      "end_time": "00:31:07,200",
+      "text": "bashing against the gate here and go"
+    },
+    {
+      "start_time": "00:31:04,559",
+      "end_time": "00:31:09,760",
+      "text": "every time that happens this gets worse"
+    },
+    {
+      "start_time": "00:31:07,200",
+      "end_time": "00:31:12,000",
+      "text": "you know what it's not me it's them that"
+    },
+    {
+      "start_time": "00:31:09,760",
+      "end_time": "00:31:14,720",
+      "text": "are doing it it's them that are are"
+    },
+    {
+      "start_time": "00:31:12,000",
+      "end_time": "00:31:17,279",
+      "text": "screwing things up here and i must go in"
+    },
+    {
+      "start_time": "00:31:14,720",
+      "end_time": "00:31:19,679",
+      "text": "defense of this horribly terrifying"
+    },
+    {
+      "start_time": "00:31:17,279",
+      "end_time": "00:31:22,320",
+      "text": "creature"
+    },
+    {
+      "start_time": "00:31:19,679",
+      "end_time": "00:31:23,840",
+      "text": "uh okay um well considering your"
+    },
+    {
+      "start_time": "00:31:22,320",
+      "end_time": "00:31:25,440",
+      "text": "background and considering you are who"
+    },
+    {
+      "start_time": "00:31:23,840",
+      "end_time": "00:31:26,960",
+      "text": "you are i think there's an interesting"
+    },
+    {
+      "start_time": "00:31:25,440",
+      "end_time": "00:31:29,200",
+      "text": "case to be made that that might actually"
+    },
+    {
+      "start_time": "00:31:26,960",
+      "end_time": "00:31:30,880",
+      "text": "happen what do you what do you propose"
+    },
+    {
+      "start_time": "00:31:29,200",
+      "end_time": "00:31:33,840",
+      "text": "to roll for that"
+    },
+    {
+      "start_time": "00:31:30,880",
+      "end_time": "00:31:33,840",
+      "text": "uh"
+    },
+    {
+      "start_time": "00:31:34,159",
+      "end_time": "00:31:36,880",
+      "text": "weapon skin"
+    },
+    {
+      "start_time": "00:31:34,930",
+      "end_time": "00:31:38,399",
+      "text": "[Laughter]"
+    },
+    {
+      "start_time": "00:31:36,880",
+      "end_time": "00:31:40,480",
+      "text": "i would i would say i don't think it's a"
+    },
+    {
+      "start_time": "00:31:38,399",
+      "end_time": "00:31:42,480",
+      "text": "skill i think it's a wisdom check that's"
+    },
+    {
+      "start_time": "00:31:40,480",
+      "end_time": "00:31:44,640",
+      "text": "what i think an 11."
+    },
+    {
+      "start_time": "00:31:42,480",
+      "end_time": "00:31:47,120",
+      "text": "well i i had sort of thought that the i"
+    },
+    {
+      "start_time": "00:31:44,640",
+      "end_time": "00:31:48,640",
+      "text": "had thought that the the dc was 15 for"
+    },
+    {
+      "start_time": "00:31:47,120",
+      "end_time": "00:31:50,240",
+      "text": "this"
+    },
+    {
+      "start_time": "00:31:48,640",
+      "end_time": "00:31:52,000",
+      "text": "but i'll give you i'll give you another"
+    },
+    {
+      "start_time": "00:31:50,240",
+      "end_time": "00:31:53,279",
+      "text": "chance later"
+    },
+    {
+      "start_time": "00:31:52,000",
+      "end_time": "00:31:55,200",
+      "text": "okay"
+    },
+    {
+      "start_time": "00:31:53,279",
+      "end_time": "00:31:57,840",
+      "text": "that's what i'm trying to do and every"
+    },
+    {
+      "start_time": "00:31:55,200",
+      "end_time": "00:32:00,820",
+      "text": "time i'm like oh these these guys these"
+    },
+    {
+      "start_time": "00:31:57,840",
+      "end_time": "00:32:02,399",
+      "text": "guys and they smack"
+    },
+    {
+      "start_time": "00:32:00,820",
+      "end_time": "00:32:04,559",
+      "text": "[Laughter]"
+    },
+    {
+      "start_time": "00:32:02,399",
+      "end_time": "00:32:06,960",
+      "text": "yes the the whales coming from the tower"
+    },
+    {
+      "start_time": "00:32:04,559",
+      "end_time": "00:32:09,360",
+      "text": "are suitably horrifying that it's able"
+    },
+    {
+      "start_time": "00:32:06,960",
+      "end_time": "00:32:12,799",
+      "text": "to uh or or it jars you out of your"
+    },
+    {
+      "start_time": "00:32:09,360",
+      "end_time": "00:32:12,799",
+      "text": "concentration basically trying to"
+    },
+    {
+      "start_time": "00:32:13,360",
+      "end_time": "00:32:18,240",
+      "text": "draw upon your experience to to to turn"
+    },
+    {
+      "start_time": "00:32:15,840",
+      "end_time": "00:32:19,440",
+      "text": "this to your advantage okay so at this"
+    },
+    {
+      "start_time": "00:32:18,240",
+      "end_time": "00:32:22,799",
+      "text": "point what i'm going to do is i'm going"
+    },
+    {
+      "start_time": "00:32:19,440",
+      "end_time": "00:32:25,120",
+      "text": "to ask the chart does the unclean spirit"
+    },
+    {
+      "start_time": "00:32:22,799",
+      "end_time": "00:32:27,519",
+      "text": "which i'm sort of assuming now is the"
+    },
+    {
+      "start_time": "00:32:25,120",
+      "end_time": "00:32:30,000",
+      "text": "the lord the spiritual ghost like lord"
+    },
+    {
+      "start_time": "00:32:27,519",
+      "end_time": "00:32:31,679",
+      "text": "of this place does this spirit break"
+    },
+    {
+      "start_time": "00:32:30,000",
+      "end_time": "00:32:33,840",
+      "text": "free of the tower because of the new"
+    },
+    {
+      "start_time": "00:32:31,679",
+      "end_time": "00:32:35,519",
+      "text": "assault on the closed gates i think"
+    },
+    {
+      "start_time": "00:32:33,840",
+      "end_time": "00:32:36,799",
+      "text": "there's a good chance it will i'm going"
+    },
+    {
+      "start_time": "00:32:35,519",
+      "end_time": "00:32:39,679",
+      "text": "to say that there's a"
+    },
+    {
+      "start_time": "00:32:36,799",
+      "end_time": "00:32:41,519",
+      "text": "50 50 chance that the spirit"
+    },
+    {
+      "start_time": "00:32:39,679",
+      "end_time": "00:32:44,320",
+      "text": "takes further action and is that the"
+    },
+    {
+      "start_time": "00:32:41,519",
+      "end_time": "00:32:46,240",
+      "text": "case and the answer is yes now i'm just"
+    },
+    {
+      "start_time": "00:32:44,320",
+      "end_time": "00:32:48,399",
+      "text": "going to have the spirit break open the"
+    },
+    {
+      "start_time": "00:32:46,240",
+      "end_time": "00:32:50,000",
+      "text": "door and go after yeah let's do that"
+    },
+    {
+      "start_time": "00:32:48,399",
+      "end_time": "00:32:51,679",
+      "text": "let's see what happens there"
+    },
+    {
+      "start_time": "00:32:50,000",
+      "end_time": "00:32:54,840",
+      "text": "all right so as you guys are waiting"
+    },
+    {
+      "start_time": "00:32:51,679",
+      "end_time": "00:32:57,519",
+      "text": "listening to these sounds um there"
+    },
+    {
+      "start_time": "00:32:54,840",
+      "end_time": "00:32:59,840",
+      "text": "is one sort of"
+    },
+    {
+      "start_time": "00:32:57,519",
+      "end_time": "00:33:02,399",
+      "text": "ultimate whale that happens and then you"
+    },
+    {
+      "start_time": "00:32:59,840",
+      "end_time": "00:33:05,279",
+      "text": "hear the sound of the tower doors being"
+    },
+    {
+      "start_time": "00:33:02,399",
+      "end_time": "00:33:08,159",
+      "text": "burst open"
+    },
+    {
+      "start_time": "00:33:05,279",
+      "end_time": "00:33:09,919",
+      "text": "and then the wailing stops immediately"
+    },
+    {
+      "start_time": "00:33:08,159",
+      "end_time": "00:33:11,760",
+      "text": "the men on the other side of the gate"
+    },
+    {
+      "start_time": "00:33:09,919",
+      "end_time": "00:33:13,679",
+      "text": "also stopped they have heard the sound"
+    },
+    {
+      "start_time": "00:33:11,760",
+      "end_time": "00:33:15,360",
+      "text": "of the doors opening and"
+    },
+    {
+      "start_time": "00:33:13,679",
+      "end_time": "00:33:18,080",
+      "text": "there's like a pause"
+    },
+    {
+      "start_time": "00:33:15,360",
+      "end_time": "00:33:20,159",
+      "text": "the rain continues to fall and fall and"
+    },
+    {
+      "start_time": "00:33:18,080",
+      "end_time": "00:33:21,840",
+      "text": "fall harder and harder and harder"
+    },
+    {
+      "start_time": "00:33:20,159",
+      "end_time": "00:33:25,279",
+      "text": "i've moved uh"
+    },
+    {
+      "start_time": "00:33:21,840",
+      "end_time": "00:33:26,480",
+      "text": "uh towards the window in the the the i'm"
+    },
+    {
+      "start_time": "00:33:25,279",
+      "end_time": "00:33:27,760",
+      "text": "not i'm on the lower level but i'm gonna"
+    },
+    {
+      "start_time": "00:33:26,480",
+      "end_time": "00:33:30,159",
+      "text": "see if i can see through some of the"
+    },
+    {
+      "start_time": "00:33:27,760",
+      "end_time": "00:33:31,919",
+      "text": "slats and the and this is just to see"
+    },
+    {
+      "start_time": "00:33:30,159",
+      "end_time": "00:33:33,200",
+      "text": "what's going on towards you actually so"
+    },
+    {
+      "start_time": "00:33:31,919",
+      "end_time": "00:33:38,000",
+      "text": "you can both see this now from your"
+    },
+    {
+      "start_time": "00:33:33,200",
+      "end_time": "00:33:40,399",
+      "text": "vantage points the courtyard is empty"
+    },
+    {
+      "start_time": "00:33:38,000",
+      "end_time": "00:33:42,799",
+      "text": "the doors the gates have stopped"
+    },
+    {
+      "start_time": "00:33:40,399",
+      "end_time": "00:33:44,720",
+      "text": "buckling for the moment from the outside"
+    },
+    {
+      "start_time": "00:33:42,799",
+      "end_time": "00:33:47,919",
+      "text": "as you look over to the tower you can"
+    },
+    {
+      "start_time": "00:33:44,720",
+      "end_time": "00:33:51,200",
+      "text": "see the double doors are wide open"
+    },
+    {
+      "start_time": "00:33:47,919",
+      "end_time": "00:33:54,320",
+      "text": "the rain's slashing inside"
+    },
+    {
+      "start_time": "00:33:51,200",
+      "end_time": "00:33:57,600",
+      "text": "and as the rain cascades down"
+    },
+    {
+      "start_time": "00:33:54,320",
+      "end_time": "00:33:59,840",
+      "text": "you just can make out something a little"
+    },
+    {
+      "start_time": "00:33:57,600",
+      "end_time": "00:34:02,559",
+      "text": "odd give me perceptions"
+    },
+    {
+      "start_time": "00:33:59,840",
+      "end_time": "00:34:03,279",
+      "text": "five doesn't seem great no uh oh there"
+    },
+    {
+      "start_time": "00:34:02,559",
+      "end_time": "00:34:04,480",
+      "text": "we go"
+    },
+    {
+      "start_time": "00:34:03,279",
+      "end_time": "00:34:08,960",
+      "text": "eleven okay"
+    },
+    {
+      "start_time": "00:34:04,480",
+      "end_time": "00:34:11,359",
+      "text": "um okay so sir vincent you can see"
+    },
+    {
+      "start_time": "00:34:08,960",
+      "end_time": "00:34:13,679",
+      "text": "through the slats of the wood"
+    },
+    {
+      "start_time": "00:34:11,359",
+      "end_time": "00:34:15,280",
+      "text": "that as the rain is cascading in the"
+    },
+    {
+      "start_time": "00:34:13,679",
+      "end_time": "00:34:17,040",
+      "text": "center of the courtyard it's as though"
+    },
+    {
+      "start_time": "00:34:15,280",
+      "end_time": "00:34:18,800",
+      "text": "water is"
+    },
+    {
+      "start_time": "00:34:17,040",
+      "end_time": "00:34:20,480",
+      "text": "hitting an object"
+    },
+    {
+      "start_time": "00:34:18,800",
+      "end_time": "00:34:22,800",
+      "text": "that you can't see"
+    },
+    {
+      "start_time": "00:34:20,480",
+      "end_time": "00:34:25,200",
+      "text": "and that object is moving towards the"
+    },
+    {
+      "start_time": "00:34:22,800",
+      "end_time": "00:34:26,639",
+      "text": "exterior gates"
+    },
+    {
+      "start_time": "00:34:25,200",
+      "end_time": "00:34:29,119",
+      "text": "it's almost as though there's some"
+    },
+    {
+      "start_time": "00:34:26,639",
+      "end_time": "00:34:31,119",
+      "text": "invisible force moving through the water"
+    },
+    {
+      "start_time": "00:34:29,119",
+      "end_time": "00:34:33,359",
+      "text": "cascading down the water of course hits"
+    },
+    {
+      "start_time": "00:34:31,119",
+      "end_time": "00:34:35,760",
+      "text": "that force and and sort of you know"
+    },
+    {
+      "start_time": "00:34:33,359",
+      "end_time": "00:34:38,720",
+      "text": "glances off it and as you're as you're"
+    },
+    {
+      "start_time": "00:34:35,760",
+      "end_time": "00:34:41,040",
+      "text": "watching it for you can see that that"
+    },
+    {
+      "start_time": "00:34:38,720",
+      "end_time": "00:34:43,679",
+      "text": "whatever it is"
+    },
+    {
+      "start_time": "00:34:41,040",
+      "end_time": "00:34:45,919",
+      "text": "is in vaguely humanoid shape"
+    },
+    {
+      "start_time": "00:34:43,679",
+      "end_time": "00:34:48,240",
+      "text": "maybe six feet tall"
+    },
+    {
+      "start_time": "00:34:45,919",
+      "end_time": "00:34:50,639",
+      "text": "and there's another aspect to it it's"
+    },
+    {
+      "start_time": "00:34:48,240",
+      "end_time": "00:34:54,560",
+      "text": "almost as though there's a long"
+    },
+    {
+      "start_time": "00:34:50,639",
+      "end_time": "00:34:57,760",
+      "text": "slender something uh protruding"
+    },
+    {
+      "start_time": "00:34:54,560",
+      "end_time": "00:34:59,820",
+      "text": "before it as it moves towards the gate"
+    },
+    {
+      "start_time": "00:34:57,760",
+      "end_time": "00:35:02,800",
+      "text": "he's probably a conductor"
+    },
+    {
+      "start_time": "00:34:59,820",
+      "end_time": "00:35:04,240",
+      "text": "[Laughter]"
+    },
+    {
+      "start_time": "00:35:02,800",
+      "end_time": "00:35:06,560",
+      "text": "at that moment"
+    },
+    {
+      "start_time": "00:35:04,240",
+      "end_time": "00:35:09,359",
+      "text": "again the men on the other side resumed"
+    },
+    {
+      "start_time": "00:35:06,560",
+      "end_time": "00:35:10,320",
+      "text": "their assault on the gate bang bang for"
+    },
+    {
+      "start_time": "00:35:09,359",
+      "end_time": "00:35:13,200",
+      "text": "of course"
+    },
+    {
+      "start_time": "00:35:10,320",
+      "end_time": "00:35:16,520",
+      "text": "they can see nothing"
+    },
+    {
+      "start_time": "00:35:13,200",
+      "end_time": "00:35:16,520",
+      "text": "what do you do"
+    },
+    {
+      "start_time": "00:35:29,200",
+      "end_time": "00:35:31,280",
+      "text": "you"
+    }
+  ],
+  "full_text": "[Music]\nhey guys how you doing trevor here from\nme myself and i have a little experiment\nfor you i'm going to be running a game\nof d5e i know the horror the horror but\ni'm going to be running d with a couple\nof friends of mine up in vancouver\nonline but i'm going to be totally\nimprovising and randomly creating the\nadventure using the mythic gm emulator\nexactly as i do in my show except this\ntime the purpose is to show you that you\ncan use the emulator in a real live game\nwith real live people i know other\npeople how strange how strange and\nfrightening but that's what we're gonna\ndo here so what's gonna happen is i'm\ngonna be running the game on roll 20 but\nevery time i need to consult the\nemulator and interpret a result i'm\ngoing to turn to you and i'm going to\ntell you how i interpret the role and\nyou get to see it in action so hopefully\nthis all works okay okay so um\n[Music]\ncharacters let's do fighter i know how\nto play fighters\nperfect what are you uh looking at there\njared\ni think i'm going for a human rogue at\nthird level i\nchoose a roguish archetype i went with\nswashbuckler cool i'm not going to go\ninto all the things here but just some\nstuff that can sort of sort of get us\nkick-started here because of course the\nidea is when you generate random\nbackgrounds for characters like this\nthat gives you adventure ideas of where\nto start them so that's kind of\nimportant hey guys post edit trev here\njust wanted to give you a quick brief\nintro to the characters that we created\nif you want to see the full character\ngeneration if you want to check out how\nwe built all these characters from\nscratch using total random stuff that's\nall on patreon but for the purposes of\nthis video just know that we created two\nthird level characters one was a fighter\nwho was a champion and the other was a\nrogue swashbuckler they grew up together\nmostly\nthe the rogue was kind of like he ran\noff to join the circus as a kid\nbasically\nand the fighter grew up in a temple he\nwas a very devoutly religious kind of\nguy who served a god named kodos or\nkronos or something like that it'll show\nup in the episode very soon but the two\nbig hooks they they came up with was\nthat the fighter\nwas protecting this holy book from a\ncult that was that was after his church\ntrying to destabilize his church and\nthat they had a common enemy by the name\nof lord wren who tried to frame the\nthief for a crime he didn't commit and\nuh the two characters wound up gaining\nthe enmity of this particular character\nanyway that's just sort of the general\nbasics of who these characters are like\ni said if you want to see the full\ncharacter creation process we did\ntotally randomly\nyou can check it out on the patreon i\nseek to preserve a sacred text that my\nenemies consider heretical and seek to\ndestroy well that sounds like a that\nsounds like a hook right there doesn't\nit yep fuel i've got another one for you\ni once\nsatirized a noble who still wants my\nhead it was a mistake i will likely\nrepeat okay so\nwe've got our characters you're all\nkitted out you've got your backgrounds\nwe know how you've met we know why\nyou're friends we're going to say we're\nstarting in the city of avison that's\nall i know um that's all anybody knows\nso first of all let's see how we start\nthis thing so the first thing i'm going\nto do is create a situation in media res\nhow am i going to do that i'm going to\ngo to the trusty mythic gm emulator\ncoming up coming up with the scene is\nthe first thing so i'm going to totally\nrandomly determine that using\nrolls of d100 and the first one is going\nto be 40 which is postpone 93 postpone\nweather i think what that means is that\nthey are going to be they're not\nactually in the city they're on the\noutskirts of the city and they are on\nthe run from this enemy lord wren but\nthey've been they've had to they've had\nto hole up in an old cave or an old uh\nuh an inn or a broken down ruin or\nsomething like that yeah that's it uh\nthey're they're holed up in a broken\ndown ruin they're being chased by lord\nwren who's coming after them with a\nbunch of guys they're on the run but a\nterrible storm has rolled in and forced\nthem to to take shelter in this ruin ah\nthat's cool okay\nso here's the deal both of you now have\nthis shared enemy of lord ren okay lord\nren is coming after you rat because of\nobviously what we talked about the fact\nthat\nuh you made fun of him and he's tried\nmany things to come after you but the\nthe the straw has broken the camel's\nback and you've got very solid\ninformation that he is sending he\nhimself is coming after you with a bunch\nof thugs and heavies um the two of you\nhad that information you also know uh uh\nsir vincent that he is traveling with\none of the heads of this cult that is uh\nhell bent on getting his hands on this\nbook and destroying it to further damage\nand degrade the the sway of of of kodos\nin the city however you got some\ninformation at the last second which\nwhich basically told you that ren was\nabout to descend on your inn\nyou had just a few minutes to grab your\nstuff and get the hell out of this out\nof town to formulate a plan but you had\nto escape so you basically got on your\nhorses and you fled out of town\njust again trying to find a place to to\nregroup yourselves and see if you can\nyou know figure out what to do but\nyou know that ren and his thugs are are\nhot on your tails but as you as you left\nthe city\nuh a massive massive storm rolled in a\nbig massive lightning storm hail the\nwhole bit to the point where you had to\ntake shelter as soon as you possibly\ncould and off the road way off the road\non the slopes of this giant hill was\nthis old broken down ruin it it almost\nlooked like it was um some sort of tower\nmaybe or some sort of uh keep but it's\ncompletely it ruins but you were able to\nguide your horses across the quickly\nuh um\nthe fields that are quickly becoming\nwaterlogged and and take some shelter in\nthe in the broken down kind of uh\ncourtyard of this old ruin okay so\nthat's basically\nwhat happens so\nas you move your your horses in you're\nnot exactly sure how far back lord ren\nis but you know that he's definitely on\nthe way you don't know what powers he\nhas to track you or anything like that\nyou've been you've managed to take\nshelter in this broken down old ruin as\ni said now uh the courtyard itself is\nwide open so the the rain the hail is\nstill falling down pelting the the\ndecayed broken down stones of the\ncourtyard but there are a number of uh\ninner buildings in the courtyard one\nlooks like it might have been a stable\nat one time one looks maybe with some\nsort of kitchen uh maybe a guard\na guards building so there's a bunch of\nlittle buildings in the inside and then\nthere's a central tower as well the top\nof the tower is kind of broken down\nbut the the middle sections of it maybe\nthe first two or three stories look to\nbe largely intact you can see as well\nthat there's a large double doors\nto the tower that um appear to be again\nintact and actually rather well\nmaintained which is sort of an odd thing\nconsidering that this is a ruin but the\nthe doors seem to be well maintained\nso what i've just done here is make a\nbunch of stuff up i don't know any i\nhave no reason to to add that detail\nabout the doors it's just i was going\nwith my instinct i was going with what i\nfirst thought and just painting the\npicture as i go so now we'll see what\nthey do with it\nokay the rain and the hell falls you're\nin the courtyard your horses are\nwickering and naying at being pelted by\nrain and hail what do you do\nwell let's let us go and get the uh\nhorses to this stable uh type thing and\nuh we can take shelter under this uh\nuh\nplace\nsounds good to me uh\ndo you think we should\nmake our stand there or we should just\nhide\ni think we should just hide\nuntil we know what is better coming\nafter us i think maybe stealth is the\nbest order\nall right\nso that's what you're trying right now\nstuff oh yeah yeah no you're doing a\ngood job very good\nso you're moving towards the stables is\nthat what i heard you say yeah we're\ngonna uh tie off these horses in the\nstables and uh\nokay\ntake some shelter so my first thought is\nis there a danger in the stables i've\nalready described it as an old stables\nand this is obviously a ruin so\ni'm going to presume that there's a roof\nso that they are actually going to be\nable to put the horses in there and keep\nthem covered but what i want to know is\nis there an obstacle of some sort is\nthere some sort of danger in there so\nbecause our chaos factor is at five and\nright now the opening scene is hide from\nlord wren\nwhat we want to do is ask our first\nquestion of the chart which is going to\nbe\nis there a danger in the stable our\nchaos rank is at five i am going to say\nusing my judgment that it's probably\nunlikely so i've got a 35 chance of yes\nresponse and i roll 83 which is a no\nokay you open the doors of the stable uh\nthe building is largely intact the roof\ninterestingly enough and uh and um uh\npositively enough is also intact so it's\ngoing to give your horses certainly uh a\nrespite from the storm uh the stalls are\nare still intact as well uh it looks\nlike the principal damage to the keep\nwas done or i'm sorry the principal\ndamage to the to the castle was done to\nthe tower itself the outbuildings are\nare not so much damage so\nwhatever caused the downfall of this\nparticular castle it probably wasn't an\nassault or an attack from without\nbecause then these wooden buildings\nprobably would have been reduced to\nruins right but they are all intact so\num yeah you open the stables you're able\nto tie off the horses um\nthere's old moldy straw in here but\nbasically everything you would imagine\nthere would be in a stables in an old\nkeep essentially is what you see with\nyour first with your first kind of\nglance\nokay is this a stable that has the loft\narea up above yes\nokay i would like um\nvincent mind if i borrow that crossbow\nyours uh i'm gonna try and get up high\nand see if i can get a better look at\nwhat's coming for us be my guest\nokay well there's a ladder that goes up\nto the loft uh as you climb up there\nit's an old rickety ladder but\nholds your weight no problem when you\nget up to the top loft once again\ncovered in old stale moldy straw but you\ncan certainly see that there is a window\nwith kind of a half broken shutter on\nthe uh\non the far side of the the loft area so\nit would afford you a vantage point to\nlook out back the way you came\nperfect i just i have the crossbow so\ni'm watching to see who is coming after\nus uh so i can okay\nwarning if necessary the rain is falling\nin sheets it's the middle of the day so\nit's very gray but your visibility is\nvery much um\noccluded is that the word occluded by\nthe uh the the sheets of water falling\nfrom the sky that said make a perception\nwith disadvantage\nlook at me playing d and d\nso good at it two\ntwo i got a two\nokay\nright because disadvantage you take the\nlower i knew that\nokay\nwell\nif there was something to see you would\nsee it it's just the rain man it's like\nit's like a an impenetrable wall of\nwater that's reducing your visibility to\nmaybe like\nmaybe 30 feet so\nyou can definitely see back the way you\ncame up to 30 feet but past that it's\njust sheets of rain and the thunder is\nrolling and there's lightning flashing\nin the sky\ni'm gonna where when he's doing that i'm\ngonna go back through the the gate that\nwe came and see if i can secure it some\nway\nuh the ruin gate to the uh to the um\ncourtyard\nyeah the the yeah the you have to get to\nthe court here so we're like we we came\nin we're in this keep i don't want\nsomeone just coming up behind us uh easy\nenough you know i want to okay borrow it\nor\ndo something so that at least we'll hear\nthem coming through it so what i want to\ndo now is ask the chart if there's\nenough of the gate left to be able to\nactually use as a defensive position\nlike like what sebastian's asking so i\nthink there's a probably pretty good\nchance i did just say that the the ruin\nis largely intact in terms of its\noutbuildings so i'm going to say it's\nvery likely that this will be uh that he\nwill be able to use the doors as a\ndefensive position as he's asking and\nthe answer is yes\nuh yeah it looks like um the gates are\nstill intact much as the other\noutbuildings in the in the courtyard are\nso again further evidence that this this\nplace was not destroyed by an assault or\nanything like that so yeah you're able\nto to haul the gates shut and there's\neven um there's even a rusted old series\nof brackets to put a big bar in\ngreat and i do what is your strength by\nthe way\nmy strength is\n16. okay no problem you're able to grab\nthat bar and just kind of put it inside\nyou're not sure how that would law uh\nhow long that would last against the\nsustained assault by a group of armed\nmen but certainly it'll buy you some\ntime\ngreat\nand then i will once having done that i\nwill go back to the stable and take care\nof my horse okay better you know uh tack\nthem down okay so while sir vincent is\nuh uh\nyou know brushing the horse down all\nthat kind of stuff um is dusk rats still\nup are you still up in the loft or are\nyou changing your your tactics no i i\nthink this is\nas good a vantage point as we're likely\nto get from this window\nis there any chance that my luck holds\nto\nbe able to see the direction of the gate\nthat was just barred as well as the\ntower\nwell i think that's um i'm not even\ngoing to roll for this i'm just going to\nuse my common sense and say yes you\ncould look out and you can see the bard\ngate and you can also see past it as\nwell\nthe only reason why you can see past the\ngate is of course you're up high in the\nstable that allows you to see over the\ngate it's a low gate but you know and\nand i'm hoping that the the rain that's\ncompromising my vision will compromise\nany pursuers so\nseems like this is a pretty good spot um\ni think\nrat\nhe's a wiry skinny guy\nbut he eats all the time so i think\nthat's you know\ni'll take this opportunity i've got the\ncrossbow\nin a good handy spot and i'm definitely\npaying attention but i'll also you know\ncrack out some rations and\nhave a little snack okay\num i assume\nthat uh sir vincent will will notice\nthat my horse needs care as well he you\nknow he's that kind of guy and that way\ni avoid work\nokay so at this point i've decided to\nend the scene here since the first scene\nwas escape lord ren they've basically\ndone that the next phase is going into\nexploration of this ruin because that's\nkind of what i what i want to see happen\nhere because i think it's pretty cool so\nthere's a couple things one i think that\njared's observation is absolutely right\ni don't think that lord wren is going to\nbe able to come after them because of\nthe same rain that's preventing them\nfrom seeing out\nbut also\nmy next scene is going to be about\nexploring the tower so my first thing is\ni'm going to update our threads and i'm\ngoing to update our npc list well we've\nalready got our npcs here we've got\nwe've got dusk rat\nwhich is our first pc we've also got sir\nvincent\nand we've got lord wren and we've got\nthe uh the temple of kodos and i think\nthat's about it for now so are there new\ncharacters to add to this list um\ni don't think so are there any threads\nto add to this list yes well uh the\nthreads that we would have added at the\nvery top of this is protect the tome\nwhich is the book that sebastian's\ncharacter is uh\ncarrying\ni think a threat as well is probably\ngoing to be escape lord ren depending on\nhow they want to handle that hard to say\nbecause it might turn into\nkill lord ren or events lord avenge\nyourselves against lord run or something\nbut right now we have a threat that\nwe're adding for this new scene and that\nthread is going to be\nexplore the ruin\nnow i'm not going to force their hand\nobviously but i'm going to ask some\nquestions to see if there's anything\nthat happens in the tower that sort of\ngets their attention so we'll see what\nhappens which leads us to scene two our\nchaos factor is going to go up to six\nbecause things are pretty chaotic the\nfirst thing i want to do\nwe've got our next scene which is\nexplore the ruin\nbut what i want to do now is roll the\nd10 against the chaos factor to see if\nthe scene is interrupted or altered\nchaos factor six and i roll a ten so it\nis not so because we're starting without\nan interrupt scene or an altered scene\ni'm gonna ask my first question the\nscene is is there a sound that comes\nfrom the tower that gets their attention\nwell because i really like that idea or\nchaos factor six i'm going to say that\nthat is a near sure thing\nand i'm going to roll with a 33. okay\nthis is interesting i have a yes answer\nthey're going to hear something but\nthere's also a random event so they're\ndefinitely going to hear something um\nlet's deal with that first\nas duskratt is eating your your your\nfood up there and as sir vincent you're\ntaking care of your horse you hear a\nsound over the din of the storm and over\nthe patter of the rain as it falls down\non the broken flagstones of the exterior\ncourtyard what you hear\nis\nthe sound\nof\nwood banging against wood and of course\nyou know dusk right as you're looking\nout at that gate you don't see any\nevidence that anybody is battering on\nthat gate from the outside\nin fact as you're looking out from your\nvantage point eating your rations you\ndefinitely here as you're looking out\nyou're sort of you know pinpointing\nwhere the sound is coming from and it\nseems to be coming from\ninside the double doors of the tower\nthat and as you kind of glance over you\ncan see that that sound is being\nproduced by\nsomething on the inside of that tower is\nbanging\nbanging against the doors\nuh\nvincent\ndo you hear that\ni do yes that is time to go i think we\nneed to leave now ghosts are not the\nthing that i do it so we go now\nokay yeah um\nso\nwhy choice i guess while you maul that\nokay so sebastian has brought up the\nidea of a ghost that's possible we'll\nkeep that in mind but what i want to do\nfirst is determine the random event so\nthe first thing we do is determine the\nsource of the event and that's going to\nbe 26 which is an npc action which npc\nis it we have\nuh we have\nfour of them actually we've only got two\nof them so we're going to roll at e6 and\nsee what comes up two which is\nthe lord wren so the lord is going to\ntake an action that makes sense what is\nthe uh action and subject of that action\nlord wren is going to be taking an\naction agree\n86 agree and hope agree of hope what\nthat means to me is\nthat\nagreement of hope he i what that means\nto me right away my instinct tells me is\nthat he has found very quickly\ndisintegrating tracks of the horse\nthat's going to lead him to the\nruin where they are so\nthat's going to happen very very quickly\nlet's see how the players deal with this\nright so the sound of\nsomething\nbanging from the inside those those\ndouble doors from the tower that's\nthat's what you're hearing uh trevor at\nthis point i'd like to ask some\nquestions about kodos sure uh is kodos\nuh a kind of god that is uh\num\nagainst the undead against uh\nghosts and zombies and evil is it a\nghost of ha is he a god of hospitality\nor you know what how do i feel about\nintruding on this uh\nsure well um uh is he is he a god that\nsort of respects the dead is is that uh\nthat's a great question yeah is it a god\nthe god that respects the dead or god\nperhaps cleanses the dead or\nwell\nhe has brought this up so i'm just going\nto ask the chart i'm going to give it a\n50 50 chance here so there's a 65 chance\nof a yes and in fact we do get a yes\nit's not an extreme yes\num kodos is a god that\nhe's a god of the nobility he's a god of\nknights he's a god of you know noble\nwarriors and and also uh the court\nthings like this um so anything that\ndevalues ritual or devalues uh um\nkind of\nuh what's the term like um\nand you think yeah yeah anything that\ndevalues formalities is typically\nfrowned upon so kodos would definitely\nfrown upon\ndisturbing a grave or looting a tomb or\nsomething like that\nbut perhaps checking to make sure it's\nbeen disturbed and returning it to its\nrightful uh would be\nsomething that's smiled upon so i would\nimagine yeah yeah that sounds that\nsounds logical to me\nperfect i know how to act\nokay\nwell i think we may have should go and\ninvestigate this banging and\nsee if\ncome with me\nare you sure maybe\nmaybe hear me out\nand i'm like peering over the side of\nthe of the loft hear me out what if we\nstay here\nand then surrender his guys show up\nthey'll hear the banging and go\ninvestigate and maybe they'll take care\nof this problem themselves\nnirat i am wet i'm cold\ni'm in a stable for animals and horses\nthis is not meant for men and i am a man\nyeah yeah\nyeah i should have known i should have\nknown all right i'm coming down coming\ndown\nokay so you scrabble down the ladder\nand do what\nuh and i guess i'm going to\nlead the way and cross this courtyard\nokay my chain mail investments and go\ntowards where i where the door guy where\ni hear this bang it's well oiled okay uh\nas you're crossing the courtyard both of\nyou give me perception rules please\nuh disadvantage or no just regular\nten\nokay so uh vincent as you are leading\nthe way through the rain uh moving\ntowards the tower is that correct\nyep um you hear very clearly but faintly\nthe sound of naying horses\nfrom the outside of the keep\ni don't like this\ndude i told you i told you\nyes yes yes yes yes but fine you are\nright fine you are light\ngoody for you you are\nokay well let's go back to this table\nthen right right yes we must always undo\neverything we've already done this is a\nway of road playing games\nokay so you head back to the stable you\ncan still hear the sound of banging on\nthe inside of the door\nso my question is now that this undead\nthing has been brought up is this an\nundead thing i don't know i kind of like\nthe idea of that and it's kind of scary\nwe're going to make that somewhat likely\non ks factor of 6 which gives an 80\nchance and the answer is yes so this is\nsome undead spirit that's trying to get\nout and i think maybe it might be\nit might be like uh the spirit of the\nfallen lord of this castle who senses\nintruders that would be interesting\nbecause that could be a really bad enemy\nfor all parties concerned let's go with\nthat\nand let's build on that here\nso as you guys are moving back you still\nhear the banging from the from the\ninside of the tower but there is an\nadditional sound now that rises up and\nemanates through the open windows of the\ntower and it is a\nbone-chilling\nhowl a whale\nof of frustration and a whale of rage\nthat comes all the way through give me\nsome sort of saving throw against fear\nor however that works indeed\nuh wisdom i guess\nsure\nwisdom saving throne yeah give me a\nwisdom saving throw against this 18.\nokay so\num\nsir vincent that sound is particularly\nstartling to you because\nas soon as you specifically hear it\nthere's something that is communicated\nto you through that sound which which\ngoes over duskrat's head but you\ndefinitely get it and it chills you to\nthe to the bone\nthat is the sound of\n[Music]\nnobility that has been stolen that is\nthe that is the rage of being cast down\nfrom a great height that is the sound of\nof of injustice being done to the\nrightful uh to the rightful ruler kind\nof thing and it just absolutely shakes\nyou to the core uh white creatures\ndisadvantage and ability checks and\nattack roles while the source of its\nfear is within line of sight and i can't\nwillingly move closer to the source of\nmy feet okay so it's not line of sight\nthis time so much as it is line of uh uh\nhearing but so so that's you you're\ntechnically frightened but it's\nyeah it's this terrible whale that's\ncoming from inside the tower and it\ncontinues it's not and it continues yes\nit's intermittent but it does continue\ni think you're all right i think we\nshould go back to the table right now i\nthink we should go back to this table\nand that's where she will make our last\ntime\nokay yeah and i am leading the way back\nto the stables okay you get back to the\nstable and now as you get back to the\nstable both of you without a need for\nperception roles can hear the sound of\nseveral horses\nnaying and being rained up on the far\nside of the closed and barred gate you\ndon't hear voices you just hear uh uh\nhorses actually do either of you have\nlike animal handling or anything like\nthat not trained in it okay\nall right\nuh yeah that's what you hear um\ni guess we'll we'll need a little a\nlittle map here so the stable doors are\nthey are they open or are they shut\nuh i've shut them behind us i'm keeping\nour horses in here i'm trying to get\nthem to sort of bed down and that's a\nhideous horse\nit is\nwhat's my digger the\nshaded area is obviously the upper\nupper loft and there's a little uh\nlittle window up there too okay so you\nguys move into the stables the the the\nhorses are\ntended uh the doors are shut behind you\nyou can still hear this wailing coming\nfrom over the sound of the rain uh and\nnow you can't hear anything further from\noutside the gate i think back up to my\num sniper post\nokay yep and i will uh\nuh i will\nuh unsheath my glaive and uh\nstand stand by the door and hopefully\njust watch as\nother people deal with things\nso watching through the the you know\nlike the slats of the wood kind of thing\nand through the knot holes in the in the\nold doors we're doing everything we can\nhere to make it this the least\ninteresting place somebody would come\nokay\nall right so you will be doing a stealth\nwhen the time comes but for now\num as you vincent are looking through oh\nthe the doors to the stable are on the\nother side so you wouldn't be able to\nsee\nuh the gates but rat from your vantage\npoint you can see the gates and you can\nsee that there's another sound of\nwhat what sounds like bodies throwing\nthemselves against the outside gate and\nyou can see now\nthe gate kind of buckling against uh uh\nsome force from the other side and now\nyou hear voices to ri rising up uh\nthey're the voices of gruff sounding men\nget it open get it all right\nand they appear to be throwing their\nweight against the gate at this moment\nthey don't appear to be doing much\nagainst it because they're just guys\nagainst a barred gate but given enough\ntime they will eventually get through it\nthe wailing from the tower intensifies\ndo we get a sense of uh of how many men\nthere are here is it five is it thirty\ndo we get a sense and that's what i'm\nlooking for um\ndid we know that before we left did you\nhave a sense\ndid i notice along the way how many\npeople are pursuing this sure yeah\ninsight might be another uh yeah\nactually both of those are applicable uh\nperception to see if you literally did\nnotice how many were coming after you an\ninsight to know\nyou know lord wren\nyou know the kind of men that he would\nassemble and how quickly he could get\nall that kind of stuff so both of those\nare applicable uh this is retroactive so\nyou don't have to roll this with this\nadvantage for fear obviously uh\nsebastian\n[Music]\nokay so both of you know that there are\nthe good question how many men are there\nwell i'm going to go to the chart is\nthere\nfive kind of lower level guys because\nthese are only third level characters i\ndon't want to over overwhelm them um\nare there five i'm going to say that's\nprobably very likely i just well we'll\ncall it likely are there five and i'm\nrolling on that 21 is yes so\nyou are pretty sure both of you\nthrough your various uh um abilities to\nknow this insight and perception that\nit's probably going to be lord ren\nthe representative of the cult that's\nafter the book and three other\nthugs however\nlord wren is not hugely influential and\nhe's not hugely rich so it's very likely\nthat the quality of mercenary or thug\nthat he was able to quickly hire for\nthis little outing is probably not great\nso it's a good assumption to make that\nthose three thugs with them are not\ngoing to be like haha we are super\nskilled assassins\nbut yeah you you definitely hear the\nvoices of these men on the other side\nyou know throwing themselves at the gate\nineffectually trying to break it down um\nyou still hear this wailing coming from\nthe tower and now it seems to you that\nevery time you hear the men\nhurl themselves against the gate and the\ngate buckle the whale intensifies almost\nas if the attempt on breaching the gate\nis somehow affecting\nwhatever is causing that wailing on the\ninside it's almost like an affront to\nthat which is causing the wailing\nuh trav i would like to uh sort of use a\nbit of meditation of something that i\nwould uh have learned in my uh years of\nthe temple uh i am terrified of this uh\nof this whaling but i want to see if i\ncan somehow transform my terror into\nanger\nand i want to i want to focus on the the\nbashing against the gate here and go\nevery time that happens this gets worse\nyou know what it's not me it's them that\nare doing it it's them that are are\nscrewing things up here and i must go in\ndefense of this horribly terrifying\ncreature\nuh okay um well considering your\nbackground and considering you are who\nyou are i think there's an interesting\ncase to be made that that might actually\nhappen what do you what do you propose\nto roll for that\nuh\nweapon skin\n[Laughter]\ni would i would say i don't think it's a\nskill i think it's a wisdom check that's\nwhat i think an 11.\nwell i i had sort of thought that the i\nhad thought that the the dc was 15 for\nthis\nbut i'll give you i'll give you another\nchance later\nokay\nthat's what i'm trying to do and every\ntime i'm like oh these these guys these\nguys and they smack\n[Laughter]\nyes the the whales coming from the tower\nare suitably horrifying that it's able\nto uh or or it jars you out of your\nconcentration basically trying to\ndraw upon your experience to to to turn\nthis to your advantage okay so at this\npoint what i'm going to do is i'm going\nto ask the chart does the unclean spirit\nwhich i'm sort of assuming now is the\nthe lord the spiritual ghost like lord\nof this place does this spirit break\nfree of the tower because of the new\nassault on the closed gates i think\nthere's a good chance it will i'm going\nto say that there's a\n50 50 chance that the spirit\ntakes further action and is that the\ncase and the answer is yes now i'm just\ngoing to have the spirit break open the\ndoor and go after yeah let's do that\nlet's see what happens there\nall right so as you guys are waiting\nlistening to these sounds um there\nis one sort of\nultimate whale that happens and then you\nhear the sound of the tower doors being\nburst open\nand then the wailing stops immediately\nthe men on the other side of the gate\nalso stopped they have heard the sound\nof the doors opening and\nthere's like a pause\nthe rain continues to fall and fall and\nfall harder and harder and harder\ni've moved uh\nuh towards the window in the the the i'm\nnot i'm on the lower level but i'm gonna\nsee if i can see through some of the\nslats and the and this is just to see\nwhat's going on towards you actually so\nyou can both see this now from your\nvantage points the courtyard is empty\nthe doors the gates have stopped\nbuckling for the moment from the outside\nas you look over to the tower you can\nsee the double doors are wide open\nthe rain's slashing inside\nand as the rain cascades down\nyou just can make out something a little\nodd give me perceptions\nfive doesn't seem great no uh oh there\nwe go\neleven okay\num okay so sir vincent you can see\nthrough the slats of the wood\nthat as the rain is cascading in the\ncenter of the courtyard it's as though\nwater is\nhitting an object\nthat you can't see\nand that object is moving towards the\nexterior gates\nit's almost as though there's some\ninvisible force moving through the water\ncascading down the water of course hits\nthat force and and sort of you know\nglances off it and as you're as you're\nwatching it for you can see that that\nwhatever it is\nis in vaguely humanoid shape\nmaybe six feet tall\nand there's another aspect to it it's\nalmost as though there's a long\nslender something uh protruding\nbefore it as it moves towards the gate\nhe's probably a conductor\n[Laughter]\nat that moment\nagain the men on the other side resumed\ntheir assault on the gate bang bang for\nof course\nthey can see nothing\nwhat do you do\nyou\n"
+}

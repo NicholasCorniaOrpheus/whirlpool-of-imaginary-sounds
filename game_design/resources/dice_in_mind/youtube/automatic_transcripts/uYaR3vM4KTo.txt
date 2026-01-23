@@ -1,0 +1,1852 @@
+[Music]
+Welcome to Dyson Mind, a podcast hosted
+by Brad Brown and Jason Kaufman to
+explore the intersection of life, games,
+science, science, music, philosophy, and
+creativity through interviews with
+leading creatives. All are welcome in
+this space.
+[Music]
+We've had an opportunity to speak to
+obviously many writers and RPG writers
+who have written
+for multiple
+um what's
+franchises all over the place. Yeah. And
+and tonight is is no exception. Al
+although tonight's guest is writing for
+one of the very newest RPGs out there
+that's not even out yet. That's what and
+that that is what is going to make this
+one a little unique. And um not only
+that, we come to find out that um you
+know, we thought this would be our first
+time meeting him. For me, it was not.
+That that was pretty funny. Yeah. And so
+you'll hear that more in this in the in
+the conversation we're going to have
+with with Merrick Moore here shortly.
+Mhm. But
+um many thanks to Al Bader for putting
+us in touch with Merrick because it was
+a it's it's going to be a great
+conversation
+um talking about not only
+Trek and you know modern age green
+roine. I mean so many things he's he's
+touched a lot of the a lot of our
+favorite lines at this point. Oh yeah.
+Yeah. I mean he literally you draw a
+line through them. Yeah. Yeah.
+literally. And he is the book lead now
+for the upand cominging Cosmir, which
+which is of course what what made us
+especially want to reach out to Merrick
+because you and I we've been talking
+about Cosmir and Brandon Sanderson
+novels for a while on the podcast now.
+Yeah. How'd you like my my emails and
+everything this weekend? I got I got a
+little bit down the rabbit hole with in
+the Sanderson verse with you. Uh well,
+thank you because with you using good
+prompt engineering with uh what do you
+use? Gemini. Yeah, I was using Gemini to
+kind of dig into the cosmir. Yeah. Now I
+don't have to read any of the sequels
+because I now have read the the tight
+synopsis of of each one. Um but but
+seriously, we you and I both have been
+really intrigued by the upandcoming
+cosmir game line. this this quote living
+RPG which really does attract me. Um,
+and we do talk about this in the
+interview, but I I think before we get
+there, it's worth talking just the two
+of us for a sec. Uh, you and I, I guess
+a little bit online, but certainly
+offline after this past winter break
+when I came back from our trip and and
+told you, "Hey, I read this book called
+Mistbornne." And apparently it's a very
+well-known author that we don't know
+about. And it was really interesting
+because it's hard magic. So, think hard
+sci-fi, but it's magic. It's an almost
+scientific approach to magic. And I have
+to say, it's very compelling. I had to
+I'll be I'll be very transparent. This
+idea of hard magic, you talked about it
+multiple times. We've talked about it, I
+think, briefly in past episodes with
+folks. Um, it was a concept that eluded
+me a bit. So, that was one of the things
+I researched this weekend. I wanted to
+get kind of a better understanding of
+what it was. And the the further down
+the rabbit hole I went on it, the more I
+was fascinated by it, um, this idea and
+and I hate to say it, the more I would
+love to integrate that into
+um, Star Trek. No, I'm I'm kidding.
+Yeah, but no, but into into like the
+Gersps verse I'm building. Just the idea
+if I were to if I were to introduce
+Magic because let's be honest, I mean,
+you know, we tend to play more sci-fi
+than anything.
+Um, so I haven't we haven't neither of
+us have done much in the way of GMing,
+DMing Magic. Um not beyond like like
+jamming for like level one casters.
+Yeah. Yeah. Right. Where it's basically
+can trips and magic missiles but you
+know or and and the close and and and
+obviously psionics type of stuff is
+interest us and that's kind of like it's
+but that's just adjacent a little bit.
+Yeah. It's got a magic gloss over it but
+it's still not magic. This is different
+though. this is different and and I just
+the idea behind it and what ultimately
+happened is is you know if I could mindm
+map what my what my research spikes were
+this weekend in terms of the directions
+I was going if you could Oh, you should
+probably just
+mute. No, I'm kidding. Go. Oh, okay. I
+Sorry. The look on your face like, oh
+no, what happened? Well, yeah, I was I
+was like I didn't do anything, did I?
+Priceless. Um, no that this but it would
+it would show I I went far down this
+idea of hard magic. Um, yeah, because
+because I it's it's a really interesting
+and then we got to go to the interview,
+but I this will be this will be a topic
+we could bring up again. I'm sure it
+will be. I think I think the idea of
+hard magic could be something that we
+could get behind in terms of utilizing
+magic in in game in places where where
+we wouldn't otherwise. Yes. Yeah. Where
+we wouldn't be comfortable uh magicking
+as it were. Just just for clarification
+we're you know we are assuming
+everyone's familiar with this concept
+but of course we weren't. But but hard
+magic, think of magic akin to hard
+science fiction where it's science
+fiction, it's future looking but future
+oriented but it tends to stay close to
+reality. There has to be a logic. Think
+like um think Alistair Reynolds, right?
+Versus like Peter Hamilton. And so hard
+magic is in our minds the same kind of
+thing where the magic it's not
+willy-nilly. It's not, you know, I cast
+and everyone goes up in flames. It could
+be, but there has to be an internal
+logic to the
+mechanism. And that's where that's where
+the
+cosmir gameverse really stands out. And
+and I will be I will be very interested.
+We we talked a little bit with him about
+about the dice mechanic. We didn't get
+into that. That wasn't the point of the
+convo. and the fact that there was a
+public beta out for it for a while. I
+will be interested in I'm gonna have I
+didn't do this this weekend in starting
+to look online and seeing the
+discussions the YouTube videos of people
+um who are utilizing that content and
+seeing their thoughts on it. Um really
+plays out really based on what Merrick
+will tell us shortly. Uh really curious
+to see that dice mechanic in action.
+Yes, absolutely.
+Yeah, Merrick Maher is a digital
+marketing manager at an international
+engineering company, a Mchuan University
+graduate from the sadly defunct
+professional writing program, a father
+of four, and a constant storyteller and
+worldbuilder. He recently became the
+book lead on Cosmir RPG's Misborn World
+[Music]
+Guide. So, Merrick, thanks for joining
+us. It's funny, right before we hit
+record, we realized that we had actually
+been on a um an episode with Green Ronin
+before um old Thursday Age. Yeah,
+Thursday Age. Yes, we did that when we
+were doing a sess a session zero
+character creation for Fantasy H2 right
+early in early in its release if I
+remember correctly. Yeah, we just sent
+the PDFs at that point. No hard covers
+yet. We were just Yeah. Yeah. Just
+showcasing the character creation. Yeah.
+And that and that and I still I still
+believe that, you know, Jason and I, no
+disrespect to other high fantasy gaming
+systems out there. There's a lot of
+great ones out there, but we've already
+talked about the fact that when when we
+have time to play High Fantasy again,
+it's it's going to be FA2 just because
+um we love the 3d6 dice mechanic. Oh,
+yeah. Um Yeah. You know, we love it. And
+you and you we got so much to talk
+about, but it's just since I brought it
+up um you do a live play, right? Yeah.
+So, I'm currently doing something called
+Starfall Detective Agency. And so it is
+our diesel punk uh noir fantasy age
+game. So it's set in a world called New
+Talrios which I made up. Uh we run it
+second Mondays on Moonbeam.
+Okay. And then we publish the episodes
+on our YouTube on uh Skyhammer Press.
+And so we're yeah we're uh it's first
+season like we this group previously did
+a uh a threeseason show of uh the
+expanse RPG called Hellbreakers. Mhm.
+And so we did that for two years. And uh
+so now we're doing some fantasy age
+because we wanted to do a little bit
+more high fantasy. But I made it weird
+because I went diesel bunk diesel punk
+floating DRA cities. Let's do that
+instead. Uh, so they've uh they've done
+some, you know, woman comes in, her her
+husband's missing, he got a new job, and
+she's she hasn't heard from him in a
+couple of days, so they go and
+investigate, and now they're they're
+tearing off into into the story. It's a
+lot of fun. It's very cool. Jason, you
+almost went crosseyed when he went. I'm
+just I was just I was letting the
+imagery come. I was I was Yeah, I was It
+took me a moment to just kind of grock
+each of the pieces and get them in line.
+There's a bunch of Yeah. I Yeah. Wow.
+Okay. So, I don't even know where to go
+with that. There's so many places we
+want to go. So, we I mean, obviously, we
+we asked you if you would chat with us.
+At least this is where we can start.
+There's so much more. Well, before we
+do, just just what we'll we'll post the
+links to those in the show. Oh, yeah.
+Oh, thank you. Absolutely. Yeah. Thanks,
+R. Yeah. We you have written I mean not
+to mention live plane you've written for
+a bunch of lines now. Yes.
+Um the first one that I got to freelance
+for was the expanse. Mh. Uh so with
+Green Ronin. Um had a lot of fun with
+that. And then from there I went to
+Actton Cthulhu. Did a whole bunch of
+adventures with them. Uh some work on
+some of their hard covers. uh got my own
+uh soft cover book uh Viva Resistance
+was all mine. I wrote 100% of that book
+uh which was really cool. Such an
+opportunity. Yeah. Uh after that I got
+some Star Trek work. I did uh Star Trek
+Adventures um again obviously for
+Medifius
+and done some D&D stuff. But just around
+the uh the Star Trek time, I also got
+involved with what was at that point the
+Stormlight RPG, right? And uh they
+brought me in to write one adventure and
+a year later I am leading one of the
+books. So outstanding. It's been pretty
+cool. It's been an amazing year, year
+and a half.
+See, it's it's times like this where I
+do wish our audience could see the video
+cuz like Merrick's grin like just this
+wonderful smile like living the dream
+here, right? So, okay. So, may maybe
+let's just start there and we can kind
+of go backwards. So, full disclosure,
+like Brad, and I think I can speak for
+both of us, cuz like you and I have been
+talking about this, Brad, Brad and I
+came on to Sanderson's novels like like
+2 minutes ago, like for PE for guys who
+are like PE, you know, for people who
+are are deep into sci-fi and also some
+fantasy and and it's not like there are
+only one or two books he's ever written,
+right? Yeah. I I mean his books tend to
+be like whole series for other people in
+terms of length and and it was only over
+this past winter break that I read my
+first novel by him and so I didn't know
+did you start Misborn. Misborn. Okay. Uh
+yeah, Misborn. I had been reading up a
+lot um uh uh Michael Dismuk had been
+recommending him his videos for for you
+know his YouTube tutorials. Yeah. And I
+started listening to those and thinking,
+okay, this is really interesting and
+it's got to be pretty creative. And then
+I I asked around and got some
+recommendations and I thought, okay,
+Misborn is like a normal length novel
+and it's one of the early ones and it's,
+you know, very highly spoken of. And so
+I thought, okay, that would be a good
+one to see if I like it. And I really
+got a kick out of it. Like it was really
+creative and and you want to you want to
+hear a really, you know, uh, like tidbit
+about Misborn? uh December of 2024,
+Misborn actually hit a bestseller list
+for the first time in its 10 years that
+it's been published. Yeah, it hit a
+bestseller list because Book Talk has
+just been going like wild over Misborn.
+And so the sales have just increased and
+it actually hit a bestseller list like a
+decade after publishing, which is wild.
+Darn. I mean, but it does go to show
+that you can't you can't predict things
+with books. I mean, it's kind of like
+games, too. Like, you you really don't
+know what's really going to hit and if
+it does, when it's going to hit. Well,
+and
+Misborn, it's one of those stories that
+feels relevant, uh, timelessly relevant,
+but particularly relevant right now
+because it's a story about a bunch of
+people going counterculture and
+destroying an evil empire. like it's how
+Star Wars continues to be relevant and
+the idea that you know what autocratic
+fascist governments are around and
+people got to do stuff about them it
+there's a cathartic feeling to the
+Misborn series for me that way. Yeah. We
+don't know what I don't know why which I
+don't know I don't
+Yeah have to think about that. So So
+Brad you got into but you you started up
+with Sanderson's novels around the same
+time but you you were I was I was I was
+later embarrassingly so. I didn't I
+hadn't heard about them until you you
+and Michael had started talking about
+them and and ultimately I had gifted
+myself
+the Misborn series. You know, you could
+buy this the the trade paperback series.
+Yeah. Um, and I wouldn't I had a I had a
+milestone professional milestone that I
+was achie I was working to attain and I
+was going to allow myself I couldn't I
+couldn't open the cellophane on that
+pack of books and start reading it until
+I tamed it which I did. So I'm in the
+midst Congratulations. Yes. So I'm in
+the midst of doing now. And so when when
+we saw that there was an RP and I don't
+even remember how I came across that
+when we saw that there was an RPG. You
+saw it first. Yeah. I it was like, "Oh,
+wait, that's fascinating because it's
+one of the more creative worlds we'd
+encountered." And then it's like, "Wait
+a minute. I know that guy's name. Why do
+I know that guy's name?" It's like, "Cuz
+he's written a bunch of STA, right?" And
+and I'm like, "Oh." And so, so maybe we
+could start there. How did I mean you
+were already it seems quite prolific in
+the industry by the time they they
+called you for cosmir but like I mean
+what can you tell us how did that like
+how did that happen and what's that been
+like? Oh that was honestly the wildest
+like three four days of my freelancing
+career because I'm a part-time
+freelancer. I have a full-time day job
+that I work at um as a digital marketing
+matter. I'm a writer and an editor in my
+day job. Nice. And
+um basically what happened was I had
+spent the summer pitching what I thought
+was going to be my first uh Star Trek
+Adventures product. Like I had spoken
+with Jim uh quite a bit and uh Jim
+Johnson. Yep. We've heard of him.
+Obviously. I was like for the listeners.
+Yeah, you're right. They've probably
+heard of him too at this point. Yeah, we
+we've done Yeah. our show. Our show
+people probably know who he is, so
+you're good. Yeah. So, I I had been
+talking with Jim for quite a while
+because uh he was a very nice supporter
+of our streaming stuff. We've done a
+couple of Star Trek Adventures streams
+and he knew I was interested in writing
+for Star Trek Adventures. Um and I had
+an idea after watching an episode of
+Strange New Worlds and I was like, "Hey,
+I'd love to do this." And he said, "I'm
+taking pitches in October." Like, yeah,
+here's some reading material. will write
+something up and send it to me in
+October. And great, great. Like my brain
+is in this all summer. Um, I got my
+pitch together. I sent it to him. And
+while I was waiting for him to get back
+to me, uh, I saw a tweet about uh the co
+well the Stormlight RPG looking for
+writers. Uh, and this was, um, the
+project manager at the time. Uh, and I
+just, you know, messaged him, just
+direct messaged and said, "Hey, you
+don't know me. Um, I would love to write
+for the stuff. Like, here's my
+portfolio." And I gave my website. He's
+like, "Oh, great. Thank you for sending
+it in. Like, I'll take a look." And then
+like the next day, he messaged me back
+and he was like, "This is really good.
+Can you send a writing sample, please?"
+Like, "Okay, yeah, yeah, yeah. Here's a
+PDF of one of my adventures. Yeah. And
+then that was like a Monday. Tuesday
+morning, Jim gets back to me and he
+says, "Um, I love your idea. This is
+going to be a briefs package. Um, we're
+going to we're going to get you to do
+that." Nice. But do you have capacity to
+do a really quick adventure right now
+for the starter set because we're
+looking for a third adventure writer.
+And so he brought me on with Michael
+Dism and Al Spader. Yeah. to write up
+one of the adventures on the starter
+set. Yeah. I'm like, "Yeah, I'd love to
+do that. That sounds great."
+And then while I was like riding this
+high of I'm a Star Trek writer now. I've
+got two projects coming. Uh Anthony
+Joyce Rivera comes back to me and he
+says, "Hey, the uh the creative director
+uh really loved it and he wants to have
+a meeting with you." Wow. Can you uh are
+you free this week?
+Yep. And I was like, uh, yeah, cool,
+cool, cool, cool, sure. Um, so then
+Thursday that week, I met with uh Johnny
+O'Neal from Brotherwise and like I had
+signed all the NDAs going into the
+meeting and he's like, "We want to hire
+you on for one adventure and here's the
+big thing. It's not the Stormlight RPG,
+it's the Cosmir RPG." And I'm like,
+cool. And he just gave me a presentation
+of like all this art and plans. It was
+incredible. And I so I spent October and
+November like writing Star Trek and
+Stormlight simultaneously. Oh man.
+And I and I just like got those out
+really quick. And then uh Star Trek went
+and did its thing. And then I just kind
+of kept taking Stormlight work for the
+next couple of months up until uh I did
+a couple of things in Stonewalkers,
+which is the adventure path for uh the
+Stormlight RPG. Oh, cool. I did I did
+chapter 3 and I did chapter six and I
+helped with revisions and things like
+that. Uh did some work on the world
+guide. That looks really cool. Oh, it's
+it's gorgeous. Um, what became like the
+really big thing for me was in the
+spring of last year, they said, "Okay,
+we're starting work on our Misborn world
+guide. Merrick, we'd like you to come in
+and write some of the stuff on it."
+Yeah. Um, how would you like to write
+all of our points of interest
+chapter? So, I got that entire chapter
+to myself. Wow. And started writing
+that. Um, we wrote it in a couple of
+phases, so I was writing it all over the
+summer. And then uh obviously by August
+we we launched the Kickstarter, revealed
+that it was the Cosmir RPG, not just the
+Stormlight one. It's this big multiworld
+uh thing that we are taking on and I
+started being able to tell people like,
+"Yeah, I'm working on Misborn stuff."
+And then uh by December of 2024, uh the
+Misborn World Guide book lead uh was
+stepping into a different position.
+She's taking on more design focused
+stuff and they're like, "Merrick, do you
+wanna you want to book lead this?" So,
+all of the um all of the writers and
+there were like uh nine different
+contributors on the book at that point
+um had all handed in their stuff and
+then I was co-book leading it with
+Lithia uh for January and then I took
+over, you know, halfway through February
+and I've been running it and putting it
+together for the last couple of weeks.
+Wow. So, well done. Yeah, that's that's
+not dull. That is It's incredible. It's
+so exciting. And like, so you're you're
+you're both starting in Misbornne right
+now. Like, how far are you in the books?
+Oh, literally. I've read Misbornne.
+Literally. Yeah, literally read Misborn.
+That's that's all it and and I haven't
+Yeah, I have like I just haven't gotten
+to Stormlight yet. There it's It's a bit
+of a lift. It's a little intimid
+intimidating. It's like in terms of like
+uh like a commitment. It's like okay,
+you know, like like I felt like I could
+walk away having read Misport and I'm
+like I'm good right now.
+But to to commit it's like I Yeah, it's
+getting We'll see what happens over the
+summer when I have the time to Jason is
+not traditionally a fiction reader. So
+to get him to read fiction, if it's
+fiction, it's probably sci-fi. And if
+it's sci-fi, it's it it's you know,
+Asimov doesn't write much anymore. Uh
+Adams doesn't write much anymore. Very
+disappointing. But like so when I heard
+that he read when I heard that he read
+Sanderson, once I realized who it was, I
+was shocked because it was just not in
+his realm normally. And that's that's
+one of the things that really like
+psyched me up about Misborn. Like when I
+got into Sanderson, um basically what
+had happened and it seems to be a
+pattern with me. If somebody tells me
+three times to read something like and
+it doesn't need to be the same person.
+If I've heard from three different
+places, this is good, I just buy it. And
+so like I did that with the Misborn
+books. I just bought the trilogy and I'm
+like fine, I'll read them. Okay.
+and the the
+like opening from Sanderson talking
+about how his vision for it was three
+separate trilogies over different time
+skips sold me immediately because one
+day we're going to get Misborn in space
+and wait like seriously.
+Okay, so this is his plan. So Misborn,
+the first trilogy is set in the time
+that you are with, right? Uh, era 2
+takes place a couple hundred years
+later. Time skip. Era 3, which he's
+working on right now and it's going to
+the first book's coming out 2027ish,
+um, is going to be roughly like 1980s
+analog.
+Yeah. And
+then, uh, era 4 to be space age and the
+cosmic. Okay, first of all, very cool.
+You had me at space age. Second, uh the
+Cosmo RPG presumably I mean from what's
+been written announced, it's going to
+whatever it means keep pace with these
+cuz it's so what? Absolutely. Excuse me.
+What attracted me? Well, other than the
+premise, other than like the little bit
+of artwork they shared, I mean it it
+does look gorgeous. It's the artists
+that they have brought in are
+spectacular. It really looks like that.
+But also the notion of a living RPG
+that's a that's like a new thing like
+right right like it's not just go I mean
+it is it's like planning that from the
+beginning of of he's going to keep
+writing and consequently the RPG in
+whatever way in whatever methods is
+going to keep pace and keep expanding
+and that's very provocative. It's also
+fully canon which is the wildest part.
+So, we have a Yeah, we have a really
+close relationship with Dragon Steel,
+which is Brandon Sanderson's publishing
+company, where all of the stuff that we
+write goes to them for IP approval. And
+we're able
+to like reveal stuff that haven't that
+hasn't been revealed in the books. And
+when something is printed in our books,
+it's canon for his novels going forward
+as well. So, like the events Yeah. like
+the like say the locations that we
+publish in the Stormlight World Guide,
+they could be referenced in further
+Stormlight books. Same thing with
+Misborn books. So So like if you I mean
+it's cool cuz like like if it is cuz
+like if you
+if you create something Yeah. It could
+show up in a future novel like that was
+you. Exactly. And I mean like
+I was very fortunate to be tapped for a
+lot of the stuff that is the new lore.
+Mhm. So our sort of like book structure
+for a world guide. It's it's meant to be
+like a coffee table book. Like someone
+who's never going to play the RPG should
+also have a really fun time flipping
+through this book, looking at the art
+and learning about a world for for a
+novel series that they love.
+And so like our early chapters are very
+much um you know here's an overview of
+the world. Here are the uh the
+countries, the nations, the the people,
+the various regions. Um we have a
+cosmology and religion. So like we're
+talking about actually um
+like the high concept stuff that uh you
+you get into the cosmir later. Yeah.
+Um there's there's big history sections
+as well. Nice. Uh there's uh character
+sections um highlighting like named
+characters from the novels. Y and then
+then you get into the points of interest
+chapters which is what I got to focus
+on. Yeah. At first and it's like pick a
+spot. So for example, having read the
+first Misborn, one of them is Luth. Mhm.
+It's it's the city and like we we hit
+sort of the high notes that you know
+from the books and fill in a lot of the
+gaps as well to create spaces for
+players and GMs to create their own
+campaigns and so on. If you know and of
+course Brandon's not going back and and
+writing more Arrow One stuff, but if he
+did, uh the stuff there could exist
+because it does now. It does exist in
+there.
+And putting that together
+is very exciting and very cool and like
+quite a process cuz we have
+um obviously all the writers are are
+quite knowledgeable. Yeah. And we also
+have this group um of people called the
+world singers. They are like volunteer
+cosmir scholars. like they they do
+podcasts, they run websites, they know
+all of the stuff and they come in and
+they lure check us as well. Before we go
+to Dragon Steel and say like, "Hey,
+here's the thing." Yeah. Yeah. Nice
+crowd sourcing. That's pretty That's
+That's really cool. So yeah, they're
+well do you do you have is there
+communication
+um
+between the group your group that's
+working on the RPG and Sanderson himself
+at all with any of it or Yeah. Um
+definitely it's mostly through Johnny
+who's our creative director. Okay. And
+uh and some other people like Lydia who
+is the um who was the Misborn World Guy
+book lead. She was the Stormlight World
+Guide Booker. She's the lead writer on
+the project. Yeah. Uh she also lives in
+Utah and has gone and like done meetings
+and so on there. I live up in Canada. I
+don't fly down to Utah to meet Brandon
+directly. Unfortunately,
+you might want to stay in Canada these
+days. Unfortunat, you know. Yeah.
+Probably. We love, by the way, by the
+way, we love Canada. We love We love
+Canada. Don't listen to what other
+people what you might see on the news.
+We love Canada. Merrick, where are you
+in Canada? I'm in Edmonton, Alberta. Oh,
+so cool. Okay. I uh I've I'm up in St.
+Paul. Well, sorry. I'm down in St. Paul.
+Um but that's that's very cool. I
+haven't been to No, I haven't been to
+Alberta yet. That's that's on the list.
+I've been lots of other places in
+Canada, but Alberta's good. Like, we've
+got a lot of lakes. We've got mountains.
+I like BC better. Sure. Um like
+politically and visually. BC's better.
+Costwise, BC's worse. Yes. Um, but I
+mean, I I was born and raised here in
+Alberta. I lived in BC for a little bit.
+Came back here with family, you know,
+those sorts of things. I have kids. I
+needed to be by their by my parents for
+additional help. I mean, it makes a
+difference. Yeah. Yeah. I mean, hugely.
+Absolutely. No, we I mean, yeah, we know
+that's like So, I'm curious. So, as a
+book lead, like we we we love to talk
+about process and like the back end of
+things of not just the products, but
+like I'm going to use the term Jason.
+Just go for it. Get it out of your face.
+I'm going to use the phrase. I'm going
+to use the phrase. We The term that
+Jason hates, I don't like it either. The
+sausage making. Yes, of course. There is
+a lot of you know of of the behind the
+scenes
+grinding to making a but but how you but
+you know that that stuff that that t you
+know the writing is the is the sometimes
+like the the cool and sexy stuff that
+people talk about but there's but you
+know there's so much more yeah there's
+so much more to it and as someone who's
+you know for me especially with someone
+who's not tradition really a writer I'm
+fascinated by the work that goes into
+it, not just you sitting there and
+writing itself, that to me is also
+fascinating, but the whole process
+behind it. So like, so being a book lead
+on a cosmir book, like what's that like?
+What's that look like? What are the
+things you're doing? How do you balance
+that? And sounds like you have a life
+outside of this. So like how does that
+all work? Um, so I have my day job that
+I do. I then uh take a little break,
+spend some time with the kids, have
+dinner, and then spend a couple of hours
+generally every night uh going through
+documents and like having a manuscript,
+having two or three spreadsheets, having
+um reference physical books. Uh we have
+a database of all of the uh all of the
+Cosmir books like just in that so you
+can word search through them.
+Um, and then,
+uh, Discord as well, just being like we
+have a Discord server where we can ping
+all of the other people.
+Um,
+it's it's definitely
+like meet with the other leads. Yeah.
+and talk through ideas, translate those
+out to the freelancers and the
+contributors, get them to work, they
+send in stuff, put it all back together,
+and just keep getting ready and hitting
+the next deadline. Um,
+so we had a two-month revision period.
+So, we had everybody got their stuff in
+end of December. Uh, Lydia and I spent
+four to six weeks just going through it
+and making a plan like how do we turn
+these nine people's contributions into
+one book. Yeah. Literally just making a
+plan for each individual person and life
+happens. Right. Right. Like some people
+have left the project, some people have
+taken different roles in the project,
+some people are just unavailable to come
+back and work on it for various reasons
+in life. So when that crops up, you got
+to go, okay, what's our second plan? Who
+takes this part? Who works on it? yada
+yada yada. And
+so we sent that all out and then the
+writers had two months. They had
+February and March to uh do all of the
+things that we asked them to do to bring
+it all kind of together.
+And I got that all back end of March. Uh
+and I've just been basically reading
+through it and clicking off a checklist
+being like, was this done? Was this
+done? Was this done? Mhm. Um, and then
+in two two and a half weeks now, it's
+going to go to uh Laura, who's our lead
+editor on the project. Incredible. Like
+so prolific in the industry. She has
+edited most of the like big D&D books
+out there and most of the other RPG
+books out there. Um, and so she's going
+to do a a massive developmental edit on
+it, and I'll work with her. Like, she'll
+go through with fresh eyes and
+all of her expertise and experience and
+all of the knowledge that she's gained
+from doing that to the handbook, which
+is what she's currently working. Okay?
+And then we we combine it and make it
+one
+big meatball of a single game system
+rather than nine writers all had cool
+ideas in a row. So,
+It's a thing and and I love doing it and
+it is I worked early in my career in
+print production and and
+so I've done it a bunch and so it's nice
+to do it again. Can I can I I want to
+digress here just because just by what
+you said I I'm going to this is what we
+were talking about I think before we hit
+record about about taking right turns
+and everything
+going way back. How how did you get
+yourself involved
+in first of all in gaming you know a lot
+and it's probably a similar story to a
+lot of to all of us but into gaming and
+then into like
+writing about and writing in gaming as
+well. So it's kind of like a two pro two
+twoprong question really. Yeah
+absolutely. Um, so I mean similar story
+to a lot of people like I loved gaming,
+played board games, played video games,
+played like Balders's Gate and
+Neverwinter Nights and those sorts of
+things. Um, but I didn't touch uh pen
+and paper RPG till university when I saw
+some friends holding the 3.5
+uh players handbook and I was like what
+what is that? What? Tell me more. And
+then just like sucked in completely.
+Um but I actually I was in university
+for computing science. Did three
+semesters of that. Okay. Did not like uh
+left um did random jobs until I saved up
+some money and opened a board game store
+and sold games for about a year and a
+half and then lost a lot of money and
+went got to close this. uh what am I
+going to do with my life? And uh my
+wonderful wife, who was my fiance at the
+time, uh said, "Hey, Mchuan has a a
+professional writing program. Why don't
+you go check that
+out?" So, a four-year program. Yeah. And
+I did that in two and a half years
+because I was like, I don't want to be
+back in school. I'm just going to take
+maximum course load all the time and
+crush through this.
+Uh,
+and after
+my I think yeah, like in the summer
+after my second year going into what was
+going to be my final year, I got a job
+as a production assistant uh doing print
+publications for the government of
+Alberta.
+And so I was doing a lot of line editing
+and production editing and like I was
+doing press checks and learning those
+skills and and working with um like
+contract designers and stuff and I got
+to book lead two small books there like
+because I worked there for three or four
+years.
+Um then got a job working for an
+engineering company and I've been there
+for 10 years now. Uh I manage a team of
+three writers. Yes. And so just like a
+lot of that. So do do you do a lot of
+technical writing?
+Yeah. Yeah. More more storytelling of
+technical writing. Um I don't have to do
+like this is how the engineering is
+done. I do. We did cool engineering. You
+should hire us kind of work. Okay. Yeah.
+Like RFP type of stuff and no uh no uh
+web stuff. Okay. Oh, cool. Marketing
+copy. Yeah. Okay. Awesome. Yeah. And
+then uh although I have written RFPs
+back at the government of Alberta. Yeah.
+But uh Yeah. And then getting into
+writing for TTRPG. Like I said, uh the
+first one was with Green Ronin and The
+Expanse. And what actually happened was,
+like I said, I lived on Vancouver Island
+in BC for two years. Gorgeous,
+gorgeous place. Wonderful place. And
+I had to build a whole new community out
+there, like playing card games and
+running TTRPGs, but I was really missing
+like my groups back in Edmonton.
+And so when we moved back to Edmonton, I
+unveiled a master plan to my friends. I
+said, "Look, I have a list of 12 games
+that I want to
+play. I'm going to run one a month for
+the next year." Interesting. So, sign up
+for the ones that you're interested in.
+Yes. And I was like, it's going to be on
+a Saturday. It's going to be a potluck.
+We start at three o'clock in the
+afternoon. Characters are already made.
+We're gonna do a oneshot in this game,
+one a month. I went to do the very first
+one and I was like, you know what? I'm
+really liking this whole Critical Role
+thing right now. So, let me just put a
+mic out on the table and let's record
+this. Maybe we'll turn it into a
+podcast. And I ended up doing five
+seasons of something called Massive
+Damage Adventures. Yes. Which was uh one
+shots. We did 12 episodes a season
+except I started reviewing games and
+started doing a review game every month
+as well. So we were doing like 24
+episodes a season. Yeah.
+And then I started interviewing people.
+So, I interviewed uh like the creator of
+Fragged Empire and um and I brought on
+uh the Story Brewers um the ones who do
+Good Society and uh Fight with Spirit
+and um one of the people I brought on
+was Ian Lumpkkey doing The Expanse. Mhm.
+Reached out to him on Twitter, got him
+on to the podcast, just talked to him
+about the game, and during the
+pre-post podcast conversation, he was
+like, "Yeah, I'm always looking for new
+writers." And I'm like, "I'm a writer.
+Like, I'd love to write something for
+The Expanse." And it just continued on.
+That's so cool. Yeah.
+Man. Oh, man. when you one when you
+write you know what's kind of your you
+know again this hyper nerdy question I
+kind of ask people this you know what's
+your what's kind of your ecosystem for
+writing you know do you have you know
+you know you know PC Mac you know are
+you like Jim Johnson you're just laying
+it out on line of type I mean what's
+your what's your uh sorry Jim so um I
+have I have a big set up right here.
+I've got four screens. Um got I've
+always got a cup of tea. Um ah
+must have my tea. Yes. Um and many many
+Spotify playlists. Yeah. Uh to like get
+me in the particular mood of whatever
+I'm writing, like action sequences or
+Misborn has its own one. Um, when I'm
+doing editing, I have one that's
+literally just every song of Billy
+Talent in order because
+the music just gets in my head and lets
+me really really focus.
+Yeah. So, Jason is going to be looking
+that up later. I think he by the look of
+his eye. So, okay. So, like I can see
+with the editing and with the lead stuff
+like having the multiple monitors, but
+even when you're writing you're
+utilizing four monitors. Yeah. Yeah.
+Generally. Okay. Because I've got like
+I've got notes in one note. Okay. I've
+got physical notes on a notepad. Yep.
+I've got, you know, Spotify going. I've
+got reference materials going. Yeah. Um
+I've got Discord up. Yeah. Just for the
+record, so you know, after we hang up
+and and like we wander away from this
+chat, rest assured, Brad and I will be
+talking about exactly this for the next
+three days based on our previous
+conversations of workflow.
+I I just love that because I've because
+I I'm like a, you know, I look at
+different productivity methods and not
+because one's good or one's bad. It's
+just it's fascinating to me as someone
+who has tried different methodologies
+and things like that for for writing and
+management and and some work for me,
+some don't. I I run with three screens.
+Um because I you know Jason Jason has a
+different methodology than mine. I have
+my I have my one laptop screen. Yeah.
+And that's okay. There's nothing I'm not
+It's just and it's just funny how it's
+how we we operate differently. You know,
+I have to use a task management system
+and I have to look at it from a canban
+perspective and I have you know there's
+things that I need to do to be
+functional and for some it looks like
+chaos for me it looks it looks like
+order you know. Yeah. So absolutely I
+I've got it just Oh go ahead. My process
+definitely when I'm writing something
+I'm writing something for
+um uh for fantasy age right now
+actually. Nice. Uh, and like I'll have a
+OneNote document that, you know, I can
+access from my computer, I can access
+from my phone. Anytime I have an idea or
+like some free time where I want to work
+on something, I'm just throwing stuff
+into a big soup document there. Nice.
+Yeah. And then I put it into a a laid
+out outline. And it's a lot of my
+outlines are like almost first drafts.
+like I've put all of the ideas in and
+then when I'm actually doing the first
+draft, I'm really just prettying up the
+words I've already put there.
+Yeah. Putting them in the correct order.
+Does this work? Make it sound good. And
+then iterate. Yeah. Since we're down
+this rabbit hole, we might as well go
+all the way. So, what what app do you
+like to write in? Oh, just Word. Yeah.
+Mhm. Um the the cosmir RPG and most
+freelance jobs are pretty strict. They
+have their own templates. Yeah. Uh so
+like here's the template, you've got to
+match, here's the style guide, you've
+got to match, and then you've got to
+submit it in such a way. Um the Cosmir
+RPG has a very robust like word template
+nice that like you have to format stuff
+with their styles as you're going and
+then Yeah. It makes it easier for the
+editor. It makes it easier for the
+graphic designer. Absolutely. Um whereas
+other ones like uh when I'm working for
+uh Green Ronin
+uh everything has a particular style but
+it's all in like sort of normal style
+like there's there's no there's no
+uh styles applied to it.
+So just different workflows for them.
+Yeah. So, kind of going back a bit to
+the the cosmir RPG team. So, I'm I'm
+guessing that we know the answer to
+this, but obviously in 2025, it's it's
+the standard that most most teams in the
+industry, whether they're whole RPG
+production or whether they're their
+books or whatever, it's heavily
+freelance, right? We know the industry
+has changed. Is it fair to assume that's
+largely the same that most working on
+cosmir it's a free freelance kind of
+structure other than a few at the top?
+Yeah. Yeah. Exactly. Um there's there's
+very few full-time uh people. There are
+a couple. Yep. Um I'm not one of them. I
+am part-time freelance on it. Uh but
+yeah, pretty much all the uh
+contributors are freelancers.
+Um, I don't think No, some of the
+freelancers are full-time freelancers.
+Uh, and and a lot of them also have
+other jobs. Yeah.
+Um, something I was going to say there.
+Oh, one thing that was really really
+cool about that, like uh just a couple
+of uh weeks ago, back in February, I
+think actually, uh, they put out a call
+for writers and they got like 4,000.
+Oh my god. Like, wow. Responded to that.
+Yeah. Um, and so there's a lot of people
+who want to write for this game. Doesn't
+surprise me. I'm real excited that I got
+noticed on a random DM on a tweet,
+right? So,
+um, it's really cool. Yeah. I do you
+have to are you involved in in reviewing
+any of that content?
+Yeah, a little bit. So, um, that round
+of people coming in, I didn't do any
+direct stuff on. I was in the middle of
+of handing out revisions to the writers
+on on World Guide. Uh, so Lydia and Laya
+handed that. Laya's the current project
+manager. Um, and the book lead for the
+two adventures, Stonewalkers and and the
+Misport one coming up.
+But what I did get to do is like we've
+done a lot of a couple of rounds of
+bringing people in and uh back in fall
+of
+2024 when I was um you know wrapping up
+my misborn writing stuff and hadn't been
+offered the book lead gig. I was doing
+the Stormlight Scenarios e supplement,
+which is
+um uh a series of short adventures, just
+two-page adventures. Oh, wow. And so we
+brought in uh six new writers and said,
+"All we want is a thousandword adventure
+from you to be put on a two-page
+spread." And so I'm I'm book leading
+that. All of the writers have got their
+stuff in. It's in dev editing right now.
+it's getting art and stuff soon and
+that's really cool and that was our way
+to kind of be like let's work with more
+people. Let's get some more writers in
+and like kind of see what you're doing
+and what ideas you have which has been
+very fun. you you mentioned earlier this
+evening you mentioned um you guys
+working on an adventure path
+and that that stuck with me cuz so I
+mean we haven't played Pathfinder for a
+while to put it mildly but but one of
+the things I like surprises me but I one
+of the things I like about Pathfinder is
+the concept of the adventure path
+honestly more to just read through them
+it's kind of because we like I like the
+lid of it but you don't see most RP RPG
+is taking that approach. Tons of
+adventures, including some heavy
+adventures, but an AP is kind of a
+different animal, but there will there
+be like that kind of AP in Cosmir or
+maybe not like gargantuan, but and I'll
+and I'll have to qualify that a little
+bit in that I think I've only played one
+Pathfinder adventure path forever ago.
+So, the actual like difference between
+an AP and and what we're doing Yeah. I'm
+not fully sure of, but this is a six or
+seven part adventure.
+Each one. Yeah. Each one is
+uh like an 8,000word adventure. Wow.
+Okay. And uh so that's epic. That's
+really cool. Book. Yeah.
+The coolest thing about it is um it was
+pitched
+uh to sort of Brotherwise by Brandon
+Sanderson and Dan Wells who's the head
+of narrative at Dragon Steel
+uh that they wanted to
+fill sort of like or finish off a a
+loose thread in the novels. Mhm.
+Something in uh Way of Kings, the first
+Stormlight novels, is sort of hinted at
+and never explained. Ready? You have
+your home. It's actually Yeah, there you
+go. Technically, it's in Words of
+Radiance, uh the second book, where it's
+not explained, but um basically cool.
+It's an actual canon story explaining
+what up until now has been considered a
+plot hole, but with way better artwork.
+With way better. See, that is so cool
+the way they're gonna do that. I mean,
+this is this I am I am so all in. Yeah.
+Well, and it's it's interesting because
+you as a group, as players. Mhm. You can
+see sort of the outline of the cannon
+story.
+A to Zed, this is the story. And then
+you fill in the middle parts. Yep. As
+long as you showed up for the first
+adventure and at the end you hand the
+mcguffin to group
+B, you have fulfilled the book and when
+it comes up in book five in Stormlight,
+you read it and go, we did
+that. Which is wild cuz like when I was
+reading book five of Stormlight, I saw
+the character name there and I'm like,
+oh, oh, I we did this. Yeah. Yeah.
+That's why this is here. This is really
+I mean we're we're big
+into RPG lit like I was just going to
+bring it up like or or I guess Yeah.
+like lit I guess lit RPG the notion the
+idea of of when you talked about being
+able to use these books as coffee table
+books. Yeah. you know, whether you use,
+you know, like taking like a Star Trek
+book, one of the Star Trek Adventures
+books, and if you don't have someone to
+play, right, a a group to play with
+right now, sitting there just reading
+the material.
+Plan Plania is like a really good
+example for people. Oh, I bought an
+extra copy and keep it at my keep it in
+my keep it next to my old man chair.
+Hello, my name is Brad and I have a
+problem. Oh, yeah. Oh, I got a problem.
+I mean, right here, I've got the three
+collector's copies of just the core book
+of S. Oh, look at that. The same book. I
+didn't Yeah, but they look good in three
+different colors. They sure do. Yes. But
+yeah, when you said that, when you said
+that, that just to me to me, I think I
+don't know about you, Jace, I just Oh,
+yeah. That tells me that this whole
+series is is going to have lit as RPG or
+RPG as lit all over it. It's we are
+going to be we are going to be I'm not a
+big kids in a candy store. Yeah. I'm not
+a big fantasy player or reader, but like
+since I saw the first announcement and
+like surfed the website for Cosmo RPG
+and especially like listening to all of
+this, like if if it were available
+today, this is probably this this and
+SDA. It's like this is all I would want
+to play. I would I would It's fun to
+play, too. Is it? Yeah. I I really enjoy
+it. it. There's some really cool things
+like we're we're deep into um
+testing misborn mechanics right now.
+Like is it's at print like it's doing
+its thing. Um but like I'm running a
+Misborn play test uh next Wednesday in a
+week. Um and still waiting on my
+marching orders of what they'd like me
+to test. But I love running the game. I
+love playing it. I don't I want to be
+careful asking a question here. I and
+maybe I I guess I haven't looked in a
+few weeks. Not much has been said about
+the mechanic, right? There's a little
+bit out there. Is that right? So, the
+beta rules were available all the way up
+until March 31st and then they just went
+down because like Demiplane and um all
+of the various partners are going to be
+implementing the final version of the
+rules now. Sure. So, they've taken it
+down and so on. Um, but I think you can
+still get like the they were out there
+at one point. Okay. And so people have
+played it. Um, I've run two two streams
+on my channel uh showing it off. Um Oh,
+good. Okay. Good. Good. And then uh
+yeah, there was a um an actual play uh
+which was really cool with
+um
+shoot. I can't remember his name right
+now. really big DM out of the UK. Um
+Okay. Yeah. And uh
+yeah, so like it's out there. It's very
+cool. Um I might have to search for that
+because I'm really curious about the I I
+was so focused on the list. Did the
+fancy dice. What? Oh, cool. Yeah, these
+are the dragon steel like uh dice for
+the important thing is the plot die,
+which is sort of the custom D6 that's
+Oh, look at that. Yeah. So, it's got two
+blank sides. Yeah. Uh, two sides which
+are good, something good happened, and
+then two sides which are, oh, something
+bad happened. Yeah. And so, you throw
+the plot die in whenever you're doing
+like a narratively interesting role.
+It's not on every role. That's
+interesting. You know, if your friend's
+falling off a cliff, the GM might say,
+for example, yeah, make an athletics
+test and raise the stakes. Yeah. And
+then you put the plot die in to give
+that extra axis against success or
+failure. You also get opportunity or
+complication. Nice. Yeah, it's really
+nice. It's a It's a good way to add more
+narrative as aspects to RPG. Yeah,
+that's I mean we we love that. Okay, so
+go ahead. No, no, go ahead. Cuz I'll
+I'll I'll wrap up with the question, but
+go ahead. So before you do that, I was
+going to say I kind of got one of our
+final questions here. So, and and
+obviously you can answer this any way
+you want, Merrick, but cuz you man,
+you've written you've written for quite
+a few RPGs and quite a few major I mean,
+let's Oh, that's you know what is this?
+I No, I've heard you in interviews.
+Yeah. Yes. So, this is this is my uh I
+have a tattoo that is my my portfolio.
+Holy crap. Let me
+Oh, I just I just uh said, "Holy crap. I
+think it's going to be okay." Yeah.
+Okay. So, we got we got Star Trek, we've
+got The Expanse. This is Actum Cthulhu.
+That's the section M logo. And that's
+the Stormlight logo. Now, I need to I
+need to update it. Um each dot Awesome.
+That is so cool. Each dot is something
+that I've been paid to do. Wow. And then
+I've I've got to throw Misborn on there.
+I've got a new expanse thing. Like I've
+got Fantasy coming. I don't have
+anything on there for D and D. Okay. So,
+like toward having to upgrade to a
+longer arm. I'm curious if uh I'm
+curious if um like you I mean you've
+written for all of this. Well, you could
+go you could just go full sleeve if you
+needed to. Yeah. This way. Oh, yeah. I I
+like the cyborg alternative. Whatever.
+So, I'm it. Are there
+are there any RPG franchises that like
+are seem out there, but like you would
+just love someday to be able to write
+anything for like maybe something a
+little Absolutely. Yeah. Yeah. I think
+you alluded to I think you kind of
+alluded to one you wanted to game at
+some point. I don't know if there was
+one that you might want if it was
+something you wanted to write for, but
+Yes. I I mentioned uh the Marvel
+Multiverse RPG, which is something that
+I'm a huge Marvel fan. I'm a comic books
+fan as well. Okay, that'd be great. I
+I'd absolutely write for them. Um I'm a
+huge fan of Monty Cook games. Like
+Cipher System, Invisible Sun would be
+something that would be incredible to
+work on. Interesting. Um and and I love
+working with Medifius. Yeah, I've got
+all the Dreams and Machine stuff right
+here because there
+Yeah. No, I I love games like going back
+to the Massive Damage Adventures talk
+like
+we played each one of those oneshots.
+Yeah. Was a unique game.
+So, right over five years, we played
+more than a hundred different RPGs. Oh
+my
+god, that's amazing. What was the most
+you you between the between the gaming
+and the writing question, I kind of
+killed my own final question. So, I'm
+going to change it. It happens. That's
+okay. That's okay because you just you
+mentioning that that gave me an
+interesting kind of question to wrap up.
+But before I do that, really thank you
+for joining us. We we we really I I
+could talk to you for hours about this.
+I can keep going. Absolutely. Yeah.
+Yeah. if if it I it you know we we know
+you have a family and everything like
+that and we really appreciate you. We'd
+love to have you back on when you have
+time and talk more um just because I
+mean this conversation could
+could last. We could we could have like
+episodes like we've had with Jim where
+they just they span. Um what was the
+most
+like I we never I don't like the
+negative type of questions. What was
+like the craziest or most unique game
+that like totally blew your mind or like
+weirded you out maybe that you played
+when you that when you were doing your
+oneshot unique game type of adventures?
+you know, you know, like for some
+people, you know, like, you know, like,
+you know, there are crazy games out
+there like Paranoia or things like that,
+but you know, is there anything that
+kind of
+like, you know, was kind of like, okay,
+that's a that that's kind of a not like
+you didn't like it, but that was kind of
+a weird one or that kind of threw the
+game that kind of threw the folks for a
+loop or um I think, you know, or a
+memorable one. the first one and and I'm
+quickly cheating and going back to
+that's okay. You can cheat all of my
+games and looking and looking at uh at
+the art for them to just remember, but
+the first one that comes to
+mind is Blades in the Dark because
+um
+that's a fate that's a fate background a
+fate backbone game face. It's kind of um
+it's kind of actually uh uh powered by
+the apocalypse. Oh yeah, that's right.
+Thank you. Yes. So PBTA is a game system
+that does not fit in my brain. I have
+played it a couple of times and every
+time I read it, I go, this is one of the
+best game systems I've ever seen. And
+then when I run it, I go, I don't know
+what to do. And so I've played City of
+Mist and really enjoyed it. I've played
+Legacy: Life Among the Ruins and really
+enjoyed it. Blades in the Dark bridged
+that gap for me in a way where I was
+like, "Oh, this makes
+sense and it gave a completely different
+game gameplay experience. Uh, where it
+felt really organic that we were doing a
+heist and that it got done quickly. Like
+we we had aotted this was a review one I
+think a quick one and we'd allotted no
+it was the first episode. Anyways, we'd
+allotted four hours for the game and we
+got done our first adventure in two
+hours with like a really succinct story
+and we were like, "That was fun. Want to
+play another?" And we just did another
+one in the next two hours. Wow. Wow.
+Jeez. And the book itself is designed in
+such a way that is so easy to GM. There
+are so many like little tables for
+inspiration or like create this area by
+just rolling dice a couple of quick
+times. Like it's a beautiful wonderful
+game.
+Um and I have it on my shelf and you
+know why I think that because I have it
+on my shelf next to
+um next to the my fate books and next to
+like Savage Worlds because it's that
+size book. It's like that kind of that
+trade paperback size book.
+So, um, but yeah, you're I have not
+gotten into the the PBTA stuff. Um, I
+just haven't had time, but I've heard
+it's fascinating. It's super good. And
+so, I got a couple of other things in my
+brain that I want to get out. Yeah.
+Yeah. High Rollers RPG uh were were the
+people who did the Stormlight uh actual
+play. So, High Rollers. Okay. That one.
+Um, another game
+that I super super love is really
+anything
+Cortex. Um, Firefly. Didn't Wasn't
+Firefly that or Serenity? Which one?
+Firefly and Serenity were both Cortex.
+One's Cortex, one's Cortex Plus. Yeah.
+And then, um, like they've done a Marvel
+one that I haven't tried. They do Tales
+of Zadia. Um, I've used them like I got
+the Cortex Prime book, which is like a
+build your own RPG book. Okay. And I was
+like, we're going to play test this by
+creating a Stormlight RPG,
+which was which I put out this podcast
+like a year before they'd announced the
+Stormlight RPG. So, I definitely
+mentioned that to them. I was like,
+"Yeah, no, I definitely have done some
+design in Stormlight into RPGs. I've
+been trying to make this happen for a
+while.
+U You did did you say that? You did say
+that to them as you were I did say that.
+Yeah. Good. Yeah. I mean I also we my
+wife and I uh we also um we make resin
+dice. Oh, cool.
+One of the things that I did was uh one
+of the things that we did was we made 10
+sets of dice for the different 10 orders
+of Knights Radiant in the Stormlight
+Archive.
+Doesn't mean anything to you. You
+haven't read those. But there are 10
+orders of people who use magic in this
+world basically.
+And we made each of them themed
+different color sets and inclusions and
+so on. And after I'd gotten, you know,
+the job and I was writing for them, I
+was like, "Hey, by the way, did you see
+this that we made?" Like, I'm a Do you
+use a resin 3D? Do you use a resin 3D
+printer to make those? No. So, what we
+Actually, I got one right here. So,
+we've got
+um silicon molds. Look at that. That's
+And then we do We just pour in a
+two-part resin. Uhhuh. And then and then
+use a pressure pot. Oh, wow. That
+Oh, wow. That's awesome. You, sir, are
+deep in it all.
+A bunch of things. Well, I don't know
+how you have time. You got a family.
+Here's here's one of the ones we made.
+Look at that. Oh, that's
+lovely. That's beautiful. Yeah. Jeez.
+You're You're right up there. We've
+We've had a couple There's There's folks
+out there like Jim and Michael and now
+you who I don't know when you sleep
+really now. You know, I we I don't know
+when you sleep because you How old are
+your kids? Uh so my kids are uh 12, 10,
+8, and six. Oh my god.
+Well, there we go. I mean, all all great
+ages, you know. Yeah. I just Yeah. I You
+literally You are super human. You You
+must You have You don't need to play the
+Marvel game. You need to be a character
+in it. Seriously. cuz you
+cuz you are you are super human, my
+friend. Cuz um with everything that
+you're doing and a day job and a family.
+Yeah. Um, it is it it blows my mind how
+much you are able to accomplish and and
+literally being able to sit down with us
+for for an hour and and hour plus now
+and talk with us about all of this and
+this has honestly been a pleasure. Like
+I really enjoy talking about this and
+you two are wonderful to chat with. No,
+thank you. We look we would love to have
+you back. There's there's I mean thank
+you. There's so much we could talk about
+now and later. I mean, it's just it's
+just nuts. Yeah. Yeah. So, yeah. Thanks
+again. Yeah. I I'll do a quick thing as
+well. Yeah. Jason, you're you're more
+interested in the science fiction side
+of it. Um, are you familiar with the
+Secret Project books that Brandon
+Sanderson did at the cause? No. So, the
+number one Kickstarter of all time was
+Oops. Brandon Sanderson wrote a bunch of
+secret novels. Yeah. Um and two of them
+are certainly more forward in the
+timeline. Yeah. So, uh Yumi and the
+Nightmare Painter. Okay. And uh The
+Sunlit Man. Oh, thank you. All right.
+Neither of Neither of them really
+require you to know much more outside of
+the the Cosmir. Like the Sunlit Man will
+require some things won't make sense.
+You mean the nightmare painter is very
+much a a standalone kind of thing. Okay.
+But both of them have much more modern
+or science fiction ele elements to them.
+Cool. Thank you. I will I will look into
+that cuz you know what what hooked me
+what what what brought me into the
+Sanderson universe was this concept of
+hard magic kind of like hard sci-fi. And
+I was like what I what I most enjoyed in
+Misborn was like there was a I mean
+there was a ton of science. Like it was
+all just like this makes so much sense.
+Like he's taken fantasy and magic and
+he's woven into it woven it into this
+world in a way that like you can buy.
+Like I mean so cool. Oh that's really
+cool. I will check those out. Thank you.
+Yeah. No problem. All right. Well, thank
+you again. We wish you ongoing huge
+success with everything. Yeah, we'll
+have we we have we'll have much more to
+talk about probably when we have you
+back again because we'll be creeping
+closer to probably releases and Oh,
+yeah. And Stormlight Stormlight comes
+out this fall. Oh man. And um Misborn
+comes out fall 2026. So cool. Well,
+we're going to have you on before then.
+Oh, yeah. Yeah. Yeah. Yeah. Yeah. Before
+we while we can still afford to pay our
+internet bill and not not have to buy
+all the books. Yeah. And while I'm Yeah,
+while I still have a house.
+[Music]
+So, wow, Merrick, we we definitely are
+going to have you back on again. Um I
+just great deal of fun. Neat guy. Great
+deal of fun. Just such a just a nice
+conversation. Yeah. um with everything
+that you're doing with with live play
+and everything with the age mechanic. Um
+we could have you on just to talk age
+mechanic gaming age gaming alone without
+everything else. So yeah. Um
+so thank you so much again for for
+coming on and taking the time. We
+obviously with with the kids and
+everything like that. I don't know.
+Again, you're one of those people, like
+I said, you're you're a superhero. Being
+able to do everything you're doing with
+your day job, everything you're doing
+with writing for gaming and maintain a
+significant relationship and have kids.
+Yeah. Have kids and then the stuff
+you're doing with with I mean cosmir.
+Our our kids are older and we gave up on
+our marriages long ago. No, no, no way.
+Scratching that. And or and gaming, too.
+I mean, we don't we we don't game right
+now. This is true. I mean, I I know we
+always bemoone that, but at the same
+time, like, we're constantly talking
+about gaming and getting the books that
+we love and then talking about those.
+And yeah, which which speaking of which
+of which, let's head over to the Lon
+Cafe. Let's What's on your desk? So, are
+you're not going to play the sound this
+week? I I whistled. That's going to have
+to do. Okay. Okay. I thought you were I
+thought you were going to utilize the I
+need to get the I need to get the um the
+I'll get the MP3 out of it. Oh, you're
+you were testing it earlier. Yeah, that
+was just a test. Sorry to get you
+excited for nothing. Oh, man. I'm going
+to leave that in there because hearing
+your disappointment is good for the
+audience. Yeah, I I figured you'd leave
+this in here. So, um so I think I
+mentioned this in the last episode, but
+um the uh materials from the spring sale
+fallout arrived. Yeah. Yeah, you did. Um
+Yeah. And um I've been going through it.
+Um and Trent Trent has given his my son
+has Trent has given his stamp of
+approval of interest on it. Yeah, that's
+cool. And I do like how they have um
+implemented the 2d20 in this realm. I
+will say what's interesting, this is
+just a real This is like kind of an odd
+sidebar. the 2d20
+dice for for it. Yeah. Are a little
+larger than
+than the ones for like STA. Um and so
+aren't the like aren't the
+STA Kirk tunic dice? Aren't those a
+little larger too? Like the the green
+tunic? Maybe not. Okay. I think there
+was one that was I have two sets I have
+two sets of those cuz I like those for
+whatever reason. Okay. Um, and I use one
+of those sets when I when I would roll
+with Captain's Lock. So, what do you
+think about these? Like, how how do they
+roll? Like I haven't rolled with them
+yet cuz I'm cuz I I they're still in the
+box. They're in the package. Yeah. Um
+but um just going through it, it one
+well two three things. One, it has me
+interested in playing like the old
+classic Fallout games again, like the
+video games, but no time to do that.
+Nope. Um, two, it reminds me that that I
+am overdue and finishing the TV series.
+I'm kind of like halfway through and
+then Oh, yeah. Um, stopped toward the
+end of last year when I was going
+through an interview process for a job.
+Um, and three, um, it's definitely one
+of those games where I could see
+utilizing
+um, one of the pre-builts that they have
+out there. um like even one in the
+starter kit to
+um play at some point, especially if
+Trent would be interested in doing
+that's cool once school is out for him.
+So, but like I think I alluded to in the
+last episode um it would have to be
+after um school is finished for him,
+which would be later next month going
+so same for me. Yeah. So, between that
+and um I'll be honest with you again, I
+have
+um um you know, it really the talk of
+hard magic and everything um really lit
+a fire under me with Gersps and I think
+I talked with you this weekend kind of
+as a sidebar about writing. We had the
+little back and forth back and forth
+messaging about writing, just
+generalized writings, some some stuff I
+was alluding to in writing. And I ended
+up
+um just doing a lot
+of article pulling and all of that
+related to like world building and doing
+some writing about
+um like and mapping of things related to
+world building. I just got into a a a
+knack with that where I didn't
+necessarily map it out in the context of
+the game, but just, you know, areas and
+things I would I want
+um ideas and things that I want my
+adventurers to experience. Yeah. Oh, I
+like it. So, that's the part to play
+gers. It's Yeah, that's and and I think
+I even I think I even sent you um I even
+was doing some research about like dice
+mechanics and I found something about
+like Savage Worlds versus Gersps, you
+know. I think I sent you That was
+interesting. That was cool. I don't know
+how I got on it. I was just looking at
+different dice mechanics based off of
+the cosmir verse and um and I like and I
+I just for whatever reason I kind of
+like the the Gersps verse, but what I
+found interesting is is that
+Gemini for whatever reason when I kept I
+kept asking it. I'm like give me a good
+generic
+um role playinging system. Yeah. It kept
+throwing me back to Genesis.
+It really Gemini and I'm using air
+quotes. Gemini likes air quote Genesis a
+lot because it kept throwing me to that
+and I kept and I kept telling it well I
+kept Gemini Genesis you know there it's
+becoming difficult to find provide me
+some other options and then it would
+provide me some options and I'd say well
+I mean I like that system. Yeah. And it
+and it's funny. So, um that's
+interesting. I wish I I really hope the
+be I I wish the best for for Edge and
+for the for that system because I I
+really would like to see it continue.
+Oh, me too. What about you? What's been
+you you are first of all for those for
+those which is everybody who's listening
+can't see you are in a white padded
+room. I mean your new office. Well, I'm
+in a in a in a in a Yeah. a freshly
+painted room. So So this I Yeah. My this
+I can keep very brief. Um it's not
+what's on my desk. It's the fact that
+after 3 months I'm sitting at my desk.
+Mhm. And my desk is and that I have a
+desk again and bookshelves again as we
+record uh as we record. I am 2 days
+away. Actually, we're two days away from
+the com total project completion of our
+downstairs renovation. the bedroom and
+ba I just say the um uh the uh office
+and bathroom. And uh my office is done
+entirely other than some touch-up paint
+in a handful of spots, including uh a
+few on the shelf. And so I can't finish
+putting the books back uh to the
+built-ins. And I can't put any of the
+RPG stuff back because that's of course
+You can't put You can't put the
+Federation flag back up yet either, can
+you? I never had that. Well, what was
+behind you? Was it That was a UN flag.
+Oh, it was. But but they've become so
+remarkably worthless in so many ways
+that I probably won't hang that again. I
+You should get You should get a
+Federation flag. I really should. So, I
+don't have anything on the walls as you
+commented uh when when we logged on. Um
+that will happen uh that'll probably
+happen like next weekend. That'll be the
+last thing. That'll be easy. But, uh, I
+am just a few days away from having the
+books all back in here. Um, as Brad
+knows, I've got a few books in here and,
+um, or I will. And, uh, so it's just
+glorious. It's glorious. This is the
+first day in a few months I've been back
+in my office. I work there this morning.
+We're recording now. It's a real door.
+Solitude. I mean, the outgassing from
+the new carpet is probably going to kill
+me, but still, it's totally worth it.
+That's fine. It's fine. That's right.
+Yeah. You have a window you could open.
+Of course, I've had I've actually I had
+that open intermittently like all
+afternoon when I and evening when I was
+in here. Yeah. What What's the plant by
+the window? Oh, Amy got me uh at Trader
+Joe I'm not sure what it is. She picked
+up a little very classy flowering plant.
+I'm going to have a couple I think I'm
+going to add an orchid here. And then
+out in the egress that's going to be a
+potted plant garden. Nice. Yeah. So once
+once it's warm enough here in Miniota um
+once it's warm enough which will be like
+I'll probably start that like late May.
+Y um because it's it's it's now the
+best. It's it's only one of two south
+facing windows we have in the house and
+it's the only one where we can put
+plants. So So I'll have I'll have Are
+you sure you're Are you sure that you
+you'll be able to Oh, I'm going to
+sneeze. I'm going to let you keep going.
+Well, well, I was going to say, are you
+sure that are you sure that because it's
+only one of two south facing windows,
+you're actually going to have solitude
+in there or are you going to have a lot
+more visitors because it's a south
+facing window and you're going to have a
+potted garden in there, you know, like
+like your family. Oh, no, no, no. I'm
+not concerned about that. It's No, it'll
+be a lovely change. So, that's what
+Nothing on the desk, just have a desk,
+which is very exciting. Yes. So, yeah.
+Well, as always, thanks for being with
+us. Um, Merrick, thanks again. I I just
+just we really thought you were just a
+lovely human being and creative to put
+it mildly. Uh, thank you for wasting
+your time chatting with us. Uh, when uh
+when Cosmir starts to release, we if not
+before, we really want to have you back.
+In the meantime, everybody, uh, be well,
+stay well. We'll see you in a couple
+weeks.
+[Music]

@@ -1,0 +1,693 @@
+[Music]
+[Applause]
+[Music]
+well hello there and welcome once again
+to the sages Library I am as always your
+humble Sage Trevor Deval thank you so
+much for joining me so today we are
+going to be talking about something I
+wanted to talk about for some time it's
+a game that I started to play not that
+long ago it was back in 2020 in the evil
+days of the spreading contagion around
+the world that locked us all in our
+homes or at least most of us and I
+wanted to do an online game that was
+well online obviously because we didn't
+have any choice uh where I was living I
+wanted to do a Sci-Fi game but with a
+focus on like you know positive
+reconstruction and rebirth so I wanted
+to run a game in which the players
+basically had uh been sent out by this
+Federation to this star system that had
+been lost for Generations but had now
+finally sort of reemerged a bit it's a
+bit kind of like the the default setting
+for forbidden lands a bit except this
+was sci-fi it was sort of loosely
+inspired by that anyway so the system I
+chose to do this particular game was
+this one stars without number now stars
+without number is a Name by Kevin
+Crawford who is known to me as a
+designer who produces not only sort of
+like uh old school kind of osr games
+very very sandboxy but mostly he's known
+to me for being a designer who provides
+incredible tools for GMS for both
+Adventure building Adventure design and
+and World building this game is my first
+exposure to Kevin Crawford and uh boy
+what a delight it was there is something
+that he does in this book which I just
+fell in love with and that is called the
+factions
+turn this is where the GM plays sort of
+a little little solo game by himself in
+between sessions where he looks at all
+of the factions in the Galaxy or in the
+sector and decides based on the
+statistics that he's given them what the
+factions do what aims they pursue what
+conflicts they have and then once he's
+done this once he's played this sort of
+little you know galactic turn by himself
+then the GM basically releases a
+galactic news broadcast so every session
+my players they would get this news
+broadcast that would come across their
+ship commoms and the news broadcast
+would talk about all of the stuff that
+had happened in the sector but all of
+that stuff was completely based on what
+happened in the factions turn it was the
+coolest thing ever but before we get to
+the factions turn I do want to give sort
+of a quick overview about the game
+itself uh again I'm not going to go into
+huge detail about it but basically it's
+an osr game which is Loosely based on D
+and D however what's interesting about
+this game is that it is essentially a
+combination between the systems of uh D
+and and traveler so it is a class level
+based game although I think there's only
+like four classes they're they're
+they're quite generalized but you also
+have skills and when you roll a skill
+you're rolling 2d6 plus your stat
+modifier plus your skill which is
+essentially the same thing as traveler
+Mongoose traveler combat is done with a
+D20 so it's very much you roll add your
+attack bonuses against an armor class
+and then roll your damage very very
+similar to anything that d and d uh of
+classic D and D does now what I do like
+about the combination of these two dice
+systems is 2d6 is a bell curve right it
+gives you a more predictable curve of
+results and I think that that's really
+good for skills outside of combat
+because it means that your skill bonus
+is going to be far more important than
+the random luck of the dice in combat
+the D20 is a flat distribution so you
+have as much chance of rolling a one as
+you do a 20 what that means is the dice
+represents or the D20 in this case
+represents the inherent chaos and the
+unknown variables that go into a fight
+so I quite like that I like the idea
+that skills are 2d6 and then uh combat
+is still D20 but not being a huge class
+level kind of fan the core system uh
+it's perfectly serviceable and it works
+just fine but it's not really to my
+liking I kind of prefer other games
+which is why that I'm not going to focus
+so much on the actual game system of
+this so much as I am the World building
+and the adventure design and the
+factions turn so I want to talk about
+sector Creation in stars without number
+in many ways it's very similar to The
+Traveler system where you look at the
+size of the planet the atmosphere the
+population the law level the tech level
+all that kind of stuff that is all in
+here but what is also in here is the tag
+system this is where you assign a couple
+of world tags which is based on a handy
+dandy chart right there and you pick two
+of them and then you look at the
+associated entries for each tag and you
+mix them together to get some immediate
+ideas as to what this planet is so in
+the proud tradition of Me Myself and I
+I'm going to randomly put my finger on
+one of the entries on two of them
+actually we'll combine them and see what
+it comes up with so the first one is uh
+colonized population a neighboring world
+has successfully colonized this less
+Advanced and less organized planet and
+the natives are not too happy about it a
+puppet government may exist but all real
+decisions are made by the local Viceroy
+so this is a captive world with Restless
+natives who are probably seeking to
+overthrow the Yoke of their oppressors
+so to speak and the second one is at
+random sealed Menace something on this
+planet has the potential to create
+enormous Havoc for the inhabitants if it
+is not kept safely contained by its
+Keepers uh very very cool you've got a
+colonized population and a sealed Menace
+so something has been imprisoned or
+sealed on this world that's going to
+definitely play into the atmosphere of
+the world not the literal atmosphere but
+in terms of the sort of dramatic and
+adventurous at atmosphere of the world
+what's cool is that each tag also has
+Associated entries for enemies friends
+complications things and places so you
+can literally just take different
+entries from each tag and mix them
+together and get something immediate so
+for example let's say complications a
+complication on uh the colonized
+population world might be natives won't
+talk to offworlders okay great we know
+that that they're very paranoid about
+talking to anybody on the outside and
+for good reason if they've been
+colonized by a sort of hostile aggressor
+species or something but then we mix
+that with sealed Menace and we might get
+the Menace would bring great wealth
+along with great destruction so what
+that makes me think of immediately is
+that whatever Menace this is is probably
+some sort of ancient technology cuz it
+would bring great wealth as well as
+great destruction so maybe it's a weapon
+you know maybe it's a weapon that
+everybody in the sector is is looking
+for because it would can completely
+change the balance of power among the
+worlds or even the factions on the
+planet for example so maybe maybe the
+Restless natives uh are are actually
+seeking for that sealed menace to unseal
+it which of which of course would cause
+terrible chaos and Devastation but
+they're trying to do it in order to
+overthrow their rulers so just based on
+those two things alone you've already
+got like instant Adventure right boom
+but it doesn't end there after you go
+through and pick the atmosphere and the
+temperature and the climate and the
+biosphere and the population all that
+stuff that is very very familiar to
+traveler players then you go to
+additional system points of interest
+where you can just pick out little
+interesting things and randomly
+determine it so you might say okay
+there's an ancient orbital ruin and uh
+it's filled it's occupied by government
+researchers probably in this case of the
+occupying power and uh they're trying to
+stop it from Awakening they're trying to
+stop an orbital ruin from Awakening oh
+well from Awakening that's probably tied
+back to this sealed Menace so maybe this
+weapon is actually an orbital weapons
+platform or something right I mean you
+just take the pieces and put them
+together very very quickly and then we
+go into Adventure creation and that's
+where you can really dive into the
+details of this stuff it is so so cool
+literally I can just pick out any random
+pieces in these chapters and immediately
+come up with an adventure hook in fact I
+did that multiple times every time the
+players would come to a new planet a new
+system I would just randomly bo bo bo
+roll on a few tables put the pieces
+together in my head and boom there it
+was and it was a done deal so super
+super useful if you are trying to come
+up with an adventure for a Sci-Fi game
+now for those of you as well who are not
+immediately drawn to sci-fi like I am
+not sci-fi is not my Premier kind of
+genre I'm way more a fantasy guy than a
+Sci-Fi so I can riff a lot easier with
+fantasy Concepts than I can with sci-fi
+stuff I get a little hung up on certain
+ideas or I'm not always confident with
+my my knowledge of being able to freely
+improvise in a science fiction setting
+that kind of stuff this book is
+fantastic for that because it does all
+the heavy lifting for you basically it
+gives you this fantastic structure uh
+upon which you can then build all of
+these really interesting science
+fiction-based Adventures super super
+cool but where stars without number
+really shines for me is the factions
+chapter now basically how this works is
+that you create uh a series of factions
+all who are active in different parts of
+the sector and you get a basic idea of
+who they are what they want that's of
+course very important and then you have
+a list of resources resource points
+essentially that you can spend on things
+that they have so the factions are
+treated kind of like a character they
+have things like hit points and and
+stuff like that on on a galactic scale
+so to speak they don't have you know
+stats and and weapons and things like
+that they have resources they have
+assets cunning assets Force assets and
+wealth assets and all of those things do
+different things they have different
+effects these things are really cool to
+use in play and I think sort of the best
+way to Ill illustrate uh how it can be
+used is to illustrate how I used it in
+my actual game so I'm going to take you
+now to the computer screen to the roll
+20 screen and I'm going to show you kind
+of how it all worked out so let us go to
+the roll 20 screen okay so here we are
+on the roll 20 page that I designed for
+use in the game this is the meanus
+sector this is what I made up using the
+rules in the book in order to create the
+sector uh again I'm not going to go into
+the details of every single one of these
+but basically the idea was right here at
+Naran station this was sort of the the
+entry point for all of the characters so
+they came from another sector they
+emerged at nsan they knew very little
+about the sector they had a couple of
+names and rough locations of where
+certain star systems were but they knew
+nothing it was a complete Wilderness
+basically it it was a sector that had
+been utterly cut off from the rest of
+the Confederation over like centuries so
+their job was to go in and to make
+contact with this with the the various
+locals of the star systems and try and
+entice them to rejoin the uh calibar
+Confederation which is what they were
+emissaries of so it was kind of cool
+kind of star Trish but uh with a with a
+hideously violent B bent naturally uh so
+this is my page so here we have this is
+a legend of the various factions so we
+had right here the Calabar Confederation
+which is
+the the player characters organization
+their home world for H is basically here
+so this was Naran station that's where
+they started out then here we have the
+I'm going to zoom in a little bit more
+here uh the Laurer Dominion was another
+group and they were based over here at
+lator there's their home world right
+there planetary government is one of the
+assets that they have here so we've got
+the calibar Confederation the lur the
+traxon Empire which are way up in the
+the sort of Galactic North so the sector
+North the free cor SES which are a
+pirate group serov Industries which is a
+a corporatist organization up in the
+north as well the provisionist are a
+rebel group on the
+planet maacos down here and then we have
+uh coronan which turned out to be sort
+of this weird religious cult kind of
+world uh and Lazarus which is a secret
+kind of um system that nobody knew about
+that was doing all kinds of funky weird
+genetics and stuff like that anyway so
+the very first Adventure was on Naran
+station as they emerged they they
+basically reclaimed Naran station they
+dealt with the they dealt with the
+situation there and they reclaimed it
+for the calber Confederation which
+turned it into their home world so their
+home world uh automatically has a a
+planetary government asset to it as well
+each asset has hit points and the rating
+of the type of asset it is so there is
+uh there's the force assets and that's
+uh between one and eight there's cunning
+assets which is like intelligence that's
+between 1 and 8 and wealth which is
+between 1 and8 that's how each asset is
+is listed it has special things it can
+do and all that kind of stuff but
+basically as you go through your little
+GM turn here you look at how many
+factions there are in this case 2 4 6 8
+there was is that right 2 4 6 there was
+eight factions here so what I would do
+is I would roll a d8 and I would just
+look at you know go down the list so if
+I rolled a three that meant that the
+trackx and Empire would start the turn
+so if the tracks and Empire started the
+turn I would go all the way up here to
+where the tracks and assets are and I
+would decide what they were going to do
+now each faction can do a thing on their
+turn basically you can spend your
+faction credits to buy stuff or you can
+move your your assets into different
+things and different assets move at
+different speeds right like sometimes a
+a strike Fleet might take two turns to
+get to its destination or you know if
+you have assets around a world that you
+want to attack an enemy assets you can
+do that so that's basically how that
+works each faction on its turn decides
+to do a thing and then you resolve that
+thing so it's super super simple and
+again this is just for the GM this is
+just the GM to sort of play out by
+himself it's it's a very little solo
+game
+Solo in spirit anyway so up here if the
+traxon go they would decide what they
+were going to do so what the traxon did
+on their last turn I believe they moved
+their strike Fleet around iron morph or
+into the iron morph system to orbit iron
+morph prime or whatever the um name of
+the world was so what when they did that
+they didn't actually I think actually
+yeah or the strike fleet was already in
+Iron morph so they decided to launch an
+attack so this is a tracks an asset this
+is Saratov Industries assets so Saratov
+Industries had put organization moles on
+iron morph it's a cunning asset of five
+which is really good and has eight hit
+points the traxon had moved a strike
+Fleet I don't know why I'm pointing at
+the screen you can't see what I'm
+pointing at the the traxon did move
+moved a strike Fleet uh into orbit and
+uh that's a force asset of four which
+has eight hit points and again each of
+these assets have their own rules about
+how they conduct their operations and
+stuff but basically what happened was
+was that on the tracks and turn they
+attacked iron morph so when that
+happened I resolved it rolling the dice
+and doing all this stuff so the traxon
+went and then the other groups all go in
+initiative order so the traxon would go
+in this case and then down here the free
+corsairs would take their turn and then
+catov would take their turn and then the
+provisionist would take their turn until
+you get to the tracs again and that's
+the end of the round you literally can
+move the assets on the map so for
+example uh over here this is a group of
+surveyors from the calibar confederation
+so last turn I I believe oops wrong guys
+last turn the surveyors were here at
+corus Alpha but they had spent a turn to
+move I think it's been a long time since
+I looked at the rules for this game like
+this is three years ago I ran this game
+so I forget all the little details but
+this is just to show you the basic idea
+they had moved the surveyors to the
+Corgan system so what that meant was now
+in addition to everything else that was
+going on there were calibar
+Confederation surveyors in the cargo
+system and that's going to be important
+because in the news that the players get
+at the beginning of their next session
+that's going to apply so for example if
+we look at the news thus far from
+October 3160 this is the news that the
+players would get so it says the calibar
+Confederation has seen a flurry of
+activity over the past few weeks a
+strike Fleet arrived in The Gauntlet
+system there to assist the fledgling
+government with orbital security
+training operations so if we go over
+here to The Gauntlet system we see that
+look at this in fact yes the calibar
+Confederation had moved the strike Fleet
+from Naran station to The Gauntlet like
+like the turn previous and now it had
+arrived and so because it had arrived it
+made the news right meanwhile the free
+Merchant offices on Calypso which is
+over here they have a base of influence
+up there the free Merchants base of
+influence is a way that you can
+establish a presence on another world in
+order to increase your presence there
+increase your influence to try and
+essentially convert the people over to
+your side of things meanwhile the free
+Merchant officers in Calypso were
+strengthened by contingent of security
+Personnel from Naran station and there
+you can see the hardened Personnel had
+literally moved from Naran where they
+were based and they had been moved over
+to Calypso this had been done in the
+calibar confederation's turn and then at
+the end of the turn they arrive
+beginning of the players turn they
+arrive there so the players hear that's
+happening because remember this GM turn
+this faction turn typically takes place
+over the course of a month so there's
+stuff always happening in the background
+with the players which is really kind of
+cool of most interest however was the
+arrival in the coronan system Corgan
+system let's go over here Boop all kinds
+of stuff's going on over the corgon
+system the uh the oh and they're all
+colorcoded too by the way that's how I
+can tell whose assets are whose so on
+the Corgan system it's got the tech
+level of four here this color green is
+the Corgan locals which is sort of that
+religious cult that operates in the
+system they have their home World there
+they have a strike Fleet uh postte
+industry and Elite skirmishers this
+light o let's move you out of the way
+this sort of light yellow is the uh free
+Corsair they're the pirates that share
+the system in Corgan so they've been at
+War the whole time uh this is a later
+Dominion Fleet and of course the surveys
+and block blockade Runners here are part
+of the calibar confederation so there's
+all kinds of stuff going on at corgon
+but what had most recently happened was
+the Calabar Confederation had moved a
+Blockade Runner Fleet into the coronan
+system and how it manifested in the news
+was of most interest however was the
+arrival in the corgon system of a fleet
+of of blockade Runners and then there's
+a quote from Commander Moretta of the
+Confederation our exploration Fleet is
+in the Corgan system merely to assist
+our surveyor team said Commander Moretta
+of the Confederation we have no interest
+in interfering with the local political
+situation corgan's military fleet was
+put on increased alert at the appearance
+of the Confederation ships but no
+hostilities have yet broken out we
+reserve the right to defend the way
+which is their religious belief system
+and all who practice it said speaker
+Manus he's the leader of corgana we will
+for the time being allow the presence of
+the Confederation surv surveyors in our
+space But we would not want to subject
+our own diplomats to the same risks that
+the lator dominions ambassadors have so
+recently suffered that's in reference to
+an assassination attempt that happened
+on the station remember th this is like
+three months into the game so there's
+all kinds of stuff that's already
+happened and this stuff has also been
+affected by the players so the players
+had been directly involved in what was
+like an aborted assassination attempt oh
+no it wasn't an aborted it was a
+successful assassination attempt on an
+ambassador of the lator Dominion
+actually I think that happened over here
+in intern tonight the players were there
+for that in fact they got framed as the
+Assassins so they had to deal with that
+and they did deal with it but that had
+effects Direct effects on what happened
+in the system because now the lator
+Dominion was very suspicious of the
+calibar Confederation as I said calibar
+was here to try and sort of reestablish
+contact with all of these other systems
+so the lator now sees the calibar
+Confederation as a Potential Threat to
+them so that could lead to war in the
+future and all kinds of cool stuff but
+this is all determined just by the
+various factions going about their turns
+moving their assets into different
+worlds and taking actions and the type
+of actions they can take they can attack
+they can buy an asset they can uh change
+their home world for whatever reason
+they want to do they can expand their
+influence with these bases of influence
+they can refit an asset they can repair
+an asset if something gets damaged like
+if a a strike Fleet gets damaged in a
+battle they can recall the fleet and
+have it repaired they can sell an asset
+or seize a planet militarily
+uh or use an asset's special ability
+like I think um I think down
+here we have like psychic assassins
+which is a force asset and I think
+psychic assassins can directly Target
+certain other assets I forget all the
+details but each one has a specific uh
+thing it can do and that's all explained
+in the book so it is really cool because
+you go through this faction turn and
+have all of your factions do stuff and
+you're you're literally moving these
+assets all over the place and then
+resolving the actions of the factions by
+using dice which gives you a living
+breathing sector that the players are
+not only affected by but have the chance
+to actively influence themselves and yes
+eventually the idea we stopped playing
+before this could happen but the idea
+was always that the players would
+eventually grow strong enough to be able
+to control the calibar Confederation
+factions within this sector so uh you
+know you could do that or or they could
+go off and form their own faction if
+they wanted using all of these faction
+rules at which point now the players are
+also taking a faction turn along with
+the rest of the uh NPC factions so we
+never got to that point unfortunately
+but I was super excited about doing it
+um but you know things happen Games die
+it's the way it works but this is just a
+really really cool way to sort of allow
+the GM to randomize the the effects of
+the system like the greater system and
+all of the various NPCs in it but still
+make it kind of a little solo uh uh uh
+miname in order to make the GM feel like
+he's not just making stuff up oh there's
+nothing stopping you from doing that of
+course you're have the GM but as the GM
+you can use this system to you know
+literally play a little game with
+yourself to see what happens with these
+factions and what that does is it it
+allows the GM to be surprised by what's
+happening as well and I always love that
+I love a game that allows the GM uh to
+to be surprised I Love A system that
+takes the narrative burden off of me and
+allows me to sort of improvise freely
+within the results that the system
+itself provides and this is a shining
+example of that so this uh this faction
+system in in um in world in in stars
+without number is is really really cool
+now I know that Kevin has also made a
+fantasy game called worlds without
+number which I also have haven't really
+looked at it too much but I know that
+this kind of thing is also involved in
+that he's also got a uh uh basically a
+cthulu kind of call cthulu based game
+structured much the same way you can
+create all these different Cults and
+factions and things like this so this is
+kind of his thing this is his bag is
+creating all of these uh uh tools for
+GMS to be able to really flesh out the
+uh uh the the various factions and
+Adventures and and worlds and setting
+details but make it really interactive
+for the GM to feel like he's
+participating uh just as much as the
+players are except of course he's not
+playing against the players or anything
+like that he's just using these rules to
+to create a a fluid living breathing uh
+setting and that is so so so cool I've
+never really seen anything like it in
+any other game up to this point it may
+have existed in some other game but it
+wasn't a game that I ever came across so
+really really cool stuff I should really
+go back to this you know I really should
+pick this up again I think my players
+would really dig the chance to be able
+to uh take control of these assets and
+learn this this sort of little mini game
+to be able to uh further their own uh
+goals and such anyway super cool so
+hopefully you get some sense of how the
+faction turn works as I said the faction
+turn the adventure creation and the
+sector creation are three of the biggest
+biggest uh Boons that this book has to
+offer it is a really great game all in
+itself but the GM tools for World
+building and Adventure uh creating are
+are just well dare I say out of this
+world CU you know it's science fiction
+and you talk about different worlds
+anyway uh that's all I have to say about
+that so thank you very much for joining
+me here and if you do want to help
+support the show as always please do
+consider liking or subscribing to the
+channel or joining us on YouTube as a
+channel member or coming on over to
+patreon and joining us there we also
+have all kinds of merchandise for sale
+on the Me Myself myselfand die.com
+webbsite And if you are interested in
+buying stars without number or any other
+supplement that I've used on this
+channel the links to the drive-through
+RPG store are down below and if you buy
+the stuff through the links that sort of
+helps support the channel so you can do
+that too thank you so much for joining
+me and we will see you next time on the
+next sages
+[Music]
+Library

@@ -1,0 +1,3995 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,080",
+      "end_time": "00:00:04,000",
+      "text": "this week on the nightlife more"
+    },
+    {
+      "start_time": "00:00:01,920",
+      "end_time": "00:00:06,560",
+      "text": "pathfinder second edition combat and"
+    },
+    {
+      "start_time": "00:00:04,000",
+      "end_time": "00:00:08,960",
+      "text": "tactics tips and tricks for your next"
+    },
+    {
+      "start_time": "00:00:06,560",
+      "end_time": "00:00:08,960",
+      "text": "battle"
+    },
+    {
+      "start_time": "00:00:09,840",
+      "end_time": "00:00:14,960",
+      "text": "welcome back to knights of last call i'm"
+    },
+    {
+      "start_time": "00:00:12,400",
+      "end_time": "00:00:16,400",
+      "text": "your game master derek melenda and i'm"
+    },
+    {
+      "start_time": "00:00:14,960",
+      "end_time": "00:00:18,240",
+      "text": "here today with the rest of the knights"
+    },
+    {
+      "start_time": "00:00:16,400",
+      "end_time": "00:00:20,560",
+      "text": "to talk about more combat and tactics"
+    },
+    {
+      "start_time": "00:00:18,240",
+      "end_time": "00:00:23,039",
+      "text": "for your pathfinder 2nd edition game"
+    },
+    {
+      "start_time": "00:00:20,560",
+      "end_time": "00:00:24,960",
+      "text": "last time we covered three basic tips"
+    },
+    {
+      "start_time": "00:00:23,039",
+      "end_time": "00:00:27,359",
+      "text": "around movement and how you can use"
+    },
+    {
+      "start_time": "00:00:24,960",
+      "end_time": "00:00:29,679",
+      "text": "those movement actions in order to give"
+    },
+    {
+      "start_time": "00:00:27,359",
+      "end_time": "00:00:32,320",
+      "text": "your team advantages in combat as well"
+    },
+    {
+      "start_time": "00:00:29,679",
+      "end_time": "00:00:34,079",
+      "text": "as to deny your opponent actions so this"
+    },
+    {
+      "start_time": "00:00:32,320",
+      "end_time": "00:00:36,719",
+      "text": "week we're going to focus on three more"
+    },
+    {
+      "start_time": "00:00:34,079",
+      "end_time": "00:00:38,160",
+      "text": "tips that'll help improve your game"
+    },
+    {
+      "start_time": "00:00:36,719",
+      "end_time": "00:00:39,920",
+      "text": "now tim"
+    },
+    {
+      "start_time": "00:00:38,160",
+      "end_time": "00:00:42,399",
+      "text": "uh we were just talking here before the"
+    },
+    {
+      "start_time": "00:00:39,920",
+      "end_time": "00:00:44,480",
+      "text": "the cameras rolled about uh"
+    },
+    {
+      "start_time": "00:00:42,399",
+      "end_time": "00:00:46,239",
+      "text": "how you know the the role of actions as"
+    },
+    {
+      "start_time": "00:00:44,480",
+      "end_time": "00:00:48,000",
+      "text": "it relates to a spell caster and you"
+    },
+    {
+      "start_time": "00:00:46,239",
+      "end_time": "00:00:50,480",
+      "text": "mentioned that most spells cost take two"
+    },
+    {
+      "start_time": "00:00:48,000",
+      "end_time": "00:00:53,199",
+      "text": "actions that's right so do you feel like"
+    },
+    {
+      "start_time": "00:00:50,480",
+      "end_time": "00:00:55,760",
+      "text": "as a spellcaster that using your actions"
+    },
+    {
+      "start_time": "00:00:53,199",
+      "end_time": "00:00:57,760",
+      "text": "is harder or easier than it would be for"
+    },
+    {
+      "start_time": "00:00:55,760",
+      "end_time": "00:00:59,600",
+      "text": "let's say a more martially inclined"
+    },
+    {
+      "start_time": "00:00:57,760",
+      "end_time": "00:01:01,359",
+      "text": "character um i i think a lot of the"
+    },
+    {
+      "start_time": "00:00:59,600",
+      "end_time": "00:01:03,120",
+      "text": "times it's a lot easier to get through"
+    },
+    {
+      "start_time": "00:01:01,359",
+      "end_time": "00:01:04,559",
+      "text": "my actions uh you know there's a lot of"
+    },
+    {
+      "start_time": "00:01:03,120",
+      "end_time": "00:01:06,320",
+      "text": "turns i think you know we've joked about"
+    },
+    {
+      "start_time": "00:01:04,559",
+      "end_time": "00:01:08,240",
+      "text": "it in the discord before and you know"
+    },
+    {
+      "start_time": "00:01:06,320",
+      "end_time": "00:01:10,799",
+      "text": "just how hey tim stern's like 10 seconds"
+    },
+    {
+      "start_time": "00:01:08,240",
+      "end_time": "00:01:13,119",
+      "text": "cause he's like uh haste on azius"
+    },
+    {
+      "start_time": "00:01:10,799",
+      "end_time": "00:01:14,880",
+      "text": "shoot narrow go right and it's so yeah"
+    },
+    {
+      "start_time": "00:01:13,119",
+      "end_time": "00:01:15,840",
+      "text": "sometimes you know i've made myself to"
+    },
+    {
+      "start_time": "00:01:14,880",
+      "end_time": "00:01:17,759",
+      "text": "have that"
+    },
+    {
+      "start_time": "00:01:15,840",
+      "end_time": "00:01:18,960",
+      "text": "strike option as an extra option you"
+    },
+    {
+      "start_time": "00:01:17,759",
+      "end_time": "00:01:20,720",
+      "text": "know there's a lot of times you have to"
+    },
+    {
+      "start_time": "00:01:18,960",
+      "end_time": "00:01:22,880",
+      "text": "move so and i think there's a lot of"
+    },
+    {
+      "start_time": "00:01:20,720",
+      "end_time": "00:01:25,360",
+      "text": "good one option one action options out"
+    },
+    {
+      "start_time": "00:01:22,880",
+      "end_time": "00:01:26,479",
+      "text": "there like focus spells shield"
+    },
+    {
+      "start_time": "00:01:25,360",
+      "end_time": "00:01:27,920",
+      "text": "all great things"
+    },
+    {
+      "start_time": "00:01:26,479",
+      "end_time": "00:01:29,600",
+      "text": "uh yeah"
+    },
+    {
+      "start_time": "00:01:27,920",
+      "end_time": "00:01:32,560",
+      "text": "now and matt you were nodding your head"
+    },
+    {
+      "start_time": "00:01:29,600",
+      "end_time": "00:01:34,159",
+      "text": "so you also agree yeah for for as a"
+    },
+    {
+      "start_time": "00:01:32,560",
+      "end_time": "00:01:35,840",
+      "text": "sorcerer you know the first two actions"
+    },
+    {
+      "start_time": "00:01:34,159",
+      "end_time": "00:01:38,000",
+      "text": "are always going to be cast a spell and"
+    },
+    {
+      "start_time": "00:01:35,840",
+      "end_time": "00:01:39,840",
+      "text": "there's that that that one leftover"
+    },
+    {
+      "start_time": "00:01:38,000",
+      "end_time": "00:01:42,159",
+      "text": "action and maybe it is move maybe it's"
+    },
+    {
+      "start_time": "00:01:39,840",
+      "end_time": "00:01:43,759",
+      "text": "command lucky maybe it's do a can trip"
+    },
+    {
+      "start_time": "00:01:42,159",
+      "end_time": "00:01:45,520",
+      "text": "to cause something but it's it's for me"
+    },
+    {
+      "start_time": "00:01:43,759",
+      "end_time": "00:01:46,799",
+      "text": "it's always the big spell and then"
+    },
+    {
+      "start_time": "00:01:45,520",
+      "end_time": "00:01:47,759",
+      "text": "what's the other thing that's going to"
+    },
+    {
+      "start_time": "00:01:46,799",
+      "end_time": "00:01:49,920",
+      "text": "happen right so you're really just"
+    },
+    {
+      "start_time": "00:01:47,759",
+      "end_time": "00:01:51,759",
+      "text": "thinking about two things yeah um what's"
+    },
+    {
+      "start_time": "00:01:49,920",
+      "end_time": "00:01:54,399",
+      "text": "the big thing what's the secondary or"
+    },
+    {
+      "start_time": "00:01:51,759",
+      "end_time": "00:01:57,119",
+      "text": "supplementary thing right now bob uh you"
+    },
+    {
+      "start_time": "00:01:54,399",
+      "end_time": "00:01:58,399",
+      "text": "know that's a spellcaster right so bob"
+    },
+    {
+      "start_time": "00:01:57,119",
+      "end_time": "00:01:59,680",
+      "text": "last time when we talked about combat"
+    },
+    {
+      "start_time": "00:01:58,399",
+      "end_time": "00:02:01,439",
+      "text": "and tactics we talked a little bit about"
+    },
+    {
+      "start_time": "00:01:59,680",
+      "end_time": "00:02:03,680",
+      "text": "defensive movement"
+    },
+    {
+      "start_time": "00:02:01,439",
+      "end_time": "00:02:06,880",
+      "text": "and you know your character a barbarian"
+    },
+    {
+      "start_time": "00:02:03,680",
+      "end_time": "00:02:08,560",
+      "text": "actually has really fast movement yes so"
+    },
+    {
+      "start_time": "00:02:06,880",
+      "end_time": "00:02:10,160",
+      "text": "fast movement so let me ask you this"
+    },
+    {
+      "start_time": "00:02:08,560",
+      "end_time": "00:02:11,760",
+      "text": "question where do you think the line"
+    },
+    {
+      "start_time": "00:02:10,160",
+      "end_time": "00:02:14,800",
+      "text": "should be drawn between right you're a"
+    },
+    {
+      "start_time": "00:02:11,760",
+      "end_time": "00:02:16,959",
+      "text": "barbarian you're in combat you're raging"
+    },
+    {
+      "start_time": "00:02:14,800",
+      "end_time": "00:02:18,879",
+      "text": "should your character be defensively"
+    },
+    {
+      "start_time": "00:02:16,959",
+      "end_time": "00:02:22,319",
+      "text": "moving"
+    },
+    {
+      "start_time": "00:02:18,879",
+      "end_time": "00:02:24,319",
+      "text": "or if he's raging yeah probably not yeah"
+    },
+    {
+      "start_time": "00:02:22,319",
+      "end_time": "00:02:26,319",
+      "text": "he probably should be like"
+    },
+    {
+      "start_time": "00:02:24,319",
+      "end_time": "00:02:27,840",
+      "text": "berserker yeah and i think that's an"
+    },
+    {
+      "start_time": "00:02:26,319",
+      "end_time": "00:02:28,800",
+      "text": "important point right which is we're"
+    },
+    {
+      "start_time": "00:02:27,840",
+      "end_time": "00:02:30,160",
+      "text": "going to talk about these combat and"
+    },
+    {
+      "start_time": "00:02:28,800",
+      "end_time": "00:02:31,760",
+      "text": "tactics we're kind of talking about the"
+    },
+    {
+      "start_time": "00:02:30,160",
+      "end_time": "00:02:33,760",
+      "text": "game like it's a kind of like a board"
+    },
+    {
+      "start_time": "00:02:31,760",
+      "end_time": "00:02:35,040",
+      "text": "game or a video game but that's what"
+    },
+    {
+      "start_time": "00:02:33,760",
+      "end_time": "00:02:36,640",
+      "text": "makes role playing games really cool and"
+    },
+    {
+      "start_time": "00:02:35,040",
+      "end_time": "00:02:38,080",
+      "text": "unique and if you've seen any of our"
+    },
+    {
+      "start_time": "00:02:36,640",
+      "end_time": "00:02:39,760",
+      "text": "other videos about role-playing you'll"
+    },
+    {
+      "start_time": "00:02:38,080",
+      "end_time": "00:02:41,599",
+      "text": "know that it's not always about making"
+    },
+    {
+      "start_time": "00:02:39,760",
+      "end_time": "00:02:43,280",
+      "text": "the optimal choice"
+    },
+    {
+      "start_time": "00:02:41,599",
+      "end_time": "00:02:45,120",
+      "text": "right it's about making of the fun"
+    },
+    {
+      "start_time": "00:02:43,280",
+      "end_time": "00:02:46,959",
+      "text": "choice well to be fair i don't"
+    },
+    {
+      "start_time": "00:02:45,120",
+      "end_time": "00:02:47,760",
+      "text": "defensively move because i just don't do"
+    },
+    {
+      "start_time": "00:02:46,959",
+      "end_time": "00:02:49,519",
+      "text": "that"
+    },
+    {
+      "start_time": "00:02:47,760",
+      "end_time": "00:02:50,959",
+      "text": "that's not in my nature right well i"
+    },
+    {
+      "start_time": "00:02:49,519",
+      "end_time": "00:02:52,560",
+      "text": "probably should be i mean if you want to"
+    },
+    {
+      "start_time": "00:02:50,959",
+      "end_time": "00:02:53,519",
+      "text": "be a better player you should probably i"
+    },
+    {
+      "start_time": "00:02:52,560",
+      "end_time": "00:02:55,200",
+      "text": "don't know"
+    },
+    {
+      "start_time": "00:02:53,519",
+      "end_time": "00:02:56,959",
+      "text": "i'm learning from these tips like you're"
+    },
+    {
+      "start_time": "00:02:55,200",
+      "end_time": "00:02:59,519",
+      "text": "learning from these tips but you know"
+    },
+    {
+      "start_time": "00:02:56,959",
+      "end_time": "00:03:01,360",
+      "text": "keep in mind that philosophy"
+    },
+    {
+      "start_time": "00:02:59,519",
+      "end_time": "00:03:03,200",
+      "text": "also does not mean that you have to go"
+    },
+    {
+      "start_time": "00:03:01,360",
+      "end_time": "00:03:04,560",
+      "text": "get your character killed very true"
+    },
+    {
+      "start_time": "00:03:03,200",
+      "end_time": "00:03:06,879",
+      "text": "because he's like i'm gonna charge to"
+    },
+    {
+      "start_time": "00:03:04,560",
+      "end_time": "00:03:08,640",
+      "text": "the caster past those eight melee guys"
+    },
+    {
+      "start_time": "00:03:06,879",
+      "end_time": "00:03:11,040",
+      "text": "it's like you slow down you don't have"
+    },
+    {
+      "start_time": "00:03:08,640",
+      "end_time": "00:03:11,920",
+      "text": "to do that right like all you have to do"
+    },
+    {
+      "start_time": "00:03:11,040",
+      "end_time": "00:03:13,519",
+      "text": "is"
+    },
+    {
+      "start_time": "00:03:11,920",
+      "end_time": "00:03:15,680",
+      "text": "you know you can still play tactically"
+    },
+    {
+      "start_time": "00:03:13,519",
+      "end_time": "00:03:17,040",
+      "text": "if you want yeah you're not forced to be"
+    },
+    {
+      "start_time": "00:03:15,680",
+      "end_time": "00:03:19,040",
+      "text": "reckless every time just because your"
+    },
+    {
+      "start_time": "00:03:17,040",
+      "end_time": "00:03:20,640",
+      "text": "character has the rage ability"
+    },
+    {
+      "start_time": "00:03:19,040",
+      "end_time": "00:03:22,560",
+      "text": "now nick uh your character kind of the"
+    },
+    {
+      "start_time": "00:03:20,640",
+      "end_time": "00:03:25,200",
+      "text": "opposite problem you're a little slow"
+    },
+    {
+      "start_time": "00:03:22,560",
+      "end_time": "00:03:27,120",
+      "text": "i'm very slow yeah you're playing the"
+    },
+    {
+      "start_time": "00:03:25,200",
+      "end_time": "00:03:28,720",
+      "text": "tank you're a human in in full plate"
+    },
+    {
+      "start_time": "00:03:27,120",
+      "end_time": "00:03:31,680",
+      "text": "basically right yep so i don't move very"
+    },
+    {
+      "start_time": "00:03:28,720",
+      "end_time": "00:03:33,200",
+      "text": "fast at all even with my fleet uh right"
+    },
+    {
+      "start_time": "00:03:31,680",
+      "end_time": "00:03:35,599",
+      "text": "and you and you took the fleet feet i"
+    },
+    {
+      "start_time": "00:03:33,200",
+      "end_time": "00:03:37,519",
+      "text": "took the fleet feet and it's still i'm"
+    },
+    {
+      "start_time": "00:03:35,599",
+      "end_time": "00:03:39,360",
+      "text": "slow yeah so a lot of times you're"
+    },
+    {
+      "start_time": "00:03:37,519",
+      "end_time": "00:03:42,879",
+      "text": "moving twice sometimes right to make one"
+    },
+    {
+      "start_time": "00:03:39,360",
+      "end_time": "00:03:44,400",
+      "text": "attack um and so you know i think"
+    },
+    {
+      "start_time": "00:03:42,879",
+      "end_time": "00:03:46,480",
+      "text": "one of the things that uh you know could"
+    },
+    {
+      "start_time": "00:03:44,400",
+      "end_time": "00:03:49,120",
+      "text": "be frustrating is you know and if you"
+    },
+    {
+      "start_time": "00:03:46,480",
+      "end_time": "00:03:51,120",
+      "text": "watched our last uh action uh"
+    },
+    {
+      "start_time": "00:03:49,120",
+      "end_time": "00:03:52,560",
+      "text": "actual play you know there was a moment"
+    },
+    {
+      "start_time": "00:03:51,120",
+      "end_time": "00:03:53,840",
+      "text": "there was a turn where you didn't make"
+    },
+    {
+      "start_time": "00:03:52,560",
+      "end_time": "00:03:55,280",
+      "text": "an attack because it was more important"
+    },
+    {
+      "start_time": "00:03:53,840",
+      "end_time": "00:03:57,920",
+      "text": "that you stayed close to your allies"
+    },
+    {
+      "start_time": "00:03:55,280",
+      "end_time": "00:04:00,000",
+      "text": "correct and so positioning sometimes"
+    },
+    {
+      "start_time": "00:03:57,920",
+      "end_time": "00:04:01,120",
+      "text": "means not making an attack right and"
+    },
+    {
+      "start_time": "00:04:00,000",
+      "end_time": "00:04:02,720",
+      "text": "that's the thing about the paladin"
+    },
+    {
+      "start_time": "00:04:01,120",
+      "end_time": "00:04:07,280",
+      "text": "though too is that i have a lot of"
+    },
+    {
+      "start_time": "00:04:02,720",
+      "end_time": "00:04:09,040",
+      "text": "reactions so i may not use my actions to"
+    },
+    {
+      "start_time": "00:04:07,280",
+      "end_time": "00:04:11,040",
+      "text": "maybe attack but i may have to move to"
+    },
+    {
+      "start_time": "00:04:09,040",
+      "end_time": "00:04:12,879",
+      "text": "be better possessed uh positioned with"
+    },
+    {
+      "start_time": "00:04:11,040",
+      "end_time": "00:04:14,480",
+      "text": "my spell casters to help protect them"
+    },
+    {
+      "start_time": "00:04:12,879",
+      "end_time": "00:04:16,320",
+      "text": "with my reactions"
+    },
+    {
+      "start_time": "00:04:14,480",
+      "end_time": "00:04:18,560",
+      "text": "and then that's where i help save some"
+    },
+    {
+      "start_time": "00:04:16,320",
+      "end_time": "00:04:21,199",
+      "text": "damage from them and i also am able to"
+    },
+    {
+      "start_time": "00:04:18,560",
+      "end_time": "00:04:22,639",
+      "text": "then potentially even strike back at the"
+    },
+    {
+      "start_time": "00:04:21,199",
+      "end_time": "00:04:24,160",
+      "text": "enemies right"
+    },
+    {
+      "start_time": "00:04:22,639",
+      "end_time": "00:04:26,240",
+      "text": "so"
+    },
+    {
+      "start_time": "00:04:24,160",
+      "end_time": "00:04:28,080",
+      "text": "today we're going to cover three more"
+    },
+    {
+      "start_time": "00:04:26,240",
+      "end_time": "00:04:30,400",
+      "text": "tips as we sort of kind of keep going"
+    },
+    {
+      "start_time": "00:04:28,080",
+      "end_time": "00:04:33,040",
+      "text": "deeper and deeper into the pathfinder"
+    },
+    {
+      "start_time": "00:04:30,400",
+      "end_time": "00:04:35,360",
+      "text": "second edition onion um so one of the"
+    },
+    {
+      "start_time": "00:04:33,040",
+      "end_time": "00:04:37,199",
+      "text": "first things we kind of focused on melee"
+    },
+    {
+      "start_time": "00:04:35,360",
+      "end_time": "00:04:38,479",
+      "text": "we talked about flanking and we we"
+    },
+    {
+      "start_time": "00:04:37,199",
+      "end_time": "00:04:40,320",
+      "text": "talked about moving around to avoid"
+    },
+    {
+      "start_time": "00:04:38,479",
+      "end_time": "00:04:41,600",
+      "text": "attacks but spellcasters are a big part"
+    },
+    {
+      "start_time": "00:04:40,320",
+      "end_time": "00:04:42,880",
+      "text": "of the game too we got a couple of"
+    },
+    {
+      "start_time": "00:04:41,600",
+      "end_time": "00:04:44,400",
+      "text": "comments thank you so much from people"
+    },
+    {
+      "start_time": "00:04:42,880",
+      "end_time": "00:04:46,720",
+      "text": "asking for some spellcaster tips and"
+    },
+    {
+      "start_time": "00:04:44,400",
+      "end_time": "00:04:48,720",
+      "text": "tricks and so today i thought we would"
+    },
+    {
+      "start_time": "00:04:46,720",
+      "end_time": "00:04:49,919",
+      "text": "start off here with tip number four"
+    },
+    {
+      "start_time": "00:04:48,720",
+      "end_time": "00:04:53,520",
+      "text": "which is"
+    },
+    {
+      "start_time": "00:04:49,919",
+      "end_time": "00:04:56,560",
+      "text": "identify and learn your foes weak saves"
+    },
+    {
+      "start_time": "00:04:53,520",
+      "end_time": "00:04:59,199",
+      "text": "and their strong saves there are three"
+    },
+    {
+      "start_time": "00:04:56,560",
+      "end_time": "00:05:02,080",
+      "text": "save types in pathfinder fortitude"
+    },
+    {
+      "start_time": "00:04:59,199",
+      "end_time": "00:05:03,919",
+      "text": "reflex and will uh and those kind of"
+    },
+    {
+      "start_time": "00:05:02,080",
+      "end_time": "00:05:06,240",
+      "text": "represent three different capabilities"
+    },
+    {
+      "start_time": "00:05:03,919",
+      "end_time": "00:05:09,280",
+      "text": "of a monster to avoid an attack from a"
+    },
+    {
+      "start_time": "00:05:06,240",
+      "end_time": "00:05:10,400",
+      "text": "spell caster and the fact is if you go"
+    },
+    {
+      "start_time": "00:05:09,280",
+      "end_time": "00:05:14,320",
+      "text": "through the books if you go through the"
+    },
+    {
+      "start_time": "00:05:10,400",
+      "end_time": "00:05:16,400",
+      "text": "math uh most monsters have one save that"
+    },
+    {
+      "start_time": "00:05:14,320",
+      "end_time": "00:05:18,560",
+      "text": "they are particularly good at and they"
+    },
+    {
+      "start_time": "00:05:16,400",
+      "end_time": "00:05:19,199",
+      "text": "have one saved that they kind of stink"
+    },
+    {
+      "start_time": "00:05:18,560",
+      "end_time": "00:05:21,120",
+      "text": "at"
+    },
+    {
+      "start_time": "00:05:19,199",
+      "end_time": "00:05:23,360",
+      "text": "and it could be a huge difference it can"
+    },
+    {
+      "start_time": "00:05:21,120",
+      "end_time": "00:05:25,360",
+      "text": "be sometimes as many as"
+    },
+    {
+      "start_time": "00:05:23,360",
+      "end_time": "00:05:27,759",
+      "text": "three four or even six points depending"
+    },
+    {
+      "start_time": "00:05:25,360",
+      "end_time": "00:05:28,800",
+      "text": "on the monster that's a huge difference"
+    },
+    {
+      "start_time": "00:05:27,759",
+      "end_time": "00:05:31,759",
+      "text": "that could be the difference between a"
+    },
+    {
+      "start_time": "00:05:28,800",
+      "end_time": "00:05:33,680",
+      "text": "monster passing a save on a 14 plus"
+    },
+    {
+      "start_time": "00:05:31,759",
+      "end_time": "00:05:35,039",
+      "text": "versus an eight plus"
+    },
+    {
+      "start_time": "00:05:33,680",
+      "end_time": "00:05:37,280",
+      "text": "it's a really really big difference to"
+    },
+    {
+      "start_time": "00:05:35,039",
+      "end_time": "00:05:40,000",
+      "text": "say nothing of critical fails and things"
+    },
+    {
+      "start_time": "00:05:37,280",
+      "end_time": "00:05:42,400",
+      "text": "like that and critical successes and so"
+    },
+    {
+      "start_time": "00:05:40,000",
+      "end_time": "00:05:44,800",
+      "text": "one of the keys as a spellcaster is you"
+    },
+    {
+      "start_time": "00:05:42,400",
+      "end_time": "00:05:47,520",
+      "text": "need to make sure you know what those"
+    },
+    {
+      "start_time": "00:05:44,800",
+      "end_time": "00:05:50,080",
+      "text": "saves are as a game master"
+    },
+    {
+      "start_time": "00:05:47,520",
+      "end_time": "00:05:51,759",
+      "text": "nothing is more painful for me than when"
+    },
+    {
+      "start_time": "00:05:50,080",
+      "end_time": "00:05:54,240",
+      "text": "i see a you know caster because you know"
+    },
+    {
+      "start_time": "00:05:51,759",
+      "end_time": "00:05:56,319",
+      "text": "spells spells are limited"
+    },
+    {
+      "start_time": "00:05:54,240",
+      "end_time": "00:05:58,560",
+      "text": "and it takes two actions and a"
+    },
+    {
+      "start_time": "00:05:56,319",
+      "end_time": "00:06:00,800",
+      "text": "spellcaster's getting really excited"
+    },
+    {
+      "start_time": "00:05:58,560",
+      "end_time": "00:06:03,120",
+      "text": "right because they're about to"
+    },
+    {
+      "start_time": "00:06:00,800",
+      "end_time": "00:06:04,479",
+      "text": "cast the the you know the fortitude"
+    },
+    {
+      "start_time": "00:06:03,120",
+      "end_time": "00:06:05,600",
+      "text": "spells you know that they're really"
+    },
+    {
+      "start_time": "00:06:04,479",
+      "end_time": "00:06:06,720",
+      "text": "excited cast on this monster and i'm"
+    },
+    {
+      "start_time": "00:06:05,600",
+      "end_time": "00:06:09,120",
+      "text": "sitting here looking and seeing this"
+    },
+    {
+      "start_time": "00:06:06,720",
+      "end_time": "00:06:10,800",
+      "text": "creature has an unbelievable fortitude"
+    },
+    {
+      "start_time": "00:06:09,120",
+      "end_time": "00:06:12,240",
+      "text": "save and it's pretty much gonna uh"
+    },
+    {
+      "start_time": "00:06:10,800",
+      "end_time": "00:06:14,560",
+      "text": "definitely pass"
+    },
+    {
+      "start_time": "00:06:12,240",
+      "end_time": "00:06:16,880",
+      "text": "and so you need to either use your"
+    },
+    {
+      "start_time": "00:06:14,560",
+      "end_time": "00:06:20,720",
+      "text": "intuition right and this is where we i"
+    },
+    {
+      "start_time": "00:06:16,880",
+      "end_time": "00:06:22,080",
+      "text": "talk about like monsters hopefully uh by"
+    },
+    {
+      "start_time": "00:06:20,720",
+      "end_time": "00:06:23,440",
+      "text": "looking at them listening to the"
+    },
+    {
+      "start_time": "00:06:22,080",
+      "end_time": "00:06:25,680",
+      "text": "description seeing the way that they"
+    },
+    {
+      "start_time": "00:06:23,440",
+      "end_time": "00:06:27,520",
+      "text": "play i need to learn more like oh that's"
+    },
+    {
+      "start_time": "00:06:25,680",
+      "end_time": "00:06:29,600",
+      "text": "a big guy right if i tell you right if i"
+    },
+    {
+      "start_time": "00:06:27,520",
+      "end_time": "00:06:32,639",
+      "text": "show you there's a there's a big hulking"
+    },
+    {
+      "start_time": "00:06:29,600",
+      "end_time": "00:06:34,240",
+      "text": "giant you the intuition should be this"
+    },
+    {
+      "start_time": "00:06:32,639",
+      "end_time": "00:06:35,759",
+      "text": "creature probably has a good fort safe"
+    },
+    {
+      "start_time": "00:06:34,240",
+      "end_time": "00:06:37,759",
+      "text": "yeah if they take up more than one"
+    },
+    {
+      "start_time": "00:06:35,759",
+      "end_time": "00:06:40,240",
+      "text": "square yeah you'll notice over the next"
+    },
+    {
+      "start_time": "00:06:37,759",
+      "end_time": "00:06:41,840",
+      "text": "few aps most of gildor's spells are"
+    },
+    {
+      "start_time": "00:06:40,240",
+      "end_time": "00:06:43,360",
+      "text": "mind-affecting"
+    },
+    {
+      "start_time": "00:06:41,840",
+      "end_time": "00:06:44,639",
+      "text": "because i knew we were fighting a lot of"
+    },
+    {
+      "start_time": "00:06:43,360",
+      "end_time": "00:06:47,039",
+      "text": "big dumb"
+    },
+    {
+      "start_time": "00:06:44,639",
+      "end_time": "00:06:48,800",
+      "text": "giants we do not have strong will saves"
+    },
+    {
+      "start_time": "00:06:47,039",
+      "end_time": "00:06:51,280",
+      "text": "so that's good that's right that's how"
+    },
+    {
+      "start_time": "00:06:48,800",
+      "end_time": "00:06:53,039",
+      "text": "you prepare yeah and and tim got it"
+    },
+    {
+      "start_time": "00:06:51,280",
+      "end_time": "00:06:54,240",
+      "text": "exactly right which is if you know"
+    },
+    {
+      "start_time": "00:06:53,039",
+      "end_time": "00:06:56,000",
+      "text": "you're going to be you know part of this"
+    },
+    {
+      "start_time": "00:06:54,240",
+      "end_time": "00:06:57,840",
+      "text": "game is not just tactical it's called"
+    },
+    {
+      "start_time": "00:06:56,000",
+      "end_time": "00:06:59,520",
+      "text": "combat and tactics but some of it is"
+    },
+    {
+      "start_time": "00:06:57,840",
+      "end_time": "00:07:01,039",
+      "text": "strategic if you know you're going to be"
+    },
+    {
+      "start_time": "00:06:59,520",
+      "end_time": "00:07:02,720",
+      "text": "fighting certain types of monsters you"
+    },
+    {
+      "start_time": "00:07:01,039",
+      "end_time": "00:07:04,880",
+      "text": "need to prepare certain types of spells"
+    },
+    {
+      "start_time": "00:07:02,720",
+      "end_time": "00:07:06,960",
+      "text": "at the same time"
+    },
+    {
+      "start_time": "00:07:04,880",
+      "end_time": "00:07:09,360",
+      "text": "it's a good idea as a spell caster to"
+    },
+    {
+      "start_time": "00:07:06,960",
+      "end_time": "00:07:10,880",
+      "text": "have a variety of spell types memorized"
+    },
+    {
+      "start_time": "00:07:09,360",
+      "end_time": "00:07:12,720",
+      "text": "each day this is not as much of an"
+    },
+    {
+      "start_time": "00:07:10,880",
+      "end_time": "00:07:14,080",
+      "text": "option when you're lower level uh but as"
+    },
+    {
+      "start_time": "00:07:12,720",
+      "end_time": "00:07:15,280",
+      "text": "you get into third fourth fifth sixth"
+    },
+    {
+      "start_time": "00:07:14,080",
+      "end_time": "00:07:17,360",
+      "text": "level and you start picking up multiple"
+    },
+    {
+      "start_time": "00:07:15,280",
+      "end_time": "00:07:19,360",
+      "text": "levels of spells if you're a sorcerer"
+    },
+    {
+      "start_time": "00:07:17,360",
+      "end_time": "00:07:21,680",
+      "text": "you have a variety of spells try not to"
+    },
+    {
+      "start_time": "00:07:19,360",
+      "end_time": "00:07:23,360",
+      "text": "make them all target the same save"
+    },
+    {
+      "start_time": "00:07:21,680",
+      "end_time": "00:07:25,680",
+      "text": "because then if you come up across a"
+    },
+    {
+      "start_time": "00:07:23,360",
+      "end_time": "00:07:27,280",
+      "text": "creature which for example if tim took"
+    },
+    {
+      "start_time": "00:07:25,680",
+      "end_time": "00:07:29,280",
+      "text": "all of these will saves but then you"
+    },
+    {
+      "start_time": "00:07:27,280",
+      "end_time": "00:07:31,039",
+      "text": "fight something that's mindless"
+    },
+    {
+      "start_time": "00:07:29,280",
+      "end_time": "00:07:33,759",
+      "text": "and cannot be even affected by will"
+    },
+    {
+      "start_time": "00:07:31,039",
+      "end_time": "00:07:35,039",
+      "text": "saves well that kind of leaves them"
+    },
+    {
+      "start_time": "00:07:33,759",
+      "end_time": "00:07:37,039",
+      "text": "up the creek without a paddle right"
+    },
+    {
+      "start_time": "00:07:35,039",
+      "end_time": "00:07:39,120",
+      "text": "which is why does not have entirely"
+    },
+    {
+      "start_time": "00:07:37,039",
+      "end_time": "00:07:40,240",
+      "text": "mind-affecting things but just a lot of"
+    },
+    {
+      "start_time": "00:07:39,120",
+      "end_time": "00:07:41,759",
+      "text": "them"
+    },
+    {
+      "start_time": "00:07:40,240",
+      "end_time": "00:07:43,440",
+      "text": "and so you can use your intuition if"
+    },
+    {
+      "start_time": "00:07:41,759",
+      "end_time": "00:07:45,599",
+      "text": "it's a nimble"
+    },
+    {
+      "start_time": "00:07:43,440",
+      "end_time": "00:07:47,360",
+      "text": "panther-like creature yeah it's probably"
+    },
+    {
+      "start_time": "00:07:45,599",
+      "end_time": "00:07:49,840",
+      "text": "got a good will or comprising reflex"
+    },
+    {
+      "start_time": "00:07:47,360",
+      "end_time": "00:07:51,599",
+      "text": "reflexes if it's a hulking big brute"
+    },
+    {
+      "start_time": "00:07:49,840",
+      "end_time": "00:07:54,160",
+      "text": "probably a good fortitude to save it's a"
+    },
+    {
+      "start_time": "00:07:51,599",
+      "end_time": "00:07:56,319",
+      "text": "keen-minded wizard or cleric probably"
+    },
+    {
+      "start_time": "00:07:54,160",
+      "end_time": "00:07:57,919",
+      "text": "probably a good will save so you can use"
+    },
+    {
+      "start_time": "00:07:56,319",
+      "end_time": "00:08:00,240",
+      "text": "your intuition but if you don't have"
+    },
+    {
+      "start_time": "00:07:57,919",
+      "end_time": "00:08:02,479",
+      "text": "your intuition or you can't tell"
+    },
+    {
+      "start_time": "00:08:00,240",
+      "end_time": "00:08:04,319",
+      "text": "use recall knowledge and this is what we"
+    },
+    {
+      "start_time": "00:08:02,479",
+      "end_time": "00:08:05,759",
+      "text": "i i need to do better because whenever i"
+    },
+    {
+      "start_time": "00:08:04,319",
+      "end_time": "00:08:07,680",
+      "text": "recall knowledge of people watching ap"
+    },
+    {
+      "start_time": "00:08:05,759",
+      "end_time": "00:08:09,919",
+      "text": "my nose i'm like"
+    },
+    {
+      "start_time": "00:08:07,680",
+      "end_time": "00:08:12,479",
+      "text": "uh i wanna know is ac"
+    },
+    {
+      "start_time": "00:08:09,919",
+      "end_time": "00:08:14,240",
+      "text": "right i wanna know is uh hit points"
+    },
+    {
+      "start_time": "00:08:12,479",
+      "end_time": "00:08:16,080",
+      "text": "right or or his attack i'm like as if"
+    },
+    {
+      "start_time": "00:08:14,240",
+      "end_time": "00:08:17,840",
+      "text": "that somehow mattered and"
+    },
+    {
+      "start_time": "00:08:16,080",
+      "end_time": "00:08:19,360",
+      "text": "back again i'm going to do this but i'm"
+    },
+    {
+      "start_time": "00:08:17,840",
+      "end_time": "00:08:21,360",
+      "text": "i'm getting better now i'm"
+    },
+    {
+      "start_time": "00:08:19,360",
+      "end_time": "00:08:23,039",
+      "text": "as i'm realizing stuff like i'm going to"
+    },
+    {
+      "start_time": "00:08:21,360",
+      "end_time": "00:08:24,400",
+      "text": "hit i'm a melee character what do i care"
+    },
+    {
+      "start_time": "00:08:23,039",
+      "end_time": "00:08:26,319",
+      "text": "what his ac is i'm going to hit her or"
+    },
+    {
+      "start_time": "00:08:24,400",
+      "end_time": "00:08:28,560",
+      "text": "miss why do i care where this hp is i"
+    },
+    {
+      "start_time": "00:08:26,319",
+      "end_time": "00:08:31,440",
+      "text": "should be helping you guys i should be"
+    },
+    {
+      "start_time": "00:08:28,560",
+      "end_time": "00:08:33,519",
+      "text": "helping the team inform more about"
+    },
+    {
+      "start_time": "00:08:31,440",
+      "end_time": "00:08:36,560",
+      "text": "immunities resistances"
+    },
+    {
+      "start_time": "00:08:33,519",
+      "end_time": "00:08:38,159",
+      "text": "and of course his saves right he's huge"
+    },
+    {
+      "start_time": "00:08:36,560",
+      "end_time": "00:08:39,519",
+      "text": "yeah and matt you got exactly right"
+    },
+    {
+      "start_time": "00:08:38,159",
+      "end_time": "00:08:40,880",
+      "text": "right which is what difference does it"
+    },
+    {
+      "start_time": "00:08:39,519",
+      "end_time": "00:08:42,959",
+      "text": "make right yeah you're gonna attack no"
+    },
+    {
+      "start_time": "00:08:40,880",
+      "end_time": "00:08:44,560",
+      "text": "matter what like oh his ac was 24 well i"
+    },
+    {
+      "start_time": "00:08:42,959",
+      "end_time": "00:08:45,360",
+      "text": "guess i won't attack i'll just sit down"
+    },
+    {
+      "start_time": "00:08:44,560",
+      "end_time": "00:08:46,880",
+      "text": "yeah"
+    },
+    {
+      "start_time": "00:08:45,360",
+      "end_time": "00:08:49,040",
+      "text": "yeah you're still gonna go in now i"
+    },
+    {
+      "start_time": "00:08:46,880",
+      "end_time": "00:08:50,720",
+      "text": "guess i'll use all my other options yeah"
+    },
+    {
+      "start_time": "00:08:49,040",
+      "end_time": "00:08:53,760",
+      "text": "now i know what i need to roll but i"
+    },
+    {
+      "start_time": "00:08:50,720",
+      "end_time": "00:08:55,200",
+      "text": "still need to roll that in order"
+    },
+    {
+      "start_time": "00:08:53,760",
+      "end_time": "00:08:56,480",
+      "text": "yeah it's not going to change your"
+    },
+    {
+      "start_time": "00:08:55,200",
+      "end_time": "00:08:58,320",
+      "text": "actions correct right you're still going"
+    },
+    {
+      "start_time": "00:08:56,480",
+      "end_time": "00:08:59,279",
+      "text": "to make your attack with your axe you're"
+    },
+    {
+      "start_time": "00:08:58,320",
+      "end_time": "00:09:00,160",
+      "text": "still you're still going to make your"
+    },
+    {
+      "start_time": "00:08:59,279",
+      "end_time": "00:09:00,800",
+      "text": "attack with your sword you're still"
+    },
+    {
+      "start_time": "00:09:00,160",
+      "end_time": "00:09:02,160",
+      "text": "going to make your attack with your"
+    },
+    {
+      "start_time": "00:09:00,800",
+      "end_time": "00:09:03,519",
+      "text": "hammer and you're going against armor"
+    },
+    {
+      "start_time": "00:09:02,160",
+      "end_time": "00:09:04,959",
+      "text": "class you don't have a choice right"
+    },
+    {
+      "start_time": "00:09:03,519",
+      "end_time": "00:09:07,440",
+      "text": "whereas"
+    },
+    {
+      "start_time": "00:09:04,959",
+      "end_time": "00:09:09,279",
+      "text": "extraordinarily relevant especially it's"
+    },
+    {
+      "start_time": "00:09:07,440",
+      "end_time": "00:09:11,279",
+      "text": "one action to do the recall knowledge so"
+    },
+    {
+      "start_time": "00:09:09,279",
+      "end_time": "00:09:12,880",
+      "text": "if i can learn as a spell caster on your"
+    },
+    {
+      "start_time": "00:09:11,279",
+      "end_time": "00:09:14,800",
+      "text": "turn absolutely or if i have to do it on"
+    },
+    {
+      "start_time": "00:09:12,880",
+      "end_time": "00:09:15,760",
+      "text": "my own turn but on your turn i learn i"
+    },
+    {
+      "start_time": "00:09:14,800",
+      "end_time": "00:09:17,680",
+      "text": "learned that they're you know they're"
+    },
+    {
+      "start_time": "00:09:15,760",
+      "end_time": "00:09:18,880",
+      "text": "weak to fortitude right or have fire"
+    },
+    {
+      "start_time": "00:09:17,680",
+      "end_time": "00:09:20,240",
+      "text": "resistance or something like that you're"
+    },
+    {
+      "start_time": "00:09:18,880",
+      "end_time": "00:09:22,720",
+      "text": "like that's another thing that i think"
+    },
+    {
+      "start_time": "00:09:20,240",
+      "end_time": "00:09:24,240",
+      "text": "is uh why it's very easy to use my third"
+    },
+    {
+      "start_time": "00:09:22,720",
+      "end_time": "00:09:26,240",
+      "text": "actions as a spellcaster recall"
+    },
+    {
+      "start_time": "00:09:24,240",
+      "end_time": "00:09:27,360",
+      "text": "knowledge i cast a spell you know puff a"
+    },
+    {
+      "start_time": "00:09:26,240",
+      "end_time": "00:09:28,720",
+      "text": "party member or something and then i'm"
+    },
+    {
+      "start_time": "00:09:27,360",
+      "end_time": "00:09:30,000",
+      "text": "like yeah i don't know much about that"
+    },
+    {
+      "start_time": "00:09:28,720",
+      "end_time": "00:09:31,040",
+      "text": "thing recall knowledge let's see if i"
+    },
+    {
+      "start_time": "00:09:30,000",
+      "end_time": "00:09:32,640",
+      "text": "can learn something now can you say"
+    },
+    {
+      "start_time": "00:09:31,040",
+      "end_time": "00:09:34,959",
+      "text": "something specific like"
+    },
+    {
+      "start_time": "00:09:32,640",
+      "end_time": "00:09:36,959",
+      "text": "derek i'd like to know if this monster"
+    },
+    {
+      "start_time": "00:09:34,959",
+      "end_time": "00:09:39,040",
+      "text": "what what are the three there you know a"
+    },
+    {
+      "start_time": "00:09:36,959",
+      "end_time": "00:09:41,600",
+      "text": "lot of the recall knowledge skill uh"
+    },
+    {
+      "start_time": "00:09:39,040",
+      "end_time": "00:09:43,600",
+      "text": "ability in the core rulebook is kind of"
+    },
+    {
+      "start_time": "00:09:41,600",
+      "end_time": "00:09:45,760",
+      "text": "open to interpretation you know it can"
+    },
+    {
+      "start_time": "00:09:43,600",
+      "end_time": "00:09:48,399",
+      "text": "be a very specific question some gm's"
+    },
+    {
+      "start_time": "00:09:45,760",
+      "end_time": "00:09:50,399",
+      "text": "like myself play it pretty broadly and"
+    },
+    {
+      "start_time": "00:09:48,399",
+      "end_time": "00:09:52,880",
+      "text": "give a lot of information with a recall"
+    },
+    {
+      "start_time": "00:09:50,399",
+      "end_time": "00:09:55,120",
+      "text": "knowledge check uh usually like divided"
+    },
+    {
+      "start_time": "00:09:52,880",
+      "end_time": "00:09:57,360",
+      "text": "into sort of offensive defensive and"
+    },
+    {
+      "start_time": "00:09:55,120",
+      "end_time": "00:09:59,279",
+      "text": "miscellaneous other types of abilities"
+    },
+    {
+      "start_time": "00:09:57,360",
+      "end_time": "00:10:00,720",
+      "text": "um and i like to give because again uh"
+    },
+    {
+      "start_time": "00:09:59,279",
+      "end_time": "00:10:02,560",
+      "text": "you know a theme you'll see with me is i"
+    },
+    {
+      "start_time": "00:10:00,720",
+      "end_time": "00:10:04,320",
+      "text": "like my players have information i like"
+    },
+    {
+      "start_time": "00:10:02,560",
+      "end_time": "00:10:06,000",
+      "text": "for my players to be making informed"
+    },
+    {
+      "start_time": "00:10:04,320",
+      "end_time": "00:10:08,399",
+      "text": "choices i think that increases the fun"
+    },
+    {
+      "start_time": "00:10:06,000",
+      "end_time": "00:10:09,360",
+      "text": "of the game and it avoids sort of gotcha"
+    },
+    {
+      "start_time": "00:10:08,399",
+      "end_time": "00:10:11,600",
+      "text": "moments"
+    },
+    {
+      "start_time": "00:10:09,360",
+      "end_time": "00:10:12,800",
+      "text": "um because you know and i bob you you"
+    },
+    {
+      "start_time": "00:10:11,600",
+      "end_time": "00:10:14,320",
+      "text": "made a really great point we're talking"
+    },
+    {
+      "start_time": "00:10:12,800",
+      "end_time": "00:10:15,519",
+      "text": "about saves and"
+    },
+    {
+      "start_time": "00:10:14,320",
+      "end_time": "00:10:17,360",
+      "text": "identifying which ones are weak and"
+    },
+    {
+      "start_time": "00:10:15,519",
+      "end_time": "00:10:19,120",
+      "text": "strong so that you can target the weak"
+    },
+    {
+      "start_time": "00:10:17,360",
+      "end_time": "00:10:21,680",
+      "text": "one and avoid the spells that have the"
+    },
+    {
+      "start_time": "00:10:19,120",
+      "end_time": "00:10:23,279",
+      "text": "save one but immunities and resistances"
+    },
+    {
+      "start_time": "00:10:21,680",
+      "end_time": "00:10:24,480",
+      "text": "are are like basically like having an"
+    },
+    {
+      "start_time": "00:10:23,279",
+      "end_time": "00:10:26,480",
+      "text": "infinite safe"
+    },
+    {
+      "start_time": "00:10:24,480",
+      "end_time": "00:10:28,240",
+      "text": "so if you know that a creature is immune"
+    },
+    {
+      "start_time": "00:10:26,480",
+      "end_time": "00:10:30,399",
+      "text": "to uh"
+    },
+    {
+      "start_time": "00:10:28,240",
+      "end_time": "00:10:32,160",
+      "text": "let's say fire"
+    },
+    {
+      "start_time": "00:10:30,399",
+      "end_time": "00:10:33,839",
+      "text": "well that's going to save your"
+    },
+    {
+      "start_time": "00:10:32,160",
+      "end_time": "00:10:35,440",
+      "text": "spellcasters a lot of heartache when"
+    },
+    {
+      "start_time": "00:10:33,839",
+      "end_time": "00:10:37,040",
+      "text": "they don't use a fire spell against it"
+    },
+    {
+      "start_time": "00:10:35,440",
+      "end_time": "00:10:39,200",
+      "text": "now is that better at"
+    },
+    {
+      "start_time": "00:10:37,040",
+      "end_time": "00:10:41,680",
+      "text": "at lower levels though the resistances"
+    },
+    {
+      "start_time": "00:10:39,200",
+      "end_time": "00:10:44,480",
+      "text": "are pretty minor if i'm not mistaken"
+    },
+    {
+      "start_time": "00:10:41,680",
+      "end_time": "00:10:46,800",
+      "text": "right or i mean it all scales i mean"
+    },
+    {
+      "start_time": "00:10:44,480",
+      "end_time": "00:10:48,800",
+      "text": "like i i i don't know how much about"
+    },
+    {
+      "start_time": "00:10:46,800",
+      "end_time": "00:10:51,600",
+      "text": "this year i think they're probably less"
+    },
+    {
+      "start_time": "00:10:48,800",
+      "end_time": "00:10:53,519",
+      "text": "common on maybe level monsters like boss"
+    },
+    {
+      "start_time": "00:10:51,600",
+      "end_time": "00:10:54,640",
+      "text": "you know boss types but no i mean it"
+    },
+    {
+      "start_time": "00:10:53,519",
+      "end_time": "00:10:56,320",
+      "text": "definitely i mean because with lower"
+    },
+    {
+      "start_time": "00:10:54,640",
+      "end_time": "00:10:58,640",
+      "text": "levels you tend to fight more generic"
+    },
+    {
+      "start_time": "00:10:56,320",
+      "end_time": "00:11:00,399",
+      "text": "humanoids and generic humanoids your"
+    },
+    {
+      "start_time": "00:10:58,640",
+      "end_time": "00:11:01,680",
+      "text": "your orc"
+    },
+    {
+      "start_time": "00:11:00,399",
+      "end_time": "00:11:02,880",
+      "text": "your goblin they don't have anything"
+    },
+    {
+      "start_time": "00:11:01,680",
+      "end_time": "00:11:04,640",
+      "text": "special yeah then we start to run into"
+    },
+    {
+      "start_time": "00:11:02,880",
+      "end_time": "00:11:06,079",
+      "text": "trolls and stuff and i'm like yeah but"
+    },
+    {
+      "start_time": "00:11:04,640",
+      "end_time": "00:11:07,200",
+      "text": "whatever elements"
+    },
+    {
+      "start_time": "00:11:06,079",
+      "end_time": "00:11:08,480",
+      "text": "figure that out yeah you're probably"
+    },
+    {
+      "start_time": "00:11:07,200",
+      "end_time": "00:11:10,320",
+      "text": "going to be immune to fire because"
+    },
+    {
+      "start_time": "00:11:08,480",
+      "end_time": "00:11:12,000",
+      "text": "they're a fire element right sorry they"
+    },
+    {
+      "start_time": "00:11:10,320",
+      "end_time": "00:11:13,680",
+      "text": "might even heal off of it right"
+    },
+    {
+      "start_time": "00:11:12,000",
+      "end_time": "00:11:15,200",
+      "text": "depending on what game you're playing"
+    },
+    {
+      "start_time": "00:11:13,680",
+      "end_time": "00:11:17,040",
+      "text": "yeah and so that's where that intuitive"
+    },
+    {
+      "start_time": "00:11:15,200",
+      "end_time": "00:11:18,160",
+      "text": "sense can come in right and then also"
+    },
+    {
+      "start_time": "00:11:17,040",
+      "end_time": "00:11:20,560",
+      "text": "too there could be certain things like"
+    },
+    {
+      "start_time": "00:11:18,160",
+      "end_time": "00:11:22,959",
+      "text": "once you fought a demon or a devil or"
+    },
+    {
+      "start_time": "00:11:20,560",
+      "end_time": "00:11:24,959",
+      "text": "fey and you learn oh okay all demons"
+    },
+    {
+      "start_time": "00:11:22,959",
+      "end_time": "00:11:26,720",
+      "text": "have this resistance and all demons have"
+    },
+    {
+      "start_time": "00:11:24,959",
+      "end_time": "00:11:28,079",
+      "text": "this weakness then the next time you"
+    },
+    {
+      "start_time": "00:11:26,720",
+      "end_time": "00:11:29,920",
+      "text": "fight a demon even if it's a different"
+    },
+    {
+      "start_time": "00:11:28,079",
+      "end_time": "00:11:32,079",
+      "text": "type of demon you could say oh i"
+    },
+    {
+      "start_time": "00:11:29,920",
+      "end_time": "00:11:33,600",
+      "text": "remember from the last time that they"
+    },
+    {
+      "start_time": "00:11:32,079",
+      "end_time": "00:11:34,480",
+      "text": "are strong again you recalled your"
+    },
+    {
+      "start_time": "00:11:33,600",
+      "end_time": "00:11:35,920",
+      "text": "knowledge"
+    },
+    {
+      "start_time": "00:11:34,480",
+      "end_time": "00:11:37,519",
+      "text": "yeah but you without taking the action"
+    },
+    {
+      "start_time": "00:11:35,920",
+      "end_time": "00:11:39,279",
+      "text": "yeah without any action and to the point"
+    },
+    {
+      "start_time": "00:11:37,519",
+      "end_time": "00:11:40,880",
+      "text": "about you using a recall knowledge tim"
+    },
+    {
+      "start_time": "00:11:39,279",
+      "end_time": "00:11:42,959",
+      "text": "on your turn as a spellcaster keep in"
+    },
+    {
+      "start_time": "00:11:40,880",
+      "end_time": "00:11:44,959",
+      "text": "mind that if you get to like cast a"
+    },
+    {
+      "start_time": "00:11:42,959",
+      "end_time": "00:11:46,640",
+      "text": "spell and then maybe move or do"
+    },
+    {
+      "start_time": "00:11:44,959",
+      "end_time": "00:11:48,160",
+      "text": "something else so if you have to use"
+    },
+    {
+      "start_time": "00:11:46,640",
+      "end_time": "00:11:49,760",
+      "text": "your recall knowledge it's kind of a big"
+    },
+    {
+      "start_time": "00:11:48,160",
+      "end_time": "00:11:51,360",
+      "text": "ta ask for you because you kind of"
+    },
+    {
+      "start_time": "00:11:49,760",
+      "end_time": "00:11:52,800",
+      "text": "basically only get two actions on your"
+    },
+    {
+      "start_time": "00:11:51,360",
+      "end_time": "00:11:55,120",
+      "text": "turn one of them is just a big action to"
+    },
+    {
+      "start_time": "00:11:52,800",
+      "end_time": "00:11:56,560",
+      "text": "cast spell but you know for a melee"
+    },
+    {
+      "start_time": "00:11:55,120",
+      "end_time": "00:11:59,200",
+      "text": "character it's like oh i'm going to move"
+    },
+    {
+      "start_time": "00:11:56,560",
+      "end_time": "00:12:00,639",
+      "text": "and attack i kind of do have this third"
+    },
+    {
+      "start_time": "00:11:59,200",
+      "end_time": "00:12:02,320",
+      "text": "action that's just laying around and"
+    },
+    {
+      "start_time": "00:12:00,639",
+      "end_time": "00:12:04,320",
+      "text": "that's where recall now yeah instead of"
+    },
+    {
+      "start_time": "00:12:02,320",
+      "end_time": "00:12:06,320",
+      "text": "instead of making a third a third attack"
+    },
+    {
+      "start_time": "00:12:04,320",
+      "end_time": "00:12:07,600",
+      "text": "at a minus 10 or whatever yeah and make"
+    },
+    {
+      "start_time": "00:12:06,320",
+      "end_time": "00:12:09,120",
+      "text": "no mistake i thought i was so cool using"
+    },
+    {
+      "start_time": "00:12:07,600",
+      "end_time": "00:12:11,120",
+      "text": "my third action to recall knowledge but"
+    },
+    {
+      "start_time": "00:12:09,120",
+      "end_time": "00:12:13,040",
+      "text": "then i was asking for ac i'm like i"
+    },
+    {
+      "start_time": "00:12:11,120",
+      "end_time": "00:12:14,800",
+      "text": "think i lost being cool there real quick"
+    },
+    {
+      "start_time": "00:12:13,040",
+      "end_time": "00:12:18,000",
+      "text": "yeah"
+    },
+    {
+      "start_time": "00:12:14,800",
+      "end_time": "00:12:19,440",
+      "text": "to be clear um you know uh if you are"
+    },
+    {
+      "start_time": "00:12:18,000",
+      "end_time": "00:12:22,000",
+      "text": "good at the game and you have this"
+    },
+    {
+      "start_time": "00:12:19,440",
+      "end_time": "00:12:23,920",
+      "text": "player skill that you know you know what"
+    },
+    {
+      "start_time": "00:12:22,000",
+      "end_time": "00:12:26,160",
+      "text": "the monster's weaknesses too i think"
+    },
+    {
+      "start_time": "00:12:23,920",
+      "end_time": "00:12:28,000",
+      "text": "that's okay i think that that's like"
+    },
+    {
+      "start_time": "00:12:26,160",
+      "end_time": "00:12:30,079",
+      "text": "it's like hey i didn't have to use an"
+    },
+    {
+      "start_time": "00:12:28,000",
+      "end_time": "00:12:32,560",
+      "text": "action as a group we didn't have to use"
+    },
+    {
+      "start_time": "00:12:30,079",
+      "end_time": "00:12:35,120",
+      "text": "an action because i the player at the"
+    },
+    {
+      "start_time": "00:12:32,560",
+      "end_time": "00:12:37,279",
+      "text": "table said hey remember these guys are"
+    },
+    {
+      "start_time": "00:12:35,120",
+      "end_time": "00:12:39,519",
+      "text": "weak to electricity use your lightning"
+    },
+    {
+      "start_time": "00:12:37,279",
+      "end_time": "00:12:41,440",
+      "text": "bolts that's awesome and it's like wow"
+    },
+    {
+      "start_time": "00:12:39,519",
+      "end_time": "00:12:43,120",
+      "text": "i'm glad i'm playing with tim and tim"
+    },
+    {
+      "start_time": "00:12:41,440",
+      "end_time": "00:12:44,480",
+      "text": "knows that and brought that just depends"
+    },
+    {
+      "start_time": "00:12:43,120",
+      "end_time": "00:12:46,720",
+      "text": "on how deep you guys are into the role"
+    },
+    {
+      "start_time": "00:12:44,480",
+      "end_time": "00:12:48,639",
+      "text": "playing yeah but i think that is a lot"
+    },
+    {
+      "start_time": "00:12:46,720",
+      "end_time": "00:12:49,760",
+      "text": "more fun yeah but that that also just"
+    },
+    {
+      "start_time": "00:12:48,639",
+      "end_time": "00:12:50,959",
+      "text": "kind of"
+    },
+    {
+      "start_time": "00:12:49,760",
+      "end_time": "00:12:53,120",
+      "text": "you know if you're playing a character"
+    },
+    {
+      "start_time": "00:12:50,959",
+      "end_time": "00:12:55,360",
+      "text": "this is role-playing right so"
+    },
+    {
+      "start_time": "00:12:53,120",
+      "end_time": "00:12:57,120",
+      "text": "if you've experienced those in the past"
+    },
+    {
+      "start_time": "00:12:55,360",
+      "end_time": "00:12:58,639",
+      "text": "oh then it's for sure that's what i mean"
+    },
+    {
+      "start_time": "00:12:57,120",
+      "end_time": "00:13:00,320",
+      "text": "so it's absolutely but you've"
+    },
+    {
+      "start_time": "00:12:58,639",
+      "end_time": "00:13:01,760",
+      "text": "experienced that tim's knowledge of rpgs"
+    },
+    {
+      "start_time": "00:13:00,320",
+      "end_time": "00:13:05,040",
+      "text": "is so much higher than mine he knows"
+    },
+    {
+      "start_time": "00:13:01,760",
+      "end_time": "00:13:06,320",
+      "text": "what ghoul does before i know what it is"
+    },
+    {
+      "start_time": "00:13:05,040",
+      "end_time": "00:13:08,880",
+      "text": "that's where it gets weird because bob"
+    },
+    {
+      "start_time": "00:13:06,320",
+      "end_time": "00:13:11,200",
+      "text": "you have an expertise in fitness and and"
+    },
+    {
+      "start_time": "00:13:08,880",
+      "end_time": "00:13:13,279",
+      "text": "and you know strength gaining so should"
+    },
+    {
+      "start_time": "00:13:11,200",
+      "end_time": "00:13:14,880",
+      "text": "you be able to convince the characters"
+    },
+    {
+      "start_time": "00:13:13,279",
+      "end_time": "00:13:16,560",
+      "text": "to do things that are stronger related"
+    },
+    {
+      "start_time": "00:13:14,880",
+      "end_time": "00:13:18,639",
+      "text": "or strength related because you have the"
+    },
+    {
+      "start_time": "00:13:16,560",
+      "end_time": "00:13:20,959",
+      "text": "knowledge of how to you know like how"
+    },
+    {
+      "start_time": "00:13:18,639",
+      "end_time": "00:13:22,959",
+      "text": "one may argue how come one's wisdom can"
+    },
+    {
+      "start_time": "00:13:20,959",
+      "end_time": "00:13:24,639",
+      "text": "bleed into the game and one's charisma"
+    },
+    {
+      "start_time": "00:13:22,959",
+      "end_time": "00:13:25,839",
+      "text": "perhaps completed well that's my my"
+    },
+    {
+      "start_time": "00:13:24,639",
+      "end_time": "00:13:27,440",
+      "text": "thing about how deep are you role"
+    },
+    {
+      "start_time": "00:13:25,839",
+      "end_time": "00:13:29,040",
+      "text": "playing"
+    },
+    {
+      "start_time": "00:13:27,440",
+      "end_time": "00:13:30,000",
+      "text": "but anyway that's off topic i would"
+    },
+    {
+      "start_time": "00:13:29,040",
+      "end_time": "00:13:32,240",
+      "text": "argue"
+    },
+    {
+      "start_time": "00:13:30,000",
+      "end_time": "00:13:34,000",
+      "text": "uh is it more likely for me to know"
+    },
+    {
+      "start_time": "00:13:32,240",
+      "end_time": "00:13:35,760",
+      "text": "everything about a monster in this game"
+    },
+    {
+      "start_time": "00:13:34,000",
+      "end_time": "00:13:37,200",
+      "text": "or is it more likely for my character to"
+    },
+    {
+      "start_time": "00:13:35,760",
+      "end_time": "00:13:38,639",
+      "text": "know everything about very common"
+    },
+    {
+      "start_time": "00:13:37,200",
+      "end_time": "00:13:40,000",
+      "text": "monsters that an adventurer will"
+    },
+    {
+      "start_time": "00:13:38,639",
+      "end_time": "00:13:41,920",
+      "text": "encounter actually"
+    },
+    {
+      "start_time": "00:13:40,000",
+      "end_time": "00:13:44,320",
+      "text": "i agree with that"
+    },
+    {
+      "start_time": "00:13:41,920",
+      "end_time": "00:13:45,920",
+      "text": "which actually is more intuitive"
+    },
+    {
+      "start_time": "00:13:44,320",
+      "end_time": "00:13:48,320",
+      "text": "checks out all right"
+    },
+    {
+      "start_time": "00:13:45,920",
+      "end_time": "00:13:49,839",
+      "text": "so again that's sort of our first uh"
+    },
+    {
+      "start_time": "00:13:48,320",
+      "end_time": "00:13:51,600",
+      "text": "tips for spell casters but that is going"
+    },
+    {
+      "start_time": "00:13:49,839",
+      "end_time": "00:13:53,120",
+      "text": "to be make sure that you have a wide"
+    },
+    {
+      "start_time": "00:13:51,600",
+      "end_time": "00:13:55,360",
+      "text": "variety of spells that target different"
+    },
+    {
+      "start_time": "00:13:53,120",
+      "end_time": "00:13:56,959",
+      "text": "saving throws and that you either know"
+    },
+    {
+      "start_time": "00:13:55,360",
+      "end_time": "00:13:58,639",
+      "text": "or use recall knowledge to identify"
+    },
+    {
+      "start_time": "00:13:56,959",
+      "end_time": "00:13:59,839",
+      "text": "which are those weak saves so that you"
+    },
+    {
+      "start_time": "00:13:58,639",
+      "end_time": "00:14:02,079",
+      "text": "can make sure that you can target those"
+    },
+    {
+      "start_time": "00:13:59,839",
+      "end_time": "00:14:04,320",
+      "text": "with the appropriate spell our second"
+    },
+    {
+      "start_time": "00:14:02,079",
+      "end_time": "00:14:05,600",
+      "text": "tip today is sort of"
+    },
+    {
+      "start_time": "00:14:04,320",
+      "end_time": "00:14:07,920",
+      "text": "going from"
+    },
+    {
+      "start_time": "00:14:05,600",
+      "end_time": "00:14:10,160",
+      "text": "talking about flanking from our first"
+    },
+    {
+      "start_time": "00:14:07,920",
+      "end_time": "00:14:11,920",
+      "text": "tip and start sort of expanding the"
+    },
+    {
+      "start_time": "00:14:10,160",
+      "end_time": "00:14:14,079",
+      "text": "scope of the game and that's going to be"
+    },
+    {
+      "start_time": "00:14:11,920",
+      "end_time": "00:14:16,880",
+      "text": "talking about bonus types"
+    },
+    {
+      "start_time": "00:14:14,079",
+      "end_time": "00:14:20,320",
+      "text": "so what is a bonus type well uh a bonus"
+    },
+    {
+      "start_time": "00:14:16,880",
+      "end_time": "00:14:22,399",
+      "text": "type is a type of penalty or bonus"
+    },
+    {
+      "start_time": "00:14:20,320",
+      "end_time": "00:14:23,600",
+      "text": "uh that you can have on your character"
+    },
+    {
+      "start_time": "00:14:22,399",
+      "end_time": "00:14:26,800",
+      "text": "at one time"
+    },
+    {
+      "start_time": "00:14:23,600",
+      "end_time": "00:14:28,959",
+      "text": "in the game there are three types of"
+    },
+    {
+      "start_time": "00:14:26,800",
+      "end_time": "00:14:31,279",
+      "text": "bonuses or penalties there are item"
+    },
+    {
+      "start_time": "00:14:28,959",
+      "end_time": "00:14:33,360",
+      "text": "bonuses and item penalties which are"
+    },
+    {
+      "start_time": "00:14:31,279",
+      "end_time": "00:14:36,079",
+      "text": "typically given to you from no big"
+    },
+    {
+      "start_time": "00:14:33,360",
+      "end_time": "00:14:37,680",
+      "text": "surprise here items an item"
+    },
+    {
+      "start_time": "00:14:36,079",
+      "end_time": "00:14:38,800",
+      "text": "and as such they tend to be something"
+    },
+    {
+      "start_time": "00:14:37,680",
+      "end_time": "00:14:40,560",
+      "text": "that's pretty permanent to your"
+    },
+    {
+      "start_time": "00:14:38,800",
+      "end_time": "00:14:42,480",
+      "text": "character your character's magic weapon"
+    },
+    {
+      "start_time": "00:14:40,560",
+      "end_time": "00:14:44,480",
+      "text": "their magic armor these are things that"
+    },
+    {
+      "start_time": "00:14:42,480",
+      "end_time": "00:14:46,000",
+      "text": "give your character an item bonus"
+    },
+    {
+      "start_time": "00:14:44,480",
+      "end_time": "00:14:48,079",
+      "text": "i would even go further by the way to"
+    },
+    {
+      "start_time": "00:14:46,000",
+      "end_time": "00:14:49,519",
+      "text": "say that an item penalty is probably"
+    },
+    {
+      "start_time": "00:14:48,079",
+      "end_time": "00:14:52,000",
+      "text": "about one of the rarest things in the"
+    },
+    {
+      "start_time": "00:14:49,519",
+      "end_time": "00:14:54,720",
+      "text": "game and you're very very very rarely"
+    },
+    {
+      "start_time": "00:14:52,000",
+      "end_time": "00:14:58,000",
+      "text": "ever going to be able to apply an item"
+    },
+    {
+      "start_time": "00:14:54,720",
+      "end_time": "00:14:59,839",
+      "text": "penalty to your foe it'd be like i have"
+    },
+    {
+      "start_time": "00:14:58,000",
+      "end_time": "00:15:03,120",
+      "text": "this cursed armor and i'm going to i"
+    },
+    {
+      "start_time": "00:14:59,839",
+      "end_time": "00:15:04,880",
+      "text": "don't know force it on to me to wear it"
+    },
+    {
+      "start_time": "00:15:03,120",
+      "end_time": "00:15:07,680",
+      "text": "the other two types of bonuses are"
+    },
+    {
+      "start_time": "00:15:04,880",
+      "end_time": "00:15:10,399",
+      "text": "circumstance and status circumstance"
+    },
+    {
+      "start_time": "00:15:07,680",
+      "end_time": "00:15:11,839",
+      "text": "bonuses usually result as a result of"
+    },
+    {
+      "start_time": "00:15:10,399",
+      "end_time": "00:15:14,240",
+      "text": "the circumstance that you find your"
+    },
+    {
+      "start_time": "00:15:11,839",
+      "end_time": "00:15:16,639",
+      "text": "character in so for example being"
+    },
+    {
+      "start_time": "00:15:14,240",
+      "end_time": "00:15:18,560",
+      "text": "flat-footed gives your enemy a -2"
+    },
+    {
+      "start_time": "00:15:16,639",
+      "end_time": "00:15:20,480",
+      "text": "circumstance penalty to their armor"
+    },
+    {
+      "start_time": "00:15:18,560",
+      "end_time": "00:15:21,600",
+      "text": "class there are also certain feats or"
+    },
+    {
+      "start_time": "00:15:20,480",
+      "end_time": "00:15:24,320",
+      "text": "special abilities that can give a"
+    },
+    {
+      "start_time": "00:15:21,600",
+      "end_time": "00:15:25,839",
+      "text": "circumstance bonus for example aid which"
+    },
+    {
+      "start_time": "00:15:24,320",
+      "end_time": "00:15:28,399",
+      "text": "we've talked about in the past video"
+    },
+    {
+      "start_time": "00:15:25,839",
+      "end_time": "00:15:30,240",
+      "text": "grantee circumstance bonus to a"
+    },
+    {
+      "start_time": "00:15:28,399",
+      "end_time": "00:15:31,920",
+      "text": "character's attack role because your"
+    },
+    {
+      "start_time": "00:15:30,240",
+      "end_time": "00:15:34,800",
+      "text": "buddy is helping you out and that's the"
+    },
+    {
+      "start_time": "00:15:31,920",
+      "end_time": "00:15:36,560",
+      "text": "circumstance the status bonus typically"
+    },
+    {
+      "start_time": "00:15:34,800",
+      "end_time": "00:15:38,399",
+      "text": "comes from spells"
+    },
+    {
+      "start_time": "00:15:36,560",
+      "end_time": "00:15:41,279",
+      "text": "status bonus comes from spells like"
+    },
+    {
+      "start_time": "00:15:38,399",
+      "end_time": "00:15:43,839",
+      "text": "heroism bless or the bards inspire"
+    },
+    {
+      "start_time": "00:15:41,279",
+      "end_time": "00:15:46,800",
+      "text": "courage can trip whereas"
+    },
+    {
+      "start_time": "00:15:43,839",
+      "end_time": "00:15:49,440",
+      "text": "circumstance or status penalties come"
+    },
+    {
+      "start_time": "00:15:46,800",
+      "end_time": "00:15:51,519",
+      "text": "from conditions like sickened or"
+    },
+    {
+      "start_time": "00:15:49,440",
+      "end_time": "00:15:53,040",
+      "text": "frightened and typically are"
+    },
+    {
+      "start_time": "00:15:51,519",
+      "end_time": "00:15:55,680",
+      "text": "you know created through using"
+    },
+    {
+      "start_time": "00:15:53,040",
+      "end_time": "00:15:59,040",
+      "text": "demoralize as a skill or using a spell"
+    },
+    {
+      "start_time": "00:15:55,680",
+      "end_time": "00:16:00,480",
+      "text": "like fear or a spell like um stinking"
+    },
+    {
+      "start_time": "00:15:59,040",
+      "end_time": "00:16:03,120",
+      "text": "cloud which can affect you with second"
+    },
+    {
+      "start_time": "00:16:00,480",
+      "end_time": "00:16:04,959",
+      "text": "condition now what does all this mean"
+    },
+    {
+      "start_time": "00:16:03,120",
+      "end_time": "00:16:07,839",
+      "text": "what it means is"
+    },
+    {
+      "start_time": "00:16:04,959",
+      "end_time": "00:16:09,440",
+      "text": "you cannot create a bonus"
+    },
+    {
+      "start_time": "00:16:07,839",
+      "end_time": "00:16:11,279",
+      "text": "that is going to"
+    },
+    {
+      "start_time": "00:16:09,440",
+      "end_time": "00:16:12,639",
+      "text": "stack with the same bonus of the same"
+    },
+    {
+      "start_time": "00:16:11,279",
+      "end_time": "00:16:14,880",
+      "text": "type so"
+    },
+    {
+      "start_time": "00:16:12,639",
+      "end_time": "00:16:16,880",
+      "text": "i can get a plus one status bonus to my"
+    },
+    {
+      "start_time": "00:16:14,880",
+      "end_time": "00:16:18,399",
+      "text": "character's attack role but if i get"
+    },
+    {
+      "start_time": "00:16:16,880",
+      "end_time": "00:16:19,920",
+      "text": "another plus one status bonus to my"
+    },
+    {
+      "start_time": "00:16:18,399",
+      "end_time": "00:16:21,920",
+      "text": "character's attack rule if they don't"
+    },
+    {
+      "start_time": "00:16:19,920",
+      "end_time": "00:16:24,160",
+      "text": "add up you can only have one status"
+    },
+    {
+      "start_time": "00:16:21,920",
+      "end_time": "00:16:25,920",
+      "text": "bonus you get the highest one but you"
+    },
+    {
+      "start_time": "00:16:24,160",
+      "end_time": "00:16:28,320",
+      "text": "only get one"
+    },
+    {
+      "start_time": "00:16:25,920",
+      "end_time": "00:16:30,240",
+      "text": "so what that means is in order to"
+    },
+    {
+      "start_time": "00:16:28,320",
+      "end_time": "00:16:32,079",
+      "text": "maximize your character's chances"
+    },
+    {
+      "start_time": "00:16:30,240",
+      "end_time": "00:16:33,519",
+      "text": "whether it's landing an attack roll or"
+    },
+    {
+      "start_time": "00:16:32,079",
+      "end_time": "00:16:35,920",
+      "text": "landing a spell"
+    },
+    {
+      "start_time": "00:16:33,519",
+      "end_time": "00:16:37,920",
+      "text": "you want to put as many bonuses on you"
+    },
+    {
+      "start_time": "00:16:35,920",
+      "end_time": "00:16:38,800",
+      "text": "and your party as possible and put as"
+    },
+    {
+      "start_time": "00:16:37,920",
+      "end_time": "00:16:40,240",
+      "text": "many"
+    },
+    {
+      "start_time": "00:16:38,800",
+      "end_time": "00:16:42,959",
+      "text": "penalties"
+    },
+    {
+      "start_time": "00:16:40,240",
+      "end_time": "00:16:46,320",
+      "text": "onto the enemy as possible but again the"
+    },
+    {
+      "start_time": "00:16:42,959",
+      "end_time": "00:16:48,839",
+      "text": "enemy's penalties don't stack either"
+    },
+    {
+      "start_time": "00:16:46,320",
+      "end_time": "00:16:51,040",
+      "text": "so the best example of this is"
+    },
+    {
+      "start_time": "00:16:48,839",
+      "end_time": "00:16:53,920",
+      "text": "flanking we've discussed this before"
+    },
+    {
+      "start_time": "00:16:51,040",
+      "end_time": "00:16:56,240",
+      "text": "that when two characters flank an enemy"
+    },
+    {
+      "start_time": "00:16:53,920",
+      "end_time": "00:16:59,120",
+      "text": "that enemy is flat-footed to those"
+    },
+    {
+      "start_time": "00:16:56,240",
+      "end_time": "00:17:01,279",
+      "text": "characters that means they get a -2"
+    },
+    {
+      "start_time": "00:16:59,120",
+      "end_time": "00:17:04,160",
+      "text": "circumstance penalty"
+    },
+    {
+      "start_time": "00:17:01,279",
+      "end_time": "00:17:06,559",
+      "text": "to its armor class which is great to"
+    },
+    {
+      "start_time": "00:17:04,160",
+      "end_time": "00:17:08,480",
+      "text": "those characters correct now you could"
+    },
+    {
+      "start_time": "00:17:06,559",
+      "end_time": "00:17:11,120",
+      "text": "trip that monster and that monster would"
+    },
+    {
+      "start_time": "00:17:08,480",
+      "end_time": "00:17:13,439",
+      "text": "become prone and now the creature is on"
+    },
+    {
+      "start_time": "00:17:11,120",
+      "end_time": "00:17:16,160",
+      "text": "the ground prone and it gets"
+    },
+    {
+      "start_time": "00:17:13,439",
+      "end_time": "00:17:19,120",
+      "text": "flat-footed which makes it a minus-two"
+    },
+    {
+      "start_time": "00:17:16,160",
+      "end_time": "00:17:20,160",
+      "text": "circumstance penalty to its armor class"
+    },
+    {
+      "start_time": "00:17:19,120",
+      "end_time": "00:17:21,280",
+      "text": "but it already has a minus two"
+    },
+    {
+      "start_time": "00:17:20,160",
+      "end_time": "00:17:23,919",
+      "text": "circumstance penalty to its number"
+    },
+    {
+      "start_time": "00:17:21,280",
+      "end_time": "00:17:25,439",
+      "text": "that's because of being flanked so for"
+    },
+    {
+      "start_time": "00:17:23,919",
+      "end_time": "00:17:27,039",
+      "text": "you the characters that are in that"
+    },
+    {
+      "start_time": "00:17:25,439",
+      "end_time": "00:17:29,039",
+      "text": "combat it doesn't really make much of a"
+    },
+    {
+      "start_time": "00:17:27,039",
+      "end_time": "00:17:30,640",
+      "text": "difference but then if he's flat if he's"
+    },
+    {
+      "start_time": "00:17:29,039",
+      "end_time": "00:17:33,039",
+      "text": "down the ground it's he's flat-footed to"
+    },
+    {
+      "start_time": "00:17:30,640",
+      "end_time": "00:17:34,960",
+      "text": "everyone that's the bonus no that is"
+    },
+    {
+      "start_time": "00:17:33,039",
+      "end_time": "00:17:36,160",
+      "text": "true that is true a flank and this was a"
+    },
+    {
+      "start_time": "00:17:34,960",
+      "end_time": "00:17:38,080",
+      "text": "something that someone brought up in a"
+    },
+    {
+      "start_time": "00:17:36,160",
+      "end_time": "00:17:40,000",
+      "text": "comment when you are flanking a creature"
+    },
+    {
+      "start_time": "00:17:38,080",
+      "end_time": "00:17:42,720",
+      "text": "it is flat-footed only to the"
+    },
+    {
+      "start_time": "00:17:40,000",
+      "end_time": "00:17:44,960",
+      "text": "individuals who are flanking it um"
+    },
+    {
+      "start_time": "00:17:42,720",
+      "end_time": "00:17:46,720",
+      "text": "whereas if creature is prone it is"
+    },
+    {
+      "start_time": "00:17:44,960",
+      "end_time": "00:17:49,120",
+      "text": "flat-footed to everyone but in that"
+    },
+    {
+      "start_time": "00:17:46,720",
+      "end_time": "00:17:51,280",
+      "text": "particular situation that circumstance"
+    },
+    {
+      "start_time": "00:17:49,120",
+      "end_time": "00:17:53,039",
+      "text": "penalty is already in effect so giving a"
+    },
+    {
+      "start_time": "00:17:51,280",
+      "end_time": "00:17:54,799",
+      "text": "creature another circumstance penalty"
+    },
+    {
+      "start_time": "00:17:53,039",
+      "end_time": "00:17:56,799",
+      "text": "doesn't really hurt it that much in fact"
+    },
+    {
+      "start_time": "00:17:54,799",
+      "end_time": "00:17:58,320",
+      "text": "doesn't hurt at all what you need to do"
+    },
+    {
+      "start_time": "00:17:56,799",
+      "end_time": "00:18:00,799",
+      "text": "at that point is figure out a way to"
+    },
+    {
+      "start_time": "00:17:58,320",
+      "end_time": "00:18:03,039",
+      "text": "give it a status penalty"
+    },
+    {
+      "start_time": "00:18:00,799",
+      "end_time": "00:18:04,799",
+      "text": "and the easiest and most common way to"
+    },
+    {
+      "start_time": "00:18:03,039",
+      "end_time": "00:18:06,720",
+      "text": "do this in the game is through the"
+    },
+    {
+      "start_time": "00:18:04,799",
+      "end_time": "00:18:09,440",
+      "text": "frightened condition the frightened"
+    },
+    {
+      "start_time": "00:18:06,720",
+      "end_time": "00:18:11,679",
+      "text": "condition applies a minus x status"
+    },
+    {
+      "start_time": "00:18:09,440",
+      "end_time": "00:18:13,840",
+      "text": "penalty to a monster where x is equal to"
+    },
+    {
+      "start_time": "00:18:11,679",
+      "end_time": "00:18:15,360",
+      "text": "the level of its frightened status and"
+    },
+    {
+      "start_time": "00:18:13,840",
+      "end_time": "00:18:17,120",
+      "text": "the easiest way to do that is with the"
+    },
+    {
+      "start_time": "00:18:15,360",
+      "end_time": "00:18:18,640",
+      "text": "demoralize"
+    },
+    {
+      "start_time": "00:18:17,120",
+      "end_time": "00:18:20,559",
+      "text": "that's a skill that you can use in"
+    },
+    {
+      "start_time": "00:18:18,640",
+      "end_time": "00:18:22,080",
+      "text": "combat part of intimidate does not have"
+    },
+    {
+      "start_time": "00:18:20,559",
+      "end_time": "00:18:24,320",
+      "text": "the attack tag so multiple attack"
+    },
+    {
+      "start_time": "00:18:22,080",
+      "end_time": "00:18:26,960",
+      "text": "penalty doesn't do it and it's a great"
+    },
+    {
+      "start_time": "00:18:24,320",
+      "end_time": "00:18:28,880",
+      "text": "thing to do with your third action"
+    },
+    {
+      "start_time": "00:18:26,960",
+      "end_time": "00:18:31,039",
+      "text": "but my recommendation is that you do it"
+    },
+    {
+      "start_time": "00:18:28,880",
+      "end_time": "00:18:32,480",
+      "text": "first uh i've done this mistake a bunch"
+    },
+    {
+      "start_time": "00:18:31,039",
+      "end_time": "00:18:35,760",
+      "text": "of times where i will have a creature or"
+    },
+    {
+      "start_time": "00:18:32,480",
+      "end_time": "00:18:38,160",
+      "text": "a monster attack or move and then attack"
+    },
+    {
+      "start_time": "00:18:35,760",
+      "end_time": "00:18:39,840",
+      "text": "the one of my players and then i'll"
+    },
+    {
+      "start_time": "00:18:38,160",
+      "end_time": "00:18:40,960",
+      "text": "demoralize it and which gives it a"
+    },
+    {
+      "start_time": "00:18:39,840",
+      "end_time": "00:18:42,640",
+      "text": "penalty"
+    },
+    {
+      "start_time": "00:18:40,960",
+      "end_time": "00:18:43,840",
+      "text": "you do it the other opposite order right"
+    },
+    {
+      "start_time": "00:18:42,640",
+      "end_time": "00:18:45,120",
+      "text": "so that way they have the penalty to"
+    },
+    {
+      "start_time": "00:18:43,840",
+      "end_time": "00:18:46,480",
+      "text": "attack when you're an armored class when"
+    },
+    {
+      "start_time": "00:18:45,120",
+      "end_time": "00:18:48,000",
+      "text": "you're attacking them there's also"
+    },
+    {
+      "start_time": "00:18:46,480",
+      "end_time": "00:18:49,440",
+      "text": "something very important to think about"
+    },
+    {
+      "start_time": "00:18:48,000",
+      "end_time": "00:18:51,360",
+      "text": "when you're dealing with uh the"
+    },
+    {
+      "start_time": "00:18:49,440",
+      "end_time": "00:18:53,360",
+      "text": "frightened condition is that"
+    },
+    {
+      "start_time": "00:18:51,360",
+      "end_time": "00:18:54,799",
+      "text": "you shouldn't do it right before the"
+    },
+    {
+      "start_time": "00:18:53,360",
+      "end_time": "00:18:56,400",
+      "text": "monsters turn that you're frightening"
+    },
+    {
+      "start_time": "00:18:54,799",
+      "end_time": "00:18:58,480",
+      "text": "because the frightened condition reduces"
+    },
+    {
+      "start_time": "00:18:56,400",
+      "end_time": "00:19:00,240",
+      "text": "at the end of their turn so you're not"
+    },
+    {
+      "start_time": "00:18:58,480",
+      "end_time": "00:19:01,760",
+      "text": "actually helping your party out at all"
+    },
+    {
+      "start_time": "00:19:00,240",
+      "end_time": "00:19:03,919",
+      "text": "if the last thing you do on your turn is"
+    },
+    {
+      "start_time": "00:19:01,760",
+      "end_time": "00:19:06,240",
+      "text": "frighten the enemy who goes next"
+    },
+    {
+      "start_time": "00:19:03,919",
+      "end_time": "00:19:07,360",
+      "text": "yeah so all that's to say the reason"
+    },
+    {
+      "start_time": "00:19:06,240",
+      "end_time": "00:19:08,640",
+      "text": "though that we're trying to get these"
+    },
+    {
+      "start_time": "00:19:07,360",
+      "end_time": "00:19:11,200",
+      "text": "penalties"
+    },
+    {
+      "start_time": "00:19:08,640",
+      "end_time": "00:19:12,000",
+      "text": "so that i can get that ac down a little"
+    },
+    {
+      "start_time": "00:19:11,200",
+      "end_time": "00:19:14,320",
+      "text": "bit"
+    },
+    {
+      "start_time": "00:19:12,000",
+      "end_time": "00:19:16,960",
+      "text": "right yeah you i want"
+    },
+    {
+      "start_time": "00:19:14,320",
+      "end_time": "00:19:18,960",
+      "text": "to crit correct i want to hit that one"
+    },
+    {
+      "start_time": "00:19:16,960",
+      "end_time": "00:19:19,840",
+      "text": "attack the best that i can do and the"
+    },
+    {
+      "start_time": "00:19:18,960",
+      "end_time": "00:19:22,720",
+      "text": "more"
+    },
+    {
+      "start_time": "00:19:19,840",
+      "end_time": "00:19:24,480",
+      "text": "bonuses or debuffs that you can stack on"
+    },
+    {
+      "start_time": "00:19:22,720",
+      "end_time": "00:19:26,880",
+      "text": "that enemy which i've learned throughout"
+    },
+    {
+      "start_time": "00:19:24,480",
+      "end_time": "00:19:28,480",
+      "text": "this that it is incredible to do"
+    },
+    {
+      "start_time": "00:19:26,880",
+      "end_time": "00:19:30,640",
+      "text": "the easier and the more percentageable"
+    },
+    {
+      "start_time": "00:19:28,480",
+      "end_time": "00:19:31,760",
+      "text": "chance that i can to crit which i think"
+    },
+    {
+      "start_time": "00:19:30,640",
+      "end_time": "00:19:34,000",
+      "text": "is the way anything but anyway but it"
+    },
+    {
+      "start_time": "00:19:31,760",
+      "end_time": "00:19:35,760",
+      "text": "also doesn't just affect your chances of"
+    },
+    {
+      "start_time": "00:19:34,000",
+      "end_time": "00:19:37,760",
+      "text": "creating it also affects the monster's"
+    },
+    {
+      "start_time": "00:19:35,760",
+      "end_time": "00:19:40,000",
+      "text": "chances of doing stuff to the rest of"
+    },
+    {
+      "start_time": "00:19:37,760",
+      "end_time": "00:19:41,840",
+      "text": "the party as well correct so the"
+    },
+    {
+      "start_time": "00:19:40,000",
+      "end_time": "00:19:44,080",
+      "text": "penalties don't just apply when you are"
+    },
+    {
+      "start_time": "00:19:41,840",
+      "end_time": "00:19:45,840",
+      "text": "doing something towards the enemy it"
+    },
+    {
+      "start_time": "00:19:44,080",
+      "end_time": "00:19:47,520",
+      "text": "also applies as well to when the enemy"
+    },
+    {
+      "start_time": "00:19:45,840",
+      "end_time": "00:19:50,799",
+      "text": "wants to do something towards you yep"
+    },
+    {
+      "start_time": "00:19:47,520",
+      "end_time": "00:19:53,120",
+      "text": "right now that is i'm one i'm one-minded"
+    },
+    {
+      "start_time": "00:19:50,799",
+      "end_time": "00:19:54,640",
+      "text": "yeah can i hit him harder that's usually"
+    },
+    {
+      "start_time": "00:19:53,120",
+      "end_time": "00:19:56,960",
+      "text": "how i go and then there's you know and"
+    },
+    {
+      "start_time": "00:19:54,640",
+      "end_time": "00:19:58,559",
+      "text": "again there are spells um"
+    },
+    {
+      "start_time": "00:19:56,960",
+      "end_time": "00:19:59,760",
+      "text": "you know we there's obviously spells"
+    },
+    {
+      "start_time": "00:19:58,559",
+      "end_time": "00:20:01,520",
+      "text": "like fear which apply the frightened"
+    },
+    {
+      "start_time": "00:19:59,760",
+      "end_time": "00:20:04,320",
+      "text": "condition but tim uh you know there's"
+    },
+    {
+      "start_time": "00:20:01,520",
+      "end_time": "00:20:07,039",
+      "text": "there's there's feats that can"
+    },
+    {
+      "start_time": "00:20:04,320",
+      "end_time": "00:20:07,039",
+      "text": "there's i know"
+    },
+    {
+      "start_time": "00:20:09,039",
+      "end_time": "00:20:11,760",
+      "text": "just like we were talking about with the"
+    },
+    {
+      "start_time": "00:20:10,000",
+      "end_time": "00:20:14,640",
+      "text": "spell casters they need to have ways to"
+    },
+    {
+      "start_time": "00:20:11,760",
+      "end_time": "00:20:17,600",
+      "text": "affect fort ref and will your character"
+    },
+    {
+      "start_time": "00:20:14,640",
+      "end_time": "00:20:19,840",
+      "text": "should have ways to buff your party with"
+    },
+    {
+      "start_time": "00:20:17,600",
+      "end_time": "00:20:22,320",
+      "text": "circumstance bonuses and with status"
+    },
+    {
+      "start_time": "00:20:19,840",
+      "end_time": "00:20:24,000",
+      "text": "bonuses and with item bonuses and you"
+    },
+    {
+      "start_time": "00:20:22,320",
+      "end_time": "00:20:26,480",
+      "text": "should have ways to affect the enemy"
+    },
+    {
+      "start_time": "00:20:24,000",
+      "end_time": "00:20:29,120",
+      "text": "with circumstance penalties and status"
+    },
+    {
+      "start_time": "00:20:26,480",
+      "end_time": "00:20:30,880",
+      "text": "penalties and sometimes it's spells but"
+    },
+    {
+      "start_time": "00:20:29,120",
+      "end_time": "00:20:32,240",
+      "text": "sometimes it's also like a skill feed"
+    },
+    {
+      "start_time": "00:20:30,880",
+      "end_time": "00:20:33,840",
+      "text": "that's right you got to pay attention to"
+    },
+    {
+      "start_time": "00:20:32,240",
+      "end_time": "00:20:36,720",
+      "text": "the skill feats don't overlook them it's"
+    },
+    {
+      "start_time": "00:20:33,840",
+      "end_time": "00:20:39,120",
+      "text": "one action it's called bon mat"
+    },
+    {
+      "start_time": "00:20:36,720",
+      "end_time": "00:20:41,360",
+      "text": "and it is probably my you know the most"
+    },
+    {
+      "start_time": "00:20:39,120",
+      "end_time": "00:20:43,039",
+      "text": "entertaining diplomacy based feat i've"
+    },
+    {
+      "start_time": "00:20:41,360",
+      "end_time": "00:20:45,039",
+      "text": "ever seen but you know what it does is"
+    },
+    {
+      "start_time": "00:20:43,039",
+      "end_time": "00:20:47,679",
+      "text": "it lets your character make a"
+    },
+    {
+      "start_time": "00:20:45,039",
+      "end_time": "00:20:50,159",
+      "text": "insulting quip against a foe and it"
+    },
+    {
+      "start_time": "00:20:47,679",
+      "end_time": "00:20:52,240",
+      "text": "gives them a penalty to their will save"
+    },
+    {
+      "start_time": "00:20:50,159",
+      "end_time": "00:20:53,280",
+      "text": "and you know it's a couple other things"
+    },
+    {
+      "start_time": "00:20:52,240",
+      "end_time": "00:20:54,720",
+      "text": "that i you know can't remember the top"
+    },
+    {
+      "start_time": "00:20:53,280",
+      "end_time": "00:20:56,640",
+      "text": "of my head at the moment but you know"
+    },
+    {
+      "start_time": "00:20:54,720",
+      "end_time": "00:20:58,400",
+      "text": "it's it's surprisingly effective and you"
+    },
+    {
+      "start_time": "00:20:56,640",
+      "end_time": "00:21:00,640",
+      "text": "know it's a again it's another great way"
+    },
+    {
+      "start_time": "00:20:58,400",
+      "end_time": "00:21:01,840",
+      "text": "to use one action it doesn't have you"
+    },
+    {
+      "start_time": "00:21:00,640",
+      "end_time": "00:21:04,000",
+      "text": "know anything to do with attacking"
+    },
+    {
+      "start_time": "00:21:01,840",
+      "end_time": "00:21:05,520",
+      "text": "penalties like it's just a fantastic"
+    },
+    {
+      "start_time": "00:21:04,000",
+      "end_time": "00:21:07,440",
+      "text": "option that will debuff the monster"
+    },
+    {
+      "start_time": "00:21:05,520",
+      "end_time": "00:21:09,840",
+      "text": "against your entire party i like that"
+    },
+    {
+      "start_time": "00:21:07,440",
+      "end_time": "00:21:12,000",
+      "text": "the enemy has to insult you back though"
+    },
+    {
+      "start_time": "00:21:09,840",
+      "end_time": "00:21:13,600",
+      "text": "to like get rid of it yeah it's so funny"
+    },
+    {
+      "start_time": "00:21:12,000",
+      "end_time": "00:21:15,840",
+      "text": "yeah they get a funny thing they can"
+    },
+    {
+      "start_time": "00:21:13,600",
+      "end_time": "00:21:17,440",
+      "text": "make a retort yeah so if there's a"
+    },
+    {
+      "start_time": "00:21:15,840",
+      "end_time": "00:21:19,600",
+      "text": "character with low charisma they just"
+    },
+    {
+      "start_time": "00:21:17,440",
+      "end_time": "00:21:21,120",
+      "text": "can't they're stuck correct uh you are"
+    },
+    {
+      "start_time": "00:21:19,600",
+      "end_time": "00:21:22,240",
+      "text": "yeah meanie"
+    },
+    {
+      "start_time": "00:21:21,120",
+      "end_time": "00:21:24,159",
+      "text": "and large does it too right if i'm"
+    },
+    {
+      "start_time": "00:21:22,240",
+      "end_time": "00:21:26,480",
+      "text": "reading this correctly it gives a status"
+    },
+    {
+      "start_time": "00:21:24,159",
+      "end_time": "00:21:28,000",
+      "text": "bonus to melee damage to damage correct"
+    },
+    {
+      "start_time": "00:21:26,480",
+      "end_time": "00:21:29,360",
+      "text": "yeah and that's what you use all the"
+    },
+    {
+      "start_time": "00:21:28,000",
+      "end_time": "00:21:30,880",
+      "text": "time on my character which i think is"
+    },
+    {
+      "start_time": "00:21:29,360",
+      "end_time": "00:21:32,880",
+      "text": "awesome yeah and it's also interesting"
+    },
+    {
+      "start_time": "00:21:30,880",
+      "end_time": "00:21:35,120",
+      "text": "with the uh i got messed up about item"
+    },
+    {
+      "start_time": "00:21:32,880",
+      "end_time": "00:21:37,200",
+      "text": "bonuses for a long time with the druids"
+    },
+    {
+      "start_time": "00:21:35,120",
+      "end_time": "00:21:38,640",
+      "text": "wild shape in this because the wild"
+    },
+    {
+      "start_time": "00:21:37,200",
+      "end_time": "00:21:40,240",
+      "text": "shape ability you know functions like"
+    },
+    {
+      "start_time": "00:21:38,640",
+      "end_time": "00:21:42,559",
+      "text": "polymorph which explicitly states that"
+    },
+    {
+      "start_time": "00:21:40,240",
+      "end_time": "00:21:45,039",
+      "text": "you can't get item bonuses so even if i"
+    },
+    {
+      "start_time": "00:21:42,559",
+      "end_time": "00:21:47,360",
+      "text": "cast magic fang on myself since it gives"
+    },
+    {
+      "start_time": "00:21:45,039",
+      "end_time": "00:21:49,280",
+      "text": "me an item bonus i can't gain that in"
+    },
+    {
+      "start_time": "00:21:47,360",
+      "end_time": "00:21:51,200",
+      "text": "wild shape form now while cheap form's"
+    },
+    {
+      "start_time": "00:21:49,280",
+      "end_time": "00:21:52,480",
+      "text": "balanced around that but yeah and it's"
+    },
+    {
+      "start_time": "00:21:51,200",
+      "end_time": "00:21:53,760",
+      "text": "an interesting thing that's a that's a"
+    },
+    {
+      "start_time": "00:21:52,480",
+      "end_time": "00:21:55,200",
+      "text": "good point too from a combat in texas"
+    },
+    {
+      "start_time": "00:21:53,760",
+      "end_time": "00:21:56,559",
+      "text": "not just for your advantage but also to"
+    },
+    {
+      "start_time": "00:21:55,200",
+      "end_time": "00:21:59,280",
+      "text": "make sure you're playing the game right"
+    },
+    {
+      "start_time": "00:21:56,559",
+      "end_time": "00:22:00,960",
+      "text": "right which is it can be very easy to oh"
+    },
+    {
+      "start_time": "00:21:59,280",
+      "end_time": "00:22:02,559",
+      "text": "i add this and i add this and i add this"
+    },
+    {
+      "start_time": "00:22:00,960",
+      "end_time": "00:22:04,159",
+      "text": "and maybe your gm is doing it or maybe"
+    },
+    {
+      "start_time": "00:22:02,559",
+      "end_time": "00:22:05,919",
+      "text": "your player is doing it and you're"
+    },
+    {
+      "start_time": "00:22:04,159",
+      "end_time": "00:22:07,200",
+      "text": "you're much more powerful than the game"
+    },
+    {
+      "start_time": "00:22:05,919",
+      "end_time": "00:22:09,919",
+      "text": "expected you might be i get a"
+    },
+    {
+      "start_time": "00:22:07,200",
+      "end_time": "00:22:11,760",
+      "text": "circumstance notice of plus 12. i win"
+    },
+    {
+      "start_time": "00:22:09,919",
+      "end_time": "00:22:14,880",
+      "text": "but but to just to really highlight this"
+    },
+    {
+      "start_time": "00:22:11,760",
+      "end_time": "00:22:17,600",
+      "text": "let's let's take an example of where"
+    },
+    {
+      "start_time": "00:22:14,880",
+      "end_time": "00:22:19,760",
+      "text": "you have a foe and that foe has been"
+    },
+    {
+      "start_time": "00:22:17,600",
+      "end_time": "00:22:22,320",
+      "text": "flanked and so it is now flat-footed and"
+    },
+    {
+      "start_time": "00:22:19,760",
+      "end_time": "00:22:24,880",
+      "text": "has a minus two circumstance penalty to"
+    },
+    {
+      "start_time": "00:22:22,320",
+      "end_time": "00:22:26,960",
+      "text": "its armor class and then guild or hits"
+    },
+    {
+      "start_time": "00:22:24,880",
+      "end_time": "00:22:29,360",
+      "text": "it with a fear spell and the creature"
+    },
+    {
+      "start_time": "00:22:26,960",
+      "end_time": "00:22:32,720",
+      "text": "critically fails i'm sorry fails and"
+    },
+    {
+      "start_time": "00:22:29,360",
+      "end_time": "00:22:35,840",
+      "text": "becomes frightened too which is a minus"
+    },
+    {
+      "start_time": "00:22:32,720",
+      "end_time": "00:22:37,919",
+      "text": "two status penalty to uh pretty much"
+    },
+    {
+      "start_time": "00:22:35,840",
+      "end_time": "00:22:39,840",
+      "text": "everything but including its armor class"
+    },
+    {
+      "start_time": "00:22:37,919",
+      "end_time": "00:22:41,280",
+      "text": "so that creature that's a status penalty"
+    },
+    {
+      "start_time": "00:22:39,840",
+      "end_time": "00:22:43,840",
+      "text": "and that's a circumstance penalty so"
+    },
+    {
+      "start_time": "00:22:41,280",
+      "end_time": "00:22:47,039",
+      "text": "those will stack it now has a minus"
+    },
+    {
+      "start_time": "00:22:43,840",
+      "end_time": "00:22:48,559",
+      "text": "four penalty to its armor class but on"
+    },
+    {
+      "start_time": "00:22:47,039",
+      "end_time": "00:22:51,360",
+      "text": "the other side"
+    },
+    {
+      "start_time": "00:22:48,559",
+      "end_time": "00:22:53,200",
+      "text": "maybe uh a friendly cleric in the party"
+    },
+    {
+      "start_time": "00:22:51,360",
+      "end_time": "00:22:56,240",
+      "text": "or another spellcaster"
+    },
+    {
+      "start_time": "00:22:53,200",
+      "end_time": "00:22:59,039",
+      "text": "hits azias with a heroism spell"
+    },
+    {
+      "start_time": "00:22:56,240",
+      "end_time": "00:23:00,640",
+      "text": "that gives him a plus one status bonus"
+    },
+    {
+      "start_time": "00:22:59,039",
+      "end_time": "00:23:03,200",
+      "text": "to his attack roles"
+    },
+    {
+      "start_time": "00:23:00,640",
+      "end_time": "00:23:06,400",
+      "text": "so now the creature has four penalty and"
+    },
+    {
+      "start_time": "00:23:03,200",
+      "end_time": "00:23:09,360",
+      "text": "azis has plus one status bonus to attack"
+    },
+    {
+      "start_time": "00:23:06,400",
+      "end_time": "00:23:12,559",
+      "text": "but then burl aids him"
+    },
+    {
+      "start_time": "00:23:09,360",
+      "end_time": "00:23:14,640",
+      "text": "with a well-timed uh flickering bolt of"
+    },
+    {
+      "start_time": "00:23:12,559",
+      "end_time": "00:23:16,480",
+      "text": "fire which he uses as an eight action"
+    },
+    {
+      "start_time": "00:23:14,640",
+      "end_time": "00:23:18,559",
+      "text": "and he critically succeeds at the eight"
+    },
+    {
+      "start_time": "00:23:16,480",
+      "end_time": "00:23:20,799",
+      "text": "action and grants him a plus two"
+    },
+    {
+      "start_time": "00:23:18,559",
+      "end_time": "00:23:23,360",
+      "text": "circumstance bonus to his next attack"
+    },
+    {
+      "start_time": "00:23:20,799",
+      "end_time": "00:23:26,159",
+      "text": "role that monster now has a minus four"
+    },
+    {
+      "start_time": "00:23:23,360",
+      "end_time": "00:23:28,559",
+      "text": "ac cash someone secret and asias has a"
+    },
+    {
+      "start_time": "00:23:26,159",
+      "end_time": "00:23:31,280",
+      "text": "plus three to his next attack role"
+    },
+    {
+      "start_time": "00:23:28,559",
+      "end_time": "00:23:32,799",
+      "text": "that's a seven point difference in"
+    },
+    {
+      "start_time": "00:23:31,280",
+      "end_time": "00:23:34,640",
+      "text": "addition to everything else that you"
+    },
+    {
+      "start_time": "00:23:32,799",
+      "end_time": "00:23:36,159",
+      "text": "already have yeah correct right and so"
+    },
+    {
+      "start_time": "00:23:34,640",
+      "end_time": "00:23:38,640",
+      "text": "if you would normally have hit that"
+    },
+    {
+      "start_time": "00:23:36,159",
+      "end_time": "00:23:40,720",
+      "text": "creature on a 10"
+    },
+    {
+      "start_time": "00:23:38,640",
+      "end_time": "00:23:41,760",
+      "text": "you now hit that creature on a three"
+    },
+    {
+      "start_time": "00:23:40,720",
+      "end_time": "00:23:43,360",
+      "text": "yeah"
+    },
+    {
+      "start_time": "00:23:41,760",
+      "end_time": "00:23:46,320",
+      "text": "and when we talked before about missing"
+    },
+    {
+      "start_time": "00:23:43,360",
+      "end_time": "00:23:47,600",
+      "text": "sucking you know uh you know i again i"
+    },
+    {
+      "start_time": "00:23:46,320",
+      "end_time": "00:23:50,400",
+      "text": "agree that there's some elements to that"
+    },
+    {
+      "start_time": "00:23:47,600",
+      "end_time": "00:23:52,720",
+      "text": "but pathfinder second edition kind of"
+    },
+    {
+      "start_time": "00:23:50,400",
+      "end_time": "00:23:54,640",
+      "text": "helps you do that which it means avoid"
+    },
+    {
+      "start_time": "00:23:52,720",
+      "end_time": "00:23:56,640",
+      "text": "missing because if you play smart and"
+    },
+    {
+      "start_time": "00:23:54,640",
+      "end_time": "00:23:58,400",
+      "text": "you make those decisions you could take"
+    },
+    {
+      "start_time": "00:23:56,640",
+      "end_time": "00:24:00,400",
+      "text": "something which is a coin flip yeah i"
+    },
+    {
+      "start_time": "00:23:58,400",
+      "end_time": "00:24:01,919",
+      "text": "need a 10 or better on a d20"
+    },
+    {
+      "start_time": "00:24:00,400",
+      "end_time": "00:24:03,760",
+      "text": "oh i got this bonus i got this bonus i"
+    },
+    {
+      "start_time": "00:24:01,919",
+      "end_time": "00:24:06,159",
+      "text": "need a three you're effectively stacking"
+    },
+    {
+      "start_time": "00:24:03,760",
+      "end_time": "00:24:07,279",
+      "text": "the deck absolutely and then it you know"
+    },
+    {
+      "start_time": "00:24:06,159",
+      "end_time": "00:24:08,880",
+      "text": "you start to look at your second or"
+    },
+    {
+      "start_time": "00:24:07,279",
+      "end_time": "00:24:10,240",
+      "text": "third attack even with the penalties"
+    },
+    {
+      "start_time": "00:24:08,880",
+      "end_time": "00:24:12,000",
+      "text": "that's correct when you get that much of"
+    },
+    {
+      "start_time": "00:24:10,240",
+      "end_time": "00:24:13,760",
+      "text": "an advantage like yeah minus five turns"
+    },
+    {
+      "start_time": "00:24:12,000",
+      "end_time": "00:24:15,840",
+      "text": "into minus one yeah that's all of a"
+    },
+    {
+      "start_time": "00:24:13,760",
+      "end_time": "00:24:17,279",
+      "text": "sudden your third attack is just as good"
+    },
+    {
+      "start_time": "00:24:15,840",
+      "end_time": "00:24:19,760",
+      "text": "as your first attack would have been"
+    },
+    {
+      "start_time": "00:24:17,279",
+      "end_time": "00:24:21,200",
+      "text": "correct so sure so"
+    },
+    {
+      "start_time": "00:24:19,760",
+      "end_time": "00:24:22,640",
+      "text": "stacking up those bonuses can be"
+    },
+    {
+      "start_time": "00:24:21,200",
+      "end_time": "00:24:24,320",
+      "text": "absolutely huge and so when you're"
+    },
+    {
+      "start_time": "00:24:22,640",
+      "end_time": "00:24:26,240",
+      "text": "building your character and when you're"
+    },
+    {
+      "start_time": "00:24:24,320",
+      "end_time": "00:24:28,720",
+      "text": "playing in the combat you want to look"
+    },
+    {
+      "start_time": "00:24:26,240",
+      "end_time": "00:24:30,559",
+      "text": "for opportunities to gain the bonuses of"
+    },
+    {
+      "start_time": "00:24:28,720",
+      "end_time": "00:24:32,559",
+      "text": "different types and to apply the"
+    },
+    {
+      "start_time": "00:24:30,559",
+      "end_time": "00:24:34,559",
+      "text": "penalties to your mon the enemies or"
+    },
+    {
+      "start_time": "00:24:32,559",
+      "end_time": "00:24:36,320",
+      "text": "monsters of different types don't"
+    },
+    {
+      "start_time": "00:24:34,559",
+      "end_time": "00:24:38,320",
+      "text": "undervalue things like flurry of"
+    },
+    {
+      "start_time": "00:24:36,320",
+      "end_time": "00:24:40,799",
+      "text": "maneuvers for the monk and instead of"
+    },
+    {
+      "start_time": "00:24:38,320",
+      "end_time": "00:24:42,559",
+      "text": "flurry of blows trip and grapple"
+    },
+    {
+      "start_time": "00:24:40,799",
+      "end_time": "00:24:43,440",
+      "text": "mm-hmm mm-hmm yeah i was like wolf"
+    },
+    {
+      "start_time": "00:24:42,559",
+      "end_time": "00:24:45,360",
+      "text": "dragon"
+    },
+    {
+      "start_time": "00:24:43,440",
+      "end_time": "00:24:48,159",
+      "text": "when i played a monk uh there's the very"
+    },
+    {
+      "start_time": "00:24:45,360",
+      "end_time": "00:24:49,440",
+      "text": "first class i thought it was silly and"
+    },
+    {
+      "start_time": "00:24:48,159",
+      "end_time": "00:24:50,640",
+      "text": "looking back on and i'm like you know"
+    },
+    {
+      "start_time": "00:24:49,440",
+      "end_time": "00:24:52,159",
+      "text": "that's probably one of the most powerful"
+    },
+    {
+      "start_time": "00:24:50,640",
+      "end_time": "00:24:53,760",
+      "text": "things that you could do yeah and and"
+    },
+    {
+      "start_time": "00:24:52,159",
+      "end_time": "00:24:55,679",
+      "text": "tim's kind of giving you a sneak preview"
+    },
+    {
+      "start_time": "00:24:53,760",
+      "end_time": "00:24:58,159",
+      "text": "for our next video where we are going to"
+    },
+    {
+      "start_time": "00:24:55,679",
+      "end_time": "00:25:00,799",
+      "text": "cover grapple trip"
+    },
+    {
+      "start_time": "00:24:58,159",
+      "end_time": "00:25:03,120",
+      "text": "shove um all of that disarm all of the"
+    },
+    {
+      "start_time": "00:25:00,799",
+      "end_time": "00:25:05,039",
+      "text": "sort of combat athletic actions that you"
+    },
+    {
+      "start_time": "00:25:03,120",
+      "end_time": "00:25:07,520",
+      "text": "can take as sort of a way to use those"
+    },
+    {
+      "start_time": "00:25:05,039",
+      "end_time": "00:25:09,279",
+      "text": "to maximum benefit so stay tuned yeah"
+    },
+    {
+      "start_time": "00:25:07,520",
+      "end_time": "00:25:11,039",
+      "text": "definitely stay tuned for more so we"
+    },
+    {
+      "start_time": "00:25:09,279",
+      "end_time": "00:25:12,720",
+      "text": "hope you're enjoying this uh series here"
+    },
+    {
+      "start_time": "00:25:11,039",
+      "end_time": "00:25:14,400",
+      "text": "of combat and tactics we hope to come up"
+    },
+    {
+      "start_time": "00:25:12,720",
+      "end_time": "00:25:16,640",
+      "text": "with one of these uh at least a couple"
+    },
+    {
+      "start_time": "00:25:14,400",
+      "end_time": "00:25:18,960",
+      "text": "times a month and again leave comments"
+    },
+    {
+      "start_time": "00:25:16,640",
+      "end_time": "00:25:20,240",
+      "text": "below um about some of your ideas uh"
+    },
+    {
+      "start_time": "00:25:18,960",
+      "end_time": "00:25:22,320",
+      "text": "again we heard a request for a"
+    },
+    {
+      "start_time": "00:25:20,240",
+      "end_time": "00:25:24,320",
+      "text": "spellcaster tip so we gave a spellcaster"
+    },
+    {
+      "start_time": "00:25:22,320",
+      "end_time": "00:25:25,919",
+      "text": "tip so we're we're listening and and of"
+    },
+    {
+      "start_time": "00:25:24,320",
+      "end_time": "00:25:27,919",
+      "text": "course uh if you want to continue this"
+    },
+    {
+      "start_time": "00:25:25,919",
+      "end_time": "00:25:30,080",
+      "text": "conversation with us real time please"
+    },
+    {
+      "start_time": "00:25:27,919",
+      "end_time": "00:25:31,679",
+      "text": "join our patreon we have a discord we"
+    },
+    {
+      "start_time": "00:25:30,080",
+      "end_time": "00:25:33,360",
+      "text": "have some exclusive patreon features"
+    },
+    {
+      "start_time": "00:25:31,679",
+      "end_time": "00:25:36,480",
+      "text": "that we have for our members and we"
+    },
+    {
+      "start_time": "00:25:33,360",
+      "end_time": "00:25:39,039",
+      "text": "really appreciate all the support"
+    },
+    {
+      "start_time": "00:25:36,480",
+      "end_time": "00:25:40,880",
+      "text": "all right any final thoughts or words"
+    },
+    {
+      "start_time": "00:25:39,039",
+      "end_time": "00:25:44,000",
+      "text": "for uh for our combat and tactics"
+    },
+    {
+      "start_time": "00:25:40,880",
+      "end_time": "00:25:46,720",
+      "text": "audience no as a barbarian just anything"
+    },
+    {
+      "start_time": "00:25:44,000",
+      "end_time": "00:25:48,960",
+      "text": "i can do to get that penalty lower my"
+    },
+    {
+      "start_time": "00:25:46,720",
+      "end_time": "00:25:50,559",
+      "text": "bonus up including not come down is it's"
+    },
+    {
+      "start_time": "00:25:48,960",
+      "end_time": "00:25:51,919",
+      "text": "good in my book"
+    },
+    {
+      "start_time": "00:25:50,559",
+      "end_time": "00:25:52,799",
+      "text": "awesome"
+    },
+    {
+      "start_time": "00:25:51,919",
+      "end_time": "00:25:54,559",
+      "text": "well"
+    },
+    {
+      "start_time": "00:25:52,799",
+      "end_time": "00:25:56,000",
+      "text": "for the nights of last call my name is"
+    },
+    {
+      "start_time": "00:25:54,559",
+      "end_time": "00:25:58,960",
+      "text": "derrick melendez saying thank you so"
+    },
+    {
+      "start_time": "00:25:56,000",
+      "end_time": "00:26:01,960",
+      "text": "much and welcome to the nights of last"
+    },
+    {
+      "start_time": "00:25:58,960",
+      "end_time": "00:26:01,960",
+      "text": "call"
+    },
+    {
+      "start_time": "00:26:11,660",
+      "end_time": "00:26:20,559",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:26:18,480",
+      "end_time": "00:26:20,559",
+      "text": "you"
+    }
+  ],
+  "full_text": "this week on the nightlife more\npathfinder second edition combat and\ntactics tips and tricks for your next\nbattle\nwelcome back to knights of last call i'm\nyour game master derek melenda and i'm\nhere today with the rest of the knights\nto talk about more combat and tactics\nfor your pathfinder 2nd edition game\nlast time we covered three basic tips\naround movement and how you can use\nthose movement actions in order to give\nyour team advantages in combat as well\nas to deny your opponent actions so this\nweek we're going to focus on three more\ntips that'll help improve your game\nnow tim\nuh we were just talking here before the\nthe cameras rolled about uh\nhow you know the the role of actions as\nit relates to a spell caster and you\nmentioned that most spells cost take two\nactions that's right so do you feel like\nas a spellcaster that using your actions\nis harder or easier than it would be for\nlet's say a more martially inclined\ncharacter um i i think a lot of the\ntimes it's a lot easier to get through\nmy actions uh you know there's a lot of\nturns i think you know we've joked about\nit in the discord before and you know\njust how hey tim stern's like 10 seconds\ncause he's like uh haste on azius\nshoot narrow go right and it's so yeah\nsometimes you know i've made myself to\nhave that\nstrike option as an extra option you\nknow there's a lot of times you have to\nmove so and i think there's a lot of\ngood one option one action options out\nthere like focus spells shield\nall great things\nuh yeah\nnow and matt you were nodding your head\nso you also agree yeah for for as a\nsorcerer you know the first two actions\nare always going to be cast a spell and\nthere's that that that one leftover\naction and maybe it is move maybe it's\ncommand lucky maybe it's do a can trip\nto cause something but it's it's for me\nit's always the big spell and then\nwhat's the other thing that's going to\nhappen right so you're really just\nthinking about two things yeah um what's\nthe big thing what's the secondary or\nsupplementary thing right now bob uh you\nknow that's a spellcaster right so bob\nlast time when we talked about combat\nand tactics we talked a little bit about\ndefensive movement\nand you know your character a barbarian\nactually has really fast movement yes so\nfast movement so let me ask you this\nquestion where do you think the line\nshould be drawn between right you're a\nbarbarian you're in combat you're raging\nshould your character be defensively\nmoving\nor if he's raging yeah probably not yeah\nhe probably should be like\nberserker yeah and i think that's an\nimportant point right which is we're\ngoing to talk about these combat and\ntactics we're kind of talking about the\ngame like it's a kind of like a board\ngame or a video game but that's what\nmakes role playing games really cool and\nunique and if you've seen any of our\nother videos about role-playing you'll\nknow that it's not always about making\nthe optimal choice\nright it's about making of the fun\nchoice well to be fair i don't\ndefensively move because i just don't do\nthat\nthat's not in my nature right well i\nprobably should be i mean if you want to\nbe a better player you should probably i\ndon't know\ni'm learning from these tips like you're\nlearning from these tips but you know\nkeep in mind that philosophy\nalso does not mean that you have to go\nget your character killed very true\nbecause he's like i'm gonna charge to\nthe caster past those eight melee guys\nit's like you slow down you don't have\nto do that right like all you have to do\nis\nyou know you can still play tactically\nif you want yeah you're not forced to be\nreckless every time just because your\ncharacter has the rage ability\nnow nick uh your character kind of the\nopposite problem you're a little slow\ni'm very slow yeah you're playing the\ntank you're a human in in full plate\nbasically right yep so i don't move very\nfast at all even with my fleet uh right\nand you and you took the fleet feet i\ntook the fleet feet and it's still i'm\nslow yeah so a lot of times you're\nmoving twice sometimes right to make one\nattack um and so you know i think\none of the things that uh you know could\nbe frustrating is you know and if you\nwatched our last uh action uh\nactual play you know there was a moment\nthere was a turn where you didn't make\nan attack because it was more important\nthat you stayed close to your allies\ncorrect and so positioning sometimes\nmeans not making an attack right and\nthat's the thing about the paladin\nthough too is that i have a lot of\nreactions so i may not use my actions to\nmaybe attack but i may have to move to\nbe better possessed uh positioned with\nmy spell casters to help protect them\nwith my reactions\nand then that's where i help save some\ndamage from them and i also am able to\nthen potentially even strike back at the\nenemies right\nso\ntoday we're going to cover three more\ntips as we sort of kind of keep going\ndeeper and deeper into the pathfinder\nsecond edition onion um so one of the\nfirst things we kind of focused on melee\nwe talked about flanking and we we\ntalked about moving around to avoid\nattacks but spellcasters are a big part\nof the game too we got a couple of\ncomments thank you so much from people\nasking for some spellcaster tips and\ntricks and so today i thought we would\nstart off here with tip number four\nwhich is\nidentify and learn your foes weak saves\nand their strong saves there are three\nsave types in pathfinder fortitude\nreflex and will uh and those kind of\nrepresent three different capabilities\nof a monster to avoid an attack from a\nspell caster and the fact is if you go\nthrough the books if you go through the\nmath uh most monsters have one save that\nthey are particularly good at and they\nhave one saved that they kind of stink\nat\nand it could be a huge difference it can\nbe sometimes as many as\nthree four or even six points depending\non the monster that's a huge difference\nthat could be the difference between a\nmonster passing a save on a 14 plus\nversus an eight plus\nit's a really really big difference to\nsay nothing of critical fails and things\nlike that and critical successes and so\none of the keys as a spellcaster is you\nneed to make sure you know what those\nsaves are as a game master\nnothing is more painful for me than when\ni see a you know caster because you know\nspells spells are limited\nand it takes two actions and a\nspellcaster's getting really excited\nright because they're about to\ncast the the you know the fortitude\nspells you know that they're really\nexcited cast on this monster and i'm\nsitting here looking and seeing this\ncreature has an unbelievable fortitude\nsave and it's pretty much gonna uh\ndefinitely pass\nand so you need to either use your\nintuition right and this is where we i\ntalk about like monsters hopefully uh by\nlooking at them listening to the\ndescription seeing the way that they\nplay i need to learn more like oh that's\na big guy right if i tell you right if i\nshow you there's a there's a big hulking\ngiant you the intuition should be this\ncreature probably has a good fort safe\nyeah if they take up more than one\nsquare yeah you'll notice over the next\nfew aps most of gildor's spells are\nmind-affecting\nbecause i knew we were fighting a lot of\nbig dumb\ngiants we do not have strong will saves\nso that's good that's right that's how\nyou prepare yeah and and tim got it\nexactly right which is if you know\nyou're going to be you know part of this\ngame is not just tactical it's called\ncombat and tactics but some of it is\nstrategic if you know you're going to be\nfighting certain types of monsters you\nneed to prepare certain types of spells\nat the same time\nit's a good idea as a spell caster to\nhave a variety of spell types memorized\neach day this is not as much of an\noption when you're lower level uh but as\nyou get into third fourth fifth sixth\nlevel and you start picking up multiple\nlevels of spells if you're a sorcerer\nyou have a variety of spells try not to\nmake them all target the same save\nbecause then if you come up across a\ncreature which for example if tim took\nall of these will saves but then you\nfight something that's mindless\nand cannot be even affected by will\nsaves well that kind of leaves them\nup the creek without a paddle right\nwhich is why does not have entirely\nmind-affecting things but just a lot of\nthem\nand so you can use your intuition if\nit's a nimble\npanther-like creature yeah it's probably\ngot a good will or comprising reflex\nreflexes if it's a hulking big brute\nprobably a good fortitude to save it's a\nkeen-minded wizard or cleric probably\nprobably a good will save so you can use\nyour intuition but if you don't have\nyour intuition or you can't tell\nuse recall knowledge and this is what we\ni i need to do better because whenever i\nrecall knowledge of people watching ap\nmy nose i'm like\nuh i wanna know is ac\nright i wanna know is uh hit points\nright or or his attack i'm like as if\nthat somehow mattered and\nback again i'm going to do this but i'm\ni'm getting better now i'm\nas i'm realizing stuff like i'm going to\nhit i'm a melee character what do i care\nwhat his ac is i'm going to hit her or\nmiss why do i care where this hp is i\nshould be helping you guys i should be\nhelping the team inform more about\nimmunities resistances\nand of course his saves right he's huge\nyeah and matt you got exactly right\nright which is what difference does it\nmake right yeah you're gonna attack no\nmatter what like oh his ac was 24 well i\nguess i won't attack i'll just sit down\nyeah\nyeah you're still gonna go in now i\nguess i'll use all my other options yeah\nnow i know what i need to roll but i\nstill need to roll that in order\nyeah it's not going to change your\nactions correct right you're still going\nto make your attack with your axe you're\nstill you're still going to make your\nattack with your sword you're still\ngoing to make your attack with your\nhammer and you're going against armor\nclass you don't have a choice right\nwhereas\nextraordinarily relevant especially it's\none action to do the recall knowledge so\nif i can learn as a spell caster on your\nturn absolutely or if i have to do it on\nmy own turn but on your turn i learn i\nlearned that they're you know they're\nweak to fortitude right or have fire\nresistance or something like that you're\nlike that's another thing that i think\nis uh why it's very easy to use my third\nactions as a spellcaster recall\nknowledge i cast a spell you know puff a\nparty member or something and then i'm\nlike yeah i don't know much about that\nthing recall knowledge let's see if i\ncan learn something now can you say\nsomething specific like\nderek i'd like to know if this monster\nwhat what are the three there you know a\nlot of the recall knowledge skill uh\nability in the core rulebook is kind of\nopen to interpretation you know it can\nbe a very specific question some gm's\nlike myself play it pretty broadly and\ngive a lot of information with a recall\nknowledge check uh usually like divided\ninto sort of offensive defensive and\nmiscellaneous other types of abilities\num and i like to give because again uh\nyou know a theme you'll see with me is i\nlike my players have information i like\nfor my players to be making informed\nchoices i think that increases the fun\nof the game and it avoids sort of gotcha\nmoments\num because you know and i bob you you\nmade a really great point we're talking\nabout saves and\nidentifying which ones are weak and\nstrong so that you can target the weak\none and avoid the spells that have the\nsave one but immunities and resistances\nare are like basically like having an\ninfinite safe\nso if you know that a creature is immune\nto uh\nlet's say fire\nwell that's going to save your\nspellcasters a lot of heartache when\nthey don't use a fire spell against it\nnow is that better at\nat lower levels though the resistances\nare pretty minor if i'm not mistaken\nright or i mean it all scales i mean\nlike i i i don't know how much about\nthis year i think they're probably less\ncommon on maybe level monsters like boss\nyou know boss types but no i mean it\ndefinitely i mean because with lower\nlevels you tend to fight more generic\nhumanoids and generic humanoids your\nyour orc\nyour goblin they don't have anything\nspecial yeah then we start to run into\ntrolls and stuff and i'm like yeah but\nwhatever elements\nfigure that out yeah you're probably\ngoing to be immune to fire because\nthey're a fire element right sorry they\nmight even heal off of it right\ndepending on what game you're playing\nyeah and so that's where that intuitive\nsense can come in right and then also\ntoo there could be certain things like\nonce you fought a demon or a devil or\nfey and you learn oh okay all demons\nhave this resistance and all demons have\nthis weakness then the next time you\nfight a demon even if it's a different\ntype of demon you could say oh i\nremember from the last time that they\nare strong again you recalled your\nknowledge\nyeah but you without taking the action\nyeah without any action and to the point\nabout you using a recall knowledge tim\non your turn as a spellcaster keep in\nmind that if you get to like cast a\nspell and then maybe move or do\nsomething else so if you have to use\nyour recall knowledge it's kind of a big\nta ask for you because you kind of\nbasically only get two actions on your\nturn one of them is just a big action to\ncast spell but you know for a melee\ncharacter it's like oh i'm going to move\nand attack i kind of do have this third\naction that's just laying around and\nthat's where recall now yeah instead of\ninstead of making a third a third attack\nat a minus 10 or whatever yeah and make\nno mistake i thought i was so cool using\nmy third action to recall knowledge but\nthen i was asking for ac i'm like i\nthink i lost being cool there real quick\nyeah\nto be clear um you know uh if you are\ngood at the game and you have this\nplayer skill that you know you know what\nthe monster's weaknesses too i think\nthat's okay i think that that's like\nit's like hey i didn't have to use an\naction as a group we didn't have to use\nan action because i the player at the\ntable said hey remember these guys are\nweak to electricity use your lightning\nbolts that's awesome and it's like wow\ni'm glad i'm playing with tim and tim\nknows that and brought that just depends\non how deep you guys are into the role\nplaying yeah but i think that is a lot\nmore fun yeah but that that also just\nkind of\nyou know if you're playing a character\nthis is role-playing right so\nif you've experienced those in the past\noh then it's for sure that's what i mean\nso it's absolutely but you've\nexperienced that tim's knowledge of rpgs\nis so much higher than mine he knows\nwhat ghoul does before i know what it is\nthat's where it gets weird because bob\nyou have an expertise in fitness and and\nand you know strength gaining so should\nyou be able to convince the characters\nto do things that are stronger related\nor strength related because you have the\nknowledge of how to you know like how\none may argue how come one's wisdom can\nbleed into the game and one's charisma\nperhaps completed well that's my my\nthing about how deep are you role\nplaying\nbut anyway that's off topic i would\nargue\nuh is it more likely for me to know\neverything about a monster in this game\nor is it more likely for my character to\nknow everything about very common\nmonsters that an adventurer will\nencounter actually\ni agree with that\nwhich actually is more intuitive\nchecks out all right\nso again that's sort of our first uh\ntips for spell casters but that is going\nto be make sure that you have a wide\nvariety of spells that target different\nsaving throws and that you either know\nor use recall knowledge to identify\nwhich are those weak saves so that you\ncan make sure that you can target those\nwith the appropriate spell our second\ntip today is sort of\ngoing from\ntalking about flanking from our first\ntip and start sort of expanding the\nscope of the game and that's going to be\ntalking about bonus types\nso what is a bonus type well uh a bonus\ntype is a type of penalty or bonus\nuh that you can have on your character\nat one time\nin the game there are three types of\nbonuses or penalties there are item\nbonuses and item penalties which are\ntypically given to you from no big\nsurprise here items an item\nand as such they tend to be something\nthat's pretty permanent to your\ncharacter your character's magic weapon\ntheir magic armor these are things that\ngive your character an item bonus\ni would even go further by the way to\nsay that an item penalty is probably\nabout one of the rarest things in the\ngame and you're very very very rarely\never going to be able to apply an item\npenalty to your foe it'd be like i have\nthis cursed armor and i'm going to i\ndon't know force it on to me to wear it\nthe other two types of bonuses are\ncircumstance and status circumstance\nbonuses usually result as a result of\nthe circumstance that you find your\ncharacter in so for example being\nflat-footed gives your enemy a -2\ncircumstance penalty to their armor\nclass there are also certain feats or\nspecial abilities that can give a\ncircumstance bonus for example aid which\nwe've talked about in the past video\ngrantee circumstance bonus to a\ncharacter's attack role because your\nbuddy is helping you out and that's the\ncircumstance the status bonus typically\ncomes from spells\nstatus bonus comes from spells like\nheroism bless or the bards inspire\ncourage can trip whereas\ncircumstance or status penalties come\nfrom conditions like sickened or\nfrightened and typically are\nyou know created through using\ndemoralize as a skill or using a spell\nlike fear or a spell like um stinking\ncloud which can affect you with second\ncondition now what does all this mean\nwhat it means is\nyou cannot create a bonus\nthat is going to\nstack with the same bonus of the same\ntype so\ni can get a plus one status bonus to my\ncharacter's attack role but if i get\nanother plus one status bonus to my\ncharacter's attack rule if they don't\nadd up you can only have one status\nbonus you get the highest one but you\nonly get one\nso what that means is in order to\nmaximize your character's chances\nwhether it's landing an attack roll or\nlanding a spell\nyou want to put as many bonuses on you\nand your party as possible and put as\nmany\npenalties\nonto the enemy as possible but again the\nenemy's penalties don't stack either\nso the best example of this is\nflanking we've discussed this before\nthat when two characters flank an enemy\nthat enemy is flat-footed to those\ncharacters that means they get a -2\ncircumstance penalty\nto its armor class which is great to\nthose characters correct now you could\ntrip that monster and that monster would\nbecome prone and now the creature is on\nthe ground prone and it gets\nflat-footed which makes it a minus-two\ncircumstance penalty to its armor class\nbut it already has a minus two\ncircumstance penalty to its number\nthat's because of being flanked so for\nyou the characters that are in that\ncombat it doesn't really make much of a\ndifference but then if he's flat if he's\ndown the ground it's he's flat-footed to\neveryone that's the bonus no that is\ntrue that is true a flank and this was a\nsomething that someone brought up in a\ncomment when you are flanking a creature\nit is flat-footed only to the\nindividuals who are flanking it um\nwhereas if creature is prone it is\nflat-footed to everyone but in that\nparticular situation that circumstance\npenalty is already in effect so giving a\ncreature another circumstance penalty\ndoesn't really hurt it that much in fact\ndoesn't hurt at all what you need to do\nat that point is figure out a way to\ngive it a status penalty\nand the easiest and most common way to\ndo this in the game is through the\nfrightened condition the frightened\ncondition applies a minus x status\npenalty to a monster where x is equal to\nthe level of its frightened status and\nthe easiest way to do that is with the\ndemoralize\nthat's a skill that you can use in\ncombat part of intimidate does not have\nthe attack tag so multiple attack\npenalty doesn't do it and it's a great\nthing to do with your third action\nbut my recommendation is that you do it\nfirst uh i've done this mistake a bunch\nof times where i will have a creature or\na monster attack or move and then attack\nthe one of my players and then i'll\ndemoralize it and which gives it a\npenalty\nyou do it the other opposite order right\nso that way they have the penalty to\nattack when you're an armored class when\nyou're attacking them there's also\nsomething very important to think about\nwhen you're dealing with uh the\nfrightened condition is that\nyou shouldn't do it right before the\nmonsters turn that you're frightening\nbecause the frightened condition reduces\nat the end of their turn so you're not\nactually helping your party out at all\nif the last thing you do on your turn is\nfrighten the enemy who goes next\nyeah so all that's to say the reason\nthough that we're trying to get these\npenalties\nso that i can get that ac down a little\nbit\nright yeah you i want\nto crit correct i want to hit that one\nattack the best that i can do and the\nmore\nbonuses or debuffs that you can stack on\nthat enemy which i've learned throughout\nthis that it is incredible to do\nthe easier and the more percentageable\nchance that i can to crit which i think\nis the way anything but anyway but it\nalso doesn't just affect your chances of\ncreating it also affects the monster's\nchances of doing stuff to the rest of\nthe party as well correct so the\npenalties don't just apply when you are\ndoing something towards the enemy it\nalso applies as well to when the enemy\nwants to do something towards you yep\nright now that is i'm one i'm one-minded\nyeah can i hit him harder that's usually\nhow i go and then there's you know and\nagain there are spells um\nyou know we there's obviously spells\nlike fear which apply the frightened\ncondition but tim uh you know there's\nthere's there's feats that can\nthere's i know\njust like we were talking about with the\nspell casters they need to have ways to\naffect fort ref and will your character\nshould have ways to buff your party with\ncircumstance bonuses and with status\nbonuses and with item bonuses and you\nshould have ways to affect the enemy\nwith circumstance penalties and status\npenalties and sometimes it's spells but\nsometimes it's also like a skill feed\nthat's right you got to pay attention to\nthe skill feats don't overlook them it's\none action it's called bon mat\nand it is probably my you know the most\nentertaining diplomacy based feat i've\never seen but you know what it does is\nit lets your character make a\ninsulting quip against a foe and it\ngives them a penalty to their will save\nand you know it's a couple other things\nthat i you know can't remember the top\nof my head at the moment but you know\nit's it's surprisingly effective and you\nknow it's a again it's another great way\nto use one action it doesn't have you\nknow anything to do with attacking\npenalties like it's just a fantastic\noption that will debuff the monster\nagainst your entire party i like that\nthe enemy has to insult you back though\nto like get rid of it yeah it's so funny\nyeah they get a funny thing they can\nmake a retort yeah so if there's a\ncharacter with low charisma they just\ncan't they're stuck correct uh you are\nyeah meanie\nand large does it too right if i'm\nreading this correctly it gives a status\nbonus to melee damage to damage correct\nyeah and that's what you use all the\ntime on my character which i think is\nawesome yeah and it's also interesting\nwith the uh i got messed up about item\nbonuses for a long time with the druids\nwild shape in this because the wild\nshape ability you know functions like\npolymorph which explicitly states that\nyou can't get item bonuses so even if i\ncast magic fang on myself since it gives\nme an item bonus i can't gain that in\nwild shape form now while cheap form's\nbalanced around that but yeah and it's\nan interesting thing that's a that's a\ngood point too from a combat in texas\nnot just for your advantage but also to\nmake sure you're playing the game right\nright which is it can be very easy to oh\ni add this and i add this and i add this\nand maybe your gm is doing it or maybe\nyour player is doing it and you're\nyou're much more powerful than the game\nexpected you might be i get a\ncircumstance notice of plus 12. i win\nbut but to just to really highlight this\nlet's let's take an example of where\nyou have a foe and that foe has been\nflanked and so it is now flat-footed and\nhas a minus two circumstance penalty to\nits armor class and then guild or hits\nit with a fear spell and the creature\ncritically fails i'm sorry fails and\nbecomes frightened too which is a minus\ntwo status penalty to uh pretty much\neverything but including its armor class\nso that creature that's a status penalty\nand that's a circumstance penalty so\nthose will stack it now has a minus\nfour penalty to its armor class but on\nthe other side\nmaybe uh a friendly cleric in the party\nor another spellcaster\nhits azias with a heroism spell\nthat gives him a plus one status bonus\nto his attack roles\nso now the creature has four penalty and\nazis has plus one status bonus to attack\nbut then burl aids him\nwith a well-timed uh flickering bolt of\nfire which he uses as an eight action\nand he critically succeeds at the eight\naction and grants him a plus two\ncircumstance bonus to his next attack\nrole that monster now has a minus four\nac cash someone secret and asias has a\nplus three to his next attack role\nthat's a seven point difference in\naddition to everything else that you\nalready have yeah correct right and so\nif you would normally have hit that\ncreature on a 10\nyou now hit that creature on a three\nyeah\nand when we talked before about missing\nsucking you know uh you know i again i\nagree that there's some elements to that\nbut pathfinder second edition kind of\nhelps you do that which it means avoid\nmissing because if you play smart and\nyou make those decisions you could take\nsomething which is a coin flip yeah i\nneed a 10 or better on a d20\noh i got this bonus i got this bonus i\nneed a three you're effectively stacking\nthe deck absolutely and then it you know\nyou start to look at your second or\nthird attack even with the penalties\nthat's correct when you get that much of\nan advantage like yeah minus five turns\ninto minus one yeah that's all of a\nsudden your third attack is just as good\nas your first attack would have been\ncorrect so sure so\nstacking up those bonuses can be\nabsolutely huge and so when you're\nbuilding your character and when you're\nplaying in the combat you want to look\nfor opportunities to gain the bonuses of\ndifferent types and to apply the\npenalties to your mon the enemies or\nmonsters of different types don't\nundervalue things like flurry of\nmaneuvers for the monk and instead of\nflurry of blows trip and grapple\nmm-hmm mm-hmm yeah i was like wolf\ndragon\nwhen i played a monk uh there's the very\nfirst class i thought it was silly and\nlooking back on and i'm like you know\nthat's probably one of the most powerful\nthings that you could do yeah and and\ntim's kind of giving you a sneak preview\nfor our next video where we are going to\ncover grapple trip\nshove um all of that disarm all of the\nsort of combat athletic actions that you\ncan take as sort of a way to use those\nto maximum benefit so stay tuned yeah\ndefinitely stay tuned for more so we\nhope you're enjoying this uh series here\nof combat and tactics we hope to come up\nwith one of these uh at least a couple\ntimes a month and again leave comments\nbelow um about some of your ideas uh\nagain we heard a request for a\nspellcaster tip so we gave a spellcaster\ntip so we're we're listening and and of\ncourse uh if you want to continue this\nconversation with us real time please\njoin our patreon we have a discord we\nhave some exclusive patreon features\nthat we have for our members and we\nreally appreciate all the support\nall right any final thoughts or words\nfor uh for our combat and tactics\naudience no as a barbarian just anything\ni can do to get that penalty lower my\nbonus up including not come down is it's\ngood in my book\nawesome\nwell\nfor the nights of last call my name is\nderrick melendez saying thank you so\nmuch and welcome to the nights of last\ncall\n[Music]\nyou\n"
+}

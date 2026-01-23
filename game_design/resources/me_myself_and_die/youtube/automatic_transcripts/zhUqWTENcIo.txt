@@ -1,0 +1,1034 @@
+[Music]
+[Applause]
+hey guys welcome back to me myself and i
+am as always your intrepid game master
+host and player trevor deval this is a
+supplementary episode about iron sworn
+the rpg system that i'll be using in the
+upcoming
+very soon upcoming season two of me
+myself and i where we explore the
+adventures of aaron kalipuki as he
+returns
+home to the iron lands to fulfill a vow
+what is the vow i do not know we will
+find out when we go to play but before
+we do that we have this episode where
+we're going to talk a little bit about
+iron sworn
+iron sworn but we're going to do it with
+the creator himself sean tompkin who has
+joined me here today to talk about the
+game system
+which is super cool but also not just
+that he is going to help me stat
+up arne calipocky to transfer him from
+the savage world system to the iron
+sworn
+system so that'll be super cool um if
+you want to skip
+right to the uh uh character building
+for arn
+you can go down to this um time code
+right down here
+uh otherwise uh sit back and enjoy and
+uh yes
+uh welcome back to uh supplemental six i
+believe of me myself and i
+well guys i'm very honored to be sitting
+here with the creator of the iron sworn
+rpg
+sean tompkins sean how are you thanks
+for coming on board
+the little shoe i'm doing well thanks so
+much for having me
+yeah it's my pleasure man uh this is a
+first for me i don't normally do uh
+interviews because it's me myself and i
+it's all about me
+but now there's me and you which is kind
+of cool so obviously we're going to be
+talking about iron sworn today and we're
+going to get to
+uh standing up arne kalupunki uh who is
+of course our main character for
+season two of my show coming up very
+very soon
+but before we get to there i just want
+to talk a little bit um take this chance
+to talk to the creator of the show about
+or of the game rather about the game
+itself
+so first of all um if you had to give
+sort of the elevator pitch to people who
+are unfamiliar with iron sworn
+30 words or less baby what do you got
+how would you describe the game
+uh to someone who's never heard of it at
+all but is a
+a player of traditional role-playing
+games uh 30 words or less please don't
+count me because i'll probably buy it
+like that i think i already have
+uh so it's a table top role-playing game
+uh it's
+a uh fantasy game it's
+relatively gritty sort of low fantasy
+takes the default setting as a rugged
+perilous environment in the far north
+you play
+a character who is iron sworn who sort
+of lives by their vows
+and is driven to complete quests in this
+perilous place
+and that's how the mechanics of the game
+and
+the narrative of the game is driven is
+by
+swearing and then fulfilling those vows
+it's a relatively narrative game so not
+super heavy and mechanically and one of
+its sort of main differentiating
+components is that it supports guided
+play which is sort of traditional play
+of
+gm and players and co-op which is
+a you and one or more players and no gm
+and then solo mode which is probably of
+most interest to you
+which is just you know gm the system
+will help you
+sort of drive the narrative see what
+happens determine the outcome of your
+actions
+etc so did you were you aware of the
+solo rpg world
+when you created this uh when you
+embarked upon
+on the game or was it uh was it more of
+a traditional rpg with a gm
+and stuff and then you sort of uh turned
+it into a more
+cooperative or solo thing no i
+definitely was i think i was most
+familiar with things like the mythic
+engine which you're certainly familiar
+with
+use that a lot i think in your last
+season and some various tools and i
+had played around with a fair number of
+those same tools that you were using in
+in season one actually in my own uh
+gameplay and that was
+that was a foundational thing for
+ironsworn was it wasn't about
+retrofitting it for solo play it was
+about thinking about
+solo and co-op play from the ground up
+and that was just
+sort of the due to the reality of my
+gaming life which tended to be
+uh you know uh me myself and i
+so to speak or playing with my son or my
+wife or something like that so small
+group and solo play
+that's interesting because you know i
+will admit that when i started this show
+uh i had no idea there was a solo rpg
+community at all
+i didn't know that i don't know there
+was such thing as a community of solo
+people it seemed like an oxymoron uh i
+was doing it because i thought it would
+be kind of funny
+not funny well funny too i thought it'd
+be interesting to have just me doing all
+the characters
+and then i do the show and everyone's
+like yeah i've been doing that for years
+oh okay and so it was the community that
+brought
+iron sworn to my attention they were the
+ones who said oh yeah you should check
+this out so i did and of course i fell
+in love with it right away i thought it
+was great now it's interesting
+the rules are kind of based on the the
+powered by the apocalypse
+system largely i mean you've done a few
+modifications on that is uh
+what what made you go with that
+particular rule set
+uh i i was somewhat fascinated by that
+rule set to begin with so i had
+played around with a lot of sort of
+hacking at various permutations of the
+rule set
+like with apocalypse world and dungeon
+world and a few other things
+um i was interested in sort of a gritty
+low fantasy
+game for that system which didn't which
+sort of existed a little bit
+um there's a there's a
+version of that called city of judas
+which was a hack of apocalypse world
+which was
+sort of specifically gritty fantasy and
+that's where iron horn sort of started a
+little bit more of a
+hack of that and just as i was exploring
+those things
+uh something i found was how much the
+moves themselves sort of drove
+narrative and took on the role of a gm
+to some extent right they
+identify the triggers for your actions
+they identify
+what mechanically you need to do to
+determine resolve that action and then
+what the outcome is so all those things
+sort of like
+in terms of like switching hats between
+a player and a gm
+it felt pretty elegant pretty seamless
+um so that was the main driver there
+it's interesting because
+for those of you who are not familiar
+with the powered by the apocalypse rule
+rules basically you take a a static
+number
+you add it to 2d6 and you get like if
+you get 10 or more it's
+you get everything you want if you get
+seven to nine it's you get something but
+there's a complication if you get six or
+less there's a failure but i noticed
+with iron sworn
+yet you added an interesting concept in
+there which is
+there is no static target number
+everything every target number is
+randomly determined by a couple of d10s
+so uh what was the thinking behind that
+because i have a question about that
+actually in terms of how to set
+um task difficulties if you want to
+change up things but
+but now what made you uh do that instead
+of sort of the blog standard powered by
+the apocalypse
+uh there was a few reasons for that one
+was
+um i wanted a little bit more range in
+the math
+with a typical sort of 2d6 plus stat
+there's a fairly a plus one an
+additional plus one will have a fairly
+big impact once you get to like a plus
+three stat you're pretty much
+almost assured to get into that sort of
+success
+strong hit territory most the time um
+and i
+i like for solo play i like a little bit
+of sort of gamey
+sort of like trying to you know
+add some mechanical bonuses to your
+moves to get advantage
+um so i just found that sort of
+stretching that range a little bit more
+mathematically worked a little bit
+better another was the
+the 2d 10s gives me that match mechanic
+for solo play so whenever you see a
+match on those 2d10s
+the narrative is potentially sort of
+given a little bit of a twist whether
+it's positive or negative depending on
+the outcome the move
+uh and then i just it generates a little
+bit more chaos which i find to be a
+little bit more for better or worse
+uh entertaining there's always a little
+bit more
+of uh you know not having confidence in
+what the result is going to be of a
+of a particular move you know no matter
+what you're going in with there's always
+a potential sort of wrench in the works
+which i just find for solo play
+like that uncertainty i think helps sort
+of drive
+interesting fun chaotic narratives yeah
+i got 22 episodes out of it
+out of that idea of i have no idea
+what's going to happen when i saw the
+mechanic i
+i thought that's really cool because i
+i'm just like you i i love
+having no idea what's gonna happen and
+as you say with uh with the standard
+dice roll
+as you say plus one plus two you know
+you start to think okay i got a pretty
+good chance at this but with your
+version of 2d 10 it really throws off
+the curve but here's a question
+what if you're dealing in a situation
+where you have where you want to apply a
+specific
+task difficulty uh that's different so
+for example
+you have a character who is um being
+chased and they come to
+a cliff and they have to scale the cliff
+well in one version of that situation
+um it's a beautiful sunny day the rocks
+are all very dry
+but in the exact same situation now it's
+raining and the rocks are coated in
+slime
+in in iron sworn how do you model the
+difference between those two
+situations and this isn't uh a vowel
+this is just
+a single task uh there's a few things to
+think about and
+one is in terms of framing the action is
+is a die roll even really necessary
+right that may be the distinction
+between
+climbing a cliff if the character is
+assumed to be an adventurer and fairly
+proficient
+in athletic type activities and if the
+you know they may be assured that they
+can sort of get down that without danger
+that they
+there's other things that are presenting
+in greater danger than whether or not
+they can climb down these rocks whereas
+if it's
+you know rainy or they're under intense
+pressure because they're being
+chased or whatever then a die roll
+really is required the other is looking
+at the outcome of moves you sort of wrap
+the difficulty of things into what
+happens if you succeed or fail
+right uh failure
+uh you know something that's more
+dangerous means a more sort of dire
+outcome right you immediately sort of
+switch into more dramatic results
+whereas
+sort of a softer failure on a less
+difficult task might mean something
+might mean sort of you're easing into
+more of those
+dire outcomes so it really is you know
+difficulty gets a little bit more
+wrapped into
+are you how you frame up the move itself
+and then how you frame up the outcome
+rather than what sits in the middle
+there which is sort of the math right
+um so yeah it sort of issues the typical
+sort of like
+difficulty variables and sort of wraps
+that a little bit more into sort of the
+narrative framing of things
+it's going to be a little weird for me
+i'm not going to lie going into iron
+coming from way more traditional i mean
+you've seen the show
+savage world is about as traditional as
+you can get i mean it's very
+oh well you've got a minus two for this
+but a plus one for this and that's gonna
+change
+so um i'm excited for it because it's
+very different
+and it has a lot of potential that uh
+i'm very
+very excited about i'm nervous as as
+hell not gonna lie
+nervous that i'm gonna somehow screw it
+up
+but i'm just going to try and have fun
+so that said is there any advice that
+you had for me
+specific to iron sworn going into this
+campaign uh
+for season two of me myself and died uh
+definitely
+you know roll with those punches in
+terms of your narrative but
+watching your season one i think you're
+great at like
+uh letting things go off the rails and
+running with it
+like from the first episode onwards i
+think don't think things ever really
+went
+necessarily where you thought they were
+going to go uh ironsworn will tend to do
+that to you right it'll tend to
+throw wrenches in the works of your
+narrative
+of your quest it'll tend to introduce
+new quests when you were
+sort of focusing on this particular
+thing um
+so just being happy to sort of like take
+those results
+and uh interpret them and then roll with
+it
+is um pretty important the other is
+don't
+as a solo player there's an interesting
+thing with soul players that they tend
+to be pretty hard on themselves
+which is sort of the opposite of what
+you would think like i've seen this a
+lot in
+in play testing and play reports and um
+just in watching streams and stuff of
+people playing irons horn
+is they'll almost tend to be harder on
+their character than a gm would
+um so in solo play and the way the math
+works
+you really do want to sort of
+go from sort of softer failure into
+harder failure so you
+you don't immediately go to like
+dramatic hard failure the first time you
+roll a miss on a move right
+that's sort of like that's the car sort
+of drifting out of the lane a little bit
+and then from there if things compound
+that's when you sort of
+compound the more dramatic results you
+know hitting the more mechanical results
+of
+harm and spirit loss and things like
+that versus just setting up more
+danger the the advice that
+uh made sense to me when it comes to
+this type of rule set was
+i'm not sure if it was in the book or
+whether it was in a supplement but it
+was it was for uh
+dungeon world where they basically said
+that and this might have been from the
+the actual apocalypse world game too i
+forget but it was this idea that
+um if if the the players roll a seven to
+nine then that's an opportunity for the
+gm to make a soft
+move but a six or a low is a hard move
+so
+just as you say you know um you you want
+to kind of set things up
+for me it's always about and i think i
+did this in my show too with with the
+emulator
+is i always want to keep things rounded
+but i want to i want to create a sense
+of momentum
+and i always want to give my character a
+chance to react to whatever it is that
+just happened
+um you know i'm i was pretty hard on old
+simon of argus down on the show but
+but also he he had a system behind him
+that he could roll on things to see if
+he could get out of it and that
+you know so you know it's the exact same
+here
+with with iron swan it's just a slightly
+different take now here's another thing
+is
+my show is obviously very visual uh and
+i will be using
+miniatures and terrain not for any sort
+of tactical representation but just
+because
+you know i've made all this terrain and
+i want to use it sure
+you know um so it's interesting because
+there is no uh grid
+tactical element in iron sworn the the
+the combat the the the conflicts are all
+completely narrative
+but it's going to be an interesting
+challenge i think for me to to try and
+bridge those two things to show a visual
+representation of
+of something without without the
+narrative getting um straight jacketed
+by
+the visual representation of something
+you know what i mean yeah i mean there's
+something to be said
+you know there's there's sort of two
+ways to look at that one is the visual
+representation obviously for
+your presentation is good for an
+audience two
+is it does you know especially if
+there's a somewhat complicated scene
+like it
+it's helpful sometimes to have sort of
+visual reference points to sort of
+understand what's possible at any one
+moment like
+who's dealing with who um especially if
+you mix
+you know other characters other than
+yourself into
+the scene right if you happen to be
+traveling with someone else or something
+like that
+just to sort of understand the framing
+of the the fight so
+it's less about sort of counting grid
+spaces and more just about sort of
+framing up the actions and who can do
+what and and
+you want to worry less about g is
+is so and so far enough to get over to
+here in one action because
+time was somewhat fluid you can sort of
+zoom in and zoom out in terms of like
+the the time frame that a particular
+action is taking right it might be
+seconds it might be a minute and that's
+all fine a particular
+clash might be several blows a back and
+forth
+right or it may be some particular
+dramatic moment in time that's a
+heartbeat
+so you have control over that you're
+sort of the director of that and you
+could do the same with your
+pieces on the table in terms of how
+you're moving them around which brings
+me to another idea
+um in the first season we had simon be
+joined by a couple of uh other
+characters that were fully stated out
+player characters all of course
+controlled by me that's fairly easy to
+do in savage world but
+what if that happens again here in
+ireland what if arn comes across someone
+that joins his party that isn't
+the companion asset that is is you know
+for
+for narrative reasons a full-fledged you
+know character
+uh how does that work einstein
+definitely does lean on sort of the
+lonely
+protagonist trope right and that's how
+it's sort of like all
+uh framed up for solo play anyway
+there's not a lot of mechanical support
+for what happens if you
+are traveling with a mercenary or guide
+or something like that but what you can
+do is sort of think about
+how you're framing up particular
+challenges in terms of having the
+support of that person for example if
+you get into a fight
+if you're aided by a fellow in that
+fight who isn't stated up they aren't a
+full character
+you can say well i'm going to knock the
+i'm going to knock the challenge of this
+fight down a rank because i've got
+you know so and so with me or if you're
+traveling with an experienced guide
+who knows that area well i'm going to
+knock the challenge of this journey down
+or even ignore the journey moves all
+together because this person is really
+taking the lead here
+right and i can just sort of hand wave
+the journey and see what happens when i
+arrive
+so you sort of bring them into how you
+frame up the difficulty of a challenge
+whether or not you need to make a move
+at all
+um and then you just bring them into
+your
+narrative of what's sort of happening in
+the scene and sort of a
+directorial stance right are they
+dealing with these foes over here
+how's it going you can ask the oracle
+like you can resolve those
+that sort of stuff happening over there
+by asking the oracle
+how do they do so you can sort of give
+them a mechanic of saying that's 50 50
+chance they're doing okay
+or 50 50 chance or in trouble or
+whatever based on
+how you envision that character it's
+sort of like what the old school role
+players would call hand wavium
+you just can't wait pretty much yeah
+and you know you can you can let them be
+complications in your narrative too
+they can get into trouble based on a
+miss on your move it's not
+necessarily a miss is not necessarily
+something that impacts like let's say
+you're in a fight
+you do something you get a miss if
+you're there with a fellow character
+um you can lean on what is happening
+with them as a result of that mess and
+now you got to go deal with that trouble
+it's new
+trouble it's not necessarily a new
+mechanical uh
+you know impact on you right and um
+speaking of trouble and mechanical
+impacts
+why don't we get to uh standing up
+aren't galliponky for ironsworn so
+yeah um this is a big honor to have uh
+your help in doing this here so um here
+is the character sheet that you could
+all see this is the
+standard iron sworn character sheet that
+is of course available uh on the iron
+sworn
+website and there will of course be a
+link below if you guys want to check
+that out and i hardly uh hardly do
+encourage you all to check this game out
+not the least of which because it's free
+which boggles my mind sean
+that's amazing that you release this
+thing for free but uh it i would easily
+have paid
+many many many scores of dollars for
+this thing um
+anyway so here's the character sheet so
+again for those of you who are sort of
+uh
+unfamiliar with iron sworn uh there's
+five basic stats edge heart iron shadow
+and wits here
+uh and then you've got your momentum
+track and then you've got your you know
+health spirit and supply
+again for those of you who are going to
+watch the new season all of this will
+become very very familiar to you very
+quickly as we go into it but for now
+what i want to focus on
+is turning around calipocky from the
+savage world character
+into the um iron sworn character so
+first of all sean you've seen the show
+you're somewhat familiar with who the
+character was
+do you have any immediate thoughts on
+what that might look like
+i think that a good place to start is
+with assets and that's a little bit
+backwards from the
+like the walkthrough of character
+creation in the book but
+the reason to look at assets first is
+that can actually drive
+some of your choices around your stat
+selection depending on sort of what the
+asset is geared toward
+some of the assets are more beneficial
+with a particular stat
+and also i think it just helps like
+gives you a better sort of picture for
+the character in a better
+starting place where stats can be a
+little bit more abstract right assets
+can be a little bit more
+um uh give you a better foundation for
+sort of visualizing
+what the character is good at you
+already have a little bit of sense of
+that based on
+arn he was a bounty hunter uh
+i think he's i think he i think i had a
+good sense that he was a pretty good
+outdoorsman tracker things like that
+right
+uh he obviously had a strong sense of
+honor because a lot of the decisions he
+made
+in your story were based on sort of
+following a path based on
+vows he had made being an honorable
+person you know going against
+previous vows he had made in order you
+know and adjusting just based on what he
+had found
+um he was he was actually maimed like
+he's got a bum leg now which
+we can talk about whether or not that's
+a thing for this character
+um oh i think it's a thing
+he had a phobia of long-haired women but
+that's there's not a there's not obvious
+that's gonna be a little more narrative
+i think
+um uh i think he was
+he was a bowman if i remember correctly
+he was was that a sort of primary combat
+yeah he was
+he was a good shot that we did establish
+that from the first time we met him that
+he was
+yeah so that's all pretty good grist for
+the mill i think um in terms of
+um thinking about him we can sort of
+like go through the asset categories
+maybe
+broadly here the you know a lot of solo
+players love having a companion
+but whether or not you have a companion
+sort of at the start of your story is
+probably going to depend on sort of like
+what has happened between uh the end of
+season one and the beginning of season
+two
+well i don't want to give anything away
+but i do have uh i do have an opening
+uh in mind and he will be alone so he
+will not have okay
+okay great so that probably leaves that
+out
+entirely um and then the paths are kind
+of you know
+somewhat of an open book for us you know
+like i said honor bound might be
+something to consider for him
+just based on sort of his uh archetype
+fortune hunter might represent sort of
+the bounty hunter lifestyle but
+it almost felt a little too bit to me
+like arnold was somewhat
+leaving that behind so may or may not be
+appropriate in this new
+sort of setting and trying to fulfill
+this vow for him in the iron lands
+yeah um right so honor bound when you
+turn the tide and vision how your vows
+give you strength in this moment then
+when you make your move at plus two
+instead of plus one and take
+plus one momentum on a hit and turn the
+tide is when you are trying to you're in
+the middle of a conflict and you
+you sort of grit your teeth and give it
+your all to
+turn things around for you right yep yep
+cool i like that well let's let's call
+that i'm gonna put that down honor bound
+great asset one complete
+um if you do want to pick up a combat
+talent um
+you know i think uh archer's probably
+the obvious one for him
+unless there's something else in sort of
+his backstory or
+sort of combat styles or preferences
+that i i like it
+i mean it gives him when you it says
+here uh when you secure an advantage by
+taking a moment to aim choose your
+approach and add plus one
+um yeah so that's uh yeah i like that
+let's let's add that too so he'll also
+have the archer thing
+um in terms of like his um his
+background and stuff to tell you the
+truth i don't know a lot about it
+in fact his overall major vow i'm not
+even sure what that's going to be
+until he sort of gets to his home once
+again so the way i'm setting up the game
+is basically
+he has an initial thing his initial vow
+is go from his opening
+scene to his village get home that's his
+first thing
+and then once we're there then we're
+going to discover uh
+what his overarching vow is so i'm not
+sure what his background is yet
+that's great so there's a a path called
+battle scarred
+which is potentially interesting for you
+normally that's something you'd pick up
+through the course of your story
+um there's a thing in iron's horn called
+the abilities which are things you
+mark as an outcome a negative outcome
+typically
+things like shaken and
+[Music]
+mained uh this case maimed might be
+relevant for you maimed as a permanent
+thing
+that you would mark through the course
+of play like it's typically you're
+making a pretty hard choice between
+having to face death and mark maine
+but it you know it wouldn't break
+anything if you
+picked up battle scarred right off the
+bat to better
+sort of represent the state of your
+character battle scarred yeah that looks
+good because it reduces
+his edge or iron by one and adds plus
+two to wits or heart or plus one to each
+um now that actually reminds me of
+something else
+um in lodestar the third one right here
+which you were very kind enough to send
+to me
+um it says if you wanted to create a
+slightly more experienced character that
+there was
+options for um changing up his his stat
+line basically
+yeah there's three different stat arrays
+basically and in
+lodestar which is sort of the iron sworn
+reference guide
+um there's a grim
+uh perilous which is the default and
+challenging which is a slightly
+uh elevated stat array which can take
+which is a good option for solo players
+especially because you don't have the
+backstop of other players in terms of
+like
+uh a better spread of abilities as well
+as
+you know to use the term soak like when
+you have more players you have
+more ability to sort of soak negative
+outcomes between everybody right so
+you're just tending to get hit a little
+bit harder so
+so what do you think do you i mean does
+it overpower him if he
+if he takes it's a pretty it's a pretty
+subtle improvement you know to be honest
+just the way math works it just
+it gives you a little bit of an edge but
+i think based on
+um uh having a fairly experienced
+character
+as well as you being a solo player as
+well as
+uh you know doing this for broadcast
+and wanting to you know
+edge into success a little bit more you
+know i think it's a good i think it's a
+good
+option to consider it's funny i'm torn
+on that because i do believe that he is
+an experienced
+you know character now after all that
+he's gone through with simon and edward
+but at the same time i don't want to
+make it too easy for him you know and i
+don't want to ever be accused of oh will
+you meet him so tough of course that's
+bad ever happened to him
+because that's you know i don't want
+that to happen here but i don't have to
+die in the first
+episode the battle scarred asset because
+it
+one of the and the battle scored asked
+that you're gonna pick from among
+if you do take a one you're gonna pick
+from among those three abilities to
+start you notice not one of them's
+marked by default
+right so there are some that that play
+with your stat values as well
+so well let's have a look at that if we
+went if we looked at the
+alternate stat arrays so we've got a
+spread of four
+three three two two so if we start with
+that so we'll assume this is this is
+right before he gets his leg maimed
+so out of these stats what do you think
+his sort of what do you think the four
+would be in would it be
+um heart or shadow because i mean he was
+a bounty hunter and he was sort of a
+sneaky guy but he was also a you know
+honorable fella
+yeah i would i would think heart shadow
+or edge
+uh any of those i think are viable for
+him just based on where he was at edge
+is a little bit more of like the
+precision speed movement firing of the
+bow sort of stat right it's going to be
+a little bit more useful for him than
+iron in a fight iron represents sort of
+toughness and resilience
+you know honestly this guy's you know i
+think
+uh you know can go any sort of direction
+just based on sort of his background but
+part to me feels like i don't know if he
+felt like he always led with heart in
+terms of his
+the choices he made so it seems like a
+pretty strong
+okay well let's make heart the four then
+and then i think edge
+sounds like a three i think shadow
+sounds like a three and then that would
+leave iron and wits to be two and two
+which sounds sounds about right right
+the second ability there on the ballast
+guard actually takes away
+uh mained as a as a debility is
+something you need to track
+but it reduces your overall health so
+your max health gets reduced from
+five to four right i think i i like the
+second one
+um yeah let's let's take the second one
+of battles guard
+yeah i think that's good too because it
+doesn't um especially take if you do
+take that challenging stat array
+it gets slightly wonky with the first
+one in terms of
+uh because you already got a max of plus
+four for
+what you're adjusting so his max health
+will now be four instead of five
+yeah but we ignore the max momentum
+penalty for being maimed so he is still
+technically maimed
+but he does not have the momentum
+penalty for that yeah
+so other than that i mean he's pretty
+much done as a character we've got
+we've got a stat line we've got his uh
+his assets
+we know the effect of those assets the
+battles guard on his
+health track his supply track is you
+know that's all normal everybody starts
+you know max his so his uh momentum
+what's the normal uh momentum for a
+character it starts at um
+plus two is where he'll start so he
+starts at plus two that that's and
+that's his reset
+currently as well right yep because he
+ignores the maximum amount of penalty
+for being named okay great so his news
+that is two is max is
+10 at this point right because there's
+no yep
+nope yeah you can pretty much ignore so
+you'll have
+you'll have battle scarred or maimed
+marked rather but you can ignore that as
+a debility when it comes to sort of
+figuring out your momentum okay that's
+good and then um
+obviously vowels and bonds that's all
+stuff that uh will happen
+uh you know based on the specifics of
+the setting
+yep um which is interesting i wanted to
+point something out because i have a
+particular idea about my version of the
+iron lands
+which is slightly different than yours
+but it's fine we're allowed
+[Laughter]
+what i had in mind was my iron lands are
+going to be kind of like a northern
+viking-ish fantasy australia in that
+this is a place where all of the other
+places in the world
+nations and states and all that stuff
+basically sent their criminal element
+like centuries ago so pretty much like
+australia
+except that then there was this sort of
+weird magical barrier that came up that
+literally removed it from the rest of
+the world and
+there's little holes in that barrier
+that some know that's how iron came
+south in the first place
+but basically nobody leaves unless you
+know how to get around that
+so my iron lands is kind of like a crazy
+hodgepodge of
+of all these different cultures and and
+you know accents
+naturally uh but i think that that's
+sort of an interesting take so when i go
+through the world building steps which i
+will
+using uh uh the stuff you have in your
+book my my opener is gonna be a little
+different because it takes a slightly
+different track but you know that's uh
+that's how we roll i mean that's
+that's totally encouraged that's one of
+the reasons that the setting is somewhat
+sort of sketchily defined
+and even the worlding exercise lets you
+uh you know uh twist that pretty
+significantly to your own preferences so
+yeah that's definitely
+encouraged okay well let's um we we're
+basically finished the character here
+uh which is uh i think all i need to
+know to get started so
+um yeah thanks uh thanks a million for
+this man this is the big help and i uh
+i can't wait to start this thing and i
+hope you enjoy it i
+wait you see how i horribly uh you know
+mangle your game system
+i'm really excited to watch i'm super
+excited and appreciative of you
+uh taking a crack at the system this
+season so thank you yeah well my
+pleasure and uh uh thanks again
+uh and that brings us to the end of our
+episode here guys thanks so much for uh
+checking it out and
+uh we will see you next time on me
+myself and die

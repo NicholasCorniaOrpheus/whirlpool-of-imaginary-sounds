@@ -1,0 +1,87 @@
+[
+	{
+		"xml_element": "ItacAcademyItem",
+		"label": "academy_id",
+		"attribute": "AcademyId",
+		"schema": "identifier"
+	},
+	{
+		"xml_element": "ItacAcademyItem",
+		"label": "record_id",
+		"attribute": "RecordId",
+		"schema": "identifier"
+	},
+	{
+		"xml_element": "Name",
+		"label": "label",
+		"attribute": null,
+		"schema": "name"
+	},
+	{
+		"xml_element": "AlternativeName",
+		"label": "aliases",
+		"attribute": null,
+		"schema": "alternateName"
+	},
+	{
+		"xml_element": "City",
+		"label": "city_id",
+		"attribute": "CityId",
+		"schema": "alternateName"
+	},
+	{
+		"xml_element": "CityItalianName",
+		"label": "italian_name",
+		"attribute": null,
+		"schema": "alternateName"
+	},
+	{
+		"xml_element": "CityEnglishName",
+		"label": "english_name",
+		"attribute": null,
+		"schema": "alternateName"
+	},
+	{
+		"xml_element": "CityLatinName",
+		"label": "latin_name",
+		"attribute": null,
+		"schema": "alternateName"
+	},
+	{
+		"xml_element": "EmblemDescription",
+		"label": "aliases",
+		"attribute": null,
+		"schema": "description"
+	},
+	{
+		"xml_element": "EmblemImage",
+		"label": "image_id",
+		"attribute": "ImageId",
+		"schema": "image",
+		"wikidata": "P18"
+	},
+	{
+		"xml_element": "Motto",
+		"label": "motto",
+		"attribute": null,
+		"schema": "slogan",
+		"wikidata": "P1546"
+	},
+	{
+		"xml_element": "StartDate",
+		"label": "start_time",
+		"attribute": null,
+		"schema": "startDate",
+		"wikidata": "P580"
+	},
+	{
+		"xml_element": "EndDate",
+		"label": "end_time",
+		"attribute": null,
+		"schema": "endDate",
+		"wikidata": "P582"
+	},
+
+
+
+]

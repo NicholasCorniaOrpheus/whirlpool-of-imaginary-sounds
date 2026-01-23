@@ -1,0 +1,1500 @@
+{
+  "subtitles": [
+    {
+      "start_time": "00:00:00,399",
+      "end_time": "00:00:04,319",
+      "text": "let's talk about scenario hooks these"
+    },
+    {
+      "start_time": "00:00:02,639",
+      "end_time": "00:00:04,880",
+      "text": "can also be known as plot hooks but the"
+    },
+    {
+      "start_time": "00:00:04,319",
+      "end_time": "00:00:06,640",
+      "text": "term"
+    },
+    {
+      "start_time": "00:00:04,880",
+      "end_time": "00:00:08,240",
+      "text": "plot can have a lot of baggage when it"
+    },
+    {
+      "start_time": "00:00:06,640",
+      "end_time": "00:00:10,639",
+      "text": "comes to role-playing games"
+    },
+    {
+      "start_time": "00:00:08,240",
+      "end_time": "00:00:12,559",
+      "text": "the analogy to the various plot hooks or"
+    },
+    {
+      "start_time": "00:00:10,639",
+      "end_time": "00:00:13,519",
+      "text": "narrative hooks found in other mediums"
+    },
+    {
+      "start_time": "00:00:12,559",
+      "end_time": "00:00:16,080",
+      "text": "like film"
+    },
+    {
+      "start_time": "00:00:13,519",
+      "end_time": "00:00:18,240",
+      "text": "novels and poetry are also probably more"
+    },
+    {
+      "start_time": "00:00:16,080",
+      "end_time": "00:00:19,840",
+      "text": "confusing than they are illuminating"
+    },
+    {
+      "start_time": "00:00:18,240",
+      "end_time": "00:00:22,080",
+      "text": "so over the years i've come to"
+    },
+    {
+      "start_time": "00:00:19,840",
+      "end_time": "00:00:24,880",
+      "text": "personally prefer the term scenario hook"
+    },
+    {
+      "start_time": "00:00:22,080",
+      "end_time": "00:00:25,439",
+      "text": "when talking about rpg adventure design"
+    },
+    {
+      "start_time": "00:00:24,880",
+      "end_time": "00:00:27,359",
+      "text": "now"
+    },
+    {
+      "start_time": "00:00:25,439",
+      "end_time": "00:00:29,119",
+      "text": "this is advanced game mastery so you"
+    },
+    {
+      "start_time": "00:00:27,359",
+      "end_time": "00:00:30,800",
+      "text": "probably already know what a scenario"
+    },
+    {
+      "start_time": "00:00:29,119",
+      "end_time": "00:00:32,640",
+      "text": "hook is but let's take a moment to"
+    },
+    {
+      "start_time": "00:00:30,800",
+      "end_time": "00:00:34,800",
+      "text": "really nail it down because i've seen a"
+    },
+    {
+      "start_time": "00:00:32,640",
+      "end_time": "00:00:35,440",
+      "text": "number of lists of rpg scenario hooks"
+    },
+    {
+      "start_time": "00:00:34,800",
+      "end_time": "00:00:37,440",
+      "text": "recently"
+    },
+    {
+      "start_time": "00:00:35,440",
+      "end_time": "00:00:39,200",
+      "text": "that don't actually have any scenario"
+    },
+    {
+      "start_time": "00:00:37,440",
+      "end_time": "00:00:40,960",
+      "text": "hooks in them for example"
+    },
+    {
+      "start_time": "00:00:39,200",
+      "end_time": "00:00:42,719",
+      "text": "let's say you have a scenario featuring"
+    },
+    {
+      "start_time": "00:00:40,960",
+      "end_time": "00:00:43,280",
+      "text": "a pack of werewolves that have taken up"
+    },
+    {
+      "start_time": "00:00:42,719",
+      "end_time": "00:00:45,680",
+      "text": "residence"
+    },
+    {
+      "start_time": "00:00:43,280",
+      "end_time": "00:00:47,039",
+      "text": "in a ruined castle a few miles away from"
+    },
+    {
+      "start_time": "00:00:45,680",
+      "end_time": "00:00:49,760",
+      "text": "a small village"
+    },
+    {
+      "start_time": "00:00:47,039",
+      "end_time": "00:00:51,520",
+      "text": "now that is not a scenario hook it is"
+    },
+    {
+      "start_time": "00:00:49,760",
+      "end_time": "00:00:53,440",
+      "text": "your scenario concept"
+    },
+    {
+      "start_time": "00:00:51,520",
+      "end_time": "00:00:55,520",
+      "text": "the scenario hook is how the player"
+    },
+    {
+      "start_time": "00:00:53,440",
+      "end_time": "00:00:56,320",
+      "text": "characters get involved with your"
+    },
+    {
+      "start_time": "00:00:55,520",
+      "end_time": "00:00:58,239",
+      "text": "scenario"
+    },
+    {
+      "start_time": "00:00:56,320",
+      "end_time": "00:00:59,680",
+      "text": "it's the thing that hooks them and pulls"
+    },
+    {
+      "start_time": "00:00:58,239",
+      "end_time": "00:01:02,239",
+      "text": "them in"
+    },
+    {
+      "start_time": "00:00:59,680",
+      "end_time": "00:01:03,600",
+      "text": "and scenario hooks can be a lot more"
+    },
+    {
+      "start_time": "00:01:02,239",
+      "end_time": "00:01:04,769",
+      "text": "surprising"
+    },
+    {
+      "start_time": "00:01:03,600",
+      "end_time": "00:01:11,600",
+      "text": "than you think"
+    },
+    {
+      "start_time": "00:01:04,769",
+      "end_time": "00:01:14,000",
+      "text": "[Music]"
+    },
+    {
+      "start_time": "00:01:11,600",
+      "end_time": "00:01:16,159",
+      "text": "okay we have a pack of werewolves in a"
+    },
+    {
+      "start_time": "00:01:14,000",
+      "end_time": "00:01:18,479",
+      "text": "ruined castle near a small village"
+    },
+    {
+      "start_time": "00:01:16,159",
+      "end_time": "00:01:21,360",
+      "text": "what scenario hook can we use to get the"
+    },
+    {
+      "start_time": "00:01:18,479",
+      "end_time": "00:01:23,119",
+      "text": "pcs involved in this scenario"
+    },
+    {
+      "start_time": "00:01:21,360",
+      "end_time": "00:01:25,600",
+      "text": "perhaps the villagers could ask them for"
+    },
+    {
+      "start_time": "00:01:23,119",
+      "end_time": "00:01:27,759",
+      "text": "help or a local burger could offer to"
+    },
+    {
+      "start_time": "00:01:25,600",
+      "end_time": "00:01:30,640",
+      "text": "pay them to get rid of the werewolves"
+    },
+    {
+      "start_time": "00:01:27,759",
+      "end_time": "00:01:32,720",
+      "text": "this is an example of patronage an mpc"
+    },
+    {
+      "start_time": "00:01:30,640",
+      "end_time": "00:01:33,840",
+      "text": "is requesting that something specific be"
+    },
+    {
+      "start_time": "00:01:32,720",
+      "end_time": "00:01:35,680",
+      "text": "done"
+    },
+    {
+      "start_time": "00:01:33,840",
+      "end_time": "00:01:37,600",
+      "text": "or maybe the pcs could hear rumors in"
+    },
+    {
+      "start_time": "00:01:35,680",
+      "end_time": "00:01:39,680",
+      "text": "the local tavern about the spate of"
+    },
+    {
+      "start_time": "00:01:37,600",
+      "end_time": "00:01:41,520",
+      "text": "recent werewolf attacks or or they see"
+    },
+    {
+      "start_time": "00:01:39,680",
+      "end_time": "00:01:42,399",
+      "text": "bounty notices posted by the local"
+    },
+    {
+      "start_time": "00:01:41,520",
+      "end_time": "00:01:45,200",
+      "text": "sheriff"
+    },
+    {
+      "start_time": "00:01:42,399",
+      "end_time": "00:01:46,960",
+      "text": "this is an example of an offer the gm is"
+    },
+    {
+      "start_time": "00:01:45,200",
+      "end_time": "00:01:48,880",
+      "text": "simply offering information"
+    },
+    {
+      "start_time": "00:01:46,960",
+      "end_time": "00:01:50,880",
+      "text": "and it's up to the pcs to determine what"
+    },
+    {
+      "start_time": "00:01:48,880",
+      "end_time": "00:01:52,159",
+      "text": "they want to do with that information if"
+    },
+    {
+      "start_time": "00:01:50,880",
+      "end_time": "00:01:54,799",
+      "text": "anything"
+    },
+    {
+      "start_time": "00:01:52,159",
+      "end_time": "00:01:55,680",
+      "text": "alternatively as the pcs ride past the"
+    },
+    {
+      "start_time": "00:01:54,799",
+      "end_time": "00:01:57,840",
+      "text": "ruined castle"
+    },
+    {
+      "start_time": "00:01:55,680",
+      "end_time": "00:01:58,799",
+      "text": "the werewolves could come racing out to"
+    },
+    {
+      "start_time": "00:01:57,840",
+      "end_time": "00:02:01,200",
+      "text": "attack them or"
+    },
+    {
+      "start_time": "00:01:58,799",
+      "end_time": "00:02:03,439",
+      "text": "similarly the pcs could hear screams of"
+    },
+    {
+      "start_time": "00:02:01,200",
+      "end_time": "00:02:06,320",
+      "text": "terror emanating from a farmhouse"
+    },
+    {
+      "start_time": "00:02:03,439",
+      "end_time": "00:02:09,280",
+      "text": "this is a confrontation the scenario is"
+    },
+    {
+      "start_time": "00:02:06,320",
+      "end_time": "00:02:11,760",
+      "text": "directly encountered by the pcs"
+    },
+    {
+      "start_time": "00:02:09,280",
+      "end_time": "00:02:13,280",
+      "text": "in each case the pcs generally come away"
+    },
+    {
+      "start_time": "00:02:11,760",
+      "end_time": "00:02:14,160",
+      "text": "with a basic understanding of the"
+    },
+    {
+      "start_time": "00:02:13,280",
+      "end_time": "00:02:16,319",
+      "text": "situation"
+    },
+    {
+      "start_time": "00:02:14,160",
+      "end_time": "00:02:18,000",
+      "text": "and an understanding of what action"
+    },
+    {
+      "start_time": "00:02:16,319",
+      "end_time": "00:02:19,599",
+      "text": "they're expected to take"
+    },
+    {
+      "start_time": "00:02:18,000",
+      "end_time": "00:02:22,480",
+      "text": "there are werewolves in the ruined"
+    },
+    {
+      "start_time": "00:02:19,599",
+      "end_time": "00:02:24,560",
+      "text": "castle and they need to get rid of them"
+    },
+    {
+      "start_time": "00:02:22,480",
+      "end_time": "00:02:25,920",
+      "text": "now to be clear with some of these hooks"
+    },
+    {
+      "start_time": "00:02:24,560",
+      "end_time": "00:02:27,200",
+      "text": "they might only know that there are"
+    },
+    {
+      "start_time": "00:02:25,920",
+      "end_time": "00:02:28,879",
+      "text": "werewolves in the area"
+    },
+    {
+      "start_time": "00:02:27,200",
+      "end_time": "00:02:31,120",
+      "text": "and they need to do some investigation"
+    },
+    {
+      "start_time": "00:02:28,879",
+      "end_time": "00:02:32,800",
+      "text": "to identify the ruined castle as their"
+    },
+    {
+      "start_time": "00:02:31,120",
+      "end_time": "00:02:34,720",
+      "text": "den before they can go there"
+    },
+    {
+      "start_time": "00:02:32,800",
+      "end_time": "00:02:37,040",
+      "text": "but that still counts as a general"
+    },
+    {
+      "start_time": "00:02:34,720",
+      "end_time": "00:02:38,800",
+      "text": "understanding of the situation"
+    },
+    {
+      "start_time": "00:02:37,040",
+      "end_time": "00:02:40,560",
+      "text": "similarly it's possible of course for"
+    },
+    {
+      "start_time": "00:02:38,800",
+      "end_time": "00:02:42,160",
+      "text": "the pcs to choose a course of action"
+    },
+    {
+      "start_time": "00:02:40,560",
+      "end_time": "00:02:44,080",
+      "text": "that doesn't involve getting rid of the"
+    },
+    {
+      "start_time": "00:02:42,160",
+      "end_time": "00:02:45,040",
+      "text": "werewolves but when you design a"
+    },
+    {
+      "start_time": "00:02:44,080",
+      "end_time": "00:02:46,959",
+      "text": "scenario with"
+    },
+    {
+      "start_time": "00:02:45,040",
+      "end_time": "00:02:49,200",
+      "text": "slavering werewolves who are killing"
+    },
+    {
+      "start_time": "00:02:46,959",
+      "end_time": "00:02:49,599",
+      "text": "innocent people it's fairly clear what"
+    },
+    {
+      "start_time": "00:02:49,200",
+      "end_time": "00:02:52,640",
+      "text": "the"
+    },
+    {
+      "start_time": "00:02:49,599",
+      "end_time": "00:02:54,959",
+      "text": "expected decision will be right"
+    },
+    {
+      "start_time": "00:02:52,640",
+      "end_time": "00:02:57,200",
+      "text": "however these are not a necessary"
+    },
+    {
+      "start_time": "00:02:54,959",
+      "end_time": "00:02:59,120",
+      "text": "characteristic of a scenario hook"
+    },
+    {
+      "start_time": "00:02:57,200",
+      "end_time": "00:03:00,879",
+      "text": "you can twist the scenario hook by"
+    },
+    {
+      "start_time": "00:02:59,120",
+      "end_time": "00:03:01,840",
+      "text": "misleading the pcs about either the"
+    },
+    {
+      "start_time": "00:03:00,879",
+      "end_time": "00:03:05,519",
+      "text": "situation"
+    },
+    {
+      "start_time": "00:03:01,840",
+      "end_time": "00:03:07,519",
+      "text": "or the expected course of action or both"
+    },
+    {
+      "start_time": "00:03:05,519",
+      "end_time": "00:03:09,040",
+      "text": "for example you might mislead them about"
+    },
+    {
+      "start_time": "00:03:07,519",
+      "end_time": "00:03:10,879",
+      "text": "the nature of the threat"
+    },
+    {
+      "start_time": "00:03:09,040",
+      "end_time": "00:03:13,040",
+      "text": "the villagers discovering dismembered"
+    },
+    {
+      "start_time": "00:03:10,879",
+      "end_time": "00:03:13,760",
+      "text": "limbs and unfamiliar with lycanthropic"
+    },
+    {
+      "start_time": "00:03:13,040",
+      "end_time": "00:03:15,440",
+      "text": "activity"
+    },
+    {
+      "start_time": "00:03:13,760",
+      "end_time": "00:03:17,680",
+      "text": "think that the attacks signal a return"
+    },
+    {
+      "start_time": "00:03:15,440",
+      "end_time": "00:03:20,159",
+      "text": "of the tribe of cannibalistic ogres who"
+    },
+    {
+      "start_time": "00:03:17,680",
+      "end_time": "00:03:22,000",
+      "text": "plagued the region a generation ago"
+    },
+    {
+      "start_time": "00:03:20,159",
+      "end_time": "00:03:23,840",
+      "text": "that's what they tell the pcs who will"
+    },
+    {
+      "start_time": "00:03:22,000",
+      "end_time": "00:03:25,519",
+      "text": "be unpleasantly surprised and"
+    },
+    {
+      "start_time": "00:03:23,840",
+      "end_time": "00:03:27,280",
+      "text": "probably wish they had stocked up on"
+    },
+    {
+      "start_time": "00:03:25,519",
+      "end_time": "00:03:28,480",
+      "text": "silvered weapons when they head out to"
+    },
+    {
+      "start_time": "00:03:27,280",
+      "end_time": "00:03:31,200",
+      "text": "the ruined castle"
+    },
+    {
+      "start_time": "00:03:28,480",
+      "end_time": "00:03:33,280",
+      "text": "and discover the truth you might also"
+    },
+    {
+      "start_time": "00:03:31,200",
+      "end_time": "00:03:35,200",
+      "text": "mislead the pcs about the motives of the"
+    },
+    {
+      "start_time": "00:03:33,280",
+      "end_time": "00:03:36,879",
+      "text": "various npcs involved"
+    },
+    {
+      "start_time": "00:03:35,200",
+      "end_time": "00:03:38,640",
+      "text": "for example it turns out that the"
+    },
+    {
+      "start_time": "00:03:36,879",
+      "end_time": "00:03:40,480",
+      "text": "werewolves in the ruined castle have"
+    },
+    {
+      "start_time": "00:03:38,640",
+      "end_time": "00:03:42,480",
+      "text": "actually come to the area to end"
+    },
+    {
+      "start_time": "00:03:40,480",
+      "end_time": "00:03:44,480",
+      "text": "the werewolf attacks by hunting down"
+    },
+    {
+      "start_time": "00:03:42,480",
+      "end_time": "00:03:46,239",
+      "text": "their former packmate who's suffering"
+    },
+    {
+      "start_time": "00:03:44,480",
+      "end_time": "00:03:48,000",
+      "text": "from silvered rabies"
+    },
+    {
+      "start_time": "00:03:46,239",
+      "end_time": "00:03:49,840",
+      "text": "or when the werewolves come rushing out"
+    },
+    {
+      "start_time": "00:03:48,000",
+      "end_time": "00:03:51,360",
+      "text": "of the castle towards the pcs"
+    },
+    {
+      "start_time": "00:03:49,840",
+      "end_time": "00:03:53,439",
+      "text": "it's actually because they've just"
+    },
+    {
+      "start_time": "00:03:51,360",
+      "end_time": "00:03:55,760",
+      "text": "escaped from the hidden torture dungeons"
+    },
+    {
+      "start_time": "00:03:53,439",
+      "end_time": "00:03:58,239",
+      "text": "of the local baron who is transforming"
+    },
+    {
+      "start_time": "00:03:55,760",
+      "end_time": "00:03:59,360",
+      "text": "innocent villagers into werewolves to"
+    },
+    {
+      "start_time": "00:03:58,239",
+      "end_time": "00:04:02,879",
+      "text": "build a powerful"
+    },
+    {
+      "start_time": "00:03:59,360",
+      "end_time": "00:04:04,799",
+      "text": "supernatural slavering army reversing"
+    },
+    {
+      "start_time": "00:04:02,879",
+      "end_time": "00:04:07,439",
+      "text": "good guys and bad guys like this is an"
+    },
+    {
+      "start_time": "00:04:04,799",
+      "end_time": "00:04:09,680",
+      "text": "extreme example of the principle here"
+    },
+    {
+      "start_time": "00:04:07,439",
+      "end_time": "00:04:11,519",
+      "text": "when npcs are involved in delivering the"
+    },
+    {
+      "start_time": "00:04:09,680",
+      "end_time": "00:04:13,599",
+      "text": "misleading scenario hooks it can be"
+    },
+    {
+      "start_time": "00:04:11,519",
+      "end_time": "00:04:15,200",
+      "text": "useful to distinguish between npcs who"
+    },
+    {
+      "start_time": "00:04:13,599",
+      "end_time": "00:04:17,680",
+      "text": "are deceiving the pcs"
+    },
+    {
+      "start_time": "00:04:15,200",
+      "end_time": "00:04:18,479",
+      "text": "and npcs who are being deceived or are"
+    },
+    {
+      "start_time": "00:04:17,680",
+      "end_time": "00:04:20,959",
+      "text": "mistaken"
+    },
+    {
+      "start_time": "00:04:18,479",
+      "end_time": "00:04:22,560",
+      "text": "about the situation if the villagers"
+    },
+    {
+      "start_time": "00:04:20,959",
+      "end_time": "00:04:24,639",
+      "text": "know that the werewolves are just"
+    },
+    {
+      "start_time": "00:04:22,560",
+      "end_time": "00:04:26,720",
+      "text": "peaceful nature lovers and they're lying"
+    },
+    {
+      "start_time": "00:04:24,639",
+      "end_time": "00:04:28,080",
+      "text": "to the pcs so that the pcs will"
+    },
+    {
+      "start_time": "00:04:26,720",
+      "end_time": "00:04:30,000",
+      "text": "eliminate the werewolves and the"
+    },
+    {
+      "start_time": "00:04:28,080",
+      "end_time": "00:04:32,400",
+      "text": "villagers can claim the werewolf clan's"
+    },
+    {
+      "start_time": "00:04:30,000",
+      "end_time": "00:04:34,560",
+      "text": "ancestral property in the valley"
+    },
+    {
+      "start_time": "00:04:32,400",
+      "end_time": "00:04:36,320",
+      "text": "that's a very different story than if"
+    },
+    {
+      "start_time": "00:04:34,560",
+      "end_time": "00:04:37,840",
+      "text": "the villagers honestly believe"
+    },
+    {
+      "start_time": "00:04:36,320",
+      "end_time": "00:04:39,919",
+      "text": "that the werewolves are guilty of"
+    },
+    {
+      "start_time": "00:04:37,840",
+      "end_time": "00:04:42,080",
+      "text": "horrible crimes"
+    },
+    {
+      "start_time": "00:04:39,919",
+      "end_time": "00:04:42,960",
+      "text": "once you start twisting your scenario"
+    },
+    {
+      "start_time": "00:04:42,080",
+      "end_time": "00:04:45,520",
+      "text": "hooks like this"
+    },
+    {
+      "start_time": "00:04:42,960",
+      "end_time": "00:04:47,600",
+      "text": "the possibilities are basically endless"
+    },
+    {
+      "start_time": "00:04:45,520",
+      "end_time": "00:04:49,840",
+      "text": "and can obviously vary a lot depending"
+    },
+    {
+      "start_time": "00:04:47,600",
+      "end_time": "00:04:50,880",
+      "text": "on the specific details of the scenario"
+    },
+    {
+      "start_time": "00:04:49,840",
+      "end_time": "00:04:53,120",
+      "text": "in question"
+    },
+    {
+      "start_time": "00:04:50,880",
+      "end_time": "00:04:55,600",
+      "text": "the reason to use a misleading scenario"
+    },
+    {
+      "start_time": "00:04:53,120",
+      "end_time": "00:04:57,680",
+      "text": "hook is that it creates a reversal"
+    },
+    {
+      "start_time": "00:04:55,600",
+      "end_time": "00:04:58,720",
+      "text": "the players enter the scenario thinking"
+    },
+    {
+      "start_time": "00:04:57,680",
+      "end_time": "00:05:00,639",
+      "text": "that it's one thing"
+    },
+    {
+      "start_time": "00:04:58,720",
+      "end_time": "00:05:02,160",
+      "text": "and when they discover the truth the"
+    },
+    {
+      "start_time": "00:05:00,639",
+      "end_time": "00:05:05,199",
+      "text": "entire scenario"
+    },
+    {
+      "start_time": "00:05:02,160",
+      "end_time": "00:05:07,039",
+      "text": "changes into something new delivering a"
+    },
+    {
+      "start_time": "00:05:05,199",
+      "end_time": "00:05:09,199",
+      "text": "strong reversal like this can turn even"
+    },
+    {
+      "start_time": "00:05:07,039",
+      "end_time": "00:05:11,919",
+      "text": "an otherwise pedestrian scenario"
+    },
+    {
+      "start_time": "00:05:09,199",
+      "end_time": "00:05:14,000",
+      "text": "into a truly memorable one of course if"
+    },
+    {
+      "start_time": "00:05:11,919",
+      "end_time": "00:05:16,000",
+      "text": "every single scenario hook is misleading"
+    },
+    {
+      "start_time": "00:05:14,000",
+      "end_time": "00:05:17,199",
+      "text": "then the pcs will stop being surprised"
+    },
+    {
+      "start_time": "00:05:16,000",
+      "end_time": "00:05:18,479",
+      "text": "when things go awry"
+    },
+    {
+      "start_time": "00:05:17,199",
+      "end_time": "00:05:20,080",
+      "text": "so you'll still want to use some"
+    },
+    {
+      "start_time": "00:05:18,479",
+      "end_time": "00:05:21,120",
+      "text": "scenario hooks that are relatively"
+    },
+    {
+      "start_time": "00:05:20,080",
+      "end_time": "00:05:23,199",
+      "text": "straightforward"
+    },
+    {
+      "start_time": "00:05:21,120",
+      "end_time": "00:05:24,960",
+      "text": "but honestly you can get away with a lot"
+    },
+    {
+      "start_time": "00:05:23,199",
+      "end_time": "00:05:25,600",
+      "text": "more surprising scenario hooks than you"
+    },
+    {
+      "start_time": "00:05:24,960",
+      "end_time": "00:05:27,840",
+      "text": "might think"
+    },
+    {
+      "start_time": "00:05:25,600",
+      "end_time": "00:05:29,600",
+      "text": "as long as you vary the types of twists"
+    },
+    {
+      "start_time": "00:05:27,840",
+      "end_time": "00:05:31,120",
+      "text": "that are being used"
+    },
+    {
+      "start_time": "00:05:29,600",
+      "end_time": "00:05:32,639",
+      "text": "of course as the pcs learn that the"
+    },
+    {
+      "start_time": "00:05:31,120",
+      "end_time": "00:05:34,560",
+      "text": "scenario hooks they're getting may not"
+    },
+    {
+      "start_time": "00:05:32,639",
+      "end_time": "00:05:36,639",
+      "text": "be giving them a complete understanding"
+    },
+    {
+      "start_time": "00:05:34,560",
+      "end_time": "00:05:38,479",
+      "text": "of the situations they're getting into"
+    },
+    {
+      "start_time": "00:05:36,639",
+      "end_time": "00:05:41,039",
+      "text": "they may start investigating things to"
+    },
+    {
+      "start_time": "00:05:38,479",
+      "end_time": "00:05:43,759",
+      "text": "figure out what's really going on"
+    },
+    {
+      "start_time": "00:05:41,039",
+      "end_time": "00:05:45,759",
+      "text": "this is great thoughtful interaction and"
+    },
+    {
+      "start_time": "00:05:43,759",
+      "end_time": "00:05:46,560",
+      "text": "critical engagement with the scenario"
+    },
+    {
+      "start_time": "00:05:45,759",
+      "end_time": "00:05:48,639",
+      "text": "that's pure"
+    },
+    {
+      "start_time": "00:05:46,560",
+      "end_time": "00:05:50,880",
+      "text": "gold there are game masters who go their"
+    },
+    {
+      "start_time": "00:05:48,639",
+      "end_time": "00:05:52,320",
+      "text": "entire lives wishing their players would"
+    },
+    {
+      "start_time": "00:05:50,880",
+      "end_time": "00:05:54,720",
+      "text": "do that"
+    },
+    {
+      "start_time": "00:05:52,320",
+      "end_time": "00:05:56,000",
+      "text": "these follow-up inquiries also provide a"
+    },
+    {
+      "start_time": "00:05:54,720",
+      "end_time": "00:05:58,080",
+      "text": "natural opportunity"
+    },
+    {
+      "start_time": "00:05:56,000",
+      "end_time": "00:06:00,400",
+      "text": "for you to give the pcs additional"
+    },
+    {
+      "start_time": "00:05:58,080",
+      "end_time": "00:06:02,080",
+      "text": "scenario hooks tied to the scenario"
+    },
+    {
+      "start_time": "00:06:00,400",
+      "end_time": "00:06:04,080",
+      "text": "this actually touches on another common"
+    },
+    {
+      "start_time": "00:06:02,080",
+      "end_time": "00:06:06,479",
+      "text": "misunderstanding about scenario hooks"
+    },
+    {
+      "start_time": "00:06:04,080",
+      "end_time": "00:06:09,199",
+      "text": "the idea that each scenario only has"
+    },
+    {
+      "start_time": "00:06:06,479",
+      "end_time": "00:06:10,000",
+      "text": "one scenario hook pointing at it this is"
+    },
+    {
+      "start_time": "00:06:09,199",
+      "end_time": "00:06:12,880",
+      "text": "the hook"
+    },
+    {
+      "start_time": "00:06:10,000",
+      "end_time": "00:06:14,800",
+      "text": "for this adventure in reality you can"
+    },
+    {
+      "start_time": "00:06:12,880",
+      "end_time": "00:06:16,000",
+      "text": "have lots of scenario hooks pointing at"
+    },
+    {
+      "start_time": "00:06:14,800",
+      "end_time": "00:06:17,520",
+      "text": "the same scenario"
+    },
+    {
+      "start_time": "00:06:16,000",
+      "end_time": "00:06:19,520",
+      "text": "in other words there can be lots of"
+    },
+    {
+      "start_time": "00:06:17,520",
+      "end_time": "00:06:20,080",
+      "text": "different reasons that pcs might be"
+    },
+    {
+      "start_time": "00:06:19,520",
+      "end_time": "00:06:22,720",
+      "text": "interested"
+    },
+    {
+      "start_time": "00:06:20,080",
+      "end_time": "00:06:23,360",
+      "text": "in a given situation and there arguably"
+    },
+    {
+      "start_time": "00:06:22,720",
+      "end_time": "00:06:24,880",
+      "text": "should be"
+    },
+    {
+      "start_time": "00:06:23,360",
+      "end_time": "00:06:26,560",
+      "text": "for the same reason that the three clue"
+    },
+    {
+      "start_time": "00:06:24,880",
+      "end_time": "00:06:28,080",
+      "text": "rule is a good idea when designing"
+    },
+    {
+      "start_time": "00:06:26,560",
+      "end_time": "00:06:30,160",
+      "text": "mystery scenarios"
+    },
+    {
+      "start_time": "00:06:28,080",
+      "end_time": "00:06:31,520",
+      "text": "ideally you want each of these scenario"
+    },
+    {
+      "start_time": "00:06:30,160",
+      "end_time": "00:06:33,520",
+      "text": "hooks to be distinct"
+    },
+    {
+      "start_time": "00:06:31,520",
+      "end_time": "00:06:35,280",
+      "text": "they should come from different sources"
+    },
+    {
+      "start_time": "00:06:33,520",
+      "end_time": "00:06:36,800",
+      "text": "include different although probably"
+    },
+    {
+      "start_time": "00:06:35,280",
+      "end_time": "00:06:37,520",
+      "text": "overlapping information about what's"
+    },
+    {
+      "start_time": "00:06:36,800",
+      "end_time": "00:06:40,479",
+      "text": "going on"
+    },
+    {
+      "start_time": "00:06:37,520",
+      "end_time": "00:06:42,160",
+      "text": "uh be driven by different motives it's"
+    },
+    {
+      "start_time": "00:06:40,479",
+      "end_time": "00:06:44,319",
+      "text": "less interesting for three different"
+    },
+    {
+      "start_time": "00:06:42,160",
+      "end_time": "00:06:44,800",
+      "text": "villagers to all follow the same basic"
+    },
+    {
+      "start_time": "00:06:44,319",
+      "end_time": "00:06:46,800",
+      "text": "script"
+    },
+    {
+      "start_time": "00:06:44,800",
+      "end_time": "00:06:49,120",
+      "text": "in asking the pcs to help them fight the"
+    },
+    {
+      "start_time": "00:06:46,800",
+      "end_time": "00:06:50,240",
+      "text": "werewolves it's more interesting if the"
+    },
+    {
+      "start_time": "00:06:49,120",
+      "end_time": "00:06:52,240",
+      "text": "pcs"
+    },
+    {
+      "start_time": "00:06:50,240",
+      "end_time": "00:06:54,080",
+      "text": "see werewolf tracks in the forest and"
+    },
+    {
+      "start_time": "00:06:52,240",
+      "end_time": "00:06:56,319",
+      "text": "then a villager asks them for help"
+    },
+    {
+      "start_time": "00:06:54,080",
+      "end_time": "00:06:58,319",
+      "text": "and then they spot a poster offering to"
+    },
+    {
+      "start_time": "00:06:56,319",
+      "end_time": "00:07:01,360",
+      "text": "pay a bounty for werewolf pelts"
+    },
+    {
+      "start_time": "00:06:58,319",
+      "end_time": "00:07:02,960",
+      "text": "or the same things in any other order a"
+    },
+    {
+      "start_time": "00:07:01,360",
+      "end_time": "00:07:04,720",
+      "text": "quick shortcut here is to look at the"
+    },
+    {
+      "start_time": "00:07:02,960",
+      "end_time": "00:07:05,919",
+      "text": "three types of scenario hooks we"
+    },
+    {
+      "start_time": "00:07:04,720",
+      "end_time": "00:07:08,560",
+      "text": "discussed earlier"
+    },
+    {
+      "start_time": "00:07:05,919",
+      "end_time": "00:07:11,120",
+      "text": "patronage offers and confrontations and"
+    },
+    {
+      "start_time": "00:07:08,560",
+      "end_time": "00:07:13,680",
+      "text": "include one scenario hook of each type"
+    },
+    {
+      "start_time": "00:07:11,120",
+      "end_time": "00:07:15,280",
+      "text": "for the scenario having multiple"
+    },
+    {
+      "start_time": "00:07:13,680",
+      "end_time": "00:07:17,759",
+      "text": "scenario hooks like this adds"
+    },
+    {
+      "start_time": "00:07:15,280",
+      "end_time": "00:07:18,319",
+      "text": "depth to the world it also empowers the"
+    },
+    {
+      "start_time": "00:07:17,759",
+      "end_time": "00:07:20,319",
+      "text": "players"
+    },
+    {
+      "start_time": "00:07:18,319",
+      "end_time": "00:07:22,240",
+      "text": "inherently creating a situation in which"
+    },
+    {
+      "start_time": "00:07:20,319",
+      "end_time": "00:07:22,639",
+      "text": "they get to make a meaningful choice"
+    },
+    {
+      "start_time": "00:07:22,240",
+      "end_time": "00:07:25,039",
+      "text": "about"
+    },
+    {
+      "start_time": "00:07:22,639",
+      "end_time": "00:07:26,720",
+      "text": "how and why they're engaging a given"
+    },
+    {
+      "start_time": "00:07:25,039",
+      "end_time": "00:07:28,080",
+      "text": "scenario when some or"
+    },
+    {
+      "start_time": "00:07:26,720",
+      "end_time": "00:07:30,000",
+      "text": "all of these scenario hooks are"
+    },
+    {
+      "start_time": "00:07:28,080",
+      "end_time": "00:07:31,759",
+      "text": "misleading particularly if they are"
+    },
+    {
+      "start_time": "00:07:30,000",
+      "end_time": "00:07:32,479",
+      "text": "misleading in interesting and different"
+    },
+    {
+      "start_time": "00:07:31,759",
+      "end_time": "00:07:34,479",
+      "text": "ways"
+    },
+    {
+      "start_time": "00:07:32,479",
+      "end_time": "00:07:36,639",
+      "text": "it not only becomes easier to vary the"
+    },
+    {
+      "start_time": "00:07:34,479",
+      "end_time": "00:07:37,280",
+      "text": "hooks it immediately creates a sense of"
+    },
+    {
+      "start_time": "00:07:36,639",
+      "end_time": "00:07:39,120",
+      "text": "mystery"
+    },
+    {
+      "start_time": "00:07:37,280",
+      "end_time": "00:07:40,560",
+      "text": "that will tantalize the players and"
+    },
+    {
+      "start_time": "00:07:39,120",
+      "end_time": "00:07:42,639",
+      "text": "encourage them to engage with the"
+    },
+    {
+      "start_time": "00:07:40,560",
+      "end_time": "00:07:44,879",
+      "text": "scenario in order to figure out what the"
+    },
+    {
+      "start_time": "00:07:42,639",
+      "end_time": "00:07:47,039",
+      "text": "heck is going on"
+    },
+    {
+      "start_time": "00:07:44,879",
+      "end_time": "00:07:48,560",
+      "text": "there is one other form of misleading"
+    },
+    {
+      "start_time": "00:07:47,039",
+      "end_time": "00:07:51,440",
+      "text": "scenario hook that is only"
+    },
+    {
+      "start_time": "00:07:48,560",
+      "end_time": "00:07:52,080",
+      "text": "misleading from a metagame perspective"
+    },
+    {
+      "start_time": "00:07:51,440",
+      "end_time": "00:07:54,319",
+      "text": "these"
+    },
+    {
+      "start_time": "00:07:52,080",
+      "end_time": "00:07:55,840",
+      "text": "bait hooks can be completely legitimate"
+    },
+    {
+      "start_time": "00:07:54,319",
+      "end_time": "00:07:57,840",
+      "text": "from the perspective of the game world"
+    },
+    {
+      "start_time": "00:07:55,840",
+      "end_time": "00:07:59,759",
+      "text": "but the reason you as the game master"
+    },
+    {
+      "start_time": "00:07:57,840",
+      "end_time": "00:08:00,400",
+      "text": "include them is to put the pcs in a"
+    },
+    {
+      "start_time": "00:07:59,759",
+      "end_time": "00:08:02,400",
+      "text": "position"
+    },
+    {
+      "start_time": "00:08:00,400",
+      "end_time": "00:08:03,520",
+      "text": "where they can be confronted by the true"
+    },
+    {
+      "start_time": "00:08:02,400",
+      "end_time": "00:08:05,440",
+      "text": "scenario"
+    },
+    {
+      "start_time": "00:08:03,520",
+      "end_time": "00:08:07,280",
+      "text": "now for example they might be hired to"
+    },
+    {
+      "start_time": "00:08:05,440",
+      "end_time": "00:08:08,720",
+      "text": "guard a package of diamond that's being"
+    },
+    {
+      "start_time": "00:08:07,280",
+      "end_time": "00:08:10,879",
+      "text": "delivered to a bank vault"
+    },
+    {
+      "start_time": "00:08:08,720",
+      "end_time": "00:08:12,960",
+      "text": "but the only reason that job exists and"
+    },
+    {
+      "start_time": "00:08:10,879",
+      "end_time": "00:08:15,280",
+      "text": "it might even go off without a hitch"
+    },
+    {
+      "start_time": "00:08:12,960",
+      "end_time": "00:08:16,160",
+      "text": "is to put the pcs in the bank when the"
+    },
+    {
+      "start_time": "00:08:15,280",
+      "end_time": "00:08:19,039",
+      "text": "bank robbers"
+    },
+    {
+      "start_time": "00:08:16,160",
+      "end_time": "00:08:19,680",
+      "text": "show up that's the real scenario on rare"
+    },
+    {
+      "start_time": "00:08:19,039",
+      "end_time": "00:08:21,199",
+      "text": "occasions"
+    },
+    {
+      "start_time": "00:08:19,680",
+      "end_time": "00:08:24,160",
+      "text": "bait hooks like this can also be"
+    },
+    {
+      "start_time": "00:08:21,199",
+      "end_time": "00:08:25,360",
+      "text": "diegetic when an mpc gives the pcs a"
+    },
+    {
+      "start_time": "00:08:24,160",
+      "end_time": "00:08:26,800",
+      "text": "false job offer"
+    },
+    {
+      "start_time": "00:08:25,360",
+      "end_time": "00:08:29,280",
+      "text": "in order to maneuver them into a"
+    },
+    {
+      "start_time": "00:08:26,800",
+      "end_time": "00:08:30,160",
+      "text": "location or situation for an ulterior"
+    },
+    {
+      "start_time": "00:08:29,280",
+      "end_time": "00:08:31,840",
+      "text": "purpose"
+    },
+    {
+      "start_time": "00:08:30,160",
+      "end_time": "00:08:33,279",
+      "text": "this plot conceit is quite common in"
+    },
+    {
+      "start_time": "00:08:31,840",
+      "end_time": "00:08:35,039",
+      "text": "pulp fiction for example"
+    },
+    {
+      "start_time": "00:08:33,279",
+      "end_time": "00:08:37,360",
+      "text": "when detectives are hired to keep a"
+    },
+    {
+      "start_time": "00:08:35,039",
+      "end_time": "00:08:39,440",
+      "text": "person or location under observation"
+    },
+    {
+      "start_time": "00:08:37,360",
+      "end_time": "00:08:40,880",
+      "text": "so that they can later be framed for a"
+    },
+    {
+      "start_time": "00:08:39,440",
+      "end_time": "00:08:44,080",
+      "text": "crime"
+    },
+    {
+      "start_time": "00:08:40,880",
+      "end_time": "00:08:46,000",
+      "text": "you know speaking of scenario hooks i've"
+    },
+    {
+      "start_time": "00:08:44,080",
+      "end_time": "00:08:47,120",
+      "text": "hidden several of them down in the font"
+    },
+    {
+      "start_time": "00:08:46,000",
+      "end_time": "00:08:49,040",
+      "text": "of all knowledge"
+    },
+    {
+      "start_time": "00:08:47,120",
+      "end_time": "00:08:50,160",
+      "text": "a collection of links that will lead you"
+    },
+    {
+      "start_time": "00:08:49,040",
+      "end_time": "00:08:52,480",
+      "text": "to more information"
+    },
+    {
+      "start_time": "00:08:50,160",
+      "end_time": "00:08:54,000",
+      "text": "about using and designing cool hooks for"
+    },
+    {
+      "start_time": "00:08:52,480",
+      "end_time": "00:08:55,360",
+      "text": "your own adventures"
+    },
+    {
+      "start_time": "00:08:54,000",
+      "end_time": "00:08:57,040",
+      "text": "while you're down there make sure to hit"
+    },
+    {
+      "start_time": "00:08:55,360",
+      "end_time": "00:08:58,800",
+      "text": "the like and subscribe buttons too"
+    },
+    {
+      "start_time": "00:08:57,040",
+      "end_time": "00:09:01,120",
+      "text": "and leave a comment i'd love to hear"
+    },
+    {
+      "start_time": "00:08:58,800",
+      "end_time": "00:09:03,279",
+      "text": "about the best scenario hook you ever"
+    },
+    {
+      "start_time": "00:09:01,120",
+      "end_time": "00:09:06,959",
+      "text": "saw in the game"
+    },
+    {
+      "start_time": "00:09:03,279",
+      "end_time": "00:09:08,800",
+      "text": "all of that though is just the bait hook"
+    },
+    {
+      "start_time": "00:09:06,959",
+      "end_time": "00:09:10,959",
+      "text": "the real adventure is the link to my"
+    },
+    {
+      "start_time": "00:09:08,800",
+      "end_time": "00:09:12,959",
+      "text": "patreon where you can join the team that"
+    },
+    {
+      "start_time": "00:09:10,959",
+      "end_time": "00:09:14,320",
+      "text": "makes everything at the alexandrian"
+    },
+    {
+      "start_time": "00:09:12,959",
+      "end_time": "00:09:17,440",
+      "text": "possible"
+    },
+    {
+      "start_time": "00:09:14,320",
+      "end_time": "00:09:19,519",
+      "text": "good gaming this is justin alexander and"
+    },
+    {
+      "start_time": "00:09:17,440",
+      "end_time": "00:09:22,800",
+      "text": "i hope to see you"
+    },
+    {
+      "start_time": "00:09:19,519",
+      "end_time": "00:09:22,800",
+      "text": "at the table"
+    }
+  ],
+  "full_text": "let's talk about scenario hooks these\ncan also be known as plot hooks but the\nterm\nplot can have a lot of baggage when it\ncomes to role-playing games\nthe analogy to the various plot hooks or\nnarrative hooks found in other mediums\nlike film\nnovels and poetry are also probably more\nconfusing than they are illuminating\nso over the years i've come to\npersonally prefer the term scenario hook\nwhen talking about rpg adventure design\nnow\nthis is advanced game mastery so you\nprobably already know what a scenario\nhook is but let's take a moment to\nreally nail it down because i've seen a\nnumber of lists of rpg scenario hooks\nrecently\nthat don't actually have any scenario\nhooks in them for example\nlet's say you have a scenario featuring\na pack of werewolves that have taken up\nresidence\nin a ruined castle a few miles away from\na small village\nnow that is not a scenario hook it is\nyour scenario concept\nthe scenario hook is how the player\ncharacters get involved with your\nscenario\nit's the thing that hooks them and pulls\nthem in\nand scenario hooks can be a lot more\nsurprising\nthan you think\n[Music]\nokay we have a pack of werewolves in a\nruined castle near a small village\nwhat scenario hook can we use to get the\npcs involved in this scenario\nperhaps the villagers could ask them for\nhelp or a local burger could offer to\npay them to get rid of the werewolves\nthis is an example of patronage an mpc\nis requesting that something specific be\ndone\nor maybe the pcs could hear rumors in\nthe local tavern about the spate of\nrecent werewolf attacks or or they see\nbounty notices posted by the local\nsheriff\nthis is an example of an offer the gm is\nsimply offering information\nand it's up to the pcs to determine what\nthey want to do with that information if\nanything\nalternatively as the pcs ride past the\nruined castle\nthe werewolves could come racing out to\nattack them or\nsimilarly the pcs could hear screams of\nterror emanating from a farmhouse\nthis is a confrontation the scenario is\ndirectly encountered by the pcs\nin each case the pcs generally come away\nwith a basic understanding of the\nsituation\nand an understanding of what action\nthey're expected to take\nthere are werewolves in the ruined\ncastle and they need to get rid of them\nnow to be clear with some of these hooks\nthey might only know that there are\nwerewolves in the area\nand they need to do some investigation\nto identify the ruined castle as their\nden before they can go there\nbut that still counts as a general\nunderstanding of the situation\nsimilarly it's possible of course for\nthe pcs to choose a course of action\nthat doesn't involve getting rid of the\nwerewolves but when you design a\nscenario with\nslavering werewolves who are killing\ninnocent people it's fairly clear what\nthe\nexpected decision will be right\nhowever these are not a necessary\ncharacteristic of a scenario hook\nyou can twist the scenario hook by\nmisleading the pcs about either the\nsituation\nor the expected course of action or both\nfor example you might mislead them about\nthe nature of the threat\nthe villagers discovering dismembered\nlimbs and unfamiliar with lycanthropic\nactivity\nthink that the attacks signal a return\nof the tribe of cannibalistic ogres who\nplagued the region a generation ago\nthat's what they tell the pcs who will\nbe unpleasantly surprised and\nprobably wish they had stocked up on\nsilvered weapons when they head out to\nthe ruined castle\nand discover the truth you might also\nmislead the pcs about the motives of the\nvarious npcs involved\nfor example it turns out that the\nwerewolves in the ruined castle have\nactually come to the area to end\nthe werewolf attacks by hunting down\ntheir former packmate who's suffering\nfrom silvered rabies\nor when the werewolves come rushing out\nof the castle towards the pcs\nit's actually because they've just\nescaped from the hidden torture dungeons\nof the local baron who is transforming\ninnocent villagers into werewolves to\nbuild a powerful\nsupernatural slavering army reversing\ngood guys and bad guys like this is an\nextreme example of the principle here\nwhen npcs are involved in delivering the\nmisleading scenario hooks it can be\nuseful to distinguish between npcs who\nare deceiving the pcs\nand npcs who are being deceived or are\nmistaken\nabout the situation if the villagers\nknow that the werewolves are just\npeaceful nature lovers and they're lying\nto the pcs so that the pcs will\neliminate the werewolves and the\nvillagers can claim the werewolf clan's\nancestral property in the valley\nthat's a very different story than if\nthe villagers honestly believe\nthat the werewolves are guilty of\nhorrible crimes\nonce you start twisting your scenario\nhooks like this\nthe possibilities are basically endless\nand can obviously vary a lot depending\non the specific details of the scenario\nin question\nthe reason to use a misleading scenario\nhook is that it creates a reversal\nthe players enter the scenario thinking\nthat it's one thing\nand when they discover the truth the\nentire scenario\nchanges into something new delivering a\nstrong reversal like this can turn even\nan otherwise pedestrian scenario\ninto a truly memorable one of course if\nevery single scenario hook is misleading\nthen the pcs will stop being surprised\nwhen things go awry\nso you'll still want to use some\nscenario hooks that are relatively\nstraightforward\nbut honestly you can get away with a lot\nmore surprising scenario hooks than you\nmight think\nas long as you vary the types of twists\nthat are being used\nof course as the pcs learn that the\nscenario hooks they're getting may not\nbe giving them a complete understanding\nof the situations they're getting into\nthey may start investigating things to\nfigure out what's really going on\nthis is great thoughtful interaction and\ncritical engagement with the scenario\nthat's pure\ngold there are game masters who go their\nentire lives wishing their players would\ndo that\nthese follow-up inquiries also provide a\nnatural opportunity\nfor you to give the pcs additional\nscenario hooks tied to the scenario\nthis actually touches on another common\nmisunderstanding about scenario hooks\nthe idea that each scenario only has\none scenario hook pointing at it this is\nthe hook\nfor this adventure in reality you can\nhave lots of scenario hooks pointing at\nthe same scenario\nin other words there can be lots of\ndifferent reasons that pcs might be\ninterested\nin a given situation and there arguably\nshould be\nfor the same reason that the three clue\nrule is a good idea when designing\nmystery scenarios\nideally you want each of these scenario\nhooks to be distinct\nthey should come from different sources\ninclude different although probably\noverlapping information about what's\ngoing on\nuh be driven by different motives it's\nless interesting for three different\nvillagers to all follow the same basic\nscript\nin asking the pcs to help them fight the\nwerewolves it's more interesting if the\npcs\nsee werewolf tracks in the forest and\nthen a villager asks them for help\nand then they spot a poster offering to\npay a bounty for werewolf pelts\nor the same things in any other order a\nquick shortcut here is to look at the\nthree types of scenario hooks we\ndiscussed earlier\npatronage offers and confrontations and\ninclude one scenario hook of each type\nfor the scenario having multiple\nscenario hooks like this adds\ndepth to the world it also empowers the\nplayers\ninherently creating a situation in which\nthey get to make a meaningful choice\nabout\nhow and why they're engaging a given\nscenario when some or\nall of these scenario hooks are\nmisleading particularly if they are\nmisleading in interesting and different\nways\nit not only becomes easier to vary the\nhooks it immediately creates a sense of\nmystery\nthat will tantalize the players and\nencourage them to engage with the\nscenario in order to figure out what the\nheck is going on\nthere is one other form of misleading\nscenario hook that is only\nmisleading from a metagame perspective\nthese\nbait hooks can be completely legitimate\nfrom the perspective of the game world\nbut the reason you as the game master\ninclude them is to put the pcs in a\nposition\nwhere they can be confronted by the true\nscenario\nnow for example they might be hired to\nguard a package of diamond that's being\ndelivered to a bank vault\nbut the only reason that job exists and\nit might even go off without a hitch\nis to put the pcs in the bank when the\nbank robbers\nshow up that's the real scenario on rare\noccasions\nbait hooks like this can also be\ndiegetic when an mpc gives the pcs a\nfalse job offer\nin order to maneuver them into a\nlocation or situation for an ulterior\npurpose\nthis plot conceit is quite common in\npulp fiction for example\nwhen detectives are hired to keep a\nperson or location under observation\nso that they can later be framed for a\ncrime\nyou know speaking of scenario hooks i've\nhidden several of them down in the font\nof all knowledge\na collection of links that will lead you\nto more information\nabout using and designing cool hooks for\nyour own adventures\nwhile you're down there make sure to hit\nthe like and subscribe buttons too\nand leave a comment i'd love to hear\nabout the best scenario hook you ever\nsaw in the game\nall of that though is just the bait hook\nthe real adventure is the link to my\npatreon where you can join the team that\nmakes everything at the alexandrian\npossible\ngood gaming this is justin alexander and\ni hope to see you\nat the table\n"
+}
