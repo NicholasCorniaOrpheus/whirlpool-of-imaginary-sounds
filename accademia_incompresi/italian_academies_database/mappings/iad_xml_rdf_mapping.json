@@ -1,87 +1,399 @@
-[
-	{
-		"xml_element": "ItacAcademyItem",
-		"label": "academy_id",
-		"attribute": "AcademyId",
-		"schema": "identifier"
-	},
-	{
-		"xml_element": "ItacAcademyItem",
-		"label": "record_id",
-		"attribute": "RecordId",
-		"schema": "identifier"
-	},
-	{
-		"xml_element": "Name",
-		"label": "label",
-		"attribute": null,
-		"schema": "name"
-	},
-	{
-		"xml_element": "AlternativeName",
-		"label": "aliases",
-		"attribute": null,
-		"schema": "alternateName"
-	},
-	{
-		"xml_element": "City",
-		"label": "city_id",
-		"attribute": "CityId",
-		"schema": "alternateName"
-	},
-	{
-		"xml_element": "CityItalianName",
-		"label": "italian_name",
-		"attribute": null,
-		"schema": "alternateName"
-	},
-	{
-		"xml_element": "CityEnglishName",
-		"label": "english_name",
-		"attribute": null,
-		"schema": "alternateName"
-	},
-	{
-		"xml_element": "CityLatinName",
-		"label": "latin_name",
-		"attribute": null,
-		"schema": "alternateName"
-	},
-	{
-		"xml_element": "EmblemDescription",
-		"label": "aliases",
-		"attribute": null,
-		"schema": "description"
-	},
-	{
-		"xml_element": "EmblemImage",
-		"label": "image_id",
-		"attribute": "ImageId",
-		"schema": "image",
-		"wikidata": "P18"
-	},
-	{
-		"xml_element": "Motto",
-		"label": "motto",
-		"attribute": null,
-		"schema": "slogan",
-		"wikidata": "P1546"
-	},
-	{
-		"xml_element": "StartDate",
-		"label": "start_time",
-		"attribute": null,
-		"schema": "startDate",
-		"wikidata": "P580"
-	},
-	{
-		"xml_element": "EndDate",
-		"label": "end_time",
-		"attribute": null,
-		"schema": "endDate",
-		"wikidata": "P582"
-	},
+{
+	"academy": [
+		{
+			"xml_element": "ItacAcademyItem",
+			"xml_path": "root",
+			"json_path": "iad_academy_id",
+			"description": "IAD ID for the academy",
+			"attribute": "AcademyId",
+			"schema": "identifier",
+			"wikidata": null
+		},
+		{
+			"xml_element": "ItacAcademyItem",
+			"xml_path": "root",
+			"json_path": "iad_record_id",
+			"description": "record_id",
+			"attribute": "RecordId",
+			"schema": "identifier",
+			"wikidata": null
+		},
+		{
+			"xml_element": "Name",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "label/iad_label",
+			"description": "main label for the academy",
+			"attribute": null,
+			"schema": "name",
+			"wikidata": null
+		},
+		{
+			"xml_element": "AlternativeName",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "aliases/iad_aliases",
+			"description": "aliases",
+			"attribute": null,
+			"schema": "alternateName",
+			"wikidata": null
+		},
+		{
+			"xml_element": "City",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "location/iad_city_id",
+			"description": "IAD city id",
+			"attribute": "CityId",
+			"schema": "alternateName",
+			"wikidata": null
+		},
+		{
+			"xml_element": "CityItalianName",
+			"xml_path": "ItacAcademyItem/City",
+			"json_path": "location/iad_label/it",
+			"description": "Italian name for the city",
+			"attribute": null,
+			"schema": "alternateName",
+			"wikidata": null
+		},
+		{
+			"xml_element": "CityEnglishName",
+			"xml_path": "ItacAcademyItem/City",
+			"json_path": "location/iad_label/en",
+			"description": "English name for the city",
+			"attribute": null,
+			"schema": "alternateName",
+			"wikidata": null
+		},
+		{
+			"xml_element": "CityLatinName",
+			"xml_path": "ItacAcademyItem/City",
+			"json_path": "location/iad_label/la",
+			"description": "Latin name for the city",
+			"attribute": null,
+			"schema": "alternateName",
+			"wikidata": null
+		},
+		{
+			"xml_element": "EmblemDescription",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "emblem/iad_description/text",
+			"description": "Description of the Academy's emblem",
+			"attribute": null,
+			"schema": "description",
+			"wikidata": null
+		},
+		{
+			"xml_element": "EmblemImage",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "emblem/iad_image/id",
+			"description": "image_id for the emblem",
+			"attribute": "ImageId",
+			"schema": "image",
+			"wikidata": "P158"
+		},
+		{
+			"xml_element": "EmblemImage",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "emblem/iad_image/filename",
+			"description": "filename for the emblem",
+			"attribute": null,
+			"schema": "image",
+			"wikidata": "P158"
+		},
+		{
+			"xml_element": "Motto",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "motto/text",
+			"description": "motto",
+			"attribute": null,
+			"schema": "slogan",
+			"wikidata": "P1546"
+		},
+		{
+			"xml_element": "StartDate",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "period/start_date",
+			"description": "start_time",
+			"attribute": null,
+			"schema": "startDate",
+			"wikidata": "P580"
+		},
+		{
+			"xml_element": "EndDate",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "period/end_date",
+			"description": "end_time",
+			"attribute": null,
+			"schema": "endDate",
+			"wikidata": "P582"
+		},
+		{
+			"xml_element": "Notes",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "references/iad_notes",
+			"description": "references",
+			"attribute": null,
+			"schema": null,
+			"wikidata": "P2860"
+		},
+		{
+			"xml_element": "ItacPersonItem",
+			"xml_path": "ItacAcademyItem",
+			"json_path": "has_member/iad_person_id",
+			"description": "has_member",
+			"attribute": "PersonId",
+			"schema": null,
+			"wikidata": "P527"
+		},
+		{
+			"xml_element": "Nickname",
+			"xml_path": "ItacAcademyItem/ItacPersonItem",
+			"json_path": "has_member/pseudonym/label",
+			"description": "pseudonym within the academic circle",
+			"attribute": null,
+			"schema": null,
+			"wikidata": "P742"
+		},
+		{
+			"xml_element": "Motto",
+			"xml_path": "ItacAcademyItem/ItacPersonItem",
+			"json_path": "has_member/motto/text",
+			"description": "personal motto within the academic circle",
+			"attribute": null,
+			"schema": null,
+			"wikidata": "P1546"
+		},
+		{
+			"xml_element": "PersonEmblemDescription",
+			"xml_path": "ItacAcademyItem/ItacPersonItem",
+			"json_path": "has_member/emblem/description/text",
+			"description": "personal emblem within the academic circle",
+			"attribute": null,
+			"schema": "description",
+			"wikidata": null
+		},
+		{
+			"xml_element": "PersonEmblemImage",
+			"xml_path": "ItacAcademyItem/ItacPersonItem",
+			"json_path": "has_member/emblem/image/iad_image_id",
+			"description": "personal emblem id within the academic circle",
+			"attribute": null,
+			"schema": "image",
+			"wikidata": "P158"
+		}
 
+		],
+	"person": [
+				{
+			"xml_element": "ItacPersonItem",
+			"xml_path": "root",
+			"json_path": "iad_person_id",
+			"description": "IAD ID for person",
+			"attribute": "PersonId",
+			"schema": "identifier",
+			"wikidata": null
+		},
+		{
+			"xml_element": "ItacPersonItem",
+			"xml_path": "root",
+			"json_path": "iad_record_id",
+			"description": "IAD record ID for person",
+			"attribute": "RecordId",
+			"schema": "identifier",
+			"wikidata": null
+		},
+		{
+			"xml_element": "Surname",
+			"xml_path": "ItacPersonItem",
+			"json_path": "family_name/label",
+			"description": "Surname of person",
+			"attribute": null,
+			"schema": "familyName",
+			"wikidata": "P734"
+		},
+		{
+			"xml_element": "Surname",
+			"xml_path": "ItacPersonItem",
+			"json_path": "name/label",
+			"description": "Forename of person",
+			"attribute": null,
+			"schema": "name",
+			"wikidata": "P2561"
+		},
+		{
+			"xml_element": "Gender",
+			"xml_path": "ItacPersonItem",
+			"json_path": "gender/label",
+			"description": "Gender of person",
+			"attribute": null,
+			"schema": "gender",
+			"wikidata": "P21"
+		},
+		{
+			"xml_element": "PersonalTitle",
+			"xml_path": "ItacPersonItem",
+			"json_path": "title/label",
+			"description": "Personal title of person",
+			"attribute": null,
+			"schema": null,
+			"wikidata": null
+		},
+		{
+			"xml_element": "StartDate",
+			"xml_path": "ItacPersonItem",
+			"json_path": "period/date_of_birth",
+			"description": "date of birth",
+			"attribute": null,
+			"schema": "birthDate",
+			"wikidata": "P569"
+		},
+		{
+			"xml_element": "EndDate",
+			"xml_path": "ItacPersonItem",
+			"json_path": "period/date_of_death",
+			"description": "death date",
+			"attribute": null,
+			"schema": "deathDate",
+			"wikidata": "P570"
+		},
+		{
+			"xml_element": "Nationality",
+			"xml_path": "ItacPersonItem",
+			"json_path": "country_of_citizenship/iad_nationality_id",
+			"description": "IAD ID Nationality",
+			"attribute": "NationalityId",
+			"schema": null,
+			"wikidata": null
+		},
+		{
+			"xml_element": "Nationality",
+			"xml_path": "ItacPersonItem",
+			"json_path": "country_of_citizenship/label",
+			"description": "IAD Nationality label as adjective",
+			"attribute": null,
+			"schema": "nationality",
+			"wikidata": "P27"
+		},
+		{
+			"xml_element": "Role",
+			"xml_path": "ItacPersonItem",
+			"json_path": "role/label",
+			"description": "IAD role/position held for person",
+			"attribute": null,
+			"schema": "roleName",
+			"wikidata": "P39"
+		}
+		
+	],
+	"work": [
+				{
+			"xml_element": "ItacWorkItem",
+			"xml_path": "root",
+			"json_path": "iad_work_id",
+			"description": "IAD ID for work",
+			"attribute": "WorkId",
+			"schema": "identifier",
+			"wikidata": null
+		},
+		{
+			"xml_element": "ItacWorkItem",
+			"xml_path": "root",
+			"json_path": "iad_record_id",
+			"description": "IAD record ID for work",
+			"attribute": "RecordId",
+			"schema": "identifier",
+			"wikidata": null
+		},
+		{
+			"xml_element": "ShortTitle",
+			"xml_path": "ItacWorkItem",
+			"json_path": "label/iad_short_title",
+			"description": "IAD short title for work",
+			"attribute": null,
+			"schema": "title",
+			"wikidata": "P1476"
+		},
+		{
+			"xml_element": "LongTitle",
+			"xml_path": "ItacWorkItem",
+			"json_path": "label/iad_long_title",
+			"description": "IAD long title for work",
+			"attribute": null,
+			"schema": "title",
+			"wikidata": "P1476"
+		},
+		{
+			"xml_element": "ItacAcademyItem",
+			"xml_path": "ItacWorkItem",
+			"json_path": "academy/iad_academy_id",
+			"description": "IAD ID for academy related to work",
+			"attribute": "AcademyId",
+			"schema": "identifier",
+			"wikidata": null,
+		},
+		{
+			"xml_element": "ItacAcademyItem",
+			"xml_path": "ItacWorkItem",
+			"json_path": "academy/iad_name",
+			"description": "IAD name for academy related to work",
+			"attribute": null,
+			"schema": "name",
+			"wikidata": null,
+		},
+		{
+			"xml_element": "City",
+			"xml_path": "ItacWorkItem",
+			"json_path": "location/iad_city_id",
+			"description": "IAD ID city of publication",
+			"attribute": "CityId",
+			"schema": "identifier",
+			"wikidata": null,
+		},
+		{
+			"xml_element": "PublicationYear",
+			"xml_path": "ItacWorkItem",
+			"json_path": "period/iad_publication_year",
+			"description": "IAD date of publication",
+			"attribute": null,
+			"schema": "datePublished",
+			"wikidata": "P577"
+		},
+		{
+			"xml_element": "Shelfmark",
+			"xml_path": "ItacWorkItem",
+			"json_path": "shelfmark/iad_shelfmark",
+			"description": "IAD shelfmark of publication",
+			"attribute": null,
+			"schema": "identifier",
+			"wikidata": "P217"
+		},
+		{
+			"xml_element": "Subjects",
+			"xml_path": "ItacWorkItem",
+			"json_path": "subjects/iad_subjects",
+			"description": "IAD subjects of publication",
+			"attribute": null,
+			"schema": "about",
+			"wikidata": "P921"
+		},
+		{
+			"xml_element": "Language",
+			"xml_path": "ItacWorkItem",
+			"json_path": "language/iad_language",
+			"description": "IAD language of publication",
+			"attribute": null,
+			"schema": "language",
+			"wikidata": "P407"
+		},
+		{
+			"xml_element": "Illustration",
+			"xml_path": "ItacWorkItem",
+			"json_path": "language/iad_language",
+			"description": "Types of illustrations, pipe separated",
+			"attribute": null,
+			"separator": "|",
+			"schema": "language",
+			"wikidata": "P407"
+		},
+	]
 
-
-]
+}

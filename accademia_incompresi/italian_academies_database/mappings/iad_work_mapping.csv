@@ -1,0 +1,36 @@
+xml_element,xml_path,json_path,description,type,is_list,attribute,separator,schema.org,wikidata_pid
+,,type,,,FALSE,,,Class,P31
+ItacWorkItem,root,identifier/iad_work_id,IAD ID for work,identifier,FALSE,WorkId,,identifier,
+ItacWorkItem,root,identifier/iad_record_id,IAD record ID for work,identifier,FALSE,RecordId,,identifier,
+ShortTitle,ItacWorkItem,label/iad_short_title,IAD short title for work,metadata,FALSE,,,title,P1476
+LongTitle,ItacWorkItem,label/iad_long_title,IAD long title for work,metadata,FALSE,,,title,P1476
+,,academy,,,TRUE,,,,
+ItacAcademyItem,ItacWorkItem,academy/iad_academy_id,IAD ID for academy related to work,,FALSE,AcademyId,,identifier,
+ItacAcademyItem,ItacWorkItem,academy/iad_label,IAD name for academy related to work,,FALSE,,,name,
+City,ItacWorkItem,location/iad_city_id,IAD ID city of publication,metadata,FALSE,CityId,,identifier,
+PublicationYear,ItacWorkItem,publication_date/iad_publication_year,IAD date of publication,metadata,FALSE,,,datePublished,P577
+Shelfmark,ItacWorkItem,shelfmark/iad_shelfmark,IAD shelfmark of publication,metadata,TRUE,,|,identifier,P217
+Subjects,ItacWorkItem,subjects/iad_subject,IAD subjects of publication,metadata,TRUE,,|,about,P921
+Language,ItacWorkItem,language/iad_language,IAD language of publication,metadata,TRUE,,|,language,P407
+Illustration,ItacWorkItem,illustration/iad_illustration,"Types of illustrations, pipe separated",metadata,TRUE,,|,language,P407
+Pagination,ItacWorkItem,pagination/iad_pagination,,metadata,TRUE,,;,,
+Marginalia,ItacWorkItem,marginalia/iad_marginalia/text,,metadata,FALSE,,,,
+Notes,ItacWorkItem,notes/iad_notes/text,,metadata,FALSE,,,description,
+Censors ,ItacWorkItem,censor,,agent,TRUE,,,,
+ItacPersonItem,ItacWorkItem/Censors,censor/iad_person_id,,,FALSE,,,,
+CensorsAgreement,ItacWorkItem,censor_agreement,,,FALSE,,,,
+Dedicatees,ItacWorkItem,dedicatee,,agent,TRUE,,,,
+ItacPersonItem,ItacWorkItem/Dedicatees,dedicatee/iad_person_id,,,FALSE,,,,
+Editors,ItacWorkItem,editor,,agent,TRUE,,,,
+ItacPersonItem,ItacWorkItem/Editors,editor/iad_person_id,,,FALSE,,,,
+Artists,ItacWorkItem,artist,,agent,TRUE,,,,
+ItacPersonItem,ItacWorkItem/Artists,artist/iad_person_id,,,FALSE,,,,
+Illustrators,ItacWorkItem,illustrator,,agent,TRUE,,,,
+ItacPersonItem,ItacWorkItem/Illustrators,illustrator/iad_person_id,,,FALSE,,,,
+Printers,ItacWorkItem,printer,,agent,TRUE,,,,
+ItacPersonItem,ItacWorkItem/Printers,printer/iad_person_id,,,FALSE,,,,
+PrinterOrnament,ItacWorkItem,printer_ornament/iad_printiner_ornament/text,,metadata,FALSE,,,,
+TitlePageImage,ItacWorkItem,title_page/iad_image_id,,image,FALSE,ImageId,,,
+TitlePageImage,ItacWorkItem,title_page/iad_filename,,image,FALSE,,,,
+ColophonImage,ItacWorkItem,colophon/iad_image_id,,image,FALSE,ImageId,,,
+ColophonImage,ItacWorkItem,colophon/iad_filename,,image,FALSE,,,,

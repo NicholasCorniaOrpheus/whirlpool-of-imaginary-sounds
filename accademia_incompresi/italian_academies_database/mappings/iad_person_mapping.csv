@@ -1,0 +1,15 @@
+xml_element,xml_path,json_path,description,type,is_list,attribute,separator,schema.org,wikidata_pid
+,,type,,,FALSE,,,Class,P31
+ItacPersonItem,root,identifier/iad_person_id,IAD ID for person,identifier,FALSE,PersonId,,identifier,
+ItacPersonItem,root,identifier/iad_record_id,IAD record ID for person,identifier,FALSE,RecordId,,identifier,
+Surname,ItacPersonItem,family_name/iad_label,Surname of person,metadata,FALSE,,,familyName,P734
+Forename,ItacPersonItem,name/iad_label,Forename of person,metadata,FALSE,,,name,P2561
+Gender,ItacPersonItem,gender/iad_label,Gender of person,metadata,FALSE,,,gender,P21
+PersonalTitle,ItacPersonItem,title/iad_label,Personal title of person,metadata,FALSE,,,,
+StartDate,ItacPersonItem,date_of_birth/iad_start_date,date of birth,metadata,FALSE,,,birthDate,P569
+EndDate,ItacPersonItem,date_of_death/iad_end_date,death date,metadata,FALSE,,,deathDate,P570
+,,country_of_citizenship,,metadata,TRUE,,,,
+Nationality,ItacPersonItem,country_of_citizenship/iad_nationality_id,IAD ID Nationality,,FALSE,NationalityId,,identifier,
+Nationality,ItacPersonItem,country_of_citizenship/iad_nationality_label,IAD Nationality label as adjective,,FALSE,,,nationality,P27
+,,role,,,TRUE,,,,
+Role,ItacPersonItem,role/iad_role,IAD role/position held for person,,TRUE,,|,roleName,P39

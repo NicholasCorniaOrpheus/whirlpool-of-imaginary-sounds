@@ -1,0 +1,25 @@
+xml_element,xml_path,json_path,description,type,is_list,attribute,separator,schema.org,wikidata_qid
+,,type,,,FALSE,,,Class,P31
+ItacAcademyItem,root,identifier/iad_academy_id,IAD ID for the academy,identifier,FALSE,AcademyId,,identifier,
+ItacAcademyItem,root,identifier/iad_record_id,record_id,identifier,FALSE,RecordId,,identifier,
+Name,ItacAcademyItem,label/iad_label,main label for the academy,metadata,FALSE,,,name,
+AlternativeName,ItacAcademyItem,aliases/iad_aliases,aliases,metadata,TRUE,,,alternateName,
+,,location,,metadata,FALSE,,,,
+City,ItacAcademyItem,location/iad_city_id,IAD city id,,FALSE,CityId,,identifier,
+CityItalianName,ItacAcademyItem/City,location/iad_label/it,Italian name for the city,,FALSE,,,alternateName,
+CityEnglishName,ItacAcademyItem/City,location/iad_label/en,English name for the city,,FALSE,,,name,
+CityLatinName,ItacAcademyItem/City,location/iad_label/la,Latin name for the city,,FALSE,,,alternateName,
+,,emblem,,image,FALSE,,,,
+EmblemDescription,ItacAcademyItem,emblem/iad_description/text,Description of the Academy's emblem,,FALSE,,,description,
+EmblemImage,ItacAcademyItem,emblem/iad_image/id,image_id for the emblem,,FALSE,ImageId,,image,P158
+EmblemImage,ItacAcademyItem,emblem/iad_image/filename,filename for the emblem,,FALSE,,,image,P158
+Motto,ItacAcademyItem,motto/iad_motto/text,motto,metadata,FALSE,,,slogan,P1546
+StartDate,ItacAcademyItem,inception,start_time,metadata,FALSE,,,startDate,P571
+EndDate,ItacAcademyItem,dissolved,end_time,metadata,FALSE,,,endDate,P576
+Notes,ItacAcademyItem,references/iad_notes,references,reference,FALSE,,,description,P2860
+,,has_member,,,TRUE,,\n,,
+ItacPersonItem,ItacAcademyItem,has_member/iad_person_id,has_member,agent,FALSE,PersonId,,member,P527
+Nickname,ItacAcademyItem/ItacPersonItem,has_member/iad_pseudonym/label,pseudonym within the academic circle,,FALSE,,,alternateName,P742
+Motto,ItacAcademyItem/ItacPersonItem,has_member/iad_motto/text,personal motto within the academic circle,,FALSE,,,slogan,P1546
+PersonEmblemDescription,ItacAcademyItem/ItacPersonItem,has_member/emblem/iad_description/text,personal emblem within the academic circle,,FALSE,,,description,
+PersonEmblemImage,ItacAcademyItem/ItacPersonItem,has_member/emblem/image/iad_image_id,personal emblem id within the academic circle,,FALSE,,,image,P158
