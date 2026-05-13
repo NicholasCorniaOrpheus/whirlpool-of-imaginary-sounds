@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="400" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+	<circle cx="200" cy="200" r="160" stroke="black" fill="transparent" stroke-width="5"/>
+
+	<!-- sin(60 degrees) = 0.86602540378, cos(60 degrees) = 0.5 -->
+
+	<!-- triagle inscribed vertices: top: (cx,cy-r) , right: (cx+r*sin(60),cy+r*cos(60)) , left: (cx-r*sin(60),cy+r*cos(60)) -->
+
+	<polygon points="200,40 338.5641,280 61.4360,280" stroke="black" fill="transparent" stroke-width="5"/>
+  
+
+</svg>
