@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 240 240" width="240mm" height="240mm" 
+<svg viewBox="0mm 0mm 290mm 290mm" width="290mm" height="290mm" 
      xmlns="http://www.w3.org/2000/svg">
 
   <!-- Document Title -->
   <title>Collection of 36 tiles 40mm</title>
-  
-  <!-- Metadata for laser cutter -->
-  <defs>
-    <style>
-      .cut-line { stroke: #000000; stroke-width: 0.5mm; fill: none; }
-      .board-border { stroke: #000000; stroke-width: 1mm; fill: none; }
-    </style>
-  </defs>
-
   <!-- Board background -->
-  <rect x="0" y="0" width="240" height="240" class="board-border"/>
+  <!--<rect x="0" y="0" width="290" height="290" class="board-border"/> -->
+  <line x1="0" y1="5mm" x2="290mm" y2="5mm" stroke="#000000" stroke-width="10mm"/>
+  <line x1="0" y1="285mm" x2="290mm" y2="285mm" stroke="#000000" stroke-width="10mm"/>
+  <line x1="5mm" y1="0" x2="5mm" y2="290mm" stroke="#000000" stroke-width="10mm"/>
+  <line x1="285mm" y1="0" x2="285mm" y2="290mm" stroke="#000000" stroke-width="10mm"/>
   
   <!-- Horizontal grid lines (spacing/cut lines) -->
-  <line x1="0" y1="40" x2="240" y2="40" class="cut-line"/>
-  <line x1="0" y1="80" x2="240" y2="80" class="cut-line"/>
-  <line x1="0" y1="120" x2="240" y2="120" class="cut-line"/>
-  <line x1="0" y1="160" x2="240" y2="160" class="cut-line"/>
-  <line x1="0" y1="200" x2="240" y2="200" class="cut-line"/>
+  <line x1="0" y1="52.5mm" x2="290mm" y2="52.5mm" stroke="#000000" stroke-width="2.5mm"/>
+  <line x1="0" y1="97.5mm" x2="290mm" y2="97.5mm" stroke="#000000" stroke-width="2.5mm"/>
+  <line x1="0" y1="142.5mm" x2="290mm" y2="142.5mm" stroke="#000000" stroke-width="2.5mm"/>
+  <line x1="0" y1="187.5mm" x2="290mm" y2="187.5mm" stroke="#000000" stroke-width="2.5mm"/>
+  <line x1="0" y1="232.5mm" x2="290mm" y2="232.5mm" stroke="#000000" stroke-width="2.5mm"/>
+
   
   <!-- Vertical grid lines (spacing/cut lines) -->
-  <line x1="40" y1="0" x2="40" y2="240" class="cut-line"/>
-  <line x1="80" y1="0" x2="80" y2="240" class="cut-line"/>
-  <line x1="120" y1="0" x2="120" y2="240" class="cut-line"/>
-  <line x1="160" y1="0" x2="160" y2="240" class="cut-line"/>
-  <line x1="200" y1="0" x2="200" y2="240" class="cut-line"/>
+  <line x1="52.5mm" y1="0" x2="52.5mm" y2="290mm" stroke="#000000" stroke-width="2.5mm"/>
+  <line x1="97.5mm" y1="0" x2="97.5mm" y2="290mm" stroke="#000000" stroke-width="2.5mm"/>
+  <line x1="142.5mm" y1="0" x2="142.5mm" y2="290mm" stroke="#000000" stroke-width="2.5mm"/>
+  <line x1="187.5mm" y1="0" x2="187.5mm" y2="290mm" stroke="#000000" stroke-width="2.5mm"/>
+  <line x1="232.5mm" y1="0" x2="232.5mm" y2="290mm" stroke="#000000" stroke-width="2.5mm"/>
 
 
 

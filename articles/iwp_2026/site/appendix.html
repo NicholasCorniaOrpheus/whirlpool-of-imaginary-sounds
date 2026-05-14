@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ludic Musicking – Dungeon Delving Rules</title>
+    <style>
+        body {
+            background-color: #5E605E;
+            color: #f9fbfa;
+            font-family: 'Crimson Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            font-size: 1.5em;
+            line-height: 1.6;
+            max-width: 1024px;
+            margin: 0 auto;
+            padding: 10px;
+        }
+
+        .article-header {
+            text-align: center;
+            margin-bottom: 2em;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 1.5em;
+        }
+
+        .article-title {
+            font-family: 'Sofia Pro Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            color: #f4b942;
+            font-size: 2.5em;
+            margin: 0 0 0.5em 0;
+        }
+
+        .article-authors {
+            font-size: 1.1em;
+            margin-bottom: 0.5em;
+            color: #f9fbfa;
+        }
+
+        .author-name {
+            font-weight: bold;
+        }
+
+        .author-affiliation {
+            font-size: 0.95em;
+            color: #f9fbfa;
+            /* font-style: italic; */
+        }
+
+        .author-email {
+            font-size: 0.9em;
+            color: #f9fbfa;
+        }
+
+        .article-address {
+            font-size: 0.95em;
+            color: #f9fbfa;
+            margin-bottom: 0.5em;
+        }
+
+        .article-date {
+            font-size: 0.95em;
+            color: #f9fbfa;
+            margin-bottom: 1em;
+        }
+
+        .article-abstract {
+            background-color: #5E605E;
+            border-left: 4px solid #f4b942;
+            padding: 1em;
+            margin-bottom: 2em;
+            border-radius: 3px;
+        }
+
+        .abstract-title {
+            font-weight: bold;
+            color: #f4b942;
+            font-size: 2em;
+            margin-bottom: 0.5em;
+            font-family: 'Sofia Pro Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        }
+
+        h1 {
+            font-family: 'Sofia Pro Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            color: #f4b942;
+            font-size: 2.5em;
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 0.3em;
+        }
+
+        h2 {
+            font-family: 'Sofia Pro Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            color: #f4b942;
+            font-size: 2em;
+            margin-top: 1.3em;
+            margin-bottom: 0.4em;
+        }
+
+        h3 {
+            font-family: 'Sofia Pro Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            color: #f4b942;
+            font-size: 1.75em;
+            margin-top: 1.3em;
+            margin-bottom: 0.4em;
+        }
+
+        p {
+            font-family: 'Crimson Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            margin-bottom: 1em;
+            font-size: 1.2em;
+        }
+
+        li {
+            font-family: 'Crimson Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            margin-bottom: 1em;
+            font-size: 1em;
+        }
+
+        .csl-entry{
+            font-family: 'Crimson Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            margin-bottom: 1em;
+            font-size: 1em;
+        }
+
+        aside p{
+            font-family: 'Crimson Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            margin-bottom: 1em;
+            font-size: 1em;
+        }
+
+        code {
+            background-color: #330009;
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+            font-family: 'Sofia Sans', monospace;
+        }
+
+        table {
+          table-layout: fixed;
+          width: 90%;
+          margin: 10px auto;
+          border-collapse: collapse;
+          border: 2px solid #f4b942 ;
+        }
+
+        th,
+        td {
+          padding: 0.6em;
+          border-collapse: collapse;
+          border: 2px solid #f4b942 ;
+          align: center;
+        }
+
+        pre {
+            background-color: #f4f4f4;
+            padding: 1em;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+
+        blockquote {
+            border-left: 4px solid #f4b942;
+            margin-left: 0;
+            padding-left: 1em;
+            color: #f9fbfa;
+            font-style: italic;
+        }
+
+        a {
+            color: #DBECDC;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="article-header">
+                <h1 class="article-title">Ludic Musicking – Dungeon
+Delving Rules</h1>
+        
+                <div class="article-authors">
+                        <div>
+                <span class="author-name">Nicholas Cornia</span>
+                                                <div class="author-affiliation">Orpheus
+Instituut</div>
+                                                <div class="author-email">nicholas.cornia@orpheusinstituut.be</div>
+                            </div>
+                    </div>
+        
+                <div class="article-address">Ghent, Belgium</div>
+        
+                <div class="article-date">2026</div>
+            </div>
+
+    
+    <h1 id="table-of-content">Table of Content</h1>
+    <ol type="1">
+    <li><a href="#introduction">Setup</a></li>
+    <li><a href="#player-turn">Player Turn</a></li>
+    <li><a href="#end-of-game">End-of-Game</a></li>
+    <li><a href="#actions">Actions</a></li>
+    <li><a href="#wheel">The Wheel</a></li>
+    <li><a href="#effects">Effects</a></li>
+    <li><a href="#bibliography">Bibliography</a></li>
+    <li><a href="playthrough.html">Playthrough Recording</a></li>
+    <li><a href="citations.html">List of Citations and Dungeon
+    Rooms</a></li>
+    <li><a href="index.html">Essay</a></li>
+    </ol>
+    <h1 id="dungeon-delving-rules">Dungeon Delving Rules</h1>
+    <p>Playing material, including Rooms booklet, decans tiles and grid,
+    is available in PDF format at this <a
+    href="https://github.com/NicholasCorniaOrpheus/whirlpool-of-imaginary-sounds/raw/refs/heads/main/articles/iwp_2026/ludic_musicking_printing_material.zip">link</a>.</p>
+    <h2 id="setup"><a id="setup"></a>Setup</h2>
+    <p>To experience this essay you will need <a href="#fn1"
+    class="footnote-ref" id="fnref1"
+    role="doc-noteref"><sup>1</sup></a>:</p>
+    <ul>
+    <li>Pen and paper, to record information of your journey, such as
+    hints gathered through the <strong>Scout</strong> action.</li>
+    <li>Three six-sided dice (2D6), preferably of different colors. Two
+    of them will be used for <strong>The Wheel</strong> mechanism, while
+    the last one will serve during the <strong>Scout</strong>
+    action.</li>
+    <li>A 6 x 6 grid, either drawn or printed. Rows are labelled with
+    letters from A to F, while digits from 1 to 6 are assigned to
+    columns.</li>
+    <li>36 decans tiles, available as printable PDF or individual SVG
+    files.</li>
+    <li>10 wall markers of grid length 2.</li>
+    <li>A set of tokens to represent the party’s <strong>Karma</strong>,
+    <strong>Visit</strong>, <strong>Secret Key</strong>, and
+    <strong>Action Points</strong>.</li>
+    <li>One pawn, representing your adventuring party’s position in the
+    dungeon.</li>
+    <li>A printed or digital version of the <strong>Rooms</strong>
+    content, Player’s Turn and Wheel Random Table.</li>
+    </ul>
+    <p>Before starting to play:</p>
+    <ul>
+    <li>Assign yourself <strong>Karma</strong> tokens. The lesser
+    tokens, the harder the game will be. We advice for a number between
+    2 (hard) and 4 (easy).</li>
+    <li>Place randomly five wall markers for each row, and as much of
+    them for the columns.</li>
+    <li>Randomly distribute the 36 decans tiles on the grid face
+    down.</li>
+    </ul>
+    <h2 id="player-turn"><a id="player-turn"></a>Player Turn</h2>
+    <ol type="1">
+    <li>Spend 4 action points in order to perform a combination of
+    <strong>Advance</strong> and <strong>Scout</strong> actions.</li>
+    <li>Read the <strong>Room</strong> content of the tile where your
+    pawn has landed.</li>
+    <li>Place a <strong>Visit</strong> token on the tile. If the number
+    of piled tokens reaches three, the <strong>Dragon</strong> awakens
+    and the game is over.</li>
+    <li>The <strong>Wheel</strong> activates, moving the walls based on
+    the result of the previous turn. Ignore this step on the first
+    turn.</li>
+    <li>Roll to determine the following move of <strong>The
+    Wheel</strong> according to the 2D6 Random Table.</li>
+    </ol>
+    <h2 id="end-of-game"><a id="end-of-game"></a>End-of-game</h2>
+    <p>The game ends in one of the following circumstances:</p>
+    <ul>
+    <li>The adventurers have collected 3 <strong>Artefact
+    Fragments</strong>. You win.</li>
+    <li>If the player visits the same cell three times, the guarding
+    <strong>Dragon</strong> awakes and feasts on the flesh of the
+    adventurers. Game over.</li>
+    <li>If <strong>Karma</strong> reaches 0 game is over.</li>
+    </ul>
+    <h2 id="actions"><a id="actions"></a>Actions</h2>
+    <p>At the beginning of each turn, the player receives 4
+    <strong>Action Points</strong> to be spend for any combination of
+    the <strong>Advance</strong> and <strong>Scout</strong> actions.</p>
+    <h3 id="advance">Advance</h3>
+    <p>The player moves the pawn representing the adventuring party to
+    an adjacent tile. A tile is adjacent if the distance between the
+    source and destination is one and there are no walls impeding the
+    passage. Diagonal moves are not allowed.</p>
+    <figure>
+    <img src="./assets/advance.png" height="500"
+    alt="Example of the Advance action on the grid. The arrows indicate the adjacent cells." />
+    <figcaption aria-hidden="true">Example of the Advance action on the
+    grid. The arrows indicate the adjacent cells.</figcaption>
+    </figure>
+    <h3 id="scout">Scout</h3>
+    <p>Roll a D6. If the result is higher than your current
+    <strong>Karma</strong> value you can reveal the content of an
+    adjacent <strong>Room</strong>. Note that you may use a
+    <strong>Secret Key</strong> in combination with this action in order
+    to gain information of a tile behind a wall.</p>
+    <h2 id="the-wheel"><a id="wheel"></a>The Wheel</h2>
+    <p>Combinatorial wheels, <em>volvelles</em>, <em>gorghi
+    d’artificio</em> of Early Modernity have been considered precursors
+    of modern computers, paper machines capable of storing, processing
+    and creating knowledge through ingenious mechanical devices and
+    complex symbolic mappings<a href="#fn2" class="footnote-ref"
+    id="fnref2" role="doc-noteref"><sup>2</sup></a>. In order to praise
+    their elegance as <em>devices of wonder</em> <span class="citation"
+    data-cites="staffordDevicesWonderWorld2002">(Stafford 2002)</span> I
+    have introduced an additional element to the dungeon delving
+    experience: <strong>The Wheel</strong>. The dungeon is an inimical
+    place, and it has a power of its own in order to banish and crush
+    unwelcome visitors by rearranging its spaciality in order to
+    confuse, constrain and obliterate <span class="citation"
+    data-cites="roastPreliminaryGeographyMegaDungeon2023">(Roast
+    2023)</span>.</p>
+    <p>In order to simulate this constant menace, at the end of each
+    player’s turn, two six-sided dice (2D6) are rolled in order to
+    determine the behavior of <strong>The Wheel</strong> mechanism for
+    the next adventuring turn. The first result refers to which row a
+    wall is going to move, while the second indicates on which column a
+    wall will be activated.</p>
+    <h4 id="wheel-2d6-random-table3">Wheel 2d6 Random Table<a
+    href="#fn3" class="footnote-ref" id="fnref3"
+    role="doc-noteref"><sup>3</sup></a></h4>
+    <table>
+    <thead>
+    <tr class="header">
+    <th>d6</th>
+    <th>column</th>
+    <th>row</th>
+    <th>movement</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td>1</td>
+    <td>1</td>
+    <td>A</td>
+    <td>one step away from the pawn</td>
+    </tr>
+    <tr class="even">
+    <td>2</td>
+    <td>2</td>
+    <td>B</td>
+    <td>one step away the pawn</td>
+    </tr>
+    <tr class="odd">
+    <td>3</td>
+    <td>3</td>
+    <td>C</td>
+    <td>one step towards the pawn</td>
+    </tr>
+    <tr class="even">
+    <td>4</td>
+    <td>4</td>
+    <td>D</td>
+    <td>one step towards from the pawn</td>
+    </tr>
+    <tr class="odd">
+    <td>5</td>
+    <td>5</td>
+    <td>E</td>
+    <td>one step towards the pawn</td>
+    </tr>
+    <tr class="even">
+    <td>6</td>
+    <td>None</td>
+    <td>None</td>
+    <td>player chooses the direction</td>
+    </tr>
+    </tbody>
+    </table>
+    <p>Note that the current position of the pawn (when the dice of
+    <strong>The Wheel</strong> mechanism are rolled) determine if a wall
+    moves away or towards it. The following figure provides a practical
+    example of the procedure.</p>
+    <figure>
+    <img src="./assets/wheel.png" height="500"
+    alt="Example of the Wheel. The combined result of the two dice is interpreted according to the aforementioned table." />
+    <figcaption aria-hidden="true">Example of the Wheel. The combined
+    result of the two dice is interpreted according to the
+    aforementioned table.</figcaption>
+    </figure>
+    <h2 id="effects"><a id="effects"></a>Effects</h2>
+    <p>Dungeon rooms are not just filled with primordial astrological
+    symbols and witty citations about playful thinking. Wandering
+    monsters, hazards and wondrous items can be found within these
+    inhospitable chambers.</p>
+    <p>After reading the <strong>Room</strong>, resolve the
+    <strong>Effect</strong> associated with the current location of your
+    adventuring party on the grid.</p>
+    <h3 id="wandering-monster">Wandering Monster</h3>
+    <p>A foul creature is facing the party. Loose one
+    <strong>Karma</strong>.</p>
+    <h3 id="hazard">Hazard</h3>
+    <p>A pit trap or similar device used to hinder treasure robbers.
+    Loose one <strong>Karma</strong> or let <strong>The Wheel</strong>
+    activate without notice. After resolving point 4 of the Player’s
+    Turn (by activating <strong>The Wheel</strong> according to the
+    previous dice roll), roll again 2D6 and resolve immediately the
+    result according to the Random Table.</p>
+    <h3 id="secret-key">Secret Key</h3>
+    <p>For the current turn the pawn can get through an adjacent wall,
+    making the tiles behind it adjacent. Remove the token once you have
+    used it.</p>
+    <h3 id="treasure">Treasure</h3>
+    <p>Gain one <strong>Karma</strong> or an extra <strong>Action
+    Point</strong> to be used during the next turn. Note that you can
+    keep up to five <strong>Karma</strong>.</p>
+    <h3 id="artefact-fragment">Artefact Fragment</h3>
+    <p>The adventurers have retrieved one piece of the precious artefact
+    they are seeking.</p>
+    <h1 class="unnumbered" id="bibliography">Bibliography</h1>
+    <div id="refs" class="references csl-bib-body hanging-indent"
+    role="list">
+    <div id="ref-bolzoni2005macchine" class="csl-entry" role="listitem">
+    Bolzoni, Lina. 2005. <span>“Macchine per la memoria e per
+    l’invenzione fra Quattro e Cinquecento.”</span> In <em>Machina. XI
+    Colloquio Internazionale. Roma, 8-10 gennaio 2004</em>, 274–97.
+    Firenze: Leo S. Olschki Editore.
+    </div>
+    <div id="ref-bolzoniLettoreCreativoPercorsi2012" class="csl-entry"
+    role="listitem">
+    ———. 2012. <em>Il Lettore Creativo: Percorsi Cinquecenteschi Fra
+    Memoria, Gioco, Scrittura</em>. Passaggi e Percorsi. Guida. <a
+    href="https://www.torrossa.com/en/resources/an/4237138">https://www.torrossa.com/en/resources/an/4237138</a>.
+    </div>
+    <div id="ref-crupiLibriAnimatiFra2024" class="csl-entry"
+    role="listitem">
+    Crupi, Gianfranco, ed. 2024. <em>Libri animati fra studio, ricerca,
+    tecnica e creazione</em>. Milano: Ledizioni.
+    </div>
+    <div id="ref-ecoDallalberoLabirintoStudi2017" class="csl-entry"
+    role="listitem">
+    Eco, Umberto. 2017. <em>Dall’albero al labirinto. Studi storici sul
+    segno e l’interpretazione</em>. La Nave di Teseo.
+    </div>
+    <div id="ref-kupferVisualizationKnowledgeMedieval2020"
+    class="csl-entry" role="listitem">
+    Kupfer, Marcia Ann, Adam S. Cohen, and Jeffrey Howard Chajes. 2020.
+    <em>The Visualization of Knowledge in Medieval and Early Modern
+    <span>Europe</span></em>. Studies in the Visual Cultures of the
+    <span>Middle Ages</span>, vol. 16. Turnhout: Brepols.
+    </div>
+    <div id="ref-roastPreliminaryGeographyMegaDungeon2023"
+    class="csl-entry" role="listitem">
+    Roast, Asa. 2023. <span>“A <span>Preliminary Geography</span> of the
+    (<span>Mega</span>)<span>Dungeon Spatial Practice</span> and
+    <span>Tabletop Role-Playing Games</span>: <span>Spatial
+    Practice</span> and <span>Tabletop Role-Playing
+    Games</span>.”</span> <em>Magazén</em> 4 (2): 192–217. doi:<a
+    href="https://doi.org/10.30687/mag/2724-3923/2023/02/002">10.30687/mag/2724-3923/2023/02/002</a>.
+    </div>
+    <div id="ref-staffordDevicesWonderWorld2002" class="csl-entry"
+    role="listitem">
+    Stafford, Barbara M., ed. 2002. <em>Devices of wonder: From the
+    world in a box to images on a screen; this volume accomapanies the
+    exhibition ... held at the J. Paul Getty Museum, 13 November 2001 -
+    3 February 2002</em>. Los Angeles: Getty Publications.
+    </div>
+    </div>
+    <aside id="footnotes" class="footnotes footnotes-end-of-document"
+    role="doc-endnotes">
+    <hr />
+    <ol>
+    <li id="fn1"><p>All printing material will be available in PDF
+    print-friendly format at the following URL:
+    https://github.com/NicholasCorniaOrpheus/whirlpool-of-imaginary-sounds/raw/refs/heads/main/articles/iwp_2026/ludic_musicking_printing_material.zip.<a
+    href="#fnref1" class="footnote-back"
+    role="doc-backlink">↩︎</a></p></li>
+    <li id="fn2"><p>For an extensive discussion on combinatorial wheels
+    as mnemonic and combinatorial tools see <span class="citation"
+    data-cites="bolzoni2005macchine">(Bolzoni 2005)</span>, <span
+    class="citation"
+    data-cites="bolzoniLettoreCreativoPercorsi2012">(Bolzoni
+    2012)</span> and <span class="citation"
+    data-cites="ecoDallalberoLabirintoStudi2017">(Eco 2017)</span>.
+    Anthologies dedicated to these ingenious devices are <span
+    class="citation"
+    data-cites="kupferVisualizationKnowledgeMedieval2020">(Kupfer,
+    Cohen, and Chajes 2020)</span> and <span class="citation"
+    data-cites="crupiLibriAnimatiFra2024">(Crupi 2024)</span>.<a
+    href="#fnref2" class="footnote-back"
+    role="doc-backlink">↩︎</a></p></li>
+    <li id="fn3"><p>We have changed the movement corresponding to the
+    die result with respect to the playthrough recording of May 2026.
+    Moving away from the pawn is now related to die results of 1 and 2,
+    while moving towards the pawn is related to 3-5 results. Note that
+    this asymmetry is deliberate: don’t forget that the dungeon is
+    trying to confine the adventurers!<a href="#fnref3"
+    class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+    </ol>
+    </aside>
+</body>
+</html>

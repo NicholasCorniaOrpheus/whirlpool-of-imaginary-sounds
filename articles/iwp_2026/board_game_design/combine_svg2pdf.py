@@ -4,13 +4,6 @@ This script programmatically combines SVG images in a local folder to a PDF file
 The script assumes that the SVG dimensions are homogeneous!
 """
 
-"""
-for decan in decans:
-	
-
-export combined svg
-"""
-
 from svg_text2path import Text2PathConverter
 import fpdf
 import os
@@ -87,15 +80,15 @@ def get_svg_dimensions(svg_file: str, pdf_unit="cm") -> dict:
 def svgs2pdf(
     svg_files: list,
     pdf_size={"unit": "cm", "dimensions": (21, 29.7)},
-    pdf_orientation="landscape",
-    spacing={"unit": "cm", "dimensions": (0.1, 0.1)},
+    pdf_orientation="portrait",
+    spacing={"unit": "cm", "dimensions": (0.5, 0.5)},
     dpi=300,
 ):
     """
     Args:
     svg_files (list): List of paths for svg files to be combined.
     pdf_size (dict): PDF dimension according to the `fpdf` package. Default is A4 (21x29.7 cm).
-    pdf_orientation (str): PDF orientation. Default is landscape.
+    pdf_orientation (str): PDF orientation. Default is portrait.
     spacing (dict): Spacing between individual SVG pictures in the PDF. Default is 0.1x0.1 cm.
     dpi(int): Default is 300.
 
@@ -105,12 +98,18 @@ def svgs2pdf(
     # get max size of combined SVGs to determine how many PDFs are needed. I assume equal dimensions within the SVGs
     w = get_svg_dimensions(svg_files[0])["dimensions"][0] + spacing["dimensions"][0]
     h = get_svg_dimensions(svg_files[0])["dimensions"][1] + spacing["dimensions"][1]
+    print(f"Dimensions: w = {w} cm, h = {h} cm")
 
     # fit to PDF size
     w_multiplier = math.floor(pdf_size["dimensions"][0] / w)
     h_multiplier = math.floor(pdf_size["dimensions"][1] / h)
+    print(
+        f"Number of tiles per row = {w_multiplier}, tiles per column = {h_multiplier}"
+    )
 
     svg_per_page = w_multiplier * h_multiplier
+
+    print(f"Svgs per page: {svg_per_page} ")
 
     n_pages = math.ceil(len(svg_files) / svg_per_page)
 
@@ -121,35 +120,49 @@ def svgs2pdf(
     )
 
     svg_counter = 0
+    row_counter = 0
     x = 0
-    y = 0
+    y = spacing["dimensions"][1]
 
     pdf.add_page()
     for svg_file in svg_files:
+        print(f"Current file: {svg_file} ")
         svg_counter += 1
-        if svg_counter > svg_per_page:
+        row_counter += 1
+        print(f"SVG counter: {svg_counter}")
+        print(f"Row counter: {row_counter}")
+        if svg_counter >= svg_per_page:
+            print("Next page...")
+            # reset everything
             pdf.add_page()
             svg_counter = 0
+            row_counter = 0
+            x = 0
+            y = spacing["dimensions"][1]
 
         # convert svg to png
-        svg_img = cairosvg.svg2png(url=svg_file, write_to="./tmp.png", dpi=dpi)
-        if svg_counter > w_multiplier:
-            # go to next raw
+        png_filepath = "./" + svg_file.split("/")[-1].replace("svg", "png")
+        svg_img = cairosvg.svg2png(url=svg_file, write_to=png_filepath, dpi=dpi)
+        if row_counter >= w_multiplier:
+            print("Next row...")
+            # go to next row
             x = 0
             y += h
+            row_counter = 0
 
         x += spacing["dimensions"][0]
         # position the SVG image in the right position
         pdf.image(
-            "./tmp.png",
+            png_filepath,
             x=x,
             y=y,
             w=w - spacing["dimensions"][0],
             h=h - spacing["dimensions"][1],
         )
-        return pdf
+        x += w - spacing["dimensions"][0]
 
-    os.remove("./tmp.png")
+        os.remove(png_filepath)
+
     return pdf
 
 

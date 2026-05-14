@@ -35,6 +35,12 @@
      inkscape:current-layer="g8"
      units="cm"
      inkscape:document-units="cm" />
+  <!-- Border -->
+  <path
+     id="border"
+     class="board-border"
+     style="fill:none;stroke:#000000;stroke-width:0.1cm"
+     d="M 0,0 H 151.18111 V 151.18111 H 0 Z" />   
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
